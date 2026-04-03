@@ -1,0 +1,2893 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ImageAnnotator — Global Object Analysis Tool</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@300;400;500;600&display=swap');
+
+  :root {
+    --bg: #0f1117; --bg2: #161b22; --bg3: #1e2530; --bg4: #252d3a;
+    --border: #2a3444; --border2: #3a4555;
+    --accent: #4f9eff; --accent2: #2d7de0; --accent-dim: rgba(79,158,255,0.15);
+    --text: #e2e8f0; --text2: #94a3b8; --text3: #64748b;
+    --green: #34d399; --yellow: #fbbf24; --red: #f87171; --purple: #a78bfa; --orange: #fb923c;
+    --panel: 270px; --header: 44px; --thumb-h: 100px; --radius: 6px;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: 'IBM Plex Sans', sans-serif; background: var(--bg); color: var(--text); height: 100vh; overflow: hidden; display: flex; flex-direction: column; font-size: 13px; }
+
+  /* HEADER */
+  #header { height: var(--header); background: var(--bg2); border-bottom: 1px solid var(--border); display: flex; align-items: center; padding: 0 12px; gap: 10px; flex-shrink: 0; z-index: 100; }
+  .logo { font-family: 'IBM Plex Mono', monospace; font-size: 14px; font-weight: 500; color: var(--accent); letter-spacing: -0.5px; flex-shrink: 0; }
+  .logo span { color: var(--text2); }
+  .h-sep { width: 1px; height: 20px; background: var(--border); }
+  .h-btn { display: flex; align-items: center; gap: 5px; padding: 4px 10px; border-radius: var(--radius); border: 1px solid var(--border2); background: var(--bg3); color: var(--text2); cursor: pointer; font-size: 12px; font-family: inherit; transition: all .15s; white-space: nowrap; }
+  .h-btn:hover { border-color: var(--accent); color: var(--accent); }
+  .h-btn.active { background: var(--accent-dim); border-color: var(--accent); color: var(--accent); }
+  .h-btn svg { width: 13px; height: 13px; }
+  .h-label { font-size: 11px; color: var(--text3); }
+  select.h-select { background: var(--bg3); border: 1px solid var(--border2); color: var(--text2); padding: 3px 6px; border-radius: var(--radius); font-size: 12px; cursor: pointer; font-family: inherit; }
+  .spacer { flex: 1; }
+
+  /* LAYOUT */
+  #layout { flex: 1; display: flex; overflow: hidden; }
+
+  /* LEFT PANEL — global object library */
+  #left-panel { width: var(--panel); flex-shrink: 0; background: var(--bg2); border-right: 1px solid var(--border); display: flex; flex-direction: column; overflow: hidden; }
+  .panel-hdr { display: flex; align-items: center; justify-content: space-between; padding: 8px 10px; background: var(--bg3); border-bottom: 1px solid var(--border); flex-shrink: 0; }
+  .panel-hdr-title { font-size: 10px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.8px; color: var(--text3); display: flex; align-items: center; gap: 5px; }
+  .icon-btn { width: 22px; height: 22px; display: flex; align-items: center; justify-content: center; border-radius: 3px; border: none; background: transparent; color: var(--text3); cursor: pointer; transition: all .1s; }
+  .icon-btn:hover { background: var(--bg4); color: var(--text); }
+  .icon-btn svg { width: 12px; height: 12px; }
+
+  #obj-search { width: 100%; padding: 6px 8px; background: var(--bg); border: none; border-bottom: 1px solid var(--border); color: var(--text); font-family: inherit; font-size: 12px; flex-shrink: 0; }
+  #obj-search:focus { outline: none; border-color: var(--accent); }
+  #obj-search::placeholder { color: var(--text3); }
+
+  #global-obj-list { flex: 1; overflow-y: auto; }
+  .gobj-item { display: flex; align-items: center; gap: 7px; padding: 6px 10px; cursor: pointer; border-bottom: 1px solid var(--border); transition: background .1s; position: relative; }
+  .gobj-item:hover { background: var(--bg3); }
+  .gobj-item.selected { background: var(--accent-dim); }
+  .gobj-item.present { border-left: 3px solid var(--green); padding-left: 7px; }
+  .gobj-dot { width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0; }
+  .gobj-info { flex: 1; min-width: 0; }
+  .gobj-name { font-size: 12px; font-weight: 500; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .gobj-class { font-size: 10px; color: var(--text3); }
+  .gobj-count { font-size: 10px; font-family: 'IBM Plex Mono', monospace; color: var(--accent); background: var(--accent-dim); border-radius: 8px; padding: 1px 6px; flex-shrink: 0; }
+  .gobj-actions { display: flex; gap: 2px; opacity: 0; }
+  .gobj-item:hover .gobj-actions { opacity: 1; }
+
+  /* Class grouping */
+  .class-header { display: flex; align-items: center; justify-content: space-between; padding: 6px 10px; background: var(--bg3); border-bottom: 1px solid var(--border); cursor: pointer; }
+  .class-info { display: flex; align-items: center; gap: 6px; }
+  .class-dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
+  .class-name { font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.6px; color: var(--text2); }
+  .class-count { font-size: 10px; color: var(--text3); font-family: 'IBM Plex Mono', monospace; background: var(--bg4); border-radius: 8px; padding: 1px 5px; }
+  .expand-btn { transform: rotate(90deg); transition: transform .15s; }
+  .class-header:hover .expand-btn { color: var(--accent); }
+  .class-objects { max-height: 0; overflow: hidden; transition: max-height .2s ease-out; }
+  .class-objects.expanded { max-height: 1000px; }
+
+  #left-footer { padding: 8px 10px; border-top: 1px solid var(--border); background: var(--bg3); flex-shrink: 0; }
+  .class-filter { display: flex; flex-wrap: wrap; gap: 4px; }
+  .chip { display: inline-flex; align-items: center; gap: 3px; padding: 2px 7px; border-radius: 10px; font-size: 10px; cursor: pointer; border: 1px solid var(--border2); background: var(--bg3); color: var(--text3); transition: all .12s; }
+  .chip:hover, .chip.active { border-color: var(--accent); color: var(--accent); background: var(--accent-dim); }
+
+  /* CENTER */
+  #center { flex: 1; display: flex; flex-direction: column; overflow: hidden; background: var(--bg); }
+  #viewer-wrap { flex: 1; position: relative; overflow: hidden; background: var(--bg); cursor: default; }
+  #viewer-wrap.pick-mode { cursor: crosshair; }
+  #img-canvas-wrap { position: absolute; transform-origin: top left; }
+  #main-image { display: block; user-select: none; -webkit-user-drag: none; }
+  #annotation-layer { position: absolute; top: 0; left: 0; pointer-events: none; overflow: visible; }
+  #annotation-layer.interactive { pointer-events: all; }
+  #zoom-info { position: absolute; top: 8px; right: 8px; background: rgba(0,0,0,.6); font-size: 10px; font-family: 'IBM Plex Mono', monospace; color: var(--text2); padding: 2px 6px; border-radius: 3px; pointer-events: none; z-index: 20; }
+  #no-image { display: flex; align-items: center; justify-content: center; height: 100%; flex-direction: column; gap: 12px; color: var(--text3); }
+  #no-image svg { width: 64px; height: 64px; opacity: .2; }
+  #no-image p { font-size: 14px; }
+  #no-image .hint { font-size: 12px; opacity: .6; }
+
+  /* Pick-mode overlay banner */
+  #pick-banner { display: none; position: absolute; top: 0; left: 0; right: 0; z-index: 30; background: var(--accent); color: #000; font-size: 12px; font-weight: 600; text-align: center; padding: 5px 8px; }
+  #pick-banner.show { display: block; }
+
+  /* Nav bar */
+  #img-nav { height: 34px; background: var(--bg2); border-top: 1px solid var(--border); display: flex; align-items: center; padding: 0 10px; gap: 8px; flex-shrink: 0; }
+  .nav-btn { width: 26px; height: 26px; display: flex; align-items: center; justify-content: center; border-radius: 4px; border: 1px solid var(--border2); background: var(--bg3); color: var(--text2); cursor: pointer; transition: all .12s; }
+  .nav-btn:hover { border-color: var(--accent); color: var(--accent); }
+  .nav-btn:disabled { opacity: 0.3; cursor: not-allowed; }
+  .nav-btn svg { width: 12px; height: 12px; }
+  #img-counter { font-size: 11px; color: var(--text3); font-family: 'IBM Plex Mono', monospace; }
+
+  /* Adj bar */
+  #adj-bar { background: var(--bg2); border-top: 1px solid var(--border); padding: 5px 10px; display: flex; align-items: center; gap: 12px; flex-shrink: 0; flex-wrap: wrap; }
+  .adj-group { display: flex; align-items: center; gap: 5px; }
+  .adj-label { font-size: 10px; color: var(--text3); white-space: nowrap; }
+  input[type=range].adj-slider { -webkit-appearance: none; width: 70px; height: 3px; background: var(--border2); border-radius: 2px; cursor: pointer; outline: none; }
+  input[type=range].adj-slider::-webkit-slider-thumb { -webkit-appearance: none; width: 11px; height: 11px; border-radius: 50%; background: var(--accent); cursor: pointer; }
+  .adj-val { font-size: 11px; color: var(--text2); font-family: 'IBM Plex Mono', monospace; width: 30px; }
+  .adj-reset { font-size: 10px; color: var(--text3); cursor: pointer; padding: 2px 4px; border-radius: 3px; }
+  .adj-reset:hover { color: var(--accent); background: var(--accent-dim); }
+
+  /* Thumbnail strip */
+  #thumb-strip { height: var(--thumb-h); background: var(--bg2); border-top: 1px solid var(--border); display: flex; align-items: center; overflow-x: auto; overflow-y: hidden; padding: 8px; gap: 6px; flex-shrink: 0; scrollbar-width: thin; scrollbar-color: var(--border2) transparent; }
+  .thumb { flex-shrink: 0; width: 75px; height: 75px; border-radius: 4px; border: 2px solid transparent; overflow: hidden; cursor: pointer; position: relative; transition: border-color .12s; background: var(--bg3); }
+  .thumb:hover { border-color: var(--border2); }
+  .thumb.active { border-color: var(--accent); }
+  .thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .thumb-label { position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,.6); font-size: 9px; color: #ccc; padding: 2px 4px; text-overflow: ellipsis; white-space: nowrap; overflow: hidden; }
+  .thumb-count { position: absolute; top: 3px; right: 3px; background: var(--accent); color: #000; font-size: 9px; font-weight: 600; border-radius: 8px; padding: 0 4px; min-width: 14px; text-align: center; line-height: 14px; height: 14px; }
+
+  /* RIGHT PANEL — sightings for current image */
+  #right-panel { width: var(--panel); flex-shrink: 0; background: var(--bg2); border-left: 1px solid var(--border); display: flex; flex-direction: column; overflow: hidden; }
+  #sightings-header { padding: 8px 10px; background: var(--bg3); border-bottom: 1px solid var(--border); flex-shrink: 0; display: flex; align-items: center; justify-content: space-between; }
+  #sightings-header .stitle { font-size: 10px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.8px; color: var(--text3); }
+  #sightings-list { flex: 1; overflow-y: auto; }
+  .sighting-group { border-bottom: 1px solid var(--border); }
+  .sgroup-hdr { display: flex; align-items: center; gap: 7px; padding: 6px 10px; background: var(--bg3); cursor: pointer; position: sticky; top: 0; z-index: 2; }
+  .sgroup-hdr:hover { background: var(--bg4); }
+  .sgroup-name { font-size: 12px; font-weight: 500; flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .sgroup-cnt { font-size: 10px; color: var(--text3); font-family: 'IBM Plex Mono', monospace; }
+  .sgroup-add { opacity: 0; font-size: 10px; }
+  .sgroup-hdr:hover .sgroup-add { opacity: 1; }
+  .sighting-row { display: flex; align-items: center; gap: 6px; padding: 4px 10px 4px 26px; cursor: pointer; transition: background .1s; }
+  .sighting-row:hover { background: var(--bg3); }
+  .sighting-row.selected { background: var(--accent-dim); }
+  .sighting-idx { font-size: 10px; color: var(--text3); font-family: 'IBM Plex Mono', monospace; width: 18px; flex-shrink: 0; }
+  .sighting-pos { font-size: 11px; color: var(--text2); flex: 1; font-family: 'IBM Plex Mono', monospace; }
+  .sighting-note { font-size: 10px; color: var(--text3); flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .sighting-actions { display: flex; gap: 2px; opacity: 0; }
+  .sighting-row:hover .sighting-actions { opacity: 1; }
+  #empty-sightings { padding: 20px 10px; text-align: center; color: var(--text3); font-size: 12px; }
+
+  /* Sighting editor panel */
+  #sighting-editor { flex-shrink: 0; border-top: 1px solid var(--border); background: var(--bg2); max-height: 45%; overflow-y: auto; }
+  #sighting-editor.hidden { display: none; }
+  .editor-hdr { display: flex; align-items: center; padding: 7px 10px; background: var(--bg3); border-bottom: 1px solid var(--border); gap: 6px; }
+  .editor-title { font-size: 12px; font-weight: 600; flex: 1; }
+  .editor-body { padding: 8px 10px; }
+  .form-row { margin-bottom: 7px; }
+  .form-label { font-size: 10px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.6px; color: var(--text3); margin-bottom: 3px; display: block; }
+  .form-input, .form-select, .form-textarea { width: 100%; padding: 5px 8px; background: var(--bg); border: 1px solid var(--border2); border-radius: var(--radius); color: var(--text); font-family: inherit; font-size: 12px; }
+  .form-input:focus, .form-select:focus, .form-textarea:focus { outline: none; border-color: var(--accent); }
+  .form-textarea { resize: vertical; min-height: 45px; }
+  .pos-display { font-size: 11px; color: var(--text3); font-family: 'IBM Plex Mono', monospace; }
+
+  /* MODALS */
+  .modal-overlay { position: fixed; inset: 0; background: rgba(0,0,0,.6); backdrop-filter: blur(4px); z-index: 1000; display: flex; align-items: center; justify-content: center; }
+  .modal-overlay.hidden { display: none; }
+  .modal { background: var(--bg2); border: 1px solid var(--border2); border-radius: 8px; min-width: 340px; max-width: 580px; width: 90%; max-height: 80vh; display: flex; flex-direction: column; overflow: hidden; box-shadow: 0 20px 60px rgba(0,0,0,.5); }
+  .modal-header { padding: 13px 16px; border-bottom: 1px solid var(--border); display: flex; align-items: center; justify-content: space-between; flex-shrink: 0; }
+  .modal-title { font-size: 14px; font-weight: 600; }
+  .modal-close { cursor: pointer; color: var(--text3); font-size: 16px; }
+  .modal-close:hover { color: var(--text); }
+  .modal-body { padding: 16px; overflow-y: auto; flex: 1; }
+  .modal-footer { padding: 12px 16px; border-top: 1px solid var(--border); display: flex; justify-content: flex-end; gap: 8px; flex-shrink: 0; }
+  .btn { padding: 6px 14px; border-radius: var(--radius); font-size: 12px; font-family: inherit; cursor: pointer; border: 1px solid var(--border2); background: var(--bg3); color: var(--text); transition: all .12s; }
+  .btn:hover { background: var(--bg4); }
+  .btn.primary { background: var(--accent); border-color: var(--accent); color: #000; font-weight: 600; }
+  .btn.primary:hover { background: var(--accent2); border-color: var(--accent2); }
+  .btn.danger { border-color: var(--red); color: var(--red); }
+  .btn.danger:hover { background: rgba(248,113,113,.1); }
+
+  input[type=color].color-input { width: 28px; height: 22px; padding: 0; border: 1px solid var(--border2); border-radius: 3px; cursor: pointer; background: transparent; }
+
+  /* Object details */
+  .detail-row { margin-bottom: 10px; display: flex; align-items: flex-start; gap: 8px; }
+  .detail-label { font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.6px; color: var(--text3); min-width: 60px; flex-shrink: 0; }
+  .properties-list { display: flex; flex-direction: column; gap: 4px; }
+  .prop-item { font-size: 12px; color: var(--text2); }
+
+  /* CSV drop zone */
+  #csv-drop { border: 2px dashed var(--border2); border-radius: 8px; padding: 18px; text-align: center; color: var(--text3); cursor: pointer; transition: all .15s; font-size: 12px; }
+  #csv-drop:hover, #csv-drop.drag-over { border-color: var(--accent); color: var(--accent); background: var(--accent-dim); }
+
+  /* Object picker popup */
+  #obj-picker { display: none; position: absolute; z-index: 50; background: var(--bg2); border: 1px solid var(--border2); border-radius: 8px; min-width: 200px; max-width: 260px; max-height: 320px; overflow-y: auto; box-shadow: 0 8px 32px rgba(0,0,0,.5); }
+  #obj-picker.show { display: block; }
+  #picker-search { width: 100%; padding: 7px 10px; background: var(--bg3); border: none; border-bottom: 1px solid var(--border); color: var(--text); font-family: inherit; font-size: 12px; }
+  #picker-search:focus { outline: none; }
+  #picker-search::placeholder { color: var(--text3); }
+  .picker-item { display: flex; align-items: center; gap: 8px; padding: 6px 10px; cursor: pointer; transition: background .1s; }
+  .picker-item:hover { background: var(--bg3); }
+  .picker-dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
+  .picker-name { font-size: 12px; flex: 1; }
+  .picker-class { font-size: 10px; color: var(--text3); }
+
+  /* Stats strip in right panel header */
+  .stat-pill { font-size: 10px; background: var(--bg3); border: 1px solid var(--border2); border-radius: 8px; padding: 1px 6px; color: var(--text3); font-family: 'IBM Plex Mono', monospace; }
+
+  /* Scrollbars */
+  ::-webkit-scrollbar { width: 5px; height: 5px; }
+  ::-webkit-scrollbar-track { background: transparent; }
+  ::-webkit-scrollbar-thumb { background: var(--border2); border-radius: 3px; }
+
+  /* Toggle */
+  .toggle-wrap { display: flex; align-items: center; gap: 6px; cursor: pointer; }
+  .toggle { width: 28px; height: 15px; border-radius: 8px; background: var(--bg4); border: 1px solid var(--border2); position: relative; cursor: pointer; transition: background .15s; flex-shrink: 0; }
+  .toggle.on { background: var(--accent); border-color: var(--accent); }
+  .toggle::after { content: ''; position: absolute; top: 1px; left: 2px; width: 11px; height: 11px; border-radius: 50%; background: #fff; transition: left .15s; }
+  .toggle.on::after { left: calc(100% - 13px); }
+
+  /* Class card in modal */
+  .class-card { background: var(--bg3); border: 1px solid var(--border); border-radius: 6px; margin-bottom: 10px; overflow: hidden; }
+  .class-card-hdr { display: flex; align-items: center; gap: 8px; padding: 9px 12px; background: var(--bg4); border-bottom: 1px solid var(--border); }
+  .class-card-body { padding: 10px 12px; }
+  .schema-row { display: flex; gap: 6px; align-items: center; margin-bottom: 5px; }
+  .schema-row .form-input { font-size: 11px; padding: 4px 6px; }
+  .schema-type-select { padding: 4px 6px; background: var(--bg); border: 1px solid var(--border2); border-radius: var(--radius); color: var(--text2); font-family: inherit; font-size: 11px; cursor: pointer; }
+  .schema-type-select:focus { outline: none; border-color: var(--accent); }
+  .schema-required { display: flex; align-items: center; gap: 3px; font-size: 10px; color: var(--text3); white-space: nowrap; cursor: pointer; }
+  .schema-required input[type=checkbox] { accent-color: var(--accent); width: 12px; height: 12px; cursor: pointer; }
+  .schema-add-btn { font-size: 10px; color: var(--accent); background: var(--accent-dim); border: 1px solid transparent; border-radius: 3px; padding: 2px 7px; cursor: pointer; margin-top: 3px; }
+  .schema-add-btn:hover { border-color: var(--accent); }
+  .schema-empty { font-size: 11px; color: var(--text3); font-style: italic; padding: 4px 0; }
+
+  /* Inline object detail panel (bottom of left panel) */
+  #obj-detail-panel { flex-shrink: 0; border-top: 2px solid var(--border2); background: var(--bg2); max-height: 55%; overflow-y: auto; display: none; }
+  #obj-detail-panel.visible { display: flex; flex-direction: column; }
+  .odp-hdr { display: flex; align-items: center; gap: 7px; padding: 7px 10px; background: var(--bg3); border-bottom: 1px solid var(--border); flex-shrink: 0; }
+  .odp-dot { width: 9px; height: 9px; border-radius: 50%; flex-shrink: 0; }
+  .odp-title { font-size: 12px; font-weight: 600; flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .odp-body { padding: 8px 10px; flex: 1; overflow-y: auto; }
+  .odp-field { margin-bottom: 7px; }
+  .odp-field-label { font-size: 10px; font-weight: 600; text-transform: uppercase; letter-spacing: .6px; color: var(--text3); margin-bottom: 3px; display: flex; align-items: center; gap: 3px; }
+  .odp-field-label .req { color: var(--red); font-size: 9px; }
+  .odp-input { width: 100%; padding: 4px 7px; background: var(--bg); border: 1px solid var(--border2); border-radius: var(--radius); color: var(--text); font-family: inherit; font-size: 12px; }
+  .odp-input:focus { outline: none; border-color: var(--accent); }
+  .odp-actions { display: flex; gap: 5px; padding: 6px 10px 8px; flex-shrink: 0; border-top: 1px solid var(--border); background: var(--bg3); }
+
+  /* Image property panel (top section of right panel) */
+  #img-props-panel { flex-shrink: 0; border-bottom: 1px solid var(--border2); background: var(--bg2); overflow: hidden; transition: max-height .2s ease; }
+  #img-props-panel.collapsed { max-height: 32px; }
+  #img-props-panel:not(.collapsed) { max-height: 400px; }
+  .ipp-hdr { display: flex; align-items: center; padding: 6px 10px; background: var(--bg3); border-bottom: 1px solid var(--border); cursor: pointer; user-select: none; gap: 6px; }
+  .ipp-hdr:hover { background: var(--bg4); }
+  .ipp-title { font-size: 10px; font-weight: 600; text-transform: uppercase; letter-spacing: .8px; color: var(--text3); flex: 1; }
+  .ipp-chevron { transition: transform .15s; color: var(--text3); }
+  .ipp-chevron.open { transform: rotate(180deg); }
+  .ipp-body { padding: 8px 10px; overflow-y: auto; max-height: 340px; }
+  .ipp-empty { font-size: 11px; color: var(--text3); font-style: italic; text-align: center; padding: 10px 0; }
+  .ipp-field { margin-bottom: 7px; }
+  .ipp-label { font-size: 10px; font-weight: 600; text-transform: uppercase; letter-spacing: .6px; color: var(--text3); margin-bottom: 3px; display: block; }
+  .ipp-input { width: 100%; padding: 4px 7px; background: var(--bg); border: 1px solid var(--border2); border-radius: var(--radius); color: var(--text); font-family: inherit; font-size: 12px; }
+  .ipp-input:focus { outline: none; border-color: var(--accent); }
+
+  /* Import confirm modal */
+  .import-confirm-box { background: var(--bg3); border: 1px solid var(--border); border-radius: 6px; padding: 12px; margin-top: 10px; font-size: 12px; color: var(--text2); }
+  .import-confirm-box strong { color: var(--text); }
+  .import-mode-row { display: flex; gap: 8px; margin-top: 10px; flex-wrap: wrap; }
+  .import-mode-btn { flex: 1; padding: 8px 10px; border-radius: var(--radius); border: 1px solid var(--border2); background: var(--bg3); color: var(--text2); font-size: 12px; font-family: inherit; cursor: pointer; text-align: center; transition: all .12s; min-width: 100px; }
+  .import-mode-btn:hover { border-color: var(--accent); color: var(--accent); background: var(--accent-dim); }
+  .import-mode-btn.danger-mode { border-color: var(--red); color: var(--red); }
+  .import-mode-btn.danger-mode:hover { background: rgba(248,113,113,.1); }
+
+  /* ── OBJECT LIBRARY TABLE VIEW ── */
+  #lib-view-toggle { display: flex; gap: 2px; }
+  .lib-view-btn { padding: 2px 6px; border-radius: 3px; border: 1px solid transparent; background: transparent; color: var(--text3); cursor: pointer; font-size: 11px; font-family: inherit; transition: all .1s; }
+  .lib-view-btn.active { background: var(--accent-dim); border-color: var(--accent); color: var(--accent); }
+  #lib-table-toolbar { padding: 5px 8px; background: var(--bg3); border-bottom: 1px solid var(--border); flex-shrink: 0; display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
+  #lib-class-tabs { display: flex; gap: 3px; flex-wrap: nowrap; overflow-x: auto; flex: 1; scrollbar-width: none; }
+  #lib-class-tabs::-webkit-scrollbar { display: none; }
+  .lib-tab { padding: 2px 8px; border-radius: 3px; border: 1px solid var(--border2); background: var(--bg4); color: var(--text3); font-size: 11px; cursor: pointer; white-space: nowrap; transition: all .1s; flex-shrink: 0; display: flex; align-items: center; gap: 4px; }
+  .lib-tab:hover { border-color: var(--accent); color: var(--accent); }
+  .lib-tab.active { background: var(--accent-dim); border-color: var(--accent); color: var(--accent); }
+  #lib-list-view, #lib-table-view { min-height: 0; }
+  #lib-table-wrap { flex: 1; overflow: auto; min-height: 0; }
+  #lib-table { width: 100%; border-collapse: collapse; font-size: 11px; }
+  #lib-table th { position: sticky; top: 0; background: var(--bg3); padding: 5px 8px; text-align: left; font-weight: 600; color: var(--text3); text-transform: uppercase; letter-spacing: .5px; font-size: 10px; border-bottom: 1px solid var(--border2); cursor: pointer; white-space: nowrap; user-select: none; z-index: 2; }
+  #lib-table th:hover { color: var(--text); }
+  #lib-table th .sort-icon { font-size: 9px; margin-left: 3px; opacity: .5; }
+  #lib-table th.sorted .sort-icon { opacity: 1; color: var(--accent); }
+  #lib-table td { padding: 4px 8px; border-bottom: 1px solid var(--border); color: var(--text2); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; max-width: 120px; }
+  #lib-table tr:hover td { background: var(--bg3); }
+  #lib-table tr.selected td { background: var(--accent-dim); }
+  #lib-table tr.present td:first-child { border-left: 3px solid var(--green); padding-left: 5px; }
+  .tbl-color-dot { width: 8px; height: 8px; border-radius: 50%; display: inline-block; flex-shrink: 0; margin-right: 4px; }
+  .tbl-name-cell { display: flex; align-items: center; }
+  .lib-filter-row td { padding: 2px 4px; background: var(--bg2); position: sticky; top: 28px; z-index: 2; }
+  .lib-filter-row input { width: 100%; padding: 2px 5px; background: var(--bg); border: 1px solid var(--border2); border-radius: 3px; color: var(--text); font-size: 11px; font-family: inherit; }
+  .lib-filter-row input:focus { outline: none; border-color: var(--accent); }
+
+  /* Filter saved set pills */
+  #lib-saved-filters { display: flex; gap: 3px; flex-wrap: wrap; padding: 4px 8px; border-bottom: 1px solid var(--border); flex-shrink: 0; min-height: 0; }
+  #lib-saved-filters:empty { padding: 0; border: none; }
+  .saved-filter-pill { display: inline-flex; align-items: center; gap: 3px; padding: 2px 7px; border-radius: 10px; font-size: 10px; cursor: pointer; border: 1px solid var(--border2); background: var(--bg3); color: var(--text3); transition: all .1s; }
+  .saved-filter-pill:hover { border-color: var(--accent); color: var(--accent); }
+  .saved-filter-pill .pill-del { color: var(--red); font-size: 9px; margin-left: 2px; cursor: pointer; }
+
+  /* Image sort/filter toolbar */
+  #img-filter-toolbar { padding: 4px 8px; background: var(--bg2); border-bottom: 1px solid var(--border); display: flex; align-items: center; gap: 6px; flex-shrink: 0; flex-wrap: wrap; }
+  #img-filter-toolbar .h-label { font-size: 10px; }
+  .img-filter-input { padding: 2px 6px; background: var(--bg); border: 1px solid var(--border2); border-radius: 3px; color: var(--text2); font-size: 11px; font-family: inherit; }
+  .img-filter-input:focus { outline: none; border-color: var(--accent); }
+
+  /* Sightings panel — property display options */
+  #sightings-prop-bar { background: var(--bg3); border-bottom: 1px solid var(--border); flex-shrink: 0; }
+  #sightings-prop-bar-hdr { display: flex; align-items: center; gap: 5px; padding: 4px 8px; cursor: pointer; user-select: none; }
+  #sightings-prop-bar-hdr:hover { background: var(--bg4); }
+  #sightings-prop-bar-body { padding: 0 8px 5px 8px; display: flex; align-items: center; gap: 5px; flex-wrap: wrap; }
+  #sightings-prop-bar-body.collapsed { display: none; }
+  .sprop-bar-chevron { transition: transform .15s; color: var(--text3); margin-left: auto; }
+  .sprop-bar-chevron.open { transform: rotate(180deg); }
+  .sprop-chip { display: inline-flex; align-items: center; gap: 3px; padding: 1px 6px; border-radius: 8px; font-size: 10px; cursor: pointer; border: 1px solid var(--border2); background: var(--bg3); color: var(--text3); }
+  .sprop-chip.active { border-color: var(--accent); color: var(--accent); background: var(--accent-dim); }
+  .colorize-select { padding: 2px 5px; background: var(--bg); border: 1px solid var(--border2); border-radius: 3px; color: var(--text2); font-size: 10px; font-family: inherit; cursor: pointer; }
+  .colorize-select:focus { outline: none; border-color: var(--accent); }
+
+  /* Clickable link in detail panel */
+  .prop-link { color: var(--accent); text-decoration: none; font-size: 12px; display: inline-block; max-width: 100%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; vertical-align: middle; }
+  .prop-link:hover { text-decoration: underline; }
+
+  /* sighting row with property info */
+  .sighting-prop-val { font-size: 10px; color: var(--purple); flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+  /* Help modal */
+  .help-section { border: 1px solid var(--border); border-radius: 6px; overflow: hidden; }
+  .help-section-title { font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: .8px; color: var(--text3); padding: 7px 12px; background: var(--bg3); border-bottom: 1px solid var(--border); }
+  .help-grid { display: flex; flex-direction: column; gap: 0; }
+  .help-step { display: flex; align-items: flex-start; gap: 10px; padding: 8px 12px; border-bottom: 1px solid var(--border); font-size: 12px; color: var(--text2); line-height: 1.5; }
+  .help-step:last-child { border-bottom: none; }
+  .help-num { width: 20px; height: 20px; border-radius: 50%; background: var(--accent); color: #000; font-size: 11px; font-weight: 700; display: flex; align-items: center; justify-content: center; flex-shrink: 0; margin-top: 1px; }
+  .help-step strong { color: var(--text); }
+  .help-kbds { padding: 8px 12px; display: flex; flex-direction: column; gap: 5px; }
+  .help-kbd-row { display: flex; align-items: center; gap: 6px; font-size: 12px; color: var(--text2); }
+  .help-kbd-row span { margin-left: 4px; }
+  kbd { display: inline-flex; align-items: center; justify-content: center; padding: 1px 6px; background: var(--bg4); border: 1px solid var(--border2); border-radius: 3px; font-family: 'IBM Plex Mono', monospace; font-size: 11px; color: var(--text); min-width: 22px; }
+  .help-table { width: 100%; border-collapse: collapse; font-size: 12px; }
+  .help-table td { padding: 6px 12px; border-top: 1px solid var(--border); vertical-align: top; line-height: 1.5; }
+  .help-table tr:first-child td { border-top: none; }
+  .help-table td:first-child { color: var(--text); font-weight: 500; white-space: nowrap; width: 160px; }
+  .help-table td:last-child { color: var(--text2); }
+  .help-table code { background: var(--bg3); padding: 1px 4px; border-radius: 3px; font-family: 'IBM Plex Mono', monospace; font-size: 11px; color: var(--accent); }
+  .help-table kbd { font-size: 10px; padding: 0 4px; min-width: 18px; }
+</style>
+</head>
+<body>
+
+<div id="header">
+  <div class="logo">Image<span>Annotator</span></div>
+  <div class="h-sep"></div>
+  <button class="h-btn" onclick="document.getElementById('fileInput').click()">
+    <svg viewBox="0 0 16 16" fill="currentColor"><path d="M8 1a1 1 0 0 1 1 1v5h5a1 1 0 1 1 0 2H9v5a1 1 0 1 1-2 0V9H2a1 1 0 1 1 0-2h5V2a1 1 0 0 1 1-1z"/></svg>
+    Add Images
+  </button>
+  <input type="file" id="fileInput" accept="image/*" multiple style="display:none" onchange="loadImages(this.files)">
+  <button class="h-btn" onclick="showCsvModal()">
+    <svg viewBox="0 0 16 16" fill="currentColor"><path d="M5 1a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1V4.414A1 1 0 0 0 11.707 4L8.293.586A1 1 0 0 0 7.586 0H5zm2 1.5V4H4.5a.5.5 0 0 0 0 1H7v8H5V2h2zM8 2l3 3H8V2z"/></svg>
+    Import CSV
+  </button>
+  <div class="h-sep"></div>
+  <button class="h-btn" id="btn-annotate" onclick="toggleAnnotateMode()">
+    <svg viewBox="0 0 16 16" fill="currentColor"><path d="M10.97 4.97a.75.75 0 0 1 1.07 1.05l-3.99 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425z"/><circle cx="8" cy="8" r="7" stroke="currentColor" fill="none" stroke-width="1.5"/></svg>
+    Annotate
+  </button>
+  <button class="h-btn" id="btn-layer" onclick="toggleLayer()">
+    <svg viewBox="0 0 16 16" fill="currentColor"><path d="M8.235.572a.5.5 0 0 0-.47 0l-7 4a.5.5 0 0 0 0 .856L3 7.396V11.5a.5.5 0 0 0 .316.462l5 2a.5.5 0 0 0 .368 0l5-2A.5.5 0 0 0 14 11.5V7.396l2.235-1.968a.5.5 0 0 0 0-.856l-7-4zM8 1.58 14.21 5 8 8.42 1.79 5 8 1.58z"/></svg>
+    Layer
+  </button>
+  <div class="h-sep"></div>
+  <div class="h-label">Sort:</div>
+  <select class="h-select" id="sort-select" onchange="renderThumbs()">
+    <option value="index">Original</option>
+    <option value="name">Name A-Z</option>
+    <option value="sightings">Sightings ↓</option>
+  </select>
+  <select class="h-select" id="img-filter-field" onchange="renderThumbs()" title="Filter images by property">
+    <option value="">No filter</option>
+  </select>
+  <input type="text" class="img-filter-input" id="img-filter-val" placeholder="Filter… (Enter, + for multi)" onkeydown="if(event.key==='Enter')renderThumbs()" style="width:100px">
+  <div class="spacer"></div>
+  <button class="h-btn" onclick="zoomIn()">＋</button>
+  <button class="h-btn" onclick="zoomOut()">－</button>
+  <button class="h-btn" onclick="fitToFrame()">Fit</button>
+  <button class="h-btn" onclick="showClassManager()">Classes</button>
+  <button class="h-btn" onclick="showExportModal()">Export</button>
+  <button class="h-btn" onclick="document.getElementById('importDbInput').click()">
+    <svg viewBox="0 0 16 16" fill="currentColor"><path d="M8 1a.5.5 0 0 1 .5.5v9.793l2.146-2.147a.5.5 0 0 1 .708.708l-3 3a.5.5 0 0 1-.708 0l-3-3a.5.5 0 0 1 .708-.708L7.5 11.293V1.5A.5.5 0 0 1 8 1z"/><path d="M2 14.5a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5z"/></svg>
+    Import DB
+  </button>
+  <input type="file" id="importDbInput" accept=".json" style="display:none" onchange="importDatabase(this)">
+  <button class="h-btn" onclick="showHelp()" title="Help & keyboard shortcuts">
+    <svg viewBox="0 0 16 16" fill="currentColor"><path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/><path d="M5.255 5.786a.237.237 0 0 0 .241.247h.825c.138 0 .248-.113.266-.25.09-.656.54-1.134 1.342-1.134.686 0 1.314.343 1.314 1.168 0 .635-.374.927-.965 1.371-.673.489-1.206 1.06-1.168 1.987l.003.217a.25.25 0 0 0 .25.246h.811a.25.25 0 0 0 .25-.25v-.105c0-.718.273-.927 1.01-1.486.609-.463 1.244-.977 1.244-2.056 0-1.511-1.276-2.241-2.673-2.241-1.267 0-2.655.59-2.75 2.286zm1.557 5.763c0 .533.425.927 1.01.927.609 0 1.028-.394 1.028-.927 0-.552-.42-.94-1.029-.94-.584 0-1.009.388-1.009.94z"/></svg>
+    Help
+  </button>
+</div>
+
+<div id="layout">
+
+  <!-- LEFT: global object library -->
+  <div id="left-panel">
+    <div class="panel-hdr">
+      <span class="panel-hdr-title">
+        <svg viewBox="0 0 16 16" fill="currentColor" width="11" height="11"><circle cx="8" cy="8" r="7" stroke="currentColor" fill="none" stroke-width="1.5"/><circle cx="8" cy="8" r="2.5" fill="currentColor"/></svg>
+        Object Library
+      </span>
+      <div style="display:flex;align-items:center;gap:4px">
+        <div id="lib-view-toggle">
+          <button class="lib-view-btn active" id="lib-btn-list" onclick="setLibView('list')" title="List view">&#9776;</button>
+          <button class="lib-view-btn" id="lib-btn-table" onclick="setLibView('table')" title="Table view">&#x229E;</button>
+        </div>
+        <button class="icon-btn" onclick="showAddObjectModal()" title="Add global object">
+          <svg viewBox="0 0 16 16" fill="currentColor"><path d="M8 4a.5.5 0 0 1 .5.5v3h3a.5.5 0 0 1 0 1h-3v3a.5.5 0 0 1-1 0v-3h-3a.5.5 0 0 1 0-1h3v-3A.5.5 0 0 1 8 4z"/></svg>
+        </button>
+      </div>
+    </div>
+    <input type="text" id="obj-search" placeholder="Search… (Enter to apply, + for multi)" onkeydown="if(event.key==='Enter')renderGlobalList()">
+
+    <!-- LIST VIEW -->
+    <div id="lib-list-view" style="display:flex;flex-direction:column;overflow:hidden;flex:1">
+      <div id="global-obj-list" style="flex:1;overflow-y:auto"></div>
+      <div id="left-footer">
+        <div style="font-size:10px;color:var(--text3);margin-bottom:5px;font-weight:600;text-transform:uppercase;letter-spacing:.6px">Filter by class</div>
+        <div class="class-filter" id="class-chips"></div>
+      </div>
+    </div>
+
+    <!-- TABLE VIEW -->
+    <div id="lib-table-view" style="display:none;flex-direction:column;overflow:hidden;flex:1">
+      <div id="lib-table-toolbar">
+        <div id="lib-class-tabs"></div>
+        <button class="lib-view-btn" title="Save current filter" onclick="saveLibFilter()" style="flex-shrink:0;font-size:10px;padding:2px 6px;border:1px solid var(--border2)">Save</button>
+        <button class="lib-view-btn" title="Apply filter to visualization" onclick="applyLibFilterToViz()" style="flex-shrink:0;font-size:10px;padding:2px 6px;border:1px solid var(--border2)">Viz</button>
+      </div>
+      <div id="lib-saved-filters"></div>
+      <div id="lib-table-wrap">
+        <table id="lib-table"><thead></thead><tbody></tbody></table>
+      </div>
+    </div>
+
+    <!-- Inline object detail / edit panel -->
+    <div id="obj-detail-panel">
+      <div class="odp-hdr">
+        <div class="odp-dot" id="odp-dot"></div>
+        <span class="odp-title" id="odp-title">Object</span>
+        <button class="icon-btn" title="Edit in full modal" onclick="showEditObjectModal(state.selectedGlobalObjectId)">
+          <svg viewBox="0 0 16 16" fill="currentColor"><path d="M12.146.146a.5.5 0 0 1 .708 0l3 3a.5.5 0 0 1 0 .708l-10 10a.5.5 0 0 1-.168.11l-5 2a.5.5 0 0 1-.65-.65l2-5a.5.5 0 0 1 .11-.168l10-10z"/></svg>
+        </button>
+        <button class="icon-btn" title="Close" onclick="closeObjDetailPanel()">
+          <svg viewBox="0 0 16 16" fill="currentColor"><path d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z"/></svg>
+        </button>
+      </div>
+      <div class="odp-body" id="odp-body"></div>
+      <div class="odp-actions">
+        <button class="btn primary" style="font-size:11px;padding:3px 10px" onclick="armObject(state.selectedGlobalObjectId)">Place on Image</button>
+        <button class="btn danger" style="font-size:11px;padding:3px 10px" id="odp-delete-btn" onclick="deleteObjFromPanel()">Delete</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- CENTER -->
+  <div id="center">
+    <div id="viewer-wrap"
+      onmousedown="onMouseDown(event)"
+      onmousemove="onMouseMove(event)"
+      onmouseup="onMouseUp(event)"
+      onwheel="onWheel(event)">
+      <div id="img-canvas-wrap">
+        <img id="main-image" src="" alt="">
+        <svg id="annotation-layer" xmlns="http://www.w3.org/2000/svg"></svg>
+      </div>
+      <svg id="label-layer" xmlns="http://www.w3.org/2000/svg" style="position:absolute;top:0;left:0;width:100%;height:100%;pointer-events:none;overflow:visible;z-index:10"></svg>
+      <div id="pick-banner"></div>
+      <div id="no-image">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/><path d="m21 15-5-5L5 21"/></svg>
+        <p>No images loaded</p>
+        <p class="hint">Click "Add Images" to get started</p>
+      </div>
+      <div id="zoom-info">100%</div>
+      <div id="obj-picker">
+        <input type="text" id="picker-search" placeholder="Filter objects…" oninput="renderPicker()">
+        <div id="picker-list"></div>
+      </div>
+    </div>
+
+    <div id="img-nav">
+      <button class="nav-btn" id="nav-first" onclick="navImage('first')">
+        <svg viewBox="0 0 16 16" fill="currentColor"><path d="M8.354 4.646a.5.5 0 0 0-.708 0l-3 3a.5.5 0 0 0 0 .708l3 3a.5.5 0 0 0 .708-.708L6.207 8l2.147-2.146a.5.5 0 0 0 0-.708z"/><path d="M4 4.5a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 0 1H5v5h.5a.5.5 0 0 1 0 1h-1a.5.5 0 0 1-.5-.5v-6z"/></svg>
+      </button>
+      <button class="nav-btn" id="nav-prev" onclick="navImage('prev')">
+        <svg viewBox="0 0 16 16" fill="currentColor"><path d="M11.354 1.646a.5.5 0 0 1 0 .708L5.707 8l5.647 5.646a.5.5 0 0 1-.708.708l-6-6a.5.5 0 0 1 0-.708l6-6a.5.5 0 0 1 .708 0z"/></svg>
+      </button>
+      <span id="img-counter">0 / 0</span>
+      <button class="nav-btn" id="nav-next" onclick="navImage('next')">
+        <svg viewBox="0 0 16 16" fill="currentColor"><path d="M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708z"/></svg>
+      </button>
+      <button class="nav-btn" id="nav-last" onclick="navImage('last')">
+        <svg viewBox="0 0 16 16" fill="currentColor"><path d="M7.646 4.646a.5.5 0 0 1 .708 0l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8 7.646 5.354a.5.5 0 0 1 0-.708z"/><path d="M11 4.5a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5v6a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1 0-1h.5V5H12a.5.5 0 0 1-.5-.5z"/></svg>
+      </button>
+      <div style="flex:1"></div>
+      <span id="img-name-display" style="font-size:11px;color:var(--text3)"></span>
+    </div>
+
+    <div id="adj-bar">
+      <div class="adj-group">
+        <span class="adj-label">Brightness</span>
+        <input type="range" class="adj-slider" id="adj-b" min="0" max="200" value="100" oninput="applyAdj()">
+        <span class="adj-val" id="adj-b-val">100</span>
+        <span class="adj-reset" onclick="resetAdj('b')">↺</span>
+      </div>
+      <div class="adj-group">
+        <span class="adj-label">Contrast</span>
+        <input type="range" class="adj-slider" id="adj-c" min="0" max="200" value="100" oninput="applyAdj()">
+        <span class="adj-val" id="adj-c-val">100</span>
+        <span class="adj-reset" onclick="resetAdj('c')">↺</span>
+      </div>
+      <div class="adj-group">
+        <span class="adj-label">Saturation</span>
+        <input type="range" class="adj-slider" id="adj-s" min="0" max="200" value="100" oninput="applyAdj()">
+        <span class="adj-val" id="adj-s-val">100</span>
+        <span class="adj-reset" onclick="resetAdj('s')">↺</span>
+      </div>
+      <span class="adj-reset" onclick="resetAllAdj()" style="margin-left:4px">Reset all</span>
+      <label class="toggle-wrap" style="margin-left:auto;font-size:11px;color:var(--text3)">
+        <div class="toggle" id="persist-toggle" onclick="togglePersist()"></div>
+        Persist
+      </label>
+    </div>
+
+    <div id="thumb-strip"></div>
+  </div>
+
+  <!-- RIGHT: sightings for current image -->
+  <div id="right-panel">
+    <!-- Image properties collapsible section -->
+    <div id="img-props-panel" class="collapsed">
+      <div class="ipp-hdr" onclick="toggleImgProps()">
+        <svg viewBox="0 0 16 16" fill="currentColor" width="11" height="11"><rect x="2" y="2" width="12" height="12" rx="1.5" stroke="currentColor" fill="none" stroke-width="1.5"/><path d="M5 6h6M5 8h4"/></svg>
+        <span class="ipp-title">Image Properties</span>
+        <svg class="ipp-chevron" viewBox="0 0 16 16" fill="currentColor" width="11" height="11"><path d="M7.247 11.14L2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/></svg>
+      </div>
+      <div class="ipp-body" id="ipp-body">
+        <div class="ipp-empty">No image selected</div>
+      </div>
+    </div>
+    <div id="sightings-header">
+      <span class="stitle">Sightings in image</span>
+      <span class="stat-pill" id="sightings-count">0</span>
+    </div>
+    <div id="sightings-prop-bar">
+      <div id="sightings-prop-bar-hdr" onclick="togglePropBar()">
+        <span style="font-size:10px;font-weight:600;text-transform:uppercase;letter-spacing:.7px;color:var(--text3)">Show Properties</span>
+        <span id="sighting-prop-active-count" style="font-size:10px;color:var(--accent);font-family:'IBM Plex Mono',monospace;background:var(--accent-dim);border-radius:8px;padding:0 5px;display:none"></span>
+        <svg class="sprop-bar-chevron" id="sprop-chevron" viewBox="0 0 16 16" fill="currentColor" width="11" height="11"><path d="M7.247 11.14L2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/></svg>
+      </div>
+      <div id="sightings-prop-bar-body" class="collapsed">
+        <span style="font-size:10px;color:var(--text3);flex-shrink:0">Cols:</span>
+        <span id="sighting-prop-chips" style="display:flex;gap:3px;flex-wrap:wrap;flex:1"></span>
+        <select class="colorize-select" id="colorize-select" title="Colorize markers by property" onchange="onColorizeChange()">
+          <option value="">Color: default</option>
+        </select>
+      </div>
+    </div>
+    <div id="sightings-list">
+      <div id="empty-sightings">No image selected</div>
+    </div>
+    <div id="sighting-editor" class="hidden">
+      <div class="editor-hdr">
+        <span class="editor-title" id="ed-title">Sighting</span>
+        <button class="icon-btn" onclick="closeEditor()">
+          <svg viewBox="0 0 16 16" fill="currentColor"><path d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z"/></svg>
+        </button>
+      </div>
+      <div class="editor-body" id="ed-body"></div>
+    </div>
+  </div>
+</div>
+
+<!-- ADD/EDIT GLOBAL OBJECT MODAL -->
+<div class="modal-overlay hidden" id="obj-modal">
+  <div class="modal">
+    <div class="modal-header">
+      <span class="modal-title" id="obj-modal-title">Add Object</span>
+      <span class="modal-close" onclick="closeModal('obj-modal')">✕</span>
+    </div>
+    <div class="modal-body">
+      <div class="form-row">
+        <label class="form-label">Name</label>
+        <input type="text" class="form-input" id="om-name" placeholder="e.g. Red-tailed hawk, Fire extinguisher…">
+      </div>
+      <div class="form-row">
+        <label class="form-label">Class</label>
+        <select class="form-select" id="om-class" onchange="applyClassSchema(this.value)"></select>
+      </div>
+      <div class="form-row">
+        <label class="form-label">Marker color</label>
+        <div style="display:flex;align-items:center;gap:8px">
+          <input type="color" class="color-input" id="om-color" value="#4f9eff">
+          <button class="btn" onclick="randomColor()" style="font-size:11px;padding:3px 8px">Random</button>
+        </div>
+      </div>
+      <div class="form-row">
+        <label class="form-label">Description / notes</label>
+        <textarea class="form-textarea" id="om-notes" placeholder="Optional description…"></textarea>
+      </div>
+      <div class="form-row">
+        <label class="form-label">Properties</label>
+        <div id="om-properties" style="display:flex;flex-direction:column;gap:6px">
+          <!-- Properties will be added here -->
+        </div>
+        <button class="btn" onclick="addProperty()" style="font-size:11px;padding:3px 8px;margin-top:6px">+ Add Property</button>
+      </div>
+    </div>
+    <div class="modal-footer">
+      <button class="btn danger hidden" id="om-delete" onclick="deleteGlobalObject()">Delete</button>
+      <button class="btn" onclick="closeModal('obj-modal')">Cancel</button>
+      <button class="btn primary" onclick="saveGlobalObject()">Save</button>
+    </div>
+  </div>
+</div>
+
+<!-- CLASS MANAGER MODAL -->
+<div class="modal-overlay hidden" id="class-modal">
+  <div class="modal" style="max-width:680px;width:95%">
+    <div class="modal-header">
+      <span class="modal-title">Object Classes &amp; Image Fields</span>
+      <span class="modal-close" onclick="closeModal('class-modal')">✕</span>
+    </div>
+    <div class="modal-body" style="max-height:60vh;overflow-y:auto">
+      <!-- Image schema section -->
+      <div style="margin-bottom:14px">
+        <div style="font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:.7px;color:var(--text2);margin-bottom:8px;display:flex;align-items:center;gap:6px">
+          <svg viewBox="0 0 16 16" fill="currentColor" width="11" height="11"><rect x="2" y="2" width="12" height="12" rx="1.5" stroke="currentColor" fill="none" stroke-width="1.5"/><path d="M5 6h6M5 9h4" stroke="currentColor" stroke-width="1.2"/></svg>
+          Image Property Fields
+          <span style="font-weight:400;text-transform:none;letter-spacing:0;color:var(--text3);font-size:10px">— same fields on every image</span>
+        </div>
+        <div id="img-schema-list"></div>
+        <button class="schema-add-btn" onclick="addImgSchemaField()">+ Add image field</button>
+      </div>
+      <div style="border-top:1px solid var(--border);margin-bottom:12px"></div>
+      <div id="class-modal-body"></div>
+    </div>
+    <div class="modal-footer">
+      <button class="btn" onclick="addNewClass()">+ Add Class</button>
+      <button class="btn primary" onclick="saveClasses()">Done</button>
+    </div>
+  </div>
+</div>
+
+<!-- CSV IMPORT MODAL -->
+<div class="modal-overlay hidden" id="csv-modal">
+  <div class="modal">
+    <div class="modal-header">
+      <span class="modal-title">Import Objects from CSV</span>
+      <span class="modal-close" onclick="closeModal('csv-modal')">✕</span>
+    </div>
+    <div class="modal-body">
+      <p style="color:var(--text3);font-size:11px;margin-bottom:12px">Imports rows as global objects into the library. Columns named <code style="background:var(--bg3);padding:1px 4px;border-radius:3px">name</code> and <code style="background:var(--bg3);padding:1px 4px;border-radius:3px">color</code> are used automatically; all other columns become object properties.</p>
+      <div class="form-row">
+        <label class="form-label">Class for imported objects</label>
+        <select class="form-select" id="csv-class"></select>
+      </div>
+      <div class="form-row">
+        <label class="form-label">CSV File</label>
+        <div id="csv-drop" onclick="document.getElementById('csv-file-input').click()"
+             ondragover="event.preventDefault();this.classList.add('drag-over')"
+             ondragleave="this.classList.remove('drag-over')"
+             ondrop="onCsvDrop(event)">
+          📄 Drop CSV here or click to browse
+        </div>
+        <input type="file" id="csv-file-input" accept=".csv" style="display:none" onchange="onCsvFile(this)">
+      </div>
+      <div id="csv-preview" style="font-size:11px;color:var(--text3);margin-top:6px"></div>
+    </div>
+    <div class="modal-footer">
+      <button class="btn" onclick="closeModal('csv-modal')">Cancel</button>
+      <button class="btn primary" id="csv-import-btn" onclick="importCsv()" disabled>Import</button>
+    </div>
+  </div>
+</div>
+
+<!-- EXPORT MODAL -->
+<div class="modal-overlay hidden" id="export-modal">
+  <div class="modal">
+    <div class="modal-header">
+      <span class="modal-title">Export Data</span>
+      <span class="modal-close" onclick="closeModal('export-modal')">✕</span>
+    </div>
+    <div class="modal-body">
+      <p style="color:var(--text2);font-size:13px;margin-bottom:12px">Choose export format:</p>
+      <div style="display:flex;flex-direction:column;gap:8px">
+        <button class="btn" onclick="exportJSON()">Export full database as JSON</button>
+        <button class="btn" onclick="exportCSV()">Export sightings as CSV</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- IMPORT DATABASE MODAL -->
+<div class="modal-overlay hidden" id="import-modal">
+  <div class="modal" style="max-width:460px">
+    <div class="modal-header">
+      <span class="modal-title">Import Database</span>
+      <span class="modal-close" onclick="closeModal('import-modal')">✕</span>
+    </div>
+    <div class="modal-body" id="import-modal-body">
+      <!-- populated by importDatabase() -->
+    </div>
+  </div>
+</div>
+
+<!-- HELP MODAL -->
+<div class="modal-overlay hidden" id="help-modal">
+  <div class="modal" style="max-width:680px;width:95%">
+    <div class="modal-header">
+      <span class="modal-title">Help &amp; Reference</span>
+      <span class="modal-close" onclick="closeModal('help-modal')">✕</span>
+    </div>
+    <div class="modal-body" style="max-height:70vh;overflow-y:auto;display:flex;flex-direction:column;gap:18px">
+
+      <div class="help-section">
+        <div class="help-section-title">Getting Started</div>
+        <div class="help-grid">
+          <div class="help-step"><span class="help-num">1</span><div><strong>Add Images</strong> — click "Add Images" in the toolbar or drag &amp; drop image files. Images appear in the thumbnail strip at the bottom.</div></div>
+          <div class="help-step"><span class="help-num">2</span><div><strong>Define Classes &amp; Objects</strong> — click "Classes" to set up object categories and their property schemas. Then use the "+" button in the Object Library (left panel) to add objects.</div></div>
+          <div class="help-step"><span class="help-num">3</span><div><strong>Annotate</strong> — click "Annotate" to enter annotation mode (cursor turns crosshair). Click on the image to place a marker; a picker appears to choose which object. Or arm an object first by clicking "Place on Image" in the library.</div></div>
+          <div class="help-step"><span class="help-num">4</span><div><strong>Export</strong> — use "Export" to download a full JSON database or a CSV of all sightings. Use "Import DB" to restore a saved session.</div></div>
+        </div>
+      </div>
+
+      <div class="help-section">
+        <div class="help-section-title">Keyboard Shortcuts</div>
+        <div class="help-kbds">
+          <div class="help-kbd-row"><kbd>←</kbd><kbd>→</kbd><span>Previous / next image</span></div>
+          <div class="help-kbd-row"><kbd>+</kbd><kbd>-</kbd><span>Zoom in / out</span></div>
+          <div class="help-kbd-row"><kbd>F</kbd><span>Fit image to frame</span></div>
+          <div class="help-kbd-row"><kbd>Esc</kbd><span>Deselect / close picker</span></div>
+          <div class="help-kbd-row"><kbd>Enter</kbd><span>Apply search / filter</span></div>
+        </div>
+      </div>
+
+      <div class="help-section">
+        <div class="help-section-title">Left Panel — Object Library</div>
+        <table class="help-table">
+          <tr><td>List / Table toggle</td><td>Switch between grouped list view and a sortable, filterable table. In table view, columns match the class schema plus any properties selected in "Show Properties".</td></tr>
+          <tr><td>Search box</td><td>Type a query and press <kbd>Enter</kbd> to filter. Use <code>+</code> to require multiple terms, e.g. <code>red+1:72</code>.</td></tr>
+          <tr><td>Class chips (bottom)</td><td>Click a class chip to restrict the list to that class only.</td></tr>
+          <tr><td>Object row click</td><td>Opens the inline detail panel at the bottom of the left panel for quick viewing and editing.</td></tr>
+          <tr><td>Place on Image</td><td>Arms the object and activates Annotate mode. The next click on the image places a marker for that object.</td></tr>
+        </table>
+      </div>
+
+      <div class="help-section">
+        <div class="help-section-title">Right Panel — Sightings</div>
+        <table class="help-table">
+          <tr><td>Image Properties</td><td>Per-image metadata fields defined in the Classes modal under "Image Fields". Values are saved per image — expand the header to edit them for the current image.</td></tr>
+          <tr><td>Show Properties bar</td><td>Click to expand. Toggle property chips to show those values on annotation labels, in the sightings list, and as table columns. Colorize changes dot/label colour by a chosen property value.</td></tr>
+          <tr><td>Sighting row</td><td>Click to select and highlight the annotation on the image. Use the edit icon to add a note; use the trash icon to delete.</td></tr>
+        </table>
+      </div>
+
+      <div class="help-section">
+        <div class="help-section-title">Annotation Labels</div>
+        <table class="help-table">
+          <tr><td>Label content</td><td>Shows the sighting note (if any) or the object name, plus any properties toggled on in the "Show Properties" bar.</td></tr>
+          <tr><td>Layout</td><td>Labels live in screen space and are automatically spread apart. They stay within the viewer panel and connect to their dot with a dashed leader line. Labels for off-screen dots are hidden.</td></tr>
+          <tr><td>Long text</td><td>Labels wrap at approximately 28 characters per line.</td></tr>
+        </table>
+      </div>
+
+      <div class="help-section">
+        <div class="help-section-title">Classes &amp; Schemas</div>
+        <table class="help-table">
+          <tr><td>Object classes</td><td>Group objects by type (e.g. "Vehicle", "Person"). Each class can define a property schema — named fields with types (text, number, boolean, date, url) that appear automatically on every object of that class.</td></tr>
+          <tr><td>Image fields</td><td>Defined separately from object schemas. These are per-image metadata fields (e.g. "Location", "Date") that appear in the collapsible "Image Properties" section of the right panel.</td></tr>
+          <tr><td>CSV Import</td><td>Imports rows as objects into the library. Column <code>name</code> becomes the object name; <code>color</code> sets the marker colour; all other columns become properties.</td></tr>
+        </table>
+      </div>
+
+      <div class="help-section">
+        <div class="help-section-title">Filters</div>
+        <table class="help-table">
+          <tr><td>Multi-term search</td><td>Separate terms with <code>+</code> to require all terms to match, e.g. <code>blue+sedan</code>. Works in the object search box, the image filter field, and table column filters.</td></tr>
+          <tr><td>Image filter</td><td>Select a field from the dropdown, type a value, and press <kbd>Enter</kbd>. Only images matching that field value are shown in the thumbnail strip.</td></tr>
+          <tr><td>Viz filter</td><td>In table view, click "Viz" to apply the current column filters to the annotation layer — only matching objects are shown as markers.</td></tr>
+          <tr><td>Saved filters</td><td>In table view, click "Save" to name and store the current column filter set. Saved filters appear as pills for quick recall.</td></tr>
+        </table>
+      </div>
+
+      <div class="help-section">
+        <div class="help-section-title">Data &amp; Storage</div>
+        <table class="help-table">
+          <tr><td>Auto-save</td><td>All changes are automatically saved to the browser's localStorage. Data persists across page refreshes on the same browser/device.</td></tr>
+          <tr><td>Export JSON</td><td>Downloads the full database (images, objects, classes, sightings, schemas) as a JSON file for backup or transfer.</td></tr>
+          <tr><td>Import DB</td><td>Loads a previously exported JSON file. Choose "Merge" to add to existing data (duplicate IDs are skipped) or "Replace" to overwrite everything.</td></tr>
+          <tr><td>Image data</td><td>Images are stored as base64 data URIs in localStorage. Large images may approach browser storage limits; export regularly as a backup.</td></tr>
+        </table>
+      </div>
+
+    </div>
+    <div class="modal-footer">
+      <button class="btn primary" onclick="closeModal('help-modal')">Close</button>
+    </div>
+  </div>
+</div>
+
+<script>
+// ═══════════════════════════════════════════
+// DATABASE
+// Objects are global; sightings are per-image instances.
+// ═══════════════════════════════════════════
+let DB = {
+  images:   [],   // {id, name, src, properties: {key: value, ...}}
+  objects:  [],   // {id, name, classId, color, notes, properties: {key: value, ...}}
+  classes:  [     // object categories
+    { id: 'cls_default', name: 'General', color: '#4f9eff', propertySchema: [] }
+  ],
+  sightings: [],  // {id, objectId, imageId, x, y, note}
+  imageSchema: [] // [{name, type, default, required}] — shared fields for all images
+};
+
+function saveDB() {
+  try {
+    const s = JSON.parse(JSON.stringify(DB));
+    s.images = s.images.map(i => {
+      const c = { ...i };
+      // keep a flag if source data is huge, but avoid mutating original object
+      if (c.src && c.src.length > 500000) {
+        c._hasSrc = true;
+      }
+      return c;
+    });
+    localStorage.setItem('IA2_DB', JSON.stringify(s));
+  } catch (e) {
+    console.error('saveDB failed', e);
+  }
+}
+function loadDB() {
+  try {
+    const raw = localStorage.getItem('IA2_DB');
+    if (raw) {
+      const p = JSON.parse(raw);
+      DB.classes = p.classes || DB.classes;
+      DB.objects = p.objects || [];
+      DB.sightings = p.sightings || [];
+      DB.images = (p.images || []).filter(i => i.src).map(i => ({ ...i }));
+      DB.imageSchema = p.imageSchema || [];
+      rebuildSightingIndex();
+    }
+  } catch (e) {
+    console.error('loadDB failed', e);
+  }
+}
+loadDB();
+
+function genId() { return '_' + Math.random().toString(36).substr(2,9) + Date.now().toString(36); }
+function getClass(id) { return DB.classes.find(c=>c.id===id) || DB.classes[0]; }
+function getObject(id) { return DB.objects.find(o=>o.id===id); }
+function getImage(id) { return DB.images.find(i=>i.id===id); }
+function getSighting(id) { return DB.sightings.find(s=>s.id===id); }
+
+function escapeHtml(str) {
+  return String(str || '').replace(/[&<>"]+/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c] || c));
+}
+
+// CACHED INDEXES FOR PERFORMANCE
+let sightingIndex = { byImage: {}, byObject: {}, listByImage: {}, listByObject: {} };
+function rebuildSightingIndex() {
+  sightingIndex.byImage = {};
+  sightingIndex.byObject = {};
+  sightingIndex.listByImage = {};
+  sightingIndex.listByObject = {};
+  DB.sightings.forEach(s => {
+    sightingIndex.byImage[s.imageId] = (sightingIndex.byImage[s.imageId] || 0) + 1;
+    sightingIndex.byObject[s.objectId] = (sightingIndex.byObject[s.objectId] || 0) + 1;
+    (sightingIndex.listByImage[s.imageId] ||= []).push(s);
+    (sightingIndex.listByObject[s.objectId] ||= []).push(s);
+  });
+}
+function sightingsForImage(imgId) { return sightingIndex.listByImage[imgId] || []; }
+function sightingsForObject(objId) { return sightingIndex.listByObject[objId] || []; }
+
+// ═══════════════════════════════════════════
+// STATE
+// ═══════════════════════════════════════════
+const state = {
+  currentImageId: null,
+  selectedSightingId: null,
+  selectedGlobalObjectId: null,
+  armedObjectId: null,        // object pre-selected for next image click
+  annotateMode: false,
+  layerVisible: true,
+  zoom: 1, fitMode: true, panX: 0, panY: 0,
+  adjPersist: false,
+  classFilter: null,   // class id to filter left panel
+  expandedClasses: {}, // classId: true/false for expand/collapse
+  // pending click placement
+  pendingClickX: null, pendingClickY: null,
+  // library table view
+  libView: 'list',          // 'list' | 'table'
+  libTableClassId: null,    // which class is selected in table view
+  libTableSort: { col: null, dir: 1 },
+  libTableFilters: {},      // colName -> filter string
+  libSavedFilters: [],      // [{name, classId, filters}]
+  libVizFilter: null,       // active viz filter {classId, filters}
+  // sighting display options
+  sightingDisplayProps: [], // array of property names to show in sightings panel
+  colorizeByProp: '',       // property name to colorize markers by
+  colorizeMap: {},          // value -> color
+  // image filtering
+  imgFilterField: '',
+  imgFilterVal: '',
+};
+
+// ═══════════════════════════════════════════
+// IMAGE LOADING
+// ═══════════════════════════════════════════
+function loadImages(files) {
+  let loaded = 0;
+  Array.from(files).forEach(file => {
+    const reader = new FileReader();
+    reader.onload = e => {
+      DB.images.push({ id: genId(), name: file.name, src: e.target.result });
+      if (++loaded === files.length) {
+        renderThumbs();
+        if (!state.currentImageId) selectImage(DB.images[0].id);
+        saveDB();
+      }
+    };
+    reader.readAsDataURL(file);
+  });
+}
+
+// ═══════════════════════════════════════════
+// IMAGE SELECTION
+// ═══════════════════════════════════════════
+function selectImage(id) {
+  if (!state.adjPersist) resetAllAdj(false);
+  state.currentImageId = id;
+  state.selectedSightingId = null;
+  closePicker();
+  renderThumbs();
+  updateCounter();
+  const img = getImage(id);
+  if (!img) return;
+  document.getElementById('no-image').style.display = 'none';
+  document.getElementById('img-canvas-wrap').style.display = '';
+  document.getElementById('img-name-display').textContent = img.name;
+  const el = document.getElementById('main-image');
+  el.onload = () => { if (state.fitMode) fitToFrame(); else updateTransform(); renderAnnotations(); };
+  el.src = img.src;
+  renderSightingsPanel();
+  renderSightingsPropBar();
+  renderGlobalList();
+  closeEditor();
+  renderImgPropsPanel();
+  saveDB();
+}
+
+// Split a filter string on '+' and return an array of trimmed lowercase terms
+function parseFilterTerms(val) {
+  return val.toLowerCase().split('+').map(t => t.trim()).filter(Boolean);
+}
+// Returns true if haystack matches ALL terms
+function matchesAllTerms(haystack, terms) {
+  const h = haystack.toLowerCase();
+  return terms.every(t => h.includes(t));
+}
+
+function getSortedImages() {
+  const sort = document.getElementById('sort-select').value;
+  const filterField = (document.getElementById('img-filter-field')?.value || '').trim();
+  const filterVal   = (document.getElementById('img-filter-val')?.value || '').trim();
+
+  let imgs = [...DB.images];
+
+  // Apply property filter (multi-term via +)
+  if (filterField && filterVal) {
+    const terms = parseFilterTerms(filterVal);
+    if (terms.length) {
+      imgs = imgs.filter(img => {
+        const haystack = filterField === '__name__' ? img.name : String(img.properties?.[filterField] || '');
+        return matchesAllTerms(haystack, terms);
+      });
+    }
+  }
+
+  if (sort === 'name') {
+    imgs.sort((a,b) => a.name.localeCompare(b.name));
+  } else if (sort === 'sightings') {
+    imgs.sort((a,b) => (sightingIndex.byImage[b.id] || 0) - (sightingIndex.byImage[a.id] || 0));
+  } else if (sort.startsWith('prop:')) {
+    const propName = sort.slice(5);
+    imgs.sort((a,b) => String(a.properties?.[propName]||'').localeCompare(String(b.properties?.[propName]||'')));
+  }
+  return imgs;
+}
+
+function refreshImgFilterSelect() {
+  const sel = document.getElementById('img-filter-field');
+  if (!sel) return;
+  const prev = sel.value;
+  sel.innerHTML = '<option value="">No filter</option><option value="__name__">Name</option>';
+  (DB.imageSchema || []).forEach(f => {
+    if (!f.name) return;
+    const opt = document.createElement('option');
+    opt.value = f.name; opt.textContent = f.name;
+    if (f.name === prev) opt.selected = true;
+    sel.appendChild(opt);
+  });
+  // Also refresh sort select with prop-based options
+  const sortSel = document.getElementById('sort-select');
+  // remove old prop options
+  Array.from(sortSel.options).filter(o=>o.value.startsWith('prop:')).forEach(o=>o.remove());
+  (DB.imageSchema || []).forEach(f => {
+    if (!f.name) return;
+    const opt = document.createElement('option');
+    opt.value = 'prop:'+f.name; opt.textContent = f.name+' A-Z';
+    sortSel.appendChild(opt);
+  });
+}
+
+function renderThumbs() {
+  const strip = document.getElementById('thumb-strip');
+  strip.innerHTML = '';
+  const cachedCounts = sightingIndex.byImage;
+  getSortedImages().forEach(img => {
+    const cnt = cachedCounts[img.id] || 0;
+    const div = document.createElement('div');
+    div.className = 'thumb' + (img.id === state.currentImageId ? ' active' : '');
+    div.innerHTML = `<img src="${img.src}" loading="lazy"><div class="thumb-label">${escapeHtml(img.name)}</div>${cnt ? `<div class="thumb-count">${cnt}</div>` : ''}`;
+    div.onclick = () => selectImage(img.id);
+    strip.appendChild(div);
+  });
+}
+
+function updateCounter() {
+  const imgs = getSortedImages();
+  const idx = imgs.findIndex(i => i.id === state.currentImageId);
+  document.getElementById('img-counter').textContent = `${idx+1} / ${imgs.length}`;
+  document.getElementById('nav-first').disabled = idx <= 0;
+  document.getElementById('nav-prev').disabled = idx <= 0;
+  document.getElementById('nav-next').disabled = idx >= imgs.length-1;
+  document.getElementById('nav-last').disabled = idx >= imgs.length-1;
+}
+
+function navImage(dir) {
+  const imgs = getSortedImages();
+  if (!imgs.length) return;
+  const idx = imgs.findIndex(i => i.id === state.currentImageId);
+  let next = idx;
+  if (dir==='first') next=0;
+  else if (dir==='last') next=imgs.length-1;
+  else if (dir==='prev') next=Math.max(0,idx-1);
+  else if (dir==='next') next=Math.min(imgs.length-1,idx+1);
+  if (imgs[next]) selectImage(imgs[next].id);
+}
+
+document.addEventListener('keydown', e => {
+  if (['INPUT','TEXTAREA','SELECT'].includes(e.target.tagName)) return;
+  if (e.key==='ArrowLeft') navImage('prev');
+  else if (e.key==='ArrowRight') navImage('next');
+  else if (e.key==='+' || e.key==='=') zoomIn();
+  else if (e.key==='-') zoomOut();
+  else if (e.key==='f' || e.key==='F') fitToFrame();
+  else if (e.key==='Escape') { closePicker(); state.selectedSightingId=null; renderAnnotations(); renderSightingsPanel(); }
+  else if (e.key==='?' || e.key==='/') showHelp();
+});
+
+// ═══════════════════════════════════════════
+// ZOOM & PAN
+// ═══════════════════════════════════════════
+function zoomIn() { state.zoom = Math.min(state.zoom*1.25,10); state.fitMode=false; updateTransform(); }
+function zoomOut() { state.zoom = Math.max(state.zoom/1.25,.05); state.fitMode=false; updateTransform(); }
+function fitToFrame() {
+  state.fitMode = true;
+  const wrap = document.getElementById('viewer-wrap');
+  const img = document.getElementById('main-image');
+  if (!img.naturalWidth) return;
+  const scale = Math.min(wrap.clientWidth/img.naturalWidth, wrap.clientHeight/img.naturalHeight, 1);
+  state.zoom = scale;
+  state.panX = (wrap.clientWidth - img.naturalWidth*scale)/2;
+  state.panY = (wrap.clientHeight - img.naturalHeight*scale)/2;
+  updateTransform();
+}
+let _annotationRafPending = false;
+function updateTransform() {
+  const wrap = document.getElementById('img-canvas-wrap');
+  const img = document.getElementById('main-image');
+  wrap.style.transform = `translate(${state.panX}px,${state.panY}px) scale(${state.zoom})`;
+  const layer = document.getElementById('annotation-layer');
+  if (img.naturalWidth) {
+    layer.setAttribute('width', img.naturalWidth);
+    layer.setAttribute('height', img.naturalHeight);
+    layer.style.width = img.naturalWidth+'px';
+    layer.style.height = img.naturalHeight+'px';
+  }
+  document.getElementById('zoom-info').textContent = Math.round(state.zoom*100)+'%';
+  // Re-render annotations so markers scale correctly with zoom, throttled via rAF
+  if (!_annotationRafPending) {
+    _annotationRafPending = true;
+    requestAnimationFrame(() => { _annotationRafPending = false; renderAnnotations(); });
+  }
+}
+
+let _panning=false, _psx,_psy,_pox,_poy;
+function onMouseDown(e) {
+  // annotate mode + left click → handled by annotation-layer click
+  if (state.annotateMode && e.button===0) return;
+  if (e.button===1 || e.button===2 || (e.button===0 && !state.annotateMode)) {
+    _panning=true; _psx=e.clientX; _psy=e.clientY; _pox=state.panX; _poy=state.panY;
+    e.preventDefault();
+  }
+}
+function onMouseMove(e) { if(!_panning)return; state.panX=_pox+(e.clientX-_psx); state.panY=_poy+(e.clientY-_psy); updateTransform(); }
+function onMouseUp() { _panning=false; }
+function onWheel(e) {
+  e.preventDefault();
+  const rect = document.getElementById('viewer-wrap').getBoundingClientRect();
+  const mx=e.clientX-rect.left, my=e.clientY-rect.top, old=state.zoom;
+  state.zoom = e.deltaY<0 ? Math.min(state.zoom*1.1,10) : Math.max(state.zoom/1.1,.05);
+  state.fitMode=false;
+  state.panX = mx-(mx-state.panX)*(state.zoom/old);
+  state.panY = my-(my-state.panY)*(state.zoom/old);
+  updateTransform();
+}
+
+// ═══════════════════════════════════════════
+// ANNOTATE MODE
+// ═══════════════════════════════════════════
+function toggleAnnotateMode() {
+  state.annotateMode = !state.annotateMode;
+  document.getElementById('btn-annotate').classList.toggle('active', state.annotateMode);
+  document.getElementById('viewer-wrap').classList.toggle('pick-mode', state.annotateMode);
+  const layer = document.getElementById('annotation-layer');
+  layer.classList.toggle('interactive', state.annotateMode);
+  if (!state.annotateMode) { state.armedObjectId = null; closePicker(); updateBanner(); }
+  else updateBanner();
+}
+
+function updateBanner() {
+  const banner = document.getElementById('pick-banner');
+  if (state.annotateMode) {
+    if (state.armedObjectId) {
+      const obj = getObject(state.armedObjectId);
+      banner.textContent = `Click image to place "${obj ? obj.name : 'object'}" — or click another object in the library`;
+    } else {
+      banner.textContent = 'Annotate mode — click image, then choose an object from the popup';
+    }
+    banner.classList.add('show');
+  } else {
+    banner.classList.remove('show');
+  }
+}
+
+// Click on annotation layer in annotate mode
+document.getElementById('annotation-layer').addEventListener('click', function(e) {
+  if (!state.annotateMode || !state.currentImageId) return;
+  const svgRect = this.getBoundingClientRect();
+  const ix = (e.clientX - svgRect.left) / state.zoom;
+  const iy = (e.clientY - svgRect.top) / state.zoom;
+  state.pendingClickX = ix;
+  state.pendingClickY = iy;
+  if (state.armedObjectId) {
+    // Object already chosen — place immediately
+    placeSighting(state.armedObjectId);
+    state.armedObjectId = null;
+    updateBanner();
+  } else {
+    // Show object picker at click location
+    showPickerAt(e.clientX, e.clientY);
+  }
+  e.stopPropagation();
+});
+
+// ═══════════════════════════════════════════
+// OBJECT PICKER (popup after click)
+// ═══════════════════════════════════════════
+function showPickerAt(cx, cy) {
+  const picker = document.getElementById('obj-picker');
+  const wrap = document.getElementById('viewer-wrap');
+  const rect = wrap.getBoundingClientRect();
+  document.getElementById('picker-search').value = '';
+  renderPicker();
+  // Position near click but keep in viewport
+  let left = cx - rect.left + 12;
+  let top = cy - rect.top + 12;
+  if (left + 270 > rect.width) left = cx - rect.left - 280;
+  if (top + 340 > rect.height) top = cy - rect.top - 350;
+  picker.style.left = Math.max(4, left) + 'px';
+  picker.style.top  = Math.max(4, top) + 'px';
+  picker.classList.add('show');
+  setTimeout(() => document.getElementById('picker-search').focus(), 50);
+}
+
+function renderPicker() {
+  const q = document.getElementById('picker-search').value.toLowerCase();
+  const list = document.getElementById('picker-list');
+  const objs = DB.objects.filter(o =>
+    (!q || o.name.toLowerCase().includes(q) || getClass(o.classId).name.toLowerCase().includes(q)) &&
+    (!state.classFilter || o.classId === state.classFilter)
+  );
+  list.innerHTML = '';
+  if (!objs.length) {
+    const empty = document.createElement('div');
+    empty.style.cssText = 'padding:10px;font-size:11px;color:var(--text3);text-align:center';
+    empty.textContent = 'No objects — add some in the library';
+    list.appendChild(empty);
+    return;
+  }
+  objs.forEach(obj => {
+    const cls = getClass(obj.classId);
+    const div = document.createElement('div');
+    div.className = 'picker-item';
+    div.innerHTML = `<div class="picker-dot" style="background:${obj.color||cls.color}"></div>`;
+    const nameEl = document.createElement('span');
+    nameEl.className = 'picker-name';
+    nameEl.textContent = obj.name;
+    const classEl = document.createElement('span');
+    classEl.className = 'picker-class';
+    classEl.textContent = cls.name;
+    div.append(nameEl, classEl);
+    div.onclick = () => placeSighting(obj.id);
+    list.appendChild(div);
+  });
+}
+
+function closePicker() {
+  document.getElementById('obj-picker').classList.remove('show');
+  state.pendingClickX = null;
+  state.pendingClickY = null;
+}
+
+// Close picker when clicking outside
+document.addEventListener('mousedown', e => {
+  const picker = document.getElementById('obj-picker');
+  if (picker.classList.contains('show') && !picker.contains(e.target)) closePicker();
+});
+
+// ═══════════════════════════════════════════
+// SIGHTINGS (placements)
+// ═══════════════════════════════════════════
+function placeSighting(objectId) {
+  const x = state.pendingClickX;
+  const y = state.pendingClickY;
+  closePicker();
+  const s = {
+    id: genId(),
+    objectId,
+    imageId: state.currentImageId,
+    x: (x !== null && x !== undefined) ? x : 100,
+    y: (y !== null && y !== undefined) ? y : 100,
+    note: ''
+  };
+  DB.sightings.push(s);
+  rebuildSightingIndex();
+  state.selectedSightingId = s.id;
+  renderAnnotations();
+  renderSightingsPanel();
+  renderGlobalList();
+  renderThumbs();
+  openEditor(s.id);
+  saveDB();
+}
+
+function deleteSighting(id) {
+  DB.sightings = DB.sightings.filter(s => s.id !== id);
+  rebuildSightingIndex();
+  if (state.selectedSightingId === id) { state.selectedSightingId=null; closeEditor(); }
+  renderAnnotations();
+  renderSightingsPanel();
+  renderGlobalList();
+  renderThumbs();
+  saveDB();
+}
+
+function selectSighting(id) {
+  state.selectedSightingId = id;
+  renderAnnotations();
+  renderSightingsPanel();
+  openEditor(id);
+}
+
+// Add sighting for a given global object. If annotate mode is on and we have
+// pending click coords (user clicked image first), use those. Otherwise arm
+// the "waiting for click" state so the next image click places it.
+function addSightingForObject(objId) {
+  if (!state.currentImageId) return;
+  if (state.pendingClickX !== null) {
+    // We have real coordinates from an image click — place immediately
+    const s = { id: genId(), objectId: objId, imageId: state.currentImageId,
+                 x: state.pendingClickX, y: state.pendingClickY, note: '' };
+    DB.sightings.push(s);
+    rebuildSightingIndex();
+    state.selectedSightingId = s.id;
+    state.pendingClickX = null; state.pendingClickY = null;
+    renderAnnotations(); renderSightingsPanel(); renderGlobalList(); renderThumbs();
+    openEditor(s.id);
+    saveDB();
+  } else {
+    // No click coords yet — arm annotate mode and wait for the user to click
+    state.armedObjectId = objId;
+    if (!state.annotateMode) toggleAnnotateMode();
+    updateBanner();
+  }
+}
+
+// ═══════════════════════════════════════════
+// CSV IMPORT
+// ═══════════════════════════════════════════
+let csvData = null;
+function showCsvModal() {
+  csvData = null;
+  document.getElementById('csv-preview').textContent = '';
+  document.getElementById('csv-import-btn').disabled = true;
+  document.getElementById('csv-file-input').value = '';
+  const sel = document.getElementById('csv-class');
+  sel.innerHTML = DB.classes.map(c=>`<option value="${c.id}">${c.name}</option>`).join('');
+  showModal('csv-modal');
+}
+function onCsvFile(input) { if (input.files[0]) parseCsvFile(input.files[0]); }
+function onCsvDrop(e) {
+  e.preventDefault(); e.currentTarget.classList.remove('drag-over');
+  if (e.dataTransfer.files[0]) parseCsvFile(e.dataTransfer.files[0]);
+}
+function parseCsvRow(line) {
+  const values=[];
+  let cur='';
+  let inQuotes=false;
+  for (let i=0;i<line.length;i++) {
+    const ch=line[i];
+    if (inQuotes) {
+      if (ch==='"') {
+        if (line[i+1]==='"') { cur+='"'; i++; }
+        else inQuotes=false;
+      } else cur+=ch;
+    } else {
+      if (ch==='"') { inQuotes=true; }
+      else if (ch===',') { values.push(cur); cur=''; }
+      else cur+=ch;
+    }
+  }
+  values.push(cur);
+  return values.map(v=>v.trim());
+}
+function parseCsvFile(file) {
+  const reader = new FileReader();
+  reader.onload = e => {
+    const lines = e.target.result.replace(/\r/g,'').trim().split('\n').filter(l=>l.trim()!=='');
+    if (!lines.length) return;
+    const headers = parseCsvRow(lines[0]).map(h=>h.replace(/^"|"$/g, ''));
+    const rows = lines.slice(1).map(line => {
+      const vals = parseCsvRow(line);
+      const obj = {};
+      headers.forEach((h,i) => obj[h] = vals[i] || '');
+      return obj;
+    }).filter(r => Object.values(r).some(v => v));
+    csvData = { headers, rows };
+    const preview = document.getElementById('csv-preview');
+    preview.innerHTML = `<span style="color:var(--green)">✓ ${rows.length} rows — columns: ${headers.join(', ')}</span>`;
+    document.getElementById('csv-import-btn').disabled = false;
+  };
+  reader.readAsText(file);
+}
+function importCsv() {
+  if (!csvData) return;
+  const clsId = document.getElementById('csv-class').value;
+  const cls = getClass(clsId);
+  csvData.rows.forEach(row => {
+    const name = row.name || row.Name || row.NAME || Object.values(row)[0] || 'Unnamed';
+    const color = row.color || row.Color || cls.color;
+    // Build properties from remaining columns
+    const skip = new Set(['name','Name','NAME','color','Color']);
+    const properties = {};
+    Object.entries(row).forEach(([k,v]) => {
+      if (!skip.has(k) && v) properties[k] = v;
+    });
+    DB.objects.push({ id: genId(), name: name.trim(), classId: clsId, color, properties });
+  });
+  closeModal('csv-modal');
+  renderGlobalList();
+  saveDB();
+}
+
+// ═══════════════════════════════════════════
+// ANNOTATION LAYER
+// ═══════════════════════════════════════════
+function toggleLayer() {
+  state.layerVisible = !state.layerVisible;
+  document.getElementById('btn-layer').classList.toggle('active', state.layerVisible);
+  document.getElementById('annotation-layer').style.display = state.layerVisible ? '' : 'none';
+  const ll = document.getElementById('label-layer');
+  if (ll) ll.style.display = state.layerVisible ? '' : 'none';
+}
+
+function renderAnnotations() {
+  const layer = document.getElementById('annotation-layer');
+  const labelLayer = document.getElementById('label-layer');
+  layer.innerHTML = '';
+  if (labelLayer) labelLayer.innerHTML = '';
+  if (!state.currentImageId || !state.layerVisible) return;
+
+  const sightings = sightingsForImage(state.currentImageId);
+  const iz = 1 / Math.max(state.zoom, 0.1);
+  const baseR = 4, selR = 6;
+  const ringR = 9 * iz;
+  const vf = state.libVizFilter;
+
+  // Collect visible sightings with their screen positions
+  const items = [];
+
+  sightings.forEach(s => {
+    const obj = getObject(s.objectId);
+    if (!obj) return;
+
+    if (vf && vf.classId) {
+      if (obj.classId !== vf.classId) return;
+      let pass = true;
+      Object.entries(vf.filters || {}).forEach(([k, v]) => {
+        if (!v) return;
+        const propVal = String(obj.properties?.[k] || '').toLowerCase();
+        if (!propVal.includes(v.toLowerCase())) pass = false;
+      });
+      if (!pass) return;
+    }
+
+    const cls = getClass(obj.classId);
+    let color = obj.color || cls.color || '#4f9eff';
+    if (state.colorizeByProp) {
+      const propVal = obj.properties?.[state.colorizeByProp] || '';
+      if (propVal) {
+        if (!state.colorizeMap[propVal]) {
+          const h = Math.abs(propVal.split('').reduce((a,c)=>a*31+c.charCodeAt(0),0)) % 360;
+          state.colorizeMap[propVal] = `hsl(${h},70%,60%)`;
+        }
+        color = state.colorizeMap[propVal];
+      }
+    }
+
+    const isSelected = s.id === state.selectedSightingId;
+
+    // Draw dot on annotation-layer (image space)
+    if (isSelected) {
+      const ring = document.createElementNS('http://www.w3.org/2000/svg','circle');
+      ring.setAttribute('cx',s.x); ring.setAttribute('cy',s.y); ring.setAttribute('r', ringR);
+      ring.setAttribute('fill','none'); ring.setAttribute('stroke','#fff'); ring.setAttribute('stroke-width', 1.5*iz);
+      ring.setAttribute('stroke-opacity','0.6'); ring.style.pointerEvents='none';
+      layer.appendChild(ring);
+    }
+
+    const g = document.createElementNS('http://www.w3.org/2000/svg','g');
+    g.style.cursor='pointer';
+    g.addEventListener('click', e => { e.stopPropagation(); selectSighting(s.id); });
+
+    const r = isSelected ? selR*iz : baseR*iz;
+    const circle = document.createElementNS('http://www.w3.org/2000/svg','circle');
+    circle.setAttribute('cx',s.x); circle.setAttribute('cy',s.y);
+    circle.setAttribute('r', r);
+    circle.setAttribute('fill', color);
+    circle.setAttribute('fill-opacity', isSelected?'0.9':'0.75');
+    circle.setAttribute('stroke', isSelected?'#fff':'rgba(255,255,255,0.5)');
+    circle.setAttribute('stroke-width', (isSelected?2:1.5)*iz);
+    g.appendChild(circle);
+    layer.appendChild(g);
+
+    // Build label text (word-wrap handled later)
+    let labelParts = [s.note || obj.name];
+    if (state.sightingDisplayProps.length) {
+      state.sightingDisplayProps.forEach(p => {
+        const v = obj.properties?.[p];
+        if (v) labelParts.push(String(v));
+      });
+    }
+    const labelText = labelParts.join(' · ');
+
+    // Convert image coords to screen coords
+    const sx = s.x * state.zoom + state.panX;
+    const sy = s.y * state.zoom + state.panY;
+
+    items.push({ s, obj, color, isSelected, sx, sy, labelText, dotR: r * state.zoom });
+  });
+
+  if (!labelLayer || !items.length) return;
+
+  // ── Label layout in screen space ──
+  const wrap = document.getElementById('viewer-wrap');
+  const vw = wrap.clientWidth;
+  const vh = wrap.clientHeight;
+
+  const FONT_SIZE = 11;
+  const LINE_HEIGHT = 14;
+  const MAX_CHARS_PER_LINE = 28;
+  const PAD_X = 5, PAD_Y = 3;
+
+  function wrapText(text, maxChars) {
+    const words = text.split(' ');
+    const lines = [];
+    let cur = '';
+    words.forEach(w => {
+      if ((cur + (cur?' ':'') + w).length <= maxChars) {
+        cur += (cur?' ':'') + w;
+      } else {
+        if (cur) lines.push(cur);
+        while (w.length > maxChars) { lines.push(w.slice(0, maxChars)); w = w.slice(maxChars); }
+        cur = w;
+      }
+    });
+    if (cur) lines.push(cur);
+    return lines.length ? lines : [''];
+  }
+
+  function labelSize(lines) {
+    const w = Math.max(...lines.map(l => l.length)) * (FONT_SIZE * 0.56) + PAD_X*2;
+    const h = lines.length * LINE_HEIGHT + PAD_Y*2;
+    return { w, h };
+  }
+
+  // ── 1. Cull items whose dot is off-screen ──
+  const DOT_MARGIN = 2; // px — how far outside the viewer a dot must be to suppress its label
+  const visibleItems = items.filter(item =>
+    item.sx >= -DOT_MARGIN && item.sx <= vw + DOT_MARGIN &&
+    item.sy >= -DOT_MARGIN && item.sy <= vh + DOT_MARGIN
+  );
+  if (!visibleItems.length) return;
+
+  // ── 2. Determine dominant axis and sort to preserve spatial sequence ──
+  const xs = visibleItems.map(i => i.sx);
+  const ys = visibleItems.map(i => i.sy);
+  const spreadX = Math.max(...xs) - Math.min(...xs);
+  const spreadY = Math.max(...ys) - Math.min(...ys);
+
+  // If the points are clearly more horizontal use X as primary sort, else Y.
+  // For similar spread use both (sort by X then Y as tie-break).
+  const sortedItems = [...visibleItems].sort((a, b) => {
+    if (spreadX > spreadY * 1.4) return a.sx - b.sx;          // dominantly horizontal
+    if (spreadY > spreadX * 1.4) return a.sy - b.sy;          // dominantly vertical
+    // Mixed: sort by X, break ties by Y
+    const dx = a.sx - b.sx;
+    return Math.abs(dx) > 20 ? dx : a.sy - b.sy;
+  });
+
+  // Build label objects in that sorted order
+  const labels = sortedItems.map(item => {
+    const lines = wrapText(item.labelText, MAX_CHARS_PER_LINE);
+    const { w, h } = labelSize(lines);
+    // Initial position: right of dot, vertically centred on it
+    let lx = item.sx + item.dotR + 8;
+    let ly = item.sy - h / 2;
+    if (lx + w > vw - 4) lx = item.sx - item.dotR - 8 - w;
+    // Clamp initial position into view
+    lx = Math.max(4, Math.min(vw - w - 4, lx));
+    ly = Math.max(4, Math.min(vh - h - 4, ly));
+    return { item, lines, w, h, lx, ly };
+  });
+
+  // ── 3. Force-directed separation with axis-respecting bias ──
+  // Labels are already in spatial order; pushing them apart should
+  // respect that order on the dominant axis so their sequence is preserved.
+  const ITERS = 80;
+  const MARGIN = 3;
+
+  for (let iter = 0; iter < ITERS; iter++) {
+    for (let i = 0; i < labels.length; i++) {
+      for (let j = i + 1; j < labels.length; j++) {
+        const a = labels[i], b = labels[j];
+        const overlapX  = (a.lx + a.w + MARGIN) - b.lx;
+        const overlapX2 = (b.lx + b.w + MARGIN) - a.lx;
+        const overlapY  = (a.ly + a.h + MARGIN) - b.ly;
+        const overlapY2 = (b.ly + b.h + MARGIN) - a.ly;
+        if (overlapX > 0 && overlapX2 > 0 && overlapY > 0 && overlapY2 > 0) {
+          const pushX = Math.min(overlapX, overlapX2);
+          const pushY = Math.min(overlapY, overlapY2);
+          if (spreadY > spreadX * 1.4) {
+            // Vertical layout: prefer pushing on Y to keep column order
+            const half = pushY / 2;
+            a.ly -= half; b.ly += half;
+          } else if (spreadX > spreadY * 1.4) {
+            // Horizontal layout: prefer pushing on X to keep row order
+            const half = pushX / 2;
+            a.lx -= half; b.lx += half;
+          } else {
+            // Mixed: smallest axis
+            if (pushY < pushX) { const half = pushY/2; a.ly -= half; b.ly += half; }
+            else                { const half = pushX/2; a.lx -= half; b.lx += half; }
+          }
+        }
+      }
+    }
+    // Clamp to viewer bounds after each iteration
+    labels.forEach(lb => {
+      lb.lx = Math.max(4, Math.min(vw - lb.w - 4, lb.lx));
+      lb.ly = Math.max(4, Math.min(vh - lb.h - 4, lb.ly));
+    });
+  }
+
+  // Draw labels + leader lines on label-layer (screen space)
+  labels.forEach(lb => {
+    const { item, lines, w, h, lx, ly } = lb;
+    const { sx, sy, color, isSelected, dotR } = item;
+
+    // Leader line: from dot edge to label box edge
+    // Find nearest point on label box to the dot
+    const bx = Math.max(lx, Math.min(lx+w, sx));
+    const by = Math.max(ly, Math.min(ly+h, sy));
+    const dist = Math.hypot(bx-sx, by-sy);
+
+    if (dist > dotR + 4) {
+      const line = document.createElementNS('http://www.w3.org/2000/svg','line');
+      // Start at dot edge
+      const angle = Math.atan2(by-sy, bx-sx);
+      line.setAttribute('x1', sx + Math.cos(angle)*(dotR+1));
+      line.setAttribute('y1', sy + Math.sin(angle)*(dotR+1));
+      line.setAttribute('x2', bx);
+      line.setAttribute('y2', by);
+      line.setAttribute('stroke', isSelected ? '#fff' : 'rgba(255,255,255,0.45)');
+      line.setAttribute('stroke-width', isSelected ? '1.2' : '0.8');
+      line.setAttribute('stroke-dasharray', '3,2');
+      labelLayer.appendChild(line);
+    }
+
+    // Label background
+    const rect = document.createElementNS('http://www.w3.org/2000/svg','rect');
+    rect.setAttribute('x', lx); rect.setAttribute('y', ly);
+    rect.setAttribute('width', w); rect.setAttribute('height', h);
+    rect.setAttribute('rx', '3');
+    rect.setAttribute('fill', isSelected ? 'rgba(0,0,0,0.82)' : 'rgba(0,0,0,0.62)');
+    rect.setAttribute('stroke', isSelected ? color : 'rgba(255,255,255,0.18)');
+    rect.setAttribute('stroke-width', isSelected ? '1.2' : '0.6');
+    labelLayer.appendChild(rect);
+
+    // Label text lines
+    const textEl = document.createElementNS('http://www.w3.org/2000/svg','text');
+    textEl.setAttribute('x', lx + PAD_X);
+    textEl.setAttribute('y', ly + PAD_Y + FONT_SIZE);
+    textEl.setAttribute('font-size', FONT_SIZE);
+    textEl.setAttribute('font-family', "'IBM Plex Sans', sans-serif");
+    textEl.setAttribute('fill', isSelected ? '#fff' : 'rgba(230,236,245,0.92)');
+    lines.forEach((line, i) => {
+      const ts = document.createElementNS('http://www.w3.org/2000/svg','tspan');
+      ts.setAttribute('x', lx + PAD_X);
+      if (i > 0) ts.setAttribute('dy', LINE_HEIGHT);
+      ts.textContent = line;
+      textEl.appendChild(ts);
+    });
+    labelLayer.appendChild(textEl);
+  });
+}
+
+// ═══════════════════════════════════════════
+// SIGHTINGS PANEL (right)
+// ═══════════════════════════════════════════
+function togglePropBar() {
+  const body = document.getElementById('sightings-prop-bar-body');
+  const chevron = document.getElementById('sprop-chevron');
+  body.classList.toggle('collapsed');
+  chevron.classList.toggle('open', !body.classList.contains('collapsed'));
+}
+
+function renderSightingsPropBar() {
+  // Collect all property names from all classes
+  const allProps = new Set();
+  DB.classes.forEach(cls => (cls.propertySchema||[]).forEach(f => { if(f.name) allProps.add(f.name); }));
+  DB.objects.forEach(o => Object.keys(o.properties||{}).forEach(k => allProps.add(k)));
+
+  // Chips for display props
+  const chips = document.getElementById('sighting-prop-chips');
+  if (chips) {
+    chips.innerHTML = '';
+    [...allProps].forEach(p => {
+      const ch = document.createElement('span');
+      ch.className = 'sprop-chip' + (state.sightingDisplayProps.includes(p) ? ' active' : '');
+      ch.textContent = p;
+      ch.title = 'Show "'+p+'" on markers, sightings list & table columns';
+      ch.onclick = () => {
+        const idx = state.sightingDisplayProps.indexOf(p);
+        if (idx >= 0) state.sightingDisplayProps.splice(idx,1);
+        else state.sightingDisplayProps.push(p);
+        renderSightingsPropBar();
+        renderAnnotations();
+        renderSightingsPanel();
+        if (state.libView === 'table') renderLibTable();
+      };
+      chips.appendChild(ch);
+    });
+  }
+
+  // Update active count badge
+  const badge = document.getElementById('sighting-prop-active-count');
+  if (badge) {
+    const cnt = state.sightingDisplayProps.length;
+    badge.textContent = cnt;
+    badge.style.display = cnt > 0 ? '' : 'none';
+  }
+
+  // Colorize select
+  const colSel = document.getElementById('colorize-select');
+  if (colSel) {
+    const prevVal = colSel.value;
+    colSel.innerHTML = '<option value="">Color: default</option>';
+    [...allProps].forEach(p => {
+      const opt = document.createElement('option');
+      opt.value = p; opt.textContent = 'Color: '+p;
+      if (p === prevVal) opt.selected = true;
+      colSel.appendChild(opt);
+    });
+    if (state.colorizeByProp) colSel.value = state.colorizeByProp;
+  }
+}
+
+function onColorizeChange() {
+  const sel = document.getElementById('colorize-select');
+  state.colorizeByProp = sel ? sel.value : '';
+  state.colorizeMap = {}; // reset color map when property changes
+  renderAnnotations();
+}
+
+function renderSightingsPanel() {
+  const list = document.getElementById('sightings-list');
+  const empty = document.getElementById('empty-sightings');
+  if (!state.currentImageId) {
+    list.innerHTML = ''; list.appendChild(empty); empty.textContent='No image selected'; return;
+  }
+  const sightings = sightingsForImage(state.currentImageId);
+  document.getElementById('sightings-count').textContent = sightings.length;
+
+  if (!sightings.length) {
+    list.innerHTML = ''; list.appendChild(empty);
+    empty.textContent = 'No sightings yet — enable Annotate mode and click the image';
+    return;
+  }
+
+  // Group by object
+  const groups = {};
+  sightings.forEach(s => {
+    if (!groups[s.objectId]) groups[s.objectId] = [];
+    groups[s.objectId].push(s);
+  });
+
+  list.innerHTML = '';
+  Object.entries(groups).forEach(([objId, ss]) => {
+    const obj = getObject(objId);
+    const cls = obj ? getClass(obj.classId) : null;
+    let color = obj ? (obj.color || cls.color) : '#888';
+
+    // Apply colorize
+    if (state.colorizeByProp && obj) {
+      const propVal = obj.properties?.[state.colorizeByProp] || '';
+      if (propVal && state.colorizeMap[propVal]) color = state.colorizeMap[propVal];
+    }
+
+    const name = obj ? obj.name : '(deleted object)';
+
+    // Build subtitle from display props
+    let subtitle = '';
+    if (state.sightingDisplayProps.length && obj) {
+      const parts = state.sightingDisplayProps.map(p => obj.properties?.[p]).filter(Boolean);
+      if (parts.length) subtitle = parts.join(' · ');
+    }
+
+    const group = document.createElement('div');
+    group.className = 'sighting-group';
+
+    const hdr = document.createElement('div');
+    hdr.className = 'sgroup-hdr';
+    hdr.style.flexWrap = 'wrap';
+    hdr.innerHTML = `<div class="gobj-dot" style="background:${color}"></div>
+      <span class="sgroup-name">${escapeHtml(name)}</span>
+      <span class="sgroup-cnt">${ss.length}&times;</span>
+      <button class="icon-btn sgroup-add" title="Add another sighting here" onclick="event.stopPropagation();addSightingForObject('${objId}')">
+        <svg viewBox="0 0 16 16" fill="currentColor"><path d="M8 4a.5.5 0 0 1 .5.5v3h3a.5.5 0 0 1 0 1h-3v3a.5.5 0 0 1-1 0v-3h-3a.5.5 0 0 1 0-1h3v-3A.5.5 0 0 1 8 4z"/></svg>
+      </button>
+      ${subtitle ? `<div style="width:100%;padding-left:17px;font-size:10px;color:var(--purple);margin-top:1px">${escapeHtml(subtitle)}</div>` : ''}`;
+    group.appendChild(hdr);
+
+    ss.forEach((s,i) => {
+      const row = document.createElement('div');
+      row.className = 'sighting-row' + (s.id===state.selectedSightingId?' selected':'');
+      row.innerHTML = `<span class="sighting-idx">#${i+1}</span>
+        <span class="sighting-pos">${Math.round(s.x)},${Math.round(s.y)}</span>
+        <span class="sighting-note">${escapeHtml(s.note||'')}</span>
+        <div class="sighting-actions">
+          <button class="icon-btn" title="Edit" onclick="event.stopPropagation();openEditor('${s.id}')">
+            <svg viewBox="0 0 16 16" fill="currentColor"><path d="M12.146.146a.5.5 0 0 1 .708 0l3 3a.5.5 0 0 1 0 .708l-10 10a.5.5 0 0 1-.168.11l-5 2a.5.5 0 0 1-.65-.65l2-5a.5.5 0 0 1 .11-.168l10-10z"/></svg>
+          </button>
+          <button class="icon-btn" title="Delete" onclick="event.stopPropagation();deleteSighting('${s.id}')">
+            <svg viewBox="0 0 16 16" fill="currentColor"><path d="M5.5 5.5A.5.5 0 0 1 6 6v6a.5.5 0 0 1-1 0V6a.5.5 0 0 1 .5-.5zm2.5 0a.5.5 0 0 1 .5.5v6a.5.5 0 0 1-1 0V6a.5.5 0 0 1 .5-.5zm3 .5a.5.5 0 0 0-1 0v6a.5.5 0 0 0 1 0V6z"/><path d="M14.5 3a1 1 0 0 1-1 1H13v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V4h-.5a1 1 0 0 1 0-2h3V1.5A1.5 1.5 0 0 1 7 0h2a1.5 1.5 0 0 1 1.5 1.5V2h3a1 1 0 0 1 1 1zM4.118 4 4 4.059V13a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1V4.059L11.882 4H4.118zM2.5 3V2h11v1h-11z"/></svg>
+          </button>
+        </div>`;
+      row.onclick = () => selectSighting(s.id);
+      group.appendChild(row);
+    });
+
+    list.appendChild(group);
+  });
+}
+
+// ═══════════════════════════════════════════
+// SIGHTING EDITOR
+// ═══════════════════════════════════════════
+function openEditor(sightingId) {
+  const s = getSighting(sightingId);
+  if (!s) return;
+  state.selectedSightingId = sightingId;
+  const obj = getObject(s.objectId);
+  const editor = document.getElementById('sighting-editor');
+  editor.classList.remove('hidden');
+  document.getElementById('ed-title').textContent = obj ? obj.name : 'Sighting';
+  const body = document.getElementById('ed-body');
+  body.innerHTML = `
+    <div class="form-row">
+      <label class="form-label">Note / label</label>
+      <input type="text" class="form-input" value="${s.note||''}" placeholder="Optional note for this specific sighting…"
+        oninput="updateSightingNote('${sightingId}',this.value)">
+    </div>
+    <div class="form-row">
+      <label class="form-label">Position</label>
+      <div class="pos-display">x: ${Math.round(s.x)}, y: ${Math.round(s.y)}</div>
+    </div>
+    ${obj ? `<div class="form-row">
+      <label class="form-label">Object</label>
+      <div style="font-size:12px;color:var(--text2)">${obj.name} — ${getClass(obj.classId).name}</div>
+      ${obj.notes ? `<div style="font-size:11px;color:var(--text3);margin-top:3px">${obj.notes}</div>` : ''}
+    </div>` : ''}
+    <div style="display:flex;gap:6px;margin-top:4px">
+      <button class="btn danger" style="font-size:11px" onclick="deleteSighting('${sightingId}')">Delete sighting</button>
+    </div>`;
+}
+
+function closeEditor() {
+  document.getElementById('sighting-editor').classList.add('hidden');
+}
+
+function updateSightingNote(id, val) {
+  const s = getSighting(id);
+  if (!s) return;
+  s.note = val;
+  renderAnnotations();
+  renderSightingsPanel();
+  saveDB();
+}
+
+// ═══════════════════════════════════════════
+// GLOBAL OBJECT LIBRARY (left panel)
+// ═══════════════════════════════════════════
+function renderGlobalList() {
+  const q = document.getElementById('obj-search').value.toLowerCase();
+  const list = document.getElementById('global-obj-list');
+  list.innerHTML = '';
+
+  // Group objects by class
+  const grouped = {};
+  DB.objects.forEach(obj => {
+    if (!grouped[obj.classId]) grouped[obj.classId] = [];
+    grouped[obj.classId].push(obj);
+  });
+
+  // Search ALL properties (name, notes, class, property values) — multi-term via +
+  function objMatchesQuery(obj, cls) {
+    if (!q) return true;
+    const terms = parseFilterTerms(q);
+    if (!terms.length) return true;
+    const haystack = [obj.name, obj.notes||'', cls.name, ...Object.values(obj.properties||{}).map(String)].join(' ');
+    return matchesAllTerms(haystack, terms);
+  }
+
+  // Filter and sort classes
+  const filteredClasses = DB.classes.filter(cls =>
+    (!state.classFilter || cls.id === state.classFilter) &&
+    (!q || cls.name.toLowerCase().includes(q) || grouped[cls.id]?.some(o => objMatchesQuery(o, cls)))
+  );
+
+  const currentImageSightings = state.currentImageId ? sightingsForImage(state.currentImageId) : [];
+  const perImageCount = currentImageSightings.reduce((acc, s) => { acc[s.objectId] = (acc[s.objectId]||0)+1; return acc; }, {});
+
+  filteredClasses.forEach(cls => {
+    const objs = grouped[cls.id] || [];
+    const filteredObjs = objs.filter(o => objMatchesQuery(o, cls));
+
+    if (!filteredObjs.length) return;
+
+    // Class header
+    const hdr = document.createElement('div');
+    hdr.className = 'class-header';
+    hdr.innerHTML = `
+      <div class="class-info">
+        <div class="class-dot" style="background:${cls.color}"></div>
+        <span class="class-name">${cls.name}</span>
+        <span class="class-count">${filteredObjs.length}</span>
+      </div>
+      <button class="icon-btn expand-btn" onclick="toggleClassExpand('${cls.id}')">
+        <svg viewBox="0 0 16 16" fill="currentColor"><path d="M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1-.708.708L5 2.707V13.5a.5.5 0 0 1-1 0V2.707L1.354 8.354a.5.5 0 1 1-.708-.708l6-6z"/></svg>
+      </button>`;
+    list.appendChild(hdr);
+
+    // Objects list
+    const objList = document.createElement('div');
+    objList.className = 'class-objects' + (state.expandedClasses[cls.id] !== false ? ' expanded' : '');
+    filteredObjs.forEach(obj => {
+      const color = obj.color || cls.color;
+      const imgSightings = perImageCount[obj.id] || 0;
+      const totalSightings = sightingIndex.byObject[obj.id] || 0;
+
+      const div = document.createElement('div');
+      div.className = 'gobj-item' + (obj.id === state.selectedGlobalObjectId ? ' selected' : '') + (imgSightings > 0 ? ' present' : '');
+      div.innerHTML = `
+        <div class="gobj-dot" style="background:${color}"></div>
+        <div class="gobj-info">
+          <div class="gobj-name">${escapeHtml(obj.name)}</div>
+          <div class="gobj-class">${totalSightings ? totalSightings + ' total' : ''}</div>
+        </div>
+        ${imgSightings > 0 ? `<span class="gobj-count">${imgSightings}&times;</span>` : ''}
+        <div class="gobj-actions">
+          <button class="icon-btn" title="Place this object" onclick="event.stopPropagation();armObject('${obj.id}')">
+            <svg viewBox="0 0 16 16" fill="currentColor"><path d="M8 4a.5.5 0 0 1 .5.5v3h3a.5.5 0 0 1 0 1h-3v3a.5.5 0 0 1-1 0v-3h-3a.5.5 0 0 1 0-1h3v-3A.5.5 0 0 1 8 4z"/></svg>
+          </button>
+        </div>`;
+      div.onclick = () => openObjDetailPanel(obj.id);
+      objList.appendChild(div);
+    });
+    list.appendChild(objList);
+  });
+
+  if (!DB.objects.length) {
+    list.innerHTML = '<div style="padding:16px;text-align:center;font-size:11px;color:var(--text3)">No objects yet.<br>Click + to define your first object.</div>';
+  }
+
+  renderClassChips();
+  if (state.libView === 'table') renderLibTable();
+}
+
+function toggleClassExpand(classId) {
+  state.expandedClasses[classId] = !state.expandedClasses[classId];
+  renderGlobalList();
+}
+
+function armObject(objId) {
+  state.selectedGlobalObjectId = objId;
+  state.armedObjectId = objId;
+  if (!state.annotateMode) toggleAnnotateMode();
+  updateBanner();
+  renderGlobalList();
+}
+
+// ═══════════════════════════════════════════
+// INLINE OBJECT DETAIL PANEL (left panel bottom)
+// ═══════════════════════════════════════════
+function openObjDetailPanel(objId) {
+  const obj = getObject(objId);
+  if (!obj) return;
+  state.selectedGlobalObjectId = objId;
+  renderGlobalList();
+
+  const cls = getClass(obj.classId);
+  const color = obj.color || cls.color;
+
+  document.getElementById('odp-dot').style.background = color;
+  document.getElementById('odp-title').textContent = obj.name;
+  document.getElementById('obj-detail-panel').classList.add('visible');
+
+  const body = document.getElementById('odp-body');
+  body.innerHTML = '';
+
+  // Name field
+  _odpAddField(body, 'Name', 'text', obj.name, false, val => {
+    obj.name = val;
+    document.getElementById('odp-title').textContent = val;
+    renderGlobalList();
+    renderAnnotations();
+    renderSightingsPanel();
+    saveDB();
+  });
+
+  // Class display (read-only summary) + color
+  const infoDiv = document.createElement('div');
+  infoDiv.className = 'odp-field';
+  infoDiv.innerHTML = `<div class="odp-field-label">Class</div>
+    <div style="font-size:11px;color:var(--text2);display:flex;align-items:center;gap:6px">
+      <span style="width:8px;height:8px;border-radius:50%;background:${cls.color};display:inline-block;flex-shrink:0"></span>${escapeHtml(cls.name)}
+      &nbsp;<input type="color" class="color-input" value="${color}" title="Marker color" style="width:22px;height:18px"
+        oninput="(function(v){getObject('${obj.id}').color=v;document.getElementById('odp-dot').style.background=v;renderAnnotations();})(this.value)"
+        onchange="saveDB()">
+    </div>`;
+  body.appendChild(infoDiv);
+
+  // Notes
+  _odpAddField(body, 'Notes', 'textarea', obj.notes || '', false, val => {
+    obj.notes = val; saveDB();
+  });
+
+  // Schema-driven + existing properties
+  const schema = cls.propertySchema || [];
+  const props = obj.properties || {};
+  const shownKeys = new Set();
+  schema.forEach(f => {
+    if (!f.name) return;
+    shownKeys.add(f.name);
+    _odpAddField(body, f.name, f.type || 'text', props[f.name] ?? f.default ?? '', f.required, val => {
+      if (!obj.properties) obj.properties = {};
+      obj.properties[f.name] = val;
+      saveDB();
+    });
+  });
+  // Extra freeform properties not in schema
+  Object.entries(props).forEach(([k, v]) => {
+    if (shownKeys.has(k)) return;
+    _odpAddField(body, k, _isUrl(String(v)) ? 'url' : 'text', v, false, val => {
+      obj.properties[k] = val; saveDB();
+    });
+  });
+
+  // Sightings count
+  const cntDiv = document.createElement('div');
+  cntDiv.style.cssText = 'font-size:11px;color:var(--text3);margin-top:6px';
+  cntDiv.textContent = `${sightingIndex.byObject[obj.id] || 0} total sighting(s) across all images`;
+  body.appendChild(cntDiv);
+}
+
+function _isUrl(val) {
+  return /^https?:\/\/.+/.test(String(val||'').trim());
+}
+
+function _odpAddField(container, label, type, value, required, onChangeCb) {
+  const div = document.createElement('div');
+  div.className = 'odp-field';
+  const labelEl = document.createElement('div');
+  labelEl.className = 'odp-field-label';
+  labelEl.innerHTML = escapeHtml(label) + (required ? ' <span class="req">*</span>' : '');
+  div.appendChild(labelEl);
+
+  const strVal = String(value || '');
+
+  // If the value looks like a URL (or type is 'url'), show only a clickable link + small edit input
+  if (type === 'url' || _isUrl(strVal)) {
+    if (strVal) {
+      const linkDiv = document.createElement('div');
+      linkDiv.style.marginBottom = '3px';
+      linkDiv.innerHTML = `<a class="prop-link" href="${escapeHtml(strVal)}" target="_blank" rel="noopener">${escapeHtml(strVal.replace(/^https?:\/\//,'').replace(/\/$/, '').slice(0,45)+(strVal.length>52?'…':''))}</a>`;
+      div.appendChild(linkDiv);
+    }
+    // Compact editable input so user can still change the URL
+    const input = document.createElement('input');
+    input.className = 'odp-input';
+    input.type = 'url';
+    input.value = strVal;
+    input.style.fontSize = '10px';
+    input.style.color = 'var(--text3)';
+    input.addEventListener('change', () => onChangeCb(input.value));
+    input.addEventListener('input', () => onChangeCb(input.value));
+    div.appendChild(input);
+  } else if (type === 'textarea') {
+    const input = document.createElement('textarea');
+    input.className = 'odp-input';
+    input.style.resize = 'vertical';
+    input.style.minHeight = '42px';
+    input.value = strVal;
+    input.addEventListener('change', () => onChangeCb(input.value));
+    div.appendChild(input);
+  } else if (type === 'boolean') {
+    const input = document.createElement('select');
+    input.className = 'odp-input';
+    input.innerHTML = `<option value="">—</option><option value="true"${strVal==='true'?' selected':''}>Yes</option><option value="false"${strVal==='false'?' selected':''}>No</option>`;
+    input.addEventListener('change', () => onChangeCb(input.value));
+    div.appendChild(input);
+  } else {
+    const input = document.createElement('input');
+    input.className = 'odp-input';
+    input.type = type === 'number' ? 'number' : type === 'date' ? 'date' : 'text';
+    input.value = strVal;
+    input.addEventListener('change', () => onChangeCb(input.value));
+    input.addEventListener('input', () => onChangeCb(input.value));
+    div.appendChild(input);
+  }
+
+  container.appendChild(div);
+}
+
+function closeObjDetailPanel() {
+  document.getElementById('obj-detail-panel').classList.remove('visible');
+  state.selectedGlobalObjectId = null;
+  renderGlobalList();
+}
+
+function deleteObjFromPanel() {
+  const id = state.selectedGlobalObjectId;
+  if (!id) return;
+  DB.objects = DB.objects.filter(o => o.id !== id);
+  DB.sightings = DB.sightings.filter(s => s.objectId !== id);
+  rebuildSightingIndex();
+  closeObjDetailPanel();
+  renderAnnotations();
+  renderSightingsPanel();
+  renderThumbs();
+  saveDB();
+}
+
+function renderClassChips() {
+  const cont = document.getElementById('class-chips');
+  cont.innerHTML = '';
+  DB.classes.forEach(cls => {
+    const chip = document.createElement('div');
+    chip.className = 'chip' + (state.classFilter===cls.id?' active':'');
+    chip.innerHTML = `<span style="width:6px;height:6px;border-radius:50%;background:${cls.color};display:inline-block"></span>${escapeHtml(cls.name)}`;
+    chip.onclick = () => { state.classFilter = state.classFilter===cls.id ? null : cls.id; renderGlobalList(); };
+    cont.appendChild(chip);
+  });
+}
+
+// ═══════════════════════════════════════════
+// LIBRARY TABLE VIEW
+// ═══════════════════════════════════════════
+function setLibView(v) {
+  state.libView = v;
+  document.getElementById('lib-list-view').style.display = v === 'list' ? 'flex' : 'none';
+  document.getElementById('lib-table-view').style.display = v === 'table' ? 'flex' : 'none';
+  document.getElementById('lib-btn-list').classList.toggle('active', v === 'list');
+  document.getElementById('lib-btn-table').classList.toggle('active', v === 'table');
+  if (v === 'table') {
+    if (!state.libTableClassId && DB.classes.length) state.libTableClassId = DB.classes[0].id;
+    renderLibTable();
+  }
+}
+
+function renderLibTable() {
+  // Render class tabs
+  const tabs = document.getElementById('lib-class-tabs');
+  tabs.innerHTML = '';
+  DB.classes.forEach(cls => {
+    const tab = document.createElement('div');
+    tab.className = 'lib-tab' + (state.libTableClassId === cls.id ? ' active' : '');
+    tab.innerHTML = `<span style="width:7px;height:7px;border-radius:50%;background:${cls.color};display:inline-block;flex-shrink:0"></span>${escapeHtml(cls.name)}`;
+    tab.onclick = () => {
+      state.libTableClassId = cls.id;
+      state.libTableSort = { col: null, dir: 1 };
+      state.libTableFilters = {};
+      renderLibTable();
+    };
+    tabs.appendChild(tab);
+  });
+
+  // Render saved filters bar
+  renderSavedFilterPills();
+
+  const cls = DB.classes.find(c => c.id === state.libTableClassId);
+  if (!cls) return;
+
+  // Determine columns: Name + schema props + any selected display props not already in schema + Sightings
+  const schema = cls.propertySchema || [];
+  const schemaNames = new Set(schema.map(f => f.name).filter(Boolean));
+  const extraCols = state.sightingDisplayProps.filter(p => !schemaNames.has(p));
+  const cols = ['Name', ...schema.map(f => f.name).filter(Boolean), ...extraCols, 'Sightings'];
+
+  const thead = document.querySelector('#lib-table thead');
+  const tbody = document.querySelector('#lib-table tbody');
+  thead.innerHTML = '';
+  tbody.innerHTML = '';
+
+  // Header row
+  const hdrRow = document.createElement('tr');
+  cols.forEach(col => {
+    const th = document.createElement('th');
+    const isSort = state.libTableSort.col === col;
+    th.innerHTML = escapeHtml(col) + `<span class="sort-icon">${isSort ? (state.libTableSort.dir > 0 ? '▲' : '▼') : '⇅'}</span>`;
+    if (isSort) th.classList.add('sorted');
+    th.onclick = () => {
+      if (state.libTableSort.col === col) state.libTableSort.dir *= -1;
+      else { state.libTableSort.col = col; state.libTableSort.dir = 1; }
+      renderLibTable();
+    };
+    hdrRow.appendChild(th);
+  });
+  thead.appendChild(hdrRow);
+
+  // Filter row
+  const filterRow = document.createElement('tr');
+  filterRow.className = 'lib-filter-row';
+  cols.forEach(col => {
+    const td = document.createElement('td');
+    if (col !== 'Sightings') {
+      const inp = document.createElement('input');
+      inp.type = 'text';
+      inp.placeholder = 'Filter… (Enter, + multi)';
+      inp.value = state.libTableFilters[col] || '';
+      inp.onkeydown = (e) => { if (e.key === 'Enter') { state.libTableFilters[col] = inp.value; renderLibTable(); } };
+      td.appendChild(inp);
+    }
+    filterRow.appendChild(td);
+  });
+  thead.appendChild(filterRow);
+
+  // Get objects for this class
+  const q = document.getElementById('obj-search').value.toLowerCase();
+  let objs = DB.objects.filter(o => o.classId === cls.id);
+
+  // Apply search (multi-term)
+  if (q) {
+    const terms = parseFilterTerms(q);
+    if (terms.length) {
+      objs = objs.filter(o => {
+        const haystack = [o.name, o.notes||'', ...Object.values(o.properties||{}).map(String)].join(' ');
+        return matchesAllTerms(haystack, terms);
+      });
+    }
+  }
+
+  // Apply column filters (multi-term)
+  Object.entries(state.libTableFilters).forEach(([col, fv]) => {
+    if (!fv) return;
+    const terms = parseFilterTerms(fv);
+    if (!terms.length) return;
+    objs = objs.filter(o => {
+      const val = col === 'Name' ? o.name : (o.properties?.[col] || '');
+      return matchesAllTerms(String(val), terms);
+    });
+  });
+
+  // Sort
+  if (state.libTableSort.col) {
+    const sc = state.libTableSort.col;
+    const sd = state.libTableSort.dir;
+    objs = [...objs].sort((a,b) => {
+      let va = sc === 'Name' ? a.name : sc === 'Sightings' ? (sightingIndex.byObject[a.id]||0) : (a.properties?.[sc]||'');
+      let vb = sc === 'Name' ? b.name : sc === 'Sightings' ? (sightingIndex.byObject[b.id]||0) : (b.properties?.[sc]||'');
+      if (typeof va === 'number' || typeof vb === 'number') return (Number(va||0) - Number(vb||0)) * sd;
+      return String(va).localeCompare(String(vb)) * sd;
+    });
+  }
+
+  const currentImgSightings = state.currentImageId ? sightingsForImage(state.currentImageId) : [];
+  const perImgCount = currentImgSightings.reduce((a,s)=>{a[s.objectId]=(a[s.objectId]||0)+1;return a;},{});
+
+  if (!objs.length) {
+    const tr = document.createElement('tr');
+    const td = document.createElement('td');
+    td.colSpan = cols.length;
+    td.style.cssText = 'text-align:center;color:var(--text3);font-style:italic;padding:12px';
+    td.textContent = 'No objects match';
+    tr.appendChild(td);
+    tbody.appendChild(tr);
+    return;
+  }
+
+  objs.forEach(obj => {
+    const tr = document.createElement('tr');
+    if (obj.id === state.selectedGlobalObjectId) tr.classList.add('selected');
+    if (perImgCount[obj.id]) tr.classList.add('present');
+    tr.style.cursor = 'pointer';
+    tr.onclick = () => openObjDetailPanel(obj.id);
+
+    cols.forEach(col => {
+      const td = document.createElement('td');
+      if (col === 'Name') {
+        const color = obj.color || cls.color;
+        td.innerHTML = `<div class="tbl-name-cell"><span class="tbl-color-dot" style="background:${color}"></span>${escapeHtml(obj.name)}</div>`;
+      } else if (col === 'Sightings') {
+        const cnt = sightingIndex.byObject[obj.id] || 0;
+        td.style.cssText = 'color:var(--accent);font-family:IBM Plex Mono,monospace;text-align:right';
+        td.textContent = cnt || '';
+      } else {
+        const v = obj.properties?.[col] || '';
+        if (_isUrl(String(v))) {
+          td.innerHTML = `<a class="prop-link" href="${escapeHtml(v)}" target="_blank" rel="noopener" onclick="event.stopPropagation()">${escapeHtml(String(v).replace(/^https?:\/\//,'').slice(0,30)+'...')}</a>`;
+        } else {
+          td.textContent = v;
+          td.title = v;
+        }
+      }
+      tr.appendChild(td);
+    });
+    tbody.appendChild(tr);
+  });
+}
+
+function saveLibFilter() {
+  const cls = DB.classes.find(c => c.id === state.libTableClassId);
+  if (!cls) return;
+  const hasFilters = Object.values(state.libTableFilters).some(v => v);
+  if (!hasFilters) { alert('No active column filters to save.'); return; }
+  const name = prompt('Name for this filter set:', cls.name + ' filter');
+  if (!name) return;
+  state.libSavedFilters.push({ name, classId: state.libTableClassId, filters: { ...state.libTableFilters } });
+  renderSavedFilterPills();
+}
+
+function renderSavedFilterPills() {
+  const cont = document.getElementById('lib-saved-filters');
+  cont.innerHTML = '';
+  state.libSavedFilters.forEach((f, i) => {
+    const pill = document.createElement('div');
+    pill.className = 'saved-filter-pill';
+    const cls = DB.classes.find(c => c.id === f.classId);
+    pill.innerHTML = `<span style="width:6px;height:6px;border-radius:50%;background:${cls?.color||'#888'};display:inline-block"></span>
+      ${escapeHtml(f.name)}
+      <span class="pill-del" title="Delete filter" onclick="event.stopPropagation();deleteLibFilter(${i})">✕</span>`;
+    pill.onclick = () => recallLibFilter(i);
+    cont.appendChild(pill);
+  });
+}
+
+function recallLibFilter(i) {
+  const f = state.libSavedFilters[i];
+  if (!f) return;
+  state.libTableClassId = f.classId;
+  state.libTableFilters = { ...f.filters };
+  renderLibTable();
+}
+
+function deleteLibFilter(i) {
+  state.libSavedFilters.splice(i, 1);
+  renderSavedFilterPills();
+}
+
+function applyLibFilterToViz() {
+  const hasFilters = Object.values(state.libTableFilters).some(v => v);
+  if (!state.libTableClassId) return;
+  if (!hasFilters) {
+    // Clear viz filter
+    state.libVizFilter = null;
+    renderAnnotations();
+    alert('Visualization filter cleared.');
+    return;
+  }
+  state.libVizFilter = { classId: state.libTableClassId, filters: { ...state.libTableFilters } };
+  renderAnnotations();
+  const cls = DB.classes.find(c => c.id === state.libTableClassId);
+  alert(`Visualization now only shows ${cls?.name||''} objects matching the current filter.`);
+}
+
+// ═══════════════════════════════════════════
+// GLOBAL OBJECT MODAL
+// ═══════════════════════════════════════════
+let editingObjId = null;
+function showAddObjectModal() {
+  editingObjId = null;
+  document.getElementById('obj-modal-title').textContent = 'Add Object';
+  document.getElementById('om-name').value = '';
+  document.getElementById('om-notes').value = '';
+  document.getElementById('om-color').value = '#' + Math.floor(Math.random()*0xffffff).toString(16).padStart(6,'0');
+  document.getElementById('om-delete').classList.add('hidden');
+  populateClassSelect('om-class', null);
+  renderProperties({});
+  // Pre-fill with schema of selected class
+  const classId = document.getElementById('om-class').value;
+  if (classId) applyClassSchema(classId, true);
+  showModal('obj-modal');
+  setTimeout(() => document.getElementById('om-name').focus(), 50);
+}
+function showEditObjectModal(id) {
+  editingObjId = id;
+  const obj = getObject(id); if (!obj) return;
+  document.getElementById('obj-modal-title').textContent = 'Edit Object';
+  document.getElementById('om-name').value = obj.name;
+  document.getElementById('om-notes').value = obj.notes||'';
+  document.getElementById('om-color').value = obj.color||'#4f9eff';
+  document.getElementById('om-delete').classList.remove('hidden');
+  populateClassSelect('om-class', obj.classId);
+  renderProperties(obj.properties || {});
+  showModal('obj-modal');
+}
+function populateClassSelect(selId, selected) {
+  const sel = document.getElementById(selId);
+  sel.innerHTML = DB.classes.map(c => `<option value="${c.id}" ${c.id===selected?'selected':''}>${c.name}</option>`).join('');
+}
+
+// When class changes in the object modal, merge schema fields (preserving existing values)
+function applyClassSchema(classId, forceReset) {
+  const cls = DB.classes.find(c => c.id === classId);
+  if (!cls || !cls.propertySchema || !cls.propertySchema.length) return;
+  // Collect current property values
+  const currentProps = {};
+  document.querySelectorAll('#om-properties > div').forEach(div => {
+    const k = div.querySelector('.prop-key')?.value.trim();
+    const v = div.querySelector('.prop-value')?.value.trim();
+    if (k) currentProps[k] = v;
+  });
+  // Build merged props: schema fields first, then any extras already there
+  const merged = {};
+  cls.propertySchema.forEach(f => {
+    merged[f.name] = (currentProps[f.name] !== undefined && !forceReset) ? currentProps[f.name] : (f.default || '');
+  });
+  // Keep extra non-schema props
+  Object.entries(currentProps).forEach(([k, v]) => { if (!(k in merged)) merged[k] = v; });
+  renderProperties(merged, cls.propertySchema);
+}
+function randomColor() {
+  document.getElementById('om-color').value = '#' + Math.floor(Math.random()*0xffffff).toString(16).padStart(6,'0');
+}
+function renderProperties(props, schema) {
+  const cont = document.getElementById('om-properties');
+  cont.innerHTML = '';
+  const entries = Object.entries(props);
+  if (!entries.length) {
+    addPropertyRow('', '', false, schema);
+  } else {
+    entries.forEach(([key, value]) => {
+      const schemaDef = schema ? schema.find(f => f.name === key) : null;
+      addPropertyRow(key, value, schemaDef?.required, schema);
+    });
+  }
+}
+function addProperty() {
+  addPropertyRow('', '');
+}
+function addPropertyRow(key, value, required, schema) {
+  const cont = document.getElementById('om-properties');
+  const div = document.createElement('div');
+  div.style.display = 'flex';
+  div.style.gap = '6px';
+  div.style.alignItems = 'center';
+  const reqBadge = required ? `<span style="font-size:9px;color:var(--red);flex-shrink:0" title="Required">*</span>` : '';
+  div.innerHTML = `
+    ${reqBadge}
+    <input type="text" class="form-input prop-key" placeholder="Property name" value="${escapeHtml(key)}" style="flex:1;font-size:11px;padding:4px 6px">
+    <input type="text" class="form-input prop-value" placeholder="Value" value="${escapeHtml(value)}" style="flex:1;font-size:11px;padding:4px 6px">
+    <button class="btn danger" onclick="this.parentElement.remove()" style="font-size:10px;padding:2px 6px">×</button>`;
+  cont.appendChild(div);
+}
+function saveGlobalObject() {
+  const name = document.getElementById('om-name').value.trim();
+  if (!name) return;
+  const properties = {};
+  document.querySelectorAll('#om-properties > div').forEach(div => {
+    const key = div.querySelector('.prop-key').value.trim();
+    const value = div.querySelector('.prop-value').value.trim();
+    if (key) properties[key] = value;
+  });
+  const savedId = editingObjId;
+  if (editingObjId) {
+    const obj = getObject(editingObjId);
+    obj.name = name; obj.classId = document.getElementById('om-class').value;
+    obj.color = document.getElementById('om-color').value;
+    obj.notes = document.getElementById('om-notes').value.trim();
+    obj.properties = properties;
+  } else {
+    const newObj = {
+      id: genId(), name,
+      classId: document.getElementById('om-class').value,
+      color: document.getElementById('om-color').value,
+      notes: document.getElementById('om-notes').value.trim(),
+      properties
+    };
+    DB.objects.push(newObj);
+  }
+  closeModal('obj-modal');
+  renderGlobalList();
+  renderAnnotations();
+  renderSightingsPanel();
+  // Refresh detail panel if it was open for this object
+  if (savedId && state.selectedGlobalObjectId === savedId) openObjDetailPanel(savedId);
+  saveDB();
+}
+function deleteGlobalObject() {
+  if (!editingObjId) return;
+  DB.objects = DB.objects.filter(o => o.id !== editingObjId);
+  DB.sightings = DB.sightings.filter(s => s.objectId !== editingObjId);
+  rebuildSightingIndex();
+  closeModal('obj-modal');
+  closeObjDetailPanel();
+  renderAnnotations();
+  renderSightingsPanel();
+  renderThumbs();
+  saveDB();
+}
+
+// ═══════════════════════════════════════════
+// CLASS MANAGER (with property schema editor)
+// ═══════════════════════════════════════════
+function showClassManager() { renderClassModal(); renderImgSchemaList(); showModal('class-modal'); }
+
+function renderImgSchemaList() {
+  const cont = document.getElementById('img-schema-list');
+  if (!cont) return;
+  cont.innerHTML = '';
+  const schema = DB.imageSchema || [];
+  if (!schema.length) {
+    cont.innerHTML = '<div class="schema-empty">No image fields defined.</div>';
+  }
+  schema.forEach((prop, pi) => {
+    const row = document.createElement('div');
+    row.className = 'schema-row';
+    row.innerHTML = `
+      <input type="text" class="form-input" style="flex:2;min-width:0" placeholder="Field name" value="${escapeHtml(prop.name)}"
+             onchange="DB.imageSchema[${pi}].name=this.value">
+      <select class="schema-type-select" onchange="DB.imageSchema[${pi}].type=this.value">
+        ${['text','number','boolean','date','url'].map(t=>`<option value="${t}"${prop.type===t?' selected':''}>${t}</option>`).join('')}
+      </select>
+      <input type="text" class="form-input" style="flex:2;min-width:0" placeholder="Default" value="${escapeHtml(prop.default||'')}"
+             onchange="DB.imageSchema[${pi}].default=this.value">
+      <label class="schema-required" title="Required field">
+        <input type="checkbox" ${prop.required?'checked':''} onchange="DB.imageSchema[${pi}].required=this.checked"> Req
+      </label>
+      <button class="icon-btn" style="color:var(--red)" title="Remove field"
+              onclick="DB.imageSchema.splice(${pi},1);renderImgSchemaList()">
+        <svg viewBox="0 0 16 16" fill="currentColor"><path d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z"/></svg>
+      </button>`;
+    cont.appendChild(row);
+  });
+}
+
+function addImgSchemaField() {
+  if (!DB.imageSchema) DB.imageSchema = [];
+  DB.imageSchema.push({ name: '', type: 'text', default: '', required: false });
+  renderImgSchemaList();
+}
+
+function renderClassModal() {
+  const body = document.getElementById('class-modal-body');
+  body.innerHTML = '';
+  DB.classes.forEach((cls, ci) => {
+    const card = document.createElement('div');
+    card.className = 'class-card';
+    card.id = `class-card-${ci}`;
+
+    const hdr = document.createElement('div');
+    hdr.className = 'class-card-hdr';
+    hdr.innerHTML = `
+      <input type="color" class="color-input" value="${cls.color}" oninput="DB.classes[${ci}].color=this.value">
+      <input type="text" class="form-input" style="flex:1" value="${cls.name}" placeholder="Class name"
+             onchange="DB.classes[${ci}].name=this.value">
+      <button class="btn danger" style="padding:3px 8px;font-size:11px;flex-shrink:0" onclick="deleteClass(${ci})">Delete</button>`;
+    card.appendChild(hdr);
+
+    const cbody = document.createElement('div');
+    cbody.className = 'class-card-body';
+    cbody.innerHTML = `<div style="font-size:10px;font-weight:600;text-transform:uppercase;letter-spacing:.6px;color:var(--text3);margin-bottom:6px">
+      Property Schema <span style="font-weight:400;text-transform:none;letter-spacing:0;color:var(--text3);opacity:.7">— fields shown for every object of this class</span>
+    </div>`;
+
+    const schemaList = document.createElement('div');
+    schemaList.id = `schema-list-${ci}`;
+
+    function renderSchemaRows() {
+      schemaList.innerHTML = '';
+      const sch = DB.classes[ci].propertySchema || [];
+      if (!sch.length) {
+        schemaList.innerHTML = '<div class="schema-empty">No property fields defined.</div>';
+      }
+      sch.forEach((prop, pi) => {
+        const row = document.createElement('div');
+        row.className = 'schema-row';
+        row.innerHTML = `
+          <input type="text" class="form-input" style="flex:2;min-width:0" placeholder="Field name" value="${escapeHtml(prop.name)}"
+                 onchange="DB.classes[${ci}].propertySchema[${pi}].name=this.value">
+          <select class="schema-type-select" onchange="DB.classes[${ci}].propertySchema[${pi}].type=this.value">
+            ${['text','number','boolean','date','url'].map(t=>`<option value="${t}"${prop.type===t?' selected':''}>${t}</option>`).join('')}
+          </select>
+          <input type="text" class="form-input" style="flex:2;min-width:0" placeholder="Default" value="${escapeHtml(prop.default||'')}"
+                 onchange="DB.classes[${ci}].propertySchema[${pi}].default=this.value">
+          <label class="schema-required" title="Required field">
+            <input type="checkbox" ${prop.required?'checked':''} onchange="DB.classes[${ci}].propertySchema[${pi}].required=this.checked"> Req
+          </label>
+          <button class="icon-btn" style="color:var(--red)" title="Remove field"
+                  onclick="DB.classes[${ci}].propertySchema.splice(${pi},1);renderSchemaRowsFor(${ci})">
+            <svg viewBox="0 0 16 16" fill="currentColor"><path d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z"/></svg>
+          </button>`;
+        schemaList.appendChild(row);
+      });
+    }
+    // Store renderRows on the element so inline onclick can call it via global helper
+    schemaList._renderRows = renderSchemaRows;
+    renderSchemaRows();
+    cbody.appendChild(schemaList);
+
+    const addBtn = document.createElement('button');
+    addBtn.className = 'schema-add-btn';
+    addBtn.textContent = '+ Add property field';
+    addBtn.onclick = () => {
+      if (!DB.classes[ci].propertySchema) DB.classes[ci].propertySchema = [];
+      DB.classes[ci].propertySchema.push({ name: '', type: 'text', default: '', required: false });
+      renderSchemaRowsFor(ci);
+    };
+    cbody.appendChild(addBtn);
+    card.appendChild(cbody);
+    body.appendChild(card);
+  });
+}
+
+// Global helper called by inline onclick for schema row removal
+function renderSchemaRowsFor(ci) {
+  const el = document.getElementById(`schema-list-${ci}`);
+  if (el && el._renderRows) el._renderRows();
+}
+
+function addNewClass() {
+  DB.classes.push({ id: genId(), name: 'New Class', color: '#' + Math.floor(Math.random()*0xffffff).toString(16).padStart(6,'0'), propertySchema: [] });
+  renderClassModal();
+  setTimeout(() => { const b = document.getElementById('class-modal-body'); if(b) b.scrollTop = b.scrollHeight; }, 50);
+}
+
+function deleteClass(ci) {
+  if (DB.classes.length <= 1) { alert('Must keep at least one class.'); return; }
+  DB.classes.splice(ci, 1);
+  renderClassModal();
+}
+
+function saveClasses() {
+  closeModal('class-modal');
+  renderGlobalList();
+  refreshImgFilterSelect();
+  renderSightingsPropBar();
+  if (state.currentImageId) renderImgPropsPanel();
+  saveDB();
+}
+
+// ═══════════════════════════════════════════
+// IMAGE PROPERTY PANEL (right panel top)
+// ═══════════════════════════════════════════
+function toggleImgProps() {
+  const panel = document.getElementById('img-props-panel');
+  const chevron = panel.querySelector('.ipp-chevron');
+  panel.classList.toggle('collapsed');
+  chevron.classList.toggle('open', !panel.classList.contains('collapsed'));
+}
+
+// Monotonically increasing token — each renderImgPropsPanel call gets a unique token.
+// Closures in event listeners check this token before writing, so stale listeners
+// from a previous image can never corrupt another image's data.
+let _ippToken = 0;
+
+function renderImgPropsPanel() {
+  const body   = document.getElementById('ipp-body');
+  const title  = document.querySelector('#img-props-panel .ipp-title');
+  const schema = DB.imageSchema || [];
+
+  // Grab a snapshot of which image this render is for, and mint a new token.
+  const imgId  = state.currentImageId || null;
+  const img    = imgId ? DB.images.find(i => i.id === imgId) : null;
+  const token  = ++_ippToken;   // any listener whose token !== this value is stale
+
+  // Update header to show current image name so the panel is visibly per-image
+  if (title) title.textContent = img ? `Image: ${img.name}` : 'Image Properties';
+
+  // Clear body
+  while (body.firstChild) body.removeChild(body.firstChild);
+
+  if (!img) {
+    body.insertAdjacentHTML('beforeend', '<div class="ipp-empty">No image selected</div>');
+    return;
+  }
+  if (!schema.length) {
+    body.insertAdjacentHTML('beforeend', `<div class="ipp-empty">No image fields defined. <span style="color:var(--accent);cursor:pointer" onclick="showClassManager()">Add fields in Classes →</span></div>`);
+    return;
+  }
+
+  if (!img.properties) img.properties = {};
+
+  schema.forEach(f => {
+    if (!f.name) return;
+    // Read value fresh from DB every time — never trust a stale closure value
+    const val = String(img.properties[f.name] ?? f.default ?? '');
+
+    const div = document.createElement('div');
+    div.className = 'ipp-field';
+
+    const lbl = document.createElement('label');
+    lbl.className = 'ipp-label';
+    lbl.textContent = f.name + (f.required ? ' *' : '');
+    div.appendChild(lbl);
+
+    let input;
+    if (f.type === 'boolean') {
+      input = document.createElement('select');
+      input.className = 'ipp-input';
+      input.innerHTML = `<option value="">—</option>
+        <option value="true"${val==='true'?' selected':''}>Yes</option>
+        <option value="false"${val==='false'?' selected':''}>No</option>`;
+    } else {
+      input = document.createElement('input');
+      input.className = 'ipp-input';
+      input.type = f.type === 'number' ? 'number'
+                 : f.type === 'date'   ? 'date'
+                 : f.type === 'url'    ? 'url'
+                 : 'text';
+      input.placeholder = f.default || '';
+    }
+    // Assign value BEFORE adding listeners so no spurious events fire
+    input.value = val;
+
+    const fieldName = f.name;  // snapshot for closure
+
+    const persist = () => {
+      // Token guard: abort if renderImgPropsPanel was called again for a different image
+      if (token !== _ippToken) return;
+      // Re-look-up the image at write time — never use a stale reference
+      const target = DB.images.find(i => i.id === imgId);
+      if (!target) return;
+      if (!target.properties) target.properties = {};
+      target.properties[fieldName] = input.value;
+      saveDB();
+    };
+
+    // Use 'change' (fires on blur / Enter) rather than 'input' (fires per keystroke).
+    // This eliminates the entire class of "stale-keystroke saves a different image" bugs.
+    input.addEventListener('change', persist);
+    div.appendChild(input);
+
+    // URL fields: live clickable link below the input
+    if (f.type === 'url') {
+      const lnk = document.createElement('a');
+      lnk.className = 'prop-link';
+      lnk.style.cssText = 'margin-top:3px;display:block;overflow:hidden;text-overflow:ellipsis;white-space:nowrap';
+      const refreshLink = v => {
+        lnk.style.display = v ? 'block' : 'none';
+        if (v) { lnk.href = v; lnk.target = '_blank'; lnk.rel = 'noopener';
+          lnk.textContent = v.replace(/^https?:\/\//,'').slice(0,44) + (v.length>51?'…':''); }
+      };
+      refreshLink(val);
+      // For URL fields we do want live link refresh, but still save only on change
+      input.addEventListener('input', () => refreshLink(input.value));
+      div.appendChild(lnk);
+    }
+
+    body.appendChild(div);
+  });
+}
+
+// ═══════════════════════════════════════════
+// IMAGE ADJUSTMENTS
+// ═══════════════════════════════════════════
+function applyAdj() {
+  const b=document.getElementById('adj-b').value;
+  const c=document.getElementById('adj-c').value;
+  const s=document.getElementById('adj-s').value;
+  document.getElementById('adj-b-val').textContent=b;
+  document.getElementById('adj-c-val').textContent=c;
+  document.getElementById('adj-s-val').textContent=s;
+  document.getElementById('main-image').style.filter=`brightness(${b}%) contrast(${c}%) saturate(${s}%)`;
+}
+function resetAdj(w) { document.getElementById('adj-'+w).value=100; applyAdj(); }
+function resetAllAdj(render=true) {
+  ['b','c','s'].forEach(w=>document.getElementById('adj-'+w).value=100);
+  if(render) applyAdj();
+}
+function togglePersist() {
+  state.adjPersist=!state.adjPersist;
+  document.getElementById('persist-toggle').classList.toggle('on',state.adjPersist);
+}
+
+// ═══════════════════════════════════════════
+// EXPORT
+// ═══════════════════════════════════════════
+function showExportModal() { showModal('export-modal'); }
+function exportJSON() {
+  const blob=new Blob([JSON.stringify(DB,null,2)],{type:'application/json'});
+  const a=document.createElement('a'); a.href=URL.createObjectURL(blob);
+  a.download='imageannotator_export.json'; a.click();
+}
+function exportCSV() {
+  const rows=['"image","object","class","x","y","note"'];
+  DB.sightings.forEach(s=>{
+    const img=getImage(s.imageId); const obj=getObject(s.objectId);
+    const cls=obj?getClass(obj.classId):null;
+    rows.push([
+      `"${(img?.name||s.imageId).replace(/"/g,'""')}"`,
+      `"${(obj?.name||s.objectId).replace(/"/g,'""')}"`,
+      `"${(cls?.name||'').replace(/"/g,'""')}"`,
+      Math.round(s.x), Math.round(s.y),
+      `"${(s.note||'').replace(/"/g,'""')}"`
+    ].join(','));
+  });
+  const blob=new Blob([rows.join('\n')],{type:'text/csv'});
+  const a=document.createElement('a'); a.href=URL.createObjectURL(blob);
+  a.download='sightings_export.csv'; a.click();
+}
+
+// ═══════════════════════════════════════════
+// DATABASE IMPORT
+// ═══════════════════════════════════════════
+let _pendingImportDB = null;
+
+function importDatabase(input) {
+  const file = input.files[0];
+  if (!file) return;
+  input.value = ''; // reset so same file can be re-selected
+  const reader = new FileReader();
+  reader.onload = e => {
+    try {
+      const parsed = JSON.parse(e.target.result);
+      if (!parsed || typeof parsed !== 'object' || !Array.isArray(parsed.objects)) {
+        alert('Invalid database file — expected a JSON export from ImageAnnotator.');
+        return;
+      }
+      _pendingImportDB = parsed;
+      showImportConfirm(parsed);
+    } catch (err) {
+      alert('Could not parse JSON file: ' + err.message);
+    }
+  };
+  reader.readAsText(file);
+}
+
+function showImportConfirm(parsed) {
+  const imgCount = (parsed.images || []).length;
+  const objCount = (parsed.objects || []).length;
+  const clsCount = (parsed.classes || []).length;
+  const sitCount = (parsed.sightings || []).length;
+
+  const body = document.getElementById('import-modal-body');
+  body.innerHTML = `
+    <p style="font-size:12px;color:var(--text2);margin-bottom:10px">
+      The file contains:
+    </p>
+    <div class="import-confirm-box">
+      <strong>${imgCount}</strong> image(s) &nbsp;·&nbsp;
+      <strong>${clsCount}</strong> class(es) &nbsp;·&nbsp;
+      <strong>${objCount}</strong> object(s) &nbsp;·&nbsp;
+      <strong>${sitCount}</strong> sighting(s)
+    </div>
+    <p style="font-size:12px;color:var(--text3);margin-top:12px">Choose how to import:</p>
+    <div class="import-mode-row">
+      <button class="import-mode-btn" onclick="applyImport('merge')">
+        <strong>Merge</strong><br>
+        <span style="font-size:10px;color:var(--text3)">Add to existing data.<br>Duplicate IDs are skipped.</span>
+      </button>
+      <button class="import-mode-btn" onclick="applyImport('replace')">
+        <strong>Replace</strong><br>
+        <span style="font-size:10px;color:var(--text3)">Overwrite everything<br>with the imported file.</span>
+      </button>
+      <button class="import-mode-btn danger-mode" onclick="closeModal('import-modal')">
+        Cancel
+      </button>
+    </div>`;
+  showModal('import-modal');
+}
+
+function applyImport(mode) {
+  const parsed = _pendingImportDB;
+  if (!parsed) return;
+  _pendingImportDB = null;
+  closeModal('import-modal');
+
+  if (mode === 'replace') {
+    DB.images    = parsed.images    || [];
+    DB.objects   = parsed.objects   || [];
+    DB.classes   = parsed.classes   || DB.classes;
+    DB.sightings = parsed.sightings || [];
+    DB.imageSchema = parsed.imageSchema || [];
+  } else {
+    const existingImgIds = new Set(DB.images.map(i => i.id));
+    const existingObjIds = new Set(DB.objects.map(o => o.id));
+    const existingClsIds = new Set(DB.classes.map(c => c.id));
+    const existingSitIds = new Set(DB.sightings.map(s => s.id));
+    (parsed.images   || []).forEach(i => { if (!existingImgIds.has(i.id)) DB.images.push(i); });
+    (parsed.objects  || []).forEach(o => { if (!existingObjIds.has(o.id)) DB.objects.push(o); });
+    (parsed.classes  || []).forEach(c => { if (!existingClsIds.has(c.id)) DB.classes.push(c); });
+    (parsed.sightings|| []).forEach(s => { if (!existingSitIds.has(s.id)) DB.sightings.push(s); });
+    // Merge image schema fields not already present by name
+    const existingFieldNames = new Set((DB.imageSchema||[]).map(f=>f.name));
+    (parsed.imageSchema||[]).forEach(f => { if (f.name && !existingFieldNames.has(f.name)) DB.imageSchema.push(f); });
+  }
+
+  // Reset UI state
+  state.currentImageId = null;
+  state.selectedSightingId = null;
+  state.selectedGlobalObjectId = null;
+  state.armedObjectId = null;
+  state.expandedClasses = {};
+  DB.classes.forEach(cls => { state.expandedClasses[cls.id] = true; });
+
+  rebuildSightingIndex();
+  renderGlobalList();
+  renderThumbs();
+  refreshImgFilterSelect();
+  renderSightingsPropBar();
+  if (DB.images.length > 0) selectImage(DB.images[0].id);
+  updateCounter();
+  saveDB();
+}
+
+// ═══════════════════════════════════════════
+// MODAL HELPERS
+// ═══════════════════════════════════════════
+function showModal(id) { document.getElementById(id).classList.remove('hidden'); }
+function closeModal(id) { document.getElementById(id).classList.add('hidden'); }
+function showHelp() { showModal('help-modal'); }
+document.querySelectorAll('.modal-overlay').forEach(m=>m.addEventListener('click',e=>{if(e.target===m)m.classList.add('hidden');}));
+
+// ═══════════════════════════════════════════
+// INIT
+// ═══════════════════════════════════════════
+// Initialize expanded classes (all expanded by default)
+DB.classes.forEach(cls => { if (state.expandedClasses[cls.id] === undefined) state.expandedClasses[cls.id] = true; });
+
+refreshImgFilterSelect();
+renderSightingsPropBar();
+renderGlobalList();
+renderThumbs();
+if (DB.images.length>0) selectImage(DB.images[0].id);
+updateCounter();
+window.addEventListener('resize',()=>{if(state.fitMode&&state.currentImageId)fitToFrame();});
+</script>
+</body>
+</html>

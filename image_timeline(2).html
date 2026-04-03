@@ -1,0 +1,864 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chronicle — Image Timeline</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=JetBrains+Mono:wght@300;400;500&display=swap');
+
+  :root {
+    --bg: #0d0d0f;
+    --surface: #16161a;
+    --surface2: #1e1e24;
+    --surface3: #2a2a33;
+    --border: #2e2e38;
+    --accent: #c9a84c;
+    --accent3: #4a8fa3;
+    --text: #e8e4d8;
+    --text-dim: #8a8580;
+    --text-muted: #4a4845;
+    --before: #4a8fa3;
+    --after: #8fa34a;
+    --close: #c9a84c;
+    --danger: #a34a4a;
+    --thumb-size: 120px;
+    --timeline-h: 160px;
+  }
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body {
+    background:var(--bg); color:var(--text);
+    font-family:'JetBrains Mono',monospace;
+    height:100vh; overflow:hidden;
+    display:flex; flex-direction:column; user-select:none;
+  }
+
+  /* HEADER */
+  #header {
+    display:flex; align-items:center; gap:10px;
+    padding:7px 14px;
+    background:var(--surface); border-bottom:1px solid var(--border);
+    flex-shrink:0; z-index:100;
+  }
+  #header h1 { font-family:'Playfair Display',serif; font-size:19px; letter-spacing:3px; color:var(--accent); font-style:italic; }
+  .hsep { flex:1; }
+  .btn {
+    padding:4px 11px; border:1px solid var(--border);
+    background:var(--surface2); color:var(--text);
+    font-family:'JetBrains Mono',monospace; font-size:10px;
+    cursor:pointer; transition:all .14s; letter-spacing:1px; border-radius:2px; white-space:nowrap;
+  }
+  .btn:hover { background:var(--surface3); border-color:var(--accent); color:var(--accent); }
+  .btn.primary { background:var(--accent); color:#000; border-color:var(--accent); font-weight:500; }
+  .btn.primary:hover { background:#e0b85a; }
+  .btn.danger { border-color:var(--danger); color:var(--danger); }
+  .btn.danger:hover { background:var(--danger); color:#fff; }
+  .btn.rel-active { background:rgba(74,143,163,.18); border-color:var(--accent3); color:var(--accent3); }
+
+  /* STAGE */
+  #stage { flex:1; display:flex; overflow:hidden; }
+
+  /* LEFT */
+  #left-panel {
+    width:255px; background:var(--surface);
+    border-right:1px solid var(--border);
+    display:flex; flex-direction:column; flex-shrink:0; overflow:hidden;
+  }
+  .panel-title {
+    padding:7px 11px; font-size:9px; letter-spacing:2px;
+    color:var(--text-dim); border-bottom:1px solid var(--border);
+    text-transform:uppercase; display:flex; align-items:center;
+  }
+  .pt-btn { margin-left:auto; cursor:pointer; color:var(--text-muted); font-size:13px; transition:color .12s; }
+  .pt-btn:hover { color:var(--accent3); }
+
+  #image-list { flex:1; overflow-y:auto; padding:3px; }
+  #image-list::-webkit-scrollbar { width:3px; }
+  #image-list::-webkit-scrollbar-thumb { background:var(--border); }
+
+  .img-item {
+    display:flex; align-items:center; gap:6px;
+    padding:4px 6px; border-radius:3px; cursor:pointer;
+    transition:background .1s; border:1px solid transparent; margin-bottom:1px;
+  }
+  .img-item:hover { background:var(--surface2); }
+  .img-item.selected { background:var(--surface3); border-color:var(--accent); }
+  .img-item.rel-src { border-color:var(--accent3); background:rgba(74,143,163,.1); }
+  .img-item.rel-pick:hover { border-color:rgba(74,143,163,.45); background:rgba(74,143,163,.07); }
+  .iit { width:30px; height:30px; object-fit:cover; border-radius:2px; flex-shrink:0; background:var(--surface3); }
+  .iii { flex:1; min-width:0; }
+  .iin { font-size:10px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+  .iis { font-size:9px; color:var(--text-muted); margin-top:1px; }
+  .iidel { width:15px; height:15px; border-radius:2px; background:transparent; border:none; color:var(--text-muted); cursor:pointer; font-size:12px; display:flex; align-items:center; justify-content:center; transition:color .1s; flex-shrink:0; }
+  .iidel:hover { color:var(--danger); }
+
+  /* Quick B/~/A buttons shown on hover in relation mode */
+  .rq { display:none; gap:2px; margin-left:1px; }
+  .img-item.rel-pick:hover .rq { display:flex; }
+  .rqb { padding:1px 4px; font-size:9px; letter-spacing:.5px; border-radius:2px; border:1px solid; cursor:pointer; font-family:'JetBrains Mono',monospace; transition:all .08s; }
+  .rqb.rb { border-color:var(--before); color:var(--before); background:transparent; }
+  .rqb.rb:hover { background:var(--before); color:#000; }
+  .rqb.rc { border-color:var(--close); color:var(--close); background:transparent; }
+  .rqb.rc:hover { background:var(--close); color:#000; }
+  .rqb.ra { border-color:var(--after); color:var(--after); background:transparent; }
+  .rqb.ra:hover { background:var(--after); color:#000; }
+
+  /* DATES */
+  #dates-section { border-top:1px solid var(--border); }
+  #dates-list { padding:3px; max-height:165px; overflow-y:auto; }
+  .date-item {
+    padding:4px 6px; border-radius:3px; font-size:10px;
+    transition:background .1s; border:1px solid transparent; margin-bottom:1px;
+    display:flex; align-items:center; gap:5px;
+  }
+  .date-item.rel-pick { cursor:pointer; }
+  .date-item.rel-pick:hover { border-color:rgba(74,143,163,.45); background:rgba(74,143,163,.07); }
+  .date-item.rel-pick:hover .rq { display:flex; }
+  .ddot { width:5px; height:5px; border-radius:50%; background:var(--accent); flex-shrink:0; }
+  .dlbl { flex:1; }
+  .ddel { background:transparent; border:none; color:var(--text-muted); cursor:pointer; font-size:11px; transition:color .1s; }
+  .ddel:hover { color:var(--danger); }
+
+  /* CENTER */
+  #center { flex:1; display:flex; flex-direction:column; overflow:hidden; }
+
+  /* VIEWER */
+  #viewer {
+    flex:1; display:flex; align-items:center; justify-content:center;
+    position:relative; overflow:hidden;
+    background:radial-gradient(ellipse at center,#1a1a20 0%,#0d0d0f 100%);
+  }
+  #vslot { position:absolute; inset:0; display:flex; align-items:center; justify-content:center; }
+  .vslide {
+    position:absolute;
+    max-width:85%; max-height:90%;
+    object-fit:contain; border-radius:3px;
+    box-shadow:0 20px 80px rgba(0,0,0,.8),0 0 0 1px rgba(255,255,255,.05);
+  }
+  /* 80ms transitions */
+  .sir  { animation:sir  80ms ease forwards; }
+  .sil  { animation:sil  80ms ease forwards; }
+  .sor  { animation:sor  80ms ease forwards; }
+  .sol  { animation:sol  80ms ease forwards; }
+  @keyframes sir  { from{opacity:0;transform:translateX(26px)} to{opacity:1;transform:translateX(0)} }
+  @keyframes sil  { from{opacity:0;transform:translateX(-26px)} to{opacity:1;transform:translateX(0)} }
+  @keyframes sor  { from{opacity:1;transform:translateX(0)} to{opacity:0;transform:translateX(-18px)} }
+  @keyframes sol  { from{opacity:1;transform:translateX(0)} to{opacity:0;transform:translateX(18px)} }
+
+  #vempty { display:flex; flex-direction:column; align-items:center; gap:12px; color:var(--text-muted); }
+  #vempty .bi { font-size:42px; opacity:.22; }
+  #vempty p { font-size:11px; letter-spacing:1px; }
+
+  .vnav {
+    position:absolute; top:50%; transform:translateY(-50%);
+    width:38px; height:38px; border-radius:50%;
+    background:rgba(22,22,26,.8); border:1px solid var(--border);
+    color:var(--text); font-size:17px; cursor:pointer;
+    display:flex; align-items:center; justify-content:center;
+    transition:all .13s; backdrop-filter:blur(4px); z-index:10;
+  }
+  .vnav:hover { background:var(--accent); color:#000; border-color:var(--accent); }
+  #nprev { left:12px; } #nnext { right:12px; }
+
+  #vinfo {
+    position:absolute; bottom:9px; left:50%; transform:translateX(-50%);
+    background:rgba(13,13,15,.88); border:1px solid var(--border);
+    padding:5px 13px; border-radius:3px; font-size:10px;
+    color:var(--text-dim); backdrop-filter:blur(8px);
+    white-space:nowrap; letter-spacing:1px; display:none;
+  }
+  #vinfo .va { color:var(--accent); }
+  #vinfo .vd { color:var(--accent3); }
+
+  /* Relation mode banner */
+  #rel-banner {
+    position:absolute; top:0; left:0; right:0;
+    background:rgba(74,143,163,.13);
+    border-bottom:1px solid rgba(74,143,163,.38);
+    padding:5px 14px; font-size:10px; letter-spacing:1px;
+    color:var(--accent3); display:none;
+    align-items:center; gap:8px; z-index:20;
+  }
+  #rel-banner.show { display:flex; }
+  #rbs { color:var(--text); font-style:italic; }
+  #rbh { color:var(--text-muted); }
+  #rbexit { margin-left:auto; cursor:pointer; color:var(--text-muted); font-size:13px; background:none; border:none; font-family:inherit; transition:color .12s; }
+  #rbexit:hover { color:var(--danger); }
+
+  /* TIMELINE */
+  #timeline-wrapper {
+    height:var(--timeline-h); background:var(--surface);
+    border-top:1px solid var(--border); flex-shrink:0; position:relative; overflow:hidden;
+  }
+  #timeline-ruler {
+    position:absolute; bottom:0; left:0; right:0; height:28px;
+    background:var(--surface2); border-top:1px solid var(--border); overflow:hidden;
+  }
+  #tcanvas { width:100%; height:100%; }
+
+  #filmstrip {
+    position:absolute; top:8px; left:0; right:0;
+    height:calc(var(--timeline-h) - 46px);
+    display:flex; align-items:center; padding:0 48px;
+    overflow-x:auto; overflow-y:hidden; gap:6px; scroll-behavior:smooth;
+  }
+  #filmstrip::-webkit-scrollbar { height:3px; }
+  #filmstrip::-webkit-scrollbar-thumb { background:var(--border); }
+
+  .thumb {
+    flex-shrink:0; width:var(--thumb-size); height:calc(var(--thumb-size)*.72);
+    position:relative; cursor:pointer; border-radius:2px; overflow:hidden;
+    border:2px solid transparent;
+    transition:border-color .13s, transform .13s, box-shadow .13s;
+  }
+  .thumb:hover { border-color:var(--text-dim); transform:translateY(-3px); }
+  .thumb.selected { border-color:var(--accent); box-shadow:0 0 14px rgba(201,168,76,.4); transform:translateY(-4px); }
+  @keyframes pb { 0%,100%{box-shadow:0 0 6px rgba(74,143,163,.4)} 50%{box-shadow:0 0 18px rgba(74,143,163,.9)} }
+  .thumb.rel-src { border-color:var(--accent3); animation:pb 1.4s infinite; }
+  .thumb img { width:100%; height:100%; object-fit:cover; pointer-events:none; }
+  .tlbl { position:absolute; bottom:0; left:0; right:0; background:rgba(0,0,0,.7); padding:1px 3px; font-size:9px; color:var(--text-dim); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; text-align:center; }
+  .trc { position:absolute; top:2px; left:2px; background:rgba(201,168,76,.9); color:#000; font-size:8px; font-weight:700; width:13px; height:13px; border-radius:50%; display:flex; align-items:center; justify-content:center; }
+  .tdb { position:absolute; top:2px; right:2px; background:rgba(74,143,163,.85); color:#fff; font-size:8px; padding:1px 3px; border-radius:2px; }
+
+  /* Relation badge on thumbnails (shows relation from selected image) */
+  .trelb {
+    position:absolute; bottom:18px; right:2px;
+    font-size:8px; font-weight:700; letter-spacing:.5px;
+    padding:1px 4px; border-radius:2px; pointer-events:none;
+  }
+  .trelb-before { background:rgba(74,143,163,.85); color:#fff; }
+  .trelb-after  { background:rgba(143,163,74,.85);  color:#fff; }
+  .trelb-close  { background:rgba(201,168,76,.85);  color:#000; }
+
+  /* Thumb hover overlay in relation mode */
+  .tro { display:none; position:absolute; inset:0; background:rgba(13,13,15,.72); flex-direction:column; align-items:center; justify-content:center; gap:3px; }
+  .thumb.rel-pick:hover .tro { display:flex; }
+  .trob { padding:2px 8px; font-size:9px; letter-spacing:.7px; border-radius:2px; border:1px solid; cursor:pointer; font-family:'JetBrains Mono',monospace; width:68px; text-align:center; transition:all .07s; }
+  .trob.tb { border-color:var(--before); color:var(--before); background:transparent; }
+  .trob.tb:hover { background:var(--before); color:#000; }
+  .trob.tc { border-color:var(--close); color:var(--close); background:transparent; }
+  .trob.tc:hover { background:var(--close); color:#000; }
+  .trob.ta { border-color:var(--after); color:var(--after); background:transparent; }
+  .trob.ta:hover { background:var(--after); color:#000; }
+  .trok { opacity:.6; font-size:8px; margin-left:3px; }
+
+  /* RIGHT */
+  #right-panel {
+    width:225px; background:var(--surface);
+    border-left:1px solid var(--border);
+    display:flex; flex-direction:column; flex-shrink:0; overflow:hidden;
+  }
+  #szctl { display:flex; align-items:center; gap:6px; padding:5px 9px; border-bottom:1px solid var(--border); font-size:9px; color:var(--text-dim); flex-shrink:0; }
+  #szsl { flex:1; accent-color:var(--accent); cursor:pointer; }
+
+  #mform { padding:7px 9px; overflow-y:auto; flex:1; }
+  #mform::-webkit-scrollbar { width:3px; }
+  #mform::-webkit-scrollbar-thumb { background:var(--border); }
+  .fg { margin-bottom:9px; }
+  .fl { font-size:9px; color:var(--text-dim); letter-spacing:1px; text-transform:uppercase; margin-bottom:3px; }
+  .fi {
+    width:100%; padding:4px 7px;
+    background:var(--surface2); border:1px solid var(--border);
+    color:var(--text); font-family:'JetBrains Mono',monospace;
+    font-size:10px; border-radius:2px; outline:none; transition:border-color .13s;
+  }
+  .fi:focus { border-color:var(--accent); }
+  .frow { display:flex; gap:4px; }
+  .frow .fi { flex:1; min-width:0; }
+  .fhint { font-size:9px; color:var(--text-muted); margin-top:2px; }
+  .mhr { border:none; border-top:1px solid var(--border); margin:7px 0; }
+
+  #relpanel { border-top:1px solid var(--border); flex-shrink:0; }
+  #rellist { padding:3px 7px; max-height:175px; overflow-y:auto; }
+  #rellist::-webkit-scrollbar { width:3px; }
+  #rellist::-webkit-scrollbar-thumb { background:var(--border); }
+  .ri { display:flex; align-items:center; gap:4px; padding:3px 0; font-size:9px; color:var(--text-dim); border-bottom:1px solid rgba(255,255,255,.03); }
+  .rtb { padding:1px 4px; border-radius:2px; font-size:8px; font-weight:500; letter-spacing:.5px; flex-shrink:0; }
+  .rt-before { background:rgba(74,143,163,.2); color:var(--before); }
+  .rt-after  { background:rgba(143,163,74,.2); color:var(--after); }
+  .rt-close  { background:rgba(201,168,76,.2); color:var(--close); }
+  .rdel { margin-left:auto; background:none; border:none; color:var(--text-muted); cursor:pointer; font-size:11px; transition:color .1s; }
+  .rdel:hover { color:var(--danger); }
+
+  /* MODALS */
+  .mo { position:fixed; inset:0; background:rgba(0,0,0,.82); backdrop-filter:blur(4px); display:flex; align-items:center; justify-content:center; z-index:1000; opacity:0; pointer-events:none; transition:opacity .18s; }
+  .mo.open { opacity:1; pointer-events:all; }
+  .md { background:var(--surface); border:1px solid var(--border); border-radius:4px; padding:18px; width:360px; max-width:92vw; transform:translateY(7px); transition:transform .18s; }
+  .mo.open .md { transform:translateY(0); }
+  .md h2 { font-family:'Playfair Display',serif; font-size:16px; margin-bottom:12px; color:var(--accent); }
+  .mact { display:flex; gap:7px; justify-content:flex-end; margin-top:12px; }
+  .olog { background:var(--bg); border:1px solid var(--border); border-radius:2px; padding:7px; margin-top:9px; font-size:9px; color:var(--text-dim); line-height:1.7; max-height:130px; overflow-y:auto; }
+</style>
+</head>
+<body>
+
+<div id="header">
+  <h1>Chronicle</h1>
+  <span style="font-size:9px;color:var(--text-muted);letter-spacing:2px">IMAGE TIMELINE</span>
+  <div class="hsep"></div>
+  <button class="btn" onclick="openAddDate()">+ ANCHOR</button>
+  <button class="btn" onclick="openAddImages()">+ IMAGES</button>
+  <button class="btn" id="reltoggle" onclick="toggleRelMode()">⛓ RELATE</button>
+  <button class="btn" onclick="runOptimize()">⟳ OPTIMIZE</button>
+  <button class="btn" onclick="doExport()">EXPORT</button>
+  <button class="btn" onclick="doImport()">IMPORT</button>
+  <input type="file" id="jfi" accept=".json" style="display:none" onchange="handleImport(event)">
+  <input type="file" id="ifi" accept="image/*" multiple style="display:none" onchange="handleImages(event)">
+</div>
+
+<div id="stage">
+  <!-- LEFT -->
+  <div id="left-panel">
+    <div class="panel-title">IMAGES <span class="pt-btn" onclick="toggleRelMode()" title="Toggle relation mode (R)">⛓</span></div>
+    <div id="image-list"></div>
+    <div id="dates-section">
+      <div class="panel-title">DATE ANCHORS</div>
+      <div id="dates-list"></div>
+    </div>
+  </div>
+
+  <!-- CENTER -->
+  <div id="center">
+    <div id="viewer">
+      <div id="rel-banner">
+        <span>RELATE</span><span id="rbs">—</span>
+        <span id="rbh">→ hover target, pick B / ~ / A &nbsp;·&nbsp; keys: <kbd style="background:rgba(74,143,163,.2);border:1px solid rgba(74,143,163,.4);border-radius:2px;padding:0 3px">A</kbd>=before <kbd style="background:rgba(201,168,76,.2);border:1px solid rgba(201,168,76,.4);border-radius:2px;padding:0 3px">S</kbd>=close <kbd style="background:rgba(143,163,74,.2);border:1px solid rgba(143,163,74,.4);border-radius:2px;padding:0 3px">D</kbd>=after</span>
+        <button id="rbexit" onclick="exitRelMode()">✕ EXIT</button>
+      </div>
+      <div id="vslot">
+        <div id="vempty">
+          <div class="bi">⧖</div>
+          <p>ADD IMAGES TO BEGIN</p>
+          <p style="font-size:9px;margin-top:5px;color:var(--text-muted)">drag &amp; drop or + IMAGES</p>
+        </div>
+      </div>
+      <button class="vnav" id="nprev" onclick="navImg(-1)">‹</button>
+      <button class="vnav" id="nnext" onclick="navImg(1)">›</button>
+      <div id="vinfo">
+        <span class="va" id="viname"></span><span class="vd" id="vidate"></span>&nbsp;·&nbsp;pos <span class="va" id="vipos"></span>
+      </div>
+    </div>
+
+    <div id="timeline-wrapper">
+      <div id="filmstrip"></div>
+      <div id="timeline-ruler"><canvas id="tcanvas"></canvas></div>
+    </div>
+  </div>
+
+  <!-- RIGHT -->
+  <div id="right-panel">
+    <div class="panel-title">DETAILS</div>
+    <div id="szctl">
+      <span>THUMB</span>
+      <input type="range" id="szsl" min="60" max="200" value="120" oninput="setThumbSize(this.value)">
+      <span id="szval">120</span>
+    </div>
+    <div id="mform">
+      <div id="nosel" style="color:var(--text-muted);font-size:10px;padding:14px 0;text-align:center;letter-spacing:1px">SELECT AN IMAGE</div>
+      <div id="mfields" style="display:none">
+        <div class="fg"><div class="fl">Label</div><input class="fi" id="flbl" placeholder="Image label" oninput="saveMeta()"></div>
+        <div class="fg"><div class="fl">Notes</div><input class="fi" id="fnotes" placeholder="Notes…" oninput="saveMeta()"></div>
+        <hr class="mhr">
+        <div class="fg">
+          <div class="fl">Photo date / range</div>
+          <div class="frow">
+            <input class="fi" id="fds" placeholder="1943" oninput="saveMeta()" title="Start year or YYYY-MM-DD">
+            <input class="fi" id="fde" placeholder="1945" oninput="saveMeta()" title="End year (optional)">
+          </div>
+          <div class="fhint">year or YYYY-MM-DD · leave end blank for single</div>
+        </div>
+        <div class="fg">
+          <div class="fl">Manual position (0–1)</div>
+          <input class="fi" id="fpos" type="number" min="0" max="1" step="0.01" placeholder="auto" oninput="saveMeta()">
+          <div class="fhint">pins image — overrides optimizer</div>
+        </div>
+        <button class="btn danger" style="width:100%;margin-top:4px" onclick="delSelected()">DELETE IMAGE</button>
+      </div>
+    </div>
+    <div id="relpanel">
+      <div class="panel-title">RELATIONS</div>
+      <div id="rellist"><div style="color:var(--text-muted);font-size:9px;padding:5px">Select an image</div></div>
+    </div>
+  </div>
+</div>
+
+<!-- MODALS -->
+<div class="mo" id="date-modal">
+  <div class="md">
+    <h2>Add Date Anchor</h2>
+    <div class="fg"><div class="fl">Label</div><input class="fi" id="dml" placeholder="e.g. WWII ends"></div>
+    <div class="fg"><div class="fl">Start date / year</div><input class="fi" id="dms" placeholder="1945 or 1945-05-08"></div>
+    <div class="fg"><div class="fl">End date (optional — range)</div><input class="fi" id="dme" placeholder="1950 or blank"></div>
+    <div class="mact">
+      <button class="btn" onclick="closeModal('date-modal')">Cancel</button>
+      <button class="btn primary" onclick="confirmDate()">Add</button>
+    </div>
+  </div>
+</div>
+<div class="mo" id="opt-modal">
+  <div class="md">
+    <h2>Optimize Positions</h2>
+    <p style="font-size:10px;color:var(--text-dim);line-height:1.7">Constraint-weighted gradient descent — minimises relation violations.</p>
+    <div class="olog" id="olog"></div>
+    <div class="mact"><button class="btn primary" onclick="closeModal('opt-modal')">Done</button></div>
+  </div>
+</div>
+
+<script>
+// ── STATE ──────────────────────────────────────────────
+let S = {
+  images: [],    // {id,name,label,notes,src,position,manualPos,dateStart,dateEnd}
+  dates:  [],    // {id,label,start,end,position,endPosition}
+  relations:[],  // {id,fromId,toId,type,toType}
+  timeline:{start:1900,end:2024}
+};
+let selId=null, relMode=false, relSrc=null, hoveredThumbId=null;
+
+// ── UTILS ──────────────────────────────────────────────
+const uid=()=>Math.random().toString(36).slice(2,9);
+const py=s=>{ if(!s)return null; const m=String(s).match(/(\d{4})/); return m?+m[1]:null; };
+const lbl=img=>img.label||img.name||'?';
+
+function calcBounds(){
+  let yrs=[
+    ...S.dates.flatMap(d=>[py(d.start),py(d.end)].filter(Boolean)),
+    ...S.images.flatMap(i=>[py(i.dateStart),py(i.dateEnd)].filter(Boolean))
+  ];
+  if(!yrs.length){S.timeline.start=1900;S.timeline.end=2024;}
+  else{S.timeline.start=Math.min(...yrs)-2;S.timeline.end=Math.max(...yrs)+2;}
+  const ytp=y=>(y-S.timeline.start)/(S.timeline.end-S.timeline.start);
+  S.dates.forEach(d=>{
+    const y=py(d.start),y2=py(d.end);
+    d.position=y?ytp(y):.5; d.endPosition=y2?ytp(y2):d.position;
+  });
+  S.images.forEach(img=>{
+    if(img.dateStart&&(img.manualPos===null||img.manualPos===undefined||img.manualPos==='')){
+      const ys=py(img.dateStart),ye=py(img.dateEnd);
+      if(ys){const mid=ye?(ytp(ys)+ytp(ye))/2:ytp(ys); img.position=Math.max(0,Math.min(1,mid));}
+    }
+  });
+}
+
+// ── OPTIMIZE ───────────────────────────────────────────
+function runOptimize(){
+  calcBounds();
+  if(!S.images.length){alert('No images.');return;}
+  const log=[];
+  S.images.forEach((img,i)=>{
+    if(img.manualPos!==null&&img.manualPos!==undefined&&img.manualPos!=='') img.position=+img.manualPos;
+    else if(img.position===undefined||img.position===null) img.position=(i+1)/(S.images.length+1);
+  });
+  log.push(`${S.images.length} image(s), ${S.relations.length} relation(s), ${S.dates.length} anchor(s).`);
+  const ITER=500,MRG=.02,CW=.08,ST=.016,DW=2.5,IW=1;
+  for(let it=0;it<ITER;it++){
+    const F=new Array(S.images.length).fill(0);
+    S.relations.forEach(rel=>{
+      const fi=S.images.findIndex(x=>x.id===rel.fromId); if(fi<0)return;
+      const fp=S.images[fi].position;
+      if(rel.toType==='date'){
+        const d=S.dates.find(x=>x.id===rel.toId); if(!d)return;
+        apf(F,fi,fp,d.position,rel.type,DW,ST,MRG,CW);
+      } else {
+        const ti=S.images.findIndex(x=>x.id===rel.toId); if(ti<0)return;
+        const tp=S.images[ti].position;
+        if(rel.type==='before'&&fp>=tp-MRG){const f=(tp-MRG-fp)*IW;F[fi]+=f*ST;F[ti]-=f*ST*.4;}
+        else if(rel.type==='after'&&fp<=tp+MRG){const f=(tp+MRG-fp)*IW;F[fi]+=f*ST;F[ti]-=f*ST*.4;}
+        else if(rel.type==='close'){const d=fp-tp;if(Math.abs(d)>CW){const f=-(d-Math.sign(d)*CW)*IW;F[fi]+=f*ST;F[ti]-=f*ST*.4;}}
+      }
+    });
+    S.images.forEach((img,i)=>{
+      const pinned=img.manualPos!==null&&img.manualPos!==undefined&&img.manualPos!=='';
+      const dated=img.dateStart&&!pinned;
+      if(pinned||dated)return;
+      img.position=Math.max(0,Math.min(1,img.position+F[i]));
+    });
+  }
+  function apf(F,fi,fp,tp,type,w,st,mrg,cw){
+    if(type==='before'&&fp>=tp-mrg)F[fi]+=(tp-mrg-fp)*w*st;
+    else if(type==='after'&&fp<=tp+mrg)F[fi]+=(tp+mrg-fp)*w*st;
+    else if(type==='close'){const d=fp-tp;if(Math.abs(d)>cw)F[fi]-=(d-Math.sign(d)*cw)*w*st;}
+  }
+  let viol=0;
+  S.relations.forEach(rel=>{
+    const f=S.images.find(x=>x.id===rel.fromId); if(!f)return;
+    let tp=null;
+    if(rel.toType==='date'){const d=S.dates.find(x=>x.id===rel.toId);if(d)tp=d.position;}
+    else{const t=S.images.find(x=>x.id===rel.toId);if(t)tp=t.position;}
+    if(tp===null)return;
+    if(rel.type==='before'&&f.position>tp-MRG)viol++;
+    if(rel.type==='after'&&f.position<tp+MRG)viol++;
+    if(rel.type==='close'&&Math.abs(f.position-tp)>CW)viol++;
+  });
+  log.push(`500 iterations complete.`,`Remaining violations: ${viol}`);
+  document.getElementById('olog').innerHTML=log.map(l=>`<div>${l}</div>`).join('');
+  openModal('opt-modal');
+  renderAll();
+}
+
+// ── RENDER ALL ─────────────────────────────────────────
+function renderAll(){
+  calcBounds();
+  renderList(); renderDates(); renderFilmstrip(); renderRuler(); renderRels(); updateMeta(); updateVInfo();
+}
+
+function renderList(){
+  const el=document.getElementById('image-list');
+  if(!S.images.length){el.innerHTML='<div style="color:var(--text-muted);font-size:10px;padding:8px;text-align:center">No images</div>';return;}
+  const rcnt={}; S.relations.forEach(r=>{rcnt[r.fromId]=(rcnt[r.fromId]||0)+1;});
+  el.innerHTML=S.images.map(img=>{
+    const isSel=img.id===selId, isSrc=img.id===relSrc, isPick=relMode&&!isSrc;
+    const ds=img.dateStart?(img.dateEnd?`${img.dateStart}–${img.dateEnd}`:img.dateStart):'';
+    return `<div class="img-item ${isSel?'selected':''} ${isSrc?'rel-src':''} ${isPick?'rel-pick':''}"
+      onclick="${isPick?'':''}" data-id="${img.id}">
+      <img class="iit" src="${img.src}">
+      <div class="iii">
+        <div class="iin">${lbl(img)}</div>
+        <div class="iis">${ds||(img.position!==undefined?'pos '+img.position.toFixed(2):'—')}</div>
+      </div>
+      ${isPick?`<div class="rq">
+        <button class="rqb rb" onclick="event.stopPropagation();addRel('${img.id}','image','before')">B</button>
+        <button class="rqb rc" onclick="event.stopPropagation();addRel('${img.id}','image','close')">~</button>
+        <button class="rqb ra" onclick="event.stopPropagation();addRel('${img.id}','image','after')">A</button>
+      </div>`:
+      `<button class="iidel" onclick="event.stopPropagation();delImg('${img.id}')">×</button>`}
+    </div>`;
+  }).join('');
+  // Attach click for re-source in relMode and normal select
+  el.querySelectorAll('.img-item').forEach(el2=>{
+    el2.addEventListener('click',e=>{
+      if(e.target.classList.contains('rqb')||e.target.classList.contains('iidel'))return;
+      const id=el2.dataset.id;
+      if(relMode){
+        if(id===relSrc)return;
+        // re-source
+        enterRelMode(id);
+      } else {
+        selImg(id);
+      }
+    });
+  });
+}
+
+function renderDates(){
+  const el=document.getElementById('dates-list');
+  if(!S.dates.length){el.innerHTML='<div style="color:var(--text-muted);font-size:9px;padding:5px 8px">No anchors</div>';return;}
+  el.innerHTML=S.dates.map(d=>`
+    <div class="date-item ${relMode?'rel-pick':''}" data-id="${d.id}">
+      <div class="ddot"></div>
+      <div class="dlbl">${d.label} <span style="color:var(--text-muted)">(${d.start}${d.end?'–'+d.end:''})</span></div>
+      ${relMode?`<div class="rq">
+        <button class="rqb rb" onclick="event.stopPropagation();addRel('${d.id}','date','before')">B</button>
+        <button class="rqb rc" onclick="event.stopPropagation();addRel('${d.id}','date','close')">~</button>
+        <button class="rqb ra" onclick="event.stopPropagation();addRel('${d.id}','date','after')">A</button>
+      </div>`:
+      `<button class="ddel" onclick="delDate('${d.id}')">×</button>`}
+    </div>`).join('');
+}
+
+function renderFilmstrip(noScroll){
+  const el=document.getElementById('filmstrip');
+  const sorted=[...S.images].sort((a,b)=>(a.position||.5)-(b.position||.5));
+  const rcnt={}; S.relations.forEach(r=>{rcnt[r.fromId]=(rcnt[r.fromId]||0)+1;});
+  // Build relation map from selected image perspective
+  const selRels={};
+  if(selId){
+    S.relations.forEach(r=>{
+      if(r.fromId===selId&&r.toType==='image') selRels[r.toId]=r.type;
+      else if(r.toId===selId&&r.toType==='image'&&!selRels[r.fromId]){
+        selRels[r.fromId]=r.type==='before'?'after':r.type==='after'?'before':'close';
+      }
+    });
+  }
+  el.innerHTML=sorted.map(img=>{
+    const isSel=img.id===selId,isSrc=img.id===relSrc,isPick=relMode&&!isSrc;
+    const ds=img.dateStart?(img.dateEnd?`${py(img.dateStart)||img.dateStart}–${py(img.dateEnd)||img.dateEnd}`:String(py(img.dateStart)||img.dateStart)):'';
+    const relType=!isSel&&selRels[img.id];
+    const relBadge=relType?`<div class="trelb trelb-${relType}">${relType==='before'?'B':relType==='after'?'A':'~'}</div>`:'';
+    return `<div class="thumb ${isSel?'selected':''} ${isSrc?'rel-src':''} ${isPick?'rel-pick':''}" data-id="${img.id}">
+      <img src="${img.src}">
+      <div class="tlbl">${lbl(img)}</div>
+      ${rcnt[img.id]?`<div class="trc">${rcnt[img.id]}</div>`:''}
+      ${ds?`<div class="tdb">${ds}</div>`:''}
+      ${relBadge}
+      ${isPick?`<div class="tro" data-tid="${img.id}">
+        <button class="trob tb" onclick="event.stopPropagation();addRel('${img.id}','image','before')">◀ BEFORE <span class="trok">A</span></button>
+        <button class="trob tc" onclick="event.stopPropagation();addRel('${img.id}','image','close')">~ CLOSE <span class="trok">S</span></button>
+        <button class="trob ta" onclick="event.stopPropagation();addRel('${img.id}','image','after')">AFTER ▶ <span class="trok">D</span></button>
+      </div>`:''}
+    </div>`;
+  }).join('');
+  el.querySelectorAll('.thumb').forEach(t=>{
+    t.addEventListener('mouseenter',()=>{ hoveredThumbId=t.dataset.id; });
+    t.addEventListener('mouseleave',()=>{ if(hoveredThumbId===t.dataset.id) hoveredThumbId=null; });
+    t.addEventListener('click',e=>{
+      if(e.target.classList.contains('trob'))return;
+      const id=t.dataset.id;
+      if(relMode){ if(id!==relSrc) enterRelMode(id); }
+      else selImg(id);
+    });
+  });
+  if(!noScroll){
+    setTimeout(()=>{ const s=el.querySelector('.thumb.selected'); if(s)s.scrollIntoView({behavior:'smooth',block:'nearest',inline:'center'}); },40);
+  }
+}
+
+function renderRuler(){
+  const cv=document.getElementById('tcanvas');
+  const wr=document.getElementById('timeline-ruler');
+  cv.width=wr.clientWidth; cv.height=wr.clientHeight;
+  const ctx=cv.getContext('2d'),W=cv.width,H=cv.height;
+  const {start,end}=S.timeline;
+  ctx.fillStyle='#16161a'; ctx.fillRect(0,0,W,H);
+  ctx.strokeStyle='#2e2e38'; ctx.lineWidth=1;
+  ctx.beginPath(); ctx.moveTo(0,.5); ctx.lineTo(W,.5); ctx.stroke();
+  const range=end-start, step=range>100?25:range>50?10:range>20?5:1;
+  ctx.font='9px JetBrains Mono,monospace'; ctx.textAlign='center';
+  for(let y=Math.ceil(start/step)*step;y<=end;y+=step){
+    const x=((y-start)/(end-start))*W;
+    ctx.strokeStyle=y%(step*4)===0?'#3a3a46':'#252530';
+    ctx.lineWidth=y%(step*4)===0?1:.5;
+    ctx.beginPath(); ctx.moveTo(x,0); ctx.lineTo(x,H); ctx.stroke();
+    if(y%(step*2)===0){ctx.fillStyle='#6a6560'; ctx.fillText(y,x,H-2);}
+  }
+  S.dates.forEach(d=>{
+    const x=d.position*W;
+    if(d.endPosition&&d.endPosition!==d.position){
+      ctx.fillStyle='rgba(201,168,76,.12)';
+      ctx.fillRect(x,0,(d.endPosition-d.position)*W,H-14);
+    }
+    ctx.strokeStyle='#c9a84c'; ctx.lineWidth=2;
+    ctx.beginPath(); ctx.moveTo(x,0); ctx.lineTo(x,H-14); ctx.stroke();
+    if(d.endPosition&&d.endPosition!==d.position){
+      const x2=d.endPosition*W;
+      ctx.beginPath(); ctx.moveTo(x2,0); ctx.lineTo(x2,H-14); ctx.stroke();
+    }
+    ctx.fillStyle='#c9a84c'; ctx.font='bold 8px JetBrains Mono,monospace';
+    ctx.fillText(d.label.slice(0,14),x,H-2);
+  });
+  S.images.forEach(img=>{
+    const x=(img.position||.5)*W, isSel=img.id===selId;
+    // date range bar
+    if(img.dateStart){
+      const ys=py(img.dateStart),ye=py(img.dateEnd);
+      if(ys&&ye&&ye>ys){
+        const xs=((ys-start)/(end-start))*W, xe=((ye-start)/(end-start))*W;
+        ctx.fillStyle='rgba(74,143,163,.32)'; ctx.fillRect(xs,H/2-7,xe-xs,4);
+      }
+    }
+    ctx.beginPath(); ctx.arc(x,H/2-5,isSel?5:3,0,Math.PI*2);
+    ctx.fillStyle=isSel?'#c9a84c':'#5a5856'; ctx.fill();
+  });
+}
+
+function renderRels(){
+  const el=document.getElementById('rellist');
+  const my=selId?S.relations.filter(r=>r.fromId===selId):[];
+  if(!selId){el.innerHTML='<div style="color:var(--text-muted);font-size:9px;padding:5px">Select image</div>';return;}
+  if(!my.length){el.innerHTML='<div style="color:var(--text-muted);font-size:9px;padding:5px">No relations</div>';return;}
+  el.innerHTML=my.map(r=>{
+    let n='?';
+    if(r.toType==='date'){const d=S.dates.find(x=>x.id===r.toId);if(d)n=d.label;}
+    else{const i=S.images.find(x=>x.id===r.toId);if(i)n=lbl(i);}
+    return `<div class="ri">
+      <span class="rtb rt-${r.type}">${r.type.toUpperCase()}</span>
+      <span style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap;flex:1">${n}</span>
+      <button class="rdel" onclick="delRel('${r.id}')">×</button>
+    </div>`;
+  }).join('');
+}
+
+// ── VIEWER ─────────────────────────────────────────────
+let curEl=null;
+function showImg(id,dir=0){
+  const img=S.images.find(x=>x.id===id);
+  const slot=document.getElementById('vslot');
+  const empty=document.getElementById('vempty');
+  if(!img){empty.style.display='flex';if(curEl){curEl.remove();curEl=null;}return;}
+  empty.style.display='none';
+  const nel=document.createElement('img');
+  nel.className='vslide';
+  nel.src=img.src;
+  if(dir!==0&&curEl){
+    const ex=dir>0?'sor':'sol', en=dir>0?'sir':'sil';
+    curEl.classList.add(ex);
+    nel.classList.add(en);
+    const old=curEl; slot.appendChild(nel);
+    setTimeout(()=>old.remove(),90);
+  } else {
+    if(curEl)curEl.remove();
+    slot.appendChild(nel);
+  }
+  curEl=nel;
+  updateVInfo();
+}
+
+function updateVInfo(){
+  const img=S.images.find(x=>x.id===selId);
+  const el=document.getElementById('vinfo');
+  if(!img){el.style.display='none';return;}
+  el.style.display='block';
+  document.getElementById('viname').textContent=lbl(img);
+  document.getElementById('vipos').textContent=img.position!==undefined?img.position.toFixed(3):'—';
+  const vd=document.getElementById('vidate');
+  vd.textContent=img.dateStart?(img.dateEnd?` · ${img.dateStart}–${img.dateEnd}`:` · ${img.dateStart}`):'';
+}
+
+function selImg(id,dir=0){
+  selId=id; renderAll(); showImg(id,dir);
+}
+function navImg(dir){
+  const sorted=[...S.images].sort((a,b)=>(a.position||.5)-(b.position||.5));
+  const idx=sorted.findIndex(x=>x.id===selId);
+  if(idx===-1&&sorted.length){selImg(sorted[0].id,0);return;}
+  const ni=Math.max(0,Math.min(sorted.length-1,idx+dir));
+  if(sorted[ni]&&sorted[ni].id!==selId) selImg(sorted[ni].id,dir);
+}
+
+// ── META ───────────────────────────────────────────────
+function updateMeta(){
+  const img=S.images.find(x=>x.id===selId);
+  const ns=document.getElementById('nosel'), mf=document.getElementById('mfields');
+  if(!img){ns.style.display='block';mf.style.display='none';return;}
+  ns.style.display='none'; mf.style.display='block';
+  document.getElementById('flbl').value=img.label||'';
+  document.getElementById('fnotes').value=img.notes||'';
+  document.getElementById('fds').value=img.dateStart||'';
+  document.getElementById('fde').value=img.dateEnd||'';
+  document.getElementById('fpos').value=(img.manualPos!==null&&img.manualPos!==undefined)?img.manualPos:'';
+}
+function saveMeta(){
+  const img=S.images.find(x=>x.id===selId); if(!img)return;
+  img.label=document.getElementById('flbl').value;
+  img.notes=document.getElementById('fnotes').value;
+  img.dateStart=document.getElementById('fds').value.trim()||null;
+  img.dateEnd=document.getElementById('fde').value.trim()||null;
+  const pv=document.getElementById('fpos').value;
+  img.manualPos=pv!==''?+pv:null;
+  if(img.manualPos!==null)img.position=img.manualPos;
+  calcBounds(); renderList(); renderFilmstrip(); renderRuler(); updateVInfo();
+}
+
+// ── RELATION MODE ──────────────────────────────────────
+function toggleRelMode(){
+  if(relMode) exitRelMode();
+  else { if(!selId){alert('Select a source image first.');return;} enterRelMode(selId); }
+}
+function enterRelMode(srcId){
+  relMode=true; relSrc=srcId;
+  const src=S.images.find(x=>x.id===srcId);
+  document.getElementById('rel-banner').classList.add('show');
+  document.getElementById('rbs').textContent=src?lbl(src):'?';
+  document.getElementById('reltoggle').classList.add('rel-active');
+  renderAll();
+}
+function exitRelMode(){
+  relMode=false; relSrc=null;
+  document.getElementById('rel-banner').classList.remove('show');
+  document.getElementById('reltoggle').classList.remove('rel-active');
+  renderAll();
+}
+// B/~/A button → add relation, stay in relation mode (chaining!)
+function addRel(toId,toType,type){
+  if(!relSrc)return;
+  // Remove duplicate same-pair (both directions), then add mutual pair
+  S.relations=S.relations.filter(r=>!((r.fromId===relSrc&&r.toId===toId)||(r.fromId===toId&&r.toId===relSrc)));
+  S.relations.push({id:uid(),fromId:relSrc,toId,toType,type});
+  // Add inverse relation (mutual) — only for image↔image pairs
+  if(toType==='image'){
+    const inv=type==='before'?'after':type==='after'?'before':'close';
+    S.relations.push({id:uid(),fromId:toId,toId:relSrc,toType:'image',type:inv});
+  }
+  calcBounds(); renderList(); renderDates(); renderFilmstrip(true); renderRuler(); renderRels(); updateMeta(); updateVInfo();
+}
+function delRel(id){ S.relations=S.relations.filter(r=>r.id!==id); renderRels(); renderFilmstrip(); }
+
+// ── ADD/DEL ────────────────────────────────────────────
+function openAddImages(){ document.getElementById('ifi').click(); }
+function handleImages(e){
+  const files=Array.from(e.target.files||[]); if(!files.length)return;
+  let done=0;
+  files.forEach(f=>{
+    const r=new FileReader();
+    r.onload=ev=>{
+      S.images.push({id:uid(),name:f.name.replace(/\.[^.]+$/,''),label:f.name.replace(/\.[^.]+$/,''),
+        notes:'',src:ev.target.result,position:Math.random(),manualPos:null,dateStart:null,dateEnd:null});
+      if(++done===files.length){if(!selId&&S.images.length)selId=S.images[0].id;renderAll();if(selId)showImg(selId,0);}
+    };
+    r.readAsDataURL(f);
+  });
+  e.target.value='';
+}
+function delImg(id){
+  S.images=S.images.filter(x=>x.id!==id);
+  S.relations=S.relations.filter(r=>r.fromId!==id&&r.toId!==id);
+  if(selId===id)selId=S.images.length?S.images[0].id:null;
+  if(relSrc===id)exitRelMode();
+  renderAll();
+  if(selId)showImg(selId,0);
+  else{if(curEl){curEl.remove();curEl=null;}document.getElementById('vinfo').style.display='none';}
+}
+function delSelected(){ if(selId)delImg(selId); }
+
+function openAddDate(){ openModal('date-modal'); }
+function confirmDate(){
+  const l=document.getElementById('dml').value.trim();
+  const s=document.getElementById('dms').value.trim();
+  const e=document.getElementById('dme').value.trim();
+  if(!l||!s){alert('Label and start required.');return;}
+  S.dates.push({id:uid(),label:l,start:s,end:e||null,position:.5});
+  ['dml','dms','dme'].forEach(i=>document.getElementById(i).value='');
+  closeModal('date-modal'); calcBounds(); renderAll();
+}
+function delDate(id){ S.dates=S.dates.filter(x=>x.id!==id); S.relations=S.relations.filter(r=>r.toId!==id); calcBounds(); renderAll(); }
+
+function setThumbSize(v){ document.documentElement.style.setProperty('--thumb-size',v+'px'); document.getElementById('szval').textContent=v; }
+
+// ── JSON ───────────────────────────────────────────────
+function doExport(){
+  const blob=new Blob([JSON.stringify(S,null,2)],{type:'application/json'});
+  const a=document.createElement('a'); a.href=URL.createObjectURL(blob); a.download='chronicle.json'; a.click();
+}
+function doImport(){ document.getElementById('jfi').click(); }
+function handleImport(e){
+  const f=e.target.files[0]; if(!f)return;
+  const r=new FileReader();
+  r.onload=ev=>{
+    try{S=JSON.parse(ev.target.result);selId=S.images.length?S.images[0].id:null;calcBounds();renderAll();if(selId)showImg(selId,0);}
+    catch(err){alert('Invalid JSON: '+err.message);}
+  };
+  r.readAsText(f); e.target.value='';
+}
+
+// ── MODALS ─────────────────────────────────────────────
+function openModal(id){ document.getElementById(id).classList.add('open'); }
+function closeModal(id){ document.getElementById(id).classList.remove('open'); }
+document.querySelectorAll('.mo').forEach(el=>el.addEventListener('click',e=>{ if(e.target===el)closeModal(el.id); }));
+
+// ── KEYBOARD ───────────────────────────────────────────
+document.addEventListener('keydown',e=>{
+  if(e.target.tagName==='INPUT')return;
+  if(e.key==='ArrowRight')navImg(1);
+  if(e.key==='ArrowLeft')navImg(-1);
+  if(e.key==='Escape')exitRelMode();
+  if(e.key==='r'||e.key==='R')toggleRelMode();
+  if(relMode&&hoveredThumbId&&hoveredThumbId!==relSrc){
+    if(e.key==='a'||e.key==='A'){e.preventDefault();addRel(hoveredThumbId,'image','before');}
+    if(e.key==='s'||e.key==='S'){e.preventDefault();addRel(hoveredThumbId,'image','close');}
+    if(e.key==='d'||e.key==='D'){e.preventDefault();addRel(hoveredThumbId,'image','after');}
+  }
+});
+window.addEventListener('resize',renderRuler);
+
+// Drag & drop
+document.getElementById('viewer').addEventListener('dragover',e=>e.preventDefault());
+document.getElementById('viewer').addEventListener('drop',e=>{
+  e.preventDefault();
+  const files=Array.from(e.dataTransfer.files).filter(f=>f.type.startsWith('image/'));
+  if(files.length) handleImages({target:{files,value:''}});
+});
+
+// ── INIT ───────────────────────────────────────────────
+calcBounds(); renderAll();
+</script>
+</body>
+</html>

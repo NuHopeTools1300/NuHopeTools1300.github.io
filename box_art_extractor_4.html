@@ -1,0 +1,570 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Box Art Extractor</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;700&family=IBM+Plex+Sans:wght@300;400;500;600&display=swap');
+  :root {
+    --bg:#0f0f11;--surface:#18181c;--surface2:#222228;--border:#2e2e38;
+    --accent:#e8c547;--accent2:#5e9cf0;--danger:#f05e5e;--success:#5ef09e;
+    --warn:#f0a35e;--text:#e8e8f0;--text-dim:#888899;
+    --panel-w:290px;--rpanel-w:268px;
+  }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  body{font-family:'IBM Plex Sans',sans-serif;background:var(--bg);color:var(--text);height:100vh;display:flex;flex-direction:column;overflow:hidden;}
+
+  /* TOP BAR */
+  #topbar{height:50px;background:var(--surface);border-bottom:1px solid var(--border);display:flex;align-items:center;padding:0 14px;gap:9px;flex-shrink:0;overflow:hidden;}
+  #topbar h1{font-family:'IBM Plex Mono',monospace;font-size:12px;font-weight:700;letter-spacing:.14em;color:var(--accent);text-transform:uppercase;white-space:nowrap;}
+  .sep{width:1px;height:24px;background:var(--border);flex-shrink:0;}
+  .btn{font-family:'IBM Plex Mono',monospace;font-size:11px;font-weight:500;letter-spacing:.06em;padding:5px 11px;border-radius:4px;border:1px solid var(--border);background:var(--surface2);color:var(--text);cursor:pointer;transition:all .14s;white-space:nowrap;flex-shrink:0;}
+  .btn:hover{border-color:var(--accent);color:var(--accent);}
+  .btn:disabled{opacity:.35;cursor:default;pointer-events:none;}
+  .btn.primary{background:var(--accent);color:#0f0f11;border-color:var(--accent);font-weight:700;}
+  .btn.primary:hover{background:#f2d45a;}
+  .btn.cap{border-color:var(--accent2);color:var(--accent2);}
+  .btn.cap:hover{background:var(--accent2);color:#0f0f11;}
+  .btn.cap.live{background:var(--accent2);color:#0f0f11;}
+  .btn.warn{border-color:var(--warn);color:var(--warn);}
+  .btn.warn:hover{background:var(--warn);color:#0f0f11;}
+  .btn.success{border-color:var(--success);color:var(--success);}
+  .btn.success:hover{background:var(--success);color:#0f0f11;}
+  #csv-label{font-family:'IBM Plex Mono',monospace;font-size:10px;color:var(--text-dim);max-width:130px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+
+  /* LAYOUT */
+  #main{flex:1;display:flex;overflow:hidden;}
+
+  /* LEFT PANEL */
+  #left-panel{width:var(--panel-w);flex-shrink:0;background:var(--surface);border-right:1px solid var(--border);display:flex;flex-direction:column;overflow:hidden;}
+  #panel-hdr{padding:10px 14px;border-bottom:1px solid var(--border);font-family:'IBM Plex Mono',monospace;font-size:10px;color:var(--text-dim);letter-spacing:.1em;text-transform:uppercase;display:flex;align-items:center;justify-content:space-between;}
+  #item-count{color:var(--accent2);}
+  #item-list{flex:1;overflow-y:auto;padding:6px;}
+  #item-list::-webkit-scrollbar{width:3px;}
+  #item-list::-webkit-scrollbar-thumb{background:var(--border);border-radius:2px;}
+  .li{padding:9px 11px;border-radius:5px;cursor:pointer;transition:background .1s;border:1px solid transparent;margin-bottom:3px;}
+  .li:hover{background:var(--surface2);}
+  .li.active{background:var(--surface2);border-color:var(--accent);}
+  .li .n{font-size:12px;font-weight:500;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+  .li .m{font-family:'IBM Plex Mono',monospace;font-size:10px;color:var(--text-dim);margin-top:2px;}
+
+  /* CENTER */
+  #center{flex:1;display:flex;flex-direction:column;overflow:hidden;position:relative;min-width:0;}
+  #ctoolbar{height:44px;background:var(--surface);border-bottom:1px solid var(--border);display:flex;align-items:center;padding:0 12px;gap:7px;flex-shrink:0;}
+  #bstatus{font-family:'IBM Plex Mono',monospace;font-size:10px;color:var(--text-dim);margin-left:auto;max-width:240px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+  .sdot{display:inline-block;width:6px;height:6px;border-radius:50%;margin-right:5px;background:var(--text-dim);vertical-align:middle;}
+  .sdot.live{background:var(--success);box-shadow:0 0 5px var(--success);}
+  .sdot.open{background:var(--accent);}
+  #content{flex:1;overflow:hidden;position:relative;background:#0a0a0c;}
+
+  /* STATES */
+  #s-empty,#s-guide,#s-canvas{position:absolute;inset:0;display:none;}
+  #s-empty{flex-direction:column;align-items:center;justify-content:center;gap:10px;}
+  #s-empty .big{font-size:40px;opacity:.2;}
+  #s-empty p{font-family:'IBM Plex Mono',monospace;font-size:12px;color:var(--text-dim);letter-spacing:.08em;}
+  #s-guide{flex-direction:column;align-items:center;justify-content:center;gap:14px;padding:28px;}
+  .guide-box{background:var(--surface);border:1px solid var(--border);border-radius:8px;padding:18px 22px;max-width:440px;width:100%;}
+  .guide-box h2{font-family:'IBM Plex Mono',monospace;font-size:12px;color:var(--accent);letter-spacing:.1em;margin-bottom:14px;}
+  .step{display:flex;align-items:flex-start;gap:11px;margin-bottom:11px;}
+  .sn{font-family:'IBM Plex Mono',monospace;font-size:11px;font-weight:700;color:var(--accent);background:rgba(232,197,71,.1);border:1px solid rgba(232,197,71,.3);border-radius:3px;min-width:22px;height:22px;display:flex;align-items:center;justify-content:center;flex-shrink:0;}
+  .st{font-size:12px;color:var(--text-dim);line-height:1.6;padding-top:2px;}
+  .st strong{color:var(--text);}
+  .paste-hint{font-family:'IBM Plex Mono',monospace;font-size:10px;color:var(--text-dim);text-align:center;margin-top:6px;}
+  .paste-hint kbd{background:var(--surface2);border:1px solid var(--border);border-radius:3px;padding:1px 5px;font-family:'IBM Plex Mono',monospace;font-size:10px;color:var(--text);}
+  #s-canvas{align-items:center;justify-content:center;}
+  #cwrap{position:relative;display:inline-flex;align-items:center;justify-content:center;transform-origin:center center;will-change:transform;}
+  #cwrap.panning,#cwrap.panning #oc{cursor:grab!important;}
+  #cwrap.grabbing,#cwrap.grabbing #oc{cursor:grabbing!important;}
+  #mc{display:block;cursor:crosshair;}
+  #oc{position:absolute;top:0;left:0;cursor:crosshair;}
+  #livebadge{position:absolute;top:10px;right:10px;background:rgba(15,15,17,.85);border:1px solid var(--success);border-radius:4px;padding:4px 10px;font-family:'IBM Plex Mono',monospace;font-size:10px;color:var(--success);backdrop-filter:blur(4px);display:none;gap:6px;align-items:center;pointer-events:none;z-index:5;}
+  #livebadge.on{display:flex;}
+  #livebadge .dot{width:6px;height:6px;border-radius:50%;background:var(--success);animation:blink 1s infinite;}
+  @keyframes blink{0%,100%{opacity:1}50%{opacity:.2}}
+  #inst{position:absolute;bottom:10px;left:50%;transform:translateX(-50%);background:rgba(15,15,17,.88);border:1px solid var(--border);border-radius:5px;padding:6px 14px;font-family:'IBM Plex Mono',monospace;font-size:10px;color:var(--text-dim);white-space:nowrap;pointer-events:none;backdrop-filter:blur(6px);z-index:6;}
+  #inst span{color:var(--accent);}
+
+  /* RIGHT PANEL */
+  #right-panel{width:var(--rpanel-w);flex-shrink:0;background:var(--surface);border-left:1px solid var(--border);display:flex;flex-direction:column;overflow-y:auto;}
+  #right-panel::-webkit-scrollbar{width:3px;}
+  #right-panel::-webkit-scrollbar-thumb{background:var(--border);border-radius:2px;}
+  .rps{padding:11px 13px;border-bottom:1px solid var(--border);}
+  .rpl{font-family:'IBM Plex Mono',monospace;font-size:10px;letter-spacing:.12em;text-transform:uppercase;color:var(--text-dim);margin-bottom:8px;}
+  .mr{margin-bottom:7px;}
+  .mk{font-family:'IBM Plex Mono',monospace;font-size:9px;color:var(--text-dim);margin-bottom:1px;}
+  .mv{font-size:12px;font-weight:500;word-break:break-all;}
+  .mu{font-family:'IBM Plex Mono',monospace;font-size:9px;color:var(--accent2);word-break:break-all;}
+  .ogrid{display:grid;grid-template-columns:repeat(3,1fr);gap:5px;}
+  .ob{font-family:'IBM Plex Mono',monospace;font-size:10px;padding:7px 4px;text-align:center;border-radius:3px;border:1px solid var(--border);background:var(--surface2);color:var(--text-dim);cursor:pointer;transition:all .13s;}
+  .ob:hover{border-color:var(--accent2);color:var(--accent2);}
+  .ob.sel{background:var(--accent2);color:#0f0f11;border-color:var(--accent2);font-weight:600;}
+  #poly-list{font-family:'IBM Plex Mono',monospace;font-size:10px;color:var(--text-dim);line-height:1.9;}
+  .pp{color:var(--accent);}
+  .pp span{color:var(--text-dim);}
+  #hr{display:flex;align-items:center;gap:8px;}
+  #hs{flex:1;appearance:none;height:3px;border-radius:2px;background:var(--border);outline:none;cursor:pointer;}
+  #hs::-webkit-slider-thumb{appearance:none;width:13px;height:13px;border-radius:50%;background:var(--accent);cursor:pointer;}
+  #hv{font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--accent);width:38px;text-align:right;}
+  #pvwrap{background:#0a0a0c;border-radius:4px;overflow:hidden;display:flex;align-items:center;justify-content:center;min-height:60px;border:1px solid var(--border);}
+  #pvc{max-width:100%;display:block;}
+  #fnprev{font-family:'IBM Plex Mono',monospace;font-size:10px;color:var(--accent);background:var(--surface2);border-radius:3px;padding:7px 9px;word-break:break-all;border:1px solid var(--border);line-height:1.6;}
+  .hint{font-family:'IBM Plex Mono',monospace;font-size:9px;color:var(--text-dim);margin-top:5px;line-height:1.6;}
+  input[type=file]{display:none;}
+</style>
+</head>
+<body>
+
+<div id="topbar">
+  <h1>Box Art Extractor</h1>
+  <div class="sep"></div>
+  <label class="btn" for="csv-in">⊕ CSV</label>
+  <input type="file" id="csv-in" accept=".csv,.tsv,.txt">
+  <span id="csv-label">No file loaded</span>
+  <div class="sep"></div>
+  <button class="btn cap" id="btn-cap">⬡ Capture Screen</button>
+  <button class="btn warn" id="btn-stop" style="display:none">◼ Stop</button>
+  <button class="btn" id="btn-snap" disabled>📷 Snap Frame</button>
+  <div class="sep"></div>
+  <button class="btn" id="btn-clear">✕ Clear Points</button>
+  <button class="btn success" id="btn-save" disabled>↓ Extract &amp; Save</button>
+</div>
+
+<div id="main">
+
+  <!-- LEFT -->
+  <div id="left-panel">
+    <div id="panel-hdr"><span>Items</span><span id="item-count">0</span></div>
+    <div id="item-list"><div style="padding:18px 10px;font-family:'IBM Plex Mono',monospace;font-size:10px;color:var(--text-dim);text-align:center;">Load a CSV to begin</div></div>
+  </div>
+
+  <!-- CENTER -->
+  <div id="center">
+    <div id="ctoolbar">
+      <button class="btn" id="btn-open" disabled>↗ Open in Browser</button>
+      <button class="btn" id="btn-close-tab" disabled>✕ Close Tab</button>
+      <button class="btn" id="btn-reload" disabled>↺ Reload</button>
+      <button class="btn" id="btn-zoom-reset" disabled>⊙ 1:1</button>
+      <span id="bstatus"><span class="sdot" id="sdot"></span><span id="stext">No item selected</span></span>
+    </div>
+    <div id="content">
+      <div id="s-empty" style="display:flex">
+        <div class="big">⬡</div>
+        <p>Select an item from the list</p>
+      </div>
+      <div id="s-guide">
+        <div class="guide-box">
+          <h2>HOW TO CAPTURE A BOX IMAGE</h2>
+          <div class="step"><div class="sn">1</div><div class="st">Click <strong>↗ Open in Browser</strong> — the product page opens in a new tab. Arrange the browser and this tool side by side.</div></div>
+          <div class="step"><div class="sn">2</div><div class="st">Click <strong>⬡ Capture Screen</strong> and share your <strong>browser window or tab</strong> when prompted. A live feed appears here.</div></div>
+          <div class="step"><div class="sn">3</div><div class="st">Browse to the image you want. Click <strong>📷 Snap Frame</strong> to freeze it here for polygon marking.</div></div>
+          <div class="step"><div class="sn">4</div><div class="st">Click <strong>4 corners</strong> on the box face (TL→TR→BR→BL). Drag to adjust. Then pick a face and hit <strong>↓ Extract &amp; Save</strong>.</div></div>
+          <div class="paste-hint">Or paste an image with <kbd>Ctrl+V</kbd> / <kbd>⌘V</kbd></div>
+        </div>
+      </div>
+      <div id="s-canvas">
+        <div id="cwrap">
+          <canvas id="mc"></canvas>
+          <canvas id="oc"></canvas>
+        </div>
+        <div id="livebadge"><div class="dot"></div>LIVE</div>
+        <div id="inst"><span>Click</span> 4 corners: TL→TR→BR→BL &nbsp;·&nbsp; <span>Drag</span> to adjust &nbsp;·&nbsp; <span>Right-click</span> remove &nbsp;·&nbsp; <span>Scroll</span> zoom &nbsp;·&nbsp; <span>Space+drag</span> pan &nbsp;·&nbsp; <span>←/→</span> focus tab</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- RIGHT -->
+  <div id="right-panel">
+    <div class="rps">
+      <div class="rpl">Item</div>
+      <div class="mr"><div class="mk">Brand</div><div class="mv" id="ib">—</div></div>
+      <div class="mr"><div class="mk">Scale</div><div class="mv" id="is">—</div></div>
+      <div class="mr"><div class="mk">Name</div><div class="mv" id="in">—</div></div>
+      <div class="mr"><div class="mk">URL</div><div class="mu" id="iu">—</div></div>
+    </div>
+    <div class="rps">
+      <div class="rpl">Box Face</div>
+      <div class="ogrid">
+        <div class="ob" data-f="top">TOP</div>
+        <div class="ob" data-f="front">FRONT</div>
+        <div class="ob" data-f="back">BACK</div>
+        <div class="ob" data-f="left">LEFT</div>
+        <div class="ob" data-f="right">RIGHT</div>
+        <div class="ob" data-f="bottom">BOTTOM</div>
+      </div>
+    </div>
+    <div class="rps">
+      <div class="rpl">Polygon (4 pts)</div>
+      <div id="poly-list">No points placed</div>
+      <div class="hint">Click canvas to place. Drag to adjust. Right-click to remove.</div>
+    </div>
+    <div class="rps">
+      <div class="rpl">Aspect Ratio (X/Y)</div>
+      <div id="hr"><input type="range" id="hs" min="25" max="400" value="100" step="1"><div id="hv">1.00×</div></div>
+      <div class="hint">Scales width relative to auto-calculated proportions. 1.00× = natural quad ratio.</div>
+    </div>
+    <div class="rps">
+      <div class="rpl">Preview</div>
+      <div id="pvwrap"><canvas id="pvc"></canvas></div>
+    </div>
+    <div class="rps">
+      <div class="rpl">Filename</div>
+      <div id="fnprev">—</div>
+    </div>
+  </div>
+</div>
+
+<script>
+const $=id=>document.getElementById(id);
+const S={items:[],activeIdx:-1,face:null,aspectScale:1.0,outH:400,tab:null,stream:null,video:null,raf:null,imgEl:null,scale:1,poly:[],drag:-1,
+  zoom:1,panX:0,panY:0,spaceDown:false,panning:false,panStart:null};
+
+// ── CSV ──
+$('csv-in').addEventListener('change',e=>{
+  const f=e.target.files[0];if(!f)return;
+  $('csv-label').textContent=f.name;
+  const r=new FileReader();r.onload=ev=>parseCSV(ev.target.result);r.readAsText(f);
+});
+function parseCSV(txt){
+  const lines=txt.trim().split(/\r?\n/);if(lines.length<2)return;
+  const d=lines[0].includes('\t')?'\t':',';
+  const H=spl(lines[0],d).map(h=>h.toLowerCase().trim());
+  const col=(...ns)=>{for(const n of ns){const i=H.findIndex(h=>h.includes(n));if(i!==-1)return i;}return -1;};
+  const iU=col('url','webpage','link','href','page');
+  const iB=col('brand','hersteller','marque');
+  const iSc=col('scale','maßstab','massstab','echelle','escala');
+  const iN=col('name','title','bezeichnung','modell','model','item','artikel');
+  if(iU===-1){alert('CSV needs a URL column');return;}
+  S.items=[];
+  for(let i=1;i<lines.length;i++){
+    const c=spl(lines[i],d);if(!c[iU])continue;
+    S.items.push({url:c[iU]?.trim()||'',brand:iB>-1?c[iB]?.trim()||'':'',scale:iSc>-1?c[iSc]?.trim()||'':'',name:iN>-1?c[iN]?.trim()||'':`Item ${i}`});
+  }
+  // Assign uniqueIdx: count occurrences of each name+scale+brand combo
+  const comboCount={},comboSeen={};
+  S.items.forEach(it=>{
+    const k=`${it.name}|${it.scale}|${it.brand}`;
+    comboCount[k]=(comboCount[k]||0)+1;
+  });
+  S.items.forEach(it=>{
+    const k=`${it.name}|${it.scale}|${it.brand}`;
+    if(comboCount[k]>1){
+      comboSeen[k]=(comboSeen[k]||0)+1;
+      it.uniqueIdx=comboSeen[k];
+    } else {
+      it.uniqueIdx=0; // 0 = no suffix needed
+    }
+  });
+  renderList();
+}
+function spl(line,d){const o=[];let q=false,cur='';for(let i=0;i<line.length;i++){const c=line[i];if(c==='"'){q=!q;continue;}if(!q&&c===d){o.push(cur);cur='';continue;}cur+=c;}o.push(cur);return o;}
+
+// ── LIST ──
+function renderList(){
+  $('item-count').textContent=S.items.length;
+  $('item-list').innerHTML='';
+  if(!S.items.length){$('item-list').innerHTML='<div style="padding:18px 10px;font-family:\'IBM Plex Mono\',monospace;font-size:10px;color:var(--text-dim);text-align:center;">No items found</div>';return;}
+  S.items.forEach((it,i)=>{
+    const el=document.createElement('div');el.className='li';
+    el.innerHTML=`<div class="n">${esc(it.name)}</div><div class="m">${esc(it.brand)} ${esc(it.scale)}</div>`;
+    el.addEventListener('click',()=>activate(i));
+    $('item-list').appendChild(el);
+  });
+}
+
+// ── ACTIVATE ──
+function activate(idx){
+  document.querySelectorAll('.li').forEach((el,i)=>el.classList.toggle('active',i===idx));
+  S.activeIdx=idx;const it=S.items[idx];
+  $('ib').textContent=it.brand||'—';$('is').textContent=it.scale||'—';
+  $('in').textContent=it.name||'—';$('iu').textContent=it.url||'—';
+  S.poly=[];renderPoly();clearPrev();updateFn();
+  resetView();
+  openOrUpdate(it.url);
+  showState(S.stream?'canvas':'guide');
+  updateStatus();
+}
+
+// ── BROWSER TAB ──
+function openOrUpdate(url){
+  if(S.tab&&!S.tab.closed){
+    try{S.tab.location.href=url;}catch(e){S.tab=window.open(url,'boxart_tab');}
+  } else {
+    S.tab=window.open(url,'boxart_tab');
+  }
+  $('btn-open').disabled=false;
+  $('btn-close-tab').disabled=false;
+  $('btn-reload').disabled=false;
+  updateStatus();
+}
+$('btn-open').addEventListener('click',()=>{if(S.activeIdx<0)return;openOrUpdate(S.items[S.activeIdx].url);});
+$('btn-close-tab').addEventListener('click',()=>{if(S.tab&&!S.tab.closed)S.tab.close();S.tab=null;$('btn-close-tab').disabled=true;$('btn-reload').disabled=true;updateStatus();});
+$('btn-reload').addEventListener('click',()=>{if(S.tab&&!S.tab.closed){try{S.tab.location.reload();}catch(e){}}});
+function updateStatus(){
+  const tOpen=S.tab&&!S.tab.closed,capOn=!!S.stream;
+  $('sdot').className='sdot'+(capOn?' live':tOpen?' open':'');
+  if(capOn&&tOpen)$('stext').textContent='Capturing · tab open';
+  else if(capOn)$('stext').textContent='Capturing · no tab';
+  else if(tOpen&&S.activeIdx>=0)$('stext').textContent=S.items[S.activeIdx].url.replace(/^https?:\/\//,'').slice(0,38);
+  else if(S.activeIdx>=0)$('stext').textContent='Tab closed';
+  else $('stext').textContent='No item selected';
+}
+
+// ── SCREEN CAPTURE ──
+$('btn-cap').addEventListener('click',async()=>{
+  try{
+    const stream=await navigator.mediaDevices.getDisplayMedia({video:{cursor:'always'},audio:false});
+    S.stream=stream;
+    const v=document.createElement('video');v.srcObject=stream;v.muted=true;await v.play();S.video=v;
+    stream.getVideoTracks()[0].addEventListener('ended',stopCap);
+    startLive();
+    $('btn-cap').style.display='none';$('btn-stop').style.display='';
+    $('btn-snap').disabled=false;
+    $('livebadge').classList.add('on');
+    if(S.activeIdx>=0)showState('canvas');
+    updateStatus();
+  }catch(e){if(e.name!=='NotAllowedError')alert('Capture failed: '+e.message);}
+});
+$('btn-stop').addEventListener('click',stopCap);
+function stopCap(){
+  if(S.raf){cancelAnimationFrame(S.raf);S.raf=null;}
+  if(S.stream){S.stream.getTracks().forEach(t=>t.stop());S.stream=null;}
+  S.video=null;
+  $('btn-stop').style.display='none';$('btn-cap').style.display='';
+  $('btn-snap').disabled=true;$('livebadge').classList.remove('on');
+  updateStatus();
+}
+function startLive(){
+  const draw=()=>{
+    if(!S.video||!S.stream)return;
+    if(S.video.readyState>=2){fitDraw(S.video,S.video.videoWidth,S.video.videoHeight);syncOv();}
+    S.raf=requestAnimationFrame(draw);
+  };
+  S.raf=requestAnimationFrame(draw);
+}
+$('btn-snap').addEventListener('click',()=>{
+  if(!S.video)return;
+  fitDraw(S.video,S.video.videoWidth,S.video.videoHeight);
+  if(S.raf){cancelAnimationFrame(S.raf);S.raf=null;}
+  $('livebadge').classList.remove('on');
+  syncOv();showState('canvas');
+});
+
+// ── PASTE ──
+document.addEventListener('paste',e=>{
+  for(const item of e.clipboardData?.items||[]){
+    if(item.type.startsWith('image/')){
+      const url=URL.createObjectURL(item.getAsFile());
+      const img=new Image();
+      img.onload=()=>{stopCap();S.imgEl=img;fitDraw(img,img.width,img.height);syncOv();showState('canvas');URL.revokeObjectURL(url);};
+      img.src=url;break;
+    }
+  }
+});
+
+// ── CANVAS ──
+const mc=$('mc'),oc=$('oc');
+const ctx=mc.getContext('2d'),oct=oc.getContext('2d');
+function fitDraw(src,sw,sh){
+  const area=$('content'),maxW=area.clientWidth-20,maxH=area.clientHeight-20;
+  const sc=Math.min(maxW/sw,maxH/sh,1);
+  const w=Math.round(sw*sc),h=Math.round(sh*sc);
+  if(mc.width!==w||mc.height!==h){mc.width=w;mc.height=h;}
+  S.scale=sc;ctx.drawImage(src,0,0,w,h);
+}
+function syncOv(){oc.width=mc.width;oc.height=mc.height;renderPoly();}
+
+// ── STATES ──
+function showState(n){
+  $('s-empty').style.display=n==='empty'?'flex':'none';
+  $('s-guide').style.display=n==='guide'?'flex':'none';
+  $('s-canvas').style.display=n==='canvas'?'flex':'none';
+}
+
+// ── POLYGON ──
+const HIT=12;
+const LABELS=['TL','TR','BR','BL'];
+const COLS=['#e8c547','#5e9cf0','#5ef09e','#f05e5e'];
+
+oc.addEventListener('mousedown',e=>{
+  if(e.button===2)return;
+  if(S.spaceDown)return; // let pan handler take over
+  const{x,y}=cXY(e),h=hitTest(x,y);
+  if(h!==-1){S.drag=h;return;}
+  if(S.poly.length<4){S.poly.push({x,y});renderPoly();updPrev();updateFn();}
+});
+oc.addEventListener('contextmenu',e=>{e.preventDefault();const{x,y}=cXY(e),h=hitTest(x,y);if(h!==-1){S.poly.splice(h,1);renderPoly();updPrev();}});
+oc.addEventListener('mousemove',e=>{if(S.drag===-1)return;const{x,y}=cXY(e);S.poly[S.drag]={x,y};renderPoly();updPrev();});
+oc.addEventListener('mouseup',()=>{S.drag=-1;});
+function cXY(e){
+  // oc is inside cwrap which is CSS-transformed; we need coords in canvas pixel space.
+  // getBoundingClientRect() already reflects the CSS transform, so dividing by the
+  // visual size gives the correct normalised position regardless of zoom/pan.
+  const r=oc.getBoundingClientRect();
+  return{x:(e.clientX-r.left)*(oc.width/r.width),y:(e.clientY-r.top)*(oc.height/r.height)};
+}
+function hitTest(x,y){for(let i=S.poly.length-1;i>=0;i--)if(Math.hypot(x-S.poly[i].x,y-S.poly[i].y)<HIT)return i;return -1;}
+
+function renderPoly(){
+  oct.clearRect(0,0,oc.width,oc.height);
+  const p=S.poly;if(!p.length){updPolyList();chkSave();return;}
+  if(p.length===4){
+    oct.beginPath();oct.moveTo(p[0].x,p[0].y);for(let i=1;i<4;i++)oct.lineTo(p[i].x,p[i].y);oct.closePath();
+    oct.fillStyle='rgba(232,197,71,.12)';oct.fill();
+    oct.strokeStyle='rgba(232,197,71,.65)';oct.lineWidth=1.5;oct.setLineDash([5,3]);oct.stroke();oct.setLineDash([]);
+  } else {
+    oct.beginPath();oct.moveTo(p[0].x,p[0].y);for(let i=1;i<p.length;i++)oct.lineTo(p[i].x,p[i].y);
+    oct.strokeStyle='rgba(232,197,71,.45)';oct.lineWidth=1.5;oct.setLineDash([5,3]);oct.stroke();oct.setLineDash([]);
+  }
+  p.forEach((pt,i)=>{
+    const c=COLS[i]||'#e8c547';
+    oct.beginPath();oct.arc(pt.x,pt.y,9,0,Math.PI*2);oct.fillStyle='rgba(15,15,17,.75)';oct.fill();oct.strokeStyle=c;oct.lineWidth=1.8;oct.stroke();
+    oct.fillStyle=c;oct.font='bold 8px IBM Plex Mono,monospace';oct.textAlign='center';oct.textBaseline='middle';oct.fillText(LABELS[i]||i+1,pt.x,pt.y);
+  });
+  updPolyList();chkSave();
+}
+function updPolyList(){
+  const p=S.poly;
+  if(!p.length){$('poly-list').textContent='No points placed';return;}
+  $('poly-list').innerHTML=p.map((pt,i)=>`<div class="pp">${LABELS[i]||i+1} <span>(${Math.round(pt.x/S.scale)}, ${Math.round(pt.y/S.scale)})</span></div>`).join('')
+    +(p.length<4?`<div style="color:var(--text-dim);margin-top:3px;">${4-p.length} more needed</div>`:'');
+}
+function chkSave(){$('btn-save').disabled=S.poly.length<4||!S.face||mc.width===0;}
+
+// ── WARP ──
+function warp(src,pts,oW,oH){
+  const d=document.createElement('canvas');d.width=Math.round(oW);d.height=Math.round(oH);
+  const dc=d.getContext('2d'),id=dc.createImageData(d.width,d.height);
+  const sd=src.getContext('2d').getImageData(0,0,src.width,src.height),sw=src.width,sh=src.height;
+  const[p0,p1,p2,p3]=pts;
+  for(let dy=0;dy<d.height;dy++){
+    const v=dy/(d.height-1||1);
+    for(let dx=0;dx<d.width;dx++){
+      const u=dx/(d.width-1||1);
+      const sx=(1-u)*(1-v)*p0.x+u*(1-v)*p1.x+u*v*p2.x+(1-u)*v*p3.x;
+      const sy=(1-u)*(1-v)*p0.y+u*(1-v)*p1.y+u*v*p2.y+(1-u)*v*p3.y;
+      const xi=Math.max(0,Math.min(sw-1,Math.round(sx))),yi=Math.max(0,Math.min(sh-1,Math.round(sy)));
+      const si=(yi*sw+xi)*4,di=(dy*d.width+dx)*4;
+      id.data[di]=sd.data[si];id.data[di+1]=sd.data[si+1];id.data[di+2]=sd.data[si+2];id.data[di+3]=sd.data[si+3];
+    }
+  }
+  dc.putImageData(id,0,0);return d;
+}
+function oW(pts,oH){
+  if(pts.length<4)return oH;
+  const tW=Math.hypot(pts[1].x-pts[0].x,pts[1].y-pts[0].y),bW=Math.hypot(pts[2].x-pts[3].x,pts[2].y-pts[3].y);
+  const lH=Math.hypot(pts[3].x-pts[0].x,pts[3].y-pts[0].y),rH=Math.hypot(pts[2].x-pts[1].x,pts[2].y-pts[1].y);
+  return Math.round(oH*((tW+bW)/2/((lH+rH)/2||1)));
+}
+
+// ── PREVIEW ──
+const pvc=$('pvc'),pc=pvc.getContext('2d');
+function updPrev(){
+  if(S.poly.length<4||mc.width===0)return;
+  const h=S.outH,w2=Math.round(oW(S.poly,h)*S.aspectScale),wd=warp(mc,S.poly,w2,h);
+  const MAX=220,sc=Math.min(MAX/wd.width,MAX/wd.height,1);
+  pvc.width=Math.round(wd.width*sc);pvc.height=Math.round(wd.height*sc);
+  pc.drawImage(wd,0,0,pvc.width,pvc.height);
+}
+function clearPrev(){pc.clearRect(0,0,pvc.width,pvc.height);}
+
+// ── FACE ──
+document.querySelectorAll('.ob').forEach(b=>{
+  b.addEventListener('click',()=>{
+    document.querySelectorAll('.ob').forEach(x=>x.classList.remove('sel'));
+    b.classList.add('sel');S.face=b.dataset.f;updateFn();chkSave();
+  });
+});
+
+// ── FILENAME ──
+const slug=(s,m=20)=>(s||'unknown').replace(/[^\w\s-]/g,'').replace(/\s+/g,'-').replace(/-+/g,'-').slice(0,m);
+const ssc=s=>(s||'noScale').replace(/[:\s/\\]/g,'-');
+function buildFn(it,face){
+  const idx=it.uniqueIdx>0?`_${it.uniqueIdx}`:'';
+  return `${slug(it.brand,16)}_${ssc(it.scale)}_${slug(it.name,20)}${idx}_${face||'unknown'}.png`;
+}
+function updateFn(){
+  if(S.activeIdx<0){$('fnprev').textContent='—';return;}
+  $('fnprev').textContent=buildFn(S.items[S.activeIdx],S.face);
+}
+
+// ── CONTROLS ──
+$('btn-clear').addEventListener('click',()=>{S.poly=[];renderPoly();clearPrev();});
+$('btn-save').addEventListener('click',()=>{
+  if(S.poly.length<4||!S.face||mc.width===0)return;
+  const h=S.outH,w2=Math.round(oW(S.poly,h)*S.aspectScale),wd=warp(mc,S.poly,w2,h);
+  const it=S.items[S.activeIdx];
+  const fn=buildFn(it,S.face);
+  wd.toBlob(b=>{const a=document.createElement('a');a.href=URL.createObjectURL(b);a.download=fn;a.click();URL.revokeObjectURL(a.href);});
+});
+$('hs').addEventListener('input',()=>{S.aspectScale=parseInt($('hs').value)/100;$('hv').textContent=S.aspectScale.toFixed(2)+'×';updPrev();});
+window.addEventListener('resize',()=>{if(S.imgEl&&mc.width>0){fitDraw(S.imgEl,S.imgEl.width,S.imgEl.height);syncOv();}});
+
+// ── ZOOM / PAN ──
+const cwrap=$('cwrap');
+function applyView(){
+  cwrap.style.transform=`translate(${S.panX}px,${S.panY}px) scale(${S.zoom})`;
+  $('btn-zoom-reset').disabled=(S.zoom===1&&S.panX===0&&S.panY===0);
+}
+function resetView(){S.zoom=1;S.panX=0;S.panY=0;applyView();}
+$('btn-zoom-reset').addEventListener('click',resetView);
+
+// Scroll-wheel zoom — zoom toward cursor
+$('s-canvas').addEventListener('wheel',e=>{
+  if(mc.width===0)return;
+  e.preventDefault();
+  const rect=$('s-canvas').getBoundingClientRect();
+  // cursor position relative to s-canvas centre (where cwrap is centred)
+  const cx=rect.left+rect.width/2,cy=rect.top+rect.height/2;
+  const mx=e.clientX-cx,my=e.clientY-cy;
+  const factor=e.deltaY<0?1.12:1/1.12;
+  const newZoom=Math.max(0.25,Math.min(10,S.zoom*factor));
+  // adjust pan so the point under cursor stays fixed
+  S.panX=mx-(mx-S.panX)*(newZoom/S.zoom);
+  S.panY=my-(my-S.panY)*(newZoom/S.zoom);
+  S.zoom=newZoom;
+  applyView();
+},{passive:false});
+
+// Space+drag pan
+window.addEventListener('keydown',e=>{
+  if(e.code==='Space'&&!e.repeat&&e.target.tagName!=='INPUT'){
+    e.preventDefault();S.spaceDown=true;cwrap.classList.add('panning');
+  }
+  // Arrow keys → focus the browser tab
+  if((e.key==='ArrowLeft'||e.key==='ArrowRight')&&e.target.tagName!=='INPUT'){
+    if(S.tab&&!S.tab.closed){
+      e.preventDefault();
+      S.tab.focus();
+      // best-effort postMessage for same-origin or cooperative pages
+      try{S.tab.postMessage({type:'keydown',key:e.key,keyCode:e.key==='ArrowLeft'?37:39},'*');}catch(_){}
+    }
+  }
+});
+window.addEventListener('keyup',e=>{
+  if(e.code==='Space'){S.spaceDown=false;cwrap.classList.remove('panning','grabbing');}
+});
+
+$('s-canvas').addEventListener('mousedown',e=>{
+  if(S.spaceDown&&e.button===0){
+    S.panning=true;S.panStart={x:e.clientX-S.panX,y:e.clientY-S.panY};
+    cwrap.classList.add('grabbing');e.preventDefault();return;
+  }
+});
+window.addEventListener('mousemove',e=>{
+  if(!S.panning)return;
+  S.panX=e.clientX-S.panStart.x;S.panY=e.clientY-S.panStart.y;
+  applyView();
+});
+window.addEventListener('mouseup',e=>{
+  if(S.panning){S.panning=false;cwrap.classList.remove('grabbing');}
+});
+
+// ── ARROW KEY FORWARDING ──
+// (handled inside the keydown listener above)
+
+function esc(s){return(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
+updateFn();
+</script>
+</body>
+</html>
