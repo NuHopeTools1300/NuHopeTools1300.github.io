@@ -1,25 +1,25 @@
-# ILM Van Nuys — Kit-Bash Research Platform
+# ILM Van Nuys - Kit-Bash Research Platform
 ### Project Roadmap · NuHopeTools1300 · April 2026
 
 ---
 
 ## Vision
 
-A research platform and eventual public database documenting the kit-bashed parts used on ILM studio models built in Van Nuys during the original Star Wars trilogy — starting with the 5-foot Millennium Falcon. The goal is to make the cross-model connections visible, credit the researchers who found them, and gradually shift a fragmented, knowledge-hoarding community toward open sharing.
+A research platform and eventual public database documenting the kit-bashed parts used on ILM studio models built in Van Nuys during the original Star Wars movie - starting with the 5-foot Millennium Falcon. The goal is to make the cross-model connections visible, credit the researchers who found them, and gradually shift a fragmented, knowledge-hoarding community toward open sharing.
 
 ---
 
 ## Strategic approach
 
-- Build the research infrastructure first — tools that make our own work better today.
-- Don't ask the community to change behaviour — build something worth pointing at.
-- Attribution baked in from day one — every find credits its identifier, permanently.
-- The cross-model connection graph is the unique value nobody else offers.
+- Build the research infrastructure first - tools that make our own work better today.
+- Don't ask the community to change behaviour - build something worth pointing at.
+- Attribution baked in from day one - every find credits its identifier, permanently.
+- The cross-model connection graph is the unique value.
 
 ---
 
-## Phase 1 — Now · Research infrastructure
-*Private · you + inner circle*
+## Phase 1 - Now · Research infrastructure
+*Private · you + few enthusiasts*
 
 | # | Step | Description | Tag |
 |---|------|-------------|-----|
@@ -30,7 +30,7 @@ A research platform and eventual public database documenting the kit-bashed part
 
 ---
 
-## Phase 2 — Next · Community database
+## Phase 2 - Next · Community database
 *Semi-public · trusted contributors*
 
 | # | Step | Description | Tag |
@@ -41,19 +41,19 @@ A research platform and eventual public database documenting the kit-bashed part
 
 ---
 
-## Phase 3 — Later · Public platform
+## Phase 3 - Later · Public platform
 *Open · community gravity*
 
 | # | Step | Description | Tag |
 |---|------|-------------|-----|
 | 8 | **Visual connection graph** | Interactive web of models, kits and shared parts. The 'big picture' made visible to everyone. | Showcase |
-| 9 | **Open contribution + moderation** | Community submissions with review. The culture shift toward open sharing happens here — if the platform earned it. | Long game |
+| 9 | **Open contribution + moderation** | Community submissions with review. The culture shift toward open sharing happens here - if the platform earned it. | Long game |
 
 ---
 
 ## Data model
 
-Seven core tables. Everything connects through `placements` — the join between a kit part and a specific location on a specific model.
+Seven core tables. Everything connects through `placements` - the join between a kit part and a specific location on a specific model.
 
 | Table | Purpose |
 |-------|---------|
@@ -75,7 +75,7 @@ Seven core tables. Everything connects through `placements` — the join between
 
 ---
 
-## Saved for later — not forgotten
+## Saved for later - not forgotten
 
 **Box art extractor** — a deep archaeology tool for identifying which vintage kit boxes ILM purchased. Useful for the 'which kits were originally used' historical research, but low community value and not on the critical path. Revisit after Phase 1 is solid.
 
@@ -83,7 +83,7 @@ Seven core tables. Everything connects through `placements` — the join between
 
 ## North star
 
-> Build so well it becomes the obvious place to share *to* — don't ask people to change their habits, give them a destination worth pointing at.
+> Build so well it becomes the obvious place to share *to* - don't ask people to change their habits, give them a destination worth pointing at.
 
 ---
 
