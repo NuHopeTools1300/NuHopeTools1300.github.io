@@ -28,7 +28,7 @@ def get_db():
     return db
 
 def clean(val):
-    """Strip whitespace and return None for empty/None values."""
+    """Strip whitespace and return None for empty/None/placeholder values."""
     if val is None:
         return None
     s = str(val).strip()
@@ -76,7 +76,7 @@ def import_kits(xlsx_path, db):
     ws   = wb['kits']
     rows = list(ws.iter_rows(values_only=True))
 
-    # Find header row (has '#', 'brand', 'name')
+    # Find header row (has 'brand' and 'name')
     header_row = None
     for i, row in enumerate(rows):
         vals = [str(v).strip().lower() if v else '' for v in row]
@@ -90,7 +90,7 @@ def import_kits(xlsx_path, db):
 
     headers = [str(v).strip().lower() if v else f'col{i}'
                for i, v in enumerate(rows[header_row])]
-    print(f"  Headers: {[h for h in headers if h]}")
+    print(f"  Headers: {[h for h in headers if h and not h.startswith('col')]}")
 
     def col(row, name):
         try:
@@ -109,7 +109,7 @@ def import_kits(xlsx_path, db):
         if not brand or not name:
             continue
 
-        # Parse coffman number
+        # Parse Coffman reference values (stored in kit_references, not kits)
         num_raw  = safe_float(col(row, '#'))
         base_raw = safe_float(col(row, 'base'))
         suff_raw = safe_float(col(row, 'suffix'))
@@ -118,12 +118,12 @@ def import_kits(xlsx_path, db):
         coffman_base   = safe_int(base_raw)   if base_raw   is not None else None
         coffman_suffix = safe_int(suff_raw)   if suff_raw   is not None else None
 
-        scale           = clean(col(row, 'scale'))
-        serial_number   = clean(col(row, 'sn'))
-        scalemates_url  = clean(col(row, 'scalemates'))
-        scans_url       = clean(col(row, 'kit scans'))
-        instructions    = clean(col(row, 'instructions'))
-        notes           = clean(col(row, 'additional info'))
+        scale          = clean(col(row, 'scale'))
+        serial_number  = clean(col(row, 'sn'))
+        scalemates_url = clean(col(row, 'scalemates'))
+        scans_url      = clean(col(row, 'kit scans'))
+        instructions   = clean(col(row, 'instructions'))
+        notes          = clean(col(row, 'additional info'))
 
         # Skip if already exists (brand + name + serial)
         existing = db.execute("""
@@ -132,19 +132,28 @@ def import_kits(xlsx_path, db):
         """, (brand, name, serial_number, serial_number)).fetchone()
 
         if existing:
+            kit_id = existing['id']
             skipped += 1
-            continue
+        else:
+            cur = db.execute("""
+                INSERT INTO kits
+                    (brand, scale, name, serial_number,
+                     scalemates_url, scans_url, instructions_url, notes)
+                VALUES (?,?,?,?,?,?,?,?)
+            """, (brand, scale, name, serial_number,
+                  scalemates_url, scans_url, instructions, notes))
+            kit_id = cur.lastrowid
+            imported += 1
 
-        db.execute("""
-            INSERT INTO kits
-                (coffman_number, coffman_base, coffman_suffix,
-                 brand, scale, name, serial_number,
-                 scalemates_url, scans_url, instructions_url, notes)
-            VALUES (?,?,?,?,?,?,?,?,?,?,?)
-        """, (coffman_num, coffman_base, coffman_suffix,
-              brand, scale, name, serial_number,
-              scalemates_url, scans_url, instructions, notes))
-        imported += 1
+        # Store Coffman reference in kit_references (system='coffman')
+        # Use the full number as value if available, otherwise base+suffix
+        if coffman_num is not None:
+            coffman_value = str(coffman_num) if coffman_suffix == 0 \
+                            else f"{coffman_base}{coffman_suffix}"
+            db.execute("""
+                INSERT OR IGNORE INTO kit_references (kit_id, system, value)
+                VALUES (?, 'coffman', ?)
+            """, (kit_id, coffman_value))
 
     db.commit()
     print(f"  Kits imported: {imported}  |  skipped (already exist): {skipped}")
@@ -165,11 +174,11 @@ def import_parts(xlsx_path, db):
     ws   = wb['parts']
     rows = list(ws.iter_rows(values_only=True))
 
-    # Find header row
+    # Find header row (has 'kit #-base' or 'part id')
     header_row = None
     for i, row in enumerate(rows):
         vals = [str(v).strip().lower() if v else '' for v in row]
-        if 'kit #' in vals or 'part id' in vals:
+        if 'kit #-base' in vals or 'part id' in vals:
             header_row = i
             break
 
@@ -187,7 +196,6 @@ def import_parts(xlsx_path, db):
         except ValueError:
             return None
 
-    # Import maps first (from the map/plate column)
     falcon_id = ensure_falcon(db)
     map_cache = {}  # map_name -> map_id
 
@@ -203,16 +211,19 @@ def import_parts(xlsx_path, db):
         if kit_base is None or part_num is None:
             continue
 
-        # Find the kit by coffman base number
-        kit = db.execute(
-            "SELECT id FROM kits WHERE coffman_base=? LIMIT 1", (kit_base,)
-        ).fetchone()
+        # Look up kit via kit_references table (system='coffman')
+        # This replaces the old direct coffman_base column lookup
+        ref = db.execute("""
+            SELECT kr.kit_id FROM kit_references kr
+            WHERE kr.system = 'coffman' AND kr.value = ?
+            LIMIT 1
+        """, (str(kit_base),)).fetchone()
 
-        if not kit:
+        if not ref:
             no_kit += 1
             continue
 
-        kit_id = kit['id']
+        kit_id = ref['kit_id']
 
         # Ensure part exists
         existing_part = db.execute(
@@ -224,10 +235,11 @@ def import_parts(xlsx_path, db):
             part_id = existing_part['id']
             skipped += 1
         else:
+            notes_raw = clean(col(row, 'col7'))
             cur = db.execute("""
                 INSERT INTO parts (kit_id, part_number, notes)
                 VALUES (?,?,?)
-            """, (kit_id, part_num, clean(col(row, 'col7'))))
+            """, (kit_id, part_num, notes_raw))
             part_id  = cur.lastrowid
             imported += 1
 
@@ -247,7 +259,7 @@ def import_parts(xlsx_path, db):
                     )
                     map_cache[map_name] = cur.lastrowid
 
-            map_id    = map_cache[map_name]
+            map_id     = map_cache[map_name]
             copy_count = safe_int(safe_float(col(row, 'copys on map'))) or 1
 
             # Avoid duplicate placements
@@ -266,7 +278,7 @@ def import_parts(xlsx_path, db):
 
     db.commit()
     print(f"  Parts imported: {imported}  |  already existed: {skipped}  |  kit not found: {no_kit}")
-    print(f"  Maps created: {len(map_cache)}")
+    print(f"  Maps created/used: {len(map_cache)}")
     wb.close()
     return imported
 
@@ -298,7 +310,6 @@ def import_maps(xlsx_path, db):
         ).fetchone()
 
         if existing:
-            # Update url/version if we have them
             if url or version:
                 db.execute("""
                     UPDATE maps SET url=COALESCE(?,url), version=COALESCE(?,version)
@@ -317,6 +328,83 @@ def import_maps(xlsx_path, db):
     return imported
 
 
+# ── IMPORT 3D PARTS SHEET ─────────────────────────────────────────
+
+def import_3d_parts(xlsx_path, db):
+    """
+    Imports the 'existing 3D parts' sheet into part_files.
+    Sheet columns: kit (coffman#), part, provider 1, provider 2, provider 3, notes
+    """
+    print(f"\nImporting 3D parts from: {xlsx_path}")
+    wb = load_workbook(xlsx_path, read_only=True, data_only=True)
+
+    sheet_name = 'existing 3D parts'
+    if sheet_name not in wb.sheetnames:
+        print(f"  No '{sheet_name}' sheet — skipping")
+        return 0
+
+    ws       = wb[sheet_name]
+    rows     = list(ws.iter_rows(min_row=2, values_only=True))  # skip header
+    imported = 0
+    no_kit   = 0
+    no_part  = 0
+
+    for row in rows:
+        coffman_num = safe_int(safe_float(row[0] if len(row) > 0 else None))
+        part_num    = clean(row[1] if len(row) > 1 else None)
+        providers   = [clean(row[i]) for i in range(2, 5) if i < len(row)]
+        notes       = clean(row[5] if len(row) > 5 else None)
+
+        if coffman_num is None or part_num is None:
+            continue
+
+        # Look up kit via kit_references
+        ref = db.execute("""
+            SELECT kr.kit_id FROM kit_references kr
+            WHERE kr.system = 'coffman' AND kr.value = ?
+            LIMIT 1
+        """, (str(coffman_num),)).fetchone()
+
+        if not ref:
+            no_kit += 1
+            continue
+
+        kit_id = ref['kit_id']
+
+        # Look up part
+        part = db.execute(
+            "SELECT id FROM parts WHERE kit_id=? AND part_number=?",
+            (kit_id, part_num)
+        ).fetchone()
+
+        if not part:
+            no_part += 1
+            continue
+
+        part_id = part['id']
+
+        # Create a part_files entry per provider that has a value
+        for provider in providers:
+            if not provider:
+                continue
+            existing = db.execute("""
+                SELECT id FROM part_files
+                WHERE part_id=? AND source=? AND file_type='scan'
+            """, (part_id, provider)).fetchone()
+
+            if not existing:
+                db.execute("""
+                    INSERT INTO part_files (part_id, file_type, url, source, notes)
+                    VALUES (?, 'scan', '', ?, ?)
+                """, (part_id, provider, notes))
+                imported += 1
+
+    db.commit()
+    print(f"  3D part entries imported: {imported}  |  kit not found: {no_kit}  |  part not found: {no_part}")
+    wb.close()
+    return imported
+
+
 # ── IMPORT ANH DONORS (CROSS-MODEL) ──────────────────────────────
 
 def import_donors(xlsx_path, db):
@@ -330,28 +418,25 @@ def import_donors(xlsx_path, db):
     ws   = wb['SWANH donors']
     rows = list(ws.iter_rows(values_only=True))
 
-    # Row 1 (index 0) is links/stats, Row 2 (index 1) is model names, Row 3 (index 2) is data
-    model_row   = rows[1]
-    header_row  = rows[1]  # same row has both model names and column headers
+    model_row  = rows[1]
 
-    # Map column index -> model name (from row 1, cols 10 onwards)
-    MODEL_COLS = {}
     MODEL_SLUGS = {
-        'Millennium Falcon':         'falcon-5ft',
-        'X-Wing':                    'x-wing',
-        'Y-Wing':                    'y-wing',
-        'Tie Fighter':               'tie-fighter',
-        'Tie Advanced':              'tie-advanced',
-        'Star Destroyer':            'star-destroyer',
-        'Death Star Turbo Laser':    'death-star-turbolaser',
-        'Death Star Tiles 1-6':      'death-star-tiles',
-        'Training Remote':           'training-remote',
-        'Blockade Runner':           'blockade-runner',
-        'Sandcrawler':               'sandcrawler',
-        'Escape Pod':                'escape-pod',
-        'Death Star Crane':          'death-star-crane',
+        'Millennium Falcon':      'falcon-5ft',
+        'X-Wing':                 'x-wing',
+        'Y-Wing':                 'y-wing',
+        'Tie Fighter':            'tie-fighter',
+        'Tie Advanced':           'tie-advanced',
+        'Star Destroyer':         'star-destroyer',
+        'Death Star Turbo Laser': 'death-star-turbolaser',
+        'Death Star Tiles 1-6':   'death-star-tiles',
+        'Training Remote':        'training-remote',
+        'Blockade Runner':        'blockade-runner',
+        'Sandcrawler':            'sandcrawler',
+        'Escape Pod':             'escape-pod',
+        'Death Star Crane':       'death-star-crane',
     }
 
+    MODEL_COLS = {}
     for i, val in enumerate(model_row):
         name = clean(val)
         if name and name in MODEL_SLUGS:
@@ -392,7 +477,9 @@ def import_donors(xlsx_path, db):
         else:
             kit_id = kit['id']
 
-        # Record which models this kit appears on
+        # Record which models this kit appears on.
+        # No part-level detail from this sheet — use kit_id directly on placements
+        # (the new schema allows this; no '?' placeholder parts needed)
         for col_idx, slug in MODEL_COLS.items():
             if col_idx >= len(row):
                 continue
@@ -404,34 +491,20 @@ def import_donors(xlsx_path, db):
             if not model:
                 continue
 
-            # We don't have part-level detail from this sheet,
-            # so create a placeholder part if none exists
-            part = db.execute(
-                "SELECT id FROM parts WHERE kit_id=? AND part_number='?'",
-                (kit_id,)
-            ).fetchone()
-
-            if not part:
-                cur = db.execute("""
-                    INSERT INTO parts (kit_id, part_number, notes)
-                    VALUES (?, '?', 'From ANH donors sheet — part number unknown')
-                """, (kit_id,))
-                part_id = cur.lastrowid
-            else:
-                part_id = part['id']
-
-            # Avoid duplicate placements
+            # Avoid duplicate kit-level placements
             existing = db.execute("""
                 SELECT id FROM placements
-                WHERE model_id=? AND part_id=?
-            """, (model['id'], part_id)).fetchone()
+                WHERE model_id=? AND kit_id=?
+                AND part_id IS NULL AND cast_assembly_id IS NULL
+            """, (model['id'], kit_id)).fetchone()
 
             if not existing:
                 confidence = 'confirmed' if val.lower() == 'x' else 'probable'
                 db.execute("""
-                    INSERT INTO placements (model_id, part_id, confidence, notes)
+                    INSERT INTO placements (model_id, kit_id, confidence, notes)
                     VALUES (?,?,?,?)
-                """, (model['id'], part_id, confidence, val if val.lower() != 'x' else None))
+                """, (model['id'], kit_id, confidence,
+                      val if val.lower() != 'x' else None))
                 imported += 1
 
     db.commit()
@@ -466,6 +539,7 @@ def main():
         import_kits(args.kits, db)
         import_maps(args.kits, db)
         import_parts(args.kits, db)
+        import_3d_parts(args.kits, db)
 
     if args.donors:
         if not os.path.exists(args.donors):

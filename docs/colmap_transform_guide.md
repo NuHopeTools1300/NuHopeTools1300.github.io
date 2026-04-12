@@ -249,7 +249,6 @@ transform_points3D('points3D.txt',  'points3D_new.txt', R, t, s)
 transform_images(  'images.txt',    'images_new.txt',   R, t, s)
 
 print("\nDone. Verify in COLMAP GUI before using the new files.")
-```
 
 ---
 
@@ -275,3 +274,126 @@ print("\nDone. Verify in COLMAP GUI before using the new files.")
 | 4 | Run script on `images.txt` and `points3D.txt` |
 | 5 | Verify result in COLMAP GUI |
 | `cameras.txt` | Leave completely untouched ✅ |
+
+---
+
+---
+
+# Registering Missing Images into an Existing Sparse Model
+
+## Background
+
+After sparse reconstruction, some images may fail to register — usually due to insufficient feature matches, blur, or poor overlap. These can be identified by comparing the images on disk against those listed in `images.txt`, and potentially re-registered using COLMAP's `image_registrator`.
+
+---
+
+## Two Categories of Missing Images
+
+| Category | Meaning | Action needed |
+|---|---|---|
+| In `database.db`, not in `images.txt` | Features extracted but localization failed | Run `image_registrator` directly |
+| Not in `database.db` either | Never processed | Feature extraction + matching first, then register |
+
+---
+
+## Script: `colmap_register_missing.py`
+
+Handles both categories automatically.
+
+**Just check (no changes made):**
+```bash
+python colmap_register_missing.py \
+  --image_dir  /path/to/images \
+  --model_dir  /path/to/sparse/0 \
+  --database   /path/to/database.db \
+  --output_dir /path/to/sparse/1
+```
+
+**Check + attempt registration:**
+```bash
+python colmap_register_missing.py \
+  --image_dir  /path/to/images \
+  --model_dir  /path/to/sparse/0 \
+  --database   /path/to/database.db \
+  --output_dir /path/to/sparse/1 \
+  --register
+```
+
+### What the script does in order
+
+1. **Checks** — compares disk images vs `images.txt` vs `database.db`
+2. **Extracts features** — only for images not yet in the database
+3. **Matches features** — connects new images to existing ones
+4. **Registers** — uses COLMAP's `image_registrator` (PnP localization against existing 3D points)
+5. **Reports** — shows which images were newly registered and which still failed
+
+### If images still fail to register
+
+Run `point_triangulator` then `bundle_adjuster` to consolidate the model:
+
+```bash
+colmap point_triangulator \
+  --database_path database.db \
+  --image_path    images/ \
+  --input_path    sparse/1 \
+  --output_path   sparse/1
+
+colmap bundle_adjuster \
+  --input_path  sparse/1 \
+  --output_path sparse/1
+```
+
+---
+
+---
+
+# Constrained Bundle Adjustment with Fixed Reference Cameras
+
+## Background
+
+COLMAP's built-in CLI `bundle_adjuster` is all-or-nothing — it either refines all camera poses or none. To preserve the scale and rotation established by your Blender alignment (or surveyed reference images), you need to fix a **subset** of cameras while allowing the rest to be optimized. This requires `pycolmap`.
+
+```bash
+pip install pycolmap
+```
+
+---
+
+## How Many Cameras to Fix?
+
+In SfM, a reconstruction has **7 gauge freedoms** (3 rotation + 3 translation + 1 scale). Fixing 3 non-collinear cameras fully constrains all 7. Fewer than 3 and scale or rotation can still drift.
+
+| Fixed cameras | Effect |
+|---|---|
+| 1 | Constrains translation only |
+| 2 | Partial constraint |
+| 3+ | Fully constrains scale + rotation + translation ✅ |
+
+---
+
+## Script: `colmap_constrained_ba.py`
+
+**Fix specific reference cameras, refine everything else:**
+```bash
+python colmap_constrained_ba.py \
+  --input_model  sparse/0 \
+  --output_model sparse/1 \
+  --reference    ref_001.jpg ref_002.jpg ref_003.jpg \
+  --fix_intrinsics \
+  --text_format
+```
+
+**Gauge-only mode** (fix just 3 cameras to lock scale+rotation, allow subtle refinement of all others):
+```bash
+python colmap_constrained_ba.py \
+  --input_model  sparse/0 \
+  --output_model sparse/1 \
+  --reference    ref_A.jpg ref_B.jpg ref_C.jpg \
+  --gauge_only
+```
+
+### Key options
+
+| Flag | Effect |
+|---|---|
+| `--fix_intrinsics` | Also holds focal length, cx, cy fixed — recommended if well-calibrated |
