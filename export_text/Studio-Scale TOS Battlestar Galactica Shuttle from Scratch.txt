@@ -1,0 +1,862 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Studio-Scale TOS Battlestar Galactica Shuttle from Scratch
+URL    : https://www.therpf.com/forums/threads/studio-scale-tos-battlestar-galactica-shuttle-from-scratch.212529/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #3291547)
+Author    : star-art
+Date      : Apr 29, 2014 at 10:13 PM
+Reactions : Like — greeble_gremlin, Bjorn, struschie
+────────────────────────────────────────────────────────────────────────
+
+This has been in the works for quite a while. A few years ago I had the opportunity to study and measure a copy-casting made from the original studio miniature (courtesy of a good friend). I began making patterns for a scratchbuild and worked on them as time permitted.
+
+Earlier this year I wrapped up and delivered a battlestar body build for a client and I finally had time to get some work done on this shuttle project. It took over two months to develop the patterns, mainly because I wanted to include an authentic looking interior. As far as I know, this has never been done before.
+
+Even after pouring through screen captures and original set blueprints, it was very difficult to tell exactly how they configured the cabin set. I finally decided to just build it full size (in CG) and see how well I could match what we saw on screen. This turned out pretty well. Plus, I learned quite a bit about the original set in the process. 
+
+While creating this mockup, I was able to derive patterns for the instrument panel, console, pilot’s seats, and passenger seats. Those will be further fine-tuned prior to 3D printing. All that remains to build are the joystick controls and some misc. small details.
+
+Once I was satisfied with the mockup, the next step was to see how well it would fit inside the studio miniature. Not surprisingly, it did not fit at all. The set is much too narrow — and WAY too long — to be placed inside a “real” shuttle. As a result, I was forced to shorten it dramatically. Then, I had to find a way to “cheat” the width to get the seats far enough outboard so they were underneath the windows.
+
+While I had to make quite a few modifications in the process, the results still look pretty good. It may not be a perfect match to what we saw on screen, but I feel it is more than close enough to proceed.
+
+Please see attached for some renders of the full-size set mockup and also the modified version test-fitted inside a (CG) replica of the studio model.
+
+ 
+
+Attachments
+
+[IMAGE: 97408-7367d5cd1a67d0e4fbc9dc688d1de5da.jpg]
+
+Interior_View01.jpg
+
+					149.7 KB
+					
+					· Views: 583
+					
+				
+
+[IMAGE: 97409-09aa847be42a0ee9a0cc72050881ccbc.jpg]
+
+Interior_View03.jpg
+
+					123.7 KB
+					
+					· Views: 418
+					
+				
+
+[IMAGE: 97410-7a6f75d324ce4dcc28e08a4318389428.jpg]
+
+Interior_View06.jpg
+
+					101.7 KB
+					
+					· Views: 410
+					
+				
+
+[IMAGE: 97411-27537e9f706de01a8e03a25c0128295a.jpg]
+
+Interior_View07.jpg
+
+					97.9 KB
+					
+					· Views: 432
+					
+				
+
+[IMAGE: 97412-aa4596c115eeefb7086324caf1def44d.jpg]
+
+ShuttleBody-WIP5.jpg
+
+					83.4 KB
+					
+					· Views: 391
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #3291551)
+Author    : star-art
+Date      : Apr 29, 2014 at 10:20 PM
+Reactions : Like — EddieL
+────────────────────────────────────────────────────────────────────────
+
+Because of the weird angles and rather tricky shape, I chose to build the model in styrene. The bulk of the structure is 1/8 styrene sheeted in 1/16 styrene panels. Custom-cut plates will be installed on top of that. I'm guessing the original model was carved from foam and skinned in Bondo and then plated with thin styrene panels. As far as BSG ships go, this one is very difficult to get the shape just right. I totally admire anyone who attempts to build one of these.
+
+The studio model had a multi-point armature. I wanted to include this as well. Unfortunately, adding an authentic interior meant sacrificing the front mount. So, this replica features a bottom mount, rear mount, and two side mounts. No top mount was added. The interior structure and acrylic "core" armature is complex enough already!
+
+The model mounts on a steel 5/8" diameter rod. The armature tubing is sized just right to make for a nice, easy slip fit. I added a hidden set screw, accessible from below, so the rod can be locked in place inside the model.
+
+ 
+
+Attachments
+
+[IMAGE: 97420-504b22415b3465b6ee59e8cd296d148a.jpg]
+
+2013-04_TOS_ShuttleBuild_08.jpg
+
+					201.2 KB
+					
+					· Views: 443
+					
+				
+
+[IMAGE: 97419-72dd884b3569d0b13c639e013ce7d710.jpg]
+
+2013-04_TOS_ShuttleBuild_07.jpg
+
+					278.1 KB
+					
+					· Views: 451
+					
+				
+
+[IMAGE: 97418-c39241483ee1a68fe6af0b5bd6d64c80.jpg]
+
+2013-04_TOS_ShuttleBuild_06.jpg
+
+					118.8 KB
+					
+					· Views: 434
+					
+				
+
+[IMAGE: 97417-80062a185123fb830365a8e73ac8c324.jpg]
+
+2013-04_TOS_ShuttleBuild_05.jpg
+
+					246.8 KB
+					
+					· Views: 444
+					
+				
+
+[IMAGE: 97416-d6f91f632e4b80271adc6fa44a7624d6.jpg]
+
+2013-04_TOS_ShuttleBuild_04.jpg
+
+					234.4 KB
+					
+					· Views: 442
+					
+				
+
+[IMAGE: 97415-e14b74fb89064468d9cadc922087e640.jpg]
+
+2013-04_TOS_ShuttleBuild_03.jpg
+
+					258.4 KB
+					
+					· Views: 439
+					
+				
+
+[IMAGE: 97414-fa832f16b0debde99f001966521300d5.jpg]
+
+2013-04_TOS_ShuttleBuild_02.jpg
+
+					202 KB
+					
+					· Views: 465
+					
+				
+
+[IMAGE: 97413-ed5b13f321e68b6e9f74a735dd80fb3f.jpg]
+
+2013-04_TOS_ShuttleBuild_01.jpg
+
+					183.1 KB
+					
+					· Views: 459
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #3291557)
+Author    : star-art
+Date      : Apr 29, 2014 at 10:24 PM
+Reactions : Like — greeble_gremlin, EddieL
+────────────────────────────────────────────────────────────────────────
+
+Like I said, the shape is really tricky to get just right. The original studio model had a removable cockpit top hatch. The frames around the windows are extremely thin. To make sure the shape would be just right, I designed custom stringers in 3D and had them printed in ABS. It would be extremely difficult to build a structure from scratch that had the proper compound curves for a clean, tight fit.
+
+Photos of this build can also be seen on Facebook. Thanks for looking! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Many thanks to my good friend and faithful assistant, Richard Lindstrom, for all his help on this project!
+
+If you are interested in the original Battlestar Galactica filming miniatures, check out a new Facebook group here.
+
+ 
+
+Attachments
+
+[IMAGE: 97427-c3ede3c09004c62a2ac3ec88f24c00ab.jpg]
+
+2013-04_TOS_ShuttleBuild_15.jpg
+
+					167.7 KB
+					
+					· Views: 531
+					
+				
+
+[IMAGE: 97426-671568a9d6263e603a469e307dfcdec5.jpg]
+
+2013-04_TOS_ShuttleBuild_14.jpg
+
+					217.1 KB
+					
+					· Views: 478
+					
+				
+
+[IMAGE: 97425-5c4dd8ae624e23d4e50dc15c6bfe8218.jpg]
+
+2013-04_TOS_ShuttleBuild_12.jpg
+
+					170 KB
+					
+					· Views: 476
+					
+				
+
+[IMAGE: 97424-59e3e7daa1181d3de2c25b4ae2286d96.jpg]
+
+2013-04_TOS_ShuttleBuild_11.jpg
+
+					92 KB
+					
+					· Views: 528
+					
+				
+
+[IMAGE: 97423-65d6cddc03a4aff34c312df612352072.jpg]
+
+2013-04_TOS_ShuttleBuild_10.jpg
+
+					181.7 KB
+					
+					· Views: 378
+					
+				
+
+[IMAGE: 97422-1641244815d0ef0aae061980bd48aef1.jpg]
+
+2013-04_TOS_ShuttleBuild_09.jpg
+
+					204.3 KB
+					
+					· Views: 426
+					
+				
+
+[IMAGE: 97421-67baa68574105bb8ae88f21b9e053e4d.jpg]
+
+2013-04_TOS_ShuttleBuild_08a.jpg
+
+					141.8 KB
+					
+					· Views: 465
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #3291593)
+Author    : Apollo
+Date      : Apr 29, 2014 at 11:32 PM
+────────────────────────────────────────────────────────────────────────
+
+Very cool project!  
+
+looking forward to seeing your progress on this!!
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #3291698)
+Author    : Lee S
+Date      : Apr 30, 2014 at 3:53 AM
+────────────────────────────────────────────────────────────────────────
+
+Really nice as expected 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Hoping this will be offered in the not to distant future........?
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #3292353)
+Author    : ProfKSergeev
+Date      : Apr 30, 2014 at 3:06 PM
+────────────────────────────────────────────────────────────────────────
+
+Your work is always tremendously inspiring.  Such precision, such forethought.  You are just killing it, man!
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #3292648)
+Author    : star-art
+Date      : Apr 30, 2014 at 8:10 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks guys! Lee, sorry I don't have any visions of making kits. (There is a pretty decent resin kit out there already.) On the other hand, commissions are always welcome. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #3292745)
+Author    : Rats
+Date      : Apr 30, 2014 at 10:42 PM
+────────────────────────────────────────────────────────────────────────
+
+Beautiful work! Love seeing the 'guts' of these projects. Very inspirational. Thanks for sharing.
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #3293268)
+Author    : moffeaton
+Date      : May 1, 2014 at 10:41 AM
+Reactions : Like — jawsmodels
+────────────────────────────────────────────────────────────────────────
+
+Charles, when I build my dream house, I will hire you to design the armature 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+So good!!!
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #3293487)
+Author    : dbhs
+Date      : May 1, 2014 at 1:53 PM
+────────────────────────────────────────────────────────────────────────
+
+Wow. Incredible work. Looking forward to seeing the interior work as well.  Going with all original greeblies?
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #3293718)
+Author    : Guy Cowen
+Date      : May 1, 2014 at 5:28 PM
+────────────────────────────────────────────────────────────────────────
+
+Inspiring and awesome
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #3293784)
+Author    : star-art
+Date      : May 1, 2014 at 6:38 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks guys!
+
+Doug, we've identified 99% of the original parts (on the outside). I'll be using mostly actual kit parts with the occasional resin casting here and there. Inside will be nothing like the actual studio model, however, since it had a "fake" interior of sorts.
+
+Jason, it would be an honor! LOL 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #3303446)
+Author    : star-art
+Date      : May 11, 2014 at 1:06 AM
+Reactions : Like — struschie
+────────────────────────────────────────────────────────────────────────
+
+We had another long build session this week. This is taking a bit longer than most projects because we are building not one but *three* models at the same time. So, each time we finish an area, we have to do it all over again -- and then again.
+
+The first model's rear section is finished and plated. The corresponding front section has been fully framed and we're in the middle of skinning it. Before that could begin, though, we had to "marry" the front and rear sections together permanently. There's no going back now! LOL
+
+Because the original studio model was likely carved/sculpted, recreating it using frames and skins is really quite tricky. There is a lot of twisting in the skins as the angles change from one area to another. Still, we think it looks pretty good so far.
+
+ 
+
+Attachments
+
+[IMAGE: 101200-4133f950878c7c2395d6e4171ef5f121.jpg]
+
+2014-05_05.jpg
+
+					198.8 KB
+					
+					· Views: 435
+					
+				
+
+[IMAGE: 101199-c80876526fcca8baf422c248e2f13e11.jpg]
+
+2014-05_04.jpg
+
+					214.2 KB
+					
+					· Views: 454
+					
+				
+
+[IMAGE: 101198-943ad316a25c6b9359adf71159210636.jpg]
+
+2014-05_03.jpg
+
+					182.2 KB
+					
+					· Views: 403
+					
+				
+
+[IMAGE: 101197-e4b726e2ca0687754279785acc7423c3.jpg]
+
+2014-05_02.jpg
+
+					145 KB
+					
+					· Views: 452
+					
+				
+
+[IMAGE: 101196-1fbf0689beb175f841cba53998560d44.jpg]
+
+2014-05_01.jpg
+
+					130.1 KB
+					
+					· Views: 481
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #3303936)
+Author    : star-art
+Date      : May 11, 2014 at 2:25 PM
+Reactions : Like — struschie, Joseph C. Brown
+────────────────────────────────────────────────────────────────────────
+
+I'm sorry for not posting this up front, as I had intended to do so. This project was made possible by the generous assistance of several people. They include (in alphabetical order): 
+
+Jon Billings
+
+Mark Bradley
+
+Phil Curl
+
+Jeff Garton
+
+Gene Kozicki
+
+Richard Lindstrom
+
+Rob McFarlane
+
+Mike Salzo
+
+Doug Shortes
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #3325763)
+Author    : star-art
+Date      : Jun 1, 2014 at 3:44 PM
+Reactions : Like — ProfKSergeev
+────────────────────────────────────────────────────────────────────────
+
+Here's another update. (Keep in mind, we don't get to work on this every week due to juggling multiple projects/priorities.) The first shuttle body has been fully plated and all that remains are touch-ups and fitting the cockpit roof. It will need some final "preening" and a coat of primer before delivery. My friend Richard Lindstrom made a crate for it, so that is ready to go. 
+
+The second and third models are also coming along well. The rear section is complete for one and the second is ready for plating. The front structures are built and skinning has begun. Once the first model has been delivered, progress may slow down as we will be switching gears to start building not one but *two* studio-scale battlestars!
+
+ 
+
+Attachments
+
+[IMAGE: 108042-73fbeab152f0f5bd05fb85bbe1401c75.jpg]
+
+2014-06-01_05.jpg
+
+					104.1 KB
+					
+					· Views: 383
+					
+				
+
+[IMAGE: 108041-1308e1edb47a119bbb4befbec3041e92.jpg]
+
+2014-06-01_04.jpg
+
+					80.7 KB
+					
+					· Views: 412
+					
+				
+
+[IMAGE: 108040-e3fb0cddb9cbb3555fc11b198899147b.jpg]
+
+2014-06-01_03.jpg
+
+					194.1 KB
+					
+					· Views: 374
+					
+				
+
+[IMAGE: 108039-c0257dabb0520d4700cd3175fcab0d59.jpg]
+
+2014-06-01_02.jpg
+
+					101.9 KB
+					
+					· Views: 334
+					
+				
+
+[IMAGE: 108038-4c6361303a150272d3212851ad1d723b.jpg]
+
+2014-06-01_01.jpg
+
+					167.6 KB
+					
+					· Views: 430
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #3325804)
+Author    : imaginager
+Date      : Jun 1, 2014 at 4:40 PM
+────────────────────────────────────────────────────────────────────────
+
+Really nicely executed, Charles. Like the articulated work stand, too. That's a great idea!
+
+Allan
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #3325818)
+Author    : star-art
+Date      : Jun 1, 2014 at 5:10 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #3334792)
+Author    : star-art
+Date      : Jun 10, 2014 at 11:57 PM
+────────────────────────────────────────────────────────────────────────
+
+The first model is almost ready for priming and final delivery. The second and third models still have a ways to go.
+
+The cockpit windows and removable cockpit roof may be the most complicated and tricky part of the entire build. Just like the original, the entire roof comes off with the windows attached. In 1978, they were made up of two layers of very thin styrene. Ours are built the same way. We had to come up with several "tricks" though to add stiffness and increase the structural integrity of the assembly. It turned out remarkably well.
+
+Unlike the original, this model has a detailed cockpit and even the inside of the roof is detailed to match the interior set built for the show. It will be fully illuminated as well. This created enormous challenges in terms of gaining access to install and service the lights. We had to come up with a totally unique way of attaching the assembly to the rest of the ship. It mounts using magnets and screws. The screws are hidden underneath what was the "front mount cover" on the original studio miniature.
+
+ 
+
+Attachments
+
+[IMAGE: 110997-f4a4107d6598dfd7f2e852168dc8ca6f.jpg]
+
+2014-06-10_16.jpg
+
+					221.5 KB
+					
+					· Views: 432
+					
+				
+
+[IMAGE: 110996-8dea09e7513b8a246ec917028615bc6f.jpg]
+
+2014-06-10_15.jpg
+
+					248.7 KB
+					
+					· Views: 487
+					
+				
+
+[IMAGE: 110995-d647a2e89a53e92180df8a6528c5cac8.jpg]
+
+2014-06-10_14.jpg
+
+					221.7 KB
+					
+					· Views: 455
+					
+				
+
+[IMAGE: 110994-71725878b735a8539208b6393ce6e20c.jpg]
+
+2014-06-10_07.jpg
+
+					228.7 KB
+					
+					· Views: 357
+					
+				
+
+[IMAGE: 110993-319ce2f0f951cc86fe8403a73f0b0b05.jpg]
+
+2014-06-10_06.jpg
+
+					187.5 KB
+					
+					· Views: 462
+					
+				
+
+[IMAGE: 110992-87c0558411337fab7117f273a0c46a76.jpg]
+
+2014-06-10_05.jpg
+
+					162.7 KB
+					
+					· Views: 497
+					
+				
+
+[IMAGE: 110991-9e42866a4f5e3ffe04cc2de7b471cae7.jpg]
+
+2014-06-10_04.jpg
+
+					123 KB
+					
+					· Views: 364
+					
+				
+
+[IMAGE: 110990-60b8b99714869f2eb8b1113511731e22.jpg]
+
+2014-06-10_03.jpg
+
+					166.7 KB
+					
+					· Views: 451
+					
+				
+
+[IMAGE: 110989-81340fbf7ca48bde02c7275646529e42.jpg]
+
+2014-06-10_02.jpg
+
+					187.7 KB
+					
+					· Views: 456
+					
+				
+
+[IMAGE: 110988-1e173de3e8939b72bff8b6a2f1737294.jpg]
+
+2014-06-10_01.jpg
+
+					177.2 KB
+					
+					· Views: 1,166
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #3334795)
+Author    : star-art
+Date      : Jun 11, 2014 at 12:05 AM
+Reactions : Like — struschie
+────────────────────────────────────────────────────────────────────────
+
+The center portion of the roof is also removable (unlike the original). This allows greater access to the inside of the model. To take advantage of this feature, I designed a separate interior "rear compartment" behind the main cockpit and passenger area. On the show, there was a rear hatch at the back of the set on what would be the port side of the ship. In the pilot episode, this doorway led to a separate area that was just barely visible on screen. (In later episodes, this same hatch would seem to lead directly outside the ship!)
+
+This replica is the only model I know of that has anything like this. So far, we've successfully built out the structure and details of our rear compartment and test fitted everything inside the model.
+
+ 
+
+Attachments
+
+[IMAGE: 111001-7ecfa8762459048cd4792facc808ffb9.jpg]
+
+2014-06-10_11.jpg
+
+					89 KB
+					
+					· Views: 325
+					
+				
+
+[IMAGE: 111000-aca09d7810b1b6763094fe3198ecd6bb.jpg]
+
+2014-06-10_10.jpg
+
+					128.6 KB
+					
+					· Views: 335
+					
+				
+
+[IMAGE: 110999-36df8da9e2678626606b9e5e62283416.jpg]
+
+2014-06-10_09.jpg
+
+					174.6 KB
+					
+					· Views: 355
+					
+				
+
+[IMAGE: 110998-45513e72ebcd01a5d8d37f4b01d533c8.jpg]
+
+2014-06-10_08.jpg
+
+					182.7 KB
+					
+					· Views: 529
+					
+				
+
+[IMAGE: 111002-b3ff3529dda8f5dec06c24b85d578782.jpg]
+
+2014-06-10_12.jpg
+
+					110.7 KB
+					
+					· Views: 363
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #3334828)
+Author    : dsp5500
+Date      : Jun 11, 2014 at 1:24 AM
+────────────────────────────────────────────────────────────────────────
+
+Quality class work. Love the work stand as well. I need to make something similar.
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #3335854)
+Author    : star-art
+Date      : Jun 11, 2014 at 9:24 PM
+Reactions : Like — cabour
+────────────────────────────────────────────────────────────────────────
+
+Thanks! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+I've created two new short videos highlighting details of our TOS Galactica Shuttle replica. Each presentation is less than a minute. I started creating these clips in order to illustrate specific design features for potential clients. It was so much fun making them that I decided to use this format to show off more of our work.
+
+Exterior Details: Front Mount Cover:
+
+Interior Details: Rear Compartment
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #3339436)
+Author    : star-art
+Date      : Jun 15, 2014 at 10:46 PM
+Reactions : Like — Lee S
+────────────────────────────────────────────────────────────────────────
+
+A few more pics. The first prototype model has now been primered and is almost ready for final delivery. A few minor touch-ups are basically all that's left to do.
+
+ 
+
+Attachments
+
+[IMAGE: 112438-d46da381919e55d67c95a83e24367f41.jpg]
+
+2014-06-15_01.jpg
+
+					234.9 KB
+					
+					· Views: 223
+					
+				
+
+[IMAGE: 112439-8f4eba1e0cb16b424aa78da417e16b62.jpg]
+
+2014-06-15_02.jpg
+
+					345.8 KB
+					
+					· Views: 216
+					
+				
+
+[IMAGE: 112440-c11c4bde357912d63e5c1774364233a0.jpg]
+
+2014-06-15_03.jpg
+
+					181.8 KB
+					
+					· Views: 242
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #3340448)
+Author    : knightdriver2001
+Date      : Jun 17, 2014 at 5:34 AM
+────────────────────────────────────────────────────────────────────────
+
+Awesome!
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #3385177)
+Author    : star-art
+Date      : Aug 4, 2014 at 9:54 PM
+Reactions : Like — AZsandcrawler, Bjorn, struschie
+────────────────────────────────────────────────────────────────────────
+
+This project had to be moved to the "back burner" for a while, but Shuttle #1 is finally ready to be delivered! Thanks for looking. . .
+
+ 
+
+Attachments
+
+[IMAGE: 127072-13baaa539b20e9e2675a56b7583062be.jpg]
+
+2014-08-04_10.jpg
+
+					164.5 KB
+					
+					· Views: 201
+					
+				
+
+[IMAGE: 127071-a3842fa8c4ffa7ea5111409f6aa3c696.jpg]
+
+2014-08-04_09.jpg
+
+					208.9 KB
+					
+					· Views: 219
+					
+				
+
+[IMAGE: 127070-71ccf01ea6a900ff247320f5e28033dd.jpg]
+
+2014-08-04_08.jpg
+
+					132.3 KB
+					
+					· Views: 207
+					
+				
+
+[IMAGE: 127069-ad5e069c065f69447bda1e54a53ac3c1.jpg]
+
+2014-08-04_07.jpg
+
+					137.9 KB
+					
+					· Views: 207
+					
+				
+
+[IMAGE: 127068-9f71a8b78b48524cfd08613296286dad.jpg]
+
+2014-08-04_05.jpg
+
+					158.1 KB
+					
+					· Views: 191
+					
+				
+
+[IMAGE: 127067-0aab27309e5ee07e182dc08b380de039.jpg]
+
+2014-08-04_04.jpg
+
+					164.9 KB
+					
+					· Views: 206
+					
+				
+
+[IMAGE: 127066-ca076fba111d5a056d9aa8075d73bef7.jpg]
+
+2014-08-04_03.jpg
+
+					157.3 KB
+					
+					· Views: 192
+					
+				
+
+[IMAGE: 127065-ee652ad7be1dc552acc177ac3c5efcb9.jpg]
+
+2014-08-04_02.jpg
+
+					117.8 KB
+					
+					· Views: 198
+					
+				
+
+[IMAGE: 127064-7bd886e0e097e18fb6d5def44487db5c.jpg]
+
+2014-08-04_01.jpg
+
+					148.7 KB
+					
+					· Views: 219
+					
+				
+
+[IMAGE: 127073-3d5108ac98ff380cf802ae593029d031.jpg]
+
+2014-08-04_11.jpg
+
+					214.2 KB
+					
+					· Views: 223
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 24

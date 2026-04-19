@@ -1,0 +1,283 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : X Wing drawings
+URL    : https://www.therpf.com/forums/threads/x-wing-drawings.38/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #1174)
+Author    : Miniaturizer Ray
+Date      : Mar 16, 2002 at 2:49 AM
+────────────────────────────────────────────────────────────────────────
+
+Up from the depths!
+
+I've put together a new fuselage plan.  I'd be extremely grateful if all and any of the X-Wing cognoscenti would look it over and comment.
+
+For ease of viewing, I've prepared a .3DS file, which can be viewed in (for example) Right Hemisphere's Deep Exploration (demo available here) as in the screenshot below, or any other software which can import .3DS files (although sometimes meshes can get a bit scrambled, depending on the program).
+
+Alternatively, I can prepare traditional two dimensional plans if you'd rather look at those.
+
+[IMAGE: fusemesh.gif]
+
+Thanks for your time...
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #1268)
+Author    : JamesDavis
+Date      : Mar 18, 2002 at 4:13 AM
+────────────────────────────────────────────────────────────────────────
+
+Ray, where are the .3DS files?
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #1286)
+Author    : Miniaturizer Ray
+Date      : Mar 18, 2002 at 8:19 AM
+────────────────────────────────────────────────────────────────────────
+
+Doh!
+
+It's here.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #1377)
+Author    : JamesDavis
+Date      : Mar 19, 2002 at 6:39 AM
+────────────────────────────────────────────────────────────────────────
+
+Ray, the model looks good! There is one area on the X-Wing's fuselage I have a question about. Does the area near the square shaped parts (that cover the mounting points on the side) jut out a little further than the rest of the fuselage? It is like that on the Fine-Molds. Do you know what I'm talking about?  It sorta makes the fuselage wider in the rear. It's hard to tell from reference pics.
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #1382)
+Author    : Miniaturizer Ray
+Date      : Mar 19, 2002 at 10:11 AM
+────────────────────────────────────────────────────────────────────────
+
+Golly, I don't know; beaz, Frank, Tim et al are the experts... 
+
+The short answer is yes.  You can see the flare clearly on the picture of the original master mould on page 113 of Chronicles (or look in beaz's 07/15/01 post, above) but the Fine Molds flare seems a little exagerated to me, or at least compressed into too short a distance.
+
+Here's my profile from about the same angle as the Chronicles picture;  I may have underdone it a little.  I'll work on that.
+
+[IMAGE: profile.gif]
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #1413)
+Author    : JamesDavis
+Date      : Mar 20, 2002 at 6:47 AM
+────────────────────────────────────────────────────────────────────────
+
+OK I can see it now. Thanks! The MPC kit(s) had no bulge in that area at all.
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #1649)
+Author    : emojo5
+Date      : Mar 27, 2002 at 11:44 PM
+────────────────────────────────────────────────────────────────────────
+
+Hi Ray.
+
+I'd love to take a look at your fulasge, but I can't view or open your file on my Macintosh.
+
+Any chance you could provide a 2d version or some hints on what program I need to view them with?
+
+<Alternatively, I can prepare traditional two dimensional plans if you'd rather look at those.>  Many thanks.
+
+-emojo5
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #1655)
+Author    : Miniaturizer Ray
+Date      : Mar 28, 2002 at 8:09 PM
+────────────────────────────────────────────────────────────────────────
+
+Sure, like I said, I can do 2d drawings.  You want just a GIF or a JPEG, or proper CAD files?
+
+If you want to see the 3d version, I can convert it to another format (VRML perhaps?)...
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #1693)
+Author    : emojo5
+Date      : Apr 2, 2002 at 12:21 PM
+────────────────────────────────────────────────────────────────────────
+
+Hi Ray.
+
+I'm on a Mac and don't know of a decent  CAD program for it. Do you? In the mean while can you post me some jpegs? That would be great. Thanks.
+
+-emoj5
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #1697)
+Author    : Miniaturizer Ray
+Date      : Apr 3, 2002 at 7:04 AM
+────────────────────────────────────────────────────────────────────────
+
+I don't know too much about Macs at all, I'm afraid (except that the new OS looks nice, and the new iMac looks silly).
+
+Here's a JPEG...  Bear in mind, though, that none of this should be taken as reliable.  I've started from the Fine Molds dimensions, and attempted to correct what I believe are inaccuracies there, but I'm really looking for the real experts to point out what I did wrong.  I've been trying to match this version up with as many pictures as possible, and I'm coming to the conclusion that I'm still a way off.  In particular, the canopy - and the whole area around the canopy - is out by quite a bit, and I think the whole rear section needs to be a little wider.  You have to bear in mind that the original models were all a bit skewed and asymmetrical, and I'm not trying to reproduce that, so I've had to make some decisions about how to straighten the thing out.  The noseblock is very preliminary, and should be ignored.  I'm aiming for Red 5, so any model-specific details should be based on that...
+
+[IMAGE: xdwgs.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #1699)
+Author    : JamesDavis
+Date      : Apr 3, 2002 at 10:38 AM
+────────────────────────────────────────────────────────────────────────
+
+Ray, what are the dimensions of your fuselage? The fuselage I am currently building is 19.5" long, 3" wide, and 3.25" high (not including the cockpit). With the Phantom Engines attached the whole thing should be 21 inches long. I am modeling it after Red 2.  The only thing I can say about the Fine Molds is, it appears to be modeled after the Red 3 hero model. Also, do you or anyone else know whether the bottom is keeled from the rear all the way to the nose or just about where the cockpit begins?
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #1707)
+Author    : Miniaturizer Ray
+Date      : Apr 3, 2002 at 5:08 PM
+────────────────────────────────────────────────────────────────────────
+
+Well, the actual dimensions I'm using at the moment are based on the Fine Molds.  I can convert them based on an Airfix Saturn V engine (dimensionally, the Fine Molds Sat V looks to be bang on, but I'll double-check) , and then you can multiply by whatever factor depending on how many generations away from the styrene you think the actual X-Wing engines are... Speaking of the Sat V, does anybody think that the front may have been shaved down a little?
+
+The "keel" is a bit of a mystery.  There's at least one shot in STAR WARS where you can distinctly see Red 3's v-shaped keel running all the way to the nose, but there are other shots (of Red 5?  I can't always tell) under similar lighting conditions where the model looks very flat underneath.  
+
+I think a lot of the differences between the models might be explained by the fact that they were fairly thin-walled hollow models, at least some of them had quite a lot of stuff crammed into them, and all of them (presumably) were built around some sort of support armature.  If the separate parts didn't shrink by exactly the same amount, then one or the other (or both) of them would need to be bent somewhat to get them to fit together...  If the sides of the lower fuselage were bent outward or inward, that could have some effect on the angularity of the keel, don't you think?
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #1711)
+Author    : JamesDavis
+Date      : Apr 4, 2002 at 3:09 AM
+────────────────────────────────────────────────────────────────────────
+
+The CG models and the full scale set were definitely "keeled" all the way to the nose. These seem to have been modeled after the Red 2 fuselage. I plan to make the keel more pronounced in the area under the cockpit and let it taper off as it reaches the nose. 
+
+I will be using the real Saturn V parts (uncast) for my X-Wing, so I am making sure the fuselage is kinda thick so that it is not dwarfed by the engines.
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #1721)
+Author    : Miniaturizer Ray
+Date      : Apr 4, 2002 at 7:27 AM
+────────────────────────────────────────────────────────────────────────
+
+The Fine Molds Saturn V parts seem to come out at 32.5 % of the size of the Airfix parts, which, allowing for a couple of generations of casting, would be about right.  That being said, I've made a lot of little adjustments to my fuselage, so I'm not certain that my engines would be exactly the same size as the Fine Molds.  Approximately, I'd say that the figures for my drawings work out to about 20 inches long (although, as I said, the noseblock is just rough guesswork at the moment, so that's fairly up in the air) by 3 inches wide,  by a shade under 3.2 inches high (excluding the canopy).  The Fine Molds fuselage scales to 19.67 inches long by 2.9 inches wide by 3.6 inches high (which is surprising - the Fine Molds is twelve percent taller than mine.  I didn't think I'd altered anything by that much).
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #5142)
+Author    : Miniaturizer Ray
+Date      : Oct 11, 2002 at 7:22 AM
+────────────────────────────────────────────────────────────────────────
+
+I was going to put this in the main X-wing thread, but I think it really belongs here...
+
+Here's a little progress report.
+
+I've been working over my X-Wing files.  My current project is a two-fold one.  I'm working on building a very detailed, fully textured CGI X-Wing model as an end in itself.  I've been carefully recreating all of the kit parts (I don't have all of the kits, but I have Scott's X-Wing).  I pretty much have most of the parts finished, I just need to position them all together correctly.
+
+Here's my fuselage:
+
+[IMAGE: fuseoct02.jpg]
+
+In terms of accuracy, this still isn't all that great.  The canopy is definitely too tall.  I think the rear end is a little too skinny.  The cockpit interior is just a quick placeholder - I haven't decided whether to do the interior like the model or like the set version.
+
+Here's the bit that's more relevant to this forum...
+
+Once the CGI model is finished, I'm going to work on creating virtual cameras to precisely duplicate various shots from the movie.  I've ordered some 8 x 10 stills from Still Things.  Jeff over there has been very helpful; I explained to him exactly what I wanted the stills for, with a list of dozens of stills from his catalogue that I thought might be useful, and he looked them over and told me which ones he thought would be best.
+
+For the longest time, I dithered over taking my own pictures at the Art of Star Wars exhibit in Glasgow, which would have made the job of recreating the camera a trivial task, but in the end I decided that Red 2 is just too different from Red 5, and Red 5 is what I want.
+
+Once I've successfully created the virtual cameras, I can compare the shots of my virtual model to the movie stills, and, provided I can get enough different camera angles, I should be able to gradually iron out all the errors until I have the dimensions nailed.
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #5144)
+Author    : Treadwell
+Date      : Oct 11, 2002 at 9:09 AM
+────────────────────────────────────────────────────────────────────────
+
+That looks great! Thanks for the update.
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #5175)
+Author    : -... . .- --..
+Date      : Oct 12, 2002 at 2:10 AM
+────────────────────────────────────────────────────────────────────────
+
+[IMAGE: icon_eek.gif]
+
+Ray, that's incredible!! Did you have someone 3D scan the various CC subassembiles, or did you build that mesh by hand?
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #5285)
+Author    : Miniaturizer Ray
+Date      : Oct 13, 2002 at 7:56 PM
+────────────────────────────────────────────────────────────────────────
+
+Heh, it's all hand-built.  What can I say?  I'm a masochist...  Seriously, though, re-building the kit parts is the easy part; it's the bits that you can't measure that are hard.  Here's another bit - virtually all kit parts:
+
+[IMAGE: engine.jpg]
+
+I think I did a little better than Scott with this part;  my guess is that the engine was originally built in two halves, and the top and bottom are identical.  Scott built the rear from both halves of the Phantom engine, and used the wrong half for the front part, I think.  I also added the scribed panel lines.
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #5466)
+Author    : Miniaturizer Ray
+Date      : Oct 19, 2002 at 6:22 AM
+────────────────────────────────────────────────────────────────────────
+
+Okay, this is a shameless plea...
+
+Does anybody have any clear pictures of the front of the engine "intakes"?  If you don't want to share the pictures, can you answer the following questions?
+
+Does the inner intake half (the part that's supposedly made from a pill bottle) have a lip on the inside?
+
+How much of the Saturn V bell (parts 8-17) is used?  All of the off-centre ring, half of it, or chop the part in front of the ring?  If the ring is used, is there any consistency to which part, odd or even, is used?
+
+Damn it, I knew I should have gone to Edinburgh when I had the chance...
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #5484)
+Author    : Miniaturizer Ray
+Date      : Oct 20, 2002 at 7:28 PM
+────────────────────────────────────────────────────────────────────────
+
+beaz, you're my hero!
+
+Those pictures certainly answer my questions.  They also raise a couple of new ones, which I'm going to mull over for a while to avoid saying anything stupid... 
+
+[IMAGE: icon_smile.gif]
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #8429)
+Author    : DARKSIDE72
+Date      : Jun 21, 2003 at 1:12 PM
+────────────────────────────────────────────────────────────────────────
+
+Bump for preservation...
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #8444)
+Author    : boatbuilder1
+Date      : Jun 21, 2003 at 9:31 PM
+────────────────────────────────────────────────────────────────────────
+
+bump
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #1120858)
+Author    : parabellum
+Date      : Feb 6, 2010 at 10:26 AM
+────────────────────────────────────────────────────────────────────────
+
+If you can not see or download my line drawings of X-Wing Fighter for any reason,
+
+please visit my blog to download them.
+
+http://blog.naver.com/simhopp/10080464481:angry
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #1121013)
+Author    : Colin Droidmilk
+Date      : Feb 6, 2010 at 12:56 PM
+────────────────────────────────────────────────────────────────────────
+
+Miniaturizer Ray said:
+
+			Up from the depths!
+
+I've put together a new fuselage plan.  I'd be extremely grateful if all and any of the X-Wing cognoscenti would look it over and comment.
+
+For ease of viewing, I've prepared a .3DS file, which can be viewed in (for example) Right Hemisphere's Deep Exploration (demo available here) as in the screenshot below, or any other software which can import .3DS files (although sometimes meshes can get a bit scrambled, depending on the program).
+
+Alternatively, I can prepare traditional two dimensional plans if you'd rather look at those.
+
+[IMAGE: fusemesh.gif]
+
+Thanks for your time...
+		
+
+Click to expand...
+
+I'd like to have a look, but all the pics and links are unobtainable tonight for some reason...
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #1126101)
+Author    : Nwerke
+Date      : Feb 11, 2010 at 7:07 AM
+────────────────────────────────────────────────────────────────────────
+
+Colin, hint: this is a 2003 thread. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 25

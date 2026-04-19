@@ -1,0 +1,1130 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Studio scale TIE wing thickness info if you can
+URL    : https://www.therpf.com/forums/threads/studio-scale-tie-wing-thickness-info-if-you-can.296198/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #4543372)
+Author    : Flyscriber
+Date      : Nov 12, 2018 at 10:40 AM
+Reactions : Like — greeble_gremlin
+────────────────────────────────────────────────────────────────────────
+
+Hey RPF folk, I trust your eyes are now used to the brightness of the new site. Now I can wear my shades of an evening ;-)
+
+I am just about to embark on a Studio scale Tie commission and I would like to make the main wing supporting structure and wing edge details from laser cut layers of steel, just to make it super straight and pretty bomb proof, and to sandwich the very expensive sheet of kool shade into position.
+
+To do this I need to know the overall thickness of the wing edges and the raised details.
+
+Any measurements you knowledgeable folk can furnish me with would be gratefully received.
+
+Thanks everyone.
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #4543446)
+Author    : swgeek
+Date      : Nov 12, 2018 at 1:01 PM
+────────────────────────────────────────────────────────────────────────
+
+If my memory is correct, the "H" beam around the outside of the wing is a 1/4" o.d.
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #4543507)
+Author    : 3phase
+Date      : Nov 12, 2018 at 3:15 PM
+────────────────────────────────────────────────────────────────────────
+
+If you look on my thread I have measured the inside of the H beam and you will also see I have shown that the coolshade is basically wider than the gap in the H beam so a very tight fit even when no paper or card is between the coolshade. 
+
+No one has actually replied to say what they used but i persevered with thin paper.
+
+If you can make sure your H beam you make has plenty of room for the coolshade
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #4543735)
+Author    : Flyscriber
+Date      : Nov 13, 2018 at 8:19 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks for the replies guys, I have been checking your thread 3phase, nice to know whats ahead in my near future  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+
+Ive been checking over the available reference images for the edges of the wings and I've found a few differences between the ILM models.
+
+Some of the wings are sized to finish at the ends of the greeblied stars and some seem to have an extended lip around the end of the greeblied star. This is seen quite clearly on the asteroid crash miniature, which also features a moulding detail around the edge of the koolshade.
+
+Is there  consensus on the hero version wing details ?
+
+I have attached an image which im working on the layout of the various parts to make the metal wing structure. It still only a concept at this stage so anything can change. My main issues are the sizing of the finished details on the original and how close I can get using sheet steel.
+
+I have labelled the bits on the image which I would love some info on.
+
+The black dotted line sows where the greeblied star ends on my version at the moment, and the green line shows where the extra lip detail is seen on the asteroid version.
+
+[IMAGE: https://www.therpf.com/forums/attachments/edge-sizes-for-tie-jpg.905628/]
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #4543736)
+Author    : Flyscriber
+Date      : Nov 13, 2018 at 8:20 AM
+────────────────────────────────────────────────────────────────────────
+
+This shows the idea I am trying to work towards
+
+[IMAGE: https://www.therpf.com/forums/attachments/split-wing-concept-jpg.905629/]
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #4543826)
+Author    : greeble_gremlin
+Date      : Nov 13, 2018 at 12:01 PM
+Reactions : Like — ZAP, Flyscriber, Hammer3246
+────────────────────────────────────────────────────────────────────────
+
+This diagram may give you a better idea of how the Wings went together.
+
+Please note: this is not to scale.
+
+[IMAGE: https://www.therpf.com/forums/attachments/tie-wing-cross-section-jpg.921520/]
+
+The ILM modelers mitered and butted the H-beam up against the edge of the WingStar arms at the corners.
+
+The  1/8 inch T-Beam was mitered and completely bordered/encircled the outline frame of the wing;  further holding the corners together.
+
+There is a better solution to treating the joints at the corners than had been done on the original models
+
+hope this helps
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #4543932)
+Author    : swgeek
+Date      : Nov 13, 2018 at 2:53 PM
+Reactions : Like — Flyscriber
+────────────────────────────────────────────────────────────────────────
+
+The TIE Fighters where the wingstar goes all the way out to the edge of the H beam are from A New Hope. The Empire and Return TIEs have the H beam sticking out past the Wingstar.
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #4543934)
+Author    : greeble_gremlin
+Date      : Nov 13, 2018 at 3:00 PM
+Reactions : Like — Flyscriber
+────────────────────────────────────────────────────────────────────────
+
+A few more quick & dirty renders showing the assembly of the TIE fighter wing frames, sans KoolShade triangles and the inner membrane.
+
+[IMAGE: https://www.therpf.com/forums/attachments/assembled-tie-wing-1-jpg.939991/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/assembled-tie-wing-2-jpg.939992/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/assembled-tie-wing-3-jpg.939993/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/assembled-tie-wing-4-jpg.939994/]
+
+This may make things a bit clearer
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #4543941)
+Author    : greeble_gremlin
+Date      : Nov 13, 2018 at 3:06 PM
+────────────────────────────────────────────────────────────────────────
+
+swgeek said:
+
+			The TIE Fighters where the wingstar goes all the way out to the edge of the H beam are from A New Hope. The Empire and Return TIEs have the H beam sticking out past the Wingstar.
+		
+
+Click to expand...
+
+This is correct; that and a few other features help tell the differences of the miniatures used from one film to another.
+
+I assumed flysciber was looking to make an ANH version.
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #4543952)
+Author    : greeble_gremlin
+Date      : Nov 13, 2018 at 3:19 PM
+────────────────────────────────────────────────────────────────────────
+
+I did a set of wings using the plastruct but used a waterjet-cut piece of thin aluminum for the core, inner membrane.
+
+This gave it a bit more strength but not as much as I had hoped.
+
+It was a tight fit. I had too carefully file down the KS wire, here it is hidden under the H-Beam. I also sanded the "inside" channel of the H-beam to make a bit more room.
+
+As they say: " there is more than one way to skin a cat" , Flyscriber.  I thought this might help you to arrive at the dimension you need for thickness.
+
+I am curious what type(model) of laser cutter are you using?
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #4543977)
+Author    : Flyscriber
+Date      : Nov 13, 2018 at 4:05 PM
+────────────────────────────────────────────────────────────────────────
+
+Awesome stuff guys, this is exactly the info I was hoping to find. I am now getting a clearer image of the construction. Weather it will be possible to get an accurate finish using the steel layers is unknown at the moment, but I will evaluate it as an option before starting them, and if it doesn't seem feasible I will definitely fall back on the tried and tested method .
+
+greeble_gremlin, I will be outsourcing to an industrial laser company whom I have used many times before as they can do from .9mm up to 25mm stainless sheet and other metals. Just out of interest,  do you remember what thickness the Aly sheet you used was ? as I can go for stainless for more rigidity if needed.
+
+ I can find out the type of cutter when I speak to them if you need. I think they are gerber, but im not sure.
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #4544123)
+Author    : bigpetr
+Date      : Nov 14, 2018 at 3:35 AM
+────────────────────────────────────────────────────────────────────────
+
+Thank you for all that info greeble_gemlin.
+
+Can I ask you for this "x" dimension (height of star center)?
+
+[IMAGE: https://www.therpf.com/forums/attachments/6-jpg.940071/]
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #4544192)
+Author    : moffeaton
+Date      : Nov 14, 2018 at 7:28 AM
+Reactions : Like — edge10, ABE, greeble_gremlin
+────────────────────────────────────────────────────────────────────────
+
+I have done this three times over? It gets OLD, lol... but here's pics of the last set I did.
+
+[IMAGE: https://www.therpf.com/forums/attachments/935059_10151622490783156_39039540_n-jpg.940116/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/13620967_10154379444318156_5853077148730658224_n-jpg.940117/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/13654387_10154379444288156_9153133710963620951_n-jpg.940118/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/13669005_10154379444078156_1800342083745117932_n-jpg.940119/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/13690604_10154379444028156_9094687771728618877_n-jpg.940120/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/13697077_10154379444033156_8782385720583593858_n-jpg.940121/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/13699979_10154379444023156_3195774109522311925_n-jpg.940122/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/13700109_10154379444228156_2718734975274316893_n-jpg.940123/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/13716253_10154384874528156_5264473564032903151_n-jpg.940124/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/13726737_10154379444133156_8097331235546420482_n-jpg.940125/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/13731635_10154384874518156_6102944737265589673_n-jpg.940126/]
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #4544197)
+Author    : moffeaton
+Date      : Nov 14, 2018 at 7:32 AM
+Reactions : Like — Chris Moliere, ABE, Flyscriber
+────────────────────────────────────────────────────────────────────────
+
+PS: These are very old, are very fragile, and are from the original ANH molds, and I am having them high-res scanned so I can do a really nice ANH spec TIE.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2463-jpg.940130/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2464-jpg.940131/]
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #4544198)
+Author    : moffeaton
+Date      : Nov 14, 2018 at 7:33 AM
+Reactions : Like — Lee S, Voodoocaster, swgeek
+────────────────────────────────────────────────────────────────────────
+
+and for the record - 5 1/8" inner ball and the main ball itself is FIVE AND ONE QUARTER INCH OUTER DIAMETER. We can go home boys, we did it! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #4544262)
+Author    : swgeek
+Date      : Nov 14, 2018 at 9:59 AM
+────────────────────────────────────────────────────────────────────────
+
+Nice! Any more photos of those parts you want to share Jason?
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #4544812)
+Author    : greeble_gremlin
+Date      : Nov 15, 2018 at 1:48 PM
+Reactions : Like — BajaTym, ABE
+────────────────────────────────────────────────────────────────────────
+
+Awesome pics!  Jason, Thanks,
+
+Flyscriber, look at his treatment of the H-beam at the corners, .. that is what I meant by giving it a better treatment than the originals... more surface area for the cement/bonding agent. The end result looks the same when assembled.
+
+I also made these reinforced core frame (waterjet cut) back in 2009.  I ended up not using them as I should have allowed for more over-hang of the cast wingstars 
+
+Otherwise they would have worked.
+
+The next batch I will modify the design, though, as you can see the design waists a lot of material unless you have another project with a lot of smaller pieces needing aluminium of the same thickness.
+
+As far as thicknesses?  I will have to dig into my notes, it was almost 10 years ago
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0231-jpg.940617/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0234-jpg.940618/]
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #4544816)
+Author    : greeble_gremlin
+Date      : Nov 15, 2018 at 1:55 PM
+────────────────────────────────────────────────────────────────────────
+
+FlyScriber,
+
+I asked about the lasercuting  because I am interested in a service that can laser-cut and scribe metal for an unrelated project.
+
+I have to places in mind, but have not yet tried them. If you have had good service in the past with this place I might give them a try.
+
+let me dig up those numbers for you.
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #4544961)
+Author    : Flyscriber
+Date      : Nov 16, 2018 at 1:24 AM
+────────────────────────────────────────────────────────────────────────
+
+Interesting stuff, Why the notches along the edges? I am sure it is blatantly obvious, but I can be a bit thick sometimes 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #4544967)
+Author    : joewhite
+Date      : Nov 16, 2018 at 3:34 AM
+────────────────────────────────────────────────────────────────────────
+
+Wow, the wing work helps solidify my thoughts and measurements. Thanks!
+
+Jason, any chance you could share detailed pics of the yellowed inner parts? I see some parts I hadn't seen before. Any help would be great! 
+
+Joe
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #4545118)
+Author    : greeble_gremlin
+Date      : Nov 16, 2018 at 10:28 AM
+────────────────────────────────────────────────────────────────────────
+
+The notches were for a "keyed fit". 
+
+They were more for the Virtual Kool Shade version of a build  which would have been cast from very Hi-Rez 3D print.
+
+Ultimately we went a slightly different route with the VKS but they do go together now more like a hero kit (with real Kool Shade) rather than a single piece solid cast wing. The WingStars attached separately over the VKS cast portion/core. As I said these were made almost 10 years ago.
+
+At the time we could not 3D Print a large enough section of VKS but within just 2-3 years later that changed... it got  a bit cheaper to print too.
+
+I do not think there would be anything to gain trying to "key' the real Kool-shade... you would only end up mutilating the louvres.
+
+  It would be interesting to test if the Kool Shade could be cut effectively with a water-jet cutter.
+
+Unfortunately, I do not have enough extra to spare for such experimentation.
+
+Perhaps if I could get some of the modern stuff. It may make nice clean cuts without bending the louvers as with shears.
+
+The water jet does have abrasive residue.; in which one might run the risk of scratching of the finish in places.
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #4545120)
+Author    : greeble_gremlin
+Date      : Nov 16, 2018 at 10:32 AM
+────────────────────────────────────────────────────────────────────────
+
+I have not had any experience laser cutting metal.
+
+Flyscriber do you think it could be cut that way?  
+
+...probably have a problem with the focal point of the beam. Kool Shade is almost 1/8"  inch deep/thick
+
+doubtful it would lay perfectly flat on the bed anyway.
+
+I guess I am musing about this;
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ as I get terrified a the thought making a mistake cutting the KoolShade I have left! 
+
+I don't even want to think about the per square foot cost.
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #4545475)
+Author    : Flyscriber
+Date      : Nov 17, 2018 at 9:14 AM
+────────────────────────────────────────────────────────────────────────
+
+awesome images Jason, thanks for posting those, and everyone else who has posted, this thread has helped me out a bunch.
+
+Greeble_gremlin
+
+The main issue with the laser cutting is holding the koolshade in position whist being cut. The focal point doesn't become an issue until you get to about 8mm thick, then the lower edge of the cut can become a little uneven, but is easy to clean up with a file if needed. Also I didn't want to trust the alignment of the koolshade wire lines and direction of the mesh to the factory, as there is only enough koolshade for one hit at the panels.
+
+I am planning to use an angle grinder. I know it sounds a bit manic, but the high speed of the 1m wide metal slitting disk requires very little pressure to remove material which keeps the cool shade unaffected in direction and angle of the vanes. I have tied this a couple of times on portions of koolshade which were too creased to use and it works fine with a slow and steady hand, even diagonally across the vanes.
+
+I will use a steel1 inch angle as a straight edge for the grinder to follow which will also clamp the material down (ish)  keeping it flat along the cut.  
+
+That's the plan anyhow !! The proof of the pudding will come soon.
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #4545550)
+Author    : greeble_gremlin
+Date      : Nov 17, 2018 at 1:39 PM
+────────────────────────────────────────────────────────────────────────
+
+Interesting. 
+
+I'm be curious to see how it turns out.
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #4546316)
+Author    : JLinNY
+Date      : Nov 19, 2018 at 4:31 PM
+────────────────────────────────────────────────────────────────────────
+
+Awesome, awesome thread!! This is going to help me so much if I ever get around to building Steve's kit. Outstanding photos Moff, thanks so much for posting.
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #4548547)
+Author    : Flyscriber
+Date      : Nov 26, 2018 at 1:40 AM
+────────────────────────────────────────────────────────────────────────
+
+Hey folks.
+
+Ive just been checking my DXF file against the actual wing stars.
+
+Am I correct that the lower horizontal edge of the wingstars are about 2mm further from the horizontal center line than the top ? meaning the lower half of the wings are 2mm longer than the top.
+
+It looks to be intentional on the moulding. Please can you let me know if I am correct about this, as I will be sending the cutting file soon, or are the original wings completely symmetrical about horizontal and verticle. Or, does this matter at all ??? 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Hers a quick pic to help you see what I am going on about.
+
+Cheers folks
+
+[IMAGE: https://www.therpf.com/forums/attachments/2mm-bottom-jpg.943992/]
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #4548807)
+Author    : swgeek
+Date      : Nov 26, 2018 at 2:15 PM
+────────────────────────────────────────────────────────────────────────
+
+Well they were hand cut at the time (no laser cutting/3D printing) so I'm sure they aren't perfectly symmetrical but they do need to line up pretty well back to back. I didn't notice a big difference in top to bottom when I drew mine but of course I couldn't find a good straight on view to use without the pylon cover. So I have no way of knowing where exactly the center hole was.
+────────────────────────────────────────────────────────────────────────
+Post #28  (forum post #4548935)
+Author    : moffeaton
+Date      : Nov 27, 2018 at 3:31 AM
+Reactions : Like — swgeek, vectorzero
+────────────────────────────────────────────────────────────────────────
+
+In the process of getting hands on a leftover wingstar from '76. If it pans out I will let you know!
+────────────────────────────────────────────────────────────────────────
+Post #29  (forum post #4549868)
+Author    : Flyscriber
+Date      : Nov 29, 2018 at 11:40 AM
+────────────────────────────────────────────────────────────────────────
+
+That sounds awesome Jason, who knows what gems you might uncover. Bring it on 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+.  I am 99% sure I will be reverting back to symmetry for the laser cut center panel and the rib supports.
+────────────────────────────────────────────────────────────────────────
+Post #30  (forum post #4554303)
+Author    : vectorzero
+Date      : Dec 11, 2018 at 7:25 AM
+────────────────────────────────────────────────────────────────────────
+
+It's getting close to Christmas. Is the '76 wingstar nestling under the tree yet?
+────────────────────────────────────────────────────────────────────────
+Post #31  (forum post #4557044)
+Author    : Flyscriber
+Date      : Dec 18, 2018 at 3:40 AM
+────────────────────────────────────────────────────────────────────────
+
+[IMAGE: https://www.therpf.com/forums/attachments/laser-cut-parts-jpg.966170/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/taping-4m-holes-also-3mm-holes-on-tips-of-koolshade-spacers-jpg.966171/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/csk-holes-jpg.966172/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/outer-side-csk-screws-jpg.966173/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/koolshade-template-test-fit-jpg.966174/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/wing-right-assembly-after-recessing-jpg.966175/]
+
+ Hi folks. Well, things are going nicely on the wing front so far.
+
+All panels are laser cut and look great.
+
+Some info for anyone who may have something like this done in the future. Laser cutting metal will harden the edges where the metal is melted away during the cut, this gives a hardened edge to all cuts. So if you are planning to thread any holes, always undersize them on the file and manually drill them out to the correct diameter for your chosen tap. This will stop you snapping taps on the toughened edge of the steel.
+
+Anyhow, after drilling and taping all the threads, the outer surface holes were countersunk to partly hide the screws, leaving a small amount of the head protruding on the outer surface. The undercuts around each protruding countersunk head will "key" the epoxy to the metal on final assembly.
+
+They all fit perfectly, the H strip just clicks into position over the koolshade spacer layer. I am very happy with this so far.
+
+So heres a few shots of the stainless steel parts and assembly for you delectation.
+
+I will post more as the wings develop.
+
+Todays job is cutting a test kolshade panel for thickness testing and possible slide in fixing. As I am thinking I may insert the koolshade as a taper fit sliding it under a completed wingstar assembly, then adding the edges last to encapsulate the whole thing.
+
+I have one really important question for all you folks in the know.
+
+What colour should the background "inner layer behind the koolshade be ?
+
+I am guessing matt back. Any thoughts or facts gratefully received.
+────────────────────────────────────────────────────────────────────────
+Post #32  (forum post #4557110)
+Author    : Flyscriber
+Date      : Dec 18, 2018 at 7:24 AM
+Reactions : Like — rbeach84, ABE, greeble_gremlin
+────────────────────────────────────────────────────────────────────────
+
+Ive cut the first test panel from a portion of the koolshade roll which wasn't up to scratch (too creased for main finished panels). I used an angle grinder with a 1 slitting disk, and the results were perfect first time. NO deflection of the vanes at all, actually it was no effort to cut, and the grinder just followed the template easily. I have no hesitation in recommending this method. Here are some pics of the cut koolshade panel.
+
+[IMAGE: https://www.therpf.com/forums/attachments/cut-edge-2-jpg.966250/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/cut-koolshade-edge-jpg.966251/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/edge-thickness-jpg.966252/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/cut-edge-2-jpg.966250/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/cut-koolshade-edge-jpg.966251/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/edge-thickness-jpg.966252/]
+
+Just another question for you guys.
+
+Do the vanes slope towards the center of the wing, or toward the edge. Im having issues seeing it in reference images so far.
+
+cheers everyone.
+────────────────────────────────────────────────────────────────────────
+Post #33  (forum post #4557213)
+Author    : vectorzero
+Date      : Dec 18, 2018 at 10:33 AM
+────────────────────────────────────────────────────────────────────────
+
+I think Jason posted this a while ago. 
+
+Quote:
+
+Louvers face \\\\\ when viewing from the front, with longest outer spar facing upwards, so the louvers all radiate inward as you go around the "clock". So 12 o'clock is \\\\\ and 6 o'clock is ///// when viewed head on.
+────────────────────────────────────────────────────────────────────────
+Post #34  (forum post #4557476)
+Author    : Flyscriber
+Date      : Dec 19, 2018 at 1:15 AM
+────────────────────────────────────────────────────────────────────────
+
+great Vectorzero, thanks for the confirmation on that.
+────────────────────────────────────────────────────────────────────────
+Post #35  (forum post #4557772)
+Author    : moffeaton
+Date      : Dec 19, 2018 at 2:43 PM
+Reactions : Like — rbeach84
+────────────────────────────────────────────────────────────────────────
+
+[IMAGE: https://www.therpf.com/forums/attachments/screen-shot-2018-12-18-at-12-23-12-pm-png.966748/]
+
+ I am getting closer to the wing star dimensions... the ANH wing star pattern pretty much lays perfectly over Gawley's blueprint, length and angle-wise. The red outline is the eFX/Neisen wingstars - incredibly close!
+────────────────────────────────────────────────────────────────────────
+Post #36  (forum post #4557774)
+Author    : moffeaton
+Date      : Dec 19, 2018 at 2:47 PM
+Reactions : Like — BajaTym, rbeach84, ABE
+────────────────────────────────────────────────────────────────────────
+
+Also, I'm doing the Gawley/sketchbook version!
+
+[IMAGE: https://www.therpf.com/forums/attachments/screen-shot-2018-12-19-at-10-42-23-am-png.966752/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/screen-shot-2018-12-19-at-10-42-35-am-png.966753/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/screen-shot-2018-12-13-at-10-09-24-am-png.966754/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/screen-shot-2018-12-19-at-2-19-07-pm-png.966755/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/screen-shot-2018-12-19-at-2-25-11-pm-png.966756/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/screen-shot-2018-12-14-at-2-21-10-pm-png.966757/]
+────────────────────────────────────────────────────────────────────────
+Post #37  (forum post #4558551)
+Author    : greeble_gremlin
+Date      : Dec 21, 2018 at 10:46 AM
+────────────────────────────────────────────────────────────────────────
+
+FlyScriber,
+
+Sweet! and Hardcore!
+
+I"m curious, what where the thickness' of the metal you used?
+
+Regarding the finish of the inside piece, I ended up with a flat black.
+
+Though, though initially I had vain imaginings (for my own build) to get the aluminium "core' piece black-anodized.  It would have had a nice iridescent quality. This proved impractical as there were too many minor scuffs/scratches on the metal sheet. Easily hidden of by a coat of black primer and some wet sanding before a final coat of paint.
+
+It would have been nice to add a brushed metal effect in directions parallel to the KoolShade braided wires. but this too was impractical to mask-off one "triangle" at a time and use a small belt sander. That would have gone well with an anodized treatment
+
+Also the anodizing was way too pricey.
+
+I know they did nothing like this on the real miniatures, but this thing will be sitting in my office  subjected to close scrutiny (chiefly by me).
+
+As i said I had to sand the inner "channel of H_Beam to make room for the aluminium  core and Kool-Shade. That was a real pain. I suspect you can go with a thinner gauge of stainless steel for the same amount of strength
+
+-Nice treatment with the tap & dye.
+
+I doubt those wings will ever warp.
+────────────────────────────────────────────────────────────────────────
+Post #38  (forum post #4558569)
+Author    : greeble_gremlin
+Date      : Dec 21, 2018 at 11:23 AM
+────────────────────────────────────────────────────────────────────────
+
+Jason,
+
+-How do the dimensions of the Wingstar shapes I sent you back in 2011(2012??) compare to your new findings?
+
+We took those measurements off an original TIE used in ANH back in 2009 (now in a private collection)
+
+The dimensions of the EFX TIE wings differ slightly unfortunately, from the 2D shapes I sent you.
+
+We sent corrections to the firm after evaluating their CAD files, before they committed to the final design and before they began tooling for the injection molds.
+
+Unfortunately, for whatever reason they chose to disregard the corrections. If you look close too, the EFX wings "taper" in thickness as they proceed away from the central hub.
+
+I actually like this feature, but the originals remained the same thickness throughout the whole wing.
+
+In my experience dealing with those overseas firms in China almost always proves problematic at one stage or another.
+
+The same thing happened with the Moebieus TOS Glactica Viper.
+────────────────────────────────────────────────────────────────────────
+Post #39  (forum post #4558589)
+Author    : greeble_gremlin
+Date      : Dec 21, 2018 at 12:48 PM
+Reactions : Like — rbeach84, GTImotion, bigpetr
+────────────────────────────────────────────────────────────────────────
+
+I do not mean to usurp this thread.
+
+I checked but I think the original RPF post and the old link to these files are gone.
+
+At any rate, these files and their dimensions are out in common circulation by now.
+
+Initially any one buying one of Nice-en's revised SS "Hero"TIE kits (from circa 2010 on) was given these PDF files to help them cut the Kool-Shade triangles and inner membranes.
+
+I think that practice fell by the wayside.
+
+So here are the 2D Wing & Wingstar files for the Studio Scale "Hero" TIE fighter once again
+
+[IMAGE: 609781-8b024d6bda104998951abcf4ba0af4f2.jpg]
+
+[IMAGE: 609786-a184de144f01f5e6fa86d4523919cba5.jpg]
+
+[IMAGE: 609788-76c1b824491ae0bb09cd1e2e5d1831d8.jpg]
+
+I also made a diagram to help with the miter cuts of the Plastruct... not sure if I still have that file?
+
+I will have to look thru by back-ups
+
+ 
+
+Attachments
+
+WingStar_Diagram_[Final]3-20-2010.pdf
+
+					247.1 KB
+					
+					· Views: 574
+					
+				
+
+WingStar_Inner Membrane_[Final]3-20-2010.pdf
+
+					234.3 KB
+					
+					· Views: 502
+					
+				
+
+WingStar_Triangles_[Final]3-20-2010.pdf
+
+					252.5 KB
+					
+					· Views: 510
+────────────────────────────────────────────────────────────────────────
+Post #40  (forum post #4559404)
+Author    : Flyscriber
+Date      : Dec 24, 2018 at 1:59 AM
+Reactions : Like, Love — Studio Kitbash, ABE, greeble_gremlin
+────────────────────────────────────────────────────────────────────────
+
+Guys, please don't worry about usurping this thread, all this info is the reason I asked, so please crack on with the usurping.
+
+Awesome images Jason, loving all the info and images of other SS Tie stuff.
+
+To answer the metal thickness info,
+
+The centre (full size) plate between the koolshade is 0.9mm in thickness,
+
+The star shapes screwed to the centre plate are 2mm.
+
+The vinyl under each koolshade panel is aprox 0.15mm,
+
+which gives a very small amount of clearance for the koolshade which seems to be about 1.7mm in thickness.
+
+If the koolshade seems a little loose on final test assembly, I will add another layer of vinyl to tighten the gap.
+
+The edge of the wingstar where it meets the H strip needs to be thinned on the mitred areas by the thickness of the edge of the H strip (about 1mm), as per the reference images , and it clips over the metal perfectly.
+
+All on track for a pretty bomb proof set of wings so far.
+
+Thanks for all the info so far folks. Its always a pleasure.
+
+Oh !! Happy Christmas as well. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: https://www.therpf.com/forums/attachments/side-black-jpg.968002/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/vinyl-inserts-jpg.968003/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/koolshade-insert-jpg.968004/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/koolshade-root-jpg.968005/]
+────────────────────────────────────────────────────────────────────────
+Post #41  (forum post #4562580)
+Author    : greeble_gremlin
+Date      : Jan 2, 2019 at 12:36 PM
+────────────────────────────────────────────────────────────────────────
+
+Flyscriber said:
+
+			Ive cut the first test panel from a portion of the koolshade roll which wasn't up to scratch (too creased for main finished panels). I used an angle grinder with a 1 slitting disk, and the results were perfect first time. NO deflection of the vanes at all, actually it was no effort to cut, and the grinder just followed the template easily. I have no hesitation in recommending this method. Here are some pics of the cut koolshade panel.
+		
+
+Click to expand...
+
+Hey Fly Scriber, I've definitely been taking notes on your build-up and Im going to borrow a few pages out of your book on my next Hero-TIE-Fighter build.
+
+I was wondering if I could see a picture of the type/model of Angle Grinder tool that you used.
+
+You got some really clean cuts on that KoolShade.
+
+Thanks
+────────────────────────────────────────────────────────────────────────
+Post #42  (forum post #4562849)
+Author    : Flyscriber
+Date      : Jan 3, 2019 at 3:57 AM
+────────────────────────────────────────────────────────────────────────
+
+greeble_gremlin said:
+
+			Hey Fly Scriber, I've definitely been taking notes on your build-up and Im going to borrow a few pages out of your book on my next Hero-TIE-Fighter build.
+
+I was wondering if I could see a picture of the type/model of Angle Grinder tool that you used.
+
+You got some really clean cuts on that KoolShade.
+
+Thanks
+		
+
+Click to expand...
+
+Yes it came out really nice with a slow and steady cut. I used some plywood under the koolshade and clamped the template over the koolshade and cut slowly through the metal in one steady pass making sure I was lifting some sawdust in the cut. That way I knew I didn't need another pass, which may have caught a previously half cut edge !
+
+The angle grinder is just your standard 4 inch angle grinder with a 1mm slitting disk.
+
+[IMAGE: https://www.therpf.com/forums/attachments/51pl3eh0twl__sx425_-jpg.971679/]
+
+Ill post more after I get onto the main cutting session in the next few days.
+────────────────────────────────────────────────────────────────────────
+Post #43  (forum post #4563350)
+Author    : greeble_gremlin
+Date      : Jan 3, 2019 at 8:35 PM
+────────────────────────────────────────────────────────────────────────
+
+Hey Thanks! Andy,
+
+Wow, bigger than I thought, That's a very clever way to tackle the Job.
+
+I spent a pretty penny on my original Koolshade, (many years ago) been a bit  nervous when it come time to cut it
+
+I'm hoping to have enough extra to use on a 5 foot Falcon. .. no room for big mistakes
+────────────────────────────────────────────────────────────────────────
+Post #44  (forum post #4566465)
+Author    : vectorzero
+Date      : Jan 11, 2019 at 7:24 AM
+Reactions : Like — moonbus, rbeach84, ABE
+────────────────────────────────────────────────────────────────────────
+
+Andy sent me these last night. I'm so excited to see the final result. There is a LOT of work going into these. Build log for the whole ship soon.
+
+For those thinking of building one of these, there is still some original Koolshade available form my source. PM me and I will put you in touch. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/finished_panels_still_with_sawdust_edges_ready_for_manual_trim_and_fit-jpg.976044/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/wingstar_test_for_trail_coverage-jpg.976045/]
+────────────────────────────────────────────────────────────────────────
+Post #45  (forum post #4568876)
+Author    : greeble_gremlin
+Date      : Jan 16, 2019 at 4:20 PM
+────────────────────────────────────────────────────────────────────────
+
+sweet
+────────────────────────────────────────────────────────────────────────
+Post #46  (forum post #4569503)
+Author    : Flyscriber
+Date      : Jan 18, 2019 at 3:29 AM
+Reactions : Like — moonbus, el toro, rbeach84
+────────────────────────────────────────────────────────────────────────
+
+Well its been a while since I posted, so here's the news from the last few days scary graft.
+
+I found some old tape marks on the koolshade after washing and cleaning each piece after cutting. I tested some cleaning thinners on an offcut and found that it has zero effect on the original finish (maybe takes only the very surface off, but doesn't remove it), so I decided to use this to remove the tape marks, it worked well but it needed a re-spray in satin black which really made the panels shine.
+
+Panels were fitted and aligned and taped into position.
+
+The panels were then "stitched" into their recess using flexible black automotive bumper filler and pressed down whilst curing using the stainless cutting templates. This should stop any potential slumping of the koolshade over time, as it is fairly compressable in its ribbed (wire) direction.
+
+Once cured the H strip was cut and added using the same filler in the inside edge of the channel, each one was pressed home to allow the filer to grip the koolshade outer edge and allowed to cure, then the next one added, and so on.
+
+once the edges are done the wingstars were test fitted again and added. The same filler was placed inside the cut outs on the wingstars where the screws protrude and small amounts of filler in between to lock down the areas between the screws, my thinking is that the filler will be pressed down and under the edge of the screw heads. In order that the filler doesn't squeeze out through the coolshade and be visible, a channel was cut linking the screw recesses on the wingstar which should make any excess filler travel along it under the wingstar instead of coming out of the sides. This seems to have worked very well and the wings are super solid, no torsional flex in the H strip edges. So all in all im very happy with this result. Just some finishing and 
+
+[IMAGE: https://www.therpf.com/forums/attachments/edge-strip-test-1-jpg.978794/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/corner-test-jpg.978795/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/repainted-kool-2-jpg.978796/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/corner-alignment-jpg.978797/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/sandwich-test-alignment-jpg.978798/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/stitching-kool-test-first-side-jpg.978799/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/aligning-and-masking-kool-jpg.978800/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/h-strip-and-layers-jpg.978801/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/wing-on-jig-for-edge-work-jpg.978802/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/finished-second-wing-edges-jpg.978803/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/corner-finishing-jpg.978804/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/2-jpg.978805/]
+
+ detailing to go.
+
+heres a few shots
+
+Still more to go, but this should end this thread unless anyone needs to add more info, please do if you feel the urge.
+
+There should be a buid thread on this model soon from vectorzero. Keep an eye out for it. I'm now painting this beasty
+────────────────────────────────────────────────────────────────────────
+Post #47  (forum post #4569556)
+Author    : moffeaton
+Date      : Jan 18, 2019 at 7:16 AM
+────────────────────────────────────────────────────────────────────────
+
+So your wingstars are going OVER your H-Beams?
+────────────────────────────────────────────────────────────────────────
+Post #48  (forum post #4569644)
+Author    : Flyscriber
+Date      : Jan 18, 2019 at 10:32 AM
+Reactions : Like — greeble_gremlin, rbeach84, moffeaton
+────────────────────────────────────────────────────────────────────────
+
+Hi Jason, yes sir they are. I am trying to make this as bullet proof as possible for the client. My thinking was it would give more support to the H beams and the edges of the wings, it seemed like the most simple and robust  method I could think of, as I wanted to use the laser cut sheet as my main alignment, and I needed the edges to be applied to the assembly for accurate corner reference and give me nice targets to ease the wingstars into position. I guess its a bit different, but it works really well !! I have shaved the thickness of the H beam from under the wingstar corners so the look is the same as the references I have. Only thing left to do is add a little filler to bridge the end of the wingstar and blend it into the H strip edge, which should be super easy. I know its not normal, but we can but try.
+────────────────────────────────────────────────────────────────────────
+Post #49  (forum post #4569812)
+Author    : greeble_gremlin
+Date      : Jan 18, 2019 at 6:21 PM
+────────────────────────────────────────────────────────────────────────
+
+Very Nice!
+
+Flyscriber said:
+
+			I have shaved the thickness of the H beam from under the wingstar corners so the look is the same as the references I have.
+		
+
+Click to expand...
+
+That's what I meant, when I said there was more than one way to tackle the problem of the corners!  I prefer that way too.
+
+I agree that way seems more structurally sound. And.. if in the end, externally it looks the same who cares?!
+
+Flyscriber,  I've never heard of flexible black automotive bumper filler?  May I ask the brand (maybe a picture of the product container?
+
+This is becoming my favorite TIE build ! 
+
+Do you have all the TIE  decals you need?
+────────────────────────────────────────────────────────────────────────
+Post #50  (forum post #4569830)
+Author    : 3phase
+Date      : Jan 18, 2019 at 7:12 PM
+────────────────────────────────────────────────────────────────────────
+
+I don't have any decals for my build. Is it possable to purchase them somewhere.
+────────────────────────────────────────────────────────────────────────
+Post #51  (forum post #4569887)
+Author    : Flyscriber
+Date      : Jan 19, 2019 at 1:41 AM
+Reactions : Like, Love — moonbus, el toro, Studio Kitbash
+────────────────────────────────────────────────────────────────────────
+
+I have a few sheets of differing decals for this build Some in two parts ( a white sheet (background) and a coloured sheet for the arrows etc. I not sure who produced this set, vectorzero will no doubt know the origin. Also have a Jason Eaton sheet with the white background already applied. Both sheets are needed for this Tie as there are more red DAN, and ANG's than you would think and some of the red on white "arrows/ triangles " point the opposite way, which is where the two part decals come into play, as you can reverse the red triangle on top of the white square.
+
+Heres  couple of images, still a fair way to go on the painting and finishing now.
+
+[IMAGE: https://www.therpf.com/forums/attachments/top-front-jpg.979147/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/wing-man-jpg.979148/]
+────────────────────────────────────────────────────────────────────────
+Post #52  (forum post #4574956)
+Author    : vectorzero
+Date      : Jan 31, 2019 at 3:03 AM
+Reactions : Like, Love — Studio Kitbash, ABE, greeble_gremlin
+────────────────────────────────────────────────────────────────────────
+
+[IMAGE: https://www.therpf.com/forums/attachments/dsc00295-jpg.987573/]
+
+ Last stretch.
+────────────────────────────────────────────────────────────────────────
+Post #53  (forum post #4575401)
+Author    : Flyscriber
+Date      : Feb 1, 2019 at 1:31 AM
+────────────────────────────────────────────────────────────────────────
+
+Cant see the attachment Vectorzero. Not sure whats going on there.
+────────────────────────────────────────────────────────────────────────
+Post #54  (forum post #4575530)
+Author    : vectorzero
+Date      : Feb 1, 2019 at 8:01 AM
+────────────────────────────────────────────────────────────────────────
+
+I'm using the 'Media Gallery Embed' function. Not sure why its not working.
+
+Update: Deleted embedded media, and switched to attachment. Can’t see the option to display images in line anymore. More research needed.
+
+Update: Switched to a slightly lower resolution picture. The original shot was taken using a DSLR at 6000x4000 pixels. I then used the camera jpeg at 4MB in size. That didn't work, so this is a further compressed image at 157KB in size.
+────────────────────────────────────────────────────────────────────────
+Post #55  (forum post #4601131)
+Author    : Flyscriber
+Date      : Apr 5, 2019 at 1:09 AM
+Reactions : Like — BajaTym, el toro, dirtydave
+────────────────────────────────────────────────────────────────────────
+
+Hi everyone.
+
+Heres a little video of the completed Tie with its metal wings, just so you can check it out if you fancy.
+
+Thanks to everyone who contributed to this thread with awesome info.
+────────────────────────────────────────────────────────────────────────
+Post #56  (forum post #4601203)
+Author    : Fett_Ish
+Date      : Apr 5, 2019 at 8:24 AM
+────────────────────────────────────────────────────────────────────────
+
+Great build! looks really nice. Building those wingstars is a real bear that I avoided for about 4 years and I think yours are very, very nicely done. Gotta get me those decals as they add that "finish" that I feel mine is missing. Again great work.
+────────────────────────────────────────────────────────────────────────
+Post #57  (forum post #4601715)
+Author    : ABE
+Date      : Apr 6, 2019 at 6:24 PM
+Reactions : Like — Flyscriber
+────────────────────────────────────────────────────────────────────────
+
+beautiful work, congrats
+────────────────────────────────────────────────────────────────────────
+Post #58  (forum post #5247010)
+Author    : vectorzero
+Date      : Nov 2, 2021 at 5:29 PM
+Reactions : Like, Love — BajaTym, el toro, Bjorn
+────────────────────────────────────────────────────────────────────────
+
+At last a beauty shot. Getting ready for exhibition at Scale Model World 2021 in the UK. This is a focus stacked image for maximum depth of field. Still playing with white balance to get the colour accurate - but its such a difficult colour to shoot.
+
+[IMAGE: https://www.therpf.com/forums/attachments/final-photos-modified-jpeg.1508754/]
+────────────────────────────────────────────────────────────────────────
+Post #59  (forum post #5257752)
+Author    : Rockhopper2
+Date      : Dec 10, 2021 at 6:03 AM
+────────────────────────────────────────────────────────────────────────
+
+Hi Flyscriber
+
+Beautiful build, simply stunning.
+
+I have a question about the plastruct H beams. Earlier in the thread it is stated that 1/4" H beams are used for the edges of the wings. This is 6.35mm metric, so did you use the 6.4mm HFS-8P from plastruct, or as you added the additional 0.9mm inner did you use the larger HTS-10P at 7.9mm to allow for the extra thickness?
+
+Thanks
+────────────────────────────────────────────────────────────────────────
+Post #60  (forum post #5436261)
+Author    : Rockhopper2
+Date      : May 25, 2023 at 12:34 PM
+────────────────────────────────────────────────────────────────────────
+
+Hi 
+
+Sorry for reviving an old thread, but I have a couple of questions.
+
+Does anyone know where in the UK you can buy the Plastruct H & T beams? Most shops only stock the styrene versions.
+
+Also am I correct in thinking that there are actually only 2 styles of triangle for each wing? 8 total center triangles, and 16 total left/right triangles?
+
+Thanks RH
+────────────────────────────────────────────────────────────────────────
+Post #61  (forum post #5440326)
+Author    : Flyscriber
+Date      : Jun 10, 2023 at 1:38 AM
+Reactions : Like — joberg, Rockhopper2, greeble_gremlin
+────────────────────────────────────────────────────────────────────────
+
+Rockhopper2 said:
+
+			Hi Flyscriber
+
+Beautiful build, simply stunning.
+
+I have a question about the plastruct H beams. Earlier in the thread it is stated that 1/4" H beams are used for the edges of the wings. This is 6.35mm metric, so did you use the 6.4mm HFS-8P from plastruct, or as you added the additional 0.9mm inner did you use the larger HTS-10P at 7.9mm to allow for the extra thickness?
+
+Thanks
+		
+
+Click to expand...
+
+HI there, sorry, i seemed to have missed this post. Im pretty sure i used the 6.4 plastruct on the wing edges. I made the wings in a slightly different format with the large single stainless sheet as the central layer (just to keep everything super straight). I dont think they look any different to the original versions, maybe a little more symmetrical than normal ;-). The koolshade is indeed mirrored across the wings on mine. If you follow the wingstars as a guide, you may find there is a 2mm or so, discrepancy which will follow into the koolshade templates and make them different. I would go for symmetry all day, just to make it easier 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #62  (forum post #5441744)
+Author    : greeble_gremlin
+Date      : Jun 14, 2023 at 11:19 AM
+────────────────────────────────────────────────────────────────────────
+
+Flyscriber said:
+
+			HI there, sorry, i seemed to have missed this post. Im pretty sure i used the 6.4 plastruct on the wing edges. I made the wings in a slightly different format with the large single stainless sheet as the central layer (just to keep everything super straight). I dont think they look any different to the original versions, maybe a little more symmetrical than normal ;-). The koolshade is indeed mirrored across the wings on mine. If you follow the wingstars as a guide, you may find there is a 2mm or so, discrepancy which will follow into the koolshade templates and make them different. I would go for symmetry all day, just to make it easier 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+I am glad to hear that Flyscriber  I wanted to put stainless steel sheetin the middle of the "sandwich" too. I was worried about the fit,
+
+Glad to see that it works!
+────────────────────────────────────────────────────────────────────────
+Post #63  (forum post #5467771)
+Author    : ganesha7
+Date      : Sep 9, 2023 at 1:36 AM
+Reactions : Like — Rockhopper2
+────────────────────────────────────────────────────────────────────────
+
+Rockhopper2 said:
+
+			Hi
+
+Sorry for reviving an old thread, but I have a couple of questions.
+
+Does anyone know where in the UK you can buy the Plastruct H & T beams? Most shops only stock the styrene versions.
+
+Also am I correct in thinking that there are actually only 2 styles of triangle for each wing? 8 total center triangles, and 16 total left/right triangles?
+
+Thanks RH
+		
+
+Click to expand...
+
+Have you tried ema-models.co.uk?
+
+I'm in Spain and I have been unable to buy from them for the last couple of years, but you should be fine buying from the UK.
+
+Awesome build, by the way!
+────────────────────────────────────────────────────────────────────────
+Post #64  (forum post #5468544)
+Author    : greeble_gremlin
+Date      : Sep 11, 2023 at 8:38 PM
+────────────────────────────────────────────────────────────────────────
+
+ganesha7 said:
+
+			Have you tried ema-models.co.uk?
+
+I'm in Spain and I have been unable to buy from them for the last couple of years, but you should be fine buying from the UK.
+
+Awesome build, by the way!
+		
+
+Click to expand...
+
+Order from  the Plastruct Website,  I recommend purchasing the printed/analog Catalog too..website is not intuitive unlees you habe memorized all the abbreviations for each product
+────────────────────────────────────────────────────────────────────────
+Post #65  (forum post #5468636)
+Author    : ganesha7
+Date      : Sep 12, 2023 at 7:20 AM
+────────────────────────────────────────────────────────────────────────
+
+greeble_gremlin said:
+
+			Order from  the Plastruct Website,  I recommend purchasing the printed/analog Catalog too..website is not intuitive unlees you habe memorized all the abbreviations for each product
+		
+
+Click to expand...
+
+Only for U.S. buyers, I'm afraid. The only European distributor listed is ema.models...
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 65

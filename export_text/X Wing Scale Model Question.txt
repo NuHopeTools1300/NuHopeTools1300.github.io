@@ -1,0 +1,152 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : X Wing Scale Model Question
+URL    : https://www.therpf.com/forums/threads/x-wing-scale-model-question.358430/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #5550223)
+Author    : johnllyman
+Date      : Jul 3, 2024 at 7:41 PM
+────────────────────────────────────────────────────────────────────────
+
+So, a general question about the types of scale models and 3D printing options.  I've noticed there are options to download plans for a 3D version but the trick is I don't have a 3D printer.  Are they fairly easy to find online to print out the blueprints for a model?
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #5550235)
+Author    : yaris
+Date      : Jul 3, 2024 at 8:21 PM
+────────────────────────────────────────────────────────────────────────
+
+I'm not sure if there are any 'plans' or 'blueprints' that you can get that show how to build an X-Wing. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+You say there are 'plans' for a 3D version, but you need a 3D printer...??....Those 'plans' I'm guessing are simply the files to print one, so they're not really plans, just print files.
+
+I'm sure someone will come along and maybe answer your question better.....
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+I wanted a 'large scale' X-Wing so I converted a Hasbro Toy at 1/18 scale 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+
+[IMAGE: 1478965-0d6ce931487d5663a0f11427e9116d73.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #5550238)
+Author    : johnllyman
+Date      : Jul 3, 2024 at 8:34 PM
+────────────────────────────────────────────────────────────────────────
+
+yaris said:
+
+			I'm not sure if there are any 'plans' or 'blueprints' that you can get that show how to build an X-Wing. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+You say there are 'plans' for a 3D version, but you need a 3D printer...??....Those 'plans' I'm guessing are simply the files to print one, so they're not really plans, just print files.
+
+I'm sure someone will come along and maybe answer your question better.....
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+I converted a Hasbro Toy - Scale 1/18
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+View attachment 1836452
+
+Click to expand...
+
+Sorry if my terminology was confusing.  I guess when I wrote blueprint, I meant plans.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #5550246)
+Author    : TazMan2000
+Date      : Jul 3, 2024 at 9:56 PM
+────────────────────────────────────────────────────────────────────────
+
+There are a few places where you can download a decent 3d model of an X-Wing to be printed on a 3D printer. The files aren't blueprints or plans, but 3D files that are in a format that 3D slicers can recognize to create instructions for a 3D printer to print it out. That explanation sounds more complicated than the real process is.
+
+For the sake of simplicity, most 3D printable files on websites, are in a format called STL. You download the STL, and import it into the Slicer Software which is provided free by either the vendor of the 3D printer, or can it be downloaded from the net. The Slicer Software converts the model into code that the printer can recognize. Basically it cuts the model into "bread" slices, since most 3D printers print a horizontal layer at a time starting on the print bed and building up each layer over the previous. The file gets transferred to the 3D printer and a "short" time later your model is done.
+
+There are thousands upon thousands of videos on YouTube reviewing different printers and showing newbies the ins and outs of 3D printing. Newer 3D printers and newer software is slowly cutting into the stats of failed prints, which mostly is due to bed levelling and part support.
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #5550271)
+Author    : RealDaveWinter
+Date      : Jul 4, 2024 at 1:49 AM
+────────────────────────────────────────────────────────────────────────
+
+The other thing you could do is get yourself a good 3D model of whatever it is you want and, using Blender, print the file as a 'paper model'. With those printed, cut the parts out of plastic rather than paper. With the 3D model, you'll have all the dimensions you'll need and you can still generate parts from it.
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #5550288)
+Author    : Dogsbody2
+Date      : Jul 4, 2024 at 4:17 AM
+────────────────────────────────────────────────────────────────────────
+
+Check out the Star Wars forums for full size plans for the Xwing.
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #5561972)
+Author    : Vaderman
+Date      : Aug 10, 2024 at 7:43 PM
+────────────────────────────────────────────────────────────────────────
+
+Well, it’s easy to get a 3d printer and might be less expensive than what you’d pay if you were buying (some) studio scale model kits!
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #5563129)
+Author    : Rulebreaker
+Date      : Aug 15, 2024 at 8:19 AM
+Reactions : Haha — rbeach84
+────────────────────────────────────────────────────────────────────────
+
+the question is how big do you want it to be?
+
+any model could be upscaled to what ever u want, but might need some updating on the model too, so if u dont have any cad(computer aided design, e.g. fusion360) experience, that would be a problem too.
+
+even a good simple 3d printer costs today 150 bucks
+
+plus the material needed lets assum 5 rolls of fillament(the material), thats another 5*25=125 bucks
+
+and for a proper 3d model, u need the model it self, wich cost another 50 bucks
+
+and the printing time is aproximatelly 2 weeks or 2 months, depending on the size, and in this time u can't go shopping or bowling, u have a runing machine thats needs to be supervised all the time.
+
+on the other hand,
+
+the Revell 1/29 Xwing is 435mm long it costs around 120 euro on amazon
+
+the revell is a injection molded model (almost finished), but the 3d print will have "lines" alot of lines, that need to be sanded and "putted" till your arms break off...
+
+u can check "cgtrader" or "gambody" for reaseonable models, sometimes "thingyverse" also has some good models
+
+thingy has a 1/24 for free
+
+[IMAGE: 54b6f50a8bfec69424f03a732f7bb1cb_preview_featured.jpg]
+
+						1:24 scale X Wing for Filament Printers by Simhopp
+					
+
+SketchUp is no longer free,so will be converting files to Blender, and also try to convert polygons into quads.For Resin Printer, I have uploaded optimized version of X-Wing.https://www.thingiverse.com/thing:6397525some people say front bottom fuselage file has some problem.just download that...
+
+[IMAGE: favicon-192x192.png]
+
+					www.thingiverse.com
+				
+
+yes its for free, i also have a 3d printer, but i choose the revell one
+
+i dont want to scare u, but if u desice for the print, u need
+
+* time
+
+* money
+
+* protection(breathing mask for sanding and other things)
+
+* cad
+
+* more time
+
+* adjusting the machine
+
+* patience
+
+* handcrafting skills
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 8

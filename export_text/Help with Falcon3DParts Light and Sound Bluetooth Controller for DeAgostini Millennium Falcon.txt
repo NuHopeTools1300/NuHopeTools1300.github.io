@@ -1,0 +1,90 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Help with Falcon3DParts Light and Sound Bluetooth Controller for DeAgostini Millennium Falcon
+URL    : https://www.therpf.com/forums/threads/help-with-falcon3dparts-light-and-sound-bluetooth-controller-for-deagostini-millennium-falcon.349325/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #5384832)
+Author    : 1138sw
+Date      : Dec 12, 2022 at 1:18 PM
+Reactions : Like — Digital Mayhem
+────────────────────────────────────────────────────────────────────────
+
+I purchased the Bluetooth board not realizing some of the stock lighting JST connections from Deagostini won't fit the board. There are thin three and two pin connections that won't fit any of the aforementioned stock Deagostini two pin JST connectors. The cockpit, boarding ramp light and two gun port lights are the main culprits.
+
+I've attached the pic of the board and link for reference. If anyone has any solutions or advice that would be greatly appreciated! Thanks!
+
+[IMAGE: Controller01_1200x1200.jpg]
+
+						Light and Sound Bluetooth Controller for DeAgostini Millennium Falcon
+					
+
+Please allow 2 weeks for your order of this item to be processed. UPDATE 8/23/2022: The new revision of the controller with an added heatsink now comes with an option to run 92 LED Strip. The 92 LED strip on a flexible PCB is custom designed and manufactured specifically to fit into the...
+
+[IMAGE: favicon_32x32.jpg]
+
+					www.falcon3dparts.com
+				
+
+ 
+
+Attachments
+
+[IMAGE: 1290033-7d49aceba794bbe55f2d247fadff1c10.jpg]
+
+Controller_01_600x600.jpg
+
+					85.7 KB
+					
+					· Views: 258
+					
+				
+
+[IMAGE: 1290034-a3af2fcd21f623530bdced942a97b84e.jpg]
+
+Controller_02_600x600.jpg
+
+					69.9 KB
+					
+					· Views: 279
+					
+				
+
+[IMAGE: 1290035-21049bfde1294a9019972f70e7caf464.jpg]
+
+new_strip02_600x600.jpg
+
+					75.2 KB
+					
+					· Views: 235
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #5385457)
+Author    : Gus76
+Date      : Dec 14, 2022 at 4:18 PM
+────────────────────────────────────────────────────────────────────────
+
+Hi there, You would need something like a 'power bar' type of an adapter with one plug and several receptacles where you can plug in all the connectors in question. If you contact me through the website I can provide more details, etc. Thank you, Gus
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #5385464)
+Author    : 1138sw
+Date      : Dec 14, 2022 at 5:14 PM
+────────────────────────────────────────────────────────────────────────
+
+Hi Gus! thank you!!! Can you fill me in on the details with this thread or should I contact you through other means on the RPF? Thank you for reaching out I really appreciate it!
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #5385466)
+Author    : 1138sw
+Date      : Dec 14, 2022 at 5:18 PM
+────────────────────────────────────────────────────────────────────────
+
+Gus76 said:
+
+			Hi there, You would need something like a 'power bar' type of an adapter with one plug and several receptacles where you can plug in all the connectors in question. If you contact me through the website I can provide more details, etc. Thank you, Gus
+		
+
+Click to expand...
+
+Hi Gus! thank you!!! Can you fill me in on the details with this thread or should I contact you through other means on the RPF? Thank you for reaching out I really appreciate it!
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 4

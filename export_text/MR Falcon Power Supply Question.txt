@@ -1,0 +1,92 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : MR Falcon Power Supply Question
+URL    : https://www.therpf.com/forums/threads/mr-falcon-power-supply-question.72952/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #1020923)
+Author    : Falk
+Date      : Oct 27, 2009 at 7:16 AM
+────────────────────────────────────────────────────────────────────────
+
+A friend of mine acquired one of those incomplete MR Falcons recently - the ship itself was okay but the base is missing.
+
+We assume the original stand ends in a standard HiFi plug to couple model and power source, but don't know which type / specs were used.
+
+Did anyone on this great board ever find out?
+
+Cheers!
+
+Falk
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #1020978)
+Author    : Montagar
+Date      : Oct 27, 2009 at 8:38 AM
+────────────────────────────────────────────────────────────────────────
+
+Falk said:
+
+			[snip]We assume the original stand ends in a standard HiFi plug to couple model and power source, but don't know which type / specs were used.[/snip]
+		
+
+Click to expand...
+
+That is correct.
+
+The power supply is model# 3A-161WP09 (9V 1.7A)
+
+http://www.mepos.ca/index.php?cmd=3A-161WPXX
+
+.
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #1020989)
+Author    : Falk
+Date      : Oct 27, 2009 at 8:48 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks Montagar for the transformer link.
+
+So the input is 9V, 1.7A... 
+
+*But* what about the jack going into the lower gun port?
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #1021072)
+Author    : Montagar
+Date      : Oct 27, 2009 at 10:15 AM
+────────────────────────────────────────────────────────────────────────
+
+Falk said:
+
+			Thanks Montagar for the transformer link.
+
+So the input is 9V, 1.7A... 
+
+*But* what about the jack going into the lower gun port?
+		
+
+Click to expand...
+
+It's just as you mentioned, a standard 1/4" mono phone plug.
+
+http://www.radioshack.com/product/index.jsp?productId=2103992
+
+.
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #1357121)
+Author    : Geil
+Date      : Sep 6, 2010 at 1:45 PM
+────────────────────────────────────────────────────────────────────────
+
+Hi
+
+Just managed to get this beauty but it is missing the power supply.  Based on this posting the opwer supply has to supply 9V and handle 1.7A.  However, what would the polarity on the plug be?  Not sure if reversing will burn anything so I just wanted to make sure and not trial & error 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Thanks
+
+Jeff
+
+BTW the linked opwer supply has been removed from that website
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 5

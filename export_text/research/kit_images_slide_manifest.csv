@@ -1,0 +1,45 @@
+slide,slide_key,slide_title,picture_count,unique_media_count,same_media_reuse,exact_timeline_match,base_media,base_timeline_media,base_subject,base_scene,green_labels,yellow_labels,other_labels
+1,,,0,0,no,no,,,,,0,0,0
+2,Pirateship_00,Pirateship_00 Date: ??? Source: xxx,2,1,yes,yes,image6.jpg,image6.jpg,two builders working on a clear or unfinished fighter miniature,likely early X-Wing build work,0,0,0
+3,Pirateship_02,Pirateship_02 Date: ??? Source: xxx,1,1,no,no,image16.jpg,,,,1,0,0
+4,Pirateship,Pirateship Date: ??? Source: xxx,1,1,no,yes,image5.jpg,image1.jpg,rear engine cluster of a large saucer-type ship on a bench,likely Millennium Falcon rear or engine area,1,0,0
+5,ILM_Shop_Top,ILM_Shop_Top Date: ??? Source: xxx,2,1,yes,yes,image2.jpg,image2.jpg,,,10,5,0
+6,Blockade _Top,Blockade _Top Date: ??? Source: xxx,2,1,yes,yes,image3.jpg,image4.jpg,,,1,2,0
+7,Pirateship_03,Pirateship_03 Date: ??? Source: xxx,2,1,yes,yes,image4.jpg,image9.jpg,,,0,0,0
+8,Xwing_back_2,Xwing_back_2 Date: ??? Source: xxx,2,1,yes,no,image7.jpg,,,,2,3,0
+9,Landspeeder_02,Landspeeder_02 Date: ??? Source: xxx,2,1,yes,no,image17.jpg,,,,0,1,0
+10,Landspeeder_03,Landspeeder_03 Date: ??? Source: xxx,2,1,yes,no,image13.jpg,,,,0,2,0
+11,Landspeeder_04,Landspeeder_04 Date: ??? Source: xxx,2,1,yes,no,image23.jpg,,,,1,14,0
+12,Tie_Attack,Tie_Attack Date: ??? Source: xxx,3,1,yes,yes,image1.jpg,image12.jpg,,,3,8,0
+13,Sandcrawler_right,Sandcrawler_right Date: ??? Source: xxx,2,1,yes,no,image8.jpg,,,,0,8,0
+14,Sandcrawler_back,Sandcrawler_back Date: ??? Source: xxx,3,1,yes,yes,image14.jpg,image21.jpg,,,4,10,0
+15,Sandcrawler_0 2,Sandcrawler_0 2 Date: ??? Source: xxx,2,1,yes,yes,image9.jpg,image20.jpg,,,0,4,5
+16,Tie_Assembly,Tie_Assembly Date: ??? Source: xxx,1,1,no,yes,image11.jpg,image36.jpg,,,1,0,0
+17,????,???? Date: ??? Source: xxx,2,1,yes,no,image25.png,,,,0,1,4
+18,Star_Destroyer_workbench,Star_Destroyer_workbench Date: ??? Source: xxx,2,2,no,yes,image10.jpg,image29.jpg,,,22,3,1
+19,Star_Destroyer_right,Star_Destroyer_right Date: ??? Source: xxx,2,2,no,yes,image18.jpg,image44.jpg,,,1,26,1
+20,Star_Destroyer_Stand,Star_Destroyer_Stand Date: ??? Source: xxx,2,1,yes,yes,image15.jpg,image28.jpg,,,1,5,0
+21,,,1,1,no,yes,image12.jpg,image46.jpg,,,2,1,0
+22,X_03,X_03 Date: ??? Source: xxx,4,2,yes,no,image19.jpg,,,,3,16,1
+23,X_03,X_03 Date: ??? Source: xxx,3,1,yes,no,image24.jpg,,,,2,1,0
+24,5757,5757 Date: ??? Source: xxx,5,5,no,yes,image33.jpg,image14.jpg,blurry candid video frame of shop personnel,unidentified people in workshop footage,0,10,1
+25,Fleet,Fleet Date: ??? Source: xxx,2,1,yes,no,image32.jpg,,,,4,7,0
+26,Xs_and_Ys.,Xs_and_Ys. Date: ??? Source: xxx,2,1,yes,yes,image26.jpg,image45.jpg,,,0,8,0
+27,Finest_Collection,Finest_Collection Date: ??? Source: xxx,3,1,yes,yes,image35.jpg,image41.jpg,row of X-Wings with a builder present and a TIE nearby,X-Wing lineup or squadron build display,7,1,0
+28,Staff,Staff Date: ??? Source: xxx,2,2,no,yes,image31.jpg,image40.jpg,"group shop photo with multiple X-Wings, Y-Wings, and a TIE visible",mixed fighter-program group shot,0,15,0
+29,TileCreation,TileCreation Date: ??? Source: xxx,3,3,no,yes,image36.jpg,image8.jpg,,,3,9,0
+30,Blockade_Runner,Blockade_Runner Date: ??? Source: xxx,1,1,no,yes,image45.jpg,image17.jpg,large ANH capital-ship miniature on a workbench,likely Rebel capital ship program; exact ID not yet locked,25,14,0
+31,Xwing_back,Xwing_back Date: ??? Source: xxx,2,1,yes,yes,image29.jpg,image10.jpg,,,1,10,0
+32,Death_Star_back,Death_Star_back Date: ??? Source: xxx,2,1,yes,yes,image34.jpg,image25.jpg,,,4,8,0
+33,ILM_Shop_Image,ILM_Shop_Image Date: ??? Source: xxx,1,1,no,yes,image50.jpg,image32.jpg,file is malformed; cannot be decoded,n/a,54,15,0
+34,Falcon_toppled,Falcon_toppled Date: SEP 76 Source: xxx,1,1,no,yes,image37.jpg,image22.jpg,,,3,6,0
+35,ILM_KITS,ILM_KITS Date: ??? Source: xxx,1,1,no,yes,image43.jpg,image27.jpg,,,22,16,1
+36,Tile,Tile Date: ??? Source: xxx,1,1,no,yes,image38.jpg,image31.jpg,builder painting or detailing a large dark surface section on a circular base,Death Star surface or tile or special section work,12,9,0
+37,Tie_01,Tie_01 Date: ??? Source: xxx,2,1,yes,yes,image39.jpg,image34.jpg,,,0,2,0
+38,Wingman,Wingman Date: ??? Source: xxx,1,1,no,yes,image49.jpg,image35.jpg,,,4,14,0
+39,Landspeeders,Landspeeders Date: ??? Source: xxx,1,1,no,yes,image47.jpg,image15.jpg,rear-quarter view of a large ANH capital-ship miniature on a workbench,likely same large ship family as image17.jpg; exact ID still open,1,3,3
+40,Blockade_Runner_02,Blockade_Runner_02 Date: ??? Source: xxx,1,1,no,yes,image40.jpg,image11.jpg,,,3,29,1
+41,Erland_Peterson,Erland_Peterson Date: ??? Source: xxx,1,1,no,yes,image41.jpg,image38.jpg,,,2,11,0
+42,Erland_Y,Erland_Y Date: ??? Source: xxx,3,2,yes,no,image51.jpg,,,,2,5,5
+43,TIE_bench,TIE_bench Date: ??? Source: xxx,1,1,no,no,image48.jpg,,,,1,0,0
+44,Big_Dish,Big_Dish Date: ??? Source: xxx,2,1,yes,no,image46.jpg,,,,1,0,0

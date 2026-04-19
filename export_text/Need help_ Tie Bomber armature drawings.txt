@@ -1,0 +1,100 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Need help: Tie Bomber armature drawings
+URL    : https://www.therpf.com/forums/threads/need-help-tie-bomber-armature-drawings.293611/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #4508001)
+Author    : Toxcedo
+Date      : Aug 14, 2018 at 6:47 AM
+────────────────────────────────────────────────────────────────────────
+
+Can someone validate the measurements on the CAD drawing that I just made? I can not find any good reference on the forum for the square stock and I want to make sure the measurements are ok before the machining process. Thx a lot! See also the attached .pdf file below.
+
+[IMAGE: 484035-dbcd31b5135d8914c43f858e0b51eac8.jpg]
+ View attachment Sheet1 (1).pdf
+
+[IMAGE: https://www.therpf.com/forums/attachments/sheet1-1-jpg.836781/]
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #4508012)
+Author    : Toxcedo
+Date      : Aug 14, 2018 at 7:06 AM
+────────────────────────────────────────────────────────────────────────
+
+There is a small error on the plan: The thread description should be: 3/8-16 UNC threads.
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #4508477)
+Author    : Voodoocaster
+Date      : Aug 15, 2018 at 4:34 AM
+────────────────────────────────────────────────────────────────────────
+
+I can not validate the measurements,.but i do know that the wing bar is hollow or partialy hollow,..i would recomment to use a tube for that,..also note that the tube has at least 2 holes (1 behind the canopy window and  1 behind the "torpedo"octagon)and probably these holes run through the tube ,.so that will make 4 holes. 
+
+Also  you can clearly see some(3 i believe) electrical wires(1 grey?blue? and 2 red?/orange/brown?? running trough the tube behind the canopy window and behind the tube(probably comming out of it through the hole on the backside going to the led's of the engines,..in the chronicle book you can see this clearly.
+
+I also think that on the front side of the box (hidden in one of the holes of the frontplate greeblie)there is a small metal connector or toggle switch or a tiny philips screw that holds the center block tight to the tube,..but this could also just be the screw partialy seen in the hole of the armature
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #4508483)
+Author    : Voodoocaster
+Date      : Aug 15, 2018 at 4:55 AM
+────────────────────────────────────────────────────────────────────────
+
+Forget about the toggle switch on the front plate,..but it could be a small electrical connector male pin onto which an adaptor/wallwart plug would fit.
+
+I also think by looking at your drawing and comparing it to the reference that your center block should be more cube in size or maybe even more rectangle verticaly(front/back view),.. by looking at the reference i can see the block being longer at the bottom,..so it could be a square cube but the tube will not run through the center(top/bottom side) but more through the tops side of the cube/rectangle.
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #4508585)
+Author    : Toxcedo
+Date      : Aug 15, 2018 at 8:26 AM
+────────────────────────────────────────────────────────────────────────
+
+Wow I see what you mean. I never noticed the holes behind the canopy. Here is a quick fix with the update you provided. Still not sure about the bottom portion of the square stock.... Do you have the links for your reference photos? The one I have are so low in resolution thats its difficult to make anything out of them.
+
+[IMAGE: 484247-253f486d66ec34c85231cbb48204bd97.jpg]
+
+[IMAGE: 484248-13ceab22e5071c2b65707c38e5272988.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #4508680)
+Author    : Voodoocaster
+Date      : Aug 15, 2018 at 11:26 AM
+────────────────────────────────────────────────────────────────────────
+
+Sorry,can't give you any links to the reference,..but if you cut the morser karl ribbed plate and the part on the bottom of the square it will give you a better feeling for the dimension of the box,..but be shure that the box only meets the fuselage tubes where the crosstube enters the fusselages(if you deside not to cut square holes in the fuselages but only round holes for the cross tube)) .
+
+So in other words,.the morser karl plates/decks are wider than the square stock on both bottom an top!
+
+This will also mean the holes in the cross tube have to be further removed from the square stock to be positioned exacty where they should behind the canopy and octagon hole.
+
+The square stock will be covered by styrene that follows the curves of the fuselages on the front,..maybe back aswell(not sure),.so this will cover up the voids which are between the square stock top and bottom and the fuselages.
+
+I'll see if i can take measurements from my build ,.but these will be my measurements so others or you may not agree.
+
+I remember that my thickness of the cross tube was slightly different than most other builders used,.. i believe the only one agreeing with my dimensions or at least not ridiculing it  was monsieur tox,.who i take as expert ,so i stayed with my measurement.
+
+You could also cut square holes in the fuselage tubes(more accurate to the filming miniature) so you will not have the voids ,.more difficult for me so  i just cut a round for the cross tube.
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #4508690)
+Author    : Voodoocaster
+Date      : Aug 15, 2018 at 11:36 AM
+────────────────────────────────────────────────────────────────────────
+
+removed post
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #4508692)
+Author    : Voodoocaster
+Date      : Aug 15, 2018 at 11:40 AM
+────────────────────────────────────────────────────────────────────────
+
+removed post
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #4508700)
+Author    : Voodoocaster
+Date      : Aug 15, 2018 at 11:48 AM
+────────────────────────────────────────────────────────────────────────
+
+here an old picture of my bomber
+[IMAGE: 484291-645e3693be41aa8a789b44d482ca3450.jpg]
+when i look at it now the square should be a tiny bit wider ,.but this could be due to photo perspective,..i'll have to check on the real model to be sure about that
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 9

@@ -1,0 +1,141 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : How do I secure a model mounted on a brass tube?
+URL    : https://www.therpf.com/forums/threads/how-do-i-secure-a-model-mounted-on-a-brass-tube.357802/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #5538440)
+Author    : starwarsdude
+Date      : May 20, 2024 at 9:50 AM
+────────────────────────────────────────────────────────────────────────
+
+How do you mount a model on a brass tube? You drill a hole for the tube... but what is a good way to secure it so the model doesn't fall off or slide? 
+
+I am trying to light a 1/72 Slave 1. The wire will run through a bent brass tube.
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #5538533)
+Author    : chazzychaz
+Date      : May 20, 2024 at 6:34 PM
+Reactions : Like — Boxcar Bret, starwarsdude
+────────────────────────────────────────────────────────────────────────
+
+Take a rought file, and press it on top of the brass tube, then roll the tube under the file by applying gentle pressure. You only need to do this to the part of the tube that goes into the model. It give the tube some teeth to grip the plastic.  Or you can cut a slightly larger tube (telescoping tubing) with a K and S tube cutter. This will leave a slight rim in the larger diameter tube section and the mount will not slip throught. Glue the larger section of tube into the model.
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #5538592)
+Author    : starwarsdude
+Date      : May 20, 2024 at 11:24 PM
+────────────────────────────────────────────────────────────────────────
+
+chazzychaz said:
+
+			Take a rought file, and press it on top of the brass tube, then roll the tube under the file by applying gentle pressure. You only need to do this to the part of the tube that goes into the model. It give the tube some teeth to grip the plastic.  Or you can cut a slightly larger tube (telescoping tubing) with a K and S tube cutter. This will leave a slight rim in the larger diameter tube section and the mount will not slip throught. Glue the larger section of tube into the model.
+		
+
+Click to expand...
+
+Thanks!!! I don't get how rolling a file makes it toothy enough to grip. I picture it just scuffing the tube. Do you have any pics?
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #5538679)
+Author    : chazzychaz
+Date      : May 21, 2024 at 8:01 AM
+────────────────────────────────────────────────────────────────────────
+
+starwarsdude said:
+
+			Thanks!!! I don't get how rolling a file makes it toothy enough to grip. I picture it just scuffing the tube. Do you have any pics?
+		
+
+Click to expand...
+
+No, I do not. Apologies,  experiment with it. The teeth if the file will impress on the tube. I do it frequently.  Also you could solder a washer on the tube as a sort of stop for the model to rest on.
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #5538691)
+Author    : swgeek
+Date      : May 21, 2024 at 8:20 AM
+Reactions : Like — Boxcar Bret
+────────────────────────────────────────────────────────────────────────
+
+If you don't ever need the model to come off the tube again you could CA it to the tube or use epoxy.
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #5538693)
+Author    : TazMan2000
+Date      : May 21, 2024 at 8:25 AM
+Reactions : Like — Boxcar Bret, swgeek
+────────────────────────────────────────────────────────────────────────
+
+I'm assuming that the model isn't assembled yet, considering you are lighting it. Get a styrene tube that fits over the brass tube. Drill a hole through the model and mount the styrene tube inside. Build up supports with styrene bits or putty so the styrene tube is totally secure. 
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #5539695)
+Author    : chazzychaz
+Date      : May 24, 2024 at 2:50 PM
+Reactions : Like — JimmyB
+────────────────────────────────────────────────────────────────────────
+
+Ok this is how I use a file to give the brass tube teeth. Use firm pressure (depending on the wall thickness), fair warning thin walled tube might be crushed.  Hope this helps.
+
+ 
+
+Attachments
+
+20240524_154224.mp4
+
+					96.7 MB
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #5539698)
+Author    : pengbuzz
+Date      : May 24, 2024 at 3:05 PM
+Reactions : Like — starwarsdude
+────────────────────────────────────────────────────────────────────────
+
+starwarsdude said:
+
+			How do you mount a model on a brass tube? You drill a hole for the tube... but what is a good way to secure it so the model doesn't fall off or slide?
+
+I am trying to light a 1/72 Slave 1. The wire will run through a bent brass tube.
+		
+
+Click to expand...
+
+If I may ask: what model are you trying to mount on a brass tube? I ask because different models allow (or prohibit) different ways of mounting on a brass tube.
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #5539786)
+Author    : feek61
+Date      : May 24, 2024 at 7:41 PM
+Reactions : Like — starwarsdude, Captain Dunsel
+────────────────────────────────────────────────────────────────────────
+
+I would just epoxy a slightly larger tube in the model so the mounting tube will slide into it.  Have done it many times with 100% success and satisfaction.
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #5539788)
+Author    : Captain Dunsel
+Date      : May 24, 2024 at 8:12 PM
+Reactions : Like — starwarsdude
+────────────────────────────────────────────────────────────────────────
+
+feek61 said:
+
+			I would just epoxy a slightly larger tube in the model so the mounting tube will slide into it.  Have done it many times with 100% success and satisfaction.
+		
+
+Click to expand...
+
+100%—this is my preferred method as well.
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #5540715)
+Author    : starwarsdude
+Date      : May 28, 2024 at 2:57 PM
+────────────────────────────────────────────────────────────────────────
+
+Captain Dunsel said:
+
+			100%—this is my preferred method as well.
+		
+
+Click to expand...
+
+Sounds good!
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 11

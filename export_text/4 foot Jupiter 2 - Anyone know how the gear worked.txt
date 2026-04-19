@@ -1,0 +1,2054 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : 4 foot Jupiter 2 - Anyone know how the gear worked
+URL    : https://www.therpf.com/forums/threads/4-foot-jupiter-2-anyone-know-how-the-gear-worked.1729/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #37201)
+Author    : y3a
+Date      : Dec 3, 2005 at 5:49 AM
+────────────────────────────────────────────────────────────────────────
+
+I just acquired a 4 foot hull 2nd generation cast of the LIS Jupiter 2.  While I have most all the photos, and even a DVD that shows the remains of what was inside, I was wondering if any source exists (like a drawing) of the landing gear rigging inside the model.  I know it used some sort of pully system, as the footpad doors are also opened this way, but I would like to know how the original Hero was set up.  
+
+I'm building mine as it looked in "The Derelict" episode.  I already know how the fusion core and bubble lights work, and have started planning the cockpit and figures, but instead of having to design a system to work the gear I was hoping somebody actually knew.
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #37533)
+Author    : toyroy
+Date      : Dec 5, 2005 at 5:15 AM
+────────────────────────────────────────────────────────────────────────
+
+Hey Guy,
+
+Sorry to say, I don't have the info you're looking for. But, I'm also interested. That was a cool landing gear.
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #37540)
+Author    : BrundelFly
+Date      : Dec 5, 2005 at 6:25 AM
+────────────────────────────────────────────────────────────────────────
+
+PM sent.
+
+I have what you need.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #37677)
+Author    : y3a
+Date      : Dec 5, 2005 at 5:51 PM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by BrundelFly@Dec 5 2005, 09:25 AM
+
+PM sent.
+
+I have what you need.
+
+[snapback]1128894[/snapback]​
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #39551)
+Author    : Jupiter-2
+Date      : Dec 13, 2005 at 9:15 AM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by BrundelFly@Dec 5 2005, 02:25 PM
+
+PM sent.
+
+I have what you need.
+
+[snapback]1128894[/snapback]​
+
+Click to expand...
+
+IF you're handing them out ...  :confused 
+
+ :love
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #39736)
+Author    : y3a
+Date      : Dec 14, 2005 at 4:56 AM
+────────────────────────────────────────────────────────────────────────
+
+Just HAVING the legs and footpads is one thing, but the mechanics of sliding the footpad doors open, and then dropping the gearlegs into position and them being able to support the saucer when it's lowered to the ground is another.
+
+My test model, a 2 foot Lunar Models Jupiter 2 can't quite support itself with the current RC battery.  When I add the 2000mAh battery, it should, since for that model the servos actually hold the model up.
+
+I am planning for a diferent system for the 4 foot job.  The footpad doors will work almost like the original Hero, but the gear legs themselves, I may try something based on the SFM model.  
+
+It's a shame that the originals were gutted and used for SCENERY in "City Beneath the Sea"
+
+and in the mean time some of the parts walked, and the guys that built and rigged it were gone too.
+
+Nice to see YOU here Jupiter 2.
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #39872)
+Author    : toyroy
+Date      : Dec 14, 2005 at 4:40 PM
+────────────────────────────────────────────────────────────────────────
+
+With respect to the problem of the deployed gear holding up, you might consider using a single-thread worm and gear. They are very commonly used in electric train drives, especially in the smaller scales. You'll note that the wheels cannot be turned by hand, yet they run very smoothly, under power.
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #39877)
+Author    : micdavis
+Date      : Dec 14, 2005 at 5:02 PM
+────────────────────────────────────────────────────────────────────────
+
+The day the guys at Icons received the four foot model I was there and figured out how to lower the gear for them, but I sure don't remember what the gearing looked like.
+
+This is a site that sort of show it.
+
+http://www.lostintoys.com/museum/j2prop.html
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #39878)
+Author    : toyroy
+Date      : Dec 14, 2005 at 5:03 PM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by y3a@Dec 14 2005, 12:56 PM
+
+Just HAVING the legs and footpads is one thing, but the mechanics of sliding the footpad doors open, and then dropping the gearlegs into position and them being able to support the saucer when it's lowered to the ground is another.
+
+[snapback]1135544[/snapback]​
+
+Click to expand...
+
+I don't have high-enough quality video to properly study the footpad door operation. It appears to me, that the doors have two motions: they pull straight back from the hull surface, then slide laterally. How does it look to you?
+
+As for synching the operations, at this point I'm looking at using cams and followers. With the space you have, a similar rotary electric switch could be used. But, I agree: I'd love to know how it was done originally, in the hero.
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #39957)
+Author    : y3a
+Date      : Dec 15, 2005 at 4:48 AM
+────────────────────────────────────────────────────────────────────────
+
+I "Think" they used a thin chain rigged thru 9-12 pully wheels around the perimiter of the saucer. It was pulled back n forth by some sort of motor/gearbox.  The chain went under the 'cockpit'.  The pad doors are on slightly inclined sliding frames and one end of the pad door is beveled some for clearance.  I think they used a spring return to close the doors again.  You can see the pully wheels at the tip of the gear 'arm' and in the gear well, so the cable pulled them into place - probably with some sort of slack built in so the doors would open first before the gear dropped, and after they were up again.  I need to flip the image of the top of the model to verify the positions of 3 mounting spots(?) that could be for the gear as well.  If they are aligned with the gear I say we have another piece of the puzzle intact.   
+
+I have read 'somewhere' that the 3 wires supporting the model went to a control box.  This was for the gear raising & Lowering.  One support wire was ground, and teh other two were hots for different circuits.  I think the lights were supposed to be powered from large 6v batteries mounted inside, and 2 platforms inside the Hero DO suggest that.
+
+The lightshows in the model changed over the course of the show.  The first few shots show 6 lightbulbs spinning inside the fusion core, and later 1 and then 2 were burned out. The Hero used for the Pod dropping sequence seemed to have a chaser, and pictures of this fusion core are on the web for all to see.  
+
+The bubble had a common drive shaft in the early version(as seen in "The Derelict" episode) that connected the spinning lights in the core to a reflective circle of tin(?) bent into a "V" shape and lit by 6 light bulbs from well under the "Spinner".   the 3 top hatches work on the Hero but the one closest to the 'door' on the side doesn't appear to give acces to the inner workings.
+
+I hope to have more answers soon...
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #40299)
+Author    : toyroy
+Date      : Dec 16, 2005 at 8:12 AM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by y3a@Dec 15 2005, 04:48 AM
+
+I "Think" they used a thin chain rigged thru 9-12 pully wheels around the perimiter of the saucer. It was pulled back n forth by some sort of motor/gearbox.Â  The chain went under the 'cockpit'.Â  The pad doors are on slightly inclined sliding frames and one end of the pad door is beveled some for clearance.Â  I think they used a spring return to close the doors again.Â  You can see the pully wheels at the tip of the gear 'arm' and in the gear well, so the cable pulled them into place - probably with some sort of slack built in so the doors would open first before the gear dropped, and after they were up again...
+[snapback]1136353[/snapback]​
+
+Click to expand...
+
+Firstly, thank you very much, for sharing this.
+
+From what you have described, this is how I figure the landing gear worked: the pad door springs were set to open the doors, and there were return springs to retract the gear legs. This way, deploying or retracting, there would be tension on the gear leg chain in one direction. 
+
+From the retracted position, the closing tension would first be let go, and the doors would open. Then, as the tension shifts, the gear legs would be pulled down, until a stop is hit. The cable and drive gears would lock the gear down.
+
+From the deployed position, as opening tension is relaxed, the gear legs retract themselves first, then the tension shifts, and the doors are pulled shut.  
+
+This is just a hypothesis, of course.
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #40305)
+Author    : toyroy
+Date      : Dec 16, 2005 at 8:39 AM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by y3a@Dec 15 2005, 04:48 AM
+
+The pad doors are on slightly inclined sliding frames and one end of the pad door is beveled some for clearance. 
+[snapback]1136353[/snapback]​
+
+Click to expand...
+
+From your statement, and the Azarian photo, it sounds like the doors simply slid open and closed. If you would, please describe more precisely where the clearance bevel is.
+
+Also, when the doors are fully closed, are they flush with the hull surface?
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #40309)
+Author    : Jet Beetle
+Date      : Dec 16, 2005 at 8:50 AM
+────────────────────────────────────────────────────────────────────────
+
+any pics of the 4footer -- I'd love to see what one looks like.
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #40312)
+Author    : Jupiter-2
+Date      : Dec 16, 2005 at 8:55 AM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by toyroy+Dec 16 2005, 04:39 PM--><div class='quotetop'>QUOTE(toyroy @ Dec 16 2005, 04:39 PM)</div>
+
+			<!--QuoteBegin-y3a
+		
+
+Click to expand...
+
+			@Dec 15 2005, 04:48 AM
+
+The pad doors are on slightly inclined sliding frames and one end of the pad door is beveled some for clearance. 
+[snapback]1136353[/snapback]​
+
+Click to expand...
+
+From your statement, and the Azarian photo, it sounds like the doors simply slid open and closed. If you would, please describe more precisely where the clearance bevel is.
+
+Also, when the doors are fully closed, are they flush with the hull surface?
+
+[snapback]1137320[/snapback]​
+[/b]
+		
+
+Click to expand...
+
+Personally , I am very impressed that you can extract all these intricate details just from old photographs and video.  :eek 
+
+I'd love to be able to see your video analysis and renderings in person to see how you do it.  :confused 
+
+I find it most fascinating.  :thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #40349)
+Author    : Jupiter-2
+Date      : Dec 16, 2005 at 10:49 AM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by toyroy+Dec 16 2005, 04:12 PM--><div class='quotetop'>QUOTE(toyroy @ Dec 16 2005, 04:12 PM)</div>
+
+			<!--QuoteBegin-y3a
+		
+
+Click to expand...
+
+			@Dec 15 2005, 04:48 AM
+
+I "Think" they used a thin chain rigged thru 9-12 pully wheels around the perimiter of the saucer. It was pulled back n forth by some sort of motor/gearbox.Â  The chain went under the 'cockpit'.Â  The pad doors are on slightly inclined sliding frames and one end of the pad door is beveled some for clearance.Â  I think they used a spring return to close the doors again.Â  You can see the pully wheels at the tip of the gear 'arm' and in the gear well, so the cable pulled them into place - probably with some sort of slack built in so the doors would open first before the gear dropped, and after they were up again...
+[snapback]1136353[/snapback]​
+
+Click to expand...
+
+Firstly, thank you very much, for sharing this.
+
+From what you have described, this is how I figure the landing gear worked: the pad door springs were set to open the doors, and there were return springs to retract the gear legs. This way, deploying or retracting, there would be tension on the gear leg chain in one direction. 
+
+From the retracted position, the closing tension would first be let go, and the doors would open. Then, as the tension shifts, the gear legs would be pulled down, until a stop is hit. The cable and drive gears would lock the gear down.
+
+From the deployed position, as opening tension is relaxed, the gear legs retract themselves first, then the tension shifts, and the doors are pulled shut.  
+
+This is just a hypothesis, of course.
+
+[snapback]1137306[/snapback]​
+[/b]
+		
+
+Click to expand...
+
+Here is a glimpse of the foot pad door , slide rail and pulley that operated the rear landing gear :
+
+[IMAGE: rearlegfootpaddoortrackandpulleyglimpse.jpg]
+
+Does this help?
+
+What can you decipher from this?
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #40363)
+Author    : toyroy
+Date      : Dec 16, 2005 at 11:34 AM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by Jet Beetle@Dec 16 2005, 08:50 AM
+
+any pics of the 4footer -- I'd love to see what one looks like.
+
+[snapback]1137327[/snapback]​
+
+Click to expand...
+
+Try the link in post #8 above, and also Mike's Jup2.com site.
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #40364)
+Author    : y3a
+Date      : Dec 16, 2005 at 11:38 AM
+────────────────────────────────────────────────────────────────────────
+
+I have extracted the video file from a copy of the Jupiter 2 Autopsy, and used a "Sharpen" filter on it using Apples Final Cut application.  The more I look at it The more the door HAS to be spring loaded to close.  The angle of the ramp make it need a bevel on the door side closest to the ramp.  either that or the initial tug on the cable pulld the door up as well.  perhaps the ramps used to pivot?
+
+The legs were pulled by cable into the down position, so they used a spring for the return.  I hope to work on my 5 layered Photoshop thing showing positions and all and side illustrations of the disimilar gear well sides etc.
+
+I thought the Azarian J2 arrived without ANY legs, an oversized bubble, and lots of little holes all over the top.
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #40368)
+Author    : toyroy
+Date      : Dec 16, 2005 at 11:57 AM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by Jupiter-2+Dec 16 2005, 08:55 AM--><div class='quotetop'>QUOTE(Jupiter-2 @ Dec 16 2005, 08:55 AM)</div>
+
+			Originally posted by toyroy@Dec 16 2005, 04:39 PM
+
+<!--QuoteBegin-y3a
+
+Click to expand...
+
+Click to expand...
+
+@Dec 15 2005, 04:48 AM
+
+The pad doors are on slightly inclined sliding frames and one end of the pad door is beveled some for clearance. 
+[snapback]1136353[/snapback]​
+
+Click to expand...
+
+From your statement, and the Azarian photo, it sounds like the doors simply slid open and closed. If you would, please describe more precisely where the clearance bevel is.
+
+Also, when the doors are fully closed, are they flush with the hull surface?
+
+[snapback]1137320[/snapback]​
+
+Click to expand...
+
+Personally , I am very impressed that you can extract all these intricate details just from old photographs and video.  :eek 
+
+I'd love to be able to see your video analysis and renderings in person to see how you do it.  :confused 
+
+I find it most fascinating.  :thumbsup  
+
+[snapback]1137334[/snapback]​
+[/b]
+		
+
+Click to expand...
+
+Hi Mike,
+
+Are you talking to me, or Y3a?
+
+Thanks so much, for all the great Jupiter 2 material on your site, BTW.
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #40370)
+Author    : Jupiter-2
+Date      : Dec 16, 2005 at 12:03 PM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by y3a@Dec 16 2005, 07:38 PM
+
+I have extracted the video file from a copy of the Jupiter 2 Autopsy, and used a "Sharpen" filter on it using Apples Final Cut application.Â  The more I look at it The more the door HAS to be spring loaded to close.Â  The angle of the ramp make it need a bevel on the door side closest to the ramp.Â  either that or the initial tug on the cable pulld the door up as well.Â  perhaps the ramps used to pivot?
+
+Click to expand...
+
+Cool software toys. 
+
+Originally posted by y3a+--><div class='quotetop'>QUOTE(y3a)</div>
+
+			The legs were pulled by cable into the down position, so they used a spring for the return.[/b]
+		
+
+Click to expand...
+
+pulled DOWN?  Do you mean by interior cables or  by exterior wire/cable?
+
+Originally posted by y3a@
+
+I hope to work on my 5 layered Photoshop thing showing positions and all and side illustrations of the disimilar gear well sides etc.
+
+Click to expand...
+
+Ya , I hope  you do too Y .   
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+
+<!--QuoteBegin-y3a
+
+I thought the Azarian J2 arrived without ANY legs, an oversized bubble, and lots of little holes all over the top.
+
+[snapback]1137458[/snapback]​
+
+Click to expand...
+
+So did I ... and all photos of the Hero at Icons (at least of what I have seen) show the Hero legless. Mike (micdav that posted earlier about being at Icons ) should be able to answer this one for us ... hint hint  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+  I cannot decipher if Azarian had 1 reproduction leg or three . Greenwood mentions that landing gear would need to be fabricated , during the restoration process, the one leg on the museum link is an obvious fabrication and not original .. whether that was one of Greenwoods and if it was 1 of 3 I don't know.
+
+It's pretty moot now since Azarian has since purchased at least TWO of the original landing gear , not sure if he has the third or not ...
+
+The bubble , original one that is , was obviously lost during the City Beneath The Sea Massacre and like the leg(s) inferior fabrication in it's place.
+
+While were at it , the fusion core on it at Icons was a fabricated one too. Not sure if Azarian purchased the original core or not when he purchased the landing gear.... actually , no he did not  - because it sits right now at the bottom of  Space Needle.
+
+All this stuff is why he doesn't permit me to post images from link in Post #8 on Jup2.com .
+
+Not sure to what you are refering to when you say "lots of little holes all over the top" ... ?
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #40373)
+Author    : toyroy
+Date      : Dec 16, 2005 at 12:09 PM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by y3a@Dec 16 2005, 11:38 AM
+
+The more I look at it The more the door HAS to be spring loaded to close.Â  
+[snapback]1137458[/snapback]​
+
+Click to expand...
+
+You may be right, but then the doors would tend to close before, or during, the gear retraction. What would hold them open?
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #40375)
+Author    : Jupiter-2
+Date      : Dec 16, 2005 at 12:11 PM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by toyroy@Dec 16 2005, 07:57 PM
+
+Hi Mike,
+
+Are you talking to me, or Y3a?
+
+Thanks so much, for all the great Jupiter 2 material on your site, BTW.
+
+[snapback]1137474[/snapback]​
+
+Click to expand...
+
+ Thanks. I'm talking to you , Y , everyone and anyone.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #40376)
+Author    : Jupiter-2
+Date      : Dec 16, 2005 at 12:16 PM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by toyroy+Dec 16 2005, 08:09 PM--><div class='quotetop'>QUOTE(toyroy @ Dec 16 2005, 08:09 PM)</div>
+
+			<!--QuoteBegin-y3a
+		
+
+Click to expand...
+
+			@Dec 16 2005, 11:38 AM
+
+The more I look at it The more the door HAS to be spring loaded to close.Â  
+[snapback]1137458[/snapback]​
+
+Click to expand...
+
+You may be right, but then the doors would tend to close before, or during, the gear retraction. What would hold them open?
+
+[snapback]1137482[/snapback]​
+[/b]
+		
+
+Click to expand...
+
+I imagine the easing of the tension on the pully cable would allow the springs tension to close the footpad door when so desired.
+
+But we can wait and see what the "Official" word is from Y .  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+  lol
+
+J/K
+
+But that's my guess.
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #40389)
+Author    : toyroy
+Date      : Dec 16, 2005 at 1:12 PM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by Jupiter-2+Dec 16 2005, 12:16 PM--><div class='quotetop'>QUOTE(Jupiter-2 @ Dec 16 2005, 12:16 PM)</div>
+
+			Originally posted by toyroy@Dec 16 2005, 08:09 PM
+
+<!--QuoteBegin-y3a
+
+Click to expand...
+
+Click to expand...
+
+@Dec 16 2005, 11:38 AM
+
+The more I look at it The more the door HAS to be spring loaded to close.Â  
+[snapback]1137458[/snapback]​
+
+Click to expand...
+
+You may be right, but then the doors would tend to close before, or during, the gear retraction. What would hold them open?
+
+[snapback]1137482[/snapback]​
+
+Click to expand...
+
+I imagine the easing of the tension on the pully cable would allow the springs tension to close the footpad door when so desired.
+
+But we can wait and see what the "Official" word is from Y .  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+  lol
+
+J/K
+
+But that's my guess.
+
+[snapback]1137489[/snapback]​
+[/b]
+		
+
+Click to expand...
+
+Would you please indicate what you mean, by "J/K"? Sorry, for the stupid question.
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #40390)
+Author    : Jupiter-2
+Date      : Dec 16, 2005 at 1:18 PM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by toyroy@Dec 16 2005, 04:12 PM
+
+Would you please indicate what you mean, by "J/K"? Sorry, for the stupid question.
+
+[snapback]1137526[/snapback]​
+
+Click to expand...
+
+J/K means ... Just Kidding  :lol
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #40413)
+Author    : toyroy
+Date      : Dec 16, 2005 at 3:35 PM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by Jupiter-2+Dec 16 2005, 01:18 PM--><div class='quotetop'>QUOTE(Jupiter-2 @ Dec 16 2005, 01:18 PM)</div>
+
+			<!--QuoteBegin-toyroy
+		
+
+Click to expand...
+
+			@Dec 16 2005, 04:12 PM
+
+Would you please indicate what you mean, by "J/K"? Sorry, for the stupid question.
+
+[snapback]1137526[/snapback]​
+
+Click to expand...
+
+J/K means ... Just Kidding  :lol 
+
+[snapback]1137530[/snapback]​
+[/b]
+		
+
+Click to expand...
+
+Thank you. Me soooo stupid.... :lol
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #40438)
+Author    : Jupiter-2
+Date      : Dec 16, 2005 at 4:45 PM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by toyroy@Dec 16 2005, 04:12 PM
+
+Thank you. Me soooo stupid.... :lol
+
+[snapback]1137609[/snapback]​
+
+Click to expand...
+
+np  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+
+Ummm... that's short for "no problem".  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #40457)
+Author    : y3a
+Date      : Dec 16, 2005 at 5:57 PM
+────────────────────────────────────────────────────────────────────────
+
+OK.  The chain is pulled around the inside of the saucer, and pulls the door and leg cables at the same time.  The leg cables have some springloaded slack in them so the doors open first.  The chain  keeps the doors open because they have a spring to add slack after they are open - as if the spring is hooked to the back of the door and to its cable which in turn goes to the chain.  after the doors are pulled open, the leg cables pull the legs into down position, and when they get al the way down, a switch stops the chain mechanics.  The SPFX guy waits til the gear needs to go up to reverse polarity, or they could simply let a DC motor stall, reversing polarity for the up movement, where the  return springs let the legs go up first, and when the cable is released enough the doors would slide shut, helped by a spring used to close the doors.  The 3 springs would all be of different strenghts and length.   I wonder if the ram had a guide in the gear well, or was attached to the points overhead of the wells??
+────────────────────────────────────────────────────────────────────────
+Post #28  (forum post #40482)
+Author    : toyroy
+Date      : Dec 16, 2005 at 8:27 PM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by y3a@Dec 16 2005, 05:57 PM
+
+I wonder if the ram had a guide in the gear well, or was attached to the points overhead of the wells??
+[snapback]1137717[/snapback]​
+
+Click to expand...
+
+I gather by 'ram', you are referring to what I think of as the shock strut. 
+
+Again, my only information comes from videotape of the show. It now appears to me, that the angle of the strut with respect to vertical is greater as the gear leg retracts. As I project the strut centerline inward from two views at opposite end's of the strut's motion, they meet at a point within the upper deck. The only way I can see the strut motion being the same, by being constrained at some point within the gear well, is through the use of some sort of swing linkage.
+────────────────────────────────────────────────────────────────────────
+Post #29  (forum post #40537)
+Author    : toyroy
+Date      : Dec 17, 2005 at 6:48 AM
+────────────────────────────────────────────────────────────────────────
+
+Here is a glimpse of the foot pad door , slide rail and pulley that operated the rear landing gear :
+
+[IMAGE: rearlegfootpaddoortrackandpulleyglimpse.jpg]
+
+Does this help?
+
+What can you decipher from this?
+
+[snapback]1137416[/snapback]​
+[/quote]
+
+Mike,
+
+I'm having problems making things out in this picture, I'm afraid. It appears one finger is holding up a rod, to which the door is attached. The door appears to have a slot in it, to the left of the rod. I see the inclined door track, but no pulley. I do see a disconnected bell crank, though.
+
+Is this assembly shown in-place, inside the hull? Also, I'm curious about the purpose of the '7' shaped piece. Is this to hold the pad in position, so as not to interfere with the door, to electrically trigger something, or what?
+────────────────────────────────────────────────────────────────────────
+Post #30  (forum post #40550)
+Author    : y3a
+Date      : Dec 17, 2005 at 8:19 AM
+────────────────────────────────────────────────────────────────────────
+
+OK heres the composited image...
+
+the top is from the Autopsy Video and was flipped to match the rest of the image as seen from the top.
+
+The top sides is from MY HERO cast.
+
+The bottom is also MY HERO cast, but the image was flipped to match the positions as seen from above.
+
+I had to tamper with each layers transparency to get it to look THIS GOOD.  Jeez.
+
+[IMAGE: J2correctd-.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #31  (forum post #41157)
+Author    : toyroy
+Date      : Dec 20, 2005 at 9:36 AM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by y3a@Dec 16 2005, 05:57 PM
+
+OK.Â  The chain is pulled around the inside of the saucer, and pulls the door and leg cables at the same time.Â  The leg cables have some springloaded slack in them so the doors open first.Â  The chainÂ  keeps the doors open because they have a spring to add slack after they are open - as if the spring is hooked to the back of the door and to its cable which in turn goes to the chain.Â  after the doors are pulled open, the leg cables pull the legs into down position, and when they get al the way down, a switch stops the chain mechanics.Â  The SPFX guy waits til the gear needs to go up to reverse polarity, or they could simply let a DC motor stall, reversing polarity for the up movement, where theÂ  return springs let the legs go up first, and when the cable is released enough the doors would slide shut, helped by a spring used to close the doors.Â  The 3 springs would all be of different strenghts and length.
+[snapback]1137717[/snapback]​
+
+Click to expand...
+
+Many thanks, again. You really solved the biggest part of the mystery, here.
+
+The use of the springs is interesting. It would provide a subtle force on the sliding doors, insuring a smooth motion- as long as the mechanism is relatively low-friction. 
+
+As for the door motion, I'd still like to know whether there is any in/out opening/closing motion, in addition to the sideways sliding. And, if so, specifically how it is achieved.
+────────────────────────────────────────────────────────────────────────
+Post #32  (forum post #41221)
+Author    : Jupiter-2
+Date      : Dec 20, 2005 at 12:53 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks for the imagery Y  - pretty cool.  :thumbsup 
+
+I got a question though ... All the flipping around and rotating and 3 level rendering ... I've somewhat lost my bearings here ...
+
+Granted the Hero did not have a main hatch ... the pod bay doors should be on the same side of the ship as the main hatch , you can see Jay pointing to it's location on the Hero here:
+
+[IMAGE: j2ai0021.jpg]
+
+[IMAGE: j2ai0022.jpg]
+
+But looking at your layered photo the pod bay is on the opposite side of the ship from the main hatch.
+
+What I am wondering if this is just my confusion of grasping your layering or if on your hull the pod doors are indeed on the opposite side of the ship from the main hatch?
+────────────────────────────────────────────────────────────────────────
+Post #33  (forum post #41225)
+Author    : Jupiter-2
+Date      : Dec 20, 2005 at 1:06 PM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by y3a@Dec 16 2005, 05:57 PM
+
+ The leg cables have some springloaded slack in them so the doors open first.Â  
+
+Click to expand...
+
+I always  ask you this question Y , forgive me for asking it again...  :rolleyes 
+
+You said the leg cables have some spring loaded slack in them ... matter of factly.
+
+What I am wondering is IF this is something Jay (or anyone else) told you they observed from actually viewing the Hero and observing "springs" OR is this your conclussion based on your personal observations and renderings theories , etc... ?
+
+I'm starting to feel like Hooper here from JAWS ... but . I'm not saying you are wrong , and I think you are probably correct ... but can you really speak so "factually" about it to present it as "This is how it was done." ?  :angel
+────────────────────────────────────────────────────────────────────────
+Post #34  (forum post #41231)
+Author    : y3a
+Date      : Dec 20, 2005 at 1:17 PM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by Jupiter-2+Dec 20 2005, 04:06 PM--><div class='quotetop'>QUOTE(Jupiter-2 @ Dec 20 2005, 04:06 PM)</div>
+
+			<!--QuoteBegin-y3a
+		
+
+Click to expand...
+
+			@Dec 16 2005, 05:57 PM
+
+ The leg cables have some springloaded slack in them so the doors open first.Â  
+
+Click to expand...
+
+I always  ask you this question Y , forgive me for asking it again...  :rolleyes 
+
+You said the leg cables have some spring loaded slack in them ... matter of factly.
+
+What I am wondering is IF this is something Jay (or anyone else) told you they observed from actually viewing the Hero and observing "springs" OR is this your conclussion based on your personal observations and renderings theories , etc... ?
+
+I'm starting to feel like Hooper here from JAWS ... but . I'm not saying you are wrong , and I think you are probably correct ... but can you really speak so "factually" about it to present it as "This is how it was done." ?  :angel 
+
+[snapback]1140209[/snapback]​
+[/b]
+		
+
+Click to expand...
+
+Well..........  you see pulley wheels on the end of the legs and the "A" frame thing across the gear wells.  they line up and can only be used to lower the gear, otherwise the "A" frame wouldn't need to be there.  If a chain was used (no slack in a chain) then the fact that the doors open first then you had to have some delay in the mechanical system.  Slack in the cable that pulls the gear down is the only place to do it.  I think it was springs as it's most simple.  A week spring could taake up the slack so the cable would stilll set into the groove of the pulley wheel seems logical.  There is NOTHING in the Hero on the tape so all is speculation, but what IS known from the legs and all is how it most likely worked.  The door ramps don't seem to pivot, so either they had a bevel on the doors themselves, or the angle of the cable pulled the door away from the hole first, but then HOW did it happen when closing?
+────────────────────────────────────────────────────────────────────────
+Post #35  (forum post #41312)
+Author    : toyroy
+Date      : Dec 20, 2005 at 6:55 PM
+────────────────────────────────────────────────────────────────────────
+
+[snapback]1140209[/snapback]​
+A week spring could taake up the slack so the cable would stilll set into the groove of the pulley wheel seems logical. 
+[snapback]1140219[/snapback]​
+
+Um, if the spring in the leg deployment line was weak, how could the gear hold up the model's weight? Not that it would have to, with the suspension lines holding the ship.
+
+If that was the case, how many four-footer owners would want such a gear?
+────────────────────────────────────────────────────────────────────────
+Post #36  (forum post #41315)
+Author    : toyroy
+Date      : Dec 20, 2005 at 7:21 PM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by Jupiter-2@Dec 20 2005, 12:53 PM
+
+[IMAGE: j2ai0021.jpg]
+
+[IMAGE: j2ai0022.jpg]
+
+[snapback]1140202[/snapback]​
+
+Click to expand...
+
+Was the hero originally built with it's hull in two parts? If so, how were the two halves held together?
+
+Also, I notice the pad doors recessed in this picture. But, they don't match the hull color.
+────────────────────────────────────────────────────────────────────────
+Post #37  (forum post #41384)
+Author    : y3a
+Date      : Dec 21, 2005 at 4:20 AM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by toyroy@Dec 20 2005, 09:55 PM
+
+[snapback]1140209[/snapback]​
+A week spring could taake up the slack so the cable would stilll set into the groove of the pulley wheel seems logical. 
+[snapback]1140219[/snapback]​
+
+Um, if the spring in the leg deployment line was weak, how could the gear hold up the model's weight? Not that it would have to, with the suspension lines holding the ship.
+
+If that was the case, how many four-footer owners would want such a gear?
+
+[snapback]1140448[/snapback]​
+
+Click to expand...
+
+The weak spring is only to hold some of the cable slack, after the cable and spring become pulled enough to pull the spring out to the length of the slack(no more slack) then the leg would be pulled into the down position.  The strength of the cable, and the pulley arrangement would hold the model up...
+────────────────────────────────────────────────────────────────────────
+Post #38  (forum post #41428)
+Author    : y3a
+Date      : Dec 21, 2005 at 8:31 AM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by Jupiter-2@Dec 20 2005, 03:53 PM
+
+Thanks for the imagery YÂ  - pretty cool.Â  :thumbsup 
+
+I got a question though ... All the flipping around and rotating and 3 level rendering ... I've somewhat lost my bearings here ...
+
+Granted the Hero did not have a main hatch ... the pod bay doors should be on the same side of the ship as the main hatch , you can see Jay pointing to it's location on the Hero here:
+
+[IMAGE: j2ai0021.jpg]
+
+[IMAGE: j2ai0022.jpg]
+
+But looking at your layered photo the pod bay is on the opposite side of the ship from the main hatch.
+
+What I am wondering if this is just my confusion of grasping your layering or if on your hull the pod doors are indeed on the opposite side of the ship from the main hatch?
+
+[snapback]1140202[/snapback]​
+
+Click to expand...
+
+OK YOU'RE RIGHT...
+
+Stupid me... I flipped it TWICE in the process.
+
+FIXINATED...
+
+BTW - The cable to the gear leg...
+
+Picture this.  A 3 foot long steel cable with one end of a weak spring crimped onto the line 1 foot in.  the spring is 2 inches long compressed.  Seven inches of cable are measured off, and a second crimp, with the other end of the spring is attached.  You pull the spring out to the 7" spot, and no more springy, because cable is now tight.  The spring to pull the gear back up doesn't need to be THAT strong.
+────────────────────────────────────────────────────────────────────────
+Post #39  (forum post #41493)
+Author    : toyroy
+Date      : Dec 21, 2005 at 1:32 PM
+────────────────────────────────────────────────────────────────────────
+
+The door ramps don't seem to pivot, so either they had a bevel on the doors themselves, or the angle of the cable pulled the door away from the hole first, but then HOW did it happen when closing?
+
+[snapback]1140219[/snapback]​
+
+The in/out motion, if that's what it is, seems very smooth. Is the outer, visible part of the door backed by anything? I would not imagine the visible surface would be subject to any contact with it's motion gear.
+────────────────────────────────────────────────────────────────────────
+Post #40  (forum post #41598)
+Author    : y3a
+Date      : Dec 21, 2005 at 6:19 PM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by toyroy@Dec 21 2005, 04:32 PM
+
+The door ramps don't seem to pivot, so either they had a bevel on the doors themselves, or the angle of the cable pulled the door away from the hole first, but then HOW did it happen when closing?
+
+[snapback]1140219[/snapback]​
+
+The in/out motion, if that's what it is, seems very smooth. Is the outer, visible part of the door backed by anything? I would not imagine the visible surface would be subject to any contact with it's motion gear.
+
+[snapback]1140952[/snapback]​
+
+Click to expand...
+
+OK... Here's what I think I saw on the J2 Autopsy DVD...
+
+The doors are actually one that you see from the outside attached by a single pipe/bar/point to another that rides up n down the ramp.  The bar has an end sticking out of the upper door like a large bolt.  IF the cable it attached to this, and the other end is at a high enough angle, it would lift the door up before moving it out of the way.  In reverse, the door would just fall back into position.
+
+I've watched the J2"A" tape a bunch of times.     Also the "T" thing is one side of the pulley bracket that holds the second pulley wheel.  The cable is attached to the "A" goes thru the pulley wheel on the leg, and back to the "A" frames pulley wheel, and then to the main chain.  (assuming the chain system is what was used)
+────────────────────────────────────────────────────────────────────────
+Post #41  (forum post #41669)
+Author    : toyroy
+Date      : Dec 22, 2005 at 2:23 AM
+────────────────────────────────────────────────────────────────────────
+
+OK... Here's what I think I saw on the J2 Autopsy DVD...
+
+The doors are actually one that you see from the outside attached by a single pipe/bar/point to another that rides up n down the ramp.  The bar has an end sticking out of the upper door like a large bolt.  IF the cable it attached to this, and the other end is at a high enough angle, it would lift the door up before moving it out of the way.  In reverse, the door would just fall back into position.
+
+[snapback]1141158[/snapback]​
+
+That would seem to suggest that the cable runs right across the path of the retracting/deploying landing gear pad.
+────────────────────────────────────────────────────────────────────────
+Post #42  (forum post #41683)
+Author    : y3a
+Date      : Dec 22, 2005 at 4:23 AM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by toyroy@Dec 22 2005, 05:23 AM
+
+OK... Here's what I think I saw on the J2 Autopsy DVD...
+
+The doors are actually one that you see from the outside attached by a single pipe/bar/point to another that rides up n down the ramp.Â  The bar has an end sticking out of the upper door like a large bolt.Â  IF the cable it attached to this, and the other end is at a high enough angle, it would lift the door up before moving it out of the way.Â  In reverse, the door would just fall back into position.
+
+[snapback]1141158[/snapback]​
+
+That would seem to suggest that the cable runs right across the path of the retracting/deploying landing gear pad.
+
+[snapback]1141331[/snapback]​
+
+Click to expand...
+
+No,  the angle of the cable isn't that important.  It most likely goes  toward the chain to the left as seen from above.  The return springs must be part of the ramp.  The post must be square to keep the bottom door angle correct.
+
+I'm working on a set of drarwin's to show my ideas.
+────────────────────────────────────────────────────────────────────────
+Post #43  (forum post #41703)
+Author    : Jupiter-2
+Date      : Dec 22, 2005 at 6:30 AM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by y3a@Dec 20 2005, 04:17 PM
+
+... There is NOTHING in the Hero on the tape so all is speculation, but what IS known from the legs and all is how it most likely worked.Â  ....
+
+[snapback]1140219[/snapback]​
+
+Click to expand...
+
+Sorry I come and go in a flurry here - Christmas and all leaves me little time to follow the thread consistantly.   :cry 
+
+Thanks for defining this Y , as for me personally , when things of this nature get on a roll , I like to step back a bit and  get a clear perspective on what is "Fact" and what is "Hypothesis" just because the two begin to meld together . 
+
+I do not mean to say any such idea , theory or fact is wrong , or even be questioning it ... all I am doing when I ask is try to keep clear what is 100% actual Fact and what is not.  :angel 
+
+PLUS with the earlier post by Brundlefly at the begining of this thread ,saying that he had the information that you needed , in response to your inquiry on anyone with knowledge of how the insides of the Hero J2 worked .... well I didn't know if you had NEW information that substantiated your  descriptions.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+
+Thanks too for putting the pod doors on the correct side ... after I posted that I had a feeling you told me sometime earlier that your hull DID have bay doors (scribed only) and that you were going to fill them in anways .. I just couldn't remember if you said it was on the correct side (by correct I mean on the same side as Jein's J2 which had the working pod bay doors - which was the same side as the main hatch) or on the other side as suggested by the upper deck interior set location of the space pod bay.
+
+Could you clear that one up for me please? Are your hull's pod doors on the hatch side or the other? 
+
+Thanks.  :thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #44  (forum post #41713)
+Author    : Jupiter-2
+Date      : Dec 22, 2005 at 6:43 AM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by y3a+Dec 22 2005, 07:23 AM--><div class='quotetop'>QUOTE(y3a @ Dec 22 2005, 07:23 AM)</div>
+
+			<!--QuoteBegin-toyroy
+		
+
+Click to expand...
+
+			@Dec 22 2005, 05:23 AM
+
+OK... Here's what I think I saw on the J2 Autopsy DVD...
+
+The doors are actually one that you see from the outside attached by a single pipe/bar/point to another that rides up n down the ramp.Â  The bar has an end sticking out of the upper door like a large bolt.Â  IF the cable it attached to this, and the other end is at a high enough angle, it would lift the door up before moving it out of the way.Â  In reverse, the door would just fall back into position.
+
+[snapback]1141158[/snapback]​
+
+That would seem to suggest that the cable runs right across the path of the retracting/deploying landing gear pad.
+
+[snapback]1141331[/snapback]​
+
+Click to expand...
+
+(From Y3a's earlier post) .... BTW - The cable to the gear leg...
+
+Picture this.  .....
+
+(And now from Y3a's last post)No,  the angle of the cable isn't that important.  It most likely goes  toward the chain to the left as seen from above.  The return springs must be part of the ramp.  The post must be square to keep the bottom door angle correct.
+
+I'm working on a set of drarwin's to show my ideas.
+
+[snapback]1141352[/snapback]​
+[/b]
+		
+
+Click to expand...
+
+Yes , I'll confess , if it isn't already obviously apparant    :confused  I don't have enough imagination to fully envision ("picture this") all your mechanical descriptions and ALSO I really am not so mechanically inclined ... I was going to say "I hope you will make up some drawings of this stuff so that we can all (me especially) fully grasp your design ideas" - so I am very glad you offered before I had to ask.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+
+Look forward to those.
+────────────────────────────────────────────────────────────────────────
+Post #45  (forum post #41722)
+Author    : Jupiter-2
+Date      : Dec 22, 2005 at 7:15 AM
+────────────────────────────────────────────────────────────────────────
+
+Y3a : 
+
+What's the WIDTH of the scribed main hatch on your 4 foot J2?
+
+Thanks.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #46  (forum post #41725)
+Author    : Jupiter-2
+Date      : Dec 22, 2005 at 7:35 AM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by y3a+Dec 21 2005, 07:20 AM--><div class='quotetop'>QUOTE(y3a @ Dec 21 2005, 07:20 AM)</div>
+
+			<!--QuoteBegin-toyroy
+		
+
+Click to expand...
+
+			@Dec 20 2005, 09:55 PM
+
+[snapback]1140209[/snapback]​
+A week spring could taake up the slack so the cable would stilll set into the groove of the pulley wheel seems logical. 
+[snapback]1140219[/snapback]​
+
+Um, if the spring in the leg deployment line was weak, how could the gear hold up the model's weight? Not that it would have to, with the suspension lines holding the ship.
+
+If that was the case, how many four-footer owners would want such a gear?
+
+[snapback]1140448[/snapback]​
+
+Click to expand...
+
+The weak spring is only to hold some of the cable slack, after the cable and spring become pulled enough to pull the spring out to the length of the slack(no more slack) then the leg would be pulled into the down position.  The strength of the cable, and the pulley arrangement would hold the model up...
+
+[snapback]1140653[/snapback]​
+[/b]
+		
+
+Click to expand...
+
+Didn't Lydecker or someone mention in a book or interview or something  that the J2 was supported by WIRES , like a "puppet", and that the landing gear did NOT support the weight ( or even "lock" into place) of the saucer , that was done by wires?
+
+And there was even evidence of this because you could see the miniature somewhat bounce , or sag, when it landed... ?
+
+Am I imagining all that?   :unsure 
+
+Sound familiar to anyone ?
+────────────────────────────────────────────────────────────────────────
+Post #47  (forum post #41752)
+Author    : Jupiter-2
+Date      : Dec 22, 2005 at 8:24 AM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by toyroy+Dec 20 2005, 10:21 PM--><div class='quotetop'>QUOTE(toyroy @ Dec 20 2005, 10:21 PM)</div>
+
+			<!--QuoteBegin-Jupiter-2
+		
+
+Click to expand...
+
+			@Dec 20 2005, 12:53 PM
+
+[IMAGE: j2ai0021.jpg]
+
+[IMAGE: j2ai0022.jpg]
+
+[snapback]1140202[/snapback]​
+
+Click to expand...
+
+Was the hero originally built with it's hull in two parts? If so, how were the two halves held together?
+
+Also, I notice the pad doors recessed in this picture. But, they don't match the hull color.
+
+[snapback]1140462[/snapback]​
+[/b]
+		
+
+Click to expand...
+
+ That is a good question toyroy. I've asked that one before too.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+  lol
+
+I have not been able to deduct whether the top was chopped off for modifications to be done for City Beneath The Sea , or if that was how it was during the run of LIS.
+
+I have never been able to ask Greg J. personally if the pod dropper J2 also had a removable top like the Hero did , but others have told me they were almost positive that it did too.
+
+Of course that doesn't help answer whether it was for LIS or later for CBTS.
+
+We see tabs along the inside perimeter of the lower hull which the top rests on ... I am not sure if it was locked into place with screws and then puttied over or if it just floated there. If it just floated , then obviously the support wires had to be fastened to the lower portion of the hull and not the upper portion or it'd pop it's top  when off it'sl legs.
+
+I'm sure Y has more insight to all of this.
+
+Why the footpads are a different color than the hull.
+
+The J2A pics we see , it has been already partially restored by Greenwood , the cut outs had already been patched and the hull at least primed because we don't really see the patches on the exterior. When you look at the main view port  with it's crash doors in the closed position , you can see that it still retained the goldish color that they painted the prop for use in City Beneath The Sea ... 
+
+[IMAGE: j2ai0001.jpg]
+
+ 
+
+[IMAGE: j2ai0021.jpg]
+
+So that explains why the footpads are a different color than the hull at that time ... they probably primed the hull after patching the holes, but did so with the footpads and crash windows in the OPEN positions.
+────────────────────────────────────────────────────────────────────────
+Post #48  (forum post #41756)
+Author    : toyroy
+Date      : Dec 22, 2005 at 9:00 AM
+────────────────────────────────────────────────────────────────────────
+
+Didn't Lydecker or someone mention in a book or interview or something  that the J2 was supported by WIRES , like a "puppet", and that the landing gear did NOT support the weight ( or even "lock" into place) of the saucer , that was done by wires?
+
+And there was even evidence of this because you could see the miniature somewhat bounce , or sag, when it landed... ?
+
+Am I imagining all that?   :unsure 
+
+Sound familiar to anyone ?
+
+[snapback]1141458[/snapback]​
+There is a 'shock absorber' effect apparent in "The Derelict" landing. It is NOT, in the color 'circle' landing- one pad touches down first, but the leg appears locked, while the ship tilts onto the other pads. None of the legs seem to give any.  This may suggest a change, in the internal gear.
+────────────────────────────────────────────────────────────────────────
+Post #49  (forum post #41759)
+Author    : Jupiter-2
+Date      : Dec 22, 2005 at 9:08 AM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by toyroy@Dec 22 2005, 12:00 PM
+
+There is a 'shock absorber' effect apparent in "The Derelict" landing. It is NOT, in the color 'circle' landing- one pad touches down first, but the leg appears locked, while the ship tilts onto the other pads. None of the legs seem to give any.Â  This may suggest a change, in the internal gear.
+
+[snapback]1141525[/snapback]​
+
+Click to expand...
+
+Have to admit I haven't viewed the yellow circle film version in about 30 years ...   :confused 
+
+Can you tell me which season and what the episode name that scene is from?
+
+I still don't have S3 yet , I'm hoping it's from a S2 episode....  :angel
+────────────────────────────────────────────────────────────────────────
+Post #50  (forum post #41762)
+Author    : y3a
+Date      : Dec 22, 2005 at 9:23 AM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by Jupiter-2@Dec 22 2005, 10:15 AM
+
+Y3a : 
+
+What's the WIDTH of the scribed main hatch on your 4 foot J2?
+
+Thanks.Â  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+
+[snapback]1141445[/snapback]​
+
+Click to expand...
+
+4 1/4 inch wide at the top
+
+5 3/4 inch wide at the bottom
+
+9 1/8 inch long at the sides.
+────────────────────────────────────────────────────────────────────────
+Post #51  (forum post #41768)
+Author    : toyroy
+Date      : Dec 22, 2005 at 9:48 AM
+────────────────────────────────────────────────────────────────────────
+
+[snapback]1140202[/snapback]​
+
+Was the hero originally built with it's hull in two parts? If so, how were the two halves held together?
+
+Also, I notice the pad doors recessed in this picture. But, they don't match the hull color.
+
+[snapback]1140462[/snapback]​
+
+ That is a good question toyroy. I've asked that one before too.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+  lol
+
+I have not been able to deduct whether the top was chopped off for modifications to be done for City Beneath The Sea , or if that was how it was during the run of LIS.
+
+I have never been able to ask Greg J. personally if the pod dropper J2 also had a removable top like the Hero did , but others have told me they were almost positive that it did too.
+
+Of course that doesn't help answer whether it was for LIS or later for CBTS.
+
+We see tabs along the inside perimeter of the lower hull which the top rests on ... I am not sure if it was locked into place with screws and then puttied over or if it just floated there. If it just floated , then obviously the support wires had to be fastened to the lower portion of the hull and not the upper portion or it'd pop it's top  when off it'sl legs.
+
+I'm sure Y has more insight to all of this.
+
+Why the footpads are a different color than the hull.
+
+The J2A pics we see , it has been already partially restored by Greenwood , the cut outs had already been patched and the hull at least primed because we don't really see the patches on the exterior. When you look at the main view port  with it's crash doors in the closed position , you can see that it still retained the goldish color that they painted the prop for use in City Beneath The Sea ... 
+
+[IMAGE: j2ai0001.jpg]
+
+ 
+
+[IMAGE: j2ai0021.jpg]
+
+So that explains why the footpads are a different color than the hull at that time ... they probably primed the hull after patching the holes, but did so with the footpads and crash windows in the OPEN positions.
+
+[snapback]1141504[/snapback]​
+Thanks, for addressing these questions. I thought only the Jein pod-dropper was modified for CBTS, NOT the hero. What is the story? Also, did the autopsy show the hero AND the pod-dropper? 
+
+I have read that the roof part of the upper hull on the pod dropper was removed to facilitate shooting the pod launching/docking shot. I say shot, because I think one was simply the reverse of the other.
+
+It would make much more sense for the hero to have been made in halves, as it was loaded with workings which would best be easily accessed. You bet your boots, I'm building my HO model in detachable halves, for the same reason.
+────────────────────────────────────────────────────────────────────────
+Post #52  (forum post #41769)
+Author    : toyroy
+Date      : Dec 22, 2005 at 9:58 AM
+────────────────────────────────────────────────────────────────────────
+
+There is a 'shock absorber' effect apparent in "The Derelict" landing. It is NOT, in the color 'circle' landing- one pad touches down first, but the leg appears locked, while the ship tilts onto the other pads. None of the legs seem to give any.Â  This may suggest a change, in the internal gear.
+
+[snapback]1141525[/snapback]​
+
+Have to admit I haven't viewed the yellow circle film version in about 30 years ...   :confused 
+
+Can you tell me which season and what the episode name that scene is from?
+
+I still don't have S3 yet , I'm hoping it's from a S2 episode....  :angel 
+
+[snapback]1141536[/snapback]​
+I think it was first seen in "The Ghost Planet", the 3rd episode of season 2.
+────────────────────────────────────────────────────────────────────────
+Post #53  (forum post #41770)
+Author    : Jupiter-2
+Date      : Dec 22, 2005 at 10:00 AM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by y3a+Dec 22 2005, 12:23 PM--><div class='quotetop'>QUOTE(y3a @ Dec 22 2005, 12:23 PM)</div>
+
+			<!--QuoteBegin-Jupiter-2
+		
+
+Click to expand...
+
+			@Dec 22 2005, 10:15 AM
+
+Y3a : 
+
+What's the WIDTH of the scribed main hatch on your 4 foot J2?
+
+[snapback]1141445[/snapback]​
+
+Click to expand...
+
+4 1/4 inch wide at the top
+
+5 3/4 inch wide at the bottom
+
+9 1/8 inch long at the sides.
+
+[snapback]1141554[/snapback]​
+[/b]
+		
+
+Click to expand...
+
+ Thanks Y .  :thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #54  (forum post #41778)
+Author    : Jupiter-2
+Date      : Dec 22, 2005 at 10:28 AM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by toyroy+Dec 22 2005, 12:48 PM--><div class='quotetop'>QUOTE(toyroy @ Dec 22 2005, 12:48 PM)</div>
+
+			Thanks, for addressing these questions. I thought only the Jein pod-dropper was modified for CBTS, NOT the hero. What is the story? Also, did the autopsy show the hero AND the pod-dropper? [/b]
+		
+
+Click to expand...
+
+Not exactly sure of the complete story , but at least the Jein pod dropper AND the Hero were modified for CBTS. This is proven by the photos of both miniatures prior to there restoration - seen with the holes cut into their perimeter. Granted the Hero's evidence is by the patch work we see on the interior of the hull.
+
+<!--QuoteBegin-toyroy@Dec 22 2005, 12:48 PM
+
+I have read that the roof part of the upper hull on the pod dropper was removed to facilitate shooting the pod launching/docking shot. I say shot, because I think one was simply the reverse of the other.
+
+Click to expand...
+
+I think Y stated that a while back on another forum ...  I think he got that from a L.B. Abbott book on SFX ... "Wire , Tape and Rubber Band Style".
+
+Is this right Y ?? :unsure 
+
+Speaking of "Reverse" ... again I haven't watched any film  for many years other than the Derelict footage ...  I was wondering if it is possible that the times we see the ship taking off and the landing gear retracting ... that it is just footage of the landing gear deploying played backwards to appear it is being retracted? 
+
+I doubt it ... but not seeing it in so long - I gotta throw that question out there.  :rolleyes 
+
+Originally posted by toyroy@Dec 22 2005, 12:48 PM
+
+It would make much more sense for the hero to have been made in halves, as it was loaded with workings which would best be easily accessed. You bet your boots, I'm building my HO model in detachable halves, for the same reason.
+
+Click to expand...
+
+Yes , you would think that. But then wouldn't it make more sense to halve the miniature ... like all the model kits did/do ... at the point where the two hulls meet , in the middle , rather than above the main view port? At least from a molding perspective? That's how all the recasts off the restored hero are done. (Think Lunar Model version kits).
+
+So does that mean it was originally in this two halves at the seam configuration ... then seamed together and then the top cut open as we see it in the J2 Autopsy ? (Think of the three piece hull Polar Lights J2 kit).
+
+Or was it molded as a single hull and then the top cut off as we see it in the J2 Autopsy?
+
+The more you think about it , the way we see it in the J2 Autopsy is probably the way it was for LIS, providing access/maintenance to the interior of the minature plus swapping of parts/electronics when needed between the Hero and pod dropper etc...
+
+At least that's my feeling on this subject.
+
+I do not do molding , so I have no idea how difficult it would be to mold a one piece complete Jupiter 2 hull out of fiberglass.
+────────────────────────────────────────────────────────────────────────
+Post #55  (forum post #41781)
+Author    : Jupiter-2
+Date      : Dec 22, 2005 at 10:30 AM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by toyroy@Dec 22 2005, 12:58 PM
+
+I think it was first seen in "The Ghost Planet", the 3rd episode of season 2.
+
+Click to expand...
+
+Cool . 
+
+I can check that one out then.  :thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #56  (forum post #41787)
+Author    : y3a
+Date      : Dec 22, 2005 at 10:55 AM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by Jupiter-2@Dec 22 2005, 01:28 PM
+
+Speaking of "Reverse" ... again I haven't watched any filmÂ  for many years other than the Derelict footage ...Â  I was wondering if it is possible that the times we see the ship taking off and the landing gear retracting ... that it is just footage of the landing gear deploying played backwards to appear it is being retracted? 
+
+I doubt it ... but not seeing it in so long - I gotta throw that question out there.Â  :rolleyes 
+
+Yes , you would think that. But then wouldn't it make more sense to halve the miniature ... like all the model kits did/do ... at the point where the two hulls meet , in the middle , rather than above the main view port? At least from a molding perspective? That's how all the recasts off the restored hero are done. (Think Lunar Model version kits).
+
+Or was it molded as a single hull and then the top cut off as we see it in the J2 Autopsy?
+
+The more you think about it , the way we see it in the J2 Autopsy is probably the way it was for LIS, providing access/maintenance to the interior of the minature plus swapping of parts/electronics when needed between the Hero and pod dropper etc...
+
+At least that's my feeling on this subject.
+
+Click to expand...
+
+As far as the forward/backwards gear shots....I thought that too, but a few 3rd year shots show smoke/dust blowing and its all forward motion with retracting gear.  Look at the Lost in Space Forever SPFX stuff on the DVD.  Whats more amazing is how fast tehy had to yank the J2 Hero up and out of frame at 180 frames per second, or even 116 FPS.  The SPFX clips start at normal speed with fusion core spinning really fast, then slowing down as the light levels dimmed because teh camera was taking frames faster.  I stripped teh SPFX stuff off the LIS Forever DVD and altered the speeds of the various clips to 'real-time' to look at the gear and fusion core speeds.
+
+Due to liscensing I can't give any copies out though.
+────────────────────────────────────────────────────────────────────────
+Post #57  (forum post #42193)
+Author    : toyroy
+Date      : Dec 23, 2005 at 6:09 PM
+────────────────────────────────────────────────────────────────────────
+
+Speaking of "Reverse" ... again I haven't watched any filmÂ  for many years other than the Derelict footage ...Â  I was wondering if it is possible that the times we see the ship taking off and the landing gear retracting ... that it is just footage of the landing gear deploying played backwards to appear it is being retracted? 
+
+I doubt it ... but not seeing it in so long - I gotta throw that question out there.Â  :rolleyes 
+
+As far as the forward/backwards gear shots....I thought that too, but a few 3rd year shots show smoke/dust blowing and its all forward motion with retracting gear.  Look at the Lost in Space Forever SPFX stuff on the DVD.  Whats more amazing is how fast tehy had to yank the J2 Hero up and out of frame at 180 frames per second, or even 116 FPS.  The SPFX clips start at normal speed with fusion core spinning really fast, then slowing down as the light levels dimmed because teh camera was taking frames faster.  I stripped teh SPFX stuff off the LIS Forever DVD and altered the speeds of the various clips to 'real-time' to look at the gear and fusion core speeds.
+
+Due to liscensing I can't give any copies out though.
+
+[snapback]1141635[/snapback]​
+
+Yes, for instance, in "Junkyard in Space", the last series episode, the Jupiter 2 soft-lands with the gear up, in daylight. Later, the ship lifts off, again in daylight, showing the gear retracting.
+
+I have always shaken my head about all the gear-retracting lift-offs, following gear-up and crash landings. Granted, it makes for a more interesting visual. I'm guessing that the practice started by mistake, by the SPFX guys reading an order wrong- probably in the case of "Blast off into Space". Allen probably figured it was too expensive to redo correctly, and it looked good, and thus the gear-retracting lift-off became conventionalized.
+
+There were some other odd things about the "Blast off into Space" lift-off. Clearly, the gear jammed while retracting. In-flight shots show some of the rotating fusion core lights out. Also, in one in-flight shot, the fusion core can be seen dangling by a thread, with only one stationary light burning.
+────────────────────────────────────────────────────────────────────────
+Post #58  (forum post #42268)
+Author    : y3a
+Date      : Dec 24, 2005 at 5:34 AM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by toyroy@Dec 23 2005, 09:09 PM
+
+Speaking of "Reverse" ... again I haven't watched any filmÂ  for many years other than the Derelict footage ...Â  I was wondering if it is possible that the times we see the ship taking off and the landing gear retracting ... 
+
+Yes, for instance, in "Junkyard in Space", the last series episode, the Jupiter 2 soft-lands with the gear up, in daylight. Later, the ship lifts off, again in daylight, showing the gear retracting.
+
+I have always shaken my head about all the gear-retracting lift-offs, following gear-up and crash landings. Granted, it makes for a more interesting visual. I'm guessing that the practice started by mistake, by the SPFX guys reading an order wrong- probably in the case of "Blast off into Space". Allen probably figured it was too expensive to redo correctly, and it looked good, and thus the gear-retracting lift-off became conventionalized.
+
+There were some other odd things about the "Blast off into Space" lift-off. Clearly, the gear jammed while retracting. In-flight shots show some of the rotating fusion core lights out. Also, in one in-flight shot, the fusion core can be seen dangling by a thread, with only one stationary light burning.
+
+[snapback]1142703[/snapback]​
+
+Click to expand...
+
+The landing into the yellow circle shows "Sticky" gear as it drops too BTW.
+
+I had read that after they landed, they would carve out a circular 'basement' at a level location, and then hover the j2 over and settle down on the edges, and with gear down.  then the gear would be the stairs to the basement, and it would explain the rim around the bottom edge of the J2 set...
+
+The single light in the core was due to it being blown off the botom during a pyrotechnic shot. LOL
+
+The "Junkyard in Space episode showed a flipped image of the J2 landing, so a porthole appears on the rigt side of the main viewport.
+────────────────────────────────────────────────────────────────────────
+Post #59  (forum post #42278)
+Author    : toyroy
+Date      : Dec 24, 2005 at 6:39 AM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by y3a@Dec 24 2005, 05:34 AM
+
+The "Junkyard in Space episode showed a flipped image of the J2 landing, so a porthole appears on the rigt side of the main viewport.
+
+[snapback]1142920[/snapback]​
+
+Click to expand...
+
+As I look at the footage I have again, the landing was in daylight, but the lift-off was in darkness. Judy, Don, Will, and Penny watched, while grouped around the space pod. Both of those shots had the porthole on the correct side. Sorry, for the wrong initial description.
+────────────────────────────────────────────────────────────────────────
+Post #60  (forum post #42286)
+Author    : toyroy
+Date      : Dec 24, 2005 at 7:26 AM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by y3a@Dec 24 2005, 05:34 AM
+
+The landing into the yellow circle shows "Sticky" gear as it drops too BTW.
+
+Click to expand...
+
+You're right. I see it dropping incrementally, as it were.
+
+Originally posted by y3a@Dec 24 2005, 05:34 AM
+
+I had read that after they landed, they would carve out a circular 'basement' at a level location, and then hover the j2 over and settle down on the edges, and with gear down.Â  then the gear would be the stairs to the basement, and it would explain the rim around the bottom edge of the J2 set...
+
+Click to expand...
+
+Oh, cyclops poo. :lol What did they have down there- a large screen TV, Lazy-boys for all, a ping-pong table, and a train layout? :lol 
+
+For me, it's one thing to try to figure the real reason they did something clearly inconsistent, given my ignorance of the actual facts. But trying to rationalize Irwin Allen preposterousness- give me a break.  :wacko
+────────────────────────────────────────────────────────────────────────
+Post #61  (forum post #42312)
+Author    : y3a
+Date      : Dec 24, 2005 at 9:12 AM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by toyroy@Dec 24 2005, 10:26 AM
+
+Oh, cyclops poo. :lol What did they have down there- a large screen TV, Lazy-boys for all, a ping-pong table, and a train layout? :lol 
+
+For me, it's one thing to try to figure the real reason they did something clearly inconsistent, given my ignorance of the actual facts. But trying to rationalize Irwin Allen preposterousness- give me a break.Â  :wacko
+
+[snapback]1142958[/snapback]​
+
+Click to expand...
+
+Like I said, I read it in ......I "think" the Jupiter 2 reference manual.  
+
+In the basement, 
+
+they kept the chariot parts,
+
+the book "making a Space Pod from nothing" :eek  
+
+containers of the veggies they grew and stored, 
+
+and an outhouse... 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+
+5 beanbag chairs, 
+
+a pingpong table, 
+
+and the old furniture they used on the first crash 
+
+after removing the Astrogator.
+
+Look at the 1st year episode, "One of our dogs is missing" and see the wolf creature down there sliding the crash doors aside to see inside.  :confused 
+
+Continuity was NOT a word they knew in the Irwin Allen Universe.  LOL
+────────────────────────────────────────────────────────────────────────
+Post #62  (forum post #42517)
+Author    : toyroy
+Date      : Dec 25, 2005 at 8:05 AM
+────────────────────────────────────────────────────────────────────────
+
+Continuity was NOT a word they knew in the Irwin Allen Universe.  LOL
+
+[snapback]1143017[/snapback]​
+
+Someday, when I get a DVD drive, I think it would be fun to re-write, re-edit and re-direct series footage into something more serious minded, and less plagued by continuity problems. Also, it would be great to see an all-new show, using the ORIGINAL Jupiter 2, robot, and chariot.  
+
+Anyway, I think the Jupiter 2 is super cool :cool, and discovering the original way it did it's magic is, I think, extremely worthwhile. I'm looking forward to seeing not only the landing gear questions solved, but the various dome mechanisms, as well.
+		
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #63  (forum post #42597)
+Author    : y3a
+Date      : Dec 26, 2005 at 4:19 AM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by toyroy@Dec 25 2005, 11:05 AM
+
+ I'm looking forward to seeing not only the landing gear questions solved, but the various dome mechanisms, as well.
+
+[snapback]1143526[/snapback]​
+
+Click to expand...
+
+The Fusion core has 6 spinning lightbulbs in it, as has been derived from studies of the frrames to see the lights moving position from one frame to the next on the core.
+
+The bubble has been shown to be 6 bulbs below the spinning "V" of reflective material, most likely a circle of polished tin or aluminum bent into a "V" shape.  A shot used in the LIS Forever program shows the bubble from the top enough to see the "V" and some of the lights.
+────────────────────────────────────────────────────────────────────────
+Post #64  (forum post #42627)
+Author    : Jupiter-2
+Date      : Dec 26, 2005 at 9:43 AM
+────────────────────────────────────────────────────────────────────────
+
+I added a new topic called "Jupiter 2 Restoration" that links to the video clip taken during the actual restoration process of the 4' J2 miniature back after the J2 Autopsy.
+
+I put it in a new topic because this current one was getting larger and vague ... it might easily be missed by folks not willing to dig 5 pages deep.
+────────────────────────────────────────────────────────────────────────
+Post #65  (forum post #42662)
+Author    : y3a
+Date      : Dec 26, 2005 at 1:45 PM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by Jupiter-2@Dec 26 2005, 12:43 PM
+
+I added a new topic called "Jupiter 2 Restoration" that links to the video clip taken during the actual restoration process of the 4' J2 miniature back after the J2 Autopsy.
+
+I put it in a new topic because this current one was getting larger and vague ... it might easily be missed by folks not willing to dig 5 pages deep.
+
+[snapback]1143934[/snapback]​
+
+Click to expand...
+
+Could the AVI file be damaged or something???  I couldn't view it, just 2 blips of hiss and a white screen....
+────────────────────────────────────────────────────────────────────────
+Post #66  (forum post #42685)
+Author    : Jupiter-2
+Date      : Dec 26, 2005 at 3:24 PM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by y3a@Dec 26 2005, 04:45 PM
+
+Could the AVI file be damaged or something???Â  I couldn't view it, just 2 blips of hiss and a white screen.
+
+Click to expand...
+
+It's not damaged Y - I've tried it multiple times on various machines over the past week or two...  :$ 
+
+It might use a different codec though .. I'm really not sure...  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+
+Probably most helpful if other people tell if it works for them or not too ...  :angel 
+
+Sorry for any difficulties  :cry
+────────────────────────────────────────────────────────────────────────
+Post #67  (forum post #42753)
+Author    : toyroy
+Date      : Dec 26, 2005 at 10:32 PM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by Jupiter-2+Dec 26 2005, 03:24 PM--><div class='quotetop'>QUOTE(Jupiter-2 @ Dec 26 2005, 03:24 PM)</div>
+
+			<!--QuoteBegin-y3a
+		
+
+Click to expand...
+
+			@Dec 26 2005, 04:45 PM
+
+Could the AVI file be damaged or something???Â  I couldn't view it, just 2 blips of hiss and a white screen.
+
+Click to expand...
+
+It's not damaged Y - I've tried it multiple times on various machines over the past week or two...  :$ 
+
+It might use a different codec though .. I'm really not sure...  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+
+Probably most helpful if other people tell if it works for them or not too ...  :angel 
+
+Sorry for any difficulties  :cry 
+
+[snapback]1144066[/snapback]​
+[/b]
+		
+
+Click to expand...
+
+You need to have the WMV9 codec installed. The first 18 seconds don't seem to run, or have anything much going on, though.
+────────────────────────────────────────────────────────────────────────
+Post #68  (forum post #42789)
+Author    : y3a
+Date      : Dec 27, 2005 at 7:33 AM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by toyroy@Dec 27 2005, 01:32 AM
+
+You need to have the WMV9 codec installed. The first 18 seconds don't seem to run, or have anything much going on, though.
+
+[snapback]1144246[/snapback]​
+
+Click to expand...
+
+OK I got it.   It said it was WMV3 codec so I just loaded some codecs into my Virtual PC Winders XP and watched it....... several times....
+
+It's great to have my assumptions verified by the vid too.  I knew when I saw the battery platforms that it was poewered from inside.  I may use a gel Cell in mine too for the fusion core and bubble/cockpit lighting.  Perhaps a jackshaft system to pull all 3 gear  assemblies cables could be posible too.  Hmmmm...
+
+I think using Radio Control instead of the stupid wires hanging out the back will be an improvement.
+────────────────────────────────────────────────────────────────────────
+Post #69  (forum post #42829)
+Author    : Jupiter-2
+Date      : Dec 27, 2005 at 11:28 AM
+────────────────────────────────────────────────────────────────────────
+
+Hey - I'm glad you guys figured it out.  :thumbsup 
+
+I was pretty sure it was a codec issue - but for the life of me I don't know what codecs I got on my pc ...  :eek 
+
+Glad you found it intersting/helpful.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #70  (forum post #42902)
+Author    : toyroy
+Date      : Dec 27, 2005 at 3:29 PM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by Jupiter-2@Dec 27 2005, 11:28 AM
+
+Hey - I'm glad you guys figured it out.Â  :thumbsup 
+
+I was pretty sure it was a codec issue - but for the life of me I don't know what codecs I got on my pc ...Â  :eek 
+
+Glad you found it intersting/helpful.Â  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[snapback]1144513[/snapback]​
+
+Click to expand...
+
+Jup2,
+
+Thanks so much, for the video. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+I found it extremely informative. I have to wonder how many pennies Irwin Allen saved, by scavenging that well-loved and historic hero prop. 
+
+I identified the codec with a little utility called 'G-Spot'. It's only good for .avi files, but there are MANY of them. If you can't find it, or something comparable, let me know, and I'll e-mail it to you(117 KB.)
+────────────────────────────────────────────────────────────────────────
+Post #71  (forum post #42918)
+Author    : toyroy
+Date      : Dec 27, 2005 at 4:38 PM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by y3a+Dec 27 2005, 07:33 AM--><div class='quotetop'>QUOTE(y3a @ Dec 27 2005, 07:33 AM)</div>
+
+			OK I got it.Â   It said it was WMV3 codec so I just loaded some codecs into my Virtual PC Winders XP and watched it....... several times ....[/b]
+		
+
+Click to expand...
+
+I should have said WMV3 is the identifier for the WMV-9 video codec. Glad you got what you needed, though.
+
+[snapback]1144246[/snapback]​
+
+			Originally posted by y3a@Dec 27 2005, 07:33 AM
+
+It's great to have my assumptions verified by the vid too.Â  I knew when I saw the battery platforms that it was poewered from inside.Â  I may use a gel Cell in mine too for the fusion core and bubble/cockpit lighting.Â  Perhaps a jackshaft system to pull all 3 gearÂ  assemblies cables could be posible too.Â  Hmmmm...
+
+Click to expand...
+
+Does it look like the hero had separate motors for each landing gear? In my HO model, I'm using a single motor for all, of course. 
+
+[snapback]1144246[/snapback]​
+<!--QuoteBegin-y3a@Dec 27 2005, 07:33 AM
+
+I think using Radio Control instead of the stupid wires hanging out the back will be an improvement.
+
+Click to expand...
+
+I intend to use the 3 circuits available through the suspension wires, to control and power the model in flying mode. Otherwise, as I mentioned, I got some nice small on/off push button switches, which I will mount behind where the hatch switches are, to be activated by approximately scale-size hatch buttons.
+
+[snapback]1144358[/snapback]​
+────────────────────────────────────────────────────────────────────────
+Post #72  (forum post #42964)
+Author    : y3a
+Date      : Dec 27, 2005 at 7:25 PM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by toyroy+Dec 27 2005, 07:38 PM--><div class='quotetop'>QUOTE(toyroy @ Dec 27 2005, 07:38 PM)</div>
+
+			Originally posted by y3a@Dec 27 2005, 07:33 AM
+
+OK I got it.Â   It said it was WMV3 codec so I just loaded some codecs into my Virtual PC Winders XP and watched it....... several times ....
+
+Click to expand...
+
+I should have said WMV3 is the identifier for the WMV-9 video codec. Glad you got what you needed, though.
+
+[snapback]1144246[/snapback]​
+
+			Originally posted by y3a@Dec 27 2005, 07:33 AM
+
+It's great to have my assumptions verified by the vid too.Â  I knew when I saw the battery platforms that it was poewered from inside.Â  I may use a gel Cell in mine too for the fusion core and bubble/cockpit lighting.Â  Perhaps a jackshaft system to pull all 3 gearÂ  assemblies cables could be posible too.Â  Hmmmm...
+
+Click to expand...
+
+Does it look like the hero had separate motors for each landing gear? In my HO model, I'm using a single motor for all, of course. 
+
+[snapback]1144246[/snapback]​
+<!--QuoteBegin-y3a
+		
+
+Click to expand...
+
+			@Dec 27 2005, 07:33 AM
+
+I think using Radio Control instead of the stupid wires hanging out the back will be an improvement.
+
+Click to expand...
+
+I intend to use the 3 circuits available through the suspension wires, to control and power the model in flying mode. Otherwise, as I mentioned, I got some nice small on/off push button switches, which I will mount behind where the hatch switches are, to be activated by approximately scale-size hatch buttons.
+
+[snapback]1144358[/snapback]​
+
+[snapback]1144704[/snapback]​
+[/b]
+		
+
+Click to expand...
+
+Just as a suggestion, how about magnetic reed switches?  lay the magnets on top of your model to keep them "off" and remove them for the "on" position.  Why make working hatches on such a small model?  
+
+I think all three legs were powered by ONE motor/gearbox or jackshaft system.
+────────────────────────────────────────────────────────────────────────
+Post #73  (forum post #42972)
+Author    : toyroy
+Date      : Dec 27, 2005 at 8:26 PM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by y3a@Dec 27 2005, 07:25 PM
+
+Just as a suggestion, how about magnetic reed switches?Â  lay the magnets on top of your model to keep them "off" and remove them for the "on" position.Â  Why make working hatches on such a small model?Â  
+
+[snapback]1144809[/snapback]​
+
+Click to expand...
+
+The hatch I'm speaking of, is the outer airlock hatch, and it doesn't work. Only the buttons on the porthole-side of the hatch work. 
+
+Instead of opening and closing the hatch, the buttons operate the dome/fusion core lights, and the landing gear. This is in the case where the model is not suspended, so the functions operate by way of on-board batteries.
+
+If I can squeeze in sound, using a programmable chip, or have some other function, I may use a switch activated by pressing, or turning, the dome. What I DON'T want, are switches behind swing-away doors on the hull, such as the hero had. (Maybe they didn't even TRY to hide those switches.)
+────────────────────────────────────────────────────────────────────────
+Post #74  (forum post #43037)
+Author    : toyroy
+Date      : Dec 28, 2005 at 7:18 AM
+────────────────────────────────────────────────────────────────────────
+
+I was just thinking about the box-like structure under the dome. It would seem likely that the inside surfaces, including that of a bottom plate(if one existed) were mirrored, would it not? How better to get the full effect of the light to the reflector above?
+────────────────────────────────────────────────────────────────────────
+Post #75  (forum post #43282)
+Author    : y3a
+Date      : Dec 29, 2005 at 6:13 AM
+────────────────────────────────────────────────────────────────────────
+
+OK I've just scribbled out these crude drawings of how I think the gear could have worked on the Jupiter 2.   It uses a jackshaft system to pull the single cable that opens the pad door first, and then pulls the leg down using the pulley wheels as seen in the J2 as it exists today.  The is SOME SPECULATION in this - but this method DOES WORK...
+
+Gear Closed:
+
+http://www.hooverae.com/upload/pics/LG1.jpg
+
+Footpad door mostly open, leg still retracted:
+
+http://www.hooverae.com/upload/pics/LG2.jpg
+
+Leg partly down:
+
+http://www.hooverae.com/upload/pics/LG3.jpg
+
+Gear down:
+
+http://www.hooverae.com/upload/pics/LG4.jpg
+────────────────────────────────────────────────────────────────────────
+Post #76  (forum post #43308)
+Author    : toyroy
+Date      : Dec 29, 2005 at 9:02 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks for these, Y3a. It's only a little different from how I pictured your mechanism, mainly in that there a two parallel springs for the pad door.
+
+Does the link from the door slider tilt perpendicular to the page, to lift and lower the pad door? I'm also not clear on the purpose of the slot in the door slider.
+────────────────────────────────────────────────────────────────────────
+Post #77  (forum post #44184)
+Author    : y3a
+Date      : Jan 1, 2006 at 7:58 AM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by toyroy@Dec 29 2005, 12:02 PM
+
+Thanks for these, Y3a. It's only a little different from how I pictured your mechanism, mainly in that there a two parallel springs for the pad door.
+
+Does the link from the door slider tilt perpendicular to the page, to lift and lower the pad door? I'm also not clear on the purpose of the slot in the door slider.
+
+[snapback]1145946[/snapback]​
+
+Click to expand...
+
+I think the "slot"  was so a tool might have access???  Just guessing.  It also may be a way of centering the lower door by having a protrusion sticking from the 'real' door up to the door support which is attached to the sliding thiing.
+
+The next task is to make estimates of the detail measurements on a gear leg, using the ONE known measurement of leg length, and eyeballing the rest.  
+
+I'll start by using a photo of the 'real leg' and then derive the inches, and then using THAT info, measure off the other important things like height of the leg sides at the back and front then the width of the 'always solid areas at ther top n bottom of the sides, and then calculate the spacings of the holes.  The tricky part is getting the angle of the bottom "V" area of the leg near the footpad.   After the leg is done, I can calculate the footpad dimensions.
+
+I'm gonna make the footpads using Alumilite with the ram connection part cast in place.  The pad CANNOT spin, or it could get jammed in the well, and damage the leg, gear well, or mechanics.
+
+I'm also gonna do a diagram to see if the ram might have been attached to the roof of the saucer, instead of some pivoting device in the well.
+────────────────────────────────────────────────────────────────────────
+Post #78  (forum post #44273)
+Author    : toyroy
+Date      : Jan 1, 2006 at 2:28 PM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by y3a@Jan 1 2006, 07:58 AM
+
+I think the "slot"Â  was so a tool might have access???Â  Just guessing.Â  It also may be a way of centering the lower door by having a protrusion sticking from the 'real' door up to the door support which is attached to the sliding thiing.
+
+Click to expand...
+
+I wondered if there was something which caused the lifting/lowering of the outer door, as it slid through the slot.
+────────────────────────────────────────────────────────────────────────
+Post #79  (forum post #44284)
+Author    : armourerdoug
+Date      : Jan 1, 2006 at 3:22 PM
+────────────────────────────────────────────────────────────────────────
+
+I was a special effects technician on the movie of Lost in Space, I worked on the model unit 96-97 and I made up the rig for the new Jupiter II landing gear, shame I'm only 30 years out. he he
+
+ Doug :lol
+────────────────────────────────────────────────────────────────────────
+Post #80  (forum post #44311)
+Author    : toyroy
+Date      : Jan 1, 2006 at 4:58 PM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by y3a@Jan 1 2006, 07:58 AM
+
+The next task is to make estimates of the detail measurements on a gear leg, using the ONE known measurement of leg length, and eyeballing the rest.Â  
+
+I'll start by using a photo of the 'real leg' and then derive the inches, and then using THAT info, measure off the other important things like height of the leg sides at the back and front then the width of the 'always solid areas at ther top n bottom of the sides, and then calculate the spacings of the holes.Â  The tricky part is getting the angle of the bottom "V" area of the leg near the footpad.Â   
+
+Click to expand...
+
+According to Ron Gross's drawings, when the gear is up, the front part of the 'V' is vertical, which makes sense. Since the inner part of the lower hull makes an angle of approximately 11.5 degrees from the horizontal, the 'V' should be close to 101.5 degrees. 
+
+I'm VERY curious about the actual lower hull angles on a (J2) four-footer. Any way you can measure those for me?
+────────────────────────────────────────────────────────────────────────
+Post #81  (forum post #44317)
+Author    : toyroy
+Date      : Jan 1, 2006 at 5:03 PM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by armourerdoug@Jan 1 2006, 03:22 PM
+
+I was a special effects technician on the movie of Lost in Space, I worked on the model unit 96-97 and I made up the rig for the new Jupiter II landing gear, shame I'm only 30 years out. he he
+
+ Doug :lol
+
+[snapback]1148301[/snapback]​
+
+Click to expand...
+
+No time like the present, to catch up to the past.
+────────────────────────────────────────────────────────────────────────
+Post #82  (forum post #44334)
+Author    : toyroy
+Date      : Jan 1, 2006 at 6:04 PM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by y3a@Jan 1 2006, 07:58 AM
+
+I'm gonna make the footpads using Alumilite with the ram connection part cast in place.Â  The pad CANNOT spin, or it could get jammed in the well, and damage the leg, gear well, or mechanics.
+
+I'm also gonna do a diagram to see if the ram might have been attached to the roof of the saucer, instead of some pivoting device in the well.
+
+[snapback]1148044[/snapback]​
+
+Click to expand...
+
+I'm a little surprised you're not going all-metal on the landing gear, but Alumilite should work for the pads. For the ram, I'd use at least K&S brass telescoping rod/tubing for strength, if not steel. I'd guess you could get rubber boots from a R/C car supplier. 
+
+Although the pad can't swivel as if on a ball joint, it would definitely be better to allow it to rotate in the plane of the gear, as the original did. Notice how the pad fronts point down, as the gear deploys. If they can't rotate when they are closing, their 'heels' will tend to interfere with the pad door mechanism.  
+
+As for attaching the ram end to the roof, there's no way I'd do that. No matter how thick, fiberglass is susceptible to distortion under load. In your situation, I'd mount the ram's high end to a metal frame attached to the top of the (hopefully metal) gear well.
+────────────────────────────────────────────────────────────────────────
+Post #83  (forum post #44335)
+Author    : y3a
+Date      : Jan 1, 2006 at 6:07 PM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by toyroy@Jan 1 2006, 07:58 PM
+
+According to Ron Gross's drawings, when the gear is up, the front part of the 'V' is vertical, which makes sense. Since the inner part of the lower hull makes an angle of approximately 11.5 degrees from the horizontal, the 'V' should be close to 101.5 degrees. 
+
+I'm VERY curious about the actual lower hull angles on a (J2) four-footer. Any way you can measure those for me?
+
+[snapback]1148349[/snapback]​
+
+Click to expand...
+
+Did Ron Gross actually get to see the "Azarian Hero" with the gear installed?   Just wondering.
+
+Also... I think you'd need to get yerself a 4 footer to do the measurements on angles.  I have to think about how to do that accurately.  I wouldn't trust me but I can send you a photo of the ship as taken from the side that I was gonna use for some more diagrams like the layered top view I did before Christmas.
+────────────────────────────────────────────────────────────────────────
+Post #84  (forum post #44379)
+Author    : toyroy
+Date      : Jan 1, 2006 at 8:09 PM
+────────────────────────────────────────────────────────────────────────
+
+[attachmentid=5759]
+
+I set the strut angle to what I measured on the TV screen, at opposite ends of it's stroke. The red point is where the projection lines met. 
+
+Note 1: these drawings are based on Ron Gross's drawings.
+
+Note 2: the hull profile is NOT the Fox Jupiter 2 profile. The difference between the two profiles should have a minimal effect on the strut intersection location.
+────────────────────────────────────────────────────────────────────────
+Post #85  (forum post #44448)
+Author    : y3a
+Date      : Jan 2, 2006 at 4:41 AM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by toyroy@Jan 1 2006, 11:09 PM
+
+[attachmentid=5759]
+
+I set the strut angle to what I measured on the TV screen, at opposite ends of it's stroke. The red point is where the projection lines met. 
+
+Note 1: these drawings are based on Ron Gross's drawings.
+
+Note 2: the hull profile is NOT the Fox Jupiter 2 profile. The difference between the two profiles should have a minimal effect on the strut intersection location.
+
+[snapback]1148457[/snapback]​
+
+Click to expand...
+
+WOW.  Thanks for the illustration.  I'm gonna draw all over it to add the bulkhead, and mechanics and give a side view of the gear dropping.
+────────────────────────────────────────────────────────────────────────
+Post #86  (forum post #44654)
+Author    : toyroy
+Date      : Jan 2, 2006 at 5:58 PM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by y3a@Jan 2 2006, 04:41 AM
+
+WOW.Â  Thanks for the illustration.Â  I'm gonna draw all over it to add the bulkhead, and mechanics and give a side view of the gear dropping.
+
+[snapback]1148607[/snapback]​
+
+Click to expand...
+
+You're welcome. I sent you a comparison of the Fox profile, to mine.
+────────────────────────────────────────────────────────────────────────
+Post #87  (forum post #45144)
+Author    : y3a
+Date      : Jan 4, 2006 at 6:27 AM
+────────────────────────────────────────────────────────────────────────
+
+I noticed on the new restoration clip that the bracket on the "A" frame has what looks like a slot where the strut slid up n down, and NOT a pulley.   The gear leg also doesn't seem to actually have a wheel in it either.  So the single chain theory might be true.  The motor/gearbox must have been pretty strong.  it also suggests that less travel is required since you aren't having to pull several loops of cable thru a pulley system.
+────────────────────────────────────────────────────────────────────────
+Post #88  (forum post #45225)
+Author    : Jupiter-2
+Date      : Jan 4, 2006 at 9:53 AM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by y3a@Dec 29 2005, 09:13 AM
+
+OK I've just scribbled out these crude drawings of how I think the gear could have worked on the Jupiter 2.Â   It uses a jackshaft system to pull the single cable that opens the pad door first, and then pulls the leg down using the pulley wheels as seen in the J2 as it exists today.Â  The is SOME SPECULATION in this - but this method DOES WORK...
+
+Gear Closed:
+
+http://www.hooverae.com/upload/pics/LG1.jpg
+
+Footpad door mostly open, leg still retracted:
+
+http://www.hooverae.com/upload/pics/LG2.jpg
+
+Leg partly down:
+
+http://www.hooverae.com/upload/pics/LG3.jpg
+
+Gear down:
+
+http://www.hooverae.com/upload/pics/LG4.jpg
+
+[snapback]1145846[/snapback]​
+
+Click to expand...
+
+Interesting drawings Y .  :thumbsup 
+
+Question: I think you said previously that you thought all three landing gear legs ( or maybe just the footpad doors?) were connected via a single chain drive ... but these drawings seem to dictate that each pad and leg were indepently manipulated. So the question is , and maybe I missed it somewhere , do you think the three legs were operated seperately or were they all tied together via a single chain that went around the perimeter of the interior hulll? 
+
+If not , how difficult do you think it was to synchronize three independent footpad doors and landing gear legs?
+────────────────────────────────────────────────────────────────────────
+Post #89  (forum post #45615)
+Author    : toyroy
+Date      : Jan 5, 2006 at 9:04 AM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by Jupiter-2@Jan 4 2006, 09:53 AM
+
+Interesting drawings Y .Â  :thumbsup 
+
+Question: I think you said previously that you thought all three landing gear legs ( or maybe just the footpad doors?) were connected via a single chain drive ... but these drawings seem to dictate that each pad and leg were indepently manipulated. So the question is , and maybe I missed it somewhere , do you think the three legs were operated seperately or were they all tied together via a single chain that went around the perimeter of the interior hulll? 
+
+If not , how difficult do you think it was to synchronize three independent footpad doors and landing gear legs?
+
+[snapback]1150521[/snapback]​
+
+Click to expand...
+
+I can't answer for Y3a, of course, but I see no problem regarding synching operations on the original. Almost certainly there were adjustment devices built in. Of course, they had easy access to them, with the pop-top. I guess Y3a will use his RC channel trim.
+────────────────────────────────────────────────────────────────────────
+Post #90  (forum post #45620)
+Author    : y3a
+Date      : Jan 5, 2006 at 9:43 AM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by toyroy+Jan 5 2006, 12:04 PM--><div class='quotetop'>QUOTE(toyroy @ Jan 5 2006, 12:04 PM)</div>
+
+			<!--QuoteBegin-Jupiter-2
+		
+
+Click to expand...
+
+			@Jan 4 2006, 09:53 AM
+
+Interesting drawings Y .Â  :thumbsup 
+
+Question: I think you said previously that you thought all three landing gear legs ( or maybe just the footpad doors?) were connected via a single chain drive ... but these drawings seem to dictate that each pad and leg were indepently manipulated. So the question is , and maybe I missed it somewhere , do you think the three legs were operated seperately or were they all tied together via a single chain that went around the perimeter of the interior hulll? 
+
+If not , how difficult do you think it was to synchronize three independent footpad doors and landing gear legs?
+
+[snapback]1150521[/snapback]​
+
+Click to expand...
+
+I can't answer for Y3a, of course, but I see no problem regarding synching operations on the original. Almost certainly there were adjustment devices built in. Of course, they had easy access to them, with the pop-top. I guess Y3a will use his RC channel trim.
+
+[snapback]1151300[/snapback]​
+[/b]
+		
+
+Click to expand...
+
+"IF" the "chain Drive" is actually what was used - it would have all worked at the same time from ONE motor/pulley/gearbox arrangement.  It's'  actually better to power everything with ONE system.  
+
+IF the legs and footpad doors are all individually powered, it's a bigger pain to get all parts exactly right and syncronized.  it requires precision in a hand made system of less than an 1/8th inch.
+
+My particular constraints are that I'm NOT cutting the roof off mine, so I'll do it like a ship in a bottle.  Everything has to go in and out of the fusion core hole.  No problem for the cockpit, bubble and the core itself.  The legs are a different story.  I plan to make the pad door sliders one at a time, and put them in place, then add the gear well sides next, and then add the mechanics, and finally, the legs with strut and footpads attached.  After the legs are in place and connected to whatever mechanics I use (prolly a jackshaft) then the fusion core is installed, and ready for the show.
+────────────────────────────────────────────────────────────────────────
+Post #91  (forum post #1709371)
+Author    : Blade90
+Date      : Jun 6, 2011 at 7:53 AM
+────────────────────────────────────────────────────────────────────────
+
+y3a said:
+
+			OK I've just scribbled out these crude drawings of how I think the gear could have worked on the Jupiter 2. It uses a jackshaft system to pull the single cable that opens the pad door first, and then pulls the leg down using the pulley wheels as seen in the J2 as it exists today. The is SOME SPECULATION in this - but this method DOES WORK...
+
+Gear Closed:
+
+http://www.hooverae.com/upload/pics/LG1.jpg
+
+Footpad door mostly open, leg still retracted:
+
+http://www.hooverae.com/upload/pics/LG2.jpg
+
+Leg partly down:
+
+http://www.hooverae.com/upload/pics/LG3.jpg
+
+Gear down:
+
+http://www.hooverae.com/upload/pics/LG4.jpg
+
+Click to expand...
+
+ Very interesting
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 91

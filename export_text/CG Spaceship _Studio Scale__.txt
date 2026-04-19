@@ -1,0 +1,262 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : CG Spaceship "Studio Scale?"
+URL    : https://www.therpf.com/forums/threads/cg-spaceship-studio-scale.59069/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #814709)
+Author    : cayman shen
+Date      : Mar 8, 2009 at 1:48 PM
+────────────────────────────────────────────────────────────────────────
+
+A lot of ships today are realized as CG creations.  Is the term "studio scale" in any way relevant in that context?  I mean, assuming a mockup wasn't built to be scanned or anything.
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #814739)
+Author    : mverta
+Date      : Mar 8, 2009 at 2:39 PM
+────────────────────────────────────────────────────────────────────────
+
+http://therpf.com/showthread.php?t=15025&highlight=Studio+scale
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #814773)
+Author    : cayman shen
+Date      : Mar 8, 2009 at 3:26 PM
+────────────────────────────────────────────────────────────────────────
+
+Ah, thank you.  The search function is my friend...rookie mistake. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #814782)
+Author    : ShowCraft
+Date      : Mar 8, 2009 at 3:31 PM
+────────────────────────────────────────────────────────────────────────
+
+The term "studio scale" relates strictly to physical models.
+
+In the above - linked thread, I had proposed that if a physical model of a CG subject were to be built in studio scale fashion, might it belong in the studio scale section of this site.   The consensus was a unanimous NO.
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #814866)
+Author    : Clerval
+Date      : Mar 8, 2009 at 5:25 PM
+────────────────────────────────────────────────────────────────────────
+
+Samos 3;814782The consensus was a unanimous NO.[/quote said:
+			
+		
+
+			^^^
+
+and yet....
+
+:unsure
+
+I still think that separate forums for CG-to-physical and commercial replicas would be great, as I happen to love each and would like to be able to jump straight to specific areas. 3D sites have got practical building forums as part of their make-up, but the RPF hasn't gone that route.  :confused
+		
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #815070)
+Author    : CaptCBoard
+Date      : Mar 8, 2009 at 10:17 PM
+────────────────────────────────────────────────────────────────────────
+
+Actually, the RPF has an appropriate forum for 3D to physical models.  Its called "General Modeling".  The reason Studio Scale gets its own forum is that people go there to hunt down specific model parts used on their Studio Scale builds.  This is the only kind of model building that has this unique requirement, so instead of lumping all of this into "Model Building", we have the two that exist now.  Since there is no difference between building a model from photographs or drawings and building a model that was originally designed in the 3D realm, there is nothing unique about the latter to warrant a separate forum.  The only thing that makes modeling from a 3D file unique is the ability to generate cross-sections and stations, but even that doesn't make the subject unique enough to make a separate forum available.
+
+Scott
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #815114)
+Author    : mverta
+Date      : Mar 9, 2009 at 12:31 AM
+────────────────────────────────────────────────────────────────────────
+
+On more than one occasion, I've hunted down model parts to use in building CG models.  I re-model the physical piece in its original scale in the computer, and then use it on a similarly studio-scale CG model.  
+
+Since we model and output our digital files in absolute real-world scale, studio scale means exactly the same thing in CG as it does in the real world.  We just also have the ability to throw that out and use arbitrary/relative measurements.  If I model a tank part at the same scale in the computer, and output it to a CNC or rapid prototype machine, it'll come out at the same physical size and scale as the original I referenced.  Might as well have cast it.  How can that not be studio scale?
+
+_Mike
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #815127)
+Author    : Lear60man
+Date      : Mar 9, 2009 at 1:54 AM
+────────────────────────────────────────────────────────────────────────
+
+mverta said:
+
+			On more than one occasion, I've hunted down model parts to use in building CG models.  I re-model the physical piece in its original scale in the computer, and then use it on a similarly studio-scale CG model.  
+
+Since we model and output our digital files in absolute real-world scale, studio scale means exactly the same thing in CG as it does in the real world.  We just also have the ability to throw that out and use arbitrary/relative measurements.  If I model a tank part at the same scale in the computer, and output it to a CNC or rapid prototype machine, it'll come out at the same physical size and scale as the original I referenced.  Might as well have cast it.  How can that not be studio scale?
+
+_Mike
+		
+
+Click to expand...
+
+Your example would be Studio Scale.  The debate is if a model that was created in CG could be considered studio scale.  Yes and no.  Yes if the model was created as you proposed by scanning say various tank parts and inserting them onto a basic shape.  If you have the scale of the tank part then, you have some form of real world reference.  Thus a real replica could be made from measurements of the tank part.  I would have to say NO to the CG model that has no real world reference, IE no scanned kit bashed parts. What would be the scale then?
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #815382)
+Author    : Commander Max
+Date      : Mar 9, 2009 at 10:21 AM
+────────────────────────────────────────────────────────────────────────
+
+It is very hard to apply studio scale to CG models. It's easier to say screen used mesh(if you get to play with one it is only a copy), the size of the model is the question, meshes can be modeled in any size(what ever the artists find convenient) . Which then can be manipulated and output in any size. Even though the CG model has dimension and is considered a true model(cg models can take as long as real models to make, just without the hazardous conditions). I would not call the model studio scale, because the size of the CG model is easily manipulated. To change the scale of a physical model normally requires building another model, and there is a good chance it will not match the original.  
+
+Mike made the point that these models can be directly output, so they must be studio scale. I wish it was that easy(I do it quite often, since I own a cnc router, 3d printer, and a 3d scanner). Most of the time the models I have come across are only fractions in size, but they are of very large ships. Which would be useless as a physical display model, besides the work to make it halfway presentable, the details can not be realized. I've seen the opposite end of the spectrum, when the model is to large to be done in that fashion. Then on occasion you have a lucky break and get one at the right size. But the model still has to be processed for creation. 
+
+I think applying the term "studio scale" to cg models is dificult because there isn't a standard size for the model. And the same model could have been rescaled for a diferent shot.
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #815387)
+Author    : mverta
+Date      : Mar 9, 2009 at 10:24 AM
+────────────────────────────────────────────────────────────────────────
+
+Well, personally, I find that I model either in a "typical" studio scale scale, or at 1:1, i.e., a 45-foot ship would be modeled 45 feet long.  But again, I've done that - modeled at 1:1 to get a feel for detailing and such - and then obviously had to reduce it in size to be output on a machine; at which point it might be put out at 1/24 scale.  The actual, physical model output from the machine is a 1/24 scale reduction of a 1:1 CG model.  Again, I think studio scale can be said to apply here.
+
+But this is a lot of semantics... the real problem is that some people just don't like CG, don't like what they feel its done to model building, and don't want it any part of their world.
+
+The truth is, it's just another tool, and practical models still look great, and everybody should relax.  It's not like CG is going anywhere, and if practical guys would embrace it, they'll last longer, too.  The ideal guy, in my opinion, is a guy who has practical model sensibilities and abilities, who can bring that to the digital toolset.  Those choices about how and what to kitbash, for example, are part of what makes practical models so cool.  Digital guys don't have that sense, so their models tend to "feel" CG.  It's very much the same as CG lighting guys - if they've never actually lit anything real, their lighting looks flat and artificial.  
+
+Ultimately, every model is a scaled reduction of a 1:1 source. Just because a submarine isn't 12 inches long doesn't mean a model of it isn't studio scale. Similarly, just because the source of a model is in the computer at 1:1 digitally, doesn't mean the reduced size output model isn't studio scale, either.
+
+_Mike
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #815495)
+Author    : Commander Max
+Date      : Mar 9, 2009 at 11:55 AM
+────────────────────────────────────────────────────────────────────────
+
+Since models are becoming a rarity in film(or at least on film). I think the term becomes more concrete, and most guys consider a traditional SSM to be a physical model made for a studio and appears on film, from the advent of film to the early 2000's. CG only exists in the computer, thus not being real. 
+
+Cg is not generally respected by modelers, I think it's mostly ignorance and fear. Funny thing, my experience back when studying music, guys would treat the synth(midiots) guys the same way. Without realizing that it is irrelevant because these machines are only tools. Same goes for the CG world, all of these machines are only tools, they don't make life any easier. In some respects they make it harder, but no man on earth can match the computer in the ability to bring these models to reality. 
+
+One side, many of the orignial SSM look like crap(up close), I've seen some CG looks just as bad.
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #816097)
+Author    : CaptCBoard
+Date      : Mar 10, 2009 at 1:55 AM
+────────────────────────────────────────────────────────────────────────
+
+Here it is in a nutshell-- a really big nutshell...
+
+Studio Scale Modeling is where the end result replicates, exactly or as close as the builder can come, the size, shape and detail of a physical model built and used in the production of a motion picture.  The issue of scale is only important if there was a scale used in the design process, say to facilitate building matching full-sized elements, or even models in different scales.
+
+If a model is derived from a CG source, the only way it can be considered Studio Scale is if a physical model was generated and filmed.  That way there is something to replicate-- something that appeared on film as a physical construct.
+
+I really don't care if there is a forum set up to feature physical models derived from CG sources.  But the process of building such a model remains the same as those built and featured in the General Modeling forum.  The advantage can be that the builder has access to the CG files and can get the files reworked so that parts can be generated by Rapid Prototyping.  In that case, the end result is no different from someone buying a box of parts that can be assembled into a P-51 Mustang or the Nostromo.
+
+Another way to look at this is to take my Mercury Capsule as an example of a CG model that was generated and physically produced by cutting the tooling to make a finished model at 1:12 scale.  The same files are being used to build a model at 1:6 scale.  The same files could be used to generate a photo-realistic image for film work.  Only if one of my kits was built and used to produce the FX shots for the film could the kit then be considered Studio Scale.  And there it is-- the true difference between Studio Scale Modeling and Models from CG Sources.  The MODEL has to be a physical construct, placed in front of a camera, photographed and the resulting photography used in the film, where we see it and are inspired to replicate it.  We can be inspired to replicate something generated by CG, but there is nothing to physically match, particularly in size.  The shape, detail and paint can be matched, but the size can not.
+
+It is the concept of replicating the actual size, shape, detailing, painting and, in some cases-- materials --of something physically built and used in FX production that is defined by the term Studio Scale Modeling.  Yes, there are those who will build something the same size and shape, but might use details that are not exact and they might get the paint wrong.  Exactly what color was the Klingon D-7, right?  It is the effort to replicate a filming miniature 1:1 for that filming miniature and the subsequent judgement as to the success or failure of the attempt that takes Studio Scale Modeling to a level beyond that of General Modeling.  
+
+CG models can be even more accurate that physical models of real constructs.  The complexity of fictional designs can be impossible to achieve by building a physical model.  With a CG model size is unimportant, but resolution is paramount.  A scale can be assigned at any time, say for use in collectables development.  But until something physical is generated, no matter what the end result, it still only exists in electronic form.
+
+Scott
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #816098)
+Author    : mverta
+Date      : Mar 10, 2009 at 2:03 AM
+────────────────────────────────────────────────────────────────────────
+
+CaptCBoard said:
+
+			If a model is derived from a CG source, the only way it can be considered Studio Scale is if a physical model was generated and filmed.
+		
+
+Click to expand...
+
+This happens frequently.  That was my point.  CG models can be studio scale under these circumstances, I agree.
+
+_Mike
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #816149)
+Author    : Jedi Dade
+Date      : Mar 10, 2009 at 5:57 AM
+────────────────────────────────────────────────────────────────────────
+
+Actually its not a cut and dry as you might think.  Often there are "studio scale" models of a subject that never see any screen time.  They are models used by the CG guys to build their CG versions.  They are often used to generate texture maps as well.  For a long time I had assumed that the LAAT (republic gunship) was only CG until I saw a HUGE model of it recently.  I don't think it got screen time but who knows...  I do know that it was the base for the CG modelers to build their versions...
+
+However the general point is still relevant - if it had no screen time its tough to call it "real" from the studio scale modeling perspective.  Personally I'm Fine using the scale of a mock-up as long as its built as if it "could" be used on screen - but I may be in a serious minority here 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Jedi Dade
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #816893)
+Author    : CaptCBoard
+Date      : Mar 10, 2009 at 10:38 PM
+────────────────────────────────────────────────────────────────────────
+
+One point to be made clear:
+
+The original filming model is NOT Studio Scale.  Its just what got built.  Only a physical replication of the filming model at 1:1 is called a Studio Scale model.
+
+Anything built as a study/reference model, for physical or CG modeling, is usually referred to as a maquette.
+
+Scott
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #817085)
+Author    : Jedi Dade
+Date      : Mar 11, 2009 at 7:08 AM
+────────────────────────────────────────────────────────────────────────
+
+CaptCBoard said:
+
+			One point to be made clear:
+
+The original filming model is NOT Studio Scale. Its just what got built. Only a physical replication of the filming model at 1:1 is called a Studio Scale model.
+
+Anything built as a study/reference model, for physical or CG modeling, is usually referred to as a maquette.
+
+Scott
+		
+
+Click to expand...
+
+ 
+
+Huh?  I beg to differ here.  The original filming miniature - on screen model, is by definition "studio scale"...  It is the piece that sets the scale.  Or am I missing some subtelty?
+
+As to the Maquette reference - the model of the gunship I saw was not concept sculpts like most maquettes.  The thing was HUGE, Super detailed and fully painted and weathered.  It was a fully finished model.  It was good enough to be on screen - I know it was used to create the CGI models but do not know if it made it to screen in its own right.
+
+The reason I brought up the gunship model /maquette is it is becoming a fairly common practice for a preofessional modeler to complete a model to filming standards (or better a lot of the time) for the CG artists to scan, sample and create their models.  I agree this is not technically a studio scale model because it never saw the filming lights but it is pretty close...  a kissing cousin if you will.  But in general you can not call it a filming miniature if it never saw screen time.  My point was that from a personal perspective a replica of that fully completed maquette would scratch "my personal" studio scale itch for a subject.  while not "technically" being studio scale.  Now a replica of a rough sculpt unfinished that was used to generate general form etc...  that doesn't work so well for me.  but when its totally a finished model suitable for filming - I'm good.  is that a little clearer?
+
+In short I think we are in violent agreement on the definition - but not in agreement as to what would satisfy the "studio scale itch" in the absense of a screen used model.
+
+Jedi Dade
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #819411)
+Author    : CaptCBoard
+Date      : Mar 13, 2009 at 9:18 PM
+────────────────────────────────────────────────────────────────────────
+
+The definition for Studio Scale can not be applied to an original filming model because as it sits on stage, there is no replica being built by someone-- yet.  Since a 'Studio Scale Model' is a replica, by definition as exact a copy of the original as possible, its designation is Studio Scale.  The original has no designation other than 'the original'; that which the Studo Scale replica was based on.  No one I worked with ever answered the question as to the scale of a project by saying "Its Studio Scale".  I once made a 6-foot tall model of the Arc de Triomphe.  I don't know what that works out to scale-wise, but they asked for the model to be 6-feet tall.  I think you get the idea.
+
+The discussion here is about why there is no category for models built from CG files and why they are not considered Studio Scale.  My point in this discussion is that the requirements of building a Studio Scale model is why there is a separate category for it as opposed to all models being lumped into one "Building Models" forum.  
+
+I'm not the one that made 'Studio Scale' a separate category, but since there is one and this question has come up, I've been trying to set the clearest definition of Studio Scale, as well as describe why models built from CG sources don't need to be set apart from General Modeling.  So, in the simplest terms:
+
+Studio Scale Model:  Replicates an original filming model in size, shape, detail and paint.
+
+CG to Physical Model:  A physical replication of a model that was seen on film solely as a computer generated image.
+
+(and since the subject was brought up...)
+
+Maquette:  A model used in the production of a film, but does not appear on film.
+
+Whether my definitions are used or not, the nature of the 3 types of models just do not overlap.  Now, to the question-- my thinking is there is no difference between a scratch-built model of a house or a scratch-built model of the Serenity.  They are both created using references found through research and built using materials that are manipulated by the builder. Its true that one is much harder to accomplish than the other, but the tasks are the same.  The building of a model of the Serenity would probably take the same devotion of time, energy and expense as any of the subjects in 'Studio Scale Modeling', but since there was never a model sitting on stage to create the images seen on film, if falls outside that definition.
+
+Do I care? No, not really.  I just stepped up to give my version of why there is no forum for CG to Physical Modeling-- and how I came up with it.  And it also answers the question of why a CG design built as a physical model does't belong in with Studio Scale Models.  
+
+Should the category simply become "Movie Models"-- sure.  Would that generate another inquiry, say Models from Comic Books and why don't they have their own forum.  I mean, they don't belong in General Modeling, do they?
+
+Scott
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #823982)
+Author    : Jedi Dade
+Date      : Mar 19, 2009 at 1:48 PM
+────────────────────────────────────────────────────────────────────────
+
+Ok I see the subtelty of the definition but I think it makes little distinction unless you were the guy working onset.
+
+Jedi Dade
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 18

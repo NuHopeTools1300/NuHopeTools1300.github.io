@@ -1,0 +1,594 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Space 1999 Ultra Probe Command Module
+URL    : https://www.therpf.com/forums/threads/space-1999-ultra-probe-command-module.127388/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #1904027)
+Author    : dbhs
+Date      : Sep 21, 2011 at 12:01 AM
+Reactions : Like — darth_myeek, micdavis
+────────────────────────────────────────────────────────────────────────
+
+This is the studio scale kit that was just released. I thought it would be a quick and fun build between larger projects but it's not turning out that way just yet.  Getting the hull pieces to fit together on this has been a big challenge.  The geometry is off just a bit making the attachment difficult. I added wood inserts inside at the mounting points to support a Panavise stand.  The Ultraprobe is actually quite large...I think the curved hull makes it seem a bit smaller than it actually is.
+
+To add to the challenge (doing things the easy way is just too boring) I'm replacing all the greeblies that are part of the kit with the actual kit parts. This kit was mastered digitally including the details.  Identifying the kit parts used on the original was relatively easy since they all come from the Tamiya 8Rad. The details on the kit are basically the same configuration as the kit parts but just approximations.  I think the real kit parts are going to look much better when it's all done.
+
+Here's some pics of the hull nearly done and some of the kit parts compared to the details that came with the kit.
+
+Thanks for looking.
+
+-Doug
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #1904100)
+Author    : cosmic_x
+Date      : Sep 21, 2011 at 1:36 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks for this WIP Doug!
+
+Can you please show us what you ve done to get the two hulls together and for the panavise support?
+
+And did you get the decals from Jimbo?
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #1904467)
+Author    : dbhs
+Date      : Sep 21, 2011 at 8:32 AM
+────────────────────────────────────────────────────────────────────────
+
+Sure I can post more of the inside. It's not pretty but will do the trick hopefully.
+
+I'm ordering he decals today. I've asked Jim to print me a set of the decals without the stripes so I can paint those on instead.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #1966213)
+Author    : dbhs
+Date      : Oct 26, 2011 at 12:47 PM
+────────────────────────────────────────────────────────────────────────
+
+I'm finally getting a chance to get an update posted on the Ultra Probe Command Module. Some of these pictures are from a few weeks ago but I wanted to catch up on the pictures of the inside work before it was sealed up.
+
+I started going a little overboard with styrene and foam ribs to strengthen the inside but these help to support the wood blocks at the mounting points. This way the stress on the wood block is transferred through the ribs and spread out evenly to the whole body. So far both mount points are very sturdy. 
+
+The large block is for the side mount and the smaller one in the middle is for the bottom. As far as I can tell from my research the studio model only had a single mounting point on the starboard side but for convenience I wanted a bottom mount point as well. The bottom mount point will allow it to be displayed with the starboard thrusters attached. I'll use a magnet to hold them on.
+
+The kit came with laser cut acrylic windows but they don't fit the openings in the hull. The shape was too far off to modify so I ended up cutting my own acrylic and painting the inside surface very dark blue so the clear side would face out. These are epoxied into the inside of the window openings. The foam on there is to help keep them glued in place. Even with soaking the parts, cleaning off mold release, and scoring the insides I had a hell of a time getting the epoxy to stick to the hulls. They were thin enough sections that when they flexed just a bit the epoxy (which was stiffer) would want to pull away. The extra foam is there to help reinforce the glue joints.
+
+This is just prior to glueing up the body. Pepsi can for scale.  You can see the gap in the middle section. The middle was smaller than the ends for some reason which was one of the major sources of frustration getting this thing together.
+
+[IMAGE: IMG_5777.JPG]
+
+Here it is as of today. The seams are all puttied and sanded. The primer is Duplicolor sandable over self-etching. There was a lot of bondo work to clean up the seams and some warped spots on the rear body parts.
+
+[IMAGE: IMG_5797.JPG]
+
+The rear plate will be scratched with kit parts. I used a 1/8" thick styrene ellipse to substitute for the kit rear plate for assembly and will cover that over. The hole is for glue access to strengthen the seams and add some extra ribs in the rear after it was assembled.
+
+[IMAGE: IMG_5798.JPG]
+
+Panavise stand in action. These things are great.
+
+[IMAGE: IMG_5799.JPG]
+
+And finally, here's a size comparison shot next to the BSG studio scale shuttle, just for fun.
+
+[IMAGE: IMG_5803.JPG]
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #1966586)
+Author    : JMChladek
+Date      : Oct 26, 2011 at 5:52 PM
+Reactions : Like — darth_myeek
+────────────────────────────────────────────────────────────────────────
+
+The caption for the final picture with the BSG shuttle should be "Hey man, wanna drag?" 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Man, that is a HUGE CM. Who's doing the kit?
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #1985164)
+Author    : dbhs
+Date      : Nov 6, 2011 at 9:07 AM
+Reactions : Like — darth_myeek
+────────────────────────────────────────────────────────────────────────
+
+Here's where I ended up tonight.
+
+Most of the clamp arms have the original kit parts on them now.
+
+[IMAGE: UPdiary015.JPG]
+
+I sanded down the corner and forked part of the clamp to have a rounded taper on the end like the studio model.
+
+[IMAGE: UPdiary016.JPG]
+
+The hinge part of the clamp arms works great but has too much play in it. To solve this I added styrene backing behind the notches and strengthened them with epoxy putty. The rotating part of the clamp arm (the axel, I guess) had to be sanded down carefully so it just fit snug in the slot.
+
+[IMAGE: UPdiary018.JPG]
+
+To lock the clamps in place I glued a small strip of styrene after it to hold it in place.
+
+[IMAGE: UPdiary019.JPG]
+
+Now I'm working on scratching the top side hatch so that it matches the studio model.  Hopefully some more progress tomorrow.  Thanks for looking.
+
+[IMAGE: UPdiary020.JPG]
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #1985912)
+Author    : micdavis
+Date      : Nov 6, 2011 at 3:57 PM
+Reactions : Like — darth_myeek
+────────────────────────────────────────────────────────────────────────
+
+Fantastic work.  Can't get enough 1999.
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #1989131)
+Author    : dbhs
+Date      : Nov 8, 2011 at 7:46 AM
+────────────────────────────────────────────────────────────────────────
+
+Top side detailing nearly done. 
+
+[IMAGE: DSC03411.JPG]
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #1989155)
+Author    : phase pistol
+Date      : Nov 8, 2011 at 7:58 AM
+────────────────────────────────────────────────────────────────────────
+
+Sah weet! :cool
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #1989730)
+Author    : cosmic_x
+Date      : Nov 8, 2011 at 1:02 PM
+────────────────────────────────────────────────────────────────────────
+
+very sharp Doug!
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #1989758)
+Author    : GKvfx
+Date      : Nov 8, 2011 at 1:18 PM
+────────────────────────────────────────────────────────────────────────
+
+Good grief, how many 8Rads are needed for this thing?  I've got one coming my way...... thanks in large part to this thread....
+
+Gene
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #1990180)
+Author    : Troy Downen
+Date      : Nov 8, 2011 at 5:43 PM
+────────────────────────────────────────────────────────────────────────
+
+Bit of a noob question here (sorry to interrupt): which Panavise mount have you found to be most useful for mounting models?  Looks to me like their CCTV mounts are about the only ones with the 1/4-20 threads. On the other side of things, what do you anchor in the model as the 1/4-20 female portion of the mount? A nut?
+
+I now return you to your regularly scheduled thread... And thanks!
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #1990304)
+Author    : dbhs
+Date      : Nov 8, 2011 at 6:54 PM
+────────────────────────────────────────────────────────────────────────
+
+GKvfx said:
+
+			Good grief, how many 8Rads are needed for this thing?  I've got one coming my way...... thanks in large part to this thread....
+
+Gene
+		
+
+Click to expand...
+
+I'm very honored to be inspiring, especially around here.
+
+4 kits are needed if you want all original parts. This is due to this part indicated in the attached photo.
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #1990309)
+Author    : dbhs
+Date      : Nov 8, 2011 at 6:56 PM
+Reactions : Like — micdavis
+────────────────────────────────────────────────────────────────────────
+
+Troy Downen said:
+
+			Bit of a noob question here (sorry to interrupt): which Panavise mount have you found to be most useful for mounting models?  Looks to me like their CCTV mounts are about the only ones with the 1/4-20 threads. On the other side of things, what do you anchor in the model as the 1/4-20 female portion of the mount? A nut?
+
+I now return you to your regularly scheduled thread... And thanks!
+		
+
+Click to expand...
+
+I have the packaging for the insert nuts that I got at Home Depot. I'll post a pic of those when I get home along with the panavise model number I'm using. I got the panavise with the extending arm so I could adjust the height.
+
+I'm using the 883-T mount. It's much sturdier than the smaller size mounts which are fine for smaller plastic models.  I attached pics of the insert nut and packaging. You just have to make sure the threads match the panavise mount threads....1/4-20.
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #1992125)
+Author    : Troy Downen
+Date      : Nov 9, 2011 at 4:39 PM
+────────────────────────────────────────────────────────────────────────
+
+Very much appreciated on the Panavise and nut info. 
+
+Now, if only I could get one of those SS BSG shuttle models... :cry
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #1992246)
+Author    : GKvfx
+Date      : Nov 9, 2011 at 5:46 PM
+────────────────────────────────────────────────────────────────────────
+
+dbhs said:
+
+			I'm very honored to be inspiring, especially around here.
+
+4 kits are needed if you want all original parts. This is due to this part indicated in the attached photo.
+		
+
+Click to expand...
+
+Great.  (Well, great for my local hobby store - not for my wallet.)  I think I gutted my 8-Rad stash for BSG related builds that use the same parts.
+
+Gene
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #2012941)
+Author    : dbhs
+Date      : Nov 21, 2011 at 11:01 PM
+Reactions : Like — Robert McLain
+────────────────────────────────────────────────────────────────────────
+
+I was able to find a little time to work on this over the weekend. I got the clamp arms installed on the body and scratched the side thrusters.
+
+[IMAGE: UPdiary022.JPG]
+
+Thruster side blocks and the bells with a photo of the original. Thse will get glued up after painting since masking off these shapes will be a PITA.
+
+[IMAGE: UPdiary023.JPG]
+
+For the bells I found these cheap ball point pens that had removable tips that are nearly an exact match for the size and shape of the original thrusters.  I glued them onto brass tubes to make them easier to work with while sanding the wide part down a bit.
+
+[IMAGE: UPdiary024.JPG]
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #2013959)
+Author    : GKvfx
+Date      : Nov 22, 2011 at 2:24 PM
+────────────────────────────────────────────────────────────────────────
+
+dbhs said:
+
+			......For the bells I found these cheap ball point pens that had removable tips that are nearly an exact match for the size and shape of the original thrusters. ........
+		
+
+Click to expand...
+
+F'ing brilliant.  And of course, more to buy.......  :lol
+
+Gene
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #2014006)
+Author    : micdavis
+Date      : Nov 22, 2011 at 2:53 PM
+────────────────────────────────────────────────────────────────────────
+
+One hopes.
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #2014203)
+Author    : boodha
+Date      : Nov 22, 2011 at 4:43 PM
+────────────────────────────────────────────────────────────────────────
+
+Super cool! Gosh I loves me some Space 1999. Oh my...
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #2016067)
+Author    : JMChladek
+Date      : Nov 23, 2011 at 5:34 PM
+────────────────────────────────────────────────────────────────────────
+
+That is one thing that is nice about studio modeling. After you spend time using kit parts to detail something, your brain begins to figure problems out by looking for solutions to problems that have not yet cropped up and EVERYTHING you see begins to look like a greeblie.
+
+Nice idea there with the pen tips!
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #2048257)
+Author    : dbhs
+Date      : Dec 15, 2011 at 12:59 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks very much for all the comments, guys. They are appreciated. I wish I had more time to spend at the work bench lately but I've made some progress since the last post finally.....
+
+Construction complete and primered.
+
+[IMAGE: UPdiary025.JPG]
+
+[IMAGE: UPdiary026.JPG]
+
+[IMAGE: UPdiary027.JPG]
+
+The side thrusters are done except for weathering.  This one is held on by magnets.
+
+[IMAGE: UPdiary028.JPG]
+
+This side screws into the mounting point on the starboard side. The studio model mounted from this point so it will be in place when I'm using the bottom mount point.
+
+[IMAGE: UPdiary029.JPG]
+
+Now the tricky part was the rear plate details. The only reference I have been able to come by are screen caps showing the actual original details.  The studio model was modified sometime after filming with the version with 2 thrusters and the details are different. Since this images is the best I have I did my best to duplicate it.
+
+[IMAGE: UPdiary030.JPG]
+
+Here's what I came up with in similar lighting to the screencap. Not a perfect match but close enough given the reference.
+
+[IMAGE: UPdiary031.JPG]
+
+I also made this plate removable (held on with magnets) so if and when better reference comes to light I can scratch up a new one to swap out.
+
+Here it is in better light.  All the parts are from the same donor kit.
+
+[IMAGE: UPdiary033.JPG]
+
+Thanks for looking.  Next up is painting all the markings.
+
+-Doug
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #2049868)
+Author    : Wombat
+Date      : Dec 16, 2011 at 12:59 AM
+────────────────────────────────────────────────────────────────────────
+
+Looks really clean, nice work!
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #2050367)
+Author    : dbhs
+Date      : Dec 16, 2011 at 10:23 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks, Phil !!
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #2057211)
+Author    : terryr
+Date      : Dec 20, 2011 at 6:37 PM
+────────────────────────────────────────────────────────────────────────
+
+You could alway try emailing Martin Bower. He might have a pic for you.
+
+http://www.martinbowersmodelworld.com/
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #2057223)
+Author    : phase pistol
+Date      : Dec 20, 2011 at 6:48 PM
+────────────────────────────────────────────────────────────────────────
+
+Logically, it ought to have an Eagle interior door there! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+There's a bunch of model reference on this great site
+
+Ultra Probe Lifeboat
+
+Unfortunately the only shots of the rear of teh module show it after it was stripped and repainted around 1977 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: 891_imultracm4.jpg]
+
+You also ought to check out the Eagletransporter forum, I bet they have good reference - if it exists!
+
+K
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #2059214)
+Author    : JMChladek
+Date      : Dec 21, 2011 at 11:02 PM
+────────────────────────────────────────────────────────────────────────
+
+Looks like what you have is a logical extrapolation of the original Ultraprobe CM's back plate to me.  I know it was in the Eagle Hangar in a couple Series 2 episodes, but the camera never showed it except for maybe a very distant background shot and I don't believe there were ever any closeups of the back end. As such, what you have may be it.
+
+If you do go to Eagletransporter.com, try getting in touch with BP Taylor (he posts there semi-frequently). He has had some recent dealings with Martin Bower (as have others) and that might get you in communication faster.
+────────────────────────────────────────────────────────────────────────
+Post #28  (forum post #2843267)
+Author    : dbhs
+Date      : Apr 8, 2013 at 1:31 PM
+────────────────────────────────────────────────────────────────────────
+
+Finally after a long hiatus I'm getting this one done. Going with all paint for the markings. Tedious as there's at least 7 colors on this.
+
+[IMAGE: photo.JPG]
+────────────────────────────────────────────────────────────────────────
+Post #29  (forum post #2843541)
+Author    : t2sides
+Date      : Apr 8, 2013 at 4:08 PM
+────────────────────────────────────────────────────────────────────────
+
+Glad to see this moving again Doug!  Can't wait to see the paint treatment  you give it!  Based on your other work, I'm sure it's gonna be pure awesomeness!!    
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+-Sean
+────────────────────────────────────────────────────────────────────────
+Post #30  (forum post #2843654)
+Author    : Lee S
+Date      : Apr 8, 2013 at 5:28 PM
+────────────────────────────────────────────────────────────────────────
+
+Great to see an update.  Wish the kit was still available.
+────────────────────────────────────────────────────────────────────────
+Post #31  (forum post #2843775)
+Author    : dbhs
+Date      : Apr 8, 2013 at 6:39 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks guys. This ones been boxed for a while just needing paint. It will be good to have it finished up. It will have just enough weathering to keep it interesting too so I'm looking forward to that.
+────────────────────────────────────────────────────────────────────────
+Post #32  (forum post #2844057)
+Author    : GKvfx
+Date      : Apr 8, 2013 at 10:55 PM
+────────────────────────────────────────────────────────────────────────
+
+Mine is still on my bench, taunting me to finish it.  God, what a pain of a kit.  And a ***** of a paint scheme.
+
+Go for it Doug.  I look forward to using yours as a reference for mine......  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Gene
+────────────────────────────────────────────────────────────────────────
+Post #33  (forum post #2847126)
+Author    : Blackbirdcd
+Date      : Apr 10, 2013 at 2:03 PM
+────────────────────────────────────────────────────────────────────────
+
+Loving the progress! This is one of the kits that got away from me, and I may end up scratchbuilding one later.
+────────────────────────────────────────────────────────────────────────
+Post #34  (forum post #2858738)
+Author    : dbhs
+Date      : Apr 16, 2013 at 7:50 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks guys. This would be a tough scratch build with all the curved body panels.
+
+Gene, yes get a move on.  How far did you get?  Yeah, getting the patterns down so they matched the photos more or less was a bit of a pain. Then there's all the colors to work out. Out of necessity I'm using rattle cans so it limited my choices a bit. I got the orange done and masked and working on the light grey now.  The orange I found to look the best is model master 'go mango'.  Probably not the original color but it looks ok.  More pics this weekend.....
+────────────────────────────────────────────────────────────────────────
+Post #35  (forum post #2866563)
+Author    : tachitachi
+Date      : Apr 22, 2013 at 11:54 PM
+────────────────────────────────────────────────────────────────────────
+
+Wow! Awesome details! No problem finding job in the movie industry!...wait, you're not in the movie industry already- are you?
+
+Keep up the excellent work!
+────────────────────────────────────────────────────────────────────────
+Post #36  (forum post #2887204)
+Author    : dbhs
+Date      : May 6, 2013 at 10:41 PM
+────────────────────────────────────────────────────────────────────────
+
+Started removing the masking. Overall pretty good but a few touch ups needed. 
+
+[IMAGE: IMAGE_3D583EF3-27AA-481C-A737-1215F0186B02.JPG]
+
+[IMAGE: IMAGE_395BC78E-A66F-4E78-9A6E-3B55AC4314A9.JPG]
+
+ 
+
+Attachments
+
+[IMAGE: 6847-7322fd642a43a6ccef55bd796298ab46.jpg]
+
+IMAGE_3D583EF3-27AA-481C-A737-1215F0186B02.JPG
+
+					97.4 KB
+					
+					· Views: 234
+					
+				
+
+[IMAGE: 6848-6ec74ab9de2adc530e79f49ec014360b.jpg]
+
+IMAGE_395BC78E-A66F-4E78-9A6E-3B55AC4314A9.JPG
+
+					112.7 KB
+					
+					· Views: 337
+────────────────────────────────────────────────────────────────────────
+Post #37  (forum post #2903988)
+Author    : dbhs
+Date      : May 18, 2013 at 11:03 PM
+────────────────────────────────────────────────────────────────────────
+
+The painted on markings are all finished now.  Next up is drawing on all the line details.
+
+[IMAGE: IMAGE_8AD007FF-4C62-4199-AEEB-C3D0DBBBF312.JPG]
+
+[IMAGE: IMAGE_30F95246-150E-4912-86BE-F97968266AF5.JPG]
+
+[IMAGE: IMAGE_8EE79215-C959-4EE8-8109-DB41DB2EB894.JPG]
+────────────────────────────────────────────────────────────────────────
+Post #38  (forum post #2904447)
+Author    : cosmic_x
+Date      : May 19, 2013 at 10:31 AM
+────────────────────────────────────────────────────────────────────────
+
+Looks great Doug!
+────────────────────────────────────────────────────────────────────────
+Post #39  (forum post #2904780)
+Author    : Treadwell
+Date      : May 19, 2013 at 2:58 PM
+────────────────────────────────────────────────────────────────────────
+
+What a beaut!
+────────────────────────────────────────────────────────────────────────
+Post #40  (forum post #2911698)
+Author    : Moongrim
+Date      : May 24, 2013 at 7:22 AM
+────────────────────────────────────────────────────────────────────────
+
+Museum Quality.!
+────────────────────────────────────────────────────────────────────────
+Post #41  (forum post #2912818)
+Author    : CutThumb
+Date      : May 24, 2013 at 10:40 PM
+────────────────────────────────────────────────────────────────────────
+
+Beautiful work with the masking! The results are absolutely spot on. I'm in the process of finishing a Swift and am faced with the same tasks.It will be worth it in the end if it all looks as neat as this
+────────────────────────────────────────────────────────────────────────
+Post #42  (forum post #2915595)
+Author    : dbhs
+Date      : May 27, 2013 at 9:06 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks guys.  The masking is a bit tedious especially with a long delay before it's removed. Being patient with it is critical. I just started adding some of the markings in pencil like the studio model.  It does replicate the look in the photos pretty well but still looks odd up close.  The pencil smudges pretty bad so I'm going to have to hit it with dull coat every few lines to lock down the graphite and prevent finger prints from getting all over it.
+────────────────────────────────────────────────────────────────────────
+Post #43  (forum post #2916033)
+Author    : GKvfx
+Date      : May 27, 2013 at 3:11 PM
+────────────────────────────────────────────────────────────────────────
+
+They're not fingerprints, they're "debris impact marks"......
+
+Gene
+────────────────────────────────────────────────────────────────────────
+Post #44  (forum post #2930716)
+Author    : dbhs
+Date      : Jun 7, 2013 at 1:49 AM
+────────────────────────────────────────────────────────────────────────
+
+I've finished drawing on the line details.  Managed to avoid debris impacts for the most part 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+.
+
+Next up is weathering and those little cable doohickeys.
+
+[IMAGE: IMAGE_794872B7-C017-4A23-9B22-56F29980697D.JPG]
+────────────────────────────────────────────────────────────────────────
+Post #45  (forum post #2944850)
+Author    : dbhs
+Date      : Jun 18, 2013 at 5:26 PM
+Reactions : Like — 32buds
+────────────────────────────────────────────────────────────────────────
+
+Done. I'll post real finished pics when I have a chance to photograph it properly. 
+
+[IMAGE: IMAGE_5EBA68D7-D9D6-4890-92D3-4A1468D4E20B.JPG]
+
+[IMAGE: IMAGE_1B35D3E1-6BB5-491C-B5E1-3D67342C5B8A.JPG]
+
+[IMAGE: IMAGE_4D52CDE5-F575-4107-83C8-AA07B00378F2.JPG]
+
+[IMAGE: IMAGE_1F49DAC4-5BD9-444E-AF63-D51F1F49EF64.JPG]
+────────────────────────────────────────────────────────────────────────
+Post #46  (forum post #2945407)
+Author    : cosmic_x
+Date      : Jun 19, 2013 at 5:07 AM
+────────────────────────────────────────────────────────────────────────
+
+you nailed it Doug, simply beatifull
+────────────────────────────────────────────────────────────────────────
+Post #47  (forum post #3226258)
+Author    : Scifitodd
+Date      : Mar 2, 2014 at 11:07 AM
+────────────────────────────────────────────────────────────────────────
+
+Wow! I wish I had the skill to do this! You are pretty good at this. Looks real nice, great job!
+────────────────────────────────────────────────────────────────────────
+Post #48  (forum post #3972903)
+Author    : digidrink
+Date      : Apr 30, 2016 at 11:38 AM
+────────────────────────────────────────────────────────────────────────
+
+Can you post some pictures of the underside?  I'd like to see how you detailed it.
+
+Thanks,
+
+Pat
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 48

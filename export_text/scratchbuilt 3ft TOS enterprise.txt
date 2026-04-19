@@ -1,0 +1,144 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : scratchbuilt 3ft TOS enterprise
+URL    : https://www.therpf.com/forums/threads/scratchbuilt-3ft-tos-enterprise.5982/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #101457)
+Author    : DarthJRW
+Date      : Apr 23, 2006 at 10:11 AM
+────────────────────────────────────────────────────────────────────────
+
+hey guys 
+
+as some of you know i have been working on a 3 foot enterprise tos scratchbuilt for a while. the secondary hull and the nacells havent been a problem as of yet, but what is giving me trouble is that darned saucer again 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+  my lathe is not high enough from its base to do that size saucer, and i tried to scuplt the parts using ribs made of styrene but with little success. knowing that the main shape of the saucer is pretty basic in design its still a challenging part to recreate. 
+
+You guys have any tips as to make/shape it
+
+any help would be greatly appreciated
+
+thanks 
+
+DarthJRW
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #101528)
+Author    : star-art
+Date      : Apr 23, 2006 at 12:31 PM
+────────────────────────────────────────────────────────────────────────
+
+The best method without a proper lathe is probably screeding:
+
+1) Place a rod or tube in the center of a flat table.
+
+2) Make a pattern "blade" from metal in the shape of 1/2 the saucer profile. Make this as stiff and strong as you possibly can and make the edge fairly sharp. This should be machined if possible.
+
+3) Install the blade so it is hinged on one end such that it can rotate in a 360-degree arc. The tube in the center of the table should be the exact center of rotation for the blade tool.
+
+3) Place hydrocal plaster on the table and sweep the blade in a circle to form the shape out of the plaster. Do this in layers as necessary to keep from building up too much plaster at a time. But wet the dry plaster before adding another layer since plaster is extremely porous.
+
+Watch out for the plaster shrinking, though Hydrocal is better than regular plaster both in terms of shrinkage and strength. Consider building up the center with an armature and/or filler to keep the actual plaster layer as thin as possible. 
+
+Make a mold as soon as you are done in case the master changes size due to weather. Plaster absorbs moisture like a sponge and is subject to the humidity. . .
+
+HTH. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #101551)
+Author    : REL
+Date      : Apr 23, 2006 at 1:30 PM
+────────────────────────────────────────────────────────────────────────
+
+Yep that's the best way to do it, especially something with a round uniform shape as the TOS saucer.
+
+Here's a quick diagram I drew up to give you an idea.
+
+[IMAGE: screed1.JPG]
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #101560)
+Author    : DarthJRW
+Date      : Apr 23, 2006 at 1:43 PM
+────────────────────────────────────────────────────────────────────────
+
+thanks that helps alot 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+
+does the blade have to be extremly sharp??
+
+also can i just use plain ol plaster??
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #101565)
+Author    : REL
+Date      : Apr 23, 2006 at 1:47 PM
+────────────────────────────────────────────────────────────────────────
+
+No it doesn't have to be like a razor, just a thin edge, you can cut it out of sheet metal, I made one out of plexiglass once. It only needs to scrape the wet plaster to shape. 
+
+Hydrocal or Ultracal would be the best because like star-art said it has less shrinkage.
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #101631)
+Author    : star-art
+Date      : Apr 23, 2006 at 5:48 PM
+────────────────────────────────────────────────────────────────────────
+
+A couple points that should be obvious but worth mentioning nonetheless:
+
+1) The table should be as flat and level as possible. The material will level itself during screeding but jigs and tooling should always be as straight and perfect as possible to avoid making crooked parts.
+
+2) The rod should be perfectly perpendicular to the table. More important, the blade must fit the rod with no room to "wiggle" or the turned shape will be warped. You should measure for a 90-degree angle between the rod and table in at least two different directions to make absolutely sure the rod is correctly aligned. Then make sure the blade fits tightly -- not too tight to turn, but tight enough to avoid wobbling while rotating.
+
+If the table is perfectly flat and level, you can then use a level or a plum bob to make sure the rod is perfectly plumb. . .
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #101668)
+Author    : BrundelFly
+Date      : Apr 23, 2006 at 7:27 PM
+────────────────────────────────────────────────────────────────────────
+
+All good advice.
+
+But I would use Stacks of High dense Foam.  The Cover it with plaster or resin..and sand.
+
+Frank
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #101700)
+Author    : DarthJRW
+Date      : Apr 23, 2006 at 8:16 PM
+────────────────────────────────────────────────────────────────────────
+
+Can you explain a little more
+
+<div class='quotetop'>QUOTE(BrundelFly @ Apr 23 2006, 09:27 PM) [snapback]1231948[/snapback]</div>
+
+			All good advice.
+
+But I would use Stacks of High dense Foam.  The Cover it with plaster or resin..and sand.
+
+Frank
+
+[/b]
+		
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #101769)
+Author    : star-art
+Date      : Apr 23, 2006 at 10:53 PM
+────────────────────────────────────────────────────────────────────────
+
+That's kind of in line with what I meant by "building up the area" to keep the plaster layer thin. Not too thin, but not too thick. The plaster will crack if it's too thin, and it can shrink more if it's too thick.
+
+Frank, are you suggesting not using a profile tool/screeding but rather building up a contour with layered foam (like a topographic model) and then "smoothing it out" with a top coat? That would certainly work, but would you get as perfect a profile that way? 
+
+Another advantage of the screeding setup is you can make additional tools to cut rings, etc. into the surface or make raised rings on the surface as part of the pattern.
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #104583)
+Author    : DarthJRW
+Date      : Apr 28, 2006 at 2:13 PM
+────────────────────────────────────────────────────────────────────────
+
+is it just me or does the 2nd pilot enterprise's lower saucer not have a curve
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 10

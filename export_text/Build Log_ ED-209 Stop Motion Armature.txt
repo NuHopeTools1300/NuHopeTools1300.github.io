@@ -1,0 +1,2261 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Build Log: ED-209 Stop Motion Armature
+URL    : https://www.therpf.com/forums/threads/build-log-ed-209-stop-motion-armature.202268/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #3144736)
+Author    : CheesyGrin
+Date      : Dec 17, 2013 at 12:36 PM
+────────────────────────────────────────────────────────────────────────
+
+Greetings!
+
+For the past 5 months I've been working to recreate the ED-209 stop motion puppet. In those 5 months I've studied pictures, read and re-read "Stop Motion Armature Machining", taken hundreds of screenshots from the movie, built a small machine shop in my garage, and have taught myself basic machining skills. Whew!  Lot's of planning, thinking, and buying. :wacko
+
+This project has been SO MUCH work and I get SO LITTLE time to build. I always feel intense pressure to post regular updates! But I'm ready to include others in the build. I could use the power of more brains (and a little encouragement too).  The talent in this group is unmatched, imho.  I'll do my best to contribute value.  Please don't hesitate to offer feedback, criticism, or a kind word.  Your input is much appreciated! 
+
+Here we go:
+
+Design
+
+I reverse engineered the armature design from two sources: (1) 2 grainy, black and white Cinefex photos and (2) the Horizon vinyl ED-209 kit. I created a 1:1 3D model in SketchUp. I've been using the 3D model to guide the build.  SketchUp does not [easily] provide shop drawings automatically from the 3D model.  I manually create orthogonal views with dimensions and build details.  Here are a few pics of the 3D model, current revision:
+
+[IMAGE: ED209_Full_zpsfcf3b860.jpg]
+
+[IMAGE: ED209_xrayFoot_zps243c7af5.jpg]
+
+[IMAGE: ED209_Compare_zps8992e168.jpg]
+
+Feedback welcomed!
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #3144905)
+Author    : skiffy
+Date      : Dec 17, 2013 at 3:26 PM
+────────────────────────────────────────────────────────────────────────
+
+Nice job CheesyGrin. Since you know Sketchup, would it be difficult for you to learn Blender? At least enough to prepare this model for print? That might give you better reference to work with when building the final armature.
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #3144937)
+Author    : CheesyGrin
+Date      : Dec 17, 2013 at 4:10 PM
+────────────────────────────────────────────────────────────────────────
+
+skiffy said:
+
+			Nice job CheesyGrin. Since you know Sketchup, would it be difficult for you to learn Blender? At least enough to prepare this model for print? That might give you better reference to work with when building the final armature.
+		
+
+Click to expand...
+
+Thanks!  By "print" do you mean 3D print?  If so, it's a good thought.  I'm considering a 3D printer for the outer parts for sure.  I'm sure the Horizon parts may need either replacing or augmenting.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #3144953)
+Author    : dsp5500
+Date      : Dec 17, 2013 at 4:32 PM
+────────────────────────────────────────────────────────────────────────
+
+My God there popping up everywhere :lol
+
+Job well done.
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #3145391)
+Author    : skiffy
+Date      : Dec 18, 2013 at 4:49 AM
+────────────────────────────────────────────────────────────────────────
+
+Hi CheesyGrin - yes, I meant 3d printing. If you get them printed out fine enough you'll be able to match your steel or aluminium armature sections to them. Blender will export (natively) to .stl, which most printers recognise.
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #3145679)
+Author    : vectorzero
+Date      : Dec 18, 2013 at 10:16 AM
+────────────────────────────────────────────────────────────────────────
+
+Awesome stuff Chris. Just awesome.
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #3145777)
+Author    : nick daring
+Date      : Dec 18, 2013 at 12:28 PM
+────────────────────────────────────────────────────────────────────────
+
+Can't wait to see more!
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #3146053)
+Author    : CheesyGrin
+Date      : Dec 18, 2013 at 5:59 PM
+Reactions : Like — knnyjay
+────────────────────────────────────────────────────────────────────────
+
+Hi All,
+
+Thanks for the kinds words everyone!  Here's an update:
+
+This is my humble machining area!  It took me ~3 months to acquire, install, and setup:
+
+[IMAGE: ED209_BuildLog_1_zpsbc5a0f30.jpg]
+
+I bought all raw materials from eBay - 6061 aluminum and stainless steel:
+
+[IMAGE: ED209_BuildLog_2_zps0c5de638.jpg]
+
+Here's the first shop drawing!  
+
+[IMAGE: ED209_BuildLog_3_zpsddbac758.jpg]
+
+This project required a 4-jaw chuck to hold the square stock.  This was the first facing operation on the ED-209!
+
+[IMAGE: ED209_BuildLog_4_zps70719950.jpg]
+
+I learned quickly that machining required tools.  Lots and lots of tools.  I built tools to build tools that helped me to build the actual parts.  Seriously.  Here you see the "T" stop I made and a tapping guide.  The tapping guide was critical to keep from breaking $8 #2-56 taps:
+
+[IMAGE: ED209_BuildLog_6_zpsf5dac4f7.jpg]
+
+First holes drilled and tapped:
+
+[IMAGE: ED209_BuildLog_5_zpsabc2face.jpg]
+
+This is the start of the footpad.  I turned a section of 2"x2"x1/4" aluminum to get the final part:
+
+[IMAGE: ED209_BuildLog_7_zpsb0e42cc9.jpg]
+
+[IMAGE: ED209_BuildLog_8_zpsf0642bbb.jpg]
+
+After some milling (sorry for the blur):
+
+[IMAGE: ED209_BuildLog_9_zps5ac80026.jpg]
+
+Here's the first assembly:
+
+[IMAGE: ED209_BuildLog_10_zps312b8c47.jpg]
+
+I'll have some build time this weekend.  I'll post an update for sure.  Thanks for following along!
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #3146062)
+Author    : dsp5500
+Date      : Dec 18, 2013 at 6:16 PM
+────────────────────────────────────────────────────────────────────────
+
+Chris thats looking sweet, Nice work.
+
+Yer you soon realise the tooling costs more than the machines :lol
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #3146093)
+Author    : joewhite
+Date      : Dec 18, 2013 at 6:59 PM
+────────────────────────────────────────────────────────────────────────
+
+Bravo, good sir! Bravo! One day...........one day I will have those machinesas well! Then I will spend lots of money on tools to build tools to build parts. 
+
+ED-209 parts!
+
+Joe
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #3146917)
+Author    : joberg
+Date      : Dec 19, 2013 at 4:45 PM
+────────────────────────────────────────────────────────────────────────
+
+Very nice to see aluminum being worked that way: nice and crisp!  Keep up the good work, I'll make sure to follow your thread from now on
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #3147559)
+Author    : MonsieurTox
+Date      : Dec 20, 2013 at 9:18 AM
+────────────────────────────────────────────────────────────────────────
+
+Going to follow this thread with great interest !
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #3147568)
+Author    : Scott Graham
+Date      : Dec 20, 2013 at 9:25 AM
+────────────────────────────────────────────────────────────────────────
+
+Yikes! This is awesome. ED-209 is a favorite, but making the actual stop motion armature I thought would just be a dream. Go man go!!
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #3147815)
+Author    : skiffy
+Date      : Dec 20, 2013 at 2:45 PM
+────────────────────────────────────────────────────────────────────────
+
+You've got the gear, and it certainly looks like you've got the skills. This is going to be a thread to watch!
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #3150323)
+Author    : CheesyGrin
+Date      : Dec 23, 2013 at 5:21 PM
+Reactions : Like — knnyjay
+────────────────────────────────────────────────────────────────────────
+
+Hi All,
+
+Thank for the great feedback!  Build Update:
+
+If there's one thing I'm learning about machining it's this - prepare to re-machine, often.  Admittedly, I'm an amateur.  I found myself examining completed parts and deciding to rebuild this weekend.  The original parts (rev. 1) weren't bad but I countersunk the screws too much.  Not countersinking was actually more accurate to the original armature.  After a rebuild, I'm much happier with rev. 2:
+
+[IMAGE: ED209_BuildLog_11_zpsa89baa87.jpg]
+
+[IMAGE: ED209_BuildLog_12_zps1493448c.jpg]
+
+Since I had the equipment setup for drilling, I built all pieces of the ankle (universal joint).  These parts are sitting in place:
+
+[IMAGE: ED209_BuildLog_16_zps1d7ca723.jpg]
+
+The next operation was to join the end pieces to the flat bar.  This created a challenge though.  I did not have a means for clamping the pieces together to allow drilling both pieces simultaneously.  So I stopped, went inside, and began to ponder a solution.  What I came up with was a custom jig that would hold both pieces in perfect relation, one to the other, and hold them securely to allow drilling.  Here's my quick concept sketch:
+
+[IMAGE: ED209_BuildLog_18_zps7bca3a26.jpg]
+
+I decided to go with the quicker, simpler design to save build time.  Here's some photos showing the progress and semi-final jig:
+
+[IMAGE: ED209_BuildLog_13_zps7a69fe29.jpg]
+
+[IMAGE: ED209_BuildLog_14_zps8592ce93.jpg]
+
+[IMAGE: ED209_BuildLog_15_zpsdb1f7e50.jpg]
+
+[IMAGE: ED209_BuildLog_17_zps80ac9f40.jpg]
+
+I need to tap the holes and make the clamp.  The next update will show the jig in action followed up with (hopefully) perfectly joined bases to universal joint sides. Thanks for tracking the thread! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #3150343)
+Author    : dsp5500
+Date      : Dec 23, 2013 at 5:40 PM
+────────────────────────────────────────────────────────────────────────
+
+Looking very professional Chris :thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #3168666)
+Author    : CheesyGrin
+Date      : Jan 11, 2014 at 5:15 PM
+Reactions : Like — knnyjay, EddieL
+────────────────────────────────────────────────────────────────────────
+
+dsp5500 said:
+
+			Looking very professional Chris :thumbsup
+		
+
+Click to expand...
+
+Thanks so much!
+
+Finally a build update!  I feel like my pace is slightly slower than Mountain Man from Duck Dynasty.  If you don't know anything about Duck Dynasty, disregard my analogy, and just know that I'm inching along on this build.  Anyway, on to the update:
+
+I built two jigs to help me produce better parts more repeatably.  The first is a drilling jig and the second a radius jig.  I'm not cutting a radius in this instance but found another great use for the jig.  You can see them both in action here:
+
+[IMAGE: ED209_BuildLog_01_zpsb1e2c687.jpg]
+
+[IMAGE: ED209_BuildLog_02_zpscda51537.jpg]
+
+[IMAGE: ED209_BuildLog_03_zps99875724.jpg]
+
+[IMAGE: ED209_BuildLog_04_zps14cdc439.jpg]
+
+Here's the universal joint used in the ankle:
+
+[IMAGE: ED209_BuildLog_05_zps551d9112.jpg]
+
+[IMAGE: ED209_BuildLog_08_zpsf30cd3cf.jpg]
+
+[IMAGE: ED209_BuildLog_09_zps14d66d9f.jpg]
+
+After a few hours of work I'm beginning to see something familiar:
+
+[IMAGE: ED209_BuildLog_20_zps40495fcc.jpg]
+
+[IMAGE: ED209_BuildLog_29_zps5f5f8094.jpg]
+
+[IMAGE: ED209_BuildLog_30_zps4f0bedcf.jpg]
+
+And some rough cuts on the second foot assembly:
+
+[IMAGE: ED209_BuildLog_31_zps0d8ba17d.jpg]
+
+I might make more progress tomorrow.  If so, I'll share!  Feedback welcomed.
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #3168731)
+Author    : joewhite
+Date      : Jan 11, 2014 at 6:24 PM
+────────────────────────────────────────────────────────────────────────
+
+Feedback? Hell, how about money? Is that welcome? Can I have an armature? LOL! 
+
+Dammit, this makes me want my own machining equipment even more! Awesome work! Can't wait to see more!
+
+Joe
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #3168777)
+Author    : joberg
+Date      : Jan 11, 2014 at 7:19 PM
+────────────────────────────────────────────────────────────────────────
+
+You make it look easy...love the tricks you used to make the pieces: nice and clean for sure.  Quick, let's continue that great build:cool
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #3168786)
+Author    : CheesyGrin
+Date      : Jan 11, 2014 at 7:24 PM
+────────────────────────────────────────────────────────────────────────
+
+joewhite said:
+
+			Feedback? Hell, how about money? Is that welcome? Can I have an armature? LOL! 
+
+Dammit, this makes me want my own machining equipment even more! Awesome work! Can't wait to see more!
+
+Joe
+		
+
+Click to expand...
+
+  Thanks for that.   A veteran machinist recommended I cut 2-3 extra parts with each machine setup.  It's wise advice.  My first priority has been to ensure the armature is mechanically sound.  The universal joint is an example.  It's an exotic, precise joint.  It must maintain position under the weight of the entire model.  Point is - If my design is faulty, I don't want 3 just like it. 
+
+So far, all is mechanically sound!  I'll likely take the sage wisdom of said machinist.  I doubt there will only be one ED when I'm done.
+
+- - - Updated - - -
+
+joberg said:
+
+			You make it look easy...love the tricks you used to make the pieces: nice and clean for sure.  Quick, let's continue that great build:cool
+		
+
+Click to expand...
+
+Thank you for the great compliment!
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #3169002)
+Author    : vectorzero
+Date      : Jan 12, 2014 at 1:03 AM
+────────────────────────────────────────────────────────────────────────
+
+CheesyGrin said:
+
+			Thanks so much!
+
+Finally a build update!  I feel like my pace is slightly slower than Mountain Man from Duck Dynasty.  If you don't know anything about Duck Dynasty, disregard my analogy, and just know that I'm inching along on this build.  Anyway, on to the update:
+		
+
+Click to expand...
+
+OK, you've shamed me into making some more progress on my ED!
+
+Stunning work. Some people might not understand how small the foot actually is to fit all the moving parts. Perhaps the usual beer can shot for scale?
+
+Cheers
+
+Neil
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #3169513)
+Author    : moffeaton
+Date      : Jan 12, 2014 at 1:22 PM
+────────────────────────────────────────────────────────────────────────
+
+WOW, this is all super impressive!!
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #3169664)
+Author    : nick daring
+Date      : Jan 12, 2014 at 4:19 PM
+────────────────────────────────────────────────────────────────────────
+
+Amazing stuff. Great progress!
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #3169775)
+Author    : CheesyGrin
+Date      : Jan 12, 2014 at 5:59 PM
+Reactions : Like — vectorzero
+────────────────────────────────────────────────────────────────────────
+
+vectorzero said:
+
+			OK, you've shamed me into making some more progress on my ED!
+
+Stunning work. Some people might not understand how small the foot actually is to fit all the moving parts. Perhaps the usual beer can shot for scale?
+
+Cheers
+
+Neil
+		
+
+Click to expand...
+
+Thanks Neil.  I've been waiting for your next ED update with bated breath!  I didn't have a beer can but did have an apple.  Scale reference shot, as you wish:
+
+[IMAGE: ED209_BuildLog_32_zps6982c118.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #3170195)
+Author    : CheesyGrin
+Date      : Jan 13, 2014 at 6:09 AM
+Reactions : Like — EddieL
+────────────────────────────────────────────────────────────────────────
+
+moffeaton said:
+
+			WOW, this is all super impressive!!
+		
+
+Click to expand...
+
+nick daring said:
+
+			Amazing stuff. Great progress!
+		
+
+Click to expand...
+
+Thanks guys.  
+
+Yesterday, I re-machined the 'shin' piece and connected it to the universal joint.  I'll spare you the  'shin bone connected to the ..." commentary.  This added significant weight the the universal joint.  Slitting the end pieces is necessary so I can clamp and maintain the foot position.  Next steps I hope to complete tonight:
+
+[IMAGE: image_zps9d37724b.jpg]
+
+I'll post progress...
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #3170255)
+Author    : trooperprop
+Date      : Jan 13, 2014 at 7:19 AM
+────────────────────────────────────────────────────────────────────────
+
+Stay out of trouble!
+
+Looking very good, keep up the great work. 
+
+Greetings from the netherlands, 
+
+BasD
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #3170930)
+Author    : CheesyGrin
+Date      : Jan 13, 2014 at 6:16 PM
+────────────────────────────────────────────────────────────────────────
+
+trooperprop said:
+
+			Stay out of trouble!
+
+Looking very good, keep up the great work. 
+
+Greetings from the netherlands, 
+
+BasD
+		
+
+Click to expand...
+
+Thanks!  Another design quick update:
+
+Before I cut the 'toes' I want to ensure things are going to sit flat.  Here's a pic of my problem:
+
+[IMAGE: image_zps65fac041.jpg]
+
+A re-design that takes care of the problem and improves my ability to adjust the toe shell laterally.
+
+[IMAGE: image_zpsfc167f94.jpg]
+
+[IMAGE: image_zpscf0a23e4.jpg]
+
+Sorry it's not a build update.  But getting this kind of stuff worked out prior to spending time in the shop saves much frustration.
+────────────────────────────────────────────────────────────────────────
+Post #28  (forum post #3171913)
+Author    : joberg
+Date      : Jan 14, 2014 at 3:15 PM
+────────────────────────────────────────────────────────────────────────
+
+Love those updates, even if it's the blueprint (and what a beautiful blueprint at that).  Yep, better be prepared with that kind of project; aluminium is not cheap if you make mistakes.
+────────────────────────────────────────────────────────────────────────
+Post #29  (forum post #3174572)
+Author    : Paulreeddrz
+Date      : Jan 16, 2014 at 9:17 PM
+────────────────────────────────────────────────────────────────────────
+
+This is going to be awesome!
+────────────────────────────────────────────────────────────────────────
+Post #30  (forum post #3178709)
+Author    : CheesyGrin
+Date      : Jan 20, 2014 at 5:43 PM
+Reactions : Like — knnyjay, struschie, EddieL
+────────────────────────────────────────────────────────────────────────
+
+joberg said:
+
+			Love those updates, even if it's the blueprint (and what a beautiful blueprint at that).  Yep, better be prepared with that kind of project; aluminium is not cheap if you make mistakes.
+		
+
+Click to expand...
+
+Paulreeddrz said:
+
+			This is going to be awesome!
+		
+
+Click to expand...
+
+Thanks guys!  joberg - Nothing has been cheap about this project!! :$
+
+Build update.  I had some time this weekend to work on the toes and foot and come 'one step' closer to finishing a major assembly.  But 'two steps forward and one step back' as you'll soon see.  And I'm not apologizing for the puns. :lol
+
+Milling slots in the knuckles which connect as a hinge joint with the toes:
+
+[IMAGE: ED209_BuildLog_35_zps639ca813.jpg]
+
+[IMAGE: ED209_BuildLog_36_zpsdf241e0f.jpg]
+
+The toes require an odd angle so they can sit flat.  I constructed a quick styrene piece to help align the piece for milling:
+
+[IMAGE: ED209_BuildLog_37_zps0aa07d38.jpg]
+
+[IMAGE: ED209_BuildLog_38_zpsfc40ebda.jpg]
+
+[IMAGE: ED209_BuildLog_39_zps649940ba.jpg]
+
+Next, I milled the other side of the hinge joint (x3):
+
+[IMAGE: ED209_BuildLog_44_zps8e071dc6.jpg]
+
+[IMAGE: ED209_BuildLog_46_zps9663f472.jpg]
+
+Here's the fruit of all the labor:
+
+[IMAGE: ED209_BuildLog_45_zps6c30c026.jpg]
+
+The hinge joint is finished by two teflon washers in each assembly.  I did a lot of internet searches for teflon washers small enough for this joint.  What I found was too expensive.  So, I made my own.
+
+I bought a 12"x6"x.015" sheet of PTFT from Amazon for $6:
+
+[IMAGE: ED209_BuildLog_40_zps0d4a8710.jpg]
+
+I also bought a punch and die set from Harbor Freight Tools for $24:
+
+[IMAGE: ED209_BuildLog_41_zps3eb2d9ff.jpg]
+
+I also used a Waldron punch set I've had for years.  Scale model building is my core skill set.  The Waldron set was part of my scale modeling tool set:
+
+[IMAGE: ED209_BuildLog_42_zps16cc5819.jpg]
+
+A few minutes later, I had 6 really small washers .015" thick.  That's a #2-56 screw for scale:
+
+[IMAGE: ED209_BuildLog_43_zps98b0a269.jpg]
+
+Here's a few shots of the foot so far:
+
+[IMAGE: ED209_BuildLog_51_zps3c269e97.jpg]
+
+[IMAGE: ED209_BuildLog_52_zps32e0a24a.jpg]
+
+[IMAGE: ED209_BuildLog_53_zpsffe87b0b.jpg]
+
+Now onto two problems that halted further progress.  First, cutting the slots in the universal joint proved challenging.  The slot is .010" thick and the slitting saw is very thin.  The deeper I cut the slot the more my saw blade wandered from the line! GRRRRRRR!!!!  Luckily, I had enough foresight to try it on a scrap piece.  If anyone has any advise on using a slitting saw, please PM me.  Here's a few pics:
+
+[IMAGE: ED209_BuildLog_33_zps21751292.jpg]
+
+[IMAGE: ED209_BuildLog_34_zpseedbf444.jpg]
+
+The second problem was with my radius jig.  Evidently, I milled one side of the jig slightly off-center.  So the radius (again on a scrap piece) turned out wonky.  Although this is frustrating, I know how to fix it.  Once I repair the jig, then I can radius all the toe pieces and complete the final assembly:
+
+[IMAGE: ED209_BuildLog_48_zpsdbaa01dd.jpg]
+
+[IMAGE: ED209_BuildLog_49_zps25abb1bd.jpg]
+
+[IMAGE: ED209_BuildLog_50_zpsa6cedc4e.jpg]
+
+So there it is.  Hopefully I can overcome these two issues this week and complete this assembly.  Thanks for following along!
+────────────────────────────────────────────────────────────────────────
+Post #31  (forum post #3178990)
+Author    : MonsieurTox
+Date      : Jan 21, 2014 at 3:18 AM
+────────────────────────────────────────────────────────────────────────
+
+Nice foot and toes ! Keep up the good work !
+────────────────────────────────────────────────────────────────────────
+Post #32  (forum post #3179819)
+Author    : joberg
+Date      : Jan 21, 2014 at 5:29 PM
+────────────────────────────────────────────────────────────────────────
+
+It's funny, but seeing the foot, I couldn't help to do the sound effect of the walk...great work and good luck with that saw
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #33  (forum post #3179961)
+Author    : leviathanworksh
+Date      : Jan 21, 2014 at 7:24 PM
+────────────────────────────────────────────────────────────────────────
+
+utterly beautiful... loving this so far - will keep an eye on this one 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #34  (forum post #3182756)
+Author    : Flixen
+Date      : Jan 24, 2014 at 2:59 AM
+────────────────────────────────────────────────────────────────────────
+
+That is a great build!!!
+
+Thanks for sharing your progress with us. 
+
+CheesyGrin said:
+
+			Now onto two problems that halted further progress.  First, cutting the slots in the universal joint proved challenging.  The slot is .010" thick and the slitting saw is very thin.  The deeper I cut the slot the more my saw blade wandered from the line! GRRRRRRR!!!!  Luckily, I had enough foresight to try it on a scrap piece.  If anyone has any advise on using a slitting saw, please PM me.  Here's a few pics:
+		
+
+Click to expand...
+
+Regard the slotting problem. 
+
+I had great success with either slotting multiple parts at once or adding some scrap peaces on boathouse sides to give it more support. 
+
+Temperature could be a second problem. 
+
+Did u try to cool it with some lubricant or ethanol?
+
+Sins the blade is that thin it tends to warp. 
+
+So cooling and going slow should help. 
+
+You could go with a thicker plate,
+
+like 0.5mm. 
+
+That would give u also more freedom with clamping.
+────────────────────────────────────────────────────────────────────────
+Post #35  (forum post #3182798)
+Author    : CheesyGrin
+Date      : Jan 24, 2014 at 4:26 AM
+────────────────────────────────────────────────────────────────────────
+
+Flixen said:
+
+			That is a great build!!!
+
+Thanks for sharing your progress with us. 
+
+Regard the slotting problem. 
+
+I had great success with either slotting multiple parts at once or adding some scrap peaces on boathouse sides to give it more support. 
+
+Temperature could be a second problem. 
+
+Did u try to cool it with some lubricant or ethanol?
+
+Sins the blade is that thin it tends to warp. 
+
+So cooling and going slow should help. 
+
+You could go with a thicker plate,
+
+like 0.5mm. 
+
+That would give u also more freedom with clamping.
+		
+
+Click to expand...
+
+Thanks for the kind words and the advice.  Slotting multiple parts at once is a good suggestion.  And yes, I was cooling the blade.  I was running the spindle ~400 rpm as well.  I think a slower spindle speed may be warranted.
+
+After much thinking and some research, I suspect the deflection is being caused by two factors: (1) the blade has 280 teeth so the gullets are becoming loaded almost immediately.  They also make a lot of dust-like chips which are not being evacuated from the slit.  (2) the slit being cut is very deep for a .010" cut.  Without more support (as you mention) I think I'm asking the laws of physics to abstain from their natural inclinations. :lol  I'm going to try some experiments this weekend.  One of which will be to make very shallow passes and clean the saw gullets after each pass.  It could take 30 mins to make one cut - BUT - if it helps to make them straight, it's worth it.
+
+I have a slightly thicker and 1" smaller diameter slitting saw on the way, too.  If it arrives in time for weekend build time, I'll post an update.  Hopefully, post a final pic of the foot assembly with extraordinarily straight slits in the universal joint. :thumbsup
+
+Thanks so much for sharing your words of wisdom.
+
+- - - Updated - - -
+
+Flixen - I checked your blog.  Insanely cool R2D2 build, BTW!
+────────────────────────────────────────────────────────────────────────
+Post #36  (forum post #3185949)
+Author    : CheesyGrin
+Date      : Jan 26, 2014 at 6:09 PM
+Reactions : Like — knnyjay, EddieL
+────────────────────────────────────────────────────────────────────────
+
+Hi All!
+
+Short build update.  Better short than nothing I suppose.  
+
+I solved the radius problem and finished the toes.  Yeah!  The rotation is tight and very smooth thanks to the teflon washers.  Here are the finished pics:
+
+[IMAGE: ED209_BuildLog_54_zps7ba104ef.jpg]
+
+[IMAGE: ED209_BuildLog_55_zps52d3a041.jpg]
+
+[IMAGE: ED209_BuildLog_56_zps49c59105.jpg]
+
+I know it's not a major update.  But, I'm using this progress thread to keep me moving - even if it's in smaller chunks.  Thanks for tracking along!
+────────────────────────────────────────────────────────────────────────
+Post #37  (forum post #3186354)
+Author    : MonsieurTox
+Date      : Jan 27, 2014 at 5:19 AM
+────────────────────────────────────────────────────────────────────────
+
+Not a major update but a nice one ! What will you use for the shell ? The Horizon kit ? A scratchbuilt one ? Or just a naked armature ? (I think you should build 2, one naked and one dressed with the shell ! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+).
+────────────────────────────────────────────────────────────────────────
+Post #38  (forum post #3186782)
+Author    : CheesyGrin
+Date      : Jan 27, 2014 at 12:29 PM
+────────────────────────────────────────────────────────────────────────
+
+MonsieurTox said:
+
+			Not a major update but a nice one ! What will you use for the shell ? The Horizon kit ? A scratchbuilt one ? Or just a naked armature ? (I think you should build 2, one naked and one dressed with the shell ! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+).
+		
+
+Click to expand...
+
+Thanks!  Currently, I'm planning to re-use the Horizon kit as a shell.  Last night, I modified the toe pieces and attached them to the armature.  Worked OK.  The pieces will definitely need tweaking.  Some pieces will have to  be rebuilt from scratch for sure.
+
+Your suggestion about 2 armatures is good.  I thought about creating a display that would incorporate a full ED and the raw armature, back-to-back or something.
+────────────────────────────────────────────────────────────────────────
+Post #39  (forum post #3187138)
+Author    : joberg
+Date      : Jan 27, 2014 at 5:46 PM
+────────────────────────────────────────────────────────────────────────
+
+Yeah, that 2 armatures idea is a good one for sure
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #40  (forum post #3193593)
+Author    : CheesyGrin
+Date      : Feb 1, 2014 at 6:48 PM
+Reactions : Like — knnyjay, struschie, EddieL
+────────────────────────────────────────────────────────────────────────
+
+Hi All,
+
+Build update - I resolved my slitting problem and finished the leg assembly today.  I'm pretty excited!  When I started planning this project 5 months ago, I was starting from square one - with everything!  I had no equipment, no machining experience, and very little reference for the ED armature.  Now, I hold a leg assembly that closely matches the pics I have and perfectly matches the Horizon kit.  Finishing this assembly is a great motivator to keep pressing on.  Anyway, here are the pics:
+
+[IMAGE: ED209_BuildLog_59_zps25221f6a.jpg]
+
+[IMAGE: ED209_BuildLog_60_zpsa639ff96.jpg]
+
+[IMAGE: ED209_BuildLog_61_zpsf9fbab41.jpg]
+
+[IMAGE: ED209_BuildLog_62_zps3cb4e200.jpg]
+
+[IMAGE: ED209_BuildLog_63_zpsfa405fc5.jpg]
+
+Finally, I tested an idea I had to use a 1:1 printout from the SketchUp model to place the slot for mounting the shroud to the armature.  It actually worked well.  I'll need to rebuild the toe base with sturdier sheet plastic, though.
+
+[IMAGE: ED209_BuildLog_58_zpsfed0c2f4.jpg]
+
+[IMAGE: ED209_BuildLog_57_zps5d982552.jpg]
+
+I'm ready to build the leg rail assemblies.  I tweaked the rail design this week and mocked up the leg/foot clamps to ensure my dimensions would allow the leg to rotate:
+
+[IMAGE: ED209_LegCap_01_zps19c4f620.jpg]
+
+[IMAGE: ED209_LegCap_03_zps5836f62a.jpg]
+
+[IMAGE: ED209_LegClamp_001_zps5da86790.jpg]
+
+[IMAGE: ED209_LegClamp_002_zpsa6c8cb0f.jpg]
+
+[IMAGE: ED209_LegClamp_005_zps4986ee80.jpg]
+
+That's this week's progress.  Thanks for tracking with me!
+────────────────────────────────────────────────────────────────────────
+Post #41  (forum post #3194698)
+Author    : joewhite
+Date      : Feb 2, 2014 at 6:32 PM
+────────────────────────────────────────────────────────────────────────
+
+I can't take any more updates! My brain is fried due to the always steller progress! Keep it coming, though!
+
+Joe
+────────────────────────────────────────────────────────────────────────
+Post #42  (forum post #3195865)
+Author    : joberg
+Date      : Feb 3, 2014 at 5:25 PM
+────────────────────────────────────────────────────────────────────────
+
+Same here Joe, and to know that he had the gall to tell us that this is the first time he's working with machine, lathe and metal...the liar
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+...joking of course: keep up the excellent work and waiting impatiently for the next pics!
+────────────────────────────────────────────────────────────────────────
+Post #43  (forum post #3196069)
+Author    : mrjbarl1
+Date      : Feb 3, 2014 at 8:42 PM
+────────────────────────────────────────────────────────────────────────
+
+This is awesome, you're doing a great job and it's cool to see the type of fabrication work that I can relate to. I look forward to seeing more progress on this. I only browsed through some of the comments and posts but if you have any questions about anything regarding the machining, I'd be glad to help you out in any way I can. I've acquired a few tricks of the trade over time and may be able to help if you come to a bump in the road. Two minds are better than one sometimes lol but really, you're doing a badass job on this. Keep up the great work!
+
+Sent from my iPhone using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #44  (forum post #3196300)
+Author    : Artshot
+Date      : Feb 4, 2014 at 4:37 AM
+────────────────────────────────────────────────────────────────────────
+
+Wow, that is truly a thing of beauty, being a rookie to sketchup and just prepped my first model for 3D printing i was impressed with your model, got to say, it looks even better made real 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #45  (forum post #3196402)
+Author    : MonsieurTox
+Date      : Feb 4, 2014 at 7:30 AM
+────────────────────────────────────────────────────────────────────────
+
+Art.
+
+Im amazed by your talent !
+────────────────────────────────────────────────────────────────────────
+Post #46  (forum post #3197063)
+Author    : nick daring
+Date      : Feb 4, 2014 at 5:49 PM
+────────────────────────────────────────────────────────────────────────
+
+Yeah, this is making want to final start playing with Sketchup in a serious way. So nice to be able to workout so much of the build beforehand.
+────────────────────────────────────────────────────────────────────────
+Post #47  (forum post #3197297)
+Author    : robbins98033
+Date      : Feb 4, 2014 at 10:52 PM
+────────────────────────────────────────────────────────────────────────
+
+Just stumbled on your thread Nick.  Awesome work, I'm really impressed.  Definitely going to be following this.  I have been working on a digital version of ED and maybe we could share resources.  I have a bunch of stuff from the movie and a lot of images that I found online.  The screenshots on my blog are a few weeks old and I've added a ton of detail since then.  I'll post some new screenshots tomorrow night.  Modeling is basically now done except for a few tweaks and details I still need to add around the ankle area.  Almost ready to texture!
+
+[IMAGE: 73164-228da9ffaee04f191825d8f8f0791656.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #48  (forum post #3197311)
+Author    : robbins98033
+Date      : Feb 4, 2014 at 11:16 PM
+────────────────────────────────────────────────────────────────────────
+
+btw, click the blog link on my website for more images and info. Robbins Digital Art
+────────────────────────────────────────────────────────────────────────
+Post #49  (forum post #3197860)
+Author    : vectorzero
+Date      : Feb 5, 2014 at 10:38 AM
+────────────────────────────────────────────────────────────────────────
+
+Very, very nice work Frank.
+
+One thing I noticed you have retracted the leg 'clamps' in quite significantly from the earlier renders. This is an area of frustration for Chris (Cheesygrin) and myself, as we're working to the dimensions of the Horizon kit. The earlier renders look more accurate to me. What prompted the change? (Apologies in advance for scribbling on your photo - hope you don't mind.)
+
+[IMAGE: 73278-dba5e0c16734f6181d9898e4f0008e44.jpg]
+
+[IMAGE: 73279-9bc72da22aa8b4d96b17277938ae0d65.jpg]
+
+Here's a head on shot of the puppet for comparison.
+
+[IMAGE: 73280-7c143ec01322c2fc9d5b6c76703b11b8.jpg]
+
+PM me if you want access to the archive of high res screen caps of the stop motion puppet.
+
+The 1987 ED-209 Horizon Retread Thread
+────────────────────────────────────────────────────────────────────────
+Post #50  (forum post #3197960)
+Author    : CheesyGrin
+Date      : Feb 5, 2014 at 12:08 PM
+────────────────────────────────────────────────────────────────────────
+
+joewhite said:
+
+			I can't take any more updates! My brain is fried due to the always steller progress! Keep it coming, though!
+		
+
+Click to expand...
+
+Thanks Joe!
+
+joberg said:
+
+			Same here Joe, and to know that he had the gall to tell us that this is the first time he's working with machine, lathe and metal...the liar
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+...joking of course: keep up the excellent work and waiting impatiently for the next pics!
+		
+
+Click to expand...
+
+Thanks for the kind words!  I do have an engineering background and scale model building is my hobby.  While it's my first time machining, I think my other skill sets are what's driving the outcomes.  Well, that and I'm a recovering perfectionist. :$
+
+mrjbarl1 said:
+
+			This is awesome, you're doing a great job and it's cool to see the type of fabrication work that I can relate to. I look forward to seeing more progress on this. I only browsed through some of the comments and posts but if you have any questions about anything regarding the machining, I'd be glad to help you out in any way I can. I've acquired a few tricks of the trade over time and may be able to help if you come to a bump in the road. Two minds are better than one sometimes lol but really, you're doing a badass job on this. Keep up the great work!
+		
+
+Click to expand...
+
+Thanks for that!
+
+Artshot said:
+
+			Wow, that is truly a thing of beauty, being a rookie to sketchup and just prepped my first model for 3D printing i was impressed with your model, got to say, it looks even better made real 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+Thanks for that!
+
+MonsieurTox said:
+
+			Art.
+
+Im amazed by your talent !
+		
+
+Click to expand...
+
+A great compliment!  Thank you.
+
+nick daring said:
+
+			Yeah, this is making want to final start playing with Sketchup in a serious way. So nice to be able to workout so much of the build beforehand.
+		
+
+Click to expand...
+
+SketchUp has been my goto tool for my last few projects.  It's very versatile and easy to use.  For me, working through ideas before getting into the shop is the primary contributor to success.  It's demoralizing to waste shop time on bad parts and to make scrap.
+────────────────────────────────────────────────────────────────────────
+Post #51  (forum post #3197966)
+Author    : CheesyGrin
+Date      : Feb 5, 2014 at 12:13 PM
+Reactions : Like — struschie
+────────────────────────────────────────────────────────────────────────
+
+robbins98033 said:
+
+			Just stumbled on your thread Nick.  Awesome work, I'm really impressed.  Definitely going to be following this.  I have been working on a digital version of ED and maybe we could share resources.  I have a bunch of stuff from the movie and a lot of images that I found online.  The screenshots on my blog are a few weeks old and I've added a ton of detail since then.  I'll post some new screenshots tomorrow night.  Modeling is basically now done except for a few tweaks and details I still need to add around the ankle area.  Almost ready to texture!
+		
+
+Click to expand...
+
+Awesome work!!  One of the best I've seen.  Vectorzero commented already but I'll add my $.02:
+
+I agree that your earlier render appears more accurate.  The hinge of the foot clamp extends beyond the vertical plane of the leg shroud.  I've been mocking up the "H" slider today and have something close to what will be fabricated:
+
+[IMAGE: ED209_Slider_04_zps86715155.jpg]
+
+[IMAGE: ED209_Slider_05_zps2a606732.jpg]
+
+[IMAGE: ED209_Slider_06_zps7c810931.jpg]
+
+I took some liberties with my design and, like Vectorzero said, it's based on the Horizon kit dimensions.
+────────────────────────────────────────────────────────────────────────
+Post #52  (forum post #3197996)
+Author    : robbins98033
+Date      : Feb 5, 2014 at 12:46 PM
+────────────────────────────────────────────────────────────────────────
+
+Ah, good find, thanks!  Without actual ed blueprints the proportions were really hard to nail down especially since the movie prop and puppet were fairly different.  All the toy models out there were way off so, I decided to not go off those.  I had noticed the long metal leg sliders were way too big after I had added a ton of detail so, I had to scale them down.  You can see it by comparing the old and new renders.  I didn't realize how it affected the clamp position.  Consider it fixed!
+────────────────────────────────────────────────────────────────────────
+Post #53  (forum post #3199106)
+Author    : Super Existence
+Date      : Feb 6, 2014 at 12:43 PM
+────────────────────────────────────────────────────────────────────────
+
+I was just watching Robocop the other day when I noticed sort of a design flaw / cheat on the stop motion puppet.
+
+(Robbins I borrowed one of your fantastic renders you should really do more of BTW, is it rigged to move?)
+
+The  hydraulic rams that articulate the reverse knee aren't connected to the  rest of the leg. They sit on that Yoke (Point B) and you'd think that's  the actual turning point of the knee.
+
+If you look at Point A on the  diagram. This is the actual point where the 'knee' rotates. You can see  it clearly in the scene where Ed209 is on his back having his tantrum  after falling down the stairs and robo walks away from him.
+
+The rams  are sort of for show in a design sense, as they don't really push the  knee up and down (that is to say they aren't connect to any bearings to  push the knee through its motion apart from the bearings of the yoke  they connect to, they just sort of...rest there.) They do move but  independently of the knee e.g. You can keep the knee perfectly still at a  45 degree angle and still have the rams move the yoke.
+
+There is also  a thin pillar in between the rams which is fixed all the way down, this  would have to be pivoted on the bottom too and it's not it's flush with  the circular plate.
+
+You can also see the large vertical gap in the  back of the tram that raises the knee along the rails (Point C). It is  this size so that when this true point of rotation moves the screw is  not caught in the way.
+
+View attachment 283080 
+
+Not  sure why they did this unless it was an engineering issue, maybe the  fake knee couldn't support the weight as right under that you have that  circular plate which articulates the leg on the X-Axis.
+
+You could say  that the ram driven yoke isn't attached with bearings to the knee  itself and rather pushes freely at the knee but this would involve some  serious friction and wouldn't be very efficient.
+
+Just a thought... Went off on one this evening.
+────────────────────────────────────────────────────────────────────────
+Post #54  (forum post #3199213)
+Author    : vectorzero
+Date      : Feb 6, 2014 at 1:53 PM
+Reactions : Like — struschie
+────────────────────────────────────────────────────────────────────────
+
+You are entirely correct. The rams are not at all attached. This is a great close up of the filming miniature (Source: Crop of Ed_60.jpg from Robocop Archive via Frank Robbins), where you can see just how cosmetic those rams are. Note that part of the circular base on which the ram assembly slides as well as half the "H Section" which moves up and down the leg rails are missing. If you watch the film carefully more and more parts of ED disappear as it progresses which I presume was the hard life the miniature got, and a lack of budget and time to effect repairs. (Look out for the shrouds between the feet and the toes, as well as the big shock absorbers front and back of the foot.)
+
+[IMAGE: 73595-29384a20b06241b2a42d934a852da479.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #55  (forum post #3199325)
+Author    : Super Existence
+Date      : Feb 6, 2014 at 3:41 PM
+────────────────────────────────────────────────────────────────────────
+
+Yeah I noticed that, don't know why but I'm peeved at this weirdly. Attention to detail is usually perfect with the Tippet guys...
+────────────────────────────────────────────────────────────────────────
+Post #56  (forum post #3201082)
+Author    : CheesyGrin
+Date      : Feb 8, 2014 at 8:14 AM
+────────────────────────────────────────────────────────────────────────
+
+How easily we're fooled by movie magic.
+
+And I wouldn't have it any other way.  :thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #57  (forum post #3202600)
+Author    : CheesyGrin
+Date      : Feb 9, 2014 at 3:27 PM
+Reactions : Like — EddieL
+────────────────────────────────────────────────────────────────────────
+
+Hi all,
+
+Quick build update - I started the leg rails this weekend.  I didn't get much build time, so progress is limited.
+
+First, I modified the dimensions to match the tooling I had.  End mills are very expensive. So I chose to live with slightly different dimensions to save dollars.  I must also give a huge shout-out to @TheNylonGag!  These rails would not be happening without his generosity.  Thanks Gag!
+
+[IMAGE: ED209_BuildLog_66_zps6e1dfcdf.jpg]
+
+(Very) rough cut:
+
+[IMAGE: ED209_BuildLog_67_zpsd3e6727b.jpg]
+
+Pieces milled to size and cleaned up:
+
+[IMAGE: ED209_BuildLog_68_zps98be1834.jpg]
+
+First slots cut in all four pieces:
+
+[IMAGE: ED209_BuildLog_69_zpsd366cbb6.jpg]
+
+That's all for this update. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #58  (forum post #3202604)
+Author    : joewhite
+Date      : Feb 9, 2014 at 3:30 PM
+────────────────────────────────────────────────────────────────────────
+
+Can't wait to ssee them done!
+
+Joe
+────────────────────────────────────────────────────────────────────────
+Post #59  (forum post #3209588)
+Author    : CheesyGrin
+Date      : Feb 15, 2014 at 10:56 AM
+Reactions : Like — knnyjay, struschie, ProfKSergeev
+────────────────────────────────────────────────────────────────────────
+
+Build Update!  Made some progress on the leg rails:
+
+[IMAGE: ED209_BuildLog_70_zps9c2eb602.jpg]
+
+[IMAGE: ED209_BuildLog_71_zps67d31527.jpg]
+
+[IMAGE: ED209_BuildLog_73_zpsd530089d.jpg]
+
+And the beauty shot:
+
+[IMAGE: ED209_BuildLog_77_zps29aad9d4.jpg]
+
+More updates no later than Monday evening! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #60  (forum post #3212317)
+Author    : robbins98033
+Date      : Feb 18, 2014 at 12:24 AM
+────────────────────────────────────────────────────────────────────────
+
+Oh man, this is going to be the sickest thing ever!
+────────────────────────────────────────────────────────────────────────
+Post #61  (forum post #3212392)
+Author    : MonsieurTox
+Date      : Feb 18, 2014 at 3:33 AM
+────────────────────────────────────────────────────────────────────────
+
+My fav parts of ED 209 ! Great job !
+────────────────────────────────────────────────────────────────────────
+Post #62  (forum post #3213101)
+Author    : joberg
+Date      : Feb 18, 2014 at 2:54 PM
+────────────────────────────────────────────────────────────────────────
+
+Looking at the milling of that part makes me giddy with anticipation; beauty:cool
+────────────────────────────────────────────────────────────────────────
+Post #63  (forum post #3214469)
+Author    : CheesyGrin
+Date      : Feb 19, 2014 at 6:59 PM
+Reactions : Like — struschie
+────────────────────────────────────────────────────────────────────────
+
+Thanks for the great comments guys!  I really appreciate it.
+
+Leg rail progress was made but I'll wait to post images when they're complete.  In the meantime, I've been trying to figure out the threaded rod mechanism that traverses the center of the leg rail assembly.  This threaded rod rotates along with the plate on the leg rail cap:
+
+[IMAGE: ED209_Rod_01jpg_zpsb9a2dc20.jpg]
+
+I want mine to rotate in like manner, of course! :$
+
+It's clear from this image of the hero puppet that the 'rod' is an allen head screw.  I'm estimating it to be a #10-24 screw.  After much searching, though, I can't find a fully threaded, 4" #10-24 allen head screw.  Boo.  Best I could find was a 4" long 1/4-20 screw.  1/4" diameter seemed too big when compared with the hero puppet. I also struggled to discern what the screw passes through which allows 360 deg. rotation.  It doesn't look like a bearing but I could be wrong:
+
+[IMAGE: ED209_Rod_zps90d18594.jpg]
+
+After much thinking and sketching, I've devised a solution:
+
+[IMAGE: ED209_LegRail_RodDesign_zps20a0c6f0.jpg]
+
+If anyone has insight or thoughts, feel free to share.
+────────────────────────────────────────────────────────────────────────
+Post #64  (forum post #3214727)
+Author    : vectorzero
+Date      : Feb 20, 2014 at 2:54 AM
+Reactions : Like — struschie
+────────────────────────────────────────────────────────────────────────
+
+Looks good Chris. There MUST be a bearing in the top of the leg. You can see what looks like the counterpart bearing in the base of the leg. (This is a crop of R04 - Endgame (Legs)106.jpg in our shared material.)
+
+[IMAGE: 77161-4c4e4ad6ac6842fdda254c4b4c8c9796.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #65  (forum post #3214997)
+Author    : CheesyGrin
+Date      : Feb 20, 2014 at 8:36 AM
+────────────────────────────────────────────────────────────────────────
+
+vectorzero said:
+
+			Looks good Chris. There MUST be a bearing in the top of the leg. You can see what looks like the counterpart bearing in the base of the leg. (This is a crop of R04 - Endgame (Legs)106.jpg in our shared material.)
+		
+
+Click to expand...
+
+A bearing is my best estimation as well.  I believe my design will replicate the mechanical motion just fine.  I think deviations from the hero puppet will be minor cosmetics.  I'm 98% certain I'll use the design laid out.  My next step is to recreate the leg rail cap in SketchUp.  This will clarify the final length of the threaded rod.
+
+Once this is resolved, I'll move onto the 'guts' of the box the threaded rod passes through.  I know the rod passes through something in that box but I have no clue what it might be.  I am almost certain, though, that the slide motion (up and down the leg rails) is decoupled from the threaded rod.  In other words, I don't think Tippett turned the rods to move ED up and down the leg rails.  There are instances in the movie where the rods turned but the body did not move up or down.  I could be wrong, though.  If anyone has thoughts please share.
+
+Another piece of this puzzle to figure out! :wacko
+
+vectorzero: Thanks for your input! :thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #66  (forum post #3219770)
+Author    : robbins98033
+Date      : Feb 24, 2014 at 3:06 PM
+────────────────────────────────────────────────────────────────────────
+
+Coming along nicely!  Your ED is gonna be sick!
+
+btw, added some new renders of my virtual ED.  Lemme know if you need any parts!
+
+Robbins Digital Art
+
+[IMAGE: 78522-f6a4d6529261089c305180a2a5faee73.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #67  (forum post #3221255)
+Author    : joberg
+Date      : Feb 25, 2014 at 5:03 PM
+────────────────────────────────────────────────────────────────────────
+
+Yep, not clear on the rod thing myself...something else to discover and trying to come up with another idea:confused
+────────────────────────────────────────────────────────────────────────
+Post #68  (forum post #3223856)
+Author    : Leigh
+Date      : Feb 27, 2014 at 11:23 PM
+────────────────────────────────────────────────────────────────────────
+
+This is a really interesting build & love the attention to detail & the whole process :thumbsup
+
+I'd always assumed the threaded rod made the box go up & down just like a two poster ramp. Interestingly on a two poster ramp the threaded rod goes through a large bronze nut which moves up & down it. It also crossed my mind that you could use an "Oilite" flanged bush top & bottom of the threaded rod if space is an issue.
+
+Just a thought 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Edit: http://www.getyourbearings.co.uk/flanged-oilite/aj030504.html
+
+There's some good shots of the leg mechanisms here, I'm sure you've seen this already though 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+http://www.youtube.com/watch?v=z8o6ACD7v1E
+────────────────────────────────────────────────────────────────────────
+Post #69  (forum post #3223886)
+Author    : vectorzero
+Date      : Feb 28, 2014 at 12:58 AM
+Reactions : Like — struschie
+────────────────────────────────────────────────────────────────────────
+
+I've been staring at this shot for a while. The bearing in the base of the leg rail has a definite flange, and looks to locate the block through which the threaded rod passes when it is in the 'down' position. This means the slot is wider than the rod, and to me further supports the idea that the slot in the block which rises up and down the leg is not connected to the rod at all.
+
+[IMAGE: 79565-e7bd09a13744ec62f84e02b0516b3394.jpg]
+
+The articulation of this whole knee section is independent of the mechanics when you study frame by frame. The piston group appears to connect to a round plate on top of the leg rail. In reality the pistons are totally independent as this shot shows. I think ED's ride height is set by tightening the black pins on (arrowed) on each side of each leg. Maybe I'm hallucinating but is there a hex in that pin?
+
+[IMAGE: 79566-942754442f78ab3f4abec105a501fcf3.jpg]
+
+My 2 cents!
+────────────────────────────────────────────────────────────────────────
+Post #70  (forum post #3223889)
+Author    : ralphee
+Date      : Feb 28, 2014 at 1:00 AM
+────────────────────────────────────────────────────────────────────────
+
+Looks like a hex screw to me for sure, and the flanged bearing, looks like its nylon???
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #71  (forum post #3223946)
+Author    : CheesyGrin
+Date      : Feb 28, 2014 at 4:51 AM
+────────────────────────────────────────────────────────────────────────
+
+robbins98033 said:
+
+			Coming along nicely!  Your ED is gonna be sick!
+
+btw, added some new renders of my virtual ED.  Lemme know if you need any parts!
+
+Robbins Digital Art
+
+Click to expand...
+
+Awesome 3d model!  Thanks for the help, too. :cool
+
+			This is a really interesting build & love the attention to detail & the whole process :thumbsup
+
+I'd always assumed the threaded rod made the box go up & down just like a two poster ramp. Interestingly on a two poster ramp the threaded rod goes through a large bronze nut which moves up & down it. It also crossed my mind that you could use an "Oilite" flanged bush top & bottom of the threaded rod if space is an issue.
+
+Just a thought 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Edit: http://www.getyourbearings.co.uk/fla.../aj030504.html
+
+There's some good shots of the leg mechanisms here, I'm sure you've seen this already though 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Robocop - 08 The Boardroom: Storyboard with commentary by Animator Phil Tippett - YouTube
+
+Click to expand...
+
+Thanks!  These are great thoughts.  I've pondered the oiled bushing idea as well.
+
+			I've been staring at this shot for a while. The bearing in the base of the leg rail has a definite flange, and looks to locate the block through which the threaded rod passes when it is in the 'down' position. This means the slot is wider than the rod, and to me further supports the idea that the slot in the block which rises up and down the leg is not connected to the rod at all.
+
+The articulation of this whole knee section is independent of the mechanics when you study frame by frame. The piston group appears to connect to a round plate on top of the leg rail. In reality the pistons are totally independent as this shot shows. I think ED's ride height is set by tightening the black pins on (arrowed) on each side of each leg. Maybe I'm hallucinating but is there a hex in that pin?
+		
+
+Click to expand...
+
+Neil, I've stared at those images for what seems like days.  After reviewing the stills, I may be altering my opinion about the link between the slider box and the threaded rod.  They may be coupled, in fact.  I'm sketching up (no pun intended) my thoughts and will post something this evening.  I'll present in an exploded view so we all can see the idea and mechanics clearly.
+
+- - - Updated - - -
+
+			Looks like a hex screw to me for sure, and the flanged bearing, looks like its nylon???
+		
+
+Click to expand...
+
+Lee - there's definitely a nylon-ish material that sits on both sides of the threaded rod.
+────────────────────────────────────────────────────────────────────────
+Post #72  (forum post #3223989)
+Author    : vectorzero
+Date      : Feb 28, 2014 at 5:59 AM
+────────────────────────────────────────────────────────────────────────
+
+Hmm
+
+Perhaps a threaded collar with two projections that lock into the 'counterweight' along the axis of those black pins?
+
+Sure would simplify the animation if you could twirl the main threaded rod, and raise and lower the knee that way. You wouldn't need to keep locking and unlocking the knee joint that way.
+
+Neil
+────────────────────────────────────────────────────────────────────────
+Post #73  (forum post #3224045)
+Author    : CheesyGrin
+Date      : Feb 28, 2014 at 7:13 AM
+────────────────────────────────────────────────────────────────────────
+
+vectorzero said:
+
+			Hmm
+
+Perhaps a threaded collar with two projections that lock into the 'counterweight' along the axis of those black pins?
+
+Sure would simplify the animation if you could twirl the main threaded rod, and raise and lower the knee that way. You wouldn't need to keep locking and unlocking the knee joint that way.
+
+Neil
+		
+
+Click to expand...
+
+Yes, agreed on the animation.  The whole upper body must maintain position when moved up/down the rails.  Mechanically, based on other inspections of the joint, it makes most sense to use the strength of the threads to maintain the position.  Otherwise, a clamping mechanism is needed.  I don't see evidence of clamping mechanism aside from the two black screws at the box's pivot point.  I'm nearly convinced that they are NOT being used for any substantial mechanical holding aside from attaching the rail shell to the aluminum rail.
+
+Pictures are worth lots of words.  I'll illustrate my thinking this evening.
+────────────────────────────────────────────────────────────────────────
+Post #74  (forum post #3224632)
+Author    : CheesyGrin
+Date      : Feb 28, 2014 at 4:37 PM
+Reactions : Like — knnyjay, struschie
+────────────────────────────────────────────────────────────────────────
+
+Hi All,
+
+Here are the images that will hopefully illustrate my thinking on Ed's rise/lower motion.  This design constantly engages the threaded rod allowing the rise/lower motion and maintains the position at all times.  No mechanical clamps needed.  Rise/lower is controlled by turning the threaded rod.  I must admit, even if this is not how the original puppet functioned, I like it regardless.  It just seems cool to have this linear motion!  
+
+Thoughts and suggestions welcomed:
+
+[IMAGE: ED209_ThreadedMech_01_zps6f9044ae.jpg]
+
+[IMAGE: ED209_ThreadedMech_02_zps42e144bd.jpg]
+
+[IMAGE: ED209_ThreadedMech_03_zps9209b9ec.jpg]
+
+[IMAGE: ED209_ThreadedMech_04_zpsbe2e6ee3.jpg]
+
+[IMAGE: ED209_ThreadedMech_05_zpsd4670380.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #75  (forum post #3224844)
+Author    : dsp5500
+Date      : Feb 28, 2014 at 9:44 PM
+Reactions : Like — struschie
+────────────────────────────────────────────────────────────────────────
+
+I would agree thats the way it was done. I made a similar design for the breathing mechanism for the Taun. Simply rotate the screw and the threaded block moves up and down.
+
+[IMAGE: 79782-df79a851cf512d8817ae80b1aaa0ffa1.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #76  (forum post #3225648)
+Author    : CheesyGrin
+Date      : Mar 1, 2014 at 5:19 PM
+Reactions : Like — Leigh
+────────────────────────────────────────────────────────────────────────
+
+dsp5500 said:
+
+			I would agree thats the way it was done. I made a similar design for the breathing mechanism for the Taun. Simply rotate the screw and the threaded block moves up and down.
+		
+
+Click to expand...
+
+Awesome.  With that, it's settled then.  The threaded rod in my ED will actuate the rise and lower motion.  I received the last of the mechanical parts from McMaster Carr on Friday.  Build progress to commence this week.
+
+Thanks everyone.
+────────────────────────────────────────────────────────────────────────
+Post #77  (forum post #3226452)
+Author    : joberg
+Date      : Mar 2, 2014 at 2:37 PM
+────────────────────────────────────────────────────────────────────────
+
+Ah o.k.  now I see (thanks ds5500)and keep up the good work CheesyGrin these rendering are beautiful:cool
+────────────────────────────────────────────────────────────────────────
+Post #78  (forum post #3228950)
+Author    : CheesyGrin
+Date      : Mar 4, 2014 at 4:56 PM
+────────────────────────────────────────────────────────────────────────
+
+joberg said:
+
+			Ah o.k.  now I see (thanks ds5500)and keep up the good work CheesyGrin these rendering are beautiful:cool
+		
+
+Click to expand...
+
+Thanks!  They're a means to an end but the model is turning out to be more detailed than I originally envisioned.
+
+For or those who haven't seen this yet - oh my.
+
+Building Up to Maker Faire: Shawn Thorsson Brings ED-209 to Life | MAKE
+────────────────────────────────────────────────────────────────────────
+Post #79  (forum post #3230165)
+Author    : joberg
+Date      : Mar 5, 2014 at 4:55 PM
+────────────────────────────────────────────────────────────────────────
+
+Yep, Shawn has posted his build already and it's going to be a huuuge one.  More ED-209 on the RPF: I can live with that
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #80  (forum post #3241815)
+Author    : F S CREATIONS
+Date      : Mar 16, 2014 at 3:01 PM
+────────────────────────────────────────────────────────────────────────
+
+Definitely watching this build, great work so far!
+────────────────────────────────────────────────────────────────────────
+Post #81  (forum post #3257525)
+Author    : CheesyGrin
+Date      : Mar 29, 2014 at 2:03 PM
+Reactions : Like — knnyjay, EddieL, vectorzero
+────────────────────────────────────────────────────────────────────────
+
+F S CREATIONS said:
+
+			Definitely watching this build, great work so far!
+		
+
+Click to expand...
+
+Thank you!
+
+I must apologize for the lack of posts over the last 4 weeks.  Life stuff took priority. Also, since my last post, I screwed up royally.  I made my first major machining mistake on one of the leg rail assemblies.  It was so bad I had to scrap 3 of the 4 parts and start over.  It was about 16 hrs of work - POOF!- like it never happened! :thumbsdown
+
+But I'll put my behind in the past and let you know that I cranked everything back up today (thanks to my great wife).  I re-machined the bum leg rail and added some details to the other.  In all I put about 8 hrs in today's work.  :thumbsup  Here's the latest:
+
+[IMAGE: ED209_BuildLog_78_zpsdfdcee02.jpg]
+
+[IMAGE: ED209_BuildLog_79_zpsf882b247.jpg]
+
+[IMAGE: ED209_BuildLog_80_zpsd75cee60.jpg]
+
+Here's both leg rail assemblies.  The pin is for connecting the foot assembly to the leg rail.
+
+[IMAGE: ED209_BuildLog_82_zps78c29d38.jpg]
+
+Thanks for following!
+────────────────────────────────────────────────────────────────────────
+Post #82  (forum post #3257742)
+Author    : joberg
+Date      : Mar 29, 2014 at 6:22 PM
+────────────────────────────────────────────────────────────────────────
+
+Beautiful work once again!  That ED-209 is going to be a work of Art:cool
+────────────────────────────────────────────────────────────────────────
+Post #83  (forum post #3281607)
+Author    : CheesyGrin
+Date      : Apr 20, 2014 at 3:24 PM
+Reactions : Like — knnyjay, EddieL, ProfKSergeev
+────────────────────────────────────────────────────────────────────────
+
+joberg said:
+
+			Beautiful work once again!  That ED-209 is going to be a work of Art:cool
+		
+
+Click to expand...
+
+Thanks Joberg!  'Work of art' is strong language.  We'll see...
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Progress has slowed due to other commitments but I did get some shop time this weekend.  Here's an update-
+
+I needed to thread the shin pin #2-56 so I could attach it to the leg rail.  This little threading operation took me 5 tries before I got this result:
+
+[IMAGE: ED209_BuildLog_83_zps7ad21024.jpg]
+
+This weekend's main goal was to get the leg rail bearings inserted.  My smallest boring tool barely fit in the 3/8" hole for the bearings!
+
+[IMAGE: ED209_BuildLog_84_zps7cef409c.jpg]
+
+[IMAGE: ED209_BuildLog_85_zpsee8d800b.jpg]
+
+After a little more work today, I finished the assembly:
+
+[IMAGE: ED209_BuildLog_86_zps7cad0096.jpg]
+
+[IMAGE: ED209_BuildLog_87_zps60ef98df.jpg]
+
+[IMAGE: ED209_BuildLog_88_zps1d33893d.jpg]
+
+[IMAGE: ED209_BuildLog_89_zpsb9153868.jpg]
+
+The leg rails were quite tedious (a massive understatement).  I've built lots of models over the years, but nothing like this.  Cutting these rails was the most nerve-racking build process I've ever undertaken.  Overall, though, I'm pleased with the results.
+
+Sorry for the limited posts.  Hopefully I can pick up some speed as I move onto some less complicated pieces.  
+
+Thanks for following along!
+────────────────────────────────────────────────────────────────────────
+Post #84  (forum post #3281658)
+Author    : joewhite
+Date      : Apr 20, 2014 at 4:31 PM
+────────────────────────────────────────────────────────────────────────
+
+Words cannot describe what I am thinking after that update!
+
+Joe
+────────────────────────────────────────────────────────────────────────
+Post #85  (forum post #3281670)
+Author    : dragnink
+Date      : Apr 20, 2014 at 4:40 PM
+────────────────────────────────────────────────────────────────────────
+
+Wow that's beautiful!!
+────────────────────────────────────────────────────────────────────────
+Post #86  (forum post #3282022)
+Author    : vectorzero
+Date      : Apr 21, 2014 at 12:25 AM
+────────────────────────────────────────────────────────────────────────
+
+That looks beautiful!
+────────────────────────────────────────────────────────────────────────
+Post #87  (forum post #3282295)
+Author    : MonsieurTox
+Date      : Apr 21, 2014 at 9:16 AM
+────────────────────────────────────────────────────────────────────────
+
+Impressive skills ! This section is an awesome display model by itself ! Always a great pleasure to follow your progress, keep up the good work !
+────────────────────────────────────────────────────────────────────────
+Post #88  (forum post #3282677)
+Author    : joberg
+Date      : Apr 21, 2014 at 4:23 PM
+────────────────────────────────────────────────────────────────────────
+
+Those gams are cool for sure:cool keep up the great work, it's going to rock for sure!!
+────────────────────────────────────────────────────────────────────────
+Post #89  (forum post #3282942)
+Author    : maxhebus
+Date      : Apr 21, 2014 at 10:26 PM
+────────────────────────────────────────────────────────────────────────
+
+Oh my.... Watching this one since the beginning and I'm still impressed.
+
+Hope you'll find the energy and the time to finish this project as it has been inspiring.
+
+I'm not gonna invest in a lathe nor a router but you made me want to learn CAD software to understand how it works.
+
+And The ED armature as a learning exercise seems to be a good idea.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+PM me if you're keen to share the measurements.
+
+Can't wait to see your progresses.
+
+Steph
+────────────────────────────────────────────────────────────────────────
+Post #90  (forum post #3283140)
+Author    : CheesyGrin
+Date      : Apr 22, 2014 at 5:48 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks to all for the great feedback!
+
+maxhebus - PM sent.
+────────────────────────────────────────────────────────────────────────
+Post #91  (forum post #3285715)
+Author    : Wes R
+Date      : Apr 24, 2014 at 11:38 AM
+────────────────────────────────────────────────────────────────────────
+
+Looking amazing. I'd love to stick one of these in my Neca 209 since it's a bit low on articulation lol
+────────────────────────────────────────────────────────────────────────
+Post #92  (forum post #3300670)
+Author    : MartinSivertsen
+Date      : May 8, 2014 at 8:13 AM
+────────────────────────────────────────────────────────────────────────
+
+Wow, this is a beautiful build, I can't wait to see it inch along!
+────────────────────────────────────────────────────────────────────────
+Post #93  (forum post #3312728)
+Author    : CheesyGrin
+Date      : May 19, 2014 at 6:21 PM
+────────────────────────────────────────────────────────────────────────
+
+Wes R said:
+
+			Looking amazing. I'd love to stick one of these in my Neca 209 since it's a bit low on articulation lol
+		
+
+Click to expand...
+
+			Wow, this is a beautiful build, I can't wait to see it inch along!
+		
+
+Click to expand...
+
+Thanks guys!
+
+Small update.  I try to think a few steps ahead throughout a build.  As I've gotten closer to having ED's lower half completed, I've been thinking about the body parts.  My original plan was to re-use the Horizon kit parts.  But my kit is 20+ years old and has warped over time.  I wasn't looking forward to repairing the parts honestly.  After much pondering I don't think I'm re-using the Horizon parts.  This leaves me with a clear impediment.
+
+So I built a tool to help me reconstruct new body parts:
+
+[IMAGE: DSCF6549_zps46624d3f.jpg]
+
+This build just took a sharp turn towards serious.  :wacko
+────────────────────────────────────────────────────────────────────────
+Post #94  (forum post #3312735)
+Author    : joewhite
+Date      : May 19, 2014 at 6:35 PM
+────────────────────────────────────────────────────────────────────────
+
+What is that? A 3D printer? If so....I now hate you! :cry
+
+Not really....these are tears of joy for you and your build. Not jealousy. Really, though, I'm not jealous at all. Not one bit.......:behave.
+
+Joe
+────────────────────────────────────────────────────────────────────────
+Post #95  (forum post #3312748)
+Author    : CheesyGrin
+Date      : May 19, 2014 at 6:48 PM
+────────────────────────────────────────────────────────────────────────
+
+joewhite said:
+
+			What is that? A 3D printer? If so....I now hate you! :cry
+
+Not really....these are tears of joy for you and your build. Not jealousy. Really, though, I'm not jealous at all. Not one bit.......:behave.
+		
+
+Click to expand...
+
+Hi Joe,
+
+yes, it a 3D printer.  All open source, no kit, just a lot of research and learning from others builds.  Took about 3 weeks to source all the parts and about 2 days to build and prep for printing.  I'm still working on the tuning.  In all, a great experience and super sweet tool in my model building arsenal.
+────────────────────────────────────────────────────────────────────────
+Post #96  (forum post #3312762)
+Author    : joewhite
+Date      : May 19, 2014 at 7:02 PM
+────────────────────────────────────────────────────────────────────────
+
+That's so cool! I've been looking at the printers in the ad on the main page. Still working on trying to build or buy a cnc router though.
+
+Joe
+────────────────────────────────────────────────────────────────────────
+Post #97  (forum post #3312796)
+Author    : dsp5500
+Date      : May 19, 2014 at 7:32 PM
+────────────────────────────────────────────────────────────────────────
+
+Well done, That looks really cool :thumbsup
+
+I have a CMM on its way to me so let me know if you want the horizon kit parts digitised.
+
+Rob
+────────────────────────────────────────────────────────────────────────
+Post #98  (forum post #3313088)
+Author    : CheesyGrin
+Date      : May 20, 2014 at 5:09 AM
+────────────────────────────────────────────────────────────────────────
+
+joewhite said:
+
+			That's so cool! I've been looking at the printers in the ad on the main page. Still working on trying to build or buy a cnc router though.
+
+Joe
+		
+
+Click to expand...
+
+I debated between a 3D printer and a CNC router - the Shapeoko 2 to be exact.  For purposes of completing the ED-209, I decided the 3D printer would provide more utility.  No doubt, I have my eye on a CNC machine.  But I have to stage these things with great strategy.  The wife notices when large, electro-mechanical machines magically materialize on her dining room table.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+- - - Updated - - -
+
+dsp5500 said:
+
+			Well done, That looks really cool :thumbsup
+
+I have a CMM on its way to me so let me know if you want the horizon kit parts digitised.
+
+Rob
+		
+
+Click to expand...
+
+Thanks Rob.  Saw your PM too.  I'll ping you.
+────────────────────────────────────────────────────────────────────────
+Post #99  (forum post #3313341)
+Author    : joewhite
+Date      : May 20, 2014 at 10:23 AM
+────────────────────────────────────────────────────────────────────────
+
+CheesyGrin said:
+
+			I debated between a 3D printer and a CNC router - the Shapeoko 2 to be exact.  For purposes of completing the ED-209, I decided the 3D printer would provide more utility.  No doubt, I have my eye on a CNC machine.  But I have to stage these things with great strategy.  The wife notices when large, electro-mechanical machines magically materialize on her dining room table.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+.
+		
+
+Click to expand...
+
+Yup. Shapeoko 2 is my choice as well. And double yup on the wife part! I've got no room for anything in this damn house and the wife doesn't understand me buying stuff for when I do get some shop room. Likewise, she also doesn't agree with just setting it up on the dining table.
+
+Joe
+────────────────────────────────────────────────────────────────────────
+Post #100  (forum post #3318568)
+Author    : CheesyGrin
+Date      : May 25, 2014 at 1:24 PM
+Reactions : Like — knnyjay
+────────────────────────────────────────────────────────────────────────
+
+Hi All,
+
+Yesterday, I tested my printer's ability to produce hi-res prints.  I wasn't disappointed!  Here's a sculpt a kind soul posted to Thingiverse.  I was amazed that my printer was able to reproduce the skin texture details - even the slight veins under the skin.  I was happy.
+
+Now onto ED-209 pieces!  I think I'll do the toes first….
+
+[IMAGE: DSCF6552_zpsbecab356.jpg]
+
+[IMAGE: DSCF6554_zps38e41fdc.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #101  (forum post #3318708)
+Author    : joberg
+Date      : May 25, 2014 at 4:26 PM
+────────────────────────────────────────────────────────────────────────
+
+Oohh, spooky!  Yep, your 3-D printer is working well
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ now the next installment is going to be as cool as the others!
+────────────────────────────────────────────────────────────────────────
+Post #102  (forum post #3321998)
+Author    : maxhebus
+Date      : May 28, 2014 at 6:54 PM
+────────────────────────────────────────────────────────────────────────
+
+Hey Chris,
+
+Sorry mate, It's kind of crazy right now at work and it's gonna be like that until end of June.  :/
+
+I'm so glad that your printer gives you that kind of result.  I've seen some more expensive ones not doing as good.
+
+You should try the styrene material for your printer.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Stephane
+────────────────────────────────────────────────────────────────────────
+Post #103  (forum post #3325138)
+Author    : CheesyGrin
+Date      : May 31, 2014 at 6:44 PM
+Reactions : Like — knnyjay, struschie
+────────────────────────────────────────────────────────────────────────
+
+Hi All,
+
+Here's the first ED-209 parts from the new printer:
+
+First, I had to make SketchUp do what I wanted.  I was mostly successful.
+
+[IMAGE: ED209_r5_3_skp_-_SketchUp_Make_zps3d58f961.jpg]
+
+Heres' the toe pad during printing.  I was pleased the printer produced the tread pattern well:
+
+[IMAGE: ED209_BuildLog_90_zps19de02e6.jpg]
+
+Finished and pulled straight from the printer.  This is a size comparison to the Horizon kit part:
+
+[IMAGE: ED209_BuildLog_94_zpse4444c91.jpg]
+
+[IMAGE: ED209_BuildLog_93_zps6bfe10bc.jpg]
+
+[IMAGE: ED209_BuildLog_91_zpsf03b0787.jpg]
+
+[IMAGE: ED209_BuildLog_92_zps6a1158b7.jpg]
+
+I also quickly printed the toe shroud:
+
+[IMAGE: ED209_BuildLog_95_zpsc982d1a6.jpg]
+
+[IMAGE: ED209_BuildLog_96_zps3aad89af.jpg]
+
+[IMAGE: ED209_BuildLog_97_zps7b76cc4b.jpg]
+
+[IMAGE: ED209_BuildLog_98_zps20081bfd.jpg]
+
+[IMAGE: ED209_BuildLog_100_zps8c6bbab8.jpg]
+
+This was a cool process to work through. These results validate the 3D printer as a viable tool for creating the parts I need.  Stay tuned....
+────────────────────────────────────────────────────────────────────────
+Post #104  (forum post #3325699)
+Author    : joberg
+Date      : Jun 1, 2014 at 2:08 PM
+────────────────────────────────────────────────────────────────────────
+
+Great results for sure.  How are you gonna clean the 3-D piece (acetone?).
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #105  (forum post #3325798)
+Author    : CheesyGrin
+Date      : Jun 1, 2014 at 4:29 PM
+────────────────────────────────────────────────────────────────────────
+
+joberg said:
+
+			Great results for sure.  How are you gonna clean the 3-D piece (acetone?).
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+Yes, I'm going to round the edges a bit with sandpaper and then try acetone.
+────────────────────────────────────────────────────────────────────────
+Post #106  (forum post #3326849)
+Author    : CheesyGrin
+Date      : Jun 2, 2014 at 7:27 PM
+Reactions : Like — knnyjay, struschie
+────────────────────────────────────────────────────────────────────────
+
+After printing the toe, I was unsatisfied with the hard, angular look.  The studio model clearly had a more curved appearance.  It bugged me that mine wasn't curved.  So I revisited my 3D model.
+
+Before going further, please allow me a moment to vent: To get this far in the build I researched for 1 freakin' month.  I reverse engineered the armature from two freakin' b&w photos.  I setup a small machine shop in my freakin' garage.  I taught myself how to freakin' machine metal.  Most recently, I built a freakin' 3D printer.  None of this freakin' work was harder than creating these freakin' curved surfaces in freakin' SketchUp.
+
+Thank you.  I'm better now.
+
+Here's a comparison of the old vs. new:
+
+[IMAGE: ED209_r5_3_skp_-_SketchUp_Make_zps354e3699.jpg]
+
+And here's an in-process of the shin shroud and finished toes:
+
+[IMAGE: ED209_r5_3_skp_-_SketchUp_Make2_zps7f4f24a0.jpg]
+
+If wasn't so late, I'd print the toes.  But not tonight.  Another update will follow in the next few days.
+────────────────────────────────────────────────────────────────────────
+Post #107  (forum post #3326851)
+Author    : jayroth
+Date      : Jun 2, 2014 at 7:30 PM
+────────────────────────────────────────────────────────────────────────
+
+Welcome to the wonderful world of 3D modeling.  FYI, Sketchup is notoriously bad at curved surfaces...
+────────────────────────────────────────────────────────────────────────
+Post #108  (forum post #3327124)
+Author    : skiffy
+Date      : Jun 3, 2014 at 4:43 AM
+────────────────────────────────────────────────────────────────────────
+
+Outstanding progress!
+
+I fully understand your need to vent - it's a shame you don't really have the time to get to know Blender. It can handle curves very well and spit out STL files.
+────────────────────────────────────────────────────────────────────────
+Post #109  (forum post #3327392)
+Author    : CheesyGrin
+Date      : Jun 3, 2014 at 10:45 AM
+────────────────────────────────────────────────────────────────────────
+
+I actually downloaded Blender last week along with an ED209 model.  There's no doubt Blender is the tool to use.  I exported an stl and all worked great.  But the learning curve is steeper than what I want to invest.  Now that I've licked the 'curve' difficulties in SketchUp, I'm hoping the remainder of the parts will be easier to construct.
+────────────────────────────────────────────────────────────────────────
+Post #110  (forum post #3332728)
+Author    : Duncanator
+Date      : Jun 9, 2014 at 12:09 AM
+────────────────────────────────────────────────────────────────────────
+
+I vaguely recall an interview about the construction of ED-209 where the builders mentioned that they incorporated subtle curves and bulges to a lot of the parts on ED because straight edges had a peculiar way of appearing concave through the camera lens.
+────────────────────────────────────────────────────────────────────────
+Post #111  (forum post #3332796)
+Author    : Noddy4000
+Date      : Jun 9, 2014 at 4:06 AM
+Reactions : Like — struschie
+────────────────────────────────────────────────────────────────────────
+
+This will be the new, very high, benchmark for anyone doing the ED-209, I reckon. Totally outstanding stuff. 
+
+SketchUp was what I started to learn on but I stopped practicing with it ages ago. Got Blender too but need to learn the basics again before I try using either system. I'd love to 3D design some of the projects I have in mind.
+────────────────────────────────────────────────────────────────────────
+Post #112  (forum post #3334933)
+Author    : struschie
+Date      : Jun 11, 2014 at 5:04 AM
+────────────────────────────────────────────────────────────────────────
+
+We're all nuts.
+
+So great to see, what you came up with 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #113  (forum post #3339233)
+Author    : joberg
+Date      : Jun 15, 2014 at 5:04 PM
+────────────────────────────────────────────────────────────────────────
+
+TFS that tidbit of info Duncanator...and great update once again CheesyGrin
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #114  (forum post #3344108)
+Author    : Duncanator
+Date      : Jun 20, 2014 at 8:13 PM
+────────────────────────────────────────────────────────────────────────
+
+What does TFS mean?
+────────────────────────────────────────────────────────────────────────
+Post #115  (forum post #3344283)
+Author    : spinner 44
+Date      : Jun 21, 2014 at 3:07 AM
+────────────────────────────────────────────────────────────────────────
+
+I hope you find some of the photos on this li k usefull for your proyect which, I have to say, is a work of art and precission.
+
+https://www.facebook.com/pages/Chronicle-Collectibles/1396578460601995?sk=photos_stream
+────────────────────────────────────────────────────────────────────────
+Post #116  (forum post #3508893)
+Author    : NAINJAUNE
+Date      : Dec 10, 2014 at 10:03 AM
+Reactions : Like — ProfKSergeev
+────────────────────────────────────────────────────────────────────────
+
+DEPUIS CE Que je ai trouvé après, je ai commencer à Fabriquer l'ED 209 Entièrement en aluminium 
+
+http://www.artmoviefan.net/t6114-robot-ed-209
+
+[IMAGE: 168729-5c980f0a8bb07e4a672964ab0293a963.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #117  (forum post #3509873)
+Author    : DaddyfromNaboo
+Date      : Dec 11, 2014 at 12:31 PM
+────────────────────────────────────────────────────────────────────────
+
+NAINJAUNE said:
+
+			DEPUIS CE Que je ai trouvé après, je ai commencer à Fabriquer l'ED 209 Entièrement en aluminium 
+
+http://www.artmoviefan.net/t6114-robot-ed-209
+
+View attachment 414103
+
+Click to expand...
+
+Hey man, welcome to the forum. Please note that the forum language is English, so please translate and repost. 
+
+And no, I am not reminding him of this because today I had to make a call to France to work out a deal with one of their largest insurance companies and I could not reach the person I was looking for because the secretary who answerd the phone did neither speak Englsh nor German 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ I am reminding him of the forum language because after said incident I kick myself even more for not learning French in school 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #118  (forum post #3509928)
+Author    : MonsieurTox
+Date      : Dec 11, 2014 at 1:32 PM
+────────────────────────────────────────────────────────────────────────
+
+Well to be honest what is written above is not even correct french, it looks like it has been translated with an online translator from another language. I dont understand what is written.
+
+DaddyfromNaboo said:
+
+			Hey man, welcome to the forum. Please note that the forum language is English, so please translate and repost. 
+
+And no, I am not reminding him of this because today I had to make a call to France to work out a deal with one of their largest insurance companies and I could not reach the person I was looking for because the secretary who answerd the phone did neither speak Englsh nor German 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ I am reminding him of the forum language because after said incident I kick myself even more for not learning French in school 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #119  (forum post #3509932)
+Author    : DaddyfromNaboo
+Date      : Dec 11, 2014 at 1:35 PM
+────────────────────────────────────────────────────────────────────────
+
+MonsieurTox said:
+
+			Well to be honest what is written above is not even correct french, it looks like it has been translated with an online translator from another language. I dont understand what is written.
+		
+
+Click to expand...
+
+So it´s a double-whammy, reason-wise, to remind that noo... member to repost 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #120  (forum post #3510105)
+Author    : joberg
+Date      : Dec 11, 2014 at 4:47 PM
+────────────────────────────────────────────────────────────────────────
+
+Well, seems that nainjaune is French...must've written the text with a phone or something.  I'll wager a "translation": Since finding this (thread I suppose), I began building my ED-209 entirely in alumium
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #121  (forum post #3522159)
+Author    : CheesyGrin
+Date      : Dec 28, 2014 at 2:45 PM
+Reactions : Like — knnyjay
+────────────────────────────────────────────────────────────────────────
+
+Hi All,
+
+A long time has passed with no updates.  I had to take a break and handle life stuff. I see that there's been some discussion, though.  That's great!  I picked the ED back up this week.  I'll reply to some of the comments and provide a build update.
+
+spinner 44 said:
+
+			I hope you find some of the photos on this li k usefull for your proyect which, I have to say, is a work of art and precission.
+
+https://www.facebook.com/pages/Chronicle-Collectibles/1396578460601995?sk=photos_stream
+
+Click to expand...
+
+Thanks for the link and the kind words!  The Chronicle ED is fantastic.  I suppose you can't get any more accurate than direct casts from the movie prop.  The pics were extraordinarily helpful and very timely.
+
+			DEPUIS CE Que je ai trouvé après, je ai commencer à Fabriquer l'ED 209 Entièrement en aluminium 
+
+http://www.artmoviefan.net/t6114-robot-ed-209
+
+Click to expand...
+
+I checked out your blog - your build is fantastic!  Very impressive metal working skills.  I wish I could read French. :cry
+
+OK, here's where I am:  Since my last update, I've been realizing the potential of the 3D printer.  I can print nearly anything.  It's really a huge asset in my tool set.  With that, it's only as good as my 3D design.  Up to this point, I've relied on Sketchup to design the ED209 armature.  Sketchup has been great for what it is and it does it's job very well.  But it does not export very cleanly to .stl format, which is the standard 3D printer file format.  My model is also not a true solid model in Sketchup.  This is the primary reason Sketchup does not export .stl files well.  So, I've spent my downtime learning a new design tool - Autodesk Fusion 360.  Fusion is a true parametric-based, solids modeling application.  It exports to .stl VERY well.  It's also free for the hobbyist.  I'm sold.  The process of re-design in Fusion forced me to evaluate some of my original assumptions about the dimensions and construction of the armature.  I believe this model to be more accurate to the original.  Again, the Chronicle pics were invaluable.
+
+Here's my new model:
+
+[IMAGE: ED209_Design_zps7bad050c.png]
+
+Another thing I did in my downtime was think about my approach to this build.  Machining the parts has been a blast.  It's my goal to use this build as a learning project, teaching myself to machine.  So far it's been a successful journey towards that goal.  One of the things I've learned,though, is that machining is a slow, laborious process where one mistake can scrap hours of hard work.  This can be frustrating to say the least.  I think I've found a better way.
+
+With my 3D printer and new design, I have the ability to rapidly prototype parts and make assemblies much faster than machining them.  As I'm working out the mechanics of an assembly, I can design in Fusion and send the design straight to my 3D printer.  I can hold a working model in my hand in a fraction of the time it takes to machine the same model.
+
+So with a new 3D model and my printer, I set out to resolve the design for Ed's knee and shocks.  To be clear, I will machine a portion of this design for the final part.  But while I'm figuring dimensions and mechanical linkages, I save myself tons of time and frustration and I end up with a much better product by using the 3D printer!  So here's the eye candy:
+
+These are the printed parts, true to the Horizon vinyl reference.  The Chronicle pics revealed some inaccuracies in the Horizon version.  I guess it's safe to say that the Horizon kit was not take directly from the movie prop.  Even so, I think the overall dimensions of the Horizon kit are good.  So onward with no loss of sleep...
+
+[IMAGE: ED209_BuildLog_104_zps71f52628.jpg]
+
+Here's the completed assembly with working shock absorbers!
+
+[IMAGE: ED209_BuildLog_103_zps9274df4a.jpg]
+
+[IMAGE: ED209_BuildLog_102_zpsf98c5610.jpg]
+
+[IMAGE: ED209_BuildLog_101_zps97f3f114.jpg]
+
+And here's the entire slide assembly mocked up:
+
+[IMAGE: ED209_BuildLog_105_zpsa6274c6a.jpg]
+
+[IMAGE: ED209_BuildLog_106_zpsd20603bd.jpg]
+
+[IMAGE: ED209_BuildLog_107_zps39d9c7cd.jpg]
+
+And there you have it.  I'll make steady progress for the foreseeable future.  Of course, I'll keep this thread updated as regularly as possible.  Thanks again to everyone for all the kind feedback.  I really appreciate it!
+────────────────────────────────────────────────────────────────────────
+Post #122  (forum post #3522221)
+Author    : joberg
+Date      : Dec 28, 2014 at 4:17 PM
+────────────────────────────────────────────────────────────────────────
+
+Great update mate!  Love the marriage between 3-D printing (for mock-up purposes) and the real metal piece. (TFS= Thanks For Sharing Duncanator
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+)
+────────────────────────────────────────────────────────────────────────
+Post #123  (forum post #3522480)
+Author    : vectorzero
+Date      : Dec 29, 2014 at 4:04 AM
+────────────────────────────────────────────────────────────────────────
+
+Welcome back Chris! 
+
+The leg looks just right to me. The vinyl nature of the Horizon kit has heavily compromised the design, and I've found it very trying to work out exactly how to get this area right. I spent hours trying to build a 3D model of the leg in FreeCAD, but I found the software a little flaky. Fusion looks very cool, but I couldn't find a free version earlier in the year. There only seem to be 30 day trials, or a year if you are a student. Is there a link?
+
+And thanks for the rationale on the need for a 3D printer. I've been working on how to 'sell' one to myself for a while. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #124  (forum post #3522490)
+Author    : MonsieurTox
+Date      : Dec 29, 2014 at 4:46 AM
+────────────────────────────────────────────────────────────────────────
+
+Nice job on the 3D parts ! This is the way to go and will save you a lot of time ! 
+
+Keep up the great work, this is a very inspiring thread.
+────────────────────────────────────────────────────────────────────────
+Post #125  (forum post #3522491)
+Author    : CheesyGrin
+Date      : Dec 29, 2014 at 4:52 AM
+────────────────────────────────────────────────────────────────────────
+
+joberg said:
+
+			Great update mate!  Love the marriage between 3-D printing (for mock-up purposes) and the real metal piece. (TFS= Thanks For Sharing Duncanator
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+)
+		
+
+Click to expand...
+
+Thank you!  Adding 3D printing to the workflow has been incredibly fun.
+
+			Welcome back Chris! 
+
+The leg looks just right to me. The vinyl nature of the Horizon kit has heavily compromised the design, and I've found it very trying to work out exactly how to get this area right. I spent hours trying to build a 3D model of the leg in FreeCAD, but I found the software a little flaky. Fusion looks very cool, but I couldn't find a free version earlier in the year. There only seem to be 30 day trials, or a year if you are a student. Is there a link?
+
+And thanks for the rationale on the need for a 3D printer. I've been working on how to 'sell' one to myself for a while. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+Thanks sir!   I was wondering how you were progressing on your build.  The Fusion 360 download is here: http://www.autodesk.com/products/fusion-360/free-trial.  When I registered, it gave me an option for 'student' or 'hobbyist' if I remember correctly.  I believe Autodesk will also send you a hobbyist license once the 30-days expire, too.  I have the download on Drive as well, I'm happy to share the file. 
+
+			Nice job on the 3D parts ! This is the way to go and will save you a lot of time ! 
+
+Keep up the great work, this is a very inspiring thread.
+		
+
+Click to expand...
+
+Thanks so much!
+────────────────────────────────────────────────────────────────────────
+Post #126  (forum post #3526410)
+Author    : imaginager
+Date      : Jan 2, 2015 at 7:32 PM
+────────────────────────────────────────────────────────────────────────
+
+Glad to see this thread making a comeback. Love that little guy.
+────────────────────────────────────────────────────────────────────────
+Post #127  (forum post #3526946)
+Author    : CheesyGrin
+Date      : Jan 3, 2015 at 1:58 PM
+Reactions : Like — knnyjay, MonsieurTox
+────────────────────────────────────────────────────────────────────────
+
+Hi All,
+
+Small update.  I worked out the inner mechanism for the knee joint.  This piece was more complicated than expected.  Nevertheless, I feel like it's licked.  Next will be the hips.
+
+[IMAGE: Design_Left_zps44fa99ea.png]
+
+[IMAGE: ED209_BuildLog_108_zps2bd53d22.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #128  (forum post #3526983)
+Author    : joewhite
+Date      : Jan 3, 2015 at 2:42 PM
+────────────────────────────────────────────────────────────────────────
+
+My hero of villians!!! Been following this. Looking great!
+
+One random question though. Lord knows I want a 3d printer. I know these are functional test parts but how do you eliminate the grooves if trying to use a printed part for a final piece?
+────────────────────────────────────────────────────────────────────────
+Post #129  (forum post #3527091)
+Author    : CheesyGrin
+Date      : Jan 3, 2015 at 5:17 PM
+Reactions : Like — Scott Graham
+────────────────────────────────────────────────────────────────────────
+
+joewhite said:
+
+			My hero of villians!!! Been following this. Looking great!
+
+One random question though. Lord knows I want a 3d printer. I know these are functional test parts but how do you eliminate the grooves if trying to use a printed part for a final piece?
+		
+
+Click to expand...
+
+Ah, the ubiquitous "how do I remove the grooves?" question!  I'm happy to give you my take.  First, know that I'm printing these parts at a low resolution for a faster print (.35 mm layer height) The grooves are more pronounced for that reason.  I will actually print some of the final parts when the time comes.  I will print these parts at .1mm layer height.  At this resolution the grooves are barely noticable when primer and paint are applied.  I will smooth the parts though for a completely non-grooved appearance.
+
+If I was printing with ABS filament I could use an acetone vapor bath and smooth the parts by way of chemistry.  This is a tried and true method that requires no elbow grease - just some safety precautions.  These parts, however, are printed with PLA filament.   Acetone has no chemical reaction with PLA.  I'll smooth simpler parts with some primer and a little sanding.  For more complex parts (ie where it's more difficult to reach nooks and crannies) I plan to use a Smooth-On product: http://www.smooth-on.com/Epoxy-Coatings-XTC/c1397_1429/index.html.  I hear this stuff works great, so we'll see.
+
+Extrusion printing will inevitably leave behind some layering evidence.  This is a small price for such a valuable output though.  I've already updated these parts with better features simply because I was able to print, drill, tap, and test real assemblies in a very short period of time.  I can hit the mill and lathe with 100% confidence that my final parts will work exactly as I expect.
+────────────────────────────────────────────────────────────────────────
+Post #130  (forum post #3527099)
+Author    : joewhite
+Date      : Jan 3, 2015 at 5:29 PM
+────────────────────────────────────────────────────────────────────────
+
+Awesome! Yeah, I'm sure that gets asked alot. I do appreciate the reply!
+
+Joe
+────────────────────────────────────────────────────────────────────────
+Post #131  (forum post #3527644)
+Author    : Treadwell
+Date      : Jan 4, 2015 at 1:57 PM
+────────────────────────────────────────────────────────────────────────
+
+One thing I don't quite grasp with the grooves thing is, is the depth of the groove the margin of error when it comes to being an accurate recreation of the original part?
+
+By filling them, am I making the part too big? By sanding them down, am I making the part too small?
+────────────────────────────────────────────────────────────────────────
+Post #132  (forum post #3527736)
+Author    : CheesyGrin
+Date      : Jan 4, 2015 at 3:59 PM
+────────────────────────────────────────────────────────────────────────
+
+Treadwell said:
+
+			One thing I don't quite grasp with the grooves thing is, is the depth of the groove the margin of error when it comes to being an accurate recreation of the original part?
+
+By filling them, am I making the part too big? By sanding them down, am I making the part too small?
+		
+
+Click to expand...
+
+Hi Treadwell - No, there is no size degradation by filling the grooves.  Unless you sand too much, of course.  The extrusion algorithm 'fits' the layers, despite their height, into the overall dimension of the part.  So, the layer height and number of layers are fit within the overall dimension.  I've used used digital calipers to verify part sizes during printer calibration.  I've been able to get the parts within .01" of my desired dimensions.  I could probably improve this to .001 if I spent enough time.
+
+Filling in the grooves is just adding filler material to the space between layers.  And it's a very small space.  I sand enough to level the filler with the edge of the layer, no more.  It's no different than filling seams on a model.  My model's size is not affected unless I over sand.
+
+In the near future, I'll print one of Ed's shocks at .1mm.  I'll post a pre-sanded and post-sanded pic.  Pictures communicate this approach far better than words. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #133  (forum post #3529612)
+Author    : joberg
+Date      : Jan 6, 2015 at 5:24 PM
+────────────────────────────────────────────────────────────────────────
+
+Great update; you're right that knee joint looks mighty good if I say so myself:cool
+────────────────────────────────────────────────────────────────────────
+Post #134  (forum post #3530319)
+Author    : TheNylonGag
+Date      : Jan 7, 2015 at 1:37 PM
+────────────────────────────────────────────────────────────────────────
+
+Great stuff Cheez meister.
+
+Gag
+────────────────────────────────────────────────────────────────────────
+Post #135  (forum post #3584360)
+Author    : icepickmethod
+Date      : Mar 10, 2015 at 7:52 PM
+────────────────────────────────────────────────────────────────────────
+
+Great work so far, the legs look like 90% of the hard part. I've been teaching myself cnc machining to make armatures, any chance i could play along at home?
+
+Here's my first test stuff. 
+
+http://i.imgur.com/sZONfmx.jpg
+────────────────────────────────────────────────────────────────────────
+Post #136  (forum post #3584378)
+Author    : knnyjay
+Date      : Mar 10, 2015 at 8:16 PM
+────────────────────────────────────────────────────────────────────────
+
+Totally impressed by your skills CG, I don't know how I missed this thread, I'll be following it from now on.
+
+Keep the excellent work 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+thumbsup:thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #137  (forum post #3584548)
+Author    : NAINJAUNE
+Date      : Mar 11, 2015 at 3:30 AM
+Reactions : Like — Sym-Cha, VFX Freak, MonsieurTox
+────────────────────────────────────────────────────────────────────────
+
+Hello, Sory for my English, i have finished my ED 209 , the head turn, the arms move.
+
+It's made whit aluminium, His weigth is 77 pounds, or 35 Kg.
+
+[IMAGE: ed_20990.jpg]
+
+[IMAGE: ed_20991.jpg]
+
+[IMAGE: ed_20992.jpg]
+
+ 
+
+Attachments
+
+[IMAGE: 194762-0c6ef4c3c4a0e6f237c312787ad6dab9.jpg]
+
+ED 209 12 (7).JPG
+
+					312.1 KB
+					
+					· Views: 270
+────────────────────────────────────────────────────────────────────────
+Post #138  (forum post #3584551)
+Author    : NAINJAUNE
+Date      : Mar 11, 2015 at 3:35 AM
+Reactions : Like — knnyjay
+────────────────────────────────────────────────────────────────────────
+
+https://www.youtube.com/watch?feature=player_embedded&v=DBYota7NIAU#t=0
+────────────────────────────────────────────────────────────────────────
+Post #139  (forum post #3584584)
+Author    : dsp5500
+Date      : Mar 11, 2015 at 4:54 AM
+────────────────────────────────────────────────────────────────────────
+
+The articulation is crazy cool:thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #140  (forum post #3584586)
+Author    : marsattack
+Date      : Mar 11, 2015 at 5:04 AM
+────────────────────────────────────────────────────────────────────────
+
+No need for English mate when you can do that !!! Wow
+────────────────────────────────────────────────────────────────────────
+Post #141  (forum post #3584899)
+Author    : MonsieurTox
+Date      : Mar 11, 2015 at 11:41 AM
+────────────────────────────────────────────────────────────────────────
+
+It's a beauty !!! What an incredible job, it looks fantastic mate !
+────────────────────────────────────────────────────────────────────────
+Post #142  (forum post #3584992)
+Author    : VFX Freak
+Date      : Mar 11, 2015 at 1:09 PM
+────────────────────────────────────────────────────────────────────────
+
+77 pounds!? Wow! Scale that up and ED would crash right through the floor. Beautiful job!
+────────────────────────────────────────────────────────────────────────
+Post #143  (forum post #3586744)
+Author    : Duncanator
+Date      : Mar 13, 2015 at 12:28 PM
+────────────────────────────────────────────────────────────────────────
+
+Wow! Did you make everything out of aluminum? The real one did have plastic shells on there too.
+
+Most impressive!
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 143

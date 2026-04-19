@@ -1,0 +1,131 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Mountin a CC/Salzo X-wing
+URL    : https://www.therpf.com/forums/threads/mountin-a-cc-salzo-x-wing.22806/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #310399)
+Author    : bobbyfett
+Date      : Mar 23, 2007 at 7:16 PM
+────────────────────────────────────────────────────────────────────────
+
+Hi All,
+
+  I've got to mount a SS X-wing to a Death Star panel base.  I'd like to mount it from the rear (  :confused ) like I often see these kits.  I measured the access hole at 13/16".  Does anyone have any suggestions for a good looking mount?  I've seen some people use raw pipe with a 90 degree elbow, but I'd like it to look a little cleaner if possible.  Any ideas?
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #310457)
+Author    : yt
+Date      : Mar 23, 2007 at 9:11 PM
+────────────────────────────────────────────────────────────────────────
+
+I would also like to hear some ideas in this department...
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #310495)
+Author    : belleauwood
+Date      : Mar 23, 2007 at 11:18 PM
+────────────────────────────────────────────────────────────────────────
+
+<div class='quotetop'>QUOTE(yt @ Mar 24 2007, 04:11 AM) [snapback]1446850[/snapback]</div>
+
+			I would also like to hear some ideas in this department...
+
+[/b]
+		
+
+Click to expand...
+
+Try this.  Get a 5/8 bit of acrylic rod. Take you heat gun, and if you have it use the "duckbill" nozzle.  All it does is help heat a wider area a bit more controlled, but if you don't, just move the gun a lot to keep from browning/burning the acrylic. Now, on a CLEAN flat surface heat it up, gently, in the area you want the bend to be until you can bend it.  GENTLY bend until you get the desired curve, keeping the heat working over the area.  I'd recommend a 45, some distance like 2-3 inches, and another 45.  Cut the excess length off to fit your display, and you're set.  If you plan it right, do a little less than 45 on both, and you X-wing won't fall off as it will be in a nice gentle climb and the weight of the model will keep it on the stand a bit better, and 
+
+"bend" it closer to 90 under spring tension.  5/8 should be enough to hold the weight of an X like this, but I haven't tried it personally.  You mileage may vary, as if you work the acrylic using too much heat and a fast bend it may shatter (eventually) under the weight. Oh, and 1/2 inch copper REPAIR sleeves (NOT 1/2 inch copper pipe) will make a great receiver "plug" in you X. Lowe's stocks 'em, DePit does not.
+
+You'll need to bond the receiver plug to the X somehow . . . take a look at what I did on my SMT shuttle for an example HERE:
+
+http://i172.photobucket.com/albums/w5/bell...ood/bsgs007.jpg
+
+http://i172.photobucket.com/albums/w5/bell...ood/bsgs008.jpg
+
+After extra resin reinforcement: 
+
+http://i172.photobucket.com/albums/w5/bell...ood/bsgs020.jpg
+
+Its pretty damn sturdy now.  
+
+  And yes, I did NOT bend the acrylic on this one, no real need. An angled plug handled the "bank and climb" I wanted without that work.
+
+http://i172.photobucket.com/albums/w5/bell...ood/bsgs012.jpg
+
+http://i172.photobucket.com/albums/w5/bell...ood/bsgs009.jpg
+
+  Hope that helps you out.
+
+  Ryan
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #310567)
+Author    : bobbyfett
+Date      : Mar 24, 2007 at 5:06 AM
+────────────────────────────────────────────────────────────────────────
+
+That sounds interesting.  Is extruded acrylic ok to use in this application?  Or will only cast work?  And what is the difference between a copper repair sleeve and a regular copper pipe?  Do they sell them with a flat "flare" on one ende to glue to inside of the mounting hole?  Sort of like a letter "T"
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #310721)
+Author    : belleauwood
+Date      : Mar 24, 2007 at 11:07 AM
+────────────────────────────────────────────────────────────────────────
+
+<div class='quotetop'>QUOTE(bobbyfett @ Mar 24 2007, 12:06 PM) [snapback]1446962[/snapback]</div>
+
+			That sounds interesting.  Is extruded acrylic ok to use in this application?  Or will only cast work?  And what is the difference between a copper repair sleeve and a regular copper pipe?  Do they sell them with a flat "flare" on one ende to glue to inside of the mounting hole?  Sort of like a letter "T"
+
+[/b]
+		
+
+Click to expand...
+
+The acrylic I've used is extruded, I get it in a huge 8 foot section that lasts for a LONG time.
+
+The copper repair sleeve is just that, it slides OVER the 1/2 standard copper pipe.  You could use some 1/2 copper pipe as an extension and also as a  "stop" on the inside of the reapir sleeve (so you 5/8 acrylic rod doens't slide all the way through) and add 1/2 "t" on a bit you leave sticking out if you wanted to go that way.
+
+  HTH
+
+  Ryan
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #310731)
+Author    : ralphee
+Date      : Mar 24, 2007 at 11:21 AM
+────────────────────────────────────────────────────────────────────────
+
+OK this may be over kill Bobby, but have you thought of a Panavise mount? It may be a lot of work but you could fit a 1/4 threaded turned bar to fit the buttplug (ooeerr did i just say that) and fit it to the CCTV mount.
+
+This way itll look way cool and you can adjust your angle of attack too, just a thought.
+
+bests....lee
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #311265)
+Author    : bobbyfett
+Date      : Mar 25, 2007 at 5:25 AM
+────────────────────────────────────────────────────────────────────────
+
+The panavise mount also seems interesting.  Do you have any suggested model numbers from Panavise?
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #311275)
+Author    : ralphee
+Date      : Mar 25, 2007 at 6:03 AM
+────────────────────────────────────────────────────────────────────────
+
+Bobby the 882-06 i think would do, im sure there the mounts i have in my stash, they really do the business buddy.
+
+If you were to fit a rod to that and slide the model onto it, that would look very cool, ive even thought of it but im happy with mounting mine from the underside now as i want the small S foil plug fitted.
+
+Its a lot more expensive that an acrylic rod but would make a nice touch.
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #311595)
+Author    : bobbyfett
+Date      : Mar 25, 2007 at 4:14 PM
+────────────────────────────────────────────────────────────────────────
+
+Do you have any pics of your setup in action?  I'd love to see how it works.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 9

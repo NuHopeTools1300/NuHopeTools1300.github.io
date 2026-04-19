@@ -1,0 +1,708 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : 32'' Millennium Falcon photogrammetry.
+URL    : https://www.therpf.com/forums/threads/32-millennium-falcon-photogrammetry.234218/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #3566258)
+Author    : devi1sdoz3n
+Date      : Feb 17, 2015 at 4:25 AM
+Reactions : Like, Love — Bjorn, MonsieurTox
+────────────────────────────────────────────────────────────────────────
+
+A long time ago I've posted a thread about reconstructing the 32'' Millennium Falcon studio model.
+
+I've finally caught enough free time (and unearthed enough reference photos) to work some more on it, and here are some results.
+
+The preliminary reconstruction of the top is done, I'm working on the bottom (a bit harder, as there are less photos available).
+
+This project will take a long time though, as I have little free time. I will post more as I go along.
+
+ 
+
+Attachments
+
+[IMAGE: 187965-33a765173f63a005d39a8c534577dc9c.jpg]
+
+1.jpg
+
+					441.3 KB
+					
+					· Views: 773
+					
+				
+
+[IMAGE: 187970-53e9952195db4e589928940572567372.jpg]
+
+6.jpg
+
+					218.2 KB
+					
+					· Views: 684
+					
+				
+
+[IMAGE: 187969-d3c6eddf3a5e51f98c8d5bbf028ce707.jpg]
+
+5.jpg
+
+					230.9 KB
+					
+					· Views: 702
+					
+				
+
+[IMAGE: 187968-aa7e136d6f8503d4d73453bc2f238a27.jpg]
+
+4.jpg
+
+					258.7 KB
+					
+					· Views: 684
+					
+				
+
+[IMAGE: 187967-2b5cb92d0d2d74cbd9bb8e34952b7476.jpg]
+
+3.jpg
+
+					182.4 KB
+					
+					· Views: 618
+					
+				
+
+[IMAGE: 187966-79af5a39619d823e36053f4d6260e746.jpg]
+
+2.jpg
+
+					723.6 KB
+					
+					· Views: 721
+					
+				
+
+[IMAGE: 187980-3cda980254624d794cb3c89e6ebbc9bf.jpg]
+
+10a.jpg
+
+					344.7 KB
+					
+					· Views: 595
+					
+				
+
+[IMAGE: 187979-3d8653219b9a8d5abf463e3f5d7f6ae4.jpg]
+
+9a.jpg
+
+					325.5 KB
+					
+					· Views: 590
+					
+				
+
+[IMAGE: 187978-ac8f18fe1e800d2cdcadfd7436707daa.jpg]
+
+8a.jpg
+
+					393.6 KB
+					
+					· Views: 590
+					
+				
+
+[IMAGE: 187977-0a877b133ed051732902759c2d667671.jpg]
+
+7a.jpg
+
+					474.8 KB
+					
+					· Views: 1,509
+					
+				
+
+[IMAGE: 187976-79a7005932614f4e7b9f633c81af99ac.jpg]
+
+6a.jpg
+
+					536.7 KB
+					
+					· Views: 1,005
+					
+				
+
+[IMAGE: 187975-1dd8849d00dac5dd58ac13b33d9ddf51.jpg]
+
+5a.jpg
+
+					298.8 KB
+					
+					· Views: 554
+					
+				
+
+[IMAGE: 187974-2a579385a2bda3bec196b7e03934d066.jpg]
+
+4a.jpg
+
+					351.8 KB
+					
+					· Views: 621
+					
+				
+
+[IMAGE: 187973-78d64b8c00aa67f33c6582ded5d5f54f.jpg]
+
+3a.jpg
+
+					351.8 KB
+					
+					· Views: 582
+					
+				
+
+[IMAGE: 187972-cf4a12c194fd2636a719f7fcd4927be2.jpg]
+
+2a.jpg
+
+					296.9 KB
+					
+					· Views: 602
+					
+				
+
+[IMAGE: 187971-d113fcd88d52b609d0a8841dd1f325a0.jpg]
+
+1a.jpg
+
+					357.8 KB
+					
+					· Views: 631
+					
+				
+
+[IMAGE: 187982-0b9bcc04b4ffafed0df4786b25fdcb6c.jpg]
+
+12a.jpg
+
+					360.7 KB
+					
+					· Views: 582
+					
+				
+
+[IMAGE: 187981-a8dc4b8c1eb6ecd786c6007782dfbf15.jpg]
+
+11a.jpg
+
+					346.7 KB
+					
+					· Views: 688
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #3566290)
+Author    : LrdSatyr8
+Date      : Feb 17, 2015 at 5:50 AM
+────────────────────────────────────────────────────────────────────────
+
+My question is... when they did the scan, they used a white light scan... why didn't they just do a 360 Laser scan of the entire ship in .0001 increments?  I can understand using the hite light scan for the paint job, but the minut details would have been picked up alot better if it was laser scanned would it not?
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #3566312)
+Author    : dsp5500
+Date      : Feb 17, 2015 at 6:34 AM
+────────────────────────────────────────────────────────────────────────
+
+SLS scanning trumps laser scanning in both speed and precision.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #3566391)
+Author    : imurme
+Date      : Feb 17, 2015 at 9:11 AM
+────────────────────────────────────────────────────────────────────────
+
+Very nice devi1sdoz3n, what are you using to do the photogrammetry?  I am interested in doing this as well.
+
+...would you mind a favor? I know your scan is a work in progress but could you post high-rez shots of the scan directly from the top and bottom in orthographic views (no perspective)? It would would be ever so helpful in working up my plans...
+
+I look forward to seeing you complete this!
+
+imurme
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #3567117)
+Author    : LrdSatyr8
+Date      : Feb 18, 2015 at 6:32 AM
+────────────────────────────────────────────────────────────────────────
+
+I'm sorry, I'm just not convinced after seeing those "scans" above.  They look awefully grainy and missing alot of data in alot of areas.  Some areas seem to be just washed out.  Maybe it's just me... I dunno!
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #3567145)
+Author    : Lee S
+Date      : Feb 18, 2015 at 7:10 AM
+────────────────────────────────────────────────────────────────────────
+
+Phorogrammetry isn't a scan, it's taking multiple photos and working out a 3D shape based on them[/h]It's the same way you see depth, or that xbox add-on 'see' you movements.
+
+L
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #3567192)
+Author    : thorst
+Date      : Feb 18, 2015 at 8:39 AM
+────────────────────────────────────────────────────────────────────────
+
+I'd also be interested in which programs you use for this. Great first results!
+
+Thorsten
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #3567444)
+Author    : devi1sdoz3n
+Date      : Feb 18, 2015 at 2:30 PM
+────────────────────────────────────────────────────────────────────────
+
+LrdSatyr8, these are not scans, they are photogrammetry solutions from the highest quality photos I could find on the web. As close to the scan as I can get without having access to the real model, which is not at all likely... 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+This is not meant to be a detailed model like say Steve Starkiller makes, but as precise a reference as I can humanly make with the photos I've got. I can then use it to make precise plans, similar to what the other guys did with the 5 foot Falcon in the other thread. 
+
+The point is that this is not an interpretation, but a pretty accurate mathematical reconstruction. The grey photos show the actual extracted 3D shape, the ones in color have the extracted texture applied.
+
+I am already seing interesting things, like asymmetries in the model where you wouldn't expect them.
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #3567448)
+Author    : devi1sdoz3n
+Date      : Feb 18, 2015 at 2:33 PM
+────────────────────────────────────────────────────────────────────────
+
+Thorsten, I use Agisoft PhotoScan and am testing Acute3D Smart3DCapture free version. For now, Photoscan seems to be better for the general camera alignment, but Smart3DCapture blows it away for model reconstruction. Unfortunately, I can only look at the model with the free version. I'll probably buy the basic version of the software if I get results I am happy with (and for now it seems I will).
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #3567623)
+Author    : vfxsup64
+Date      : Feb 18, 2015 at 6:34 PM
+────────────────────────────────────────────────────────────────────────
+
+Nice results!
+
+I'm also interested in looking at other photogrammetry solutions (in addition to Photoscan). 
+
+But, the tricky thing about any  image-based tool/technique is that the results can easily be  misleading. Issues like lens distortion, exposure, grain/noise, depth of  field and the degree of parallax triangulation can all multiply to either  help a solve - or not.
+
+I found with the ANH MF survey project  that I needed 3 different data inputs, so to speak, to help corroborate  any single tool's results:
+
+- Donor kit parts (the most important, IMHO)
+
+- 3D discreet feature point tracking (this allowed for wireframe lineups to confirm edges, corners, discrete features etc.)
+
+- 3D photogrammetry (this allowed for surface comparisons and trends - i.e. the hull dome)
+
+The three together, dovetailed nicely - at least for me!
+
+But, of course, there are many different ways up a mountain...
+
+Regards, 
+
+Andre
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #3567861)
+Author    : LrdSatyr8
+Date      : Feb 19, 2015 at 5:05 AM
+────────────────────────────────────────────────────────────────────────
+
+Ok... now I understand a bit better... basically you're stitching together all the different hi-res photos of the Falcon to generate a 3D model right?  You know I've got a bunch of links to a huge collection of actual hi-res photos of the falcon... from photos taken of the actual 32" that were taken while it was on tour in the Star Wars exhibits.  If you're interested that is.
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #3567912)
+Author    : thorst
+Date      : Feb 19, 2015 at 6:33 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks for the answer!
+
+In principle it should be possible to measure a camera's lens distortion by photographing for example a raster grid like on a student's notebook and analyse the lines in the picture. Can such a calibration be done with existing software? I assume that if the lens parameters could be fixed for the reconstruction it would lead to much more stable results...
+
+Thorsten
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #3567942)
+Author    : dsp5500
+Date      : Feb 19, 2015 at 7:26 AM
+────────────────────────────────────────────────────────────────────────
+
+Most lens distortion can be corrected using the Brown–Conrady's distortion model. Stay away from wide and fish eye lens. You can also calibrate as you describe and save calibration files per lens.
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #3568177)
+Author    : imurme
+Date      : Feb 19, 2015 at 12:40 PM
+────────────────────────────────────────────────────────────────────────
+
+LrdSatyr8 said:
+
+			Ok... now I understand a bit better... basically you're stitching together all the different hi-res photos of the Falcon to generate a 3D model right?  You know I've got a bunch of links to a huge collection of actual hi-res photos of the falcon... from photos taken of the actual 32" that were taken while it was on tour in the Star Wars exhibits.  If you're interested that is.
+		
+
+Click to expand...
+
+I would be interested in these photos as well, could I get copies? I'll PM you my email.
+
+imurme
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #3568247)
+Author    : devi1sdoz3n
+Date      : Feb 19, 2015 at 2:04 PM
+────────────────────────────────────────────────────────────────────────
+
+LrdSatyr8,
+
+the more hi-res photos, the better the reconstruction.
+
+So I'm definitely interested.
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #3568253)
+Author    : devi1sdoz3n
+Date      : Feb 19, 2015 at 2:10 PM
+────────────────────────────────────────────────────────────────────────
+
+Thorst,
+
+yes, it is posible to calibrate the lens, but I am using images I collected from all over the net so I can't do that. Right now I am using the largest images I have (around 3000 pixels on the longer side is the lowest I am willing to go for the pictures of the whole Falcon) with camera settings in the Exif. So I am depending on the software to deal with the lens distortion. Seems to be working pretty well so far.
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #3568257)
+Author    : devi1sdoz3n
+Date      : Feb 19, 2015 at 2:15 PM
+────────────────────────────────────────────────────────────────────────
+
+Andre, 
+
+of course, you are right. I will have to check and double check everything in more ways. This is just the first step. 
+
+It is actually your wonderful work with the 5 foot Falcon that inspired me to get back to this (I like the 32" model  proportions more -  heresy, I know 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ - that's why I'm working on it- And it's a challenge to see if I can do this to my satisfaction)
+
+Chris
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #3568282)
+Author    : devi1sdoz3n
+Date      : Feb 19, 2015 at 2:41 PM
+────────────────────────────────────────────────────────────────────────
+
+Here are some tests of the bottom side.
+
+ChrisView attachment 440901View attachment 440902View attachment 440903View attachment 440904View attachment 440905
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #3568499)
+Author    : imurme
+Date      : Feb 19, 2015 at 8:42 PM
+────────────────────────────────────────────────────────────────────────
+
+devi1sdoz3n said:
+
+			Here are some tests of the bottom side.
+
+ChrisView attachment 440901View attachment 440902View attachment 440903View attachment 440904View attachment 440905
+
+Click to expand...
+
+...seems your attachments did not work? could you try posting them again...
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #3568562)
+Author    : devi1sdoz3n
+Date      : Feb 19, 2015 at 10:51 PM
+────────────────────────────────────────────────────────────────────────
+
+Hm, don't know what happened there, they were visible for a time.
+
+Here goes again.
+
+ 
+
+Attachments
+
+[IMAGE: 188780-f73b0768ed18feded90dd3c98af18b3c.jpg]
+
+1b.jpg
+
+					366.5 KB
+					
+					· Views: 539
+					
+				
+
+[IMAGE: 188781-24ce032246e12f40bd4645aa0957c332.jpg]
+
+2b.jpg
+
+					225.9 KB
+					
+					· Views: 457
+					
+				
+
+[IMAGE: 188782-3d053b524e31f66173c07810997f94df.jpg]
+
+3b.jpg
+
+					272.8 KB
+					
+					· Views: 435
+					
+				
+
+[IMAGE: 188783-f6615c3be3a6430cc95c2ffbc0f229b4.jpg]
+
+4b.jpg
+
+					239.4 KB
+					
+					· Views: 415
+					
+				
+
+[IMAGE: 188784-648e8cb58766c73688b36653fc73d396.jpg]
+
+5b.jpg
+
+					284.9 KB
+					
+					· Views: 452
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #3568609)
+Author    : thorst
+Date      : Feb 20, 2015 at 12:27 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks for all the info!
+
+And the results really look great!
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #3571928)
+Author    : devi1sdoz3n
+Date      : Feb 24, 2015 at 7:57 AM
+────────────────────────────────────────────────────────────────────────
+
+Some more work on the sidewalls.
+
+This is from select 66 highest quality photos I have (sharp no depth blurring, at least 3000 px resolution on the wider side, known focal lengths and cameras).
+
+ 
+
+Attachments
+
+[IMAGE: 190021-5d5485ad0ccc5b9e74782e4f1163b79a.jpg]
+
+1c.jpg
+
+					233.9 KB
+					
+					· Views: 340
+					
+				
+
+[IMAGE: 190022-9018fcc9885a752de694f9e73371e90c.jpg]
+
+2c.jpg
+
+					302.3 KB
+					
+					· Views: 322
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #3572400)
+Author    : joberg
+Date      : Feb 24, 2015 at 5:47 PM
+────────────────────────────────────────────────────────────────────────
+
+Interesting to see the 32 MF like that. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #3572729)
+Author    : devi1sdoz3n
+Date      : Feb 25, 2015 at 3:56 AM
+────────────────────────────────────────────────────────────────────────
+
+imurme,
+
+here is the top ortho view you wanted. Two versions - the bare model, and with textures. This is a new reconstruction, done in Smart3DCapture, the most precise yet. It should be pretty accurate, but I still wouldn't use it for more than reference. You'll have to figure out the outer edges (I didn't clean up the surplus polygons, and the textures spill over them). 
+
+Chris
+
+ 
+
+Attachments
+
+Falcon_Top_Bare_Model_Faceted.jpg
+
+					4 MB
+					
+					· Views: 329
+					
+				
+
+Falcon_Top_Textured.jpg
+
+					2.8 MB
+					
+					· Views: 349
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #3572964)
+Author    : LrdSatyr8
+Date      : Feb 25, 2015 at 10:08 AM
+────────────────────────────────────────────────────────────────────────
+
+Looking good so far bro... but ya got alot of warping going on in the engine area,
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #3572981)
+Author    : devi1sdoz3n
+Date      : Feb 25, 2015 at 10:27 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks, LrdSatyr8.
+
+Yeah, the starboard engine area is problematic. I have the fewest good quality photos of it (though I do have some that I haven't used yet). 
+
+You mentioned you have some hi-res photos. PM me if you're willing to share. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Not to worry though, all this is going to be much better in the end (though even this is more that I hoped I would be able to get - I could use this together with the known dimensions from the MR Falcon to make very accurate plans). I have many more tricks up my sleeve. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Chris
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #3573082)
+Author    : imurme
+Date      : Feb 25, 2015 at 12:40 PM
+────────────────────────────────────────────────────────────────────────
+
+Thank you for posting these, they will be very helpful...
+
+I will compare them to my plans and see how they line up...there's a few areas that have been difficult for me to figure out
+
+I'm curious, are you making new solves each time with different sets of photos, or are you able to update one solve with new photos from different times....what I'm asking is, can the model be continually updated with more data as you add photos or is it dependent one one set of photos? Is that possible, so that the model can be improved over time?
+
+btw, a few posts back you mentioned that you've noticed asymmetries in the model, what did you see? just interested in anything that might make the plans more accurate....
+
+I will let you know what I discover using these renders, thanks again!
+
+imurme
+
+devi1sdoz3n said:
+
+			imurme,
+
+here is the top ortho view you wanted. Two versions - the bare model, and with textures. This is a new reconstruction, done in Smart3DCapture, the most precise yet. It should be pretty accurate, but I still wouldn't use it for more than reference. You'll have to figure out the outer edges (I didn't clean up the surplus polygons, and the textures spill over them). 
+
+Chris
+		
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #28  (forum post #3581537)
+Author    : devi1sdoz3n
+Date      : Mar 7, 2015 at 7:37 AM
+────────────────────────────────────────────────────────────────────────
+
+Just a small test. Working on getting rid of distortion and extracting as much detail as possible. I am quite happy with this - it's probably as good as it's gonna get.
+
+I will almost certainly have to do the ship in parts, unfortunately, because processing and memory requirements go through the roof very quickly.
+
+Chris
+
+ 
+
+Attachments
+
+[IMAGE: 193645-b96d0756ec8e09d1f7983e68fe728254.jpg]
+
+D1.jpg
+
+					404.2 KB
+					
+					· Views: 341
+					
+				
+
+[IMAGE: 193646-9f8e1014da099cedcab3d9b761872321.jpg]
+
+D2.jpg
+
+					409 KB
+					
+					· Views: 321
+					
+				
+
+[IMAGE: 193647-cc88c80cf26131b4ef6d08df26906e8d.jpg]
+
+D3.jpg
+
+					320.3 KB
+					
+					· Views: 272
+					
+				
+
+[IMAGE: 193648-9baa005474967c51d54c8e48c3173467.jpg]
+
+D4.jpg
+
+					358.6 KB
+					
+					· Views: 297
+────────────────────────────────────────────────────────────────────────
+Post #29  (forum post #3581546)
+Author    : devi1sdoz3n
+Date      : Mar 7, 2015 at 7:47 AM
+────────────────────────────────────────────────────────────────────────
+
+imurme,
+
+I generally have to do a new solve each time, unfortunately. But they are getting better over time, because I am adding better photos as I unearth them, and figuring out which ones work the best. I am still creating the workflow, so most of what I do for now is just testing.
+
+As for the asymmetries, the two most noticable ones are the quad gun mount (the trapezoidal plate), and the whole engine quadrant. Both are rotated counterclockwise by a small amount.
+
+I am pretty sure this is not an error in the solve caused by lens distortion. For the gun mount it can be easily observed in the photos, but the engine quadrant surprised me a bit.
+
+Chris
+────────────────────────────────────────────────────────────────────────
+Post #30  (forum post #3581599)
+Author    : thorst
+Date      : Mar 7, 2015 at 9:13 AM
+────────────────────────────────────────────────────────────────────────
+
+The latest solve looks stunning!
+────────────────────────────────────────────────────────────────────────
+Post #31  (forum post #3583762)
+Author    : LrdSatyr8
+Date      : Mar 10, 2015 at 8:03 AM
+────────────────────────────────────────────────────────────────────────
+
+What program are you using to create these??  Just curious.
+────────────────────────────────────────────────────────────────────────
+Post #32  (forum post #3598198)
+Author    : LrdSatyr8
+Date      : Mar 26, 2015 at 1:47 PM
+────────────────────────────────────────────────────────────────────────
+
+Hope my ref pics have been helping!
+────────────────────────────────────────────────────────────────────────
+Post #33  (forum post #3598629)
+Author    : Lee S
+Date      : Mar 27, 2015 at 2:34 AM
+────────────────────────────────────────────────────────────────────────
+
+Are these ref pics available to all?
+────────────────────────────────────────────────────────────────────────
+Post #34  (forum post #3598757)
+Author    : McGraph
+Date      : Mar 27, 2015 at 6:54 AM
+────────────────────────────────────────────────────────────────────────
+
+I wouldn't mind seeing the reference pics myself. I'm really looking forward to seeing what you end up with your 3d model here how close you can get it to being complete and useful. I would especially like to see any good bottom reference pics since that seems like the hardest to find.
+────────────────────────────────────────────────────────────────────────
+Post #35  (forum post #3598768)
+Author    : LrdSatyr8
+Date      : Mar 27, 2015 at 7:20 AM
+Reactions : Like — knnyjay
+────────────────────────────────────────────────────────────────────────
+
+https://www.dropbox.com/sh/xbhdubf5qd2w9ac/AAAmB7d1qyhXSmK-np6l4Y15a?dl=0#/
+
+http://www.dnkhobbies.net/maths-32-millennium-falcon-photos/
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 35

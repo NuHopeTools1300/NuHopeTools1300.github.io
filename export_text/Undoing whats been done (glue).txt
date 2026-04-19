@@ -1,0 +1,220 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Undoing whats been done (glue)
+URL    : https://www.therpf.com/forums/threads/undoing-whats-been-done-glue.58316/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #803924)
+Author    : qcfoundry
+Date      : Feb 23, 2009 at 7:07 PM
+────────────────────────────────────────────────────────────────────────
+
+(Mods, I realize this is a general modeling question, but considering the kit itself and its "value" in SS modeling, I wanted to take it to a place this subject would be best appreciated, thx)
+
+I picked up this guy at the local modeling shop for a MUCH less than it usually goes for, but as you can see, it has its ... limitations:
+
+[IMAGE: IMG_5724-vi.jpg]
+
+Question:
+
+how do i take her apart, strip the glue (who knows what kind they used back then), and strip the paint (especially on the more frail wires)?
+
+I've heard acetone helps with today's CA, but was hoping to get more detailed info and feed back from you guys.
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #803937)
+Author    : ThomasModels
+Date      : Feb 23, 2009 at 7:20 PM
+────────────────────────────────────────────────────────────────────────
+
+Depending on when it was assembled, it could have been glued with a solvent cement. If that's the case you could be limited on splitting the seams apart depending on how much solvent was used. You could place the glued parts into the freezer and in an hour or two remove them and gently[ pry the parts apart with a hobby knife. Be careful as the plastic will also become brittle and could fracture.
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #803943)
+Author    : qcfoundry
+Date      : Feb 23, 2009 at 7:25 PM
+────────────────────────────────────────────────────────────────────────
+
+solvent cement...like plastistruct plastic weld.  oh yeah.  isn't that a more recent "invention".  i am trully assuming this was put together way back in the days.  and some gooey testors glue or humbrol crap was smeared on.
+
+when i look closer at the build,
+
+i do see some of those long spider webs, cotton candy, hairy insulation threads on the piece, which lend support of the gooey old testors stuff.
+
+that stuff was hot i presume....from memory it smelt of laquer thinner or something.  
+
+hope this helps
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #803952)
+Author    : dragnink
+Date      : Feb 23, 2009 at 7:39 PM
+────────────────────────────────────────────────────────────────────────
+
+I'd try soaking the sections you want to break apart with Simple Green for a few hours (might want to heat it up, too). This should loosen the bond up enough to pry the joints apart without breaking the plastic.
+
+That's a really great find, I just saw a kit on eBay that commanded over $800!
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #803960)
+Author    : qcfoundry
+Date      : Feb 23, 2009 at 7:47 PM
+────────────────────────────────────────────────────────────────────────
+
+i'm assuming you mean warm up the simply green, not the pieces/kit? no?
+
+and how warm should it be?
+
+my digi calipers seem to be on the fritz (new battery i hope)
+
+but the diameter of said end cap is 1-9/16" across, and 9/32" tall (not includeing a lip-guide on the inside.
+
+i know this kit's brackets contribute to the bottom of the SW escape pod.  what other parts on this kit are looked for and to what SS model?
+
+i'd be happy to cast, once i get this guy unglued.  i have the equipment to vacuum RTV and pressure cast resin (have to pop its cherry tho), and don't have it currently set up.  am trying to sell this house and keep things clean...soo the casting may take a while, but will be happy to do it, once we get to that point.
+
+thx for the help, btw
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #803963)
+Author    : qcfoundry
+Date      : Feb 23, 2009 at 7:51 PM
+────────────────────────────────────────────────────────────────────────
+
+qcfoundry said:
+
+			i'm assuming you mean warm up the simply green, not the pieces/kit? no?
+
+and how warm should it be?
+
+my digi calipers seem to be on the fritz (new battery i hope)
+
+but the diameter of said end cap is 1-9/16" across, and 9/32" tall (not includeing a lip-guide on the inside.
+
+i know this kit's brackets contribute to the bottom of the SW escape pod.  what other parts on this kit are looked for and to what SS model?
+
+i'd be happy to cast, once i get this guy unglued.  i have the equipment to vacuum RTV and pressure cast resin (have to pop its cherry tho), and don't have it currently set up.  am trying to sell this house and keep things clean...soo the casting may take a while, but will be happy to do it, once we get to that point.
+
+thx for the help, btw
+		
+
+Click to expand...
+
+backstory, at the show, the guy was selling bunch of old vintage kits..that were fully or half assembled.  first saw the monogram screamin' mini...he wanted $30 i LOL'd...moved along.  i was about to leave, and just double checking all the tables, and luckily saw it (i wonder if it was there on my first go around).  i asked him how much.  he said $40.  i feigned being hurt.  I asked $35.  he agreed.  however, being at the end of my day, i didn't have the cash (and thats all he'd accept).  i prayed to the plastic gods and they sent me an ATM.  and here we are now.  i asked the guy if he had assembled it (hoping to find out what glue and paint he used)...said he bought it off another guy. [thx for listening to grand-dad's war stories]
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #803974)
+Author    : dragnink
+Date      : Feb 23, 2009 at 8:02 PM
+────────────────────────────────────────────────────────────────────────
+
+I've had some good luck using a 50:50 to 25:75 mix of water and simple green. Throw the parts into a pot with the burner on low, and let it sit for a while with the top off. There's no telling how long it could take, some people say up to 24 hours but I'm not sure that's necessary. Best to try it with some parts you don't care about first and see if it gets you anywhere. After 12-24 hours or so, you'll probably be able to ply apart the parts at the glue joints. 
+
+Someone else recommended using brake fluid as well, but I never tried that.
+
+qcfoundry said:
+
+			i'm assuming you mean warm up the simply green, not the pieces/kit? no?
+
+and how warm should it be?
+
+my digi calipers seem to be on the fritz (new battery i hope)
+
+but the diameter of said end cap is 1-9/16" across, and 9/32" tall (not includeing a lip-guide on the inside.
+
+i know this kit's brackets contribute to the bottom of the SW escape pod.  what other parts on this kit are looked for and to what SS model?
+
+i'd be happy to cast, once i get this guy unglued.  i have the equipment to vacuum RTV and pressure cast resin (have to pop its cherry tho), and don't have it currently set up.  am trying to sell this house and keep things clean...soo the casting may take a while, but will be happy to do it, once we get to that point.
+
+thx for the help, btw
+		
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #803977)
+Author    : qcfoundry
+Date      : Feb 23, 2009 at 8:05 PM
+────────────────────────────────────────────────────────────────────────
+
+i've heard of using those two (SG and brake fluid) for paint removal (especially factory applied chrome jobs), but not for glue.  
+
+interesting.
+
+i've seen SG sitting in my dad's garage, but never bought.  can i get it at wal-mart or is it more of an automotive shop kinda item?
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #803981)
+Author    : dragnink
+Date      : Feb 23, 2009 at 8:08 PM
+────────────────────────────────────────────────────────────────────────
+
+I picked up a bunch from BJ's wholesale club a while ago, but it should be just about anywhere. Here's a list I pulled from the website: http://www.simplegreen.com/shopping_where_to_buy.php
+
+It's still a gamble without being sure of what adhesive was really used on the kit, but it's worth a try.
+
+qcfoundry said:
+
+			i've heard of using those two (SG and brake fluid) for paint removal (especially factory applied chrome jobs), but not for glue.  
+
+interesting.
+
+i've seen SG sitting in my dad's garage, but never bought.  can i get it at wal-mart or is it more of an automotive shop kinda item?
+		
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #804801)
+Author    : qcfoundry
+Date      : Feb 24, 2009 at 7:22 PM
+────────────────────────────────────────────────────────────────────────
+
+update:
+
+simple green didn't do a thang (after 9 hours)!
+
+tried acetone...too hot!
+
+left a little slight marring on the surface.
+
+the aforementioned "cap" has a bit of a non-skid surface now...not really bad and can be sanded off.  
+
+tried mineral spirits -- bingo
+
+didn't mar the surface and is melting the glue.
+
+also seems to be good enough to clean the paint off with some some additional working in. 
+
+i may test lacquer thinner on the removing of paint later (hope its not too hot).  the prized cables look like they were dipped in paint, so some tender surgery will be needed there.
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #805399)
+Author    : DBot845
+Date      : Feb 25, 2009 at 11:49 AM
+────────────────────────────────────────────────────────────────────────
+
+Easy off oven cleaner will work for the paint. Spray the parts and put them in a plastic bag to leave them sit for about half an hour. The paint should come right off under a running tap and some gentle persuasion with an old toothbrush.
+
+Derek
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #805452)
+Author    : GKvfx
+Date      : Feb 25, 2009 at 12:43 PM
+────────────────────────────────────────────────────────────────────────
+
+Polly S makes a paint removal product called Easy Lift Off.  You spread it over the painted surface, let it sit overnight, and the paint can, in most instances, be wiped off with a damp rag.  for tight corners, you might need to dip a toothbrush in the stuff and scrub it off.
+
+I have heard about brake fluid and oven cleaner, but since I found this stuff, I haven't felt the need to experiment with anything else.
+
+As for the glue - odds are some sort of solvent glue was used.  Liquid glues were available back then (and in some cases, were more 'potent' than the stuff we use today).  The old Testor's tube glue that we grew up with (and the Type 'S' Cement from Revell), are just a variation on that same solvent - just with a thickening agent.  If only a little was used, and it was the tube type, you should be able to break it apart using brute force.  A more even, solid bond will require you to cut it apart.
+
+Use the Polly S Easy Lift Off Stuff.  It works great, even on the super thick, hi-gloss enamels of yesteryear.
+
+Gene
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #806768)
+Author    : Rats
+Date      : Feb 26, 2009 at 7:17 PM
+────────────────────────────────────────────────────────────────────────
+
+I have been told that caustic soda is good for paint removal and glue breakdown (old tube stuff). I haven't tried it myself, as I'm not sure of the mix required (i.e. how much water) and it's is a bit nasty. You are supposed to add acid to the caustic solution before disposing of it. 
+
+BTW, adding oil (olive, vegetable, etc) to caustic soda makes soap, so if you get it on your skin, it uses the oils in your skin and buggers you up a bit. If you wear rubber gloves and eye-protection and take the necessary precautions you should use with any chemical it should be ok.
+
+As I said, I haven't tried this personally, but a couple of people have told me that this works and they have tried it. You may need to leave the kit soaking for a half-day to a day for all the glue to become soft though.
+
+Cheers and take care, JT
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 13

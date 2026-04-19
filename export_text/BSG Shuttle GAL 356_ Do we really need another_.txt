@@ -1,0 +1,195 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : BSG Shuttle GAL 356: Do we really need another?
+URL    : https://www.therpf.com/forums/threads/bsg-shuttle-gal-356-do-we-really-need-another.265375/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #4054150)
+Author    : Troy Downen
+Date      : Aug 14, 2016 at 8:55 AM
+Reactions : Like — darth_myeek, Galactican, stonky
+────────────────────────────────────────────────────────────────────────
+
+Absolutely!
+
+…so here goes MY build of a studio scale Battlestar Galactica Shuttle GAL 356.
+
+Caveat: I am a SLOOOOOW builder. I like to sit and stare at my models while I build them, thinking through next steps and alternate approaches. So it seems like progress comes slowly. I also have very little free time (but hey, would any of us say that we just have too much free time for models? Nah…). The upshot is that updates may be sparse, but if you stick with me then I’ll stick with you all the way through this build.  ;-)
+
+It started as any other day… it was rainy in the big city and the sea was angry, it had been a dark and stormy night…
+
+Nah, not really. It was a beautiful sunny day here on the East Coast of the USA and the mailman set down a LARGE box on my doorstep (with his usual “WTF” look as he walked away). Inside was that resin-y goodness that we all know and love. This is the kit currently available from JAWS Models.
+
+[IMAGE: https://www.therpf.com/forums/attachments/01-20parts_zpsodwgif0i-jpg.1390081/]
+
+Somehow all of this needs to find a home on the exterior of the shuttle. First order of business was to sort thorugh the parts and categorize them based on their location on the exterior (top, bottom, front, aft, side & landing gear). I relied heavily on the reference photos posted right here on Studio Scale Modeler. It really turned out to be a fun job of discovery and “ah ha” moments. A bit like piecing together a puzzle (BEST puzzle).
+
+[IMAGE: https://www.therpf.com/forums/attachments/02-20parts-20sorted_zpsmivcxh3o-jpg.1390082/]
+
+The shuttle requires an internal armature, and parts within the kit have been crafted to accommodate a very specific armature design, but it takes a bit of sleuthing to figure it out. Quality time wandering around my local home improvement store (which is fun, in and of itself) resulted in my learning that 3/8” galvanized pipe fit the internal resin brace included with the JAWS kit. The model is designed for a 5-point armature: attach points on the bottom, left and right hand sides, aft and front. I found it easy to find the various short lengths of 3/8” pipe at my home improvement store with one very important exception: to take advantage of all 5 attach points, one will need a 3/8” cross pipe. This guy right here:
+
+[IMAGE: https://www.therpf.com/forums/attachments/03-20cross-20pipe_zpsehzqzg29-jpg.1390083/]
+
+I had to order one over the Internet, so naturally shipping ended up costing me more than the part itself! Maybe if you have a well-stocked family-run hardware store near you, you’ll be able to find one “in the flesh.” The big-box home improvement stores do not appear to stock them.
+
+The resultant armature ends up looking something like this:
+
+[IMAGE: https://www.therpf.com/forums/attachments/04-20armature-20a-20edited_zps4ge9ghnt-jpg.1390084/]
+
+NOTE: I goofed – there should be no gap where indicated in the photo. That connector needs to be a “zero” connector (which are about 1 inch in length); not the 2-inch connector that I used and that is shown in the photo. Oops!
+
+To the right in this photo is the aft-facing part of the armature. I have yet to install the forward-facing pipe which would point to the left side of the photo. See all of that resin dripping down the length of that aft-facing pipe? I poured some resin into and around the armature where it contacts the resin brace just for a little bit of insurance that maybe everything will stay together and not shift around once the shuttle is assembled. Totally unnecessary, I’m sure, but I tend to over-engineer everything.
+
+Another view:
+
+[IMAGE: https://www.therpf.com/forums/attachments/05-20armature-20b_zpsgwtwy96k-jpg.1390085/]
+
+These two views SHOULD be sufficient for others to reverse-engineer the intended armature for this model. Note that the center portion of the armature – the part that consists of the cross pipe and left & right side attach points and which is attached to the internal resin brace with zip ties – is VERY difficult to get assembled. The short 3/8” pipes on either side of the cross pipe (each are 2” in length, if I recall) have to be screwed into the central cross pipe very tightly so that the total width of the center assembly fits to that resin brace.
+
+In this following photo you can see how I had to secure the center portion of the armature in my vise, place some temporary 8” lengths of 3/8” pipe in the two empty cross pipe fittings, and HAUL on that puppy to get those left and right side pipes threaded far enough into the cross pipe. I literally feared that I would BREAK those 8” lengths of 3/8” galvanized pipe that I was pulling on. Fortunately everything held and I got the cross piece assembled and fitting into the resin brace. Generous lubrication of the threads with WD-40 helped.
+
+[IMAGE: https://www.therpf.com/forums/attachments/06-20center-20armature_zps5sq8bfcy-jpg.1390086/]
+
+A bit of trimming and sanding on the front and aft halves of the shuttle body (really not much at all; they’re in pretty good shape)…
+
+[IMAGE: https://www.therpf.com/forums/attachments/07-20trimming_zpsok3adq27-jpg.1390087/]
+
+…and, glory be, the first test-fit of the assembled shuttle! Huzzah!
+
+[IMAGE: https://www.therpf.com/forums/attachments/08-20first-20test-20fit_zpstku23pvf-jpg.1390088/]
+
+Whew… time for an adult beverage. I think it’s 95 degrees with 500% humidity.
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #4058047)
+Author    : moffeaton
+Date      : Aug 18, 2016 at 4:42 PM
+────────────────────────────────────────────────────────────────────────
+
+Thank you so much for taking the time to document the armature - I hope to get one one day, and I remember Sean and Sean and Ryan walking me through an explanation of how it went together, but that was years ago and I have very much forgotten what they said. I love the multiple mount points. Good luck with the next phase of the build!
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #4059534)
+Author    : Troy Downen
+Date      : Aug 20, 2016 at 7:06 PM
+Reactions : Like — EddieL, moffeaton
+────────────────────────────────────────────────────────────────────────
+
+moffeaton said:
+
+			Thank you so much for taking the time to document the armature - I hope to get one one day, and I remember Sean and Sean and Ryan walking me through an explanation of how it went together, but that was years ago and I have very much forgotten what they said. I love the multiple mount points. Good luck with the next phase of the build!
+		
+
+Click to expand...
+
+Not too difficult given a bit of quality time at your local Home Depot, Lowes or such. It's just finding that darned cross pipe...
+
+The humidity level continues at record levels. But despite that, I did get to spend a bit more time with GAL 356 this morning.
+
+Up first, the engines. I bored out holes to run wires for the lights into the main body of the shuttle.
+
+[IMAGE: https://www.therpf.com/forums/attachments/09-20engine-20hole-20for-20wires_zpsplhjpzlq-jpg.1390775/]
+
+I also don’t trust glue to be the only thing to hang onto the engines and nacelles, so I coated them liberally with 5-minute epoxy and then mechanically fastened them with a #2 screw.
+
+[IMAGE: https://www.therpf.com/forums/attachments/10-20engine-20screw-20attach_zpsaq36l39u-jpg.1390776/]
+
+I stared long and hard at the engine bells (or engine nozzles?) to figure out how to connect them to the nacelles (I told you that I spend a lot of time just staring at my models as I build them!). The aft end of the engine bells will touch the aft end of the engine nacelles, but I’m afraid that glue marks may show if that’s the attach point (I can be rather sloppy with glue). I decided instead to attach the bells to a short length of PVC pipe that would then sit down inside the nacelles and attach to the back wall near the shuttle body. A bit confusing… see the photo below. Hopefully this will allow me to be as sloppy with the glue as I want to be, but hide all of the glue joints when I’m done. Go ahead and skip to the end of the build and see if it worked. J Did it?
+
+[IMAGE: https://www.therpf.com/forums/attachments/11-20engine-20bell-20attach-20scheme_zps6b7maf2l-jpg.1390777/]
+
+The shuttle’s flight deck (cockpit) floor was not a great fit to the shuttle side walls and upper roof, so I smeared as much epoxy into the joint as possible and then came back with lines of epoxy putty to smear along the joint for added strength. This will also help (a little bit) with preventing light leaks from the flight deck down into the rest of the shuttle body.
+
+[IMAGE: https://www.therpf.com/forums/attachments/12-20epoxy-20putty-20flight-20deck_zpsh5wpewl6-jpg.1390778/]
+
+Note that hole in the back deck wall. That’s for the forward-most 3/8” pipe in the armature to run into the flight deck and on out the front attach point at the nose.
+
+[IMAGE: https://www.therpf.com/forums/attachments/13-20flight-20deck-20pipe-20hole_zpswolljulb-jpg.1390779/]
+
+- - - Updated - - -
+
+I spent an evening goofing around with different approaches to lighting the flight deck and the engines. I settled upon a light strip up front in the flight deck and a single 900mcd 8mm LED with 360 deg viewing angle in each engine bell. I think that if I properly paint the engine bells with reflective paint (i.e. silver or such) then the bright LED will look pretty good. I might have preferred a halogen light with a highly reflective glass bell but those suckers get HOT and I’d like to be able to run these lights for hours at a time without worry of melting something on the shuttle. Everything checked out in a test setup, so it was time to “productionize” the lighting system.
+
+[IMAGE: https://www.therpf.com/forums/attachments/14-20light-20circuit-20test_zps6wqmxort-jpg.1390780/]
+
+The system will be powered by a 12VDC 1A “wall wart” with a 6.5mm jack. For this system 1A will be tons of current for the system and 12V is actually a bit more than I would prefer; 9V is often ideal for working with LEDs since each LED requires about 3.2V and thus three can be put in series without any resistors in the circuit. Resistors are just a waste of power (and generate heat) so I like to avoid them if I can. But I only had 12V transformers in my stash so I bit the bullet and put a resistor on each engine LED; the flight deck LED strip will be fairly content with 12V.
+
+I located the female receptacle for the jack near the bottom attach point on the shuttle body. It should later be disguised by a greeblie that will be located in the same area (in the photos below you can see that I’ve sketched the location of the greeblie on the resin shuttle body to ensure proper location of the receptacle).
+
+[IMAGE: https://www.therpf.com/forums/attachments/15-20power-20jack_zpsmmjae2tg-jpg.1390781/]
+
+Because I can be a bit rough when plugging power into my models, I wanted to ensure that the receptacle for the jack was secure inside the shuttle body. I worked up a rather Rube Goldberg-style housing for the receptacle out of plywood and then epoxied and mechanically fastened it the inside wall of the shuttle. That’s what those two screws are doing that you see on either side of the receptacle in the previous photo.
+
+[IMAGE: https://www.therpf.com/forums/attachments/16-20power-20receptacle_zpsom9qbzjf-jpg.1390782/]
+
+Note that by now I’ve painted the inside of the shuttle body black to help with light blocking from the flight deck.
+
+And speaking of which, here is the front office with LED strip installed. It’s not pretty, and with me that’s just how life is going to be. If I had to do it all over again I would cut a hole for the wire against the back wall to avoid running the wire around the front edge. Unfortunately, the wire is not totally hidden by the flight deck greeblies that will be installed in a later step; you can peek in the windows and just barely see it. So I’ve painted the wires white and pushed them out of the way as much as possible. I think it’ll work. Note the styrene scrap holder that I pieced together for the front part of the LED strip; I found that the LED strip was moving around a bit too much for my taste so that’s its punishment
+
+[IMAGE: https://www.therpf.com/forums/attachments/17-20flight-20deck-20led-20strip_zpsijrhrzzi-jpg.1390783/]
+
+A late afternoon light test. I’ve run the LEDs for only about 10 hours so far, and good practice would be to run them for a few days non-stop to root out “infant mortality” (i.e. find the suckers that are going to burn out on you; if they don’t burn out in the first 24-48 hours then they’ll last for 10,000 hours [ish]).
+
+[IMAGE: https://www.therpf.com/forums/attachments/18-20led-20light-20burn-20in_zpsd7bvp1jt-jpg.1390784/]
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #4063913)
+Author    : Troy Downen
+Date      : Aug 26, 2016 at 4:47 PM
+────────────────────────────────────────────────────────────────────────
+
+Another hot and humid weekend. I haven’t bled yet for this model (it’s coming, I know it is) but I sure have sweat. So… blood, sweat and beers? That’s the saying, isn’t it?
+
+I bit more work securing the flight deck LED strip with epoxy, and then I smeared some additional 5-minute epoxy inside the front shuttle body shell and inserted the armature and resin brace to fix it in place. You can see here that I attempted to clamp down the sides of the body shell to better fit against the armature brace while the epoxy cured…
+
+[IMAGE: https://www.therpf.com/forums/attachments/19-20front-20end-20join_zpskc1cuy20-jpg.1391248/]
+
+…and I failed in getting the gaps to close. So a smear of Apoxie Sculpt and I think the front end is secured. You can also see here a bit of craziness I’m trying with a block of plywood to give the aft end of the shuttle body a bit more surface area to hang onto when I epoxy it to the armature brace. We’ll see if it really makes any difference.
+
+[IMAGE: https://www.therpf.com/forums/attachments/20-20front-20end-20gap-20fill_zpsmtjcmear-jpg.1391249/]
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #4067783)
+Author    : Troy Downen
+Date      : Aug 31, 2016 at 5:53 PM
+Reactions : Like — EddieL, enterprise0216, jedimaster
+────────────────────────────────────────────────────────────────────────
+
+Not much of an update, I’m afraid. The first coat of primer went down and several hours of sanding with 320 wet/dry sandpaper yields an ugly shuttle, but smooth as a baby’s bottom!
+
+[IMAGE: https://www.therpf.com/forums/attachments/21-20first-20primer-20and-20sanding_zpsopmloqev-jpg.1391764/]
+
+There are still a couple of hours of cleaning up in between the various raised panels and looking for “junk” to tidy up. The photo below shows a couple of typical things: resin bumps due to bubbles in the molds (easy to clean up with a micro file and sanding sticks) and pock marks in the resin that might need to be filled (or left unfilled and painted to appear as damage from space debris - or maybe Cylons?).
+
+[IMAGE: https://www.therpf.com/forums/attachments/22-20detail-20cleanup_zpsgc74e1zm-jpg.1391765/]
+
+For resin models I’ll soak the parts in a degreaser and also scrub them in warm soap and water. But sometimes it’s tough to get all of the mold release agent off the resin, so I prime with a lacquer-based automotive scratch-fill primer to both reveal spots that still have release agent (it tends to repel the primer) and for the usual reasons of finding imperfections. After a good sanding with 320 grit wet/dry sandpaper I’ll wipe the entire model with alcohol and a lint-free rag (rubbing alcohol ,not drinking alcohol!) and re-prime. Another a few hours with 600 grit sandpaper, more cleanup with alcohol, and one more layer of primer. At this point I’ll go over the model one last time with 800 grit sandpaper and it will be ready for greeblies.
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #4082825)
+Author    : Troy Downen
+Date      : Sep 21, 2016 at 2:56 PM
+Reactions : Like — glunark, EddieL, jedimaster
+────────────────────────────────────────────────────────────────────────
+
+After a good toothbrush scrub (to loosen particles) and another rub-down with isopropyl alcohol on a lint-free rag, the second primer coat goes on. Note that I’ve attached a few of the greeblies early because I just couldn’t resist! Unfortunately that one strip on the belly is just too far forward. The aft end of the greeblie should butt up next to the break in the forward / aft body shells, but it’s about 1/2 inch too far forward. It’s aligned with the bottom mount as it should be, so I’m concluding that the bottom mount point must be a bit too far forward (?) . The only thing that could have affected that would be the length of the 3/8” pipe used in the armature. I used a 2-inch length (the shortest length that my hardware store carried). Maybe it’s supposed to be a 1-inch length? Oh well, so much for studio-scale accurate!
+
+[IMAGE: https://www.therpf.com/forums/attachments/23-20second-20primer-20coat_zps9i1sbbds-jpg.1393798/]
+
+When I glue on the greeblies I use extra thick CA glue for the larger pieces where there is a large surface-to-surface contact with the shuttle body. But along the edges or for small parts I use extra thin CA glue (the consistency of water) with a super-fine tipped CA glue applicator. These are basically plastic caps with ends that have been streteched to be needle-point thin. You can accurately place a very small drop of thin CA glue with these tips. I can’t envision any other method of applying the thin CA glue without making a royal mess of it (at least not the way I model !!).
+
+[IMAGE: https://www.therpf.com/forums/attachments/24-20thin-20glue-20applicator_zpsvcghajix-jpg.1393799/]
+
+More sanding with 600 grit sandpaper tomorrow after the second coat of primer has a chance to dry.
+
+- - - Updated - - -
+
+Fitting the top of the flight deck now and running across a gap on the aft starboard side. I’ve tried fitting the top in several different ways, but it always comes down to this same gap.
+
+[IMAGE: https://www.therpf.com/forums/attachments/25-20top-20gap_zpsvunlqcwp-jpg.1393800/]
+
+I finally screwed up the courage to take drastic steps and cut a channel just inside the edge so that I can use a hot air gun to soften the resin and bend the aft starboard side inward to fit. I glued the cut to hold the side in place and now it seems to fit pretty well.
+
+[IMAGE: https://www.therpf.com/forums/attachments/26-20cut-20to-20fit_zpsndmg5zxr-jpg.1393801/]
+
+So I guess this is the next step. I have never seen photos of the filming miniature’s flight deck. I assume that it’s just some dark gray color?
+
+[IMAGE: https://www.therpf.com/forums/attachments/27-20flight-20deck-20test-20fit_zpsjxnta69g-jpg.1393802/]
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 6

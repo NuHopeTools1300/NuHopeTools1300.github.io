@@ -1,0 +1,411 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Nerd Maker Studio Tie Bomber (Finished)
+URL    : https://www.therpf.com/forums/threads/nerd-maker-studio-tie-bomber-finished.342621/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #5253264)
+Author    : akumazeto
+Date      : Nov 23, 2021 at 6:25 AM
+Reactions : Like — BajaTym, edge10, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+Printed at .01 on My Elegoo Saturn and Mars Pro 2. Siraya Tech Resin blend. Build/Blue/tenacious even split.  Nerd Maker X has made a tremendous file-set and I encourage all to purchase his file set from his outlets.
+
+[IMAGE: model-t-bomber-studio-scale-3d-model-4e1430eaf9.webp]
+
+						Model-T Bomber Studio Scale -  | 3D Print Model
+					
+
+Model available for download in Stereolithography format. Visit CGTrader and browse more than 1 million 3D models, including 3D print and real-time assets
+
+					www.cgtrader.com
+				
+
+[IMAGE: https://www.therpf.com/forums/attachments/257507910_10227732968288485_8880602048362720508_n-jpg.1515112/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/256776721_10227732984208883_5841167874946475590_n-jpg.1515113/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/248779646_10227614353363186_4761857522334961941_n-jpg.1515114/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/249345891_10227604432795178_2242379572692292006_n-1-jpg.1515115/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/259431338_571364983957648_7977160897529782481_n-jpg.1515116/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/258921322_235973531966214_5129306262120812149_n-jpg.1515117/]
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #5253321)
+Author    : StevenBills
+Date      : Nov 23, 2021 at 9:00 AM
+────────────────────────────────────────────────────────────────────────
+
+Excellent! I have printed the wings (1/48 as well), but my body failed. How did you do your supports on that part?
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #5253325)
+Author    : akumazeto
+Date      : Nov 23, 2021 at 9:21 AM
+────────────────────────────────────────────────────────────────────────
+
+i printed the body in halves and whole with minimum  supports. I used auto supoorts and removed lots of them. But my printers are dialed in and have been for long time.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #5253332)
+Author    : ganesha7
+Date      : Nov 23, 2021 at 9:32 AM
+────────────────────────────────────────────────────────────────────────
+
+Impressive!
+
+The detail on those wings is remarkable.
+
+Please do post the final model once you're finished with your painting magic.
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #5253335)
+Author    : Ogibendogy
+Date      : Nov 23, 2021 at 9:37 AM
+────────────────────────────────────────────────────────────────────────
+
+That is a great looking print!
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #5253360)
+Author    : akumazeto
+Date      : Nov 23, 2021 at 11:47 AM
+────────────────────────────────────────────────────────────────────────
+
+StevenBills said:
+
+			Excellent! I have printed the wings (1/48 as well), but my body failed. How did you do your supports on that part?
+		
+
+Click to expand...
+
+How are you trying to print it? Put it on the bed. Get a wham bam too.
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #5253371)
+Author    : StevenBills
+Date      : Nov 23, 2021 at 12:29 PM
+Reactions : Like — BajaTym, akumazeto
+────────────────────────────────────────────────────────────────────────
+
+I printed it standing up as you have done here. I just don't think I supported the center section enough. I need to re-slice and try again.
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #5253374)
+Author    : akumazeto
+Date      : Nov 23, 2021 at 12:45 PM
+────────────────────────────────────────────────────────────────────────
+
+StevenBills said:
+
+			I printed it standing up as you have done here. I just don't think I supported the center section enough. I need to re-slice and try again.
+		
+
+Click to expand...
+
+All I did was hit auto support in chitubox but again I did all the dialing in long ago for supports shape size depth etc etc etc
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #5253375)
+Author    : akumazeto
+Date      : Nov 23, 2021 at 12:49 PM
+Reactions : Like — StevenBills
+────────────────────────────────────────────────────────────────────────
+
+[IMAGE: https://www.therpf.com/forums/attachments/1637700559774-png.1515241/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/1637700538508-png.1515240/]
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #5253380)
+Author    : akumazeto
+Date      : Nov 23, 2021 at 1:08 PM
+Reactions : Like — StevenBills
+────────────────────────────────────────────────────────────────────────
+
+Also keep in mind ambient temp this time of year. I keep my room at 78 f based on my resin.
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #5253382)
+Author    : StevenBills
+Date      : Nov 23, 2021 at 1:25 PM
+Reactions : Like — foj3000
+────────────────────────────────────────────────────────────────────────
+
+akumazeto said:
+
+			All I did was hit auto support in chitubox but again I did all the dialing in long ago for supports shape size depth etc etc etc
+		
+
+Click to expand...
+
+Ah. I do my resin supports in PrusaSlicer and then export to ChituBox to slice. Thanks for the images, I'll re-support the model and see what happens. Also when I'm printing I have a heater in the room set to 75. I don't think my failure was due to temp, just undersupported.
+
+Thanks!
+
+SB
+
+EDIT: Should be good now? I dunno, we'll see tomorrow! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: https://www.therpf.com/forums/attachments/screen-shot-2021-11-23-at-2-56-07-pm-png.1515257/]
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #5254376)
+Author    : akumazeto
+Date      : Nov 27, 2021 at 1:11 PM
+Reactions : Like — cdyoung, BajaTym, edge10
+────────────────────────────────────────────────────────────────────────
+
+[IMAGE: https://www.therpf.com/forums/attachments/261149258_438821280949572_2071195527503418357_n-jpg.1516318/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/261852150_458819272257724_6968735843551170612_n-jpg.1516319/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/260846258_1115263285676858_7516383722910034264_n-jpg.1516320/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/261947169_892985208018421_4632134991092414235_n-jpg.1516321/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/261926531_421614386324910_6119015703986230021_n-jpg.1516322/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/261382839_444406717099054_6540974667724696388_n-jpg.1516323/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/260888251_262829869221831_3084483705688943232_n-jpg.1516324/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/261021062_3100971850228258_8240713242083804590_n-jpg.1516325/]
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #5254394)
+Author    : akumazeto
+Date      : Nov 27, 2021 at 2:24 PM
+Reactions : Like — Scott Graham, cdyoung
+────────────────────────────────────────────────────────────────────────
+
+I will be offering Asteroid based versions like this for 1300 with lights and a plaque with a proper armature. Lower 48 only. I only plan on doing 10 of these and two are out the door already plus this one. Contact me via pm for more info.  As the base comes together it will be posted here. 
+
+All Archive X Enamel is used. Feel free to search my previous works.
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #5254600)
+Author    : joberg
+Date      : Nov 28, 2021 at 12:35 PM
+────────────────────────────────────────────────────────────────────────
+
+Great looking bomber with the right amount of wear and tear
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #5256186)
+Author    : Zenwalker
+Date      : Dec 4, 2021 at 5:59 PM
+────────────────────────────────────────────────────────────────────────
+
+Wow! Nice job! 
+
+What type/ brand of  leds did you use for the rear lights?
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #5256436)
+Author    : akumazeto
+Date      : Dec 5, 2021 at 4:32 PM
+────────────────────────────────────────────────────────────────────────
+
+Zenwalker said:
+
+			Wow! Nice job!
+
+What type/ brand of  leds did you use for the rear lights?
+		
+
+Click to expand...
+
+Some 2mm jobbers I bought 500 of a while back. Cant remember what resistor I used. But you cant pass a prewired led through not enough diameter.
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #5257575)
+Author    : akumazeto
+Date      : Dec 9, 2021 at 3:23 PM
+Reactions : Like — BajaTym
+────────────────────────────────────────────────────────────────────────
+
+[IMAGE: https://www.therpf.com/forums/attachments/d07cba6e-aec9-4705-931b-65aca705a163-jpeg.1519707/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/d40c6238-7d28-40bf-9509-672d2f627162-jpeg.1519708/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/aeb96e5f-5918-4b29-9bd3-f028dc78dd9f-jpeg.1519709/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/4a746448-1e54-425e-ac8c-59888f841c23-jpeg.1519710/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/f3ef1788-5023-4459-aaf1-ec6806e957d7-jpeg.1519711/]
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #5257624)
+Author    : akumazeto
+Date      : Dec 9, 2021 at 6:38 PM
+Reactions : Like — BajaTym, joberg
+────────────────────────────────────────────────────────────────────────
+
+[IMAGE: https://www.therpf.com/forums/attachments/db9d1f47-3d92-4d0a-a2d1-a3f36d40631a-jpeg.1519751/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/dbf755db-7397-43ba-9822-73bc619a18bf-jpeg.1519752/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/hash-2d70f373b99a6b36c435a0afec2e1139-jpg.1519757/]
+
+ 
+
+Attachments
+
+[IMAGE: 1162271-3b9c9fd40dd516e65ccdfcef2ab08bb9.jpg]
+
+C1045D42-E528-4824-B798-B41191AB9A4E.jpeg
+
+					4.5 MB
+					
+					· Views: 186
+					
+				
+
+[IMAGE: 1162270-e8f54c036e863fc53c256bbe2509fadf.jpg]
+
+D2826105-A271-4F62-9E63-4393836CDA68.jpeg
+
+					2.3 MB
+					
+					· Views: 207
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #5257627)
+Author    : akumazeto
+Date      : Dec 9, 2021 at 6:40 PM
+Reactions : Like — BajaTym, Bjorn, cdyoung
+────────────────────────────────────────────────────────────────────────
+
+[IMAGE: https://www.therpf.com/forums/attachments/1e07026b-7a4f-4278-8117-fbbfb3d42019-png.1519758/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/b93c7e41-73cb-4b8b-8327-8a7abf70c424-jpeg.1519759/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/73086e58-07c8-4702-8bed-3309e2078a83-jpeg.1519760/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/a675a932-8e12-48d5-974f-cf1d10cdc67b-jpeg.1519761/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/4fc38016-b30c-47d5-8400-499d34fbade3-jpeg.1519762/]
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #5257775)
+Author    : joberg
+Date      : Dec 10, 2021 at 7:03 AM
+────────────────────────────────────────────────────────────────────────
+
+Yep, as I said: the right amount of wear and tear
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #5259779)
+Author    : akumazeto
+Date      : Dec 16, 2021 at 7:18 PM
+Reactions : Like — acesh007, cdyoung, Bjorn
+────────────────────────────────────────────────────────────────────────
+
+[IMAGE: https://www.therpf.com/forums/attachments/267731132_10227927989523894_857032193738658984_n-jpg.1521530/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/267614408_10227927989603896_5358304655302056999_n-jpg.1521531/]
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #5259871)
+Author    : joberg
+Date      : Dec 17, 2021 at 6:17 AM
+────────────────────────────────────────────────────────────────────────
+
+Love the diorama also...eager to see it all come together
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #5261738)
+Author    : akumazeto
+Date      : Dec 23, 2021 at 11:15 AM
+Reactions : Like — Metaluna mutant, cdyoung
+────────────────────────────────────────────────────────────────────────
+
+[IMAGE: https://www.therpf.com/forums/attachments/269684469_638811424129153_5463031594569666298_n-jpg.1523250/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/269661331_439053354437500_4826667411896746521_n-jpg.1523251/]
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #5262011)
+Author    : cdyoung
+Date      : Dec 24, 2021 at 7:49 AM
+Reactions : Like — teecrooz, Halliwax, akumazeto
+────────────────────────────────────────────────────────────────────────
+
+Wow, that’s amazing work, akumazeto. Not only the Tie Bomber itself, but the asteroid base, too!
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #5262130)
+Author    : akumazeto
+Date      : Dec 24, 2021 at 2:54 PM
+Reactions : Like — StevenBills, cdyoung
+────────────────────────────────────────────────────────────────────────
+
+That’s a wrap. These are for sale if anyone is interested! Direct pm if that’s something your looking at.
+
+[IMAGE: https://www.therpf.com/forums/attachments/80b0a17d-8795-4092-a8ae-e35fc0a6043e-jpeg.1523570/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/561abd25-06de-4cac-9524-6d93f27cd137-jpeg.1523571/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/4106fec7-8832-4539-b507-5411a2a9984f-jpeg.1523572/]
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #5262806)
+Author    : joberg
+Date      : Dec 27, 2021 at 1:06 PM
+Reactions : Love — akumazeto
+────────────────────────────────────────────────────────────────────────
+
+Fantastic display to say the least
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #5272713)
+Author    : radiant777
+Date      : Jan 19, 2022 at 4:41 AM
+────────────────────────────────────────────────────────────────────────
+
+I have an elegoo saturn and was wondering if you could share what print settings you used?  Hope my attempt at printing this model is just as good as yours.
+────────────────────────────────────────────────────────────────────────
+Post #28  (forum post #5272719)
+Author    : swgeek
+Date      : Jan 19, 2022 at 5:01 AM
+Reactions : Sad — acesh007
+────────────────────────────────────────────────────────────────────────
+
+I don't think you're going to get an answer.  Akumazeto was banned.
+────────────────────────────────────────────────────────────────────────
+Post #29  (forum post #5272734)
+Author    : joberg
+Date      : Jan 19, 2022 at 5:52 AM
+────────────────────────────────────────────────────────────────────────
+
+swgeek said:
+
+			I don't think you're going to get an answer.  Akumazeto was banned.
+		
+
+Click to expand...
+
+Any particular reason?
+────────────────────────────────────────────────────────────────────────
+Post #30  (forum post #5272750)
+Author    : swgeek
+Date      : Jan 19, 2022 at 6:35 AM
+Reactions : Sad — joberg
+────────────────────────────────────────────────────────────────────────
+
+No idea, just noticed that he was banned.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 30

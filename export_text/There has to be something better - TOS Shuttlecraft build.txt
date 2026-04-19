@@ -1,0 +1,2006 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : There has to be something better - TOS Shuttlecraft build
+URL    : https://www.therpf.com/forums/threads/there-has-to-be-something-better-tos-shuttlecraft-build.37162/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #483374)
+Author    : feek61
+Date      : Jan 6, 2008 at 10:11 AM
+Reactions : Like — robn1
+────────────────────────────────────────────────────────────────────────
+
+I have been working on a studio scale TOS shuttlecraft for a while now.  I had to take about a year break but now I’m back to work on it.  I am trying to finish the hull and get rid of all of the blemishes but the only thing I’ve been using is Bondo.  There has to be something better for detail work.  What is best for filling small holes and contour variations?  The work here on the RPF is really quite stunning and the detail some of you guys are getting is incredible.  What are you using to get the smooth lines you are achieving?  Here are a few pictures of what I've done.  Keep in mind that I'm an amateur so don't be too harsh :lol
+
+I know there has to be a better way to do this but I just did the best I could.  I made a tool from aluminum and brass and imprinted it into  . . .you guessed it bondo at the top and I tried epoxy at the bottom.
+
+[IMAGE: DSC00513.jpg]
+
+See the little gaps on the edge there?  What would be the best thing to fill them with?  What about other very small depressions in the body?  I need something thin.
+
+[IMAGE: DSC00519.jpg]
+
+I disassembled the pylons and nacelles to work on the body.  This is what it looks like now.
+
+[IMAGE: DSC00522.jpg]
+
+Thanks
+
+Will
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #483702)
+Author    : Zombie_61
+Date      : Jan 6, 2008 at 6:01 PM
+────────────────────────────────────────────────────────────────────────
+
+I'm sure there are better suggestions, but for very small gaps and depressions you can use Bondo Glazing Putty instead of regular Bondo.  There is a small amount of shrinkage when used in larger quantities, but it's easy to work with, sands easily, and is available at almost any auto parts store.  And, since it's used for auto body repair, it will work well with regular Bondo and is quite durable once it's cured.
+
+You can also try Aves Apoxie Sculpt.  It's a two-part epoxy putty that has minimal to no shrinkage, a working time of approximately two hours, sands very easily, and you can use tap water for smoothing and cleaning your tools (though you can get their solvent if you prefer).  Mix equal parts and let it sit for about 30 minutes to decrease the amount of "tackiness", and you're ready to go.  The down side is that it has a curing time of 24 hours and, as far as I know, is only available through on-line purchase.
+
+http://www.avesstudio.com/Products/Apoxie_Sculpt/apoxie_sculpt.html
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #483740)
+Author    : Jedi Dade
+Date      : Jan 6, 2008 at 6:58 PM
+────────────────────────────────────────────────────────────────────────
+
+Zombie_61 said:
+
+			I'm sure there are better suggestions, but for very small gaps and depressions you can use Bondo Glazing Putty instead of regular Bondo. There is a small amount of shrinkage when used in larger quantities, but it's easy to work with, sands easily, and is available at almost any auto parts store. And, since it's used for auto body repair, it will work well with regular Bondo and is quite durable once it's cured.
+
+You can also try Aves Apoxie Sculpt. It's a two-part epoxy putty that has minimal to no shrinkage, a working time of approximately two hours, sands very easily, and you can use tap water for smoothing and cleaning your tools (though you can get their solvent if you prefer). Mix equal parts and let it sit for about 30 minutes to decrease the amount of "tackiness", and you're ready to go. The down side is that it has a curing time of 24 hours and, as far as I know, is only available through on-line purchase.
+
+http://www.avesstudio.com/Products/Apoxie_Sculpt/apoxie_sculpt.html
+
+Click to expand...
+
+ 
+
+Another thing that I have found helps when trying to get something "flat" is to use wide putty knife when applying and use a sanding block...  wrap a piece of sanpaper in a square/flat piece of wood then sand.  I also use Glazing putty for small stuff and find it works best as a filler, scuplting stuff with it is a bit frustrating for me - its too soft for a lot of "sculpted shapes" IMO.  I have never used AVES but have had peoples whose work I respect rave about it...
+
+Jedi Dade
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #483741)
+Author    : feek61
+Date      : Jan 6, 2008 at 6:59 PM
+────────────────────────────────────────────────────────────────────────
+
+Thank you for the suggestions.  I really need something that is easy to sand.  That frickin' bondo is like sanding concrete, lol.  I'll give it a try.
+
+Will
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #483761)
+Author    : takevin
+Date      : Jan 6, 2008 at 7:17 PM
+────────────────────────────────────────────────────────────────────────
+
+As said, glazing putting is the way to go, dont know why u would use bondo, thats more for filling bigger holes, or adding more to contour something or to add more to the body of something.
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #483787)
+Author    : micdavis
+Date      : Jan 6, 2008 at 7:59 PM
+────────────────────────────────────────────────────────────────────────
+
+I know it's not the Studio model but maybe these could help.
+
+http://idisk.mac.com/micdavis/Public/shuttlecraft/default.html
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #483886)
+Author    : GKvfx
+Date      : Jan 6, 2008 at 11:29 PM
+────────────────────────────────────────────────────────────────────────
+
+There are a few tricks to working with Bondo that will help.  First off, less is more.  I'd rather build up an area with multiple applications than heaping a glop of it on there.
+
+The neat thing about Bondo is that it quicks off rather slowly after it starts to harden.  It's difficult to apply to a model in that state, but that gelling time can be used to your advantage.  Try this - mix up a small glop o' Bondo and just let it sit.  Have an Xacto knife on standby.  After it is mixed, poke it with a stick.  It will start out the consistency of pudding.  Then it will get a little thicker.  You'll notice that it will take more effort to move it.  Eventually, it will be a solid, but still flexible if you were to flex it.  At that point, try cutting it with a knife.  You'll find that the knife will go through the Bondo like it were a clay.  When I have to clean up an area or trim something, I generally wait for the Bondo to get to this point and then cut away the excess (rather than just trying to wipe away the fresh stuff , which will just smear).
+
+Another trick, especially if you want to get a faux stone texture or try to smooth out an area is Lacquer Thinner.  Just have a cheap brush with some Lacquer Thinner on it and brush it on once the Bondo is on the model.  I've used this to smooth out the application or to make landscape areas or faux stone.
+
+The Bondo Glazing putty, which air cures, is similar to the Squadron and Testor's stuff in the hobby shop, but at a much better price.  You can get it at any auto supply store.  There is a fancier stuff that is available at the higher end car paint supply firms, but I've had good luck with the ceap stuff, so I still use it.  It helps to have some Mr. Surfacer since the glazing putty is somewhat porous.
+
+Good luck and I think that Shuttlecraft looks fantastic.  Be nice to see some other ST:TOS studio scale stuff here.
+
+Gene
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #483891)
+Author    : REL
+Date      : Jan 6, 2008 at 11:41 PM
+────────────────────────────────────────────────────────────────────────
+
+Everything Gene said, Bondo is all I use for everything. The key is to not let it harden before you work it. 
+
+Lately I've been using a combo of Bondo and automotive Duplicolor Gap filling primer, then use a fine primer after that like the Tamiya fine primer or Mr.Surfacer 
+
+You can get a super smooth surface with that combination.
+
+This is polyfoam with a bondo shell, then about 3 coats of gap filling primer sanded smooth, then 1 coat of Tamiya primer.
+
+[IMAGE: D_041a.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #484447)
+Author    : feek61
+Date      : Jan 7, 2008 at 2:54 PM
+────────────────────────────────────────────────────────────────────────
+
+Thank you for all of the replies.  I don't feel quite so stupid now since the experts here are using the same thing.  I picked-up some glazing putty today and I'm going to give that a try (on some of the smaller areas).  Also, I'm going to use GKvfx's technique for some of the bigger stuff (thanks for the compliment too).  Rel, thanks for the picture.  Your work is great and I'm in good company if you are using only Bondo, lol.  That finish looks amazing, I'll try the same process.  I'll post some more photos when I make a little progress.
+
+Will
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #485167)
+Author    : RShanko
+Date      : Jan 8, 2008 at 9:55 AM
+────────────────────────────────────────────────────────────────────────
+
+That Shuttlecraft looks amazing Will.
+
+Everything said before...
+
+Also make sure you mix your can of bondo, the solvents rise to the top.
+
+And knead the hardner tube for consistancy.
+
+But carving when it's in the rubbery state is the most important trick.
+
+I use the bondo surfacing putty also. 
+
+With a sanding block, or it'll never come out flat.
+
+Keep us updated, and I'm looking forward to seeing the warp engines being lit up like the original studio model should have had..
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #485843)
+Author    : CaptCBoard
+Date      : Jan 9, 2008 at 3:37 AM
+────────────────────────────────────────────────────────────────────────
+
+Bondo is good for filling pot-holes, but for anything smaller, Evercoat Glazing Putty.  Its a much finer kind of filler, to be used for medium to thin layers.  For surfacing putty, Nitro-Stan Lacquer Putty.  In place of the Evercoat stuff, Dynatron Putty-Cote.  These are pricy, but worth the cost.  You'll find them in stores that serve the auto-body professionals in your area.  Not Pep Boys, Auto Zone or any store that advertises on TV!
+
+Evercoat and the Dynatron stuff need catalyst, like Bondo.  Nitro-Stan is an air-cure.
+
+Scott
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #486479)
+Author    : ReturningSon
+Date      : Jan 9, 2008 at 8:36 PM
+────────────────────────────────────────────────────────────────────────
+
+Wow, that is huge? Do you plan to offer kits of this?
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #487155)
+Author    : feek61
+Date      : Jan 10, 2008 at 4:30 PM
+────────────────────────────────────────────────────────────────────────
+
+No plans to do kits . . . to be honest I wouldn't know where to start.  This is TOTALLY scratch build from the plans on up.  It's taken a while because I wanted to get this right (I've NEVER seen a decent version of this when I started the project).  It's built from plywood, PVC and Bondo, lol.  I think it's going to look great when I get done; it's just going to take time.  Life really limits how much time I have to spend on it.  I am planning on doing the warp engines the same as the original Enterprise effect (except with LEDs) which is not exactly screen accurate only becase they couldn't afford it during the original show.  So, I guess this is going to be slightly an idealized version.  Glad you like it, I'll post photos as I progress.
+
+Will
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #487621)
+Author    : Carson Dyle
+Date      : Jan 11, 2008 at 9:17 AM
+────────────────────────────────────────────────────────────────────────
+
+CaptCBoard said:
+
+			Bondo is good for filling pot-holes, but for anything smaller, Evercoat Glazing Putty.  For surfacing putty, Nitro-Stan Lacquer Putty.
+		
+
+Click to expand...
+
+I'll second Scott's recommendation with regard to the above products.  Bondo is swell but (fair warning) once you use Evercoat you'll never go back.
+
+Dave Merriman forwarded this link to me, and they're a great source for Evercoat and other finishing supplies.  Reasonable prices, and very cool people to deal with.
+
+http://www.caswellplating.com/?source=google&gclid=CInbsZyb7JACFR7LiQodHhXRbw
+
+You're off to a great start with the shuttlecraft, btw.  This subject is a favorite of mine, and one I eventually intend to scratch-build.  As you say, there's never been a decent kit of this subject, and I look forward to monitoring your progress.
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #490651)
+Author    : Mach5
+Date      : Jan 15, 2008 at 12:30 AM
+────────────────────────────────────────────────────────────────────────
+
+Hey whatever you have been doing, keep it up. Looks great!
+
+Excellent tips here from everyone, thanks for sharing those. I have only ever used Bondo and not been a big fan.
+
+Next project, I'll try the glazing putty or some of the others mentioned.
+
+Just looked at the link: LOTS of products there! The Evercoat says metal to metal, is it okay to use on bondo and fiberglass?
+
+Also the Tigerhair and Everglass stuff looks good... Any more specific recommendations?
+
+Sorry, I don't mean to hijack. Great info!
+
+Thanks!
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #491098)
+Author    : feek61
+Date      : Jan 15, 2008 at 12:38 PM
+────────────────────────────────────────────────────────────────────────
+
+Oh, not hijacking at all . . . this thread is about the best products to use.  I have now used the Glazing putty and it's much easier for the little stuff I'm doing; thanks for the tips.
+
+Will
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #500447)
+Author    : feek61
+Date      : Jan 27, 2008 at 1:51 PM
+────────────────────────────────────────────────────────────────────────
+
+I have been moving at a snails pace but it gives me a bunch of time to think about what I'm doing.  I decided to make the front peice where the windows are out of brass.  The reason being that when the window covers are open the thickness of the hull is very thin.  I am planning on making this version to have the movable window covers so that they can be opened or closed (showing the lighting inside).  In any event here is the front part before priming.
+
+[IMAGE: DSC00687.jpg]
+
+Here are a couple of older photos . . . before I tore it apart, lol.
+
+[IMAGE: P1010011.jpg]
+
+Light test:
+
+[IMAGE: P1010034.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #500616)
+Author    : GKvfx
+Date      : Jan 27, 2008 at 6:06 PM
+────────────────────────────────────────────────────────────────────────
+
+OUTSTANDING!
+
+About time someone did a large scale one of these! (and I'm directing that mainly at myself, since I've been thinking, "you know what would be cool........." for a while.)
+
+Gene
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #500959)
+Author    : Carson Dyle
+Date      : Jan 28, 2008 at 11:13 AM
+────────────────────────────────────────────────────────────────────────
+
+^What he said. 
+
+Very inspirational.  This is a great subject, and I'm having a lot of fun watching it come together.  
+
+Please keep us posted.
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #502242)
+Author    : temponaut
+Date      : Jan 30, 2008 at 4:46 AM
+────────────────────────────────────────────────────────────────────────
+
+Love the progress shots, and also your slow and steady approach.  It's a beautiful build so far, and promises to be spectacular when finished.
+
+Will you make a functioning door, too?
+
+By the way: thanks to all who have posted their tips in this thread.  Very instructive, especially coming from so many whose work I admire.
+
+Looks terrific, feek61!  Keep it up!  :thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #502540)
+Author    : Jedi Dade
+Date      : Jan 30, 2008 at 1:10 PM
+────────────────────────────────────────────────────────────────────────
+
+feek61 said:
+
+			Light test:
+
+[IMAGE: P1010034.jpg]
+
+Click to expand...
+
+Nice but I think the impulse reactor is about to blow...:lol
+
+Jedi Dade
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #509570)
+Author    : feek61
+Date      : Feb 9, 2008 at 10:43 AM
+────────────────────────────────────────────────────────────────────────
+
+Well, in real life the impulse glow doesn't look so threatening:lol  I have ordered the micro-motors for the warp engines and today I wired up the LEDs for the front of the engines.  I used 4 orange LEDs which stay on all of the time then two additional LEDs that cycle through red, blue and green very quickly arranged like the diargram here:
+
+[IMAGE: LEDconfigcopy.jpg]
+
+I am VERY happy with the way it looks.  Similar to the MR Enterprise but cooler!  Because of the changing of the colors and the different cycles there doesn't seem to be a pattern to the flashing when you look at it which is what I was going for.  Here is the diagram of the flash pattern:
+
+[IMAGE: rgb-acc.gif]
+
+As you can see with the above sequence going on with 2 separate LEDs plus the orange LEDs it makes for an impressive display.  The two flashing LEDs were too bright so I painted a black dot on the front of each one to tone it down a bit and it worked perfectly.
+
+I also have a friend machining the front warp rings from aluminum and part of the rear strut out of brass.  I will post some pictures when I get them.  
+
+[IMAGE: WarpDriveRing.jpg]
+
+I have run into a slight set-back which is a bummer.  I have to reconfigure the back due to an error but I can do the modifications without tearing the thing apart.  Luckily the problem area is too short not too long so I have to extend part of the back.  More on that later.  I'll keep you updated on my progress!
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #511146)
+Author    : feek61
+Date      : Feb 11, 2008 at 2:47 PM
+────────────────────────────────────────────────────────────────────────
+
+Well here is the problem I ran into . . . poor calculations!  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+  I made a mistake while doing the conversions on the back so I made the back mid-section too short.  So today I extended it and it came out great.  I wanted to use something solid so I use birch plywood set in place with bondo.
+
+[IMAGE: DSC00771.jpg]
+
+I went ahead and used sheet plasitc to cover and extend the rear.  Since this was against solid wood the thin plastic worked nicely and it was easy to shape.  Here what it looks like with all of the parts in place.
+
+[IMAGE: DSC00773.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #511184)
+Author    : Blackbirdcd
+Date      : Feb 11, 2008 at 3:23 PM
+────────────────────────────────────────────────────────────────────────
+
+Maybe you mentioned this earlier (and if so I apologies for asking again) - did you draw up your own plans for this?  
+
+This is really looking nice!
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #511185)
+Author    : feek61
+Date      : Feb 11, 2008 at 3:30 PM
+────────────────────────────────────────────────────────────────────────
+
+Blackbirdcd said:
+
+			Maybe you mentioned this earlier (and if so I apologies for asking again) - did you draw up your own plans for this?  
+
+This is really looking nice!
+		
+
+Click to expand...
+
+Thank you and yes I did draw the plans myself.  I scaled them from about every source I could find.  There are some photos of the filming minature with someone holding a lens cap next to it.  I scaled the entire thing from the lens cap.  I used photo shop and just drew them 1:1 so that I could print out the pages and tape them together.  I sectioned the drawings off so that I could match the papers and make sure that I taped them together correctly (that's what the yellow and red squares are for).  Here is an old picture of how I did the midplate but all of the parts were basically done the same way.
+
+[IMAGE: sc100.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #512075)
+Author    : feek61
+Date      : Feb 12, 2008 at 4:41 PM
+────────────────────────────────────────────────────────────────────────
+
+I've been working on getting the warp effect right while I'm waiting for the motors to arrive.  I am pretty pleased with the results.  Here are a few pictures.  Keep in mind that this is only a throw away test piece to see how the system looks so don't be put-off by the crappy workmanship.
+
+[IMAGE: DSC00792.jpg]
+
+Next the the MR here:
+
+[IMAGE: DSC00775.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #512129)
+Author    : feek61
+Date      : Feb 12, 2008 at 5:49 PM
+────────────────────────────────────────────────────────────────────────
+
+For those who may be interested the beginning of this build is in this thread:
+
+http://propreplicas.yuku.com/topic/7507?page=1
+────────────────────────────────────────────────────────────────────────
+Post #28  (forum post #512198)
+Author    : phase pistol
+Date      : Feb 12, 2008 at 7:26 PM
+────────────────────────────────────────────────────────────────────────
+
+I take it that's a motorized fan blade there? :cool
+────────────────────────────────────────────────────────────────────────
+Post #29  (forum post #512645)
+Author    : feek61
+Date      : Feb 13, 2008 at 11:23 AM
+────────────────────────────────────────────────────────────────────────
+
+phase pistol said:
+
+			I take it that's a motorized fan blade there? :cool
+		
+
+Click to expand...
+
+Not yet but it will be, I expect to have the motors in by the end of the week.  
+
+UPDATE:  I recieved the motors today.  Hopefully over the weekend I can get more work in on the project.
+
+Will
+────────────────────────────────────────────────────────────────────────
+Post #30  (forum post #512873)
+Author    : feek61
+Date      : Feb 13, 2008 at 3:42 PM
+────────────────────────────────────────────────────────────────────────
+
+Well I got the motors in today and they are perfect! What I bought turns at 24 RPM which is perfect (the MR is too fast) and the motors themselves run backwards if you reverse the polarity so no gears will be required at all!!!! It's too bad that MR didn't go the extra mile and install motors similar to these. They make NO noise at all. For the $40 bucks these things cost I would have gladly paid the extra (or more) for the MR. Here is the motor.
+
+[IMAGE: DSC00798.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #31  (forum post #513040)
+Author    : Kuhn Global
+Date      : Feb 13, 2008 at 7:50 PM
+────────────────────────────────────────────────────────────────────────
+
+I have been wondering when a SS TOS Shuttlecraft would be done. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Looks like this one will be quite nice. And... many of the "bondo" experts totally chimed in! This is one reason I love this hobby..... most everyone helps each other! Very kewl fellas! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Looking good Will! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #32  (forum post #515563)
+Author    : feek61
+Date      : Feb 17, 2008 at 10:33 AM
+────────────────────────────────────────────────────────────────────────
+
+I agree, with the help here I have gone back and tried to make this thing much better then it would have been without everyones help and seeing the quality of stuff on this board has been a great motivator. I was not happy with the pylons so I re-made them this weekend. I got them attached and got the wires run for the warp engines. I masked the pylon supports to keep the bondo and the JB weld from sticking to the strut. These are made from aluminum and are masked so that painting later won't be a problem (I want them to remain silver).  
+
+[IMAGE: DSC00800.jpg]
+
+The holes in the model where the supports attach were filled with bondo and the supports coated with JB weld where it attaches to the wing and to the pylon (the side further away is done). I cut off the excess material that squeezes out after a few minutes. The wiring will run right up next to the pylon support and will be painted silver so it will look like a piece of conduit. It's the only way I could figure out how to get power to the warp engines. 
+
+[IMAGE: DSC00801.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #33  (forum post #515804)
+Author    : feek61
+Date      : Feb 17, 2008 at 6:13 PM
+────────────────────────────────────────────────────────────────────────
+
+I got the warp engine tubes installed tonight.  Here is what she looks like:
+
+[IMAGE: DSC00805.jpg]
+
+[IMAGE: DSC00803.jpg]
+
+[IMAGE: DSC00806.jpg]
+
+[IMAGE: DSC00807.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #34  (forum post #516271)
+Author    : vaderman1701
+Date      : Feb 18, 2008 at 12:05 PM
+────────────────────────────────────────────────────────────────────────
+
+feek61 said:
+
+			Well I got the motors in today and they are perfect! What I bought turns at 24 RPM which is perfect (the MR is too fast) and the motors themselves run backwards if you reverse the polarity so no gears will be required at all!!!! It's too bad that MR didn't go the extra mile and install motors similar to these. They make NO noise at all. For the $40 bucks these things cost I would have gladly paided the extra (or more) for the MR. Here is the motor.
+
+[IMAGE: DSC00798.jpg]
+
+Click to expand...
+
+I have to ask, where did you get the motor from?  Do you have a part number?  Thanks.
+
+Scott
+────────────────────────────────────────────────────────────────────────
+Post #35  (forum post #516411)
+Author    : feek61
+Date      : Feb 18, 2008 at 3:00 PM
+────────────────────────────────────────────────────────────────────────
+
+PM sent
+────────────────────────────────────────────────────────────────────────
+Post #36  (forum post #520350)
+Author    : feek61
+Date      : Feb 23, 2008 at 3:30 PM
+────────────────────────────────────────────────────────────────────────
+
+I have had a chance to work a little more on the Galileo. Today was the day to start detailing the back. I started off with some acrylic balls and drilled a hole in them. 
+
+[IMAGE: DSC00827.jpg]
+
+Then I cut out a plasic disc to fit inside of the warp engine tube. I attached a screw from the back of the plastic disc leting the screw stick out the back. Then I screwed on the acrylic ball onto the screw put some JB weld in the tube and slide them in. This is same way it was done on the full scale version when it was built. The screw idea worked very nice because the depth of the ball can be adjusted. Next I made a pattern (actually I made 3 until I got it right) for the back corregated cover. I glued them onto a slightly smaller diameter ring then the warp engines so that the corregated part will be flush with the warp engine tube.
+
+[IMAGE: DSC00833.jpg]
+
+[IMAGE: DSC00837.jpg]
+
+I also added the back details on the rear of the shuttlecraft. The access hatches and grill are installed on the back (I went ahead and removed the corregated cover because they are a little fragile, I won't install them until I'm nearly done).
+
+[IMAGE: DSC00839.jpg]
+
+[IMAGE: DSC00842.jpg]
+
+[IMAGE: DSC00846.jpg]
+
+[IMAGE: DSC00841.jpg]
+
+[IMAGE: DSC00852.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #37  (forum post #520785)
+Author    : feek61
+Date      : Feb 24, 2008 at 1:51 PM
+────────────────────────────────────────────────────────────────────────
+
+Here is where I'm at today.  Over night I went ahead and did the graphics for the decals. It's a little early for decals but I am using decals for the fan blades on the warp engine so I really need them now. Not to mention it was fun doing something that resembled a finished product. First I printed them on a plane sheet of paper to make sure the size was correct. Everything looked fine so I then printed them onto a decal sheet. 
+
+[IMAGE: DSC00853.jpg]
+
+You can see the warp fan blades on the lower left by the sissors (I printed a few spares; just in case, lol). It will take 2 sheets but I only printed one for now until I'm ready for the rest. These look smaller in the photo but that's a 8.5" X 11" sheet.
+
+[IMAGE: DSC00856.jpg]
+
+I was able to finish the front lower hull details and get the inner warp domes attached to the rods. Next up finishing up the warp engines.
+
+[IMAGE: DSC00864.jpg]
+
+[IMAGE: DSC00863.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #38  (forum post #520884)
+Author    : temponaut
+Date      : Feb 24, 2008 at 5:23 PM
+────────────────────────────────────────────────────────────────────────
+
+Very exciting to see your work in progress.  Thanks for sharing the detailed photos.  It's like a master class!  :eek :thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #39  (forum post #521986)
+Author    : modeler1964
+Date      : Feb 26, 2008 at 11:29 AM
+────────────────────────────────────────────────────────────────────────
+
+Good god man! This looks fantastic! Awesome job and thanks for the look behind the construction of this shuttle!
+
+:cool
+────────────────────────────────────────────────────────────────────────
+Post #40  (forum post #522597)
+Author    : RShanko
+Date      : Feb 27, 2008 at 8:42 AM
+────────────────────────────────────────────────────────────────────────
+
+Don't forget to seal those decals sheets with a good coat of spray clear.
+
+Or the ink'll smear when your smoothing em on.:cry
+
+Looking great Will, I like how you did the tailpipes!
+────────────────────────────────────────────────────────────────────────
+Post #41  (forum post #522771)
+Author    : dcarty
+Date      : Feb 27, 2008 at 1:09 PM
+────────────────────────────────────────────────────────────────────────
+
+HO-LEE-CRAP.  That looks outstanding!  Thanks for sharing your project.
+
+Dave C
+────────────────────────────────────────────────────────────────────────
+Post #42  (forum post #522985)
+Author    : Smiling Demon
+Date      : Feb 27, 2008 at 5:44 PM
+────────────────────────────────────────────────────────────────────────
+
+WOW:eek
+
+That thing is shaping up quite nicely!!:thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #43  (forum post #524155)
+Author    : feek61
+Date      : Feb 29, 2008 at 9:56 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks guys for all of the kind words.  Seeing the work of others here has been a real inspiration.  Ron, I did clear coat the decals with Krylon crystal clear acrylic spray.  It worked great.  I'm looking forward to getting some more time in on it this weekend.  I spend all week working my arse off and don't have time to do much on the shuttlecraft BUT it gives me pleanty of time to think about what I want to do.  I love the weekends!  :lol  I have decided to go ahead and do the windows in the door in plexi and light them.  The real model didn't have anything there but a black decal but I figure what the heck.  I might as well go all the way.
+
+Will
+────────────────────────────────────────────────────────────────────────
+Post #44  (forum post #524554)
+Author    : Funky
+Date      : Feb 29, 2008 at 8:02 PM
+────────────────────────────────────────────────────────────────────────
+
+I used to think this madel was dull and boring, but man, you make it look so damned sexy!
+────────────────────────────────────────────────────────────────────────
+Post #45  (forum post #525184)
+Author    : redshirt
+Date      : Mar 2, 2008 at 12:27 AM
+────────────────────────────────────────────────────────────────────────
+
+feek61 said:
+
+			Here is where I'm at today.  Over night I went ahead and did the graphics for the decals. It's a little early for decals but I am using decals for the fan blades on the warp engine so I really need them now. Not to mention it was fun doing something that resembled a finished product. First I printed them on a plane sheet of paper to make sure the size was correct. Everything looked fine so I then printed them onto a decal sheet. 
+
+[IMAGE: DSC00853.jpg]
+
+You can see the warp fan blades on the lower left by the sissors (I printed a few spares; just in case, lol). It will take 2 sheets but I only printed one for now until I'm ready for the rest. These look smaller in the photo but that's a 8.5" X 11" sheet.
+
+[IMAGE: DSC00856.jpg]
+
+I was able to finish the front lower hull details and get the inner warp domes attached to the rods. Next up finishing up the warp engines.
+
+[IMAGE: DSC00864.jpg]
+
+[IMAGE: DSC00863.jpg]
+
+Click to expand...
+
+Where did you get the half clear domes from?
+
+Tom
+────────────────────────────────────────────────────────────────────────
+Post #46  (forum post #525193)
+Author    : jlong
+Date      : Mar 2, 2008 at 2:02 AM
+────────────────────────────────────────────────────────────────────────
+
+Wow-you totally rock!!!
+
+John Long
+
+www.phaserkit.com
+────────────────────────────────────────────────────────────────────────
+Post #47  (forum post #530502)
+Author    : Vaderman
+Date      : Mar 8, 2008 at 11:47 PM
+────────────────────────────────────────────────────────────────────────
+
+That is an awesome build up. 
+
+Really a great job! 
+
+Nice work on taking and posting pics of your progress too, nice to see it coming together.
+────────────────────────────────────────────────────────────────────────
+Post #48  (forum post #530884)
+Author    : redshirt
+Date      : Mar 9, 2008 at 3:53 PM
+────────────────────────────────────────────────────────────────────────
+
+Now that's one Master Replicas should do as well. I'd love a shuttlecraft
+────────────────────────────────────────────────────────────────────────
+Post #49  (forum post #531465)
+Author    : feek61
+Date      : Mar 10, 2008 at 12:37 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks guys.  I have not had much time to spend on this but here are a few more photos. I removed most of the existing front and replaced it with a thin brass sheet. I reenforced the top of the brass from bending by epoxying a brass rod across the top. This is the area that no longer has solid backing.
+
+[IMAGE: DSC00923.jpg]
+
+[IMAGE: DSC00920.jpg]
+
+I also had a chance to install the warp engine vents on both sides. Sorry about the dark primer on this one. The finish color needed to bee just a touch darker so I'm hoping this will do it:
+
+[IMAGE: DSC00922.jpg]
+
+I went ahead and finished wiring the interior and made-up the lighting as well. I made a 7 conductor brass buss to distribute the power. Also in this photo you can see where I added the side windows where the door is.
+
+[IMAGE: DSC00933.jpg]
+
+Here are a couple of pix with the lights on:
+
+[IMAGE: DSC00964.jpg]
+
+[IMAGE: DSC00966.jpg]
+
+I'm using white cold cathode tubes in the back and warm white LEDs for the front.  Looks pretty good in person.
+
+That's about it for now.
+
+Will
+────────────────────────────────────────────────────────────────────────
+Post #50  (forum post #533201)
+Author    : RShanko
+Date      : Mar 12, 2008 at 11:24 AM
+────────────────────────────────────────────────────────────────────────
+
+feek61 said:
+
+			Thanks guys. I have not had much time to spend on this but here are a few more photos. I removed most of the existing front and replaced it with a thin brass sheet. I reenforced the top of the brass from bending by epoxying a brass rod across the top. This is the area that no longer has solid backing.
+
+[IMAGE: DSC00923.jpg]
+
+[IMAGE: DSC00920.jpg]
+
+I also had a chance to install the warp engine vents on both sides. Sorry about the dark primer on this one. The finish color needed to bee just a touch darker so I'm hoping this will do it:
+
+[IMAGE: DSC00922.jpg]
+
+I went ahead and finished wiring the interior and made-up the lighting as well. I made a 7 conductor brass buss to distribute the power. Also in this photo you can see where I added the side windows where the door is.
+
+[IMAGE: DSC00933.jpg]
+
+Here are a couple of pix with the lights on:
+
+[IMAGE: DSC00964.jpg]
+
+[IMAGE: DSC00966.jpg]
+
+I'm using white cold cathode tubes in the back and warm white LEDs for the front. Looks pretty good in person.
+
+That's about it for now.
+
+Will
+		
+
+Click to expand...
+
+ 
+
+Looks great!
+
+I have that same Craftsman screwdriver.
+
+:lol
+────────────────────────────────────────────────────────────────────────
+Post #51  (forum post #534493)
+Author    : feek61
+Date      : Mar 13, 2008 at 7:01 PM
+────────────────────────────────────────────────────────────────────────
+
+I had some of the parts made by a buddy.  Here are the warp engine rings and part of the rear strut.
+
+[IMAGE: DSC05015.jpg]
+
+[IMAGE: DSC05018.jpg]
+
+Hopefully I'll be able to finish this project up in the next few weeks.
+
+Will
+────────────────────────────────────────────────────────────────────────
+Post #52  (forum post #534643)
+Author    : S. Holmes
+Date      : Mar 13, 2008 at 11:09 PM
+────────────────────────────────────────────────────────────────────────
+
+feek61 said:
+
+			I had some of the parts made by a buddy. Here are the warp engine rings and part of the rear strut.
+
+[IMAGE: DSC05015.jpg]
+
+[IMAGE: DSC05018.jpg]
+
+Hopefully I'll be able to finish this project up in the next few weeks.
+
+Will
+		
+
+Click to expand...
+
+ 
+
+Looks frakin GREAT  Will !!!!!
+
+Too bad your not gonna cast it up and offer it for sale.
+
+you'd have buyer's on the hook.
+
+Gil
+────────────────────────────────────────────────────────────────────────
+Post #53  (forum post #534649)
+Author    : jts1031
+Date      : Mar 13, 2008 at 11:24 PM
+────────────────────────────────────────────────────────────────────────
+
+S. Holmes said:
+
+			I think every one is happy to know that you own tools Ron.
+
+Hows your "Ultimate Enterprise"....... :confused
+		
+
+Click to expand...
+
+ 
+
+Your troll-fu is weak. 2/10
+
+Are there any plans to have an interior, especially with the open windows, or at least a backlit plate image?
+────────────────────────────────────────────────────────────────────────
+Post #54  (forum post #536909)
+Author    : feek61
+Date      : Mar 17, 2008 at 12:33 PM
+────────────────────────────────────────────────────────────────────────
+
+jts1031 said:
+
+			Your troll-fu is weak. 2/10
+
+Are there any plans to have an interior, especially with the open windows, or at least a backlit plate image?
+		
+
+Click to expand...
+
+No, not now.  If I had planned on this early on I would have maybe done the interior but it's too late now; the interior is a mess!  I didn't get much done this weekend because I'm waiting on some parts AND I'm still debating on the colors. I painted the bottom part of the hull but I'm not sure about it and have no idea what I'm using for the top color yet. Here is the bottom painted; I may go a little darker.
+
+[IMAGE: DSC01078.jpg]
+
+These are the colors that I averaged out over about 10 or 12 caps:
+
+[IMAGE: AveragedColorcopy.jpg]
+
+ 
+
+I think they are slightly too dark.
+
+[IMAGE: 14_StarTrek_TOS_197.jpg]
+
+[IMAGE: PDVD_009.jpg]
+
+You can see why I averaged them out by looking at the color differece between these two photos.
+
+I applied the decals to the inner clear dome for the warp engines and then dull coated them along with the outer domes (in the baggie). They kind of look like a candy cane, lol.
+
+[IMAGE: DSC01093.jpg]
+
+I did them dark red instead of black because I wanted a little of the light to come through and I wanted it to look like this:
+
+[IMAGE: Nacellecopy.jpg]
+
+Notice how asymetric the fan blades are. Part of the effect is the shadow of the fan blades on the outer dome. When I was testing how I wanted to do this I was amazed how much closer to the original the effect it looked if I pulled the inner dome slightily away from the outer dome and created a slight shadow. The flashing lights and the turning blade really look good and has the strobe hypnotizing effect that I want.
+
+I also completed the motor mounts but didn't want to actually assemble the warp effect until I get the parts from Matt. On the demonstrator for the warp effect I felt that the color changes were too drastic so I painted the tips of the flashing LEDs with a little silver paint and it really nailed what I was looking for. I went ahead in preparation painted the LEDs (which allows more orange to come through). Here is the motor mounts which slide right into the tube of the warp engine.
+
+[IMAGE: DSC01096.jpg]
+
+That's about it for now. I am planning on getting the paint colors finalized and the shuttlecraft painted before next weekend. Thanks for the kind words.  
+
+UPDATE:  I have the correct colors now
+
+Will
+────────────────────────────────────────────────────────────────────────
+Post #55  (forum post #540331)
+Author    : bkay
+Date      : Mar 21, 2008 at 8:41 PM
+────────────────────────────────────────────────────────────────────────
+
+Can't wait to see this thing finished..Simply amazing work!!
+────────────────────────────────────────────────────────────────────────
+Post #56  (forum post #540359)
+Author    : Beagle Bill
+Date      : Mar 21, 2008 at 9:36 PM
+────────────────────────────────────────────────────────────────────────
+
+feek61 said:
+
+			I applied the decals to the inner clear dome for the warp engines and then dull coated them along with the outer domes (in the baggie). They kind of look like a candy cane, lol.
+
+[IMAGE: DSC01093.jpg]
+
+Will
+		
+
+Click to expand...
+
+ 
+
+Mmmm...pepperminty fresh!:lol  Seriously though, this model is turning out beautifully!  This has got to be the all time ultimate Shuttlecraft model! Thank you for documenting your progress so thoroughly, I would love to attempt a shuttle of my own some day.  Too bad you're not offering it as a kit. If you were, this would definately be on my "must have" list!  It's looking fantastic!:thumbsup
+
+Bill
+────────────────────────────────────────────────────────────────────────
+Post #57  (forum post #551216)
+Author    : feek61
+Date      : Apr 6, 2008 at 11:28 AM
+────────────────────────────────────────────────────────────────────────
+
+Well it's been a while since I've had time to work on this project but I squeezed in a few hours today; so here is the update!!  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Something has always intrigued me about the rear landing gear which is what I have been working on today.  The miniature and the full scale mock-up are different (in fact I’m almost convinced that the full-scale pad was never really permanently connected but that’s another story).  The full scale version pad is more square then the miniature which is much more rectangular.  The intriguing part is that the miniature pad is pointed on the back which I’ve always thought was cool.  Upon further research I’ve come to realize that the pad is actually square and the pointed back is actually the bottom of the pad: SHAZZAAMMM!!!   This is almost identical to the warp engine pads which also appear to be triangular in shape on the bottom.  So, I’ve always intended on building the narrow miniature version of the pad with the pointed back but with this new knowledge I’ve tried to duplicate the actual studio version.  Here is my pad:
+
+[IMAGE: DSC01135.jpg]
+
+See the similarity?
+
+[IMAGE: DSC01132.jpg]
+
+I finished the rest of the rear gear which is all aluminum and brass:
+
+[IMAGE: DSC01149.jpg]
+
+[IMAGE: DSC01151.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #58  (forum post #551679)
+Author    : Onigiri
+Date      : Apr 7, 2008 at 12:06 AM
+────────────────────────────────────────────────────────────────────────
+
+Beyond badassical
+────────────────────────────────────────────────────────────────────────
+Post #59  (forum post #552001)
+Author    : anubispro
+Date      : Apr 7, 2008 at 11:00 AM
+────────────────────────────────────────────────────────────────────────
+
+So the rear landing pad was supposed to retract?
+
+Like the pads on the S1999 Eagles?
+────────────────────────────────────────────────────────────────────────
+Post #60  (forum post #552174)
+Author    : Carson Dyle
+Date      : Apr 7, 2008 at 2:53 PM
+────────────────────────────────────────────────────────────────────────
+
+Beautiful work.  
+
+feek61 said:
+
+			The miniature and the full scale mock-up are different (in face I’m almost convinced that the full-scale pad was never really permanently connected but that’s another story).
+		
+
+Click to expand...
+
+Having grown up a few blocks away from the suburban front yard in which the full-scale mock-up spent most of the 1970's, I can assure you the landing pads were permanently connected to the hull.
+
+My buddy Phil Broad grew up in the same area, and his excellent renderings (posted in more detail on his Cloudster site) depict the rear landing strut pretty accurately. 
+
+[IMAGE: Pad.png]
+
+anubispro said:
+
+			So the rear landing pad was supposed to retract?
+		
+
+Click to expand...
+
+Yeah, although we never saw that configuration in the series, such appears to have been the idea.
+
+A pewter display model produced by the Franklin Mint back in the early 90’s depicts the gear in retracted mode.   I post it simply because for the longest time this was the only commercially available replica of this subject that came anywhere close to capturing the shape and contours of the original.  Too bad Greg Jein's pattern work was wasted on a cheesy pewter display piece.
+
+[IMAGE: b.png]
+────────────────────────────────────────────────────────────────────────
+Post #61  (forum post #552199)
+Author    : anubispro
+Date      : Apr 7, 2008 at 3:34 PM
+────────────────────────────────────────────────────────────────────────
+
+COOLness!
+
+Thx for posting that.
+
+Did the nacelle pads retract too?
+────────────────────────────────────────────────────────────────────────
+Post #62  (forum post #552213)
+Author    : feek61
+Date      : Apr 7, 2008 at 3:45 PM
+────────────────────────────────────────────────────────────────────────
+
+No doubt the gear was connected to the hull; I was talking only about the pad itself.  This picture confuses me
+
+[IMAGE: Galileo_Construction_06-1.jpg]
+
+Here it does not appear to be attached.
+
+Here is the only picture that I've found that shows the landing pad in the same configuration as the miniature:
+
+[IMAGE: Galileo_Construction_12-1.jpg]
+
+Ok, In all that time in the 1970s while the Galileo was just a few blocks from your house did you take any photos?  Phil Broads work is excellent!!!!  I've admired his drawings for years, lol.
+
+Will
+────────────────────────────────────────────────────────────────────────
+Post #63  (forum post #552271)
+Author    : Carson Dyle
+Date      : Apr 7, 2008 at 5:08 PM
+────────────────────────────────────────────────────────────────────────
+
+feek61 said:
+
+			No doubt the gear was connected to the hull; I was talking only about the pad itself.
+		
+
+Click to expand...
+
+I misunderstood your original post.  In any case, when last I saw the full scale mock-up in person the pad was permanently connected in non-miniature configuration.
+
+feek61 said:
+
+			In all that time in the 1970s while the Galileo was just a few blocks from your house did you take any photos?
+		
+
+Click to expand...
+
+Oh yeah, we took a bunch.    I've got them stashed away somewhere.  The trick would be laying my hands on them at this late date.
+
+When I was in Junior High the shuttle served as a sort of clubhouse for my friends and I.  Not to get uncomfortably personal, but I smoked my first joint and made out with my first girlfriend inside that thing, and to this day I have a strong sentimental attachment to the old girl (the shuttle, not the ex-girlfriend).  Yours is probably the nicest build-up of this ship I've come across.
+
+feek61 said:
+
+			Phil Broads work is excellent!!!!  I've admired his drawings for years, lol.
+		
+
+Click to expand...
+
+I'm sure he'd appreciate the comment.  I'll shoot him an email re: this thread, because if he hasn't already seen it I'm sure he'd get a kick out of viewing your handiwork.
+
+anubispro said:
+
+			Did the nacelle pads retract too?
+		
+
+Click to expand...
+
+No, not on the pewter replica (if that’s what you’re referring to).  BTW Dave, I was pleased to see that Randy is finally tackling this subject.  I've already contacted him about getting one.
+────────────────────────────────────────────────────────────────────────
+Post #64  (forum post #552310)
+Author    : feek61
+Date      : Apr 7, 2008 at 6:23 PM
+────────────────────────────────────────────────────────────────────────
+
+Carson, thanks for the compliments and your story about the shuttlecraft is REALLY cool.  It's like the dream of the 70's; getting high and making out inside the shuttlecraft Galileo  :lol  How cool is that!!!!  
+
+I would really love to see your photos.  I live on the east coast and the shuttlecraft never made it over here (although in the 70's my friends and I were going to build a Galileo pontoon boat . . .  to get high and make-out in, lol)  You are lucky to be able to do it (pun intended) in the real deal!  Anyway, post the photos if you can I'd love to see them
+
+Will
+────────────────────────────────────────────────────────────────────────
+Post #65  (forum post #552369)
+Author    : micdavis
+Date      : Apr 7, 2008 at 7:49 PM
+────────────────────────────────────────────────────────────────────────
+
+Fantastic work.
+────────────────────────────────────────────────────────────────────────
+Post #66  (forum post #559930)
+Author    : feek61
+Date      : Apr 17, 2008 at 1:47 PM
+────────────────────────────────────────────────────────────────────────
+
+I have not had much time for this project, however, last night I was able to assemble the warp engine effect.  Basically I made the entire unit to where it would just slide right into the engine housing and it works great.  Here is a photo of the assembled unit (the grey tube is a cut-off of the engine tube; it's just there for test fitting) next to the parts for the other side.  I did end up having to redo the fan blades which were red because when it was assembled the LEDs were too bright and you kind of lost the fans.  So now they are black, lol.
+
+[IMAGE: DSC01238.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #67  (forum post #568163)
+Author    : feek61
+Date      : Apr 26, 2008 at 5:14 PM
+────────────────────────────────────────────────────────────────────────
+
+I've done a little.
+
+[IMAGE: zzzzzzBack.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #68  (forum post #568640)
+Author    : feek61
+Date      : Apr 27, 2008 at 11:00 AM
+────────────────────────────────────────────────────────────────────────
+
+Burning in the engines to make sure I don't have a dud.  Boy, it's looks pretty cool if I say so myself.  I'm glad I went ahead and broke from the real miniature (which had no lighting on the warp engines) and did the warp effect.  After I burn the motors in for a while I'll assemble the beast and then finish the decals.
+
+[IMAGE: DSC01322.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #69  (forum post #568666)
+Author    : anubispro
+Date      : Apr 27, 2008 at 11:40 AM
+────────────────────────────────────────────────────────────────────────
+
+feek61 said:
+
+			I've done a little.
+		
+
+Click to expand...
+
+You've done a HUGE !!!!
+
+WOW!!!
+
+That is some serious awesomeness.
+
+cant wait to see more.
+────────────────────────────────────────────────────────────────────────
+Post #70  (forum post #569573)
+Author    : feek61
+Date      : Apr 28, 2008 at 4:32 PM
+────────────────────────────────────────────────────────────────────────
+
+Still putting together the warp engines here is a little video:
+
+[IMAGE: th_ShuttlecraftWarpEngine.jpg]
+
+I have not attached the frosted outter dome (that's why I'm holding it on, lol)
+
+I made the warp engine so that they are removeable units.  It would be impossilbe to pull the motors out once they are pushed in so I've epoxied a nut to the face so that a screw can be inserted and the unit pulled out.
+
+[IMAGE: DSC01343.jpg]
+
+[IMAGE: DSC01357.jpg]
+
+The shaft has a threaded rod so that the dome with the fan blades can be attached after the unit is in place.
+
+[IMAGE: DSC01349.jpg]
+
+[IMAGE: DSC01355.jpg]
+
+It's pretty easy to slide out the motor unit if for some reason it needs to be repaired or replaced.  I think what I'm going to do is to go ahead a do a insert with just a white light to match the studio version.  That way I can have my cake and eat it too, lol.  It'll look something like this:
+
+[IMAGE: EnterpriseIncidentCredit.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #71  (forum post #569807)
+Author    : Carson Dyle
+Date      : Apr 28, 2008 at 11:42 PM
+────────────────────────────────────────────────────────────────────────
+
+Damn, that is so cool!  Amazing work!
+────────────────────────────────────────────────────────────────────────
+Post #72  (forum post #569966)
+Author    : Pauleysolo
+Date      : Apr 29, 2008 at 7:28 AM
+────────────────────────────────────────────────────────────────────────
+
+Extremely cool!
+────────────────────────────────────────────────────────────────────────
+Post #73  (forum post #570539)
+Author    : DrMcoy
+Date      : Apr 29, 2008 at 8:01 PM
+────────────────────────────────────────────────────────────────────────
+
+Wow, what a keen project.  Now you just need to make giant ape people to throw rocks and spears at it!
+
+I love the warp nacelle effect (modeled after the ship nacelle lighting effects -- I always thought the original shuttlecraft should have featured these, too, which I'm sure it would have if they only had the time/money when the original series was made.
+
+FANTASTIC work -- thanks for sharing the pics!
+────────────────────────────────────────────────────────────────────────
+Post #74  (forum post #574040)
+Author    : feek61
+Date      : May 4, 2008 at 5:41 PM
+────────────────────────────────────────────────────────────────────────
+
+Just wanted to add a few beauty shots.  Not quite done yet but she's looking fine.
+
+[IMAGE: zSide3.jpg]
+
+[IMAGE: zside2.jpg]
+
+[IMAGE: zside.jpg]
+
+[IMAGE: DSC01374.jpg]
+
+[IMAGE: DSC01365.jpg]
+
+Here is a video of the completed warp effect:
+
+[IMAGE: th_NewWarpEngines4-5-08.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #75  (forum post #574748)
+Author    : scotthm
+Date      : May 5, 2008 at 12:40 PM
+────────────────────────────────────────────────────────────────────────
+
+Very nice!  You've done a great job on this.
+
+The only problem I see is that it's not in my house.
+
+---------------
+────────────────────────────────────────────────────────────────────────
+Post #76  (forum post #574783)
+Author    : feek61
+Date      : May 5, 2008 at 1:32 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks, yes I HAVE lost your address!!!  Here is another in all her glory (although I still have a ton of touch-up and finishing work to do, I just can't quit looking at her ass lit up, lol)
+
+[IMAGE: DSC01401.jpg]
+
+[IMAGE: DSC01388.jpg]
+
+[IMAGE: DSC01396.jpg]
+
+[IMAGE: DSC01397.jpg]
+
+Don't worry about the flaws.  I promise they will all be fixed!!!!  I have been remodeling the house and have barely had time to do anything on this.
+
+[IMAGE: DSC01407.jpg]
+
+I'm planning on doing a cool TOS style stand complete with those clear-colored triangle lights (thanks Bruce) on black acrylic.  The stand it's on it only temporary while I work on it.
+
+Will
+────────────────────────────────────────────────────────────────────────
+Post #77  (forum post #574846)
+Author    : Carson Dyle
+Date      : May 5, 2008 at 2:26 PM
+────────────────────────────────────────────────────────────────────────
+
+Outstanding!
+────────────────────────────────────────────────────────────────────────
+Post #78  (forum post #574881)
+Author    : Blackbirdcd
+Date      : May 5, 2008 at 3:17 PM
+────────────────────────────────────────────────────────────────────────
+
+Oh that is so nice!  Good to see it done this well!
+────────────────────────────────────────────────────────────────────────
+Post #79  (forum post #581962)
+Author    : feek61
+Date      : May 14, 2008 at 6:14 PM
+────────────────────────────────────────────────────────────────────────
+
+I replaced the interior lighting for the front so of course I took some more pictures  :lol 
+
+[IMAGE: DSC01422.jpg]
+
+[IMAGE: DSC01450.jpg]
+
+This baby is just under 24" long.  Many people have contacted me about a kit and honestly maybe down the road if anyone is still interested one will be offered.  However, there is a 12" version being offered by Randy Cooper who I do not know but seems to be quite a craftsman.  His version can be found here:
+
+http://randycooper.blogspot.com/
+
+The thread is here:
+
+http://www.therpf.com/showthread.php?t=43609
+────────────────────────────────────────────────────────────────────────
+Post #80  (forum post #582201)
+Author    : temponaut
+Date      : May 15, 2008 at 4:08 AM
+────────────────────────────────────────────────────────────────────────
+
+Stunning, feek61!   :eek
+────────────────────────────────────────────────────────────────────────
+Post #81  (forum post #582218)
+Author    : Onigiri
+Date      : May 15, 2008 at 4:54 AM
+────────────────────────────────────────────────────────────────────────
+
+Hmmm...I think you should offer your kit BUT because it is TWICE as big as RC's and will take up TWICE the room I think yours should be half the price...yup.....well, c'mon...there ARE no Jedi Mind Tricks in TREK...had to give it a try.... 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #82  (forum post #585475)
+Author    : REL
+Date      : May 19, 2008 at 9:35 PM
+────────────────────────────────────────────────────────────────────────
+
+This turned out perfect. What an amazingly clean and beautiful build.
+────────────────────────────────────────────────────────────────────────
+Post #83  (forum post #586004)
+Author    : GKvfx
+Date      : May 20, 2008 at 3:19 PM
+────────────────────────────────────────────────────────────────────────
+
+A stunning achievement (and modest to boot).
+
+Congrats on one of the most original pieces I've seen here in a long time......
+
+Gene
+────────────────────────────────────────────────────────────────────────
+Post #84  (forum post #586015)
+Author    : darth_myeek
+Date      : May 20, 2008 at 3:48 PM
+────────────────────────────────────────────────────────────────────────
+
+Feek61 - 
+
+I have always been a die-hard star wars fan, but the Replica Prop Forum has started to change my DNA.  Your TOS Shuttle build is a gorgeous example of why. :love
+
+Congratulations!
+
+-DM
+────────────────────────────────────────────────────────────────────────
+Post #85  (forum post #589400)
+Author    : Nicksdad
+Date      : May 25, 2008 at 9:34 AM
+────────────────────────────────────────────────────────────────────────
+
+This is absolutely fantastic. I had heard rumors that MR was going to do a studio scale TOS shuttle, but nothing was announced. If you do decide to do a kit at some point, consider me to be first on the list. And thanks for taking the time to chronicle the build from the get go.
+────────────────────────────────────────────────────────────────────────
+Post #86  (forum post #589997)
+Author    : Refit1701
+Date      : May 26, 2008 at 6:57 AM
+────────────────────────────────────────────────────────────────────────
+
+Wow, that is an amazing build.  Incredible!
+────────────────────────────────────────────────────────────────────────
+Post #87  (forum post #590219)
+Author    : E=MC2
+Date      : May 26, 2008 at 12:08 PM
+────────────────────────────────────────────────────────────────────────
+
+Cool :thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #88  (forum post #591552)
+Author    : DrMcoy
+Date      : May 28, 2008 at 8:28 AM
+────────────────────────────────────────────────────────────────────────
+
+Wow.  A stunning piece.
+
+Did I already mention that instead of the acrylic display base with triangle lights, you should put it on a planet base and have a huge ape-like creature banging on the top of the shuttle with jagged boulder?  You could even motorize the ape-man's arms so they move the boulder up and down, simulating the smashing of the roof.
+
+Or not.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Again, a FANTASTIC piece -- thanks for sharing all the cool photos.
+────────────────────────────────────────────────────────────────────────
+Post #89  (forum post #605662)
+Author    : cedakota
+Date      : Jun 14, 2008 at 1:51 PM
+────────────────────────────────────────────────────────────────────────
+
+This really looks like it could be a companion piece, (pun intended?) to the Master Replicas Enterprise!
+────────────────────────────────────────────────────────────────────────
+Post #90  (forum post #605811)
+Author    : Kuhn Global
+Date      : Jun 14, 2008 at 6:42 PM
+────────────────────────────────────────────────────────────────────────
+
+Excellent Work!!!
+
+OH MY!!! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+eek
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+eek
+
+THIS... IS... BEAUTIFUL feek61!!! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+love
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+love I am well interested in this. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+FANTASTIC job sir! :thumbsup
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+thumbsup
+
+feek61 said:
+
+[IMAGE: zSide3.jpg]
+
+[IMAGE: zside2.jpg]
+
+[IMAGE: zside.jpg]
+
+[IMAGE: DSC01374.jpg]
+
+[IMAGE: DSC01365.jpg]
+
+Here is a video of the completed warp effect:
+
+[IMAGE: th_NewWarpEngines4-5-08.jpg]
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #91  (forum post #605936)
+Author    : daixian2000
+Date      : Jun 14, 2008 at 11:10 PM
+────────────────────────────────────────────────────────────────────────
+
+EDIT: Removed Random Spam.
+────────────────────────────────────────────────────────────────────────
+Post #92  (forum post #605937)
+Author    : temponaut
+Date      : Jun 14, 2008 at 11:15 PM
+────────────────────────────────────────────────────────────────────────
+
+Spam!?  :angry
+────────────────────────────────────────────────────────────────────────
+Post #93  (forum post #605974)
+Author    : temponaut
+Date      : Jun 15, 2008 at 2:51 AM
+────────────────────────────────────────────────────────────────────────
+
+feek61, that's one of the finest builds from scratch I've seen around here... or anywhere!  :love
+────────────────────────────────────────────────────────────────────────
+Post #94  (forum post #606127)
+Author    : feek61
+Date      : Jun 15, 2008 at 9:58 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks guys for the kudos.  I must say this model would have sucked had I not found this website.  The work here is very inspirational.  I am particularly impressed with the work REL has done.  His work has really MADE be do better work after seeing what can be done.  He is not the only one; I owe thanks to many.  When I finally finish this Galileo I'm planning on doing a shuttlepod from "Enterprise."  I'm sure that will take a few years :lol
+
+I have not had time to finish up the Galileo but I'm hoping to really wrap her up soon . . . . and of course pix will follow, lol
+
+Will
+────────────────────────────────────────────────────────────────────────
+Post #95  (forum post #606188)
+Author    : IndyFanChuck
+Date      : Jun 15, 2008 at 11:47 AM
+────────────────────────────────────────────────────────────────────────
+
+HOLY COW!  This is beautiful!  My God!  
+
+Brother, that is amazing.  A-M-A-Z-I-N-G!!!!!!!  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #96  (forum post #606202)
+Author    : JohnLogan
+Date      : Jun 15, 2008 at 12:03 PM
+────────────────────────────────────────────────────────────────────────
+
+WOW!!!!  NOTHING BUT JAW DROPPING WOW!  :love 
+
+ -JohnLogan
+────────────────────────────────────────────────────────────────────────
+Post #97  (forum post #608317)
+Author    : Ikaros
+Date      : Jun 17, 2008 at 9:24 PM
+────────────────────────────────────────────────────────────────────────
+
+feek61 said:
+
+			Thanks guys for the kudos.  I must say this model would have sucked had I not found this website.  The work here is very inspirational... I have not had time to finish up the Galileo but I'm hoping to really wrap her up soon . . . . and of course pix will follow, lol
+		
+
+Click to expand...
+
+Well, when I get around to building my own TOS Shuttlecraft, I definitely plan on using your expose' here on the RPF as a modeling guide for my own! Thanks a bunch for the work you've done. It's a masterpiece! :cool
+────────────────────────────────────────────────────────────────────────
+Post #98  (forum post #613792)
+Author    : boodha
+Date      : Jun 25, 2008 at 8:54 AM
+────────────────────────────────────────────────────────────────────────
+
+Beautiful work on this classic shuttle
+
+I love the video of the nacelles
+────────────────────────────────────────────────────────────────────────
+Post #99  (forum post #614707)
+Author    : modeler1964
+Date      : Jun 26, 2008 at 1:40 PM
+────────────────────────────────────────────────────────────────────────
+
+What else can be said about this model other than it is perfect. My compliments to you on a great build!
+────────────────────────────────────────────────────────────────────────
+Post #100  (forum post #614851)
+Author    : feek61
+Date      : Jun 26, 2008 at 5:23 PM
+────────────────────────────────────────────────────────────────────────
+
+Wow, thank you guys so much.  It's nice to hear from someone other than my wife (who hates it!!).  Well I'm finally getting time to work on this a little more.  Really all I have left is some touch-up and to build the real stand.  The one it's on now is the test stand, lol.  I'll try to post some pictures at the end of the weekend.  Hopefully I will get a bunch done but be assured that the final stand will be in the TOS style  . . .
+
+(I think it's going to be kind of cool!!!!!!)
+
+Will
+────────────────────────────────────────────────────────────────────────
+Post #101  (forum post #651865)
+Author    : feek61
+Date      : Aug 17, 2008 at 3:29 PM
+────────────────────────────────────────────────────────────────────────
+
+Well, I THINK I'm about done, lol. She's about 22 inches long and about 13 inches wide.  All of the interior and stand lighting is LED with the exception of the rear implulse engines which are cold cathode.  All 12 volts.  Still just a little touch-up here and there but I'll be moving her into the house here shortly.  Thanks for all of the kind words and here are a few last beauty shots:
+
+[IMAGE: DSC01912.jpg]
+
+[IMAGE: DSC01917.jpg]
+
+[IMAGE: DSC01926.jpg]
+
+[IMAGE: DSC01927.jpg]
+
+[IMAGE: DSC01930.jpg]
+
+[IMAGE: DSC01932.jpg]
+
+Where it's spent the last few years, lol
+
+Basically it's the end of my two year odyssey to build the ship that I've always loved. I am very happy with the end result (much more than my wife, lol).  Thanks Bruce for the resin triangles!!!!!
+
+Will
+────────────────────────────────────────────────────────────────────────
+Post #102  (forum post #652037)
+Author    : Carson Dyle
+Date      : Aug 17, 2008 at 8:51 PM
+────────────────────────────────────────────────────────────────────────
+
+Wow, that's just stunning.
+
+I'm currently working on the Randy Cooper version of the Galileo, and this thread has been quite an inspiration.
+
+Like you, I've decided to forego the interior, but I like the way you've achieved a soft, even lighting effect.  Could you talk a little bit about how you treated the windows (fogged, I assume), and also what sort of technique you used to diffuse the light within the cabin?
+
+Again, congratulations on a beautiful miniature.  About time someone did this subject justice!
+
+:thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #103  (forum post #652260)
+Author    : feek61
+Date      : Aug 18, 2008 at 8:31 AM
+────────────────────────────────────────────────────────────────────────
+
+I was tempted to get the RC version myself; it's a nice kit.  I'll be happy to tell you what I did for the lighting.  The entire model is powered via a 12 volt transformer.  I used a 1/4" audio plug on the end of the tube that I used for the stand (just like the MR Enterprise).  That way it's easy just to lift the model off the stand.  On the front section I used "warm white" LEDs set back I think about 6 inches (they are 35 degree LEDs so I moved them back so that the spread was wide enough at the windows to cover the whole thing.  I can't remember exactly how far back but it should be easy enough to figure out).  Here is the link for the LEDs I used.
+
+http://www.superbrightleds.com/specs/WW7035_specs.htm
+
+For the windows on the front and back I just used clear acrylic and sprayed it with dullcote.  Originally I installed 3 LEDs in the front but they didn't put out enough light so I added 3 additional LEDs.  I know this looks like crap but here is what it looked like:
+
+[IMAGE: DSC01303.jpg]
+
+After I installed the LED array I did use a difussor to soften and even out the lighting.  I hate to say this but I used a bottle from rubbing alcohol (I'm always looking for stuff around the house I can use, lol) for the difussor.  It looks like crap but it worked out great.  This is what it looked like:
+
+[IMAGE: DSC01311.jpg]
+
+and lit:
+
+[IMAGE: DSC01312.jpg]
+
+On the back impulse engines I used 4 - 4" white cold cathodes.  I cut a hole in the mid-plate so that the transformers could sit down in the bottom of the hull.  I also used the "alcohol bottle diffusor" here (sorry no photos, lol).  On both the front and the back I used aluminum foil for reflection.  Here is the back which looked better when I finished it, lol.  I also used aluminum tape on the inside of the top for refection.  If I would have thought about it first I would have use that everywhere instead of the aluminum foil.  It worked out fine though.  The tape was simple duct tape but the metal kind.  
+
+[IMAGE: DSC01304.jpg]
+
+Again as you can see I moved the lighting back pretty far so that the light would envolpe the entire back area.  I hope this helps.  Let me know if I can do anything else to help and make sure to post pix of your build.  I've been waiting for some of the RC Galileo's to show up.
+
+Will
+────────────────────────────────────────────────────────────────────────
+Post #104  (forum post #652352)
+Author    : Carson Dyle
+Date      : Aug 18, 2008 at 11:16 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks, Will.  That's exactly the sort of "inside scoop" I was looking for.
+
+Love the alcohol bottle!   Whatever works, right?   
+
+One thing I learned from the modeling pros; in those areas hidden from view NEATNESS DOES NOT COUNT.
+
+I'll be in a good place to post WIP pix of my shuttle in a week or so.   Hafta say though, you've set the bar pretty high.
+────────────────────────────────────────────────────────────────────────
+Post #105  (forum post #652364)
+Author    : moffeaton
+Date      : Aug 18, 2008 at 11:24 AM
+────────────────────────────────────────────────────────────────────────
+
+It's a gorgeous model - simply gorgeous!!
+────────────────────────────────────────────────────────────────────────
+Post #106  (forum post #652383)
+Author    : franz bolo
+Date      : Aug 18, 2008 at 11:59 AM
+────────────────────────────────────────────────────────────────────────
+
+Wow, real nice!
+
+FB
+────────────────────────────────────────────────────────────────────────
+Post #107  (forum post #652475)
+Author    : GKvfx
+Date      : Aug 18, 2008 at 1:16 PM
+────────────────────────────────────────────────────────────────────────
+
+The TREK style buttons and lights on the base are a great touch!
+
+Gene
+────────────────────────────────────────────────────────────────────────
+Post #108  (forum post #652523)
+Author    : darth_myeek
+Date      : Aug 18, 2008 at 2:05 PM
+────────────────────────────────────────────────────────────────────────
+
+GKvfx said:
+
+			The TREK style buttons and lights on the base are a great touch!
+
+Gene
+		
+
+Click to expand...
+
+That's what I was going to say.  Great attention to details!  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+thumbsup
+
+DM
+────────────────────────────────────────────────────────────────────────
+Post #109  (forum post #652735)
+Author    : feek61
+Date      : Aug 18, 2008 at 6:45 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks.  I feel like amateur here with all of the talent at RPF, lol.  I was going for the TOS vibe on the stand.  Originally I was going to try to go with a hangar bay theme with the turn-table but I can't remember why I decided against it.  I'm sure scale had something to do with it.  Here are a few more parting shots, lol.
+
+[IMAGE: DSC01908.jpg]
+
+[IMAGE: DSC01910.jpg]
+
+Will
+────────────────────────────────────────────────────────────────────────
+Post #110  (forum post #657041)
+Author    : feek61
+Date      : Aug 24, 2008 at 5:11 PM
+────────────────────────────────────────────────────────────────────────
+
+Just for fun!!
+
+"He jettisoned the fuel and ignited it!"
+
+[IMAGE: ShuttlePictureComposit3.jpg]
+
+Thanks for all of the support and advice!!!
+
+Will
+────────────────────────────────────────────────────────────────────────
+Post #111  (forum post #657047)
+Author    : Pauleysolo
+Date      : Aug 24, 2008 at 5:25 PM
+────────────────────────────────────────────────────────────────────────
+
+Looks amazing!!
+────────────────────────────────────────────────────────────────────────
+Post #112  (forum post #776037)
+Author    : Newbie Doobie
+Date      : Jan 25, 2009 at 3:04 PM
+────────────────────────────────────────────────────────────────────────
+
+feek61 said:
+
+			Thanks.  I feel like amateur here with all of the talent at RPF, lol.  I was going for the TOS vibe on the stand.  Originally I was going to try to go with a hangar bay theme with the turn-table but I can't remember why I decided against it.  I'm sure scale had something to do with it.  Here are a few more parting shots, lol.
+
+[IMAGE: DSC01908.jpg]
+
+[IMAGE: DSC01910.jpg]
+
+Will
+		
+
+Click to expand...
+
+ This is pure genius!!! I'm not a trekkie,but this is fantastic! Thank you VERY MUCH for sharing this with us Feek! ~ Doobie
+────────────────────────────────────────────────────────────────────────
+Post #113  (forum post #776040)
+Author    : Newbie Doobie
+Date      : Jan 25, 2009 at 3:08 PM
+────────────────────────────────────────────────────────────────────────
+
+I know that this is an old thread,but I felt that this needed to be seen by all the newbies here,not just me!  This is brilliant! Definately NOT the work of an amatuer!!!
+────────────────────────────────────────────────────────────────────────
+Post #114  (forum post #776075)
+Author    : feek61
+Date      : Jan 25, 2009 at 3:58 PM
+────────────────────────────────────────────────────────────────────────
+
+Wow, surprised to see this again!!  Thanks for reviving this and for the compliment.  Let's just say I was an amatuer when I started.  lol
+
+I'm happy to report that the Galileo is doing nicely on top of the book shelf and after seeing this I think I'll have to turn it on!!!  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Will
+────────────────────────────────────────────────────────────────────────
+Post #115  (forum post #776097)
+Author    : Roger Ramjet
+Date      : Jan 25, 2009 at 4:43 PM
+────────────────────────────────────────────────────────────────────────
+
+The only thing that would make it look better, is if it were sitting in my shop..
+
+:love
+
+Roger
+────────────────────────────────────────────────────────────────────────
+Post #116  (forum post #776105)
+Author    : Newbie Doobie
+Date      : Jan 25, 2009 at 4:54 PM
+────────────────────────────────────────────────────────────────────────
+
+How did you light this so realistically?????  :confused How?!! :confused  I'm completely blown away by this!!! It's too cool for words!!!  I agree with TPZ!! This would look GREAT on my shelf! Or,rather this would look GREAT on anyones' shelf,or shop!
+────────────────────────────────────────────────────────────────────────
+Post #117  (forum post #776189)
+Author    : feek61
+Date      : Jan 25, 2009 at 6:26 PM
+────────────────────────────────────────────────────────────────────────
+
+Ok then send me you guys addreses and I'll send you both a copy!
+
+As far as the lighting goes I just went with what looked right to me.  I thought that the blueish white would look good for the impulse drive and the warm white in the cockpit would replicate the incandesant lighting of the original.  The engines were just based on the Enterprise warp engines since the shuttlecraft really didn't have any lighting there.  Glad you guys like her!!  I miss working on it; I spent so many years off & on working on the thing.  The projects that I do now don't take much time . . . I almost feel like I'm being cheated!  I almost wish I would build another one before I forget how to over-come all of the problems!   :lol
+
+Thanks again for looking and for the compliments!  Truth be told owning this thing is the fulfillment of a 40 year old dream.  I loved the thing when I first saw it on the screen and every morning when I wake-up and it's sitting on top of the bookshelf it makes me happy.  I guess I'm just a pitiful loser, lol.
+
+Will
+────────────────────────────────────────────────────────────────────────
+Post #118  (forum post #777466)
+Author    : Newbie Doobie
+Date      : Jan 26, 2009 at 8:21 PM
+────────────────────────────────────────────────────────────────────────
+
+NO!!! NOT a loser!!! It's just something that is very satisfying,and so cool to look at!
+────────────────────────────────────────────────────────────────────────
+Post #119  (forum post #907874)
+Author    : Jet Beetle
+Date      : Jun 20, 2009 at 7:15 PM
+────────────────────────────────────────────────────────────────────────
+
+I'm still in love with this - I wish I could get my hands on it.
+────────────────────────────────────────────────────────────────────────
+Post #120  (forum post #908585)
+Author    : Ghost Host
+Date      : Jun 21, 2009 at 6:34 PM
+────────────────────────────────────────────────────────────────────────
+
+Wow, wow, wow...  very nice work...  and a complete understatement!
+────────────────────────────────────────────────────────────────────────
+Post #121  (forum post #911652)
+Author    : Tony Hardy
+Date      : Jun 24, 2009 at 3:35 PM
+────────────────────────────────────────────────────────────────────────
+
+Simply the BEST!!!!!!!!!!!!!!!
+────────────────────────────────────────────────────────────────────────
+Post #122  (forum post #915458)
+Author    : MooCriket
+Date      : Jun 28, 2009 at 12:46 PM
+────────────────────────────────────────────────────────────────────────
+
+Really GREAT, GREAT, GREAT..and oh did I mention GREAT Work!!!!:cool
+────────────────────────────────────────────────────────────────────────
+Post #123  (forum post #916783)
+Author    : zalten
+Date      : Jun 29, 2009 at 9:09 PM
+────────────────────────────────────────────────────────────────────────
+
+Best I have ever seen !!!! great Job.....hope to see one in real life one day................
+────────────────────────────────────────────────────────────────────────
+Post #124  (forum post #1554904)
+Author    : Proper
+Date      : Feb 13, 2011 at 9:54 PM
+────────────────────────────────────────────────────────────────────────
+
+feek61 said:
+
+			T
+
+[IMAGE: DSC01910.jpg]
+
+Will
+		
+
+Click to expand...
+
+Will, this looks absolutely beautiful! Are the switches functional to work the lights or are they purely decorative? Just gorgeous either way! What did you use to seal the decals with (or are they paint)? So it's studio scale at 22"?
+────────────────────────────────────────────────────────────────────────
+Post #125  (forum post #1641185)
+Author    : feek61
+Date      : Apr 17, 2011 at 2:56 PM
+────────────────────────────────────────────────────────────────────────
+
+Wow, back to life!!! lol.  Yes the switches are functional and work the lights.  Can't remember exactly what I used to seal the decals; some sort of clear acrylic I think.  Yes, she is 22" long.  Thanks for the kind words.
+────────────────────────────────────────────────────────────────────────
+Post #126  (forum post #1643104)
+Author    : ecl
+Date      : Apr 18, 2011 at 6:54 PM
+────────────────────────────────────────────────────────────────────────
+
+That thing is gorgeous!
+────────────────────────────────────────────────────────────────────────
+Post #127  (forum post #1647246)
+Author    : SteveNeill
+Date      : Apr 21, 2011 at 3:57 PM
+────────────────────────────────────────────────────────────────────────
+
+What an excellent job. You inspire me!!
+
+Steve
+────────────────────────────────────────────────────────────────────────
+Post #128  (forum post #1647291)
+Author    : Harada357
+Date      : Apr 21, 2011 at 4:40 PM
+────────────────────────────────────────────────────────────────────────
+
+My god man that is an AWESOME build !!! :eek WWwwwwoooww !
+
+Cool project !! :love
+────────────────────────────────────────────────────────────────────────
+Post #129  (forum post #1647293)
+Author    : Eric Ardros
+Date      : Apr 21, 2011 at 4:41 PM
+────────────────────────────────────────────────────────────────────────
+
+SteveNeill said:
+
+			What an excellent job. You inspire me!!
+
+Steve
+		
+
+Click to expand...
+
+Same here! Hence why I started this --> http://www.therpf.com/f10/studio-scale-tos-shuttlecraft-89967/
+
+Granted, mine's a little bit rough, and it's nowhere near done yet, but Will was very helpful during the initial planning/blueprinting stage.
+
+Without him and the awe-inspiring build he'd done before me, I wouldn't have gotten as far with my own build as I have.
+
+Great work, from a great guy 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #130  (forum post #1651403)
+Author    : srspicer
+Date      : Apr 25, 2011 at 10:12 AM
+────────────────────────────────────────────────────────────────────────
+
+I'm grateful this thread was resurrected!
+
+Awesome work freek61!!:cool
+
+Congrats, well done and ditto everyone else.
+
+Scott
+────────────────────────────────────────────────────────────────────────
+Post #131  (forum post #1651553)
+Author    : Effingham
+Date      : Apr 25, 2011 at 12:19 PM
+────────────────────────────────────────────────────────────────────────
+
+I absolutely love watching builds like this. Damn.
+────────────────────────────────────────────────────────────────────────
+Post #132  (forum post #1651570)
+Author    : Proper
+Date      : Apr 25, 2011 at 12:31 PM
+────────────────────────────────────────────────────────────────────────
+
+Yeah, I don't think I've ever seen as good a build of my fave shuttle!
+────────────────────────────────────────────────────────────────────────
+Post #133  (forum post #1651705)
+Author    : feek61
+Date      : Apr 25, 2011 at 2:19 PM
+────────────────────────────────────────────────────────────────────────
+
+Wow!!!  Thank you guys.  Since I was a kid I always loved this thing.  It is nice to finally have a decent representation of it.  It was a fun build as well!
+────────────────────────────────────────────────────────────────────────
+Post #134  (forum post #2644447)
+Author    : Jsimon999
+Date      : Dec 16, 2012 at 7:27 PM
+────────────────────────────────────────────────────────────────────────
+
+Super job, Wil. Amazing.
+
+The "escap r16 4 352" motors used on the nacelles have been discontinued apparently. 
+
+Do you have any current idea for an substitute/alternative?
+
+:thumbsup
+
+Jon
+────────────────────────────────────────────────────────────────────────
+Post #135  (forum post #2644466)
+Author    : feek61
+Date      : Dec 16, 2012 at 7:37 PM
+────────────────────────────────────────────────────────────────────────
+
+Here is one with but the RPM is faster but you could step it down:
+
+12 VDC 58 RPM MINI-MOTOR | AllElectronics.com
+────────────────────────────────────────────────────────────────────────
+Post #136  (forum post #2644903)
+Author    : Jsimon999
+Date      : Dec 17, 2012 at 4:36 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks, Wil. Those look pretty good. I'm interested in starting something like this sometime soon. I'm going to fiddle around with the nacelles and see if I can get something I like going. If I can, I will go forward from there.
+
+I looked over your build and was wondering if you had some more insight into scaling the model and the problems with constructing the nacelles and their lighting? Like how to exactly center the motor? How to make those rings that hold it? And how to attach a tube to the inner spinning globes and then the motor shaft? 
+
+The rest looks somewhat straight forward but those are critical things as I'm sure you found out and if not done correctly, the whole project goes up in smoke.
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+opcorn
+
+Jon
+────────────────────────────────────────────────────────────────────────
+Post #137  (forum post #2645960)
+Author    : JMChladek
+Date      : Dec 17, 2012 at 4:28 PM
+────────────────────────────────────────────────────────────────────────
+
+All this time and I never knew this model even existed. Very nice eye candy to look at.
+
+Glad it got bumped up again.
+────────────────────────────────────────────────────────────────────────
+Post #138  (forum post #2645998)
+Author    : feek61
+Date      : Dec 17, 2012 at 4:47 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks Jay!
+
+Jon,
+
+I drew the plans myself based on every scrap of information I could find.  The miniature itself is suppose to be 22" long and there is a photo someplace with a camera lens cap for scale.  As far as the nacelles go; it really was pretty easy and worked the first time I put it together.  It's been a few years now but it was pretty easy really.  For the motor mounts I just cut a couple of pieces of stryene the I.O. of the pipe; found the center and then cut a hole big enough to slide the motor into it.  As I said, it worked the first time on both of them.  Not sure if that helps but let me know if I can confuse you even more, lol.
+────────────────────────────────────────────────────────────────────────
+Post #139  (forum post #2671962)
+Author    : Jsimon999
+Date      : Jan 3, 2013 at 7:52 PM
+────────────────────────────────────────────────────────────────────────
+
+You're actually un-confusing me, Wil. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+No, your pics are very helpful, mostly self-explanatory and very inspiring.
+
+Will start posting when I start.
+
+:thumbsup
+
+Jon
+────────────────────────────────────────────────────────────────────────
+Post #140  (forum post #2672804)
+Author    : crackerjazz
+Date      : Jan 4, 2013 at 9:19 AM
+────────────────────────────────────────────────────────────────────────
+
+There's no such thing as a necropost for me on RPF.  Anything I haven't seen is new.  This is such a fine build, Feek61!
+────────────────────────────────────────────────────────────────────────
+Post #141  (forum post #2707120)
+Author    : darkev2
+Date      : Jan 22, 2013 at 8:16 PM
+────────────────────────────────────────────────────────────────────────
+
+Hello Will
+
+Really Incredible Build you have there.  Now if they would get around to redoing/retooling the original plastic kit to the correct dimensions, proportions and detail as you have so greatly demonstrated would be very VERY well appreciated.  
+
+Thanks for Sharing!!!
+
+darkev2
+────────────────────────────────────────────────────────────────────────
+Post #142  (forum post #2707768)
+Author    : BrundelFly
+Date      : Jan 23, 2013 at 7:21 AM
+────────────────────────────────────────────────────────────────────────
+
+THats just amazing!
+────────────────────────────────────────────────────────────────────────
+Post #143  (forum post #2713261)
+Author    : Mr. E Man
+Date      : Jan 26, 2013 at 9:52 AM
+────────────────────────────────────────────────────────────────────────
+
+darkev2 said:
+
+			Hello Will
+
+Really Incredible Build you have there.  Now if they would get around to redoing/retooling the original plastic kit to the correct dimensions, proportions and detail as you have so greatly demonstrated would be very VERY well appreciated.  
+
+Thanks for Sharing!!!
+
+darkev2
+		
+
+Click to expand...
+
+An all-new 1/32 scale Galileo styrene kit is in development right now, to be released later this year from Round 2. 
+
+E
+────────────────────────────────────────────────────────────────────────
+Post #144  (forum post #4200498)
+Author    : BenCozine
+Date      : Mar 2, 2017 at 1:36 PM
+────────────────────────────────────────────────────────────────────────
+
+Mr. E Man said:
+
+			An all-new 1/32 scale Galileo styrene kit is in development right now, to be released later this year from Round 2. 
+
+E
+		
+
+Click to expand...
+
+On hold still, hope it comes out in 2017 or 2018.
+────────────────────────────────────────────────────────────────────────
+Post #145  (forum post #4200677)
+Author    : TazMan2000
+Date      : Mar 2, 2017 at 6:43 PM
+────────────────────────────────────────────────────────────────────────
+
+I thought Round 2 cancelled the Galileo?
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #146  (forum post #4200855)
+Author    : feek61
+Date      : Mar 3, 2017 at 3:11 AM
+────────────────────────────────────────────────────────────────────────
+
+It was cancelled but they (Gary Kerr) finished all of the design work for it.  Hopefully the project will be resurrected!
+────────────────────────────────────────────────────────────────────────
+Post #147  (forum post #4202370)
+Author    : alensatemybuick
+Date      : Mar 5, 2017 at 4:50 PM
+────────────────────────────────────────────────────────────────────────
+
+I hope if Round2 ever offers one, they would include two sets of decal sheets, one to match the full scale mockup and another to match the filming miniature.
+────────────────────────────────────────────────────────────────────────
+Post #148  (forum post #4202662)
+Author    : spockboy
+Date      : Mar 6, 2017 at 7:06 AM
+Reactions : Like — MooCriket
+────────────────────────────────────────────────────────────────────────
+
+[IMAGE: 390827-eee6188b468ef688036a5bdf6e5bbc4f.jpg]
+ 
+[IMAGE: 390828-0dfc1f689843d3383efe5b6a5be1ea56.jpg]
+ 
+[IMAGE: 390829-4439100a4641eb8156f1e3df1d15c03a.jpg]
+ 
+[IMAGE: 390830-e8e45d8fc26de46599f86cd9fb8ef05f.jpg]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+Spockboy
+────────────────────────────────────────────────────────────────────────
+Post #149  (forum post #4205281)
+Author    : Optimistic Geom
+Date      : Mar 10, 2017 at 5:54 AM
+────────────────────────────────────────────────────────────────────────
+
+That is gorgeous work, the detail is amazing and you got the lighting spot on. Great job! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 149

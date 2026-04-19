@@ -1,0 +1,94 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : We've got our TOS E, with lights....what about....
+URL    : https://www.therpf.com/forums/threads/weve-got-our-tos-e-with-lights-what-about.23592/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #320798)
+Author    : Refit1701
+Date      : Apr 7, 2007 at 7:21 AM
+────────────────────────────────────────────────────────────────────────
+
+....the sounds?
+
+Anyone tried making a sound system to mount in the plexi case so we can hear the normal cruising ship noises?
+
+I'd like a control panel with:
+
+Warp engine acceleration
+
+bridge sounds
+
+red alert
+
+phasers firing
+
+photo torpedoes
+
+and ??
+
+Anyone given this some thought?  I know the new Art Asyum TOS E has sound effects, perhaps the electronics could be modified.
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #320808)
+Author    : BarryZ28
+Date      : Apr 7, 2007 at 7:57 AM
+────────────────────────────────────────────────────────────────────────
+
+<div class='quotetop'>QUOTE(Refit1701 @ Apr 7 2007, 07:21 AM) [snapback]1457320[/snapback]</div>
+
+			....the sounds?
+
+Anyone tried making a sound system to mount in the plexi case so we can hear the normal cruising ship noises?
+
+I'd like a control panel with:
+
+Warp engine acceleration
+
+bridge sounds
+
+red alert
+
+phasers firing
+
+photo torpedoes
+
+and ??
+
+Anyone given this some thought?  I know the new Art Asyum TOS E has sound effects, perhaps the electronics could be modified.
+
+[/b]
+		
+
+Click to expand...
+
+I've been thinking of the same thing but not so many overlaying sounds.
+
+How about having the sounds sync with the lighting effects or having the lighting effects trigger the sounds.
+
+Either way, very cool idea and I'ld be very interested as well to see some thoughts on this.
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #320840)
+Author    : stingray
+Date      : Apr 7, 2007 at 8:44 AM
+────────────────────────────────────────────────────────────────────────
+
+I had even thought of just playing the bridge sound effects at a low level.  Your idea sounds good indeed.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #321115)
+Author    : Treadwell
+Date      : Apr 7, 2007 at 7:07 PM
+────────────────────────────────────────────────────────────────────────
+
+I've been thinking of gutting my old Playmates ship and cramming the electronics into a little box with the buttons poking out to keep near the MR.
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #321460)
+Author    : Refit1701
+Date      : Apr 8, 2007 at 12:23 PM
+────────────────────────────────────────────────────────────────────────
+
+I thought of using an existing toy for sounds too.  But certainly we can do better.  There are sounds bytes on the web of the proper type for what we want to do.  Does anyone know how to program a eprom with the sounds and a way to play them in a loop or what have you on demand?
+
+I know there are some electronic techs out there somewhere.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 5

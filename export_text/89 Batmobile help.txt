@@ -1,0 +1,171 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : 89 Batmobile help
+URL    : https://www.therpf.com/forums/threads/89-batmobile-help.228392/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #3480502)
+Author    : Neo-uk
+Date      : Nov 8, 2014 at 5:56 AM
+────────────────────────────────────────────────────────────────────────
+
+I'm not sure where to put his so I might ask again in a different section.
+
+Anyway I've just acquired a 29 inch long 89 batmobile kit 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+But the resin cast tyres are terrible so I was hoping to replace them with some RC cars ones, question is does anyone know or can work out what scale this is please. It's supposedly cast from the mold of the studio effects car used in the Axis Chemical scenes.
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #3481066)
+Author    : Neo-uk
+Date      : Nov 8, 2014 at 7:47 PM
+────────────────────────────────────────────────────────────────────────
+
+Wow 79 views in one day but not one line of reply, Some one must have some idea.
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #3481219)
+Author    : Daniel Nelms
+Date      : Nov 9, 2014 at 2:30 AM
+────────────────────────────────────────────────────────────────────────
+
+You could try over at chickslovethecar forums they might know?
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #3481977)
+Author    : DaddyfromNaboo
+Date      : Nov 10, 2014 at 1:19 AM
+────────────────────────────────────────────────────────────────────────
+
+How about measureing the tires? It´s very likely that they aren´t to scale anyway. Or take them to an RC hobby store. Another option would be to hire a 3D modeler and have a new set printed.
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #3481992)
+Author    : batguy
+Date      : Nov 10, 2014 at 2:12 AM
+────────────────────────────────────────────────────────────────────────
+
+The supposed scales of large RC cars are generally so wacky that I wouldn't bother going that route.  Just measure the raggedy tires you have for the car (assuming that at least their size is correct for the body) and go shopping for an RC wheel/tire setup that's eqiuvalent.
+
+For what it's worth, a 29" Batmobile might be 1/8th scale.   That makes a 19-foot full sized car.  Scaling things up, 1/6th and 1/10th would make a 24ft or 14ft car - those figures both seem too far off to be correct IMO.  And I doubt anyone would make the model at 1/9th or 1/7th.
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #3482440)
+Author    : RCnut
+Date      : Nov 10, 2014 at 1:44 PM
+────────────────────────────────────────────────────────────────────────
+
+Is it this one?
+
+ 
+
+Attachments
+
+[IMAGE: 161238-37833a25d34014146b65bb680705a8ec.jpg]
+
+bat 01.JPG
+
+					65.2 KB
+					
+					· Views: 299
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #3483829)
+Author    : Neo-uk
+Date      : Nov 12, 2014 at 6:49 AM
+────────────────────────────────────────────────────────────────────────
+
+No it's not that one.
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #3485899)
+Author    : BTTFSpencer
+Date      : Nov 14, 2014 at 5:12 PM
+────────────────────────────────────────────────────────────────────────
+
+Sadly they never used the model for the film, they did produce a model though. I think they may have produced 2 even.
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #3487451)
+Author    : batguy
+Date      : Nov 16, 2014 at 9:43 PM
+────────────────────────────────────────────────────────────────────────
+
+I recall some miniature-looking shots of the Batmobile during the Axis Chemicals destruction.  And they used miniatures for the Batwing's fiery crash in that same movie.  
+
+They split a model car apart (1/4th scale?) in Batman Returns for the narrowing/alley getaway.
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #3488176)
+Author    : BTTFSpencer
+Date      : Nov 17, 2014 at 4:37 PM
+────────────────────────────────────────────────────────────────────────
+
+Of course they used miniatures, I don't believe a model was used in the Axis chemical scenes.
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #3492083)
+Author    : Keatonknight
+Date      : Nov 22, 2014 at 3:52 AM
+────────────────────────────────────────────────────────────────────────
+
+Needs to clarify.They used a model miniature in the axis scene.It was just 2 or 3 seconds but they really did.It was 1:8 scale.
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #3496140)
+Author    : Zarancorde
+Date      : Nov 26, 2014 at 8:13 PM
+────────────────────────────────────────────────────────────────────────
+
+Well, according to several web sites I've looked at for ya (and I think I  remember seeing these specs in a book ages ago), the original is 260.7  inches long, which puts your scale at 1:8.98965... basically 1:9, which  is definitely NOT a common scale.  But look for 1:8 scale tires that fit  185/60-15 size wheels. 
+
+The original tire/wheel size I got from here: http://www.chickslovethecar.com/KeatonCar.aspx
+
+then just algebraed it down to 1:9, and converted it to what the actual model part size would be if it were 1:8 scale...
+
+Good luck.
+
+B
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #3496904)
+Author    : Jarvis B
+Date      : Nov 27, 2014 at 7:45 PM
+────────────────────────────────────────────────────────────────────────
+
+I have a 1/8th scale 89 Batmobile that Iv'e been restoring for the last two years on and off and just recently had the tires and wheels modeled in 3d to have printed.
+
+How do they look so far .
+
+[IMAGE: TireShotFront2.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #3499188)
+Author    : BTTFSpencer
+Date      : Nov 29, 2014 at 7:43 PM
+────────────────────────────────────────────────────────────────────────
+
+Keatonknight said:
+
+			Needs to clarify.They used a model miniature in the axis scene.It was just 2 or 3 seconds but they really did.It was 1:8 scale.
+		
+
+Click to expand...
+
+Have you got proof?
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #3501232)
+Author    : Lear60man
+Date      : Dec 1, 2014 at 9:52 PM
+────────────────────────────────────────────────────────────────────────
+
+My local RC store has tons of wheels and tires in bags on a wall.  I would suggest just walking in with you set up and start matching what will work.
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #3512091)
+Author    : BTTFSpencer
+Date      : Dec 14, 2014 at 5:13 AM
+────────────────────────────────────────────────────────────────────────
+
+Jarvis B said:
+
+			I have a 1/8th scale 89 Batmobile that Iv'e been restoring for the last two years on and off and just recently had the tires and wheels modeled in 3d to have printed.
+
+How do they look so far .
+
+[url]http://i99.photobucket.com/albums/l320/jarvis64/TireShotFront2.jpg[/URL]
+		
+
+Click to expand...
+
+If you get these made up I'd really like to buy a set from you for my model.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 16

@@ -1,0 +1,628 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : How do you start a scratchbuild?
+URL    : https://www.therpf.com/forums/threads/how-do-you-start-a-scratchbuild.68006/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #951562)
+Author    : steveo
+Date      : Aug 5, 2009 at 4:04 PM
+────────────────────────────────────────────────────────────────────────
+
+I'm preparing to start my own scratch built model and was wondering how you guys/gals started? What kind of support do you use and how do you go about making the frame to support the whole model? Any info is greatly appreciated.  I didn't know if there was a tutorial out there or not.
+
+Steveo
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #951643)
+Author    : JPolacchi
+Date      : Aug 5, 2009 at 5:38 PM
+────────────────────────────────────────────────────────────────────────
+
+Rel,Neil,Allen and a few others who are real masters of the craft can help you with that.It's allot of work my friend...kudos to you for taking a stab at it.
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #951705)
+Author    : PHArchivist
+Date      : Aug 5, 2009 at 6:40 PM
+────────────────────────────────────────────────────────────────────────
+
+Custom design or known subject?
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #951733)
+Author    : imaginager
+Date      : Aug 5, 2009 at 7:02 PM
+────────────────────────────────────────────────────────────────────────
+
+How to approach it depends a lot on the subject and the its size. I've used MDF, alloy, acrylic, and hardwoods. Build up and align bulkheads for larger subjects. Smaller stuff, you can usually get by with plumbing supplies. Richard has some tricks, maybe try PMing him some questions...
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #951746)
+Author    : steveo
+Date      : Aug 5, 2009 at 7:18 PM
+────────────────────────────────────────────────────────────────────────
+
+PHArchivist said:
+
+			Custom design or known subject?
+		
+
+Click to expand...
+
+ 
+
+Custom design, maybe 2 feet in length.  I thought about using metal plumbing or metal fasteners to create a stand for the thing, but then don't really know where to go after that.  I've seen some that used wood, but I'd like to make it as light as possible.
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #951848)
+Author    : Nwerke
+Date      : Aug 5, 2009 at 9:25 PM
+────────────────────────────────────────────────────────────────────────
+
+Carving Renshape or even more ordinary lower-density urethane foam is a good way to go if it is a curved shape. You can also use balsa but it requires a lot of work to get rid of the grain and isn't really worth the pain. You can often pick up offcuts of urethane foam (big ones) from a signwriter's business, they will often have a dumpster full of the stuff. If you use the lower-density type you will need to fill the surface with resin or a lightweight putty.
+
+If it is boxy, then just build it up from styrene sheet in whatever thickness is suitable. You can usually get small sheets from model shops at great expense, or 4'x8' sheets from plastics suppliers at low cost.
+
+At this size range it shouldn't require a metal armature.
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #951863)
+Author    : slave1pilot
+Date      : Aug 5, 2009 at 9:40 PM
+────────────────────────────────────────────────────────────────────────
+
+How do you start a scratchbuild? 
+
+ start from scratch.
+
+:lol
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #951894)
+Author    : Commander Max
+Date      : Aug 5, 2009 at 11:00 PM
+────────────────────────────────────────────────────────────────────────
+
+Planning a lot of planning. 
+
+Drawings or something to follow, then the work begins. 
+
+And keep in mind your going to make a lot of mistakes. But that's part of the process, and the fun as well as frustration.
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #951908)
+Author    : frightzone_4_you
+Date      : Aug 5, 2009 at 11:37 PM
+────────────────────────────────────────────────────────────────────────
+
+steveo said:
+
+			I'm preparing to start my own scratch built model and was wondering how you guys/gals started? What kind of support do you use and how do you go about making the frame to support the whole model? Any info is greatly appreciated. I didn't know if there was a tutorial out there or not.
+
+Steveo
+		
+
+Click to expand...
+
+ This is the frame support for a miniature model I own (For big projects: steel pipes/wood...For smaller projects: pvc pipe/plastic) hope it helps give-U some ideas. Good Luck
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #951914)
+Author    : Sumatra
+Date      : Aug 5, 2009 at 11:55 PM
+────────────────────────────────────────────────────────────────────────
+
+For my Star Destroyer, I will be making a series of diamond shaped ribs from MDF.  For the dimensions I've been spending a great deal of time scaling things to get the final size of the ship, then working backwards to figure out what size the frame needs to be to give me the final size.
+
+I thought about using 1/16" aluminum since the weight would be the same as 1/4" MDF, but I think the MDF being thicker will give me more room to glue the acrylic to the frame.
+
+The one thing I still need to sort out is how I plan on supporting the model.  I'd like to leave the underside unobstructed since that's the first thing you see in the movie, but running a pipe straight into the bottom would be the simplest way to support it.
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #951960)
+Author    : CTF
+Date      : Aug 6, 2009 at 2:53 AM
+────────────────────────────────────────────────────────────────────────
+
+slave1pilot said:
+
+How do you start a scratchbuild? 
+
+start from scratch.
+
+:lol
+		
+
+Click to expand...
+
+ 
+
+But first you need the itch.
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #951970)
+Author    : feek61
+Date      : Aug 6, 2009 at 3:12 AM
+────────────────────────────────────────────────────────────────────────
+
+Atemylunch said:
+
+			Planning a lot of planning. 
+
+Drawings or something to follow, then the work begins. 
+
+And keep in mind your going to make a lot of mistakes. But that's part of the process, and the fun as well as frustration.
+		
+
+Click to expand...
+
+Yes, what he said.  For me getting the plan right is the priority.  There are enough building mistakes with a perfect plan and if the plan sucks so will your project.  Good luck!
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #952001)
+Author    : steveo
+Date      : Aug 6, 2009 at 5:20 AM
+────────────────────────────────────────────────────────────────────────
+
+feek61 said:
+
+			Good luck!
+		
+
+Click to expand...
+
+ 
+
+Thanks for all the well wishes.  I realize that I'm probably going to fail, but I hope it will at least be a fun experience.
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #952011)
+Author    : Scott Graham
+Date      : Aug 6, 2009 at 5:33 AM
+────────────────────────────────────────────────────────────────────────
+
+I know it might seem obvious, but I just googled 'scratchbuild' and there are a few tutorials out there in the results. One from starship modeler, and one from culttvman seemed what you might be looking for. Any advice given here can't come close to what you'd learn by studying a build that's thoroughly explained. Here's part 4 of culttvman's showing how to use cross sections to shape something:
+
+http://www.culttvman.com/scratchbuilding_part_4.html
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #952020)
+Author    : steveo
+Date      : Aug 6, 2009 at 5:41 AM
+────────────────────────────────────────────────────────────────────────
+
+Scott Graham said:
+
+			I know it might seem obvious, but I just googled 'scratchbuild' and there are a few tutorials out there in the results. One from starship modeler, and one from culttvman seemed what you might be looking for. Any advice given here can't come close to what you'd learn by studying a build that's thoroughly explained. Here's part 4 of culttvman's showing how to use cross sections to shape something:
+
+http://www.culttvman.com/scratchbuilding_part_4.html
+
+Click to expand...
+
+ 
+
+Wow, that site is very informative.  Thank you for the link.
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #952120)
+Author    : Scott Graham
+Date      : Aug 6, 2009 at 8:15 AM
+────────────────────────────────────────────────────────────────────────
+
+This is full of info too:
+
+http://www.starshipmodeler.com/tech/techmain.htm#tips
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #952299)
+Author    : steveo
+Date      : Aug 6, 2009 at 12:26 PM
+────────────────────────────────────────────────────────────────────────
+
+Scott Graham said:
+
+			This is full of info too:
+
+http://www.starshipmodeler.com/tech/techmain.htm#tips
+
+Click to expand...
+
+ 
+
+This one is even better! So much info. Thank you again.
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #952313)
+Author    : Sulla
+Date      : Aug 6, 2009 at 12:38 PM
+────────────────────────────────────────────────────────────────────────
+
+There used to be a great styrene scratch building tutorial on lyzrdstomp.com, but it appears that the site is off-line.  Too bad, it was a great tutorial for the beginner.  Got me started...
+
+Anyone have that info stored on thier PC?
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #952674)
+Author    : cayman shen
+Date      : Aug 6, 2009 at 6:44 PM
+────────────────────────────────────────────────────────────────────────
+
+http://starwarz.com/modelshop/
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #952700)
+Author    : wildabeast
+Date      : Aug 6, 2009 at 7:07 PM
+────────────────────────────────────────────────────────────────────────
+
+cayman shen said:
+
+http://starwarz.com/modelshop/
+
+Click to expand...
+
+Awesome site....thanks for the link
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #952733)
+Author    : Mr_Creepy
+Date      : Aug 6, 2009 at 7:50 PM
+────────────────────────────────────────────────────────────────────────
+
+Sulla said:
+
+			There used to be a great styrene scratch building tutorial on lyzrdstomp.com, but it appears that the site is off-line. Too bad, it was a great tutorial for the beginner. Got me started...
+
+Anyone have that info stored on thier PC?
+		
+
+Click to expand...
+
+ 
+
+We have/had his posts and links at the BBC - http://www.imperial-fleet.com/BBC/community/viewtopic.php?f=9&t=108 Part 1 is still there, but the links for the rest are dead 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #952755)
+Author    : steveo
+Date      : Aug 6, 2009 at 8:06 PM
+────────────────────────────────────────────────────────────────────────
+
+cool sites...I love the gun he did.
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #955217)
+Author    : Jedi Dade
+Date      : Aug 10, 2009 at 6:47 AM
+────────────────────────────────────────────────────────────────────────
+
+steveo said:
+
+			Thanks for all the well wishes. I realize that I'm probably going to fail, but I hope it will at least be a fun experience.
+		
+
+Click to expand...
+
+ 
+
+Failure is just the "mock-up" for the next one that is better.
+
+To be honest the build part is both Art and Science.  science in leaning how to build something that can support its own weight and still be the right shape, Art in that there's 5 ways to do everything, and picking the best that suits you, makes sense to yur head, and still works.
+
+That being said I've seen a lot of new builders have very good success by building the internal structure as "ribs" that follow the end shape.  followed by either "skinning", or by filling the ribs with foam then carving the foam to the shape dictated by the ribs, then skinning seaing the foam with Bondo.  Lasse's site has a TON of good scratching techniques detailed out.
+
+The short answer is that there is no one way to scratch something.  try a few ans see what works for you.
+
+Jedi Dade
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #955843)
+Author    : 3d-builder
+Date      : Aug 10, 2009 at 8:39 PM
+────────────────────────────────────────────────────────────────────────
+
+steveo said:
+
+			Thanks for all the well wishes.  I realize that I'm probably going to fail, but I hope it will at least be a fun experience.
+		
+
+Click to expand...
+
+If you fail you know you have tried!
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+thumbsup
+
+I don't think you can fail, but you can always start over!
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #955852)
+Author    : steveo
+Date      : Aug 10, 2009 at 8:47 PM
+────────────────────────────────────────────────────────────────────────
+
+3d-builder said:
+
+			If you fail you know you have tried!
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+thumbsup
+
+I don't think you can fail, but you can always start over!
+		
+
+Click to expand...
+
+ 
+
+Good call.  I'd hate to glue all those pieces down though and have to start over, but....if it'll make it better, I'm all for it.
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #955856)
+Author    : 3d-builder
+Date      : Aug 10, 2009 at 8:51 PM
+────────────────────────────────────────────────────────────────────────
+
+When are you going to kick off the build?
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #955911)
+Author    : Commander Max
+Date      : Aug 10, 2009 at 10:04 PM
+────────────────────────────────────────────────────────────────────────
+
+3d-builder said:
+
+			If you fail you know you have tried!
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+thumbsup
+
+I don't think you can fail, but you can always start over!
+		
+
+Click to expand...
+
+There is never any failed builds just more parts. :lol
+────────────────────────────────────────────────────────────────────────
+Post #28  (forum post #959121)
+Author    : steveo
+Date      : Aug 14, 2009 at 12:32 PM
+────────────────────────────────────────────────────────────────────────
+
+Not really sure.  I've got to finalize some designs first and figure out how I'm going to make the structure.  Then it's time to psych myself up and get my butt in gear.
+────────────────────────────────────────────────────────────────────────
+Post #29  (forum post #962515)
+Author    : steveo
+Date      : Aug 18, 2009 at 5:30 PM
+────────────────────────────────────────────────────────────────────────
+
+What kind of glue do you use to attach the pieces and how do you make it so there are no seams?
+────────────────────────────────────────────────────────────────────────
+Post #30  (forum post #967124)
+Author    : steveo
+Date      : Aug 24, 2009 at 2:43 PM
+────────────────────────────────────────────────────────────────────────
+
+bump for question
+
+steveo said:
+
+			What kind of glue do you use to attach the pieces and how do you make it so there are no seams?
+		
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #31  (forum post #967166)
+Author    : feek61
+Date      : Aug 24, 2009 at 3:18 PM
+────────────────────────────────────────────────────────────────────────
+
+Glue depends on the material you are using . . . . what material are you using?  For the seams I use bondo and spot putty.
+────────────────────────────────────────────────────────────────────────
+Post #32  (forum post #967173)
+Author    : IEDBOUNTYHUNTER
+Date      : Aug 24, 2009 at 3:28 PM
+────────────────────────────────────────────────────────────────────────
+
+steveo said:
+
+			What kind of glue do you use to attach the pieces and how do you make it so there are no seams?
+		
+
+Click to expand...
+
+  For  acrylic and styrene i use weld on number 3 or 4.
+
+   for wood and foam i use 2 part epoxy  5 or 10 minute your choice.
+
+  and  CA for everything else.  some times i use both on styrene and acrylic. weld on first and then CA to back it up.
+
+   Youll  see what works for you as soon as you start to build.
+
+Al
+────────────────────────────────────────────────────────────────────────
+Post #33  (forum post #967215)
+Author    : steveo
+Date      : Aug 24, 2009 at 4:24 PM
+────────────────────────────────────────────────────────────────────────
+
+thanks.  I "plan" on using styrene or plexiglass attached to a wood frame and then gluing on the kit donor parts to the styrene/plexi.
+────────────────────────────────────────────────────────────────────────
+Post #34  (forum post #967226)
+Author    : feek61
+Date      : Aug 24, 2009 at 4:45 PM
+────────────────────────────────────────────────────────────────────────
+
+Well be careful with the CA, as it will bond almost immediatly to styrene and if I'm not mistaken it will fog plexi.  I also use Goop which bonds just about everything.  Once you get started you will see what works best with what materials.  JB Weld is another one that I use a bunch.  A lot of it is "how much time do I need to get this part in the right spot before it's too late."
+
+Will
+────────────────────────────────────────────────────────────────────────
+Post #35  (forum post #993998)
+Author    : Dyonisis
+Date      : Sep 25, 2009 at 3:00 PM
+────────────────────────────────────────────────────────────────────────
+
+OK. I think I know what you're trying to ask,but so far none of these responses will help without pictures,and an explanation of what's happening.  I'm scratch building a four foot version of the X-wing that was shown in Return of the Jedi in my thread. This too,was a little over four feet in length.
+
+If you watch this as it progresses,I'll try to explain the entire process,and why I'm doing all the stuff in the photos. I'll even offer a tutorial on gluing,and painting techniques,as well as weathering for beginners. Maybe that will help you understand scratch building a little better. I'm using a balsa fuselage,and I'll cover it with sheet styrene,and reinforce the insides with acrylic. I'll show the easiest way to make something like this,so that you can learn faster with fewer mistakes. I learned the hard way,and I hope to keep others like you from having to do the same.
+────────────────────────────────────────────────────────────────────────
+Post #36  (forum post #994324)
+Author    : star-art
+Date      : Sep 26, 2009 at 1:46 AM
+────────────────────────────────────────────────────────────────────────
+
+You can build something on the fly as many do. This is sort of like free-form sculpture because you figure it all out as you go. 
+
+Then again, many people like to start with a plan in the form of blueprints or drawings. If you don't have something to start with (which is the case if it's your own design), you'll need to make your own.
+
+So, how can you do that? (Warning: shameless plug alert! LOL) I wrote one of the few (maybe only) books specifically for modelers on the subject of how to draw blueprints and get your modeling design ideas down on paper (or into the computer). My book is currently sold out, but I'm working to bring it back, hopefully by this Christmas.
+
+To learn more, visit the following site and be sure to sign up for the mailing list to find out when the book is back in print:
+
+http://www.ModelersNotebook.com
+────────────────────────────────────────────────────────────────────────
+Post #37  (forum post #994365)
+Author    : cayman shen
+Date      : Sep 26, 2009 at 4:23 AM
+────────────────────────────────────────────────────────────────────────
+
+I've gotta say, I've started a simple Slave 2 build three times now, and each time I've ended up throwing out a big, sloppy styrene rectangle.  I still WANT to scratchbuild very badly, but...from my limited, very limited experience, I'd have to say confidence and patience are as good to have as any blueprint! I know that's not "practical," but let's face it, so much of completing a big project is meticulousness and a set of brass balls.
+────────────────────────────────────────────────────────────────────────
+Post #38  (forum post #994430)
+Author    : steveo
+Date      : Sep 26, 2009 at 7:10 AM
+────────────────────────────────────────────────────────────────────────
+
+Not very reassuring, Caymen.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #39  (forum post #994431)
+Author    : steveo
+Date      : Sep 26, 2009 at 7:10 AM
+────────────────────────────────────────────────────────────────────────
+
+Cool, can't wait to follow your progress, Dyonisis. Thanks for doing a tutorial.
+────────────────────────────────────────────────────────────────────────
+Post #40  (forum post #994436)
+Author    : Dyonisis
+Date      : Sep 26, 2009 at 7:30 AM
+────────────────────────────────────────────────────────────────────────
+
+Sure thing Steve! I'm more than happy to share all my secrets with fellow modelers.  I hope that by me doing this,I can take some of the worry out of scratch building on any scale.
+────────────────────────────────────────────────────────────────────────
+Post #41  (forum post #994496)
+Author    : 3d-builder
+Date      : Sep 26, 2009 at 9:07 AM
+────────────────────────────────────────────────────────────────────────
+
+cayman shen said:
+
+			I've gotta say, I've started a simple Slave 2 build three times now, and each time I've ended up throwing out a big, sloppy styrene rectangle.  I still WANT to scratchbuild very badly, but...from my limited, very limited experience, I'd have to say confidence and patience are as good to have as any blueprint! I know that's not "practical," but let's face it, so much of completing a big project is meticulousness and a set of brass balls.
+		
+
+Click to expand...
+
+The blueprints help ease your mind, and set you on a good path
+
+all the way through the build. The blueprints also increase your confidence going into the project so your patience is tested less during the build.:thumbsup
+
+Charles has a great book, if he can get it to come
+
+back around I would highly suggest snatching one up!!:thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #42  (forum post #994500)
+Author    : 3d-builder
+Date      : Sep 26, 2009 at 9:13 AM
+────────────────────────────────────────────────────────────────────────
+
+cayman shen said:
+
+			I've gotta say, I've started a simple Slave 2 build three times now, and each time I've ended up throwing out a big, sloppy styrene rectangle.  I still WANT to scratchbuild very badly, but...from my limited, very limited experience, I'd have to say confidence and patience are as good to have as any blueprint! I know that's not "practical," but let's face it, so much of completing a big project is meticulousness and a set of brass balls.
+		
+
+Click to expand...
+
+Before you throw it out start a thread and ask questions here,
+
+I am sure you will get plenty of help and feedback.:thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #43  (forum post #994504)
+Author    : cayman shen
+Date      : Sep 26, 2009 at 9:23 AM
+────────────────────────────────────────────────────────────────────────
+
+3d-builder said:
+
+			The blueprints help ease your mind, and set you on a good path
+
+all the way through the build. The blueprints also increase your confidence going into the project so your patience is tested less during the build.:thumbsup
+
+Charles has a great book, if he can get it to come
+
+back around I would highly suggest snatching one up!!:thumbsup
+		
+
+Click to expand...
+
+ 
+
+Oh, I wasn't denigrating blueprints at all--they're of prime importance, I know.  I was just saying that the first step, before all the planning, is trusting yourself to see the damn thing through! :lol
+
+I tend to see a gap, or a sloppy joint, and get disgusted and give in.  Yes, I could sand, putty, prime, and voila, it'd look fine.  But I tend to expect perfection the first time around, and when I don't see it I get frustrated.  I have trouble seeing the end from the beginning, seeing what it could look like from what it does.
+
+I really want to try a v-wing, but even the blueprints on that kind of scare me!
+────────────────────────────────────────────────────────────────────────
+Post #44  (forum post #994508)
+Author    : 3d-builder
+Date      : Sep 26, 2009 at 9:33 AM
+────────────────────────────────────────────────────────────────────────
+
+Try using a medium out the gate that is inexpensive that will allow 
+
+you to complete most of the model.This will give you experience with 
+
+the subject and boost your confidence.I was just looking at the slave 2,
+
+you could do a lot of that as a test with oak tag or poster board,
+
+ even if you have to tape it together. Most geometric subjects if your not going to have
+
+the parts laser cut,are a study in making good templates and cutting them out.:thumbsup
+
+Practice making joints with scrap styrene, using different types of glues
+
+or solvents.See where glue or styrene works the best as you go along,
+
+then apply this to the model you wish to build.
+────────────────────────────────────────────────────────────────────────
+Post #45  (forum post #994818)
+Author    : cayman shen
+Date      : Sep 26, 2009 at 6:02 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks for the tips...I just re-read every page of your Cloud Car build up, and it got my blood stirring.  Maybe I'll cut out a few snowspeeder hull shapes on some cardstock later on...
+────────────────────────────────────────────────────────────────────────
+Post #46  (forum post #995315)
+Author    : Junk Pilot
+Date      : Sep 27, 2009 at 2:50 PM
+────────────────────────────────────────────────────────────────────────
+
+Maybe you should have two mounting points. One on the bottom and another on the side.
+────────────────────────────────────────────────────────────────────────
+Post #47  (forum post #1000023)
+Author    : geoduck
+Date      : Oct 2, 2009 at 12:48 PM
+────────────────────────────────────────────────────────────────────────
+
+This is a very helpful therad.  Thx for the tips everyone.
+────────────────────────────────────────────────────────────────────────
+Post #48  (forum post #1733400)
+Author    : daltman1967
+Date      : Jun 22, 2011 at 11:08 AM
+────────────────────────────────────────────────────────────────────────
+
+If you're intested, read my blog on my kitbash of the U.S.S. Cavalier, NCC-1967-B.  It's 90% scratchbuilt.  I built a cardboard "skeleteon," covered that with plaster strips, then built up the shape with papier mache, and am now finishing with a smooth drywall compound.
+────────────────────────────────────────────────────────────────────────
+Post #49  (forum post #1733457)
+Author    : darth_myeek
+Date      : Jun 22, 2011 at 11:36 AM
+────────────────────────────────────────────────────────────────────────
+
+I love this David Merriman DVD set. He's opinionated 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+, and I don't think anyone besides me likes him, but he hits major scratchbuilding concepts.  It's worth it.
+
+Oh crap did I just get sucked into a necropost?
+────────────────────────────────────────────────────────────────────────
+Post #50  (forum post #1733566)
+Author    : brandomack
+Date      : Jun 22, 2011 at 12:39 PM
+────────────────────────────────────────────────────────────────────────
+
+darth_myeek said:
+
+			Oh crap did I just get sucked into a necropost?
+		
+
+Click to expand...
+
+ 
+
+:lol yep.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 50

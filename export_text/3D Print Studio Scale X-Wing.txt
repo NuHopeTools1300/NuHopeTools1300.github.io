@@ -1,0 +1,75 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : 3D Print Studio Scale X-Wing
+URL    : https://www.therpf.com/forums/threads/3d-print-studio-scale-x-wing.350082/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #5397699)
+Author    : Redfinger
+Date      : Jan 26, 2023 at 12:38 PM
+Reactions : Wow — joberg
+────────────────────────────────────────────────────────────────────────
+
+Has anyone printed/built the studio scale X-wing from Alain Rivard? 
+
+I have a Elegoo Saturn and I purchased the files, but had to slice the main body due the size so it could fit in my build plate. 
+
+This of course caused a major problem with assembly and the resin ended up cracking and I had to trash the whole project. 
+
+Looking for anyone else who has talked this project that might be able to offer some pointers.
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #5397709)
+Author    : TazMan2000
+Date      : Jan 26, 2023 at 1:43 PM
+Reactions : Like — joberg, Redfinger
+────────────────────────────────────────────────────────────────────────
+
+Are you certain the resin cracked or was it a layer separation? Have you printed out other items successfully on your printer? There are numerous things that can prevent successful prints. Most common issues are with bed adhesion and support. 
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #5397713)
+Author    : Redfinger
+Date      : Jan 26, 2023 at 1:50 PM
+Reactions : Wow — joberg
+────────────────────────────────────────────────────────────────────────
+
+TazMan2000 said:
+
+			Are you certain the resin cracked or was it a layer separation? Have you printed out other items successfully on your printer? There are numerous things that can prevent successful prints. Most common issues are with bed adhesion and support.
+
+TazMan2000
+		
+
+Click to expand...
+
+I am certain it cracked. I am trying to print this file on my Elegoo Saturn, it is a resin printer. 
+
+The fuselage of the X-wing had to be cut in a few pieces so I pile print it. These parts all warped, I was able with filler to get everything more or less lined up, but I think in the process I put too much tension on the model and with in a week it cracked. 
+
+I am certain the resin was fully cured, this isn’t an issue related to hollow prints with out drain holes. 
+
+I am mostly looking for people who have successfully printed this model on smaller printers by slicing the parts up…
+
+I appreciate  your suggestions though.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #5397730)
+Author    : TazMan2000
+Date      : Jan 26, 2023 at 2:59 PM
+Reactions : Like — dtssyst, joberg
+────────────────────────────────────────────────────────────────────────
+
+If you could post pictures with the issues you are having, it might lead to better advice. I have had numerous issues with resin printers myself. Its rarely a problem with subdividing the parts. I have found that Elegoo resin prints better in a warm room.
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #5397787)
+Author    : RayLuis
+Date      : Jan 26, 2023 at 5:50 PM
+Reactions : Like — GEEK1138, joberg, Redfinger
+────────────────────────────────────────────────────────────────────────
+
+I printed one of his models a  A-wing fighter and I was drilling a hole into a bulkhead to run a brass tube in it to make a stand for it and when I drilled through the bulkhead uncured resin started leaking out. And I was like why couldn't he have designed this bulkhead to be a solid piece? And I printed other pieces like the wings on the A-Wing which were pretty thin and he's made them hollow also and when I drilled into the wing resin leaked out also. I don't know anything about 3D CAD designing a model but I do know why would you design certain parts like these that can be done with solid walls instead of having voids in them that cannot be cured having trapped resin in them? That is probably why your model cracked because there was trapped resin in between the walls if the walls were hollow.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 5

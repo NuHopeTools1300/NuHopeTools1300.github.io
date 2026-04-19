@@ -1,0 +1,100 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Any lighting electronics wizards out there?
+URL    : https://www.therpf.com/forums/threads/any-lighting-electronics-wizards-out-there.6482/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #107026)
+Author    : jvasilatos
+Date      : May 3, 2006 at 8:10 AM
+────────────────────────────────────────────────────────────────────────
+
+Okay, I thought I was so close...
+
+I bought this lightsheet:
+
+[IMAGE: e-clec-tech_1894_4543312.jpg]
+
+And this wire kit:
+
+[IMAGE: e-clec-tech_1894_13159504.jpg]
+
+... to create lighting panels inside the cockpit of my studio scale TIE... of which there is not a lot of room within the cockpit for more than 2 AAA 1.5 volt batteries (the rest of the space is for the pilot and cockpit panels).  I already have the power source installed, which also powers the two LED engine lights, and I had two extra loose wires standing by to connect to the lightsheet power supply electonic module that requires 2 AAA 1.5 volt batteries:
+
+[IMAGE: POWER_SUPPLY.jpg]
+
+However, attaching the extra wires to the power supply that then leads to the lightsheet cancels everything out... nothing lights up.  When they are detached, the LED engine lights go on again.
+
+I don't know anything about circuitry so I am wondering what I have to do so that the 2 batteries can power the two LED engine lights as well as the EL power supply and the lightsheet.  I thought I had all the right components, but I think the power supply circuit element for the lightsheet is causing the problem, but without it the sheet won't light.  And I don't want to have to choose between one or the other (engine lights vs. cockpit panel lights when there is enough power for both.)
+
+Everything was designed to run off one switch and one self-contained power source, now I am not sure how I can overcome this last hurdle getting the lightsheet and LEDs to run without cancelling out each other (but which work fine seperately...)
+
+Any advice?
+
+JV
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #107034)
+Author    : 1138
+Date      : May 3, 2006 at 8:26 AM
+────────────────────────────────────────────────────────────────────────
+
+I'm no electronics expert either but are you wiring them in series or parallel?  In series I could see how a problem might exist since IIRC the EL sheet circuit involves an inverter. 
+
+If you wired them in parallel (ie batteries are wired directly to LEDs and separately to the EL circuit) and you're still having the problem (and you're sure 2 AAA's is enough juice) then I'm stumped..
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #107037)
+Author    : RickDTM
+Date      : May 3, 2006 at 8:32 AM
+────────────────────────────────────────────────────────────────────────
+
+I was going to ask the same question....wiring the circuit in parallel "should" solve the problem.   I'm no expert either, but I've wired several LEDs in parallel off one power source and it worked out great.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #107057)
+Author    : WookieeGunner
+Date      : May 3, 2006 at 8:55 AM
+────────────────────────────────────────────────────────────────────────
+
+I believe the "one switch" means you are running off serial (ie you go from the battery to the led to the light sheet back to the battery).  This won't necisarily work (I don't know the specifics involved so can't say for certainty).  I would go with a parallel as mentioned above.  You can find a single throw, double pole (ST-DP) switch.  This has two sets of pins for wires instead of one.  This will allow you to run the two pieces in parallel without having to add a second switch.
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #107112)
+Author    : star-art
+Date      : May 3, 2006 at 10:22 AM
+────────────────────────────────────────────────────────────────────────
+
+Well, I'm no expert but I've built a circuit or two (or three). 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+If you are new to electronics then reading circuit diagrams can be confusing. I find it very helpful to draw diagrams of the circuit as it would actually look when wired up. Here's an example of how you could wire your lighting circuit in parallel.
+
+Think of each section as a separate circuit. So the LEDs would be hooked up, working, and on their own. Then hook up the EL on its own and make sure it works. Then simply hook both circuits to the battery at the same time.
+
+The trick is to place the switch in between the + side of the battery and the connection to both circuits, thereby turning them both on or off together.
+
+Most things in electronics are polarity sensitive meaning you need to make sure the + goes to the + and the - to the -.  I find it helpful to use red wire for + leads and black wire for - leads. LEDs are also "polarized" so they only work when hooked up one way. I never can remember whether the resistor goes on the + or - lead (yeah, I'm getting rusty.). So if I got things backwards then someone please correct me.
+
+HTH. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+BTW I highly recommend the Engineer's Mini Notebook from Radio Shack and their Getting Started in Electronics book. These helped me get up to speed back in the day and they are very helpful.
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #107502)
+Author    : jvasilatos
+Date      : May 4, 2006 at 12:11 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks guys, I will give that a try.
+
+JV
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #113737)
+Author    : vaderdarth
+Date      : May 15, 2006 at 6:48 AM
+────────────────────────────────────────────────────────────────────────
+
+Jerry, any updates on how the lighting is going????    I'm dying to see it finished.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Dave
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 7

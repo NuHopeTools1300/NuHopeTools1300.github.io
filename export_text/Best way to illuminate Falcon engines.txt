@@ -1,0 +1,75 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Best way to illuminate Falcon engines
+URL    : https://www.therpf.com/forums/threads/best-way-to-illuminate-falcon-engines.41029/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #540486)
+Author    : chewie25
+Date      : Mar 22, 2008 at 6:25 AM
+────────────────────────────────────────────────────────────────────────
+
+Hi,
+
+I'm looking for the best way to illuminate the Falcon engines : neon tubes, leds, or others ... ?
+
+I'd like to use this for various scales of the Falcon.
+
+So, great thanks for your answers.
+
+Bye.
+
+Christophe
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #540492)
+Author    : HAL9000
+Date      : Mar 22, 2008 at 6:47 AM
+────────────────────────────────────────────────────────────────────────
+
+I'd say go for battery powered LED's because a) they
+
+give off the right blueish white light you need for
+
+the falcon, b) they are cool and won't melt your
+
+model, and c) the batteries will last a long time.
+
+I would suggest putting the LED's in an array behind some
+
+kind of diffusing material otherwise you will just see a bunch of lights rather than the collective glow of the engine.
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #540529)
+Author    : ralphee
+Date      : Mar 22, 2008 at 8:04 AM
+────────────────────────────────────────────────────────────────────────
+
+EL wire maybe....if used right i guess a frosted engine panel would diffuse the glow well, leaving it bold down the middle and subdued at the outer edges? Very little heat too!
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #540706)
+Author    : chewie25
+Date      : Mar 22, 2008 at 1:31 PM
+────────────────────────────────────────────────────────────────────────
+
+Great thanks for your answers !
+
+The 2 ways seem good : I've to try them to see which one give the best result.
+
+Bye.
+
+Christophe
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #541050)
+Author    : TridCloudwalker
+Date      : Mar 23, 2008 at 2:15 AM
+────────────────────────────────────────────────────────────────────────
+
+It all depends on what you're comfortable with.
+
+If you want a look that's as close as possible to how it looks on film, use a cold cathode tube. However, these take a lot of energy to run, and being glass you have to worry about breakage.
+
+If you want absolute reliability and lifespan, go with an array of LEDs with a diffuser in front of them. I believe VoodooFX (amongst a couple others) sell these if you are unable to put it together youself.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 5

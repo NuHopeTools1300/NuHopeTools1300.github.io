@@ -1,0 +1,98 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Working retractable landing gear for the 32" Falcon.
+URL    : https://www.therpf.com/forums/threads/working-retractable-landing-gear-for-the-32-falcon.251587/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #3834626)
+Author    : Supercoolin
+Date      : Dec 4, 2015 at 8:20 PM
+────────────────────────────────────────────────────────────────────────
+
+I have been searching all the various forum sites and on you tube and I have had no success in finding anything or anyone that attempted and actually succeeded in creating working landing gear and landing bay doors for the 32" size falcon.   Was there ever an attempt or success doing this posted? I would appreciate help with some links to prior attempts to see where the problems came up or where great modelers overcame the problems and succeeded in installing working landing gear.   I can handle the servo control and timing,  it is the basic gear redesign to allow retraction, that I need help on.
+
+thanx in advance for any help.  I will share everything I attempt, even the failures, with you guys
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #3835175)
+Author    : Dedalus5550
+Date      : Dec 5, 2015 at 3:22 PM
+────────────────────────────────────────────────────────────────────────
+
+Part of the problem as I see it is that based on the photos I've seen, there's really no way for landing gear to work on a hypothetical real ship.  Pictures of landing gear down make it look like the "foot" is bigger than the hole, and that doesn't even account for any kind of hinge system for the door.  In fact, it seems to me that the pics from the movie don't really show gear doors, either.  I guess they disappear into the ship, which compounds the whole issue.  From an engineering standpoint, on a real full size ship, they way it's been presented in the movies, it's just not possible.  Then, trying to put that in the context of a 32-inch model, makes it even more of a problematic.
+
+But, then, oh, I've seen some of those videos of RC jets with working everything, and I don't know.
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #3835205)
+Author    : Supercoolin
+Date      : Dec 5, 2015 at 4:07 PM
+────────────────────────────────────────────────────────────────────────
+
+Trying to work out the compression of the landing gear assembly is much to difficult when the scale is smaller than 1/48, that is why I have chosen to attempt it on a 32" version.  As I get more components together and try to work out how to collapse it into the shell of the ship, I might find it to be  a lost cause attributable to the ongoing mystery of the falcon's interior design.  I was just hoping one of the highly creative builders on this forum had figured out some of the puzzle already.   The Falcon's gear design is definitely for looking cool,  because the design was not around it tightly folding up into a small area,  but there has got to be someway to compress it and pull all of it up into the ships body and close a couple gear doors behind it.   This will be a challenge if I have to start from scratch.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #3835263)
+Author    : newmagrathea
+Date      : Dec 5, 2015 at 5:26 PM
+Reactions : Like — Sym-Cha
+────────────────────────────────────────────────────────────────────────
+
+I thought that I had seen a video of a build with retractable landing gear, but I tracked down that video and he does pretty much everything except the landing gear.
+
+Still maybe some good ideas.
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #3835370)
+Author    : leyrich
+Date      : Dec 5, 2015 at 9:30 PM
+────────────────────────────────────────────────────────────────────────
+
+WOW that was sweet 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #3835391)
+Author    : Supercoolin
+Date      : Dec 5, 2015 at 10:06 PM
+Reactions : Like — newmagrathea
+────────────────────────────────────────────────────────────────────────
+
+newmagrathea said:
+
+			I thought that I had seen a video of a build with retractable landing gear, but I tracked down that video and he does pretty much everything except the landing gear.
+
+Still maybe some good ideas.
+
+https://www.youtube.com/watch?v=Mlfyv2Hvbj8&amp;ab_channel=NeilSmith
+
+Click to expand...
+
+Thanx newmagrathea,
+
+yes this is quite an exceptional build,  his belly gun control in 1/72 scale is amazing.  He provided me the inspiration to scrap the poorly designed lift system on the deago 32" and rebuild the lift unit so it allows clear access to the interior and works similar to the screen models with synchronized lifting of the center two rams and spring tension on open/closure.  Also the belly gun is going to be so much easier at 1/43 scale.  I have a simple programmable 12 servo landing gear/door controller for the project,  just need to figure how to compress the landing gear without changing the look of the landing gear and legs.   Double doors are easy, a two wing folding and a swing door combo is the challenge for the rear two double feet assemblies.  Lots of parts purchase, sketches, ideas, and research,  but need a few more months of subscriptions to have the model far enough to safely begin frame mods.  Have changed all the Phillips head frame assembly screws to SS M2x4mm and M2x5mm button head and standard head hex socket screws so I could actually tighten them properly.  I lot easier to handle a H1.3 hex driver,  screws stay on until you start them.
+
+http://www.ebay.com/sch/i.html?_fro...m2x4.TRS1&_nkw=m2x4+hex+socket+screw&_sacat=0
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #3835527)
+Author    : Avanaut
+Date      : Dec 6, 2015 at 4:56 AM
+────────────────────────────────────────────────────────────────────────
+
+The landing gears had bay doors on the full size prop. The covers were divided in roughly 1/3 and 2/3 sized pieces. The 2/3 door had a hinge in the middle so that it could open without taking too much space under the hull.
+
+I guess the ESB mock up could be seen as a cross-reference item with the 32" model, I mean, they're from the same movie. I hope this helps a little, although it doesn't remove the problem with the size of the wells and the pads.
+
+[IMAGE: 279369-8efb8586f19853024e727510ae0c467d.jpg]
+
+(I do not remember where I downloaded this image.)
+
+Oh, I loved that FM Falcon build in the video, It's a shame it was sold before it was finished. I would have loved to see it in it's full glory.
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #3835611)
+Author    : newmagrathea
+Date      : Dec 6, 2015 at 8:05 AM
+────────────────────────────────────────────────────────────────────────
+
+I was thinking about trying to make functional retractable landing gear for my Hasbro Falcon and it wouldn't have the hinderance of the interior. However the fact that the landing gear foot might be larger than the opening is something I'd never even thought of. 
+
+I thought this same build had a smoke generator, but I didn't see it the video. I did find the video, same guy but not installed in the video. Still more ideas for you.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 8

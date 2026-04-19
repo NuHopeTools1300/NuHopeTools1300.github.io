@@ -1,0 +1,54 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Sizing models
+URL    : https://www.therpf.com/forums/threads/sizing-models.336195/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #5144533)
+Author    : BernieFett
+Date      : Dec 13, 2020 at 10:22 AM
+────────────────────────────────────────────────────────────────────────
+
+Where would i find information on ship size for scaling reference? Im making a Slave 1 that was originally 1:34. I increased size 150%. Id like to figure out the new scale of my model and also figure out how to calculate equivalent size for other star fighter models id like to build
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #5145150)
+Author    : Mr. E Man
+Date      : Dec 14, 2020 at 7:01 PM
+────────────────────────────────────────────────────────────────────────
+
+A simple google search can usually provide the results you are looking for.  For instance, a search of "Slave 1 dimensions" would provide the following result from the Wookieepedia site:
+
+Length:  21.5m     Width:  21.3m
+
+21.5 x 39.37  = 846.455" or 70' 6.45" full size length
+
+846.455 / 34 = 24.895" scale length
+
+1/34 scale x 150% = 37.34" long at 1/22.66 scale
+
+E
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #5145159)
+Author    : Jkirkon
+Date      : Dec 14, 2020 at 7:29 PM
+────────────────────────────────────────────────────────────────────────
+
+Yep. 1/34 x 150% = 1/22.6ish
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #5145165)
+Author    : Analyzer
+Date      : Dec 14, 2020 at 7:41 PM
+Reactions : Like — TazMan2000
+────────────────────────────────────────────────────────────────────────
+
+here is a quick tool to help convert between scales
+
+						Online Scale Converter Tool - Scale Modelers World
+					
+
+The Scale Modelers World is an online resource for scale modelers. Here you will find product reviews and articles direct from the workbench.
+
+					www.scalemodelersworld.com
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 4

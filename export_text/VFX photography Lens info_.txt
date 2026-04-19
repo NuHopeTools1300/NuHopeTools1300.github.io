@@ -1,0 +1,56 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : VFX photography Lens info?
+URL    : https://www.therpf.com/forums/threads/vfx-photography-lens-info.46519/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #623309)
+Author    : Clerval
+Date      : Jul 8, 2008 at 9:19 PM
+────────────────────────────────────────────────────────────────────────
+
+Hi
+
+Trying to suss out a bit of info on the lenses that would have been used to shoot say :24 (or approx) scale ships in front of a bluescreen. Going to keep poking around, and while I've got a few formulas and suggestions thanks to Ray Fielding, I was wondering if anyone's got or seen any shooting notes?
+
+While at it, it doesn't need to be restricted to small scale, larger scale from any shows would be nice too, but now trying to lock down the small to mid-size stuff. SSModeling is probably a more appropriate forum than OT for this, so here it gets stuck.
+
+Many thanks.
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #623341)
+Author    : Mike J.
+Date      : Jul 8, 2008 at 10:21 PM
+────────────────────────────────────────────────────────────────────────
+
+http://en.wikipedia.org/wiki/F-stop
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #626258)
+Author    : minieffects
+Date      : Jul 12, 2008 at 11:58 PM
+────────────────────────────────────────────────────────────────────────
+
+Clerval said:
+
+			Hi
+
+Trying to suss out a bit of info on the lenses that would have been used to shoot say :24 (or approx) scale ships in front of a bluescreen. Going to keep poking around, and while I've got a few formulas and suggestions thanks to Ray Fielding, I was wondering if anyone's got or seen any shooting notes?
+
+While at it, it doesn't need to be restricted to small scale, larger scale from any shows would be nice too, but now trying to lock down the small to mid-size stuff. SSModeling is probably a more appropriate forum than OT for this, so here it gets stuck.
+
+Many thanks.
+		
+
+Click to expand...
+
+Stick to wider lens's. 50mm, 35,24 and you want your aperture open pretty wide for depth of field. Stay away from long lens's they make the model look like,well, a model.  If you can take a longer exposure you will get better results on holding depth of field. If your shooting stills my suggestion is get your camera on a tripod, lock it down tight so it cant move. Then shoot your Key light only, fill light only, practical lights (running lights, interior lights), and matte pass all separately. This way you can composite them in photo shop. This is how we shoot motion control shots of models. The average exposure time is about 1-4 frames per second (this only applies to moving film). Once you take the images into photo shop you can adjust each one and have control over the lighting.
+
+Compositing
+
+this one uses cg render passes in the example but the process is still the same.
+
+Compositing in photo shop
+
+good luck
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 3

@@ -1,0 +1,1994 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Open Source Studio Scale TIE Fighter Thread
+URL    : https://www.therpf.com/forums/threads/open-source-studio-scale-tie-fighter-thread.360022/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #5579907)
+Author    : MrRobot
+Date      : Oct 21, 2024 at 3:28 AM
+Reactions : Like — RossW, tdb68, Carter C
+────────────────────────────────────────────────────────────────────────
+
+Inspired by jcoffman99 and others, I have decided to share my journey into constructing a studio scale TIE fighter (target: ANH version) and will post links, data, and progress here. My motivation is similar: a lot of the data is not easy to access, there are countless dead links to images and defunct websites. There are apparently parts maps and discussions on another forum, but that has proven difficult to get access. I'm starting this at the part ID research and kit collection phase and aim to start sharing build progress early in the first quarter of 2025.
+
+At present, my IDs are incomplete (see images in the part maps link) I have IDs for much of the exterior hull and wingstar hub; I've done the top and bottom "hatches" and front cockpit dash, but not yet made images (dreading doing the cockpit interior!). I'm updating these and posting them here:
+
+Draft TIE Fighter part maps
+
+Draft TIE Fighter donor kit list
+
+As the links say, these are drafts and the maps are version-marked as "beta". Major-point "release" versions will then go into an RPF-hosted album and/or somewhere at least equally permanent. Comments, suggestions, hints, or outright IDs would be appreciated.
+
+These lists would not have been possible without RPF, the awesome SciFiKitBash forum and all of the work done by folks who have painstakingly scanned and uploaded images of their kits. I am eternally in your debt!
+
+RPF studio scale TIE Fighter link roundup:
+
+SS Builds:
+
+swgeek's detailed build chronicle: My SS TIE Fighter
+
+vectorzero's TIE Advanced build (contains details relevant to TIE Fighter): TIE Advanced Build Log (Nice-N Base with Modifications)
+
+Greeb IDs and kits:
+
+Cockpit ball "seam cover": Seeking help with Tie greeblie ID
+
+Some dorso-lateral cockpit ball parts: Tie Fighter parts identification
+
+mbraz's unresolved mystery piece (as yet, unresolved): Troublesome TIE fighter greebly ID
+
+thawn_es's 1:1 part exchange lists kits used on ANH TIE: New studio scale and 1:1 change/trade parts!!!
+
+See also links for SS builds (as these have part IDs and useful images)
+
+Measurement and ILM model details:
+
+ICONS casting with some good discussion of measurements: EDIT - ICONS Tie Production Castings.....
+
+Wing thickness  discussion: Studio scale TIE wing thickness info if you can
+
+Same thread: Cockpit ball diameter courtesy of moffeaton's production casts
+
+Wing T-beam: Studio Scale Tie Fighter wing question
+
+More will follow. I've tried to keep this list of links limited to threads that still have extant images/links. I will update this OP as I organize current info and collect more.  All are welcome to contribute!
+
+NOTE: As a rule, I will not share any information if it is shared privately with me unless you give me express consent to do so. I ask that others respect the same.
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #5581529)
+Author    : MrRobot
+Date      : Oct 29, 2024 at 5:22 AM
+Reactions : Like — BajaTym, DAR23, joberg
+────────────────────────────────────────────────────────────────────────
+
+I've updated the part map files for the wingstar hub and cockpit ball exteriors yesterday. I've also recently updated some enumeration errors and typos in the wingstar hub map. I've made some success identifying some of the parts I've seen queried in the past by other builders, so I thought I'd post some details of my current IDs here.
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2024-10-29-at-11-39-22-png.1875658/]
+
+The first is a dual rod #28: I believe this is part E1 from the Tamiya 1/25 Centurion with the ends trimmed off:
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2024-10-29-at-11-42-39-png.1875660/]
+
+The second part, #68, is I believe 275Y from the AMT 1/25 International Payhauler:
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2024-10-29-at-11-45-52-png.1875661/]
+
+Sorry I'm showing the reverse side of it relative to the TIE model (the scan on that side appears to be a bit less resolved).
+
+Very nearly have IDs assigned to all wingstar hub parts (which isn't to say all the IDs are right). The last few stragglers are these usual suspects:
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2024-10-29-at-12-02-56-png.1875663/]
+
+I gave #14 its own thread. I haven't seen a SS tie that convincingly has this part right (sometimes for lack of images, sometimes because two or more models clearly conflict—unlikely to both be right).
+
+#43 is a rectangular box with 6 peripheral rivet or fastener details. Somewhat non-descript and could be cut from the body or hull of a tank and I just keep missing it. One of my major weaknesses is spotting parts cut out of the surface of larger vehicle body panels!
+
+#65 and 66 seem to be lights from an armoured vehicle. This style of covered light is common in IFVs and self-propelled howitzers. You see similar forward lights on Bradley FVs, but those weren't produced until 1981, and these parts were definitely on the ANH model. I've come across a few candidates, but nothing definitive. Nichimo Abbot is a possibility but I don't have a good scan.
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #5581556)
+Author    : swgeek
+Date      : Oct 29, 2024 at 7:55 AM
+Reactions : Like, Love — BajaTym, MrRobot, joberg
+────────────────────────────────────────────────────────────────────────
+
+#43 is from the Bandai 1/48 8 ton semi truck.
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot_20241029_075338_chrome-jpg.1875682/]
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #5581577)
+Author    : swgeek
+Date      : Oct 29, 2024 at 10:37 AM
+Reactions : Like, Wow — BajaTym, edge10, DAR23
+────────────────────────────────────────────────────────────────────────
+
+Don't know if this helps?
+
+[IMAGE: https://www.therpf.com/forums/attachments/20241029_091127-jpg.1875746/]
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #5581578)
+Author    : MrRobot
+Date      : Oct 29, 2024 at 10:41 AM
+Reactions : Like — joberg, swgeek
+────────────────────────────────────────────────────────────────────────
+
+Amazing! Thank you! Missed it because I was looking at a lower resolution scan for that one.
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #5581579)
+Author    : MrRobot
+Date      : Oct 29, 2024 at 10:42 AM
+Reactions : Like — joberg, swgeek
+────────────────────────────────────────────────────────────────────────
+
+swgeek said:
+
+			Don't know if this helps?
+
+View attachment 1875746
+
+Click to expand...
+
+This is brilliant. Thank you!
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #5583143)
+Author    : MrRobot
+Date      : Nov 4, 2024 at 9:45 PM
+Reactions : Like — foj3000, BajaTym, DAR23
+────────────────────────────────────────────────────────────────────────
+
+Want to examine the hinge part of the rear hatch of the TIE, since some of the public information about this is either incomplete or unclear.
+
+Below is the well-known part map that I believe originates from the Studio Scale Modeler's forum.
+
+[IMAGE: https://www.therpf.com/forums/attachments/d0f30a4d-591d-4421-af75-733d8f1a856f-jpg.969308/]
+
+I agree with all the part IDs in here, most are straightforward and from very well-known kits. Part 11 can also be sourced from the M36 Jackson, as I believe this has the same sprue as the M10 and was available at the time. For similar reasons, I believe 16 can as well be sourced from the 1/48 King Tiger.
+
+The outstanding parts I've identified as:
+
+6: Tamiya 1/48 M60 US Medium Tank parts A10 & A11, cut to accommodate the end of part 11 in the figure.
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2024-11-05-at-13-17-31-png.1877511/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2024-11-05-at-13-18-22-png.1877512/]
+
+It's possible that other 1/48 M60 variants have this part, too. I haven't checked. An equivalent part can be found in the 1/35 kits, but they appear to be too big. They also differ in having four rivet details across the short margin, whereas the greebly on the TIE has three, just as in the 1/48. 
+
+12: This one's a bit interesting because I think (I'm not sure) some models might have scratch-built this. Looking in closely:
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2024-11-05-at-13-26-18-png.1877514/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2024-11-05-at-13-26-50-png.1877515/]
+
+This appears to use a par cut down from one of the "saddle halves" of the Aurora 8" Howitzer: 
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2024-11-05-at-13-30-09-png.1877516/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2024-11-05-at-13-30-18-png.1877517/]
+
+I have to thank Studio Kitbash for pointing me to the Aurora Munitions Carrier in my other thread, which caused me to look at the 8" Howitzer in more detail.
+
+That does leave a question about the part it is sitting on, highlighted here: 
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2024-11-05-at-13-39-56-png.1877520/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2024-11-05-at-13-40-05-png.1877521/]
+
+I'm not yet fully convinced this was scratch-built (I am open to it!), but I have a feeling it's a kit part; the green area might even extend all the way under the M10 suspension part, but it's hard to tell. I've put the boundary at what looks like a seam. However, in pictures that I've seen of the isolated rear hatch, there is no corresponding "seam" across the top of this feature. I welcome any thoughts on this or suggestions about what it might be.
+
+ 
+
+Attachments
+
+[IMAGE: 1520032-b3621a2d40b9285b96a8365638477f4f.jpg]
+
+Screenshot 2024-11-05 at 13.38.03.png
+
+					197.8 KB
+					
+					· Views: 174
+					
+				
+
+[IMAGE: 1520031-91f7323af09da0dcf60e1e2248894bde.jpg]
+
+Screenshot 2024-11-05 at 13.37.44.png
+
+					150.2 KB
+					
+					· Views: 232
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #5589028)
+Author    : MrRobot
+Date      : Nov 30, 2024 at 12:54 PM
+Reactions : Like, Love — DAR23, edge10, Ian Read
+────────────────────────────────────────────────────────────────────────
+
+Things are pretty busy at work, so I have not had time to compose any kind of detailed post. But the first few parts maps are now complete enough that I've updated them to 1.0 "release" versions for the wingstar hub and the cockpit ball (I'm going to do the hatches separately, but they're pretty easy). They still have some missing ID's, things I'm not 100% sure on, and I'm sure a few errors. I've had a start on the wingstar spars/struts. I've ID'd most but still far from all of the parts here. Images are hard to come by. I've had to use Vader TIE images to supplement, as these are often better. If anyone has good images of the TIE spars, I would love to see them (I will not re-post them, but hope it's OK if I use them to inform my searches). In the meantime, please enjoy the current versions of the part maps. As always, the latest versions are accessible through the link in the OP. Kit list has been updated at the same location.
+
+EDIT (7June 2025):For those wanting the most up-to-date maps, please visit the part map area at www.scifikitbash.com
+
+[IMAGE: https://www.therpf.com/forums/attachments/tie-parts-02-png.1939293/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/tie-parts-03-png.1939295/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/tie-parts-01-png.1939292/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/tie-parts_wing-strut-1-png.1939291/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/tie-parts_ws6-png.1939297/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/tie-parts_ws5-png.1939298/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/tie-parts_ws4-png.1939299/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/tie-parts_ws4-png.1939300/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/tie-parts_ws3-png.1939301/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/tie-parts_ws2-png.1939303/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/tie-parts_hatches-png.1997421/]
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #5593390)
+Author    : MrRobot
+Date      : Dec 20, 2024 at 8:03 AM
+Reactions : Like — BajaTym, joberg, DAR23
+────────────────────────────────────────────────────────────────────────
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_9555-jpg.1889817/]
+
+My holiday plans sorted!
+
+Going to try to do this build old skool, emulating at least some of the ILM methods as I understand them. I bought some lime wood (bass wood for the Americans). There's a DVD doc where Lorne Peterson explains that he thinks the TIEs were made from wood and plastic. My best guess is is wood was used for the pylons. I don't have access to ren, so a decent carving wood seems a sensible path forward anyway. 
+
+I'm going to try doing the cockpit ball by vacuum forming over a 5" hemisphere. One layer for the "inner ball" and another for the "outer ball". We'll see how that goes. I only have access to a Mayku vacuum former right now, which limits me to fairly small sheets of styrene. I suspect this will cause substantial thinning of the material during the pull, so will need to work with sheets a bit thicker than what I expect. If this fails, then probably my Christmas plans will shift from starting my TIE build to building a homebrew vacuum former!
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #5595390)
+Author    : MrRobot
+Date      : Dec 30, 2024 at 11:13 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Belated Merry Christmas, I have updated and added to the part maps. These now cover all of the wing star struts (numbered 1-6, going clockwise from the upper left as defined in the wing star hub map). However, these are far from complete. You'll see a few question marks in there. Some of those updated since the last iteration already as I continue working on the ID's. However, any help is always appreciated. 
+
+A few additional updates are on the way.
+
+Enjoy!
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #5595393)
+Author    : MrRobot
+Date      : Dec 30, 2024 at 11:23 AM
+Reactions : Like — joberg, DAR23
+────────────────────────────────────────────────────────────────────────
+
+Earlier, I queried this part of the TIE anatomy:
+
+mbraz said:
+
+			12: This one's a bit interesting because I think (I'm not sure) some models might have scratch-built this. Looking in closely:
+
+View attachment 1877514View attachment 1877515
+
+[...]
+
+That does leave a question about the part it is sitting on, highlighted here:
+
+View attachment 1877520View attachment 1877521
+
+I'm not yet fully convinced this was scratch-built (I am open to it!), but I have a feeling it's a kit part; the green area might even extend all the way under the M10 suspension part, but it's hard to tell. I've put the boundary at what looks like a seam. However, in pictures that I've seen of the isolated rear hatch, there is no corresponding "seam" across the top of this feature. I welcome any thoughts on this or suggestions about what it might be.
+		
+
+Click to expand...
+
+I've now ID'd this part; indeed it is not scratch built and comes from a relatively well-known kit. However, there are no scans here or at 'Kitbash, so it's not an easy one to resolve.
+
+I'll borrow from Manugu's approach and make the ID a bit of a contest.
+
+ I'll share the ID with anyone willing to share some useful, but not easily accessible or publicly known TIE Fighter info (of course, I'll eventually just publish it in my map! But let's have a bit of fun). Images, measurements, part ID's etc. I will respect whatever provisions of secrecy/privacy of that info you wish (i.e not sharing or discussing publicly). My OS approach is exactly that: this thread gathers all the information that's "open source" (i.e. can be obtained by anyone already with a bit of work), I'm not out to spill your secrets.
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #5599439)
+Author    : MrRobot
+Date      : Jan 17, 2025 at 2:31 PM
+Reactions : Like — BajaTym, DaddyfromNaboo, DAR23
+────────────────────────────────────────────────────────────────────────
+
+I've now updated two of the part maps setting them to V1.0 as I've assigned IDs to all the parts (as best as I can). The diagram below explains my rationale for two of these IDs. This is WS3 (right horizontal spar in my maps). I've scale the inset images as best as I could to the scale on the actual part. The main image is from the Prop Store auction site, the inset images are from SciFiKitBash. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/h_spar_parts-jpg.1896873/]
+
+The Sherman part I'm reasonably confident in, and I suspect is also on the other horizontal wing spar.
+
+The part attributed to the Panther-G I'm less convinced about. Open to alternative suggestions (as with any of my IDs!). The central cylindrical bit is obviously a bit different, in particular a lack of central cavity. However, with these TIE Fighter parts, all the components were cast and there are a lot of bubbles obscuring details. 
+
+In general, the wing star parts are some of the most difficult to identify. There aren't a lot of good reference images out there and the pieces involved are pretty small. I have to assemble my research from as many different views as possible. Importantly, the Vader TIE needs to be used as supplementary info since it uses cut-down TIE Fighter wing spars. Quite a few mystery bits remain and I'm always on the lookout for better reference images.
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #5601350)
+Author    : MrRobot
+Date      : Jan 26, 2025 at 12:15 AM
+Reactions : Like — BajaTym, joberg
+────────────────────────────────────────────────────────────────────────
+
+mbraz said:
+
+View attachment 1896873
+
+Click to expand...
+
+Thinking about this some more, I'm more skeptical about this being a Panther-G part (yay!) simply rationalized as having the central cylinder cut down or bubbled out. The size and geometry are right, and the proportions of the middle cylinder and the comparatively large fastening bolts at the corners looks good.
+
+The other thing that caught my attention is that it's almost certainly a part cut down from a panel. Here's another view of it from the prop store pyro model:
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2025-01-26-at-07-53-54-png.1898978/]
+
+Another possible match would be from the tail plate of a 1/72 or 1/76 Tiger II chassis (Tiger II or Jagdtiger).
+
+I have the ESCI kit coming in the mail (will put scans up on SciFiKitBash), but if anyone has good images of the 1/76 Nitto/Fujimi Tigers, I would greatly appreciate them. All the reference images I can find have the tail plate turned away from the camera!
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #5602432)
+Author    : MrRobot
+Date      : Jan 30, 2025 at 5:11 AM
+Reactions : Like, Wow — BajaTym, bwayne64, joberg
+────────────────────────────────────────────────────────────────────────
+
+I've now got a 1/72 kit and it appears to be too big. For reference, here it is against the Sherman part.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_9605-copy-jpg.1900324/]
+
+So, it looks like it will need to be the 1/76 Tiger—if it's that at all!
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #5602839)
+Author    : MrRobot
+Date      : Jan 31, 2025 at 11:15 AM
+Reactions : Like — BajaTym, edge10, bwayne64
+────────────────────────────────────────────────────────────────────────
+
+A little build update. Not much to show, but some progress on the basic hull form. Indeed, my holiday plans to get crackin' on this were thwarted by the tiny Mayku formbox I had access to, so the project shifted to homebrewed vacuum former. As I noted earlier, I'm doing this the way I think the ILM team did it. I'm also doing it because I learned from swgeek's thread that milling acrylic is a pain in the behind. The result will be an "inner" and "outer" sphere. The outer sphere will be the one that takes the scribe line details etc. The exposed bits of the inner sphere will be ground out after casting.
+
+Here's the 5" acrylic hemisphere sitting on the new vacuum former in front of my oven, waiting for the first coat of 2mm styrene
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_9592-3-jpg.1900749/]
+
+Notice I've put the dome onto a 1cm-thick disc of plywood. The styrene is so thick that without this, you'd lose a lot of depth from the little 'draft slopes' that form invariably at the bottom. Your hull hemidomes wouldn't be hemispherical anymore and you'd get a weird-looking oblate hull.
+
+To minimize this, I'm using a 6" PVC pipe connector. Sorry for the out-of-focus shot.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_9593-3-jpg.1900750/]
+
+I push it down over the hemisphere and quickly start the vacuum. The edge is fairly sharp, so you can really push the plastic in tight to the hemisphere.
+
+Voilà!
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_9594-3-jpg.1900751/]
+
+Three layers of 2mm styrene over a 5" sphere gives you 5 1/4" pretty much bang on the money. However, I did sand down the perimeter of the acrylic hemisphere a little bit to take out some "wobble". I will need to check this with a height gauge later to make sure I didn't over do it.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_9607-3-jpg.1900752/]
+
+I leave the hemisphere inside and shave the styrene down close to it. I get it flush to the original dome with some sanding. I've marked the acrylic with Sharpie so I know when one side has gone too far. Here you can see me juuuuuust about to eff it up:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_9608-3-jpg.1900754/]
+
+All for now. Hopefully next update will be more interesting.
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #5604420)
+Author    : MrRobot
+Date      : Feb 7, 2025 at 1:56 AM
+Reactions : Like, Love — RossW, BajaTym, edge10
+────────────────────────────────────────────────────────────────────────
+
+I had a bit of time to work on the top hatch this week. 
+
+The main motivation for this post is that I recently discovered that many of the photos on the Propstore Auction site include camera and lens metadata in them. It makes it possible to correct lens distortion in Photoshop or Lightroom. I imported the corrected image to Illustrator and added some guides to align my Dymo tape lines:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_9620-jpg.1903342/]
+
+The result is a not-too-shabby start to a V1 for this part:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_9621-jpg.1903344/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_9623-jpg.1903346/]
+
+I'm guessing I'll probably do it again (and again, and maybe again). But for now, I'll finish this all the way to the scribe lines and chipping stage and see how I feel about it.
+
+This is my first foray into the world of this type of "industrial-design style" model-making, not having worked with styrene in this way before. Most of my previous model-making was a long time ago in a country far, far away and dealt mostly with natural history subjects, which are squishier and don't have a lot of straight lines—so they're more forgiving, even though accuracy matters there too.
+
+ 
+
+Attachments
+
+[IMAGE: 1545858-7c82805b178c174b72237e14e6c17874.jpg]
+
+IMG_9624.JPG
+
+					495.2 KB
+					
+					· Views: 138
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #5604534)
+Author    : bwayne64
+Date      : Feb 7, 2025 at 2:17 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Very nice work. Me likey !
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #5604595)
+Author    : MrRobot
+Date      : Feb 8, 2025 at 12:06 AM
+Reactions : Like — BajaTym, joberg
+────────────────────────────────────────────────────────────────────────
+
+Thanks! 
+
+Here's a bit more progress. Starting to look a bit more like a TIE hatch:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_9627-jpg.1903563/]
+
+The big windows are a bit too wide.
+
+For the record, the central part is 2mm styrene (cut directly from the top of the hull hemidome) and the "brim" is 1mm styrene. Because those just seem right. If anyone has any better reference for the thicknesses, I'm all ears.
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #5604703)
+Author    : swgeek
+Date      : Feb 8, 2025 at 11:41 AM
+Reactions : Like — RossW, Necronaut, foj3000
+────────────────────────────────────────────────────────────────────────
+
+I used the top of the acrylic sphere, cut off to make the opening. It's just over 3mm thick. This was actually my favorite part to make on my TIE -Fighter. It made me feel like, "now it's a TIE-Fighter".
+
+Mine...
+
+[IMAGE: https://www.therpf.com/forums/attachments/20201104_205448-jpg.1903809/]
+
+The real thing...
+
+[IMAGE: https://www.therpf.com/forums/attachments/dsc_214-jpg.1903810/]
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #5604714)
+Author    : MrRobot
+Date      : Feb 8, 2025 at 12:31 PM
+Reactions : Like — swgeek
+────────────────────────────────────────────────────────────────────────
+
+swgeek said:
+
+			I used the top of the acrylic sphere, cut off to make the opening. It's just over 3mm thick. This was actually my favorite part to make on my TIE -Fighter. It made me feel like, "now it's a TIE-Fighter".
+
+Mine...
+
+View attachment 1903809
+
+The real thing...
+
+View attachment 1903810
+
+Click to expand...
+
+Thanks swgeek! I reckon that you've got it right. I'll keep plugging away with what I've got and see how it looks in the end. If I switch to a prefab hemisphere, I might opt for ABS rather than acrylic and hope that's a bit more workable.
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #5604726)
+Author    : swgeek
+Date      : Feb 8, 2025 at 1:38 PM
+Reactions : Love, Like — joberg, MrRobot
+────────────────────────────────────────────────────────────────────────
+
+Yes, I agree! ABS is much better to work with than acrylic.
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #5604895)
+Author    : joberg
+Date      : Feb 9, 2025 at 9:27 AM
+Reactions : Haha — MrRobot
+────────────────────────────────────────────────────────────────────────
+
+swgeek said:
+
+			Yes, I agree! ABS is much better to work with than acrylic.
+		
+
+Click to expand...
+
+Hallelujah Brother
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #5611046)
+Author    : MrRobot
+Date      : Mar 6, 2025 at 9:39 AM
+Reactions : Like, Love — foj3000, Flash one, Studio Kitbash
+────────────────────────────────────────────────────────────────────────
+
+Build continues, albeit very slowly. Here's some pics of the nearly completed hatch. Not 100% happy with it. I was going for replicating some of the original asymmetry, but ended up with perhaps a bit too much asymmetry! I haven't done all the drill holes or attached the greeblies. I've got the Hetzer part and waiting on the 8rad part.
+
+All in all, not bad for my first crack at a studio scale anything.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_9688-2-jpg.1911935/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_9692-2-jpg.1911936/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_9691-2-jpg.1911934/]
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #5611255)
+Author    : joberg
+Date      : Mar 7, 2025 at 6:38 AM
+────────────────────────────────────────────────────────────────────────
+
+Looking good for sure
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #5615865)
+Author    : MrRobot
+Date      : Mar 27, 2025 at 9:41 AM
+Reactions : Like, Love — foj3000, Flash one, Studio Kitbash
+────────────────────────────────────────────────────────────────────────
+
+I have been working on the rear hatch lately. This is one part that has always perplexed me; I've never been quite sure how it was made. So, I looked at as many photos as I could, took some time to think about it, did a few trials and this is the method I have come up with.
+
+There has been some discussion about whether the middle of the impressed part of the cone is flat or domed. I agree that it is subtly domed, based on what I've seen in pictures. However, this could always be chalked up to lens distortion.
+
+The main proof came from these pictures of parts apparently out of the original molds from ANH. This is the only internal view of the rear hatch I have ever seen:
+
+[IMAGE: 20140422_195300.jpg]
+
+A few things jumped out at me. The first obviously being the concave surface.The second thing is the putty around the window, which appears to have been put in before the window was cut out. So I suspect this was a feature of the master and not some funky molding technique. But, hey, I could be very wrong. Finally, there's the really sharp brim to this piece. Not like any of the other hatches.
+
+So here's my best interpretation of how this component was made. 
+
+I made a couple of cone bucks in Blender and 3D printed them to make a vacuum-forming buck (I can give you my STLs if you want). The following series of images are not really chronological and reflect a few different attempts at this.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_9588-jpg.1917681/]
+
+Then I trimmed out the cone with a height gauge:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_9616-jpg.1917682/]
+
+This would form the outer cone, which I then welded down to a dome that I vacuum-formed over my 5.25" hemidomes:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_9609-jpg.1917683/]
+
+To make the inner concavity, I felt from looking at images this surface may have been a bit concave, rather than conic, so I formed some 1.5mm styrene over a 2.75" hemisphere, then cut and sanded it down to the "right" diameters.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_9710-jpg.1917684/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_9711-jpg.1917685/]
+
+This all fits together near-perfectly:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_9717-jpg.1917686/]
+
+Add another dome over the middle and the rosette of chips:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_9720-jpg.1917687/]
+
+I think the chips should taper inwards a bit; mine are probably a bit too parallel-sided. If I had thought it through a bit better, I would have formed them over the 2.75" hemisphere, too (perhaps immediately over the 1.5 mm pull). But here we are.
+
+And here's the near-finished product:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_9747-copy-jpg.1917688/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_9744-jpg.1917689/]
+
+Far from perfect, but happy enough with the result for now. I've learned a good few things that I would do differently if I were to do it all again. Overall, the process seems to work, but did require a good bit of puttying and sanding at the contact between the outer cone and the underlying dome. I don't want to do it again, but now when I look at it all I see are the imperfections! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+And, of course, in a nod to the original, I puttied the back:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_9748-jpg.1917690/]
+
+Not really functional in my case, but does thicken out the window frame a bit, so why not.
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #5616049)
+Author    : joberg
+Date      : Mar 28, 2025 at 6:13 AM
+Reactions : Like — MrRobot
+────────────────────────────────────────────────────────────────────────
+
+Very nice tuto and great results
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #5617633)
+Author    : MrRobot
+Date      : Apr 2, 2025 at 9:58 AM
+Reactions : Like, Love, Wow — Flash one, Studio Kitbash, BajaTym
+────────────────────────────────────────────────────────────────────────
+
+When you realise your scratch-built part is, in fact, a kit part. Got pretty close by eyeballing it!
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_9756-jpg.1919737/]
+
+Fujimi Iowa now added to the rear hatch map.
+────────────────────────────────────────────────────────────────────────
+Post #28  (forum post #5617642)
+Author    : DAR23
+Date      : Apr 2, 2025 at 10:31 AM
+Reactions : Like — Necronaut, joberg, MrRobot
+────────────────────────────────────────────────────────────────────────
+
+Thanks for sharing! I've checked the part on my Fujimi New Jersey, and it's definitely a match.
+────────────────────────────────────────────────────────────────────────
+Post #29  (forum post #5617875)
+Author    : joberg
+Date      : Apr 3, 2025 at 7:04 AM
+Reactions : Haha — MrRobot
+────────────────────────────────────────────────────────────────────────
+
+MrRobot said:
+
+			When you realise your scratch-built part is, in fact, a kit part. Got pretty close by eyeballing it!
+
+View attachment 1919737
+
+Fujimi Iowa now added to the rear hatch map.
+		
+
+Click to expand...
+
+Your eyeballs are working perfectly for sure
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #30  (forum post #5618274)
+Author    : Shamon
+Date      : Apr 4, 2025 at 9:16 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+MrRobot said:
+
+			I've now got a 1/72 kit and it appears to be too big. For reference, here it is against the Sherman part.
+
+View attachment 1900324
+
+So, it looks like it will need to be the 1/76 Tiger—if it's that at all!
+		
+
+Click to expand...
+
+Tiger II (King Tiger) Fujimi 1/76
+
+ 
+
+Attachments
+
+[IMAGE: 1562852-62e296d19b6127eee70e5bfdbaef9471.jpg]
+
+IMG_5770.JPG
+
+					517.7 KB
+					
+					· Views: 109
+────────────────────────────────────────────────────────────────────────
+Post #31  (forum post #5618286)
+Author    : MrRobot
+Date      : Apr 4, 2025 at 10:48 PM
+Reactions : Like, Sad — BajaTym, joberg, Shamon
+────────────────────────────────────────────────────────────────────────
+
+Shamon said:
+
+			Tiger II (King Tiger) Fujimi 1/76
+		
+
+Click to expand...
+
+Thanks Shamon! The size looks almost right, but I fear the details of that part are not quite right. The four fastening bolts look a bit too small:
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2025-04-05-at-06-46-41-png.1920348/]
+
+I think this is something other than a Tiger II part.
+────────────────────────────────────────────────────────────────────────
+Post #32  (forum post #5630882)
+Author    : DAR23
+Date      : May 20, 2025 at 11:49 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+This past weekend I started reviewing the maps and cataloging the kit parts I have.
+
+I've noticed a couple of errors in the maps, in case you'd like to correct them. In the image TIE-parts-01.png, I’d say that #30 belongs to the Hurricane and not the P-51D. Also, one of the five parts of the Harrow is labeled as #10 when it should be #9.
+
+Next I'll check the Wingstars.
+────────────────────────────────────────────────────────────────────────
+Post #33  (forum post #5630887)
+Author    : MrRobot
+Date      : May 21, 2025 at 1:14 AM
+Reactions : Like — Flash one, joberg, DAR23
+────────────────────────────────────────────────────────────────────────
+
+Thanks for this! 
+
+Just a heads-up: I have a few updates to the maps which I've not yet posted. I'll do that over the weekend. Most of the recent progress has been on the wingstar struts, but I have a lot of uncertainty. So, I'll be very keen to get another opinion.
+
+For part #30 on the wingstar hub, I'm reasonably sure that's the P-51D, not the Hurricane. The parts are indeed almost indistinguishable, but the P-51D has a little post on the top of one of the ignition heads that doesn't occur in the Hurricane ones:
+
+Here's the P-51 part arrow pointing to the post:
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2025-05-21-at-09-00-51-png.1934670/]
+
+Here's two sides of the Hurricane part:
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2025-05-21-at-09-01-39-png.1934671/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2025-05-21-at-09-01-46-png.1934672/]
+
+No post.
+
+And here's the TIE showing the post:
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2025-05-21-at-08-57-50-png.1934673/]
+
+Nevertheless, I remain open to other views/info. I suppose it's entirely possible that there were tooling changes to the Hurricane that aren't widely known. Of course, with a bit of modification, the Hurricane part would likely do as a reasonable substitute if you don't want to splash out for a P-51!
+
+Thanks for catching the mis-numbering of the Harrow part! I've just updated that in my local file. Will include it in this weekend's updates here.
+────────────────────────────────────────────────────────────────────────
+Post #34  (forum post #5630936)
+Author    : DAR23
+Date      : May 21, 2025 at 7:12 AM
+Reactions : Like — joberg, MrRobot
+────────────────────────────────────────────────────────────────────────
+
+MrRobot said:
+
+			Thanks for this!
+
+Just a heads-up: I have a few updates to the maps which I've not yet posted. I'll do that over the weekend. Most of the recent progress has been on the wingstar struts, but I have a lot of uncertainty. So, I'll be very keen to get another opinion.
+
+For part #30 on the wingstar hub, I'm reasonably sure that's the P-51D, not the Hurricane. The parts are indeed almost indistinguishable, but the P-51D has a little post on the top of one of the ignition heads that doesn't occur in the Hurricane ones:
+
+Here's the P-51 part arrow pointing to the post:
+
+View attachment 1934670
+
+Here's two sides of the Hurricane part:
+
+View attachment 1934671View attachment 1934672
+
+No post.
+
+And here's the TIE showing the post:
+
+View attachment 1934673
+
+Nevertheless, I remain open to other views/info. I suppose it's entirely possible that there were tooling changes to the Hurricane that aren't widely known. Of course, with a bit of modification, the Hurricane part would likely do as a reasonable substitute if you don't want to splash out for a P-51!
+
+Thanks for catching the mis-numbering of the Harrow part! I've just updated that in my local file. Will include it in this weekend's updates here.
+		
+
+Click to expand...
+
+Ahh you are right!! I forgot to check the pics from the auction, it's crystal clear now. This is good news because I already have the P-51D.
+
+BTW, maybe you already found it, but do you see anything familiar in this picture?
+
+[IMAGE: https://www.therpf.com/forums/attachments/1747836107728-png.1934714/]
+────────────────────────────────────────────────────────────────────────
+Post #35  (forum post #5630939)
+Author    : MrRobot
+Date      : May 21, 2025 at 7:30 AM
+Reactions : Like — joberg, DAR23
+────────────────────────────────────────────────────────────────────────
+
+DAR23 said:
+
+			Ahh you are right!! I forgot to check the pics from the auction, it's crystal clear now. This is good news because I already have the P-51D.
+
+BTW, maybe you already found it, but do you see anything familiar in this picture?
+
+View attachment 1934714
+
+Click to expand...
+
+Yep. Found it. That very pic was the one that clued me in! I've got the kit and can send you greebly casts this summer.
+────────────────────────────────────────────────────────────────────────
+Post #36  (forum post #5630940)
+Author    : DAR23
+Date      : May 21, 2025 at 7:34 AM
+Reactions : Like — MrRobot, joberg
+────────────────────────────────────────────────────────────────────────
+
+MrRobot said:
+
+			Yep. Found it. That very pic was the one that clued me in! I've got the kit and can send you greebly casts this summer.
+		
+
+Click to expand...
+
+I won’t need this kit as it's already on the way, but yes we’ll talk in the summer about the others I may need 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+. 
+
+Thanks!
+────────────────────────────────────────────────────────────────────────
+Post #37  (forum post #5630943)
+Author    : joberg
+Date      : May 21, 2025 at 7:42 AM
+────────────────────────────────────────────────────────────────────────
+
+MrRobot said:
+
+			Thanks for this!
+
+Just a heads-up: I have a few updates to the maps which I've not yet posted. I'll do that over the weekend. Most of the recent progress has been on the wingstar struts, but I have a lot of uncertainty. So, I'll be very keen to get another opinion.
+
+For part #30 on the wingstar hub, I'm reasonably sure that's the P-51D, not the Hurricane. The parts are indeed almost indistinguishable, but the P-51D has a little post on the top of one of the ignition heads that doesn't occur in the Hurricane ones:
+
+Here's the P-51 part arrow pointing to the post:
+
+View attachment 1934670
+
+Here's two sides of the Hurricane part:
+
+View attachment 1934671View attachment 1934672
+
+No post.
+
+And here's the TIE showing the post:
+
+View attachment 1934673
+
+Nevertheless, I remain open to other views/info. I suppose it's entirely possible that there were tooling changes to the Hurricane that aren't widely known. Of course, with a bit of modification, the Hurricane part would likely do as a reasonable substitute if you don't want to splash out for a P-51!
+
+Thanks for catching the mis-numbering of the Harrow part! I've just updated that in my local file. Will include it in this weekend's updates here.
+		
+
+Click to expand...
+
+The pic with the arrow pointing to the part seems higher and thinner than the one on the original model (seems to me that it's lower and stubier).  Maybe it was a piece added by one of the modeler at the time
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #38  (forum post #5630988)
+Author    : MrRobot
+Date      : May 21, 2025 at 11:55 AM
+Reactions : Wow, Like — Necronaut, joberg
+────────────────────────────────────────────────────────────────────────
+
+joberg said:
+
+			The pic with the arrow pointing to the part seems higher and thinner than the one on the original model (seems to me that it's lower and stubier).  Maybe it was a piece added by one of the modeler at the time
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+It's likely shorter because it was either sanded down or partly obstructed by an air pocket in the mold during casting. TIE wings are replete with casting bubbles. In some models, the only evidence of the post is a circular "scar" from the base of a bubble. For instance, that's what you see in the image used in the parts map.
+────────────────────────────────────────────────────────────────────────
+Post #39  (forum post #5631023)
+Author    : Treadwell
+Date      : May 21, 2025 at 2:43 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+ok but how would that make the post THICKER?
+────────────────────────────────────────────────────────────────────────
+Post #40  (forum post #5631069)
+Author    : MrRobot
+Date      : May 21, 2025 at 9:59 PM
+Reactions : Like — joberg, Treadwell
+────────────────────────────────────────────────────────────────────────
+
+Treadwell said:
+
+			ok but how would that make the post THICKER?
+		
+
+Click to expand...
+
+Looking at the photos, I don't see that the post is thicker. The base is pretty much the same width as far as I can tell. In both images, the base of the post fits tightly between the outer margin of the part and the sharp ridge that runs transversely across the part. It's possible that the post has a bit of a taper, causing it to look thinner (the part that stands proud admittedly has better contrast than the base in the kit scan photo).
+────────────────────────────────────────────────────────────────────────
+Post #41  (forum post #5631078)
+Author    : DAR23
+Date      : May 22, 2025 at 12:04 AM
+Reactions : Like, Love — Carter C, joberg, MrRobot
+────────────────────────────────────────────────────────────────────────
+
+The part is definitely from the P-51D.
+
+I mistook the post for a bubble because I wasn’t looking at the right photos.
+
+[IMAGE: https://www.therpf.com/forums/attachments/1747897244400-png.1934890/]
+
+I hope this image clears it up.
+────────────────────────────────────────────────────────────────────────
+Post #42  (forum post #5635005)
+Author    : MrRobot
+Date      : Jun 6, 2025 at 7:38 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Seeking some help with Y-Wing reference (yes you read that right—Y-Wing!). This little subassembly figured below appears in the TIE Fighter cockpit ceiling. As you can imagine, cockpit ceiling ref isn't great. But if you can reliably work out the dimensions of this bit you can get some really solid constraints for the dimensions of the cockpit ceiling panels:
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2025-06-06-at-15-16-33-png.1939010/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2025-06-06-at-15-16-40-png.1939011/]
+
+The image above is OK, but perhaps just a wee bit hazy for reliable back-calculation of the measurements.
+
+If anyone has higher res images they're willing to share, I would be in your debt! As always, I will not distribute or re-post any images you share with me unless you give me permission.
+────────────────────────────────────────────────────────────────────────
+Post #43  (forum post #5635016)
+Author    : chazzychaz
+Date      : Jun 6, 2025 at 8:25 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+I believe that is made up of 3 parts all laid on top of each other. That's all I have without looking at my scans. Sorry
+────────────────────────────────────────────────────────────────────────
+Post #44  (forum post #5635019)
+Author    : MrRobot
+Date      : Jun 6, 2025 at 8:27 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+chazzychaz said:
+
+			I believe that is made up of 3 parts all laid on top of each other. That's all I have without looking at my scans. Sorry
+		
+
+Click to expand...
+
+Cheers. Yep, the top two parts I've got worked out (1/12 M23 and 1/35 Nichimo *Tiger). I'm not clear whether the main panel is scratch-built or not. However, my main concern is just an image good enough for working out the dimensions based on the known parts.
+────────────────────────────────────────────────────────────────────────
+Post #45  (forum post #5635023)
+Author    : MrRobot
+Date      : Jun 6, 2025 at 8:49 AM
+Reactions : Like — foj3000, joberg
+────────────────────────────────────────────────────────────────────────
+
+Here's the same little sub-assembly inside the TIE, for reference:
+
+[IMAGE: https://www.therpf.com/forums/attachments/kg_tie_studio_model-006-jpg.1939021/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/ceiling_panel-jpg.1939022/]
+
+There's two of these, more or less in symmetry.
+────────────────────────────────────────────────────────────────────────
+Post #46  (forum post #5635024)
+Author    : chazzychaz
+Date      : Jun 6, 2025 at 8:52 AM
+Reactions : Like — joberg, MrRobot
+────────────────────────────────────────────────────────────────────────
+
+MrRobot said:
+
+			Cheers. Yep, the top two parts I've got worked out (1/12 M23 and 1/35 Nichimo *Tiger). I'm not clear whether the main panel is scratch-built or not. However, my main concern is just an image good enough for working out the dimensions based on the known parts.
+		
+
+Click to expand...
+
+Ok sounds good I'll check my ref photos and send you what i have tonight
+────────────────────────────────────────────────────────────────────────
+Post #47  (forum post #5635130)
+Author    : Shamon
+Date      : Jun 6, 2025 at 3:01 PM
+Reactions : Like — joberg, jcoffman99
+────────────────────────────────────────────────────────────────────────
+
+It seems that it was a cover to hide the hole. The image quality of this photo is good, but unfortunately the key parts are missing.
+
+ 
+
+Attachments
+
+[IMAGE: 1581636-dff483ca2ab1397a8c7cbe88da17f8e2.jpg]
+
+lf (15).jpeg
+
+					617.2 KB
+					
+					· Views: 146
+────────────────────────────────────────────────────────────────────────
+Post #48  (forum post #5635208)
+Author    : chazzychaz
+Date      : Jun 6, 2025 at 6:49 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+I can't find my ref, but looking at kit scans i want to airfix Mauritania maybe
+────────────────────────────────────────────────────────────────────────
+Post #49  (forum post #5635241)
+Author    : MrRobot
+Date      : Jun 6, 2025 at 10:34 PM
+Reactions : Like — joberg, Shamon
+────────────────────────────────────────────────────────────────────────
+
+Shamon said:
+
+			It seems that it was a cover to hide the hole. The image quality of this photo is good, but unfortunately the key parts are missing.
+		
+
+Click to expand...
+
+Thanks! That picture is still very helpful. While the piece itself is missing, I can still constrain its size from the surrounding parts. 
+
+chazzychaz said:
+
+			I can't find my ref, but looking at kit scans i want to airfix Mauritania maybe
+		
+
+Click to expand...
+
+Which part from the Mauritania do you think? I didn't see anything in a quick check, but I do see some of the skylights(?) from the Mauretania were used on the Y-Wing. It's possible one of them is the same dimensions.
+────────────────────────────────────────────────────────────────────────
+Post #50  (forum post #5635257)
+Author    : MrRobot
+Date      : Jun 7, 2025 at 12:55 AM
+Reactions : Like, Wow — joberg, jcoffman99, DAR23
+────────────────────────────────────────────────────────────────────────
+
+Major milestone reached on parts IDs. Have now more or less finished the exterior parts maps for the TIE Fighter which I've posted over at SciFiKitbash. Thanks to DAR23 and Shamon for some recent inputs! Only one part doesn't have an ID (apart from some grab handles that can't really be worked out until a build starts to happen). Part #2 in the map below:
+
+[IMAGE: https://www.therpf.com/forums/attachments/tie-parts_ws2-jpeg.1939285/]
+
+Here's an extra reference:
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2025-05-28-at-21-41-42-png.1939286/]
+
+Once again, none of this is to say all the ID's are right. There's simply an annotation to each part now and most seem to be reasonably good. Some are pretty unequivocal. Others can be a bit more challenging. As always, inputs are more than welcome.
+────────────────────────────────────────────────────────────────────────
+Post #51  (forum post #5635948)
+Author    : Shamon
+Date      : Jun 10, 2025 at 12:20 AM
+Reactions : Like, Love — manugu, joberg, MrRobot
+────────────────────────────────────────────────────────────────────────
+
+Is this useful?
+
+[IMAGE: https://www.therpf.com/forums/attachments/3333-jpg.1940106/]
+────────────────────────────────────────────────────────────────────────
+Post #52  (forum post #5635954)
+Author    : MrRobot
+Date      : Jun 10, 2025 at 1:01 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Shamon said:
+
+			Is this useful?
+
+View attachment 1940106
+
+Click to expand...
+
+Very helpful! Thank you!
+────────────────────────────────────────────────────────────────────────
+Post #53  (forum post #5635958)
+Author    : MrRobot
+Date      : Jun 10, 2025 at 1:47 AM
+Reactions : Like — Shamon, joberg
+────────────────────────────────────────────────────────────────────────
+
+A couple of thoughts on that picture:
+
+Comparing with what little I can see in the TIE cockpit ceiling, the subassembly here on the Y-Wing looks to have been cut down a bit to fit the hull. Relative to this view, the height (vertical axis in picture) appears to be unaffected. However, the width (horizontal axis) is trimmed a bit. That's OK, because the vertical axis corresponds to the width of the ceiling panel in the TIE. 
+
+Oddly, the modifications seen in the grayscale picture above do not seem to have been present in the colour photo. These were done sometime after the colour photo was taken.
+
+Having seen this close-up, I'll buy that the base plate of the sub-assembly was scratch-built with little chipping details added. However, the bent pipe thing on it is harder to make out. Looks like it could be a tool from an armor kit or a bit of landing gear. Hard to say.
+────────────────────────────────────────────────────────────────────────
+Post #54  (forum post #5638870)
+Author    : MrRobot
+Date      : Jun 22, 2025 at 6:06 AM
+Reactions : Like, Love, Wow — Rulebreaker, dirtydave, ganesha7
+────────────────────────────────────────────────────────────────────────
+
+Not a lot of build progress due to work, but now that things are settling down again I got the chance to work on the pylons. I've been puzzling over these for the last few months because the geometry is not easy to work out from reference alone. A shout-out to chazzychaz for sending me some measurements off his AMT TIE Fighter, which I used to check my measurements (rescaled) and things seem to check out.
+
+Here's the main pylon roughed out.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0023-jpeg.1943560/]
+
+And here are the strut parts temporarily added into place:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0028-jpeg.1943561/]
+
+These all need some tidying up, but this is what I had time for today. I'll probably redo the strut parts that go top and bottom. For reasons I'll outline below, it's imperative that you get the measurements and geometry of these right. Once I'm happy with what I've got, I'll create a table of measurements and add it to the OP.
+
+The first thing you might ask is: "why are you making the pylon as a single piece?" rather than making separate top and bottom halves and marrying them up along the hinge lines? Indeed, in an earlier effort I did just that. It turns out, I think the ILM model shop guys did them as one piece. These were then cast and cut in various ways to make top and bottom pylon halves, as well as the end pylons. 
+
+For one, if you look at references, the mould seam doesn't actually line on the apex of the pylon, it's often just a little bit off:
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2025-06-22-at-13-52-58-png.1943565/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2025-06-22-at-13-58-10-png.1943567/]
+
+Instead, I think one master pylon was made, including 'top' and 'bottom' halves. This was cast, cut, and detailed in different ways depending on the component. The main one was made to fit the hull sphere, of course. Then, as is widely known, the terminal pylon was made by cutting the end off the main pylon.
+
+What seems less widely known is that the leftover from that cut can be used to make the end plate for the wing. This is something I only just noticed in the last week:
+
+[IMAGE: https://www.therpf.com/forums/attachments/end_cap_cut-jpg.1943568/]
+
+While I'm building my TIE using mostly "traditional" methods, I do use Blender to test out measurements and prototype components. Here's a quick screen grab to show the three pieces together:
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2025-06-22-at-14-02-56-png.1943569/]
+
+Indeed, if you look carefully at images of the end plate, you can even see the longitudinal grooves that you see on the main pylon (and to a lesser extend on the terminal pylon):
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2025-06-17-at-14-48-41-png.1943570/]
+
+If you're going to do it the same way, then you need to get all the measurements very close to right, otherwise your end plate will look funny. The upshot is that this will help ensure that your terminal pylon and end plate have very similar footprints. This is important because they need to fit snugly between the greeblies on the wingstar hub and you want them to therefore have the same geometry. This is likely why the ILMers did it—they were clever like that!
+
+ 
+
+Attachments
+
+[IMAGE: 1586079-f389d404a80644db6d47196febfcbef7.jpg]
+
+Screenshot 2025-06-22 at 13.57.32.png
+
+					4.3 MB
+					
+					· Views: 110
+────────────────────────────────────────────────────────────────────────
+Post #55  (forum post #5645450)
+Author    : MrRobot
+Date      : Jul 17, 2025 at 11:49 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+FYI: I've started an interest thread in the Project Runs for casting sets of TIE greeblies.
+────────────────────────────────────────────────────────────────────────
+Post #56  (forum post #5646041)
+Author    : MrRobot
+Date      : Jul 19, 2025 at 9:42 AM
+Reactions : Love, Wow — DAR23, Scott Graham, joberg
+────────────────────────────────────────────────────────────────────────
+
+I'm going to start work this month on my master wingstar pattern with the hopes of having it ready for casting by the end of next month (fingers crossed!). I've got all of the parts I need to do the the job.
+
+I've created my blueprint with the help of pyro parts from the Propstore site. These marry up really well and they have scale references included, which really helps. On top of this, we know the diameter of the hole (1.25") so we can also use that as a reference. I composited these in Illustrator:
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2025-07-19-at-17-21-27-png.1950710/]
+
+I will clean up my Illustrator file and post it here, but happy to provide it to anyone who wants the "rough" version.
+
+It has been pointed out before how close the eFX TIE wing is to the Gawley blueprint, which suggests it was followed pretty closely. Using these refs, it's actually a dead-ringer. I'd bet dollars to doughnuts the ILMers cut the wing pattern right off the blueprint:
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2025-07-19-at-17-27-07-png.1950712/]
+
+The one thing I'm trying to sort out now is the thickness. I'm going to use 2mm plastic sheeting for the main panel. 
+
+Does anyone know how thick the raised hub is? I've worked it out trigonometrically to be about 8mm. But there's probably ±1mm error on that. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2025-07-19-at-17-31-25-png.1950721/]
+
+There's a practical reason I'm concerned about that 1mm error that goes beyond membership in the International Pathological Perfectionists' Union. The proximal ends of the wingstar struts are nearly the same height as the hub. At one point, there's a greebly that overhangs the strut:
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2025-07-19-at-17-35-59-png.1950751/]
+
+I've measure the parts stuck together and they give about a 3.2mm clearance for strut to pass under. 
+
+Assuming (naively) an even taper for the strut from the hub to its end, then my strut tapers out too 'quickly' for this greebly combo to work. So, to narrow down the variables, I'll need to find out more precisely how thick the wingstar hub is. 
+
+Any help here?
+────────────────────────────────────────────────────────────────────────
+Post #57  (forum post #5647747)
+Author    : MrRobot
+Date      : Jul 24, 2025 at 10:33 AM
+Reactions : Like — joberg, DAR23, swgeek
+────────────────────────────────────────────────────────────────────────
+
+MrRobot said:
+
+			Does anyone know how thick the raised hub is? I've worked it out trigonometrically to be about 8mm. But there's probably ±1mm error on that.
+
+View attachment 1950721
+
+Click to expand...
+
+The answer here is 6.35mm which is 1/4". Thanks swgeek! This checks out with the greebly combo (which was predicting a 6.4mm thickness from my blueprints).
+────────────────────────────────────────────────────────────────────────
+Post #58  (forum post #5669912)
+Author    : MrRobot
+Date      : Oct 11, 2025 at 7:29 AM
+Reactions : Like, Love — joberg, DAR23, Shamon
+────────────────────────────────────────────────────────────────────────
+
+Been a while without any updates. When I've managed to find time, I've mostly been focussing on the wing pylon master pattern. As I noted earlier in the thread, I think these are a bit of a lynchpin for the overall wing dimensions and greebly layout. So I wanted to get this as close to right as I could. Consequently, I've re-done my cuts and rebuilt it. This is all done with lime wood (bass wood) and a bit of 1.5mm styrene.
+
+Here's the central bit. This is just after shellacking it. I've used shellac to diminish the wood grain on the visible areas. A bit of tape helps keep fresh wood exposed, which hopefully eases gluing.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0239-jpeg.1977524/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0249-jpeg.1977525/]
+
+Here's the cuff temporarily placed. I made this with a strip of styrene that I heated in the oven very slowly. I found that heating it too quickly causes the styrene to either get too soft or to develop a U-shaped profile. So just a bit of repeated heat-and-bend did the trick to turn it into a complete ring. The seam is concealed under the spar.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0332-jpeg.1977526/]
+
+And here's the fully assembled pylon with a bit of cleanup:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0337-jpeg.1977527/]
+
+If you're wondering about the proportions, yes I've made this a bit long in order to allow for some shaving to fit the curve of the hull. The final geometry will look a bit more like this:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0340-jpeg.1977534/]
+
+To accomplish that, I'm going to cast it as it is, rather than trying to fit this master pattern to the hull. That way if I screw it up really badly I'd then have only messed up a cast!
+
+All for now! I hope to get some moulding done this week, so hopefully I'll be able to show that off.
+────────────────────────────────────────────────────────────────────────
+Post #59  (forum post #5670226)
+Author    : MrRobot
+Date      : Oct 12, 2025 at 9:08 AM
+Reactions : Like, Love — DAR23, Studio Kitbash, JimmyB
+────────────────────────────────────────────────────────────────────────
+
+Sand and prime... sand and prime...
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0341-jpeg.1977829/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0343-jpeg.1977831/]
+
+A few spots yet to clean up. Will take my time. Might not get to casting this week.
+
+ 
+
+Attachments
+
+[IMAGE: 1620343-cee10fa2b0d756cd92274a025e21eb42.jpg]
+
+IMG_0342.jpeg
+
+					2.9 MB
+					
+					· Views: 60
+────────────────────────────────────────────────────────────────────────
+Post #60  (forum post #5671580)
+Author    : MrRobot
+Date      : Oct 17, 2025 at 6:22 AM
+Reactions : Like, Wow, Love — DAR23, Treadwell, dcarty
+────────────────────────────────────────────────────────────────────────
+
+You might be wondering why I'm doing the pylon this way and how I'm going to cast this. I'm going to make a little digression here into the "How I think it was made" stuff.
+
+One of the things I noticed in recent months is that the ILMers appear to have made no less than three separate attempts to construct the TIE master pattern. Why is that interesting? We know of only one production TIE fighter version.
+
+In this early shot of the ILM shop, you can see the TIE work bench on the lower left. And if you look closely, you'll see two TIE fighters being developed. Both made out of acrylic spheres with at least some of the holes for the hatches and canopy already cut in:
+
+[IMAGE: https://www.therpf.com/forums/attachments/ilm-50-valjean-model-shop-star-wars-scaled-copy-jpg.1978994/]
+
+"TIE 1"
+
+[IMAGE: https://www.therpf.com/forums/attachments/tie1-jpg.1978995/]
+
+"TIE 2"
+
+[IMAGE: https://www.therpf.com/forums/attachments/tie2-jpg.1978996/]
+
+Curiously, that does not seem to be the way the final TIE master was cast. Take a look at Jason Eaton's castings from the original molds, which show that the "portholes" remained blanked in
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2463-jpg.940130/]
+
+As noted before in this thread, the dimensions (5 1/4" outer sphere and 5 1/8" inner sphere) are also incompatible with Plastruct domes. Yes, there's a 5 1/4" Plastruct dome, but it is much thicker than 1/16 of an inch. There is no 5 1/8" dome in the current catalogue (I don't know what was in there in 1975, but I doubt it was much different). All accounts of these hull-shells is that they're very thin, probably thinner than a Plastruct dome.
+
+But wait!
+
+[IMAGE: lyd5md4v3q351.jpg]
+
+Take a look at this pic:
+
+While you were busy wondering what dirty joke Joe just told Steve, did you spot the TIE?
+
+[IMAGE: https://www.therpf.com/forums/attachments/34d4648ecef07380dcd08430a9b82260-copy-jpg.1978998/]
+
+I'm pretty sure this image is taken later than the first shop image. In the first image, the Blockade Runner is still in its Millennium Falcon form (look at the dish—it's circular), the shop is clean and pretty empty. In the second image, the Falcon we know and love is well underway. My guess is that the acrylic sphere models have been abandoned for vacuum-formed plastic (maybe with an acrylic dome still inside).
+
+[IMAGE: 200.gif]
+
+My guess is two interrelated reasons: Maybe the initial plan was to fashion each TIE individually, before it was realised that this would take a lot of time. It would be faster to make one and cast it. However, it's hard to cast a hemidome with a bunch of holes cut into it. Ultimately, you need to place a dome back inside so you can make a clean outer mold. Also, I suspect they found it easier to detail styrene than acrylic. So skinning the dome in styrene helped with scribing and gluing parts.
+
+What's notable in all cases is that top and bottom hemispheres appear to be bound together over the rod standing in for the armature. In the styrene version, it's possible this is just taped together. I think I see what looks like maybe masking tape. Hard to say.
+
+If you've glued the hemidomes together, how do you two-part cast the hull inside and out? We know from other model shop images (and Jason's casts) that the hull top and bottom were cast in separate parts. There's a way, and it uses a methodology we know was widely in use in the ILM shop.
+
+More to follow...
+────────────────────────────────────────────────────────────────────────
+Post #61  (forum post #5671765)
+Author    : Necronaut
+Date      : Oct 17, 2025 at 5:49 PM
+Reactions : Like — joberg, MrRobot
+────────────────────────────────────────────────────────────────────────
+
+I am actually on the edge of my seat. After our meeting, I have pored over your thread!
+────────────────────────────────────────────────────────────────────────
+Post #62  (forum post #5671887)
+Author    : MrRobot
+Date      : Oct 18, 2025 at 9:45 AM
+Reactions : Like — DAR23, manugu, Shamon
+────────────────────────────────────────────────────────────────────────
+
+For this second part about pylons and TIE hulls, I'm going to make a bit of a stretch. I'm not 100% certain, but this is what I'm leaning towards.
+
+Normally in studio scale builds the top and bottom halves of the hull unit are built separately. They are then cast separately, each with a two-part mold, and the resulting parts assembled (none of this is a criticism of previous builds. That's the sensible way to do it when you're planning ahead a little bit. It's also how I first started this:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0358-jpeg.1979227/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/untitled-2-jpg.1979228/]
+
+In such a case, it would make the most sense for the parting line between the hull halves to simply follow the angle of the pylon. However, when we look at TIEs up close, that's not what we see. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/parting_line_tie-png.1979074/]
+
+The parting line doesn't follow the angle of the face of the pylon, nor even the angle on paneling that lies on the body. This suggests that the mold of the top half of the ship wrapped just a tiny bit over the angle of the pylon. It's also notable how well the panelling aligns between top and bottom halves of the hull. In my opinion, this suggests two things. 1) The panelling was applied as a single piece to the hull; 2) the pylon was a single piece (rather than top + bottom pieces) when the mold was made. Since the parting line in the pylon lines up with the parting line of the hull, I suspect the pylon was attached to the hull as a whole part.
+
+OK, how do we make a hollow casting from a mold covering only the outside of the master? One process would be "slush casting" or "rotational casting". Pour in some resin, rotate the mold so the resin coats all the surfaces; keep going until you hit the end of pot life and things start to gel to the inside. ILM didn't do that here. Photos show the insides of the TIE bodies are pretty smooth. Slush casting would leave irregular surfaces. It's not a great production option for a TIE, because you can't really control the thickness. So we can rule out a slush/rotaional casting.
+
+Another option is this: 
+
+They appear to have used this clay-up technique a lot (not sure how much lasagna was involved). X-Wings fuselage tops were definitely done this way; the master was carved from wood but the casts are hollow. There are a few photos circulating of this type of mold being prepared for Death Star tiles. I'll have a post later about the TIE wing star molds. (A bit of an aside: often, it seems the mold backs were rigid, rather than rubber. Possibly this was to enhance back-pressure for "biscuit resin" in order to facilitate "skinning").
+
+So there it is, I think the TIE hull master was first molded in a fully assembled state (i.e. top and bottom halves). However, the two halves of the mold were split apart, and backing molds were made, probably by applying a thin, smoothed out layer of clay to the inside. This turned one mold effectively into two separate molds. 
+
+If this was in fact the case, you would be able to see some evidence of this on the internal surfaces of hull casts. I've received some suggestion this is indeed the case, but time will tell. If you look at pylon castings, from what little you can see of the internal face, they are totally featureless:
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2025-10-18-at-17-39-45-png.1979233/]
+
+(from here)
+
+That's an end pylon (which I'll discuss in a later post). What you'll notice is that where the pylon joins the semicircular "cuff", there's no evidence of a join, there's no evidence of textural differences between the cuff and the arm of the pylon. Nothing. Maybe they cleaned it up real well with bondo and sanding. But that seems like a lot of effort for a surface you'll never see. One great way to get such a smooth finish would be to start with an open-backed mold, fill the cavity with clay, smooth it out a bit, and press the aluminum tube in to get an exact impression.
+
+That's all for now. I'll finish up with a third part where I'll discuss why they might have done it this way, as well as some of the evidence that counts against my little theory.
+────────────────────────────────────────────────────────────────────────
+Post #63  (forum post #5671897)
+Author    : MrRobot
+Date      : Oct 18, 2025 at 10:24 AM
+Reactions : Like, Love — Necronaut, joberg
+────────────────────────────────────────────────────────────────────────
+
+Necronaut said:
+
+			I am actually on the edge of my seat. After our meeting, I have pored over your thread!
+		
+
+Click to expand...
+
+That was fun! Got to see the Necronaut drum!
+
+And now you’ll want to build a TIE!  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #64  (forum post #5671998)
+Author    : Ogibendogy
+Date      : Oct 18, 2025 at 4:58 PM
+Reactions : Like — Shamon, joberg, MrRobot
+────────────────────────────────────────────────────────────────────────
+
+That tracks - nice detective work!
+────────────────────────────────────────────────────────────────────────
+Post #65  (forum post #5672194)
+Author    : manugu
+Date      : Oct 19, 2025 at 11:31 AM
+Reactions : Like — joberg, Shamon, MrRobot
+────────────────────────────────────────────────────────────────────────
+
+Thanks for sharing your observations, very interesting to read!
+
+As a side remark, I suspect the Y-wing master molds were also produced following the same/similar techniques you describe here, solid wooden pluck for top and bottom fuselage molds, clayed in and some special treatment for the rear opening.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_7635-jpeg.1981441/]
+
+I always wondered how they could have made that fitting so perfectly with no visible seams and no jumps in wall thickness. Makes all more sense now, thanks! And fits in the overall image of techniques applied by ILM.
+
+And a little side quest: can you spot the Y-wing in the fist image in this series you posted? The one taken from the top of the big fume box?
+
+But now back to that great Tie!!
+────────────────────────────────────────────────────────────────────────
+Post #66  (forum post #5672348)
+Author    : MrRobot
+Date      : Oct 20, 2025 at 1:18 AM
+Reactions : Like — joberg, Shamon, manugu
+────────────────────────────────────────────────────────────────────────
+
+manugu said:
+
+			Thanks for sharing your observations, very interesting to read!
+
+As a side remark, I suspect the Y-wing master molds were also produced following the same/similar techniques you describe here, solid wooden pluck for top and bottom fuselage molds, clayed in and some special treatment for the rear opening.
+
+View attachment 1981441
+
+I always wondered how they could have made that fitting so perfectly with no visible seams and no jumps in wall thickness. Makes all more sense now, thanks! And fits in the overall image of techniques applied by ILM.
+		
+
+Click to expand...
+
+Thanks for this! I hadn't even considered the Y-Wing! Indeed, I think you're right. We know enough about the Y-Wing master pattern to say that it was fashioned using solid blocks of wood for the hull. Almost certainly top and bottom halves were in an assembled state to get the fit and finish right. Hard do say if it molding happened in the assembled state the way I've proposed for the TIE (i.e. by starting with the fully assembled hull).
+
+It does look like some attempt was made to hollow out the top half of the master. It's hard to say when that was done. The master notably has greeblies dangling over the edges and these were not there in the production casts (Mörser Karl parts, at that—so not likely ANH production). So it looks like whoever had the masters tried to modify it so it could be an assembled model (even before Jason restored it), or it has something to do with ROTJ production. 
+
+manugu said:
+
+			And a little side quest: can you spot the Y-wing in the fist image in this series you posted? The one taken from the top of the big fume box?
+		
+
+Click to expand...
+
+Oh! Still looking... Eyes for TIEs over here. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #67  (forum post #5672418)
+Author    : manugu
+Date      : Oct 20, 2025 at 8:42 AM
+Reactions : Like — joberg, Shamon, MrRobot
+────────────────────────────────────────────────────────────────────────
+
+Yes the master Y was reused to cast all those ‚crude‘ y-wings for Empire I believe, with parts added etc.
+
+Spoiler: location of the Y:
+
+right of Joe Johnstons head, lower shelf, only the engine is visible
+────────────────────────────────────────────────────────────────────────
+Post #68  (forum post #5672430)
+Author    : MrRobot
+Date      : Oct 20, 2025 at 9:24 AM
+Reactions : Like, Love — joberg, Shamon, manugu
+────────────────────────────────────────────────────────────────────────
+
+manugu said:
+
+Spoiler: location of the Y:
+
+…
+
+Click to expand...
+
+ Oh yes! I had noticed that before! It’s the Cantwell prototype. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #69  (forum post #5674785)
+Author    : norscout
+Date      : Oct 28, 2025 at 9:07 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+I'm looking for info on the 3 axis "tube clamp" or "center nut" (is it threaded?) or whatever is used to make TIEs. The part that is center of the cockpit and connects the main horizontal tube spar to a vertical down stand tube or rear out mount. What is the exact name of that aluminum component and where is the best place to purchase them?
+────────────────────────────────────────────────────────────────────────
+Post #70  (forum post #5674816)
+Author    : MrRobot
+Date      : Oct 28, 2025 at 10:40 AM
+Reactions : Like — swgeek, joberg, norscout
+────────────────────────────────────────────────────────────────────────
+
+norscout said:
+
+			I'm looking for info on the 3 axis "tube clamp" or "center nut" (is it threaded?) or whatever is used to make TIEs. The part that is center of the cockpit and connects the main horizontal tube spar to a vertical down stand tube or read out mount. What is the exact name of that aluminum component and where is the best place to purchase them?
+		
+
+Click to expand...
+
+I think we think those were machined specifically for the TIE. Check out swgeek’s TIE thread for a lovely example. There’s a link in the opening post on page 1 of this thread. (I’m on my phone so too lazy to copy it lol). 
+
+The center is threaded for the support rod, which can be inserted in any one of four directions. This bit is machined down so it inserts snugly to the transverse tubes. It’s fastened into those with screws.
+────────────────────────────────────────────────────────────────────────
+Post #71  (forum post #5674874)
+Author    : norscout
+Date      : Oct 28, 2025 at 1:12 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+MrRobot said:
+
+			I think we think those were machined specifically for the TIE. Check out swgeek’s TIE thread for a lovely example. There’s a link in the opening post on page 1 of this thread. (I’m on my phone so too lazy to copy it lol).
+
+The center is threaded for the support rod, which can be inserted in any one of four directions. This bit is machined down so it inserts snugly to the transverse tubes. It’s fastened into those with screws.
+		
+
+Click to expand...
+
+It's a great part. I want them for multiple vehicle builds! I have not found a stock part solution as good as they look in the TIEs, so yeah they're likely custom machined. Thx I'll check out swgeeks.
+────────────────────────────────────────────────────────────────────────
+Post #72  (forum post #5680794)
+Author    : MrRobot
+Date      : Nov 17, 2025 at 10:34 AM
+Reactions : Like, Love, Wow — vectorzero, ganesha7, DAR23
+────────────────────────────────────────────────────────────────────────
+
+Here's some photos of my pylon casting.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0404-jpeg.1990337/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0408-jpeg.1990338/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0409-jpeg.1990341/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0410-jpeg.1990340/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0411-jpeg.1990342/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0412-jpeg.1990343/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0413-jpeg.1990344/]
+
+The first cast was lovely: no flash, no casting bubbles. There were bubbles in my mould, though. I did de-gas it and Smooth-on claims that MoldStar 30 doesn't even need it. Nevertheless, those are not a major issue; they knock off very easily with your fingers and sometimes just a bit of filing or sanding depending on the location.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0426-jpeg.1990345/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0429-jpeg.1990346/]
+
+In case you're wondering: yes, the aluminum tube forms a part of the mold. Rather than using rubber to mold the tube cavity, the tube itself stands in place.
+
+This is what results in that featureless internal surface you see in the original castings (at least for pyros, anyway):
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0430-jpeg.1990347/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2025-10-18-at-17-39-45-png.1990350/]
+
+I will cast at least two more this week to make the remaining pylons and the "hubcap". Very excited! This has been a major bottleneck in my progress for a while and I'm glad I've finally reached this milestone!
+
+ 
+
+Attachments
+
+[IMAGE: 1632852-3d7e3c8c285f5cf5c314ffa074cc8bc5.jpg]
+
+IMG_0409.jpeg
+
+					2.6 MB
+					
+					· Views: 49
+					
+				
+
+[IMAGE: 1632849-03039035f5b7e3e3c9ecbbdaea64c510.jpg]
+
+IMG_0402.jpeg
+
+					4.5 MB
+					
+					· Views: 53
+────────────────────────────────────────────────────────────────────────
+Post #73  (forum post #5680905)
+Author    : Ogibendogy
+Date      : Nov 17, 2025 at 3:17 PM
+Reactions : Like — joberg, MrRobot
+────────────────────────────────────────────────────────────────────────
+
+Looking good!
+────────────────────────────────────────────────────────────────────────
+Post #74  (forum post #5680966)
+Author    : Necronaut
+Date      : Nov 17, 2025 at 6:40 PM
+Reactions : Like — joberg, MrRobot
+────────────────────────────────────────────────────────────────────────
+
+Very cool work!
+────────────────────────────────────────────────────────────────────────
+Post #75  (forum post #5681091)
+Author    : joberg
+Date      : Nov 18, 2025 at 9:17 AM
+Reactions : Like — MrRobot
+────────────────────────────────────────────────────────────────────────
+
+Very nice casting...I was a bit apprehensive looking at the rod + part together in the silicone mold
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ But now that I see the separation rod off the resin part, it gives me idea about pieces I need to mold and put them aside trying to figure the "How" and the results
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #76  (forum post #5681109)
+Author    : MrRobot
+Date      : Nov 18, 2025 at 9:45 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+joberg said:
+
+			Very nice casting...I was a bit apprehensive looking at the rod + part together in the silicone mold
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ But now that I see the separation rod off the resin part, it gives me idea about pieces I need to mold and put them aside trying to figure the "How" and the results
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+Thanks! Yep, I only needed to tap the cast a bit with a hammer to get it to move off the rod. Just use a good release agent.
+────────────────────────────────────────────────────────────────────────
+Post #77  (forum post #5681329)
+Author    : MrRobot
+Date      : Nov 19, 2025 at 2:51 AM
+Reactions : Like — Necronaut, joberg, ganesha7
+────────────────────────────────────────────────────────────────────────
+
+Working on the fit:
+
+[IMAGE: https://www.therpf.com/forums/attachments/pylon_fit-jpg.1990819/]
+
+The resin is Smooth-Cast 322, which I find very workable. Easy to grind down with just the stock sanding drum that comes with my Dremel.
+
+EDIT: Also: make sure you have a good mask and ideally dust-extraction when you are filing, grinding, or otherwise aerosolizing urethane resins.
+────────────────────────────────────────────────────────────────────────
+Post #78  (forum post #5681362)
+Author    : RealDaveWinter
+Date      : Nov 19, 2025 at 8:02 AM
+Reactions : Like — Necronaut, joberg
+────────────────────────────────────────────────────────────────────────
+
+Do you use a pressure pot for your casting? I find the smooth-cast products to be pretty good without a pressure pot, but once I started using one, the results were so much better. Especially for 2 part molds.
+────────────────────────────────────────────────────────────────────────
+Post #79  (forum post #5681382)
+Author    : MrRobot
+Date      : Nov 19, 2025 at 8:59 AM
+Reactions : Like — Necronaut, joberg
+────────────────────────────────────────────────────────────────────────
+
+RealDaveWinter said:
+
+			Do you use a pressure pot for your casting? I find the smooth-cast products to be pretty good without a pressure pot, but once I started using one, the results were so much better. Especially for 2 part molds.
+		
+
+Click to expand...
+
+I do. I also pour in a few stages, with some tipping/rotation and vacuuming just to make sure there are no bubbles catching inside the ring or the little "semi-ring" chips at the extremity. A bit overkill, but so far not a single bubble!
+
+And yeah, these are really great resins—they pour like water!
+────────────────────────────────────────────────────────────────────────
+Post #80  (forum post #5684022)
+Author    : Shamon
+Date      : Nov 29, 2025 at 5:21 PM
+Reactions : Love, Like, Wow — Ogibendogy, swgeek, DAR23
+────────────────────────────────────────────────────────────────────────
+
+MrRobot said:
+
+			Major milestone reached on parts IDs. Have now more or less finished the exterior parts maps for the TIE Fighter which I've posted over at SciFiKitbash. Thanks to DAR23 and Shamon for some recent inputs! Only one part doesn't have an ID (apart from some grab handles that can't really be worked out until a build starts to happen). Part #2 in the map below:
+
+View attachment 1939285
+
+Here's an extra reference:
+
+View attachment 1939286
+
+Once again, none of this is to say all the ID's are right. There's simply an annotation to each part now and most seem to be reasonably good. Some are pretty unequivocal. Others can be a bit more challenging. As always, inputs are more than welcome.
+		
+
+Click to expand...
+
+I finally found it. Tamiya 1/12 Tyrrell Ford F-1 #F16. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_9491-jpg.1993508/]
+────────────────────────────────────────────────────────────────────────
+Post #81  (forum post #5684073)
+Author    : MrRobot
+Date      : Nov 29, 2025 at 10:22 PM
+Reactions : Like — joberg, Shamon
+────────────────────────────────────────────────────────────────────────
+
+Shamon said:
+
+			I finally found it. Tamiya 1/12 Tyrrell Ford F-1 #F16. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+View attachment 1993508
+
+Click to expand...
+
+Amazing! I can see why I never spotted this in kit scans! Thank you Shamon!
+────────────────────────────────────────────────────────────────────────
+Post #82  (forum post #5687175)
+Author    : Rulebreaker
+Date      : Dec 12, 2025 at 4:31 PM
+Reactions : Like — joberg, jcoffman99
+────────────────────────────────────────────────────────────────────────
+
+i added a new entry no 18
+
+[IMAGE: https://www.therpf.com/forums/attachments/new-18-png.1996749/]
+
+its this part from the (old tool) schwimmwagen
+
+[IMAGE: https://www.therpf.com/forums/attachments/k2-png.1996748/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/k2-b-png.1996747/]
+────────────────────────────────────────────────────────────────────────
+Post #83  (forum post #5687827)
+Author    : MrRobot
+Date      : Dec 15, 2025 at 11:29 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Rulebreaker said:
+
+			i added a new entry no 18
+
+View attachment 1996749
+
+its this part from the (old tool) schwimmwagen
+
+View attachment 1996748View attachment 1996747
+
+Click to expand...
+
+Thanks. That one is already on a separate map covering top and bottom hatches. I've now updated that on the first page. Sorry I didn't do that before! I keep the most complete and up-to-date maps at SciFiKitbash.
+────────────────────────────────────────────────────────────────────────
+Post #84  (forum post #5688042)
+Author    : Rulebreaker
+Date      : Dec 17, 2025 at 4:29 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+MrRobot said:
+
+			Thanks. That one is already on a separate map covering top and bottom hatches. I've now updated that on the first page. Sorry I didn't do that before! I keep the most complete and up-to-date maps at SciFiKitbash.
+		
+
+Click to expand...
+
+i had the same idea, but isnt the M60A1E1 to smal?
+
+i had the same pictures from propstore, but i would have added some comments
+
+Tamiya 1/35 American "Modern" Tanks and available in 197X
+
+M41 Bulldog has the cuppola integrated into the turret, only 5 windows
+
+M48 has a round cuppola, but only 10 windows
+
+M60 has a "egg" shaped oversized cuppola
+
+M60A2 "Starship" has the correct amount of 12 windows, but the spacers, look wrong
+
+M551 "Sheridan" cuppola has only 10 windows, but the correct looking spacings
+
+British, German, Japan Tanks look totaly diffrent
+
+Nitto 1/35 not available
+
+Nichimo 1/35 not available
+
+Alternative
+
+Plastruct Dome, and an insane going Builder filing it to shape
+
+Tamiya 1/48 M60A2 or M60A1E1 but to smal
+────────────────────────────────────────────────────────────────────────
+Post #85  (forum post #5689145)
+Author    : MrRobot
+Date      : Dec 22, 2025 at 9:54 AM
+Reactions : Like, Love — joberg, RossW, DAR23
+────────────────────────────────────────────────────────────────────────
+
+MrRobot said:
+
+			It has been pointed out before how close the eFX TIE wing is to the Gawley blueprint, which suggests it was followed pretty closely. Using these refs, it's actually a dead-ringer. I'd bet dollars to doughnuts the ILMers cut the wing pattern right off the blueprint:
+
+View attachment 1950712
+
+Click to expand...
+
+Earlier I suggested that the Gawley blueprint was used directly as a template for the TIE wing, as it is pretty much an exact match for some isolated and incomplete pyro wingstars. Looks like we now have some direct visual confirmation of this in the background of one of the images posted in Jason Eaton's fantastic new article posted at the ILM site.
+
+In the background of this pic, you can see a bunch of TIE parts in on the shelf. On the floor next to the paper bag, you can see the Gawley blueprint has been applied to a board or other sheet material:
+
+[IMAGE: ilm-star-wars-x-wing-50-model-miniature-18-scaled.jpg]
+
+I'm guessing this was a jig used to make the outline of the wing star. So this should indeed give pretty exact dimensions for your wingstar construction.
+
+Edit: I no longer think those are TIE parts on the shelf. I think it’s just a Leggs container. There’s a finished TIE wing just peeking out on the very right of the image frame. But I still think the jig is real!
+────────────────────────────────────────────────────────────────────────
+Post #86  (forum post #5689683)
+Author    : Rulebreaker
+Date      : Dec 24, 2025 at 3:07 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+on the blockade runner is the "correct" part, but on the tie fighter master it just looks like styrene
+
+some knows the sand part?
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-1651-png.1999327/]
+────────────────────────────────────────────────────────────────────────
+Post #87  (forum post #5689760)
+Author    : MrRobot
+Date      : Dec 25, 2025 at 3:09 AM
+Reactions : Like — joberg, manugu, swgeek
+────────────────────────────────────────────────────────────────────────
+
+Rulebreaker said:
+
+			on the blockade runner is the "correct" part, but on the tie fighter master it just looks like styrene
+
+some knows the sand part?
+
+View attachment 1999327
+
+Click to expand...
+
+I don’t immediately recognize the part, but I would go with the master pattern over somebody else’s build. 
+
+In any case, Merry Christmas to all!
+────────────────────────────────────────────────────────────────────────
+Post #88  (forum post #5690087)
+Author    : Rulebreaker
+Date      : Dec 27, 2025 at 10:21 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+hm what does master pattern actually mean?
+
+probably only the pyro master? because the heroes are build and not cast?
+
+if the work of "somebody else" is good, then i appriciate the work, and i dont need to "re invent the wheel again" - know what i mean?
+
+just to mention a few such as
+
+b wing from thibkaji
+
+[IMAGE: logo-og.png]
+
+						Studio Scale B-Wing Starfighter Build Thread
+					
+
+It's been a few months, but I've not been idle!  I'm back now with a new studio scale build thread for the B-Wing Attack Starfighter!  This ship is one of my all-time favorites -- everything about it I find cool and awesome, and so I've decided to have a go at it.  I might be out of my mind --...
+
+[IMAGE: favicon.png]
+
+					www.therpf.com
+				
+
+esb at-st by bret
+
+[IMAGE: logo-og.png]
+
+						Let's Build An "Empire" AT-ST!
+					
+
+May 17, 2024    Well I guess I'm officially a studio scale builder now because I've started buying kits and working on a prototype for my next project while in the middle of my current one. This would've been a self imposed cardinal sin back in my days of building scale armor models. "Thou shalt...
+
+[IMAGE: favicon.png]
+
+					www.therpf.com
+────────────────────────────────────────────────────────────────────────
+Post #89  (forum post #5690106)
+Author    : swgeek
+Date      : Dec 27, 2025 at 11:47 AM
+Reactions : Like — Rulebreaker, DAR23, joberg
+────────────────────────────────────────────────────────────────────────
+
+All the TIE-Fighters are cast. None, except the master pattern, were scratch built. When MrRobot says master pattern, he means the actual TIE master pattern, including the lower pylon cover that was also used on the Blockade Runner. The pictures you showed are of the actual TIE lower cover and someone elses home built interpretation of that part. They used a kit part that looks similar to the real part, but the real cover is just styrene in that area and not a kit part.
+────────────────────────────────────────────────────────────────────────
+Post #90  (forum post #5693939)
+Author    : Rulebreaker
+Date      : Jan 13, 2026 at 6:24 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+someone knows, if this thing is comparable with the kit to be build? i have never seen the tamiya 1/48 m60a1e1 kit on sale somewhere...
+
+[IMAGE: 1646604-ab7a24a0a0921138125b536019643964.jpg]
+
+or is it just a kid toy?
+────────────────────────────────────────────────────────────────────────
+Post #91  (forum post #5693966)
+Author    : rbeach84
+Date      : Jan 13, 2026 at 10:06 PM
+Reactions : Like — Necronaut, Rulebreaker, joberg
+────────────────────────────────────────────────────────────────────────
+
+Rulebreaker said:
+
+			someone knows, if this thing is comparable with the kit to be build? i have never seen the tamiya 1/48 m60a1e1 kit on sale somewhere...
+
+View attachment 2004091
+
+or is it just a kid toy?
+		
+
+Click to expand...
+
+It is the same as the kit, just built up and 'remarketed'.  The original kit was one of those models with the motor and a hard wired remote control so you could 'drive it around' once it was finished.  Original issue number is I believe 'MS106'.
+
+Cheers!
+
+Robert
+────────────────────────────────────────────────────────────────────────
+Post #92  (forum post #5707924)
+Author    : MrRobot
+Date      : Mar 13, 2026 at 10:43 AM
+Reactions : Like, Love — edge10, joberg, Ogibendogy
+────────────────────────────────────────────────────────────────────────
+
+Been a bit quiet on my part, but have been working on my TIE. Just re-built the top hatch which I'm much happier with now. Will start casting it this week.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0786-jpeg.2018823/]
+
+I wasn't quite happy with my original as there was some poor alignment between some areas that was bothering me. I find it more useful to try to aim for internal consistency than to try to get all the measurements exactly right. It's a bit like when you are drawing something: if you're too literal, it ends up not looking right.
+
+To help, I used a carpenters profile gauge. These are cheap and can be found in most hardware stores.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0761-jpeg.2018827/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0762-jpeg.2018828/]
+
+The primer on the inner dome wasn't planned. I simply reused the vac-formed shell from one of my early attempts on the hull (I have lots to say about the cockpit ball which I'll write about later).
+
+Did a bit of cleanup and put the greeblies on. On second thought, I should have stuck these on after a first coat of primer and cleaning, but lessons learned...
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0784-jpeg.2018830/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0785-jpeg.2018832/]
+
+Other updates:
+
+I also wasn't super happy with my pylon master. So I disassembled it an did a bit of sanding and I'm now much happier with it. Made a mold of it last week and will cast it this week. I'm going to try casting it with expanding foam resin to see if that makes carving out the fit to the hull a bit easier, as it should be a bit more toolable.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0760-jpeg.2018834/]
+
+Enjoy!
+────────────────────────────────────────────────────────────────────────
+Post #93  (forum post #5709742)
+Author    : Ogibendogy
+Date      : Mar 20, 2026 at 9:50 AM
+Reactions : Like — joberg, MrRobot
+────────────────────────────────────────────────────────────────────────
+
+Beautiful work!
+────────────────────────────────────────────────────────────────────────
+Post #94  (forum post #5709757)
+Author    : MrRobot
+Date      : Mar 20, 2026 at 10:46 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Thank you!
+────────────────────────────────────────────────────────────────────────
+Post #95  (forum post #5709916)
+Author    : joberg
+Date      : Mar 21, 2026 at 7:35 AM
+Reactions : Like — MrRobot
+────────────────────────────────────────────────────────────────────────
+
+Real nice for sure!
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 95

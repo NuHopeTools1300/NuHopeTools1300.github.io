@@ -1,0 +1,32 @@
+# Corpus Bucket Summary
+
+## Counts
+
+- `safe_to_stage`: `393`
+- `needs_review`: `687`
+
+## Reasons
+
+- `needs_review` / `historical_compilation`: `574`
+- `safe_to_stage` / `attributed_and_nonhistorical`: `393`
+- `needs_review` / `unknown_source_platform`: `113`
+
+## Top Safe Sources
+
+- `personal_archive:redjammer`: `80`
+- `social:Facebook`: `72`
+- `forum:theRPF`: `54`
+- `personal_archive:monsieurtox`: `53`
+- `personal_archive:davejones`: `43`
+- `auction:Propstore`: `37`
+- `personal_archive:goldleader`: `15`
+- `video:YouTube`: `10`
+- `web:internet_sources`: `9`
+- `personal_archive:chriscasady`: `9`
+- `collection:RedJammer`: `7`
+- `personal_archive:crudecasts`: `4`
+
+## Top Review Sources
+
+- `historical:historical`: `574`
+- `unknown`: `113`

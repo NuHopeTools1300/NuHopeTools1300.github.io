@@ -395,7 +395,7 @@ def import_3d_parts(xlsx_path, db):
             if not existing:
                 db.execute("""
                     INSERT INTO part_files (part_id, file_type, url, source, notes)
-                    VALUES (?, 'scan', '', ?, ?)
+                    VALUES (?, 'scan', NULL, ?, ?)
                 """, (part_id, provider, notes))
                 imported += 1
 

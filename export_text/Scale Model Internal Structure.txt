@@ -1,0 +1,118 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Scale Model Internal Structure
+URL    : https://www.therpf.com/forums/threads/scale-model-internal-structure.356175/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #5511733)
+Author    : CosmicQuest
+Date      : Feb 8, 2024 at 3:11 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Hey friends. I have been trying to come up with ideas for the best internal structure for my scratch built scale ships. I want to be able to mount them for possible green screen work, in the future, but haven't been able to find good pictures or video of the best way to go about making the internal structures. What methods do you all recommend for this process? Thank you kindly for any information you can send my way 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #5511866)
+Author    : Bjorn
+Date      : Feb 9, 2024 at 3:15 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Hey CosmicQuest, that's a bit of an open ended question.
+
+How large are the models that you propose building?
+
+The structure will often be dictated by the size. I'd suggest the larger the model the more complicated the armature would be.
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #5511870)
+Author    : star-art
+Date      : Feb 9, 2024 at 3:24 AM
+Reactions : Like — Pro Mod, CosmicQuest, Bjorn
+────────────────────────────────────────────────────────────────────────
+
+If you're on Facebook, I have albums full of photos showing how I design and build models, several for filming:
+
+[IMAGE: 89981529_3116059731740277_7792394508418678784_n.jpg]
+
+						Charles Adams
+					
+
+Charles Adams is on Facebook. Join Facebook to connect with Charles Adams and others you may know. Facebook gives people the power to share and makes the world more open and connected.
+
+[IMAGE: KFyVIAWzntM.ico]
+
+					www.facebook.com
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #5511942)
+Author    : CosmicQuest
+Date      : Feb 9, 2024 at 8:37 AM
+────────────────────────────────────────────────────────────────────────
+
+Bjorn said:
+
+			Hey CosmicQuest, that's a bit of an open ended question.
+
+How large are the models that you propose building?
+
+The structure will often be dictated by the size. I'd suggest the larger the model the more complicated the armature would be.
+		
+
+Click to expand...
+
+Hey Bjorn. To be honest, they will typically be in the N-cale to HO-scale range. So the largest ship I will likely build will be in the 24" long range. So not huge. It's definitely possible however that I could build something much bigger in the future as my work space allows 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ Thank you for your input!!
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #5511943)
+Author    : CosmicQuest
+Date      : Feb 9, 2024 at 8:38 AM
+────────────────────────────────────────────────────────────────────────
+
+star-art said:
+
+			If you're on Facebook, I have albums full of photos showing how I design and build models, several for filming:
+
+[IMAGE: 89981529_3116059731740277_7792394508418678784_n.jpg]
+
+						Charles Adams
+					
+
+Charles Adams is on Facebook. Join Facebook to connect with Charles Adams and others you may know. Facebook gives people the power to share and makes the world more open and connected.
+
+[IMAGE: KFyVIAWzntM.ico]
+
+					www.facebook.com
+				
+
+Click to expand...
+
+Awesome! Thank you Charles. I will totally go check out your page.
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #5511946)
+Author    : CosmicQuest
+Date      : Feb 9, 2024 at 8:42 AM
+────────────────────────────────────────────────────────────────────────
+
+star-art said:
+
+			If you're on Facebook, I have albums full of photos showing how I design and build models, several for filming:
+
+[IMAGE: 89981529_3116059731740277_7792394508418678784_n.jpg]
+
+						Charles Adams
+					
+
+Charles Adams is on Facebook. Join Facebook to connect with Charles Adams and others you may know. Facebook gives people the power to share and makes the world more open and connected.
+
+[IMAGE: KFyVIAWzntM.ico]
+
+					www.facebook.com
+				
+
+Click to expand...
+
+I started checking out your photos. Looking pretty cool. Thanks again for the tip!
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 6

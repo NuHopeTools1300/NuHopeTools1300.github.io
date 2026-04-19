@@ -1,0 +1,61 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : A question regarding laser cutters
+URL    : https://www.therpf.com/forums/threads/a-question-regarding-laser-cutters.361248/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #5599475)
+Author    : RealDaveWinter
+Date      : Jan 17, 2025 at 6:20 PM
+Reactions : Wow — joberg
+────────────────────────────────────────────────────────────────────────
+
+I'm not sure if this is the correct forum, I don't see one specifically for tools, and I'm using to build a studio model, so I guess it can go here.
+
+Does anyone have any recommendations for laser cutters? I'm currently looking at this one;
+
+			Amazon.ca
+		
+
+But I have no idea if it's any good or not. I'm just using it for cutting 2-3mm acrylic. Does anyone have one of these? What software do these things support?
+
+thanks
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #5599561)
+Author    : StevenBills
+Date      : Jan 18, 2025 at 7:37 AM
+Reactions : Like — joberg, swgeek, RealDaveWinter
+────────────────────────────────────────────────────────────────────────
+
+I don't have any experience with that particular laser, but I have used a GlowForge pretty extensively. They have a web interface where you can upload your design. I use Illustrator to make vector images, and then upload as either a PDF or SVG. Pretty easy to use once you get the hang of it.
+
+SB
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #5599563)
+Author    : jcoffman99
+Date      : Jan 18, 2025 at 7:49 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+That should cut the acrylic no problem. I have a 10W that does it. You won't be able to do clear acrylic though. Lightburn is the standard software that most use.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #5599566)
+Author    : RealDaveWinter
+Date      : Jan 18, 2025 at 7:56 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+great. thanks
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #5601080)
+Author    : JCalhoun
+Date      : Jan 24, 2025 at 8:37 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Let me know how ti goes. My sense was that solid-state laser (like the one you linked to) may not cut acrylic.
+
+I ended up going with a K-40 (CO2 laser). I spent a little more than the basement-priced models (went with Omtech) so it would have air-assist, etc.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 5

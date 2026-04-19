@@ -1,0 +1,83 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Raptor Lighting Options
+URL    : https://www.therpf.com/forums/threads/raptor-lighting-options.35032/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #454998)
+Author    : FLUKE
+Date      : Nov 21, 2007 at 10:41 AM
+────────────────────────────────────────────────────────────────────────
+
+For those who have not started your 1/24 Raptor there is an option for hidding the driver for the EL lamps.  Miller engineering offers an easy to order and affordable sytems: http://www.microstru.com/Experimenter-Kits.html
+
+I found that the 3V driver from Miller Engineering fits perfectly in the bottom left section of Helo's station. One driver will light up several custom cut shapes. I'm not done sizing things up yet but I may only be using 2 EL sections total...one larger shape that covers all the screens on the side wall and a second for the rear panels. The less EL panels the brighter they are. 
+
+I also made some progress on the cooling blower fan guards....The image shows the photo etch N scale covers before and after being trimmed down and they will be glued under the new cover plate.
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #455301)
+Author    : yt
+Date      : Nov 21, 2007 at 8:52 PM
+────────────────────────────────────────────────────────────────────────
+
+That is really good to know, thanks!
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #455342)
+Author    : FLUKE
+Date      : Nov 21, 2007 at 10:16 PM
+────────────────────────────────────────────────────────────────────────
+
+You welcome.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+  Did I ever respond to your e-mail? I have been so busy with things I can not remember.
+
+Here are 2 more ideas:
+
+1. 
+
+Try applying all the interior screen & panel decals to thin clear styrene sheet, that way it makes them easier to work with, test and apply and when ready you can use high quality double sided tape to set them into their final position. Also experiment with thin defuser's placed behind the images, they can give them more fullness and bring out the colors.  Cool white leds are the cheaper and work the best for backlit art and for the decals used in the Raptor, they will give off the best look...Warm White led's dull the images and they tend not to be very bright.
+
+2.  
+
+I'm running 2 wires in in: 6V for all the led's and then break it down to 3V for the EL lamp driver  using a small female plug built into the forward skid...the male plug will be in the base that will represent the floor of the Galactica's maintenance hanger.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #455667)
+Author    : Aztek Dummy
+Date      : Nov 22, 2007 at 4:22 PM
+────────────────────────────────────────────────────────────────────────
+
+Fluke,
+
+You did a very tidy job of hollowing out that area. I had to double check mine cuz it's solid there and I thought your's must have been cast with that section removed. Good job
+
+I've decided to forgo lighting my kit, I regret to say. the big canopy and the removable door will allow enough means to look inside. I needed to economize on my time too. I  may end up changing my mind after I see the Razor movie, tho
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #455767)
+Author    : FLUKE
+Date      : Nov 23, 2007 at 12:00 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Have DREMEL will travel! :love The clear resin parts in my kit are almost 100% bubble free, VERY WELL CASTED!, slightly soft and it gets kinda gooey, so be careful! 
+
+So far ....by just inserting only 2 - 5mm led's lights in spots ...lights up the whole side wall! 
+
+I know what you mean....I get kinda tired of spending 6 to 12 months on one build...but there is no cure for my modeling aflictions :lol
+
+FLOOR NOTE:
+
+Don Mills Models makes the best true to scale 1/25 'single' style diamond plate pattern. The floor pattern for the Raptor was molded using Plastruck's 1/24 'double' diamond design....where Plastruck gets their scale size... 'who knows??' but the pattern used for the raptor is more like 1/12th or larger. No offense to anyone....GULP! :confused
+
+I have a piece of floor from a 1/35 WWII German halftrack that I compared to a few photos of the Raptor floor and ...I don't know but it looks very close. 
+
+I'm going to compare 1/35, 1/32 and that Don Mills 1/25 patterns before I make up my mind.  Don mills ONLY sales via ebay, a few shops back east or from him directly so I asked if he could send me a pic with a dime on the pattern taken from above. After spending 280.00 ona kit....I need to keep my hobby spending down as much as piossible.
+
+Scale sometimes is a mystery..... so I go by what looks best ...I''l post again as soon as I get more info.
+
+Hope all had a good Turkey Day 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 5

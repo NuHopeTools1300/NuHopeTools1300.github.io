@@ -1,0 +1,1660 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Cloud Car 101
+URL    : https://www.therpf.com/forums/threads/cloud-car-101.214479/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #3320092)
+Author    : dsp5500
+Date      : May 27, 2014 at 2:00 AM
+────────────────────────────────────────────────────────────────────────
+
+Time to build my self a Cloud Car.
+
+After countless iterations of the basic shape I got to a point where I think it's pretty close. Still working on the armature and engine at this point.
+
+[IMAGE: 106375-65da3d162de2649b019c6acb1ffef0a5.jpg]
+
+Next step turned out to be more involved than I thought. I had to offset the model the exact amount that would be taken up by the styrene during vac forming also taking into account the stretching. Got there in the end.
+
+The parts laid out ready for tool path.
+
+[IMAGE: 106376-a4697a7359dd46bbbe988e5dc92832f3.jpg]
+
+Next step cut to size and laminate two pieces of 32mm MDF.
+
+[IMAGE: 106377-ba5adcc4e369c333a34c4bd7a89abb09.jpg]
+
+[IMAGE: 106378-60a6a4432eaf6ef93a9004b850883616.jpg]
+
+I'll leave them over night to make sure there bonded well.
+
+The left over MDF I'll do the same but for this.
+
+[IMAGE: 106379-13d23845d90e8e6190f271f5836f2962.jpg]
+
+Everything should be ready for milling on the weekend and if I have time may do a couple of test pulls.
+
+Rob
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #3320103)
+Author    : ralphee
+Date      : May 27, 2014 at 2:39 AM
+────────────────────────────────────────────────────────────────────────
+
+Killer idea Rob!
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #3320108)
+Author    : dsp5500
+Date      : May 27, 2014 at 2:52 AM
+────────────────────────────────────────────────────────────────────────
+
+Yer should be good, Hopefully all the pre planning will pay off with some nice pieces of styrene.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #3320148)
+Author    : KrokoHunter
+Date      : May 27, 2014 at 4:32 AM
+────────────────────────────────────────────────────────────────────────
+
+Looking good ... Also wanna build this one some day ... just need to build a vac machine ... or buy a set a vac pulls 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #3320217)
+Author    : moffeaton
+Date      : May 27, 2014 at 6:24 AM
+────────────────────────────────────────────────────────────────────────
+
+Excellent!
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #3320249)
+Author    : ralphee
+Date      : May 27, 2014 at 7:27 AM
+────────────────────────────────────────────────────────────────────────
+
+Was fun going over a few ID's on the A wing, its easy to forget i guess, and that read shoulder vent got ID'd in the end, which is super cool!
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #3320278)
+Author    : dsp5500
+Date      : May 27, 2014 at 7:59 AM
+────────────────────────────────────────────────────────────────────────
+
+ralphee said:
+
+			Was fun going over a few ID's on the A wing, its easy to forget i guess, and that read shoulder vent got ID'd in the end, which is super cool!
+
+lee
+		
+
+Click to expand...
+
+I must have missed that email
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+KrokoHunter said:
+
+			Looking good ... Also wanna build this one some day ... just need to build a vac machine ... or buy a set a vac pulls 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+Depending on how this goes I may do some extras.
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #3320320)
+Author    : DaddyfromNaboo
+Date      : May 27, 2014 at 8:39 AM
+────────────────────────────────────────────────────────────────────────
+
+dsp5500 said:
+
+			...
+
+Depending on how this goes I may do some extras.
+		
+
+Click to expand...
+
+Hooooo, keeping my fingers crossed. That Kenner cloud car needs to be replaced 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ What about the other parts, are you planning on having them printed, i.e. do a full computer aided build?
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #3320335)
+Author    : dsp5500
+Date      : May 27, 2014 at 8:53 AM
+Reactions : Like — imaginager
+────────────────────────────────────────────────────────────────────────
+
+If you mean the armature and engine then yep. Working on it now.
+
+Will also do the pilots and articulation also. The full Monty.
+
+[IMAGE: 106487-8f249a691b3e287c8bfbcc2c444a0b24.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #3320369)
+Author    : MonsieurTox
+Date      : May 27, 2014 at 9:21 AM
+────────────────────────────────────────────────────────────────────────
+
+ralphee said:
+
+			Was fun going over a few ID's on the A wing, its easy to forget i guess, and that read shoulder vent got ID'd in the end, which is super cool!
+
+lee
+		
+
+Click to expand...
+
+You mean the RE20 parts ?
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #3320373)
+Author    : dsp5500
+Date      : May 27, 2014 at 9:25 AM
+────────────────────────────────────────────────────────────────────────
+
+I checked the RE20 and there still to small so this is something else.
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #3320388)
+Author    : MonsieurTox
+Date      : May 27, 2014 at 9:37 AM
+────────────────────────────────────────────────────────────────────────
+
+Yeah I know those are not the correct parts lol without measuring them the shape is wrong, but I wanted to know if Lee was meaning what we thought at first (before Guy used if I'm correct some wagon parts ?) being from the RE20.
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #3320398)
+Author    : ralphee
+Date      : May 27, 2014 at 9:47 AM
+────────────────────────────────────────────────────────────────────────
+
+No they were not RE20, it was another F1, can't recall the kit without a trawl back, ill have a delve, and bag the kit beforehand too lol. To add, wasn't my find 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #3320930)
+Author    : 3d-builder
+Date      : May 27, 2014 at 7:06 PM
+────────────────────────────────────────────────────────────────────────
+
+Hey Rob i was wondering how do you get the curve milled
+
+into the hull (Keel line) when the MDF is flat?
+
+[IMAGE: MVC-022S.jpg]
+
+[IMAGE: MVC-060S.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #3320961)
+Author    : dsp5500
+Date      : May 27, 2014 at 7:44 PM
+────────────────────────────────────────────────────────────────────────
+
+Im not sure I get what you mean. The block is bigger than the parts to be milled, after milling the only flat part of the MDF is the bottom and you end up with something like you last pic.
+
+Rob
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #3320987)
+Author    : 3d-builder
+Date      : May 27, 2014 at 8:15 PM
+────────────────────────────────────────────────────────────────────────
+
+oh ok that's what I was wondering if the blocks were 
+
+thick enough....
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #3320996)
+Author    : dsp5500
+Date      : May 27, 2014 at 8:36 PM
+────────────────────────────────────────────────────────────────────────
+
+Yep theres just enough thickness to get the job done with two sheets according to my calculations.
+
+[IMAGE: 106603-b133a9cd5b4ba315c7b1e271e9d678af.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #3321016)
+Author    : 3d-builder
+Date      : May 27, 2014 at 9:09 PM
+────────────────────────────────────────────────────────────────────────
+
+dsp5500 said:
+
+			Yep theres just enough thickness to get the job done with two sheets according to my calculations.
+
+View attachment 330937
+
+Click to expand...
+
+Ok can see it now.......:thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #3321046)
+Author    : marsattack
+Date      : May 27, 2014 at 9:37 PM
+────────────────────────────────────────────────────────────────────────
+
+Looks awesome !!!
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #3321090)
+Author    : DaddyfromNaboo
+Date      : May 27, 2014 at 10:55 PM
+────────────────────────────────────────────────────────────────────────
+
+dsp5500 said:
+
+			If you mean the armature and engine then yep. Working on it now.
+
+Will also do the pilots and articulation also. The full Monty.
+		
+
+Click to expand...
+
+I was also referring to the cockpit cage and the detail greeblies. The engine and the back skirt have IIRC been the bigger challenges in previous kits.
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #3324534)
+Author    : dsp5500
+Date      : May 31, 2014 at 3:37 AM
+Reactions : Like — TerranCmdr, struschie, ralphee
+────────────────────────────────────────────────────────────────────────
+
+Theres a Cloud Car in there somewhere!
+
+[IMAGE: 107689-cec0afc5fc67e598cf90847014f8502b.jpg]
+
+1'st of two rough pass's
+
+[IMAGE: 107690-ded03a43ac4205b11284456e8747c863.jpg]
+
+Just about to start the final finish pass.
+
+[IMAGE: 107691-5b3f080757109543afc56979974a9f3b.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #3324548)
+Author    : ralphee
+Date      : May 31, 2014 at 4:06 AM
+────────────────────────────────────────────────────────────────────────
+
+Very cool Rob!
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #3324587)
+Author    : moffeaton
+Date      : May 31, 2014 at 5:19 AM
+────────────────────────────────────────────────────────────────────────
+
+Go man, go!
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #3333711)
+Author    : dsp5500
+Date      : Jun 10, 2014 at 12:37 AM
+Reactions : Like — struschie
+────────────────────────────────────────────────────────────────────────
+
+Test pull using PETG. I'll trim the parts and test for fit now.
+
+[IMAGE: 110689-a4bcdacac396a9de09bd190bda3ae4d8.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #3333794)
+Author    : KrokoHunter
+Date      : Jun 10, 2014 at 4:13 AM
+────────────────────────────────────────────────────────────────────────
+
+Looks awesome
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #3333879)
+Author    : Talkierg
+Date      : Jun 10, 2014 at 6:30 AM
+────────────────────────────────────────────────────────────────────────
+
+Looking good Rob,I wish I have kind of equipment as yours:thumbsup
+
+It'll be a killer job on the armature,I know you're good on that
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Don
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #3334001)
+Author    : dsp5500
+Date      : Jun 10, 2014 at 8:45 AM
+Reactions : Like — struschie, ralphee
+────────────────────────────────────────────────────────────────────────
+
+KrokoHunter said:
+
+			Looks awesome
+		
+
+Click to expand...
+
+Thanks Niels 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Talkierg said:
+
+			Looking good Rob,I wish I have kind of equipment as yours:thumbsup
+
+It'll be a killer job on the armature,I know you're good on that
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Don
+		
+
+Click to expand...
+
+Thanks Don, Yep looking forward to playing with the armature also Articulating the pilot.
+
+Does anyone know if only one or both pilots were articulated? And was it only the head and one arm?
+
+Very roughly cut and the last spluttering of primer on the pulls, but I'm more or less satisfied with the results.
+
+Might do some very minor adjustments to the plugs but overall I think they work.
+
+Will be going with 1.5mm
+
+[IMAGE: 110750-0dfd3cd689231213e8e21619e8d04087.jpg]
+
+[IMAGE: 110751-5a0cbd8cd84dfa4b242125f94509ea6e.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #28  (forum post #3334072)
+Author    : ralphee
+Date      : Jun 10, 2014 at 10:02 AM
+────────────────────────────────────────────────────────────────────────
+
+Looks great, should be wicked with the planned armature, solid!
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #29  (forum post #3334507)
+Author    : 3d-builder
+Date      : Jun 10, 2014 at 5:05 PM
+────────────────────────────────────────────────────────────────────────
+
+Nice Rob the hard stuff is done now will be nice to
+
+watch it build up! If I remember the half round pieces
+
+that go on the sides of the engine are a plastruct part,
+
+I don't think evergreen had them in that size.
+────────────────────────────────────────────────────────────────────────
+Post #30  (forum post #3334623)
+Author    : moffeaton
+Date      : Jun 10, 2014 at 6:45 PM
+────────────────────────────────────────────────────────────────────────
+
+Very excited to see where you take this!
+────────────────────────────────────────────────────────────────────────
+Post #31  (forum post #3334703)
+Author    : dsp5500
+Date      : Jun 10, 2014 at 9:01 PM
+────────────────────────────────────────────────────────────────────────
+
+ralphee said:
+
+			Looks great, should be wicked with the planned armature, solid!
+
+lee
+		
+
+Click to expand...
+
+Cheers, Will be focusing on the armature next.
+
+3d-builder said:
+
+			Nice Rob the hard stuff is done now will be nice to
+
+watch it build up! If I remember the half round pieces
+
+that go on the sides of the engine are a plastruct part,
+
+I don't think evergreen had them in that size.
+		
+
+Click to expand...
+
+Are you talking about these bits?
+
+[IMAGE: 110947-49e36b4386144f92f139f830afab61f7.jpg]
+
+[IMAGE: 110948-0030e524913c8b336e2b44505064e5de.jpg]
+
+They almost look like they may have been vac formed as part of the engine shroud?
+
+moffeaton said:
+
+			Very excited to see where you take this!
+		
+
+Click to expand...
+
+Hopefully to a finished model :lol
+────────────────────────────────────────────────────────────────────────
+Post #32  (forum post #3335260)
+Author    : 3d-builder
+Date      : Jun 11, 2014 at 11:17 AM
+────────────────────────────────────────────────────────────────────────
+
+Here are the plastruct half rounds on mine....they are damn near close
+
+if not perfect not sure what they used? Maybe it was these they are
+
+really beefy I had to heat them all in hot water to get then bend!
+
+Few pics to see if they look the part for you? I can look back in my
+
+thread here I think I listed the PS part number if I remember.
+
+[IMAGE: 100_0576.jpg]
+
+[IMAGE: 100_0585.jpg]
+
+[IMAGE: 100_0583.jpg]
+
+[IMAGE: 100_0573.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #33  (forum post #3335689)
+Author    : imaginager
+Date      : Jun 11, 2014 at 5:58 PM
+────────────────────────────────────────────────────────────────────────
+
+dsp5500 said:
+
+			If you mean the armature and engine then yep. Working on it now.
+
+Will also do the pilots and articulation also. The full Monty.
+
+View attachment 330755
+
+Click to expand...
+
+So...will you include all the mount points, as well? Your pulls are looking the business!
+────────────────────────────────────────────────────────────────────────
+Post #34  (forum post #3335765)
+Author    : dsp5500
+Date      : Jun 11, 2014 at 7:26 PM
+────────────────────────────────────────────────────────────────────────
+
+3d-builder said:
+
+			Here are the plastruct half rounds on mine....they are damn near close
+
+if not perfect not sure what they used? Maybe it was these they are
+
+really beefy I had to heat them all in hot water to get then bend!
+
+Few pics to see if they look the part for you? I can look back in my
+
+thread here I think I listed the PS part number if I remember.
+
+[/url][/URL]
+		
+
+Click to expand...
+
+Yer mate they look spot on. So just hot water and bend to shape? If you could find the part number that would be excellent.
+
+What material did you use for your pulls?
+
+Suburban Machine Company said:
+
+			So...will you include all the mount points, as well? Your pulls are looking the business!
+		
+
+Click to expand...
+
+Mount points for the armature? Then yes, I'll be aiming for this. Laser cut perspex with welded aluminium.
+
+[IMAGE: 111243-3e3e2b132c69752f9d44d48f406ebab8.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #35  (forum post #3336201)
+Author    : 3d-builder
+Date      : Jun 12, 2014 at 7:48 AM
+────────────────────────────────────────────────────────────────────────
+
+I looked through my thread I mentioned using the Plastruct, 
+
+but not the part #. I measured mine off the model last night
+
+they are just about 5mm in width. That should help you find
+
+them. I am pretty sure they were the biggest size they had in
+
+half round.
+
+I used HIPS for mine... I went thicker than 1.5mm but that should be
+
+fine with the armature you are going with.
+────────────────────────────────────────────────────────────────────────
+Post #36  (forum post #3336231)
+Author    : dsp5500
+Date      : Jun 12, 2014 at 8:14 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks mate, I'll be focusing on the engines after I get my pulls so handy
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+I was going to use HIPS as well.
+
+Now that my plugs are finalised I'll be aiming to get them done by the coming mid week.
+
+I don't know how many pulls the MDF plugs will last as it wasn't a concern as I was only going to pull a set for my self
+
+but if anyone is interested in building a Cloud Car then let me know before the weekends over as i may as well do some extra.
+
+Rob
+────────────────────────────────────────────────────────────────────────
+Post #37  (forum post #3336249)
+Author    : ralphee
+Date      : Jun 12, 2014 at 8:36 AM
+────────────────────────────────────────────────────────────────────────
+
+If the offer of an armature is on then id be tempted Rob.
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #38  (forum post #3336275)
+Author    : dsp5500
+Date      : Jun 12, 2014 at 8:55 AM
+────────────────────────────────────────────────────────────────────────
+
+Well Yeh, same deal as the pulls I guess. When it's time to machine the armature just make a couple more.
+────────────────────────────────────────────────────────────────────────
+Post #39  (forum post #3336299)
+Author    : 3d-builder
+Date      : Jun 12, 2014 at 9:15 AM
+────────────────────────────────────────────────────────────────────────
+
+If you are worried about the MDF  not holding up, form everything
+
+once and fill them with a tooling cement like Ultra Cal-30 then your golden!!!
+────────────────────────────────────────────────────────────────────────
+Post #40  (forum post #3336315)
+Author    : dsp5500
+Date      : Jun 12, 2014 at 9:26 AM
+────────────────────────────────────────────────────────────────────────
+
+I would if I was intending to do a lot of pulls but I only wanted a couple of sets for my self and now possibly a few more for other builders.
+
+I did look into it though as an option and found a few heat resistant resins specifically for making plugs one being TASK 18 and also a local product but I don't recall the name.
+
+Don't know may still do it for just the experience of doing it.
+
+I did use the highest grade 32mm MDF I could find and got the two layers laminated in a vacuum bag then sealed the plugs with a high temp sealer so they will be fine to pop out a few. 
+
+How long did you plugs last for the cloud car and the A-Wing for that matter?
+
+Rob
+────────────────────────────────────────────────────────────────────────
+Post #41  (forum post #3336814)
+Author    : 3d-builder
+Date      : Jun 12, 2014 at 5:57 PM
+────────────────────────────────────────────────────────────────────────
+
+dsp5500 said:
+
+			I would if I was intending to do a lot of pulls but I only wanted a couple of sets for my self and now possibly a few more for other builders.
+
+I did look into it though as an option and found a few heat resistant resins specifically for making plugs one being TASK 18 and also a local product but I don't recall the name.
+
+Don't know may still do it for just the experience of doing it.
+
+I did use the highest grade 32mm MDF I could find and got the two layers laminated in a vacuum bag then sealed the plugs with a high temp sealer so they will be fine to pop out a few. 
+
+How long did you plugs last for the cloud car and the A-Wing for that matter?
+
+Rob
+		
+
+Click to expand...
+
+Thats sounds pretty good Rob that should be plenty good enough
+
+to do more than a few, it's an easy shape to form also so they shouldn't
+
+take a beating.
+
+I build my Pod Car parts out of all Apoxie Sculpt they will be around
+
+forever.....LOL 
+
+[IMAGE: MVC-672S.jpg]
+
+The A-Wing the main hull I made out of wood (Pine).......I would  never do that again!
+
+But that was the 1st pattern I ever made, It really took a beating I had to rework
+
+it. I was thinking to re-do it, as it was always missing that curve that should be in
+
+there at the end of the rear deck. The you're slapping bondo on it and stuff which
+
+is never really happy when the plastic is 350 Deg! LOL And the grain of the pine was
+
+a issue also there were some tough spots in places to sand.
+
+[IMAGE: Mvc-852s.jpg]
+
+[IMAGE: Mvc-113s.jpg]
+
+[IMAGE: Mvc-163s.jpg]
+
+[IMAGE: Mvc-164s.jpg]
+
+You are using the MDF you you won't have an issue with grain,
+
+thats a plus. Hey if you just need one i wouldn't make yourself
+
+crazy about it, once you get it in plastic your ready to go.!:thumbsup
+
+Once you get it in plastic the game changes.....
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: Mvc-371s.jpg]
+
+Looking forward to watching you build both.....no more pics 
+
+I am done clogging up your thread. LOL
+────────────────────────────────────────────────────────────────────────
+Post #42  (forum post #3336823)
+Author    : sjanish
+Date      : Jun 12, 2014 at 6:01 PM
+────────────────────────────────────────────────────────────────────────
+
+I used Smooth-On Smooth Cast 305, regular polyurethane resin, for the AT-ST head.  I have lost count of how many pulls I have taken and the bucs are still in excellent shape.
+────────────────────────────────────────────────────────────────────────
+Post #43  (forum post #3336826)
+Author    : 3d-builder
+Date      : Jun 12, 2014 at 6:07 PM
+────────────────────────────────────────────────────────────────────────
+
+When I finish painting the Y-wing and the Geonosian I will start back
+
+on my A-Wing i have a pretty good start on it.
+────────────────────────────────────────────────────────────────────────
+Post #44  (forum post #3336954)
+Author    : dsp5500
+Date      : Jun 12, 2014 at 8:47 PM
+────────────────────────────────────────────────────────────────────────
+
+sjanish said:
+
+			I used Smooth-On Smooth Cast 305, regular polyurethane resin, for the AT-ST head.  I have lost count of how many pulls I have taken and the bucs are still in excellent shape.
+		
+
+Click to expand...
+
+I have one of your pulls for the AT-ST, You done a great job and saved me a lot of time on the build.
+
+3d-builder said:
+
+			When I finish painting the Y-wing and the Geonosian I will start back
+
+on my A-Wing i have a pretty good start on it.
+		
+
+Click to expand...
+
+The A-Wing is next on my list as well. Would be good to bang heads on the builds!
+────────────────────────────────────────────────────────────────────────
+Post #45  (forum post #3336997)
+Author    : imaginager
+Date      : Jun 12, 2014 at 10:12 PM
+Reactions : Like — Shadowknight
+────────────────────────────────────────────────────────────────────────
+
+Thought people might find this pic interesting...
+
+[IMAGE: 111572-451c1bdaf29f7b5c8a667f3c43111e64.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #46  (forum post #3337009)
+Author    : ralphee
+Date      : Jun 12, 2014 at 10:25 PM
+────────────────────────────────────────────────────────────────────────
+
+Yeah love that pic Allan, from the making of book? Nilo did awesome things, love his artwork!
+
+Lee
+────────────────────────────────────────────────────────────────────────
+Post #47  (forum post #3337019)
+Author    : dsp5500
+Date      : Jun 12, 2014 at 10:38 PM
+────────────────────────────────────────────────────────────────────────
+
+Suburban Machine Company said:
+
+			Thought people might find this pic interesting...
+
+View attachment 337816
+
+Click to expand...
+
+Its is a nice shot, Always like the cloud car's form and still remember having the cast metal toy as a kid.
+
+ralphee said:
+
+			Yeah love that pic Allan, from the making of book? Nilo did awesome things, love his artwork!
+
+Lee
+		
+
+Click to expand...
+
+I think I screen capped mine from the SAG DVD.
+
+Here's a couple more...
+
+Not sure but always though this shot was the canopy being sculpted?
+
+[IMAGE: 111578-a7a26875a1c7faffb19c4d133012b5bd.jpg]
+
+[IMAGE: 111580-2ac51c81d7b5787d2b8d0c94674b32ff.jpg]
+
+[IMAGE: 111579-52d5876343d4913c69505b197ac8af07.jpg]
+
+- - - Updated - - -
+
+Allen did you use mini neon tubes for your build? Do you remember what the total length they were?
+────────────────────────────────────────────────────────────────────────
+Post #48  (forum post #3337027)
+Author    : imaginager
+Date      : Jun 12, 2014 at 10:44 PM
+────────────────────────────────────────────────────────────────────────
+
+Yeah, 'Making of' book, Lee (btw, check your FB page). Anyhow, really shows the paint scheme. Wish I'd had it before I painted mine! 
+
+Rob, I believe they were 2" - let me see if I can find the link...ah, here it is:
+
+Flourescents
+────────────────────────────────────────────────────────────────────────
+Post #49  (forum post #3337036)
+Author    : dsp5500
+Date      : Jun 12, 2014 at 10:54 PM
+────────────────────────────────────────────────────────────────────────
+
+Thats the ones, Thanks.
+
+I'll order a set now.
+────────────────────────────────────────────────────────────────────────
+Post #50  (forum post #3337045)
+Author    : dsp5500
+Date      : Jun 12, 2014 at 11:14 PM
+────────────────────────────────────────────────────────────────────────
+
+That shot with Nilo really shows the half rounds are more flat on top of the engine shroud that down the sides, Or are my eyes playing trick on me?
+
+[IMAGE: 111591-f08ea5bcbbffe3a2e5aadeb17515ab1a.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #51  (forum post #3337055)
+Author    : 3d-builder
+Date      : Jun 12, 2014 at 11:23 PM
+Reactions : Like — ralphee
+────────────────────────────────────────────────────────────────────────
+
+Wow look at the slave......it's a hot mess in that pic! LOL
+
+That's the way these things get made though......there are
+
+times when things aren't pretty that's for sure!!! Those pics
+
+are always the best they show the reality of it all.....LOL:thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #52  (forum post #3337079)
+Author    : ralphee
+Date      : Jun 13, 2014 at 12:00 AM
+────────────────────────────────────────────────────────────────────────
+
+Allan ill go take a look buddy, good to see you here! Yeah that shot with Nilo really throws out some paint theories lol, its pretty dull and id say as first built? Rob i agree they do look more flattened, but thats a tricky call, cameras and all that, i think your drawing looks fantastic. Do agree with you on CC love, I've always loved this ship, was silly to sell off my last kit, but it just wasn't quite, right, and if i can bag a pull set and armature Rob, yeah, i think i can finally realise the model I've always wanted, top job!
+
+lee
+
+- - - Updated - - -
+
+dsp5500 said:
+
+			Its is a nice shot, Always like the cloud car's form and still remember having the cast metal toy as a kid.
+
+I think I screen capped mine from the SAG DVD.
+
+Here's a couple more...
+
+Not sure but always though this shot was the canopy being sculpted?
+
+View attachment 337822
+
+View attachment 337824View attachment 337823
+
+- - - Updated - - -
+
+Allen did you use mini neon tubes for your build? Do you remember what the total length they were?
+		
+
+Click to expand...
+
+Rob, that shot isn't the CC canopy buddy, looks like the ATAT butt to me, the enlarged Leichter hull?
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #53  (forum post #3337100)
+Author    : dsp5500
+Date      : Jun 13, 2014 at 12:28 AM
+────────────────────────────────────────────────────────────────────────
+
+Yeh Your right, Lots happening on that bench at the same time!
+────────────────────────────────────────────────────────────────────────
+Post #54  (forum post #3337232)
+Author    : moffeaton
+Date      : Jun 13, 2014 at 5:42 AM
+────────────────────────────────────────────────────────────────────────
+
+Pretty sure that's the butt end of an AT-AT?
+
+dsp5500 said:
+
+			Not sure but always though this shot was the canopy being sculpted?
+
+View attachment 337822
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #55  (forum post #3337237)
+Author    : dsp5500
+Date      : Jun 13, 2014 at 5:48 AM
+────────────────────────────────────────────────────────────────────────
+
+moffeaton said:
+
+			Pretty sure that's the butt end of an AT-AT?
+		
+
+Click to expand...
+
+I had Cloud Car on my mind :lol
+
+I'ts obvious to me now with hindsight that its from the large AT-AT :facepalm
+
+You down for a set of pulls Jason?
+────────────────────────────────────────────────────────────────────────
+Post #56  (forum post #3337246)
+Author    : moffeaton
+Date      : Jun 13, 2014 at 5:59 AM
+────────────────────────────────────────────────────────────────────────
+
+Sing it loud! "Whatever it is I think I see, becomes a Cloud Car canopy to me!"
+
+You know it!
+────────────────────────────────────────────────────────────────────────
+Post #57  (forum post #3337340)
+Author    : mslz22
+Date      : Jun 13, 2014 at 7:44 AM
+────────────────────────────────────────────────────────────────────────
+
+Likely the pyro at at,  familiar parts here,  and the size seems familiar to me too....
+
+moffeaton said:
+
+			Pretty sure that's the butt end of an AT-AT?
+		
+
+Click to expand...
+
+[IMAGE: CloudCarBuildILM_zps5e9bb920.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #58  (forum post #3337457)
+Author    : moffeaton
+Date      : Jun 13, 2014 at 9:36 AM
+────────────────────────────────────────────────────────────────────────
+
+I'd love the camera to pan right... are those other Slave 1 pulls?
+────────────────────────────────────────────────────────────────────────
+Post #59  (forum post #3337477)
+Author    : dsp5500
+Date      : Jun 13, 2014 at 9:58 AM
+────────────────────────────────────────────────────────────────────────
+
+One looks like it could be the plug for the base.
+
+Theres so much going on in this shot, be nice to get a closer look at the ATAT armatures in the background as well.
+────────────────────────────────────────────────────────────────────────
+Post #60  (forum post #3337870)
+Author    : sjanish
+Date      : Jun 13, 2014 at 5:45 PM
+────────────────────────────────────────────────────────────────────────
+
+dsp5500 said:
+
+			I have one of your pulls for the AT-ST, You done a great job and saved me a lot of time on the build.
+		
+
+Click to expand...
+
+Yeah, I've noticed in the background of a couple of you pictures.  You have done a nice job of flushing it out.  I would love to see more.
+
+BTW, shout out to Quincy, Allen, Lee, Julien, and Jason for that armature and the original drawings I based mine on.
+
+What temperature resistant sealer did you use?  I once tried to seal MDF for vac forming.  I read on several websites of things to use...it turned into a nightmare.  My resin bucks are uncoated and release easily.
+
+[IMAGE: DSC04894a_zps363a64f3.jpg]
+
+.
+────────────────────────────────────────────────────────────────────────
+Post #61  (forum post #3337882)
+Author    : imaginager
+Date      : Jun 13, 2014 at 6:01 PM
+────────────────────────────────────────────────────────────────────────
+
+All my bucks are Hydracal. A dusting of talcum can alleviate release problems.
+
+Scott, silly question: why so many bucks? Are they all for the AT-ST?
+────────────────────────────────────────────────────────────────────────
+Post #62  (forum post #3337969)
+Author    : dsp5500
+Date      : Jun 13, 2014 at 8:57 PM
+────────────────────────────────────────────────────────────────────────
+
+sjanish said:
+
+			What temperature resistant sealer did you use?  I once tried to seal MDF for vac forming.  I read on several websites of things to use...it turned into a nightmare.  My resin bucks are uncoated and release easily.
+		
+
+Click to expand...
+
+My mates a painter and he had some industrial high temp concrete sealer, so I took a chance and used some. Its very milky and 99% of it just seeps into the MDF so it doesn't behave like a primer that adheres to the surface. This really just helps with sanding the MDF to get a smooth slightly glossy surface. Two test pulls and they popped out with out sticking or pulling any of the MDF apart So I guess its OK for a limited run. The end result looks like white tinted MDF.
+
+Rob
+────────────────────────────────────────────────────────────────────────
+Post #63  (forum post #3337998)
+Author    : KrokoHunter
+Date      : Jun 13, 2014 at 10:17 PM
+────────────────────────────────────────────────────────────────────────
+
+Count me in for a set of pulls and (hopefully) armature (if the price is not to steep. A bit flat right now, since we're doing a 50k$ refurbishment of our basement)
+────────────────────────────────────────────────────────────────────────
+Post #64  (forum post #3338004)
+Author    : Talkierg
+Date      : Jun 13, 2014 at 10:21 PM
+────────────────────────────────────────────────────────────────────────
+
+If there's a run of the pull,Im in for a set Rob,w the armature if possible
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Don
+────────────────────────────────────────────────────────────────────────
+Post #65  (forum post #3338252)
+Author    : sjanish
+Date      : Jun 14, 2014 at 8:24 AM
+────────────────────────────────────────────────────────────────────────
+
+Suburban Machine Company said:
+
+			All my bucks are Hydracal. A dusting of talcum can alleviate release problems.
+
+Scott, silly question: why so many bucks? Are they all for the AT-ST?
+		
+
+Click to expand...
+
+Yes, all for the AT-ST:  main head halves, ears, top plate.  There are a couple of reasons.  One is the size of my vac rig... it was built for something else and worked great, I didn't want to build another.   It was too small to do both main halves at one time, but one half and the smaller ear buck works great.  In hindsight it doesn't matter much because the bucks have held up well, but it was the first time I tried the resin and didn't know how it would hold up if I needed 4 pulls to make one head.  I didn't know if I would get even enough for all of the hacking/mistakes that I figured I would make.
+
+The other one forms a .08 sheet to make the top plate.  With the sheet curved to the shape of the head top it is much easier to attach.  It still takes some time and taping, but I wouldn't want to even try forcing a flat .08 sheet to that curve.  I was also worried that the flat sheet could deform the thinner plastic of the main head.  I don't vac this one.  I just heat the sheet in the oven and hold it over the buck until it cools.  Works great. 
+
+An interesting note about the top buck.  It was made with old, moisture filled resin that foamed horribly.  I almost threw out.  Maybe this is common knowledge, but I decided to do an experiment.  I had just gotten my vac pump and played around sucking the carbonation out of a Coke.  Why not moisture out of the resin? All of the HVAC websites talk about "boiling" moisture out of air condition lines under vacuum. I vaced part A, then part B, and then mixed as normal.   It worked great!   I still had a small bit of foaming, but all of it rose to the surface which is the bottom of the buck.
+────────────────────────────────────────────────────────────────────────
+Post #66  (forum post #3345623)
+Author    : dsp5500
+Date      : Jun 22, 2014 at 9:31 PM
+────────────────────────────────────────────────────────────────────────
+
+Finally can move on from the Body pulls onto the armature.
+
+Done a set of test pulls in 1.5mm HIPS and they turned out fine :thumbsup
+
+[IMAGE: 114310-a2a26748f20cf6281136468851c8d640.jpg]
+
+[IMAGE: 114311-7a68fe1ddf704fca2a06bca1b7e78f9e.jpg]
+
+[IMAGE: 114312-a86b7e6dde7f14bf12c76eb6513d9a97.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #67  (forum post #3345749)
+Author    : DaddyfromNaboo
+Date      : Jun 23, 2014 at 3:32 AM
+────────────────────────────────────────────────────────────────────────
+
+dsp5500 said:
+
+			Finally can move on from the Body pulls onto the armature.
+
+Done a set of test pulls in 1.5mm HIPS and they turned out fine :thumbsup
+
+...
+		
+
+Click to expand...
+
+Those are looking really great! And so damn clean :eek
+────────────────────────────────────────────────────────────────────────
+Post #68  (forum post #3345864)
+Author    : Talkierg
+Date      : Jun 23, 2014 at 6:42 AM
+────────────────────────────────────────────────────────────────────────
+
+Those pulls looks really great,clean and smooth:thumbsup
+
+Don
+────────────────────────────────────────────────────────────────────────
+Post #69  (forum post #3346482)
+Author    : 3d-builder
+Date      : Jun 23, 2014 at 9:39 PM
+────────────────────────────────────────────────────────────────────────
+
+hey those shoes make a nice pod-car great job! LOL
+────────────────────────────────────────────────────────────────────────
+Post #70  (forum post #3346545)
+Author    : dsp5500
+Date      : Jun 23, 2014 at 11:09 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks Guys,
+
+3d-builder said:
+
+			hey those shoes make a nice pod-car great job! LOL
+		
+
+Click to expand...
+
+You may be onto something there! Want to invest in some vac form sandals?
+
+I need some confirmation regarding the articulation of the pilot.
+
+were both pilots articulated? and was it only the head or the arm as well?
+
+Rob
+────────────────────────────────────────────────────────────────────────
+Post #71  (forum post #3347384)
+Author    : dsp5500
+Date      : Jun 24, 2014 at 11:11 PM
+────────────────────────────────────────────────────────────────────────
+
+This stage is out of the way!
+
+[IMAGE: 114883-135d9b4e3090f114ead661da737d3b29.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #72  (forum post #3347386)
+Author    : el loco
+Date      : Jun 24, 2014 at 11:14 PM
+────────────────────────────────────────────────────────────────────────
+
+Great !
+────────────────────────────────────────────────────────────────────────
+Post #73  (forum post #3347400)
+Author    : DaddyfromNaboo
+Date      : Jun 25, 2014 at 12:21 AM
+────────────────────────────────────────────────────────────────────────
+
+That´s a whole fleet of Cloud cars!
+────────────────────────────────────────────────────────────────────────
+Post #74  (forum post #3347498)
+Author    : moffeaton
+Date      : Jun 25, 2014 at 5:14 AM
+────────────────────────────────────────────────────────────────────────
+
+Awesome 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #75  (forum post #3347711)
+Author    : Shadowknight
+Date      : Jun 25, 2014 at 9:30 AM
+────────────────────────────────────────────────────────────────────────
+
+Those look great!
+────────────────────────────────────────────────────────────────────────
+Post #76  (forum post #3348143)
+Author    : 3d-builder
+Date      : Jun 25, 2014 at 5:49 PM
+────────────────────────────────────────────────────────────────────────
+
+dsp5500 said:
+
+			This stage is out of the way!
+
+View attachment 342080
+
+Click to expand...
+
+Rob looks like your bucks were tough enough!! :thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #77  (forum post #3348266)
+Author    : dsp5500
+Date      : Jun 25, 2014 at 8:26 PM
+────────────────────────────────────────────────────────────────────────
+
+el loco said:
+
+			Great !
+		
+
+Click to expand...
+
+DaddyfromNaboo said:
+
+			That´s a whole fleet of Cloud cars!
+		
+
+Click to expand...
+
+moffeaton said:
+
+			Awesome 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+Shadowknight said:
+
+			Those look great!
+		
+
+Click to expand...
+
+Thanks 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+3d-builder said:
+
+			Rob looks like your bucks were tough enough!! :thumbsup
+		
+
+Click to expand...
+
+Yer not a scratch on em, For limited runs MDF is more than adequate.
+────────────────────────────────────────────────────────────────────────
+Post #78  (forum post #3356808)
+Author    : dsp5500
+Date      : Jul 5, 2014 at 10:42 AM
+Reactions : Like — 3d-builder
+────────────────────────────────────────────────────────────────────────
+
+Ok so armature and engine update.
+
+The armature is more or less ready for machining, I'll see how i go getting these off next week.
+
+From what i can gather the engine cover, every thing in the grey blue colour looks to be vac formed.
+
+So i'll have to mill the plugs and do some tests, But I'm pretty sure there vac formed.
+
+Im toying with the idea of getting some neon tubes made for the engines. I haven't a clue
+
+what they would cost but if there reasonable i'll go for it. IF not then the cold cathode will Suffice.  
+
+Any one help with rear shots of the engine area?
+
+Rob
+
+[IMAGE: 117553-ee1cc3f5de0a6c0ade08f2391d8afb3b.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #79  (forum post #3357113)
+Author    : Talkierg
+Date      : Jul 5, 2014 at 7:37 PM
+────────────────────────────────────────────────────────────────────────
+
+Great update Rob,glad to hear it'll be ready for machining soon,it'll be killer for sure:thumbsup
+
+Don
+────────────────────────────────────────────────────────────────────────
+Post #80  (forum post #3357122)
+Author    : moffeaton
+Date      : Jul 5, 2014 at 7:44 PM
+Reactions : Like — EddieL
+────────────────────────────────────────────────────────────────────────
+
+[IMAGE: 117688-f2cf6b704a53f7972a51782d66e7bf80.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #81  (forum post #3362542)
+Author    : Stormy320
+Date      : Jul 11, 2014 at 10:45 PM
+────────────────────────────────────────────────────────────────────────
+
+Looks great!
+────────────────────────────────────────────────────────────────────────
+Post #82  (forum post #3379178)
+Author    : dsp5500
+Date      : Jul 29, 2014 at 9:22 PM
+────────────────────────────────────────────────────────────────────────
+
+Stormy320 said:
+
+			Looks great!
+		
+
+Click to expand...
+
+Thanks Stormy320.
+
+Well today we start making swarf!
+
+Here's a preview.....
+
+Rob
+
+[IMAGE: 124679-f04b92ab2d6b132df213cd280e0fef6c.jpg]
+
+[IMAGE: 124678-5b8ddd50fbee38fba32918e61796616d.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #83  (forum post #3381393)
+Author    : dsp5500
+Date      : Aug 1, 2014 at 2:10 AM
+Reactions : Like — Shadowknight
+────────────────────────────────────────────────────────────────────────
+
+More Armature progress.
+
+Just the straight cuts left and the main plate's done. Then the cockpit standoff's, mount and tubes to be welded :thumbsup
+
+Rob
+
+[IMAGE: 125493-e6006002831e62927c0b0ed392ac99b8.jpg]
+
+[IMAGE: 125492-c7ac53b663641a6ab8d3b323664715b7.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #84  (forum post #3381396)
+Author    : Talkierg
+Date      : Aug 1, 2014 at 2:21 AM
+────────────────────────────────────────────────────────────────────────
+
+Armature looks really really great there Rob:thumbsup
+
+Don
+────────────────────────────────────────────────────────────────────────
+Post #85  (forum post #3381537)
+Author    : moffeaton
+Date      : Aug 1, 2014 at 7:51 AM
+────────────────────────────────────────────────────────────────────────
+
+Ohhh mama!
+────────────────────────────────────────────────────────────────────────
+Post #86  (forum post #3381542)
+Author    : el loco
+Date      : Aug 1, 2014 at 8:02 AM
+────────────────────────────────────────────────────────────────────────
+
+Wow !
+
+Great Job
+────────────────────────────────────────────────────────────────────────
+Post #87  (forum post #3381994)
+Author    : mbmcfarland
+Date      : Aug 1, 2014 at 5:31 PM
+────────────────────────────────────────────────────────────────────────
+
+Verrry nice!
+
+Sent from my XT907 using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #88  (forum post #3388611)
+Author    : dsp5500
+Date      : Aug 8, 2014 at 2:10 AM
+────────────────────────────────────────────────────────────────────────
+
+Thank's Guys, 
+
+Well the armature's are done and if i do say so myself are fairly close to the originals, Warts and all.
+
+[IMAGE: 128226-2566f1aa8bff4cca07bf8089293c8b39.jpg]
+
+[IMAGE: 128225-1f3125fda26cf694702dc2f4e8a6b958.jpg]
+
+[IMAGE: 128224-db6c5c90ce7cdb11687aedcf65a8870b.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #89  (forum post #3388717)
+Author    : Talkierg
+Date      : Aug 8, 2014 at 4:44 AM
+────────────────────────────────────────────────────────────────────────
+
+Armature looks killer Rob:thumbsupyes the closest to the original Ive seen,cant wait to see the assembled armature.
+
+Seems youre not only made 1 armature,whose the others? LOL~
+
+Don
+────────────────────────────────────────────────────────────────────────
+Post #90  (forum post #3388818)
+Author    : dsp5500
+Date      : Aug 8, 2014 at 7:09 AM
+────────────────────────────────────────────────────────────────────────
+
+There spares incase i bend one 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #91  (forum post #3391466)
+Author    : sjanish
+Date      : Aug 10, 2014 at 5:38 PM
+────────────────────────────────────────────────────────────────────────
+
+That is some nice looking swarf!
+────────────────────────────────────────────────────────────────────────
+Post #92  (forum post #3391751)
+Author    : dsp5500
+Date      : Aug 10, 2014 at 11:41 PM
+Reactions : Like — acesh007, EddieL
+────────────────────────────────────────────────────────────────────────
+
+Looking a lot better now it's assembled :thumbsup
+
+[IMAGE: 129222-9c0e42039af30563f6171bd4991bb247.jpg]
+
+[IMAGE: 129223-43c97c1304e317f9a3074d454582448c.jpg]
+
+[IMAGE: 129224-93b9317b1eb3ec7d7ad28807ecf69f8f.jpg]
+
+[IMAGE: 129225-040eebb7ffb9b021c4f903df48dfe3f9.jpg]
+
+[IMAGE: 129226-ca3a7c4b141886c26362c0b49f008333.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #93  (forum post #3391803)
+Author    : Talkierg
+Date      : Aug 11, 2014 at 1:40 AM
+────────────────────────────────────────────────────────────────────────
+
+Armature looks great assembled Rob,love it,can't wait to see more progress on this:thumbsup
+
+Don
+────────────────────────────────────────────────────────────────────────
+Post #94  (forum post #3392083)
+Author    : moffeaton
+Date      : Aug 11, 2014 at 8:09 AM
+Reactions : Like — mbmcfarland, struschie
+────────────────────────────────────────────────────────────────────────
+
+It truly belongs with us up here in the clouds...
+────────────────────────────────────────────────────────────────────────
+Post #95  (forum post #3409760)
+Author    : dsp5500
+Date      : Aug 26, 2014 at 11:33 PM
+Reactions : Like — mbmcfarland, struschie, Talkierg
+────────────────────────────────────────────────────────────────────────
+
+The Acrylic's cut and fitted to the armature. Just need to machine some acrylic rod and attach the bottom fuselage.
+
+The engines half way done, should be another week and I'll have that attached.
+
+Rob
+
+[IMAGE: 134788-4da0223262d9dbde6e5bab4c1a027271.jpg]
+
+[IMAGE: 134787-3b5a749e7a73305dd28b27f1eebbcf5d.jpg]
+
+[IMAGE: 134786-7bd867cea3f5e320e998942d916a6798.jpg]
+
+[IMAGE: 134785-991a9d78924e98532bd88a774b389721.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #96  (forum post #3411851)
+Author    : 3d-builder
+Date      : Aug 28, 2014 at 6:57 PM
+────────────────────────────────────────────────────────────────────────
+
+:thumbsup Nice!
+────────────────────────────────────────────────────────────────────────
+Post #97  (forum post #3412029)
+Author    : Stormy320
+Date      : Aug 28, 2014 at 11:48 PM
+────────────────────────────────────────────────────────────────────────
+
+I want this
+────────────────────────────────────────────────────────────────────────
+Post #98  (forum post #3424772)
+Author    : dsp5500
+Date      : Sep 10, 2014 at 3:41 AM
+Reactions : Like — Lee S
+────────────────────────────────────────────────────────────────────────
+
+Cheers Guys :thumbsup
+
+Little more progress on the engine. 
+
+This is the engine more or less done minus the vac formed cover, the two semi circles on the rear and the mount point covers.
+
+Have to start looking into the possibility of using custom made neon for the business end!
+
+[IMAGE: 139532-1303592c68cc374a674d132b8d9be22d.jpg]
+
+[IMAGE: 139533-954d0c1362d99ddd3071e29b02358d85.jpg]
+
+[IMAGE: 139531-c168bd8760aef00b45875f2d04256ebc.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #99  (forum post #3424835)
+Author    : moffeaton
+Date      : Sep 10, 2014 at 6:10 AM
+────────────────────────────────────────────────────────────────────────
+
+Awesome!
+────────────────────────────────────────────────────────────────────────
+Post #100  (forum post #3425645)
+Author    : el loco
+Date      : Sep 10, 2014 at 9:25 PM
+────────────────────────────────────────────────────────────────────────
+
+Wow :thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #101  (forum post #3426367)
+Author    : GF
+Date      : Sep 11, 2014 at 2:41 PM
+────────────────────────────────────────────────────────────────────────
+
+FANTASTIC!!!!!
+────────────────────────────────────────────────────────────────────────
+Post #102  (forum post #3426537)
+Author    : joberg
+Date      : Sep 11, 2014 at 5:40 PM
+────────────────────────────────────────────────────────────────────────
+
+Is this gonna fly, 'cause you're building that Cloud Car the right way!!:cool
+────────────────────────────────────────────────────────────────────────
+Post #103  (forum post #3426583)
+Author    : mbmcfarland
+Date      : Sep 11, 2014 at 6:21 PM
+────────────────────────────────────────────────────────────────────────
+
+Outstanding work! It's nice to see the cloud car (one of my favorite vehicles) getting the kind of "all-star" treatment normally reserved for the fighters.
+────────────────────────────────────────────────────────────────────────
+Post #104  (forum post #3428647)
+Author    : dsp5500
+Date      : Sep 14, 2014 at 1:49 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks for the positive comments Guy's 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Small update today.....
+
+Spent the afternoon milling the plugs for engine cover.
+
+Need to order some sheets then will vac form them on my mates custom vac former.
+
+He built a really cool former, I'll post shots when were done.
+
+Rob
+
+[IMAGE: 140575-56b1595f73470421b7a1dc179666b3b7.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #105  (forum post #3431332)
+Author    : joberg
+Date      : Sep 16, 2014 at 6:00 PM
+────────────────────────────────────────────────────────────────────────
+
+Clean plugs = clean pulls:cool
+────────────────────────────────────────────────────────────────────────
+Post #106  (forum post #3431908)
+Author    : dsp5500
+Date      : Sep 17, 2014 at 9:47 AM
+────────────────────────────────────────────────────────────────────────
+
+joberg said:
+
+			Clean plugs = clean pulls:cool
+		
+
+Click to expand...
+
+Well thats the plan at least.
+────────────────────────────────────────────────────────────────────────
+Post #107  (forum post #3530744)
+Author    : dsp5500
+Date      : Jan 8, 2015 at 3:14 AM
+Reactions : Like — Shadowknight, Talkierg, moffeaton
+────────────────────────────────────────────────────────────────────────
+
+Nice to have a little break from virtual modelling to practical work!
+
+Test fit of the engine parts. Just need to tidy up a bit and glue the parts down.
+
+[IMAGE: 175547-eef70993296eafc9e40bde94dcf42ba5.jpg]
+
+[IMAGE: 175545-09d73c1c8315279bfd559740a10d4b87.jpg]
+
+[IMAGE: 175546-b1608876484b299c680288fa5d2d1b8e.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #108  (forum post #3530753)
+Author    : Talkierg
+Date      : Jan 8, 2015 at 3:48 AM
+────────────────────────────────────────────────────────────────────────
+
+Looks fit perfectly Rob:thumbsup
+
+Don
+────────────────────────────────────────────────────────────────────────
+Post #109  (forum post #3530760)
+Author    : Guy Cowen
+Date      : Jan 8, 2015 at 4:17 AM
+────────────────────────────────────────────────────────────────────────
+
+Looks awesome mate
+────────────────────────────────────────────────────────────────────────
+Post #110  (forum post #3530825)
+Author    : imaginager
+Date      : Jan 8, 2015 at 6:03 AM
+────────────────────────────────────────────────────────────────────────
+
+Now, that's a Cloud Car engine wing! Excellent!
+────────────────────────────────────────────────────────────────────────
+Post #111  (forum post #3530829)
+Author    : dsp5500
+Date      : Jan 8, 2015 at 6:13 AM
+Reactions : Like — moffeaton
+────────────────────────────────────────────────────────────────────────
+
+Cheers Guys 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Just a bit off topic but what a cool trophy! Its for best of CES but wouldn't be out of place used for Star Wars models.
+
+[IMAGE: 175559-7cea1094e13a493d510e23dfe74381f9.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #112  (forum post #3533143)
+Author    : joberg
+Date      : Jan 10, 2015 at 6:45 PM
+────────────────────────────────────────────────────────────────────────
+
+Look at that engine: beautifully made
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #113  (forum post #3535090)
+Author    : dsp5500
+Date      : Jan 12, 2015 at 11:30 PM
+Reactions : Like — DaddyfromNaboo
+────────────────────────────────────────────────────────────────────────
+
+Meet Tim, the new Cloud Car Pilot sculpt.
+
+[IMAGE: 177095-338f01a3c47e28101f756f6746c140e5.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #114  (forum post #3535168)
+Author    : Talkierg
+Date      : Jan 13, 2015 at 2:59 AM
+────────────────────────────────────────────────────────────────────────
+
+Exciting!
+
+Don
+────────────────────────────────────────────────────────────────────────
+Post #115  (forum post #3636066)
+Author    : dsp5500
+Date      : May 5, 2015 at 3:30 AM
+Reactions : Like — maxhebus, moffeaton
+────────────────────────────────────────────────────────────────────────
+
+Small Update on the Cloud car, Installed the bottom risers and acrylic plate for the base of the bottom pulls.
+
+Now I can start to clamp the two half together.
+
+Rob
+
+[IMAGE: 212484-3da61a40fe178ed692665bc4ead1e104.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #116  (forum post #3637829)
+Author    : bobatrooper
+Date      : May 6, 2015 at 1:23 PM
+────────────────────────────────────────────────────────────────────────
+
+That's looking really sweet, I'm about to start my first build the Probe pods, not something ive tried before but getting good advise from a few friends on here and I would like to say thanks to them Phil, Ralphee and Niels. Hope I can do this build as good as you guys but if I get anywhere near what you guys can do I will be more than happy.
+────────────────────────────────────────────────────────────────────────
+Post #117  (forum post #3638204)
+Author    : dsp5500
+Date      : May 6, 2015 at 8:08 PM
+────────────────────────────────────────────────────────────────────────
+
+bobatrooper said:
+
+			That's looking really sweet, I'm about to start my first build the Probe pods, not something ive tried before but getting good advise from a few friends on here and I would like to say thanks to them Phil, Ralphee and Niels. Hope I can do this build as good as you guys but if I get anywhere near what you guys can do I will be more than happy.
+		
+
+Click to expand...
+
+Good stuff, Make sure you post your progress 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #118  (forum post #4358706)
+Author    : CessnaDriver
+Date      : Nov 26, 2017 at 6:29 PM
+────────────────────────────────────────────────────────────────────────
+
+[IMAGE: 438345-73790387c7d6e4a034833ae36c689ca7.jpg]
+
+I wonder if they picked the color because of you know what.
+────────────────────────────────────────────────────────────────────────
+Post #119  (forum post #4423301)
+Author    : dsp5500
+Date      : Mar 7, 2018 at 11:47 PM
+Reactions : Like — TerranCmdr, moffeaton, mofo77
+────────────────────────────────────────────────────────────────────────
+
+Making a dent in the Cloud Car, Added a second pull over the body for the plating.
+
+[IMAGE: 456770-0a9d911e01f075814ccf1b046cc4a5ea.jpg]
+
+[IMAGE: 456771-93904bdccdcd7da04f67a066bf9e3a57.jpg]
+
+[IMAGE: 456772-2d6af1b54b405e5aa84f6ce6afff7e64.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #120  (forum post #4423629)
+Author    : mofo77
+Date      : Mar 8, 2018 at 1:47 PM
+────────────────────────────────────────────────────────────────────────
+
+fantastic:thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #121  (forum post #4483703)
+Author    : shaunsheep
+Date      : Jun 22, 2018 at 10:44 PM
+────────────────────────────────────────────────────────────────────────
+
+bumpty bump
+────────────────────────────────────────────────────────────────────────
+Post #122  (forum post #4484312)
+Author    : joberg
+Date      : Jun 24, 2018 at 12:59 PM
+────────────────────────────────────────────────────────────────────────
+
+Yep, eager to see the rest of that wonderful build!
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 122

@@ -1,0 +1,112 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : MR Falcon plug direct to wall
+URL    : https://www.therpf.com/forums/threads/mr-falcon-plug-direct-to-wall.115979/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #1679828)
+Author    : eegah
+Date      : May 15, 2011 at 4:18 PM
+────────────────────────────────────────────────────────────────────────
+
+Hi all,
+
+Can anyone tell me what kind of power cord/connection to use to connect the Falcon directly to a wall outlet?
+
+I have mine on a display stand and would like to connect it directly to the wall to power the lights.
+
+I searched but didn't see anything about a direct connection to the wall, just to a battery pack.
+
+I'd also like to do the same with my EFX X-wing.
+
+Thanks, Tom
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #1680108)
+Author    : TazMan2000
+Date      : May 15, 2011 at 8:27 PM
+────────────────────────────────────────────────────────────────────────
+
+Try searching an electronics supplier for an AC to DC converter.
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #1680414)
+Author    : crackerjazz
+Date      : May 16, 2011 at 4:58 AM
+────────────────────────────────────────────────────────────────────────
+
+Here's one thread for the voltage and amperage you need
+
+http://www.therpf.com/f10/mr-falcon-plug-help-115380/
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #1683718)
+Author    : Jedi Dade
+Date      : May 18, 2011 at 11:12 AM
+────────────────────────────────────────────────────────────────────────
+
+It should have come with a plug...???  I guess I'm not understanding what you're asking for?
+
+The Falcon has an "audio jack" built into the post that it rests on.  That is wired to the connecter in the base - the wall adapater plugs into the wall and the base.  to power the Falcon you'd need to recreate something akin to the post that it rests on and wire that to the plug that goes into the base... or find anotther AC/DC converter of the same specifications and do the same thing...  the specc are written on the adapater and IIRC its a fairly common conversion.
+
+I have a eFX red5 but don't remember exactly how its connected but my memory tells me its the same way except that the xwing used a honest to goodness electrical connector instead of the audio Jack setup, but its the same type of process...  find the conversion specs get an adapater that is the same and rig the mount and electrical connections.  
+
+Jedi Dade
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #1684676)
+Author    : eegah
+Date      : May 19, 2011 at 5:59 AM
+────────────────────────────────────────────────────────────────────────
+
+I have my Falcon displayed on a speaker stand. So, what I'd like to do is connect the Falcon directly to a wall outlet and power it without using the base at all.
+
+So, I need to get a cord that would recreate the atachment on the base and plug into the wall. 
+
+I have zero experience with this and could really use the "dummies" version of what to get! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Thanks!
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #1684796)
+Author    : Montagar
+Date      : May 19, 2011 at 7:53 AM
+────────────────────────────────────────────────────────────────────────
+
+To do this we need to establish what you have or don't have.
+
+Do you have the power cord that goes from the base to the wall outlet?
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #1684990)
+Author    : eegah
+Date      : May 19, 2011 at 10:14 AM
+────────────────────────────────────────────────────────────────────────
+
+Yes, I have everything that it came with. 
+
+What I'd like is to connect the Falcon directly to the wall outlet bypassing the base alltogether.
+
+I was told to get a phone plug 1/4" and to connect that to the power cord and then into the Falcon?
+
+Sorry for the confusion!
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #1685012)
+Author    : Montagar
+Date      : May 19, 2011 at 10:26 AM
+────────────────────────────────────────────────────────────────────────
+
+eegah said:
+
+			Yes, I have everything that it came with. 
+
+What I'd like is to connect the Falcon directly to the wall outlet bypassing the base alltogether.
+
+I was told to get a phone plug 1/4" and to connect that to the power cord and then into the Falcon?
+
+Sorry for the confusion!
+		
+
+Click to expand...
+
+Yes, that is exactly what you need to do.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 8

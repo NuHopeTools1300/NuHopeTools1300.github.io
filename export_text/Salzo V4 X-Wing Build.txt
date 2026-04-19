@@ -1,0 +1,536 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Salzo V4 X-Wing Build
+URL    : https://www.therpf.com/forums/threads/salzo-v4-x-wing-build.234014/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #3563092)
+Author    : usaeatt2
+Date      : Feb 13, 2015 at 12:31 AM
+Reactions : Like — scottjua
+────────────────────────────────────────────────────────────────────────
+
+Hello all, I decided to start my own build thread instead of continuously hijacking Mike's Official V4 Info thread.
+
+Progress will be slow since I'm working on other projects and X-wing research occupies about 3/4 of my build time right now.
+
+This is my first X-wing AND my first resin kit, so I suspect this will be more of a learning experience than anything else.
+
+My hope is to complete a nice looking Red 5 with functional wings and fiber optic lighting that I can pose on an armature and admire.
+
+I've read many of the X-wing threads on the RPF and other modeling sites and collected a great deal of reference material.
+
+Thanks to all the veteran builders for sharing your knowledge and pictures!
+
+With all the research, I'm beginning to understand the phrase "X-wing nutter" with regards to paint color debates, photographic perspective and minutia detail.
+
+I'd like my build to be as screen accurate as possible without sacrificing fun in the process.
+
+I'll likely be making mistakes, so comments and advice are welcome.
+
+Here goes!  First, I unboxed and laid out all the V4 parts.   Staring at the contents, I have to wonder if I'm in over my head?
+
+I count 146 parts (including landing gear).  Since I've never built a resin kit, I can't make any comparisons, but my understanding is this is a very nice kit.
+
+The details are crisp and the resin is nice.  Air bubbles are virtually non-existent.  I usually work with metal, but I'm finding resin is a lot more relaxing.
+
+[IMAGE: 4CC5B247-B6AF-4DB8-A3BF-9E5853FB1965_zpsviytron6.jpg]
+
+Beyond the kit, I've been collecting building materials and asking questions.  I decided a good way to get more comfortable with this project was to start by removing the flashing from all the pieces.  By starting here, I figure I can get familiar with all the parts and maybe the build will seem less daunting.  For the most part, it's obvious where flashing needs to be removed.  I learned flashing can be removed with nail clippers (I wouldn't have thought of that on my own!).  I've also used an exacto knife, needle files and fine sandpaper.  Some parts are molded on thick bases.  I was advised to use a razor saw, but I feared cutting into the part.  Instead, I used a small pair of diagonal cutters to nip away at the resin "bases" until close to the part, then used a benchtop belt sander with a 120 grit belt to CAREFULLY sand each part to the correct shape and thickness.  Then I cleaned up any remaining flashing and finish sanded each part with 400 to 1000 grit sandpaper.  Here's an example:
+
+"Bases" on engine exhaust details (next to a US nickle for size reference).
+
+[IMAGE: 2D78314A-15F1-4EC1-9D22-14E14CD56716_zpsxbressmn.jpg]
+
+In the process of nipping and sanding. 
+
+[IMAGE: 37C44637-A02E-4A46-8DEB-ABE5DAB8AAF2_zpsj9gd8gug.jpg]
+
+Completed part next to an untouched kit part.
+
+[IMAGE: aed77bb3-e57b-4cd9-8a4a-3ed556e94397_zpsc316f519.jpg]
+
+To keep my V4 build going, I decided to work on one part each night.  Towards the end of the day, I clean up other projects, choose a V4 part, look through reference material and do any required detailing.  I don't feel like I'm ready to glue anything yet, but figured I could start piecing together smaller assemblies.  The engines/cans/intakes seem a little complicated, so I decided to start with the laser cannons.  The V4 lasers are a nice resin/brass hybrid, but after reading about how the originals were built, I wanted to have a go at making brass lasers.  If it doesn't work out, I can always go back to the V4 pieces.  I bought 3 foot pieces of all the required brass tubing for about $40.  I also want to try a little experiment with making the C-shape "flashback suppressors" from brass tubing and silver soldering them to the tube before attaching resin parts.
+
+The C-shapes near the tips of the lasers seem like a fairly prominent feature for an X-wing, so I'd like them to be as consistent as possible with regards to thickness and shape.  With some reference measurements, I made two prototype brass flash suppressors from a piece of 7/8" brass tubing (0.875" OD x  0.065" wall).  To do this, I cut a ring about 1/4" wide, then sliced that in half to make two C-shapes.  Then I drilled a 3/32 hole in the part and deburred everything.  I sanded the edges until the width was very close to the V4 parts.  Here's the V4 C-shapes along with my brass replicas.
+
+[IMAGE: E3738478-D20F-47F2-B8E6-9B16F1C28523_zpsro0066wh.jpg]
+
+Next up are the brass tubes for the lasers.  I fitted all the telescoping tubes together, then mocked them up with resin parts to see what they look like.
+
+[IMAGE: DB1FACF7-68D0-4A48-AF63-8F97444639FD_zpszrjrpbct.jpg]
+
+I could just make the lengths the same as the V4 parts, but I also need to know how far to insert them into the cannon bodies.
+
+I have a brass tubing reference I found in an older build thread (thank you to whoever posted this!).
+
+[IMAGE: gunmeasure_zps02478fe1.jpg]
+
+Beyond the tubing reference, I scaled several cannon body pictures to match the size of the V4 cannon bodies, pasted them into a single drawing and took measurements.  There's a bit of variation, but that might be caused by focal length of the pictures or photographic perspective.  I figure I might be able to average the variations together and come pretty close to the actual measurement.  So far, most measurements are also close to the tubing reference.  Hopefully, this doesn't mean I'm becoming a nutter...
+
+Maybe the laser tubing length varied a little between all the X-wings?  Does anyone have accurate measurements for a Red 5?
+
+Once I'm satisfied that I've given the measurements due diligence and the lasers are the correct length, I'll set the tubing and silver solder the pieces together near the inner ends to prevent movement.
+
+[IMAGE: LaserCannonDimensionscopy_zps48bb68f2.jpg]
+
+Thanks for reading!  I'll post more updates as I get further into this!  Aaron
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #3563108)
+Author    : Avanaut
+Date      : Feb 13, 2015 at 1:46 AM
+────────────────────────────────────────────────────────────────────────
+
+Brass flash suppressors, they look sharp. Hmm, I may have to steal that from you as it is one of the last remaining details to be built on my V4. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+
+Subscribed.
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #3566847)
+Author    : usaeatt2
+Date      : Feb 17, 2015 at 7:07 PM
+────────────────────────────────────────────────────────────────────────
+
+Avanaut said:
+
+			Brass flash suppressors, they look sharp. Hmm, I may have to steal that from you as it is one of the last remaining details to be built on my V4.
+		
+
+Click to expand...
+
+Thanks Avanaut!
+
+Well, almost 300 views and no comments with laser cannon measurements.  I'm Beginning to think I'm making too much of this detail...
+
+I'm going to take my averages and silver solder the tubes together tomorrow.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #3566874)
+Author    : StevenBills
+Date      : Feb 17, 2015 at 8:01 PM
+────────────────────────────────────────────────────────────────────────
+
+I subbed to this thread. It's fun watching people build their opus, you know?
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #3570656)
+Author    : usaeatt2
+Date      : Feb 22, 2015 at 5:53 PM
+────────────────────────────────────────────────────────────────────────
+
+I have no idea what I'm doing, so just be forewarned that I'm making this up as I go...
+
+After deciding on "good" numbers for building brass laser cannons, I cut all the tubes and prepped them for assembly.
+
+I cut the tubes with a mini-tubing cutter like found at the hardware store, usually near the plumbing stuff.
+
+The alternative is using a saw, but then you have to "square" the ends.  I like the tubing cutter better.
+
+The problem with the tubing cutter is it compresses the the tubing slightly at the cut.
+
+After cutting, the tubing won't telescope/slide together because of the compression at the ends.
+
+I grabbed several different size steel punches and tapped them lightly into the ends of the tubing to expand it.
+
+Go easy when doing this.  If you expand the end too much, the inner tube will be loose and the outer tube won't fit.
+
+If you go too far, you can lightly tap the edge of the tubing  to compress it again.
+
+I made a little chart to help cut the tubing.
+
+I have a tendency to over-engineer things and I wanted the laser cannons to be strong so they would be less likely to get bent.
+
+For my first attempt, I cut all the tubes long enough that I would have 5-10mm excess at the rear for soldering.
+
+This way I could do all the soldering at the rear and keep the visible ends super clean.
+
+It worked just fine, but the laser cannons are HEAVY when cut this way.
+
+To resolve the weight issue, I made a second drawing and kept each tube as short as possible.
+
+The weight is much better.  I left little "stick outs" for aligning/mounting resin parts.
+
+I also ran the 3/16" tubing through the round part, flush with the front edge.
+
+This "backs up" the flash supressor so the back edge doesn't drop inside of the round part.
+
+I don't know if this is right, but I think it looks cleaner this way.
+
+The drawing kind of explains it all.
+
+[IMAGE: BrassTubeSpacing_zpsc2d78cd6.jpg]
+
+Next, I prepped the cannon bodies by drilling a 5/16" hole all the way through.  To ensure the hole was centered, I used the part with the cooling fins.
+
+First, I carefully ran a 5/16" drill bit through the finned part.  Next, I centered the part on the cannon body, then used the drill bit to make a starter hole.
+
+The resin is soft enough that I didn't use a drill for this step - I just spun the drill bit between my fingers to make a mark.
+
+Then I used a drill press to slowly drill all the way through.  I also used a 1/2" forestner bit to clean up the hole at the rear of the cannon body.
+
+After all the drilling, I installed a 70mm brass tube in the cannon body.
+
+[IMAGE: 53F483E4-ADCB-4643-AF16-F932BD89ADA4_zpsgdlyhrdm.jpg]
+
+After the cannon body, I assembled the rest of the tubing and soldered it with Harris Staybrite silver solder and flux.
+
+[IMAGE: 20BD26C8-FEC1-4984-B983-67B8100FF2C6_zpsupqan46b.jpg]
+
+Then I started assembling resin parts.  See how the tubing protrudes flush with the front edge of the round part?  The flash suppressor piece telescopes in and rests against that tubing.  The seam in the 5/16" tubes is hidden by the finned part.  The tubing is snug enough that I won't need glue and can remove the laser cannons for shipping, etc.
+
+[IMAGE: 9E195AB8-83C2-4DEE-B447-51AEE46D38CD_zpsxhji0n60.jpg]
+
+Resin parts assembled.
+
+[IMAGE: 69C57C45-5996-444E-97DC-9FE9972F7923_zpskggbvf9m.jpg]
+
+The final step is to slide the whole assembly into the cannon body.
+
+[IMAGE: D8A8B52F-08AA-4513-98A1-89632B98AE04_zpsico9h0au.jpg]
+
+Next, I'll be gluing the parts on the side of the cannon body and cutting the 1/32" brass rods.  More to come!  Aaron
+
+ 
+
+Attachments
+
+[IMAGE: 189558-eca694ee2b15cc37b365ad96bb4b5b1f.jpg]
+
+Brass Tubing Spacing.JPG
+
+					57.5 KB
+					
+					· Views: 333
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #3570858)
+Author    : usaeatt2
+Date      : Feb 23, 2015 at 1:04 AM
+Reactions : Like — Treadwell
+────────────────────────────────────────────────────────────────────────
+
+I intended to stop for the night, but, I couldn't...I wanted to get the rest of the cannons figured out.
+
+ So, I shaped the little pieces that go on the sides of the cannons.
+
+ I wanted the contour of the pieces to follow the shape of the raised "panel" lines a little better.
+
+ To contour the bottom of the pieces, I wrapped fine sandpaper around the aluminum tube that comes with the Salzo X-wing bracket.
+
+Then I just set the piece on the sandpaper and slid it back and forth.
+
+The aluminum tube is almost exactly the same diameter as the cannon bodies, so the contour comes out perfect.
+
+I noticed in a lot of pictures of the ILM models, the 1/32" brass rods are missing...I'm assuming they were glued on and fell off at some point.
+
+ I wanted a more secure way to attach the rods so mine don't come up missing years from now.
+
+ I used a #66 (0.033") drill bit in a pin vise to drill holes in all the pieces.
+
+ Then I cut the brass rods about 10mm longer than necessary.
+
+ The rods go about 5mm into the holes in each piece.
+
+[IMAGE: 3CCE0591-3726-4D7F-8BE8-D89CF36C4EA3_zpsux2b3hs3.jpg]
+
+As far as alignment, I don't know what model kit the "finned" pieces came from, but they all have little "hooks".
+
+I decided to align the brass rods with each hook.
+
+When I glue the pieces together, I'll also align the hooks between the front and rear finned pieces.
+
+[IMAGE: 6C9D1C35-585D-420C-BB99-D9461C42D054_zpsxrhy2hgb.jpg]
+
+[IMAGE: B13FCE3F-3B08-4038-A3B6-65C6AA117AFE_zpsipdl7ghq.jpg]
+
+[IMAGE: 49668F6D-424C-4E7C-BBB4-78AE2D8E8BAF_zpsc3wr5cso.jpg]
+
+[IMAGE: FE26048E-729C-461D-BC81-7EBC03E0EA89_zpsazsy9pei.jpg]
+
+And one final question...this is going to sound REALLY dumb, but what kind of glue should I use with this kit?
+
+I'm assuming cyanoacrylate glue will work, but I thought I'd ask before I start slathering it all over these parts...
+
+Is there a better glue for this type of resin?
+
+Thanks,
+
+Aaron
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #3570880)
+Author    : Avanaut
+Date      : Feb 23, 2015 at 1:52 AM
+────────────────────────────────────────────────────────────────────────
+
+That is a very nice and clean set of wing cannons! Looks really great! Those "finned pieces" are not from a model kit, they're heatsinks still manufactured by Aavid. I found one from their website, I am not 100% sure if the part is available in different heights.
+
+I  have used CA glue on mine, some thin liquid ZAP CA, some  regular 3M gel. I have also used 2 component epoxy for securing big  parts together, like the fuselage halves. I also used epoxy for the  cannons, which took some trial and error to get aligned correctly.
+
+I  would, however, like to hear comments about glue from the more  experienced builders. I'm sure there are things to avoid and things to  go for with this.
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #3570926)
+Author    : Junk Pilot
+Date      : Feb 23, 2015 at 3:12 AM
+────────────────────────────────────────────────────────────────────────
+
+That looks amazing.
+
+I'm curious to know if anyone has taken a side by side comparison of a SS X-Wing cannon and a large Hasbro (Legacy, TVC, POTF) X-Wing cannon. But I'd really love to get a set of those C's (brass or aluminium) for the new really LARGE X-Wing
+
+usaeatt2 said:
+
+http://i1362.photobucket.com/albums...F-08AA-4513-98A1-89632B98AE04_zpsico9h0au.jpg
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #3571466)
+Author    : jake88
+Date      : Feb 23, 2015 at 5:11 PM
+────────────────────────────────────────────────────────────────────────
+
+Brilliant work!
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #3571522)
+Author    : ecl
+Date      : Feb 23, 2015 at 6:41 PM
+────────────────────────────────────────────────────────────────────────
+
+Holy Moly Guacamole this is nice!
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #3571777)
+Author    : moffeaton
+Date      : Feb 24, 2015 at 3:27 AM
+────────────────────────────────────────────────────────────────────────
+
+I think MicDavis made this ages ago..
+
+[IMAGE: 189974-2b0b7b14cd7c2f9555ec228384386313.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #3722422)
+Author    : StevenBills
+Date      : Aug 8, 2015 at 2:39 PM
+────────────────────────────────────────────────────────────────────────
+
+Any updates on this bird?
+
+SB
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #3722643)
+Author    : usaeatt2
+Date      : Aug 8, 2015 at 7:57 PM
+────────────────────────────────────────────────────────────────────────
+
+I'm humbled, Steven!  I had no idea anyone was paying attention to my first-time build.
+
+I finished the laser cannons, then set things aside to collect supplies to finish the model...
+
+I have three problems to solve before picking back up on this:
+
+1)  Paint color - I've read multiple X-wing paint threads...hours worth of debate with no clear answer.  While the history is interesting, I can't justify trying to find or buy obsolete, unobtanium lacquers - I just want a nice looking, reasonably accurate model to hang in my shop.  I'm considering going way off the beaten path and mixing a custom shade from the airbrush paints available from a local hobby shop.  These are paints like Createx or Iwata.  I don't need production department accuracy - I just want it to look like what I saw on the screen when I was 7 years old.  My imagination is OK with the colors being off by a shade or two.
+
+2)  Fiber optics - I think I found everything I need, including variable rate dual-color blinkers at Fiber Optic Products, Inc in their "Model Lighting" section.  I would very much like to have blinking cockpit and droid lights powered by a hidden 9V battery.  I'm waiting for a response to an email I sent yesterday.  If they answer my questions, I'll be pulling the trigger on this.
+
+3)  Pilot - I think the pyro models had some kind of helmeted motorcycle guy for a pilot, but that's NOT what I saw in the movie.  I'd like to buy an X-Wing pilot with the proper shape helmet, etc.  Before I attempt to buy this, I probably need to know the scale...  Does anyone sell a resin X-Wing pilot that fits in the Salzo cockpit?  What about using a hacked up action figure?
+
+I appreciate all the detail and fanaticism on the RPF, but sometimes looking for an answer is like shooting yourself in the foot to see if it really hurts.  I guess if this were easy, everybody would be doing it.  Can anybody offer help or links for any of the 3 items above?  THANKS!
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #3722852)
+Author    : robn1
+Date      : Aug 9, 2015 at 2:22 AM
+────────────────────────────────────────────────────────────────────────
+
+1.Paint color... you have the right idea. It's the color that matters not the brand or type. Just use your favorite brand and mix colors to match.
+
+3.Pilot... 1/24 scale. The "motorcycle rider" is what was in the studio models, but I have seen figures made to match the actors costume, though I couldn't say where to get them. An airplane pilot or race driver figure could be modified for the look you want, Fujimi makes a set of race figures that are ideal.
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #3723067)
+Author    : trooper
+Date      : Aug 9, 2015 at 9:33 AM
+────────────────────────────────────────────────────────────────────────
+
+for flashers and such, www.miniatronics.com is another great source.
+
+your doing a fantastic job on those cannons, works of art really !! I did the same thing on my flash suppressors but I used aluminum tube, cuz that's what I had 
+
+I look forward to seeing more.......
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #3723232)
+Author    : PHArchivist
+Date      : Aug 9, 2015 at 1:21 PM
+────────────────────────────────────────────────────────────────────────
+
+Just paint it white and weather it (properly). You'll be fine...
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #3723363)
+Author    : 3phase
+Date      : Aug 9, 2015 at 3:56 PM
+────────────────────────────────────────────────────────────────────────
+
+usaeatt2 said:
+
+			3)  Pilot - I think the pyro models had some kind of helmeted motorcycle guy for a pilot, but that's NOT what I saw in the movie.  I'd like to buy an X-Wing pilot with the proper shape helmet, etc.  Before I attempt to buy this, I probably need to know the scale...  Does anyone sell a resin X-Wing pilot that fits in the Salzo cockpit?  What about using a hacked up action figure?
+
+!
+		
+
+Click to expand...
+
+I cant find a pic but will do one when I get home of my X-wing with the figure in the cockpit. I just bought a Star Wars POTJ LUKE SKYWALKER X-Wing Pilot Figure MOC! from ebay or your local store might have one. They fit in great with a few mods to his legs (I think I had to cut them off). They look great and have a helmet with the visor and everything and the best part is no painting required.
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #3723576)
+Author    : usaeatt2
+Date      : Aug 9, 2015 at 9:29 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks for the comments everyone.
+
+There's a local hobby shop that stocks a full line of Tamiya paints, so I think I might try the mixtures shared in Gunpowder's MR MF repaint.
+
+And I'll begin the hunt for an X-wing pilot figure tomorrow.  There's a local comic book store with a good stock of older action figures, so I might get lucky.
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #3723621)
+Author    : robn1
+Date      : Aug 9, 2015 at 11:11 PM
+────────────────────────────────────────────────────────────────────────
+
+The action figures are 1/18, the same as the large Hasbro X-Wing. The studio scale ship is 1/24.
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #3724550)
+Author    : StevenBills
+Date      : Aug 10, 2015 at 8:16 PM
+────────────────────────────────────────────────────────────────────────
+
+usaeatt2 said:
+
+			I'm humbled, Steven!  I had no idea anyone was paying attention to my first-time build!
+		
+
+Click to expand...
+
+There's just something satisfying about seeing a SS X-Wing come together.
+
+SB
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #3724841)
+Author    : edspaged2
+Date      : Aug 11, 2015 at 6:52 AM
+────────────────────────────────────────────────────────────────────────
+
+So with the version 4, the only pilot figure that comes with the kit is the daft punk looking helmet guy? No 'non studio accurate' normal rebel pilot? I'm still waiting for a reply for my v4.
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #3724892)
+Author    : MonsieurTox
+Date      : Aug 11, 2015 at 8:02 AM
+────────────────────────────────────────────────────────────────────────
+
+edspaged2 said:
+
+			So with the version 4, the only pilot figure that comes with the kit is the daft punk looking helmet guy? No 'non studio accurate' normal rebel pilot? I'm still waiting for a reply for my v4.
+		
+
+Click to expand...
+
+Yes you are right you get a Studio scale pilot with the Studio scale X-Wing kit...
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #3725228)
+Author    : usaeatt2
+Date      : Aug 11, 2015 at 2:01 PM
+Reactions : Like — StevenBills
+────────────────────────────────────────────────────────────────────────
+
+edspaged2 said:
+
+			So with the version 4, the only pilot figure that comes with the kit is the daft punk looking helmet guy?
+		
+
+Click to expand...
+
+Yep, the only figure I received is the "daft punk looking helmet guy".  That's a pretty good description too!  Speeaking of daft punk guy, can anyone post a picture of their V4 figure?  I would post a picture of mine, but last night, I started modifying him with needle files, dental picks and JB Waterweld putty I picked up at Ace Hardware.  I should have taken a picture, but I didn't have high hopes for my modifications.  Now I would like to see a before and after.  My wife wasn't impressed, but she never saw the original...
+
+Most of this COULD be carved directly into the original figure; however, I got a little carried away in the beginning and had to add some material back to build up the top/front areas of the helmet.  So, here's what I came up with:
+
+[IMAGE: D9B0661A-6BAE-44DB-AB54-4528D0C9CA35_zpslzyclkrh.jpg]
+
+It's a feeble attempt, but this thing is small.  This is the first pass and I may keep at it, BUT...  Wouldn't you know it, this morning I got a reply from "Rodmart" and bought two Nexus Models cockpits, pilots, R2's and decals.  These are STELLAR pieces and I'll be proud to add them to my V4.  If you haven't seen it, check out the Nexus Models website.  There's an excellent downloadable instruction guide (for the Nexus X-Wing only, but still valuable for X-Wing reference) and tons of great pictures.  Here's a link:  http://www.nexus-models.com/
+
+Last night, I also drilled almost 60 1/32" holes in my V4 cockpit for fiber optics.  I drilled many of them by hand with a pin vise, but I was getting a blister and feeling confident, so I chucked a #72 bit in my dremel and smoked the rest of the holes through in no time.  Then I went back over those with the pin vise and a #68 bit.
+
+Also, my hobby shop (unbelievably) had every Tamiya color I wanted in the correct size bottles.  If this momentum continues, I should make good progress!
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #3725291)
+Author    : edspaged2
+Date      : Aug 11, 2015 at 3:01 PM
+────────────────────────────────────────────────────────────────────────
+
+Well that sucks that you only get 1 pilot. Oh well. 
+
+I'm surprised Rod offered to sell his pilot and extra bits, as it's not being used on his x wing? I might send him a message again. I enquired about an x a few months back. Very pricey at around $750 (?) US but it looks really good. He also offers the 'daft punk pilot' too lol.
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #3725327)
+Author    : usaeatt2
+Date      : Aug 11, 2015 at 3:44 PM
+────────────────────────────────────────────────────────────────────────
+
+I straight up explained I would use his parts in a V4.  NOT CHEAP....shipping from Chili costs almost twice as much as the parts.  He'll make some money and get a good advertisement.  I didn't know about Nexus Models until I searched for a 1/24 x-wing pilot figure.  This thread will be one more place people can find out about Nexus and potentially buy an X-Wing.  I could understand if he didn't want to do it, but it seems like it makes good business sense to sell extra bits.  I can't afford the Nexus X-Wing, but I can afford the bits!
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #3727186)
+Author    : 3phase
+Date      : Aug 13, 2015 at 3:54 PM
+────────────────────────────────────────────────────────────────────────
+
+Looks like you wont be going this way (Pilot Figure)  but thought I would still show you how easy this is and only cost me about $9.
+
+[IMAGE: 242881-715dca1a18f71a111c24a0bbb74d1b10.jpg]
+
+[IMAGE: 001new%20019_zpsa6oiqbgy.jpg]
+
+[IMAGE: 001new%20009_zpsfmbdvpz1.jpg]
+
+[IMAGE: 001new%20016_zps2ik3pl7d.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #3727456)
+Author    : usaeatt2
+Date      : Aug 13, 2015 at 11:28 PM
+────────────────────────────────────────────────────────────────────────
+
+3phase said:
+
+			Looks like you wont be going this way (Pilot Figure)  but thought I would still show you how easy this is and only cost me about $9.
+
+View attachment 514545
+
+Click to expand...
+
+Thanks for that post, 3phase!!!
+
+Considering the difficulty of carving the original figure and Rodmart being in the process of relocating, your $9 action figure looks like a very viable alternative.
+
+Based on the 1/18 to 1/24 comparison earlier, I thought the action figure would look too big, but this seems NOT to be the case.
+
+Looks like I'll be searching online for an action figure tomorrow!
+
+BTW, nice X-Wing!!!  I can only hope mine turns out half as nice.
+
+I've painted things, but I've never done washes or weathering...  I may get a cheap Snap-Tite X-Wing for practice painting.
+────────────────────────────────────────────────────────────────────────
+Post #28  (forum post #3729074)
+Author    : bartrman
+Date      : Aug 15, 2015 at 6:59 PM
+────────────────────────────────────────────────────────────────────────
+
+Nice work. looking forward to more of your work.
+────────────────────────────────────────────────────────────────────────
+Post #29  (forum post #3729768)
+Author    : EvanW
+Date      : Aug 16, 2015 at 5:39 PM
+Reactions : Like — Vacformedhero
+────────────────────────────────────────────────────────────────────────
+
+I used a Luke action figure in my V3 and it turned out pretty good. Try to find the one with the helmet already molded to his head. It is a bit smaller that the one with the separate helmet.
+
+[IMAGE: IMG_1126.jpg]
+
+I messed up the first action figure head when i slipped on the supper glue for the goggles. Replacement is attached on the right. My V3 came with the option of the molded X-Wing pilot and the studio accurate pilot.
+
+[IMAGE: IMG_0692.jpg]
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 29

@@ -10,7 +10,7 @@ Live at [nuhopetools1300.github.io](https://nuhopetools1300.github.io)
 
 | Tool | Description |
 |------|-------------|
-| [Image Annotator](tools/annotator.html) | Annotate reference images with part locations |
+| [Image Annotator](tools/ImageAnnotator.html) | Annotate reference images with part locations |
 | [Image Timeline](tools/image_timeline.html) | View reference images in chronological order |
 | [Box Art Extractor](tools/box_art_extractor.html) | Extract and identify parts from kit box art |
 
@@ -61,8 +61,23 @@ POST /api/placements
 GET  /api/connections           cross-model kit appearances
 GET  /api/cast_assemblies
 GET  /api/cast_assemblies/<id>
-GET  /api/images                ?entity_type=&entity_id=&image_type=
+GET  /api/sources               ?q=&source_type=
+GET  /api/sources/<id>
+POST /api/sources
+PUT  /api/sources/<id>
+GET  /api/source_extracts       ?source_id=&extract_type=&author_handle=&q=
+GET  /api/source_extracts/<id>
+POST /api/source_extracts
+PUT  /api/source_extracts/<id>
+GET  /api/images                ?entity_type=&entity_id=&image_type=&source_id=&tag=&q=
+GET  /api/images/<id>
 POST /api/images
+PUT  /api/images/<id>
+GET  /api/image_regions         ?image_id=&entity_type=&entity_id=&source_extract_id=
+GET  /api/image_regions/<id>
+POST /api/image_regions
+PUT  /api/image_regions/<id>
+DELETE /api/image_regions/<id>
 POST /api/image_links
 GET  /api/contributors
 POST /api/contributors
@@ -72,7 +87,7 @@ POST /api/contributors
 
 ## Data model
 
-Nine core tables. Everything connects through `placements` — the join between a kit part and a specific location on a specific model.
+Core tables. Everything connects through `placements` — the join between a kit part and a specific location on a specific model.
 
 | Table | Purpose |
 |-------|---------|
@@ -86,7 +101,10 @@ Nine core tables. Everything connects through `placements` — the join between 
 | `placement_contributors` | Many-to-many attribution for placements — multiple researchers often identify the same part independently. |
 | `placement_history` | Audit trail for corrected identifications. Transparent correction history builds community trust. |
 | `maps` | Annotated map images of model sections. |
+| `sources` | Canonical source records for forum threads, interviews, auctions, slide decks, spreadsheets, and other research inputs. |
+| `source_extracts` | Post-level or quote-level extracts from a source, preserving locator, author handle, and text. |
 | `images` | All reference images — model shop, exhibition, kit scans. |
+| `image_regions` | Persistent image annotations / regions with normalized coordinates, snapshot metadata, and optional entity links. |
 | `image_tags` | Tags for images (proper many-to-many). |
 | `image_links` | Connects images to any entity (kit / part / placement / model). One image, many connections. |
 | `contributors` | Researcher handles and forum profiles. Attribution target for all tables. |
@@ -105,6 +123,7 @@ Nine core tables. Everything connects through `placements` — the join between 
 ## Docs
 
 - [Roadmap](docs/Roadmap.md) — phased plan from private research tool to public platform
+- [Research Architecture](docs/ResearchArchitecture.md) — evidence-first schema direction for images, sources, objects, locations, and claims
 - [COLMAP transform guide](docs/colmap_transform_guide.md) — photogrammetry workflow for digitising parts
 
 ---

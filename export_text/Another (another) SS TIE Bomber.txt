@@ -1,0 +1,2538 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Another (another) SS TIE Bomber
+URL    : https://www.therpf.com/forums/threads/another-another-ss-tie-bomber.358356/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #5549050)
+Author    : thibkaji
+Date      : Jun 28, 2024 at 12:12 PM
+Reactions : Like — Padawan311, jkno, Boxcar Bret
+────────────────────────────────────────────────────────────────────────
+
+It truly is the season for TIE Bombers!  This is my first studio scale build that I've ever done from kit parts.  I got turned onto this build by the folks over in the Nerf Herder's Workshop on YouTube/FB, and then also by Boxcar Bret's fantastic build.   I actually started this build a month or two ago and have just been slowly making progress -- and with everyone else out there sharing their builds, I thought I'd do the same!
+
+And with that, here we go!
+
+First, obligatory pics of kits collected thus far for the build:
+
+[IMAGE: https://www.therpf.com/forums/attachments/kits1-jpg.1835011/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/kits2-jpg.1835012/]
+
+I also have the old tooling Shinano and few additional copies of some kits.  Still working on getting the Tamiya Yamato, but have a ways to go until I need it, so no rush there.  Anything I need many multiple copies of I plan to make castings of.
+
+Easiest place to start on this is the wings!  I made sure to use the same wing from two different MPC Vader kits because as many others have noted, the wings are not mirror images and not from the same kit.  I began by adding 15 mm of .03" styrene stock around the outside edges -- this seems to be in line with what others have noted, and what I've rough-measured out of the Chronicles books.  I cut out the notches around the inside perimeter, then scribed the line around the outer perimeter on the inside surface of the wing.  I am pretty happy with the result.
+
+[IMAGE: https://www.therpf.com/forums/attachments/wing_scribed-jpg.1835015/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/wings_scribed2-jpg.1835016/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/wings-jpg.1835020/]
+
+These Vader MPC kits aren't the best and getting them off the sprues intact can be a challenge.  I had some damage from that process that I had to repair.
+
+[IMAGE: https://www.therpf.com/forums/attachments/wing-repair-jpg.1835021/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/wing-repair-1-2-jpg.1835022/]
+
+It's all better now!
+
+Feeling pretty good about this build so far.  It's not been too bad yet, but I know the difficult parts are yet to come.  Loving the challenge of creating this the way ILM did it back in the day.
+
+Next post, my ups and downs of tackling the bomber-side "cockpit".
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #5549137)
+Author    : chazzychaz
+Date      : Jun 28, 2024 at 8:03 PM
+Reactions : Like — Boxcar Bret, joberg, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+Yes tie bomber season
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #5549146)
+Author    : thibkaji
+Date      : Jun 28, 2024 at 9:09 PM
+Reactions : Like — JimmyB, Boxcar Bret, swgeek
+────────────────────────────────────────────────────────────────────────
+
+The port-side fuselage's front section, which I will likely refer to as the bomb-side "cockpit", was what I decided to take on next.  It looked like one of the more difficult parts to create, and since I didn't yet have tooling to start working on the fuselages themselves, nor have an armature to mount everything to, I figured why not?
+
+I had read in a few places that the part used is a Plastruct VHE-200VG elliptical dish, so I picked up a few of those (plus a few VHH-200VGs and 2" dia ABS tubing).  I printed out a rough "template" using Moska's TIE Bomber parts reference, and got to cutting!
+
+My first cutout seemed pretty good for the slot, though maybe a bit thick.  Figured it was just the angle and pressed on!
+
+[IMAGE: https://www.therpf.com/forums/attachments/bomber_dome_1stattempt-jpg.1835208/]
+
+During this phase, Boxcar Bret was kind enough to give me a hint or two about a faster way to do this, and so I took his advice and ended up with all of the notches cut out along the perimeter, and a pretty good octagon out the middle.  Test fit in the Prince of Wales part stuck to some stock material, and I thought it looked pretty good -- from above.  But something was off, and a few folks let me know...
+
+[IMAGE: https://www.therpf.com/forums/attachments/bomber_dome_1st_att_2-jpg.1835209/]
+
+...this was not the correct Plastruct part.  This dish sits too high, and the curve is off from the SS model -- it should be a little less "domed", flatter.  The correct part is VHD-200VG, so I nabbed a couple of those and began again.
+
+This time I decided to build a little "jig" to hold my dome in place and allow me to draw the lines for the cutouts/octagon at the correct locations.  It worked out really well, I think!  Using measurements from the SS model references, and a little corroboration from Boxcar Bret, I applied a circle around the dome with a compass at the proper depth of cut.
+
+[IMAGE: https://www.therpf.com/forums/attachments/dome_2nd_attempt-jpg.1835210/]
+
+Cut out the notches on my band saw, snuck up on them with my files and some sandpaper, and I was pretty darn happy with the result.  The PoW part fits right on it, and this now looks significantly better than the previous dish did.
+
+[IMAGE: https://www.therpf.com/forums/attachments/dome_2nd_attempt2-jpg.1835211/]
+
+Now I just need to cast some copies of the PoW part and I can wrap this dome up and start on the actual pilot-side cockpit.  I've never cast any parts before, but also don't want to shell out $70-$90 for 3 more PoW kits just to get 6 more of those small parts so I'm going to give it a shot.
+
+More to come!
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #5549179)
+Author    : joberg
+Date      : Jun 29, 2024 at 6:30 AM
+Reactions : Like — Boxcar Bret, stevielewis, thibkaji
+────────────────────────────────────────────────────────────────────────
+
+Looking good so far (I love the gig you did; easier/faster that way)...eager for the next update
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #5549186)
+Author    : thibkaji
+Date      : Jun 29, 2024 at 7:08 AM
+Reactions : Like — Boxcar Bret, joberg, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+joberg said:
+
+			Looking good so far (I love the gig you did; easier/faster that way)...eager for the next update
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+Thanks!  I learned off the first dish when my cutouts weren't spaced exactly equidistant from each other around the perimeter -- as you said, the jig made it so much faster/easier.
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #5549202)
+Author    : thibkaji
+Date      : Jun 29, 2024 at 8:24 AM
+Reactions : Like, Love — Padawan311, JimmyB, rbeach84
+────────────────────────────────────────────────────────────────────────
+
+This is the update that catches up to my current progress on this build.  While gearing up to start doing casting, I decided to tackle what I expect is going to be one of the hardest parts of the build overall -- constructing the wing connectors (pylons?)!
+
+In most other builds I've seen (where images still exist -- older RPF posts are missing quite a few of them), folks are using some machined or cast parts for those wing connectors.  My understanding is that while almost all of the parts on the ILM TIE Bomber have been identified, that no one really knows how the wing connectors were built (which parts, components, etc).  With that in mind, I figured there had to be something out there that would make my life much easier, if only for part of the construction, and took to digging.
+
+I figured a good place to start would be the Plastruct catalog, since I figured those parts would have been available back in the late 70s.  After a bit of searching, I came across Item # VHF-36, which is flanged head, used for vertical and horizontal tank ends for storage tanks.  It has a 1-7/16" diameter, which I measured to be very close to the dimensions needed to fit in-between the Vader wings.  Let's give it a shot, at least as a starting point.
+
+Cap in hand, I placed it onto the wing -- and it's a perfect fit!  I couldn't believe it.  But, to my eyes, I thought that maybe the height of the flange was too high and I'd need to sand it down some.  So, I grabbed one of the Mörser Karl kit parts that attaches to the base of the wing connector to see how off it was.
+
+[IMAGE: https://www.therpf.com/forums/attachments/wing_pylon1-jpg.1835270/]
+
+It's not off at all!  The height on this is exact!  At this point I feel like it is too much of a coincidence that the diameter of this part, plus the height, are an exact fit here.  I'm very much leaning toward this being what ILM used for the base of the wing connectors.  Maybe a found part?  ^_^
+
+[IMAGE: https://www.therpf.com/forums/attachments/barrel_fit-jpg.1835269/]
+
+With that sorted, I poured over the Plastruct and Evergreen catalogs to see if there were tubes or other similar parts available that would fit onto this base part to help build up the connector, but didn't come up with anything.  At this point I figured I'd just scratch-build the rest of it from styrene stock.
+
+I know the diameter of the tube that goes wing-to-wing is 3/4" OD.  Starting from there, I warmed up some .030" (.75 mm) and wrapped it around the tube to shape it into a circle.  Inserted that into the base, making sure it was tight to the ID and perpendicular to the base. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/wing_pylon2-jpg.1835273/]
+
+At this point it was still a bit loose fitting around the tube, so I added some .010" thick stock material around the inside to tighten it up.  I used the 3/4" tube to ensure it stayed in proper position and fit correctly.  In hindsight, I could have probably done it all with just .040" stock, but the thicker the material, the harder it gets to bend, so I do think this layered approach was the way to go.
+
+[IMAGE: https://www.therpf.com/forums/attachments/wing_pylon3-jpg.1835274/]
+
+Next I took quite a few measurements off a few different references, mostly Moska's parts guide and images from the Chronicles book, to ensure I got the size and shapes correct for the connectors.  These images all vary a bit, so of course the Chronicles book images of the actual model itself is the source of truth here.
+
+[IMAGE: https://www.therpf.com/forums/attachments/screen-shot-2024-06-29-at-10-39-25-am-png.1835275/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/screen-shot-2024-06-29-at-10-39-41-am-png.1835276/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/screen-shot-2024-06-29-at-10-40-19-am-png.1835277/]
+
+As can be seen, the next two sections after the shaft connection point are actually conical in shape, not parallel to the shaft, and so I needed to measure the ODs of both the top and bottom of each section, as well as determine the proper thickness of each section.  I ran those dimensions (apologies, I don't have those numbers on hand) through a sheet-metal conical shape calculator, which told me the radii I needed for top and bottoms to get the proper shape, plus the angle in degrees I needed to cut the shape so when the ends meet, it's a proper cone.  I also had to account for the thickness of the material, so I ended up using the ID measurements for those radii.
+
+[IMAGE: https://www.therpf.com/forums/attachments/screen-shot-2024-06-29-at-10-51-17-am-png.1835279/]
+
+To assist in supporting the conical shape, I also glued some thin strips of either .01" or .02" styrene stock to ensure the base of the cone had a mount point.  Then I began wrapping the base.  Did this twice for each conical section, gluing the styrene end-to-end.  For the bottom-most cone, I also had to ensure the proper spacing between the edge of the base and the base of that cone to allow for the Hanomag parts to fit in correctly.  Neither of these conical parts are the same thickness, either -- the upper one has a thinner lip than the bottom.
+
+[IMAGE: https://www.therpf.com/forums/attachments/pylon_cones-jpg.1835280/]
+
+This was really looking correct to me, and I was very excited with my progress here.  I felt like I had unlocked some secret of the masters, and it pushed me onward!
+
+The wing connectors have two strut sections that protrude off of it to the wings, and that was my next target.  I made a template out of cardstock, cutting it carefully and adjusting it until it fit snugly to the connector part I had constructed thus far.  Then cut it to the fit the wing and angle off the wing to the top conical ring.  Used that to create two side section, and cut a top piece to fit.  I also shaped where it made contact with the wing to sit overtop of the Vader wing protrusions.
+
+[IMAGE: https://www.therpf.com/forums/attachments/wing_pylon4-jpg.1835281/]
+
+Rinse and repeat for the other side.  Filled in the gaps with some Tamiya putty and sanded flush(ish).  Also drilled a hole through the base with a step-drill bit to 3/4" to let the tube pass all way through.
+
+[IMAGE: https://www.therpf.com/forums/attachments/wing_pylon5-jpg.1835282/]
+
+I was thrilled with how this turned out, but I won't lie, I didn't really want to make this all again.  So, I decided I'd add some of the needed kit parts and then down the line I'd cast it to make the other side.  Needs a bit more cleanup, but overall, looking good!
+
+[IMAGE: https://www.therpf.com/forums/attachments/wing_pylon6-jpg.1835283/]
+
+A test fit with the kit parts attached.
+
+[IMAGE: https://www.therpf.com/forums/attachments/wing_pylon_added-jpg.1835284/]
+
+And who can resist dry-fitting some kit parts?
+
+[IMAGE: https://www.therpf.com/forums/attachments/wing_test_fitting-jpg.1835285/]
+
+Whew!  That was a lot!  Challenging section of the build, but oh, so rewarding at the end there when it's all together!   I think it's starting to look really good, and once I get some castings made, I'll try and wrap up these wings for good.
+
+That's all caught up now to where I am in the build.  I have plans this weekend to start working on the fuselage sections, though maybe I'll start working on casting some of these parts first.
+
+For anyone who's done casting, how important is it really to get a vacuum chamber to pull out the bubbles?  I'm looking at using some MoldStar 30, which says it out-gasses itself and so long as you slow-pour it, you don't end up with bubbles -- but I imagine there will still be some bubbles, right?  Any advice here is welcome!
+
+Til next time, keep on building!
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #5549211)
+Author    : swgeek
+Date      : Jun 29, 2024 at 9:00 AM
+Reactions : Like — joberg, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+It depends on the silicone and how you plan on casting your parts. Like you said some silicones are designed not to need degassing, but if you are going to preasure cast your parts, degassing is a must. Also, degassing the mold after you've poured the silicone will help it get into all the fine little details. I always degass my silicone, but I also have access to more tools than the average person.
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #5549214)
+Author    : thibkaji
+Date      : Jun 29, 2024 at 9:12 AM
+Reactions : Like — Boxcar Bret, joberg, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+swgeek said:
+
+			It depends on the silicone and how you plan on casting your parts. Like you said some silicones are designed not to need degassing, but if you are going to preasure cast your parts, degassing is a must. Also, degassing the mold after you've poured the silicone will help it get into all the fine little details. I always degass my silicone, but I also have access to more tools than the average person.
+		
+
+Click to expand...
+
+That’s true, you probably do!  The silicone I’ve got is a platinum silicone, but beyond that don’t know much about it.
+
+Thats a good point about the pressure-casting (I imagine if you didn’t degass then the pressure would start to deform the mold as it was compressed).  I'm not planning to pressure-cast, but may change stance depending on how my initial casting turn out.  I’ll have to weigh the cost of buying more kits or equipment. LOL
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #5549216)
+Author    : swgeek
+Date      : Jun 29, 2024 at 9:24 AM
+Reactions : Like — Boxcar Bret, joberg, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+It doesn't really deform the mold but the resin is pressed into the silicone and finds all the little bubbles that you didn't know were there. Your part will come out covered in warts.
+
+Your build's looking great.
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #5549285)
+Author    : thibkaji
+Date      : Jun 29, 2024 at 3:12 PM
+Reactions : Like — joberg, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+swgeek said:
+
+			It doesn't really deform the mold but the resin is pressed into the silicone and finds all the little bubbles that you didn't know were there. Your part will come out covered in warts.
+
+Your build's looking great.
+		
+
+Click to expand...
+
+Yeah, not wanting anymore warts than needed!
+
+I also appreciate the kind words in the build!
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #5549562)
+Author    : Boxcar Bret
+Date      : Jun 30, 2024 at 8:42 PM
+Reactions : Like — joberg, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+Dude! You're work and eye for detail is stellar as well as your sense of engineering. I look like a caveman next to yours! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #5549575)
+Author    : thibkaji
+Date      : Jun 30, 2024 at 11:32 PM
+Reactions : Like — joberg, Boxcar Bret, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+Boxcar Bret said:
+
+			Dude! You're work and eye for detail is stellar as well as your sense of engineering. I look like a caveman next to yours! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+LOL! I’m thinking the same about you!  Loving your build, and you’re nearly done with it now.  I’m just hoping to finish by end of summer.
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #5550734)
+Author    : thibkaji
+Date      : Jul 6, 2024 at 9:33 AM
+Reactions : Like, Love — norscout, Boxcar Bret, JimmyB
+────────────────────────────────────────────────────────────────────────
+
+Time for another update.  Lots of small incremental steps as I wait to get my hands on an armature as I’m not well-equipped to machine one myself.  Lets’s jump in!
+
+What better place to start than the fuselage bodies?
+
+I don’t have a lathe.  I considered sending the bodies out to have them precision machined, but decided I’d have a go at cutting the 12 grooves to make the 11 “ribs” that go around the fuselages.  Worst case is a botch them up and just have a set made for me later.
+
+I started by measuring .375” from the front end of the 2” OD Plastruct tube and marking that with a parallel scriber.  I then placed dymo tape right up against that line to create a straight edge for scribing.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0653-jpeg.1837101/]
+
+I then used my old Tamiya scriber and carefully went around the tube.  Once I’d made 3-4 passes, I removed the Dymo tape and finished widening the line until it was close to the proper measurement (around .6 mm).  I then added that line width and the rib width to the parallel scriber and scribed the next guide line.  More dymo tape, more scribing.  Repeat.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0667-jpeg.1837102/]
+
+Eventually got them all done.  Cut the tube to length, then repeated it all again for the other tube.  Measurements all came out super close to correct, and while it’s not 100% accurate, I think it’s certainly good enough to pass!
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0674-jpeg.1837103/]
+
+Next I measured out the center lines and figured out where the holes for the main support tubes had to go.  Drilled those out using a step drill bit.  Keeping all of that centered properly was a chore, but I consoled myself that once I have a center block of something is slight off I’ll have room to adjust.
+
+Threw the bodies on the tube — I’m pretty happy with how they turned out!
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0675-jpeg.1837104/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0676-jpeg.1837105/]
+
+Next up, the cockpit dome.   I had a pair of VHH-200VG domes, so first thing was to cut them down to size.  As others have done, one of the easiest ways to get the height to be consistent is to cut it off on a drill press with a cutting wheel.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0694-jpeg.1837077/]
+
+Now that the height is close, I snuck up on it using some sandpaper until it looked just right.  I wanted the inner lip of the Vader cockpit window to sit inside of the dome, so I also cut/sanded that until it fit right in, nice and flush.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0695-jpeg.1837078/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0696-jpeg.1837080/]
+
+With that done, I needed to scribe the vertical lines coming off of the vertices of the cockpit window.  This was a bit challenging, as the spacing is NOT equidistant between the spokes around the edge of the window.  So, I made indicator marks to align the window to keep it straight.
+
+Taking a page out of Boxcar Bret ’s build, I made a jig to sit the dome into so that I could get some straight, vertical lines.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0697-jpeg.1837086/]
+
+Once the lines were drawn, I applied dymo tape to the line and started scribing.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0698-jpeg.1837087/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0699-jpeg.1837088/]
+
+Welp, that didn’t actually work out how I wanted.  Because of the curvature of the dome, as soon as you stuck down the dymo tape, it started to curve to one side, resulting in a line that veered one way or the other off-center.  This wasn’t good.
+
+At this point I also noticed that the height was also off.  I had a small lip around the outside edge of the cockpit window, and per the reference, that should come up right under the cockpit.  Always check, double-check, and triple-check your references!!!   Good thing I had a spare dome!!
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0707-jpeg.1837089/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0728-jpeg.1837090/]
+
+Since I’d already messed this one up, I also had a go at doing the horizontal scribing.  This was done by using a parallel scriber to mark the locations where the panel lines cross the verticals, then placing dymo tape from one intersection to the other.  For these lines you WANT there to be a curve, and the dump tape provides that beautifully.  So, a little practice before starting again.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0701-jpeg.1837093/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0720-jpeg.1837092/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0702-jpeg.1837094/]
+
+OK, so second go at the cockpit, but proper height this time.  Plus I scribed the vertical lines using the jig to keep them straight.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0706-jpeg.1837095/]
+
+Add the horizontal panels lines as described above, and finally using a pin vise and micro drill bit, add on the rivets.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0721-jpeg.1837096/]
+
+With the cockpit window attached.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0709-jpeg.1837097/]
+
+Test fit to the fuselage.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0710-jpeg.1837098/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0711-jpeg.1837099/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0712-jpeg.1837100/]
+
+She’s starting to look like a ship!
+
+Next up — bomb chute, wing details, and creating molds.
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #5550919)
+Author    : joberg
+Date      : Jul 7, 2024 at 10:10 AM
+Reactions : Like — stevielewis, thibkaji
+────────────────────────────────────────────────────────────────────────
+
+Love the way you've scribed all of those panel lines and the jigs you've built to achieve that part of the build
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #5550954)
+Author    : thibkaji
+Date      : Jul 7, 2024 at 2:16 PM
+Reactions : Like — joberg, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+joberg said:
+
+			Love the way you've scribed all of those panel lines and the jigs you've built to achieve that part of the build
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+Thanks!  I think this would have been much more difficult without them.  Also, the pen-type Tamiya scribe tool and tips that Boxcar Bret turned me onto helped quite a bit here!
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #5550963)
+Author    : mjhenks
+Date      : Jul 7, 2024 at 3:36 PM
+Reactions : Like — joberg, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+Somehow missed when you started this thread.   Have some reading to catch up on. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #5550981)
+Author    : Clerval
+Date      : Jul 7, 2024 at 4:22 PM
+Reactions : Like — JimmyB, joberg, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+thibkaji said:
+
+			Thanks!  I think this would have been much more difficult without them.  Also, the pen-type Tamiya scribe tool and tips that Boxcar Bret turned me onto helped quite a bit here!
+		
+
+Click to expand...
+
+A note to folks  that Olfa makes Tamiya's blades, so if you're looking for comparable items that might be easier to find, less expensive, etc....
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #5550997)
+Author    : chazzychaz
+Date      : Jul 7, 2024 at 6:21 PM
+Reactions : Like, Love — joberg, stevielewis, thibkaji
+────────────────────────────────────────────────────────────────────────
+
+Incredible build.
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #5551135)
+Author    : ymmt713yk
+Date      : Jul 8, 2024 at 10:30 AM
+Reactions : Like, Wow — nailuj, joberg, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+Regarding the 13th photo.
+
+4 panel lines, no required.
+
+[IMAGE: https://www.therpf.com/forums/attachments/tie-bomber_viewport-jpg.1837722/]
+
+Incidentally, I would like to provide a small amount of information.
+
+This is because the Zündapp KS750(motor cycle, 88mm Flak36/37 included) part is deviated from the center line, but the shape of the Leopold part is asymmetrical.
+
+[IMAGE: https://www.therpf.com/forums/attachments/tie-bomber_leopord-jpg.1837723/]
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #5551143)
+Author    : thibkaji
+Date      : Jul 8, 2024 at 11:03 AM
+Reactions : Like — joberg, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+ymmt713yk said:
+
+			Regarding the 13th photo.
+
+4 panel lines, no required.
+
+View attachment 1837722
+
+Incidentally, I would like to provide a small amount of information.
+
+This is because the Zündapp KS750(motor cycle, 88mm Flak36/37 included) part is deviated from the center line, but the shape of the Leopold part is asymmetrical.
+
+View attachment 1837723
+
+Click to expand...
+
+Wow, I didn’t even see that.  Need to heed my own words of “check your references closely”!  Guess I’ve got some some filling to do on that dome.
+
+Thanks for pointing out that asymmetry on the back there.  Very hard to see from the references I have, but pretty clear there.  Appreciate it!
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #5551198)
+Author    : chazzychaz
+Date      : Jul 8, 2024 at 2:09 PM
+Reactions : Like — joberg, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+Thank you for sharing your discovery.
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #5552060)
+Author    : thibkaji
+Date      : Jul 11, 2024 at 3:12 PM
+Reactions : Like — JimmyB, joberg, ymmt713yk
+────────────────────────────────────────────────────────────────────────
+
+Been a minute since I posted an update.  I promised a bomb chute, wing details and molding goodness. So here we go!
+
+The bomb chute is mostly made up of Mörser Karl parts, with some Hanomag, Leopold, and Sd.Ah.52 thrown in for fun!  I cut all my needed parts out and got them ready for modification and assembly.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0644-jpeg.1838741/]
+
+I chose to start with the lower section.  I cut up the Karl parts to make up the left/right halves of that section, noting that (from the front) the left side section is a little wider than the right.  Shown here, the dark gray section is the wider part.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0645-jpeg.1838742/]
+
+To give some rigity to the parts when glued end-to-end, I went ahead and glued some thin strip material behind it for support.  Did two supports in the back to work around the gap in the cut halves, as that’s a visible gap on the filming model.  The front doesn’t have this gap, so I centered it more.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0651-jpeg.1838743/]
+
+You can see that gap on the back here.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0767-jpeg.1838775/]
+
+After gluing the two halves around the Leopold parts, I sanded the bottom sections that extended past it flush, and attached the Hanomag parts front and back.  I also cut out the opening on the bottom.  There’s also another Mörser Karl part that gets glued in on the bottom, but I forgot to snag a pic of that (update:  added the pic of the bottom!).
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0655-jpeg.1838744/]
+
+Karl part on the bottom:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0768-jpeg.1838777/]
+
+And on the bottom for mine as well:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0844-jpeg.1841737/]
+
+On top there are two additional boxes from the Karl that get mounted on either side, along with what I think are axles from the Sd.Ah.52.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0666-jpeg.1838747/]
+
+Lastly, cut off three parts off two F47s from the Karl that get glued back-to-back to make up the center support/chute section that connect back to the fuselage.  I carefully aligned the markings on the sides of the chute to the references and sanded the top section to fit to the fuselage.  Finally, glued that section in and with that the bomb drop/chute section is complete!
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0845-jpeg.1841738/]
+
+And with that, on to the outer wing details.  I checked multiple references and came up with discrepancies between Moskas parts reference and actual pics of the filming model, so of course went with the latter.  Most of this was attaching .040” half-rounds to the outer wings, and .010” thick stock cut into various shapes where applicable.  Finally, gun barrels from the Rodney were added along the tops of the wings, which is the only place those appear to be.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0684-jpeg.1838754/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0688-jpeg.1838755/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0687-jpeg.1838757/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0691-jpeg.1838758/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0715-jpeg.1838759/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0716-jpeg.1838760/]
+
+You get the idea! LOL
+
+Now, onto molding fun!  On one of my previous posts I made up a wing connector and said I didn’t ever want to do that again.  So making a cast of the part seemed like the next logical solution.
+
+I won’t bore everyone with the details of how to make a mold (YouTube is great for that), but suffice to say after 1-2 tries, I was able to make a very good copy of the wing connector.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0746-jpeg.1838763/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0747-jpeg.1838764/]
+
+Is it perfect?  No.  One or two strut holes on the leopold parts aren’t as crisp as the original, but it’s good enough for me!
+
+Looks pretty good on the wing.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0749-jpeg.1838766/]
+
+I’m going with it.  If others find they want a copy I can run some off, but for me, I’ll do one wing with the cast part and one with the original scratch build.
+
+Next up is casting the remaining parts that I need.  I’ve done a few of them, including the Leopold A7s for the front of the wing tube sections.  Shown here with the original.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0753-jpeg.1838772/]
+
+A few of my molding attempts have not gone as well.  Gonna try remolding some parts this weekend from single- to two-part molds in the hopes it provides better results.  We’ll see how it goes.
+
+Til next time, keep on scratchin!
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #5552229)
+Author    : joberg
+Date      : Jul 12, 2024 at 7:48 AM
+Reactions : Like — stevielewis, thibkaji
+────────────────────────────────────────────────────────────────────────
+
+Quite a few details to digest in that new update
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ It's looking very good so far
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #5552996)
+Author    : Boxcar Bret
+Date      : Jul 14, 2024 at 4:15 PM
+Reactions : Like — joberg, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+thibkaji said:
+
+			Time for another update.  Lots of small incremental steps as I wait to get my hands on an armature as I’m not well-equipped to machine one myself.  Lets’s jump in!
+
+What better place to start than the fuselage bodies?
+
+I don’t have a lathe.  I considered sending the bodies out to have them precision machined, but decided I’d have a go at cutting the 12 grooves to make the 11 “ribs” that go around the fuselages.  Worst case is a botch them up and just have a set made for me later.
+
+I started by measuring .375” from the front end of the 2” OD Plastruct tube and marking that with a parallel scriber.  I then placed dymo tape right up against that line to create a straight edge for scribing.
+
+View attachment 1837101
+
+I then used my old Tamiya scriber and carefully went around the tube.  Once I’d made 3-4 passes, I removed the Dymo tape and finished widening the line until it was close to the proper measurement (around .6 mm).  I then added that line width and the rib width to the parallel scriber and scribed the next guide line.  More dymo tape, more scribing.  Repeat.
+
+View attachment 1837102
+
+Eventually got them all done.  Cut the tube to length, then repeated it all again for the other tube.  Measurements all came out super close to correct, and while it’s not 100% accurate, I think it’s certainly good enough to pass!
+
+View attachment 1837103
+
+Next I measured out the center lines and figured out where the holes for the main support tubes had to go.  Drilled those out using a step drill bit.  Keeping all of that centered properly was a chore, but I consoled myself that once I have a center block of something is slight off I’ll have room to adjust.
+
+Threw the bodies on the tube — I’m pretty happy with how they turned out!
+
+View attachment 1837104
+
+View attachment 1837105
+
+Next up, the cockpit dome.   I had a pair of VHH-200VG domes, so first thing was to cut them down to size.  As others have done, one of the easiest ways to get the height to be consistent is to cut it off on a drill press with a cutting wheel.
+
+View attachment 1837077
+
+Now that the height is close, I snuck up on it using some sandpaper until it looked just right.  I wanted the inner lip of the Vader cockpit window to sit inside of the dome, so I also cut/sanded that until it fit right in, nice and flush.
+
+View attachment 1837078
+
+View attachment 1837080
+
+With that done, I needed to scribe the vertical lines coming off of the vertices of the cockpit window.  This was a bit challenging, as the spacing is NOT equidistant between the spokes around the edge of the window.  So, I made indicator marks to align the window to keep it straight.
+
+Taking a page out of Boxcar Bret ’s build, I made a jig to sit the dome into so that I could get some straight, vertical lines.
+
+View attachment 1837086
+
+Once the lines were drawn, I applied dymo tape to the line and started scribing.
+
+View attachment 1837087
+
+View attachment 1837088
+
+Welp, that didn’t actually work out how I wanted.  Because of the curvature of the dome, as soon as you stuck down the dymo tape, it started to curve to one side, resulting in a line that veered one way or the other off-center.  This wasn’t good.
+
+At this point I also noticed that the height was also off.  I had a small lip around the outside edge of the cockpit window, and per the reference, that should come up right under the cockpit.  Always check, double-check, and triple-check your references!!!   Good thing I had a spare dome!!
+
+View attachment 1837089
+
+View attachment 1837090
+
+Since I’d already messed this one up, I also had a go at doing the horizontal scribing.  This was done by using a parallel scriber to mark the locations where the panel lines cross the verticals, then placing dymo tape from one intersection to the other.  For these lines you WANT there to be a curve, and the dump tape provides that beautifully.  So, a little practice before starting again.
+
+View attachment 1837093
+
+View attachment 1837092
+
+View attachment 1837094
+
+OK, so second go at the cockpit, but proper height this time.  Plus I scribed the vertical lines using the jig to keep them straight.
+
+View attachment 1837095
+
+Add the horizontal panels lines as described above, and finally using a pin vise and micro drill bit, add on the rivets.
+
+View attachment 1837096
+
+With the cockpit window attached.
+
+View attachment 1837097
+
+Test fit to the fuselage.
+
+View attachment 1837098
+
+View attachment 1837099
+
+View attachment 1837100
+
+She’s starting to look like a ship!
+
+Next up — bomb chute, wing details, and creating molds.
+		
+
+Click to expand...
+
+Great job on the scribing! You got me! I never noticed that lip for the window frame and missed it.
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #5553201)
+Author    : ymmt713yk
+Date      : Jul 15, 2024 at 10:12 AM
+Reactions : Wow — joberg
+────────────────────────────────────────────────────────────────────────
+
+thibkaji said:
+
+			Been a minute since I posted an update.  I promised a bomb chute, wing details and molding goodness. So here we go!
+
+The bomb chute is mostly made up of Mörser Karl parts, with some Hanomag, Leopold, and Sd.Ah.52 thrown in for fun!  I cut all my needed parts out and got them ready for modification and assembly.
+
+View attachment 1838741
+
+I chose to start with the lower section.  I cut up the Karl parts to make up the left/right halves of that section, noting that (from the front) the left side section is a little wider than the right.  Shown here, the dark gray section is the wider part.
+
+View attachment 1838742
+
+To give some rigity to the parts when glued end-to-end, I went ahead and glued some thin strip material behind it for support.  Did two supports in the back to work around the gap in the cut halves, as that’s a visible gap on the filming model.  The front doesn’t have this gap, so I centered it more.
+
+View attachment 1838743
+
+You can see that gap on the back here.
+
+View attachment 1838775
+
+After gluing the two halves around the Leopold parts, I sanded the bottom sections that extended past it flush, and attached the Hanomag parts front and back.  I also cut out the opening on the bottom.  There’s also another Mörser Karl part that gets glued in on the bottom, but I forgot to snag a pic of that (I’ll update once I get one).
+
+View attachment 1838744
+
+Karl part on the bottom:
+
+View attachment 1838777
+
+On top there are two additional boxes from the Karl that get mounted on either side, along with what I think are axles from the Sd.Ah.52.
+
+View attachment 1838747
+
+Lastly, cut off three parts off two F47s from the Karl that get glued back-to-back to make up the center support/chute section that connect back to the fuselage.  I carefully aligned the markings on the sides of the chute to the references, but stopped short of gluing it in.  I need to sand the top section to fit to the fuselage, and so am waiting until that’s all set to finish the attachment.
+
+And with that, on to the outer wing details.  I checked multiple references and came up with discrepancies between Moskas parts reference and actual pics of the filming model, so of course went with the latter.  Most of this was attaching .040” half-rounds to the outer wings, and .010” thick stock cut into various shapes where applicable.  Finally, gun barrels from the Rodney were added along the tops of the wings, which is the only place those appear to be.
+
+View attachment 1838754
+
+View attachment 1838755
+
+View attachment 1838757
+
+View attachment 1838758
+
+View attachment 1838759View attachment 1838760
+
+You get the idea! LOL
+
+Now, onto molding fun!  On one of my previous posts I made up a wing connector and said I didn’t ever want to do that again.  So making a cast of the part seemed like the next logical solution.
+
+I won’t bore everyone with the details of how to make a mold (YouTube is great for that), but suffice to say after 1-2 tries, I was able to make a very good copy of the wing connector.
+
+View attachment 1838763
+
+View attachment 1838764
+
+Is it perfect?  No.  One or two strut holes on the leopold parts aren’t as crisp as the original, but it’s good enough for me!
+
+Looks pretty good on the wing.
+
+View attachment 1838766
+
+I’m going with it.  If others find they want a copy I can run some off, but for me, I’ll do one wing with the cast part and one with the original scratch build.
+
+Next up is casting the remaining parts that I need.  I’ve done a few of them, including the Leopold A7s for the front of the wing tube sections.  Shown here with the original.
+
+View attachment 1838772
+
+A few of my molding attempts have not gone as well.  Gonna try remolding some parts this weekend from single- to two-part molds in the hopes it provides better results.  We’ll see how it goes.
+
+Til next time, keep on scratchin!
+		
+
+Click to expand...
+
+I'm rooting for everyone.
+
+[IMAGE: https://www.therpf.com/forums/attachments/tb-panel-jpg.1839899/]
+
+What do you guys think?
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #5553236)
+Author    : thibkaji
+Date      : Jul 15, 2024 at 11:40 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+ymmt713yk said:
+
+			I'm rooting for everyone.
+
+View attachment 1839899
+
+What do you guys think?
+		
+
+Click to expand...
+
+I think you might be right about the rounded parts at the front of the wing there, given that end profile.
+
+I’m not quite sure what you mean by “square” and use 37/38.  Which parts are you referring for that?  From the Junyo but not #40?  Can you clarify a bit here?
+
+There is an odd curve there on the wing behind that part, but to me that looks like a hole from drilling through from the back side for the mounting poles.  I don’t think that relates to the parts used.
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #5553241)
+Author    : thibkaji
+Date      : Jul 15, 2024 at 11:50 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+I posted this over on Facebook, as well, but trying to confirm if the small round caps that go onto the Mörser Karl parts on the wing connectors is part B3 from the Mörser Karl.  The shape isn’t exactly right I think, but it’s the closest part I’ve been able to find so far.
+
+Wing connector casting with parts circled in red (stole this image from Bret’s build):
+
+[IMAGE: https://www.therpf.com/forums/attachments/screen-shot-2024-07-14-at-11-58-38-pm-jpeg.1839941/]
+
+Wing connection, again parts in question circled in red (not the Hanomag parts):
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0819-jpeg.1839942/]
+
+B3 from the Mörser Karl:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0821-jpeg.1839943/]
+
+Trimmed up and test fit into place:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0834-jpeg.1839945/]
+
+My major reservation here is the shape of the protrusion, which looks rounded over on both the castings I’ve seen (see above) and the reference photos.  I can make this work by rounding over the top, but maybe there’s a different part used here?  Feels odd to me that ILM would heavily modify 8 of these just to cap that off — more likely there’s another part that all ready to go.
+
+Anyone have any other ideas?
+────────────────────────────────────────────────────────────────────────
+Post #28  (forum post #5553311)
+Author    : ymmt713yk
+Date      : Jul 15, 2024 at 2:36 PM
+Reactions : Like — joberg, thibkaji
+────────────────────────────────────────────────────────────────────────
+
+thibkaji said:
+
+			I think you might be right about the rounded parts at the front of the wing there, given that end profile.
+
+I’m not quite sure what you mean by “square” and use 37/38.  Which parts are you referring for that?  From the Junyo but not #40?  Can you clarify a bit here?
+
+There is an odd curve there on the wing behind that part, but to me that looks like a hole from drilling through from the back side for the mounting poles.  I don’t think that relates to the parts used.
+		
+
+Click to expand...
+
+These are the parts of TIE Fighter(MPC).
+
+[IMAGE: https://www.therpf.com/forums/attachments/tb-panel02-jpg.1839987/]
+
+I don't know the part number because I was away from sprue.
+
+No.37 and No.38 are both used.
+
+You are right. Only parts of the hole is visible.
+────────────────────────────────────────────────────────────────────────
+Post #29  (forum post #5553316)
+Author    : swgeek
+Date      : Jul 15, 2024 at 2:42 PM
+Reactions : Like, Love — joberg, thibkaji
+────────────────────────────────────────────────────────────────────────
+
+You could always ask the guy who did the master of the piece you have pictured. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+The parts in question come from the Tamiya 1/35 Hanomag.
+────────────────────────────────────────────────────────────────────────
+Post #30  (forum post #5553318)
+Author    : thibkaji
+Date      : Jul 15, 2024 at 2:42 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+ymmt713yk said:
+
+			These are the parts of TIE Fighter(MPC).
+
+View attachment 1839987
+
+I don't know the part number because I was away from sprue.
+
+No.37 and No.38 are both used.
+
+You are right. Only parts of the hole is visible.
+		
+
+Click to expand...
+
+Gotcha!  Yes, pointing out the arrangement of the covers and how they aren’t the same part even though the wings are.
+────────────────────────────────────────────────────────────────────────
+Post #31  (forum post #5553364)
+Author    : thibkaji
+Date      : Jul 15, 2024 at 4:33 PM
+Reactions : Like, Wow — joberg, stevielewis, swgeek
+────────────────────────────────────────────────────────────────────────
+
+swgeek said:
+
+			You could always ask the guy who did the master of the piece you have pictured. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+The parts in question come from the Tamiya 1/35 Hanomag.
+		
+
+Click to expand...
+
+Son-of-a….!  I poured over those parts and didn’t see it, but now looking again it’s right there, C5!  Can’t believe I missed that!
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0839-jpeg.1840045/]
+
+Thanks for the intel, Jonathan!  Much appreciated!
+────────────────────────────────────────────────────────────────────────
+Post #32  (forum post #5553425)
+Author    : chazzychaz
+Date      : Jul 15, 2024 at 5:58 PM
+Reactions : Like — joberg, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+These are spectacuar posts.
+────────────────────────────────────────────────────────────────────────
+Post #33  (forum post #5558409)
+Author    : thibkaji
+Date      : Jul 30, 2024 at 10:00 AM
+Reactions : Like — Padawan311, joberg, JimmyB
+────────────────────────────────────────────────────────────────────────
+
+Small update — made a lot of progress on the interior of the wings the last two weeks.  Still not done, but close.
+
+Shot of both wing interiors:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0872-jpeg.1845364/]
+
+Each wing on its own:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0874-jpeg.1845366/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0873-jpeg.1845365/]
+
+It’s really coming together with the wings kitted out.  So much detail here, can’t wait to paint them!
+
+Closer view in on the kit parts.  Those Hanomag caps that swgeek ID’d for me the other week really help finish it off.  Everything that’s white and not the wing connector is a casting I made.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0875-jpeg.1845369/]
+
+View of the other wing from another angle (this wing connector is a casting I made):
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0876-jpeg.1845370/]
+
+I also made progress on the wing exterior cap pieces from the Vader TIE:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0879-jpeg.1845371/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0880-jpeg.1845372/]
+
+And finally, placed in position on the wings.  They still need to have the holes drilled out for the pin connectors, but I’ll probably do that toward the end of the build.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0881-jpeg.1845373/]
+
+Last thing I managed to make decent progress on is casting the Saturn V components for the rear of the fuselages.  Sorry I don’t have pics of the process of cutting them off the original kit parts and sanding down to size, I got in a zone and just got it done.  Honestly, hard to tell which is the casting and which is original:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0884-jpeg.1845374/]
+
+Dry-fitting on the back:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0888-jpeg.1845375/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0889-jpeg.1845376/]
+
+All-in-all it’s really coming along!  Til next update!
+────────────────────────────────────────────────────────────────────────
+Post #34  (forum post #5558413)
+Author    : swgeek
+Date      : Jul 30, 2024 at 10:07 AM
+Reactions : Like — joberg, ganesha7, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+Looking good! 
+
+Just to be clear, I didn't discover the Hanomag parts, I just let people know what others had discovered.
+────────────────────────────────────────────────────────────────────────
+Post #35  (forum post #5558425)
+Author    : thibkaji
+Date      : Jul 30, 2024 at 10:40 AM
+Reactions : Like — joberg, ganesha7, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+swgeek said:
+
+			Looking good!
+
+Just to be clear, I didn't discover the Hanomag parts, I just let people know what others had discovered.
+		
+
+Click to expand...
+
+You ID’d the part for me, which is all I meant by it.  I know that identification of the kit parts on so many of these studio scale builds is a group effort by many folks.  I just appreciate you pointing it out to me when I completely missed it!
+────────────────────────────────────────────────────────────────────────
+Post #36  (forum post #5558568)
+Author    : mjhenks
+Date      : Jul 30, 2024 at 5:24 PM
+Reactions : Like — joberg, stevielewis, thibkaji
+────────────────────────────────────────────────────────────────────────
+
+Looking great.  Love the close-up shots of the build un-painted.  Easy to see what is what.
+────────────────────────────────────────────────────────────────────────
+Post #37  (forum post #5558649)
+Author    : stevielewis
+Date      : Jul 31, 2024 at 5:35 AM
+Reactions : Like — joberg, thibkaji
+────────────────────────────────────────────────────────────────────────
+
+Very nice work. It's coming along nicely. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #38  (forum post #5558660)
+Author    : thibkaji
+Date      : Jul 31, 2024 at 6:28 AM
+Reactions : Like — joberg, stevielewis, ganesha7
+────────────────────────────────────────────────────────────────────────
+
+mjhenks said:
+
+			Looking great.  Love the close-up shots of the build un-painted.  Easy to see what is what.
+		
+
+Click to expand...
+
+Thanks!  That’s a large part of the intention with this, so that anyone else who comes along and wants to build has some clear guidance and pictures of what’s needed.
+────────────────────────────────────────────────────────────────────────
+Post #39  (forum post #5561026)
+Author    : joberg
+Date      : Aug 7, 2024 at 9:46 AM
+Reactions : Like — stevielewis, thibkaji
+────────────────────────────────────────────────────────────────────────
+
+Excellent update and those wings are utterly lovely
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #40  (forum post #5561257)
+Author    : thibkaji
+Date      : Aug 8, 2024 at 6:53 AM
+Reactions : Like, Love — ganesha7, stevielewis, swgeek
+────────────────────────────────────────────────────────────────────────
+
+It’s been a minute since my last update but wanted to post some progress I’ve made on some of the center-block surrounds over the last week or so.
+
+Firstly, easiest one to make without having an armature to use for dimensions is the top plate.  It’s comprised of a few cut-off sections from the Leopold, with old tooling Shinano parts (#29) on top.  This assembly sits atop the center block pretty much as is, and is an easy tackle.
+
+Here are the two main parts used:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0916-jpeg.1848505/]
+
+And now stacked atop each other:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0917-jpeg.1848506/]
+
+Last bits needed are the Shinano parts, and you’ve got a complete top greeblie:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0927-jpeg.1848507/]
+
+For the front panel, you need a lot of parts from different kits, including the Prince of Wales, the Rodney, SD.AH.52, Leopold, and Flak 36/37.
+
+Started with two sheets of .030” styrene glued back to back to form the base plate I’ll mount everything to.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0929-jpeg.1848510/]
+
+Next, I used Moska’s parts guide, which is dimensionally pretty close to actual size, to figure out the curves needed to fit between the fuselages.  I also marked center lines and rough estimates of where the parts needed to go.
+
+It isn’t clear from any of the references exactly where the Prince of Wales part is supposed to go on the front panel — is it attached to the panel itself, or does it attach to the armature block?  I opted to attach to the panel, so I cut out a notch in the bottom of the base plate for the front and glued in the part:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0947-jpeg.1848512/]
+
+I next attached to the Rodney part the components that connect directly to it and then mounted that to the base plate:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0930-jpeg.1848513/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0948-jpeg.1848515/]
+
+Next, attached the sloping side pieces flush to the base:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0949-jpeg.1848514/]
+
+The last parts I attached are the two parts on top (circled here):
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0965-jpeg.1848516/]
+
+Looking at the references, it’s pretty clear to me that they are not flush the front surface of the Rodney part but instead protrude past it.
+
+Here you can see a shadow underneath those parts as they stick out:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0959-jpeg.1848517/]
+
+So, I did the same, making the back sides flush to the Rodney part and sticking out past it:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0951-jpeg.1848518/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0950-jpeg.1848519/]
+
+I think it looks pretty good overall.  Will have to fine-tune it more once I get my new fuselage tubes mounted to the armature I just received from mjhenks, but for now, I’m thrilled with it.
+
+Well, break times over.  I’ll try and post another small update soon.  After that, I imagine that things will lstart moving much more quickly on this build.  Til next time!
+────────────────────────────────────────────────────────────────────────
+Post #41  (forum post #5561263)
+Author    : mjhenks
+Date      : Aug 8, 2024 at 7:26 AM
+Reactions : Like — stevielewis, thibkaji, joberg
+────────────────────────────────────────────────────────────────────────
+
+Looks right to my untrained eye.  Thank you for laying it out step by step.  Makes it easy to understand.
+────────────────────────────────────────────────────────────────────────
+Post #42  (forum post #5561375)
+Author    : thibkaji
+Date      : Aug 8, 2024 at 2:44 PM
+Reactions : Like, Love — Ogibendogy, rbeach84, jkno
+────────────────────────────────────────────────────────────────────────
+
+Welp, I’m sitting at the airport bar waiting on my flight and thought, how about another mini-update?  So here goes…
+
+I took a stab at the back panel on the center block.  The layout from moska’s parts diagram doesn’t quite align with what I’m seeing in the reference, so I opted for the reference!
+
+As you can see, the right tab that sticks out from the Sd.Ah.52 (green part) should pretty much be centered to the Shinano parts on the top, which itself is pretty much centered on the top of the center block.  Also, the distance between the left tab to the fuselage is much smaller than on the diagram.  This means the part should be attached further to the left.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0966-jpeg.1848654/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0953-jpeg.1848655/]
+
+Based on that configuration, I ended up with this alignment for the back panel:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0954-jpeg.1848657/]
+
+I’ll double-check those dimensions once I’ve got the armature positioning set, but this should be pretty close.
+
+The last thing I’ve got an update for is attaching some components to the top of the cockpit fuselage.
+
+I cut and sanded the Flak 36/37 part that goes in the side at an angle so it would fit properly:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0933-jpeg.1848659/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0934-jpeg.1848660/]
+
+Then I went to grab the small Flak 36/37 part that goes between the front nibs and it was broken!  One side was missing!  So, I did what anyone would do — measured the diameter of the existing half, and made a new one from styrene rod:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0936-jpeg.1848661/]
+
+Good enough for government work!
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0937-jpeg.1848662/]
+
+Last part I’ve attached (for now) is the Mörser Karl part that’s all over this kit.  If you look at the reference, the part needs to be sanded on an angle to meet up nice and flush to the angled front of that Leopold part:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0938-jpeg.1848663/]
+
+A near perfect fit!  A little glue and that’ll melt on flush.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0939-jpeg.1848664/]
+
+Well, that’s about it for now.  I had messed up my fuselage tubes due to some mis-measurements and thought I was going to have to make new ones, but mjhenks threw in some new tubes with the armature I got from him, so I’m back in business.  In the meantime I’d cut some spare tubing to size without the ribbing just to test fit and get an idea for sizing, so here are a few rough assembly pics showing the new armature, temp tubes, and some of the assemblies I’ve posted about.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0957-jpeg.1848665/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0958-jpeg.1848666/]
+
+It’s really starting to shape up!
+
+Next up — getting the new tubes cut to the armature, mounted, and start scribing the new tubes!  Til next time!
+────────────────────────────────────────────────────────────────────────
+Post #43  (forum post #5561584)
+Author    : joberg
+Date      : Aug 9, 2024 at 11:04 AM
+Reactions : Like — Boxcar Bret, stevielewis, thibkaji
+────────────────────────────────────────────────────────────────────────
+
+Beauty all around
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #44  (forum post #5561951)
+Author    : Boxcar Bret
+Date      : Aug 10, 2024 at 5:32 PM
+Reactions : Like, Love — joberg, thibkaji, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+It's crazy to watch someone go through the same journey I just went through. I look at your in progress pics and then look at my finished model in disbelief. I'm simultaneously in awe at the fact that mine was once in the current state as yours and excited for what lies ahead for you.
+────────────────────────────────────────────────────────────────────────
+Post #45  (forum post #5562055)
+Author    : stevielewis
+Date      : Aug 11, 2024 at 5:42 AM
+Reactions : Like — joberg, thibkaji
+────────────────────────────────────────────────────────────────────────
+
+Fantastic work! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #46  (forum post #5562116)
+Author    : thibkaji
+Date      : Aug 11, 2024 at 9:55 AM
+Reactions : Like — joberg, Boxcar Bret, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+Boxcar Bret said:
+
+			It's crazy to watch someone go through the same journey I just went through. I look at your in progress pics and then look at my finished model in disbelief. I'm simultaneously in awe at the fact that mine was once in the current state as yours and excited for what lies ahead for you.
+		
+
+Click to expand...
+
+I can only imagine! Your build has been of infinite assistance to mine, pointing out pitfalls and things to pay attention to.  I’m just hoping to add to that any way I can.  I also see how yours finished, and am just hoping I’m able to get half as good of a result with mine.
+────────────────────────────────────────────────────────────────────────
+Post #47  (forum post #5563185)
+Author    : thibkaji
+Date      : Aug 15, 2024 at 12:38 PM
+Reactions : Like, Love — Padawan311, BajaTym, rbeach84
+────────────────────────────────────────────────────────────────────────
+
+Back on the bench!
+
+New tubes have been drilled out and cut to fit around the armature.  My first set of tubes I used a cutting blade and small saw blade to cut out the boxes, but I took a different approach this time around.  I chose to use Dymo tape to mark the line I needed to cut, then used my old Tamiya scribing tool to cut through the tube and get a very straight line:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0976-jpeg.1850735/]
+
+Did that twice, made sure the tubes were centered to the armature, and I think it’s looking pretty good!
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0977-jpeg.1850734/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0978-jpeg.1850736/]
+
+With that out of the way, decided it was time to scribe panels onto the tubes.  I used the references and Moska’s parts map to transfer the locations of the panel lines over to the fuselages.  Once there with pencil, I checked the locations using kit parts and adjusted as needed.  To scribe the lines, I again used Dymo tape to create a nice straight line.  I also used a different scribe tool to cut the grooves — the Tamiya engraving blade holder with a .25mm wide cutting blade.  This allowed for very fine control over the blade, and the Dymo tape ensures the cut line is straight.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1023-jpeg.1850737/]
+
+And the results:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0981-jpeg.1850738/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0979-jpeg.1850739/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0989-jpeg.1850740/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0991-jpeg.1850741/]
+
+I also want to call out these specific panel lines on the sides of the fuselages around the Harrier parts.  It’s hard to see on the some of the references out there, but are present on both sides.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0980-jpeg.1850742/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0990-jpeg.1850745/]
+
+Those scribed sides on the filming model:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1002-jpeg.1850766/]
+
+And with that out of the way, I mounted the tubes back onto the armature and used 2-part epoxy resin to secure them in place. They’re not going anywhere!
+
+I have now finally reached the eagerly-anticipated point where I can start mounting kit parts!!
+
+Had a go with the bomb-side fuselage first.  Haven’t gotten too far, but attached some parts on the top:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0992-jpeg.1850749/]
+
+I also attached some strips of styrene along the fuselages where appropriate:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0994-jpeg.1850752/]
+
+Test fitting some more parts.  Very satisfying to attach these components and see this thing start to come to life!
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0999-jpeg.1850755/]
+
+Rear panel installed:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1007-jpeg.1850765/]
+
+Attached the Saturn V rings that go in the back.  I’ll attach the other Saturn V parts once I get in some red 3mm LEDs and wire them up.  Not planning to light this thing, but want the wiring in there for accuracy.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1009-jpeg.1850756/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1010-jpeg.1850760/]
+
+And that’s where I’ll leave it for now.  Next update should be attaching the rest of the parts on top and bottom of the fuselages, and wiring up the Saturn V/LEDs for the back.  Things are moving, and I can see the finish line ahead!
+
+TIL next time, keep in scratchin’!
+────────────────────────────────────────────────────────────────────────
+Post #48  (forum post #5563205)
+Author    : mjhenks
+Date      : Aug 15, 2024 at 2:03 PM
+Reactions : Like — joberg, stevielewis, thibkaji
+────────────────────────────────────────────────────────────────────────
+
+Quite the update.  Great images of the scribe lines.  You say you used more than one scribe tool.  Are you suggesting the scribe marks are different widths or that some tools were easier to get the job done with?
+
+What are the three small white lines in your 13th picture?  It is of the bottom showing the white styrene strip.
+────────────────────────────────────────────────────────────────────────
+Post #49  (forum post #5563214)
+Author    : Boxcar Bret
+Date      : Aug 15, 2024 at 2:32 PM
+Reactions : Like — joberg, stevielewis, thibkaji
+────────────────────────────────────────────────────────────────────────
+
+You are KILLING it, my friend!
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #50  (forum post #5563219)
+Author    : thibkaji
+Date      : Aug 15, 2024 at 2:52 PM
+Reactions : Like — joberg, stevielewis, Scott Graham
+────────────────────────────────────────────────────────────────────────
+
+mjhenks said:
+
+			Quite the update.  Great images of the scribe lines.  You say you used more than one scribe tool.  Are you suggesting the scribe marks are different widths or that some tools were easier to get the job done with?
+
+What are the three small white lines in your 13th picture?  It is of the bottom showing the white styrene strip.
+		
+
+Click to expand...
+
+Those are actually where I accidentally over-scribed a few lines.  They weren’t supposed to extend that far on the bottom there, so I filled them with putty.
+
+As for tools, for basic cutting of the opening on the tubes to fit around the armature the standard Tamiya scriber was used.  For all of the panel lines I used the engraving tool with .25mm blade.  One other thing I did do but didn’t mention (I’ll go back and edit) was go back over the scribed lines with the Tamiya scriber to add a bit of an angle to the grooves.  They felt too squared off so one pass with the scriber, which has a v-shaped blade, helped angle out the top edges just a bit.
+
+So, all the scribed lines for me were the same width, just used both tools to get the job done.  YMMV
+────────────────────────────────────────────────────────────────────────
+Post #51  (forum post #5563423)
+Author    : swgeek
+Date      : Aug 16, 2024 at 10:44 AM
+Reactions : Like, Wow — BajaTym, stevielewis, Rick Deckard
+────────────────────────────────────────────────────────────────────────
+
+Your build's looking great. If you don't mind a little constructive criticism?
+
+These panels are raised.
+
+[IMAGE: https://www.therpf.com/forums/attachments/20240816_104111-jpg.1850976/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/20240816_104039-jpg.1850977/]
+────────────────────────────────────────────────────────────────────────
+Post #52  (forum post #5563437)
+Author    : thibkaji
+Date      : Aug 16, 2024 at 11:21 AM
+Reactions : Like — stevielewis, swgeek, joberg
+────────────────────────────────────────────────────────────────────────
+
+swgeek said:
+
+			Your build's looking great. If you don't mind a little constructive criticism?
+
+These panels are raised.
+
+View attachment 1850976View attachment 1850977
+
+Click to expand...
+
+So I scribed those for nothing?!  Ah, man!!
+
+I never mind constructive criticism!  Anything feedback that makes my build better and more accurate is welcome!  Especially from you, good sir!
+
+None of the references I have showed a clear enough angle to indicate those were raised, so I mistakenly thought they were scribed.  Easy enough to fix!  Thanks for pointing that out, I’ll make the necessary changes.
+────────────────────────────────────────────────────────────────────────
+Post #53  (forum post #5563440)
+Author    : joberg
+Date      : Aug 16, 2024 at 11:23 AM
+Reactions : Like — stevielewis, thibkaji
+────────────────────────────────────────────────────────────────────────
+
+Great update seeing those greeblies taking their right places
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #54  (forum post #5563453)
+Author    : thibkaji
+Date      : Aug 16, 2024 at 11:56 AM
+Reactions : Like — joberg, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+Thanks!  Yes, it’s very satisfying to see this finally start coming together with all the greeblies.
+────────────────────────────────────────────────────────────────────────
+Post #55  (forum post #5563556)
+Author    : chazzychaz
+Date      : Aug 16, 2024 at 5:17 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Incredible progress, I'm living the build. I am stalled on mine. work is hectic af
+────────────────────────────────────────────────────────────────────────
+Post #56  (forum post #5564344)
+Author    : thibkaji
+Date      : Aug 19, 2024 at 11:53 AM
+Reactions : Love, Like — Padawan311, mjhenks, JimmyB
+────────────────────────────────────────────────────────────────────────
+
+Time for another update.  I said before that things are moving, and I feel like I made a huge leap over the last week.  The base crust is set, and now it's just adding on all the toppings!  Let's go!
+
+First things first -- addressing the scribed markings on the bottom of the bomb fuselage that should be raised panels. Cut some thin styrene sheet stock to size and glued those on right over top of the scribed section.  Covered it well, and should now be correct. ^_^
+
+[IMAGE: https://www.therpf.com/forums/attachments/bomb-fuselage-corrected-panels-jpg.1851876/]
+
+Next, I went after the Harrier ejector seat part that mounts to the sides of the fuselages.  I glues a piece of 1mm styrene sheeting to the bottom of the part to beef it up a bit.  I needs a bit more than the part has in order to be sized properly when attached.
+
+[IMAGE: https://www.therpf.com/forums/attachments/harrier-ejector-seat-1-jpg.1851877/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/harrier-ejector-seat-2-jpg.1851878/]
+
+Trimmed to size:
+
+[IMAGE: https://www.therpf.com/forums/attachments/harrier-ejector-seat-3-jpg.1851879/]
+
+I then worked on modifying the front end to curve it down like it is on the bomber, and sanded the back end around the 3/4" tube to get it shaped properly for where it meats up with the wing tube supports.  At this point I felt it was time to mold the part, so I made a mold and cast a resin copy:
+
+[IMAGE: https://www.therpf.com/forums/attachments/harrier-ejector-seat-4-jpg.1851880/]
+
+After that, it was just a matter of sanding down the underside to conform to the fuselage:
+
+[IMAGE: https://www.therpf.com/forums/attachments/harrier-ejector-seat-5-jpg.1851881/]
+
+And then stick it on.  It fits really well, I am delighted!
+
+[IMAGE: https://www.therpf.com/forums/attachments/harrier-ejector-seat-6-jpg.1851882/]
+
+Here it is with the backside Leopold A7 part attached along the tube.  Note that you have to cut the cross-brace off the backside of that part and shorten it a bit in order to make it both fit around the harrier parts' extended "fins" and be even with the frontside part.
+
+[IMAGE: https://www.therpf.com/forums/attachments/harrier-ejector-seat-7-jpg.1851883/]
+
+And the other side:
+
+[IMAGE: https://www.therpf.com/forums/attachments/harrier-ejector-seat-8-jpg.1851884/]
+
+Next component I went after is the Yamato (old tooling) part that attaches to the underside.  This is the only Yamato part on the model, and has the only Sd.Ah.51 part, as well.  So, I attached those two components together as shown here:
+
+[IMAGE: https://www.therpf.com/forums/attachments/yamato-1-jpg.1851886/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/yamato-2-jpg.1851887/]
+
+And then sanded the underside to conform to the bottom of the fuselage.
+
+[IMAGE: https://www.therpf.com/forums/attachments/yamato-3-jpg.1851888/]
+
+And mounted:
+
+[IMAGE: https://www.therpf.com/forums/attachments/yamato-4-jpg.1851889/]
+
+I then attached the 25 pounder part to the back of the Yamato part, as shown:
+
+[IMAGE: https://www.therpf.com/forums/attachments/yamato-5-wrong-jpg.1851890/]
+
+BUT!  This is the wrong position!  I was using Moska's parts guide for this, and the above placement lines up with that diagram:
+
+[IMAGE: https://www.therpf.com/forums/attachments/screen-shot-2024-08-19-at-2-21-52-pm-png.1851895/]
+
+However, the actual filiming model shows this as being mounted further around, basically centered on the Yamato part:
+
+[IMAGE: https://www.therpf.com/forums/attachments/screen-shot-2024-08-19-at-2-22-19-pm-png.1851897/]
+
+So I moved it around the correct position:
+
+[IMAGE: https://www.therpf.com/forums/attachments/yamato-corrected-jpg.1851891/]
+
+Whew!  That's better!
+
+Next I went after the A7 Leopold parts mounted onto the top/bottom of the cockpit fuselage.  In a previous post I shared how I added the various components to one of these parts -- now we get to attach it!
+
+First thing's first -- I needed two of those girder parts that donate their bent ends to the wing pylons, which go underneath the top/bottom Leopold parts.  I only had two Leopold kits, and used up both on those wing pylons, so I decided to get creative!  I decided to just glue together a few remnants from those Leopold parts with the other non-bent girder parts from the kit, giving me a part that pretty close, but a match for what you can actually see on the kit.
+
+[IMAGE: https://www.therpf.com/forums/attachments/fuselage-girder-1-jpg.1851904/]
+
+And mounted on the top.
+
+[IMAGE: https://www.therpf.com/forums/attachments/fuselage-girder-3-jpg.1851906/]
+
+You may notice that there are some filled scribe lines with new ones located about 1 mm to the side.  When I was fitting this part to the top and checking for proper positioning, I found that it was skewing closer to one of the scribed panel lines when centered properly on top instead of centered between them (see below).  I determined my positioning of the panel lines was off, so I filled them and cut new ones.  If I can offer some advice here -- dry-fit your parts after you've mounted your fuselage tubes to the armature to ensure they actually fall where you expect them -- then scribe your lines.  I was very close on mine, but off just a small amount in this area.  You live and learn!
+
+[IMAGE: https://www.therpf.com/forums/attachments/fuselage-girder-2-jpg.1851905/]
+
+And on the bottom:
+
+[IMAGE: https://www.therpf.com/forums/attachments/fuselage-girder-bottom-1-jpg.1851907/]
+
+And here it is with the large Leopold part from my prior post mounted.
+
+[IMAGE: https://www.therpf.com/forums/attachments/cockpit-top-1-jpg.1851899/]
+
+You'll probably notice that there's a small gap on the side there -- I could not for the life of me get this part to lay down so both sides of that top were flush to the fuselage.  I wasn't that concerned with the gap along the sides, as those would mostly be covered with other parts (coming up next), but it did leave a small gap along the front side that would be visible.  I'll fill that with some putty and sand flush before I mount the cockpit.
+
+[IMAGE: https://www.therpf.com/forums/attachments/cockpit-top-2-jpg.1851900/]
+
+And here the gaps are now covered using those additional parts:
+
+[IMAGE: https://www.therpf.com/forums/attachments/cockpit-top-4-jpg.1851902/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/cockpit-top-5-jpg.1851903/]
+
+Rinse and repeat for the bottom:
+
+[IMAGE: https://www.therpf.com/forums/attachments/cockpit-fuselage-bottom-1-jpg.1851898/]
+
+Last components added to those Leopold parts on top/bottom are the parts from the Stuka (I do have one Morser Karl part that needs to be attached to the bottom part, but I keep forgetting to do it). Here's an unmodified part with the modified part:
+
+[IMAGE: https://www.therpf.com/forums/attachments/stuka-1-jpg.1851910/]
+
+And attached, paying close attention to the orientation of the part from the references:
+
+[IMAGE: https://www.therpf.com/forums/attachments/stuka-2-installed-jpg.1851911/]
+
+I next addressed a few odds and ends.
+
+Parts mounted to the center block on front:
+
+[IMAGE: https://www.therpf.com/forums/attachments/center-front-1-jpg.1851915/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/center-front-2-jpg.1851916/]
+
+Bomb Chute attached:
+
+[IMAGE: https://www.therpf.com/forums/attachments/bomb-chute-4-jpg.1851912/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/bomb-chute-5-jpg.1851913/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/bomb-chute-6-jpg.1851914/]
+
+Took care of one of the "strut" components along the wing tubes -- others should be done by end of this week:
+
+[IMAGE: https://www.therpf.com/forums/attachments/bomb-side-strut-bottom-2-jpg.1851917/]
+
+And finally, mounted red LEDs to the rear fuselage "engines" and attached those to the fuselage backs.  I did connect some wiring up to the leds, but it's not functional -- it's more to complete the look of seeing wiring if you look through the front of the cockpit.
+
+[IMAGE: https://www.therpf.com/forums/attachments/fuselage-rear-thrusters-1-jpg.1851919/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/fuselage-rear-thrusters-2-jpg.1851920/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/fuselage-rear-thrusters-3-jpg.1851921/]
+
+And I think that's where I am now.  That was a HUGE update!  Got a lot more done, it's flying by now.  I think I might have another week or two of fiddling around to get parts attached and fine-tuned, and then it'll be time for primer.  Feels surreal to be honest.  I'll leave you all with a few current overall progress pics until I can get back to this.  Til next time, keep on scratchin'!
+
+[IMAGE: https://www.therpf.com/forums/attachments/bomber-progress-aug-19_1-jpg.1851924/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/bomber-progress-aug-19_3-jpg.1851925/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/bomber-progress-aug-19_4-jpg.1851926/]
+
+ 
+
+Attachments
+
+[IMAGE: 1494414-16aae4f3212431d47218e38e6d474eb6.jpg]
+
+Cockpit Top 3.jpg
+
+					2.4 MB
+					
+					· Views: 138
+────────────────────────────────────────────────────────────────────────
+Post #57  (forum post #5564546)
+Author    : joberg
+Date      : Aug 20, 2024 at 8:36 AM
+Reactions : Like — stevielewis, thibkaji
+────────────────────────────────────────────────────────────────────────
+
+Great update and you're, certainly, going by the book and only the book of building that bird
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #58  (forum post #5564626)
+Author    : stevielewis
+Date      : Aug 20, 2024 at 12:58 PM
+Reactions : Like — thibkaji
+────────────────────────────────────────────────────────────────────────
+
+Great update! Your build is looking wonderful. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #59  (forum post #5564769)
+Author    : ganesha7
+Date      : Aug 21, 2024 at 1:49 AM
+Reactions : Like — joberg, thibkaji, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+Fantastic work!
+
+Especially outstanding scribing.
+
+If you don't mind my asking, it would be great if you'd document the upcoming process of applying the pencil lines and dots to this beauty.
+
+I've followed almost every bomber build on this forum and that part is usually not well documented.
+
+Keep it up!
+────────────────────────────────────────────────────────────────────────
+Post #60  (forum post #5564941)
+Author    : thibkaji
+Date      : Aug 21, 2024 at 3:00 PM
+Reactions : Like — joberg, ganesha7, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+I’ll definitely keep that in mind when I get to that stage.  Certainly planning to document it, what works, what doesn’t, etc.
+────────────────────────────────────────────────────────────────────────
+Post #61  (forum post #5565236)
+Author    : mjhenks
+Date      : Aug 22, 2024 at 6:41 PM
+Reactions : Like — joberg, thibkaji, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+Fantastic update and progress.
+────────────────────────────────────────────────────────────────────────
+Post #62  (forum post #5567194)
+Author    : thibkaji
+Date      : Aug 29, 2024 at 6:46 PM
+Reactions : Like, Love — Padawan311, dirtydave, JD1
+────────────────────────────────────────────────────────────────────────
+
+OK, been a week and some change, but I'm coming down the home stretch!  Let's see where we're at!
+
+Continuing on from last time, I finished up the Leopold parts that get mounted to the tops/bottoms of the aluminum tubing.
+
+[IMAGE: https://www.therpf.com/forums/attachments/wing_connectors_trim_1-jpg.1855554/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/wing_connectors_trim_2-jpg.1855555/]
+
+Next, the first of a few corrections.  In an earlier post I showed that I put that one Prince of Wales piece that mounts to the front of the bomber directly attached to the front panel, as I didn't have a lot of good reference showing its position otherwise.  Boy was I blind!  The Chronicles Vehicles book actually shows its position pretty clearly.
+
+[IMAGE: https://www.therpf.com/forums/attachments/front-panel-bottom-2-png.1855541/]
+
+So, I decided to make the adjustment to place this component properly.
+
+[IMAGE: https://www.therpf.com/forums/attachments/front_lower_component_1-jpg.1855559/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/front_lower_component_2-jpg.1855560/]
+
+And now since I'd pulled this piece out of the original front panel assembly, I decided I needed to fix that panel.  I revisited the reference once again and decided that what I thought was two pieces of sheet stock is actually a single sheet and the back "panel" is the aluminum armature block itself.  So, went back to the drawing board and reconstructed the panel.  I also noted that there should be a pin that is visible through the center of the panel, so I rebuilt it with that in mind.
+
+[IMAGE: https://www.therpf.com/forums/attachments/front-panel-redo-1-jpg.1855542/]
+
+Note the hole drilled through the middle of this part now.
+
+[IMAGE: https://www.therpf.com/forums/attachments/front-panel-redo-2-jpg.1855543/]
+
+Side view, showing those protruding parts should be flush to the top of the backing sheet stock.
+
+[IMAGE: https://www.therpf.com/forums/attachments/front-panel-redo-3-jpg.1855544/]
+
+Mounting the pin.  I used small 1/16" dia brass pins I got from work.
+
+[IMAGE: https://www.therpf.com/forums/attachments/front-panel-redo-6-jpg.1855548/]
+
+I mounted the pin to a thin piece of sheetstock (.020" thick) and then mounted that through the hole on the back of the panel. This was trimmed to fit within the threaded hole on the front of the armature block so that the panel would sit flush.
+
+[IMAGE: https://www.therpf.com/forums/attachments/front-panel-redo-7-jpg.1855549/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/front-panel-redo-4-jpg.1855546/]
+
+You may have noticed above that I did, also, glue the bomber front to the fuselage. A better overall view:
+
+[IMAGE: https://www.therpf.com/forums/attachments/bomb-fuselage-front-1-jpg.1855523/]
+
+With that attached, time to connect the 8 "clips" from the Sd.Ah.52.  For the perimeter, these all need to be trimmed fairly close to make the parts site relatively level to the larger front section.
+
+[IMAGE: https://www.therpf.com/forums/attachments/sd-ah-51_1-jpg.1855550/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/sd-ah-51_2-jpg.1855551/]
+
+And get them attached:
+
+[IMAGE: https://www.therpf.com/forums/attachments/bomb-fuselage-front-2-jpg.1855524/]
+
+And 6 more makes 7:
+
+[IMAGE: https://www.therpf.com/forums/attachments/bomb-fuselage-front-3-jpg.1855525/]
+
+And this is where we hit up against correction number 2.  As you can see on the reference, this one clip part should be attached to the long Leopold part that runs the length of the fuselage.
+
+[IMAGE: https://www.therpf.com/forums/attachments/bomb-fuselage-front-5-jpg.1855528/]
+
+And... I'm off.  Looks like my scribing on the top here was off by about 1.5 mm or so.
+
+[IMAGE: https://www.therpf.com/forums/attachments/bomb-fuselage-front-4-jpg.1855526/]
+
+I considered leaving it and having just this one part be off...but, I can't.  I just can't.  *Sigh*  Popped off all the parts and used some Tamiya putty to fill in the grooves.
+
+[IMAGE: https://www.therpf.com/forums/attachments/bomb-fuselage-corrected-panels-2-jpg.1855521/]
+
+...it's better.  I'll adjust it more after primer, but good enough for now.
+
+[IMAGE: https://www.therpf.com/forums/attachments/bomb-fuselage-corrected-panels-3-jpg.1855522/]
+
+And the clip now fits in the proper location.
+
+[IMAGE: https://www.therpf.com/forums/attachments/bomb-fuselage-front-6-jpg.1855529/]
+
+While I'm messing with the front of the bomb fuselage, might as well go all in!  Mounted the other Sd.Ah.52 parts that go on the front.  A word of advice!!  Place a piece of tape across the opening.  Don't ask how I found this out...
+
+[IMAGE: https://www.therpf.com/forums/attachments/bomb-fuselage-front-7-jpg.1855530/]
+
+And the clip piece.  Used a toothpick to position it the proper distance up from the center.
+
+[IMAGE: https://www.therpf.com/forums/attachments/bomb-fuselage-front-8-jpg.1855531/]
+
+And that's the pair.
+
+[IMAGE: https://www.therpf.com/forums/attachments/bomb-fuselage-front-9-jpg.1855532/]
+
+Oh, and here's the bottom center panel all cleaned up.  It needs some additional stock in the center to make it accurate, but I'll do that later.
+
+[IMAGE: https://www.therpf.com/forums/attachments/center-bottom-1-jpg.1855538/]
+
+Last Morser Karl part added to the bottom:
+
+[IMAGE: https://www.therpf.com/forums/attachments/cockpit-fuselage-bottom-2-jpg.1855539/]
+
+I also mounted the cockpit dome to the fuselage, and added the last small part that was missing there:
+
+[IMAGE: https://www.therpf.com/forums/attachments/cockpit-top-6-jpg.1855540/]
+
+The wing end caps have what have been identified as pin connectors, likely for providing power to the lights, so I added some small 3mm dia brass tubing to the round sections on those endcaps.
+
+[IMAGE: https://www.therpf.com/forums/attachments/wing-caps-pins-1-jpg.1855552/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/wing-caps-pins-2-jpg.1855553/]
+
+Well, lots of little things but they add up to being almost finished.  I think I just need to permanently attach the cockpit front to the dome, add another pin to the front panel, figure out how I'm going to attach the wing endcaps/front panel/top panel so they are removable but firmly attached (probably magnets in some way), and finish up the bottom panel.  Then I think I'll be ready for primer!
+
+A few pics showing where we are.  It's been a long road to get here, and I can see the end of the road coming up fast.  Til next time, keep on scratchin'!
+
+[IMAGE: https://www.therpf.com/forums/attachments/bomber-progress-aug-27_3-jpg.1855533/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/bomber-progress-aug-27_6-jpg.1855535/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/bomber-progress-aug-27_7-jpg.1855536/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/bomber-progress-aug-27_8-jpg.1855537/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/bomber-progress-aug-27_4-jpg.1855534/]
+────────────────────────────────────────────────────────────────────────
+Post #63  (forum post #5567205)
+Author    : swgeek
+Date      : Aug 29, 2024 at 7:18 PM
+Reactions : Like — Padawan311, joberg, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+Having to rescribe sucks!
+
+Don't forget these...
+
+[IMAGE: https://www.therpf.com/forums/attachments/20240824_211707-jpg.1855569/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/20240824_211348-jpg.1855570/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/20240824_211235-jpg.1855571/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/kg_tie-bomber-045-jpg.1855572/]
+────────────────────────────────────────────────────────────────────────
+Post #64  (forum post #5567220)
+Author    : thibkaji
+Date      : Aug 29, 2024 at 8:33 PM
+Reactions : Like — joberg, stevielewis, swgeek
+────────────────────────────────────────────────────────────────────────
+
+Thanks for pointing those out swgeek !  Added them!
+────────────────────────────────────────────────────────────────────────
+Post #65  (forum post #5567273)
+Author    : stevielewis
+Date      : Aug 30, 2024 at 4:39 AM
+Reactions : Like — joberg, thibkaji
+────────────────────────────────────────────────────────────────────────
+
+Nice work!
+────────────────────────────────────────────────────────────────────────
+Post #66  (forum post #5567383)
+Author    : joberg
+Date      : Aug 30, 2024 at 10:36 AM
+Reactions : Like — stevielewis, thibkaji
+────────────────────────────────────────────────────────────────────────
+
+Beautiful at every angle
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #67  (forum post #5567648)
+Author    : thibkaji
+Date      : Aug 31, 2024 at 6:50 AM
+Reactions : Love, Like — Padawan311, ganesha7, Scott Graham
+────────────────────────────────────────────────────────────────────────
+
+Another update.  Added the missing panel parts that swgeek pointed out — confirmed in references that they’re on all four sides of the fuselage, so mine are, too.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1161-jpeg.1856007/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1162-jpeg.1856009/]
+
+Next, added the needed stock material to the bottom center panel to make it look correct.  As can be seen, there’s what looks to be two sheets of material — one thicker and one thinner.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1193-jpeg.1856026/]
+
+And mine:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1167-jpeg.1856029/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1166-jpeg.1856030/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1165-jpeg.1856031/]
+
+I mentioned in my last post I wanted to attach the wing caps to the wings with magnets, so I made that happen with some teeny-tiny magnets I had laying around.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1169-jpeg.1856027/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1168-jpeg.1856028/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1170-jpeg.1856014/]
+
+I also added the second pin to the front panel, both are now visible:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1163-jpeg.1856008/]
+
+At this point I feel like I am done with assembly.  I’m sure I’m still missing something, but I feel really good about where this has ended up.  So good, that I just went ahead and prepped it for priming!
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1171-jpeg.1856015/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1172-jpeg.1856016/]
+
+Not really much to do, but I made sure to wrap the ends of the aluminum tubing as in the reference pics you can see just a hint of shiny metal poking through where the tube enters the wing pylon connectors, so I wanted that look, too.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1194-jpeg.1856032/]
+
+And since it was ready for primer, I went ahead and primed it!  I used what appears to be everyone’s current favorite primer, U-Pol Smart Shade Gray automotive primer.  Make sure to shake the can a LOT to get a good mix, and it lays down pretty nicely. I’ll have to still hit the body with some 600-800 grit sandpaper to smooth some places out a bit more, but it turned out pretty well.
+
+Some after-primer pics.  Couldn’t help but reassemble to get a look.  It’s really pulled together now and looks like one cohesive ship.  I’m loving this!
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1191-jpeg.1856017/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1190-jpeg.1856018/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1184-jpeg.1856019/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1183-jpeg.1856020/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1186-jpeg.1856021/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1182-jpeg.1856022/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1181-jpeg.1856023/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1179-jpeg.1856024/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1192-jpeg.1856025/]
+
+Next up will be to start laying down some ILM Stormy Sea Archive-X base coat, and prepping the display base.  It feels a bit surreal to be at this stage of the build after these last few months of work, but I’ve learned a lot and am excited to see how this turns out.  It’s also getting hard to not just jump into my next planned build, a SS B-Wing, but I want this wrapped up completely before I move on.  Should have another update for this soon.
+
+TIL next time, keep on scratchin’!
+────────────────────────────────────────────────────────────────────────
+Post #68  (forum post #5567670)
+Author    : joberg
+Date      : Aug 31, 2024 at 7:39 AM
+Reactions : Like — thibkaji, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+Aaaand...we have another WINNER
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ Beautiful model for sure.  I've tried that U-Pol gray and you're right, shake it for at least 5 minutes!
+────────────────────────────────────────────────────────────────────────
+Post #69  (forum post #5567696)
+Author    : stevielewis
+Date      : Aug 31, 2024 at 8:58 AM
+Reactions : Like — joberg, thibkaji
+────────────────────────────────────────────────────────────────────────
+
+Wow! Looking great in primer. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #70  (forum post #5567760)
+Author    : Scott Graham
+Date      : Aug 31, 2024 at 11:33 AM
+Reactions : Like — joberg, stevielewis, thibkaji
+────────────────────────────────────────────────────────────────────────
+
+thibkaji said:
+
+			Another update.  Added the missing panel parts that swgeek pointed out — confirmed in references that they’re on all four sides of the fuselage, so mine are, too.
+
+View attachment 1856007
+
+View attachment 1856009
+
+Next, added the needed stock material to the bottom center panel to make it look correct.  As can be seen, there’s what looks to be two sheets of material — one thicker and one thinner.
+
+View attachment 1856026
+
+And mine:
+
+View attachment 1856029View attachment 1856030View attachment 1856031
+
+I mentioned in my last post I wanted to attach the wing caps to the wings with magnets, so I made that happen with some teeny-tiny magnets I had laying around.
+
+View attachment 1856027
+
+View attachment 1856028
+
+View attachment 1856014
+
+I also added the second pin to the front panel, both are now visible:
+
+View attachment 1856008
+
+At this point I feel like I am done with assembly.  I’m sure I’m still missing something, but I feel really good about where this has ended up.  So good, that I just went ahead and prepped it for priming!
+
+View attachment 1856015
+
+View attachment 1856016
+
+Not really much to do, but I made sure to wrap the ends of the aluminum tubing as in the reference pics you can see just a hint of shiny metal poking through where the tube enters the wing pylon connectors, so I wanted that look, too.
+
+View attachment 1856032
+
+And since it was ready for primer, I went ahead and primed it!  I used what appears to be everyone’s current favorite primer, U-Pol Smart Shade Gray automotive primer.  Make sure to shake the can a LOT to get a good mix, and it lays down pretty nicely. I’ll have to still hit the body with some 600-800 grit sandpaper to smooth some places out a bit more, but it turned out pretty well.
+
+Some after-primer pics.  Couldn’t help but reassemble to get a look.  It’s really pulled together now and looks like one cohesive ship.  I’m loving this!
+
+View attachment 1856017View attachment 1856018View attachment 1856019View attachment 1856020View attachment 1856021View attachment 1856022View attachment 1856023View attachment 1856024View attachment 1856025
+
+Next up will be to start laying down some ILM Stormy Sea Archive-X base coat, and prepping the display base.  It feels a bit surreal to be at this stage of the build after these last few months of work, but I’ve learned a lot and am excited to see how this turns out.  It’s also getting hard to not just jump into my next planned build, a SS B-Wing, but I want this wrapped up completely before I move on.  Should have another update for this soon.
+
+TIL next time, keep on scratchin’!
+		
+
+Click to expand...
+
+You’re catching a lot of little details. Great work!
+────────────────────────────────────────────────────────────────────────
+Post #71  (forum post #5568075)
+Author    : thibkaji
+Date      : Sep 1, 2024 at 12:55 PM
+Reactions : Love, Like — Padawan311, ganesha7, dirtydave
+────────────────────────────────────────────────────────────────────────
+
+Base coat is done.  Letting it all dry up fully before weathering and adding the various pencil markings, in that order.  A few small details still need to be hand-painted, as well, but it’s super close to done!
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1208-jpeg.1856453/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1209-jpeg.1856454/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1210-jpeg.1856455/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1211-jpeg.1856456/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1212-jpeg.1856457/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1213-jpeg.1856458/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1214-jpeg.1856459/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1215-jpeg.1856460/]
+────────────────────────────────────────────────────────────────────────
+Post #72  (forum post #5568273)
+Author    : joberg
+Date      : Sep 2, 2024 at 9:21 AM
+Reactions : Like — stevielewis, thibkaji
+────────────────────────────────────────────────────────────────────────
+
+A beautiful bird for sure
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #73  (forum post #5568529)
+Author    : thibkaji
+Date      : Sep 3, 2024 at 8:50 AM
+Reactions : Wow — stevielewis, joberg
+────────────────────────────────────────────────────────────────────────
+
+Welp, things went a bit sideways this past weekend.  I was working on applying the pencil markings (and I’ve got photos for them!) to the inner wings when I noticed something was off about my starboard wing.  Turns out that when I assembled the wing extensions to the wing, WAY back in the beginning, that I must have flipped the extensions for the starboard wing.  All those small Leopold parts that stick up into the extensions are all in the wrong positions.  
+
+Correct placement:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1264-jpeg.1856946/]
+
+Incorrect placement:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1263-jpeg.1856947/]
+
+You can see they’re definitely off.  Not sure how I missed that for months, but it’s become very apparent now that I’m adding detail markings.
+
+So, gotta fix that now.  Started last night marking out the new positions and cutting out notches, will continue today/tomorrow and hopefully be good to get to weathering by the weekend.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1265-jpeg.1856951/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1266-jpeg.1856952/]
+
+I’ll save the pencil marking post until after I’ve corrected this wing, to put it all up in one shot.  If it’s not one thing it’s another on this build… LOL!
+────────────────────────────────────────────────────────────────────────
+Post #74  (forum post #5568538)
+Author    : swgeek
+Date      : Sep 3, 2024 at 9:04 AM
+Reactions : Like, Haha, Love — Padawan311, stevielewis, thibkaji
+────────────────────────────────────────────────────────────────────────
+
+Ha! I did the exact same thing! I fortunately, caught mine a little earlier than you did.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1043-jpg.1856958/]
+────────────────────────────────────────────────────────────────────────
+Post #75  (forum post #5568567)
+Author    : thibkaji
+Date      : Sep 3, 2024 at 10:10 AM
+Reactions : Like — joberg, stevielewis, swgeek
+────────────────────────────────────────────────────────────────────────
+
+LOL!  That’s funny.  Nice to know I’m in good company.  And it’s an easy enough fix, just adds time.  Gives me more time to finish up my display base, I guess.
+────────────────────────────────────────────────────────────────────────
+Post #76  (forum post #5568836)
+Author    : thibkaji
+Date      : Sep 4, 2024 at 12:51 PM
+Reactions : Like — Scott Graham, joberg, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+Adjustments made on the inner wing, sanded down and Leopold parts reinstalled.  Will prime it tonight, fix whatever is still outstanding, prime again and hopefully paint tomorrow.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1269-jpeg.1857322/]
+────────────────────────────────────────────────────────────────────────
+Post #77  (forum post #5568995)
+Author    : joberg
+Date      : Sep 5, 2024 at 7:23 AM
+Reactions : Like — stevielewis, thibkaji
+────────────────────────────────────────────────────────────────────────
+
+"Almost there...almost there!"
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #78  (forum post #5569201)
+Author    : thibkaji
+Date      : Sep 6, 2024 at 7:34 AM
+Reactions : Like — stevielewis, mjhenks, swgeek
+────────────────────────────────────────────────────────────────────────
+
+Alright, been a few days.  Got the wing sorted out, looks much better now!  Paint should be dry from sitting overnight, so I’ll add the hash marks today.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1276-jpeg.1857798/]
+
+For the main body, I went ahead and started adding a small bit of weathering.  If you look at the references, you’ll notice that there’s a sort of light-grayish (with a hint of red) hue over the rear sections of the fuselages, in addition to around the wing connector pylons.  The belief is that ILM likely applied an enamel wash or something over some parts of the ship and then wiped it off again.  It’s subtle (mostly), but def changes the look in the back.
+
+Filming model, showing the color variation on the back:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1279-jpeg.1857803/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1278-jpeg.1857804/]
+
+So, I took a stab at applying this myself using a very thinned down mix of Light Reefer Gray and a touch of caboose red (totally stole this mix from Boxcar Bret ’s build), masked off some sections, and airbrushed away.  Results aren’t too bad, looks closer to what I think it should in hand.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1270-jpeg.1857805/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1272-jpeg.1857806/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1273-jpeg.1857807/]
+
+Can definitely see the difference.
+
+Next up, wrap up the port-side wing, attach both more permanently to the body, and start working on additional weathering.  I’m also finish work up on the base this will be affixed to.
+
+Speaking of bases, does anyone have a good supplier that makes plaques for Star Wars ships out of Aluminum?  I found a shop on Etsy that makes some, but they’re 4”x6” in size, and I’m looking for something lower to 2” x 3” to better fit my base.
+
+Will update soon, likely wrapping this bird up this weekend.
+────────────────────────────────────────────────────────────────────────
+Post #79  (forum post #5569247)
+Author    : joberg
+Date      : Sep 6, 2024 at 9:19 AM
+Reactions : Like — stevielewis, thibkaji
+────────────────────────────────────────────────────────────────────────
+
+A beauty I say, a beauty
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #80  (forum post #5569342)
+Author    : stevielewis
+Date      : Sep 6, 2024 at 2:04 PM
+────────────────────────────────────────────────────────────────────────
+
+Very nice subtle painting. I think it came out looking just right. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #81  (forum post #5569431)
+Author    : thibkaji
+Date      : Sep 6, 2024 at 8:30 PM
+Reactions : Love, Like — Padawan311, tdb68, Scott Graham
+────────────────────────────────────────────────────────────────────────
+
+OK, I promised some info on the hash marks.  I based all of my hash marks on reference photos I found online, mostly from nice closeups hosted on Modeler Magic (Modeler's Miniatures & Magic).  I used a mechanical pencil, .7mm lead dia, as that’s what I had on hand.  I did give an initial try with a #2 pencil, but had to keep sharpening it and so I abandoned that pretty quickly.  These are not exact to the reference, but fairly close for being freehand with no measurements made.
+
+Main fuselages.  Note the hash marks on the wing connectors, in the parts mounted front and back:
+
+[IMAGE: 1500543-5986e8cd3aedfd7f5a6b32b98bbea175.jpg]
+
+[IMAGE: 1500544-2f707d3c491b0f2bcbfe645db10d3501.jpg]
+
+[IMAGE: 1500545-0f55919ddaaa6deb10741a0be3b20736.jpg]
+
+[IMAGE: 1500546-948a697e8cebcce4d3f2fedbe5117bb8.jpg]
+
+[IMAGE: 1500547-d5e71f712a62c0f0d43ff68b00325ccc.jpg]
+
+[IMAGE: 1500548-5776b9afd07ceb0b58ca43f7f8a57527.jpg]
+
+[IMAGE: 1500549-275eddba7ca71fca519f3b6b43f49ab3.jpg]
+
+Port side wing outside:
+
+[IMAGE: 1500538-173d1d690c5079b7544669191d415f21.jpg]
+
+[IMAGE: 1500539-04da24e5b12c46f8b0dede0b178e305d.jpg]
+
+[IMAGE: 1500540-7acb127efe75ac1f71ece1055cd52d3a.jpg]
+
+[IMAGE: 1500541-5bc7db73d7d21b2a7d6d958c5336c5b4.jpg]
+
+[IMAGE: 1500542-f98840010a9f9a5c7c52aba239982441.jpg]
+
+Port side wing inside:
+
+[IMAGE: 1500555-7511b43da5e6de2838114f48b28a8d3e.jpg]
+
+[IMAGE: 1500556-4f3d446c1200e6dfa09513c55e0f36fa.jpg]
+
+Starboard wing outside:
+
+[IMAGE: 1500550-8a5a6d95e94880c1930fbf79b53db8d8.jpg]
+
+[IMAGE: 1500551-31852e6a0034bbdf27b60cd130ae1e22.jpg]
+
+[IMAGE: 1500552-248e2322ea977d096e9a6a01e1200865.jpg]
+
+[IMAGE: 1500553-03287de0c8e2b79b80b3f2cd71ed4559.jpg]
+
+[IMAGE: 1500554-2807af2f47e3edf02fe6cd9ea71f5072.jpg]
+
+Starboard side inside:
+
+[IMAGE: 1500557-cc0d76a289aad2b6d25affbbf3e93479.jpg]
+
+[IMAGE: 1500558-777c12677d2b8000ff9be9c751841540.jpg]
+
+[IMAGE: 1500559-90843f322ca9ebe409483c35f3dfb07e.jpg]
+
+[IMAGE: 1500560-d46c75cb4b25e2385ddc7e25dd31ccf8.jpg]
+
+[IMAGE: 1500561-76ba47347b27154016c6b95d7717717e.jpg]
+
+[IMAGE: 1500562-c8535c94abc9e05542acafa584cf5a09.jpg]
+
+[IMAGE: 1500563-5e8f0ff1dc557fba653a196c5b7c7ff0.jpg]
+
+[IMAGE: 1500564-bcd48c9d6532cb33a01d48be8e2a593e.jpg]
+
+There’s really not much else to this.  I used a small metal ruler to get the straight lines on the fuselage sides and wing connectors, but everything else was freehand.
+
+Lastly, I wanted to see how it looked assembled in this nearly completed form, and mounted on the display base I've been working on. Almost there... Almost there! 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1282-jpeg.1858061/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1287-jpeg.1858062/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1293-jpeg.1858063/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1295-jpeg.1858064/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1291-jpeg.1858065/]
+────────────────────────────────────────────────────────────────────────
+Post #82  (forum post #5569496)
+Author    : chazzychaz
+Date      : Sep 7, 2024 at 7:02 AM
+Reactions : Like — thibkaji, stevielewis, joberg
+────────────────────────────────────────────────────────────────────────
+
+Wonderful.
+────────────────────────────────────────────────────────────────────────
+Post #83  (forum post #5569515)
+Author    : joberg
+Date      : Sep 7, 2024 at 7:58 AM
+Reactions : Like — thibkaji, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+Bitchin'
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #84  (forum post #5569522)
+Author    : stevielewis
+Date      : Sep 7, 2024 at 8:37 AM
+Reactions : Like — joberg, thibkaji
+────────────────────────────────────────────────────────────────────────
+
+Fantastic! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #85  (forum post #5569735)
+Author    : LewisD
+Date      : Sep 8, 2024 at 10:37 AM
+Reactions : Like, Love — joberg, stevielewis, thibkaji
+────────────────────────────────────────────────────────────────────────
+
+thibkaji said:
+
+			Alright, been a few days.  Got the wing sorted out, looks much better now!  Paint should be dry from sitting overnight, so I’ll add the hash marks today.
+
+View attachment 1857798
+
+For the main body, I went ahead and started adding a small bit of weathering.  If you look at the references, you’ll notice that there’s a sort of light-grayish (with a hint of red) hue over the rear sections of the fuselages, in addition to around the wing connector pylons.  The belief is that ILM likely applied an enamel wash or something over some parts of the ship and then wiped it off again.  It’s subtle (mostly), but def changes the look in the back.
+
+Filming model, showing the color variation on the back:
+
+View attachment 1857803
+
+View attachment 1857804
+
+So, I took a stab at applying this myself using a very thinned down mix of Light Reefer Gray and a touch of caboose red (totally stole this mix from Boxcar Bret ’s build), masked off some sections, and airbrushed away.  Results aren’t too bad, looks closer to what I think it should in hand.
+
+View attachment 1857805
+
+View attachment 1857806
+
+View attachment 1857807
+
+Can definitely see the difference.
+
+Next up, wrap up the port-side wing, attach both more permanently to the body, and start working on additional weathering.  I’m also finish work up on the base this will be affixed to.
+
+Speaking of bases, does anyone have a good supplier that makes plaques for Star Wars ships out of Aluminum?  I found a shop on Etsy that makes some, but they’re 4”x6” in size, and I’m looking for something lower to 2” x 3” to better fit my base.
+
+Will update soon, likely wrapping this bird up this weekend.
+		
+
+Click to expand...
+
+Ariel Martinez on Facebook, also known as  customplaques2014 on eBay.
+────────────────────────────────────────────────────────────────────────
+Post #86  (forum post #5569773)
+Author    : thibkaji
+Date      : Sep 8, 2024 at 1:30 PM
+Reactions : Like — joberg, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+LewisD said:
+
+			Ariel Martinez on Facebook, also known as  customplaques2014 on eBay.
+		
+
+Click to expand...
+
+Thank you, I’ll take a look!
+────────────────────────────────────────────────────────────────────────
+Post #87  (forum post #5569782)
+Author    : thibkaji
+Date      : Sep 8, 2024 at 2:26 PM
+Reactions : Love, Like — Padawan311, tdb68, joberg
+────────────────────────────────────────────────────────────────────────
+
+OK, calling this one a wrap.   I did a very small amount of weathering and then decided I liked how it looked.  Most of the weathering was added to the back and tops, some chipping here and there, some wear on the wings…. Doesn’t honestly look that much different from the pics I posted yesterday, but she’s done.  Please enjoy these final photos, and I’ll catch folks later when I start work on the SS B-Wing!
+
+[IMAGE: 1501010-d7fd8942bc388fa99fcf20c5465aa14a.jpg]
+
+[IMAGE: 1501011-0b548212d6b2ad06f20bd939039884ec.jpg]
+
+[IMAGE: 1501012-223f1f034d0efc4361bbed99c97e1154.jpg]
+
+[IMAGE: 1501013-af9b49b885fa050bbd7f59cfc063e72b.jpg]
+
+[IMAGE: 1501014-42a20eadf8b3cb6cf9de2e369c0a1de9.jpg]
+
+[IMAGE: 1501015-d0c7c880f131dc7d461c8f14bcb78b6d.jpg]
+
+[IMAGE: 1501016-e4d7e48332c94dcf2a1369d787068c0d.jpg]
+
+[IMAGE: 1501017-4a667007acc803683de072c75c9e07ff.jpg]
+
+[IMAGE: 1501018-8abdb4774904708d34f84fce08518869.jpg]
+
+[IMAGE: 1501019-a38e00241f29eecfcf6bc655ec3ae5db.jpg]
+
+[IMAGE: 1501020-6c87da80029273a893f669c5194cb082.jpg]
+
+[IMAGE: 1501021-c5de7df6d77606751102d5bdd7aa188d.jpg]
+
+[IMAGE: 1501022-b7375ca1efc6eca8ba3fc608e4834131.jpg]
+
+[IMAGE: 1501023-c4f2c545a4a010ebe7934d558e2ca5ba.jpg]
+
+[IMAGE: 1501024-ff5cd0d3077f843bd8635f89c403467a.jpg]
+
+[IMAGE: 1501025-3851af44a979139a03efde61d0078c20.jpg]
+
+[IMAGE: 1501026-3241698a6c6c7a9b727ba236cbc5a55e.jpg]
+
+[IMAGE: 1501027-d4a739dd01c38dceb17d6e2d8a3d15f5.jpg]
+
+[IMAGE: 1501028-908a363b781a21878bbe1e62d668d4be.jpg]
+
+[IMAGE: 1501029-2f039f646b2111dbef7d38b87d37dcbb.jpg]
+
+[IMAGE: 1501030-98607ab4ea61b6b04bf96f49ba476d61.jpg]
+
+[IMAGE: 1501031-0616d9536488c38c11474f074ca01d4f.jpg]
+
+[IMAGE: 1501032-dd8d717684d8984c4c747d9684aa398c.jpg]
+
+[IMAGE: 1501033-cfd4e24fe68aa08149222e88ebe7477e.jpg]
+
+[IMAGE: 1501034-176b74ff4e477ee949820436f4ed8241.jpg]
+
+[IMAGE: 1501035-5113c78fae805dd530b30492459c9cae.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #88  (forum post #5569922)
+Author    : mjhenks
+Date      : Sep 9, 2024 at 8:07 AM
+Reactions : Like — stevielewis, thibkaji, joberg
+────────────────────────────────────────────────────────────────────────
+
+Very nice.  Thank you for the detailed photo's.
+────────────────────────────────────────────────────────────────────────
+Post #89  (forum post #5569945)
+Author    : joberg
+Date      : Sep 9, 2024 at 8:50 AM
+Reactions : Like — stevielewis, thibkaji
+────────────────────────────────────────────────────────────────────────
+
+Great build/results from A to Z...and the amount of wear & tear is top
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #90  (forum post #5640345)
+Author    : gobler
+Date      : Jun 28, 2025 at 2:10 PM
+Reactions : Like — joberg, thibkaji
+────────────────────────────────────────────────────────────────────────
+
+thibkaji said:
+
+			Time for another update.  Lots of small incremental steps as I wait to get my hands on an armature as I’m not well-equipped to machine one myself.  Lets’s jump in!
+
+What better place to start than the fuselage bodies?
+
+I don’t have a lathe.  I considered sending the bodies out to have them precision machined, but decided I’d have a go at cutting the 12 grooves to make the 11 “ribs” that go around the fuselages.  Worst case is a botch them up and just have a set made for me later.
+
+I started by measuring .375” from the front end of the 2” OD Plastruct tube and marking that with a parallel scriber.  I then placed dymo tape right up against that line to create a straight edge for scribing.
+
+View attachment 1837101
+
+I then used my old Tamiya scriber and carefully went around the tube.  Once I’d made 3-4 passes, I removed the Dymo tape and finished widening the line until it was close to the proper measurement (around .6 mm).  I then added that line width and the rib width to the parallel scriber and scribed the next guide line.  More dymo tape, more scribing.  Repeat.
+
+View attachment 1837102
+
+Eventually got them all done.  Cut the tube to length, then repeated it all again for the other tube.  Measurements all came out super close to correct, and while it’s not 100% accurate, I think it’s certainly good enough to pass!
+
+View attachment 1837103
+
+Next I measured out the center lines and figured out where the holes for the main support tubes had to go.  Drilled those out using a step drill bit.  Keeping all of that centered properly was a chore, but I consoled myself that once I have a center block of something is slight off I’ll have room to adjust.
+
+Threw the bodies on the tube — I’m pretty happy with how they turned out!
+
+View attachment 1837104
+
+View attachment 1837105
+
+Next up, the cockpit dome.   I had a pair of VHH-200VG domes, so first thing was to cut them down to size.  As others have done, one of the easiest ways to get the height to be consistent is to cut it off on a drill press with a cutting wheel.
+
+View attachment 1837077
+
+Now that the height is close, I snuck up on it using some sandpaper until it looked just right.  I wanted the inner lip of the Vader cockpit window to sit inside of the dome, so I also cut/sanded that until it fit right in, nice and flush.
+
+View attachment 1837078
+
+View attachment 1837080
+
+With that done, I needed to scribe the vertical lines coming off of the vertices of the cockpit window.  This was a bit challenging, as the spacing is NOT equidistant between the spokes around the edge of the window.  So, I made indicator marks to align the window to keep it straight.
+
+Taking a page out of Boxcar Bret ’s build, I made a jig to sit the dome into so that I could get some straight, vertical lines.
+
+View attachment 1837086
+
+Once the lines were drawn, I applied dymo tape to the line and started scribing.
+
+View attachment 1837087
+
+View attachment 1837088
+
+Welp, that didn’t actually work out how I wanted.  Because of the curvature of the dome, as soon as you stuck down the dymo tape, it started to curve to one side, resulting in a line that veered one way or the other off-center.  This wasn’t good.
+
+At this point I also noticed that the height was also off.  I had a small lip around the outside edge of the cockpit window, and per the reference, that should come up right under the cockpit.  Always check, double-check, and triple-check your references!!!   Good thing I had a spare dome!!
+
+View attachment 1837089
+
+View attachment 1837090
+
+Since I’d already messed this one up, I also had a go at doing the horizontal scribing.  This was done by using a parallel scriber to mark the locations where the panel lines cross the verticals, then placing dymo tape from one intersection to the other.  For these lines you WANT there to be a curve, and the dump tape provides that beautifully.  So, a little practice before starting again.
+
+View attachment 1837093
+
+View attachment 1837092
+
+View attachment 1837094
+
+OK, so second go at the cockpit, but proper height this time.  Plus I scribed the vertical lines using the jig to keep them straight.
+
+View attachment 1837095
+
+Add the horizontal panels lines as described above, and finally using a pin vise and micro drill bit, add on the rivets.
+
+View attachment 1837096
+
+With the cockpit window attached.
+
+View attachment 1837097
+
+Test fit to the fuselage.
+
+View attachment 1837098
+
+View attachment 1837099
+
+View attachment 1837100
+
+She’s starting to look like a ship!
+
+Next up — bomb chute, wing details, and creating molds.
+		
+
+Click to expand...
+
+Are the body tubes, the Plastruct TB-200?
+────────────────────────────────────────────────────────────────────────
+Post #91  (forum post #5640391)
+Author    : thibkaji
+Date      : Jun 28, 2025 at 9:27 PM
+Reactions : Like — joberg, stevielewis, gobler
+────────────────────────────────────────────────────────────────────────
+
+gobler said:
+
+			Are the body tubes, the Plastruct TB-200?
+		
+
+Click to expand...
+
+Yep, that’s what I used, and what most people use from what I can tell.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 91

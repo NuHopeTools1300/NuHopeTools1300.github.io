@@ -1,0 +1,522 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : StarshipBuilder's Studio-Scale Galactica #2
+URL    : https://www.therpf.com/forums/threads/starshipbuilders-studio-scale-galactica-2.119641/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #1742329)
+Author    : star-art
+Date      : Jun 28, 2011 at 1:32 AM
+────────────────────────────────────────────────────────────────────────
+
+This is my second studio-scale Galactica project build from the patterns I created while designing the model for Custom Replicas (currently on display at the Science Fiction Museum in Seattle, Washington, USA). This is an (authorized) commission for a third party. This actually means I will have built 3 studio-scale battlestars (not including mockups and prototype structures).
+
+This build started with the head section. Before anything could be done, however, a lot of prep work was required. I began by making numerous modifications to the design of the structure. The original build was so complex, it took a couple months to complete just that one section. The number of parts was staggering (over 400 numbered parts, not including duplicates). To make things easier this time, I wanted to streamline it as much as possible.
+
+Special Jigs/Tooling
+
+As an aid in assembling the parts as precisely as possible, I developed a special jig made of machined aluminum. This provided a perfectly level work surface with multiple slots to facilitate bolting parts to the table. Unfortunately, the “T-slots” were too small for standard 5/16 threaded T-slot bolts. Thus, I had to fashion my own hardware using 1/4-20 threaded set screws (i.e. headless bolts) in various lengths plus T-nuts to accomplish the same functionality. The final table was 15 inches deep by 30 inches wide. It includes four leveling feet at the corners. Overall, it works brilliantly.
+
+Workshop Comfort
+
+I spent many, many hours in the shop working on the last CR build. Two of the most important shop concerns are having good lighting and adequate ventilation. To provide a bright enough work area, I had installed several shop-type fluorescent light fixtures overhead. Because the ceiling in my garage/shop at the time was a standard 8 ft in height, hanging these fixtures meant the bulbs were only about a foot or so from my head. It turns out fluorescent lights emit a LOT of UV radiation. In fact, they crank out large amounts of damaging UV-B rays that can cause DNA damage and skin cancer. And, I had no less than twelve 4-foot T12 tubes only about a foot over my head. As a result, I was getting sunburned from working in my shop -- even in the middle of Winter!
+
+Once I figured out what was happening, I located UV sleeve filters to fit over all the fluorescent tubes. These were not cheap, but they seemed to work great and I stopped getting sunburned from working in the shop. These filters do reduce light output somewhat, but they also provide color correction to turn cold fluorescent tubes into something resembling natural sunlight. In addition, they also help reduce eye strain. Overall, this was a very worthwhile investment. What interesting problems we studio-scale builders have to overcome?! LOL 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Ventilated Work Area
+
+The biggest challenge I had to deal with is the fact I would be gluing acrylic and styrene parts for hours each day using toxic solvents. Many modelers routinely use these chemicals without being concerned about how it might affect their health. I had been using WeldOn solvents for gluing acrylic for years. In fact, I had even used this stuff indoors which, as it turns out, was a big mistake. The only safe way to work with these chemicals is outdoors. Even then, special protection is recommended. The manufacturer actually states that a regular paint/chemical respirator will not protect you. An air-supplied respirator is actually required. These are not cheap.
+
+One solution I had in mind was fashioning some sort of ventilated work booth in a corner of the shop. I searched and searched online but the only examples I could find were custom built for industrial/factory settings. These setups cost a fortune. In the end, it took a LOT of research to come up with a DIY setup that I could use in my small shop. But, after a lot of time and effort, I finally put together something that worked.
+
+Attachments:
+
+[IMAGE: shop-hazards-need-ventilation-system-booth1.jpg-43337d1298290862t]
+ 
+[IMAGE: shop-hazards-need-ventilation-system-booth2.jpg-43338d1298290862t]
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #1742339)
+Author    : star-art
+Date      : Jun 28, 2011 at 1:38 AM
+────────────────────────────────────────────────────────────────────────
+
+Construction Finally Begins
+
+It took a LOT of prep work just so I could start construction on this project. With a comfortable work environment, I was able to spend hours at a time in the shop in relative safety. I no longer got headaches from the fumes and I didn’t have to take frequent breaks to get fresh air. (Not to mention I no longer needed SPF 70 sun block. LOL!) The work booth worked great for gluing, soldering, and even painting. 
+
+Construction commenced when a very large box arrived containing all the parts for both the head and neck sections. I started by assembling a custom-designed jig, then I started building the core portions of the head structure. A pipe sleeve fits over the round pipe and provides a means for attaching the bulkheads. This part has been streamlined compared with the prototype.
+
+The mouth trenches, however, are still complex because they are tricky to build no matter what. The mouth is not straight but crooked to match the character of the original. I had to find a way to build it on a flat surface, yet maintain the correct curvature. Also, the vertical wall inside each trench has to be drilled through for routing fiber optics. I chose to make this from styrene as acrylic would be too hard to drill. But, styrene transmits some light. This meant I had to paint the back side of the entire mouth trench to prevent potential light leaks. Like I said, there are a LOT of little details in this project!
+
+The last step in building the core structure was making the removable top hatch. This is a rather complicated but effective design that integrates the fiber optics into the hatch. Thus, when you lift off the hatch, the fibers are not in your way and it can be completely removed from the rest of the head section (unlike the original). A separate LED bulb and wire harness are hidden inside the removable hatch structure. All you have to do is unplug a 2-wire harness. 
+
+Once the core structure was complete, I could begin test fitting the skins. Even though the top was divided into four separate sections, I taped all the skins together to fit them as a unit. Once fitted, they could be carefully glued in place.
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #1742341)
+Author    : star-art
+Date      : Jun 28, 2011 at 1:42 AM
+────────────────────────────────────────────────────────────────────────
+
+The bottom panels were solid 1/8 inch plex with beveled edges for near perfect seams. Little or no putty was required and it will be further trimmed out with Plastruct extruded rails after delivery. By making this in acrylic, it helps tie the bulkheads together in order to provide extra rigidity. It is rock solid and should hold up well.
+
+I decided to switch to using styrene skin panels on this model instead of the thin acrylic panels I used before. I was extremely pleased with how well the styrene panels worked. 
+
+I fabricated and installed the KoolShade vent under the head using authentic vintage stock (extremely rare and expensive today). 
+
+With the trenches done, I could put the large "chin" panels on the bottom of the head. These were quite tricky to install. The styrene was not nearly as stiff as plex, so a good bit of structural reinforcement was necessary. I designed backer panels that got laminated to the inside surface of each chin panel. Whenever you do this, it's a good idea to add weep holes to the laminated parts to ensure an even glue bond. (You'll notice I do that sort of thing a lot to enhance structural integrity throughout the build.) They were further stiffened by the addition of internal stringers and they also got welded securely to each bulkhead using 1/4" square plex rods.
+
+With the bottom skinned, I then machined the ends of the lower trench flush with the back of the head and installed the bottom forward trench rear walls followed by styrene cladding for the "cheek" panels on the very back of the head. I finished up by installing the "lower lips" to trim out the mouth trenches on either side.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #1742343)
+Author    : star-art
+Date      : Jun 28, 2011 at 1:50 AM
+────────────────────────────────────────────────────────────────────────
+
+At this point, it was time to start working on the top. I pieced the entire top skin together (already test-fitted from before) and installed it as a unit. The front section has to remain unattached in order to install the fiber optics inside the head later (that will be done by the client after delivery). The rear center portion is part of the removable top hatch. So, the only parts of the top skin that could be glued down were the two rear pieces on either side of the hatch.
+
+With those in place, I could finish up the hatch assembly itself. The clearance was very tight and the fit was perfect. (The hatch sub-structure even has little levelers all around so it can be made to sit perfectly flush with the top skin.  I tried to think of everything. . .) 
+
+Next, it was time to start installing the side skins. Those were attached using special clips I designed to make the process easier. The bottom of the skin was stiffened by adding plex bar stock on the inside of the lower edge. It was all quite solid and went together well.
+
+The final touch was the eye sockets. These are a royal PITA to build even with this design, so I saved them for last. The top hatch, one of the coolest features of this particular replica, has one drawback -- the structure blocks access to the inside of the head where the eye sockets go. Thus, there is no way to get at the underside of the skin when building them. The skin itself starts out flat but it's curved when it's installed so you can't really pre-build the eye sockets on the back side of the skins before they go on (well, maybe you could but that would be really tricky). Putting in the chin panels on the bottom requires full internal access, so the chins get put on before the side skins. This means there's no access from below.
+
+Bottom line: Once each side skin goes on, all you have is a hole for the eye socket and no other significant access. This required installing the sockets from the outside. Talk about a challenge! The only way to proceed was with a lot of patience.
+
+Overall, this was an amazingly complex build. The original was built directly on the armature and that was challenging enough. This design is "modular" meaning some sections are a separate unit that can be mounted on or taken off the armature as needed. This makes it easier to detail but complicates both the head structure and the armature design quite a bit. 
+
+The rest of the ship is a bit easier in comparison. But, with that said, the engine section gives this area a run for its money. What looks like a simple box becomes almost equally complex by the time you design it as a modular structure (i.e. can be removed from the armature) and then add all those angled panels on the front, a built-in ventilation system, high-tech lighting, removable lid, and modular/removable rear thruster modules. 
+
+As for materials, I feel styrene is definitely easier to work with. But, it has its disadvantages, too. For one thing, it's far more fragile. The plex skins on the first build were hard as a rock and not easily damaged. A slip of the knife, etc. was no big deal. These styrene skins are easily dinged and scratched. A wayward drop of solvent has the effect of "acid blood" from one of Jim Cameron's aliens, LOL.
+
+On the upside, it's very easy to repair any trouble spots. Styrene sands easily and cleans up very nice. It glues very securely to plex using solvents and to resin using CA. I have the option of using solvent for regular bonding of styrene-to-styrene joints (strong and flexible) or CA when I need an instant bond (grabs quickly but creates brittle joints).
+
+BTW, the KoolShade vent is not just for looks -- it is a fully functional air intake. One challenge with this is light blocking. The material allows air to flow but does not totally block out any light source behind it. As a result, I had to design and build a box structure behind it to help prevent any light leaks.
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #1742347)
+Author    : star-art
+Date      : Jun 28, 2011 at 1:56 AM
+────────────────────────────────────────────────────────────────────────
+
+Neck Section
+
+With the head section completed, there was a rather long break in this project while I moved to a new town and set up a new shop. Things will now begin progressing more rapidly from here on out. I put the finishing touches on the neck section this week. It's very difficult to photograph because of the black color and glossy surface. It will get rubbed down to a satin finish later before it's delivered.
+
+As I'm going along, I am remembering just how long it took me to build the last one (i.e. the prototype that’s now in the museum). There are many details to attend to everywhere. Plus, I am juggling two battlestar projects at the same time right now. 
+
+The neck section is actually very tricky to build -- much more so than it looks. A surprising amount of engineering had to go into what on the outside appears to be just a simple box. Yet, every intersection is at an angle, and almost nothing meets at 90 degrees. This required taking it very slow and triple checking everything at each step along the way. There are probably more fiber optics in this module than anywhere else on the ship so gaps and holes had to be included in order to run them later. This meant I had to plot the run of every single fiber in my 3D computer model before the first part could be cut.
+
+In addition, the top of the neck (i.e. lid) is removable so there needed to be some sort of support shelf for it plus screws to hold it down and a way to ensure it's all level. To make things even more difficult, two screws for securing the top hatch of the head are also present in the lid for the neck. It is surprisingly complex inside there!
+
+It turned out very well though and this section is now ready to go on the armature for test fitting with the head and main body once that's completed. Next up, however, I'll be building the engine section. I'm just waiting on the arrival of a few key parts so I can get that started.
+
+PS What looks like curvature or warping in the pics is barrel distortion from the camera lens. Everything is straight and flat. . .
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #1742416)
+Author    : Nwerke
+Date      : Jun 28, 2011 at 4:20 AM
+────────────────────────────────────────────────────────────────────────
+
+Good lord, Charles. That is some nice engineering. Honestly, I'm lost for words.
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #1742871)
+Author    : star-art
+Date      : Jun 28, 2011 at 10:29 AM
+────────────────────────────────────────────────────────────────────────
+
+Thank you! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ I didn't know I would end up building more than one. I'm very thankful for the opportunity, really. All that design effort invested up front has really helped create a nice finished product.
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #1743053)
+Author    : GKvfx
+Date      : Jun 28, 2011 at 12:30 PM
+────────────────────────────────────────────────────────────────────────
+
+I still think the glue-fumes are one of the benefits of this hobby.   :confused
+
+Gene
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #1743057)
+Author    : ringa
+Date      : Jun 28, 2011 at 12:33 PM
+────────────────────────────────────────────────────────────────────────
+
+Charles, my friend, you cut way too many corners in your work. You should be more precise in how you do things.:lol
+
+All kidding aside, I can see now why Patrick Read Johnson once said of you, "Wow! this guys doesn't fool around!"
+
+Great job, bro!
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #1743095)
+Author    : star-art
+Date      : Jun 28, 2011 at 12:50 PM
+────────────────────────────────────────────────────────────────────────
+
+GKvfx said:
+
+			I still think the glue-fumes are one of the benefits of this hobby.   :confused
+
+Gene
+		
+
+Click to expand...
+
+Do I know you? LOL!! :lol Hey, my memory is turning to Swiss cheese already. I don't want to do anything to help it along. . .
+
+Thanks, guys. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #1743161)
+Author    : GKvfx
+Date      : Jun 28, 2011 at 1:51 PM
+────────────────────────────────────────────────────────────────────────
+
+Dude, of all the guys I know, Charles...... you are the one that could use a little more glue sniffing.......:lol.
+
+Sorry..... too good a setup to pass up.  I hope people think it's a slam.......  but it's not.
+
+Gene
+
+PS - show more shots of the new shop.....
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #1743712)
+Author    : ghostryder
+Date      : Jun 28, 2011 at 8:41 PM
+────────────────────────────────────────────────────────────────────────
+
+[IMAGE: ahhhhhhhhh.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #1743949)
+Author    : star-art
+Date      : Jun 29, 2011 at 12:47 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks. Very funny, Gene! LOL The new shop still has a ways to go before it's presentable. Right now, the only place to put anything is on the floor. I don't have any cabinets or shelves installed yet. . .
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #1743957)
+Author    : Underdog
+Date      : Jun 29, 2011 at 12:55 AM
+────────────────────────────────────────────────────────────────────────
+
+star-art said:
+
+			Thanks. Very funny, Gene! LOL The new shop still has a ways to go before it's presentable. Right now, the only place to put anything is on the floor. I don't have any cabinets or shelves installed yet. . .
+		
+
+Click to expand...
+
+ 
+
+I think that you've done a fine job. BTW, I think I made a comment in the book you keep Citing, I definately wrote a letter to the editor... Wow, that was a few uears ago.
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #1743960)
+Author    : Underdog
+Date      : Jun 29, 2011 at 12:59 AM
+────────────────────────────────────────────────────────────────────────
+
+This is the quote..
+
+I've worked in all facets of engineering for almost 28 years. . .I have to say, [your book] is one of the most concise and easy to follow publications I've seen in a long time. . .You've done a fine job of taking some of the pseudo-mystery out scratch building. I'm sure even a novice could apply the techniques described in your book. . .Thank you for your fine work. This pub will have a place on honor in my shop." --
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #1744643)
+Author    : star-art
+Date      : Jun 29, 2011 at 12:38 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks!! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #1759383)
+Author    : -... . .- --..
+Date      : Jul 9, 2011 at 2:16 PM
+────────────────────────────────────────────────────────────────────────
+
+Now this is what this forum is all about!
+
+Charles, really impressed by the level of craftsmanship you've put into this build so far, the level of detail you're sharing with everyone here, and looking forward to watching your progress.
+
+Will she be ready for Wonderfest 2012? No pressure... 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #1759965)
+Author    : star-art
+Date      : Jul 9, 2011 at 11:55 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks, Kevin! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ As for WF 2012, that's up to the client. I should have the body structure done in plenty of time (this Fall). But, I'm not doing any detailing on this one. The new owner gets to do that. We'll see what happens. . .
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #1783950)
+Author    : star-art
+Date      : Jul 25, 2011 at 11:09 AM
+────────────────────────────────────────────────────────────────────────
+
+I'm juggling two major builds so I'm going back and forth between them. I've been busy working on another head section build that can be seen here. This is the most complicated part of the entire ship and takes a lot of time and effort to complete.
+
+The engine section, however, is a close second in terms of complexity. While the outer shape appears far more simple, on the inside this structure includes a removable lid, built-in ventilation system, and high-tech lighting. In addition, to make the detailing process easier, the rear thruster openings are built as a removable module. All this complicates the design quite a bit.
+
+I got started on the engine section for this build over the weekend and this is the progress so far. Before getting too far along, I wanted to pre-install the vintage  KoolShade vents on the sides. This stuff is a bit of a pain to work with. It's very tricky to cut, it likes to unravel like loose threads on a garment after it's cut, and there's really no satisfactory way of attaching it to anything. 
+
+The only option in this circumstance is to use drops of CA glue to secure it in place. Unfortunately, that cannot be done without making a bit of a mess. Also, for some reason, when the CA cures it turns white! I don't know why, but it must be a reaction with the finish on the KoolShade.
+
+The only way I could get this to work was to touch up the KoolShade with flat black paint after it was glued in. While this does not look absolutely perfect, I have to remember this entire area will be hidden in deep shadow and visible only if you were to shine a flashlight into the engine trench. Also, parts will be covering these vents and some paint may get in there as well during finishing. So, in the end it will look just fine.
+
+BTW, the vent as it appears here is not exactly like the original. Back then, they put KoolShade on the inside of the engine box to block light from getting through the holes in the sides. They cut giant pieces that covered the entire side panels on the inside. This simply is not practical today since vintage KoolShade is so hard to find and it now costs $50 per sq ft.
+
+My replica engine section does not have working vents in the sides anyway. Rather, it draws air through the waist vent and out the thruster openings. Thus, the side vents were not needed. But, in the interest of making it look as authentic as possible, I created "dummy vents" in the side panels. These will be visible when you look into the engine trenches to appear very much like the original.
+
+My side panels are made from two layers of 1/8 black acrylic laminated together. I cut holes in the outer layer but not the inner layer. This creates the impression of a vent. To complete the illusion, I installed KoolShade in each opening.
+
+Like I said, it's not a 100% match to the original. Once it's trimmed out, however, it really looks the part.
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #1784228)
+Author    : Watson
+Date      : Jul 25, 2011 at 2:22 PM
+────────────────────────────────────────────────────────────────────────
+
+Great work Charles.  I wont post in both threads but man I am drooling over this.
+
+Greg
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #1784253)
+Author    : star-art
+Date      : Jul 25, 2011 at 2:47 PM
+────────────────────────────────────────────────────────────────────────
+
+Hey Greg! It's been a while. Great to here from you. I hope you've been well! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #1784444)
+Author    : ckwanwoo
+Date      : Jul 25, 2011 at 5:00 PM
+────────────────────────────────────────────────────────────────────────
+
+Charles,
+
+Although I'm not fan of Galactica, your working is amazing~!
+
+Can't wait the next progress pics... :thumbsup
+
+thanks Eric.
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #1785337)
+Author    : Watson
+Date      : Jul 26, 2011 at 7:19 AM
+────────────────────────────────────────────────────────────────────────
+
+star-art said:
+
+			Hey Greg! It's been a while. Great to here from you. I hope you've been well! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+ 
+
+Charles I am doing well thanks for asking.  Got a new kiddo on the way so I have been pretty busy.  
+
+Its good to see you working on what you do best 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+  I broke out your model book this morning I am looking at it right now  :cool
+
+G
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #1789804)
+Author    : darthsideous
+Date      : Jul 28, 2011 at 11:48 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks for posting the information on how to safely work with this stuff!!!!! :thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #1790881)
+Author    : star-art
+Date      : Jul 28, 2011 at 10:57 PM
+────────────────────────────────────────────────────────────────────────
+
+Moving along. A huge box arrived yesterday with parts for another engine section build (in addition to this one) and included a few missing pieces for this build. Most notably, the resin thruster openings for the back end are finally here. While I designed these for the model now on display in the Science Fiction Museum, I've never actually had the raw castings in my possession before.
+
+I did a quick test fit just to see how they went together. The resin parts need some cleaning up, and there is minor distortion typical of such castings that needs adjusting. But, overall, they look like parts that were manufactured in a factory. I'm very pleased with how they turned out.
+
+I took the main engine box off the jig and secured the acrylic pipe sleeve permanently in place. Work has also started on the front end. Finally, I built the sub-structures for the side boxes. These will get skinned in 1/16" black acrylic prior to final installation.
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #1790949)
+Author    : Gort
+Date      : Jul 29, 2011 at 12:38 AM
+────────────────────────────────────────────────────────────────────────
+
+Wow, this is such impressive and top quality work, and just a joy to follow.Tremendous job... on both Battlestars you seem to have on the go!
+
+Very inspiring
+
+Nick
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #1802108)
+Author    : star-art
+Date      : Aug 4, 2011 at 2:04 AM
+────────────────────────────────────────────────────────────────────────
+
+After a bit of a wrestling match with some massive resin parts, I have completed the thruster module. This is a removable assembly containing all the engine openings for the ship. It is removable to make the job of detailing the inside of the openings much easier. Some details are already molded into the castings.
+
+What makes this a challenge? First, the thruster openings are cast resin. As a result, they tend to shrink and warp (typical for resin parts). The tolerances on this build are very tight (about 15 thousandths of an inch or 015). Not having had these castings in my hands until now, I had no way of knowing how well they would fit. As it turned out, they were off maybe 1/16. Not too bad. In addition, the warping/twisting caused a misalignment of about 1/8 inch on top of that.
+
+Now that I am aware of this, I probably should have added more clearance to my laser-cut parts. As it is, they were very tight and so I had to do some hand cutting and machining to allow room for a proper fit. That took quite a bit of time.
+
+Next, the thrusters are split into parts to allow you to get at the inside surfaces to glue in the details. In order to test fit everything and correct any warpage,  they needed to be glued together. But, permanently assembling them would negate the advantage of having them split into sections for detailing.
+
+The solution was to tack them together with CA and then heat and coax the parts into alignment. I then did some minor machining of the resin parts to achieve a near perfect fit. The finished assembly looks more like something made in a factory than anything I might have built by hand. So, there is a bit of a "cool" factor for me when I look at the final results. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+BTW, I don't like to rely on glue when joining dissimilar materials. It's fine when gluing acrylic or styrene to itself as those materials achieve a molecular bond when using the proper solvent. This creates a very strong joint that will stand up to stress.
+
+When bonding dissimilar materials, however, you need to take things into account like expansion and contraction that can cause a glue joint to fail over time. While I could have used CA to glue the resin parts to the acrylic structure, that would've resulted in a brittle joint that could snap if flexed. Just getting all this to go together required quite a bit of handling and I would have been popping glue joints right and left (I already ran into this problem because I tacked the thruster castings together). 
+
+I solved this issue by using screws to secure the thruster castings to the structure. No glue was required at all. The castings were specifically designed for this by way of screw bosses and pilot holes that line up with matching holes in the acrylic structure. All I had to do was drill out the pilot holes and install self-tapping #4 screws.
+
+This module is still not completely finished, but this is about as far as I can go for now since the client will need to disassemble everything in order to detail each opening. But, I can still install the diffusers and honeycomb mesh. My design allows light to shine through while also permitting air to flow for ventilation. I'll tackle that next.
+
+For now, I put the thruster module into the engine box just to see how it looks. The lower side boxes (now skinned) are loosely attached at this point. The front sloping section is also still under construction.
+────────────────────────────────────────────────────────────────────────
+Post #28  (forum post #1802186)
+Author    : Nwerke
+Date      : Aug 4, 2011 at 4:59 AM
+────────────────────────────────────────────────────────────────────────
+
+Wow, man, just wow. I remember all the years of painstaking effort you put into drafting this thing inside and out, and I admit to thinking once in a while 'is he ever going to actually build one?'. (Like *I* have any business saying something like that, lol. I can only dream that my decades of fiddling around with Executor, Nostromo, Narcissus, Cygnus and SDF-1 drawings might pay off some day.)
+
+But as you say, it has paid off in a major way. Great stuff.
+────────────────────────────────────────────────────────────────────────
+Post #29  (forum post #1802352)
+Author    : ringa
+Date      : Aug 4, 2011 at 7:43 AM
+────────────────────────────────────────────────────────────────────────
+
+Looking superior as usual, Charles! Can you post photos of one of the completed models?
+────────────────────────────────────────────────────────────────────────
+Post #30  (forum post #1802374)
+Author    : -... . .- --..
+Date      : Aug 4, 2011 at 7:58 AM
+────────────────────────────────────────────────────────────────────────
+
+Incredible!
+
+It really does look like it was precision machined and assembled by robots in a Toyota factory, doesn't it?
+
+Incredible!
+────────────────────────────────────────────────────────────────────────
+Post #31  (forum post #1802691)
+Author    : star-art
+Date      : Aug 4, 2011 at 10:42 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks guys! LOL Martyn.  After all this, I still don't have one of these things built for myself!
+
+Excellent idea, Rick. Here are a few shots of the completed CR model being installed at the Science Fiction Museum in Seattle, Washington, USA last October. A few weeks later, I got to attend the VIP opening and meet Glen Larson himself. It was quite an honor. Edward James Olmos was there, along with several other cast members and the creator of the new Galactica series, Ronald D. Moore.
+
+[Click an image below to enlarge.]
+
+[IMAGE: galactica-studio-scale-replica-public-display-g_setup1.jpg-36239d1298287980t]
+ 
+[IMAGE: galactica-studio-scale-replica-public-display-g_setup2.jpg-36240d1298287980t]
+ 
+[IMAGE: galactica-studio-scale-replica-public-display-g_setup3.jpg-36241d1298287980t]
+ 
+[IMAGE: galactica-studio-scale-replica-public-display-g_setup4.jpg-36242d1298287980t]
+────────────────────────────────────────────────────────────────────────
+Post #32  (forum post #1802761)
+Author    : ringa
+Date      : Aug 4, 2011 at 11:20 AM
+────────────────────────────────────────────────────────────────────────
+
+Now THAT'S what we like to see!!! It's nice to see the process with all the hard work that goes into it (which is VERY impressive), yet there's nothing like seeing the end result. And what an unbelievably fantastic result it is!
+────────────────────────────────────────────────────────────────────────
+Post #33  (forum post #1803232)
+Author    : Ray22
+Date      : Aug 4, 2011 at 3:35 PM
+────────────────────────────────────────────────────────────────────────
+
+This is Bad-Tastic!, bad as in good Lol.
+────────────────────────────────────────────────────────────────────────
+Post #34  (forum post #1805115)
+Author    : ichabods
+Date      : Aug 5, 2011 at 5:20 PM
+────────────────────────────────────────────────────────────────────────
+
+Really amazing work. I'm really glad that you've posted the photo's. For me, one of the hardest things to do , is stop to document what I've done. Great work.
+────────────────────────────────────────────────────────────────────────
+Post #35  (forum post #1814179)
+Author    : Jedi Dade
+Date      : Aug 11, 2011 at 5:56 AM
+────────────────────────────────────────────────────────────────────────
+
+At this point you should have all the templates, and construction down pat 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+I wonder if you did a speed build how long it would take?  Assuming you could order up all the structureal parts and details beforehand...
+
+It truly is a set of amazing pieces...  
+
+Jedi Dade
+────────────────────────────────────────────────────────────────────────
+Post #36  (forum post #1819279)
+Author    : star-art
+Date      : Aug 13, 2011 at 9:39 PM
+────────────────────────────────────────────────────────────────────────
+
+With things going on around the house and some construction in the shop, progress has been a bit slow. But, with that said, this engine section is very close to complete. 
+
+The front sloping section is currently being built from laser-cut styrene and the bottom portion of that is complete. The lower side boxes are permanently installed. (The upper side boxes remain removable for now to help facilitate detailing and they were removed when the attached photos were taken.)
+
+The waist assembly has been fitted and only the top panel remains to be installed. Other than that, about all that's left is to build the upper sloping sections on either side at the front, install the main sloping front panel, and build the "light tunnel" for the center engine outlet. Then, I will install the ventilation fans and set this section aside until the main body is completed.
+────────────────────────────────────────────────────────────────────────
+Post #37  (forum post #1820568)
+Author    : satazius
+Date      : Aug 14, 2011 at 5:44 PM
+────────────────────────────────────────────────────────────────────────
+
+Wow Charles.  That is spectacular.  I've been looking at photos of the big G for a long time and never realized how complicated the front sides of the engine section were.  Great job.
+────────────────────────────────────────────────────────────────────────
+Post #38  (forum post #1821426)
+Author    : ringa
+Date      : Aug 15, 2011 at 6:14 AM
+────────────────────────────────────────────────────────────────────────
+
+It's fascinating to see all the work that goes into the INSIDE of one of these Galacticas. As usual, Charles, your work is an example of a model done right––well planned and executed with no stone left unturned.
+────────────────────────────────────────────────────────────────────────
+Post #39  (forum post #1821463)
+Author    : moffeaton
+Date      : Aug 15, 2011 at 6:49 AM
+────────────────────────────────────────────────────────────────────────
+
+The interior engineering is almost prettier than the model itself!!
+────────────────────────────────────────────────────────────────────────
+Post #40  (forum post #1822523)
+Author    : t2sides
+Date      : Aug 15, 2011 at 5:56 PM
+────────────────────────────────────────────────────────────────────────
+
+BRAVO Charles, BRAVO!!!  Looking just fantastic!! 
+
+Ya know, for us 'old timer' G builders, your new techniques are reminding me of the "Genesis" project - as McCoy said:
+
+"Not anymore; now we can do both at the same time! According to myth, the Earth was created in six days. Now, watch out! Here comes Genesis! We'll do it for you in six minutes! "
+
+HAHA!! 
+
+Keep up the GREAT and FAST work!!!
+
+-Sean
+────────────────────────────────────────────────────────────────────────
+Post #41  (forum post #1822890)
+Author    : star-art
+Date      : Aug 15, 2011 at 9:59 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks, guys! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Sean, you call this fast? My goodness, you can run circles around me. You get things completed faster than just about anyone I've ever seen! LOL
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 41

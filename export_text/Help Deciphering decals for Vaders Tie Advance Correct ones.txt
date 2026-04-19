@@ -1,0 +1,434 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Help Deciphering decals for Vaders Tie Advance Correct ones
+URL    : https://www.therpf.com/forums/threads/help-deciphering-decals-for-vaders-tie-advance-correct-ones.236307/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #3598020)
+Author    : propcollector
+Date      : Mar 26, 2015 at 10:48 AM
+────────────────────────────────────────────────────────────────────────
+
+Ok guys lets see how good you can see!! Here is a pic turned upside down  to read these in white! Want to make up the correct decals for Tie Advance.
+
+I can see the CAPY,LDLMT, need to figure out the numbers Dont know for sure if the last one is LTWT
+
+[IMAGE: 199810-d179d87cda008e4d3d99e4295078d200.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #3598075)
+Author    : swgeek
+Date      : Mar 26, 2015 at 11:44 AM
+────────────────────────────────────────────────────────────────────────
+
+Looks like the red one is the start of DANGER. Probably from a fighter jet. The other one, no idea.
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #3598131)
+Author    : swhite228
+Date      : Mar 26, 2015 at 12:42 PM
+────────────────────────────────────────────────────────────────────────
+
+swgeek said:
+
+			Looks like the red one is the start of DANGER. Probably from a fighter jet. The other one, no idea.
+		
+
+Click to expand...
+
+The other seems to be the markings you would find on a shipping container or railroad tank car.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #3598217)
+Author    : propcollector
+Date      : Mar 26, 2015 at 2:09 PM
+────────────────────────────────────────────────────────────────────────
+
+swhite228 said:
+
+			The other seems to be the markings you would find on a shipping container or railroad tank car.
+		
+
+Click to expand...
+
+i believe you are spot on with that! Now to know what the correct numbers are!! 
+
+Thanks swhite228
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #3598404)
+Author    : Clerval
+Date      : Mar 26, 2015 at 6:34 PM
+────────────────────────────────────────────────────────────────────────
+
+Capacity, load limit, light (unloaded) weight, all freight specs. The numbers are interesting, esp the last...
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #3598619)
+Author    : Lee S
+Date      : Mar 27, 2015 at 2:00 AM
+Reactions : Like — moffeaton
+────────────────────────────────────────────────────────────────────────
+
+The DANGER one looks like the decal from the Revell Mercury:
+
+http://www.ninfinger.org/models/kitplans/revellh1833-decals.jpg
+
+The other is certainly a container or trailer.
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #3598691)
+Author    : moffeaton
+Date      : Mar 27, 2015 at 5:12 AM
+────────────────────────────────────────────────────────────────────────
+
+Nice find, Lee! Time to revise my sheet before I reprint them!
+
+I got "close" from the pic and sizing against the Neisen tie:
+
+[IMAGE: 200028-8c8227b070c8a104ec231fc52ffd1ee7.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #3598937)
+Author    : rbeach84
+Date      : Mar 27, 2015 at 10:23 AM
+────────────────────────────────────────────────────────────────────────
+
+As we found with the MF decals survey, ILM'ers really liked using Microscale railroad aftermarket decal sheets.  Given the verbiage expect it came from one of the freightcar, hopper car or tanker car  data sheets.  Of course, finding exemplars won't guarantee you'll be able to read the numbers as the printing was very small.  One other possibility is one of the AMT tractor trailer kits, which often included weight data... but usually on some kind of colored background.  There were 'O' gauge MS RR sheets that might be the correct size beyond the HO sheets, of which there were a lot!
+
+Trains Magazine has a nice little explanation of these markings (which pretty much IDs them as being from a RR sheet...) at their site; check it out HERE:
+
+http://trn.trains.com/railroads/abcs-of-railroading/2006/05/freight-car-markings
+
+A bit more reading of the Trains article appears to point out that the second number (LD LMT) is missing it's last digit as it usually exceeded the CAPY (capacity) limit by a bit (so CAPY being 97000, the LD LMT must be '98200' not '9820'...)
+
+Further, it is interesting that this labeling indicates the empty weight of the car is *greater* than the capacity! (113800)  That is one heavy car!
+
+Hope this helps!  R/ Robert
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #3598957)
+Author    : MonsieurTox
+Date      : Mar 27, 2015 at 10:47 AM
+────────────────────────────────────────────────────────────────────────
+
+Just FYI I just received the microscale 87-2 decal sheet today and I can confirm it is wrong in both size (this is HO and this is way too big) and data (numbers). 
+
+I am not even sure microscale was around at this time and I found some other manufacturers that were at this time but to be honest I think it was from a kit and not from after market decals.
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #3598984)
+Author    : Zac
+Date      : Mar 27, 2015 at 11:31 AM
+────────────────────────────────────────────────────────────────────────
+
+MonsieurTox said:
+
+			Just FYI I just received the microscale 87-2 decal sheet today and I can confirm it is wrong in both size (this is HO and this is way too big) and data (numbers). 
+
+I am not even sure microscale was around at this time and I found some other manufacturers that were at this time but to be honest I think it was from a kit and not from after market decals.
+		
+
+Click to expand...
+
+Some info on Microscale: 
+
+                                         Microscale Industries Inc. is located in Costa Mesa, California, and was founded in 1933 by Martin G. Krasel. Microscale is known for producing quality decals that are easy to apply and result in realistic models.  Scales HO, N, O, Z
+
+ Feature Products: Decals and decal finishing products
+
+ Specific Eras Steam-to-Diesel transition (1940-1960), Classic Diesel (1960-1980), Modern (1980-Present)
+
+ Price Range: $2.00-$20
+
+ Delivery Information: Because Microscale is a batch producer, some items may not be immediately available.
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #3598993)
+Author    : MonsieurTox
+Date      : Mar 27, 2015 at 11:38 AM
+────────────────────────────────────────────────────────────────────────
+
+Zac said:
+
+			Some info on Microscale: 
+
+                                         Microscale Industries Inc. is located in Costa Mesa, California, and was founded in 1933 by Martin G. Krasel. Microscale is known for producing quality decals that are easy to apply and result in realistic models.  Scales HO, N, O, Z
+
+ Feature Products: Decals and decal finishing products
+
+ Specific Eras Steam-to-Diesel transition (1940-1960), Classic Diesel (1960-1980), Modern (1980-Present)
+
+ Price Range: $2.00-$20
+
+ Delivery Information: Because Microscale is a batch producer, some items may not be immediately available.
+		
+
+Click to expand...
+
+Thanks for the infos, however the HO decals are wrong. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #3598997)
+Author    : Zac
+Date      : Mar 27, 2015 at 11:41 AM
+────────────────────────────────────────────────────────────────────────
+
+Most likely N scale. I've been looking through numbers from the Santa Fe cars but have found nothing yet. Will keep looking though.
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #3599002)
+Author    : MonsieurTox
+Date      : Mar 27, 2015 at 11:46 AM
+────────────────────────────────────────────────────────────────────────
+
+Yeah N scale sounds close. 
+
+Im wondering if the TIE markings on the cockpit of some Y-Wings (Red Jammer and Gold Leader) are not trains markings, one of them looks very very close !
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #3599055)
+Author    : rbeach84
+Date      : Mar 27, 2015 at 12:31 PM
+────────────────────────────────────────────────────────────────────────
+
+Nicely, the 'weight data' and the DAN segment of the 1/24 Gemini kit are right next to each other, so relatively straight-forward to size.  As for the exact source, capacity data 'stenciling' was provided on most (if not all) of the Microscale sheets for various rolling stock sheets, so finding the original sheet may be nearly impossible.  Since this isn't necessary for this modeling purpose (after all, custom making these puppies, right?) it probably is just good enough to know the general source.  In fact, many earlier MS sheets from the '70's- '80's are no longer available, even the numbers could have been 'retreaded' by MS.  So, no worries!  Oh, MT, Microscale was definitely around during this time frame as we've found from the Mill Falcon project (a very cool discovery, IMO.)  It shows the ILM modelers basically ran down to the LHS and raided their inventory... perhaps not for *everything* but certainly for some things...  Does anyone know if the majority of the filming models were built over in the UK or made some where else?  Sorry, a little OT, just curious what kind of LHS they might have visited (such as Rosemont Hobbies...) for these kits & decals.
+
+R/ Robert
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #3599199)
+Author    : MonsieurTox
+Date      : Mar 27, 2015 at 3:40 PM
+────────────────────────────────────────────────────────────────────────
+
+The 1/24 Gemini decals are not correct (wrong font).
+
+I don't agree with you regarding finding the correct decals, maybe it is not important in the general section but it is here, in the studio scale section, it is as important than getting the right parts.
+
+Yeah it may be from MS decal sheet, or it may not, we need to find solid proof. Since those markings are standard on real life stuff, it is likely something that can be found in any train kit from this era.
+
+All the ANH models were built in the US.
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #3599360)
+Author    : propcollector
+Date      : Mar 27, 2015 at 7:52 PM
+────────────────────────────────────────────────────────────────────────
+
+Here is a N scale freaight car with the LT WT number larger then the other two numbers, so shows that these were out there like on the tie fighter
+
+CAPY (nominal capacity) is the intended load-carrying capacity of the car, to the nearest 1000 pounds. This is determined by the structural strength of the car's underframe and the size of the journal bearings of the car's trucks. 
+
+LD LMT (load limit) is the maximum weight of lading that can be carried by the car, to the nearest 100 pounds. This is determined by subtracting the weight of the car when empty from the total allowable gross weight given the size of the car's journal bearings. The load limit for a car is usually a bit greater than its capacity; the two figures can be equal, but capacity can never exceed load limit. 
+
+LT WT (light, or empty, weight) is the weight of the car when empty.
+
+i don't believe that the N scale is the right size because the decals are way to small, here is a size comparison
+
+[IMAGE: https://www.therpf.com/forums/attachments/image-jpg.457044/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/image-jpg.457074/]
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #3599385)
+Author    : Tsophika
+Date      : Mar 27, 2015 at 8:28 PM
+Reactions : Like — moffeaton, MonsieurTox
+────────────────────────────────────────────────────────────────────────
+
+That has to be the tiniest 1138 reference.
+
+Craig
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #3599420)
+Author    : propcollector
+Date      : Mar 27, 2015 at 9:21 PM
+────────────────────────────────────────────────────────────────────────
+
+Where, may I ask, did those come from tsophika? Those are spot on to be right and the numbers match
+
+ok  THX  1138  more info on this
+
+Star Wars (1977): 1138 is the number of the cell block on the Death Star that Luke Skywalker claims to be transferring Chewbacca from. Additionally, the Imperial Stormtrooper suit Luke Skywalker stole in the Death Star belongs to a Stormtrooper with the registration TK-421, but this was scripted and appears in the novelization as THX 1138. Finally, when C-3PO asks Han and Luke what they should do if they are discovered in the hangar control of the Death Star, the monitor behind the robots shows "THX/1138".
+
+The Empire Strikes Back (1980): In an approximation of the 1138 meme, General Rieekanissues the following order: "Send Rogues 10 and 11 to Station 3-8".
+
+[*]Raiders of the Lost Ark (1981): The number is heard spoken through an intercom in German, "Eins-eins-drei-acht". The wing number on a plane also reads THX-1138.
+
+[*]Return of the Jedi (1983): The number 1138 is inscribed on the side of Boushh's helmet.
+
+[*]Indiana Jones and the Last Crusade (1989): 1138 is in Roman numerals MCXXXVIII in Dr. Jones' notebook in the library scene.
+
+[*]Star Wars Episode I: The Phantom Menace (1999): 1138 can be seen on the back of the battle droid that Jar-Jar hits over the head after they are deactivated on Naboo because of the destruction of the droid control ship.
+
+[*]Star Wars Episode II: Attack of the Clones (2002): When Mace Windu orders a clone pilot to land in an assembly area, 1138 can be seen on the back of the pilot's helmet in LEDlights.
+
+[*]Star Wars Episode III: Revenge of the Sith (2005): CC-1138 is the numerical designation for Commander Bacara, commander of the Galactic Marines under General Ki-Adi-Mundi. An easter egg involving the number and a clip of Yoda breakdancing is also present on the DVD version.
+
+thank you Craig for posting that
+
+any one know what stencil font used for the freight cars?
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #3599453)
+Author    : propcollector
+Date      : Mar 27, 2015 at 10:15 PM
+────────────────────────────────────────────────────────────────────────
+
+Also the YFAR is on the opposite Side of the hatch of vaders tie.
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #3599465)
+Author    : Tsophika
+Date      : Mar 27, 2015 at 10:39 PM
+────────────────────────────────────────────────────────────────────────
+
+Send me your email, Mark.
+
+Craig
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #3599532)
+Author    : MonsieurTox
+Date      : Mar 28, 2015 at 1:30 AM
+────────────────────────────────────────────────────────────────────────
+
+propcollector said:
+
+			Here is a N scale freaight car with the LT WT number larger then the other two numbers, so shows that these were out there like on the tie fighter
+
+CAPY (nominal capacity) is the intended load-carrying capacity of the car, to the nearest 1000 pounds. This is determined by the structural strength of the car's underframe and the size of the journal bearings of the car's trucks. 
+
+LD LMT (load limit) is the maximum weight of lading that can be carried by the car, to the nearest 100 pounds. This is determined by subtracting the weight of the car when empty from the total allowable gross weight given the size of the car's journal bearings. The load limit for a car is usually a bit greater than its capacity; the two figures can be equal, but capacity can never exceed load limit. 
+
+LT WT (light, or empty, weight) is the weight of the car when empty.
+
+i don't believe that the N scale is the right size because the decals are way to small, here is a size comparison
+		
+
+Click to expand...
+
+N scale seems good to me, the HO decals are about 2x too big.
+
+- - - Updated - - -
+
+Tsophika said:
+
+			That has to be the tiniest 1138 reference.
+
+Craig
+		
+
+Click to expand...
+
+Are those pics of the original decal sheets ? The Danger looks spot on too !
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #3599658)
+Author    : propcollector
+Date      : Mar 28, 2015 at 7:14 AM
+────────────────────────────────────────────────────────────────────────
+
+Tsophika said:
+
+			That has to be the tiniest 1138 reference.
+
+Craig
+		
+
+Click to expand...
+
+Pm sent craig
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #3601250)
+Author    : rbeach84
+Date      : Mar 30, 2015 at 8:10 AM
+────────────────────────────────────────────────────────────────────────
+
+Still don't see where anyone has stated or determined the actual physical size of the decals on the TIE model... so how can anyone determine what scale MS sheet these stencils came from?
+
+R/ R
+
+- - - Updated - - -
+
+MonsieurTox said:
+
+			The 1/24 Gemini decals are not correct (wrong font).
+
+I don't agree with you regarding finding the correct decals, maybe it is not important in the general section but it is here, in the studio scale section, it is as important than getting the right parts.
+
+Yeah it may be from MS decal sheet, or it may not, we need to find solid proof. Since those markings are standard on real life stuff, it is likely something that can be found in any train kit from this era.
+
+All the ANH models were built in the US.
+		
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #3601306)
+Author    : MonsieurTox
+Date      : Mar 30, 2015 at 9:05 AM
+Reactions : Like — rbeach84
+────────────────────────────────────────────────────────────────────────
+
+rbeach84 said:
+
+			Still don't see where anyone has stated or determined the actual physical size of the decals on the TIE model... so how can anyone determine what scale MS sheet these stencils came from?
+
+R/ R
+
+- - - Updated - - -
+
+Yeah, good luck with that attitude.
+		
+
+Click to expand...
+
+I have the SS TIE, I have the HO MS decals sheet, the decals don't fit the SS TIE because they are twice the size they should be, easy !
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #3601310)
+Author    : MonsieurTox
+Date      : Mar 30, 2015 at 9:09 AM
+Reactions : Like — Falk
+────────────────────────────────────────────────────────────────────────
+
+rbeach84 said:
+
+			Still don't see where anyone has stated or determined the actual physical size of the decals on the TIE model... so how can anyone determine what scale MS sheet these stencils came from?
+
+R/ R
+
+- - - Updated - - -
+
+Yeah, good luck with that attitude.
+		
+
+Click to expand...
+
+Thank you. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+   "That attitude" is trying to be as close as possible, so I guess I'm not out of topic in this forum. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+In this thread, Mark was trying to find the correct decals used on the X-1, not decals that are close. I have seen some discussions you had with other members regarding Studio Scale and accuracy and I respect your choice to use decals that are close, or resin or 3D printed parts when styrene parts were used ont he original models. However keep in mind that's not the case of most guys in this forum section. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #3601373)
+Author    : rbeach84
+Date      : Mar 30, 2015 at 10:17 AM
+────────────────────────────────────────────────────────────────────────
+
+MonsieurTox said:
+
+			Thank you. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+   "That attitude" is trying to be as close as possible, so I guess I'm not out of topic in this forum. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+In this thread, Mark was trying to find the correct decals used on the X-1, not decals that are close. I have seen some discussions you had with other members regarding Studio Scale and accuracy and I respect your choice to use decals that are close, or resin or 3D printed parts when styrene parts were used ont he original models. However keep in mind that's not the case of most guys in this forum section. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+MT, I apologize for I must have taken your comment about "General modeling" wrongly and consequently taken slight offense.  To me, this is *all* modeling & art (but not science), but I tend to be inclusive with my definitions - and assign equal standing to all efforts in this arena.  As such, the idea that there is a 'general' modeling attitude that is somehow less correct rankled in light of my personal paradigm.  But again, as is said, "that is just me" and so I do not speak for others.
+
+My on-topic point is specifically that it may be impossible to identify the original source(s) used, in which case an identical but non-original source (such as 'Microscale sheet xyz' vice 'abc' - or even 'reproduction' graphics) would certainly be the way to proceed & also completely correct.  As such, at least in my mind, there is no requirement to only use original parts, decals, etc. - only to be rigorous so (again, in my opinion) the result looks the same.  It is impractical to be any more "exact" this since certain things are simply no longer made or to be found (or just out of reach from a financial standpoint.)  
+
+Again apologies as perhaps I also failed in being clear re: Mark's question; I never meant to imply that "close" would be the goal, merely that exactly the original decal sheet might be unavailable and as such a *matching* exact alternative should be fine - again, for practical purposes.  The real benefit of identifying the original decal source is so to have a crystal-clear determination of how the original application looked so then the replica's application can be matched exactly.
+
+I wonder if this little bit of discord is more about language than meaning, as you seem to stand in the same field of thought as I based on your post on the MF decals survey thread: here
+
+I believe everyone involved certainly understands the reality (depressing as it may be) concerning availability of the original sources.  However, I think consideration should also be given to the "spirit" of the original modeling projects without being overly pedantic; after all, these models were 'slammed & jammed' together for other than aesthetic purposes with many shortcuts being taken.  The beauty is in what they achieved *in spite* of the limitations imposed on their work... in short, don't forget the joy of the forest for staring at one tree's bark!  ;^)
+
+Regards, Robert
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #3601374)
+Author    : propcollector
+Date      : Mar 30, 2015 at 10:19 AM
+────────────────────────────────────────────────────────────────────────
+
+Remember there are different sizes even in the Ho ect. so can somebody show the decals next to the hatch?
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 27

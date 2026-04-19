@@ -1,0 +1,266 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Death Star turret
+URL    : https://www.therpf.com/forums/threads/death-star-turret.281120/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #4309029)
+Author    : Scott Graham
+Date      : Sep 2, 2017 at 4:59 PM
+Reactions : Like — kokkari
+────────────────────────────────────────────────────────────────────────
+
+I'm going to get going building the death star turret. I have a ton of kit parts, an animatronic armature from Daniel Beck, and the styrene kit from Wasili. I wouldn't be able to build this without them and the guys here. Jason and Eric's builds have been very helpful.
+
+I'm going to put it all on a 12 inch square base that will be attached to it permanently in order to support the armature and cladding parts.
+
+But I also have a few questions for anyone building or having built one. I assume Jason Eaton would be the authority on this...calling Dr. Eaton!
+
+There is an 8 inch turntable as part of the armature. The top can't be removed from the bottom. So the bottom of the top will need to cut to get it around the 8 inch center piece. I assume, with my tools, that a compass scriber would be the best way to start the cut of the circle into that bottom piece.
+
+1-Also, The top of the armature needs to be bonded its base. I'm assuming that I'll get an adhesive to help here. Jason seems to have put a bolt through the aluminum to hold it together. Is it easy to drill aluminum? With regular bits?
+
+2-What are the two gray cylindrical pieces that came with the armature? Will they be used in the build?
+
+ 
+
+Attachments
+
+[IMAGE: 423390-fc92adeac7b84e4d0f44aa24487e528d.jpg]
+
+IMG_2780.JPG
+
+					1.5 MB
+					
+					· Views: 274
+					
+				
+
+[IMAGE: 423391-7325f1abbcf8c66179fdb59512dd367b.jpg]
+
+IMG_2781.JPG
+
+					1.3 MB
+					
+					· Views: 235
+					
+				
+
+[IMAGE: 423392-ad52c1c33dd5c58f7f992a2716c47dad.jpg]
+
+IMG_2782.JPG
+
+					1.5 MB
+					
+					· Views: 250
+					
+				
+
+[IMAGE: 423393-b906a67b671b01893a9ddd5d770b0ed8.jpg]
+
+IMG_2783.JPG
+
+					1.3 MB
+					
+					· Views: 254
+					
+				
+
+[IMAGE: 423394-61b9373a27e5442cba5ec0945fba0b72.jpg]
+
+IMG_2784.JPG
+
+					1.4 MB
+					
+					· Views: 274
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #4309134)
+Author    : 3phase
+Date      : Sep 2, 2017 at 9:21 PM
+Reactions : Like — Scott Graham
+────────────────────────────────────────────────────────────────────────
+
+Only thing i can help with is yes use regular drill bits for aluminium and it drills very easy compared to steel.
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #4309136)
+Author    : Scott Graham
+Date      : Sep 2, 2017 at 9:33 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks. I've been looking at some YouTube vids about it. I might try to lubricate the bit with wd-40 silicone spray. I'm not sure if an adhesive would hold it together as the parts are heavy.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #4309214)
+Author    : Jkirkon
+Date      : Sep 3, 2017 at 4:58 AM
+────────────────────────────────────────────────────────────────────────
+
+If it's a thicker piece of metal, I would use cutting oil. WD-40 is a bit too thin.
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #4310689)
+Author    : moffeaton
+Date      : Sep 5, 2017 at 5:07 PM
+Reactions : Like — Scott Graham
+────────────────────────────────────────────────────────────────────────
+
+yep, I lasered a hole in the top of the base box large enough for the turntable to clear. I cut a piece of 1/4" acrylic for the base, notched to allow the wires to pass through, and apoxied the ever living hell out of it to the inner metal base that Daniel made... and then WeldOn3 held the acrylic base to the milled styrene walls! Did that make sense? The weight of everything ensured everything was level - it just smushed the apoxie and it seems ROCK solid.
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #4310709)
+Author    : EE89
+Date      : Sep 5, 2017 at 5:42 PM
+────────────────────────────────────────────────────────────────────────
+
+I have Wasili's styrene kit and Daniel's armature as well.  Though, I haven't started building them yet.  So, I'll be watching this thread with GREAT interest!  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Regarding the two cylindrical pieces, could they be the parts that mount the MIG engine gun barrels to the telescoping tubes?
+
+-Marc
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #4310711)
+Author    : Scott Graham
+Date      : Sep 5, 2017 at 5:54 PM
+────────────────────────────────────────────────────────────────────────
+
+Yeah, I think the gray cylinders belong there. They're the right size for the boxes though, that go around the mig pieces. I'm currently scribing with a compass and using an exacto knife to cut through the 4mm thickness of the top of the bottom. It's a pain in the butt to try to get through all of that. I wish I could laser cut it.
+
+Thanks for your help Jason!
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #4310727)
+Author    : Scott Graham
+Date      : Sep 5, 2017 at 6:39 PM
+Reactions : Like — moffeaton
+────────────────────────────────────────────────────────────────────────
+
+Ok. So after about an hour of scribing, with the x-acto blade backwards in the groove, I broke on through to the other side. Cleaned it up with the blade and sandpaper.
+
+Also, I successfully drilled holes to attach the top of the armature to the bottom. Held with screws and nuts. I used titanium coated carbide drill bits to make the holes in the aluminum. And had no problems.
+
+ 
+
+Attachments
+
+[IMAGE: 423968-51a2918d8ec81c9eb426569c6d427917.jpg]
+
+IMG_2786.JPG
+
+					1.4 MB
+					
+					· Views: 276
+					
+				
+
+[IMAGE: 423967-846c02dc4f300bca849413474cf36489.jpg]
+
+IMG_2785.JPG
+
+					2.2 MB
+					
+					· Views: 223
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #4310786)
+Author    : EE89
+Date      : Sep 5, 2017 at 8:59 PM
+────────────────────────────────────────────────────────────────────────
+
+Nice job in cutting the hole.
+
+After thinking about it, I remembered the "Rotozip", a tool that I've seen advertised for cutting circles in construction materials.  It looks like it would work well for cutting circular holes in Styrene too.  There's a special cutting guide attachment for it.
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #4418060)
+Author    : Scott Graham
+Date      : Feb 26, 2018 at 6:51 PM
+Reactions : Like — Studio Kitbash
+────────────────────────────────────────────────────────────────────────
+
+I've got a question for anyone who has built one of these. 
+
+I'm stumped about where to position the mig engine cannons versus the large round piece on the right. It is needed to hold the square box shapes and other cylinder in place.
+
+My cannons' recoil is about 55mm, which is the length from the end of the mig engine to the right end of the large round piece. Thus it negates it being there. It would collide with anything more than a 20mm recoil. You need the entire mig engine piece and need that large round piece, but the recoil takes the mig engines all the way back.
+
+I hope that explanation is good enough. I'll simplify it if I can think of a way.
+
+Can anyone show me or explain how they solved this area?
+
+ 
+
+Attachments
+
+[IMAGE: 455101-a051018197308f51a59a801ddb856f48.jpg]
+
+IMG_2940.jpg
+
+					1.7 MB
+					
+					· Views: 297
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #4460944)
+Author    : Scott Graham
+Date      : May 13, 2018 at 8:34 PM
+Reactions : Like — kokkari
+────────────────────────────────────────────────────────────────────────
+
+Maybe this is a clearer explanation.
+
+The first pic is the cannon at rest. The second shows it recoiling about 60mm, which is about 30mm too much. When in full recoil it would collide with any tube supporting the plastruct tube and boxes. I would need to extend the plastruct tube unrealistically to provide an attachment point.
+
+Other ways around this are to make the throw of the servo shorter, so it has a shorter recoil. 
+
+The easiest solution would be to block the servo's rotation to the rear. The problem with this method might be that blocking the servo would strip its gears.
+
+Another method would be to shorten the arms. But since this is all assembled, drilling holes and dealing with screws in there would be nearly impossible.
+
+I tried to contact Daniel Beck about this since he built it and set it up, but haven't received any answer. Can anybody else out there see a solution?
+
+ 
+
+Attachments
+
+[IMAGE: 468655-d833c9f8669caae008ae4690829e9d7f.jpg]
+
+IMG_2990.JPG
+
+					660.4 KB
+					
+					· Views: 209
+					
+				
+
+[IMAGE: 468656-b4287371e7367486d02302a0d30fde43.jpg]
+
+IMG_2991.JPG
+
+					546.7 KB
+					
+					· Views: 201
+					
+				
+
+[IMAGE: 468657-30f7869c5ac7f4e2907fe855158ab71b.jpg]
+
+IMG_2992.JPG
+
+					513 KB
+					
+					· Views: 194
+					
+				
+
+[IMAGE: 468658-cdb0c7666307c327b430d6cfcf02b146.jpg]
+
+IMG_2993.JPG
+
+					461.3 KB
+					
+					· Views: 207
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #4462038)
+Author    : joberg
+Date      : May 15, 2018 at 4:57 PM
+────────────────────────────────────────────────────────────────────────
+
+Looking spiffy so far
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 12

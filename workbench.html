@@ -1,0 +1,3211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NuHopeTools Workbench</title>
+  <style>
+    :root {
+      --bg: #171412;
+      --panel: #221d19;
+      --panel-2: #2a241f;
+      --panel-3: #332c25;
+      --line: #4b4036;
+      --ink: #f1eadf;
+      --ink-2: #cbbdaa;
+      --ink-3: #9a8d7d;
+      --accent: #d4a458;
+      --accent-2: #8fae8a;
+      --warn: #d88157;
+      --danger: #bf6056;
+      --shadow: 0 10px 28px rgba(0,0,0,0.35);
+      --mono: "Cascadia Mono", Consolas, monospace;
+      --sans: "Segoe UI", system-ui, sans-serif;
+      --radius: 12px;
+    }
+    * { box-sizing: border-box; }
+    html, body { height: 100%; margin: 0; background: radial-gradient(circle at top, #2a241f 0%, var(--bg) 55%); color: var(--ink); font-family: var(--sans); }
+    body { display: flex; flex-direction: column; overflow: hidden; touch-action: pan-x pan-y; }
+    .workbench-shell {
+      flex: 1;
+      min-height: 0;
+      display: flex;
+      flex-direction: column;
+    }
+    .topbar {
+      display: flex;
+      gap: 12px;
+      align-items: center;
+      padding: 12px 16px;
+      border-bottom: 1px solid var(--line);
+      background: rgba(18, 15, 13, 0.92);
+      backdrop-filter: blur(10px);
+      position: sticky;
+      top: 0;
+      z-index: 30;
+    }
+    .brand { min-width: 220px; }
+    .eyebrow { color: var(--ink-3); font: 11px var(--mono); text-transform: uppercase; letter-spacing: 0.12em; }
+    .title { font-size: 20px; line-height: 1.2; }
+    .topbar-controls { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+    .hidden-input { display: none; }
+    .topbar-toggle {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 10px;
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      background: var(--panel-3);
+      color: var(--ink);
+      font-size: 13px;
+    }
+    .topbar-toggle input {
+      margin: 0;
+      accent-color: var(--accent);
+    }
+    .zoom-control {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 10px;
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      background: var(--panel-3);
+      color: var(--ink);
+      font-size: 12px;
+    }
+    .zoom-control span {
+      color: var(--ink-2);
+      font: 11px var(--mono);
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+    }
+    .zoom-control input[type="range"] {
+      width: 110px;
+      accent-color: var(--accent);
+    }
+    .zoom-control strong {
+      min-width: 38px;
+      text-align: right;
+      font: 12px var(--mono);
+      color: var(--ink);
+    }
+    .app {
+      flex: 1;
+      display: grid;
+      grid-template-columns: 320px minmax(0, 1fr) 380px;
+      min-height: 0;
+      zoom: var(--workspace-zoom, 1);
+      transform-origin: top left;
+    }
+    .panel {
+      min-height: 0;
+      background: rgba(34, 29, 25, 0.92);
+      border-right: 1px solid var(--line);
+    }
+    .panel:last-child { border-right: 0; }
+    .panel-head {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 12px 14px;
+      border-bottom: 1px solid var(--line);
+      background: rgba(0,0,0,0.08);
+      position: sticky;
+      top: 0;
+      z-index: 5;
+    }
+    .panel-title { font-size: 14px; font-weight: 600; }
+    .panel-sub { color: var(--ink-3); font: 11px var(--mono); }
+    .panel-body { height: calc(100% - 56px); overflow: auto; padding: 12px; }
+    .library-body {
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+    .library-scroll {
+      flex: 1;
+      min-height: 0;
+      overflow: auto;
+      margin: 0 -12px -12px;
+      padding: 0 12px 12px;
+    }
+    .field, select, textarea, button {
+      font: 13px var(--sans);
+      color: var(--ink);
+    }
+    .field, select, textarea {
+      width: 100%;
+      background: var(--panel-3);
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      padding: 8px 10px;
+    }
+    textarea { min-height: 90px; resize: vertical; }
+    button {
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      background: var(--panel-3);
+      padding: 8px 10px;
+      cursor: pointer;
+    }
+    button:hover { border-color: var(--accent); }
+    button.primary { background: rgba(212, 164, 88, 0.12); border-color: #9a6d2e; }
+    button.ghost { background: transparent; }
+    button.danger { border-color: #7f3f38; color: #f0b2a7; }
+    .filters { display: grid; gap: 8px; margin-bottom: 12px; }
+    .filter-row { display: grid; gap: 8px; grid-template-columns: 1fr 1fr; }
+    .toggle { display: flex; align-items: center; gap: 8px; color: var(--ink-2); font-size: 12px; }
+    .library-list { display: grid; gap: 8px; }
+    .image-row {
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 8px;
+      background: rgba(0,0,0,0.1);
+      cursor: pointer;
+      display: grid;
+      grid-template-columns: 72px minmax(0, 1fr);
+      gap: 8px;
+      align-items: start;
+    }
+    .image-row.active { border-color: var(--accent); background: rgba(212, 164, 88, 0.08); }
+    .image-row-thumb-wrap {
+      position: relative;
+      width: 72px;
+      min-width: 72px;
+    }
+    .image-row-thumb {
+      width: 72px;
+      height: 72px;
+      border-radius: 10px;
+      object-fit: cover;
+      background: rgba(255,255,255,0.04);
+      border: 1px solid rgba(255,255,255,0.06);
+      display: block;
+    }
+    .image-row-body {
+      min-width: 0;
+      display: grid;
+      gap: 3px;
+    }
+    .image-row-title {
+      font-size: 12px;
+      line-height: 1.3;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+    .image-row-meta {
+      color: var(--ink-3);
+      font: 10px var(--mono);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .image-row-footer {
+      display: flex;
+      gap: 8px;
+      align-items: center;
+      flex-wrap: wrap;
+      color: var(--ink-3);
+      font: 10px var(--mono);
+    }
+    .image-row-code {
+      border: 1px solid rgba(255,255,255,0.08);
+      border-radius: 999px;
+      padding: 2px 7px;
+      background: rgba(255,255,255,0.03);
+      max-width: 100%;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+    .badge-row { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 8px; }
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      padding: 3px 8px;
+      font: 11px var(--mono);
+      color: var(--ink-2);
+      background: rgba(255,255,255,0.03);
+    }
+    .badge.active { border-color: var(--accent); color: var(--ink); }
+    .variant-chip-row {
+      display: flex;
+      gap: 6px;
+      flex-wrap: wrap;
+      margin-top: 8px;
+    }
+    .thumb-variant-strip {
+      position: absolute;
+      left: 4px;
+      right: 4px;
+      bottom: 4px;
+      display: flex;
+      gap: 4px;
+      flex-wrap: wrap;
+      align-items: flex-end;
+      pointer-events: none;
+    }
+    .variant-chip {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 18px;
+      height: 18px;
+      border: 1px solid var(--line);
+      border-radius: 5px;
+      padding: 0;
+      font: 10px var(--mono);
+      line-height: 1;
+      color: var(--ink-2);
+      background: rgba(26,22,19,0.9);
+      cursor: pointer;
+      pointer-events: auto;
+    }
+    .variant-chip:hover { border-color: var(--accent); color: var(--ink); }
+    .variant-chip.active { border-color: var(--accent); color: var(--ink); background: rgba(212, 164, 88, 0.12); }
+    .center {
+      display: flex;
+      flex-direction: column;
+      min-width: 0;
+      background: linear-gradient(180deg, rgba(28,24,21,0.94), rgba(20,17,15,0.98));
+    }
+    .canvas-meta {
+      display: grid;
+      gap: 10px;
+      padding: 12px 14px;
+      border-bottom: 1px solid var(--line);
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      background: linear-gradient(180deg, rgba(28,24,21,0.98), rgba(20,17,15,0.96));
+    }
+    .canvas-headline { display: grid; gap: 4px; min-width: 0; }
+    .canvas-title { font-size: 16px; }
+    .canvas-sub { color: var(--ink-3); font: 11px var(--mono); }
+    .canvas-adjustments {
+      background: rgba(12, 14, 18, 0.32);
+      border-top: 1px solid rgba(255,255,255,0.06);
+      padding: 5px 10px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      flex-shrink: 0;
+      flex-wrap: wrap;
+    }
+    .adj-group {
+      display: flex;
+      align-items: center;
+      gap: 5px;
+    }
+    .adj-label {
+      font-size: 10px;
+      color: #8ea7cf;
+      white-space: nowrap;
+    }
+    input[type=range].adj-slider {
+      -webkit-appearance: none;
+      width: 70px;
+      height: 3px;
+      background: rgba(255,255,255,0.18);
+      border-radius: 2px;
+      cursor: pointer;
+      outline: none;
+      padding: 0;
+      accent-color: #6a95d9;
+    }
+    input[type=range].adj-slider::-webkit-slider-thumb {
+      -webkit-appearance: none;
+      width: 11px;
+      height: 11px;
+      border-radius: 50%;
+      background: #6a95d9;
+      cursor: pointer;
+      border: 0;
+      box-shadow: none;
+    }
+    input[type=range].adj-slider::-moz-range-thumb {
+      width: 11px;
+      height: 11px;
+      border-radius: 50%;
+      background: #6a95d9;
+      cursor: pointer;
+      border: 0;
+      box-shadow: none;
+    }
+    .adj-val {
+      font-size: 11px;
+      color: var(--ink-2);
+      font-family: var(--mono);
+      width: 30px;
+    }
+    .adj-reset {
+      font-size: 10px;
+      color: var(--ink-3);
+      cursor: pointer;
+      padding: 2px 4px;
+      border-radius: 3px;
+      border: 0;
+      background: transparent;
+      min-width: 0;
+    }
+    .adj-reset:hover {
+      color: #6a95d9;
+      background: rgba(106, 149, 217, 0.12);
+    }
+    .canvas-toolbar-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      align-items: stretch;
+    }
+    .toolbar-group {
+      display: inline-flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      align-items: center;
+      padding: 8px 10px;
+      border: 1px solid rgba(255,255,255,0.06);
+      border-radius: 14px;
+      background: rgba(255,255,255,0.03);
+    }
+    .toolbar-group-label {
+      color: var(--ink-3);
+      font: 11px var(--mono);
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      margin-right: 2px;
+    }
+    .toolbar-group .toolbar-pill { margin-left: 2px; }
+    .canvas-shell {
+      flex: 1;
+      min-height: 0;
+      display: flex;
+      flex-direction: column;
+      padding: 12px;
+      gap: 0;
+      overflow: hidden;
+    }
+    .canvas-frame {
+      flex: 1;
+      min-height: 0;
+      position: relative;
+      padding: 0 44px;
+    }
+    .canvas-scroll {
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      background:
+        linear-gradient(90deg, rgba(255,255,255,0.02) 1px, transparent 1px) 0 0 / 24px 24px,
+        linear-gradient(rgba(255,255,255,0.02) 1px, transparent 1px) 0 0 / 24px 24px,
+        #151210;
+      box-shadow: inset 0 0 0 1px rgba(255,255,255,0.02);
+      position: relative;
+    }
+    .canvas-scroll.panning { cursor: grabbing; }
+    .canvas-scroll-inner {
+      width: 100%;
+      height: 100%;
+      position: relative;
+      overflow: hidden;
+    }
+    .canvas-stage {
+      position: absolute;
+      transform-origin: top left;
+    }
+    .canvas-image {
+      display: block;
+      max-width: none;
+      user-select: none;
+      -webkit-user-drag: none;
+      border-radius: 10px;
+      box-shadow: var(--shadow);
+    }
+    .region-layer {
+      position: absolute;
+      inset: 0;
+      pointer-events: auto;
+    }
+    .region {
+      position: absolute;
+      border-radius: 10px;
+      cursor: pointer;
+    }
+    .region.point {
+      width: 14px;
+      height: 14px;
+      margin-left: -7px;
+      margin-top: -7px;
+      border: 2px solid var(--accent);
+      background: rgba(212, 164, 88, 0.2);
+      border-radius: 999px;
+    }
+    .region.box {
+      border: 2px solid #9eb8ff;
+      background: rgba(82, 119, 198, 0.12);
+    }
+    .region.linked { border-color: var(--accent-2); }
+    .region.active {
+      box-shadow: 0 0 0 2px rgba(255,255,255,0.18), 0 0 0 4px rgba(212,164,88,0.25);
+      z-index: 2;
+    }
+    .region-label {
+      position: absolute;
+      left: 0;
+      top: -22px;
+      white-space: nowrap;
+      background: rgba(0,0,0,0.78);
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      padding: 2px 7px;
+      font: 11px var(--mono);
+      color: var(--ink);
+    }
+    .region .region-label { display: none; }
+    .region.active .region-label,
+    .region.show-label .region-label,
+    .region:hover .region-label { display: block; }
+    .draft-box {
+      position: absolute;
+      border: 2px dashed var(--warn);
+      background: rgba(216,129,87,0.10);
+      pointer-events: none;
+      z-index: 3;
+    }
+    .canvas-nav {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      width: 44px;
+      z-index: 4;
+      border: 0;
+      border-radius: 0;
+      background: linear-gradient(90deg, rgba(0,0,0,0.28), rgba(0,0,0,0));
+      color: var(--ink);
+      opacity: 0;
+      transition: opacity 120ms ease;
+    }
+    .canvas-nav.prev {
+      left: 0;
+    }
+    .canvas-nav.next {
+      right: 0;
+      background: linear-gradient(270deg, rgba(0,0,0,0.28), rgba(0,0,0,0));
+    }
+    .canvas-frame:hover .canvas-nav,
+    .canvas-nav:focus-visible { opacity: 1; }
+    .canvas-nav span {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      font-size: 26px;
+      line-height: 1;
+    }
+    .canvas-nav:disabled {
+      opacity: 0;
+      pointer-events: none;
+    }
+    .canvas-nav.prev span { left: 10px; }
+    .canvas-nav.next span { right: 10px; }
+    .empty-state {
+      border: 1px dashed var(--line);
+      border-radius: 16px;
+      padding: 18px;
+      color: var(--ink-2);
+      background: rgba(255,255,255,0.02);
+    }
+    .stack { display: grid; gap: 12px; }
+    .section {
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      background: rgba(255,255,255,0.02);
+      overflow: hidden;
+    }
+    .section-head {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 10px 12px;
+      border-bottom: 1px solid rgba(255,255,255,0.05);
+      background: rgba(0,0,0,0.08);
+      font-size: 12px;
+      color: var(--ink-2);
+    }
+    .section-body { padding: 12px; display: grid; gap: 10px; }
+    .kv { display: grid; gap: 6px; }
+    .kv-row { display: flex; justify-content: space-between; gap: 12px; font-size: 12px; }
+    .kv-row span:first-child { color: var(--ink-3); }
+    .small-list { display: grid; gap: 8px; }
+    .small-card {
+      border: 1px solid rgba(255,255,255,0.06);
+      border-radius: 10px;
+      padding: 10px;
+      background: rgba(0,0,0,0.08);
+      display: grid;
+      gap: 6px;
+    }
+    .small-card.active {
+      border-color: var(--accent);
+      background: rgba(212, 164, 88, 0.08);
+    }
+    .small-card-head {
+      display: flex;
+      justify-content: space-between;
+      align-items: start;
+      gap: 8px;
+    }
+    .small-title { font-size: 13px; }
+    .small-meta { color: var(--ink-3); font: 11px var(--mono); }
+    .small-actions {
+      display: flex;
+      gap: 6px;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+    .small-actions button {
+      padding: 5px 8px;
+      font-size: 11px;
+    }
+    .warn-text {
+      color: #f0c9ad;
+      font-size: 12px;
+      line-height: 1.5;
+    }
+    .member-marker {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 18px;
+      height: 18px;
+      border: 1px solid var(--line);
+      border-radius: 5px;
+      background: rgba(26,22,19,0.9);
+      color: var(--ink-2);
+      font: 10px var(--mono);
+      line-height: 1;
+      flex: 0 0 auto;
+    }
+    .member-marker.active {
+      border-color: var(--accent);
+      color: var(--ink);
+      background: rgba(212, 164, 88, 0.12);
+    }
+    .picker-results { display: grid; gap: 8px; max-height: 220px; overflow: auto; }
+    .picker-item {
+      border: 1px solid rgba(255,255,255,0.06);
+      border-radius: 10px;
+      padding: 9px;
+      background: rgba(0,0,0,0.08);
+      cursor: pointer;
+    }
+    .picker-item:hover { border-color: var(--accent); }
+    .claim-card { border-left: 3px solid var(--accent); }
+    .suggestion-card { border-left: 3px solid var(--accent-2); }
+    .hint { color: var(--ink-3); font-size: 12px; line-height: 1.5; }
+    .split { display: grid; gap: 8px; grid-template-columns: 1fr 1fr; }
+    .checkline {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      color: var(--ink-2);
+      font-size: 12px;
+    }
+    .checkline input {
+      margin: 0;
+      accent-color: var(--accent);
+    }
+    .inline-status {
+      border: 1px dashed rgba(255,255,255,0.12);
+      border-radius: 10px;
+      padding: 8px 10px;
+      font-size: 12px;
+      color: var(--ink-2);
+      background: rgba(255,255,255,0.03);
+    }
+    .inline-status.success { border-color: rgba(143, 174, 138, 0.45); color: #d7ead4; }
+    .inline-status.error { border-color: rgba(216, 129, 87, 0.45); color: #f2c2af; }
+    .inline-status.pending { border-color: rgba(212, 164, 88, 0.45); color: #f2d4a2; }
+    .footer-link { color: var(--ink-2); text-decoration: none; font-size: 12px; }
+    .toolbar-pill { font: 11px var(--mono); color: var(--ink-2); }
+    .hidden { display: none !important; }
+    @media (max-width: 1200px) {
+      .app { grid-template-columns: 280px minmax(0, 1fr) 340px; }
+    }
+    @media (max-width: 960px) {
+      .app { grid-template-columns: 1fr; }
+      .panel, .center { min-height: 320px; border-right: 0; border-bottom: 1px solid var(--line); }
+    }
+  </style>
+</head>
+<body>
+  <svg width="0" height="0" style="position:absolute;left:-9999px;top:-9999px" aria-hidden="true" focusable="false">
+    <defs>
+      <filter id="canvas-gamma-filter">
+        <feComponentTransfer>
+          <feFuncR id="gamma-r" type="gamma" amplitude="1" exponent="1" offset="0"></feFuncR>
+          <feFuncG id="gamma-g" type="gamma" amplitude="1" exponent="1" offset="0"></feFuncG>
+          <feFuncB id="gamma-b" type="gamma" amplitude="1" exponent="1" offset="0"></feFuncB>
+        </feComponentTransfer>
+      </filter>
+    </defs>
+  </svg>
+  <div class="workbench-shell" id="workbench-shell">
+  <header class="topbar">
+    <div class="brand">
+      <div class="eyebrow">NuHopeTools / Phase 1</div>
+      <div class="title">Workbench - Image Evidence</div>
+    </div>
+    <div class="topbar-controls">
+      <input class="field" id="api-base" style="width:220px" value="http://localhost:5000" aria-label="API base">
+      <button id="api-save">Save API</button>
+      <button id="admin-key">Admin key</button>
+      <label class="topbar-toggle" for="admin-local">
+        <input type="checkbox" id="admin-local">
+        <span>Local admin</span>
+      </label>
+      <button id="add-images">Add images</button>
+      <label class="zoom-control" for="workspace-zoom">
+        <span>UI</span>
+        <input type="range" id="workspace-zoom" min="80" max="140" step="5" value="100">
+        <strong id="workspace-zoom-value">100%</strong>
+      </label>
+      <button id="refresh-all">Refresh</button>
+      <a class="footer-link" href="./index.html">Home</a>
+    </div>
+  </header>
+  <input type="file" id="image-upload-input" class="hidden-input" accept="image/*" multiple>
+
+  <main class="app" id="app-root">
+    <aside class="panel">
+      <div class="panel-head">
+        <div>
+          <div class="panel-title">Library</div>
+          <div class="panel-sub" id="library-meta">Images</div>
+        </div>
+      </div>
+      <div class="panel-body library-body">
+        <div class="filters">
+          <input class="field" id="image-search" placeholder="Search images, source, notes">
+          <div class="filter-row">
+            <select id="image-type">
+              <option value="">All image types</option>
+              <option value="model_shop">Model shop</option>
+              <option value="reference">Reference</option>
+              <option value="exhibition">Exhibition</option>
+              <option value="kit_scan">Kit scan</option>
+              <option value="box_art">Box art</option>
+              <option value="other">Other</option>
+            </select>
+            <select id="region-filter">
+              <option value="">Any image</option>
+              <option value="with_regions">With regions</option>
+              <option value="with_claims">With claims</option>
+            </select>
+          </div>
+        </div>
+        <div class="library-scroll" id="library-scroll">
+          <div class="library-list" id="image-list"></div>
+        </div>
+      </div>
+    </aside>
+
+    <section class="center">
+      <div class="canvas-meta">
+        <div class="canvas-headline">
+          <div class="canvas-title" id="canvas-title">Select an image</div>
+          <div class="canvas-sub" id="canvas-sub">Browse the image library to begin.</div>
+        </div>
+        <div class="canvas-toolbar-row">
+          <div class="toolbar-group">
+            <span class="toolbar-group-label">View</span>
+            <button id="zoom-out">-</button>
+            <button id="zoom-in">+</button>
+            <button id="zoom-fit">Fit</button>
+            <button id="zoom-reset">1:1</button>
+            <span class="toolbar-pill" id="zoom-label">Scale 100%</span>
+          </div>
+          <div class="toolbar-group">
+            <span class="toolbar-group-label">Annotate</span>
+            <button id="mode-select" class="primary">Select</button>
+            <button id="mode-pan">Pan</button>
+            <button id="mode-point">Add point</button>
+            <button id="mode-box">Add box</button>
+            <button id="toggle-labels">Labels off</button>
+          </div>
+        </div>
+      </div>
+      <div class="canvas-shell">
+        <div class="canvas-frame">
+          <div class="canvas-scroll" id="canvas-scroll">
+            <div class="canvas-scroll-inner">
+              <div class="canvas-stage" id="canvas-stage">
+                <div class="empty-state" id="canvas-empty">No image selected yet.</div>
+                <img id="canvas-image" class="canvas-image hidden" alt="">
+                <div id="region-layer" class="region-layer hidden"></div>
+                <div id="draft-box" class="draft-box hidden"></div>
+              </div>
+            </div>
+          </div>
+          <button class="canvas-nav prev" id="prev-image" aria-label="Previous image"><span>&lsaquo;</span></button>
+          <button class="canvas-nav next" id="next-image" aria-label="Next image"><span>&rsaquo;</span></button>
+        </div>
+        <div class="canvas-adjustments">
+          <div class="adj-group">
+            <span class="adj-label">Brightness</span>
+            <input id="adjust-brightness" class="adj-slider" type="range" min="0" max="200" value="100">
+            <span class="adj-val" id="adjust-brightness-value">100</span>
+            <button type="button" class="adj-reset" data-reset-adjust="brightness" aria-label="Reset brightness">&#8634;</button>
+          </div>
+          <div class="adj-group">
+            <span class="adj-label">Contrast</span>
+            <input id="adjust-contrast" class="adj-slider" type="range" min="0" max="200" value="100">
+            <span class="adj-val" id="adjust-contrast-value">100</span>
+            <button type="button" class="adj-reset" data-reset-adjust="contrast" aria-label="Reset contrast">&#8634;</button>
+          </div>
+          <div class="adj-group">
+            <span class="adj-label">Saturation</span>
+            <input id="adjust-saturation" class="adj-slider" type="range" min="0" max="200" value="100">
+            <span class="adj-val" id="adjust-saturation-value">100</span>
+            <button type="button" class="adj-reset" data-reset-adjust="saturation" aria-label="Reset saturation">&#8634;</button>
+          </div>
+          <div class="adj-group">
+            <span class="adj-label">Gamma</span>
+            <input id="adjust-gamma" class="adj-slider" type="range" min="40" max="200" value="100">
+            <span class="adj-val" id="adjust-gamma-value">100</span>
+            <button type="button" class="adj-reset" data-reset-adjust="gamma" aria-label="Reset gamma">&#8634;</button>
+          </div>
+          <button type="button" class="adj-reset" id="adjust-reset-all">Reset all</button>
+        </div>
+      </div>
+    </section>
+
+    <aside class="panel">
+      <div class="panel-head">
+        <div>
+          <div class="panel-title">Inspector</div>
+          <div class="panel-sub" id="inspector-meta">Nothing selected</div>
+        </div>
+      </div>
+      <div class="panel-body">
+        <div class="stack" id="inspector-stack"></div>
+      </div>
+    </aside>
+  </main>
+  </div>
+
+  <script>
+    const state = {
+      apiBase: localStorage.getItem('workbenchApiBase') || 'http://localhost:5000',
+      images: [],
+      filters: { q: '', image_type: '', region_filter: 'with_regions' },
+      selectedImageId: null,
+      selectedImage: null,
+      selectedRegionId: null,
+      selectedRegionDetail: null,
+      familyEditorMemberId: null,
+      imageScale: 1,
+      panX: 0,
+      panY: 0,
+      workspaceZoom: Number(localStorage.getItem('workbenchWorkspaceZoom') || '100'),
+      imageSize: { width: 0, height: 0 },
+      imageAdjustments: { brightness: 100, contrast: 100, saturation: 100, gamma: 100 },
+      mode: 'select',
+      showRegionLabels: false,
+      draftClaimOpen: false,
+      linkSearch: '',
+      linkTypeFilter: 'kit,part,placement,model',
+      linkResults: [],
+      claimSearch: '',
+      claimTypeFilter: 'kit,part,placement,model',
+      claimResults: [],
+      claimTarget: null,
+      kitBrowserSearch: '',
+      kitBrowserResults: [],
+      kitBrowserToken: 0,
+      familySearch: '',
+      familyResults: [],
+      familySearchToken: 0,
+      familyActionStatus: null,
+      imageActionStatus: null,
+      kitSuggestions: [],
+      boxDraft: null,
+      imageCache: {},
+      familyCache: {},
+      imageRequestToken: 0,
+      regionRequestToken: 0,
+      linkSearchToken: 0,
+      claimSearchToken: 0,
+      panState: null
+    };
+
+    const el = (id) => document.getElementById(id);
+
+    function apiOrigin() {
+      return state.apiBase.replace(/\/$/, '');
+    }
+
+    function applyWorkspaceZoom() {
+      const appRoot = el('app-root');
+      const zoom = Math.max(80, Math.min(140, Number(state.workspaceZoom) || 100));
+      state.workspaceZoom = zoom;
+      localStorage.setItem('workbenchWorkspaceZoom', String(zoom));
+      appRoot?.style.setProperty('--workspace-zoom', String(zoom / 100));
+      const slider = el('workspace-zoom');
+      const readout = el('workspace-zoom-value');
+      if (slider) slider.value = String(zoom);
+      if (readout) readout.textContent = `${zoom}%`;
+    }
+
+    const IMAGE_TYPE_OPTIONS = [
+      { value: 'model_shop', label: 'Model shop' },
+      { value: 'reference', label: 'Reference' },
+      { value: 'map', label: 'Map' },
+      { value: 'exhibition', label: 'Exhibition' },
+      { value: 'kit_scan', label: 'Kit scan' },
+      { value: 'box_art', label: 'Box art' },
+      { value: 'other', label: 'Other' }
+    ];
+
+    function authHeaders() {
+      return { 'Content-Type': 'application/json' };
+    }
+
+    function buildApiPath(path) {
+      let finalPath = path;
+      const params = new URLSearchParams();
+      const key = localStorage.getItem('adminKey');
+      if (key) params.set('api_key', key);
+      if (localStorage.getItem('adminMode') === '1') params.set('admin_local', '1');
+      if ([...params.keys()].length) {
+        finalPath += (finalPath.includes('?') ? '&' : '?') + params.toString();
+      }
+      return finalPath;
+    }
+
+    async function api(path, options={}) {
+      const res = await fetch(apiOrigin() + buildApiPath(path), options);
+      let body = null;
+      try { body = await res.json(); } catch (e) {}
+      if (!res.ok || (body && body.ok === false)) {
+        throw new Error(body?.error || `Request failed (${res.status})`);
+      }
+      return body?.data ?? body;
+    }
+
+    function escapeHtml(value) {
+      return String(value ?? '')
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;');
+    }
+
+    function badgeRow(items) {
+      return `<div class="badge-row">${items.filter(Boolean).map((item) => `<span class="badge">${escapeHtml(item)}</span>`).join('')}</div>`;
+    }
+
+    function imageDisplayTitle(image) {
+      return image.title || image.image_code || image.filename || image.url || `Image ${image.id}`;
+    }
+
+    function imageFamilyTitle(image) {
+      return image?.family?.title || image?.family_title || null;
+    }
+
+    function currentFamilyMember(image = state.selectedImage) {
+      if (!image) return null;
+      if (image.family_member) return image.family_member;
+      if (Array.isArray(image.family?.members)) {
+        return image.family.members.find((member) => member.image_id === image.id) || null;
+      }
+      return null;
+    }
+
+    function currentEditableFamilyMember(image = state.selectedImage) {
+      return currentFamilyMember(image);
+    }
+
+    async function setFamilyEditorMember(memberId) {
+      const image = state.selectedImage;
+      const family = image?.family;
+      const member = family?.members?.find((item) => Number(item.id || item.family_member_id) === Number(memberId));
+      if (!member) return;
+      state.familyEditorMemberId = Number(memberId);
+      if (Number(member.image_id) === Number(state.selectedImageId)) {
+        renderInspector();
+        return;
+      }
+      await selectImage(Number(member.image_id), { preferCache: true, preserveView: false });
+    }
+
+    function optionsHtml(options, currentValue, allowBlank = false, blankLabel = 'Select...') {
+      const rows = [];
+      if (allowBlank) rows.push(`<option value="">${escapeHtml(blankLabel)}</option>`);
+      rows.push(...options.map((option) => {
+        const value = typeof option === 'string' ? option : option.value;
+        const label = typeof option === 'string' ? option : option.label;
+        return `<option value="${escapeHtml(value)}" ${String(value) === String(currentValue || '') ? 'selected' : ''}>${escapeHtml(label)}</option>`;
+      }));
+      return rows.join('');
+    }
+
+    function familyRoleOptionsHtml(currentValue) {
+      return optionsHtml(['primary', 'variant', 'duplicate', 'crop', 'detail', 'overlay'], currentValue || 'variant');
+    }
+
+    function defaultCoverageRoleForRelation(relationType) {
+      const relation = String(relationType || '').toLowerCase();
+      if (relation === 'primary') return 'full_frame';
+      if (relation === 'crop' || relation === 'detail') return 'detail_crop';
+      if (relation === 'overlay') return 'annotation_overlay';
+      if (relation === 'duplicate') return 'comparison_variant';
+      return null;
+    }
+
+    function browseKeyForImage(image) {
+      if (!image) return null;
+      const familyId = image.family?.id || image.family_id || null;
+      return familyId ? `family:${familyId}` : `image:${image.id}`;
+    }
+
+    function rowOwnsImage(row, imageId) {
+      if (!row || imageId === null || imageId === undefined) return false;
+      if (row.id === imageId) return true;
+      return familyMembersForRow(row).some((member) => member.image_id === imageId);
+    }
+
+    function selectedBrowseKey() {
+      if (state.selectedImageId !== null && state.selectedImageId !== undefined) {
+        const owningRow = state.images.find((item) => rowOwnsImage(item, state.selectedImageId));
+        if (owningRow) return browseKeyForImage(owningRow);
+      }
+      if (state.selectedImage) return browseKeyForImage(state.selectedImage);
+      if (state.selectedImageId !== null && state.selectedImageId !== undefined) return `image:${state.selectedImageId}`;
+      return null;
+    }
+
+    function familyVariantCount(image) {
+      if (Array.isArray(image?.family?.members) && image.family.members.length) {
+        return image.family.members.length;
+      }
+      return image?.family_variant_count || 0;
+    }
+
+    function variantBoxLabel(member, index) {
+      if (!member) return String(index + 1);
+      return String(index + 1);
+    }
+
+    function familyMembersForRow(image) {
+      const familyId = image?.family?.id || image?.family_id;
+      if (!familyId) return [];
+      const family = image.family?.members ? image.family : state.familyCache[familyId];
+      const members = Array.isArray(family?.members) ? [...family.members] : [];
+      return members.sort((a, b) => Number(Boolean(b.is_primary)) - Number(Boolean(a.is_primary)) || (a.sort_order || 0) - (b.sort_order || 0) || (a.id || 0) - (b.id || 0));
+    }
+
+    function browseImageIdForRow(image) {
+      const familyMembers = familyMembersForRow(image);
+      const defaultMember = familyMembers.find((member) => member.is_primary)
+        || familyMembers.find((member) => Number(member.image_id) === Number(image?.family?.primary_image_id))
+        || null;
+      return Number(defaultMember?.image_id || image?.family?.primary_image?.id || image?.family?.primary_image_id || image?.id || 0);
+    }
+
+    function dedupeBrowseRows(rows) {
+      const singles = [];
+      const families = new Map();
+      rows.forEach((row) => {
+        const familyId = row?.family?.id || row?.family_id;
+        if (!familyId) {
+          singles.push(row);
+          return;
+        }
+        const bucket = families.get(familyId) || [];
+        bucket.push(row);
+        families.set(familyId, bucket);
+      });
+      const familyRows = [...families.entries()].map(([familyId, members]) => {
+        const family = members.find((row) => row.family?.id === familyId)?.family || state.familyCache[familyId] || null;
+        const primaryImageId = family?.primary_image_id
+          || family?.primary_image?.id
+          || family?.members?.find((member) => member.is_primary)?.image_id
+          || null;
+        const primaryRow = primaryImageId
+          ? members.find((row) => row.id === primaryImageId)
+          : null;
+        const chosen = primaryRow || members[0];
+        return {
+          ...chosen,
+          family: family || chosen.family,
+          family_id: familyId
+        };
+      });
+      return [...singles, ...familyRows];
+    }
+
+    function libraryImageTitle(image) {
+      return imageFamilyTitle(image) || compactImageTitle(image);
+    }
+
+    function compactImageTitle(image) {
+      let title = imageDisplayTitle(image);
+      title = title.replace(/^overlay reference:\s*/i, '');
+      title = title.replace(/^likely\s+/i, '');
+      title = title.replace(/^probable\s+/i, '');
+      title = title.replace(/^unreviewed PPTX extract\s*/i, 'Unreviewed ');
+      title = title.replace(/^file is malformed; cannot be decoded$/i, 'Malformed extract');
+      if (title.includes(' / ')) title = title.split(' / ')[0];
+      if (title.length > 48) title = `${title.slice(0, 45).trim()}...`;
+      return title;
+    }
+
+    function imageListMeta(image) {
+      const bits = [
+        imageFamilyTitle(image) ? 'image group' : null,
+        image.source_title || image.source || null,
+        image.image_type || null,
+        image.date_taken || null
+      ].filter(Boolean);
+      return bits.join(' / ') || 'unsourced';
+    }
+
+    function imageUrl(image) {
+      if (!image) return '';
+      if (image.url && /^https?:\/\//i.test(image.url)) return image.url;
+      if (image.url && image.url.startsWith('/')) return apiOrigin() + image.url;
+      if (image.storage_path && /^https?:\/\//i.test(image.storage_path)) return image.storage_path;
+      return image.url || '';
+    }
+
+    function parseJsonSafe(value) {
+      if (!value) return null;
+      if (typeof value === 'object') return value;
+      try {
+        return JSON.parse(value);
+      } catch (error) {
+        return null;
+      }
+    }
+
+    const KIT_VENDOR_ALIASES = [
+      'amt', 'airfix', 'tamiya', 'bandai', 'revell', 'nichimo', 'aurora', 'hasegawa',
+      'fujimi', 'nitto', 'monogram', 'mpc', 'arii', 'hawk', 'tomy'
+    ];
+
+    const MATCH_SYNONYMS = [
+      ['chevy', 'chevrolet'],
+      ['chev.', 'chevrolet'],
+      ['cab-over', 'cabover'],
+      ['cab over', 'cabover'],
+      ['mack.', 'mack'],
+      ['peterbilt.', 'peterbilt'],
+      ['kenworth.', 'kenworth'],
+      ['fruehauf.', 'fruehauf'],
+      ['semi-trailer', 'semitrailer'],
+      ['semi trailer', 'semitrailer'],
+      ['w/', 'with'],
+      ['mk.', 'mk'],
+      ['sd.kfz', 'sdkfz'],
+      ['pz.kpfw', 'panzerkampfwagen']
+    ];
+
+    function canonicalizeText(value) {
+      let text = String(value || '').toLowerCase();
+      MATCH_SYNONYMS.forEach(([from, to]) => {
+        text = text.replaceAll(from, to);
+      });
+      text = text.replace(/[_]+/g, ' ');
+      text = text.replace(/[^a-z0-9/]+/g, ' ');
+      text = text.replace(/\s+/g, ' ').trim();
+      return text;
+    }
+
+    function normalizeText(value) {
+      return canonicalizeText(value).replace(/[^a-z0-9]+/g, '');
+    }
+
+    function tokenizeText(value) {
+      return canonicalizeText(value)
+        .split(' ')
+        .map((token) => token.trim())
+        .filter(Boolean);
+    }
+
+    function normalizeScale(value) {
+      const match = String(value || '').match(/(\d+)\s*\/\s*(\d+)/);
+      return match ? `${match[1]}/${match[2]}` : '';
+    }
+
+    function normalizeSerial(value) {
+      return String(value || '').toUpperCase().replace(/[^A-Z0-9]+/g, '');
+    }
+
+    function detectVendorToken(tokens) {
+      return tokens.find((token) => KIT_VENDOR_ALIASES.includes(token)) || null;
+    }
+
+    function significantTokens(tokens) {
+      const stop = new Set(['the', 'and', 'with', 'for', 'type', 'series', 'set', 'model', 'kit']);
+      return tokens.filter((token) => token.length > 1 && !stop.has(token));
+    }
+
+    function scoreKitMatch(label, kit) {
+      const rawLabel = String(label || '').trim();
+      if (!rawLabel) return null;
+      const labelTokens = tokenizeText(rawLabel);
+      const labelSig = significantTokens(labelTokens);
+      const labelCanon = normalizeText(rawLabel);
+      const labelVendor = detectVendorToken(labelTokens);
+      const labelScale = normalizeScale(rawLabel);
+      const serialTokens = labelTokens.map(normalizeSerial).filter((token) => token.length >= 3);
+
+      const brand = String(kit.brand || '');
+      const name = String(kit.name || '');
+      const kitBrandCanon = normalizeText(brand);
+      const kitNameCanon = normalizeText(name);
+      const kitScale = normalizeScale(kit.scale);
+      const kitSerials = String(kit.serial_number || '')
+        .split(/[\/,]/)
+        .map(normalizeSerial)
+        .filter(Boolean);
+      const kitTokens = significantTokens([
+        ...tokenizeText(brand),
+        ...tokenizeText(name)
+      ]);
+
+      let score = 0;
+      const reasons = [];
+
+      if (kitSerials.length && serialTokens.some((token) => kitSerials.includes(token))) {
+        score += 120;
+        reasons.push('serial');
+      }
+
+      if (labelVendor && kitBrandCanon && normalizeText(labelVendor) === kitBrandCanon) {
+        score += 35;
+        reasons.push('vendor');
+      } else if (labelVendor && kitBrandCanon && normalizeText(labelVendor) !== kitBrandCanon) {
+        score -= 30;
+      }
+
+      if (labelScale && kitScale && labelScale === kitScale) {
+        score += 18;
+        reasons.push('scale');
+      }
+
+      if (labelCanon && kitNameCanon && labelCanon === kitNameCanon) {
+        score += 95;
+        reasons.push('exact-name');
+      } else if (labelCanon && kitNameCanon && (labelCanon.includes(kitNameCanon) || kitNameCanon.includes(labelCanon))) {
+        score += 40;
+        reasons.push('contains-name');
+      }
+
+      const overlap = labelSig.filter((token) => kitTokens.includes(token));
+      if (overlap.length) {
+        score += overlap.length * 12;
+        const ratio = overlap.length / Math.max(kitTokens.length, 1);
+        if (ratio >= 0.75) score += 24;
+        else if (ratio >= 0.5) score += 12;
+        reasons.push(`tokens:${overlap.join(',')}`);
+      }
+
+      if (!labelVendor && kitBrandCanon && labelSig.includes(kitBrandCanon)) {
+        score += 18;
+        reasons.push('brand-in-label');
+      }
+
+      const confidence = score >= 100 ? 'high' : score >= 65 ? 'medium' : score >= 40 ? 'low' : 'none';
+      return {
+        ...kit,
+        score,
+        confidence,
+        reasons,
+        exact: confidence === 'high'
+      };
+    }
+
+    function rankKitMatches(label, kits) {
+      return (kits || [])
+        .map((kit) => scoreKitMatch(label, kit))
+        .filter(Boolean)
+        .sort((a, b) => b.score - a.score || String(a.brand || '').localeCompare(String(b.brand || '')) || String(a.name || '').localeCompare(String(b.name || '')))
+        .slice(0, 8);
+    }
+
+    function autoKitMatchCandidate(label, kits) {
+      const ranked = rankKitMatches(label, kits);
+      const top = ranked[0] || null;
+      const second = ranked[1] || null;
+      if (!top || top.score < 85 || top.confidence !== 'high') {
+        return { ranked, candidate: null };
+      }
+      const gap = top.score - (second?.score || 0);
+      const dominant = !second || gap >= 20 || top.score >= (second.score * 1.35);
+      if (!dominant) {
+        return { ranked, candidate: null };
+      }
+      const strongAnchor = top.reasons.includes('serial')
+        || top.reasons.includes('exact-name')
+        || (top.reasons.includes('vendor') && top.reasons.some((reason) => reason.startsWith('tokens:')))
+        || (top.reasons.includes('scale') && top.reasons.some((reason) => reason.startsWith('tokens:')));
+      return {
+        ranked,
+        candidate: strongAnchor ? top : null
+      };
+    }
+
+    function regionDisplayTitle(region) {
+      if (!region) return '';
+      return region.entity_label || region.label || `Region ${region.id}`;
+    }
+
+    function regionDisplayMeta(region) {
+      if (!region?.entity_label || !region?.label || region.entity_label === region.label) {
+        return '';
+      }
+      return `from label: ${region.label}`;
+    }
+
+    function currentImageIndex() {
+      if (state.selectedImageId !== null && state.selectedImageId !== undefined) {
+        const idx = state.images.findIndex((item) => rowOwnsImage(item, state.selectedImageId));
+        if (idx !== -1) return idx;
+      }
+      const activeKey = selectedBrowseKey();
+      if (!activeKey) return -1;
+      return state.images.findIndex((item) => browseKeyForImage(item) === activeKey);
+    }
+
+    async function navigateImage(offset) {
+      const idx = currentImageIndex();
+      if (idx === -1) return;
+      const next = state.images[idx + offset];
+      if (!next) return;
+      await selectImage(next.id, { preferCache: true, preserveView: false });
+      ensureActiveImageVisible();
+    }
+
+    async function refreshImageAfterFamilyMutation(options = {}) {
+      const imageId = state.selectedImageId;
+      if (!imageId) {
+        await loadImages();
+        return;
+      }
+      state.familyCache = {};
+      state.imageCache = {};
+      await loadImages();
+      if (state.images.some((item) => rowOwnsImage(item, imageId))) {
+        await selectImage(imageId, { preferCache: false, preserveView: options.preserveView !== false });
+        const familyMembers = state.selectedImage?.family?.members || [];
+        if (!familyMembers.some((member) => Number(member.id || member.family_member_id) === Number(state.familyEditorMemberId))) {
+          state.familyEditorMemberId = null;
+        }
+      }
+    }
+
+    function setFamilyActionStatus(kind, text) {
+      state.familyActionStatus = text ? { kind, text } : null;
+      renderFamilyActionStatus();
+    }
+
+    function renderFamilyActionStatus() {
+      const node = el('family-action-status');
+      if (!node) return;
+      if (!state.familyActionStatus?.text) {
+        node.className = 'inline-status hidden';
+        node.textContent = '';
+        return;
+      }
+      node.className = `inline-status ${state.familyActionStatus.kind || ''}`;
+      node.textContent = state.familyActionStatus.text;
+    }
+
+    function setImageActionStatus(kind, text) {
+      state.imageActionStatus = text ? { kind, text } : null;
+      renderImageActionStatus();
+    }
+
+    function renderImageActionStatus() {
+      const node = el('image-action-status');
+      if (!node) return;
+      if (!state.imageActionStatus?.text) {
+        node.className = 'inline-status hidden';
+        node.textContent = '';
+        return;
+      }
+      node.className = `inline-status ${state.imageActionStatus.kind || ''}`;
+      node.textContent = state.imageActionStatus.text;
+    }
+
+    async function runImageAction(pendingText, successText, action) {
+      setImageActionStatus('pending', pendingText);
+      try {
+        const result = await action();
+        setImageActionStatus('success', typeof successText === 'function' ? successText(result) : successText);
+        return result;
+      } catch (error) {
+        console.error(error);
+        setImageActionStatus('error', error?.message || 'Image action failed.');
+        return null;
+      }
+    }
+
+    async function runFamilyAction(pendingText, successText, action) {
+      setFamilyActionStatus('pending', pendingText);
+      try {
+        const result = await action();
+        setFamilyActionStatus('success', typeof successText === 'function' ? successText(result) : successText);
+        return result;
+      } catch (error) {
+        console.error(error);
+        setFamilyActionStatus('error', error?.message || 'Family action failed.');
+        return null;
+      }
+    }
+
+    async function ensureFamilyPayloads(familyIds) {
+      const ids = [...new Set((familyIds || []).map((value) => Number(value)).filter(Boolean))];
+      const missing = ids.filter((id) => !state.familyCache[id]);
+      if (!missing.length) return;
+      const payloads = await Promise.all(missing.map(async (id) => {
+        const payload = await api(`/api/image_families/${id}`);
+        return payload.family || payload;
+      }));
+      payloads.forEach((family) => {
+        if (family?.id) state.familyCache[family.id] = family;
+      });
+    }
+
+    function cloneData(value) {
+      if (value === null || value === undefined) return value;
+      if (typeof structuredClone === 'function') return structuredClone(value);
+      return JSON.parse(JSON.stringify(value));
+    }
+
+    function rememberCanvasView() {
+      return {
+        scale: state.imageScale,
+        panX: state.panX,
+        panY: state.panY
+      };
+    }
+
+    function restoreCanvasView(view) {
+      if (!view) return;
+      state.panX = Number.isFinite(view.panX) ? view.panX : 0;
+      state.panY = Number.isFinite(view.panY) ? view.panY : 0;
+      normalizeCanvasPan();
+      updateCanvasTransform();
+    }
+
+    function cacheSelectedImage() {
+      if (state.selectedImage?.id) {
+        state.imageCache[state.selectedImage.id] = cloneData(state.selectedImage);
+      }
+    }
+
+    function applyImageAdjustments() {
+      const imgEl = el('canvas-image');
+      if (!imgEl) return;
+      if (!state.selectedImage) {
+        imgEl.style.filter = '';
+        return;
+      }
+      const brightness = (state.imageAdjustments.brightness || 100) / 100;
+      const contrast = (state.imageAdjustments.contrast || 100) / 100;
+      const saturation = (state.imageAdjustments.saturation || 100) / 100;
+      const gammaValue = state.imageAdjustments.gamma || 100;
+      const exponent = Math.max(0.25, Math.min(2.5, 100 / gammaValue));
+      ['gamma-r', 'gamma-g', 'gamma-b'].forEach((id) => {
+        const node = el(id);
+        if (node) node.setAttribute('exponent', String(exponent));
+      });
+      imgEl.style.filter = `brightness(${brightness}) contrast(${contrast}) saturate(${saturation}) url(#canvas-gamma-filter)`;
+    }
+
+    function renderAdjustmentControls() {
+      ['brightness', 'contrast', 'saturation', 'gamma'].forEach((key) => {
+        const input = el(`adjust-${key}`);
+        const valueNode = el(`adjust-${key}-value`);
+        if (input) input.value = String(state.imageAdjustments[key]);
+        if (valueNode) valueNode.textContent = String(state.imageAdjustments[key]);
+      });
+      applyImageAdjustments();
+    }
+
+    function resetImageAdjustment(key) {
+      state.imageAdjustments[key] = 100;
+      renderAdjustmentControls();
+    }
+
+    function syncLibraryRowFromSelectedImage() {
+      if (!state.selectedImage?.id) return;
+      const activeKey = browseKeyForImage(state.selectedImage);
+      const idx = state.images.findIndex((item) => browseKeyForImage(item) === activeKey);
+      if (idx === -1) return;
+      if (state.selectedImage.family?.id) {
+        state.images[idx] = {
+          ...state.images[idx],
+          family: state.selectedImage.family || state.images[idx].family,
+          family_id: state.selectedImage.family?.id || state.images[idx].family_id,
+          family_title: state.selectedImage.family?.title || state.images[idx].family_title
+        };
+        return;
+      }
+      state.images[idx] = {
+        ...state.images[idx],
+        title: state.selectedImage.title,
+        image_code: state.selectedImage.image_code,
+        image_type: state.selectedImage.image_type,
+        family: state.selectedImage.family || state.images[idx].family,
+        family_id: state.selectedImage.family?.id || state.images[idx].family_id,
+        family_title: state.selectedImage.family?.title || state.images[idx].family_title,
+        source_title: state.selectedImage.source_title || state.selectedImage.source_record?.title || state.images[idx].source_title,
+        region_count: (state.selectedImage.regions || []).length,
+        claim_count: state.selectedImage.claim_count || 0
+      };
+    }
+
+    function recomputeSelectedImageCounts() {
+      if (!state.selectedImage) return;
+      state.selectedImage.claim_count = (state.selectedImage.regions || []).reduce((sum, region) => {
+        if (Array.isArray(region.claims)) return sum + region.claims.length;
+        return sum + (region.claim_count || 0);
+      }, 0);
+      syncLibraryRowFromSelectedImage();
+      cacheSelectedImage();
+    }
+
+    function patchRegionIntoSelectedImage(region) {
+      if (!state.selectedImage) return;
+      const regions = state.selectedImage.regions || [];
+      const idx = regions.findIndex((item) => item.id === region.id);
+      if (idx >= 0) regions[idx] = { ...regions[idx], ...region };
+      else regions.push(region);
+      state.selectedImage.regions = regions;
+      if (state.selectedRegionId === region.id) {
+        state.selectedRegionDetail = { ...(state.selectedRegionDetail || {}), ...region };
+      }
+      recomputeSelectedImageCounts();
+    }
+
+    function removeRegionFromSelectedImage(regionId) {
+      if (!state.selectedImage) return;
+      state.selectedImage.regions = (state.selectedImage.regions || []).filter((item) => item.id !== regionId);
+      if (state.selectedRegionId === regionId) {
+        state.selectedRegionId = null;
+        state.selectedRegionDetail = null;
+      }
+      recomputeSelectedImageCounts();
+    }
+
+    function updateImageNavigation() {
+      const idx = currentImageIndex();
+      const prev = el('prev-image');
+      const next = el('next-image');
+      if (!prev || !next) return;
+      const hasImages = state.images.length > 0 && idx !== -1;
+      prev.disabled = !hasImages || idx <= 0;
+      next.disabled = !hasImages || idx >= state.images.length - 1;
+    }
+
+    async function loadImages() {
+      const params = new URLSearchParams();
+      if (state.filters.q) params.set('q', state.filters.q);
+      if (state.filters.image_type) params.set('image_type', state.filters.image_type);
+      params.set('collapse_family', '1');
+      const data = await api(`/api/images?${params.toString()}`);
+      let rows = Array.isArray(data) ? data : (data?.data || []);
+      if (state.filters.region_filter === 'with_regions') rows = rows.filter((img) => (img.region_count || 0) > 0);
+      if (state.filters.region_filter === 'with_claims') rows = rows.filter((img) => (img.claim_count || 0) > 0);
+      await ensureFamilyPayloads(rows.map((img) => img.family_id));
+      rows = rows.map((img) => ({
+        ...img,
+        family: img.family_id ? (state.familyCache[img.family_id] || img.family) : img.family
+      }));
+      rows = dedupeBrowseRows(rows);
+      state.images = rows;
+      el('library-meta').textContent = `${rows.length} browse entries`;
+      renderImageList();
+      if (!state.selectedImageId && rows.length) {
+        await selectImage(browseImageIdForRow(rows[0]), { preferCache: true });
+      } else if (state.selectedImageId && !rows.find((row) => browseKeyForImage(row) === selectedBrowseKey())) {
+        state.selectedImageId = null;
+        state.selectedImage = null;
+        state.selectedRegionId = null;
+        state.selectedRegionDetail = null;
+        if (rows.length) await selectImage(browseImageIdForRow(rows[0]), { preferCache: true });
+        else renderWorkspace();
+      }
+    }
+
+    function renderImageList() {
+      const list = el('image-list');
+      if (!state.images.length) {
+        list.innerHTML = '<div class="empty-state">No images match the current filters.</div>';
+        updateImageNavigation();
+        return;
+      }
+      const activeKey = selectedBrowseKey();
+      list.innerHTML = state.images.map((image) => `
+        <div class="image-row ${browseKeyForImage(image) === activeKey ? 'active' : ''}" data-image-id="${image.id}" data-browse-image-id="${browseImageIdForRow(image)}" title="${escapeHtml(imageFamilyTitle(image) || imageDisplayTitle(image))}">
+          <div class="image-row-thumb-wrap">
+            <img class="image-row-thumb" src="${escapeHtml(imageUrl(image))}" alt="">
+            ${familyMembersForRow(image).length > 1 ? `
+              <div class="thumb-variant-strip">
+                ${familyMembersForRow(image).map((member, index) => `
+                  <button class="variant-chip ${member.image_id === state.selectedImageId ? 'active' : ''}"
+                          type="button"
+                          data-open-image="${member.image_id}"
+                          title="${escapeHtml(member.title || member.image_code || `Image ${member.image_id}`)}">
+                    ${escapeHtml(variantBoxLabel(member, index))}
+                  </button>
+                `).join('')}
+              </div>
+            ` : ''}
+          </div>
+          <div class="image-row-body">
+            <div class="image-row-title">${escapeHtml(libraryImageTitle(image))}</div>
+            <div class="image-row-meta">${escapeHtml(imageListMeta(image))}</div>
+            <div class="image-row-footer">
+              <span>${image.region_count ? `${image.region_count} regions` : '0 regions'}</span>
+              ${image.claim_count ? `<span>${image.claim_count} claims</span>` : ''}
+              ${familyVariantCount(image) > 1 ? `<span>${familyVariantCount(image)} variants</span>` : ''}
+              ${image.image_code ? `<span class="image-row-code">${escapeHtml(image.image_code)}</span>` : ''}
+            </div>
+          </div>
+        </div>
+      `).join('');
+        list.querySelectorAll('[data-image-id]').forEach((node) => {
+          node.addEventListener('click', async () => {
+            await selectImage(Number(node.dataset.browseImageId || node.dataset.imageId), { preferCache: true, preserveView: false });
+          });
+        });
+      list.querySelectorAll('.variant-chip[data-open-image]').forEach((node) => {
+        node.addEventListener('mousedown', (event) => {
+          event.preventDefault();
+        });
+        node.addEventListener('click', async (event) => {
+          event.stopPropagation();
+          await selectImage(Number(node.dataset.openImage), { preferCache: true, preserveView: false });
+        });
+      });
+      updateImageNavigation();
+    }
+
+    async function selectImage(imageId, options = {}) {
+      const sameImage = state.selectedImageId === imageId;
+      const preservedView = options.preserveView && sameImage ? rememberCanvasView() : null;
+      const requestToken = ++state.imageRequestToken;
+      state.selectedImageId = imageId;
+      state.selectedRegionId = null;
+      state.selectedRegionDetail = null;
+      state.draftClaimOpen = false;
+      state.claimTarget = null;
+      state.familySearch = '';
+      state.familyResults = [];
+      const cached = state.imageCache[imageId];
+      if (cached) {
+        state.selectedImage = cloneData(cached);
+        state.familyEditorMemberId = state.selectedImage.family_member?.id || state.selectedImage.family_member?.family_member_id || null;
+        renderImageList();
+        renderWorkspace();
+        setCanvasImage({ preserveView: Boolean(preservedView), view: preservedView });
+      }
+      const payload = await api(`/api/images/${imageId}`);
+      if (requestToken !== state.imageRequestToken) return;
+      state.selectedImage = payload.image || payload;
+      state.selectedImage.tags = payload.tags || [];
+      state.selectedImage.links = payload.links || [];
+      state.selectedImage.regions = payload.regions || [];
+      state.selectedImage.source_record = payload.source_record || null;
+      state.selectedImage.claim_count = payload.claim_count || 0;
+      state.selectedImage.family = payload.family || state.selectedImage.family || null;
+      state.selectedImage.family_member = payload.family_member || state.selectedImage.family_member || null;
+      state.familyEditorMemberId = state.selectedImage.family_member?.id || state.selectedImage.family_member?.family_member_id || null;
+      if (state.selectedImage.family) {
+        state.selectedImage.family_id = state.selectedImage.family.id || state.selectedImage.family_id || null;
+        state.selectedImage.family_title = state.selectedImage.family.title || state.selectedImage.family_title || null;
+        state.selectedImage.family_variant_count = Array.isArray(state.selectedImage.family.members)
+          ? state.selectedImage.family.members.length
+          : (state.selectedImage.family_variant_count || null);
+      }
+      if (state.selectedImage.family?.id) {
+        state.familyCache[state.selectedImage.family.id] = state.selectedImage.family;
+      }
+      cacheSelectedImage();
+      syncLibraryRowFromSelectedImage();
+      renderImageList();
+      renderWorkspace();
+      setCanvasImage({ preserveView: Boolean(preservedView), view: preservedView });
+    }
+
+    async function selectRegion(regionId) {
+      const requestToken = ++state.regionRequestToken;
+      state.selectedRegionId = regionId;
+      state.draftClaimOpen = false;
+      state.claimTarget = null;
+      state.linkSearch = '';
+      state.linkResults = [];
+      state.claimSearch = '';
+      state.claimResults = [];
+      state.selectedRegionDetail = regionId ? (currentRegion() ? cloneData(currentRegion()) : null) : null;
+      renderWorkspace();
+      if (!regionId) return;
+      const payload = await api(`/api/image_regions/${regionId}`);
+      if (requestToken !== state.regionRequestToken) return;
+      state.selectedRegionDetail = payload.region || payload;
+      state.selectedRegionDetail.history = payload.history || [];
+      state.selectedRegionDetail.claims = payload.claims || [];
+      patchRegionIntoSelectedImage(state.selectedRegionDetail);
+      renderWorkspace();
+    }
+
+    function renderWorkspace() {
+      const image = state.selectedImage;
+      el('canvas-title').textContent = image ? imageDisplayTitle(image) : 'Select an image';
+      el('canvas-sub').textContent = image ? [image.source_title || image.source || 'Unknown source', image.image_type || 'other'].filter(Boolean).join(' / ') : 'Browse the image library to begin.';
+      el('inspector-meta').textContent = state.selectedRegionId ? `Region ${state.selectedRegionId}` : (image ? `Image ${image.id}` : 'Nothing selected');
+      renderRegions();
+      renderInspector();
+    }
+
+    function setCanvasImage(options = {}) {
+      const image = state.selectedImage;
+      const imgEl = el('canvas-image');
+      const empty = el('canvas-empty');
+      const layer = el('region-layer');
+      if (!image) {
+        imgEl.classList.add('hidden');
+        layer.classList.add('hidden');
+        empty.classList.remove('hidden');
+        empty.textContent = 'No image selected yet.';
+        imgEl.style.filter = '';
+        return;
+      }
+      const src = imageUrl(image);
+      if (!src) {
+        imgEl.classList.add('hidden');
+        layer.classList.add('hidden');
+        empty.classList.remove('hidden');
+        empty.textContent = 'This image record has no displayable URL yet.';
+        imgEl.style.filter = '';
+        return;
+      }
+      empty.classList.add('hidden');
+      imgEl.classList.remove('hidden');
+      layer.classList.remove('hidden');
+      const applyLoadedImage = () => {
+        state.imageSize.width = imgEl.naturalWidth || image.width || 1200;
+        state.imageSize.height = imgEl.naturalHeight || image.height || 800;
+        if (options.preserveView && options.view) {
+          state.imageScale = options.view.scale || fitScale();
+          state.panX = Number.isFinite(options.view.panX) ? options.view.panX : 0;
+          state.panY = Number.isFinite(options.view.panY) ? options.view.panY : 0;
+          normalizeCanvasPan();
+        } else {
+          state.imageScale = fitScale();
+          centerCanvasImage();
+        }
+        renderRegions();
+        applyStageScale();
+        applyImageAdjustments();
+      };
+      if (imgEl.src === src && imgEl.complete && imgEl.naturalWidth) {
+        applyLoadedImage();
+        return;
+      }
+      imgEl.onload = applyLoadedImage;
+      imgEl.src = src;
+    }
+
+    function fitScale() {
+      const scroll = el('canvas-scroll');
+      const width = state.imageSize.width || 1200;
+      const height = state.imageSize.height || 800;
+      const availW = Math.max(scroll.clientWidth, 320);
+      const availH = Math.max(scroll.clientHeight, 240);
+      return Math.min(availW / width, availH / height);
+    }
+
+    function centerCanvasImage() {
+      const scroll = el('canvas-scroll');
+      if (!scroll || !state.imageSize.width) return;
+      const scaledWidth = state.imageSize.width * state.imageScale;
+      const scaledHeight = state.imageSize.height * state.imageScale;
+      state.panX = (scroll.clientWidth - scaledWidth) / 2;
+      state.panY = (scroll.clientHeight - scaledHeight) / 2;
+    }
+
+    function normalizeCanvasPan() {
+      const scroll = el('canvas-scroll');
+      if (!scroll || !state.imageSize.width) return;
+      const scaledWidth = state.imageSize.width * state.imageScale;
+      const scaledHeight = state.imageSize.height * state.imageScale;
+      if (scaledWidth <= scroll.clientWidth) {
+        state.panX = (scroll.clientWidth - scaledWidth) / 2;
+      }
+      if (scaledHeight <= scroll.clientHeight) {
+        state.panY = (scroll.clientHeight - scaledHeight) / 2;
+      }
+    }
+
+    function updateCanvasTransform() {
+      const stage = el('canvas-stage');
+      const imgEl = el('canvas-image');
+      if (!stage || !imgEl) return;
+      if (!state.selectedImage || !state.imageSize.width) {
+        stage.style.width = '0px';
+        stage.style.height = '0px';
+        stage.style.transform = 'translate(0px, 0px) scale(1)';
+        stage.style.setProperty('--canvas-scale', '1');
+        el('zoom-label').textContent = 'Scale 100%';
+        return;
+      }
+      stage.style.width = `${state.imageSize.width}px`;
+      stage.style.height = `${state.imageSize.height}px`;
+      stage.style.left = '0';
+      stage.style.top = '0';
+      stage.style.transform = `translate(${state.panX}px, ${state.panY}px) scale(${state.imageScale})`;
+      stage.style.setProperty('--canvas-scale', String(state.imageScale));
+      imgEl.style.width = `${state.imageSize.width}px`;
+      imgEl.style.height = `${state.imageSize.height}px`;
+      el('zoom-label').textContent = `Scale ${Math.round(state.imageScale * 100)}%`;
+    }
+
+    function applyStageScale() {
+      if (!state.selectedImage || !state.imageSize.width) return;
+      updateCanvasTransform();
+      renderRegions();
+    }
+
+    function setScaleAroundPoint(nextScale, clientX = null, clientY = null) {
+      if (!state.selectedImage || !state.imageSize.width) return;
+      const scroll = el('canvas-scroll');
+      const oldScale = state.imageScale;
+      const clamped = Math.max(0.1, Math.min(6, nextScale));
+      if (Math.abs(clamped - oldScale) < 0.0001) return;
+      const scrollRect = scroll.getBoundingClientRect();
+      const anchorClientX = clientX ?? (scrollRect.left + scrollRect.width / 2);
+      const anchorClientY = clientY ?? (scrollRect.top + scrollRect.height / 2);
+      const localX = anchorClientX - scrollRect.left;
+      const localY = anchorClientY - scrollRect.top;
+      state.imageScale = clamped;
+      state.panX = localX - (localX - state.panX) * (clamped / oldScale);
+      state.panY = localY - (localY - state.panY) * (clamped / oldScale);
+      normalizeCanvasPan();
+      applyStageScale();
+    }
+
+    function centerCanvasOnPoint(clientX, clientY) {
+      if (!state.selectedImage || !state.imageSize.width) return;
+      const scroll = el('canvas-scroll');
+      const frame = el('canvas-frame');
+      const scrollRect = scroll.getBoundingClientRect();
+      const frameRect = (frame || scroll).getBoundingClientRect();
+      const localX = clientX - scrollRect.left;
+      const localY = clientY - scrollRect.top;
+      const contentX = (localX - state.panX) / state.imageScale;
+      const contentY = (localY - state.panY) / state.imageScale;
+      const targetCenterX = (frameRect.left + frameRect.width / 2) - scrollRect.left;
+      const targetCenterY = (frameRect.top + frameRect.height / 2) - scrollRect.top;
+      state.panX = targetCenterX - (contentX * state.imageScale);
+      state.panY = targetCenterY - (contentY * state.imageScale);
+      normalizeCanvasPan();
+      updateCanvasTransform();
+    }
+
+    function ensureActiveImageVisible() {
+      const active = document.querySelector('.image-row.active');
+      if (!active) return;
+      requestAnimationFrame(() => {
+        active.scrollIntoView({
+          block: 'center',
+          inline: 'nearest',
+          behavior: 'auto'
+        });
+      });
+    }
+
+    function renderRegions() {
+      const layer = el('region-layer');
+      const draft = el('draft-box');
+      draft.classList.add('hidden');
+      if (!state.selectedImage || !state.imageSize.width) {
+        layer.innerHTML = '';
+        return;
+      }
+      const invScale = 1 / Math.max(state.imageScale || 1, 0.1);
+      const pointSize = 14 * invScale;
+      const pointOffset = -7 * invScale;
+      const pointBorder = 2 * invScale;
+      const boxBorder = 2 * invScale;
+      const labelTop = -22 * invScale;
+      const labelScale = invScale;
+      const regions = state.selectedImage.regions || [];
+      layer.innerHTML = regions.map((region) => {
+        const active = region.id === state.selectedRegionId ? 'active' : '';
+        const linked = region.entity_type && region.entity_id ? 'linked' : '';
+        const showLabel = (state.showRegionLabels || region.id === state.selectedRegionId) ? 'show-label' : '';
+        const displayTitle = regionDisplayTitle(region);
+        if (region.region_type === 'box') {
+          const left = (region.x_norm || 0) * state.imageSize.width;
+          const top = (region.y_norm || 0) * state.imageSize.height;
+          const width = (region.width_norm || 0) * state.imageSize.width;
+          const height = (region.height_norm || 0) * state.imageSize.height;
+          return `
+            <div class="region box ${active} ${linked} ${showLabel}" data-region-id="${region.id}"
+                 style="left:${left}px;top:${top}px;width:${Math.max(width, 10)}px;height:${Math.max(height, 10)}px;border-width:${boxBorder}px;">
+              <div class="region-label" style="top:${labelTop}px;transform:scale(${labelScale});transform-origin:left top;">${escapeHtml(displayTitle)}</div>
+            </div>
+          `;
+        }
+        const left = (region.x_norm || 0) * state.imageSize.width;
+        const top = (region.y_norm || 0) * state.imageSize.height;
+        return `
+          <div class="region point ${active} ${linked} ${showLabel}" data-region-id="${region.id}"
+               style="left:${left}px;top:${top}px;width:${pointSize}px;height:${pointSize}px;margin-left:${pointOffset}px;margin-top:${pointOffset}px;border-width:${pointBorder}px;">
+            <div class="region-label" style="top:${labelTop}px;transform:scale(${labelScale});transform-origin:left top;">${escapeHtml(displayTitle)}</div>
+          </div>
+        `;
+      }).join('');
+        layer.querySelectorAll('[data-region-id]').forEach((node) => {
+          node.addEventListener('click', async (event) => {
+            event.stopPropagation();
+            if (state.mode === 'pan') return;
+            await selectRegion(Number(node.dataset.regionId));
+          });
+        });
+        updateModeButtons();
+      }
+
+    function updateModeButtons() {
+      ['select', 'pan', 'point', 'box'].forEach((mode) => {
+        el(`mode-${mode}`).classList.toggle('primary', state.mode === mode);
+      });
+      el('toggle-labels').classList.toggle('primary', state.showRegionLabels);
+      el('toggle-labels').textContent = state.showRegionLabels ? 'Labels on' : 'Labels off';
+      el('canvas-scroll').style.cursor = state.mode === 'pan' ? 'grab' : '';
+    }
+
+    function currentRegion() {
+      return (state.selectedImage?.regions || []).find((region) => region.id === state.selectedRegionId) || null;
+    }
+
+    function currentRegionDetail() {
+      return state.selectedRegionDetail || currentRegion();
+    }
+
+    function renderInspector() {
+      const stack = el('inspector-stack');
+      const image = state.selectedImage;
+      const region = currentRegionDetail();
+      if (!image) {
+        stack.innerHTML = '<div class="empty-state">Select an image to inspect evidence.</div>';
+        return;
+      }
+      if (!region) {
+        stack.innerHTML = renderImageInspector(image);
+        bindImageInspector(image);
+        renderFamilyActionStatus();
+        renderImageActionStatus();
+      } else {
+        stack.innerHTML = renderRegionInspector(image, region);
+        bindRegionInspector(region);
+      }
+    }
+
+    function renderImageInspector(image) {
+      const source = image.source_record;
+      const family = image.family || null;
+      const familyMember = currentEditableFamilyMember(image);
+      const familyMembers = Array.isArray(family?.members)
+        ? [...family.members].sort((a, b) => Number(Boolean(b.is_primary)) - Number(Boolean(a.is_primary)))
+        : [];
+      return `
+        <div class="section">
+          <div class="section-head"><span>Overview</span></div>
+          <div class="section-body kv">
+            <div class="kv-row"><span>Title</span><span>${escapeHtml(imageDisplayTitle(image))}</span></div>
+            <div class="kv-row"><span>Code</span><span>${escapeHtml(image.image_code || '-')}</span></div>
+            <div class="kv-row"><span>Type</span><span>${escapeHtml(image.image_type || '-')}</span></div>
+            <div class="kv-row"><span>Date</span><span>${escapeHtml(image.date_taken || '-')}</span></div>
+            <div class="kv-row"><span>Regions</span><span>${(image.regions || []).length}</span></div>
+            <div class="kv-row"><span>Claims</span><span>${image.claim_count || 0}</span></div>
+          </div>
+        </div>
+        <div class="section">
+          <div class="section-head"><span>Image record</span></div>
+          <div class="section-body">
+            <div id="image-action-status" class="inline-status hidden"></div>
+            <input class="field" id="image-title-edit" value="${escapeHtml(image.title || imageDisplayTitle(image) || '')}" placeholder="Image title">
+            <div class="split">
+              <input class="field" id="image-code-edit" value="${escapeHtml(image.image_code || '')}" placeholder="Image code">
+              <select id="image-type-edit">${optionsHtml(IMAGE_TYPE_OPTIONS, image.image_type || 'reference', true, 'Select image type')}</select>
+            </div>
+            <div class="split">
+              <input class="field" id="image-date-edit" value="${escapeHtml(image.date_taken || '')}" placeholder="Date taken (YYYY-MM-DD)">
+              <input class="field" id="image-source-edit" value="${escapeHtml(image.source || '')}" placeholder="Source label">
+            </div>
+            <textarea id="image-notes-edit" placeholder="Notes">${escapeHtml(image.notes || '')}</textarea>
+            <div class="split">
+              <button type="button" id="save-image" class="primary">Save image</button>
+              <button type="button" id="delete-image" class="danger">Delete image</button>
+            </div>
+            <div class="${image.family || (image.regions || []).length || image.claim_count ? 'warn-text' : 'hint'}">
+              ${escapeHtml([
+                image.family ? 'Deleting this image also detaches it from its image group.' : null,
+                (image.regions || []).length ? `Deleting it also removes ${(image.regions || []).length} regions.` : null,
+                image.claim_count ? `Linked claim evidence may be affected (${image.claim_count} claims).` : null
+              ].filter(Boolean).join(' ')) || 'Use save for metadata edits. Delete removes the image record and uploaded file if no other record uses it.'}
+            </div>
+          </div>
+        </div>
+        <div class="section">
+          <div class="section-head"><span>Image group</span></div>
+          <div class="section-body">
+            <div id="family-action-status" class="inline-status hidden"></div>
+            ${family ? `
+              <input class="field" id="family-title" value="${escapeHtml(family.title || '')}" placeholder="Group title">
+              <div class="split">
+                <button type="button" id="save-family" class="primary">Save group</button>
+                <button type="button" id="delete-family" class="danger">Delete group</button>
+              </div>
+              <div class="hint">Editing image: ${escapeHtml(familyMember?.image_title || familyMember?.title || familyMember?.image_code || `Image ${familyMember?.image_id || ''}`)}${familyMember?.image_id === image.id ? ' (current image)' : ''}</div>
+              <label class="checkline"><input type="checkbox" id="family-member-default" ${familyMember?.is_primary ? 'checked' : ''}> Default image in list</label>
+              <div class="hint">Click an image below to open it. The checked image is the one shown when opening this group from the list.</div>
+            ` : `
+              <input class="field" id="new-family-title" value="${escapeHtml(libraryImageTitle(image))}" placeholder="New group title">
+              <button type="button" id="create-family" class="primary">Create group from current image</button>
+              <input class="field" id="family-search" placeholder="Search existing groups">
+              <div class="picker-results" id="family-search-results"></div>
+            `}
+          </div>
+        </div>
+        ${family ? `
+        <div class="section">
+          <div class="section-head"><span>Images in group</span></div>
+          <div class="section-body">
+            <div class="small-card">
+              <div class="small-title">${escapeHtml(family.title || 'Untitled group')}</div>
+              <div class="small-meta">${escapeHtml(`${familyMembers.length || familyVariantCount(image) || 1} images`)}</div>
+            </div>
+            <div class="small-list">
+              ${familyMembers.map((member, index) => `
+                <div class="small-card ${member.image_id === image.id ? 'active' : ''}" data-edit-family-member="${member.id || member.family_member_id}" style="cursor:pointer">
+                  <div class="small-card-head">
+                    <div style="display:flex;align-items:center;gap:8px;min-width:0;">
+                      <span class="member-marker ${member.image_id === image.id ? 'active' : ''}">${escapeHtml(variantBoxLabel(member, index))}</span>
+                      <div class="small-title">${escapeHtml(member.image_title || member.title || member.image_code || `Image ${member.image_id}`)}</div>
+                    </div>
+                  </div>
+                  <div class="small-meta">${escapeHtml([
+                    member.image_id === image.id ? 'current' : null,
+                    member.image_type || null,
+                    member.image_code || null
+                  ].filter(Boolean).join(' / '))}</div>
+                  <div class="small-actions">
+                    <button type="button" data-remove-family-member="${member.id || member.family_member_id}" class="danger">Remove from group</button>
+                  </div>
+                </div>
+              `).join('')}
+            </div>
+          </div>
+        </div>
+        ` : ''}
+        <div class="section">
+          <div class="section-head"><span>Provenance</span></div>
+          <div class="section-body kv">
+            <div class="kv-row"><span>Source</span><span>${escapeHtml(source?.title || image.source || '-')}</span></div>
+            <div class="kv-row"><span>Type</span><span>${escapeHtml(source?.source_type || '-')}</span></div>
+            <div class="kv-row"><span>Author</span><span>${escapeHtml(source?.author || '-')}</span></div>
+            <div class="kv-row"><span>Storage</span><span>${escapeHtml(image.storage_kind || '-')}</span></div>
+          </div>
+        </div>
+        <div class="section">
+          <div class="section-head"><span>Regions</span><button class="ghost" id="match-image-kits">Match labels to kits</button></div>
+          <div class="section-body small-list">
+            ${(image.regions || []).length ? image.regions.map((region) => `
+              <div class="small-card" data-open-region="${region.id}" style="cursor:pointer">
+                <div class="small-title">${escapeHtml(regionDisplayTitle(region))}</div>
+                <div class="small-meta">${escapeHtml([
+                  region.region_type,
+                  region.entity_label ? 'linked' : 'unlinked',
+                  `${region.claim_count || 0} claims`,
+                  regionDisplayMeta(region)
+                ].filter(Boolean).join(' / '))}</div>
+              </div>
+            `).join('') : '<div class="hint">No regions yet. Use Add point or Add box on the canvas.</div>'}
+          </div>
+        </div>
+        <div class="section">
+          <div class="section-head"><span>Kit Browser</span></div>
+          <div class="section-body">
+            <input class="field" id="kit-browser-search" placeholder="Search kits by brand, name, serial, category">
+            <div class="picker-results" id="kit-browser-results"></div>
+          </div>
+        </div>
+      `;
+    }
+
+    function renderRegionInspector(image, region) {
+      const linkTitle = region.entity_label || 'No linked entity yet';
+      const displayTitle = regionDisplayTitle(region);
+      const sourceLabelMeta = regionDisplayMeta(region);
+      const props = parseJsonSafe(region.properties_json) || {};
+      const importSource = props.import_source || null;
+      const mappingQuality = props.mapping_quality || null;
+      const labelStatus = props.label_status || null;
+      return `
+          <div class="section">
+            <div class="section-head"><span>Overview</span><button class="ghost" id="clear-region">Clear</button></div>
+            <div class="section-body kv">
+              <div class="kv-row"><span>Display</span><span>${escapeHtml(displayTitle)}</span></div>
+              <div class="kv-row"><span>Source label</span><span>${escapeHtml(region.label || `Region ${region.id}`)}</span></div>
+              <div class="kv-row"><span>Type</span><span>${escapeHtml(region.region_type || '-')}</span></div>
+              <div class="kv-row"><span>Entity</span><span>${escapeHtml(linkTitle)}</span></div>
+              <div class="kv-row"><span>Claims</span><span>${(region.claims || []).length}</span></div>
+            </div>
+          </div>
+          <div class="section">
+            <div class="section-head"><span>Annotation provenance</span></div>
+            <div class="section-body kv">
+              <div class="kv-row"><span>Origin</span><span>${escapeHtml(importSource || 'manual / unspecified')}</span></div>
+              <div class="kv-row"><span>Mapping</span><span>${escapeHtml(mappingQuality || '-')}</span></div>
+              <div class="kv-row"><span>Status</span><span>${escapeHtml(labelStatus || '-')}</span></div>
+            </div>
+          </div>
+          <div class="section">
+            <div class="section-head"><span>Geometry</span></div>
+            <div class="section-body kv">
+            <div class="kv-row"><span>x / y</span><span>${formatFloat(region.x_norm)} / ${formatFloat(region.y_norm)}</span></div>
+            <div class="kv-row"><span>w / h</span><span>${formatFloat(region.width_norm)} / ${formatFloat(region.height_norm)}</span></div>
+            <div class="kv-row"><span>Pixels</span><span>${formatFloat(region.pixel_x)} / ${formatFloat(region.pixel_y)}</span></div>
+          </div>
+        </div>
+        <div class="section">
+          <div class="section-head"><span>Region</span><button class="danger" id="delete-region">Delete</button></div>
+          <div class="section-body">
+            <input class="field" id="region-label" value="${escapeHtml(region.label || '')}" placeholder="Region label">
+            <textarea id="region-notes" placeholder="Region notes">${escapeHtml(region.notes || '')}</textarea>
+            <button id="save-region" class="primary">Save region</button>
+          </div>
+        </div>
+        <div class="section">
+          <div class="section-head"><span>Kit suggestions</span></div>
+          <div class="section-body">
+            <div class="small-list" id="kit-suggestions">
+              <div class="hint">Suggestions will appear here when the region label strongly matches a kit.</div>
+            </div>
+          </div>
+        </div>
+        <div class="section">
+          <div class="section-head"><span>Linked entity</span></div>
+          <div class="section-body">
+            <div class="small-card">
+              <div class="small-title">${escapeHtml(linkTitle)}</div>
+              <div class="small-meta">${escapeHtml(region.entity_type || 'unlinked')}</div>
+            </div>
+              <div class="split">
+                <select id="link-type-filter">
+                  <option value="kit,part,placement,model">All entities</option>
+                  <option value="kit">Kits only</option>
+                  <option value="part">Parts only</option>
+                  <option value="placement">Placements only</option>
+                  <option value="model">Models only</option>
+                </select>
+                <input class="field" id="link-search" placeholder="Search kits, parts, placements, models">
+              </div>
+              <div class="split">
+                <div class="hint">Filter first if you already know the target type.</div>
+                <button id="unlink-region">Unlink</button>
+              </div>
+              <div class="picker-results" id="link-results"></div>
+          </div>
+        </div>
+        <div class="section">
+          <div class="section-head"><span>Claims</span><button id="new-claim">New claim</button></div>
+          <div class="section-body">
+            <div id="claim-form" class="${state.draftClaimOpen ? '' : 'hidden'}">
+              <select id="claim-predicate">
+                <option value="depicts">depicts</option>
+                <option value="supports">supports</option>
+                <option value="corresponds_to">corresponds_to</option>
+                <option value="shows">shows</option>
+              </select>
+              <div class="split">
+                <select id="claim-confidence">
+                  <option value="confirmed">confirmed</option>
+                  <option value="probable" selected>probable</option>
+                  <option value="uncertain">uncertain</option>
+                  <option value="speculative">speculative</option>
+                </select>
+                <select id="claim-status">
+                  <option value="active">active</option>
+                  <option value="draft">draft</option>
+                  <option value="contested">contested</option>
+                </select>
+              </div>
+                <div class="split">
+                  <select id="claim-type-filter">
+                    <option value="kit,part,placement,model">All entities</option>
+                    <option value="kit">Kits only</option>
+                    <option value="part">Parts only</option>
+                    <option value="placement">Placements only</option>
+                    <option value="model">Models only</option>
+                  </select>
+                  <input class="field" id="claim-object-search" placeholder="Search target entity or leave blank for free text">
+                </div>
+                <div class="picker-results" id="claim-results"></div>
+              <input class="field" id="claim-text" placeholder="Free text object value (optional)">
+              <textarea id="claim-rationale" placeholder="Why does this region support the claim?"></textarea>
+              <button id="save-claim" class="primary">Save claim</button>
+            </div>
+            <div class="small-list" id="claim-list">
+              ${(region.claims || []).length ? region.claims.map(renderClaimCard).join('') : '<div class="hint">No claims yet. Link an entity and create the first interpretation.</div>'}
+            </div>
+          </div>
+        </div>
+        <div class="section">
+          <div class="section-head"><span>History</span></div>
+          <div class="section-body small-list">
+            ${(region.history || []).length ? region.history.map((item) => `
+              <div class="small-card">
+                <div class="small-title">${escapeHtml(item.action)}</div>
+                <div class="small-meta">${escapeHtml(item.changed_at || '')}</div>
+              </div>
+            `).join('') : '<div class="hint">No history entries yet.</div>'}
+          </div>
+        </div>
+      `;
+    }
+
+    function renderClaimCard(claim) {
+      const objectLabel = claim.object_label || claim.text_value || '-';
+      return `
+        <div class="small-card claim-card">
+          <div class="small-title">${escapeHtml(claim.subject_label || 'Region')} ${escapeHtml(claim.predicate)} ${escapeHtml(objectLabel)}</div>
+          <div class="small-meta">${escapeHtml(claim.confidence || '')} / ${escapeHtml(claim.status || '')}</div>
+          ${claim.rationale ? `<div class="hint">${escapeHtml(claim.rationale)}</div>` : ''}
+        </div>
+      `;
+    }
+
+    function formatFloat(value) {
+      if (value === null || value === undefined || value === '') return '-';
+      const num = Number(value);
+      return Number.isFinite(num) ? num.toFixed(3) : '-';
+    }
+
+    function bindRegionInspector(region) {
+      document.querySelectorAll('[data-open-region]').forEach((node) => {
+        node.addEventListener('click', async () => selectRegion(Number(node.dataset.openRegion)));
+      });
+      el('clear-region')?.addEventListener('click', async () => selectRegion(null));
+      el('save-region')?.addEventListener('click', saveRegionEdits);
+      el('delete-region')?.addEventListener('click', deleteSelectedRegion);
+      el('unlink-region')?.addEventListener('click', async () => {
+        await updateRegion({
+          ...region,
+          entity_type: null,
+          entity_id: null
+        });
+      });
+      el('link-search')?.addEventListener('input', async (event) => {
+        state.linkSearch = event.target.value.trim();
+        const searchToken = ++state.linkSearchToken;
+        if (state.linkSearch.length < 2) {
+          state.linkResults = [];
+          renderLinkResults();
+          return;
+        }
+        const payload = await api(`/api/entity_search?q=${encodeURIComponent(state.linkSearch)}&types=${encodeURIComponent(state.linkTypeFilter)}`);
+        if (searchToken !== state.linkSearchToken) return;
+        state.linkResults = Array.isArray(payload) ? payload : (payload?.data || payload || []);
+        renderLinkResults();
+      });
+      el('link-type-filter')?.addEventListener('change', async (event) => {
+        state.linkTypeFilter = event.target.value;
+        const searchToken = ++state.linkSearchToken;
+        if (state.linkSearch.length < 2) {
+          renderLinkResults();
+          return;
+        }
+        const payload = await api(`/api/entity_search?q=${encodeURIComponent(state.linkSearch)}&types=${encodeURIComponent(state.linkTypeFilter)}`);
+        if (searchToken !== state.linkSearchToken) return;
+        state.linkResults = Array.isArray(payload) ? payload : (payload?.data || payload || []);
+        renderLinkResults();
+      });
+      el('new-claim')?.addEventListener('click', () => {
+        state.draftClaimOpen = !state.draftClaimOpen;
+        state.claimTarget = null;
+        renderWorkspace();
+      });
+      el('claim-object-search')?.addEventListener('input', async (event) => {
+        state.claimSearch = event.target.value.trim();
+        const searchToken = ++state.claimSearchToken;
+        if (state.claimSearch.length < 2) {
+          state.claimResults = [];
+          renderClaimResults();
+          return;
+        }
+        const payload = await api(`/api/entity_search?q=${encodeURIComponent(state.claimSearch)}&types=${encodeURIComponent(state.claimTypeFilter)}`);
+        if (searchToken !== state.claimSearchToken) return;
+        state.claimResults = Array.isArray(payload) ? payload : (payload?.data || payload || []);
+        renderClaimResults();
+      });
+      el('claim-type-filter')?.addEventListener('change', async (event) => {
+        state.claimTypeFilter = event.target.value;
+        const searchToken = ++state.claimSearchToken;
+        if (state.claimSearch.length < 2) {
+          renderClaimResults();
+          return;
+        }
+        const payload = await api(`/api/entity_search?q=${encodeURIComponent(state.claimSearch)}&types=${encodeURIComponent(state.claimTypeFilter)}`);
+        if (searchToken !== state.claimSearchToken) return;
+        state.claimResults = Array.isArray(payload) ? payload : (payload?.data || payload || []);
+        renderClaimResults();
+      });
+      el('save-claim')?.addEventListener('click', saveClaim);
+      renderLinkResults();
+      renderClaimResults();
+      loadKitSuggestions(region).catch(handleError);
+    }
+
+    function renderLinkResults() {
+      const wrap = el('link-results');
+      if (!wrap) return;
+      if (!state.linkResults.length) {
+        wrap.innerHTML = state.linkSearch.length >= 2 ? '<div class="hint">No matching entities.</div>' : '<div class="hint">Search to link this region.</div>';
+        return;
+      }
+      wrap.innerHTML = state.linkResults.map((item) => `
+        <div class="picker-item" data-link-type="${item.entity_type}" data-link-id="${item.entity_id}">
+          <div class="small-title">${escapeHtml(item.title)}</div>
+          <div class="small-meta">${escapeHtml(item.subtitle || '')}</div>
+          ${badgeRow(item.badges || [])}
+        </div>
+      `).join('');
+      wrap.querySelectorAll('[data-link-type]').forEach((node) => {
+        node.addEventListener('click', async () => {
+          const region = currentRegionDetail();
+          await updateRegion({
+            ...region,
+            entity_type: node.dataset.linkType,
+            entity_id: Number(node.dataset.linkId)
+          });
+        });
+      });
+    }
+
+    function renderClaimResults() {
+      const wrap = el('claim-results');
+      if (!wrap) return;
+      if (!state.claimResults.length) {
+        wrap.innerHTML = state.claimSearch.length >= 2 ? '<div class="hint">No matching entities.</div>' : '<div class="hint">Search for a claim target or use free text below.</div>';
+        return;
+      }
+      wrap.innerHTML = state.claimResults.map((item) => `
+        <div class="picker-item ${state.claimTarget && state.claimTarget.entity_type === item.entity_type && state.claimTarget.entity_id === item.entity_id ? 'active' : ''}"
+             data-claim-type="${item.entity_type}" data-claim-id="${item.entity_id}">
+          <div class="small-title">${escapeHtml(item.title)}</div>
+          <div class="small-meta">${escapeHtml(item.subtitle || '')}</div>
+        </div>
+      `).join('');
+      wrap.querySelectorAll('[data-claim-type]').forEach((node) => {
+        node.addEventListener('click', () => {
+          state.claimTarget = {
+            entity_type: node.dataset.claimType,
+            entity_id: Number(node.dataset.claimId),
+            title: node.querySelector('.small-title')?.textContent || ''
+          };
+          renderClaimResults();
+        });
+      });
+    }
+
+    function renderKitBrowserResults() {
+      const wrap = el('kit-browser-results');
+      if (!wrap) return;
+      if (!state.kitBrowserResults.length) {
+        wrap.innerHTML = state.kitBrowserSearch.length >= 2 ? '<div class="hint">No matching kits.</div>' : '<div class="hint">Search to browse kits.</div>';
+        return;
+      }
+      wrap.innerHTML = state.kitBrowserResults.map((kit) => `
+        <div class="picker-item suggestion-card">
+          <div class="small-title">${escapeHtml(`${kit.brand} - ${kit.name}`)}</div>
+          <div class="small-meta">${escapeHtml([kit.scale, kit.serial_number, kit.category_family, kit.category_subject].filter(Boolean).join(' / '))}</div>
+        </div>
+      `).join('');
+    }
+
+    function renderKitSuggestions() {
+      const wrap = el('kit-suggestions');
+      if (!wrap) return;
+      if (!state.kitSuggestions.length) {
+        wrap.innerHTML = '<div class="hint">Suggestions appear when the region label strongly matches a kit.</div>';
+        return;
+      }
+      wrap.innerHTML = state.kitSuggestions.map((item) => `
+        <div class="picker-item suggestion-card ${item.confidence === 'high' ? 'active' : ''}" data-suggest-kit-id="${item.id}">
+          <div class="small-title">${escapeHtml(`${item.brand} - ${item.name}`)}</div>
+          <div class="small-meta">${escapeHtml([
+            item.scale,
+            item.serial_number,
+            item.category_family,
+            item.category_subject,
+            `${item.confidence} confidence`,
+            item.reasons?.length ? item.reasons.join(', ') : ''
+          ].filter(Boolean).join(' / '))}</div>
+        </div>
+      `).join('');
+      wrap.querySelectorAll('[data-suggest-kit-id]').forEach((node) => {
+        node.addEventListener('click', async () => {
+          const region = currentRegionDetail();
+          if (!region) return;
+          await updateRegion({
+            ...region,
+            entity_type: 'kit',
+            entity_id: Number(node.dataset.suggestKitId)
+          });
+        });
+      });
+    }
+
+    function renderFamilySearchResults() {
+      const wrap = el('family-search-results');
+      if (!wrap) return;
+      if (!state.familyResults.length) {
+        wrap.innerHTML = state.familySearch.length >= 2
+          ? '<div class="hint">No matching groups.</div>'
+          : '<div class="hint">Search for an existing group to add this image.</div>';
+        return;
+      }
+      wrap.innerHTML = state.familyResults.map((family) => `
+        <div class="picker-item" data-add-family-id="${family.id}">
+          <div class="small-title">${escapeHtml(family.title)}</div>
+          <div class="small-meta">${escapeHtml(`${family.variant_count || 0} images`)}</div>
+        </div>
+      `).join('');
+      wrap.querySelectorAll('[data-add-family-id]').forEach((node) => {
+        node.addEventListener('click', async () => {
+          await addCurrentImageToFamily(Number(node.dataset.addFamilyId));
+        });
+      });
+    }
+
+    async function saveCurrentImageMetadata() {
+      const image = state.selectedImage;
+      if (!image) return;
+      const payload = {
+        title: el('image-title-edit')?.value?.trim() || null,
+        image_code: el('image-code-edit')?.value?.trim() || null,
+        image_type: el('image-type-edit')?.value || null,
+        date_taken: el('image-date-edit')?.value?.trim() || null,
+        source: el('image-source-edit')?.value?.trim() || null,
+        source_id: image.source_id || image.source_record?.id || null,
+        notes: el('image-notes-edit')?.value?.trim() || null,
+        caption: image.caption || null,
+        drive_id: image.drive_id || null,
+        url: image.url || null,
+        storage_kind: image.storage_kind || null,
+        storage_path: image.storage_path || null,
+        sha256: image.sha256 || null,
+        width: image.width || null,
+        height: image.height || null
+      };
+      await runImageAction('Saving image…', 'Image updated.', async () => {
+        await api(`/api/images/${image.id}`, {
+          method: 'PUT',
+          headers: authHeaders(),
+          body: JSON.stringify(payload)
+        });
+        delete state.imageCache[image.id];
+        await loadImages();
+        await selectImage(image.id, { preferCache: false, preserveView: true });
+      });
+    }
+
+    async function deleteCurrentImage() {
+      const image = state.selectedImage;
+      if (!image) return;
+      const warnings = [
+        `Delete image "${imageDisplayTitle(image)}"?`,
+        image.family ? 'It will be removed from its image group.' : null,
+        (image.regions || []).length ? `It has ${(image.regions || []).length} regions that will be deleted.` : null,
+        image.claim_count ? `Claim evidence may be affected (${image.claim_count} claims).` : null,
+        'This cannot be undone.'
+      ].filter(Boolean);
+      if (!confirm(warnings.join('\n\n'))) return;
+      await runImageAction('Deleting image…', 'Image deleted.', async () => {
+        await api(`/api/images/${image.id}`, {
+          method: 'DELETE',
+          headers: authHeaders()
+        });
+        state.selectedImageId = null;
+        state.selectedImage = null;
+        state.selectedRegionId = null;
+        state.selectedRegionDetail = null;
+        state.imageCache = {};
+        state.familyCache = {};
+        await loadImages();
+      });
+    }
+
+    async function uploadImageFiles(fileList) {
+      const files = Array.from(fileList || []).filter(Boolean);
+      if (!files.length) return;
+      let lastCreatedId = null;
+      await runImageAction(`Uploading ${files.length} image${files.length === 1 ? '' : 's'}…`, `${files.length} image${files.length === 1 ? '' : 's'} uploaded.`, async () => {
+        for (const file of files) {
+          const form = new FormData();
+          form.append('file', file);
+          form.append('title', file.name.replace(/\.[^.]+$/, ''));
+          form.append('image_type', state.filters.image_type || 'reference');
+          const created = await fetch(apiOrigin() + buildApiPath('/api/images'), {
+            method: 'POST',
+            body: form
+          }).then(async (res) => {
+            let body = null;
+            try { body = await res.json(); } catch (e) {}
+            if (!res.ok || (body && body.ok === false)) {
+              throw new Error(body?.error || `Upload failed (${res.status})`);
+            }
+            return body?.data ?? body;
+          });
+          lastCreatedId = created?.id || lastCreatedId;
+        }
+        state.imageCache = {};
+        await loadImages();
+        if (lastCreatedId) {
+          await selectImage(Number(lastCreatedId), { preferCache: false, preserveView: false });
+        }
+      });
+      const input = el('image-upload-input');
+      if (input) input.value = '';
+    }
+
+    async function batchMatchCurrentImageRegionsToKits() {
+      const image = state.selectedImage;
+      if (!image) return;
+      const regions = Array.isArray(image.regions) ? image.regions : [];
+      const candidates = regions.filter((region) => (region.label || '').trim());
+      if (!candidates.length) {
+        setImageActionStatus('error', 'This image has no labeled regions to match.');
+        return;
+      }
+      await runImageAction('Matching region labels to kits…', (result) => {
+        if (!result) return 'Kit matching finished.';
+        return `Matched ${result.matched} labels. Skipped ${result.skipped}. Ambiguous ${result.ambiguous}.`;
+      }, async () => {
+        let matched = 0;
+        let skipped = 0;
+        let ambiguous = 0;
+        for (const region of candidates) {
+          const label = (region.label || '').trim();
+          if (!label) {
+            skipped += 1;
+            continue;
+          }
+          if (region.entity_type && region.entity_id) {
+            skipped += 1;
+            continue;
+          }
+          const payload = await api(`/api/kits?q=${encodeURIComponent(label)}`);
+          const kits = Array.isArray(payload) ? payload : (payload?.data || []);
+          const match = autoKitMatchCandidate(label, kits);
+          if (!match.candidate) {
+            if (match.ranked.length) ambiguous += 1;
+            else skipped += 1;
+            continue;
+          }
+          await api(`/api/image_regions/${region.id}`, {
+            method: 'PUT',
+            headers: authHeaders(),
+            body: JSON.stringify({
+              image_id: region.image_id,
+              region_type: region.region_type,
+              x_norm: region.x_norm,
+              y_norm: region.y_norm,
+              width_norm: region.width_norm,
+              height_norm: region.height_norm,
+              pixel_x: region.pixel_x,
+              pixel_y: region.pixel_y,
+              pixel_width: region.pixel_width,
+              pixel_height: region.pixel_height,
+              label: region.label,
+              notes: region.notes,
+              entity_type: 'kit',
+              entity_id: match.candidate.id,
+              source_extract_id: region.source_extract_id,
+              attributed_to: region.attributed_to
+            })
+          });
+          matched += 1;
+        }
+        delete state.imageCache[image.id];
+        await selectImage(image.id, { preferCache: false, preserveView: true });
+        return { matched, skipped, ambiguous };
+      });
+    }
+
+    async function searchFamilies(query) {
+      state.familySearch = query.trim();
+      const token = ++state.familySearchToken;
+      if (state.familySearch.length < 2) {
+        state.familyResults = [];
+        renderFamilySearchResults();
+        return;
+      }
+      const payload = await api(`/api/image_families?q=${encodeURIComponent(state.familySearch)}`);
+      if (token !== state.familySearchToken) return;
+      state.familyResults = Array.isArray(payload) ? payload : (payload?.data || []);
+      renderFamilySearchResults();
+    }
+
+    async function createFamilyFromCurrentImage() {
+      const image = state.selectedImage;
+      if (!image) return;
+      if (image.family?.id) {
+        setFamilyActionStatus('error', `This image already belongs to family "${image.family.title || image.family.id}".`);
+        return;
+      }
+      const title = el('new-family-title')?.value?.trim();
+      if (!title) {
+        setFamilyActionStatus('error', 'Group title is required.');
+        return;
+      }
+      await runFamilyAction('Creating group…', (created) => `Created group "${title}".`, async () => {
+        const created = await api('/api/image_families', {
+          method: 'POST',
+          headers: authHeaders(),
+          body: JSON.stringify({
+            title,
+            family_type: 'reference_set',
+            primary_image_id: image.id,
+            members: [{
+              image_id: image.id,
+              relation_type: 'primary',
+              is_primary: 1,
+              is_hidden_in_library: 0,
+              coverage_role: 'full_frame'
+            }]
+          })
+        });
+        state.familySearch = '';
+        state.familyResults = [];
+        await refreshImageAfterFamilyMutation();
+        return created;
+      });
+    }
+
+    async function addCurrentImageToFamily(familyId) {
+      const image = state.selectedImage;
+      if (!image) return;
+      if (image.family?.id === familyId) {
+        setFamilyActionStatus('success', 'This image is already in that group.');
+        return;
+      }
+      const relationType = 'variant';
+      await runFamilyAction('Adding image to group…', 'Image added to group.', async () => {
+        await api(`/api/image_families/${familyId}/members`, {
+          method: 'POST',
+          headers: authHeaders(),
+          body: JSON.stringify({
+            image_id: image.id,
+            relation_type: relationType,
+            is_primary: relationType === 'primary' ? 1 : 0,
+            coverage_role: defaultCoverageRoleForRelation(relationType)
+          })
+        });
+        state.familySearch = '';
+        state.familyResults = [];
+        await refreshImageAfterFamilyMutation();
+      });
+    }
+
+    async function saveCurrentFamily() {
+      const image = state.selectedImage;
+      const family = image?.family;
+      if (!image || !family) return;
+      const title = el('family-title')?.value?.trim();
+      if (!title) {
+        setFamilyActionStatus('error', 'Group title is required.');
+        return;
+      }
+      await runFamilyAction('Saving group…', 'Group updated.', async () => {
+        await api(`/api/image_families/${family.id}`, {
+          method: 'PUT',
+          headers: authHeaders(),
+          body: JSON.stringify({
+            title,
+            family_type: family.family_type || 'reference_set'
+          })
+        });
+        await refreshImageAfterFamilyMutation();
+      });
+    }
+
+    async function saveCurrentFamilyMember() {
+      const image = state.selectedImage;
+      const family = image?.family;
+      const member = currentEditableFamilyMember(image);
+      if (!image || !family || !member) return;
+      const isPrimary = el('family-member-default')?.checked ? 1 : 0;
+      const relationType = isPrimary ? 'primary' : 'variant';
+      await runFamilyAction('Saving group image…', 'Group image updated.', async () => {
+        await api(`/api/image_families/${family.id}/members/${member.id || member.family_member_id}`, {
+          method: 'PUT',
+          headers: authHeaders(),
+          body: JSON.stringify({
+            relation_type: relationType,
+            is_primary: isPrimary,
+            coverage_role: defaultCoverageRoleForRelation(relationType)
+          })
+        });
+        await refreshImageAfterFamilyMutation();
+      });
+    }
+
+    async function removeCurrentImageFromFamily() {
+      const image = state.selectedImage;
+      const family = image?.family;
+      const member = currentEditableFamilyMember(image);
+      if (!image || !family || !member) return;
+      await runFamilyAction('Removing image from group…', 'Image removed from group.', async () => {
+        await api(`/api/image_families/${family.id}/members/${member.id || member.family_member_id}`, {
+          method: 'DELETE',
+          headers: authHeaders()
+        });
+        if (Number(member.image_id) !== Number(image.id)) {
+          state.familyEditorMemberId = null;
+        }
+        await refreshImageAfterFamilyMutation();
+      });
+    }
+
+    async function removeFamilyMemberById(memberId) {
+      const image = state.selectedImage;
+      const family = image?.family;
+      const member = family?.members?.find((item) => Number(item.id || item.family_member_id) === Number(memberId));
+      if (!image || !family || !member) return;
+      state.familyEditorMemberId = Number(memberId);
+      await removeCurrentImageFromFamily();
+    }
+
+    async function deleteCurrentFamily() {
+      const image = state.selectedImage;
+      const family = image?.family;
+      if (!image || !family) return;
+      await runFamilyAction('Deleting group…', 'Group deleted.', async () => {
+        await api(`/api/image_families/${family.id}`, {
+          method: 'DELETE',
+          headers: authHeaders()
+        });
+        await refreshImageAfterFamilyMutation();
+      });
+    }
+
+    async function loadKitSuggestions(region) {
+      const label = (region?.label || '').trim();
+      if (label.length < 2) {
+        state.kitSuggestions = [];
+        renderKitSuggestions();
+        return;
+      }
+      const payload = await api(`/api/kits?q=${encodeURIComponent(label)}`);
+      const kits = Array.isArray(payload) ? payload : (payload?.data || []);
+      state.kitSuggestions = rankKitMatches(label, kits).slice(0, 6);
+      renderKitSuggestions();
+    }
+
+    function bindImageInspector(image) {
+      document.querySelectorAll('[data-open-region]').forEach((node) => {
+        node.addEventListener('click', async () => selectRegion(Number(node.dataset.openRegion)));
+      });
+      document.querySelectorAll('[data-open-image]').forEach((node) => {
+        node.addEventListener('mousedown', (event) => {
+          event.preventDefault();
+        });
+        node.addEventListener('click', async (event) => {
+          event.stopPropagation();
+          await selectImage(Number(node.dataset.openImage), { preferCache: true, preserveView: false });
+        });
+      });
+      document.querySelectorAll('[data-edit-family-member]').forEach((node) => {
+        node.addEventListener('mousedown', (event) => {
+          event.preventDefault();
+        });
+        node.addEventListener('click', async () => {
+          await setFamilyEditorMember(node.dataset.editFamilyMember);
+        });
+      });
+      document.querySelectorAll('[data-remove-family-member]').forEach((node) => {
+        node.addEventListener('mousedown', (event) => {
+          event.preventDefault();
+        });
+        node.addEventListener('click', (event) => {
+          event.stopPropagation();
+          removeFamilyMemberById(node.dataset.removeFamilyMember);
+        });
+      });
+      el('create-family')?.addEventListener('click', () => createFamilyFromCurrentImage());
+      el('save-family')?.addEventListener('click', () => saveCurrentFamily());
+      el('delete-family')?.addEventListener('click', () => deleteCurrentFamily());
+      el('family-member-default')?.addEventListener('change', () => saveCurrentFamilyMember());
+      el('save-image')?.addEventListener('click', () => saveCurrentImageMetadata());
+      el('delete-image')?.addEventListener('click', () => deleteCurrentImage());
+      el('match-image-kits')?.addEventListener('click', () => batchMatchCurrentImageRegionsToKits());
+      el('family-search')?.addEventListener('input', debounce((event) => {
+        searchFamilies(event.target.value).catch(handleError);
+      }, 220));
+      el('kit-browser-search')?.addEventListener('input', debounce(async (event) => {
+        state.kitBrowserSearch = event.target.value.trim();
+        const token = ++state.kitBrowserToken;
+        if (state.kitBrowserSearch.length < 2) {
+          state.kitBrowserResults = [];
+          renderKitBrowserResults();
+          return;
+        }
+        const payload = await api(`/api/kits?q=${encodeURIComponent(state.kitBrowserSearch)}`);
+        if (token !== state.kitBrowserToken) return;
+        state.kitBrowserResults = Array.isArray(payload) ? payload : (payload?.data || []);
+        renderKitBrowserResults();
+      }, 220));
+      renderKitBrowserResults();
+      renderFamilySearchResults();
+    }
+
+    async function loadRegionDetail(regionId) {
+      const payload = await api(`/api/image_regions/${regionId}`);
+      const region = payload.region || payload;
+      region.history = payload.history || region.history || [];
+      region.claims = payload.claims || region.claims || [];
+      region.claim_count = Array.isArray(region.claims) ? region.claims.length : (region.claim_count || 0);
+      if (region.entity_type && region.entity_id && !region.entity_label) {
+        region.entity_label = `${region.entity_type} ${region.entity_id}`;
+      }
+      patchRegionIntoSelectedImage(region);
+      return region;
+    }
+
+    async function updateRegion(region) {
+      const payload = {
+        image_id: region.image_id,
+        region_type: region.region_type,
+        x_norm: region.x_norm,
+        y_norm: region.y_norm,
+        width_norm: region.width_norm,
+        height_norm: region.height_norm,
+        pixel_x: region.pixel_x,
+        pixel_y: region.pixel_y,
+        pixel_width: region.pixel_width,
+        pixel_height: region.pixel_height,
+        label: region.label,
+        notes: region.notes,
+        entity_type: region.entity_type,
+        entity_id: region.entity_id,
+        source_extract_id: region.source_extract_id,
+        attributed_to: region.attributed_to
+      };
+      await api(`/api/image_regions/${region.id}`, {
+        method: 'PUT',
+        headers: authHeaders(),
+        body: JSON.stringify(payload)
+      });
+      const refreshed = await loadRegionDetail(region.id);
+      state.selectedRegionId = region.id;
+      state.selectedRegionDetail = refreshed;
+      renderImageList();
+      renderWorkspace();
+    }
+
+    async function saveRegionEdits() {
+      const region = currentRegionDetail();
+      if (!region) return;
+      await updateRegion({
+        ...region,
+        label: el('region-label').value.trim() || null,
+        notes: el('region-notes').value.trim() || null
+      });
+    }
+
+    async function deleteSelectedRegion() {
+      const region = currentRegionDetail();
+      if (!region) return;
+      await api(`/api/image_regions/${region.id}`, {
+        method: 'DELETE',
+        headers: authHeaders()
+      });
+      removeRegionFromSelectedImage(region.id);
+      syncLibraryRowFromSelectedImage();
+      cacheSelectedImage();
+      renderImageList();
+      renderWorkspace();
+    }
+
+    async function saveClaim() {
+      const region = currentRegionDetail();
+      if (!region) return;
+      const textValue = el('claim-text').value.trim() || null;
+      if (!state.claimTarget && !textValue) {
+        alert('Pick a target entity or enter a free text value.');
+        return;
+      }
+      await api('/api/claims', {
+        method: 'POST',
+        headers: authHeaders(),
+        body: JSON.stringify({
+          subject_type: 'image_region',
+          subject_id: region.id,
+          predicate: el('claim-predicate').value,
+          object_type: state.claimTarget?.entity_type || null,
+          object_id: state.claimTarget?.entity_id || null,
+          text_value: textValue,
+          confidence: el('claim-confidence').value,
+          status: el('claim-status').value,
+          rationale: el('claim-rationale').value.trim() || null,
+          evidence: [{ evidence_type: 'image_region', evidence_id: region.id }]
+        })
+      });
+      state.draftClaimOpen = false;
+      state.claimTarget = null;
+      const refreshed = await loadRegionDetail(region.id);
+      state.selectedRegionId = region.id;
+      state.selectedRegionDetail = refreshed;
+      renderImageList();
+      renderWorkspace();
+    }
+
+    function setupCanvasInteractions() {
+      const layer = el('region-layer');
+      const scroll = el('canvas-scroll');
+      layer.addEventListener('click', async (event) => {
+        if (event.target !== layer || !state.selectedImage || !state.imageSize.width) return;
+        if (state.mode === 'point') {
+          const point = pointerToNorm(event);
+          await createRegion({
+            region_type: 'point',
+            x_norm: point.x,
+            y_norm: point.y,
+            width_norm: null,
+            height_norm: null,
+            label: null,
+            notes: null
+          });
+        } else if (state.mode === 'select') {
+          await selectRegion(null);
+        }
+      });
+
+      let dragStart = null;
+      layer.addEventListener('mousedown', (event) => {
+        if (state.mode !== 'box' || event.target !== layer || !state.selectedImage) return;
+        dragStart = pointerToNorm(event);
+        state.boxDraft = { start: dragStart, current: dragStart };
+        drawDraftBox();
+      });
+      const startPan = (event) => {
+        if (state.mode !== 'pan' || !state.selectedImage) return;
+        state.panState = {
+          startX: event.clientX,
+          startY: event.clientY,
+          panX: state.panX,
+          panY: state.panY
+        };
+        scroll.classList.add('panning');
+        event.preventDefault();
+      };
+      scroll.addEventListener('mousedown', startPan);
+      window.addEventListener('mousemove', (event) => {
+        if (!dragStart || state.mode !== 'box') return;
+        state.boxDraft.current = pointerToNorm(event);
+        drawDraftBox();
+      });
+      window.addEventListener('mousemove', (event) => {
+        if (!state.panState || state.mode !== 'pan') return;
+        const dx = event.clientX - state.panState.startX;
+        const dy = event.clientY - state.panState.startY;
+        state.panX = state.panState.panX + dx;
+        state.panY = state.panState.panY + dy;
+        normalizeCanvasPan();
+        updateCanvasTransform();
+      });
+      window.addEventListener('mouseup', async () => {
+        if (!dragStart || state.mode !== 'box') return;
+        const start = state.boxDraft.start;
+        const current = state.boxDraft.current;
+        dragStart = null;
+        el('draft-box').classList.add('hidden');
+        const x = Math.min(start.x, current.x);
+        const y = Math.min(start.y, current.y);
+        const width = Math.abs(start.x - current.x);
+        const height = Math.abs(start.y - current.y);
+        if (width < 0.005 || height < 0.005) {
+          state.boxDraft = null;
+          return;
+        }
+        await createRegion({
+          region_type: 'box',
+          x_norm: x,
+          y_norm: y,
+          width_norm: width,
+          height_norm: height,
+          label: null,
+          notes: null
+        });
+        state.boxDraft = null;
+      });
+      window.addEventListener('mouseup', () => {
+        if (!state.panState) return;
+        state.panState = null;
+        scroll.classList.remove('panning');
+      });
+
+      scroll.addEventListener('wheel', (event) => {
+        if (!state.selectedImage) return;
+        event.preventDefault();
+        const nextScale = event.deltaY < 0
+          ? state.imageScale * 1.1
+          : state.imageScale / 1.1;
+        setScaleAroundPoint(nextScale, event.clientX, event.clientY);
+      }, { passive: false });
+      scroll.addEventListener('dblclick', (event) => {
+        if (!state.selectedImage) return;
+        event.preventDefault();
+        centerCanvasOnPoint(event.clientX, event.clientY);
+      });
+    }
+
+    function pointerToNorm(event) {
+      const stage = el('canvas-stage');
+      const rect = stage.getBoundingClientRect();
+      const x = (event.clientX - rect.left) / rect.width;
+      const y = (event.clientY - rect.top) / rect.height;
+      return {
+        x: Math.max(0, Math.min(1, x)),
+        y: Math.max(0, Math.min(1, y))
+      };
+    }
+
+    function drawDraftBox() {
+      const draft = el('draft-box');
+      if (!state.boxDraft || !state.imageSize.width) {
+        draft.classList.add('hidden');
+        return;
+      }
+      const x = Math.min(state.boxDraft.start.x, state.boxDraft.current.x) * state.imageSize.width;
+      const y = Math.min(state.boxDraft.start.y, state.boxDraft.current.y) * state.imageSize.height;
+      const width = Math.abs(state.boxDraft.start.x - state.boxDraft.current.x) * state.imageSize.width;
+      const height = Math.abs(state.boxDraft.start.y - state.boxDraft.current.y) * state.imageSize.height;
+      draft.classList.remove('hidden');
+      draft.style.left = `${x}px`;
+      draft.style.top = `${y}px`;
+      draft.style.width = `${width}px`;
+      draft.style.height = `${height}px`;
+    }
+
+    async function createRegion(region) {
+      const payload = {
+        image_id: state.selectedImageId,
+        ...region
+      };
+      const created = await api('/api/image_regions', {
+        method: 'POST',
+        headers: authHeaders(),
+        body: JSON.stringify(payload)
+      });
+      if (created?.id) {
+        const detail = await loadRegionDetail(created.id);
+        state.selectedRegionId = created.id;
+        state.selectedRegionDetail = detail;
+        renderImageList();
+        renderWorkspace();
+      }
+    }
+
+    function bindTopLevel() {
+      el('api-base').value = state.apiBase;
+      el('image-search').value = state.filters.q;
+      el('image-type').value = state.filters.image_type;
+      el('region-filter').value = state.filters.region_filter;
+      if (el('link-type-filter')) el('link-type-filter').value = state.linkTypeFilter;
+      if (el('claim-type-filter')) el('claim-type-filter').value = state.claimTypeFilter;
+      el('api-save').addEventListener('click', () => {
+        state.apiBase = el('api-base').value.trim() || 'http://localhost:5000';
+        localStorage.setItem('workbenchApiBase', state.apiBase);
+        loadImages().catch(handleError);
+      });
+      el('admin-key').addEventListener('click', () => {
+        const current = localStorage.getItem('adminKey') || '';
+        const value = prompt('Enter admin API key (blank clears):', current);
+        if (value === null) return;
+        if (!value) localStorage.removeItem('adminKey');
+        else localStorage.setItem('adminKey', value);
+      });
+      el('admin-local').addEventListener('change', (event) => {
+        if (event.target.checked) localStorage.setItem('adminMode', '1');
+        else localStorage.removeItem('adminMode');
+        updateAdminLocalLabel();
+      });
+      el('add-images').addEventListener('click', () => {
+        el('image-upload-input')?.click();
+      });
+      el('image-upload-input').addEventListener('change', (event) => {
+        uploadImageFiles(event.target.files).catch(handleError);
+      });
+      el('workspace-zoom').addEventListener('input', (event) => {
+        state.workspaceZoom = Number(event.target.value || 100);
+        applyWorkspaceZoom();
+      });
+      el('refresh-all').addEventListener('click', () => loadImages().catch(handleError));
+      el('image-search').addEventListener('input', debounce((event) => {
+        state.filters.q = event.target.value.trim();
+        loadImages().catch(handleError);
+      }, 240));
+      el('image-type').addEventListener('change', (event) => {
+        state.filters.image_type = event.target.value;
+        loadImages().catch(handleError);
+      });
+      el('region-filter').addEventListener('change', (event) => {
+        state.filters.region_filter = event.target.value;
+        loadImages().catch(handleError);
+      });
+      el('zoom-out').addEventListener('click', () => {
+        setScaleAroundPoint(state.imageScale / 1.1);
+      });
+      el('zoom-in').addEventListener('click', () => {
+        setScaleAroundPoint(state.imageScale * 1.1);
+      });
+      el('zoom-fit').addEventListener('click', () => {
+        state.imageScale = fitScale();
+        centerCanvasImage();
+        applyStageScale();
+      });
+      el('zoom-reset').addEventListener('click', () => {
+        state.imageScale = 1;
+        centerCanvasImage();
+        applyStageScale();
+      });
+      ['brightness', 'contrast', 'saturation', 'gamma'].forEach((key) => {
+        el(`adjust-${key}`)?.addEventListener('input', (event) => {
+          state.imageAdjustments[key] = Number(event.target.value || 100);
+          renderAdjustmentControls();
+        });
+      });
+      document.querySelectorAll('[data-reset-adjust]').forEach((node) => {
+        node.addEventListener('click', () => {
+          resetImageAdjustment(node.dataset.resetAdjust);
+        });
+      });
+      el('adjust-reset-all').addEventListener('click', () => {
+        ['brightness', 'contrast', 'saturation', 'gamma'].forEach((key) => {
+          state.imageAdjustments[key] = 100;
+        });
+        renderAdjustmentControls();
+      });
+      ['prev-image', 'next-image'].forEach((id) => {
+        el(id).addEventListener('mousedown', (event) => {
+          event.preventDefault();
+          event.stopPropagation();
+        });
+      });
+      el('prev-image').addEventListener('click', () => navigateImage(-1).catch(handleError));
+      el('next-image').addEventListener('click', () => navigateImage(1).catch(handleError));
+      ['select', 'pan', 'point', 'box'].forEach((mode) => {
+        el(`mode-${mode}`).addEventListener('click', () => {
+          state.mode = mode;
+          updateModeButtons();
+        });
+      });
+      el('toggle-labels').addEventListener('click', () => {
+        state.showRegionLabels = !state.showRegionLabels;
+        renderRegions();
+        updateModeButtons();
+      });
+      updateModeButtons();
+      renderAdjustmentControls();
+      updateAdminLocalLabel();
+      applyWorkspaceZoom();
+      setupCanvasInteractions();
+      document.addEventListener('wheel', (event) => {
+        if (!(event.ctrlKey || event.metaKey)) return;
+        if (event.target?.closest('#canvas-scroll')) return;
+        event.preventDefault();
+      }, { passive: false, capture: true });
+      ['gesturestart', 'gesturechange', 'gestureend'].forEach((type) => {
+        document.addEventListener(type, (event) => {
+          event.preventDefault();
+        }, { passive: false, capture: true });
+      });
+      document.addEventListener('touchmove', (event) => {
+        if ((event.touches?.length || 0) > 1) {
+          event.preventDefault();
+        }
+      }, { passive: false, capture: true });
+      window.addEventListener('keydown', (event) => {
+        const tag = document.activeElement?.tagName?.toLowerCase();
+        if (tag === 'input' || tag === 'textarea' || tag === 'select' || document.activeElement?.isContentEditable) return;
+        if (event.key === 'ArrowUp') {
+          event.preventDefault();
+          navigateImage(-1).catch(handleError);
+        } else if (event.key === 'ArrowDown') {
+          event.preventDefault();
+          navigateImage(1).catch(handleError);
+        } else if (event.key === 'ArrowLeft') {
+          event.preventDefault();
+          navigateImage(-1).catch(handleError);
+        } else if (event.key === 'ArrowRight') {
+          event.preventDefault();
+          navigateImage(1).catch(handleError);
+        } else if (event.key === 'Escape' && state.selectedRegionId) {
+          event.preventDefault();
+          selectRegion(null).catch(handleError);
+        }
+      });
+    }
+
+    function updateAdminLocalLabel() {
+      const checkbox = el('admin-local');
+      if (checkbox) checkbox.checked = localStorage.getItem('adminMode') === '1';
+    }
+
+    function debounce(fn, delay) {
+      let timer = null;
+      return (...args) => {
+        window.clearTimeout(timer);
+        timer = window.setTimeout(() => fn(...args), delay);
+      };
+    }
+
+    function handleError(error) {
+      console.error(error);
+      const stack = el('inspector-stack');
+      if (stack && state.selectedImage) {
+        const msg = escapeHtml(error.message || 'Something went wrong.');
+        const box = document.createElement('div');
+        box.className = 'empty-state';
+        box.textContent = msg;
+        stack.prepend(box);
+        return;
+      }
+      el('inspector-stack').innerHTML = `<div class="empty-state">${escapeHtml(error.message || 'Something went wrong.')}</div>`;
+    }
+
+    bindTopLevel();
+    loadImages().catch(handleError);
+  </script>
+</body>
+</html>

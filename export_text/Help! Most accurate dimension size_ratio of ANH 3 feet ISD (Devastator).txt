@@ -1,0 +1,165 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Help! Most accurate dimension size/ratio of ANH 3 feet ISD (Devastator)
+URL    : https://www.therpf.com/forums/threads/help-most-accurate-dimension-size-ratio-of-anh-3-feet-isd-devastator.364881/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #5672683)
+Author    : JS321706
+Date      : Oct 21, 2025 at 7:23 AM
+────────────────────────────────────────────────────────────────────────
+
+It's been the most memorable model in my head since I was a kid. It's mostly flat, so it's easy to build, but it would be more convenient if I could figure out the angle of the roof and the specifications for each panel. Unfortunately, I don't have the same technology as photogrammetry, so I'm worried that reference photography alone will cause errors in all productions. Can anyone share some nice dimensional data for this model?
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #5674187)
+Author    : JS321706
+Date      : Oct 26, 2025 at 12:39 AM
+────────────────────────────────────────────────────────────────────────
+
+Can I set that angle to 90 degrees? I'm waiting for help from people who have made 3feet ISD or have observed real models. (The angle in the picture was measured over 90 degrees due to distortion caused by the tilt.)
+
+ 
+
+Attachments
+
+[IMAGE: 1626254-9e4b23c11acbf76654869f31feecdf65.jpg]
+
+Screenshot_20251023_001051.jpg
+
+					186.1 KB
+					
+					· Views: 107
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #5674193)
+Author    : JS321706
+Date      : Oct 26, 2025 at 1:18 AM
+────────────────────────────────────────────────────────────────────────
+
+If you can set the angle to 90 degrees, you should be able to draw a circle with the length of the scan as the diameter and choose a point on the appropriate circle. 
+
+ However, there was no guarantee that the scan was taken vertically based on the base of the model, so there is something I overlooked here.
+
+ If it's tilted, that distortion adjustment will be needed. When I took this scan, I assumed that the model was mounted vertically, and I made a vertical standard for the camera in three cases. 
+
+I'm waiting for help from anyone with behind-the-scenes knowledge or reasonable guesses about this photo. 
+
+ps: Does distortion occur even if it's taken flat? It seems like you use the lens distortion value when calculating this, but does anyone know how to find out the lens value used in the shooting or how to use it to get the original length?
+
+ 
+
+Attachments
+
+[IMAGE: 1626256-839969aa2e7f364a8d7129c34de3b62b.jpg]
+
+1761465584357.png
+
+					539.6 KB
+					
+					· Views: 140
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #5674197)
+Author    : JimmyB
+Date      : Oct 26, 2025 at 2:49 AM
+────────────────────────────────────────────────────────────────────────
+
+If you use Blender then it's up to you if you trust it for measurements, but there's a 3D model of the Rogue One star destroyer on Artstation and it seems to be very accurate except for some offset distortions in individual panels which aren't relevant here anyway. IIRC the Rogue One SD was a faithful reproduction of the ANH SD, including the tilted domes, but even if the Rogue One SD wasn't 100% accurate I'd find it hard to believe they didn't get the proportions and angles right. Here's the model (it's free but you need to set up a free account): https://www.artstation.com/marketplace/p/1gGwK/rogue-one-imperial-star-destroyer-free-3d-model
+
+Here's a quick orthographic render of the bottom hull, only for you to judge if it might help.
+
+[IMAGE: https://www.therpf.com/forums/attachments/rosd_release_bottom_hull_ortho-jpg.1983796/]
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #5674428)
+Author    : bwayne64
+Date      : Oct 26, 2025 at 7:59 PM
+Reactions : Love, Like — edge10, JS321706
+────────────────────────────────────────────────────────────────────────
+
+You might want to check out Sean Sides build. He made a great replica of this model. Here's a thread where he mentioned the approx size. Don't know if that will help with the angles or not. Post #62 on this thread he gives the dimensions. 
+
+The approx. measurements of this model are 29" wide x 48" long, and a little over a foot tall.
+
+[IMAGE: logo-og.png]
+
+						Star Destroyer Devastator - ANH Style Replica
+					
+
+Very, very, very nice! I also love that Battlestar Galactica ship in the background...  Interesting about the right side not having a lot of detail. When I first got my Bandai Star Destroyer I almost thought they made a casting mistake because a lot of detail is missing... I figured it was for a...
+
+[IMAGE: favicon.png]
+
+					www.therpf.com
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #5674508)
+Author    : Studio Kitbash
+Date      : Oct 27, 2025 at 8:46 AM
+────────────────────────────────────────────────────────────────────────
+
+I don't know if this helps AT ALL, but it was always my surmise that form followed function, and that the Star Destroyer plates were 90 degrees at the rear corner simply by virtue of the fact that if you take a 4'X8' sheet of plexiglass, and give it the appropriate cuts, you end up with a.) the least amount of cuts and b.) the maximum use of material to make the wedge-shaped ship.  So the rule of design "elegance" (maximal structural integrity using minimal material means) suggests a 90-degree angle, as well as the Zvezda Star Destroyer and the Bandai 1/5000 Star Destroyer, which have 90-degree angles at the back corners.
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #5674538)
+Author    : JS321706
+Date      : Oct 27, 2025 at 11:08 AM
+Reactions : Like — JimmyB
+────────────────────────────────────────────────────────────────────────
+
+JimmyB said:
+
+			If you use Blender then it's up to you if you trust it for measurements, but there's a 3D model of the Rogue One star destroyer on Artstation and it seems to be very accurate except for some offset distortions in individual panels which aren't relevant here anyway. IIRC the Rogue One SD was a faithful reproduction of the ANH SD, including the tilted domes, but even if the Rogue One SD wasn't 100% accurate I'd find it hard to believe they didn't get the proportions and angles right. Here's the model (it's free but you need to set up a free account): https://www.artstation.com/marketplace/p/1gGwK/rogue-one-imperial-star-destroyer-free-3d-model
+
+Here's a quick orthographic render of the bottom hull, only for you to judge if it might help.
+
+View attachment 1983796
+
+Click to expand...
+
+Thank you so much for sharing the good information. I think it would be a good reference in terms of dimension! 
+
+But a lot of it has been readjusted..
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #5674543)
+Author    : JS321706
+Date      : Oct 27, 2025 at 11:26 AM
+────────────────────────────────────────────────────────────────────────
+
+Studio Kitbash said:
+
+			I don't know if this helps AT ALL, but it was always my surmise that form followed function, and that the Star Destroyer plates were 90 degrees at the rear corner simply by virtue of the fact that if you take a 4'X8' sheet of plexiglass, and give it the appropriate cuts, you end up with a.) the least amount of cuts and b.) the maximum use of material to make the wedge-shaped ship.  So the rule of design "elegance" (maximal structural integrity using minimal material means) suggests a 90-degree angle, as well as the Zvezda Star Destroyer and the Bandai 1/5000 Star Destroyer, which have 90-degree angles at the back corners.
+		
+
+Click to expand...
+
+I totally agree with you, I don't think they did any unnecessary cutting. Also, the models on the market are ESB versions, but they will be good evidence to infer angles.
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #5675004)
+Author    : JS321706
+Date      : Oct 28, 2025 at 11:20 PM
+────────────────────────────────────────────────────────────────────────
+
+Does anyone know the thickness of acrylic used for the upper and lower plates?
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #5682586)
+Author    : ganesha7
+Date      : Nov 23, 2025 at 1:40 AM
+────────────────────────────────────────────────────────────────────────
+
+JS321706 said:
+
+			Does anyone know the thickness of acrylic used for the upper and lower plates?
+		
+
+Click to expand...
+
+Ringa used 3/32" plexi on his fantastic build and it looked spot on:
+
+Star Destroyer #3
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #5682802)
+Author    : ajmadison
+Date      : Nov 23, 2025 at 9:15 PM
+Reactions : Like — Ogibendogy
+────────────────────────────────────────────────────────────────────────
+
+For this particular inquiry, I would definitely download any free 3D model and comparing it to imagery. I'm using the hobbiest Fusion 360, but it has a huge learning curve. I've also used blender, mostly for model conversions which I'm not suggesting here, but Blender is flexible enough for a quick & dirty load and viewing. Something I do a lot, is manipulate the viewing angle of the 3D model until it matches a 2d reference image. Can't necessarily calculate exact angles, but you can determine if the shapes are correct and angles between panels are appropriate.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 11

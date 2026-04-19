@@ -1,0 +1,105 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : High res 3D printed Devastator
+URL    : https://www.therpf.com/forums/threads/high-res-3d-printed-devastator.266626/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #4074121)
+Author    : Martaaay
+Date      : Sep 9, 2016 at 9:17 AM
+────────────────────────────────────────────────────────────────────────
+
+Hi all! Long time reader, first time poster.
+
+I've built a full size r2, and am knee deep building bb8. I've always wanted to make a studio scale star destroyer. I'd like to go the route of 3D printing. Are there any other projects doing this? I haven't found one.
+
+If no others, is there interest in modeling all the little greebles and overall body with me? My goal would be to have it light up with fiber optics. I did a similar smaller model before, but now I want BIGGER!
+
+Sent from my iPhone using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #4074127)
+Author    : Big Dog
+Date      : Sep 9, 2016 at 9:23 AM
+────────────────────────────────────────────────────────────────────────
+
+Try having a chat with the people in this[\url] thread. You could find some digital components here.
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #4074175)
+Author    : Scott Graham
+Date      : Sep 9, 2016 at 10:34 AM
+────────────────────────────────────────────────────────────────────────
+
+Someone's doing just what you're describing, kind of, in the general modeling forum: http://www.therpf.com/showthread.php?t=263654
+
+I say kind of because theirs isn't studio scale accurate.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #4074204)
+Author    : stonky
+Date      : Sep 9, 2016 at 11:09 AM
+Reactions : Like — star-art
+────────────────────────────────────────────────────────────────────────
+
+Working on it. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: 353483-d5b7d29dc72ff2f7be8b7ff57db761c3.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #4074390)
+Author    : star-art
+Date      : Sep 9, 2016 at 3:12 PM
+────────────────────────────────────────────────────────────────────────
+
+I've modeled the entire structure, but only a portion of the "greeblies" (BIG respect to Stonky for even attempting that!):
+
+http://www.therpf.com/showthread.php?t=264265
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #4074528)
+Author    : Martaaay
+Date      : Sep 9, 2016 at 6:27 PM
+────────────────────────────────────────────────────────────────────────
+
+Awesome! Looks like some work already underway. Are the files accessible somewhere? Maybe in a way to accept contributions?
+
+Sent from my iPhone using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #4074622)
+Author    : star-art
+Date      : Sep 9, 2016 at 10:01 PM
+────────────────────────────────────────────────────────────────────────
+
+Afraid not, these will be used by EFX for their product offering, coming soon. . .
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #4075291)
+Author    : Martaaay
+Date      : Sep 10, 2016 at 9:01 PM
+────────────────────────────────────────────────────────────────────────
+
+stonky are your model files available somewhere?
+
+Sent from my iPhone using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #4075619)
+Author    : stonky
+Date      : Sep 11, 2016 at 12:46 PM
+Reactions : Like — Lee S
+────────────────────────────────────────────────────────────────────────
+
+Not currently - the project was originally born out of my dissatisfaction with what was available on the consumer market. A full size model is a little too big for my appetite (4 feet long), so the plan was to 3D print the parts in sub assemblies at half scale, something a little more manageable. All of the parts were modelled with the parts in-hand so you can imagine what kind of $$$/time investment that it has been so far. I've thought about offering parts/sub assemblies as a means to recouping some of that investment but I haven't gotten to that point yet.
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #4077251)
+Author    : McGraph
+Date      : Sep 13, 2016 at 5:58 PM
+Reactions : Like — rbeach84
+────────────────────────────────────────────────────────────────────────
+
+I bought a folgertech ft5 printer that has a 3d print volume of 12x12x15. I bet it could take a bite out of a project like this. At least on making a nice armature for it. I saw a thread that eaton did putting together a 32inch falcon using printed parts for the armature. So it should be doable for the three footer at least.
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #4077607)
+Author    : stonky
+Date      : Sep 14, 2016 at 7:47 AM
+────────────────────────────────────────────────────────────────────────
+
+Sounds interesting. Just for the record (and so that the scope can be truly appreciated), "three footer" is a bit of a historical misnomer, it's actually 4 feet long.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 11

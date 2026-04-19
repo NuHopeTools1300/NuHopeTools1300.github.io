@@ -1,0 +1,137 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Blade Runner Spinner accuracy 3D model
+URL    : https://www.therpf.com/forums/threads/blade-runner-spinner-accuracy-3d-model.340075/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #5209935)
+Author    : xeno
+Date      : Jul 1, 2021 at 12:16 AM
+────────────────────────────────────────────────────────────────────────
+
+I fount this new detailed 3D model for 3D printing, for the Spinner Car.
+
+						Blade Runner 1982 Spinner - STL files for 3D Printing | Gambody
+					
+
+Discover high-poly STL files of Blade Runner 1982 Spinner 3D printing model. 3D print your favourite models with Gambody STL files.
+
+					www.gambody.com
+				
+
+I was wondering if this can be considered accurate, and maybe experts can share their opinion 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+ 
+
+Attachments
+
+[IMAGE: 1114751-edacc0b57e80e1d949c64a18d5d3ba90.jpg]
+
+Spinner 1.jpg
+
+					119 KB
+					
+					· Views: 356
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #5210214)
+Author    : xeno
+Date      : Jul 2, 2021 at 1:43 AM
+────────────────────────────────────────────────────────────────────────
+
+To answer my own question....unfortunately it is not.
+
+and the most obvious mistakes are the Spinner logos on the doors and back panel, that are upside down and mirrored ?!
+
+the canopy is the wrong shape
+
+the overall body shape is not good.
+
+and other obvious details are wrong or missing :/
+
+[IMAGE: https://www.therpf.com/forums/attachments/spinner-logo-problem-jpg.1472511/]
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #5211216)
+Author    : joberg
+Date      : Jul 5, 2021 at 9:00 AM
+────────────────────────────────────────────────────────────────────────
+
+Close but...no cigar.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #5225317)
+Author    : Lloyderhosen
+Date      : Aug 20, 2021 at 3:44 PM
+────────────────────────────────────────────────────────────────────────
+
+They corrected the logos at least and its something to cut your teeth on.
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #5225452)
+Author    : xeno
+Date      : Aug 21, 2021 at 1:20 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Lloyderhosen said:
+
+			They corrected the logos at least and its something to cut your teeth on.
+		
+
+Click to expand...
+
+I pointed it out to them, and they said they would change it.
+
+cudos for them to respond and change it quickly, but the sculptor must have been sleeping :/
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #5226065)
+Author    : Lloyderhosen
+Date      : Aug 23, 2021 at 5:25 AM
+────────────────────────────────────────────────────────────────────────
+
+I read those comments. Nice of you to point it out to them and nice of them to correct and repair the .stl files. Yes, a mistake on the logos in whatever 3D program was used to build it. 
+
+I'm printing this right now despite the faults which I'm hoping to correct by reworking areas. Most people when they see it at this scale won't needle it. To them it's a wow factor and for me something to learn on particularly with running fiber optics and lighting board through. That is until my large scale FDM printer arrives this week.
+
+Any suggestions on a better 3D model of the Spinner out there?
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #5226107)
+Author    : xeno
+Date      : Aug 23, 2021 at 7:13 AM
+Reactions : Like — Lloyderhosen
+────────────────────────────────────────────────────────────────────────
+
+Lloyderhosen said:
+
+			I read those comments. Nice of you to point it out to them and nice of them to correct and repair the .stl files. Yes, a mistake on the logos in whatever 3D program was used to build it.
+
+I'm printing this right now despite the faults which I'm hoping to correct by reworking areas. Most people when they see it at this scale won't needle it. To them it's a wow factor and for me something to learn on particularly with running fiber optics and lighting board through. That is until my large scale FDM printer arrives this week.
+
+Any suggestions on a better 3D model of the Spinner out there?
+		
+
+Click to expand...
+
+Unfortunately there isn't good accurate 3D model, I was hoping the Gambody version would be accurate enough for a nice build, but the more I look at it, the more faults I see.
+
+I was also secretly hoping one of the 2 Spinner projects here might sell his files, so I can build my own, but I don't see that happening.
+
+So I started to make my own 3D drawings, and using the original blueprints as a guide
+
+I want to build a 1:8 scale version, to fit my 1:8 BTTF Delorean, and be a nice size to hang on the wall 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #5226179)
+Author    : Lloyderhosen
+Date      : Aug 23, 2021 at 11:01 AM
+────────────────────────────────────────────────────────────────────────
+
+Original blueprints, 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+. Nice! The one from Propstore lack
+
+That's a shame considering the tools have been out there forever and with such an iconic vehicle as well. 1:8 will be impressive. 
+
+I'll just be over here polishing a turd while your making the magic happen over there.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 8

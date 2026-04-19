@@ -1,0 +1,292 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : SS probe droid light/sound electronics - ver. 2
+URL    : https://www.therpf.com/forums/threads/ss-probe-droid-light-sound-electronics-ver-2.151060/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #2309369)
+Author    : hyperdyne
+Date      : Jun 15, 2012 at 10:38 AM
+────────────────────────────────────────────────────────────────────────
+
+Ok, so I finally finished up the proto and several of the final kits for the probe droid.  I added some new features over my ver. 1 also.
+
+1) Single board solution
+
+2) Is activated via motion sensor or random timer
+
+3) Light up eye LED and blaster LED.
+
+4) Dual antenna servo outputs to motorize the antennas
+
+5) Dome servo output to motorize random head movements
+
+6) Programmable modes:  Timer/motion activation mode, delay between events, sounds can be changed out via microSD card.
+
+7) small speaker included - optional 1W amp for louder sound also available.
+
+Here is a vid of the kit in action.  There are about 10 different sound events right now.  I can add more.
+
+Star Wars ESB probe droid model - light and sound kit, rev 2.0 - YouTube
+
+ESB scene playback:
+
+Star Wars ESB probe droid model - light and sound kit rev 2.0 - easter egg - YouTube
+
+For motorizing the antennas/head you can use any hobby servo you like.  Since I dont have a PD kit I dont know size restrictions so for now I leave that to the builder.
+
+Also to limit any servo noise, I only energize the servos when they need to move.  Otherwise they are not powered and make no added noise!  
+
+Hope you guys like it.  I will put up an interest thread in the junkyard soon.   Price will be around the same as my ver. 1 board.
+
+Jim
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #2309374)
+Author    : ralphee
+Date      : Jun 15, 2012 at 10:41 AM
+────────────────────────────────────────────────────────────────────────
+
+Very, very cool!
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #2309377)
+Author    : ralphee
+Date      : Jun 15, 2012 at 10:43 AM
+────────────────────────────────────────────────────────────────────────
+
+Servo choice is easy, there is LOTS of room for any generic servos along the lines of an S148.
+
+Micros would be cooler, but id only use those for the antennas.
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #2309386)
+Author    : hyperdyne
+Date      : Jun 15, 2012 at 10:47 AM
+────────────────────────────────────────────────────────────────────────
+
+Yeah I figured micro servos could work.  The antennas hopefully dont weight anything so those servos have almost zero load.  And there is a plethora of micro airplane servos to choose from.  
+
+I thought a larger standard servo could be housed in the lower body and simply attach to the dome with a servo horn.  I did this with my full scale 3p0 head and it worked out well.
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #2309388)
+Author    : ralphee
+Date      : Jun 15, 2012 at 10:50 AM
+────────────────────────────────────────────────────────────────────────
+
+Yeah, ive a few metal geared 1/8 servos here id plug into the head. The brass antenna has NO weight, and im sure ive a couple of aileron servos that would do that job.
+
+The joy is, servo's, are so cheap these days, this, is a very, very cool addition, id love the retro fit one to my current droid TBH lol.
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #2309403)
+Author    : hyperdyne
+Date      : Jun 15, 2012 at 11:01 AM
+────────────────────────────────────────────────────────────────────────
+
+Metal gear or carbonite gear would work great - plastic too.  And like I stated above, there wont be any servo whining or chatter noise since I only energize the servos when they need to move.  Otherwise they are off.  If the antennas have no weight to them then the antenna servos should hold in the up position via friction.
+
+And the head servo doesnt need to be constantly holding position anyway. 
+
+I made the head movement to work with mars PD dome, as he said it would work fine.
+
+Oh, and I also added in an antenna servo reversing mode you can enable on the board - to aid in servo install should it be too difficult to get the linkage to work in one direction.
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #2309404)
+Author    : moffeaton
+Date      : Jun 15, 2012 at 11:02 AM
+────────────────────────────────────────────────────────────────────────
+
+Exciting!!!
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #2309409)
+Author    : Guy Cowen
+Date      : Jun 15, 2012 at 11:05 AM
+────────────────────────────────────────────────────────────────────────
+
+I' have no idea what the hell you are all talking about but I'm in
+
+Looks amazing, what a way to to tip these over the edge on total WOW!
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #2309868)
+Author    : marsattack
+Date      : Jun 15, 2012 at 3:43 PM
+────────────────────────────────────────────────────────────────────────
+
+Jim bloody awesome!
+
+Is the middle servo pictured for the head as we spoke?
+
+Or is it to turn the blaster cannon?
+
+Either way awesome!!
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #2309936)
+Author    : Ghadrack
+Date      : Jun 15, 2012 at 4:32 PM
+────────────────────────────────────────────────────────────────────────
+
+Wow.   
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+  Interesting...
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #2309961)
+Author    : Commander Max
+Date      : Jun 15, 2012 at 4:45 PM
+────────────────────────────────────────────────────────────────────────
+
+There was a version 1?
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #2310168)
+Author    : vaderdarth
+Date      : Jun 15, 2012 at 7:39 PM
+────────────────────────────────────────────────────────────────────────
+
+Jim I can't find one on the website.   Just looking for price.  
+
+Dave   
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #2310200)
+Author    : Gans
+Date      : Jun 15, 2012 at 8:06 PM
+────────────────────────────────────────────────────────────────────────
+
+Looking forward to this and knowing the price 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Gans
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #2310408)
+Author    : hyperdyne
+Date      : Jun 15, 2012 at 11:06 PM
+────────────────────────────────────────────────────────────────────────
+
+I am working getting the kit up on my website.  Thanks!
+
+mars, the middle servo is for the 2nd antenna.  I use 2 servos since the antennas were staggered in the movie scene when they retracted.  So I matched the movement to the movie sound.  You could use one if you like, but two outputs are there to use.
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #2310484)
+Author    : ralphee
+Date      : Jun 16, 2012 at 12:25 AM
+────────────────────────────────────────────────────────────────────────
+
+Commander Max said:
+
+			There was a version 1?
+		
+
+Click to expand...
+
+ 
+
+Yes.
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #2310782)
+Author    : moffeaton
+Date      : Jun 16, 2012 at 6:42 AM
+────────────────────────────────────────────────────────────────────────
+
+hyperdyne said:
+
+			I am working getting the kit up on my website.  Thanks!
+		
+
+Click to expand...
+
+PAID! Exciting.
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #2310978)
+Author    : Commander Max
+Date      : Jun 16, 2012 at 9:27 AM
+────────────────────────────────────────────────────────────────────────
+
+ralphee said:
+
+			Yes.
+
+lee
+		
+
+Click to expand...
+
+I've got a PD kit, nobody told me or I would have bought one. 
+
+I'm not interested in what the version 2 does.
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #2310982)
+Author    : ralphee
+Date      : Jun 16, 2012 at 9:32 AM
+────────────────────────────────────────────────────────────────────────
+
+Commander Max said:
+
+			I've got a PD kit, nobody told me or I would have bought one. 
+
+I'm not interested in what the version 2 does.
+		
+
+Click to expand...
+
+ 
+
+Think V1 had just antenna and head rotation, the flashy lights on V2, while nice, are too toy like for my tastes, maybe just dont connect them up?
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #2311135)
+Author    : hyperdyne
+Date      : Jun 16, 2012 at 11:31 AM
+────────────────────────────────────────────────────────────────────────
+
+Yes, the v1 has the white light, sounds, motion sensor and antenna servo outputs.  It also consisted of 2 PC boards. I only made a handful of v1 kits, that is a long story in of itself.
+
+The v2 was shrunk to 1 small board and added the blaster light, head servo, timer/motion mode, servo reversing, and several more sounds.
+
+You are correct, if you dont like the LEDs you dont have to install them.  The board will work fine without them.
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #2313733)
+Author    : vaderdarth
+Date      : Jun 18, 2012 at 5:17 AM
+────────────────────────────────────────────────────────────────────────
+
+I cannot wait to see this installed in a kit.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #2377877)
+Author    : Alan Cross
+Date      : Jul 23, 2012 at 11:50 AM
+────────────────────────────────────────────────────────────────────────
+
+Got Jim's Probe Droid kit a couple of weeks ago... finally plugged in the small speaker and fired up the sound board.  It works great!   Highly recommended.  Thanks, Jim.  Hopefully someone will volunteer information on  getting the right servos and antennas how to install them in the probe droid itself.  Never servo'd before.
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #2377888)
+Author    : hyperdyne
+Date      : Jul 23, 2012 at 11:56 AM
+────────────────────────────────────────────────────────────────────────
+
+I am sure Jason will show what he comes up with.  You can use the smaller 9g servos for the antennas.  The head servo shouldnt need to be too big either.  Maybe something like the Hs-77bb or the like would work fine.  Depends how heavy the head is.  Plus the probot board only has a 1A regulator on it so you dont want to use super heavy duty servos - as it wont be able to power them for long...
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #2387930)
+Author    : Cenobyte
+Date      : Jul 28, 2012 at 9:19 PM
+────────────────────────────────────────────────────────────────────────
+
+Just ordered your kit along with the amplifier and wall plug adapter.
+
+I cannot wait to get this started.
+
+Can anyone that is using this kit possibly post up the servos that are being used and where to purchase them please?
+
+As I am not very knowledgeable on this type of thing, I would be greatly appreciative.
+
+Thank you for your time.
+
+Brandon
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 23

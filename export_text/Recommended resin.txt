@@ -1,0 +1,97 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Recommended resin
+URL    : https://www.therpf.com/forums/threads/recommended-resin.366090/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #5698242)
+Author    : hdtheater
+Date      : Feb 2, 2026 at 12:20 PM
+────────────────────────────────────────────────────────────────────────
+
+I have printed a few resin models and am looking for different resin to use.  What I am using today is Siraya Tech ABS Like resin and it comes out more brittle than I would like.  Does anybody have a recommended resin to try for SS models? I have heard of mixing Tenacious flexible resin, but worry about it sagging.
+
+Thanks,
+
+-Eric
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #5698251)
+Author    : jakob2121
+Date      : Feb 2, 2026 at 12:56 PM
+Reactions : Like — hdtheater
+────────────────────────────────────────────────────────────────────────
+
+They now make a pre-mixed version of the go-to mix everyone has been doing forever for detailed models:  in the past it was Tech Fast Navy Grey + Tenacious black.  Now you can get "tough navy gray", which is much cheaper than buying the tenacious separately. it's the same mix. Works really well.  Does not sag even a little (assuming you're not way overloading it structurally).
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #5698342)
+Author    : hdtheater
+Date      : Feb 2, 2026 at 7:07 PM
+────────────────────────────────────────────────────────────────────────
+
+jakob2121 said:
+
+			They now make a pre-mixed version of the go-to mix everyone has been doing forever for detailed models:  in the past it was Tech Fast Navy Grey + Tenacious black.  Now you can get "tough navy gray", which is much cheaper than buying the tenacious separately. it's the same mix. Works really well.  Does not sag even a little (assuming you're not way overloading it structurally).
+		
+
+Click to expand...
+
+How does that tough compare to the Blu Tough?
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #5698344)
+Author    : jakob2121
+Date      : Feb 2, 2026 at 7:21 PM
+────────────────────────────────────────────────────────────────────────
+
+Tenacious and the “tough” mixes like tough navy are a little less brittle on fine detail parts in my past experience of trying out making mixes. Generally tenacious = a little more give, blu = more durable except for fine details, because of the lack of give.  The little bit of give isn’t a bad thing.
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #5698427)
+Author    : hdtheater
+Date      : Feb 3, 2026 at 7:27 AM
+────────────────────────────────────────────────────────────────────────
+
+I would rather it dent a little than break.
+
+For FDM, I just use PETG as it can take a hit and not get destroyed.
+
+Thanks for the recommendation. I am going to order some and play with it!
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #5698633)
+Author    : hdtheater
+Date      : Feb 4, 2026 at 6:51 AM
+────────────────────────────────────────────────────────────────────────
+
+I have some on order.  It was a bit of an adventure as it is not in their drop down menus and I had to go the resin landing page to find it.  I did see another resin called Magna Durable.  You have any experience with that one?  The spec sheet shows even stronger than Fast Tough. Wonder how easy it is to work with.
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #5698705)
+Author    : TazMan2000
+Date      : Feb 4, 2026 at 10:38 AM
+────────────────────────────────────────────────────────────────────────
+
+I have been using Anycubic ABS like resin for years with excellent results.
+
+Initially, I thought that mixing resins yourself, couldn't be bad, especially from the same manufacturer, however, I have read that it's not recommended, since the resins may not be compatible. However, I can't see the harm, unless mixing them creates some kind of compound that eats away your FEP...or worse.
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #5698895)
+Author    : hdtheater
+Date      : Feb 5, 2026 at 7:39 AM
+────────────────────────────────────────────────────────────────────────
+
+TazMan2000 said:
+
+			I have been using Anycubic ABS like resin for years with excellent results.
+
+Initially, I thought that mixing resins yourself, couldn't be bad, especially from the same manufacturer, however, I have read that it's not recommended, since the resins may not be compatible. However, I can't see the harm, unless mixing them creates some kind of compound that eats away your FEP...or worse.
+
+TazMan2000
+		
+
+Click to expand...
+
+I have done lots of mixing.  colors, types, manufacturers, etc...  It all cures!!  
+
+I just finished printing a BWing model and it was so delicate and brittle,  I am just hoping to find a good resin that is more durable.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 8

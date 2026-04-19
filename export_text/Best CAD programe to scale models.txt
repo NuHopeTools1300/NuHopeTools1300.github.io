@@ -1,0 +1,165 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Best CAD programe to scale models
+URL    : https://www.therpf.com/forums/threads/best-cad-programe-to-scale-models.170161/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #2628236)
+Author    : ninja77
+Date      : Dec 7, 2012 at 10:18 PM
+────────────────────────────────────────────────────────────────────────
+
+Hi guys,
+
+I want to use several schematic and photo references and create a combined cad drawing that will enable me to make patterns of various parts of a scratchbuild project I have in mind.
+
+Do you have any suggestions on which programe would be best to use?
+
+Cheers Tim
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #2628415)
+Author    : ZAP
+Date      : Dec 8, 2012 at 3:04 AM
+────────────────────────────────────────────────────────────────────────
+
+ninja77 said:
+
+			Hi guys,
+
+I want to use several schematic and photo references and create a combined cad drawing that will enable me to make patterns of various parts of a scratchbuild project I have in mind.
+
+Do you have any suggestions on which programe would be best to use?
+
+Cheers Tim
+		
+
+Click to expand...
+
+ 
+
+hi ninja77 
+
+have many cad programs, one of the most known and used is Autocad, but you have Rhino, Skechup, Maya, these need to license and price of each license Autocad, Maya and Rhino is about 5000 €, software DraftSight, FreeCAD, CAD CAD are free to use
+
+Trimble SketchUp
+
+BRL-CAD | Open Source Solid Modeling
+
+Free CAD software * for your DWG files: DraftSight - Dassault Systèmes
+
+Maya - 3D Animation Software - Autodesk
+
+Autodesk - 3D Design & Engineering Software for Architecture, Manufacturing, and Entertainment
+
+FreeCAD: An Open Source parametric 3D CAD modeler
+
+Rhinoceros
+
+regarding your question, it depends on each user and experience in this type of software, I advise developing your skills in a single program
+
+I hope I helped
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #2628514)
+Author    : ninja77
+Date      : Dec 8, 2012 at 5:29 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks Zap, appreciate your help 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #2628922)
+Author    : F3nri5
+Date      : Dec 8, 2012 at 11:26 AM
+────────────────────────────────────────────────────────────────────────
+
+Also LibreCad, which is free, feels much like AutoCad.
+
+I've just used it myself to create 'formers' for the command Module of an Eagle transporter. As well As sketchup to create a virtual build of the same.
+
+For Sketchup there is also a ruby script called 'unfold'. Build your virtual model then flatten out the parts ala pepakura.
+
+F3n
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #2630290)
+Author    : star-art
+Date      : Dec 9, 2012 at 9:53 AM
+────────────────────────────────────────────────────────────────────────
+
+After selecting your program, if you want help making your drawing or need tips and tricks, check out the only book ever written on the subject for modelers:
+
+ModelersNotebook.com
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #2631479)
+Author    : ShowCraft
+Date      : Dec 10, 2012 at 5:14 AM
+────────────────────────────────────────────────────────────────────────
+
+star-art said:
+
+			After selecting your program, if you want help making your drawing or need tips and tricks, check out the only book ever written on the subject for modelers:
+
+ModelersNotebook.com
+
+Click to expand...
+
+Highly recommend :thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #2632891)
+Author    : ninja77
+Date      : Dec 10, 2012 at 6:51 PM
+────────────────────────────────────────────────────────────────────────
+
+star-art said:
+
+			After selecting your program, if you want help making your drawing or need tips and tricks, check out the only book ever written on the subject for modelers:
+
+ModelersNotebook.com
+
+Click to expand...
+
+ 
+
+Thanks all, I'll have a look at each and see which one I think will suit my limited skill range :lol.
+
+I did look at buying that book but was a bit put off by one comment i read that it was mainly for ship builders, however, as its been given the thumbs up in this forum it obviously applies to all types of model building so buying it is on my immediate to do list :thumbsup
+
+Cheers
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #2633044)
+Author    : star-art
+Date      : Dec 10, 2012 at 8:46 PM
+────────────────────────────────────────────────────────────────────────
+
+It's definitely for all types of modelers. 
+
+It's been said you can't please everyone, but I have not received even one negative comment so far. All the feedback has been extremely positive. For anyone wanting to learn how to get ideas out of their head and on paper (or into the computer), this is definitely a how-to guide that can help. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Also included is some really good info on making drawings with a computer program. It covers the two basic approaches, advantages and disadvantages of each, and provides a good primer for getting started.
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #2634911)
+Author    : ninja77
+Date      : Dec 11, 2012 at 6:09 PM
+────────────────────────────────────────────────────────────────────────
+
+star-art said:
+
+			It's definitely for all types of modelers. 
+
+It's been said you can't please everyone, but I have not received even one negative comment so far. All the feedback has been extremely positive. For anyone wanting to learn how to get ideas out of their head and on paper (or into the computer), this is definitely a how-to guide that can help. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Also included is some really good info on making drawings with a computer program. It covers the two basic approaches, advantages and disadvantages of each, and provides a good primer for getting started.
+		
+
+Click to expand...
+
+ 
+
+Don't get me wrong it wasn't a negative comment, far from it, the reviewer praised the book very highly, the comment he made was something along the lines of "if you are a ship builder this is the book for you" 
+
+I'll definitely be buying it 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 9

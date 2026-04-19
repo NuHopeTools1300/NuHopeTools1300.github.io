@@ -1,0 +1,1500 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : The Three-Engine Blockade Runner Project
+URL    : https://www.therpf.com/forums/threads/the-three-engine-blockade-runner-project.298327/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #4567269)
+Author    : DaveG
+Date      : Jan 13, 2019 at 7:35 AM
+Reactions : Like — JimmyB, foj3000, AnubisGuard
+────────────────────────────────────────────────────────────────────────
+
+This project is to build a "studio scale" model of Joe Johnston's original three-engine version of the Rebel Blockade Runner from Star Wars. It may have been considered as the deign for the Pirate Ship at that point, I'm not really sure, but I'm going to call it the Blockade Runner for this project.
+
+[IMAGE: https://www.therpf.com/forums/attachments/jj-sketch-jpg.976796/]
+
+I'm approaching the project as if I were working in the model shop, was handed the sketch and told "make it about 32 inches long". This seems like a decent size, big enough to detail but not so big as to become unwieldy. It's also, coincidentally, the size of the Millennium Falcon model built for Empire.
+
+The model will be built using a hybrid of technologies, designed using 3D modeling software and fabricated from plexiglass and styrene as were the original models, but also using 3D printing where appropriate. Details will be interpreted from the original sketch was well as the actual Blockade Runner built for the film but I will also feel free to change up or add cool things as the model evolves. That's half the fun of doing this kind of project. Nernie kit parts will, for the most part, be drawn from the same vintage kits used by the ILM model makers back in the day.
+
+My goal is to get the model done in time for this Spring's So Cal RPF Prop Party, an ambitious deadline, to say the least!
+
+The first step was to model the overall structure of the Blockade Runner, scale it to the desired length and resize the major components to fit available sizes of plexiglas and Plastruct tubing. The computer model will get more details added as the project moves forward, especially to those sections which will be 3D printed.
+
+[IMAGE: https://www.therpf.com/forums/attachments/screen-shot-190112-jpg.976805/]
+
+Construction began by "laying the keel" as it were. The main structural hull is comprised of 2 1/4" and 2 1/2" diameter plexiglas tubing. The trapazoidal bulkhead plate to which the three engines attach was milled from plexiglas sheet using a CNC router. I've made the bulkhead hollow to allow for wiring to light up the engines.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1974-jpg.976806/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1976-jpg.976807/]
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #4567288)
+Author    : Rick Deckard
+Date      : Jan 13, 2019 at 8:15 AM
+────────────────────────────────────────────────────────────────────────
+
+Pretty cool Dave!!
+
+Adolfo
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #4567289)
+Author    : 3DImpact
+Date      : Jan 13, 2019 at 8:16 AM
+────────────────────────────────────────────────────────────────────────
+
+Oh, I'm going to be watching this! I always loved that Joe Johnston sketch and design. Great choice for a project!
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #4567301)
+Author    : Jkirkon
+Date      : Jan 13, 2019 at 8:45 AM
+────────────────────────────────────────────────────────────────────────
+
+Subscribed to this. 
+
+I love watching, and learning from guys like you, Dave. This is a fantastic subject to build!
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #4567321)
+Author    : joberg
+Date      : Jan 13, 2019 at 9:30 AM
+────────────────────────────────────────────────────────────────────────
+
+Oh boy...Dave is at it again
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ No need to say that it'll be a great build/tuto for everyone here (I'll take detailed notes Dave
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+).
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #4567404)
+Author    : moffeaton
+Date      : Jan 13, 2019 at 1:19 PM
+Reactions : Like — BajaTym, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+I LOVE this! I was, funny enough, playing around with this last year, before things "clicked" for me in Rhino.
+
+This is as far as I got at the time. Needless to say, I like yours better 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: https://www.therpf.com/forums/attachments/screen-shot-2019-01-13-at-4-18-09-pm-png.976926/]
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #4567450)
+Author    : DaveG
+Date      : Jan 13, 2019 at 3:14 PM
+Reactions : Like — foj3000, incrediblefruit, tdb68
+────────────────────────────────────────────────────────────────────────
+
+Thanks Jason! Mine went through a lot of iterations before it got to where you see it. One of the challenges is to interpret the sketch which has a lot of built in wide angle distortion. Working out proportions that are pleasing to the eye and look good from a variety of angles. I like to think this would be the same process the model makers would have gone through in developing the designs, albeit with pencil and paper on a drafting board!
+
+I got a bit more done today on the structural components. The side plates were milled out of acrylic using the CNC.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1985-jpg.977000/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1997-jpg.977001/]
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #4567496)
+Author    : Toxcedo
+Date      : Jan 13, 2019 at 5:45 PM
+────────────────────────────────────────────────────────────────────────
+
+Just saw a guy that just finished the same project? Have you seen it? Rossi replicas.
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #4567516)
+Author    : Studio Kitbash
+Date      : Jan 13, 2019 at 6:46 PM
+────────────────────────────────────────────────────────────────────────
+
+Oh crap, there he goes again....
+
+Why do I feel like I'm about to voluntarily and happily part with hundreds of dollars in order to participate in some of this magic???
+
+Please tell me you are NOT going to make these files publicly available, NOT sell nurnies to dress it up, NOT sell complete armatures, and otherwise NOT offer me further temptation to the already distressingly addictive Y-Wing project of 2016 that continues to eat up large swathes of both my wallet and imagination.  
+
+And whatever you do, Dave, do NOT make so-perfect-you-can't-resist-them Tree Ornaments out of them next year... cuz you know I'll buy it.
+
+When DaveG opens up a new build thread is the time I am most often quoting Oscar Wilde:  "I can resist anything except temptation."
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #4567524)
+Author    : TazMan2000
+Date      : Jan 13, 2019 at 7:03 PM
+────────────────────────────────────────────────────────────────────────
+
+I'm glad you made the side engine plates trapezoidal. They look much better that way.
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #4567550)
+Author    : DaveG
+Date      : Jan 13, 2019 at 8:59 PM
+────────────────────────────────────────────────────────────────────────
+
+Toxcedo said:
+
+			Just saw a guy that just finished the same project? Have you seen it? Rossi replicas.
+		
+
+Click to expand...
+
+I know of a couple of 3 engine blockade runner projects but I've not actually seen them, nor do I want to until I've finished mine. Don't want to be influenced by other versions.
+
+SK - I'm not planning to make this an open source project... but a Christmas ornament... who knows!
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #4567944)
+Author    : monsterpartyhat
+Date      : Jan 14, 2019 at 5:57 PM
+────────────────────────────────────────────────────────────────────────
+
+Toxcedo said:
+
+			Just saw a guy that just finished the same project? Have you seen it? Rossi replicas.
+		
+
+Click to expand...
+
+It's not the same project -- different drawing for inspiration, different # of engines, and his is a modification of the Randy Cooper Corellian gunship model, not a full scratch build. Cool stuff, but pretty different 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+.
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #4568034)
+Author    : Dimitri-Ajith
+Date      : Jan 14, 2019 at 11:53 PM
+────────────────────────────────────────────────────────────────────────
+
+Subscribed!
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #4570617)
+Author    : DaveG
+Date      : Jan 21, 2019 at 8:19 AM
+Reactions : Like — masterjedi322, foj3000, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+There's a new toy in my shop! A Formlabs Form 2 SLA 3D printer! I'm very excited to put it to use on this project.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2060-jpg.979907/]
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #4570630)
+Author    : acesh007
+Date      : Jan 21, 2019 at 8:45 AM
+────────────────────────────────────────────────────────────────────────
+
+Great looking start and Im a bit jealous on the Form2.
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #4570744)
+Author    : DaveG
+Date      : Jan 21, 2019 at 12:31 PM
+Reactions : Like — foj3000, incrediblefruit, BajaTym
+────────────────────────────────────────────────────────────────────────
+
+First couple of 3d printed parts off the Form2. The two part trapezoidal shroud that goes on the front of the engine section.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2100-jpg.980012/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2101-jpg.980013/]
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #4570965)
+Author    : DaveG
+Date      : Jan 21, 2019 at 8:12 PM
+Reactions : Like — foj3000, incrediblefruit, tdb68
+────────────────────────────────────────────────────────────────────────
+
+3D printed conical sections that connect to a section of EMA/Plastruct tubing and then slip over the main acrylic tube structure. On these parts I've replicated to look of the .030" styrene plating I'll be adding to the tube sections.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2102-jpg.980201/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2103-jpg.980202/]
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #4572616)
+Author    : sgtfury4017
+Date      : Jan 25, 2019 at 4:00 PM
+────────────────────────────────────────────────────────────────────────
+
+Those printed parts are pretty awesome! Great work as always!
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #4573819)
+Author    : joberg
+Date      : Jan 28, 2019 at 4:51 PM
+────────────────────────────────────────────────────────────────────────
+
+Beauty and more beauty Dave
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #4576007)
+Author    : DaveG
+Date      : Feb 2, 2019 at 1:08 PM
+Reactions : Like — foj3000, incrediblefruit, greeble_gremlin
+────────────────────────────────────────────────────────────────────────
+
+Here's the armature hub for mounting the model. I machined the hub out of 2" diameter aluminum bar stock. It has a 3/4" cross drilled hole with keyway for the mounting rod. I plan to display the model using a side mount only so I didn't bother with a top/bottom hole or front and back. There are also some small holes running through the length of the block for wiring.
+
+The block was machined with recessed areas and was inserted into the fuselage tubing and carefully aligned. A two part adhesive was injected through pre-drill holes in the acrylic tube into the recesses between the aluminum and the inside of the tube. Once set the block is not going anywhere!
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3080-jpg.984761/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3086-jpg.984762/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3087-jpg.984763/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3092-jpg.984764/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3096-jpg.984765/]
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #4576020)
+Author    : DaddyfromNaboo
+Date      : Feb 2, 2019 at 1:42 PM
+────────────────────────────────────────────────────────────────────────
+
+I am stunned by the quality of those prints! Granted, still a pricey tool, but a tenth of what a printer with a comparable output quality would have cost a few years back!
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #4576022)
+Author    : star-art
+Date      : Feb 2, 2019 at 1:47 PM
+────────────────────────────────────────────────────────────────────────
+
+That looks amazing! What I worry about when combining acrylic and metal parts like this is the possibility the metal can expand/contract at a greater rate than the acrylic and cause it to crack (this has happened to me before). I've tried to find different ways to create a sort of "buffer" zone to allow for expansion and contraction of the metal relative to the acrylic.
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #4576039)
+Author    : DaveG
+Date      : Feb 2, 2019 at 2:20 PM
+────────────────────────────────────────────────────────────────────────
+
+star-art said:
+
+			That looks amazing! What I worry about when combining acrylic and metal parts like this is the possibility the metal can expand/contract at a greater rate than the acrylic and cause it to crack (this has happened to me before). I've tried to find different ways to create a sort of "buffer" zone to allow for expansion and contraction of the metal relative to the acrylic.
+		
+
+Click to expand...
+
+That's a valid point but I'm not all that concerned about differential expansion problems. That area gets covered by large tubes and there will a fair amount of styrene plating as well. I seriously doubt there would ever be a catastrophic failure. Worse case, maybe a crack or two in the tube might be visible. Battle damage!
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #4576041)
+Author    : DaveG
+Date      : Feb 2, 2019 at 2:23 PM
+Reactions : Like — moffeaton, Mike J.
+────────────────────────────────────────────────────────────────────────
+
+DaddyfromNaboo said:
+
+			I am stunned by the quality of those prints! Granted, still a pricey tool, but a tenth of what a printer with a comparable output quality would have cost a few years back!
+		
+
+Click to expand...
+
+yes. I'm blown away by the quality of the prints at what works out to about 1/8 the cost of Shapeway's highest detail plastic. What sold me was seeing Jason Eaton's stunning concept Y Wing parts in person last year.
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #4576088)
+Author    : OTnROTSfan
+Date      : Feb 2, 2019 at 4:36 PM
+────────────────────────────────────────────────────────────────────────
+
+Stunning prints.  Played with the Form2 a bit at CES (they had a whole wall of them... wanted to just carry one off, lol).  Starting to see these are pretty darn worth it, I think, the more and more I see actual prints from folks using them.  That's a pretty good savings rate, too.  Project looks awesome!
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #4576133)
+Author    : DaveG
+Date      : Feb 2, 2019 at 6:01 PM
+Reactions : Like — foj3000, incrediblefruit, BajaTym
+────────────────────────────────────────────────────────────────────────
+
+This is a great picture because of what it represents. True multi-tech/multi-media 21st Century modelmaking! A combination of CNC cut acrylic, 3D printing and styrene panels cut with a Silhouette Cameo. And later there will be the addition of some resin castings of vintage kit parts. The best of all worlds!
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_4808-jpg.984853/]
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #4576450)
+Author    : DaveG
+Date      : Feb 3, 2019 at 2:48 PM
+Reactions : Like — foj3000, incrediblefruit, BajaTym
+────────────────────────────────────────────────────────────────────────
+
+More 3d printed parts, 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2195-jpg.985422/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2196-jpg.985423/]
+────────────────────────────────────────────────────────────────────────
+Post #28  (forum post #4580459)
+Author    : DaveG
+Date      : Feb 12, 2019 at 8:48 AM
+Reactions : Like — foj3000, mknorr, incrediblefruit
+────────────────────────────────────────────────────────────────────────
+
+Getting into the fun part... Styrene plating and nernieing!
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_4825a-jpg.988941/]
+────────────────────────────────────────────────────────────────────────
+Post #29  (forum post #4580516)
+Author    : Duncanator
+Date      : Feb 12, 2019 at 10:16 AM
+Reactions : Like — Richard Baker
+────────────────────────────────────────────────────────────────────────
+
+DaveG said:
+
+			This is a great picture because of what it represents. True multi-tech/multi-media 21st Century modelmaking! A combination of CNC cut acrylic, 3D printing and styrene panels cut with a Silhouette Cameo. And later there will be the addition of some resin castings of vintage kit parts. The best of all worlds!
+
+View attachment 984853
+
+Click to expand...
+
+Right on! That's the way it should be done! Using the right technique/tool for the each part.
+────────────────────────────────────────────────────────────────────────
+Post #30  (forum post #4580598)
+Author    : Flixen
+Date      : Feb 12, 2019 at 2:03 PM
+────────────────────────────────────────────────────────────────────────
+
+DaveG said:
+
+			Getting into the fun part... Styrene plating and nernieing!
+
+View attachment 988941
+
+Click to expand...
+
+Looking food!
+
+I love the kit parts layout
+────────────────────────────────────────────────────────────────────────
+Post #31  (forum post #4580630)
+Author    : Studio Kitbash
+Date      : Feb 12, 2019 at 2:58 PM
+────────────────────────────────────────────────────────────────────────
+
+Love the use of the "universal greeblie" three times on the lower section from the Anzio Annie that was used liberally "like pepper" on the ILM models.
+
+Dave, do you have a recommendation between Silhouette Cameo vs the Cricut machine?  Cameo looks cheaper, but also looks "flimsier" while Cricut says it can handle heavier/thicker card/stock materials -- I'm asking because the ONLY use I would put either one to is the same as you've shown - the cutting of template pieces no thicker than .030" styrene plating.  Are you happy with the Cameo?  Or do you wish you'd splurged and gotten the Cricut?  I'm on the cusp of one or the other, and would value your suggestion or your overall review of the Cameo's strengths and weaknesses.
+────────────────────────────────────────────────────────────────────────
+Post #32  (forum post #4580650)
+Author    : DaveG
+Date      : Feb 12, 2019 at 3:24 PM
+Reactions : Like — foj3000, Studio Kitbash
+────────────────────────────────────────────────────────────────────────
+
+You mean the "Universal Nernie?" 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+I've only been working with the Cameo for a little while now and have not really put it through it's paces. Also I do not have any hands-on experience with the Cricut so I can't speak to that. Looking at the specs, neither machine is going to cut all the way through .030" styrene. It's not a function of cutting range, on both the range is adequate, it's knife pressure, and both are similar in that spec.The machine basically scores the material and then you go back over with a razor and snap. That was expected. Styrene is a really dense material. I know from reading some of the model railroading forums the guys are having good success cutting all the way through .010 and .020 styrene. I have a friend who has the Cameo and loved it. And the price difference is a big factor, the Cricut being almost twice as much money. I did find a couple of comparison videos on YouTube between the two machines and they tended to lean slightly to the Cameo, though they were not cutting styrene and the differences were pretty minor. It's also not entirely clear if the Cricut can be used without paying a yearly subscription fee for their cloud based access, but I could be wrong there.
+
+So far I am happy with the Cameo.
+
+Graphtec (who make professional vinyl cutters) make a cutting knife that works in the Cameo and I've gotten better results, deeper cuts, using that.
+
+With either machine you will need to be able to draw vector artwork using a CAD or graphics program. I use Rhino and Adobe Illustrator.
+────────────────────────────────────────────────────────────────────────
+Post #33  (forum post #4580662)
+Author    : TazMan2000
+Date      : Feb 12, 2019 at 3:45 PM
+────────────────────────────────────────────────────────────────────────
+
+You can import bitmap drawings (at least for the Cameo) and use the trace feature, but the software is interpreting the chunkiness of the curves, so you better use a higher resolution bitmap.  Vector is better.
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #34  (forum post #4580670)
+Author    : DaveG
+Date      : Feb 12, 2019 at 4:02 PM
+────────────────────────────────────────────────────────────────────────
+
+yes, if you're going to do any kind of precision cutting, especially that will need to fit up against other parts, you'll need to use a CAD or other 2d drawing program. Keep in mind that these machines are really intended for "crafters" and precision modelmaking is stretching their capabilities a bit. But that said, it's a nice tool to have. I am also looking forward to using them to cut paint stencils.
+────────────────────────────────────────────────────────────────────────
+Post #35  (forum post #4580804)
+Author    : 3Dsf
+Date      : Feb 13, 2019 at 12:33 AM
+Reactions : Like — Flixen
+────────────────────────────────────────────────────────────────────────
+
+The only thing about the “universal greebly” is that I’m not at all sure they used it on ANH. Didn’t it come later? Certainly the five foot Falcon didn’t use it.
+────────────────────────────────────────────────────────────────────────
+Post #36  (forum post #4580824)
+Author    : moffeaton
+Date      : Feb 13, 2019 at 4:46 AM
+────────────────────────────────────────────────────────────────────────
+
+It came right after, starting with MCA57 Galactica builds.
+────────────────────────────────────────────────────────────────────────
+Post #37  (forum post #4580996)
+Author    : 3Dsf
+Date      : Feb 13, 2019 at 12:08 PM
+────────────────────────────────────────────────────────────────────────
+
+Cool, thanks! Most of my interest has been with ANH, and I'd never seen that greebly crawling around anywhere...
+────────────────────────────────────────────────────────────────────────
+Post #38  (forum post #4581076)
+Author    : DaveG
+Date      : Feb 13, 2019 at 3:08 PM
+Reactions : Like — foj3000, BajaTym, tdb68
+────────────────────────────────────────────────────────────────────────
+
+Roughed in to full length now.
+
+ 
+
+Attachments
+
+[IMAGE: 631836-9612a19e8244838eecd95a582a073d65.jpg]
+
+IMG_4829.JPG
+
+					1.7 MB
+					
+					· Views: 397
+────────────────────────────────────────────────────────────────────────
+Post #39  (forum post #4581240)
+Author    : monsterpartyhat
+Date      : Feb 14, 2019 at 12:19 AM
+Reactions : Like — LadyFerry, DaveG
+────────────────────────────────────────────────────────────────────────
+
+DaveG said:
+
+			It's also not entirely clear if the Cricut can be used without paying a yearly subscription fee for their cloud based access, but I could be wrong there.
+		
+
+Click to expand...
+
+You can use it to cut anything you create without any subscription - the subscription is just for a lot of pre-supplied artwork, most of which looks like you'd expect to find all over Etsy.... I build my patterns in SketchUp and export directly to SVG from there, which can be imported directly into Cricut's software. 
+
+Really nice work on this model! I love seeing the combination of techniques you're using here.
+────────────────────────────────────────────────────────────────────────
+Post #40  (forum post #4581572)
+Author    : joberg
+Date      : Feb 14, 2019 at 4:31 PM
+────────────────────────────────────────────────────────────────────────
+
+Great work Dave
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ Cannot wait to see how you're gonna dress that one
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #41  (forum post #4582497)
+Author    : DaveG
+Date      : Feb 17, 2019 at 6:49 AM
+Reactions : Like — foj3000, tdb68, BajaTym
+────────────────────────────────────────────────────────────────────────
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3099-jpg.990390/]
+
+ Overall length massed up.
+────────────────────────────────────────────────────────────────────────
+Post #42  (forum post #4582568)
+Author    : joberg
+Date      : Feb 17, 2019 at 10:30 AM
+────────────────────────────────────────────────────────────────────────
+
+Looking very spiffy so far
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #43  (forum post #4583588)
+Author    : Vacformedhero
+Date      : Feb 19, 2019 at 3:37 PM
+────────────────────────────────────────────────────────────────────────
+
+DaveG said:
+
+			3D printed conical sections that connect to a section of EMA/Plastruct tubing and then slip over the main acrylic tube structure. On these parts I've replicated to look of the .030" styrene plating I'll be adding to the tube sections.
+
+View attachment 980201
+
+View attachment 980202
+
+Click to expand...
+
+Very Very clean , good luck
+────────────────────────────────────────────────────────────────────────
+Post #44  (forum post #4585066)
+Author    : DaveG
+Date      : Feb 23, 2019 at 9:18 AM
+Reactions : Like — foj3000, BajaTym, tdb68
+────────────────────────────────────────────────────────────────────────
+
+A by-product of this project is expanding my digital Nernies library. Modeling the parts in Rhino for 3D printing as needed. Here is a partial sample:
+
+[IMAGE: https://www.therpf.com/forums/attachments/digital-nernie-library-190223-png.992765/]
+────────────────────────────────────────────────────────────────────────
+Post #45  (forum post #4585068)
+Author    : DaveG
+Date      : Feb 23, 2019 at 9:19 AM
+Reactions : Like — foj3000, modelerdave, BajaTym
+────────────────────────────────────────────────────────────────────────
+
+Finished the styrene plating on the main hull...
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3115-jpg.992766/]
+────────────────────────────────────────────────────────────────────────
+Post #46  (forum post #4585535)
+Author    : joberg
+Date      : Feb 24, 2019 at 1:40 PM
+────────────────────────────────────────────────────────────────────────
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ Going fast Dave!!  Beautiful for sure...and, btw, one cannot have too much greeblies
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #47  (forum post #4585616)
+Author    : DaveG
+Date      : Feb 24, 2019 at 4:14 PM
+Reactions : Like — foj3000, BajaTym, greeble_gremlin
+────────────────────────────────────────────────────────────────────────
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2300-jpg.993172/]
+────────────────────────────────────────────────────────────────────────
+Post #48  (forum post #4588270)
+Author    : DaveG
+Date      : Mar 2, 2019 at 3:53 PM
+Reactions : Like, Love — foj3000, BajaTym, canister
+────────────────────────────────────────────────────────────────────────
+
+I've started working on the engines. Here are the engine bases, 3D printed and assembled with some bras rod.
+
+Actually, these are an Easter Egg! Something that the ILM model makers at the time would probably have been inspired by. Any guesses? (Not you Joberg!)
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3134-jpg.995425/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3141-jpg.995426/]
+────────────────────────────────────────────────────────────────────────
+Post #49  (forum post #4588301)
+Author    : David3
+Date      : Mar 2, 2019 at 6:02 PM
+────────────────────────────────────────────────────────────────────────
+
+I know.. I know.. Oooo.. Oooo... Space Station 5, 2001? 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #50  (forum post #4588641)
+Author    : joberg
+Date      : Mar 3, 2019 at 4:20 PM
+Reactions : Like — DaveG
+────────────────────────────────────────────────────────────────────────
+
+BINGO David3
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ Sorry Dave; couldn't help myself...great to see those on your model!!
+────────────────────────────────────────────────────────────────────────
+Post #51  (forum post #4591903)
+Author    : DaveG
+Date      : Mar 11, 2019 at 12:51 PM
+Reactions : Like — foj3000, BajaTym, canister
+────────────────────────────────────────────────────────────────────────
+
+Finished 3d printing the engines!
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3147-jpg.998885/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3151-jpg.998886/]
+────────────────────────────────────────────────────────────────────────
+Post #52  (forum post #4597665)
+Author    : DaveG
+Date      : Mar 26, 2019 at 1:57 PM
+Reactions : Like — foj3000, CosmicQuest, BajaTym
+────────────────────────────────────────────────────────────────────────
+
+More nernie details...
+
+[IMAGE: https://www.therpf.com/forums/attachments/d2dsoybuyaayexd-jpg.1003997/]
+────────────────────────────────────────────────────────────────────────
+Post #53  (forum post #4597741)
+Author    : t2sides
+Date      : Mar 26, 2019 at 6:37 PM
+────────────────────────────────────────────────────────────────────────
+
+WOW!!!  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+   Like Seriously.... WOW!!!!!!!!!!!!    This is looking INCREDIBLE Dave!!  What I really like is it's going to be a one-of-a-kind, and you are certainly nailing the look!   I just keep going back and looking at those engines!!  
+
+Sean
+────────────────────────────────────────────────────────────────────────
+Post #54  (forum post #4597830)
+Author    : DaddyfromNaboo
+Date      : Mar 27, 2019 at 1:25 AM
+────────────────────────────────────────────────────────────────────────
+
+Now where is that text block that I usually copy and paste into a reply in a thread like this...
+
+... oh wait, there is none because of the AWESOMENESS of this !!!
+
+The crispness of the details in those prints really, really amazes me.
+────────────────────────────────────────────────────────────────────────
+Post #55  (forum post #4598261)
+Author    : Mark2000
+Date      : Mar 28, 2019 at 3:02 AM
+────────────────────────────────────────────────────────────────────────
+
+What printer are you using to print the larger parts? Is it also the Form2?
+────────────────────────────────────────────────────────────────────────
+Post #56  (forum post #4598297)
+Author    : DaveG
+Date      : Mar 28, 2019 at 5:55 AM
+────────────────────────────────────────────────────────────────────────
+
+Yes, everything is printed on the Form2.
+────────────────────────────────────────────────────────────────────────
+Post #57  (forum post #4598492)
+Author    : joberg
+Date      : Mar 28, 2019 at 2:08 PM
+Reactions : Like — CosmicQuest
+────────────────────────────────────────────────────────────────────────
+
+Greeblies Central: love it...a lot
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #58  (forum post #4598533)
+Author    : Dimitri-Ajith
+Date      : Mar 28, 2019 at 3:39 PM
+────────────────────────────────────────────────────────────────────────
+
+Always so inspired by your builds Dave! Awesome...
+────────────────────────────────────────────────────────────────────────
+Post #59  (forum post #4604762)
+Author    : LadyFerry
+Date      : Apr 13, 2019 at 2:56 PM
+────────────────────────────────────────────────────────────────────────
+
+Any new updates on this terrific build?
+────────────────────────────────────────────────────────────────────────
+Post #60  (forum post #4604799)
+Author    : DaveG
+Date      : Apr 13, 2019 at 3:52 PM
+Reactions : Like — LadyFerry
+────────────────────────────────────────────────────────────────────────
+
+I haven’t had the time to work on it fir a couple of weeks but hoping to get back on it tomorrow. Thanks!
+────────────────────────────────────────────────────────────────────────
+Post #61  (forum post #4607219)
+Author    : LadyFerry
+Date      : Apr 18, 2019 at 2:44 PM
+────────────────────────────────────────────────────────────────────────
+
+DaveG said:
+
+			I haven’t had the time to work on it fir a couple of weeks but hoping to get back on it tomorrow. Thanks!
+		
+
+Click to expand...
+
+This build makes me very excited, I always look forward to your amazing updates!
+────────────────────────────────────────────────────────────────────────
+Post #62  (forum post #4640783)
+Author    : DaveG
+Date      : Jul 16, 2019 at 1:32 PM
+Reactions : Like — foj3000, BajaTym, mugatu
+────────────────────────────────────────────────────────────────────────
+
+Some detail work, laser canons (both 3D printed and kit bashed) and the antenna. The Ball Turret was modeled after the belly gun on the B-17 bomber from WW!!.
+		
+		
+	
+
+	
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2694-jpg.1039008/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/antenna-jpg.1039012/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/ball-turret-jpg.1039013/]
+────────────────────────────────────────────────────────────────────────
+Post #63  (forum post #4640787)
+Author    : DaveG
+Date      : Jul 16, 2019 at 1:35 PM
+Reactions : Like, Love, Wow — foj3000, modelerdave, EddieA
+────────────────────────────────────────────────────────────────────────
+
+Primer!
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2966-jpg.1039015/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2969-jpg.1039017/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2970-jpg.1039018/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2973-jpg.1039020/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2971-jpg.1039019/]
+────────────────────────────────────────────────────────────────────────
+Post #64  (forum post #4641039)
+Author    : SofaKing01
+Date      : Jul 17, 2019 at 7:01 AM
+────────────────────────────────────────────────────────────────────────
+
+Absolutely mind blowing!  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #65  (forum post #4641086)
+Author    : Billy Pilgrim
+Date      : Jul 17, 2019 at 9:32 AM
+────────────────────────────────────────────────────────────────────────
+
+Amazing!  Can't wait to see those engines attached!!
+────────────────────────────────────────────────────────────────────────
+Post #66  (forum post #4641087)
+Author    : 3DImpact
+Date      : Jul 17, 2019 at 9:34 AM
+────────────────────────────────────────────────────────────────────────
+
+Beautiful! I'm very much enjoying watching the progress on this!
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #67  (forum post #4641093)
+Author    : moffeaton
+Date      : Jul 17, 2019 at 9:49 AM
+────────────────────────────────────────────────────────────────────────
+
+YES this is GREAT!
+────────────────────────────────────────────────────────────────────────
+Post #68  (forum post #4641095)
+Author    : SteveStarkiller
+Date      : Jul 17, 2019 at 9:53 AM
+────────────────────────────────────────────────────────────────────────
+
+Oh man, this is a great build. I love the greebles going into this
+────────────────────────────────────────────────────────────────────────
+Post #69  (forum post #4642792)
+Author    : dubbyse
+Date      : Jul 21, 2019 at 2:10 PM
+────────────────────────────────────────────────────────────────────────
+
+Amazing to see it starting to come together.
+
+Just wondering if you have to do any post printing sanding on the form2 prints or are you using them right off the print bed?
+────────────────────────────────────────────────────────────────────────
+Post #70  (forum post #4642975)
+Author    : SofaKing01
+Date      : Jul 22, 2019 at 5:20 AM
+Reactions : Like — DaveG
+────────────────────────────────────────────────────────────────────────
+
+WHOOPS... I "Unliked" thinking I hadn't "Liked" when in fact I actually do "Like"... But I pressed "Like" again... Like ya know!
+────────────────────────────────────────────────────────────────────────
+Post #71  (forum post #4643133)
+Author    : DaveG
+Date      : Jul 22, 2019 at 11:44 AM
+Reactions : Like — BajaTym, dubbyse
+────────────────────────────────────────────────────────────────────────
+
+For the most part the Form 2 prints are pretty much primed straight off the printer, except for cleaning the points where the supports touched.
+────────────────────────────────────────────────────────────────────────
+Post #72  (forum post #4644121)
+Author    : joberg
+Date      : Jul 24, 2019 at 4:54 PM
+────────────────────────────────────────────────────────────────────────
+
+Fantastic as always Dave...love the 2001 Space Station greeblies attached to those mighty engines 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #73  (forum post #4645172)
+Author    : Duncanator
+Date      : Jul 27, 2019 at 9:25 PM
+────────────────────────────────────────────────────────────────────────
+
+Great job , as always! 
+
+I really like how you extended the line from the diagonal neck fins down the panelling toward the cockpit.
+
+Keep 'em coming, Dave!
+────────────────────────────────────────────────────────────────────────
+Post #74  (forum post #4651817)
+Author    : BajaTym
+Date      : Aug 15, 2019 at 8:15 PM
+Reactions : Like — Pepperbone
+────────────────────────────────────────────────────────────────────────
+
+This build is breathtaking! I’m impressed beyond words and very much looking forward to your future posts. Thank you for sharing your skills!
+────────────────────────────────────────────────────────────────────────
+Post #75  (forum post #4664243)
+Author    : DaveG
+Date      : Sep 16, 2019 at 2:04 PM
+Reactions : Like, Love — foj3000, mugatu, tdb68
+────────────────────────────────────────────────────────────────────────
+
+It's finally cooling down enough to get some base painting done. A very light grey with some darker grey and red panels. It looks clean now but it won't end up that way! I used water based Tamiya Acrylic paints for this, then the weathering will be mostly done with oil-based artist's paints.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6309-jpg.1059698/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6311-jpg.1059699/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6313-jpg.1059700/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6315-jpg.1059702/]
+────────────────────────────────────────────────────────────────────────
+Post #76  (forum post #4664293)
+Author    : joberg
+Date      : Sep 16, 2019 at 4:44 PM
+────────────────────────────────────────────────────────────────────────
+
+Very nice; the gray really thighs it all together!  Eager to see your magic on the weathering part of the project 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #77  (forum post #4664380)
+Author    : DaveG
+Date      : Sep 16, 2019 at 9:39 PM
+Reactions : Like, Love — foj3000, mugatu, tdb68
+────────────────────────────────────────────────────────────────────────
+
+I love grip equipment. Makes the most flexible , secure model stands!
+
+[IMAGE: https://www.therpf.com/forums/attachments/9a60b387-0a5e-4ea9-9bba-6aedddb7793a-jpeg.1059821/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/081d43d8-5f6c-4df5-862b-632698fa05f3-jpeg.1059822/]
+────────────────────────────────────────────────────────────────────────
+Post #78  (forum post #4664400)
+Author    : swgeek
+Date      : Sep 16, 2019 at 11:51 PM
+────────────────────────────────────────────────────────────────────────
+
+And you even got the knuckle right. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Looking great, can't wait to see it weathered.
+────────────────────────────────────────────────────────────────────────
+Post #79  (forum post #4664402)
+Author    : canister
+Date      : Sep 17, 2019 at 12:18 AM
+────────────────────────────────────────────────────────────────────────
+
+Epic work! loving the details and style.
+────────────────────────────────────────────────────────────────────────
+Post #80  (forum post #4664565)
+Author    : Scott Graham
+Date      : Sep 17, 2019 at 10:08 AM
+────────────────────────────────────────────────────────────────────────
+
+This is incredible! I never thought I'd see that JJ sketch come to life!!!!!!!!!
+────────────────────────────────────────────────────────────────────────
+Post #81  (forum post #4664677)
+Author    : Studio Kitbash
+Date      : Sep 17, 2019 at 2:57 PM
+Reactions : Like — BajaTym
+────────────────────────────────────────────────────────────────────────
+
+Awesomeness.
+
+Yeah, DaveG again, here you go again inspiring us to spend way more money than we earn on things we can't afford.  But this is a real beauty, so clean and geometrically flawless as to look constructed in a weight-less environment.  It's a sort of "science-fiction, fictional vehicle" if you will, so really a meta-commentary on the genre, but oh-so-classic and plausible looking.  Love your paint skills, and love how you've perfectly masked and then painted each "off-color" dura-steel panel as an actual panel, and not simply blasted a "rectangle around and including the dura-steel panel" with a gray or red (the way the Millennium Falcon was painted, something that always bugged me).  This way it looks like the junk-yard off-color panel was actually added to the ship in a repair/maintenance session, rather than "painted on" the ship as an afterthought by a rushed film crew.
+
+Can't wait to see how it all comes together with your weathering, and scorch marks, etc.  And I had no idea what a great second life so many of those Y-Wing nurnies have been put to -- it took a few glances before I recognized some of them and said, "Hey, wait, I've seen that greeblie/subassembly before!"
+
+Can you tell us what keywords to use if we want to search on Ebay to find a used set-up of grip equipment?  Can you give us the brand names (Norms?), widths, lengths, etc, that you're using here?  I want them simply to hold my Y-Wings with a 5/8" opening for posing and/or photography, so the more details the better.
+────────────────────────────────────────────────────────────────────────
+Post #82  (forum post #4664920)
+Author    : DaveG
+Date      : Sep 18, 2019 at 8:08 AM
+────────────────────────────────────────────────────────────────────────
+
+The stands are known as Century Stands or C-Stands for short. Common brands are Mole-Richardson, Matthews, Norm's and American. The most common are 3 riser stands with arm and knuckle.
+────────────────────────────────────────────────────────────────────────
+Post #83  (forum post #4666083)
+Author    : DaveG
+Date      : Sep 21, 2019 at 2:38 PM
+Reactions : Like, Love — foj3000, edge10, robn1
+────────────────────────────────────────────────────────────────────────
+
+Now that the base colors are done it's time to start in on weathering. The first thing was to go back and over spray the base grey over the grey and red panels here and there to fade them a bit and make them less uniform. Then the first weathering wash. I use oil base artist's paint for my washes since they flow out nicely, have a long working time and can be removed to some extent with paint thinner (more on that in a sec). I mixed up a very thin wash of paint thinner with Mars black and a touch of burnt umber to get an oily black tone. Before applying the wash I wet down the entire model with clean paint thinner, this helps the wash to flow and lessens the "staining" effect. Then a liberal application of the wash all over the model from one end to the other. Because this model is fairly large, I probably would have been better off to work a section at a time. The wash stained a bit more than I would have liked towards the aft end of the model where it was on the longest before being wiped down.
+
+I wiped down the entire model with a clean rag moistened with paint thinner, trying to remove as much of the wash as possible but leaving it in the nooks and crannies. I also like to brush on clean paint thinner in spots to "mop up" the wash and get a cleaner look. This was when the paint thinner ran out!
+
+Yikes! A quick run to the local hardware store only to discover "Sorry, no more Paint thinner, it's now banned in California. But we have this stuff 'General Purpose Thinner', it's just as good". Wrong!
+
+I got back to the shop moistened a rag with the new "just as good" GP Thinner, took one swipe on a section of the model... and the s**t cut through the wash,the base paint and the primer, all the way down to the plastic! Turns out when you read the label closely General Purpose Thinner is mostly Acetone, which will pretty much dissolve anything! Fortunately my lovely wife, who is an oil painter, had some Gamasol which is an odorless Mineral Spirits and it works pretty well for thinning the washes.
+
+But as a result the wash is a little darker and blotchier than I would have liked, but that's okay. Weathering is an organic process and never seems to come out the same way twice. I will be going over the model with more spot washes and dry brushing so that will help to soften the look of the first wash a little.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6399-jpg.1061060/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6400-jpg.1061061/]
+────────────────────────────────────────────────────────────────────────
+Post #84  (forum post #4666336)
+Author    : DaveG
+Date      : Sep 22, 2019 at 12:00 PM
+Reactions : Like — BajaTym, stevielewis, canister
+────────────────────────────────────────────────────────────────────────
+
+Special thanks to SWGeek who tipped me off to a local Home Center that still had Paint Thinner! I’m set for a few years now!
+
+[IMAGE: https://www.therpf.com/forums/attachments/ec54d185-381a-4d5d-8c81-d5e80f8f40a5-jpeg.1061429/]
+────────────────────────────────────────────────────────────────────────
+Post #85  (forum post #4666411)
+Author    : DaveG
+Date      : Sep 22, 2019 at 4:48 PM
+Reactions : Like, Love — foj3000, CosmicQuest, edge10
+────────────────────────────────────────────────────────────────────────
+
+Painting and weathering the engines! The flanged base and nozzle cone got the same base grey and wash as the rest of the ship. I wanted the center section of the engines to have a unique look, I saw it as some sort of hyperdrive reactor. I sprayed various light coats of Vallejo acrylic metallics to get a variegated metal look, then applied the same oil based wash to darken the recesses.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6412-jpg.1061504/]
+
+Once the wash was dry I went back over the engine cores with a dry brushing of oil based silver, pewter and bronze metallics. I've tried to capture it here in a photo but it looks rather flat compared to what it looks like to the eye(s). That's partially because our two eyes see slightly different reflections from the bits of metallic paint which gives it a sort of visual shimmer which a non-stereo photo just can't duplicate.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6419-jpg.1061505/]
+
+To the inside and back of the nozzle cones I airbrushed darker metallics to give a burnt metal look. Once everything was dry I could finally assemble the engines to the ship along with the ducting and other tube details. I'm really happy with how these came out. There will be more weathering added to tie everything together a bit more. The engine nozzles are removable so I can add LED lighting.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6423-jpg.1061506/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6426-jpg.1061507/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6428-jpg.1061508/]
+────────────────────────────────────────────────────────────────────────
+Post #86  (forum post #4666508)
+Author    : moffeaton
+Date      : Sep 23, 2019 at 4:10 AM
+────────────────────────────────────────────────────────────────────────
+
+I hope I can see this in November! Fantastic!
+────────────────────────────────────────────────────────────────────────
+Post #87  (forum post #4666704)
+Author    : BajaTym
+Date      : Sep 23, 2019 at 3:10 PM
+────────────────────────────────────────────────────────────────────────
+
+This build is epic. I’m just blown away, your skills are disgusting! I can’t stop looking at this thread... over... and over... and over... lol!
+
+Im sorry if you already answered this, but what are you using for all of the external plumbing and pipes?
+────────────────────────────────────────────────────────────────────────
+Post #88  (forum post #4666735)
+Author    : swgeek
+Date      : Sep 23, 2019 at 5:07 PM
+────────────────────────────────────────────────────────────────────────
+
+DaveG said:
+
+			Special thanks to SWGeek who tipped me off to a local Home Center that still had Paint Thinner! I’m set for a few years now!
+		
+
+Click to expand...
+
+Hey you got some! You're welcome Dave! I'm loving this build and the paint is looking great. Hope you bring this to the next prop party.
+────────────────────────────────────────────────────────────────────────
+Post #89  (forum post #4667440)
+Author    : joberg
+Date      : Sep 25, 2019 at 4:43 PM
+────────────────────────────────────────────────────────────────────────
+
+Great tuto Dave and great results!!  That model is, again, a beauty for the eyes (and the Soul) 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #90  (forum post #4668847)
+Author    : DaveG
+Date      : Sep 29, 2019 at 5:59 PM
+Reactions : Like, Wow — foj3000, BajaTym
+────────────────────────────────────────────────────────────────────────
+
+The saga of the paint thinner weathering continues... I got all set to do some spot washes with my new found supply of paint thinner. The normal procedure is to pre-wet the area to be weathered with a little clean thinner, then dab in a little oil paint and blend out with more thiner if needed. So I go to pre-wet an area with the new "paint thinner" and BAM! in one swipe it cuts straight through the base paint down to the plastic! WTF?! One of the great things about using acrylic base paints with oil based weathering is that the solvents for the oil paint aren't supposed to cut through the acrylic base. So I read the fine print on the can of paint thiner... CONTAINS ACETONE!
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6451-jpg.1063563/]
+
+ARGH!!!
+
+Fortunately this past week I had also ordered some Gamsol odorless mineral spirits and it worked great, and I learned to check labels more closely! 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6450-jpg.1063564/]
+────────────────────────────────────────────────────────────────────────
+Post #91  (forum post #4668926)
+Author    : swgeek
+Date      : Sep 30, 2019 at 12:02 AM
+────────────────────────────────────────────────────────────────────────
+
+Well dammit Dave! Sorry about that! I didn't think paint thinner would have acetone in it.
+────────────────────────────────────────────────────────────────────────
+Post #92  (forum post #4668997)
+Author    : DaveG
+Date      : Sep 30, 2019 at 8:12 AM
+Reactions : Like — lunadude
+────────────────────────────────────────────────────────────────────────
+
+No worries, my fault for not checking the label. I was a little suspicious they had such a lot of it in stock from quarts to five gallons pails. Glad I didn't buy a fiver!
+────────────────────────────────────────────────────────────────────────
+Post #93  (forum post #4669524)
+Author    : joberg
+Date      : Oct 1, 2019 at 4:26 PM
+────────────────────────────────────────────────────────────────────────
+
+Well, that ship needs some wear and tear and acetone will do that for you...for free Dave 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #94  (forum post #4673535)
+Author    : greeble_gremlin
+Date      : Oct 13, 2019 at 4:55 AM
+────────────────────────────────────────────────────────────────────────
+
+I wants it!
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #95  (forum post #4673536)
+Author    : greeble_gremlin
+Date      : Oct 13, 2019 at 4:58 AM
+────────────────────────────────────────────────────────────────────────
+
+I may have missed, it in the thread... but how long is this beauty?
+
+Really nice job on the choice and placement of the greeblies and nurnies, it's easy to get that wrong , and not look believable.
+
+but you definitely have a good eye for it!
+────────────────────────────────────────────────────────────────────────
+Post #96  (forum post #4673542)
+Author    : greeble_gremlin
+Date      : Oct 13, 2019 at 5:19 AM
+────────────────────────────────────────────────────────────────────────
+
+Sorry to hear about your woes with the Paint thinner.
+
+California is my home state, where I grew up and i miss it ... (the climate stinks here in the Mid-Atlantic region)
+
+but the whole"Nanny-State" business is getting out of hand!
+
+Your a grown, adult; you should be able to decide for yourself -if you want to go down to the store and by paint thinner and keep in your house!
+
+Last time I checked acetone isn't all that healthy for you either 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+I love the treatment on the engines btw!
+────────────────────────────────────────────────────────────────────────
+Post #97  (forum post #4673717)
+Author    : DaveG
+Date      : Oct 13, 2019 at 1:31 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks! The model is 32 inches long, the same length as the Millennium Falcon built for Empire. Seemed like a big enough scale to detail as I'd want, but not so big as to make display and issue.
+
+The issue with Paint thinner is VOCs and the effect on air pollution. Having grown up in Los Angles in the 60s with the really bad air quality I can appreciate restrictions, but it's getting a bit out of hand. California has also now banned Denatured Alcohol!
+────────────────────────────────────────────────────────────────────────
+Post #98  (forum post #4673820)
+Author    : greeble_gremlin
+Date      : Oct 13, 2019 at 9:20 PM
+────────────────────────────────────────────────────────────────────────
+
+I remember the smog, ( in the 70s too)  I could feel it in my lungs when playing in AYSO soccer games at Hollywood Park in Westchester.
+
+I know the air has been a lot better since the 1980s.
+
+Sadly, it seems, when it comes to paints, adhesives, and detergents, the more toxic it is , the better it performs
+
+I also like the Sperry  ball turret, it's  a nice touch!  that's not from that huge Korean(HK), 1/32 B-17 kit is it?
+
+Its cool to spot a lot of those TIE Fighter greeblies scattered here & there.
+────────────────────────────────────────────────────────────────────────
+Post #99  (forum post #4673825)
+Author    : DaveG
+Date      : Oct 13, 2019 at 9:44 PM
+────────────────────────────────────────────────────────────────────────
+
+No, I 3D modeled the ball turret and printed it on the Form 2 3d printer.
+────────────────────────────────────────────────────────────────────────
+Post #100  (forum post #4674522)
+Author    : joberg
+Date      : Oct 15, 2019 at 3:53 PM
+────────────────────────────────────────────────────────────────────────
+
+Great stuff Dave...and you should see the pollution level in North Dakota; a little better than L.A. but not by much.
+────────────────────────────────────────────────────────────────────────
+Post #101  (forum post #4674877)
+Author    : greeble_gremlin
+Date      : Oct 16, 2019 at 2:11 PM
+Reactions : Like — BajaTym, LadyFerry, swgeek
+────────────────────────────────────────────────────────────────────────
+
+more pics???  I'm starting to suffer withdrawal symptoms
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #102  (forum post #4677690)
+Author    : DaveG
+Date      : Oct 23, 2019 at 4:32 PM
+Reactions : Like — stevielewis, mugatu, BajaTym
+────────────────────────────────────────────────────────────────────────
+
+Soon... I'm in the final stages of weathering.
+────────────────────────────────────────────────────────────────────────
+Post #103  (forum post #4681208)
+Author    : t2sides
+Date      : Nov 3, 2019 at 12:14 AM
+Reactions : Like, Love — BajaTym, Bjorn, edge10
+────────────────────────────────────────────────────────────────────────
+
+Had a chance to see this AMAZING build of DaveG’s tonight and get to meet and talk in person!   What a pleasure and this thing is INSANELY MORE INCREDIBLE in person!
+
+Here’s John S, BryanB and I enjoying it!!
+
+Thanks Dave!
+
+Sean
+
+ 
+
+Attachments
+
+[IMAGE: 722698-411155115ea161d59b36cb2158ededa0.jpg]
+
+A62E2E23-8E88-4607-8961-D6F6C32FFCD2.jpeg
+
+					957.6 KB
+					
+					· Views: 565
+────────────────────────────────────────────────────────────────────────
+Post #104  (forum post #4681251)
+Author    : DaveG
+Date      : Nov 3, 2019 at 6:34 AM
+────────────────────────────────────────────────────────────────────────
+
+It was my pleasure to get to share the model with you all, meet and chat!
+────────────────────────────────────────────────────────────────────────
+Post #105  (forum post #4681297)
+Author    : 3DImpact
+Date      : Nov 3, 2019 at 9:00 AM
+────────────────────────────────────────────────────────────────────────
+
+t2sides said:
+
+			Had a chance to see this AMAZING build of DaveG’s tonight and get to meet and talk in person!   What a pleasure and this thing is INSANELY MORE INCREDIBLE in person!
+
+Here’s John S, BryanB and I enjoying it!!
+
+Thanks Dave!
+
+Sean
+		
+
+Click to expand...
+
+Oh man - awesome Sean! Thanks for sharing - like your models I'm sure it's so much more amazing in person!
+
+Beautiful work Dave!
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #106  (forum post #4681867)
+Author    : DaveG
+Date      : Nov 4, 2019 at 9:01 PM
+Reactions : Like, Love — foj3000, tdb68, BajaTym
+────────────────────────────────────────────────────────────────────────
+
+Putting on the final details! Okay this was a staged "making of" photo but you get the idea! Thanks to Moffeaton for the great photo! Finished studio pix coming soon.
+
+[IMAGE: https://www.therpf.com/forums/attachments/74470489_10157722467033156_8979114437822644224_n-jpg.1081060/]
+────────────────────────────────────────────────────────────────────────
+Post #107  (forum post #4687070)
+Author    : greeble_gremlin
+Date      : Nov 20, 2019 at 4:18 AM
+────────────────────────────────────────────────────────────────────────
+
+excellent!
+
+Nice work!
+
+"....That belongs in a Museum!" ;Indiana Jones
+────────────────────────────────────────────────────────────────────────
+Post #108  (forum post #4687284)
+Author    : joberg
+Date      : Nov 20, 2019 at 2:45 PM
+────────────────────────────────────────────────────────────────────────
+
+YES!!  This is one sexy beast 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #109  (forum post #5443272)
+Author    : swgeek
+Date      : Jun 19, 2023 at 9:37 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+DaveG  you ever get finished pictures of this beautiful build?
+────────────────────────────────────────────────────────────────────────
+Post #110  (forum post #5443371)
+Author    : DaveG
+Date      : Jun 20, 2023 at 9:02 AM
+Reactions : Like, Love, Haha — greeble_gremlin, joberg, Bjorn
+────────────────────────────────────────────────────────────────────────
+
+No! It's on my 'need to do' list!
+────────────────────────────────────────────────────────────────────────
+Post #111  (forum post #5444653)
+Author    : publiusr
+Date      : Jun 24, 2023 at 9:36 PM
+────────────────────────────────────────────────────────────────────────
+
+Now for EC Henry to do a Hazegray type video of it.
+
+What might be a great name…”Slip” something?
+────────────────────────────────────────────────────────────────────────
+Post #112  (forum post #5573594)
+Author    : swgeek
+Date      : Sep 23, 2024 at 5:32 PM
+Reactions : Like — joberg, drusselmeyer
+────────────────────────────────────────────────────────────────────────
+
+Where's the finished pictures?
+────────────────────────────────────────────────────────────────────────
+Post #113  (forum post #5573674)
+Author    : DaveG
+Date      : Sep 24, 2024 at 7:43 AM
+Reactions : Like — joberg, Scott Graham, David3
+────────────────────────────────────────────────────────────────────────
+
+Yeah I know, I know! Need to get my act together, dust it off and get some pics!
+────────────────────────────────────────────────────────────────────────
+Post #114  (forum post #5573679)
+Author    : swgeek
+Date      : Sep 24, 2024 at 8:39 AM
+────────────────────────────────────────────────────────────────────────
+
+Uhh...yeah! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #115  (forum post #5646049)
+Author    : DaveG
+Date      : Jul 19, 2025 at 10:28 AM
+Reactions : Sad, Like — publiusr, Scott Graham, joberg
+────────────────────────────────────────────────────────────────────────
+
+It has taken me a while to get to the place where I could write this post. This past January, we lost our home of 27 years in the Altadena Wildfire. My wife Lisa, Albus the Cat and I are fine, and that's all that really matters. Over 9000 families lost their homes  in our little community and the devastation is unfathomable. We lost pretty much everything, including my shop with all my tools, modelmaking molds, supplies, parts and ephemera. This model was also lost.
+
+While most of my model project computer files were also lost, fortunately the files for this project were in the Cloud and I've decided to rebuild it. This was probably the nicest Studio Scale model that I ever built and it would be a shame for it not to exist. 
+
+It will take a while to build, I have a lot of other things to deal with, like rebuilding our home, but stay tuned, I will post progress as I can
+
+DaveG
+────────────────────────────────────────────────────────────────────────
+Post #116  (forum post #5646085)
+Author    : BajaTym
+Date      : Jul 19, 2025 at 1:08 PM
+Reactions : Like — joberg, stevielewis, rustbucket
+────────────────────────────────────────────────────────────────────────
+
+I'm deeply sorry for the profound loss you've endured. It's a relief that your wife and cat are safe...truly, their well-being is what matters most.
+
+Myself, I've encountered many people at the end of their life, none of them placed any importance on material possessions in their final moments. So, IMO, your perspective amidst such devastation is truly admirable.
+
+Thank you for sharing this update. I hope that you're able to rebuild your home and life.
+────────────────────────────────────────────────────────────────────────
+Post #117  (forum post #5646219)
+Author    : swgeek
+Date      : Jul 19, 2025 at 9:25 PM
+Reactions : Like — Searun, joberg, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+Dave, I was so saddened to hear of your loss. Unfortunately, not the only person I know who lost everything. I'm glad that you and your family are okay, but I can't imagine losing everything.
+
+If you need any model parts to mold, let me know.
+────────────────────────────────────────────────────────────────────────
+Post #118  (forum post #5646279)
+Author    : Jaitea
+Date      : Jul 20, 2025 at 4:31 AM
+Reactions : Like — joberg, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+Very sad to see this Dave
+
+J
+────────────────────────────────────────────────────────────────────────
+Post #119  (forum post #5646334)
+Author    : joberg
+Date      : Jul 20, 2025 at 9:13 AM
+────────────────────────────────────────────────────────────────────────
+
+Sorry to hear about your losses Dave
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ I hope you will be able to pivot quickly and regain some sense of normalness in your daily life
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #120  (forum post #5646360)
+Author    : MrRobot
+Date      : Jul 20, 2025 at 10:35 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+DaveG said:
+
+			It has taken me a while to get to the place where I could write this post. This past January, we lost our home of 27 years in the Altadena Wildfire. My wife Lisa, Albus the Cat and I are fine, and that's all that really matters. Over 9000 families lost their homes  in our little community and the devastation is unfathomable. We lost pretty much everything, including my shop with all my tools, modelmaking molds, supplies, parts and ephemera. This model was also lost.
+
+While most of my model project computer files were also lost, fortunately the files for this project were in the Cloud and I've decided to rebuild it. This was probably the nicest Studio Scale model that I ever built and it would be a shame for it not to exist.
+
+It will take a while to build, I have a lot of other things to deal with, like rebuilding our home, but stay tuned, I will post progress as I can
+
+DaveG
+		
+
+Click to expand...
+
+Reading this broke my heart. I'm very sorry to learn this. I must say, I'm looking forward to you taking us on this journey of your build again.
+────────────────────────────────────────────────────────────────────────
+Post #121  (forum post #5646577)
+Author    : DaveG
+Date      : Jul 21, 2025 at 7:58 AM
+Reactions : Like — publiusr, stevielewis, foj3000
+────────────────────────────────────────────────────────────────────────
+
+swgeek said:
+
+			Dave, I was so saddened to hear of your loss. Unfortunately, not the only person I know who lost everything. I'm glad that you and your family are okay, but I can't imagine losing everything.
+
+If you need any model parts to mold, let me know.
+		
+
+Click to expand...
+
+Thank you. In a stroke of luck, I loaned all my nernie mold masters to my friends at Tippet Studios a few years back and they made molds from them for use on the models they were building for The Mandalorean. They had returned my masters, which were lost in the fire along with all my molds, but Tippet still has the molds! So I'll be able to make new nernie masters from them and then new molds.
+────────────────────────────────────────────────────────────────────────
+Post #122  (forum post #5646582)
+Author    : swgeek
+Date      : Jul 21, 2025 at 8:05 AM
+Reactions : Like — stevielewis, Rick Deckard, joberg
+────────────────────────────────────────────────────────────────────────
+
+Well I guess that's one in the plus column. Glad to hear it. Now that you say it, Sean had mentioned something about molding your parts.
+────────────────────────────────────────────────────────────────────────
+Post #123  (forum post #5648890)
+Author    : DaveG
+Date      : Jul 27, 2025 at 6:24 PM
+Reactions : Like, Love — Rick Deckard, BajaTym, joberg
+────────────────────────────────────────────────────────────────────────
+
+I've started the process of reprinting the 3d printed parts. They're being printed on a Formlabs Form 4 printer. The detail (and speed) of that printer are astounding!
+
+ 
+
+Attachments
+
+[IMAGE: 1596473-e80f8f892d830df553ce9d70dfb914f7.jpg]
+
+IMG_5422.JPEG
+
+					810 KB
+					
+					· Views: 85
+					
+				
+
+[IMAGE: 1596474-976832285b625d579cc84188e5eda5c1.jpg]
+
+IMG_5423.JPEG
+
+					704.5 KB
+					
+					· Views: 91
+					
+				
+
+[IMAGE: 1596475-07244bdada90271bf7df17a4634f7ee2.jpg]
+
+IMG_5424.JPEG
+
+					780.9 KB
+					
+					· Views: 92
+────────────────────────────────────────────────────────────────────────
+Post #124  (forum post #5648902)
+Author    : rustbucket
+Date      : Jul 27, 2025 at 6:51 PM
+Reactions : Like — joberg, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+those parts look beautiful !
+────────────────────────────────────────────────────────────────────────
+Post #125  (forum post #5649009)
+Author    : Millenniumf
+Date      : Jul 28, 2025 at 7:33 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+As sad as the loss of the original was (in addition to everything else; my most sincere condolences!), it's amazing to see your perseverance on this project! It's truly an inspiration to me!
+
+Also a real statement on where we are in this hobby where we can restore a build through the wonder that is 3D printing!
+────────────────────────────────────────────────────────────────────────
+Post #126  (forum post #5649036)
+Author    : joberg
+Date      : Jul 28, 2025 at 8:48 AM
+Reactions : Like — stevielewis
+────────────────────────────────────────────────────────────────────────
+
+rustbucket said:
+
+			those parts look beautiful !
+		
+
+Click to expand...
+
+^^
+
+What rustbucket said exactly!!
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #127  (forum post #5649227)
+Author    : rustbucket
+Date      : Jul 28, 2025 at 9:02 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+i straight away went to see what this printer was and the price turned my smile upside down......ahhhh the things dreams are made of.!
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 127

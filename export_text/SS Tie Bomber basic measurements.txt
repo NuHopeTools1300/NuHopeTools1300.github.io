@@ -1,0 +1,1068 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : SS Tie Bomber basic measurements
+URL    : https://www.therpf.com/forums/threads/ss-tie-bomber-basic-measurements.85328/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #1209046)
+Author    : Hammer3246
+Date      : May 3, 2010 at 4:10 PM
+────────────────────────────────────────────────────────────────────────
+
+I've searched the threads and some measurements are different, others don't exist or they are old and links/pictures don't work.  So I though I would start a new one in hope of it keeping current. 
+
+I can't find anything on the section between the two main tubes (before greeblies).
+
+The width of styrene around the solar panels.  -Used 1.5cm, looks right.
+
+Layout of the scribing lines.
+
+How far back to drill the holes for the cross tubes. 
+
+What I have found so far is 
+
+- 2" x 3.5" main tubes
+
+- 3/4" x 9"cross tube
+
+Thats about it, thanks for any help!
+
+Cheers
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #1211837)
+Author    : Hammer3246
+Date      : May 5, 2010 at 8:11 PM
+────────────────────────────────────────────────────────────────────────
+
+Nobody?
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #1211955)
+Author    : swgeek
+Date      : May 5, 2010 at 10:32 PM
+────────────────────────────────────────────────────────────────────────
+
+What I did on my TB was to lay out the kit bashed parts approximately where they go and try and figure sizes that way. Hope that helps.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #1212054)
+Author    : tk1608
+Date      : May 6, 2010 at 3:14 AM
+────────────────────────────────────────────────────────────────────────
+
+If you've got a copy of the chronicals, that's a great help for this..
+
+Phil
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #1212057)
+Author    : tk1608
+Date      : May 6, 2010 at 3:18 AM
+────────────────────────────────────────────────────────────────────────
+
+Sorry, meant to add that the cross tube should be brass tube at 16mm diameter. The 16mm is the inside diameter, so I drilled the fuselage tubes out at 16mm, then sanded it a little bigger, so it was a good tight fit..
+
+Phil
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #1212344)
+Author    : Hammer3246
+Date      : May 6, 2010 at 9:10 AM
+────────────────────────────────────────────────────────────────────────
+
+tk1608 said:
+
+			Sorry, meant to add that the cross tube should be brass tube at 16mm diameter. The 16mm is the inside diameter, so I drilled the fuselage tubes out at 16mm, then sanded it a little bigger, so it was a good tight fit..
+
+Phil
+		
+
+Click to expand...
+
+I have a 16mm id and 18mm od aluminum tube (outside being the important one since a person could use just a solid piece).  I understand there is no "one" set of plans so things will vary somewhat without taking away from the overall look of it.  That being said I'm aiming towards not making something grossly too big or small. 
+
+Other than the Vader Tie and a Saturn, I don't have any other kits at the moment so I am trying to get the frame built while I wait.  I went with 15mm wide strips of Sintra around the wings and it seems to look about right, the center box however is still eluding me.
+
+Cheers
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #1212507)
+Author    : MonsieurTox
+Date      : May 6, 2010 at 11:35 AM
+────────────────────────────────────────────────────────────────────────
+
+Are you sure Phil ? I used 20 mm OD tube on mine because that's what I had but from my calculation, they used a 3/4" tube (19.05 mm) on their model. :confused
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #1212641)
+Author    : swgeek
+Date      : May 6, 2010 at 1:46 PM
+────────────────────────────────────────────────────────────────────────
+
+MonsieurTox said:
+
+			Are you sure Phil ? I used 20 mm OD tube on mine because that's what I had but from my calculation, they used a 3/4" tube (19.05 mm) on their model. :confused
+		
+
+Click to expand...
+
+Yeah I used 3/4" on mine as well. It looks right to me.
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #1212862)
+Author    : MonsieurTox
+Date      : May 6, 2010 at 5:08 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks for the confirmation Jon !
+
+All the other measurements can be found with the help of the kitparts (mainly the middle box) and knowing the diameter if the bodies.
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #1213295)
+Author    : eagle1
+Date      : May 7, 2010 at 5:27 AM
+────────────────────────────────────────────────────────────────────────
+
+tk1608 said:
+
+			If you've got a copy of the chronicals, that's a great help for this..
+
+Phil
+		
+
+Click to expand...
+
+ 
+
+Really this book gives you all that you need, especially the almost perfect 1/1 front view. If you have some of the kit parts then your'e half way there. I'm sure I'm not alone in the fact that anyone that has built a Bomber has studied this book for hours and taking measures from the various views.
+
+Of course you could have bought one of my Tie Bomber starter sets and all your worries would have been swept away lol!. But alas, the run on these has ended.
+
+Stu
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #1213379)
+Author    : tk1608
+Date      : May 7, 2010 at 6:58 AM
+────────────────────────────────────────────────────────────────────────
+
+Hey guys, 
+
+Well ok, if you say it should be 20mm then 20mm it shall be :lol...
+
+Back in '07 when I built mine, the latest info said it should be 5/8ths, or 16mm. It's posted on the old thread by flintlock. Anyhoo, that's what I went with and overall,..it's pretty close...as I posted once before, are these models ever really finished or 100% correct ?, info changes all the time.
+
+Apologies if I've miss-led anyone, that was not my intention...just trying to help..:cry
+
+I'm going now to look at my almost antique bomber..:love
+
+Cheers
+
+Phil
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #1213456)
+Author    : ralphee
+Date      : May 7, 2010 at 8:17 AM
+────────────────────────────────────────────────────────────────────────
+
+Your bomber is a work of art Phil, and paved the way for many anyhoo, whats a few mm, too many people lose sleep over a few mm........kinda lame.
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #1213469)
+Author    : Hammer3246
+Date      : May 7, 2010 at 8:27 AM
+────────────────────────────────────────────────────────────────────────
+
+eagle1 said:
+
+			Really this book gives you all that you need, especially the almost perfect 1/1 front view. If you have some of the kit parts then your'e half way there. I'm sure I'm not alone in the fact that anyone that has built a Bomber has studied this book for hours and taking measures from the various views.
+
+Of course you could have bought one of my Tie Bomber starter sets and all your worries would have been swept away lol!. But alas, the run on these has ended.
+
+Stu
+		
+
+Click to expand...
+
+Looks like a good book, doesn't come cheap either does it?  I did see your starter set and was tempted, but I figured it can't be too difficult to scratch it.
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #1214019)
+Author    : MonsieurTox
+Date      : May 7, 2010 at 5:31 PM
+────────────────────────────────────────────────────────────────────────
+
+tk1608 said:
+
+			Hey guys, 
+
+Well ok, if you say it should be 20mm then 20mm it shall be :lol...
+
+Back in '07 when I built mine, the latest info said it should be 5/8ths, or 16mm. It's posted on the old thread by flintlock. Anyhoo, that's what I went with and overall,..it's pretty close...as I posted once before, are these models ever really finished or 100% correct ?, info changes all the time.
+
+Apologies if I've miss-led anyone, that was not my intention...just trying to help..:cry
+
+I'm going now to look at my almost antique bomber..:love
+
+Cheers
+
+Phil
+		
+
+Click to expand...
+
+ 
+
+No worries Phil, 
+
+Yeah it was in the old thread, I built mine year later and I noticed that Allan was using a bigger than pipe than the said 16mm one. I think the good one is 3/4" (19mm) so mine is too big 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #1214234)
+Author    : eagle1
+Date      : May 7, 2010 at 9:48 PM
+────────────────────────────────────────────────────────────────────────
+
+ralphee said:
+
+			Your bomber is a work of art Phil, and paved the way for many anyhoo, whats a few mm, too many people lose sleep over a few mm........kinda lame.
+
+lee
+		
+
+Click to expand...
+
+ 
+
+Here Here, I'm totally in agreement with what's a few mm as well Lee!.
+
+I used 18.5mm for the central rod and everything looked and fitted ok. 19.1mm works out well also. 20mm is starting to push it a bit too far though and will result in a fatter appearance to the model, especially as the internal wing mount measures would need to be increased as well to accommodate the extra central rod diameter. Kit parts are the true gauge though on how far you can push these measures.
+
+Stu
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #1218229)
+Author    : Hammer3246
+Date      : May 11, 2010 at 5:44 PM
+────────────────────────────────────────────────────────────────────────
+
+One panel comming along.
+
+[IMAGE: IMG00016-20100511-1832.jpg]
+
+[IMAGE: IMG00015-20100511-1829.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #1219259)
+Author    : dirtydave
+Date      : May 12, 2010 at 12:47 PM
+────────────────────────────────────────────────────────────────────────
+
+Great start on the wing.Can't wait to see more of this build.
+
+Dave
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #1222610)
+Author    : Hammer3246
+Date      : May 14, 2010 at 10:02 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks Dave,  I hope it doesn't take too long.
+
+Cheers
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #1229873)
+Author    : Hammer3246
+Date      : May 21, 2010 at 7:25 AM
+────────────────────────────────────────────────────────────────────────
+
+Looks like I screwed up on wing extionsions, from what I can tell most models don't have slots and if they did mine are too big for the parts that goes there, oh well, easy fix.
+
+Cheers
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #1230015)
+Author    : MonsieurTox
+Date      : May 21, 2010 at 9:53 AM
+────────────────────────────────────────────────────────────────────────
+
+They were slots on the original model wings...
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #1230404)
+Author    : swgeek
+Date      : May 21, 2010 at 4:14 PM
+────────────────────────────────────────────────────────────────────────
+
+Are you talking about the slots on the inside of the wing (top & bottom)? I put slots on mine. Like Julien says the original has slots.
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #1230569)
+Author    : Hammer3246
+Date      : May 21, 2010 at 7:09 PM
+────────────────────────────────────────────────────────────────────────
+
+Oh, okay.  It was hard to tell, thanks.
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #1236050)
+Author    : Hammer3246
+Date      : May 26, 2010 at 4:38 PM
+────────────────────────────────────────────────────────────────────────
+
+Can anyone tell me what parts these are?  I don't know the owner of the photos, I'll remove them if you wish.
+
+[IMAGE: parts1.jpg]
+
+[IMAGE: parts2.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #1236224)
+Author    : Rats
+Date      : May 26, 2010 at 7:39 PM
+────────────────────────────────────────────────────────────────────────
+
+Hammer,
+
+The kits you need and the part ID's are all listed in previous threads on this board. Put "Tie Bomber" into the search panel and read all the threads that come up. They will answer a lot of your questions, and some you haven't asked yet. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+The parts circled in red and green are from the Tamiya Yamato (original, not re-release), Tam flakvierling, Tam Flak Sd.Ah.51 & Tam british 25pdr. The blue circled part is from the same kit that the large grey part on top of the left tube is from (first photo).
+
+Go to this site; http://www.studioscale.com/ and look through the kit-scans. You will see plenty of parts from the bomber there (if not all) and plenty of parts from SS models you didn't even know you wanted to build. :lol Once you get your eye in, you will be hooked. You get a much better sense of satisfaction if you can ID the parts yourself.
+
+Cheers and good luck with the build, great start by the way,
+
+JT
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #1236354)
+Author    : Hammer3246
+Date      : May 26, 2010 at 10:06 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks Rats,
+
+I've searched and read, the parts above eluded me, hence asking for help.
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+
+However I never knew about the kit scans that really helps alot.  It's my first attempt and so far its been fun.:thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #1241556)
+Author    : Hammer3246
+Date      : May 31, 2010 at 6:00 PM
+────────────────────────────────────────────────────────────────────────
+
+Slowly getting there, I never bothered fixing the wings.
+
+[IMAGE: ImportedPhotos00000.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #1242450)
+Author    : dirtydave
+Date      : Jun 1, 2010 at 12:39 PM
+────────────────────────────────────────────────────────────────────────
+
+Looks like she's coming along nicely.Did you have any luck with your WTB thread in the junkyard?
+
+Dave
+────────────────────────────────────────────────────────────────────────
+Post #28  (forum post #1242650)
+Author    : Hammer3246
+Date      : Jun 1, 2010 at 2:46 PM
+────────────────────────────────────────────────────────────────────────
+
+Nope, no luck yet. I have however tried some casting so I should be okay, the only things I really do need now are the Rodney, the Yamato, Shinano and the British Field Gun.  I think I'll scratch the Hanomag parts and buy a Lee.
+
+Ron
+────────────────────────────────────────────────────────────────────────
+Post #29  (forum post #1294522)
+Author    : Hammer3246
+Date      : Jul 16, 2010 at 9:01 AM
+────────────────────────────────────────────────────────────────────────
+
+Making progress finally, thanks to the help of some members here.  
+
+[IMAGE: IMG00072-20100716-0947.jpg]
+
+[IMAGE: IMG00071-20100716-0946.jpg]
+
+[IMAGE: IMG00070-20100716-0946.jpg]
+
+[IMAGE: IMG00069-20100716-0946-1.jpg]
+
+[IMAGE: IMG00068-20100716-0925.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #30  (forum post #1295366)
+Author    : eagle1
+Date      : Jul 16, 2010 at 11:51 PM
+────────────────────────────────────────────────────────────────────────
+
+Great job dude, she's coming along just fine!. 
+
+Stu
+────────────────────────────────────────────────────────────────────────
+Post #31  (forum post #1295538)
+Author    : Jestefarean
+Date      : Jul 17, 2010 at 7:24 AM
+────────────────────────────────────────────────────────────────────────
+
+Very nice.  Once I finish my AT-ST I think I may take on this challange.
+────────────────────────────────────────────────────────────────────────
+Post #32  (forum post #1296496)
+Author    : dirtydave
+Date      : Jul 18, 2010 at 10:36 AM
+────────────────────────────────────────────────────────────────────────
+
+Hey Ron,She's looking GREAT.Looks like you don't have that much more to complete her.
+
+Sending you a PM
+
+Dave
+────────────────────────────────────────────────────────────────────────
+Post #33  (forum post #1296777)
+Author    : MonsieurTox
+Date      : Jul 18, 2010 at 3:57 PM
+────────────────────────────────────────────────────────────────────────
+
+That's looking very good my friend !
+────────────────────────────────────────────────────────────────────────
+Post #34  (forum post #1297005)
+Author    : Hammer3246
+Date      : Jul 18, 2010 at 7:30 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks for the kind words everyone, I've had a lot of fun help and pains on this project so far.  I can only imagine what a Falcon or Destroyer might be like.
+
+Cheers
+
+Ron
+────────────────────────────────────────────────────────────────────────
+Post #35  (forum post #1297260)
+Author    : MonsieurTox
+Date      : Jul 19, 2010 at 2:15 AM
+────────────────────────────────────────────────────────────────────────
+
+I had a lot of pain on my Bomber too, it looks pretty easy, but when you decide to build it entirely by yourself (and without a lathe !) things become more complicated... :lol
+────────────────────────────────────────────────────────────────────────
+Post #36  (forum post #1297281)
+Author    : Moska
+Date      : Jul 19, 2010 at 3:33 AM
+────────────────────────────────────────────────────────────────────────
+
+Hi all.
+
+This is my very first post in this forum so I'm sorry if I do something wrong.
+
+Recently completed my own TIE Bomber, and to help me at work, I made my own blueprints. 
+
+These templates also include the identity of all kit parts used by IL & M.
+
+On the link below are my blueprints in a PDF file and I hope that helps.
+
+[IMAGE: galeria_3.jpg]
+
+http://www.x2creativos.com/pdf/tie_bomber.pdf
+────────────────────────────────────────────────────────────────────────
+Post #37  (forum post #1297282)
+Author    : MonsieurTox
+Date      : Jul 19, 2010 at 3:37 AM
+────────────────────────────────────────────────────────────────────────
+
+Welcome aboard Moska, and thanks for sharing your blueprints, those are great as your build is !
+────────────────────────────────────────────────────────────────────────
+Post #38  (forum post #1297354)
+Author    : Jestefarean
+Date      : Jul 19, 2010 at 5:47 AM
+────────────────────────────────────────────────────────────────────────
+
+Very cool!  Thanks Moska and welcome
+────────────────────────────────────────────────────────────────────────
+Post #39  (forum post #1297416)
+Author    : Hammer3246
+Date      : Jul 19, 2010 at 7:03 AM
+────────────────────────────────────────────────────────────────────────
+
+MonsieurTox said:
+
+			I had a lot of pain on my Bomber too, it looks pretty easy, but when you decide to build it entirely by yourself (and without a lathe !) things become more complicated... :lol
+		
+
+Click to expand...
+
+I finally broke down and purchased my tubes from eagle1. He does a great job on them.
+
+@Moska, nice Bomber and great prints.
+
+Cheers
+────────────────────────────────────────────────────────────────────────
+Post #40  (forum post #1297432)
+Author    : Moska
+Date      : Jul 19, 2010 at 7:18 AM
+────────────────────────────────────────────────────────────────────────
+
+Thank you very much for your welcome, for me it's an honor to participate in this forum with such talented people
+────────────────────────────────────────────────────────────────────────
+Post #41  (forum post #1297546)
+Author    : INCOM
+Date      : Jul 19, 2010 at 9:14 AM
+────────────────────────────────────────────────────────────────────────
+
+Great blueprints Moska and welcome!
+────────────────────────────────────────────────────────────────────────
+Post #42  (forum post #1297661)
+Author    : Scott Graham
+Date      : Jul 19, 2010 at 11:01 AM
+────────────────────────────────────────────────────────────────────────
+
+Incredible job on the blueprints Moska! Thanks for sharing.
+────────────────────────────────────────────────────────────────────────
+Post #43  (forum post #1298054)
+Author    : eagle1
+Date      : Jul 19, 2010 at 3:53 PM
+────────────────────────────────────────────────────────────────────────
+
+Big welcome Moska. Outstanding bomber build & those blueprints, WOW, I think those are the best blues for any 'Star Wars' ship Iv'e ever seen. You really must have put alot of work into producing those, a new bomber builders dream come true. I even think they would be cool blown up to a poster size and mounted on the wall, they are that cool my friend!.
+
+Stu
+────────────────────────────────────────────────────────────────────────
+Post #44  (forum post #1298615)
+Author    : Moska
+Date      : Jul 20, 2010 at 1:30 AM
+────────────────────────────────────────────────────────────────────────
+
+Thank you very much everyone for your welcome and kind words. I'm happy to be part of this community so interesting.
+
+At this moments I'm trying to do the same with the standard TIE, but is much more difficult to identify all the kit parts used, especially the small details in the central area of the wings.
+
+I've done an intensive search on the website studioscale.com and have achieved some results, but many parts remain to be identified.
+
+Any help would be welcome.
+────────────────────────────────────────────────────────────────────────
+Post #45  (forum post #1299461)
+Author    : Hammer3246
+Date      : Jul 20, 2010 at 2:22 PM
+────────────────────────────────────────────────────────────────────────
+
+Someplace to sit.
+
+[IMAGE: IMG00087-20100720-1257.jpg]
+
+[IMAGE: IMG00085-20100720-1257.jpg]
+
+[IMAGE: IMG00077-20100720-1254.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #46  (forum post #1309936)
+Author    : Hammer3246
+Date      : Jul 28, 2010 at 4:01 PM
+────────────────────────────────────────────────────────────────────────
+
+A few more parts + details + touch ups = done.
+
+[IMAGE: IMG00110-20100727-2340.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #47  (forum post #1310257)
+Author    : joewhite
+Date      : Jul 28, 2010 at 8:41 PM
+────────────────────────────────────────────────────────────────────────
+
+Hammer,
+
+   Dude, I've seen many Bomber builds and have built a decent resin kit of one. However, your build has finally motivated me to finally try making my own SS Bomber. I dig the added cockpit details!
+
+Rafa,
+
+    Dude, didn't you scratchbuild a bunch of Star Wars ships over at StarshipModeler in the early 2000's? If that's you I'm thinking about then your work has always been inspiring! Thanks for the parts map!!!!!
+
+Joe
+────────────────────────────────────────────────────────────────────────
+Post #48  (forum post #1310585)
+Author    : Jestefarean
+Date      : Jul 29, 2010 at 6:07 AM
+────────────────────────────────────────────────────────────────────────
+
+Gorgeous!
+────────────────────────────────────────────────────────────────────────
+Post #49  (forum post #1310675)
+Author    : Moska
+Date      : Jul 29, 2010 at 7:43 AM
+────────────────────────────────────────────────────────────────────────
+
+joewhite said:
+
+			Hammer,
+
+   Dude, I've seen many Bomber builds and have built a decent resin kit of one. However, your build has finally motivated me to finally try making my own SS Bomber. I dig the added cockpit details!
+
+Rafa,
+
+    Dude, didn't you scratchbuild a bunch of Star Wars ships over at StarshipModeler in the early 2000's? If that's you I'm thinking about then your work has always been inspiring! Thanks for the parts map!!!!!
+
+Joe
+		
+
+Click to expand...
+
+Hi Joe,
+
+Yes, I published several models on the StarshipModeler website, and I am very happy to know that my work inspired you. I hope my templates helps and make your work easier in your own TIE BOMBER model
+────────────────────────────────────────────────────────────────────────
+Post #50  (forum post #1312763)
+Author    : Flameout
+Date      : Jul 30, 2010 at 6:23 PM
+────────────────────────────────────────────────────────────────────────
+
+Nice job on the cockpit.
+────────────────────────────────────────────────────────────────────────
+Post #51  (forum post #1314278)
+Author    : KrokoHunter
+Date      : Aug 1, 2010 at 11:25 AM
+────────────────────────────────────────────────────────────────────────
+
+Moska said:
+
+			Hi all.
+
+This is my very first post in this forum so I'm sorry if I do something wrong.
+
+Recently completed my own TIE Bomber, and to help me at work, I made my own blueprints. 
+
+These templates also include the identity of all kit parts used by IL & M.
+
+On the link below are my blueprints in a PDF file and I hope that helps.
+
+[IMAGE: galeria_3.jpg]
+
+http://www.x2creativos.com/pdf/tie_bomber.pdf
+
+Click to expand...
+
+Hey Moska
+
+Awesome blueprint
+
+A little hint .. the small boxes over and under the Hanomag part (they sit in pairs) are also from the Hanomag kit. 8 pieces in total 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #52  (forum post #1314282)
+Author    : KrokoHunter
+Date      : Aug 1, 2010 at 11:28 AM
+────────────────────────────────────────────────────────────────────────
+
+MonsieurTox said:
+
+			Are you sure Phil ? I used 20 mm OD tube on mine because that's what I had but from my calculation, they used a 3/4" tube (19.05 mm) on their model. :confused
+		
+
+Click to expand...
+
+My calculations ended at 5/8" = 16mm
+────────────────────────────────────────────────────────────────────────
+Post #53  (forum post #1314303)
+Author    : KrokoHunter
+Date      : Aug 1, 2010 at 11:48 AM
+────────────────────────────────────────────────────────────────────────
+
+KrokoHunter said:
+
+			My calculations ended at 5/8" = 16mm
+		
+
+Click to expand...
+
+I've just looked trough my measurements, plus my WIP TIE-Bomber, and the cross-tubing should have the same diameter as the span of 8 of the circumventing panellines. This sums up closer to 5/8" than 3/4"
+
+On another notice, this made me realize that I've drilled the holes in the chilidogs 1 panelline of center .. so there'll be 3 panellines in fron of the crosstube, and only 1 behind it .... oh well .. nothing to do about that :confused
+────────────────────────────────────────────────────────────────────────
+Post #54  (forum post #1316830)
+Author    : joewhite
+Date      : Aug 3, 2010 at 11:54 AM
+────────────────────────────────────────────────────────────────────────
+
+Quick question. Are any of the actual motorcycle parts from the 88mm flak36/37 used on the TIE Bomber? I hate to ask this...I enjoy doing as much research as I can on my own but all I have are really blurry kit scans. I would appreciate the help, thanks!
+
+Joe
+────────────────────────────────────────────────────────────────────────
+Post #55  (forum post #1316953)
+Author    : KrokoHunter
+Date      : Aug 3, 2010 at 1:42 PM
+────────────────────────────────────────────────────────────────────────
+
+joewhite said:
+
+			Quick question. Are any of the actual motorcycle parts from the 88mm flak36/37 used on the TIE Bomber? I hate to ask this...I enjoy doing as much research as I can on my own but all I have are really blurry kit scans. I would appreciate the help, thanks!
+
+Joe
+		
+
+Click to expand...
+
+Yes they are ..
+
+There placed upon the Leopold deck on the top of the cockpit-tube
+────────────────────────────────────────────────────────────────────────
+Post #56  (forum post #1317195)
+Author    : joewhite
+Date      : Aug 3, 2010 at 5:02 PM
+────────────────────────────────────────────────────────────────────────
+
+KrokoHunter said:
+
+			Yes they are ..
+
+There placed upon the Leopold deck on the top of the cockpit-tube
+		
+
+Click to expand...
+
+Ah, I see now! Thanks so much!
+
+Joe
+────────────────────────────────────────────────────────────────────────
+Post #57  (forum post #1317594)
+Author    : Moska
+Date      : Aug 4, 2010 at 12:45 AM
+────────────────────────────────────────────────────────────────────────
+
+KrokoHunter said:
+
+			Hey Moska
+
+Awesome blueprint
+
+A little hint .. the small boxes over and under the Hanomag part (they sit in pairs) are also from the Hanomag kit. 8 pieces in total 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+Hello, do you mean these parts?
+
+::Moska::
+
+[IMAGE: boxes.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #58  (forum post #1318451)
+Author    : Hammer3246
+Date      : Aug 4, 2010 at 3:33 PM
+────────────────────────────────────────────────────────────────────────
+
+Well that's it.  I have the Shinano coming, missing Scharnhorst, Junyo POW and Stuka.  They're not that visible so I can wait for them, other than that i'd say it's finished.
+
+Cheers
+
+[IMAGE: bomber4.jpg]
+
+[IMAGE: bomber3.jpg]
+
+[IMAGE: bomber2.jpg]
+
+[IMAGE: bomber1.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #59  (forum post #1318561)
+Author    : MonsieurTox
+Date      : Aug 4, 2010 at 5:44 PM
+────────────────────────────────────────────────────────────────────────
+
+Moska said:
+
+			Hello, do you mean these parts?
+
+::Moska::
+
+[IMAGE: boxes.jpg]
+
+Click to expand...
+
+ 
+
+Yes those are Hanomag parts.
+
+Hammer, There's no Scharnhorst part on the Bomber...
+
+Even with the missing parts, your bomber is awesome, great job !  I like the color too.
+────────────────────────────────────────────────────────────────────────
+Post #60  (forum post #1318566)
+Author    : dirtydave
+Date      : Aug 4, 2010 at 5:52 PM
+────────────────────────────────────────────────────────────────────────
+
+Hey Ron,build looks great,should have your parts in the mail this week.
+
+Julien,I believe part # A11 from the Scharnhorst is on the upper left hand corner of the Rodney part.I remember seeing it in a picture of the bomber.
+
+Dave
+────────────────────────────────────────────────────────────────────────
+Post #61  (forum post #1318570)
+Author    : Hammer3246
+Date      : Aug 4, 2010 at 5:57 PM
+────────────────────────────────────────────────────────────────────────
+
+Oh, I thought the part on the mid-top left of the center box was from the Scharnohorst.  I guess I need to look deeper.  Thanks.
+
+Ron
+────────────────────────────────────────────────────────────────────────
+Post #62  (forum post #1318573)
+Author    : MonsieurTox
+Date      : Aug 4, 2010 at 5:58 PM
+────────────────────────────────────────────────────────────────────────
+
+Correct Dave !
+
+Never noticed this one, I have about 15 or so Scharnhorst kit, I hope I still have one of this part left from the ISD lol 
+
+Thank you !
+────────────────────────────────────────────────────────────────────────
+Post #63  (forum post #1318631)
+Author    : propologist
+Date      : Aug 4, 2010 at 6:50 PM
+────────────────────────────────────────────────────────────────────────
+
+Very sweet build for sure...a great piece
+
+and those blueprints could be framed. they need a section here just for things like that for everyone future builds.
+────────────────────────────────────────────────────────────────────────
+Post #64  (forum post #1318702)
+Author    : Hammer3246
+Date      : Aug 4, 2010 at 7:44 PM
+────────────────────────────────────────────────────────────────────────
+
+propologist said:
+
+			"and those blueprints could be framed. they need a section here just for things like that for everyone future builds.
+		
+
+Click to expand...
+
+Agreed!
+────────────────────────────────────────────────────────────────────────
+Post #65  (forum post #1318947)
+Author    : KrokoHunter
+Date      : Aug 5, 2010 at 12:32 AM
+────────────────────────────────────────────────────────────────────────
+
+MonsieurTox said:
+
+			Correct Dave !
+
+Never noticed this one, I have about 15 or so Scharnhorst kit, I hope I still have one of this part left from the ISD lol 
+
+Thank you !
+		
+
+Click to expand...
+
+If you don't then let me know .. I might have a spare Scharnhorst in the not so distant future .. I'll send the part to you then
+────────────────────────────────────────────────────────────────────────
+Post #66  (forum post #1318948)
+Author    : Moska
+Date      : Aug 5, 2010 at 12:32 AM
+────────────────────────────────────────────────────────────────────────
+
+MonsieurTox said:
+
+			Yes those are Hanomag parts.
+		
+
+Click to expand...
+
+Ok folks, thank you very much for the info. I'll add this update on my blueprints. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+::Moska::
+────────────────────────────────────────────────────────────────────────
+Post #67  (forum post #1318990)
+Author    : KrokoHunter
+Date      : Aug 5, 2010 at 1:49 AM
+────────────────────────────────────────────────────────────────────────
+
+Moska said:
+
+			Ok folks, thank you very much for the info. I'll add this update on my blueprints. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+::Moska::
+		
+
+Click to expand...
+
+You're welcome
+
+Once again thanks for those outstanding blueprints .. keep up the great work
+────────────────────────────────────────────────────────────────────────
+Post #68  (forum post #1319041)
+Author    : MonsieurTox
+Date      : Aug 5, 2010 at 3:38 AM
+────────────────────────────────────────────────────────────────────────
+
+KrokoHunter said:
+
+			If you don't then let me know .. I might have a spare Scharnhorst in the not so distant future .. I'll send the part to you then
+		
+
+Click to expand...
+
+Thank you Niels, but I think I'll have to buy another one for the ISD or the Falcon !
+────────────────────────────────────────────────────────────────────────
+Post #69  (forum post #1320093)
+Author    : moffeaton
+Date      : Aug 5, 2010 at 6:01 PM
+────────────────────────────────────────────────────────────────────────
+
+I found this scrap while trolling through my piles of miscellaneous plastic this evening - is this what I think it is?!
+
+[IMAGE: shinano.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #70  (forum post #1320156)
+Author    : qcfoundry
+Date      : Aug 5, 2010 at 6:51 PM
+────────────────────────────────────────────────────────────────────────
+
+Moska - just wanted to say CONGRATS on the beautiful drawing.
+
+I've messed around a bit and made a drawing or two.
+
+Yours is really really great work and I'd like to say it from myself (and plenty others that should) THANK YOU for sharing it.
+
+Excellent way to introduce yourself to this community.
+
+Welcome!
+────────────────────────────────────────────────────────────────────────
+Post #71  (forum post #1320159)
+Author    : propologist
+Date      : Aug 5, 2010 at 6:54 PM
+────────────────────────────────────────────────────────────────────────
+
+qcfoundry said:
+
+			Moska - just wanted to say CONGRATS on the beautiful drawing.
+
+I've messed around a bit and made a drawing or two.
+
+Yours is really really great work and I'd like to say it from myself (and plenty others that should) THANK YOU for sharing it.
+
+Excellent way to introduce yourself to this community.
+
+Welcome!
+		
+
+Click to expand...
+
+yes agreed , I already have them ready to print to scale for a " tie -bomber build notebook for the future"
+────────────────────────────────────────────────────────────────────────
+Post #72  (forum post #1320215)
+Author    : Hammer3246
+Date      : Aug 5, 2010 at 7:55 PM
+────────────────────────────────────────────────────────────────────────
+
+moffeaton said:
+
+			I found this scrap while trolling through my piles of miscellaneous plastic this evening - is this what I think it is?!
+
+[IMAGE: shinano.jpg]
+
+Click to expand...
+
+Sure looks like it.:thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #73  (forum post #1320240)
+Author    : moffeaton
+Date      : Aug 5, 2010 at 8:18 PM
+────────────────────────────────────────────────────────────────────────
+
+Yeah it's been confirmed.. so if any one needs Shinano bits, PM me - we can trade for something! I'd be happy to help all these talented TIE Bomber builders... amazing work on display here!
+────────────────────────────────────────────────────────────────────────
+Post #74  (forum post #1320463)
+Author    : Moska
+Date      : Aug 6, 2010 at 2:18 AM
+────────────────────────────────────────────────────────────────────────
+
+qcfoundry said:
+
+			Moska - just wanted to say CONGRATS on the beautiful drawing.
+
+I've messed around a bit and made a drawing or two.
+
+Yours is really really great work and I'd like to say it from myself (and plenty others that should) THANK YOU for sharing it.
+
+Excellent way to introduce yourself to this community.
+
+Welcome!
+		
+
+Click to expand...
+
+Thank you very much again to everybody for your warm welcome. I'm very glad to share my work and to be helpful for other modelers. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+My blueprints are already updated.
+
+http://www.x2creativos.com/pdf/tie_bomber.pdf
+
+::Moska::
+────────────────────────────────────────────────────────────────────────
+Post #75  (forum post #1320913)
+Author    : Jestefarean
+Date      : Aug 6, 2010 at 10:19 AM
+────────────────────────────────────────────────────────────────────────
+
+Grats on the find Jason.
+────────────────────────────────────────────────────────────────────────
+Post #76  (forum post #2287895)
+Author    : KrokoHunter
+Date      : Jun 4, 2012 at 4:02 AM
+────────────────────────────────────────────────────────────────────────
+
+I know I'm reanimating an old'n'dead thread, but I just want to state, that I've changed my mind regarding the diameter on the cross-tube
+
+After doing some new measurements in Photoshop, I'm now also more in favor of the 3/4" diameter, than 5/8"
+
+So I need to drill the holes in the chilidogs a bit bigger
+
+I'll do some final, conclusive measurements with kitparts tonight
+────────────────────────────────────────────────────────────────────────
+Post #77  (forum post #2288392)
+Author    : KrokoHunter
+Date      : Jun 4, 2012 at 10:07 AM
+────────────────────────────────────────────────────────────────────────
+
+KrokoHunter said:
+
+			I know I'm reanimating an old'n'dead thread, but I just want to state, that I've changed my mind regarding the diameter on the cross-tube
+
+After doing some new measurements in Photoshop, I'm now also more in favor of the 3/4" diameter, than 5/8"
+
+So I need to drill the holes in the chilidogs a bit bigger
+
+I'll do some final, conclusive measurements with kitparts tonight
+		
+
+Click to expand...
+
+Turns out, that I don't have any 3/4" tube in stock .. so I need to get hold of some, before I can make the conclusive measurements
+
+Stay tuned :lol
+────────────────────────────────────────────────────────────────────────
+Post #78  (forum post #3137764)
+Author    : Lee S
+Date      : Dec 10, 2013 at 5:10 AM
+────────────────────────────────────────────────────────────────────────
+
+and then..... 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #79  (forum post #3149921)
+Author    : KrokoHunter
+Date      : Dec 23, 2013 at 10:00 AM
+────────────────────────────────────────────────────────────────────────
+
+Wicked you ;-)
+────────────────────────────────────────────────────────────────────────
+Post #80  (forum post #3149923)
+Author    : KrokoHunter
+Date      : Dec 23, 2013 at 10:02 AM
+────────────────────────────────────────────────────────────────────────
+
+But in reply, I've decided to go for 3/4" tube instead 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #81  (forum post #3150478)
+Author    : Lee S
+Date      : Dec 23, 2013 at 8:27 PM
+────────────────────────────────────────────────────────────────────────
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ Just figured I'd give a poke to the fire!
+────────────────────────────────────────────────────────────────────────
+Post #82  (forum post #3150635)
+Author    : KrokoHunter
+Date      : Dec 24, 2013 at 3:06 AM
+────────────────────────────────────────────────────────────────────────
+
+There goes the LEGO Factory Tour. Muahahha ;-)
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 82

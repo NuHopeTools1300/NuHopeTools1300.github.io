@@ -1,0 +1,283 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : STAR WARS (the original!) SS Model lights ?
+URL    : https://www.therpf.com/forums/threads/star-wars-the-original-ss-model-lights.47080/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #630726)
+Author    : jlwshere
+Date      : Jul 19, 2008 at 11:56 PM
+────────────────────────────────────────────────────────────────────────
+
+I see so many wonderful works of art in the forum with fabulous lighting jobs. However, it appears that in STAR WARS (the original!) there were no interior or exterior lights on any of the models except for the Star Destroyers (and Sand Crawler). 
+
+I know the 5 foot falcon did not have it's headlights or the Colored bulbs that are seen in the exhibition tours (added for ESB) and any shots we do see of it in STAR WARS are in bright "daylight" which fills in the (passenger less) cockpit. I know that the light blasting out of the  Death Star and Mos Eisley were optically added (as well as the x and y wings) but Was there a florescent light in the MF engine bay? 
+
+Can any one definitely confirm this?
+
+Thanks
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #630986)
+Author    : JPolacchi
+Date      : Jul 20, 2008 at 2:43 PM
+────────────────────────────────────────────────────────────────────────
+
+Do you mean the engines?Thee s custome neon tube/lighting for the Falcon model(both large scales).The other stuff they used was the reflective tape,but I don't remember the name of it.
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #631006)
+Author    : PHArchivist
+Date      : Jul 20, 2008 at 3:20 PM
+────────────────────────────────────────────────────────────────────────
+
+jlwshere said:
+
+			I know that the light blasting out of the Death Star and Mos Eisley were optically added
+		
+
+Click to expand...
+
+ 
+
+The Death Star was clearly illuminnated from an interior light source (not sure what sort of bulb).  I really don't think they enhanced the lighting in post.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #631012)
+Author    : MonsieurTox
+Date      : Jul 20, 2008 at 3:25 PM
+────────────────────────────────────────────────────────────────────────
+
+There were lights on most of the models :
+
+Here's a quick list (you can complete it) :
+
+- Star Destroyer Desvastator : bulbs for the engines
+
+- Star Destroyer Avenger : Fiber optic on the superstructures, bulbs in the engine bells.
+
+- Super Star Destroyer Executor : Custom neon for the superstructures and city scape, bulbs for the engines.
+
+- MF 32" lights for the mandibles, cockpit and probably neon for the engine
+
+- Sandcrawler : grains of wheat all over the model
+
+- Tydirum Shuttle : grains of wheat and neon
+
+- X-Wings : bulbs for the engines, FO for the laser cannon tips
+
+- Y-Wing : bulbs for the engines
+
+- Slave One : bulbs for the engines
+
+- A-Wing : bulbs for the engines
+
+- Pyro AT-ST (2 footer) bulbs into the cockpit
+
+- Blockade Runner : bulbs for the engines
+
+- MonCal Cruiser : bulbs for the engines
+
+- Death Star Turrets : bulbs and FO (?)
+
+Of course, they added the true glowing light we all know by compositing, but the light of the engines allow the light to reflect realisticly on the models. And was a great help to 'track' the engines and do the compositing a lot easier. Same with the FO into the laser cannon tips. It was easier to have a right "starting point"  to know where and when begins the laser.
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #631013)
+Author    : PHArchivist
+Date      : Jul 20, 2008 at 3:26 PM
+────────────────────────────────────────────────────────────────────────
+
+The Death Star, demonstrating approximately how it was lit:
+
+[IMAGE: DS049.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #631014)
+Author    : MonsieurTox
+Date      : Jul 20, 2008 at 3:31 PM
+────────────────────────────────────────────────────────────────────────
+
+PHArchivist said:
+
+			The Death Star was clearly illuminnated from an interior light source (not sure what sort of bulb). I really don't think they enhanced the lighting in post.
+		
+
+Click to expand...
+
+ 
+
+My bad, I forget the DS ! :sick
+
+It was enhanced... like the ISD,SSD or Tydirium Shuttle were. Using the go motion, they shot the models in 2 (or more) passes. First pass, the model with regular lightning, second pass, no lights, only the own model lights (so basicaly they shot only hundred of tiny light spots in case of the ISD or SSD). Then they composited both shots. The reason is there huge lightning on the set to shot the models (to allow the good focal etc) and in this case the lights of the model itself cant be seen by the cam.
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #631033)
+Author    : Treadwell
+Date      : Jul 20, 2008 at 3:56 PM
+────────────────────────────────────────────────────────────────────────
+
+MonsieurTox said:
+
+			- X-Wings : bulbs for the engines, FO for the laser cannon tips
+
+Click to expand...
+
+??
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #631044)
+Author    : REL
+Date      : Jul 20, 2008 at 4:05 PM
+────────────────────────────────────────────────────────────────────────
+
+Treadwell said:
+
+			??
+		
+
+Click to expand...
+
+There were fiber optics in the guns on the x wings. Here's the 24 scale red 3's gun tips.
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #631085)
+Author    : bobasfett
+Date      : Jul 20, 2008 at 5:22 PM
+────────────────────────────────────────────────────────────────────────
+
+A lot of the larger models were also made of clear acrylic, much like the Death Star.  They would then paint and 'scrape' small areas where they wanted the light to shine through.
+
+I had no idea on the FO for the Xwing lasers....interesting.  Thanks for the insight REL.  As much as I probably already know the answer, are we sure they were there for production?  I just am having a hard time seeing a purpose for them.....
+
+Great thread BTW.
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #631104)
+Author    : MonsieurTox
+Date      : Jul 20, 2008 at 5:46 PM
+────────────────────────────────────────────────────────────────────────
+
+REL said:
+
+			There were fiber optics in the guns on the x wings. Here's the 24 scale red 3's gun tips.
+		
+
+Click to expand...
+
+ 
+
+Thanks for the great pic Rich.
+
+There is also famous pics in the Chronicles where you can see the wirings on the tips of the wings, for the bulbs lighting the FO.
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #631105)
+Author    : PHArchivist
+Date      : Jul 20, 2008 at 5:47 PM
+────────────────────────────────────────────────────────────────────────
+
+REL said:
+
+			There were fiber optics in the guns on the x wings. Here's the 24 scale red 3's gun tips.
+		
+
+Click to expand...
+
+ 
+
+Yup...  So that they could more easily go in and animate in the laser blasts, and align them properly with the gun tips...
+
+C'MON guys!  This is OLD news!  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #631108)
+Author    : MonsieurTox
+Date      : Jul 20, 2008 at 5:49 PM
+────────────────────────────────────────────────────────────────────────
+
+bobasfett said:
+
+			As much as I probably already know the answer, are we sure they were there for production? I just am having a hard time seeing a purpose for them.....
+
+Great thread BTW.
+		
+
+Click to expand...
+
+ 
+
+Hope it helps, sorry maybe it's not clear due to my poor english :
+
+MonsieurTox said:
+
+			And was a great help to 'track' the engines and do the compositing a lot easier. Same with the FO into the laser cannon tips. It was easier to have a right "starting point" to know where and when begins the laser.
+		
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #631110)
+Author    : PHArchivist
+Date      : Jul 20, 2008 at 5:50 PM
+────────────────────────────────────────────────────────────────────────
+
+MonsieurTox said:
+
+			My bad, I forget the DS ! :sick
+
+It was enhanced... like the ISD,SSD or Tydirium Shuttle were. Using the go motion, they shot the models in 2 (or more) passes. First pass, the model with regular lightning, second pass, no lights, only the own model lights (so basicaly they shot only hundred of tiny light spots in case of the ISD or SSD). Then they composited both shots. The reason is there huge lightning on the set to shot the models (to allow the good focal etc) and in this case the lights of the model itself cant be seen by the cam.
+		
+
+Click to expand...
+
+ 
+
+And now MY bad!  Of course - the multiple passes to isolate the lights of the model!  
+
+I suppose in "enhance", I mean like engine flares, or otherwise artifically embellishing the light output.
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #631121)
+Author    : MonsieurTox
+Date      : Jul 20, 2008 at 6:22 PM
+────────────────────────────────────────────────────────────────────────
+
+PHArchivist said:
+
+			And now MY bad! Of course - the multiple passes to isolate the lights of the model! 
+
+I suppose in "enhance", I mean like engine flares, or otherwise artifically embellishing the light output.
+		
+
+Click to expand...
+
+ 
+
+Oh ok so you're right, the lights of the DS were its own, no articial effect to enhance them !
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #631139)
+Author    : Treadwell
+Date      : Jul 20, 2008 at 7:26 PM
+────────────────────────────────────────────────────────────────────────
+
+PHArchivist said:
+
+			Yup...  So that they could more easily go in and animate in the laser blasts, and align them properly with the gun tips...
+		
+
+Click to expand...
+
+But that actually limits the choices for the animation later, rather than helping. Now you have to draw in the lasers when the light's on, rather than put them in on whatever frame you want.
+
+I'm not saying the picture isn't right, I just find it perplexing.
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #631281)
+Author    : swpropmaker
+Date      : Jul 21, 2008 at 2:45 AM
+────────────────────────────────────────────────────────────────────────
+
+The guns (LEDs) on the TIE Fighter flashed for registartion for animation of the laser bolts also.  Watch frame for frame of some of the shots in the X Wing cockpit and a TIE is behind..you can see them blink on and off.
+
+Steve
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #631419)
+Author    : vaderdarth
+Date      : Jul 21, 2008 at 8:45 AM
+────────────────────────────────────────────────────────────────────────
+
+I believe the Devastator also had a lighted docking bay on the belly.  That and the main engine pods were the only things lighted on that beastie. 
+
+Dave 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 17

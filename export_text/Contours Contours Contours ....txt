@@ -1,0 +1,115 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Contours Contours Contours ...
+URL    : https://www.therpf.com/forums/threads/contours-contours-contours.331433/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #5065402)
+Author    : kevlar1983
+Date      : May 7, 2020 at 1:04 PM
+Reactions : Like — Firefox3D, 3Dsf
+────────────────────────────────────────────────────────────────────────
+
+Hi guys!
+
+So I'm hoping to harvest your collective brain power. I'm gearing up to do a 42"scratch build of the 2001 Pan Am Clipper and want to start with an armature like this (not mine, pulled from another forum post a story an example) with a side-profile centre spine and contoured ribs to fill out the shape:
+
+[IMAGE: https://www.therpf.com/forums/attachments/5c7bcc29-66d1-44c9-8448-f7d4b61c04d0-39565-00001fa80b29cf3f-png.1296044/]
+
+However ... I'm at loss as to how I could accurately create the correct curves in these ribs to get the overall shape. I've seen people do it by using a side and top view on a blueprint, but how do you get the curves?! Whenever I try, the ribs always come out different every time. If anyone has any ideas I'd love your input ...
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #5065583)
+Author    : TazMan2000
+Date      : May 7, 2020 at 9:30 PM
+────────────────────────────────────────────────────────────────────────
+
+There are two ways I would do it. One way is to take absolutely precise measurements either off a drawing or model and recreate those measurements, minus the skin, then to transfer those measurements to plastic or other medium precisely, in order to get the correct curvatures.
+
+Another way is to create a model in a 3D modelling package then to slice sections in an orderly pattern to create the sections. Lay strip plastic over top and sand to a nice curvature.
+
+I guess a third way to do it is to carve a buck out of balsa or soft wood and sand it to shape. Then vacuform stryrene over it. This method, can be less accurate if you don't have proper contour measuring tools.
+
+I'm looking forward to other ideas that members would offer. 
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #5066192)
+Author    : TazMan2000
+Date      : May 9, 2020 at 9:46 AM
+────────────────────────────────────────────────────────────────────────
+
+Also, I'm pretty sure the person who created the frame out of acrylic made the card model and had it laser cut.
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #5066221)
+Author    : laellee
+Date      : May 9, 2020 at 11:39 AM
+Reactions : Like — Firefox3D, TazMan2000
+────────────────────────────────────────────────────────────────────────
+
+As Tazman mentioned, it's a bit of a workaround (and probably seems counter intuitive to scratchbuilding), but a 3d model of the fuselage can be used to generate templates. I did something similar to make my Jaws Orca bulkheads. A little bit of legwork, but it saved a lot of guesswork. There's an available  free 3d model HERE ; not sure of the accuracy, but that could be used.
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #5066230)
+Author    : swgeek
+Date      : May 9, 2020 at 12:22 PM
+Reactions : Like — kevlar1983
+────────────────────────────────────────────────────────────────────────
+
+I agree, I've used 3D modeling programs to design builds that were all done by hand. No 3D printing or laser cutting, just printed out the ribs on paper and cut them with scissors. I've also designed (well coppied a design really) a space ship from a magazine by drawing it all up by hand. I used the side profile for the top registration of the ribs and the top profile for the side registration of the ribs. I then freehanded the curve, cut them all out of card stock and stacked them all together to see the flow and which ones needed to be adjusted. After I was happy with that I transfered the shape to acrylic and cut out the ribs.
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #5066301)
+Author    : star-art
+Date      : May 9, 2020 at 3:33 PM
+────────────────────────────────────────────────────────────────────────
+
+To get it as accurate as possible, you really need the top view, bottom view, side view, front view, and rear view. I wrote one of the only books on the subject of making drawings for something like this. You can get it here:
+
+www.ModelersNotebook.com
+
+I agree, a 3D model is the way to go. If you can find one that's accurate enough, it will serve as a three-dimensional template to help you figure out the correct cross section at each location.
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #5066424)
+Author    : TazMan2000
+Date      : May 9, 2020 at 11:51 PM
+Reactions : Like — laellee
+────────────────────────────────────────────────────────────────────────
+
+laellee said:
+
+			As Tazman mentioned, it's a bit of a workaround (and probably seems counter intuitive to scratchbuilding), but a 3d model of the fuselage can be used to generate templates. I did something similar to make my Jaws Orca bulkheads. A little bit of legwork, but it saved a lot of guesswork. There's an available  free 3d model HERE ; not sure of the accuracy, but that could be used.
+		
+
+Click to expand...
+
+Wow, that really is a nice 3D model. I'm no expert but it does look fairly accurate to me.
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #5067103)
+Author    : Firefox3D
+Date      : May 11, 2020 at 6:06 PM
+────────────────────────────────────────────────────────────────────────
+
+Downloaded that model and it's kind of a mess, can fix it so it's watertight for printing if you can use it.
+
+No disrepect meant to the person who created it, especially as it's free.
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #5068606)
+Author    : kevlar1983
+Date      : May 15, 2020 at 3:47 AM
+────────────────────────────────────────────────────────────────────────
+
+TazMan2000 said:
+
+			Also, I'm pretty sure the person who created the frame out of acrylic made the card model and had it laser cut.
+
+TazMan2000
+		
+
+Click to expand...
+
+That would make sense. Was considering getting the Moebius kit and cutting it to pieces to scale that up but couldnt bring myself to vandalise a kit like that
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 9

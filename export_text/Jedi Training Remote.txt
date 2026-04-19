@@ -1,0 +1,1144 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Jedi Training Remote
+URL    : https://www.therpf.com/forums/threads/jedi-training-remote.257419/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #3926124)
+Author    : newmagrathea
+Date      : Mar 7, 2016 at 8:36 PM
+Reactions : Like — Mike J., mirdhim, Randy13
+────────────────────────────────────────────────────────────────────────
+
+[IMAGE: IMG_3138.JPG]
+
+Hey guy's I'm about to kick off building a Jedi Training Remote. This is my first foray into kit-bashing, studio scale, and molding and casting. I believe that I have all the parts and materials except for some paint. I do have some questions that my research hasn't been able to confirm and was wondering if anyone knew. 
+
+Questions
+
+1. The wheels from the Kenworth kit some have lugs and some do not. We do know that both were used on the real prop, but do we know how many of each? And what is the pattern of placement for them if any?
+
+2. I've seen a few people use different thicknesses of styrene sheet to make the panels, do we know what the actual thickness is? I've seen both .75 mm(.030 inch), and .5 mm(.020 inch), seems like quite a disparity. 
+
+3. I'm wanting some opinions on the best way to make parts chrome. I'm going to be molding and casting the parts because there are not enough in each kit and the wheels need to be chrome. I've seen some people send out for a plating service, I've seen some paint with high gloss black paint and then spray chrome paint with some success. I'm sure there are more options and I'd like to know about them and the pros and cons of each. 
+
+List of Parts
+
+1/48 Tamiya Panther "Type G" (Bandai is what was used on the real prop)
+
+	cupola
+
+	hatches
+
+	tank treads
+
+	Detail - part #3
+
+	Muffler Baffle
+
+1/24 ERTL Kenworth T-600 kit #6976 — or — AMT Midnight Express
+
+	Chrome truck rims * 8
+
+	Axle Bracket * 8
+
+1/72 scale M-4(A3E8) Sherman tank model by Hasegawa
+
+	Male Wheel halves
+
+	Female wheel halves
+
+1/72 Airfix Panzer IV
+
+	wheels
+
+2x  6 inch Plastruct VHH-600 hemispheres
+
+Scotchlite Reflective tape to back the hubs and cupolas
+
+Styrene sheet
+
+Paint + alternative colors
+
+Floquil Freight Car Brown = Testers acrylic rust
+
+Floquil Reefer White = white testers primer, Tamiya flat white, Testers Insignia white
+
+testers flint gray = Tamiya Haze Grey
+
+Here are my resources for researching this project. If you know of any others please share them with me. 
+
+Resources
+
+http://www.therpf.com/showthread.php?t=42132
+
+http://www.therpf.com/showthread.php?t=150843
+
+http://www.partsofsw.com/tremote/trremote.htm
+
+Am I forgetting anything? I plan to post progress but I don't expect that this will go very fast seeing as how there a lot of first for me. Any tips, ideas, tricks are welcome. Thanks for looking.
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #3926402)
+Author    : marvin
+Date      : Mar 8, 2016 at 6:38 AM
+Reactions : Like — newmagrathea
+────────────────────────────────────────────────────────────────────────
+
+Can't help you with your questions since i haven't built the remote yet. But good luck on your first build. I'm sure you will enjoy the hell out of it.
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #3926445)
+Author    : Jedi Dade
+Date      : Mar 8, 2016 at 7:46 AM
+Reactions : Like — newmagrathea, -... . .- --..
+────────────────────────────────────────────────────────────────────────
+
+BrundelFly you seek...
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #3926636)
+Author    : Clerval
+Date      : Mar 8, 2016 at 11:38 AM
+────────────────────────────────────────────────────────────────────────
+
+At some point, you've just got to start in. You can go a hell of a long way on this project before you need any of the detail bits, working out the rim placement, detail placement, how to properly cut the plate detail so that it conforms to the sphere and gives you a good vertical spacing, etc... and getting into building a good way along. Cast your parts if you're satisfied they're matches or near enough. Only thing I'd do, if you can or choose, is get a good look at what the Tamiya has v the original Bandai. (I'm guessing Detail 3 is the U-Brackets) Scale match is nice, but they may not have agreed on some 1:1 dimensions, and you might find that nudging something a mm or a few one way or another throws you off. In short though, get going. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #3926658)
+Author    : mirdhim
+Date      : Mar 8, 2016 at 11:59 AM
+Reactions : Like — newmagrathea
+────────────────────────────────────────────────────────────────────────
+
+Hi newmagrathea!
+
+You have overtaken me!!
+
+I was working in this model too.
+
+I would have liked to make a complete thread with all the process. (dedicated especially to Luke0312, who was the first member, who helped me in this forum, providing me a copy of the Brundelfly's tutorial)
+
+I have the bandai Panther, and you can ask me for same cast you want.
+
+There are some conflictive points in the measures, if you have same doubts, I´ll tell you what I decided (Only "my" interpretation, of course, I´m not any expert)
+
+Thanks to post this so generously
+
+Cheers.
+
+Luis
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #3926961)
+Author    : newmagrathea
+Date      : Mar 8, 2016 at 7:24 PM
+────────────────────────────────────────────────────────────────────────
+
+Clerval said:
+
+			At some point, you've just got to start in. You can go a hell of a long way on this project before you need any of the detail bits, working out the rim placement, detail placement, how to properly cut the plate detail so that it conforms to the sphere and gives you a good vertical spacing, etc... and getting into building a good way along. Cast your parts if you're satisfied they're matches or near enough. Only thing I'd do, if you can or choose, is get a good look at what the Tamiya has v the original Bandai. (I'm guessing Detail 3 is the U-Brackets) Scale match is nice, but they may not have agreed on some 1:1 dimensions, and you might find that nudging something a mm or a few one way or another throws you off. In short though, get going. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+Yeah, I'm going to start teaching myself about casting and molding first. I'll probably go through the materials that were sent in the kit I bough and watch some videos on youtube. 
+
+If anyone knows of some good resources for learning about it please send it my way.
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #3926963)
+Author    : newmagrathea
+Date      : Mar 8, 2016 at 7:27 PM
+────────────────────────────────────────────────────────────────────────
+
+mirdhim said:
+
+			Hi newmagrathea!
+
+You have overtaken me!!
+
+I was working in this model too.
+
+I would have liked to make a complete thread with all the process. (dedicated especially to Luke0312, who was the first member, who helped me in this forum, providing me a copy of the Brundelfly's tutorial)
+
+I have the bandai Panther, and you can ask me for same cast you want.
+
+There are some conflictive points in the measures, if you have same doubts, I´ll tell you what I decided (Only "my" interpretation, of course, I´m not any expert)
+
+Thanks to post this so generously
+
+Cheers.
+
+Luis
+		
+
+Click to expand...
+
+Nice, if you want to post your progress on here you can. I'm going to cast all my parts so I hopefully don't destroy any original parts. I would definitely be interested in some of your cast parts of the Bandai, I can send you a set of Tamiya cast parts. I would love to see the difference in sizes and detail.
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #3926979)
+Author    : -... . .- --..
+Date      : Mar 8, 2016 at 7:48 PM
+────────────────────────────────────────────────────────────────────────
+
+Why not just buy a 1/48 Bandai Panther G? It's not at all rare, was used on bunches of studio-built miniatures, and I'm pretty sure you can still buy them on eBay, where it looks like they're  actually a good bit cheaper than that Tamiya kit.
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #3927284)
+Author    : newmagrathea
+Date      : Mar 9, 2016 at 7:24 AM
+────────────────────────────────────────────────────────────────────────
+
+-... . .- --.. said:
+
+			Why not just buy a 1/48 Bandai Panther G? It's not at all rare, was used on bunches of studio-built miniatures, and I'm pretty sure you can still buy them on eBay, where it looks like they're  actually a good bit cheaper than that Tamiya kit.
+		
+
+Click to expand...
+
+Interesting, I couldn't find any for sale when I was hunting down these kits. I may just pick one up that is found on the bay. Thanks
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #3928293)
+Author    : mirdhim
+Date      : Mar 10, 2016 at 9:55 AM
+Reactions : Like — newmagrathea
+────────────────────────────────────────────────────────────────────────
+
+newmagrathea said:
+
+			Yeah, I'm going to start teaching myself about casting and molding first. I'll probably go through the materials that were sent in the kit I bough and watch some videos on youtube. 
+
+If anyone knows of some good resources for learning about it please send it my way.
+		
+
+Click to expand...
+
+This site has a lot of information, tutorials.....
+
+http://www.smooth-on.com/
+
+Luis.
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #3948810)
+Author    : kuwahero
+Date      : Apr 3, 2016 at 12:51 AM
+────────────────────────────────────────────────────────────────────────
+
+I'm contemplating building one of these too. Have only bought a Hasegawa kit so far. Lol
+
+I will watch your progress on this with great interest. Thanks for sharing so far, it has helped me discover what parts/kits I need to find.
+
+kuwahero
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #3951369)
+Author    : BrundelFly
+Date      : Apr 5, 2016 at 9:31 PM
+Reactions : Like — Shadowknight, spoudastis, newmagrathea
+────────────────────────────────────────────────────────────────────────
+
+I keep getting PMs asking for my tutorial.
+
+I found it,  but it needs some tweaking. Ill post a link soon.
+
+Frank
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #3951610)
+Author    : swpropmaker
+Date      : Apr 6, 2016 at 7:21 AM
+────────────────────────────────────────────────────────────────────────
+
+Frank your Training remote was one of the first things ever offered as a kit!  what was it 95ish?  Post some pics of it and lets take a gander!
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #3951703)
+Author    : Jedi Dade
+Date      : Apr 6, 2016 at 9:09 AM
+────────────────────────────────────────────────────────────────────────
+
+Frank's training remote was one of the first props I actually built...  now building that kit would feel like cheating 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+But so glad I did it.
+
+That remote and my first wildly inaccurate DL-44...  good times...
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #3960882)
+Author    : KrokoHunter
+Date      : Apr 15, 2016 at 6:37 AM
+────────────────────────────────────────────────────────────────────────
+
+-... . .- --.. said:
+
+			Why not just buy a 1/48 Bandai Panther G? It's not at all rare, was used on bunches of studio-built miniatures, and I'm pretty sure you can still buy them on eBay, where it looks like they're  actually a good bit cheaper than that Tamiya kit.
+		
+
+Click to expand...
+
+That's where you'd be wrong ... they've sold to crazy prices on ePay lately :/
+
+- - - Updated - - -
+
+for your questions:
+
+1. the Hubs - 6 with bolts, 2 without 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+2. plastic ... I used 1mm which I vac-formed over the hemispheres, and then cut all the parts from that ...... so probably close to .75mm
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #3966478)
+Author    : newmagrathea
+Date      : Apr 22, 2016 at 11:55 AM
+────────────────────────────────────────────────────────────────────────
+
+KrokoHunter said:
+
+			That's where you'd be wrong ... they've sold to crazy prices on ePay lately :/
+
+- - - Updated - - -
+
+for your questions:
+
+1. the Hubs - 6 with bolts, 2 without 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+2. plastic ... I used 1mm which I vac-formed over the hemispheres, and then cut all the parts from that ...... so probably close to .75mm
+		
+
+Click to expand...
+
+Yeah, I've looked for that kit and only seen one for sale on the bay, it's price went higher than all of the supplies I've bought combined so I passed on it. Thanks for the info. I need to get to work on this, I've been busy with yard work now that it's getting nice out.
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #3973207)
+Author    : spoudastis
+Date      : Apr 30, 2016 at 8:50 PM
+────────────────────────────────────────────────────────────────────────
+
+BrundelFly said:
+
+			I keep getting PMs asking for my tutorial.
+
+I found it,  but it needs some tweaking. Ill post a link soon.
+
+Frank
+		
+
+Click to expand...
+
+really excited for you to re-post, all my parts are ready to go!  really appreciate you bringing this back for us latecomers.
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #3974084)
+Author    : tomm1999
+Date      : May 2, 2016 at 6:05 AM
+Reactions : Like — newmagrathea
+────────────────────────────────────────────────────────────────────────
+
+Best advice I can give is to buy some WED clay and start making molds.  Its surprising easy on simple, non detailed items.  Once you get into items with a lot of details is where it becomes tough. 
+
+A vacuum degasser helps but try not to trap air bubbles and you should be OK.  Pour slowly and shake/ tap the mold box while pouring.
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #3978754)
+Author    : Yubnub
+Date      : May 8, 2016 at 5:34 AM
+────────────────────────────────────────────────────────────────────────
+
+Wow! Such an excellent source of info! Thanks for putting this up. (As if I needed any help spending money!) 
+
+looking around at at model kits and things, has anyone tried using some of the newer AMT Peterbilt 359 1/25 models? Their availability is quite good but was wondering about the parts being even remotely useable. The wheels look spot on but not sure about the axle mounts being present. 
+
+Has anyone modelled these up in CAD before? The greeblies are tiny but I've had great success with shapeways hi res frosted detail material before. I'd be happy to give it a try if someone is willing to lend some parts that I can measure up.
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #3978792)
+Author    : kuwahero
+Date      : May 8, 2016 at 7:05 AM
+────────────────────────────────────────────────────────────────────────
+
+Picked up a 00 Airfix Panzer IV which I read somewhere was the correct model, however, I can't seem to find where I referenced this. I believe this scale is 1/76? 
+
+I see you have a 1/72 Airfix Panzer IV. Did I get the wrong one? or is the diff in size negligible.
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #3980052)
+Author    : newmagrathea
+Date      : May 9, 2016 at 7:31 PM
+────────────────────────────────────────────────────────────────────────
+
+kuwahero said:
+
+			Picked up a 00 Airfix Panzer IV which I read somewhere was the correct model, however, I can't seem to find where I referenced this. I believe this scale is 1/76? 
+
+I see you have a 1/72 Airfix Panzer IV. Did I get the wrong one? or is the diff in size negligible.
+		
+
+Click to expand...
+
+I don't know the kit you bought, but scale-wise it shouldn't make much difference. However sometimes the parts are not the same in different sized kits.
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #3980583)
+Author    : kuwahero
+Date      : May 10, 2016 at 11:35 AM
+────────────────────────────────────────────────────────────────────────
+
+This is the box image from my Ebay purchase. Listed as Airfix A208V OO Scale 1/76 Panzer IV - 1st release Type 3D Boxing 1971-72
+
+[IMAGE: 324034-a57920c0b6d5b13b316b83a787442443.jpg]
+
+Will take some pics of the sprues when I get a chance.
+
+[IMAGE: https://www.therpf.com/forums/attachments/_57-jpg.623267/]
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #3986997)
+Author    : KrokoHunter
+Date      : May 18, 2016 at 5:52 AM
+────────────────────────────────────────────────────────────────────────
+
+no wories ... that is the right set 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #3988114)
+Author    : newmagrathea
+Date      : May 19, 2016 at 10:39 AM
+────────────────────────────────────────────────────────────────────────
+
+So does that mean I have the incorrect kit at 1:72?
+
+KrokoHunter said:
+
+			no wories ... that is the right set 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #3988141)
+Author    : KrokoHunter
+Date      : May 19, 2016 at 11:02 AM
+Reactions : Like — newmagrathea
+────────────────────────────────────────────────────────────────────────
+
+nope .. for some reason Airfix at some point rebranded all their OO Scale (1/76) to 1/72 ...... but it's the same set
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #3988268)
+Author    : kuwahero
+Date      : May 19, 2016 at 1:32 PM
+Reactions : Like — Vacformedhero
+────────────────────────────────────────────────────────────────────────
+
+Thanks Kroko. Good to know
+
+Managed to pick up a 1/24 Kenworth and a 1/48 Bandai Panther. Time to learn about moulding I think!
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #3988616)
+Author    : Rats
+Date      : May 19, 2016 at 9:21 PM
+────────────────────────────────────────────────────────────────────────
+
+KrokoHunter said:
+
+			nope .. for some reason Airfix at some point rebranded all their OO Scale (1/76) to 1/72 ...... but it's the same set
+		
+
+Click to expand...
+
+Revell did the same for some of their old Matchbox re-releases. 1/76 originally, now boxed as 1/72..
+────────────────────────────────────────────────────────────────────────
+Post #28  (forum post #4073381)
+Author    : newmagrathea
+Date      : Sep 8, 2016 at 10:31 AM
+────────────────────────────────────────────────────────────────────────
+
+I was pulling parts from my kits to get this going and I ran into a snag. I can't find this part that is circled below. I believe it's the muffler baffle but I don't see it in the Tamiya kit. Is it only present in the Bandai kit? Are there alternatives, or am I just missing it?
+
+[IMAGE: https://www.therpf.com/forums/attachments/whichkit-png.1392660/]
+────────────────────────────────────────────────────────────────────────
+Post #29  (forum post #4073494)
+Author    : Clerval
+Date      : Sep 8, 2016 at 12:26 PM
+────────────────────────────────────────────────────────────────────────
+
+It's from the Bandai Panther, can't help as to the Tamiya yes/no.
+
+sry to say I'm not likely to see my molds for a few days (I'm dumping my donor kits and will find them mixed in with) but I will assume that anyone who has built the remote may have access to this mold and resin... perhaps saving you having to find the Fuman/Bandai (though I'd really recommend it)
+────────────────────────────────────────────────────────────────────────
+Post #30  (forum post #4073566)
+Author    : newmagrathea
+Date      : Sep 8, 2016 at 2:08 PM
+────────────────────────────────────────────────────────────────────────
+
+Clerval said:
+
+			It's from the Bandai Panther, can't help as to the Tamiya yes/no.
+
+sry to say I'm not likely to see my molds for a few days (I'm dumping my donor kits and will find them mixed in with) but I will assume that anyone who has built the remote may have access to this mold and resin... perhaps saving you having to find the Fuman/Bandai (though I'd really recommend it)
+		
+
+Click to expand...
+
+Yeah, I've been trying to get my hands on a Bandai but I keep getting out bid.
+────────────────────────────────────────────────────────────────────────
+Post #31  (forum post #4073611)
+Author    : Clerval
+Date      : Sep 8, 2016 at 3:14 PM
+Reactions : Like — newmagrathea
+────────────────────────────────────────────────────────────────────────
+
+ah, yes that'll do it, the scourge of the hobby. Well, hopefully someone will be able to step up soon. Fortunately, you can 'complete' the remote without them; the drawback being that as you weather it, you won't have the pieces in place to interact with any wash or splatter, and so will want to hold off or re-work those areas to unify your surface details and main form.
+────────────────────────────────────────────────────────────────────────
+Post #32  (forum post #4073815)
+Author    : stonky
+Date      : Sep 8, 2016 at 8:31 PM
+Reactions : Like — newmagrathea
+────────────────────────────────────────────────────────────────────────
+
+If you're in a "scratching" mood this is what I get for the measurements:
+
+[IMAGE: 353380-c8b038fd1f7a3cd6f43ddf526c25c69c.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #33  (forum post #4073924)
+Author    : KrokoHunter
+Date      : Sep 9, 2016 at 1:23 AM
+────────────────────────────────────────────────────────────────────────
+
+I think I have a dumpmold of the part, if interested .... but almost out of resin
+────────────────────────────────────────────────────────────────────────
+Post #34  (forum post #4074031)
+Author    : newmagrathea
+Date      : Sep 9, 2016 at 6:24 AM
+────────────────────────────────────────────────────────────────────────
+
+KrokoHunter said:
+
+			I think I have a dumpmold of the part, if interested .... but almost out of resin
+		
+
+Click to expand...
+
+Yeah, that would be great. I'm planning on making a gang mold of parts so I'd only need one.
+────────────────────────────────────────────────────────────────────────
+Post #35  (forum post #4074032)
+Author    : KrokoHunter
+Date      : Sep 9, 2016 at 6:27 AM
+Reactions : Like — newmagrathea
+────────────────────────────────────────────────────────────────────────
+
+newmagrathea said:
+
+			Yeah, that would be great. I'm planning on making a gang mold of parts so I'd only need one.
+		
+
+Click to expand...
+
+Ok ... I'll be away from home most of the following week, shooting new LEGO TV ads .... but I'll look into it, when I'm back 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Have a great weekend
+────────────────────────────────────────────────────────────────────────
+Post #36  (forum post #4085979)
+Author    : KrokoHunter
+Date      : Sep 26, 2016 at 11:12 AM
+────────────────────────────────────────────────────────────────────────
+
+Sorry for the delay .... casting the parts for you now, with my last drops of resin .... soon need to restash 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #37  (forum post #4086276)
+Author    : newmagrathea
+Date      : Sep 26, 2016 at 6:32 PM
+────────────────────────────────────────────────────────────────────────
+
+KrokoHunter said:
+
+			Sorry for the delay .... casting the parts for you now, with my last drops of resin .... soon need to restash 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+Crap, I don't need them now. I just won an ebay auction for the kit, I just got on here to post about it. :facepalm Thank you so much for doing that still.
+────────────────────────────────────────────────────────────────────────
+Post #38  (forum post #4086427)
+Author    : KrokoHunter
+Date      : Sep 27, 2016 at 12:32 AM
+Reactions : Like — newmagrathea
+────────────────────────────────────────────────────────────────────────
+
+No worries .. I can use the castings myself 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Happy building
+────────────────────────────────────────────────────────────────────────
+Post #39  (forum post #4086528)
+Author    : stonky
+Date      : Sep 27, 2016 at 5:47 AM
+Reactions : Like — newmagrathea
+────────────────────────────────────────────────────────────────────────
+
+newmagrathea said:
+
+			Crap, I don't need them now. I just won an ebay auction for the kit, I just got on here to post about it. :facepalm Thank you so much for doing that still.
+		
+
+Click to expand...
+
+There's a penalty - build pics. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #40  (forum post #4090100)
+Author    : newmagrathea
+Date      : Oct 1, 2016 at 5:44 PM
+Reactions : Like — Vacformedhero
+────────────────────────────────────────────────────────────────────────
+
+The Panther kit came in and I can confirm that the part is not in the Tamiya kit. Tamiya molded the muffler as one piece so you don't have to assemble it unlike the Bandai. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3518-jpg.1394893/]
+
+This is what the Tamiya muffler looks like.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3522-jpg.1394894/]
+
+Here is the assembly instructions and muffler baffle in the Bandai kit.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3519-jpg.1394895/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3520-jpg.1394896/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3521-jpg.1394897/]
+────────────────────────────────────────────────────────────────────────
+Post #41  (forum post #4090342)
+Author    : Vacformedhero
+Date      : Oct 2, 2016 at 3:14 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks for sharing
+────────────────────────────────────────────────────────────────────────
+Post #42  (forum post #4122246)
+Author    : Halliwax
+Date      : Nov 14, 2016 at 3:01 PM
+────────────────────────────────────────────────────────────────────────
+
+is there any blue prints of where all the model parts go? or measurements for all the styrene panels?
+
+i love all the model kit parts used to make this happen!
+────────────────────────────────────────────────────────────────────────
+Post #43  (forum post #4122339)
+Author    : newmagrathea
+Date      : Nov 14, 2016 at 5:14 PM
+────────────────────────────────────────────────────────────────────────
+
+halliwax said:
+
+			is there any blue prints of where all the model parts go? or measurements for all the styrene panels?
+
+i love all the model kit parts used to make this happen!
+		
+
+Click to expand...
+
+Not really, there is BrundleFly’s instructions which have some measurements, it’s pretty handy. But no blue print that I know of. One thing that I’ve noticed reading through a couple build threads is that your measurement are slightly different if you vac-form your parts VS cut them out of flat styrene.
+────────────────────────────────────────────────────────────────────────
+Post #44  (forum post #4122359)
+Author    : Halliwax
+Date      : Nov 14, 2016 at 5:48 PM
+────────────────────────────────────────────────────────────────────────
+
+newmagrathea said:
+
+			Not really, there is BrundleFly’s instructions which have some measurements, it’s pretty handy. But no blue print that I know of. One thing that I’ve noticed reading through a couple build threads is that your measurement are slightly different if you vac-form your parts VS cut them out of flat styrene.
+		
+
+Click to expand...
+
+is his instructions here on the site or off site? you got me itching to read this stuff!
+────────────────────────────────────────────────────────────────────────
+Post #45  (forum post #4122411)
+Author    : newmagrathea
+Date      : Nov 14, 2016 at 6:52 PM
+────────────────────────────────────────────────────────────────────────
+
+halliwax It's in a thread somewhere, I can't find the original link but I have both versions and threw it up on my server. I hope he doesn't mind.
+
+V1
+
+http://newmagrathea.com/forumimg/JediTrainingRemote/building_the_jedi_training_remote.pdf
+
+V2
+
+http://newmagrathea.com/forumimg/JediTrainingRemote/TRAINING_REMOTE_Ver2.pdf
+────────────────────────────────────────────────────────────────────────
+Post #46  (forum post #4122421)
+Author    : Halliwax
+Date      : Nov 14, 2016 at 7:19 PM
+────────────────────────────────────────────────────────────────────────
+
+newmagrathea said:
+
+			@halliwax It's in a thread somewhere, I can't find the original link but I have both versions and threw it up on my server. I hope he doesn't mind.
+
+V1
+
+http://newmagrathea.com/forumimg/JediTrainingRemote/building_the_jedi_training_remote.pdf
+
+V2
+
+http://newmagrathea.com/forumimg/JediTrainingRemote/TRAINING_REMOTE_Ver2.pdf
+
+Click to expand...
+
+AWESOME!!!! thank you for these links!!
+────────────────────────────────────────────────────────────────────────
+Post #47  (forum post #4122623)
+Author    : Vacformedhero
+Date      : Nov 15, 2016 at 5:21 AM
+Reactions : Like — newmagrathea
+────────────────────────────────────────────────────────────────────────
+
+kuwahero said:
+
+			Thanks Kroko. Good to know
+
+Managed to pick up a 1/24 Kenworth and a 1/48 Bandai Panther. Time to learn about moulding I think!
+		
+
+Click to expand...
+
+I pulled my first cast parts this week, following a while of looking at punished props videos and DaveG brilliant documented moulds building methods , it worked extremely well , trial size silicone moulds kit is used up , and I'm manufacturing y-wing greebles 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #48  (forum post #4122719)
+Author    : theyrenotdolls
+Date      : Nov 15, 2016 at 8:14 AM
+────────────────────────────────────────────────────────────────────────
+
+any chance you going to be offering out a kit of remote cast parts?
+
+Den
+
+Vacformedhero said:
+
+			I pulled my first cast parts this week, following a while of looking at punished props videos and @DaveG brilliant documented moulds building methods , it worked extremely well , trial size silicone moulds kit is used up , and I'm manufacturing y-wing greebles 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #49  (forum post #4122943)
+Author    : Halliwax
+Date      : Nov 15, 2016 at 2:32 PM
+Reactions : Like — Big Dog
+────────────────────────────────────────────────────────────────────────
+
+Vacformedhero said:
+
+			I pulled my first cast parts this week, following a while of looking at punished props videos and @DaveG brilliant documented moulds building methods , it worked extremely well , trial size silicone moulds kit is used up , and I'm manufacturing y-wing greebles 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+theyrenotdolls said:
+
+			any chance you going to be offering out a kit of remote cast parts?
+
+Den
+		
+
+Click to expand...
+
+im also curious if you will be offering kits?
+
+anyone know where to purchase the domes? can you tell i got the bug for this...
+────────────────────────────────────────────────────────────────────────
+Post #50  (forum post #4122949)
+Author    : Big Dog
+Date      : Nov 15, 2016 at 2:49 PM
+────────────────────────────────────────────────────────────────────────
+
+Here is the link for the domes. This is the link for them in acrylic, but moving to the base hemisphere dome page on their site you can search for specific materials and there is also ABS available. That would be a softer material that is easier to scribe, but won't be see-through.
+────────────────────────────────────────────────────────────────────────
+Post #51  (forum post #4122954)
+Author    : Halliwax
+Date      : Nov 15, 2016 at 3:08 PM
+────────────────────────────────────────────────────────────────────────
+
+Big Dog said:
+
+Here is the link for the domes. This is the link for them in acrylic, but moving to the base hemisphere dome page on their site you can search for specific materials and there is also ABS available. That would be a softer material that is easier to scribe, but won't be see-through.
+		
+
+Click to expand...
+
+thank you very much!
+────────────────────────────────────────────────────────────────────────
+Post #52  (forum post #4123275)
+Author    : Vacformedhero
+Date      : Nov 16, 2016 at 4:26 AM
+Reactions : Like — Halliwax
+────────────────────────────────────────────────────────────────────────
+
+halliwax said:
+
+			im also curious if you will be offering kits?
+
+anyone know where to purchase the domes? can you tell i got the bug for this...
+		
+
+Click to expand...
+
+thanks guys , I am not currently building the remote , y-wing and falcon, my comment was a supporting comment to @Therenotdolls to go for it, if I can do it anyone can 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ , I am interested in doing a remote down the line  , I would use plastruct hemisphere, you need a good foundation and it's what ILM used ,
+────────────────────────────────────────────────────────────────────────
+Post #53  (forum post #4126228)
+Author    : Halliwax
+Date      : Nov 20, 2016 at 7:52 PM
+────────────────────────────────────────────────────────────────────────
+
+im curious what the molds looked like to cast the 18 wheel wheels.
+────────────────────────────────────────────────────────────────────────
+Post #54  (forum post #4127642)
+Author    : newmagrathea
+Date      : Nov 22, 2016 at 9:04 PM
+Reactions : Like — Vacformedhero
+────────────────────────────────────────────────────────────────────────
+
+halliwax said:
+
+			im curious what the molds looked like to cast the 18 wheel wheels.
+		
+
+Click to expand...
+
+I’m planning to make a two part mold. I have been worried about how to do it and where to make the pour hole and vent hole. That part and the cupola have me worried. I need to just sit down and make the dump molds of the other parts so I can get some experience with this under my belt.
+────────────────────────────────────────────────────────────────────────
+Post #55  (forum post #4127996)
+Author    : Halliwax
+Date      : Nov 23, 2016 at 12:44 PM
+────────────────────────────────────────────────────────────────────────
+
+newmagrathea said:
+
+			I’m planning to make a two part mold. I have been worried about how to do it and where to make the pour hole and vent hole. That part and the cupola have me worried. I need to just sit down and make the dump molds of the other parts so I can get some experience with this under my belt.
+		
+
+Click to expand...
+
+I've been searching youtube for casted items similar to this wheel. i was even wondering if plugging the hole in the wheel with clay and casting it that way would work. i would have to dremel out the hole that was filled on each wheel. but i think thats my easiest solution. 
+
+then again how many wheels come in 1 model?
+────────────────────────────────────────────────────────────────────────
+Post #56  (forum post #4128004)
+Author    : Jedi Dade
+Date      : Nov 23, 2016 at 12:58 PM
+────────────────────────────────────────────────────────────────────────
+
+You guys know that you can still find this kit or something that has similar wheels on ebay right?
+
+http://www.ebay.com/sch/i.html?_odk...ilt+AMT.TRS0&_nkw=1/24+peterbilt+AMT&_sacat=0
+
+Jedi Dade
+────────────────────────────────────────────────────────────────────────
+Post #57  (forum post #4128042)
+Author    : marvin
+Date      : Nov 23, 2016 at 1:46 PM
+────────────────────────────────────────────────────────────────────────
+
+Similar or the same?
+────────────────────────────────────────────────────────────────────────
+Post #58  (forum post #4128899)
+Author    : newmagrathea
+Date      : Nov 25, 2016 at 9:10 AM
+────────────────────────────────────────────────────────────────────────
+
+There should be plenty of wheels if you get a whole kit, depending on the kit, but I don't think they will all be chromed though. I know that there are several kits that have the same wheels in them, but I think that there are only two that have the correct axle brackets, the T600A and the Midnight Express. I think that there are some trailer kits that also have the right stuff but I don't know what they are called. I've also heard that there are two different styles of lugs in the wheel, but I don't think we know which was used on the actual prop.
+────────────────────────────────────────────────────────────────────────
+Post #59  (forum post #4130705)
+Author    : Jedi Dade
+Date      : Nov 28, 2016 at 9:44 AM
+────────────────────────────────────────────────────────────────────────
+
+That type of wheel is common on a lot of peterbilts... if you're already considering castings etc...  you might as well go one better with a 99% similar wheel that is already chromed.  Just sayin' 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+  I forget the exact kit I grabbed my from but NOBODY ever looked at it and noticed anything was not 100%.  Mine had 8 wheels 4 with lugs and 4 without.  Somebody told me that the original was that way as well...  but I'm not going to claim its 100% true - I've not done the research to determine it.
+
+Jedi Dade
+────────────────────────────────────────────────────────────────────────
+Post #60  (forum post #4269363)
+Author    : Seneca
+Date      : Jun 23, 2017 at 9:11 AM
+────────────────────────────────────────────────────────────────────────
+
+do you know what parts these are and what kit it comes from? I cant seem to find them in my kits?
+		
+		
+	
+
+	
+
+[IMAGE: 410267-1a0a00a736798d0452205f89ce6c2500.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #61  (forum post #4269399)
+Author    : marvin
+Date      : Jun 23, 2017 at 10:07 AM
+────────────────────────────────────────────────────────────────────────
+
+Top one isnt a kit part. Its part of the EMA / Plastruct half sphere.
+────────────────────────────────────────────────────────────────────────
+Post #62  (forum post #4269410)
+Author    : Seneca
+Date      : Jun 23, 2017 at 10:16 AM
+────────────────────────────────────────────────────────────────────────
+
+marvin said:
+
+			Top one isnt a kit part. Its part of the EMA / Plastruct half sphere.
+		
+
+Click to expand...
+
+ ya ok and the other part is from a Bandai Panther I guess.. ugg guess ill have to try and buy one for that part..
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #63  (forum post #4269413)
+Author    : KrokoHunter
+Date      : Jun 23, 2017 at 10:21 AM
+────────────────────────────────────────────────────────────────────────
+
+Yes it's from the Panther indeed
+────────────────────────────────────────────────────────────────────────
+Post #64  (forum post #4269435)
+Author    : Seneca
+Date      : Jun 23, 2017 at 11:00 AM
+────────────────────────────────────────────────────────────────────────
+
+ok this kit is is expensive! dose any one a single cast of this part I could buy from them? 
+		
+		
+	
+
+	
+
+[IMAGE: 410275-3d30020c0840e214a4e509478e7b5834.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #65  (forum post #4269437)
+Author    : KrokoHunter
+Date      : Jun 23, 2017 at 11:02 AM
+────────────────────────────────────────────────────────────────────────
+
+I might have some. I have a mold, but not sure my resin is any good anymore
+────────────────────────────────────────────────────────────────────────
+Post #66  (forum post #4269463)
+Author    : Seneca
+Date      : Jun 23, 2017 at 11:58 AM
+────────────────────────────────────────────────────────────────────────
+
+If you do that would be tremendously helpful!
+────────────────────────────────────────────────────────────────────────
+Post #67  (forum post #4343155)
+Author    : theyrenotdolls
+Date      : Oct 30, 2017 at 5:26 PM
+────────────────────────────────────────────────────────────────────────
+
+Does anyone know How many rear wheels comes in the semi truck kit? Do I have to get 2 kits?
+────────────────────────────────────────────────────────────────────────
+Post #68  (forum post #4343669)
+Author    : newmagrathea
+Date      : Oct 31, 2017 at 2:27 PM
+────────────────────────────────────────────────────────────────────────
+
+I can't recall off the top of my head. I know that the kit I have does not have enough that are chromed. I was planning to mold and cast the wheels and send them off to be chromed or experiment with some metalizer paints.
+
+theyrenotdolls said:
+
+			Does anyone know How many rear wheels comes in the semi truck kit? Do I have to get 2 kits?
+		
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #69  (forum post #4344394)
+Author    : Treadwell
+Date      : Nov 1, 2017 at 5:45 PM
+────────────────────────────────────────────────────────────────────────
+
+If you use both kinds of rim in the kit (different amount of lugnuts) then it provides enough. IIRC, doing so is accurate, although better minds might chime in to comfirm/deny.
+────────────────────────────────────────────────────────────────────────
+Post #70  (forum post #4346936)
+Author    : newmagrathea
+Date      : Nov 6, 2017 at 8:10 AM
+────────────────────────────────────────────────────────────────────────
+
+I've tried to find out how many and the location of the rims that have lugs. One person told me that there are only two that have lugs, the rest don't. No word of the position of them, but I do know that one is definitely on the top hemisphere.
+
+Treadwell said:
+
+			If you use both kinds of rim in the kit (different amount of lugnuts) then it provides enough. IIRC, doing so is accurate, although better minds might chime in to comfirm/deny.
+		
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #71  (forum post #4353129)
+Author    : sstinson
+Date      : Nov 16, 2017 at 10:10 AM
+────────────────────────────────────────────────────────────────────────
+
+Ive begun this build as well!  Good to see another Kansas City resident here!  I am in Lees Summit.
+────────────────────────────────────────────────────────────────────────
+Post #72  (forum post #4354238)
+Author    : 3DImpact
+Date      : Nov 18, 2017 at 9:31 AM
+Reactions : Like — el toro, DJb1138, Lee S
+────────────────────────────────────────────────────────────────────────
+
+I've been wanting one of these for a while, so I decided to hop in and start a build as well. I've got one last kit arriving on Monday and I'll have all the kit parts I need.
+
+In the mean time I decided to get going on the styrene annuli that surround the truck rims. I knew that I wanted to cut these from styrene that was conformed to the spherical shape but I didn't want to go to the effort of making a little vac forming setup, so I decided to just build a little wooden frame to hold the styrene sheet, warm the sheet carefully with a heat gun, and then pull the frame over a 6-inch glass globe lighting fixture. I did a test with 0.02"-thick (0.5mm) styrene and could see that the slight thinning from the stretching meant that 0.03"-thick (0.75mm) sheet was the way to go here.
+
+[IMAGE: 437034-b573d7b46d8567f0000ca9ca4b6ac2c5.jpg]
+
+[IMAGE: 437035-c28b7bd7e55f5d79515331f8c99024fe.jpg]
+
+[IMAGE: 437036-046af4820864ffc1c2a3e84c102e861a.jpg]
+
+[IMAGE: 437037-dc0f416c89a4bf4f626a58bfafe17cd1.jpg]
+
+With the sheet conformed to the proper spherical shape I marked off one or two great circles to form the guides for the annuli centers and for the 7.8-mm gaps to be cut later on. Given the limitations of the size of the Evergreen sheets I used I could only get a spherical draw large enough to cut two annuli from each draw. I'll use the in-between scrap to cut some of the other rectangular pieces that are needed. Based on builds in other threads I measured off arcs along the sphere of 55.5mm and 32mm for the outer and inner annuli diameters, respectively. Then used a compass to mark off the annuli on the draw for cutting.
+
+[IMAGE: 437051-14bc15e11bade37161a890ac85bcf53b.jpg]
+
+[IMAGE: 437038-1250beae4716bd54e3d8b01d636d841e.jpg]
+
+[IMAGE: 437043-82c023b18da7c4465fa1339990e6208b.jpg]
+
+I had thought about having the annuli laser cut, but decided that I could just hand cut them and sand to shape neatly enough to work.
+
+[IMAGE: 437044-4dc64dc225fcec98313b04b4cefabb8d.jpg]
+
+[IMAGE: 437045-77e06dea2aabe190f5eb477bb103d4aa.jpg]
+
+[IMAGE: 437046-6a84b3a11a952ba6a6f9d9b74205064f.jpg]
+
+I really cannot recommend strongly enough how much nicer it is to have these stryene pieces cut from sheet that conforms to the underlying sphere. And it's not at all hard to do, even without a vac forming setup. That's why I posted this here, so others may benefit from seeing this easy alternative technique...
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #73  (forum post #4354968)
+Author    : newmagrathea
+Date      : Nov 19, 2017 at 4:01 PM
+────────────────────────────────────────────────────────────────────────
+
+That is friggin brilliant. I'm going to have to steal that idea for my build.
+
+3DImpact said:
+
+			I've been wanting one of these for a while, so I decided to hop in and start a build as well. I've got one last kit arriving on Monday and I'll have all the kit parts I need.
+
+In the mean time I decided to get going on the styrene annuli that surround the truck rims. I knew that I wanted to cut these from styrene that was conformed to the spherical shape but I didn't want to go to the effort of making a little vac forming setup, so I decided to just build a little wooden frame to hold the styrene sheet, warm the sheet carefully with a heat gun, and then pull the frame over a 6-inch glass globe lighting fixture. I did a test with 0.02"-thick (0.5mm) styrene and could see that the slight thinning from the stretching meant that 0.03"-thick (0.75mm) sheet was the way to go here.
+
+View attachment 774252View attachment 774253View attachment 774254View attachment 774255
+
+With the sheet conformed to the proper spherical shape I marked off one or two great circles to form the guides for the annuli centers and for the 7.8-mm gaps to be cut later on. Given the limitations of the size of the Evergreen sheets I used I could only get a spherical draw large enough to cut two annuli from each draw. I'll use the in-between scrap to cut some of the other rectangular pieces that are needed. Based on builds in other threads I measured off arcs along the sphere of 55.5mm and 32mm for the outer and inner annuli diameters, respectively. Then used a compass to mark off the annuli on the draw for cutting.
+
+View attachment 774273View attachment 774256View attachment 774261
+
+I had thought about having the annuli laser cut, but decided that I could just hand cut them and sand to shape neatly enough to work.
+
+View attachment 774262View attachment 774263View attachment 774264
+
+I really cannot recommend strongly enough how much nicer it is to have these stryene pieces cut from sheet that conforms to the underlying sphere. And it's not at all hard to do, even without a vac forming setup. That's why I posted this here, so others may benefit from seeing this easy alternative technique...
+
+Dan
+		
+
+Click to expand...
+
+- - - Updated - - -
+
+Yeah, awesome. I grew up in Lee's Summit. I'm in South KC now.
+
+sstinson said:
+
+			Ive begun this build as well!  Good to see another Kansas City resident here!  I am in Lees Summit.
+		
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #74  (forum post #4363266)
+Author    : 3DImpact
+Date      : Dec 4, 2017 at 7:15 PM
+Reactions : Like, Love — BajaTym, DJb1138, MartinSivertsen
+────────────────────────────────────────────────────────────────────────
+
+Spent much of the last two weeks working to finish my build:
+
+[IMAGE: 439839-9049d1e012139323f7270ae533c40708.jpg]
+
+[IMAGE: 439840-b428a8df894c0a3e729cba32418a5ebd.jpg]
+
+[IMAGE: 439841-02b175b2c2ad818a1cff488e9c34b5a3.jpg]
+
+[IMAGE: 439842-12daab1663509f3950c4088b4f769c16.jpg]
+
+[IMAGE: 439843-23540f0bb1f0aabffd986d31d94ff0e8.jpg]
+
+[IMAGE: 439844-7042f641f3e7f72e742c9117a4a8cb9d.jpg]
+
+Seemed a shame to grunge it all up, but that's how it has to be to be properly finished. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: 439847-685213512ce839b4553b7598464353a1.jpg]
+
+[IMAGE: 439846-1a63eb4544d45aa2ad82ec974284c64e.jpg]
+
+[IMAGE: 439845-ed9d0262921ba3b20ad8b8367a1f47f5.jpg]
+
+[IMAGE: 439848-c1774fa5b3ce5f577f88be360fe0ac64.jpg]
+
+Nice to see the reflective tape doing its job! I'm going to stare at it for a few more days to decide if I want to grunge it up a bit more. Seems like the actual prop has a bit more and what is there seems to have a bit more contrast to it (of course, I've only ever seen photos on the web - I wish I could see it in person). But I'm going to let this settle for a bit (it does look pretty nice in person - hard to get the photos to show the subtlety of the layers of wash) before slopping a bit more on.
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #75  (forum post #4363628)
+Author    : theyrenotdolls
+Date      : Dec 5, 2017 at 12:16 PM
+────────────────────────────────────────────────────────────────────────
+
+Dan, 
+
+that's a beautiful job!
+
+what did you do to connect the two spheres and fill the gaps there? What did you use to drill the holes for the rims?
+
+also I think the clear remote with no paint but with all the parts attached looks really awesome as well. 
+
+3DImpact said:
+
+			Spent much of the last two weeks working to finish my build:
+
+View attachment 778176View attachment 778179
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #76  (forum post #4363695)
+Author    : 3DImpact
+Date      : Dec 5, 2017 at 1:49 PM
+Reactions : Like — DJb1138, newmagrathea
+────────────────────────────────────────────────────────────────────────
+
+Thanks!
+
+Of course, when gluing the two dome hemispheres together  there's never a perfect match fit at the seam. There's a little  misalignment by half a millimeter here and there around the  circumference. I found the best native alignment I could to minimize the  minor misalignments and then made sure to mark that orientation so that  I could map out my 45-degree sector marks and have it all fit together  again when it came to final gluing. I did feel some minor registration marks that seem to be molded into the domes, but I ignored those and even sanded both edges flat and smooth to get as close a fit as I could. Advantageously, the 15-minute epoxy  that I used to do the actual final gluing effectively created it's own  gap filler, so all  I had to do when it was all set was to rough sand to take all the edges  and extruded epoxy off and then smooth sand to finish. There was one  small section of an inch or two where thought maybe there might still be  a bit of a seam so I ran some Elmer's white wood putty filler across  that and smooth sanded again. I did a test when done of just closing  my eyes and running my hands around the sphere randomly to see if I  could locate the seam by feel. Each time I thought I had it it turned  out  to be just a minor scratch at some higher latitude - I never could  locate it by feel. And it looks to have held up nicely when painted -  nice and smooth!
+
+I cut the holes for the rims by hand,  effectively. I drilled pilot holes at the marked centers just large  enough to fit my Dremel cylindrical grinder bits into (I didn't want to  run the risk of messing up the holes with bigger drill bits that I found  tend to 'grab' at times and make rough, almost cracked holes). I then  Dremel ground to within about a half millimeter of the measured and  marked circles that matched the truck rim. For the final fit I just  hand-sanded the holes to final fit, checking along the way with test  fits of one of the truck rims until they slid in just right. The final  holes were very smooth and perfectly round - it's amazing what you can  do by hand.
+
+When it came to the final gluing in place of the  truck rims I found that I had to sand the rims themselves a bit to fit  exactly perfectly with the glue applied. I had one scare with one of the  rims where it locked up about half way into the hole with the glue on  it - I had to pry it back out with pliers and reset everything.  Thankfully, I was able to rescue it and get it to fit in just fine, but  it was a stressful close call.
+
+Another pointer is that the  styrene sheet for the annuli around the rims is rather smooth and I  found that I got a better surface for gluing the tank wheels and  u-brackets by slightly roughening the surface in those spots with very  fine grit sandpaper.
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #77  (forum post #4365491)
+Author    : newmagrathea
+Date      : Dec 8, 2017 at 10:46 AM
+────────────────────────────────────────────────────────────────────────
+
+Great tips! I will keep all of this in mind for whenever I stop being lazy and build mine.
+────────────────────────────────────────────────────────────────────────
+Post #78  (forum post #4365630)
+Author    : xl97
+Date      : Dec 8, 2017 at 3:57 PM
+────────────────────────────────────────────────────────────────────────
+
+AMAZING!
+
+One of my unicorn props!!!
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 78

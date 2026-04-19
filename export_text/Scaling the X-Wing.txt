@@ -1,0 +1,17 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Scaling the X-Wing
+URL    : https://www.therpf.com/forums/threads/scaling-the-x-wing.271016/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #4149432)
+Author    : Ambaryerno
+Date      : Dec 24, 2016 at 9:04 AM
+────────────────────────────────────────────────────────────────────────
+
+So, as most of you know by now after Rogue One's release, LucasFilm decided to monkey with its ship sizes again, measuring the X-wing at 13.4 meters, as opposed to the traditional 12.5. This is particularly odd as the X-wing is one of the few ships secondary sources like the old WEG RPG (the origin for most of the Legends-era technical specs) got more or less RIGHT, since the original studio models scaled to approximately 12.75m.
+
+However it's long been bugging me: How EXACTLY is the X-wing's dimensions being measured in the first place? Are they only measuring from the nose to the cap at the end of the fuselage? Or are they going all the way out to the end of the thrust nozzles? Changing from measuring the fuselage vs. measuring the total overall length with engines could easily cause that exact discrepancy, as it appears the engines add roughly another meter of length.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 1

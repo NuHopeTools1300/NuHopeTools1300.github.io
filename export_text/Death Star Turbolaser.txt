@@ -1,0 +1,1057 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Death Star Turbolaser
+URL    : https://www.therpf.com/forums/threads/death-star-turbolaser.299271/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #4579228)
+Author    : TazMan2000
+Date      : Feb 9, 2019 at 3:38 PM
+Reactions : Like — Wulfenray, jkno, acesh007
+────────────────────────────────────────────────────────────────────────
+
+Finally getting time to spend on the Turbolaser from Wasili. This will not be motorized with lights, just a static display. I thought about doing so, but I would have probably spent hundreds of dollars more on it an would have played with it for about an hour, then it would have spent the rest of its life on a shelf.
+
+Wasili and others have researched this one impeccably and have reproduced the detail accurately in the kit. I also have the Salzo detail kit.
+
+My kit will be a little different as I am incorporating gun elevation mechanism with a 3D print. Slots cut out  in the kit set the position of the external elevation gets with inserting a styrene cut out.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1212-jpg.987718/]
+
+ 
+
+For the most part, it followed a circular path, but at the ends it flatted out to the superstructure. This also showed everything underneath as in wires and motors, which to me took a bit of the realism away from it. Since, if this was real, there would be thick metal and perhaps a seal that would prevent any debris or bits of destroyed ships from getting into the elevation mechanism.  So I decided to design something a little different. I measured the arc and created a simple 3D elevation mechanism in TinkerCAD. The round "hubs" fit the cut out arc precisely. There was one problem though. The axis was lower than on the filming model. But the gun can elevate with its arc of rotation aligned with the gears. A trade-off toward film accuracy. Probably the first of many.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1211-jpg.987734/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1210-jpg.987741/]
+
+ 
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #4579301)
+Author    : anamorphicWayne
+Date      : Feb 9, 2019 at 6:46 PM
+────────────────────────────────────────────────────────────────────────
+
+Whoa! It's coming along nicely Tazman. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Looking forward to more updates.
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #4579326)
+Author    : TazMan2000
+Date      : Feb 9, 2019 at 8:02 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks Wayne.
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #4580774)
+Author    : TazMan2000
+Date      : Feb 12, 2019 at 9:10 PM
+Reactions : Like — Wulfenray, ffoeg
+────────────────────────────────────────────────────────────────────────
+
+Internal components finished. Shield is in place and rotates smoothly when installed. Parts loosened to show the rail the shield rides on.The barrel elevation can only go up to about 45 degrees, then the internal components will be visible, but that shouldn't be a problem, since the turbolaser barrels rarely elevated past 30-35 degrees. After I glue the elevation mechanism in, comes the fun part of greeblying.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1214-jpg.989140/]
+
+ 
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #4580780)
+Author    : anamorphicWayne
+Date      : Feb 12, 2019 at 9:33 PM
+────────────────────────────────────────────────────────────────────────
+
+Nice Taz!! Very Nice!! 
+
+Does this kit have the internal greeblies?
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #4580844)
+Author    : TazMan2000
+Date      : Feb 13, 2019 at 6:24 AM
+────────────────────────────────────────────────────────────────────────
+
+anamorphicWayne said:
+
+			Nice Taz!! Very Nice!!
+
+Does this kit have the internal greeblies?
+		
+
+Click to expand...
+
+Internal greeblies? Huh?
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #4580880)
+Author    : anamorphicWayne
+Date      : Feb 13, 2019 at 8:18 AM
+────────────────────────────────────────────────────────────────────────
+
+You mentioned 'the internal components' so I assume you can call them greeblies as well?
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #4580898)
+Author    : TazMan2000
+Date      : Feb 13, 2019 at 8:54 AM
+────────────────────────────────────────────────────────────────────────
+
+Oh. I thought you were referring to some kitbashed parts that ILM used internally and was wondering who the heck has ID'ed them and where is the thread. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+The internal components are just the mechanical ones I printed out, as the Turbolaser kit never came with the elevation mechanism, axle, or anything inside.
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #4580903)
+Author    : anamorphicWayne
+Date      : Feb 13, 2019 at 9:01 AM
+────────────────────────────────────────────────────────────────────────
+
+Got it. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #4581132)
+Author    : DaddyfromNaboo
+Date      : Feb 13, 2019 at 6:14 PM
+────────────────────────────────────────────────────────────────────────
+
+I am SO watching this! I once thought that a turbo laser tower might be a simple and easy project, but the scratch builds that i have seen done over the years taught me something different ...
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #4581135)
+Author    : TazMan2000
+Date      : Feb 13, 2019 at 6:40 PM
+Reactions : Like — DaddyfromNaboo
+────────────────────────────────────────────────────────────────────────
+
+DaddyfromNaboo , I'm not in the league with the other guys who built this before me, but I'm going to try to make a strong effort in making it as accurate, but "realistic"(?) as I can.  I hope not to disappoint. 
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #4582608)
+Author    : TazMan2000
+Date      : Feb 17, 2019 at 12:47 PM
+Reactions : Like — DaddyfromNaboo, Wulfenray
+────────────────────────────────────────────────────────────────────────
+
+I had to tweak the 3D printed elevation mechanism to make it fit properly so as not to have too much separation or binding when moving. I also glued a turntable bearing to the top of the lower tower and printed a ring to hide that part. The gears, pictured below didn't take as long as I thought, but I still have to do the other side.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1217-jpg.990604/]
+
+ 
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #4582718)
+Author    : anamorphicWayne
+Date      : Feb 17, 2019 at 5:08 PM
+────────────────────────────────────────────────────────────────────────
+
+Coming along nicely Taz. Say, does the turbo lasers have the same greeblies as the x-wing's top/rear section?
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #4582799)
+Author    : TazMan2000
+Date      : Feb 17, 2019 at 10:19 PM
+Reactions : Like — DaddyfromNaboo
+────────────────────────────────────────────────────────────────────────
+
+Yes. The model department used that part on both the X-wing and the Turbolaser.
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #4582801)
+Author    : anamorphicWayne
+Date      : Feb 17, 2019 at 10:25 PM
+────────────────────────────────────────────────────────────────────────
+
+Geez, I didn't know that.
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #4583694)
+Author    : TazMan2000
+Date      : Feb 19, 2019 at 8:35 PM
+Reactions : Like — Wulfenray
+────────────────────────────────────────────────────────────────────────
+
+Not a big update. I 3D printed the gun mounts so that they sit centered on the tube (only partially seen in the photo). There is a LOT of Salzo casted parts that have to be sorted. Looking at the actual prop photos you really don't realize all the detail that went into it, until you start finding the one part that you need and gluing it to a particular spot. Generally the castings are good and picked up a lot of intricate detail, but there is always a need to fill in large bubble holes.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1223-jpg.991630/]
+
+ 
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #4583724)
+Author    : anamorphicWayne
+Date      : Feb 19, 2019 at 10:25 PM
+────────────────────────────────────────────────────────────────────────
+
+Stupendous!! How much of the tower is there for this kit?
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #4583833)
+Author    : TazMan2000
+Date      : Feb 20, 2019 at 6:25 AM
+────────────────────────────────────────────────────────────────────────
+
+This section, and a larger section below. I'm going to put it on a flat base made to look similar to the DS.
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #4583914)
+Author    : Richard Baker
+Date      : Feb 20, 2019 at 9:58 AM
+────────────────────────────────────────────────────────────────────────
+
+TazMan2000 said:
+
+			Yes. The model department used that part on both the X-wing and the Turbolaser.
+
+TazMan2000
+		
+
+Click to expand...
+
+IIRC it also appears on side of the Nebulon B's aft engine module
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #4583960)
+Author    : TazMan2000
+Date      : Feb 20, 2019 at 11:51 AM
+────────────────────────────────────────────────────────────────────────
+
+That's interesting. I wonder if it made it out of the SW universe and into anything else that the ILM model ship had a hand in.
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #4585581)
+Author    : TazMan2000
+Date      : Feb 24, 2019 at 3:12 PM
+Reactions : Like — Wulfenray, petro, Fett_Ish
+────────────────────────────────────────────────────────────────────────
+
+A few more pictures of the top of the turret. Still need to put on the ladders, a couple of panels and the top and rear greeblies in additions to some parts on the bottom of the elevation mechanism.  This is tedious but rewarding.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1240-jpg.993160/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1241-jpg.993161/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1242-jpg.993162/]
+
+ 
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #4585642)
+Author    : anamorphicWayne
+Date      : Feb 24, 2019 at 5:04 PM
+────────────────────────────────────────────────────────────────────────
+
+WoW Taz!! It's really coming along. Excellent work.
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #4585654)
+Author    : TazMan2000
+Date      : Feb 24, 2019 at 5:26 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks again Wayne.
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #4588628)
+Author    : TazMan2000
+Date      : Mar 3, 2019 at 4:00 PM
+Reactions : Like — Wulfenray, Studio Kitbash, Fett_Ish
+────────────────────────────────────────────────────────────────────────
+
+Finished most of the greeblies on the turbolaser tower. There is the "air-conditioner" mount (maybe two?) and its associated greeblies that need to get added on the top of the lower section of the tower, as well as the railing around the door. After that, onto the barrels.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1255-jpg.995805/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1256-jpg.995806/]
+
+ 
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #4588640)
+Author    : joberg
+Date      : Mar 3, 2019 at 4:18 PM
+────────────────────────────────────────────────────────────────────────
+
+Wow!  Coming along great
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #4588644)
+Author    : anamorphicWayne
+Date      : Mar 3, 2019 at 4:34 PM
+────────────────────────────────────────────────────────────────────────
+
+WhoaHoHo!!  Outstanding Taz, Outstanding. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #4589300)
+Author    : vectorzero
+Date      : Mar 5, 2019 at 4:07 AM
+────────────────────────────────────────────────────────────────────────
+
+Just realised my reference shots of this miniature would be missed in a search because I've used neither 'turbo laser' nor 'turret' in the title. I've tagged it properly now.
+
+Hope this link is of use.
+────────────────────────────────────────────────────────────────────────
+Post #28  (forum post #4589327)
+Author    : TazMan2000
+Date      : Mar 5, 2019 at 6:22 AM
+Reactions : Like — vectorzero
+────────────────────────────────────────────────────────────────────────
+
+vectorzero said:
+
+			Just realised my reference shots of this miniature would be missed in a search because I've used neither 'turbo laser' nor 'turret' in the title. I've tagged it properly now.
+
+Hope this link is of use.
+		
+
+Click to expand...
+
+Yes, it is. So much so that I think I may need to make a couple of changes. Thanks.
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #29  (forum post #4589836)
+Author    : TazMan2000
+Date      : Mar 6, 2019 at 7:41 AM
+Reactions : Like — Wulfenray, Studio Kitbash
+────────────────────────────────────────────────────────────────────────
+
+Thanks joberg and Wayne.
+
+After going through the whole bag of Salzo greeblies, I noticed that I was shorted several key greeblies on the barrels. I really don't like making a casting of a casting, but in this case I guess I'll have to with several pieces. What a PITA.
+
+The current state of the filming model has several pieces broken off of it. I couldn't understand how that could happen with such a valuable piece of movie history, until I started breaking pieces off on my own model, simply by moving it around on my workbench.
+
+The filming model had several greeblies on the "air conditioner" mounts that were identified, but they weren't included in the initial run of greeblies.  Since this model, at best, is only going to be about 98-99 percent studio accurate (maybe less, with the following pics), I am going to do the mounts, my way. (Imagine Frank Sinatra's "I did it my way" playing in the background). 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1273-jpg.996899/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1272-jpg.996900/]
+
+ 
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #30  (forum post #4590088)
+Author    : TazMan2000
+Date      : Mar 6, 2019 at 7:04 PM
+Reactions : Like, Haha — NS4, Wulfenray, Studio Kitbash
+────────────────────────────────────────────────────────────────────────
+
+Another update:
+
+Feeling a bit worn out today, but still wanted to make headway on this project. So I drilled out the holes for the bent brass railing and decided to use some of the sprue parts that rarely get used to make something.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1276-jpg.997023/]
+
+It may not be a convenient place to go #2, but guaranteed you will have some privacy. Unless the rebels come 'a calling.
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #31  (forum post #4590138)
+Author    : anamorphicWayne
+Date      : Mar 6, 2019 at 10:21 PM
+────────────────────────────────────────────────────────────────────────
+
+HaHa, is that.....a.....a space terlet?
+────────────────────────────────────────────────────────────────────────
+Post #32  (forum post #4590418)
+Author    : TazMan2000
+Date      : Mar 7, 2019 at 1:13 PM
+────────────────────────────────────────────────────────────────────────
+
+anamorphicWayne said:
+
+			HaHa, is that.....a.....a space terlet?
+		
+
+Click to expand...
+
+Perhaps a turret terlet?
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #33  (forum post #4590468)
+Author    : anamorphicWayne
+Date      : Mar 7, 2019 at 2:58 PM
+────────────────────────────────────────────────────────────────────────
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #34  (forum post #4592073)
+Author    : TazMan2000
+Date      : Mar 11, 2019 at 8:00 PM
+Reactions : Like — Wulfenray, Studio Kitbash, eagle1
+────────────────────────────────────────────────────────────────────────
+
+As mentioned previously, I did not get a complete set of greeblies...which may be somewhat of a good thing, because after studying the filming prop, I noticed, ILM's choice was rather uninteresting. (Yes, I know they were probably in a rush to get some pieces built) So, I replaced the missing pieces with my choice of greeblies. I added more nurnies where I thought it was lacking, most notably in the back of the barrels as access panels. I'm happy with that, even though it is a bit less accurate. I still have to cast a few pieces on the front, but basically the model is built.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1281-jpg.998967/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1282-jpg.998968/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1283-jpg.998969/]
+
+ 
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #35  (forum post #4592100)
+Author    : anamorphicWayne
+Date      : Mar 11, 2019 at 9:24 PM
+────────────────────────────────────────────────────────────────────────
+
+Lookin' Positively Great Taz!!!
+
+Didn't realize there's so much detailing on this model. Coming along nicely.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Looking forward to the painting stage.
+────────────────────────────────────────────────────────────────────────
+Post #36  (forum post #4592163)
+Author    : TazMan2000
+Date      : Mar 12, 2019 at 5:30 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks Wayne. I still have to build the base for this, and painting....well, you know how I feel about that. It will go on the Waiting to Paint Shelf. Spring time is near so many I'll get the itch to paint rather than build.
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #37  (forum post #4592206)
+Author    : anamorphicWayne
+Date      : Mar 12, 2019 at 7:46 AM
+────────────────────────────────────────────────────────────────────────
+
+Yeah, I hear ya.
+────────────────────────────────────────────────────────────────────────
+Post #38  (forum post #4594266)
+Author    : TazMan2000
+Date      : Mar 17, 2019 at 5:12 PM
+Reactions : Like, Love — hartmann, Wulfenray, Studio Kitbash
+────────────────────────────────────────────────────────────────────────
+
+The base has become almost another project. Still lots of greeblies, panels and piping to add. This project finally is too big for the display shelf at 26x25x18 inches high.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1293-jpg.1000971/]
+
+ 
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #39  (forum post #4594289)
+Author    : t2sides
+Date      : Mar 17, 2019 at 6:01 PM
+────────────────────────────────────────────────────────────────────────
+
+WOW!!!  Just WOW Taz!!!!   This is AMAZING, and I love the little extras you've done with it.  MOST IMPRESSIVE!
+────────────────────────────────────────────────────────────────────────
+Post #40  (forum post #4594301)
+Author    : anamorphicWayne
+Date      : Mar 17, 2019 at 6:45 PM
+────────────────────────────────────────────────────────────────────────
+
+WICKED TAZ, WICKED!!!  Me's think you over-done yourself this time. Splendid job.
+
+Hey, you could have it next to your Y.
+────────────────────────────────────────────────────────────────────────
+Post #41  (forum post #4594340)
+Author    : TazMan2000
+Date      : Mar 17, 2019 at 8:58 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks t2sides , anamorphicWayne and all the members who "liked" which I forgot to that previously. 
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #42  (forum post #4594468)
+Author    : OTnROTSfan
+Date      : Mar 18, 2019 at 8:28 AM
+────────────────────────────────────────────────────────────────────────
+
+That's looking awesome!  Now I know where a lot of the big bag of parts will go when I get to mine... 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #43  (forum post #4594550)
+Author    : TazMan2000
+Date      : Mar 18, 2019 at 11:40 AM
+────────────────────────────────────────────────────────────────────────
+
+OTnROTSfan said:
+
+			That's looking awesome!  Now I know where a lot of the big bag of parts will go when I get to mine... 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+If you have the kit from Wasili, I hope you received the panel map where all the numbered panels go. I didn't get anything and just winged it with what looked like the correct size.
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #44  (forum post #4594563)
+Author    : OTnROTSfan
+Date      : Mar 18, 2019 at 12:30 PM
+────────────────────────────────────────────────────────────────────────
+
+Yeah, same kit... will need to check on that.  Good to know.
+────────────────────────────────────────────────────────────────────────
+Post #45  (forum post #4595253)
+Author    : Analyzer
+Date      : Mar 20, 2019 at 8:01 AM
+────────────────────────────────────────────────────────────────────────
+
+Wow that is awesome!
+────────────────────────────────────────────────────────────────────────
+Post #46  (forum post #4595376)
+Author    : TazMan2000
+Date      : Mar 20, 2019 at 2:21 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks Analyzer.
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #47  (forum post #4595604)
+Author    : Studio Kitbash
+Date      : Mar 21, 2019 at 7:48 AM
+────────────────────────────────────────────────────────────────────────
+
+Does anyone still make the greeblie set for this thing?  If so, can you let me know who and how to contact them?
+────────────────────────────────────────────────────────────────────────
+Post #48  (forum post #4595750)
+Author    : TazMan2000
+Date      : Mar 21, 2019 at 1:27 PM
+────────────────────────────────────────────────────────────────────────
+
+Studio Kitbash said:
+
+			Does anyone still make the greeblie set for this thing?  If so, can you let me know who and how to contact them?
+		
+
+Click to expand...
+
+I don't think Mike is making them anymore, but you can ask. His username is mslz22.
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #49  (forum post #4596556)
+Author    : TazMan2000
+Date      : Mar 23, 2019 at 12:39 PM
+Reactions : Like — Wulfenray, Frenzy1971, Jkirkon
+────────────────────────────────────────────────────────────────────────
+
+The base build is complete. The turbolaser still needs those greeblies case for the front of the boxy parts on the barrels as well as the piping that goes out from the top rear and down the back plate on the right and left. Easy.
+
+I did a little extra plating on the top part of the bottom section of tower. The filming model had just a few panels on each corner. The 3D printed ring will hide the lazy susan bearing.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1310-jpg.1002853/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1312-jpg.1002854/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1313-jpg.1002855/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1314-jpg.1002856/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1315-jpg.1002857/]
+
+ 
+
+The pic below is a little past the maximum barrel elevation with the bottom of the barrel shields just showing. The barrels look a little odd at this angle.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1317-jpg.1002858/]
+
+ 
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #50  (forum post #4596581)
+Author    : DJSLY
+Date      : Mar 23, 2019 at 2:21 PM
+────────────────────────────────────────────────────────────────────────
+
+Very nice job 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #51  (forum post #4596601)
+Author    : BajaTym
+Date      : Mar 23, 2019 at 3:58 PM
+────────────────────────────────────────────────────────────────────────
+
+This is a fantastic build! The detail is superb. I can't wait to see the paint and weathering!
+────────────────────────────────────────────────────────────────────────
+Post #52  (forum post #4596621)
+Author    : TazMan2000
+Date      : Mar 23, 2019 at 5:11 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks DJSLY and BAJA TYM. Be patient for the paint job. Not my favourite task.
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #53  (forum post #4596647)
+Author    : anamorphicWayne
+Date      : Mar 23, 2019 at 7:02 PM
+────────────────────────────────────────────────────────────────────────
+
+'Sweet Mother of Pearl'. Impressive work, Taz. Outstanding.
+────────────────────────────────────────────────────────────────────────
+Post #54  (forum post #4596696)
+Author    : TazMan2000
+Date      : Mar 23, 2019 at 10:41 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks again Wayne.
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #55  (forum post #4629941)
+Author    : TazMan2000
+Date      : Jun 15, 2019 at 9:18 PM
+Reactions : Like — Wulfenray, Studio Kitbash, Richard Baker
+────────────────────────────────────────────────────────────────────────
+
+Finally getting to the painting.
+
+I pre-shaded the panel lines with a dark grey and followed up with several coats of Tamiya XF-80 Royal Light Grey. The barrels I painted with Vallejo Neutral Grey. Initially that went on light, but darkened up nicely after drying. Some touch ups are required. I will forgo the wash, for some dry brushing to bring out the panel lines a bit more and I'm going to do the weathering with pastels.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1460-jpg.1029571/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1462-jpg.1029572/]
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #56  (forum post #4629944)
+Author    : stonky
+Date      : Jun 15, 2019 at 9:39 PM
+────────────────────────────────────────────────────────────────────────
+
+So good!
+────────────────────────────────────────────────────────────────────────
+Post #57  (forum post #4629952)
+Author    : anamorphicWayne
+Date      : Jun 15, 2019 at 10:33 PM
+────────────────────────────────────────────────────────────────────────
+
+Totally Stupendous Taz!!!
+────────────────────────────────────────────────────────────────────────
+Post #58  (forum post #4629968)
+Author    : jkno
+Date      : Jun 16, 2019 at 12:50 AM
+────────────────────────────────────────────────────────────────────────
+
+Superb!!
+────────────────────────────────────────────────────────────────────────
+Post #59  (forum post #4629982)
+Author    : wasili
+Date      : Jun 16, 2019 at 2:48 AM
+────────────────────────────────────────────────────────────────────────
+
+Brilliant job !!! Don't forget that the top is a different grey shade than the base, something that actually nobody seems to do or realize. Up to you off course as it's your model.
+
+Thx for posting the pics.
+────────────────────────────────────────────────────────────────────────
+Post #60  (forum post #4630087)
+Author    : TazMan2000
+Date      : Jun 16, 2019 at 10:00 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks for all the comments and likes fellow members.
+
+wasili , I never realized that the base and top were different shades. I just assumed from your pictures on modelermagic.com that the shade difference was from the flash reflecting back to the camera at a different angle, but since you mentioned that, I can now see the difference. I don't believe that the studio model panel lines were pre-shaded as per the photos and the light reflection, so I'm already off accuracy there, and I'm sure they didn't use Tamiya paints. 
+
+Close enough, will be my goal. I appreciate your comment, and I would like to thank you for making this kit. It will be the jewel of my collection.
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #61  (forum post #4631203)
+Author    : joberg
+Date      : Jun 19, 2019 at 1:54 PM
+────────────────────────────────────────────────────────────────────────
+
+Fantastic job on that model 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #62  (forum post #4631270)
+Author    : TazMan2000
+Date      : Jun 19, 2019 at 4:46 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks, joberg 
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #63  (forum post #4633636)
+Author    : Frenzy1971
+Date      : Jun 26, 2019 at 8:39 AM
+────────────────────────────────────────────────────────────────────────
+
+Killer work! Who knew there was so much detail in those.
+────────────────────────────────────────────────────────────────────────
+Post #64  (forum post #4633668)
+Author    : TazMan2000
+Date      : Jun 26, 2019 at 10:17 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks Frenzy1971 
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #65  (forum post #4679484)
+Author    : TazMan2000
+Date      : Oct 28, 2019 at 7:29 PM
+Reactions : Like, Love — flimzy, Bjorn, ffoeg
+────────────────────────────────────────────────────────────────────────
+
+Finished the weathering, for the most part. I tried to match the filming model as close as possible, but in addition to the filming model upper section having a slightly different grey than the lower section, the top section has significantly less weathering. Also, the weathering isn't linear from the top section to the bottom.
+
+The weathering may seem dark, but a quick test shot, shows how lighting can reduce or increase the starkness just by placement. The barrels seem a shade too light. Considering making them darker, and slightly weathering them to bring out the detail.
+
+TazMan2000
+
+[IMAGE: https://www.therpf.com/forums/attachments/20191028_182349-jpg.1078219/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/20191028_182228-jpg.1078220/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/20191028_181947-jpg.1078221/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/20191028_181911-jpg.1078222/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/20191028_181432-jpg.1078223/]
+────────────────────────────────────────────────────────────────────────
+Post #66  (forum post #4679514)
+Author    : anamorphicWayne
+Date      : Oct 28, 2019 at 9:06 PM
+────────────────────────────────────────────────────────────────────────
+
+Totally Fantastic Job TazMan. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #67  (forum post #4679516)
+Author    : TazMan2000
+Date      : Oct 28, 2019 at 9:18 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks Wayne.
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #68  (forum post #4679809)
+Author    : TazMan2000
+Date      : Oct 29, 2019 at 7:39 PM
+Reactions : Like — Hammer3246
+────────────────────────────────────────────────────────────────────────
+
+Thanks stonky , Studio Kitbash , and Hammer3246 .
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #69  (forum post #4679954)
+Author    : OTnROTSfan
+Date      : Oct 30, 2019 at 7:54 AM
+────────────────────────────────────────────────────────────────────────
+
+That turned out great!  Love it on the custom base... gives it context.
+────────────────────────────────────────────────────────────────────────
+Post #70  (forum post #4680082)
+Author    : TazMan2000
+Date      : Oct 30, 2019 at 3:27 PM
+Reactions : Haha — OTnROTSfan
+────────────────────────────────────────────────────────────────────────
+
+OTnROTSfan said:
+
+			That turned out great!  Love it on the custom base... gives it context.
+		
+
+Click to expand...
+
+Thank you. I wonder if I should paint up the toilet on page 2, to give it more context. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #71  (forum post #4680186)
+Author    : t2sides
+Date      : Oct 30, 2019 at 9:13 PM
+────────────────────────────────────────────────────────────────────────
+
+GEEZ Taz!!  That is AWESOME!!  I really like your finish and weathering!!    You really nailed the look, and I think your base is an excellent add-on that brings it together very nicely!  Great work!
+
+-Sean
+────────────────────────────────────────────────────────────────────────
+Post #72  (forum post #4680201)
+Author    : TazMan2000
+Date      : Oct 30, 2019 at 9:51 PM
+────────────────────────────────────────────────────────────────────────
+
+I appreciate the kudos t2sides 
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #73  (forum post #4681452)
+Author    : TazMan2000
+Date      : Nov 3, 2019 at 4:54 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks for the like Treadwell .
+────────────────────────────────────────────────────────────────────────
+Post #74  (forum post #4681457)
+Author    : Egon Spengler
+Date      : Nov 3, 2019 at 5:10 PM
+────────────────────────────────────────────────────────────────────────
+
+Absolutely amazing!
+────────────────────────────────────────────────────────────────────────
+Post #75  (forum post #4681511)
+Author    : TazMan2000
+Date      : Nov 3, 2019 at 9:23 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks Egon Spengler .
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #76  (forum post #4681837)
+Author    : TazMan2000
+Date      : Nov 4, 2019 at 6:42 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks for the like EddieL 
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #77  (forum post #4682750)
+Author    : TazMan2000
+Date      : Nov 7, 2019 at 1:47 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks for the like Mike J. 
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #78  (forum post #4683820)
+Author    : Wulfenray
+Date      : Nov 11, 2019 at 3:57 AM
+Reactions : Like — TazMan2000, Krest
+────────────────────────────────────────────────────────────────────────
+
+Hello, i have discover this page searching in help for my model. I am spanish, sorry for my bad english.
+
+WOW Amazing Work! you've done!. I Love the model!!!
+
+I'm also building a turbolaser diorama, And I know the work it takes to do what you've done!!. I've gone a little crazy and my diorama measures 1.40 meters tall and the base is 1,10 x 1,10 meters XD. More than 8,000 handmade pieces, some duplicates in resin and others of the typical box of remains from other models. 
+
+It has cost me a lot to do it, (I've been 3 years now) especially because I don't have many of the pieces of the kits that were used, and I had to make these pieces with the shapes similar to the originals ones, all with plasticard products.
+
+But the problem for me are the cylindrical parts. i don't have a lathe to make them.
+
+I think that the original model used the mig-21 engine for the cannons, the problem is that the Mig 21 model en 1/32 scale that have the engine is sold out at this moment 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ (Manufactured by Revell)
+
+where did you get yours? 
+
+Thanks you for the help!!
+────────────────────────────────────────────────────────────────────────
+Post #79  (forum post #4683984)
+Author    : TazMan2000
+Date      : Nov 11, 2019 at 1:07 PM
+────────────────────────────────────────────────────────────────────────
+
+Wulfenray ,
+
+Thank you for all the Likes. When this kit was manufactured many years ago by Wasili, Mike Salzo did a run of 99% of all the Greeblies needed to complete this model. I was one of the fortunate ones that managed to get a set, which included the Mig-21 engines. The tubes that house the Mig-21 engines were made by Wasili. Expertly machined. You could do this yourself, with a drill press, a milling bit, and a slide vise, or you could 3D print them, either yourself or online.
+
+I believe there is someone from Florida selling a Revell F4E and 2x 1/32 Mig-21s on eBay now for a very good price. If you miss it, keep looking. They come up for sale occasionally.
+
+I would love to see your model in progress. You should post your work on this site.
+
+On my model, I made a mistake with the axis on the guns. The guns are mounted eccentric to the axis by about an inch. Mine are right on the axis, which makes them sit lower than they should.
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #80  (forum post #4683987)
+Author    : TazMan2000
+Date      : Nov 11, 2019 at 1:20 PM
+Reactions : Like, Love — Bjorn, robn1, Studio Kitbash
+────────────────────────────────────────────────────────────────────────
+
+I stripped the paint on the cannons as after weathering they seemed too light. This time I used Tamiya XF-24 Dark Gray. I put some oak edging on the base to make it look better. It's done now. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/20191111_141356-jpg.1082957/]
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #81  (forum post #4684061)
+Author    : TazMan2000
+Date      : Nov 11, 2019 at 5:40 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks for the positive reactions. acesh007 & Scott Graham 
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #82  (forum post #4684130)
+Author    : Wulfenray
+Date      : Nov 11, 2019 at 11:07 PM
+Reactions : Like — TazMan2000
+────────────────────────────────────────────────────────────────────────
+
+Thank you TazMan2000 for all the information!!. Yes, there is no alternative but to look on eBay. Right now there is one but at 80 € (88 $) it's too expensive for me :/.
+
+And yes, I could put the pictures of my diorama, but it is not perfect. It is the first thing I do in scrath, and the first time I use resin to duplicate parts. In addition, it is not exactly the same as the original, for example, the part of the tower that is just below the cannon turret has no inclination, it is straight, I did not calculate the measurements well and I could not make it tilted because the turret had been ridiculously small. 
+
+But, well, i will put some of them 
+
+Thanks you again, and congratulations on your great work !!!
+────────────────────────────────────────────────────────────────────────
+Post #83  (forum post #4684986)
+Author    : TazMan2000
+Date      : Nov 13, 2019 at 6:58 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks Treadwell & anamorphicWayne for the likes.
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #84  (forum post #4685195)
+Author    : anamorphicWayne
+Date      : Nov 14, 2019 at 9:37 AM
+────────────────────────────────────────────────────────────────────────
+
+TazMan2000 said:
+
+			Thanks Treadwell & anamorphicWayne for the likes.
+
+TazMan2000
+		
+
+Click to expand...
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #85  (forum post #4685711)
+Author    : TazMan2000
+Date      : Nov 15, 2019 at 4:52 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks Studio Kitbash .
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #86  (forum post #4686243)
+Author    : NS4
+Date      : Nov 17, 2019 at 6:05 PM
+────────────────────────────────────────────────────────────────────────
+
+Wow - fantastic work Taz. 
+
+The weathering look amazing too - well done!
+────────────────────────────────────────────────────────────────────────
+Post #87  (forum post #4686281)
+Author    : TazMan2000
+Date      : Nov 17, 2019 at 8:39 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks NS4 .
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #88  (forum post #4692683)
+Author    : bwize
+Date      : Dec 5, 2019 at 2:47 PM
+────────────────────────────────────────────────────────────────────────
+
+Another fantastic turbo laser!  This looks incredible.
+────────────────────────────────────────────────────────────────────────
+Post #89  (forum post #4692733)
+Author    : TazMan2000
+Date      : Dec 5, 2019 at 5:04 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks bwize 
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #90  (forum post #5184629)
+Author    : hartmann
+Date      : Apr 4, 2021 at 12:31 AM
+────────────────────────────────────────────────────────────────────────
+
+Fantastic job
+
+  i wanna !
+────────────────────────────────────────────────────────────────────────
+Post #91  (forum post #5184893)
+Author    : TazMan2000
+Date      : Apr 4, 2021 at 10:31 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks hartmann .
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #92  (forum post #5184995)
+Author    : joberg
+Date      : Apr 5, 2021 at 9:18 AM
+Reactions : Like — TazMan2000
+────────────────────────────────────────────────────────────────────────
+
+Beauty Taz, beauty 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 92

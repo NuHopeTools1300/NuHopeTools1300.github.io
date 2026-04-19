@@ -1,0 +1,2144 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : First Contact Borg Cube- Studio scale-ish... 50CM3
+URL    : https://www.therpf.com/forums/threads/first-contact-borg-cube-studio-scale-ish-50cm3.354860/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #5490885)
+Author    : MangyDog
+Date      : Nov 18, 2023 at 3:39 PM
+Reactions : Like, Wow, Love — Demetrios2177, Puddingbat, The Terminator
+────────────────────────────────────────────────────────────────────────
+
+Hello all... FINALLY, while I am working on other projects. I have decided to finally start the Borg Cube. 
+
+So as some may know I'm loosing my home and will be moving at some point... But the house sale has now been delayed to February so I have decided to get this thing started with the aim to do most of the build over the Christmas period. 
+
+This really is going to be a whole host of mix media, ill be making a lot of use of my laser cutter, cutting perspex and mdf parts. Ill also be doing some 3D prints for greebles, ill even be doing some resin pours to make multiples of those greebles. 
+
+Im going to be home electro etching brass to make many of the fine detailed brass parts. 
+
+And I'm going to make myself go slowly mad gluing everything together and figuring out how to put literally thousands of parts together! 
+
+So first things first. Its Studio Scale... ish... From what I understand the First contact filming model was roughly 65CM cubed. Ill be reducing that size a bit to 50CM, as I felt this is a reasonable scale for me to build for. 
+
+The goal is to make a First Contact style Borg Cube, as there is so many random details, its going to be impossible to make a perfect replica. So the goal is to make something that actually looks like the model. There have been many born miniatures made in the past by several talented artists, but very few IMHO seem to lack that First Contact aesthetic. This is something I hope to get close to. 
+
+Outside of the basic frame and support structure, its going to pretty much artistic licence throughout. Ill be gluing and figuring out where things go as I build it. 
+
+This last few years there has been a flood of new high res photos of the filming model, and thanks to the amazing replies in the thread here... 
+
+[IMAGE: logo-og.png]
+
+						Need references! First Contact -  Borg Cube
+					
+
+Hi so yeah...  I'm going to have a go at this model...  Though not just yet.  I have at lease one other project to do first and I have some other commitments to do first...  But maybe around Christmas or early next year I might be making a start...  But here's the thing I'm really short of good...
+
+[IMAGE: favicon.png]
+
+					www.therpf.com
+				
+
+Ive been able to start putting a library of greebles and parts together. 
+
+Once this is completed Ill be putting a video together to go onto my youtube, and I will make the various design files I've made available through my super support tier on my patreon. 
+
+And I will be posting a host of step by step wip photos here 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+
+Like I say I will be doing the majority of the work over Christmas. But Today I got started with building the core frame. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/1700350163613-png.1762740/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/1700350184486-png.1762741/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/1700350197308-png.1762742/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/1700350253590-png.1762743/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/1700350271049-png.1762744/]
+
+Starting with designing the frame in Fusion360, to see how it would all work. I then ordered Alu lengths from B&Q.... and they then delivered the wrong sized L extrusions.... So I had to redesign the core frame 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ Anyway after the changes I messured up, then started cutting the strips. And this evening I managed to braze weld the alu strips into these squares...
+
+Tomorrow I will turn these into a cube! 
+
+My blow torch is a bit ****... It actually takes a surprisingly long time to get the alu hot enough for the brazing rod to melt. 
+
+The plan so far, is to build this frame and have the protruding rods as seen in the third render.
+
+With right angle brackets attached as seen in the twitter post above, ill have a base to fit a frame structure for each layer of the cube. The internal layers will be fairly basic, with all the real detail being put on the top layer. But some of this will certainly be a case of figuring it out as I go... 
+
+[IMAGE: https://www.therpf.com/forums/attachments/1700350641616-png.1762745/]
+
+I have also traced what I can of the references and built a bunch of A4 brass etch masks that I would use to electro etch...
+
+And yes I know, the masks are currently inverted... Ill fix that soon 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+
+There are a few more greebly shapes I need to draw up that I noticed more recently. But I think I have enough to make the model at least convincing...
+
+A bit later I also plan to design and build a motion control rig for a camera, And I will then do some VFX recreations with the model 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+
+Anyway thats all for now. I will update as things progress!
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #5491102)
+Author    : joberg
+Date      : Nov 19, 2023 at 12:30 PM
+────────────────────────────────────────────────────────────────────────
+
+Wow, quite the project for sure.  Looking good already in terms of plans
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #5494942)
+Author    : MangyDog
+Date      : Dec 5, 2023 at 12:41 PM
+Reactions : Like, Wow — Puddingbat, rms77, Pyramidrep
+────────────────────────────────────────────────────────────────────────
+
+So heres an over due update on whats been happening with this build.... Ive been fairly good at keeping updates on twitter... but been neglecting here... SOOooooo
+
+In the last episode I showed design files, but NOW I have parts to start showing.
+
+I was going to use an IKEA Lack table to place this model onto, but I felt the table wouldnt take the weight. So I ordered a bunch of wood, learnt that when you order planed wood, the size shown is the original pre planed size and not the final size.... Oh well.... But managed to work with what I got.
+
+I took some time between working on the table, and starting to make the aluminium frame.
+
+[IMAGE: https://www.therpf.com/forums/attachments/f_yupwzxqaeozfy-jpg.1767489/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/gabxzxqwsaasupm-jpg.1767491/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/f_yzp3gwwaejv4i-jpg.1767493/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/f_yhp5iwcaahgxm-jpg.1767494/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/f_39op8xoaasgvg-jpg.1767495/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/gagwozaxeaacbb0-jpg.1767496/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/gangppeweaawh3c-jpg.1767497/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/gangqs8xgaavz1h-jpg.1767498/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/gaxhjh1xoaaofug-jpg.1767499/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/gaxhjqowiaa299u-jpg.1767500/]
+
+I also found an old sheet of acrylic from when I was 12 years old.......... im 41 D: 
+
+It came out of an old lightbox I took apart, and draw a bunch of lcars on it to play with >.>  ... 
+
+Anyway I felt it fitting to clean the paint and sharpie ink off the acrylic and use this as the defuser for the lightbox at the core of the cube! 
+
+[IMAGE: https://www.therpf.com/forums/attachments/f_n-w0bw0aaeuce-jpg.1767501/]
+
+Ive also been doing some 3D design to print off some greebles....
+
+[IMAGE: https://www.therpf.com/forums/attachments/gairnzvxyaaoybs-jpg.1767503/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/gamkc_uwcaelgmx-jpg.1767504/]
+
+I also modelled the hatch though Im not going to make a mechanism for it to open. So probably will print it as a solid part. 
+
+I will print off the greebles, and build up some of the more panelly bits, ill then make moulds to duplicate some of them to build up the platey bits... 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+
+Ill soon be laser cutting the frames and begin building up the model 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Ive also received a bunch of SMD leds that have been pre wired up. So Im also going to be placing some small spot lights within the panels. 
+
+The aim is still not to make a perfect replica. But something you look at and instantly recognise as an accurate borg cube. 
+
+Im also going to add some extra details in some areas such as painting. 
+
+Ill be adding a bit of ambient occlusion dirt, and some panel paint work...
+
+Anyway, thats all for now. Sorry this isnt the best post im half distracted 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+
+Hope you like the progress 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #5494982)
+Author    : publiusr
+Date      : Dec 5, 2023 at 2:35 PM
+Reactions : Like — joberg, MangyDog
+────────────────────────────────────────────────────────────────────────
+
+Consider leaving some surfaces of each nested cube incomplete....perhaps missing areas with gaps that interlap to allow the eye to penetrate deeper into the structure...
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #5494984)
+Author    : MangyDog
+Date      : Dec 5, 2023 at 2:36 PM
+Reactions : Like — bwayne64, joberg, publiusr
+────────────────────────────────────────────────────────────────────────
+
+publiusr said:
+
+			Consider leaving some surfaces of each nested cube incomplete....perhaps missing areas with gaps that interlap to allow the eye to penetrate deeper into the structure...
+		
+
+Click to expand...
+
+Oh there will be gaps enough to see into the inner layers 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #5495160)
+Author    : joberg
+Date      : Dec 6, 2023 at 7:10 AM
+Reactions : Like — modelerdave, bwayne64
+────────────────────────────────────────────────────────────────────────
+
+That hatch is fantastic
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #5495305)
+Author    : bwayne64
+Date      : Dec 6, 2023 at 4:15 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Yes it is, would be so cool to see it automated. That was an awesome scene. Of course then you have to build a little Borg Sphere, ; )
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #5495368)
+Author    : Duncanator
+Date      : Dec 6, 2023 at 8:16 PM
+Reactions : Like — joberg, MangyDog, swgeek
+────────────────────────────────────────────────────────────────────────
+
+Your light-box core is similar to how we did the movie model. It didn't have a frame like yours- it was just a milky plex box. We didn't want a frame to block the light. Your frame will give all the layers a better support to hang on though.
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #5495416)
+Author    : MangyDog
+Date      : Dec 7, 2023 at 3:40 AM
+Reactions : Like — modelerdave, Duncanator, joberg
+────────────────────────────────────────────────────────────────────────
+
+Duncanator said:
+
+			Your light-box core is similar to how we did the movie model. It didn't have a frame like yours- it was just a milky plex box. We didn't want a frame to block the light. Your frame will give all the layers a better support to hang on though.
+		
+
+Click to expand...
+
+I felt given the layers that the corners/ edges of the cube not getting light from the box light wouldnt really be an issue. Though Ill be putting a few leds between layers too, so if I feel those edges are too dark, I could place one in there to add some ambient light. 
+
+Also really glad you found my WIP thread 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #5495455)
+Author    : MangyDog
+Date      : Dec 7, 2023 at 7:21 AM
+Reactions : Like, Love — Puddingbat, rms77, Pyramidrep
+────────────────────────────────────────────────────────────────────────
+
+So printed off the hatch, and its come out okay.... Though at this scale some of the details were lost a little... 
+
+[IMAGE: https://www.therpf.com/forums/attachments/1701962414254-png.1767883/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/1701962429497-png.1767884/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/1701962445692-png.1767885/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/1701962461569-png.1767886/]
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #5495595)
+Author    : Duncanator
+Date      : Dec 7, 2023 at 5:57 PM
+Reactions : Like — joberg, modelerdave, swgeek
+────────────────────────────────────────────────────────────────────────
+
+I'd say your detail looks great! And your size looks pretty close too. The round hatch on the real one was only 6 or 7 inches across.
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #5495654)
+Author    : MangyDog
+Date      : Dec 8, 2023 at 12:04 AM
+Reactions : Like — joberg, modelerdave
+────────────────────────────────────────────────────────────────────────
+
+Ohhh I guessed pretty close from the pics then. The inside hatch on mines about 4 inches, the whole prints about 6. 
+
+With my cube aiming to be about 50 to 55cm that's about right. Yours was 60 to 65cm right?
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #5495709)
+Author    : joberg
+Date      : Dec 8, 2023 at 6:31 AM
+Reactions : Like — MangyDog
+────────────────────────────────────────────────────────────────────────
+
+Hatch's details are tops...
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #5495716)
+Author    : Duncanator
+Date      : Dec 8, 2023 at 6:43 AM
+Reactions : Like — joberg, animator, MangyDog
+────────────────────────────────────────────────────────────────────────
+
+MangyDog said:
+
+			Ohhh I guessed pretty close from the pics then. The inside hatch on mines about 4 inches, the whole prints about 6.
+
+With my cube aiming to be about 50 to 55cm that's about right. Yours was 60 to 65cm right?
+		
+
+Click to expand...
+
+Those sizes sound about right. We weren't aiming for a specific dimension. It just ended up being about "this big".
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #5497758)
+Author    : MangyDog
+Date      : Dec 15, 2023 at 9:33 AM
+Reactions : Like, Love — rms77, Pyramidrep, Duncanator
+────────────────────────────────────────────────────────────────────────
+
+Sorry again for lack of updates, Im nearly ready to start actual filming of me building up the layers for the main video... but, heres a look at the bottom mostly unseen layer..... first layer 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #5497957)
+Author    : joberg
+Date      : Dec 16, 2023 at 6:11 AM
+────────────────────────────────────────────────────────────────────────
+
+Wow...no words
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #5497985)
+Author    : MangyDog
+Date      : Dec 16, 2023 at 8:11 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+I noticed twitter embedded videos are broken again... blaim elon! 
+
+Im about to mount the other first layer frames on, ill video something and upload it to imgur then embed here 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #5498048)
+Author    : MangyDog
+Date      : Dec 16, 2023 at 12:46 PM
+Reactions : Like, Love — animator, Pyramidrep, modelerdave
+────────────────────────────────────────────────────────────────────────
+
+
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #5498195)
+Author    : joberg
+Date      : Dec 17, 2023 at 4:42 AM
+────────────────────────────────────────────────────────────────────────
+
+WOW
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #5498431)
+Author    : modelerdave
+Date      : Dec 18, 2023 at 8:36 AM
+────────────────────────────────────────────────────────────────────────
+
+Exceptional work. Wow indeed.
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #5498722)
+Author    : MangyDog
+Date      : Dec 19, 2023 at 10:38 AM
+Reactions : Like, Love — rms77, Bloop, joberg
+────────────────────────────────────────────────────────────────────────
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_20231219_174356-jpg.1771267/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_20231219_174422-jpg.1771268/]
+
+Been printing off the modelled greebles I've done so far. Mostly roughly eyeballed from what I can see on the ILM cube Duncanator worked on. 
+
+The Uni Greeble is in there too 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ A couple scales of it. 
+
+And bellow this again eyeballed from the model kit. Spotted it on the ILM model, comes from the same rail artillery model kit as the uni greeble 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_20231219_174413-jpg.1771269/]
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #5499283)
+Author    : MangyDog
+Date      : Dec 21, 2023 at 4:47 PM
+Reactions : Like, Wow — rms77, JimmyB, Bloop
+────────────────────────────────────────────────────────────────────────
+
+Did some 1mm layercut acrylic. as a test. Some parts came out ok at this scale, but some not so much... Some bits ill have to beef up some thicknesses, and will also have to look at changing cutting settings. Maybe even a slow very weak beam. Or multiple passes with a weak beam.
+
+I also had a little issue with debris getting in the way. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/gb6ar2qwoaafok2-jpg.1771870/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/gb6arijx0aaq99u-jpg.1771871/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/gb6asocxkaa857s-jpg.1771872/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/gb6asmwwiaaiyyd-jpg.1771873/]
+
+I will be using brass etching, but thats going to be for the third layer. This is second layer stuff.
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #5499492)
+Author    : Duncanator
+Date      : Dec 22, 2023 at 12:44 PM
+Reactions : Like — Puddingbat, joberg, MangyDog
+────────────────────────────────────────────────────────────────────────
+
+Looking good! 
+
+You sure crammed a lot of parts on the 3D print platform. The laser cut parts are tricky when they are that thin.
+
+ I've found that having the laser move as fast as possible when cutting reduces the dwell time. Longer dwell time seems to heat up the area around the cut, which can cause warping of the parts. It's a tricky balance to find a power setting and cutting speed that does the trick. 
+
+When cutting out repeated shapes that are separated by a thin strip (like vent slots), I'll set up the cutter to do every other slot on the first pass, and then do the other slots on a second pass. This gives the material time to cool between laser passes, which helps reduce warping.
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #5499500)
+Author    : MangyDog
+Date      : Dec 22, 2023 at 1:02 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Yeah been trying to figure out how best to get lightburn to do that. I so far cant find a cut order thing.
+
+Also yeah I tried to do some 1mm PETG today, and its been a right pain. Very unpleasant smelling too.
+
+Trying PETG as im struggling to find 1mm acrylic in anything larger than letter paper.
+
+And it seems to have shot up in price too D:
+
+And yep crammed as much as I can on the build plate. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ Saves on print time
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #5499655)
+Author    : Pyramidrep
+Date      : Dec 23, 2023 at 4:43 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Great work.
+
+Large 1mm thick  acrylic sheet ( 1000x1000mm) don‘t seem to be stocked generally by plastic companies.
+
+ As a solution, if you’re looking for something in the size of A1or A2, if you look at large Clip Picture frames that you can buy in homeware stores. They have thin acrylic sheet ( instead of glass used on smaller versions) which you can easily remove and have a layer of protective plastic on both sides, making it easy to initially handle and work with. 
+
+ I found 1mm and 0.70mm. One disadvantage I found is that it tends to get more fragile and brittle after time - could be light and heat related. So some experimentation is recommended.
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #5499659)
+Author    : MangyDog
+Date      : Dec 23, 2023 at 4:58 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Yeah i had considered that, but trouble is ill be paying through the nose for that. When I should just be able to buy a2 600x400 sheets for a few quid
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #5499660)
+Author    : Pyramidrep
+Date      : Dec 23, 2023 at 5:08 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+MangyDog said:
+
+			Yeah i had considered that, but trouble is ill be paying through the nose for that. When I should just be able to buy a2 600x400 sheets for a few quid
+		
+
+Click to expand...
+
+They are very inexpensive. I think I bought 4 or 5 A2 clip frames for about €50or €60 in The Range homeware store. They are  a UK company here in Ireland. So you might have them locally.
+
+ps. I just checked the size - 800x 600mm - cost €14each.
+────────────────────────────────────────────────────────────────────────
+Post #28  (forum post #5499675)
+Author    : MangyDog
+Date      : Dec 23, 2023 at 7:10 AM
+────────────────────────────────────────────────────────────────────────
+
+Do you have a link?
+────────────────────────────────────────────────────────────────────────
+Post #29  (forum post #5499707)
+Author    : Pyramidrep
+Date      : Dec 23, 2023 at 9:28 AM
+Reactions : Like, Love — joberg, MangyDog
+────────────────────────────────────────────────────────────────────────
+
+Google 
+
+- Perspex Clip Frame- 36”x24” - therange.co.uk - £12.49 
+
+and you’re there.
+
+There are a few other sizes available.
+────────────────────────────────────────────────────────────────────────
+Post #30  (forum post #5499708)
+Author    : MangyDog
+Date      : Dec 23, 2023 at 9:36 AM
+────────────────────────────────────────────────────────────────────────
+
+Thank you 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #31  (forum post #5499711)
+Author    : MangyDog
+Date      : Dec 23, 2023 at 9:39 AM
+────────────────────────────────────────────────────────────────────────
+
+Pyramidrep said:
+
+			Google
+
+- Perspex Clip Frame- 36”x24” - therange.co.uk - £12.49
+
+and you’re there.
+
+There are a few other sizes available.
+		
+
+Click to expand...
+
+And youre sure its 1mm thick acrylic?
+────────────────────────────────────────────────────────────────────────
+Post #32  (forum post #5499717)
+Author    : Pyramidrep
+Date      : Dec 23, 2023 at 10:09 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+I have two here in the studio that are 0.70 mm  and two others which are 1mm which I had bought in another batch about six months before. Haven’t got the packaging  to see if they’re the same make but I bought them in the same store.
+────────────────────────────────────────────────────────────────────────
+Post #33  (forum post #5499725)
+Author    : MangyDog
+Date      : Dec 23, 2023 at 10:59 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Pyramidrep said:
+
+			I have two here in the studio that are 0.70 mm  and two others which are 1mm which I had bought in another batch about six months before. Haven’t got the packaging  to see if they’re the same make but I bought them in the same store.
+		
+
+Click to expand...
+
+Ahh good. Thanks
+
+Ordered 10 A2
+────────────────────────────────────────────────────────────────────────
+Post #34  (forum post #5499997)
+Author    : MangyDog
+Date      : Dec 24, 2023 at 3:06 PM
+Reactions : Love, Like — Millenniumf, joberg, Duncanator
+────────────────────────────────────────────────────────────────────────
+
+https://twitter.com/x/status/1739059498948411805
+────────────────────────────────────────────────────────────────────────
+Post #35  (forum post #5500047)
+Author    : publiusr
+Date      : Dec 24, 2023 at 8:29 PM
+────────────────────────────────────────────────────────────────────────
+
+Maybe have sprue connected behind that at a right angle pointing inward/coreward?
+────────────────────────────────────────────────────────────────────────
+Post #36  (forum post #5500065)
+Author    : MangyDog
+Date      : Dec 25, 2023 at 4:17 AM
+Reactions : Like — joberg, publiusr
+────────────────────────────────────────────────────────────────────────
+
+publiusr said:
+
+			Maybe have sprue connected behind that at a right angle pointing inward/coreward?
+		
+
+Click to expand...
+
+Im gonna add a few standoffs. But theyre more for keeping the layer flat to the cube... 
+
+Besides this is layer 2. Layer 3 is the top layer, Still a lot of this wont be seen.
+────────────────────────────────────────────────────────────────────────
+Post #37  (forum post #5500633)
+Author    : joberg
+Date      : Dec 28, 2023 at 8:20 AM
+────────────────────────────────────────────────────────────────────────
+
+Great workmanship and yes; when you add layers after layers, it's easy to see that you need more pieces
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #38  (forum post #5503268)
+Author    : MangyDog
+Date      : Jan 7, 2024 at 8:25 AM
+Reactions : Like, Love, Haha — rms77, publiusr, Fett_Ish
+────────────────────────────────────────────────────────────────────────
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ Layer 2 is on 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+onto layer 3
+────────────────────────────────────────────────────────────────────────
+Post #39  (forum post #5503354)
+Author    : joberg
+Date      : Jan 7, 2024 at 1:17 PM
+────────────────────────────────────────────────────────────────────────
+
+This is epic
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #40  (forum post #5503361)
+Author    : swgeek
+Date      : Jan 7, 2024 at 1:52 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Looking great!
+────────────────────────────────────────────────────────────────────────
+Post #41  (forum post #5503461)
+Author    : bwayne64
+Date      : Jan 7, 2024 at 8:13 PM
+Reactions : Like — Duncanator, joberg
+────────────────────────────────────────────────────────────────────────
+
+I ting a beauty she is, 
+
+Written In my best Irish accent. ; )
+────────────────────────────────────────────────────────────────────────
+Post #42  (forum post #5503816)
+Author    : Duncanator
+Date      : Jan 9, 2024 at 8:46 AM
+Reactions : Like, Love — joberg, MangyDog
+────────────────────────────────────────────────────────────────────────
+
+Looking like the real thing!
+────────────────────────────────────────────────────────────────────────
+Post #43  (forum post #5504450)
+Author    : Fett_Ish
+Date      : Jan 11, 2024 at 5:08 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+So cool!
+────────────────────────────────────────────────────────────────────────
+Post #44  (forum post #5508366)
+Author    : publiusr
+Date      : Jan 26, 2024 at 3:35 PM
+────────────────────────────────────────────────────────────────────────
+
+Something I was thinking about.
+
+You might remember the opening sequence of BRAIN GAMES where the title was composed of tiny blocks on strings that formed the letters only when seen at one angle.
+
+For pyrotechnics, a similarly made "cube" could have the bits on the farthest end explode first.
+
+This way, you don't have the look of a box of sprue with M-80s in them...but a propagating wave of destruction needed for a ship of such size.
+
+Green screen flash paper and a cannon directly behind the model bits aimed at the camera and fired as the wave terminated complete the effect.
+────────────────────────────────────────────────────────────────────────
+Post #45  (forum post #5508380)
+Author    : MangyDog
+Date      : Jan 26, 2024 at 4:40 PM
+Reactions : Like — publiusr, joberg
+────────────────────────────────────────────────────────────────────────
+
+Oh for the vfx stuff im going to do with this model a bit down the road... Will involve camera tracking and CG explosions. With Explosion assets made in embergen.
+────────────────────────────────────────────────────────────────────────
+Post #46  (forum post #5508480)
+Author    : MangyDog
+Date      : Jan 27, 2024 at 6:00 AM
+Reactions : Sad — joberg
+────────────────────────────────────────────────────────────────────────
+
+Pyramidrep said:
+
+			They are very inexpensive. I think I bought 4 or 5 A2 clip frames for about €50or €60 in The Range homeware store. They are  a UK company here in Ireland. So you might have them locally.
+
+ps. I just checked the size - 800x 600mm - cost €14each.
+		
+
+Click to expand...
+
+the acrylic isnt cutting well D: 
+
+[IMAGE: https://www.therpf.com/forums/attachments/1706364009849-png.1782865/]
+────────────────────────────────────────────────────────────────────────
+Post #47  (forum post #5508495)
+Author    : Pyramidrep
+Date      : Jan 27, 2024 at 7:27 AM
+────────────────────────────────────────────────────────────────────────
+
+MangyDog said:
+
+			the acrylic isnt cutting well D:
+		
+
+Click to expand...
+
+Is it too thin and delicate for laser cutting?. Or is it the material properties itself.?
+────────────────────────────────────────────────────────────────────────
+Post #48  (forum post #5508497)
+Author    : MangyDog
+Date      : Jan 27, 2024 at 7:45 AM
+Reactions : Wow — joberg
+────────────────────────────────────────────────────────────────────────
+
+The material... I dont think its acrylic... I have other 1mm stuff that smells and cuts like acrylic... (but expensive A4 size) This smells nothing like acrylic, smells like car body filler i think. And cuts like PETG.
+────────────────────────────────────────────────────────────────────────
+Post #49  (forum post #5508504)
+Author    : Pyramidrep
+Date      : Jan 27, 2024 at 8:09 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+MangyDog said:
+
+			The material... I dont think its acrylic... I have other 1mm stuff that smells and cuts like acrylic... (but expensive A4 size) This smells nothing like acrylic, smells like car body filler i think. And cuts like PETG.
+		
+
+Click to expand...
+
+Then the description given by the manufacturer is misleading because it does clearly say Perspex clip frame. 
+
+I deliberately wanted to use 1mm acylic sheet in conjunction with the other (thicker) acrylic on my project so when I found that stuff, it solved the issue - albeit I could cut the large sheets to size with a steel ruler and scalpel (and so dodged a bullet with the issue you’re facing.)
+
+Doesn’t help with your  problem though. Return the un-used ones for a refund?
+────────────────────────────────────────────────────────────────────────
+Post #50  (forum post #5508506)
+Author    : MangyDog
+Date      : Jan 27, 2024 at 8:21 AM
+Reactions : Like — Pyramidrep, joberg
+────────────────────────────────────────────────────────────────────────
+
+I might just keep them as picture frames... Might prove useful
+────────────────────────────────────────────────────────────────────────
+Post #51  (forum post #5508508)
+Author    : swgeek
+Date      : Jan 27, 2024 at 8:35 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Two tests you can do. Is the edge light and frosty or dark? And if you grab a corner with pliers and bend it, does it bend or snap?
+────────────────────────────────────────────────────────────────────────
+Post #52  (forum post #5508509)
+Author    : MangyDog
+Date      : Jan 27, 2024 at 8:37 AM
+Reactions : Wow — joberg
+────────────────────────────────────────────────────────────────────────
+
+its brittle like acrylic. Edges are clear. Its just doesnt smell nor cut like acrylic.
+────────────────────────────────────────────────────────────────────────
+Post #53  (forum post #5508513)
+Author    : MangyDog
+Date      : Jan 27, 2024 at 8:45 AM
+Reactions : Like, Love — Puddingbat, joberg
+────────────────────────────────────────────────────────────────────────
+
+BTW everyone, sorry for the slow updates to this model.
+
+As you can see I am working on it.
+
+Some good news... After a stupidly long time being unemployed, just a month or two before I loose my home and move out, I MANAGED TO GET A JOB! 
+
+Its not been for a lack of trying. 
+
+So WOOHOO new job, and security! And boo no free time 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+
+Im currently doing light design and prep work in the evenings, and trying to do construction work on the cube over the weekends.
+
+But as you can see this acrylic issue has really put a dampener on this weekends plans.
+
+SOO.... thanks to the job I can actually order in some more materials even at their stupid prices. Ive ordered in a bunch of A4 1mm acrylic which is hideously expensive for what it is off amazon, that would come up tomorrow. I should be able to get the last laser cuts I need to do on that at least.
+
+Im also starting to prep to do the brass electro etching!
+────────────────────────────────────────────────────────────────────────
+Post #54  (forum post #5508519)
+Author    : joberg
+Date      : Jan 27, 2024 at 9:05 AM
+Reactions : Like — swgeek
+────────────────────────────────────────────────────────────────────────
+
+Great news indeed.  Job = money and no time for hobbies
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ At least you will not loose your home: BONUS!
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #55  (forum post #5508527)
+Author    : Pyramidrep
+Date      : Jan 27, 2024 at 9:58 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+MangyDog said:
+
+			its brittle like acrylic. Edges are clear.……
+		
+
+Click to expand...
+
+Yeah. That what I thought as well. Brittle and unlike polystyrene so must be acrylic. I wonder if the plastic cover sheet is interfering with the laser cutting in some way. I found with the 3 and 4mm laser cut acrylic, the stuff stinks until from the residue left on outer protective sheet is cleaned off.
+
+MangyDog said:
+
+			…., sorry for the slow updates to this model.………..
+		
+
+Click to expand...
+
+You don’t have to be sorry on this forum. There are far more important things in life.
+
+Good luck on your new job.
+────────────────────────────────────────────────────────────────────────
+Post #56  (forum post #5508529)
+Author    : MangyDog
+Date      : Jan 27, 2024 at 10:04 AM
+Reactions : Sad — publiusr, joberg
+────────────────────────────────────────────────────────────────────────
+
+Sadly loosing our home sadly is still going to happen. Nothing short of winning the lottery will change it...
+
+But even with UK's effed up housing market. If the job carries on going well, I'll only have to rent for a year before I can look to buy some place.
+
+I'll have a healthy deposited from the sale my home and after dad's debts are paid.
+
+I'll never afford a place like this again... But I'll have a place to live.
+
+Oh I'll be mortgaging for 15 to 25 years... But I'll have something...
+────────────────────────────────────────────────────────────────────────
+Post #57  (forum post #5508530)
+Author    : MangyDog
+Date      : Jan 27, 2024 at 10:05 AM
+Reactions : Wow — joberg
+────────────────────────────────────────────────────────────────────────
+
+Pyramidrep said:
+
+			Yeah. That what I thought as well. Brittle and unlike polystyrene so must be acrylic. I wonder if the plastic cover sheet is interfering with the laser cutting in some way. I found with the 3 and 4mm laser cut acrylic, the stuff stinks until from the residue left on outer protective sheet is cleaned off.
+
+You don’t have to be sorry on this forum. There are far more important things in life.
+
+Good luck on your new job.
+		
+
+Click to expand...
+
+I really don't think it's acrylic. Unless it's some strange cast type that's out the norm.
+
+It's also a lot more flexible in sheet form than normal acrylic. Just brittle after cutting.
+────────────────────────────────────────────────────────────────────────
+Post #58  (forum post #5508548)
+Author    : swgeek
+Date      : Jan 27, 2024 at 1:12 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Congrats on the new job! Sorry about your house though, that really sucks!
+
+As for the plastic, who knows what it is. There's a million and one different kinds of clear plastic out there. I know how to test for a few, but outside of that I'm stumped.
+────────────────────────────────────────────────────────────────────────
+Post #59  (forum post #5508563)
+Author    : EvilRocketeer
+Date      : Jan 27, 2024 at 2:43 PM
+────────────────────────────────────────────────────────────────────────
+
+swgeek said:
+
+			Congrats on the new job! Sorry about your house though, that really sucks!
+
+As for the plastic, who knows what it is. There's a million and one different kinds of clear plastic out there. I know how to test for a few, but outside of that I'm stumped.
+		
+
+Click to expand...
+
+Sent you a message
+────────────────────────────────────────────────────────────────────────
+Post #60  (forum post #5508564)
+Author    : MangyDog
+Date      : Jan 27, 2024 at 2:44 PM
+────────────────────────────────────────────────────────────────────────
+
+EvilRocketeer said:
+
+			Sent you a message
+		
+
+Click to expand...
+
+???
+────────────────────────────────────────────────────────────────────────
+Post #61  (forum post #5508565)
+Author    : EvilRocketeer
+Date      : Jan 27, 2024 at 2:47 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+MangyDog said:
+
+			???
+		
+
+Click to expand...
+
+Didn’t mean to hijack the thread. Just trying to contact an old acquaintance regarding something.
+────────────────────────────────────────────────────────────────────────
+Post #62  (forum post #5508566)
+Author    : MangyDog
+Date      : Jan 27, 2024 at 2:47 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+EvilRocketeer said:
+
+			Didn’t mean to hijack the thread. Just trying to contact an old acquaintance regarding something.
+		
+
+Click to expand...
+
+oh ok
+────────────────────────────────────────────────────────────────────────
+Post #63  (forum post #5512155)
+Author    : MangyDog
+Date      : Feb 10, 2024 at 5:32 AM
+Reactions : Like, Love — Puddingbat, rms77, ZeroSum
+────────────────────────────────────────────────────────────────────────
+
+Sorry for not keeping up with the updates, Now i have a job ive got little free time to do work on the cube so its been slow... But it is happening
+
+First things first.
+
+[IMAGE: https://www.therpf.com/forums/attachments/gf-lkfxwwaaciqo-jpg.1788375/]
+
+Im starting to get the 3rd (final) layer sort of on the cube, I cut the frames and even put on an under layer as I wasnt happy with the large gap between layer 2 and 3...
+
+Ill mount the other two panels on before I start gluing on more laser cut greebles and brass parts, and then resin parts and piping.
+
+Build up the details as I can, but not doing the interconnecting bits between panels just yet. As Ill then unscrew the panels, give them a base spray job before remounting them along with LED lighting, then Ill do the interconnecting bits cover up the screw bolts. and then air brush paint the unpainted stuff, before I go over the final paint job... some AO dirt to bring out the details, some fine panel work passes. And then a mix of satin and gloss mix varnishes to add some extra panel details and noise.
+
+Also the dots of yellow/brass coloured squares...
+
+Then its about done. I still need to also figure out filling up the edges around the back unseen panel that doubles as the interior access. To replace the light box bulb and fix led lighting electronics...
+
+But also brass news...
+
+So I cut up my roll of brass I got into a4ish sheets, those are awkward as they didnt flatten out when going through my laminator!
+
+But also having some trouble putting the photo resist onto them. I just cant get it on cleanly.
+
+I am also having trouble with my photo mask not cleaning off cleanly either...
+
+Ive only been doing tests not production yet. But its prooving to be a real big pain.
+
+Now that I have a job.... I might end up just saving up and getting them cut professionally :/
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_20240203_123345-jpg.1788382/]
+
+Anyway some pics of the bits... 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_20240125_172328-jpg.1788377/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_20240124_185543-jpg.1788376/]
+
+Oh and heres the electro etching bath I made for the a4 sheets........ it also leaks 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ but if i can get the photo masks to work... the etch will at least work fine.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_20240129_183117-jpg.1788378/]
+────────────────────────────────────────────────────────────────────────
+Post #64  (forum post #5512676)
+Author    : Duncanator
+Date      : Feb 12, 2024 at 6:37 AM
+Reactions : Like, Wow — MangyDog, joberg
+────────────────────────────────────────────────────────────────────────
+
+It makes me smile seeing your resin parts. You captured the look of the original parts. Great job!
+────────────────────────────────────────────────────────────────────────
+Post #65  (forum post #5512716)
+Author    : joberg
+Date      : Feb 12, 2024 at 7:55 AM
+Reactions : Like — MangyDog
+────────────────────────────────────────────────────────────────────────
+
+^^
+
+Yep, really sharp and crisp resin greeblies
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #66  (forum post #5512746)
+Author    : MangyDog
+Date      : Feb 12, 2024 at 10:04 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Thanks :d Though The resin parts arent perfect... I hope they should do the job. Ill also be adding bits on top like the wriggles of wire and other greebles on assembly... 
+
+also some bubble issues in the resin 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/1707761010464-png.1789037/]
+
+New dome features inside that bit... 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #67  (forum post #5515894)
+Author    : MangyDog
+Date      : Feb 24, 2024 at 7:48 AM
+Reactions : Like, Love — Puddingbat, The Terminator, rms77
+────────────────────────────────────────────────────────────────────────
+
+Dusted some more primer on to see how its looking through the transparent acrylic 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ Its starting to look good. Though tons to do still... 
+
+Im also experimenting with a better way to get the photo resist onto my brass sheets hopefully that goes somewhere. As I really need to start using some of the small brass designs now. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_20240224_154520-jpg.1793074/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_20240224_154538-jpg.1793075/]
+────────────────────────────────────────────────────────────────────────
+Post #68  (forum post #5515908)
+Author    : joberg
+Date      : Feb 24, 2024 at 8:55 AM
+────────────────────────────────────────────────────────────────────────
+
+Fantastic work
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #69  (forum post #5516360)
+Author    : bwayne64
+Date      : Feb 26, 2024 at 8:08 AM
+Reactions : Like — joberg, JimmyB
+────────────────────────────────────────────────────────────────────────
+
+You may be a MangyDog, but that is the Cat's Meow, ; )
+────────────────────────────────────────────────────────────────────────
+Post #70  (forum post #5516363)
+Author    : MangyDog
+Date      : Feb 26, 2024 at 8:12 AM
+Reactions : Like, Haha — joberg, JimmyB, bwayne64
+────────────────────────────────────────────────────────────────────────
+
+bwayne64 said:
+
+			You may be a MangyDog, but that is the Cat's Meow, ; )
+		
+
+Click to expand...
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ I am indeed mangy, but its ok to also call it the dogs bollo.... junk
+────────────────────────────────────────────────────────────────────────
+Post #71  (forum post #5516367)
+Author    : bwayne64
+Date      : Feb 26, 2024 at 8:26 AM
+Reactions : Haha — joberg
+────────────────────────────────────────────────────────────────────────
+
+MangyDog said:
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ I am indeed mangy, but its ok to also call it the dogs bollo.... junk
+		
+
+Click to expand...
+
+LoL
+────────────────────────────────────────────────────────────────────────
+Post #72  (forum post #5517312)
+Author    : MangyDog
+Date      : Feb 29, 2024 at 3:46 PM
+Reactions : Like, Love — Puddingbat, rms77, CosmicQuest
+────────────────────────────────────────────────────────────────────────
+
+Some More
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_20240229_233158-jpg.1794952/]
+
+ bits added...
+────────────────────────────────────────────────────────────────────────
+Post #73  (forum post #5517368)
+Author    : Duncanator
+Date      : Feb 29, 2024 at 9:53 PM
+Reactions : Like, Love — joberg, modelerdave, MangyDog
+────────────────────────────────────────────────────────────────────────
+
+The best looking Borg cube yet!
+────────────────────────────────────────────────────────────────────────
+Post #74  (forum post #5517740)
+Author    : joberg
+Date      : Mar 2, 2024 at 8:15 AM
+Reactions : Like — MangyDog
+────────────────────────────────────────────────────────────────────────
+
+Unbelievable work and complexity put together in a cool way
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #75  (forum post #5517813)
+Author    : MangyDog
+Date      : Mar 2, 2024 at 4:03 PM
+Reactions : Love, Like — Puddingbat, The Terminator, rms77
+────────────────────────────────────────────────────────────────────────
+
+More on... But this is damn slow work. Been at it all day D:
+
+Also zip ties going on too...
+
+One reason it's slow is the mylar laser cuts have some remelt and bits that need scraping off. At this scale it's slow and fiddly to clean up...
+
+I'll likely do another dusting spray tomorrow to see it more uniformly.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_20240302_235732-jpg.1795626/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_20240302_235742-jpg.1795627/]
+────────────────────────────────────────────────────────────────────────
+Post #76  (forum post #5517926)
+Author    : MangyDog
+Date      : Mar 3, 2024 at 4:30 AM
+Reactions : Like, Love — Puddingbat, The Terminator, rms77
+────────────────────────────────────────────────────────────────────────
+
+Soo that dusting coat turned into more of a full coat... 
+
+Anyway it helps make it clearer where I really need to add some more laser cuttings... 
+
+Its looking good though, im excited. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_20240303_123025-jpg.1795746/]
+────────────────────────────────────────────────────────────────────────
+Post #77  (forum post #5517949)
+Author    : joberg
+Date      : Mar 3, 2024 at 7:09 AM
+Reactions : Like — CosmicQuest, TazMan2000
+────────────────────────────────────────────────────────────────────────
+
+Wow...and I thought I loved greeblies
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ Great work/results
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #78  (forum post #5519540)
+Author    : MangyDog
+Date      : Mar 9, 2024 at 6:57 AM
+Reactions : Like, Love, Wow — Puddingbat, The Terminator, rms77
+────────────────────────────────────────────────────────────────────────
+
+Got some grey on there, but this water based grey isnt going on brilliantly onto this can black primer... Its a bit spluttery... gonna wait for this to fully dry before I put any more on.
+
+But its looking pretty good... Though its not perfect! the mylar just cant get good cuts at the scale of the smaller brass peices used on the bigger studio model. So i had to compromise there... So yes theres some scale issues for parts. But I think its capturing the feel of the first contact cube now...
+
+While i was putting more mylar on last night I was worried i was missing it... then i put my ring light to the side of the model, and yep felt happy with it 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Of course Duncanator will be the real judge!
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_20240309_144055-jpg.1798249/]
+
+Before I bolt this onto the cube frame, im gonna be feeding some tiny 0402 and 0603 leds into some of the bits of the face... While not truly screen accurate, I like the idea of some localised lighting... Some warm whites some greens some blues... will see what works.
+────────────────────────────────────────────────────────────────────────
+Post #79  (forum post #5519570)
+Author    : joberg
+Date      : Mar 9, 2024 at 9:09 AM
+────────────────────────────────────────────────────────────────────────
+
+Amazing workmanship and looking great from where I stand
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #80  (forum post #5519587)
+Author    : Duncanator
+Date      : Mar 9, 2024 at 10:22 AM
+Reactions : Love — Puddingbat, Captain Dunsel, joberg
+────────────────────────────────────────────────────────────────────────
+
+Duuude!  
+
+You are killing it! 
+
+You’ve really captured the look and feel of the shooting model.
+────────────────────────────────────────────────────────────────────────
+Post #81  (forum post #5519589)
+Author    : MangyDog
+Date      : Mar 9, 2024 at 10:28 AM
+Reactions : Love — joberg
+────────────────────────────────────────────────────────────────────────
+
+Duncanator said:
+
+			Duuude! 
+
+You are killing it!
+
+You’ve really captured the look and feel of the shooting model.
+		
+
+Click to expand...
+
+WOOHOOO!
+────────────────────────────────────────────────────────────────────────
+Post #82  (forum post #5519670)
+Author    : Duncanator
+Date      : Mar 9, 2024 at 6:29 PM
+Reactions : Like, Love, Wow — Puddingbat, rms77, jedilaw
+────────────────────────────────────────────────────────────────────────
+
+Here's a picture of the real one during construction.
+
+Those folks are model makers Kim Smith, John Goodson and Giovanni Donavon.
+
+Yours could be its twin!
+
+[IMAGE: https://www.therpf.com/forums/attachments/borg-cube-construction-jpg.1798387/]
+────────────────────────────────────────────────────────────────────────
+Post #83  (forum post #5519768)
+Author    : joberg
+Date      : Mar 10, 2024 at 8:07 AM
+Reactions : Like — TazMan2000
+────────────────────────────────────────────────────────────────────────
+
+Great pic Duncanator
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #84  (forum post #5519800)
+Author    : Snow Builder
+Date      : Mar 10, 2024 at 10:29 AM
+Reactions : Like — joberg, MangyDog
+────────────────────────────────────────────────────────────────────────
+
+Truly beautiful work, I think you've nailed it.
+────────────────────────────────────────────────────────────────────────
+Post #85  (forum post #5521786)
+Author    : MangyDog
+Date      : Mar 17, 2024 at 2:53 PM
+Reactions : Love, Like — The Terminator, rms77, MandoJedi
+────────────────────────────────────────────────────────────────────────
+
+Leds in, panel mounted... 
+
+Not overly fond of the colour temps of the leds... but gonna have to live with them now.
+────────────────────────────────────────────────────────────────────────
+Post #86  (forum post #5521929)
+Author    : joberg
+Date      : Mar 18, 2024 at 6:27 AM
+────────────────────────────────────────────────────────────────────────
+
+Love the lighting...but don't forget to lit (a little) the face in all its details
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #87  (forum post #5522175)
+Author    : modelerdave
+Date      : Mar 19, 2024 at 5:13 AM
+Reactions : Like — joberg, MangyDog
+────────────────────────────────────────────────────────────────────────
+
+MangyDog said:
+
+Leds in, panel mounted...
+
+Not overly fond of the colour temps of the leds... but gonna have to live with them now.
+		
+
+Click to expand...
+
+OMG that looks so good!
+────────────────────────────────────────────────────────────────────────
+Post #88  (forum post #5523965)
+Author    : SCUDMAN
+Date      : Mar 25, 2024 at 11:00 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Looks amazing!
+────────────────────────────────────────────────────────────────────────
+Post #89  (forum post #5528229)
+Author    : MangyDog
+Date      : Apr 11, 2024 at 9:59 AM
+Reactions : Like, Love — The Terminator, rms77, Bloop
+────────────────────────────────────────────────────────────────────────
+
+Base colour coat for panel 2 done... will add some leds tonight most likely. Then mount it to the cube!
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_20240411_174911-jpg.1809303/]
+────────────────────────────────────────────────────────────────────────
+Post #90  (forum post #5528444)
+Author    : joberg
+Date      : Apr 12, 2024 at 7:39 AM
+Reactions : Like — modelerdave, MangyDog
+────────────────────────────────────────────────────────────────────────
+
+It's a work of Art
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #91  (forum post #5528453)
+Author    : Jkirkon
+Date      : Apr 12, 2024 at 7:56 AM
+Reactions : Like, Haha — joberg, MangyDog
+────────────────────────────────────────────────────────────────────────
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_9322-jpeg.1809550/]
+────────────────────────────────────────────────────────────────────────
+Post #92  (forum post #5528707)
+Author    : MangyDog
+Date      : Apr 13, 2024 at 11:33 AM
+Reactions : Like, Love — Puddingbat, The Terminator, Rick Deckard
+────────────────────────────────────────────────────────────────────────
+
+Panel two mounted and wired in.
+
+Still a lot to do... firstly for to complete the other 2 panels. And then I need to cover up the mounting bolts... and do all the interconnecting edges.
+
+But i must admit I still feel the scale is off... I need more details to match the filming model. All the chunks feel a little bit......... large!
+
+Anyway I'm committed now 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ So ill see what I can so. I likely will still add some more smaller bits dotted around. I cant add too much though as I would have to air brush anything I put on now. Going full spray will likely reach the light box and that would be bad.
+
+[IMAGE: https://www.therpf.com/forums/attachments/omsexu-jpg.1809842/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/bk2rim-jpg.1809843/]
+────────────────────────────────────────────────────────────────────────
+Post #93  (forum post #5528845)
+Author    : joberg
+Date      : Apr 14, 2024 at 10:00 AM
+Reactions : Like — JimmyB, modelerdave, MangyDog
+────────────────────────────────────────────────────────────────────────
+
+I think that you're on target as far as scale is concerned. The details/greeblies/nurnies and widgets seem right
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #94  (forum post #5529578)
+Author    : Duncanator
+Date      : Apr 17, 2024 at 1:23 PM
+Reactions : Like — Puddingbat, joberg, modelerdave
+────────────────────────────────────────────────────────────────────────
+
+You have really captured the flavor of the original. You should feel very good about what you have made!
+
+Yes, it could want more of the really fine filigree, but you are limited by the material's ability to be cut finer. Etched brass like we used on the shooting miniature can get expensive.
+────────────────────────────────────────────────────────────────────────
+Post #95  (forum post #5531683)
+Author    : jedilaw
+Date      : Apr 25, 2024 at 2:05 PM
+Reactions : Haha — Puddingbat, joberg, MangyDog
+────────────────────────────────────────────────────────────────────────
+
+Where is my jaw? Oh, right.  It's on the floor.
+────────────────────────────────────────────────────────────────────────
+Post #96  (forum post #5547069)
+Author    : MangyDog
+Date      : Jun 20, 2024 at 3:47 PM
+Reactions : Like, Love — Puddingbat, The Terminator, modelerdave
+────────────────────────────────────────────────────────────────────────
+
+https://twitter.com/x/status/1803915582036726144
+
+Sorry its a twitter link for the moment... Ill get some better photos and a video for here up tomorrow some time... Its nearly 12 and I have work in the morning! 
+
+BUT! The forth and final (ish) panel is ON!
+
+Like in the twitter post, I still have tons to do. Got to do all the interconnecting parts then paint that... Got to put the back panel on. Though thats mainly just a plane panel with a felt window. 
+
+But also even after that, I still need to do the more detailed painting. dirt/ambient occlusion passes... And panel lines shading and varnishing... 
+
+Still a fair bit to get done before its... done... But I think its getting a lot closer now.
+────────────────────────────────────────────────────────────────────────
+Post #97  (forum post #5547770)
+Author    : joberg
+Date      : Jun 23, 2024 at 1:30 PM
+────────────────────────────────────────────────────────────────────────
+
+No need to say that I'm eager to see it in all of its beauty
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #98  (forum post #5563673)
+Author    : MangyDog
+Date      : Aug 17, 2024 at 5:41 AM
+Reactions : Like, Love — Puddingbat, JimmyB, ffoeg
+────────────────────────────────────────────────────────────────────────
+
+All the edges are now connected. And bolts covered up.... time for some more primer. First need to mask things a bit...
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_20240817_133736-jpg.1851201/]
+────────────────────────────────────────────────────────────────────────
+Post #99  (forum post #5563713)
+Author    : MangyDog
+Date      : Aug 17, 2024 at 9:44 AM
+Reactions : Like, Love — Puddingbat, moonbus, JimmyB
+────────────────────────────────────────────────────────────────────────
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_20240817_172859-jpg.1851280/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_20240817_172908-jpg.1851281/]
+
+primer on
+────────────────────────────────────────────────────────────────────────
+Post #100  (forum post #5563765)
+Author    : joberg
+Date      : Aug 17, 2024 at 12:15 PM
+Reactions : Like — JimmyB, MangyDog
+────────────────────────────────────────────────────────────────────────
+
+No words...wait!  Nope
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #101  (forum post #5563891)
+Author    : MandoJedi
+Date      : Aug 17, 2024 at 9:35 PM
+Reactions : Like — joberg, MangyDog
+────────────────────────────────────────────────────────────────────────
+
+I'll DM you my address to you.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #102  (forum post #5563955)
+Author    : The Terminator
+Date      : Aug 18, 2024 at 5:56 AM
+Reactions : Like — joberg, MangyDog
+────────────────────────────────────────────────────────────────────────
+
+Only thing one can do is love it - resistance is futile. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #103  (forum post #5564004)
+Author    : MangyDog
+Date      : Aug 18, 2024 at 9:41 AM
+Reactions : Like, Love — Puddingbat, The Terminator, Captain Dunsel
+────────────────────────────────────────────────────────────────────────
+
+Base coat is on 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+
+Hopefully not covered up too much of the light sources with over spray... Time will tell... 
+
+Anyway after its dried itll be ready to start painting details...
+
+Its not too far away from being finished. Maybe next weekend! 
+
+[IMAGE: https://www.therpf.com/forums/attachments/gvrvyqnwwaa1fxn-format-jpg-name-large-jpg.1851622/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/gvrvyiewaaaskas-format-jpg-name-large-jpg.1851623/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/gvrvyt4w4aasa3w-format-jpg-name-large-jpg.1851624/]
+────────────────────────────────────────────────────────────────────────
+Post #104  (forum post #5564276)
+Author    : joberg
+Date      : Aug 19, 2024 at 8:23 AM
+────────────────────────────────────────────────────────────────────────
+
+This model is the bomb
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #105  (forum post #5565764)
+Author    : MangyDog
+Date      : Aug 24, 2024 at 3:38 PM
+Reactions : Like, Love, Wow — Puddingbat, The Terminator, moonbus
+────────────────────────────────────────────────────────────────────────
+
+Starting to do some detail painting... First side done with random high specular panelling...
+
+After i done all the sides Ill do a little pencilling lines too ... Then do an AO/dirst pass wetting the model then dabbing in thinned paint and wiping away... And then the little brass/yellow block/panels to do. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_20240824_232621-jpg.1853668/]
+────────────────────────────────────────────────────────────────────────
+Post #106  (forum post #5565879)
+Author    : joberg
+Date      : Aug 25, 2024 at 7:59 AM
+────────────────────────────────────────────────────────────────────────
+
+You'll have to be careful dabbing the paint with all those thin details
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #107  (forum post #5565880)
+Author    : MangyDog
+Date      : Aug 25, 2024 at 8:00 AM
+Reactions : Like — The Terminator, joberg
+────────────────────────────────────────────────────────────────────────
+
+Ill do some tests first Its not going to be thick paint ill dab, ill spray on some water first then add some thinned down muddy paint to cling to the details
+────────────────────────────────────────────────────────────────────────
+Post #108  (forum post #5566339)
+Author    : MangyDog
+Date      : Aug 27, 2024 at 4:11 AM
+Reactions : Love, Like — Puddingbat, The Terminator, carbonitekid
+────────────────────────────────────────────────────────────────────────
+
+I was looking over the reference pics again as I've kinda been going off memory for a bit and I noticed some issues.... D:
+
+It looks like I've made my top layer too dense, and should have made layer 2 more dense... Too late to do anything about that now.
+
+BUT... I've also made my cube too light. The base coat should have been darker and slightly hues towards brown.
+
+Not entirely sure what to do about that. Im not going to repaint it all at this stage. I simply dont have the time to do that. (i need to move out within 6 week)
+
+So when I add the dirt pass I'm going to add some brown to the dirt. And hopefully it'll help balance that out a little.
+
+But while maybe not accurate to the original model. I do like the panelling shading ive done. It helps break things up and helps fool the brain into thinking theres more detail than there is 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ I dont want to loose that.
+
+[IMAGE: https://www.therpf.com/forums/attachments/576433_xl-jpg.1854582/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/72145216_10157932428692150_978364052193411072_o-jpg.1854583/]
+
+Also seeing that second image. I can see more model objects Ive totally neglected to make D:
+
+I like my cube but its clear its no where near as close to the original as Id really like it to be...
+
+PS the yellow/brass bits will be added a little later.
+────────────────────────────────────────────────────────────────────────
+Post #109  (forum post #5566356)
+Author    : modelerdave
+Date      : Aug 27, 2024 at 5:24 AM
+Reactions : Love, Like — joberg, JimmyB
+────────────────────────────────────────────────────────────────────────
+
+It's a FANTASTIC build. Super accurate or not.
+────────────────────────────────────────────────────────────────────────
+Post #110  (forum post #5566445)
+Author    : Duncanator
+Date      : Aug 27, 2024 at 12:11 PM
+Reactions : Like — Puddingbat, joberg, JimmyB
+────────────────────────────────────────────────────────────────────────
+
+MangyDog said:
+
+			I was looking over the reference pics again as I've kinda been going off memory for a bit and I noticed some issues.... D:
+
+It looks like I've made my top layer too dense, and should have made layer 2 more dense... Too late to do anything about that now.
+
+BUT... I've also made my cube too light. The base coat should have been darker and slightly hues towards brown.
+
+Not entirely sure what to do about that. Im not going to repaint it all at this stage. I simply dont have the time to do that. (i need to move out within 6 week)
+
+So when I add the dirt pass I'm going to add some brown to the dirt. And hopefully it'll help balance that out a little.
+
+But while maybe not accurate to the original model. I do like the panelling shading ive done. It helps break things up and helps fool the brain into thinking theres more detail than there is 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ I dont want to loose that.
+
+View attachment 1854582View attachment 1854583
+
+Also seeing that second image. I can see more model objects Ive totally neglected to make D:
+
+I like my cube but its clear its no where near as close to the original as Id really like it to be...
+
+PS the yellow/brass bits will be added a little later.
+		
+
+Click to expand...
+
+Ya, it was on the outermost layer that we added model kit parts to increase the details.
+
+As I recall, we base painted the cube with flat black primer, and then painted a dark grey coat over that. Then we went to town with tiny paint brushes to pick out those little colored areas with yellow, orange, red, white, gold and silver. Probably some light grays as well.
+
+Yours looks phenomenal!
+────────────────────────────────────────────────────────────────────────
+Post #111  (forum post #5567390)
+Author    : joberg
+Date      : Aug 30, 2024 at 10:48 AM
+Reactions : Like — The Terminator
+────────────────────────────────────────────────────────────────────────
+
+It's a work of Art on every angle
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #112  (forum post #5567619)
+Author    : MangyDog
+Date      : Aug 31, 2024 at 3:54 AM
+Reactions : Love, Like, Wow — Reel Fakes, Puddingbat, The Terminator
+────────────────────────────────────────────────────────────────────────
+
+Been adding a dirty wash to bring up details and slightly darken it too....
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_20240831_112406-jpg.1855990/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_20240831_112433-jpg.1855989/]
+────────────────────────────────────────────────────────────────────────
+Post #113  (forum post #5567706)
+Author    : meybrodder1
+Date      : Aug 31, 2024 at 9:29 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Wow I actually love this. Finally a decent explanation for why they didn't just send like, two cubes together after one was barely stopped.
+
+Tutuapp 9apps​
+────────────────────────────────────────────────────────────────────────
+Post #114  (forum post #5567810)
+Author    : MangyDog
+Date      : Aug 31, 2024 at 2:10 PM
+Reactions : Like, Love — Puddingbat, joberg, The Terminator
+────────────────────────────────────────────────────────────────────────
+
+Started some gold/yellow/bronze
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_20240831_220718-jpg.1856212/]
+────────────────────────────────────────────────────────────────────────
+Post #115  (forum post #5568967)
+Author    : The Terminator
+Date      : Sep 5, 2024 at 5:45 AM
+Reactions : Haha, Wow, Like — barney five, MandoJedi, joberg
+────────────────────────────────────────────────────────────────────────
+
+While it might not be "screen accurate" it still looks phenomenal!
+
+I give it a 7 of 9. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #116  (forum post #5568993)
+Author    : joberg
+Date      : Sep 5, 2024 at 7:22 AM
+Reactions : Like — MandoJedi
+────────────────────────────────────────────────────────────────────────
+
+The Terminator said:
+
+			While it might not be "screen accurate" it still looks phenomenal!
+
+I give it a 7 of 9. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+So it's an 8 out of 10?
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #117  (forum post #5569226)
+Author    : The Terminator
+Date      : Sep 6, 2024 at 8:55 AM
+Reactions : Haha — joberg
+────────────────────────────────────────────────────────────────────────
+
+joberg said:
+
+			So it's an 8 out of 10?
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+Definitely 7 of 9, for two great reasons. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #118  (forum post #5569675)
+Author    : bwayne64
+Date      : Sep 8, 2024 at 4:03 AM
+Reactions : Like, Haha — modelerdave, joberg, MangyDog
+────────────────────────────────────────────────────────────────────────
+
+MangyDog said:
+
+			Started some gold/yellow/bronzeView attachment 1856212
+
+Click to expand...
+
+Love this pic. It definitely has that paper clippy look of the original, ; )
+────────────────────────────────────────────────────────────────────────
+Post #119  (forum post #5574622)
+Author    : MangyDog
+Date      : Sep 28, 2024 at 4:27 PM
+Reactions : Love, Like — joberg, Puddingbat, MandoJedi
+────────────────────────────────────────────────────────────────────────
+
+Soooo its done*...............
+
+Sort of....
+
+I finally got round to finishing the gold bits. I've been doing a lot of packing lately as I'm moving in 2 weeks. So I've not had the time to do this sooner...
+
+I say done* as I've not done the white bits like on the studio model yet. 
+
+The thing is Im not sure im going to. I'm still not entirely sold on the gold bits, I know the studio model has it, but in the movie they colour graded a lot of that out. 
+
+When I do the VFX shots I plan to do with this. I will likely do the same. 
+
+I also need to rewire the mains back in. I had to unwire it to take it out to paint the new base coats.
+
+Anyway I think Im calling it done... For now.
+
+At some point I want to make a acrylic box to put around it as its already catching dust. 
+
+As I say I'm moving in 2 weeks. (the whole house thing has finally happened lost my home going into rented as I find a downsized place to buy)
+
+Once I'm settled in a bit, I'm going to crack on with the build video for the channel. 
+
+Anyway heres a couple more picks. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/gymvuiyxcaahddc-jpg.1864473/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/gymvuzuxkaekwpp-jpg.1864474/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/gymvuz1waaa_pod-jpg.1864475/]
+────────────────────────────────────────────────────────────────────────
+Post #120  (forum post #5574720)
+Author    : Duncanator
+Date      : Sep 28, 2024 at 9:48 PM
+Reactions : Like, Love — joberg, MangyDog
+────────────────────────────────────────────────────────────────────────
+
+You've done an amazing job! You should be very proud to have attained "done".
+────────────────────────────────────────────────────────────────────────
+Post #121  (forum post #5574848)
+Author    : The Terminator
+Date      : Sep 29, 2024 at 11:00 AM
+Reactions : Like — joberg, MangyDog
+────────────────────────────────────────────────────────────────────────
+
+Small details might go unnoticed but at times the brain tells you there is something wrong when it's missing.
+
+Still looks amazing!
+────────────────────────────────────────────────────────────────────────
+Post #122  (forum post #5577122)
+Author    : joberg
+Date      : Oct 8, 2024 at 7:00 AM
+Reactions : Like — MangyDog
+────────────────────────────────────────────────────────────────────────
+
+Yep, great work/results
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ That model defo needs protection; I would have nightmare thinking about dusting it
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #123  (forum post #5578044)
+Author    : The Terminator
+Date      : Oct 12, 2024 at 11:02 AM
+Reactions : Like, Love — MangyDog, joberg, modelerdave
+────────────────────────────────────────────────────────────────────────
+
+Three photos of the studio model.
+
+[IMAGE: 1510754-be8a6bbcbbc8cf9b9a75cc661a62f124.jpg]
+
+[IMAGE: 1510755-e4634655d4db775c167cc8a233ce6a44.jpg]
+
+[IMAGE: 1510756-a8ee6f372551c155c37d6a55fc21b4d2.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #124  (forum post #5579233)
+Author    : MangyDog
+Date      : Oct 17, 2024 at 2:24 PM
+Reactions : Wow — joberg
+────────────────────────────────────────────────────────────────────────
+
+joberg said:
+
+			Yep, great work/results
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ That model defo needs protection; I would have nightmare thinking about dusting it
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+Yeah planning to put a acrylic box around it........ But its already starting to gather dust. I think a soft brush and gentle compressed air will do the job mostly.
+────────────────────────────────────────────────────────────────────────
+Post #125  (forum post #5579234)
+Author    : MangyDog
+Date      : Oct 17, 2024 at 2:25 PM
+Reactions : Like — Duncanator, The Terminator, joberg
+────────────────────────────────────────────────────────────────────────
+
+The Terminator said:
+
+			Three photos of the studio model.
+
+View attachment 1868241View attachment 1868242View attachment 1868243
+
+Click to expand...
+
+Yeah been using these and other photos of the model for reference while designing parts.
+
+Though in the end when assembling I kinda went with what was in my head at the time and forgot the reference 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+
+Its why its a little off....
+────────────────────────────────────────────────────────────────────────
+Post #126  (forum post #5593773)
+Author    : MangyDog
+Date      : Dec 22, 2024 at 8:37 AM
+Reactions : Love, Like, Wow — Bloop, 3DImpact, joberg
+────────────────────────────────────────────────────────────────────────
+
+Still not got the main project video done yet. Sorry ...
+
+But heres a couple of test shots, really REALLY rough roto from a cluttered room and filmed on my phone 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #127  (forum post #5594085)
+Author    : modelerdave
+Date      : Dec 24, 2024 at 5:21 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Oh. My. God. Those test shots are out of this world (literally!).
+────────────────────────────────────────────────────────────────────────
+Post #128  (forum post #5594527)
+Author    : joberg
+Date      : Dec 26, 2024 at 2:46 PM
+Reactions : Like, Haha — publiusr, modelerdave, MangyDog
+────────────────────────────────────────────────────────────────────────
+
+O.k... so you lift these two sequences from the T.V. series, right?
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ I kid of course; those shots look really pro in every way, shape or form
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #129  (forum post #5595895)
+Author    : publiusr
+Date      : Jan 1, 2025 at 2:45 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+ALIEN 4's ship (Auriga--not the Betty) was lit by the reflection of soft lights off black plastic--that knocked down glare to where I thought the model was CGI.
+
+Maybe try that?
+────────────────────────────────────────────────────────────────────────
+Post #130  (forum post #5595896)
+Author    : MangyDog
+Date      : Jan 1, 2025 at 2:47 PM
+Reactions : Like — The Terminator, modelerdave
+────────────────────────────────────────────────────────────────────────
+
+when I do the VFX propper ill be doing it with studio lighting setups... Including soft lights and what not... But no idea when ill be doing that
+────────────────────────────────────────────────────────────────────────
+Post #131  (forum post #5599449)
+Author    : MangyDog
+Date      : Jan 17, 2025 at 3:17 PM
+Reactions : Like, Love, Wow — rms77, Bloop, barney five
+────────────────────────────────────────────────────────────────────────
+
+The project video is FINALLY UP!
+
+The IMGUR link
+
+https://imgur.com/ofzkSs8
+
+https://imgur.com/Rs1yaXg
+
+https://imgur.com/aBp41Fa
+
+https://imgur.com/MnMrE9g
+
+https://imgur.com/xCuMw8u
+
+https://imgur.com/YqtWIfK
+
+https://imgur.com/UldPblW
+────────────────────────────────────────────────────────────────────────
+Post #132  (forum post #5599450)
+Author    : MangyDog
+Date      : Jan 17, 2025 at 3:19 PM
+Reactions : Love, Like — barney five, rms77, modelerdave
+────────────────────────────────────────────────────────────────────────
+
+https://imgur.com/HSJxLNc
+
+https://imgur.com/VJBTPj8
+
+https://imgur.com/ywD9eKK
+
+https://imgur.com/WV29MfR
+
+https://imgur.com/cfUGL4X
+
+https://imgur.com/6p0CyFf
+
+https://imgur.com/BJh3POR
+
+https://imgur.com/XxlX1NP
+────────────────────────────────────────────────────────────────────────
+Post #133  (forum post #5599550)
+Author    : joberg
+Date      : Jan 18, 2025 at 6:49 AM
+────────────────────────────────────────────────────────────────────────
+
+Great build and workmanship
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ Love the way the lighting enhanced the look of different layers and depths into the cube!!  
+
+Truly a model worth its time on screen in a Hollywood production
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #134  (forum post #5600103)
+Author    : Duncanator
+Date      : Jan 20, 2025 at 6:18 PM
+Reactions : Like — MangyDog, joberg
+────────────────────────────────────────────────────────────────────────
+
+Beautiful work, and great videos!
+
+ You should take great pride in what you've accomplished!
+────────────────────────────────────────────────────────────────────────
+Post #135  (forum post #5603560)
+Author    : rms77
+Date      : Feb 3, 2025 at 3:09 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+What an awesome build. It really looks the part and your photo and video work show it off brilliantly.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 135

@@ -1,0 +1,3939 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Building X-Wing 1/24 : Help!!
+URL    : https://www.therpf.com/forums/threads/building-x-wing-1-24-help.36/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #46)
+Author    : -... . .- --..
+Date      : Dec 3, 2001 at 1:44 AM
+────────────────────────────────────────────────────────────────────────
+
+Treadwell,
+
+Regarding this pic and your questions on this area:
+
+[IMAGE: R2stripsq.jpg]
+
+</SPAN><TABLE BORDER=0 ALIGN=CENTER WIDTH=85%><TR><TD CLASS=$row_color>Quote:<HR></TD></TR><TR><TD CLASS=$row_color>what are the parts colored blue, yellow and green? -what is the red-colored part missing from Frank's version?</TD></TR><TR><TD><HR></TD></TR></TABLE>
+
+Dunno. I wouldn't encourage you to spend too much money tracking them down, though! The "X" shaped bit may have originally come from a kit, but it's so non-descript and so easy to make from scratch, why bother searching? This may be counter-intuitive, but the more distinctive and irregular a part, the easier it is to find. Which is good news for us, because they're also the hardest to recreate from scratch. As for the simple shapes, well you might find a half-dozen candidates for the "X" part in the middle of that Me-109 engine block thingy there, but how would you ever know which one is the "right" one? The engine block thingy itself is easy to spot, 'cause it's very distinctive and there's only one kit that has that particular part in it.
+
+As for the wee-tiny greeblies, same deal. Really small, sparsely detailed, you're better off making them yourself. You could knock out masters for those two purpley parts and the one red one in ten minutes, tops.
+
+<TABLE BORDER=0 ALIGN=CENTER WIDTH=85%><TR><TD CLASS=$row_color>Quote:<HR></TD></TR><TR><TD CLASS=$row_color>is it me, or does the teal-colored Harrier engine part look a bit different in these two photos? A result of the 90s Harrier retooling, perhaps?</TD></TR><TR><TD><HR></TD></TR></TABLE><SPAN CLASS=$row_color>
+
+All those parts look slightly different owing to distortion in the casting of this area. Compare any of those parts. This particular greeblie cluster was really popular at ILM. It shows up all over the place on other models - X-Wing, Y-wing, Death Star trench, etc. What does that say? Well, it says that those aren't original parts you're looking at on the Red 3 hero model, but at least second-generation recasts. And remember, the casting technology that ILM used in 1975 didn't produce near perfectly crisp copies, like Frank's materials do. Back then, shrinkage and distortion, and bubbles were obviously a bigger problem.
+
+For more evidence, just look closely at the other Harrier part on that hero R2 strip, the one that sits behind the Hurricane engine part. Not only is the entire part slighlty deformed, the cylindrical section is partially missing due to a bubble in the casting as well.
+
+HTH,
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #48)
+Author    : Treadwell
+Date      : Dec 3, 2001 at 3:49 AM
+────────────────────────────────────────────────────────────────────────
+
+Whoops, I guess I won't be able to go back and edit the older versions of the list after all. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Thanks for the move, beaz!
+
+Edit:
+
+Since photopoint went blotto and wrecked the pic links in the uneditable posts above, here's the pic again so future readers can follow along:
+
+[IMAGE: r2strips.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #124)
+Author    : EchoLeader
+Date      : Dec 13, 2001 at 6:07 AM
+────────────────────────────────────────────────────────────────────────
+
+Beaz, that looks like the same part used on the TIE Bomber wings. It's the shock absorbers that seen in front and and back of the cross member on the wings. At least the parts for the TIE Bomber comes from the Hanomag kit also.
+
+Very interesting.
+
+Rolando
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #131)
+Author    : Treadwell
+Date      : Dec 14, 2001 at 10:41 AM
+────────────────────────────────────────────────────────────────────────
+
+Nice find, thanks for sharing! Would that detail be unique to Red 2?
+
+Also a belated thanks for the R2 strip comments. I only just now noticed them...every time I scanned the thread and saw that pic I thought it was my own post. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+I agree about scratch-building simpler parts. Just doesn't hurt to have the "real" ones when possible (and affordable), is all.
+
+In fact, I could swear Frank once posted that the x-shaped yellow part was a specific tank axle, but damned if I can find the post.
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #132)
+Author    : Treadwell
+Date      : Dec 14, 2001 at 10:58 AM
+────────────────────────────────────────────────────────────────────────
+
+[edit, complete list removed for the sake of brevity. See below for a summary of all changes made to the list since its first posting.]
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #134)
+Author    : Treadwell
+Date      : Dec 14, 2001 at 11:31 AM
+────────────────────────────────────────────────────────────────────────
+
+In case any of this warrants discussion, (and to help anyone trying to determine what has been added/changed) here is what has been changed in the list since I first posted it weeks ago. Many clarifications were added by myself based on my own observations, and, of course, many were contributed by you good folks!
+
+Airfix 1/24 AV-8A Hawker Harrier:
+
+retail price is $85, and the parts for the R2 strip are #'s 17 & 18
+
+Airfix 1/24 Hawker Hurricane Mk II:
+
+The Mk1 version seems to be more plentiful currently, and it does have the required part: #12, right behind R2. Also, (I haven't even put this in the list yet), cockpit instrumentation pieces appear in the X cockpit...or, at least in the ICONS version.
+
+Airfix 00 Scale (1/72) Panther 
+
+you can easily get it for under $10, and the 00 and 1/72-labeled versions are identical. Comes in bags, blisters and boxes. (rather Grinchian, that)
+
+Frog Armstrong 1/72 Whitmore Whitley MKV:
+
+landing gear parts for the engine are #16 (two per kit); they're in a fragile area of their parts tree--beware kits in banged up boxes or without boxes altogether.
+
+Hasegawa 1/700 Waterline Series USN Ticonderoga A/C Carrier: 
+
+elevator part for the R2 strip is #43 
+
+Holgate and Reynolds HO scale brick:
+
+#1014, currently available via Walthers catalogue at your train hobby shop for $5/sheet
+
+Monogram 1/32 8Rad Panzerspahwagen
+
+part for the rear is #91 or #92 (pick one)
+
+Monogram 1/32 Sherman M4A1 "Screamin' Mimi" 
+
+cat#4200, tow hooks for engine detail are part #23, four per kit
+
+Revell 1/32 F-4J Phantom II 
+
+the 4E definitely does not work..unless there's a removable-engine version I don't know about. Turkey feathers are different, too.
+
+Tamiya 1/35 German Hanomag Sd.Kfz. 251/1 Armored Half-track:
+
+rod-like part used in trailing edge wing recesses (at least on Red 2)  
+
+Tamiya 1/35 Matilda 
+
+road wheel, part #14 (sixteen per kit), cut in half and placed on either side of R2 strip
+
+heat sinks are available at www.alliedelec.com. search for Allied stock# 619-0040
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #138)
+Author    : -... . .- --..
+Date      : Dec 14, 2001 at 1:32 PM
+────────────────────────────────────────────────────────────────────────
+
+</SPAN><TABLE BORDER=0 ALIGN=CENTER WIDTH=85%><TR><TD CLASS=$row_color>Quote:<HR></TD></TR><TR><TD CLASS=$row_color>Would that detail be unique to Red 2?</TD></TR><TR><TD><HR></TD></TR></TABLE><SPAN CLASS=$row_color>
+
+Nope. Looks like the pyro model patterns used the same part. The Red 3 hero obviously had a different part here, but I don't know about the other heroes just yet.
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #139)
+Author    : Treadwell
+Date      : Dec 14, 2001 at 2:02 PM
+────────────────────────────────────────────────────────────────────────
+
+We talkin' the same place on the model as the 8rad part C-9 cylindrical doodads in other models? If so, which other models? 
+
+[IMAGE: icon_smile.gif]
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #142)
+Author    : -... . .- --..
+Date      : Dec 15, 2001 at 2:29 AM
+────────────────────────────────────────────────────────────────────────
+
+Yes, the 8Rad canister and the Hanomag shaft are interchangeable. The hero Red 2 has the Hanomag part, hero Red 3 has the 8Rad part, and I THINK the hero Red 5 had the 8Rad part, but I'm not sure.
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #143)
+Author    : kitbasher
+Date      : Dec 15, 2001 at 3:40 AM
+────────────────────────────────────────────────────────────────────────
+
+Just to add my two cents:  The Monogram Screamin Mimi kit was NOT used on the X-wing... u-shaped hooks like that are common to many, many armor kits and the ones in the Mimi kit aren't the right ones.  Save your money.  Also, the Tamiya Matilda does NOT have the correct part(s) for the R2 strip.  I know that Frank used the small roller wheels for his casting, but regrettably these are not accurate.  The Matilda is still worth getting if you are building a Y-wing, of course.  Finally, this is just informational, the Ticonderoga kit was not out in 1975, so technically the elevator part it not from that kit.  However, the Saratoga and Lexington are sister ships of the Ticonderoga (if memory serves here), and those kits were indeed out at the time.  So you can actually use either one of those as a donor kit for the elevator part.  The Ticonderoga kit currently available MAY be from the same mold with some additional kit-specific parts, but if you want the correct "vintage" part, get one of the older kits.
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #221)
+Author    : Treadwell
+Date      : Jan 4, 2002 at 12:58 AM
+────────────────────────────────────────────────────────────────────────
+
+[IMAGE: mimihook.jpg]
+
+[IMAGE: red2tow.jpg]
+
+Hmm...not quite exact I agree, but it's pretty close. All the other tow hooks I've come across have had a much deeper "U" shape. (Granted, it's not like I've seen every kit there is, or even close to it...)
+
+On the other hand, Mimi parts don't show up on other ILM models (TMK), so that alone would suggest another kit supplied them. But I think the Mimi would certainly do in a pinch, if one was inclined to seek it out for such a minor part donation.
+
+Or maybe they're just teeny weeny headphones. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #222)
+Author    : Treadwell
+Date      : Jan 4, 2002 at 1:11 AM
+────────────────────────────────────────────────────────────────────────
+
+Early posts in this thread referred to differences between the Airfix Saturn V and the Revell/Monogram. I could never glean just what those differences were, until I had the parts themselves (well, the old kit and Frank's castings of both).
+
+So, in the interest of finally documenting the info, here 'tis:
+
+[IMAGE: 1000024697_18200224003PM0.3048822.jpg]
+
+Keep in mind that the parts were not resting on the scanner in exactly the same way, so some stuff that looks like it might be in a different position isn't.
+
+However, I forgot to put arrows by those two lower box details, but you can see those were moved, too.
+
+I think there might be stage 1 differences, too, but I'll tackle that in the Y thread (eventually).
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #224)
+Author    : JamesDavis
+Date      : Jan 4, 2002 at 8:35 AM
+────────────────────────────────────────────────────────────────────────
+
+Treadwell,
+
+I have the Smithsonian re-issue of the Saturn V and the parts look just like the originals you posted. The cast pieces you have must be from the Monogram kit. 
+
+I also sent you some info concerning some Phantom engine discrepencies.
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #225)
+Author    : Treadwell
+Date      : Jan 4, 2002 at 9:14 AM
+────────────────────────────────────────────────────────────────────────
+
+Wow, strange. The change must've been very recent, because Frank assuredly did not use the Monogram.
+
+In fact, one of my Saturns was still shrinkwrapped, and although it had the older box art, there was a 1994 promotional sticker on the shrinkwrap. Naturally I was concerned it wouldn't match the 70s version but it does (based on the other castings of Frank's that are not pictured above, and ILM model photos).
+
+So the retooling must've taken place sometime AFTER the switch to Smithsonian repackaging.
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #227)
+Author    : -... . .- --..
+Date      : Jan 5, 2002 at 7:30 AM
+────────────────────────────────────────────────────────────────────────
+
+The parts on the left that Frank cast are indeed from the old Monogram 1/144 Saturn V. ILM used both the Airfix & Monogram kits almost interchangably, as the parts were nearly identical. I have several of both and can confirm that the pyro models used the Monogram part. Haven't checked the hero models yet, but it's my understanding that some of them used the Monogram parts as well.
+
+You can still buy the old Monogram kit, only now it's Revell/Monogram.
+
+HTH,
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #242)
+Author    : Treadwell
+Date      : Jan 7, 2002 at 1:39 AM
+────────────────────────────────────────────────────────────────────────
+
+Oh! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+I defer. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+I will edit the post and picture above.
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #244)
+Author    : -... . .- --..
+Date      : Jan 7, 2002 at 4:45 AM
+────────────────────────────────────────────────────────────────────────
+
+</SPAN><TABLE BORDER=0 ALIGN=CENTER WIDTH=85%><TR><TD CLASS=$row_color>Quote:<HR></TD></TR><TR><TD CLASS=$row_color>So just to clarify, then, you guys have (or have seen) the actual Revell/Monogram parts? </TD></TR><TR><TD><HR></TD></TR></TABLE><SPAN CLASS=$row_color>
+
+I have several of both the Monogram and Airfix Saturn Vs. In fact, I have an original vintage issue of each kit sitting right here beside me. The parts that are marked 24 & 25 are in fact parts 24 and 25 from the Monogram Saturn V kit. No ifs, no ands, and no buts! 
+
+[IMAGE: icon_smile.gif]
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #248)
+Author    : Flintlock
+Date      : Jan 8, 2002 at 4:31 AM
+────────────────────────────────────────────────────────────────────────
+
+Beaz, I know you say "no if's and's or but's", 'however' 
+
+[IMAGE: icon_smile.gif]
+
+ the first one I bought was the Monogram Saturn V and they looked a little off. When they reissued the Airfix for Smithsonian Models, I got that kit and they looked like the exact ones. I always thought the Monogram was a new kit. There is also a Revell Saturn V but I believe that it is the EXACT same model as the Monogram. And again, the Smithsonian rocket is the exact same one as the old and newly re-released Airfix kit. Is there something I am missing?
+
+P.S. I have 2 Monogram Saturn V's, 2 Airfix Saturn V's
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #249)
+Author    : Treadwell
+Date      : Jan 8, 2002 at 4:41 AM
+────────────────────────────────────────────────────────────────────────
+
+Well he wasn't saying that the Revell/Monogram is identical to Airfix, he was just correcting my false assertion that the differences I posted about above were between different Airfix releases.
+
+Both he and Frank have said that Monogram parts show up in ILM X-Wings as well, but I haven't found any yet. Reds 2 and 3 both have Aifix parts, for example...but I've only just started looking at my source material with this in mind.
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #250)
+Author    : -... . .- --..
+Date      : Jan 8, 2002 at 6:05 AM
+────────────────────────────────────────────────────────────────────────
+
+[IMAGE: icon_smile.gif]
+
+Guys,
+
+The Monogram kit is from the late sixties, just like the Airfix kit. The instructions in my first edition Monogram kit are copyrighted 1968. The current Revell/Monogram kit is the same as the old Monogram kit. Revell and Monogram merged several years ago. The Smithsonian kit is just a repackaged Airfix kit. Both the Monogram/Revell kit and the Airfix/Smithsonian kit were around when the miniatures from ANH were being built, and I believe both were used in making at least some of the models.
+
+Check this out:
+
+[IMAGE: bg_xwinga.jpg]
+
+This is a pic of the Monogram Saturn V parts that Bill George used on his Maxi-Brute conversion. See that engine bell part on the left? The one with the two forks? In all the pictures I've seen of the hero models, I've noticed subtle differences in the smaller engine bells from engine to engine. I believe it's because sometimes the Airfix bells were used, and sometimes perhaps the Monograms bells were used.
+
+For example, look on page 112 of the SWC. First look at the big pic of Red 1. Look at the top half of the lower righthand engine and note the shape of the small engine bell. Airfix. Now, look at the pic on the bottom of Red 5. This time look at the lower half of the upper righthand engine. Look at the shape of the small engine bell in there. See a difference? I'll have to see if I can find some time to dredge up better pictures, but that's the general idea.
+
+Also there's the fact that Bill George himself used the Monogram kit in his Maxi-Brute conversion. He wasn't around ILM for ANH, but he does presumably have access to the models that still exist from that era, as well as some of his co-workers who built them. Of course, it's also entirely possible that he simply chose the wrong Saturn kit.
+
+In any event, unless I can find a clear reason to use the Monogram parts, I'll most likely stick with those from the Airfix kit, which are obviously more predominant on the hero models.
+
+HTH,
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #254)
+Author    : JamesDavis
+Date      : Jan 9, 2002 at 12:54 AM
+────────────────────────────────────────────────────────────────────────
+
+When I first got my Smithsonian, I noticed the parts were all white and compared it with pics on Starship Modeler. I noticed that guy ( I don't believe he's BG) photographed the Monogram part but used the Airfix parts on the model itself.
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #317)
+Author    : Boba Fett 1138
+Date      : Jan 18, 2002 at 8:33 PM
+────────────────────────────────────────────────────────────────────────
+
+Hey guys ,
+
+hey Frank,
+
+I`v been reading this thread for a while and decided to coment on some things.
+
+Frank  I molded the Icons Xwing & R2 as well,..LOL after I re built them  when I was working for Icons and spent 2 months fixing the casting we got from the ORIGANAL molds .
+
+it was NOT taken from a Exploded one as previosly mentioned BUT from a rather nice casting we got from a old ILMer 
+
+Yes the origanal r2 is not as nicely detailed as the one that
+
+I built and was put into the Icons one .
+
+That was at lucasfilms request they didnt was the fans to see how some of the film models are not as nice as you would expect them to be . And so that no one would try to re-sell one and try to claim it was a film used model.
+
+In doing our research with them they only had in their files 7 pics that were of Lukes X wing ,
+
+and sadly they some how  lost the origanal model of it long ago. 
+
+		Max 
+
+: (</SPAN><TABLE BORDER=0 ALIGN=CENTER WIDTH=85%><TR><TD CLASS=$row_color>Migrate wrote:<HR></TD></TR><TR><TD CLASS=$row_color><FONT COLOR=yellow>Originally posted by Cerney1:</FONT>
+
+Well.....I have molds of the ICONS R2 as well. Hate to admit it...but could not resist molding him when I had the ship for a while. Sold it...wish I hadnt, 
+
+ The real R2....needs some cleanup....but...something genuine about him.  Might offer both togther as a set. Few of us are about to do this head on...and will be offering parts...stay tuned.... 
+
+Frank Cerney</TD></TR><TR><TD><HR></TD></TR></TABLE><SPAN CLASS=$row_color>
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #318)
+Author    : JPolacchi
+Date      : Jan 18, 2002 at 8:56 PM
+────────────────────────────────────────────────────────────────────────
+
+Hi everyone.....out of curiosity.....was the 1/9 Kettenkrad used to kitbash the X-Wing?I could be wrong,cause my kit part identification skills are'nt as tight as others....but after looking through my kettenkrad kit for the y-wing parts used...it seems that from the highlighted pictures at the top of this thread..the terquoise highlighted part..it looks like a kettenkrad part Ive seen..like a carburator or something like that.I could be wrong,and I appologize for that....cause the part could be from any number of kits used on the studio model....but it just looks strangely familiar.Maybe let me know if I am correct in my assumption,cheers-John
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #324)
+Author    : Treadwell
+Date      : Jan 21, 2002 at 1:30 AM
+────────────────────────────────────────────────────────────────────────
+
+Sorry, which pic are you referring to?
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #327)
+Author    : JPolacchi
+Date      : Jan 21, 2002 at 8:18 AM
+────────────────────────────────────────────────────────────────────────
+
+From the two photos that are scanned on this page at the top (pg 36)....the R2 strip detail...there's a highlighted blue/green part that looks like a carburator......or something like that....my eyes tell me kettenkrad,but like I said,I could be wrong...be nice if I were'nt for once.I only been able to able to recognize a few kit parts on some of the filming minatures built.However, unless i have the kit&part in front of me to oogle over...most other times I really have'nt a clue,Im just trying the best i can-John
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #328)
+Author    : Treadwell
+Date      : Jan 21, 2002 at 8:46 AM
+────────────────────────────────────────────────────────────────────────
+
+Lots of people have their forum display settings customized, so no everyone is going to see the same thing on page 36, if they even have a page 36 using their settings.
+
+However:
+
+[IMAGE: r2strips.jpg]
+
+The blue/green parts are already identified as from the Airfix 1:24 Harrier. It's the purple, red and green parts that are in question.
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #731)
+Author    : Boba Flint
+Date      : Feb 14, 2002 at 9:19 AM
+────────────────────────────────────────────────────────────────────────
+
+I'm still working on my CC X-Wing, and as I've said before it will be Red 2. I've started to put some markings on the ship. I've noticed that on Red 2, as well on other X-Wings, there are these little tiny black squares all over the ship. I am putting those on my ship. Does this make any difference? Am I mad, obsessed, stupid for doing this? 
+
+btw this is just a stress reliever post.
+────────────────────────────────────────────────────────────────────────
+Post #28  (forum post #745)
+Author    : Rogue Studios
+Date      : Feb 14, 2002 at 2:11 PM
+────────────────────────────────────────────────────────────────────────
+
+Has the yellow part been id'd...I think it's a a cap off a felt marker that has been rounded off...no biggie I know most people scratch them but if you look on a felt pen cap the white thingy on the inside look just like that except not rounded off. oh well my 2 cents
+────────────────────────────────────────────────────────────────────────
+Post #29  (forum post #2283)
+Author    : Flintlock
+Date      : May 4, 2002 at 4:16 AM
+────────────────────────────────────────────────────────────────────────
+
+Someone said we needed amber pill vials for the engines. Does anyone know a good place online to get them, and what size???
+────────────────────────────────────────────────────────────────────────
+Post #30  (forum post #2284)
+Author    : Clerval
+Date      : May 4, 2002 at 6:24 AM
+────────────────────────────────────────────────────────────────────────
+
+That yellow cap piece also looks similar to two bits of Falcon cockpit detail, though I may be remembering teh 5 footer... perhaps if someone has leads as to the details there, they may be able to help with that cap.
+────────────────────────────────────────────────────────────────────────
+Post #31  (forum post #2286)
+Author    : boatbuilder1
+Date      : May 4, 2002 at 1:13 PM
+────────────────────────────────────────────────────────────────────────
+
+where can I get a cc x wing ? I just found out about it how big is it
+────────────────────────────────────────────────────────────────────────
+Post #32  (forum post #2298)
+Author    : Flintlock
+Date      : May 5, 2002 at 11:43 PM
+────────────────────────────────────────────────────────────────────────
+
+...any word on those vials?
+────────────────────────────────────────────────────────────────────────
+Post #33  (forum post #5019)
+Author    : boatbuilder1
+Date      : Sep 30, 2002 at 9:55 AM
+────────────────────────────────────────────────────────────────────────
+
+has anyone found out what kit the spade type thing on the back of the wing is under the hummel jack ?
+
+I strongly urge you all tolook at a 1/72 long tome howitzer 
+
+take care
+────────────────────────────────────────────────────────────────────────
+Post #34  (forum post #5021)
+Author    : Treadwell
+Date      : Sep 30, 2002 at 10:37 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks, will do!
+
+I'm not familiar with the term "long tome". Is that a model manufacturer or a kind of of howitzer?
+────────────────────────────────────────────────────────────────────────
+Post #35  (forum post #5027)
+Author    : boatbuilder1
+Date      : Sep 30, 2002 at 2:30 PM
+────────────────────────────────────────────────────────────────────────
+
+sorry miss spelling its long tom m59 155 mm cannon
+
+its first designation was m1a1 developed in the 30's and used until the 60's I am pretty sure italery had and has a 1/72 scale kit I think the 1/35 would be too big I just recently read a review of the afv kit and the part in question on thekit is over an inch long so I don't think its the right one so I plan to get the 1/72 one
+────────────────────────────────────────────────────────────────────────
+Post #36  (forum post #5074)
+Author    : Miniaturizer Ray
+Date      : Oct 7, 2002 at 4:47 AM
+────────────────────────────────────────────────────────────────────────
+
+Does anybody have any thoughts about the Hummel part that's used on the front of the wings?  Not the jack that's also on the back, the other part with the hole?  The parts on the X-Wing seem different:  The "wall" is thicker (and there's a little extra detail - which could easily be a separate part, of course - too).  Could the Hummel kit have been retooled?  The jack part is a little bit different, as well - the little "C-Beam" part that sticks out is rounded on the X-Wing (the ILM guys could have modified the part to make it look that way).
+
+Given the price of the Hummel, I'm a bit leery of buying it if the right parts are actually in a different kit...
+────────────────────────────────────────────────────────────────────────
+Post #37  (forum post #5075)
+Author    : Treadwell
+Date      : Oct 7, 2002 at 5:01 AM
+────────────────────────────────────────────────────────────────────────
+
+I'll check my scans of the kit and see if I can find a good ref pic for comparison. Might be a few days.
+
+In the meantime, in another thread it was mentioned that a 1/72 M1 Abrams tank was used. To my knowledge this hasn't been mentioned in this thread before.
+────────────────────────────────────────────────────────────────────────
+Post #38  (forum post #5081)
+Author    : boatbuilder1
+Date      : Oct 7, 2002 at 1:54 PM
+────────────────────────────────────────────────────────────────────────
+
+I hate to say this but the abrams was not available them as it was still in testbed form 
+
+and the other part on the wing front  with the hole and the ridged detail in it  that is the other half of the hummel jack 
+
+hope this helps  
+
+take care
+────────────────────────────────────────────────────────────────────────
+Post #39  (forum post #5085)
+Author    : Miniaturizer Ray
+Date      : Oct 7, 2002 at 6:03 PM
+────────────────────────────────────────────────────────────────────────
+
+Look at this:
+
+[IMAGE: hummelquery.jpg]
+
+This is Red One from Chronicles compared with beaz's picture of the Hummel part.  Look how much thicker the wall appears to be.  Also notice how the X-wing part appears to have two extra rivets (as well as the aforementioned extra greeblie), but they could just be air bubbles.
+
+I wondered if maybe it was an optical illusion based on the lighting and the angle that the model was photographed at, but I don't think so.  Although I don't have the Hummel kit, I do have Scott's X-wing kit, and I can't make the part look like the picture no matter how I position it.  
+
+So, again, unless Scott's part isn't the same as the part from the kit, either the Hummel kit was retooled at some stage, or the ILM guys thickened the wall up, or the part is from a different kit (I don't know anything much at all about big tank kits, or tanks in general, so I don't know how likely this last option is).
+────────────────────────────────────────────────────────────────────────
+Post #40  (forum post #5086)
+Author    : Treadwell
+Date      : Oct 8, 2002 at 12:38 AM
+────────────────────────────────────────────────────────────────────────
+
+Good analysis. I was wracking my brain last night trying to make the part in front of me and my source pics match up. I see what you mean about the thickness of the raised border, and the rivets.
+
+In fact, the other Hummel jack half isn't 100%, either. It, too, has a bit of a raised border in reference pics but the Hummel part has none.
+
+The parts are close enough for my tastes, but you've raised some interesting possibilities. As you say, they either aren't from this kit or it was retooled. Anyone have a copy of this kit that was produced in '75 or so?
+────────────────────────────────────────────────────────────────────────
+Post #41  (forum post #5087)
+Author    : Miniaturizer Ray
+Date      : Oct 8, 2002 at 9:25 AM
+────────────────────────────────────────────────────────────────────────
+
+Check these out...  http://www.homepurchaseprogram.com/readpage.html 
+
+Seems like most of the R/C Bandai German tanks have jacks that are similar, but not identical to, the Hummel jack.  Look at this one in particular:
+
+[IMAGE: image004.jpg]
+
+The SturmgeschÃ¼tz IV.  It's really dificult to make out at that resolution, under the camo, but I can almost see that being our part, with the extra detail that's missing from the Hummel part.
+────────────────────────────────────────────────────────────────────────
+Post #42  (forum post #5089)
+Author    : Treadwell
+Date      : Oct 8, 2002 at 9:45 AM
+────────────────────────────────────────────────────────────────────────
+
+Good find. If not the Hummel, I wonder if the "right" kit will also have all the other "Hummel" parts ID'ed on the Y-Wing, etc.
+
+As for me, considering the cost, I'm just gonna stick with the Hummel I already have. 
+
+[IMAGE: icon_smile.gif]
+────────────────────────────────────────────────────────────────────────
+Post #43  (forum post #5090)
+Author    : boatbuilder1
+Date      : Oct 8, 2002 at 11:06 AM
+────────────────────────────────────────────────────────────────────────
+
+hey guys I tryed my bandai kits king tiger and panther not a match there either just to letyou know the hummel is very close I am going with that 
+
+take care
+────────────────────────────────────────────────────────────────────────
+Post #44  (forum post #5093)
+Author    : DARKSIDE72
+Date      : Oct 8, 2002 at 2:18 PM
+────────────────────────────────────────────────────────────────────────
+
+The Hummel jack IS the part used. The re-issue has not been re-tooled. I have the original release. 
+
+ As with MANY donor parts on these models you have to "think outside the box". The small box deal has been shaved down etc. You also have several layers of paint on the models that distort the details. Parts and panels combined into assembly's etc.
+────────────────────────────────────────────────────────────────────────
+Post #45  (forum post #5095)
+Author    : Miniaturizer Ray
+Date      : Oct 8, 2002 at 4:27 PM
+────────────────────────────────────────────────────────────────────────
+
+Are you a gambling man, Jamie?
+
+I'll bet you the cost of the Bandai Stug that it has the correct parts, not the Hummel...
+────────────────────────────────────────────────────────────────────────
+Post #46  (forum post #5096)
+Author    : DARKSIDE72
+Date      : Oct 9, 2002 at 1:39 AM
+────────────────────────────────────────────────────────────────────────
+
+[IMAGE: ViewImage.dll]
+
+[IMAGE: ViewImage.dll]
+
+[IMAGE: ViewImage.dll]
+
+[IMAGE: ViewImage.dll]
+
+ The hummel jack scan isn't angled properly, nor is the part modified. But you get the idea.
+
+The rear is obvious.
+
+ The 1/15 STUG jack (last picture) is completely wrong. 
+
+Either state facts around here, that is PROVE without a doubt your information is 100% correct or keep the amateurish speculation to yourself. Guessing doesn't cut it. At least post pictures that merrit a discussion or an investigation.
+────────────────────────────────────────────────────────────────────────
+Post #47  (forum post #5097)
+Author    : Treadwell
+Date      : Oct 9, 2002 at 3:55 AM
+────────────────────────────────────────────────────────────────────────
+
+easy...
+────────────────────────────────────────────────────────────────────────
+Post #48  (forum post #5098)
+Author    : Miniaturizer Ray
+Date      : Oct 9, 2002 at 4:50 AM
+────────────────────────────────────────────────────────────────────────
+
+A StuG:
+
+[IMAGE: DeadStug4.jpg]
+
+Your "StuG" jack looks more like the Tiger jack (I think it was the Tiger - I'm not really interested in memorizing what the wrong parts look like).  It certainly seems to be mounted on a StuG, in the same position as the fuel can in the above image.  Whether it's mounted on a Bandai StuG or not is a different matter; the Bandai box art has a jack like my picture.  Checking out websites devoted to R/C tanks, it seems that the Bandai kits have been heavily reworked over time, apparently.  Perhaps your jack is from a StuG kit, but not from the one that ILM used.  Alternatively, perhaps the jack ILM used is from a Hummel, but you were the one that claimed that the Hummel part hadn't been retooled.  Notice how the two smaller circular bits on the Hummel jack appear to be a little too close together compared to the part on the X-wing, and notice how the bits in the StuG picture above appear to be slightly further apart.
+
+Another StuG jack, this time mounted the other way around:
+
+[IMAGE: 022402%20003a.jpg]
+
+Notice the thicker wall and the extra details.  Again, it's hard to tell from the low resolution of the image, but it looks as though the extra details are holes.  Look at the Red One image I posted, and it's easy to imagine that the details on there are laid over holes.  There's no evidence of any holes in the Red 2 picture that you posted (thanks for that, by the way, I wish you'd post more like it) but I think that the hole is for stowing the jack handle.  The detail on the Red 2 part might be the jack handle.  Notice also on your Red 2 picture that the large hole with the teeth doesn't have any lip around it - the hole goes right to the edge of the wall.  The Hummel part has a lip.
+
+"Either state facts around here, that is PROVE without a doubt your information is 100% correct or keep the amateurish speculation to yourself. Guessing doesn't cut it. At least post pictures that merrit a discussion or an investigation."
+
+Everything I've stated is a fact, based on careful observation of the images that I've found.  Your claims ("extra layers of paint make the part look that way" for example) seems more like "guessing" to me.  There's really never been any need for your unfriendly tone.
+
+I could easily be wrong - the StuG models that I've posted pictures of could have been accurized.  Maybe the actual kit part isn't the right one.  So, I'll say it again.  How about a gamble:  The price of the kit?  If I'm wrong, you make several hundred dollars.  If I'm right, you get the right parts for the X-wing, and just maybe some more parts for your Y-wing.  How can you lose?
+────────────────────────────────────────────────────────────────────────
+Post #49  (forum post #5099)
+Author    : Treadwell
+Date      : Oct 9, 2002 at 7:28 AM
+────────────────────────────────────────────────────────────────────────
+
+You make some fine good points, Ray. I think it's a valuable thing to re-examine even the most accepted "facts" from time to time--sometimes new discoveries can result.
+
+The thicker border is rather convincing to me. It doesn't look like it's the result of paint or casting mushiness. Fairly crisp on that X-Wing pic--if recasting/painting had built it up THAT much, it would be much more rounded and there wouldn't be much detail left on the teeth in the hole. Plus, the border in Jamie's ref pic is butted up to the outer edge of the hole, which is not the case on the Hummel.
+────────────────────────────────────────────────────────────────────────
+Post #50  (forum post #5100)
+Author    : boatbuilder1
+Date      : Oct 9, 2002 at 9:18 AM
+────────────────────────────────────────────────────────────────────────
+
+you guys are really duken it out here wow 
+
+the stug was on the ilm kit racks I can't show you pics of the rack as they are not in my possesion but I can tell you the kit as well as quite a few large scale bandai kits 
+
+example 
+
+m60 a1 
+
+king tiger 
+
+panther 
+
+1/24 scale 
+
+the stug
+
+the hummel
+
+kettenkrad 
+
+bmw r 75 
+
+the list goes on amd on 
+
+I have made it one of my chares to gather any and all info about the ilm kit racks I have some good ref pics but will not post them sorry butI have workedhard for this info 
+
+if anyone wants a peak at them email me 
+
+I am not saying the stug isthe right kit here but just verifing it was on the kit racks  at one time 
+
+over and out
+────────────────────────────────────────────────────────────────────────
+Post #51  (forum post #5102)
+Author    : DARKSIDE72
+Date      : Oct 9, 2002 at 12:35 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks for posting the better pictures Ray. Your arguement NOW has me intrigued. I just don't have the time for guessing.... that means to me, not showing good enough evidence to back up what one says. Looks like you just did that. 
+
+ I suppose there is only one way to find out for sure now.
+────────────────────────────────────────────────────────────────────────
+Post #52  (forum post #5104)
+Author    : Miniaturizer Ray
+Date      : Oct 9, 2002 at 6:08 PM
+────────────────────────────────────────────────────────────────────────
+
+Figured you'd already know, beaz.  Where the devil have you been, anyway?  How are you getting along with the non-kit parts of the X-wing?  I got some stuff to show, if you want to see it...
+
+Jamie, the reason I didn't post those pictures straight away was to make a bit of a point.  There is a difference between idle speculation and well-reasoned conjecture.  I knew the Hummel part wasn't the same as the part in the Chronicles Red One picture. I posted here with a general enquiry, just in case anybody was willing to volunteer the information that the kit had been retooled (this was what I initially thought was the most likely explanation).  Nothing much came of that, so then I went scouting for pictures of the other Bandai jacks.  I already had the pictures I posted when I offered you the wager.  The reason I offered you the wager was the same reason that I'm building my X-wing.  For FUN.  That's why we're all doing it, isn't it?  Friends?
+────────────────────────────────────────────────────────────────────────
+Post #53  (forum post #5108)
+Author    : DARKSIDE72
+Date      : Oct 9, 2002 at 11:54 PM
+────────────────────────────────────────────────────────────────────────
+
+Ray,
+
+ I'm a hot-head what can I say 
+
+[IMAGE: icon_mad.gif]
+
+   Sorry I didn't mean to offended you. I just get sick of all the "idle speculation" that goes on around here. Which to me, sounded like your initial intentions.  Good find BTW.
+
+ Friends? Of course 
+
+[IMAGE: icon_cheers.gif]
+
+ 
+
+Jamie
+────────────────────────────────────────────────────────────────────────
+Post #54  (forum post #5116)
+Author    : boatbuilder1
+Date      : Oct 10, 2002 at 1:46 PM
+────────────────────────────────────────────────────────────────────────
+
+that part on the back of the wing that has the sherman boagy inlaid well as I said it is from a lomg tome kit but I wasn't sure of the manufacturer or scale I surfed fro a while adn found this the auroura kit scale is 1/40 ? email me for pic it is the part we are looking for I hope god I hope 
+
+take it easy 
+
+andrsnhaus@earthlink.net
+────────────────────────────────────────────────────────────────────────
+Post #55  (forum post #5118)
+Author    : -... . .- --..
+Date      : Oct 10, 2002 at 2:29 PM
+────────────────────────────────────────────────────────────────────────
+
+</SPAN><TABLE BORDER=0 ALIGN=CENTER WIDTH=85%><TR><TD CLASS=$row_color>Miniaturizer Ray wrote:<HR></TD></TR><TR><TD CLASS=$row_color>
+
+Figured you'd already know, beaz.  Where the devil have you been, anyway?  How are you getting along with the non-kit parts of the X-wing?  I got some stuff to show, if you want to see it...</TD></TR><TR><TD><HR></TD></TR></TABLE><SPAN CLASS=$row_color>
+
+Hey, Ray,
+
+O master of the mesh, I wanna see, I wanna see...beazuhma@mindspring.com
+
+[IMAGE: icon6.gif]
+
+ 
+
+As for me I've been really busy, tho not so busy that I haven't worked on my X-Wing here and there. Hoping to have more free time this winter to do some modeling. Just finished remodeling my office/shop space in the attic of the house we moved into last year, so now I have some space.
+────────────────────────────────────────────────────────────────────────
+Post #56  (forum post #5292)
+Author    : Treadwell
+Date      : Oct 14, 2002 at 2:34 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks, beaz. You always have the answers!
+
+Thanks, too, boatbuilder1, for the Abrams info. It supposedly is on CC's list. I wonder what he used it for.
+────────────────────────────────────────────────────────────────────────
+Post #57  (forum post #5306)
+Author    : -... . .- --..
+Date      : Oct 14, 2002 at 11:55 AM
+────────────────────────────────────────────────────────────────────────
+
+</SPAN><TABLE BORDER=0 ALIGN=CENTER WIDTH=85%><TR><TD CLASS=$row_color>Treadwell wrote:<HR></TD></TR><TR><TD CLASS=$row_color>
+
+Thanks, beaz. You always have the answers!</TD></TR><TR><TD><HR></TD></TR></TABLE><SPAN CLASS=$row_color>
+
+Can't claim any credit on this one - was told about the StuG by someone else.
+────────────────────────────────────────────────────────────────────────
+Post #58  (forum post #5738)
+Author    : Miniaturizer Ray
+Date      : Nov 19, 2002 at 10:02 AM
+────────────────────────────────────────────────────────────────────────
+
+boatbuilder, I don't think the Aurora Long Tom is the right kit, I'm afraid.  I came across this webpage which makes it look like a good candidate:  The spades in the picture look as if they could be trimmed to look like the X-Wing detail, and the Long Tom (308) is apparently identical to the 8" Howitzer (307) apart from the longer barrel, and the 8 incher was also available in a set with the M8, which we know was used.  Seemed promising enough.  I got the 8" kit today, but the spades are too small.  The kit instructions are for the 8" or the 155mm, so I'm pretty sure that the two kits are identical apart from the barrel.
+
+There's some talk about six hundred odd posts into this thread about Howitzers:  beaz says that the Italieri 155mm and 105mm kits aren't right.  There can't be that many more to eliminate.  Of course, there's no guarantee that the part actually is a Howitzer spade.  Personally, I'm not going to worry too much about this part:  it's an easy scratch, and the Sherman part pretty much sets the dimensions.
+────────────────────────────────────────────────────────────────────────
+Post #59  (forum post #5740)
+Author    : boatbuilder1
+Date      : Nov 19, 2002 at 11:55 AM
+────────────────────────────────────────────────────────────────────────
+
+actually there are quite a few manufacturers of the howitzer all of which were not around them 
+
+but I will kepp looking 
+
+take care I am waiting until after christmas to order rtv and mold my fuzzy until then work proceeds on the wings and buying kits 
+
+too much into space 1999 and the eagle right now too many ships to build not enough time or money
+
+tut tut
+────────────────────────────────────────────────────────────────────────
+Post #60  (forum post #5741)
+Author    : Guardian
+Date      : Nov 20, 2002 at 5:22 AM
+────────────────────────────────────────────────────────────────────────
+
+Hi guys I am starting a 1/6th scale X-Wing model ( from scratch ) and just wanted to know if there are any plans or good diagrams out there on how to scratch build one, thanks for the help 
+
+[IMAGE: clonetrooper_yellow.gif]
+────────────────────────────────────────────────────────────────────────
+Post #61  (forum post #5790)
+Author    : JamesDavis
+Date      : Dec 7, 2002 at 12:23 AM
+────────────────────────────────────────────────────────────────────────
+
+Wow Guardian! A 1/6th scale X-Wing! That will be over 7 feet!
+
+Here are some X-Wings I have built using information contained in this thread and some reference I have found from various places. This thread contains "EVERYTHING" you need to make an accurate 1/24 X-Wing model (well it used to before a lot of things were deleted). 
+
+The Red 2 Model has a scratchbuilt fuselage and wings. It was made from plans using side measurements of Red2 from the Kalmback book, and overhead measurements of Red3 from AOSW. It turned out nice, but I will wait for more Red2 reference, before I make another. The Red 5 Model was based on a Maxi-Brute (heavily modified)and has lighted engines and cockpit. Real Saturn V and Sherman parts were used on both models, the rest of the parts were cast from the original kit parts. Both of these models have been sold. Their sales have made back at least 75% of the money spent on buying kits, a few which cost over $200, not to mention all the blunders. The new fuselage under construction will be my "ultimate" hero X-Wing. It is being made from drawings posted by NWERKE, reference shots of RED3, and measurements taken off the FineMolds. It will have internal lights and moving wings.
+
+http://www.picturetrail.com/jdmodelpics
+
+Any other X-Wing scratchbuilders out there?
+────────────────────────────────────────────────────────────────────────
+Post #62  (forum post #5793)
+Author    : Boba Flint
+Date      : Dec 7, 2002 at 1:54 AM
+────────────────────────────────────────────────────────────────────────
+
+What is it you think was deleted?
+────────────────────────────────────────────────────────────────────────
+Post #63  (forum post #5800)
+Author    : Miniaturizer Ray
+Date      : Dec 8, 2002 at 9:15 PM
+────────────────────────────────────────────────────────────────────────
+
+I think I found a part. Need to recharge my camera batteries, so I'll take the time to ponder whether I should share the info or keep it to myself. 
+		
+		
+	
+
+	
+
+[IMAGE: icon_smile.gif]
+
+If I mention that it's the insignificant blue greeblie on the R2 strip in Treadwell's picture, will beaz (or somebody else) beat me to the punch? 
+
+[IMAGE: icon_smile.gif]
+────────────────────────────────────────────────────────────────────────
+Post #64  (forum post #5804)
+Author    : Miniaturizer Ray
+Date      : Dec 9, 2002 at 1:03 PM
+────────────────────────────────────────────────────────────────────────
+
+Hmmm, no takers, eh?
+
+Okay.  Well, I managed to get hold of a Bandai StuG.  Being a bit of a cheapskate, I got a secondhand pre-assembled one for sixty dollars, which looks like it was put together by an eight year old in a hurry, but nevermind: I got my jack.
+
+I also got these:
+
+[IMAGE: hinges.txt]
+────────────────────────────────────────────────────────────────────────
+Post #65  (forum post #5812)
+Author    : Treadwell
+Date      : Dec 10, 2002 at 12:49 AM
+────────────────────────────────────────────────────────────────────────
+
+[IMAGE: icon_cheers.gif]
+────────────────────────────────────────────────────────────────────────
+Post #66  (forum post #6429)
+Author    : Treadwell
+Date      : Apr 18, 2003 at 12:47 AM
+────────────────────────────────────────────────────────────────────────
+
+Yup I got a sealab but was waiting to post about it after I had the parts isolated--mine is assembled and I'm still noodling on the safest way to disassemble it without damage (ruining any resale value). Had I owned a crystal ball, I would've gone for another unassembled sealab that sold for just $20 more a week later.
+
+Anyhow, I'm not aware of any sealab part for the FRONT of the engines. The Sealab has two parts that are the elusive flat rectangular piece with the three thin strips on them (and a hatch-like detail) that are on the angled wing pieces butted up against each engine (the structures that also have the brick pattern greeblies on 'em). Sorry for the vagueness, I'll put some pics together to illustrate this better soon.
+
+This page
+
+http://www.greysteele.com/models/sealab.htm
+
+Has pics of the model and scans of the instructions. The part in question is part 19 in this pic:
+
+http://www.greysteele.com/models/Sealab-i06.jpg
+
+I also got to look at a blown-up pyro X-Wing on display at the Planet Hollywood store at Downtown Disney in Orlando, and discovered that another, similar sealab part is used on the wing surface under each engine nozzle. Unfortunately my pics didn't come out so a return trip with a digicam is in my future. This part I believe is #18, also in the instruction pic above.
+
+This kit also yields parts for the five foot Falcon, and I'd be surprised if it didn't have Y-Wing parts, too, although I haven't looked into that yet.
+
+Your CG X-Wing is superb! My X-Wing is still a bunch of donor kitparts still on their trees, sheets of acrylic and styrene still untrimmed, etc.
+────────────────────────────────────────────────────────────────────────
+Post #67  (forum post #6430)
+Author    : Miniaturizer Ray
+Date      : Apr 18, 2003 at 1:26 AM
+────────────────────────────────────────────────────────────────────────
+
+Hey, Jay, you got way more than that!  The Sealab also supplies the little tanks that sit next to the Phantom engines inside the wings, as well as the "exhaust manifold" things on Red 2.  The parts at the front of the wings are in there, too (the bits that the Sherman guns and StuG jacks sit in front of), but that's not what I meant.  You know the part that butts up against the Saturn V halves, that's supposed to have been a section of pill bottle?  I have a hunch that that's part of the Sealab, but  I haven't been able to measure it, to confirm my hunch, obviously.  I think it's a slice from the front of the hull (the bit that comes in clear and opaque versions)...
+────────────────────────────────────────────────────────────────────────
+Post #68  (forum post #6431)
+Author    : Treadwell
+Date      : Apr 18, 2003 at 1:40 AM
+────────────────────────────────────────────────────────────────────────
+
+Hmm! I'll have to prioritize tearing my lab apart so I can check this out! (and post pics, of course)
+────────────────────────────────────────────────────────────────────────
+Post #69  (forum post #6434)
+Author    : DARKSIDE72
+Date      : Apr 18, 2003 at 2:06 AM
+────────────────────────────────────────────────────────────────────────
+
+Smooth move... Hopefully the cost of this already scarce kit will now be driven into the stratosphere. Especially when the kit dealers themselves find out that is has something to do with Star Wars.
+────────────────────────────────────────────────────────────────────────
+Post #70  (forum post #6435)
+Author    : Miniaturizer Ray
+Date      : Apr 18, 2003 at 3:00 AM
+────────────────────────────────────────────────────────────────────────
+
+Sorry, Jamie, but we just don't see eye to eye on this.
+
+The Sealab is already a collector's item anyway.
+
+It took me six months to get a Phantom, and about eighteen months to get a Whitley, but I held out, and eventually got both for a couple of dollars apiece.
+
+I've spent far more money on kits that turned out to have no parts in them than I have on the right kits.  To me, this is proof that your way is wrong.  There'll never be a level playing field.  If somebody who manages a large model store gets into this hobby, he can open boxes all day without spending dollar one.  I have to order kits and pay shipping on top.  It'd cost me hundreds of thousands to have access to the same stuff that he gets for nothing.  I'd like to think that he'd share his good fortune with the rest of us.  You think he shouldn't.
+
+We're both entitled to our opinions, I guess; I just wish that you'd apply your "no sharing" rule to yours.
+────────────────────────────────────────────────────────────────────────
+Post #71  (forum post #6440)
+Author    : Boba Flint
+Date      : Apr 18, 2003 at 4:59 AM
+────────────────────────────────────────────────────────────────────────
+
+</SPAN><TABLE BORDER=0 ALIGN=CENTER WIDTH=85%><TR><TD CLASS=$row_color>Quote:<HR></TD></TR><TR><TD CLASS=$row_color>
+
+The Sealab is already a collector's item anyway.
+
+</TD></TR><TR><TD><HR></TD></TR></TABLE><SPAN CLASS=$row_color>
+
+Exactly. Now this will drive the price up even further.
+────────────────────────────────────────────────────────────────────────
+Post #72  (forum post #6472)
+Author    : Miniaturizer Ray
+Date      : Apr 19, 2003 at 1:52 AM
+Reactions : Like — asalaw
+────────────────────────────────────────────────────────────────────────
+
+What's the difference?  If you want to build an X-Wing, you need the Sealab. 
+
+What does it matter whether you spend more money on a Sealab kit, which has the parts you need, or spend the money on other kits that don't have any useful parts.
+
+Why insist that everybody repeat our mistakes?
+
+If we freely share information about what we do know, then everybody can concentrate on the parts that we don't know yet.  There aren't many left.  There's the virtually invisible part that sits underneath the guns, the tiny greeblies on the Phantom engines, the sidewalls on the inner engines, the part of the gun incorrectly identified as the Hummel roller, and a couple of pieces on the R2 strip.
+
+However you look at it, you guys just don't have a good argument.  Jamie repeatedly badgered Jay about his list, and really, the only point that had any credibility to it was that Jay was listing information that he hadn't checked was correct by comparing the parts directly to reference images, thereby passing on possibly incorrect information.  A while later, Jamie is insisting that the jack on the front of the wings is from the Hummel (which it ain't), and anybody who says otherwise should keep their trap shut.  Now, you're saying (in the Y-Wing thread) that anybody who hasn't already spent a wad of cash doesn't deserve any help,  whilst complaining in this thread about useful information that might lead to a bit of a price hike.  
+
+Don't you both have Sealab kits, already?  The only reason I don't have one is because I'm waiting to snag a cheap one, like I did with the Phantom and the Whitley.  With all the cash you guys claim to have been throwing down, I'd have thought that you'd have Sealabs to spare.
+────────────────────────────────────────────────────────────────────────
+Post #73  (forum post #6474)
+Author    : Boba Flint
+Date      : Apr 19, 2003 at 2:50 AM
+────────────────────────────────────────────────────────────────────────
+
+Graflexes once went for $5-$10. Then a bunch of idiots go to camera shops and say they want them to make lightsabers. Word quickly spreads and now you can't buy one for less than $200. If people were more subtle about buying a Graflex there is still the very real possiblity that one wouldn't have to pay $200 for one.
+
+ Now lets see what you did. A kit that already costs $200-$300. Now all the lurkers and others that don't want to do ANY work on their own start hunting for this kit, collectors hear about this and now add to the description that it was something used for Star Wars. Now this very rare kit starts to sell for $400-$500. Whay to go!  Make an already expensive project even more expensive. Round of applause for Ray!!!!!!!
+
+Are you so blind or stupid to understand that some things are not told openly because we are trying to keep the cost of certain kits down?
+
+Try this crap at starshipbuilder and see what happens. You'll get the same responce.
+
+The argument is there in plain daylight you are just incapable of seeing it.
+
+It has taken us (Jmie, Frank Moe, Lee, Charles, Jim and other SS builders) YEARS to find these kits and get the money to buy them. We don't have a disposable income as you seem to suggest. 
+
+All we have ever asked is for people to do some work. Show that you are serious about it.  Show some progress. You may never know what PM or email you may get to help you along or offer you some really good castings of the part(s)you need.
+
+But now you'll never know that. Will you?
+────────────────────────────────────────────────────────────────────────
+Post #74  (forum post #6475)
+Author    : DARKSIDE72
+Date      : Apr 19, 2003 at 3:22 AM
+────────────────────────────────────────────────────────────────────────
+
+Your obviously new to this hobby Ray. 
+
+ You truly feel that those who REFUSE to do any work on these models should be privileged enough to know exactly what was used on them... 
+
+[IMAGE: icon9.gif]
+
+ 
+
+ Only a FEW people are tenacious enough to pursue these projects in question. So it ends up being those select few doing all the work (as with what happened to the Y-wing thread) , concentrating on the remaining parts.  It will never be a group effort. 
+
+ You end up with a feeding frenzy of the lurkers and lazy asses gathering their free hard EARNED information. Laughing all the way because they didn't have to do (This person cannot express opinions maturely) in order to find out anything on their own.   I'll be damned if I ever shared what I know to help worthless bastards like that.    
+
+ The lab is old news , I've owned two within three years. You just turned a rare model kit into a graflex, or an MPP, or an Obi-Wan grenade etc. A finished studio scale model is after all a prop; an ultimate prop. A mint kit is already worth $300-$400.  You'll never understand Ray, good luck finding your missing parts... 
+
+[IMAGE: lol2.gif]
+────────────────────────────────────────────────────────────────────────
+Post #75  (forum post #6477)
+Author    : Miniaturizer Ray
+Date      : Apr 19, 2003 at 3:38 AM
+────────────────────────────────────────────────────────────────────────
+
+Whatever.  I've bid on four Sealab kits since I found out about it, and I don't think any of them went for over $200.  I've only bid on kits that show up on ebay.co.uk; there are more on ebay.com because people sometimes don't want to bother with international buyers.
+
+Are you too blind or too stupid to see that building an X-Wing is about more than the size of your pocketbook?
+
+You want to know what's really funny?  I've had a PM and three emails today, about the X-Wing.  One of the emails is from a japanese guy who's probably built the nicest X-Wing models on the planet, asking for my opinion on something.  Another email is from a guy who not only offered me castings of the Sealab, thanking me for pointing out the "pill bottle" part, but also intimated that he had more parts information.  Here's the funny part:  He specifically said that he only shares information with people who won't share it with Jamie.  Sadly, I won't be accepting this information from him, because I believe in sharing with everybody...
+────────────────────────────────────────────────────────────────────────
+Post #76  (forum post #6490)
+Author    : Boba Flint
+Date      : Apr 19, 2003 at 8:32 AM
+────────────────────────────────────────────────────────────────────────
+
+</SPAN><TABLE BORDER=0 ALIGN=CENTER WIDTH=85%><TR><TD CLASS=$row_color>
+
+Miniaturizer Ray wrote:<HR></TD></TR><TR><TD CLASS=$row_color>
+
+..... building an X-Wing is about more than the size of your pocketbook?
+
+</TD></TR><TR><TD><HR></TD></TR></TABLE>
+
+Oh my God! How ever did you gain this ability to point out the obvious??????????
+
+<TABLE BORDER=0 ALIGN=CENTER WIDTH=85%><TR><TD CLASS=$row_color>Quote:<HR></TD></TR><TR><TD CLASS=$row_color>
+
+  Sadly, I won't be accepting this information from him, because I believe in sharing with everybody...
+
+</TD></TR><TR><TD><HR></TD></TR></TABLE><SPAN CLASS=$row_color>
+
+For some reason I have a very hard time believing that.
+────────────────────────────────────────────────────────────────────────
+Post #77  (forum post #6530)
+Author    : Miniaturizer Ray
+Date      : Apr 19, 2003 at 7:00 PM
+────────────────────────────────────────────────────────────────────────
+
+Well, he's an active poster here.  If he chooses to identify himself, he can quote from my email reply.
+
+Look, I'm not interested in getting into a wiener comparing contest with you guys.  The results of my wiener comparing contest with Luke Skywalker are posted above.  Care to share yours?
+
+I already offered an olive branch to Jamie once, and the offer still stands, to the both of you.  We'll never see eye to eye, but we can agree to disagree, can't we?
+────────────────────────────────────────────────────────────────────────
+Post #78  (forum post #6585)
+Author    : Guardian
+Date      : Apr 21, 2003 at 5:46 AM
+────────────────────────────────────────────────────────────────────────
+
+Hi guys I missed the X-wing drawing that NWERKE posted NWERKE care to post it again ?( or any one for that matter ?) I have a book "The essential guide to vehicles and vessels " in side they have a 3-view of the X-Wing, how accurate is the drawing ?,
+
+ Thanks,
+
+     Mike
+────────────────────────────────────────────────────────────────────────
+Post #79  (forum post #6586)
+Author    : Treadwell
+Date      : Apr 21, 2003 at 7:34 AM
+────────────────────────────────────────────────────────────────────────
+
+Over the weekend I figured it was high time I fused some plastic.
+
+[IMAGE: 47b3da00b3127cce96f4c31cbfe50000003610]
+────────────────────────────────────────────────────────────────────────
+Post #80  (forum post #6595)
+Author    : Miniaturizer Ray
+Date      : Apr 22, 2003 at 4:06 AM
+────────────────────────────────────────────────────────────────────────
+
+Looks good, Jay!  If you like, I could prise off a couple more StuG hinges and send them to you - I have plenty of spares.
+
+Guardian,  If the drawings in the Essential Guide are the ones that look like the image that used to be here that I had to remove the link to because the guy whose webpage I found it on wasted his time coding some snooty message about stealing "his" picture, even though he just scanned the darn thing out of a book
+
+- then they're not really very accurate.
+────────────────────────────────────────────────────────────────────────
+Post #81  (forum post #6887)
+Author    : Treadwell
+Date      : Apr 28, 2003 at 8:22 AM
+────────────────────────────────────────────────────────────────────────
+
+Began building the fuselage rear on Sunday.
+
+[IMAGE: 47b3da09b3127cce9742f7a0b3f50000001610]
+
+(shutterfly really compresses the web-viewable versions of the pics, unfortunately.)
+
+As you can see, I'm nuts enough not to bother casting many of the parts first and am just puttin' 'em on there. I will make an exception, though, with the Hummel parts. 
+
+[IMAGE: icon_smile.gif]
+
+The two, ridged, half-cylindrical parts that get attached to the Sherman along the upper edge were, I thought, reported to be Saturn V parts but I can't find a match in my Airfix--something close, but it doesn't taper like the real part. I've been meaning to pick up the MPC version anyhow, so maybe that'll have the right part. Or I'll just modify the Airfix one.
+
+I don't think this thread ever definitively nailed the two pairs of parts on either side of the Hummel parts (that bookend the 8rad part) on the bottom.
+────────────────────────────────────────────────────────────────────────
+Post #82  (forum post #6918)
+Author    : belleauwood
+Date      : Apr 29, 2003 at 3:03 AM
+────────────────────────────────────────────────────────────────────────
+
+MPC?
+
+  I thought that MPC and Airfix were the same as far as molds go, but I've never even heard of an MPC Saturn V.  Is it the REVELL Saturn you may be thinking of?
+
+  Damn, if thats the case, then thats one more sat V to add to my realspace collection.
+
+Ryan
+
+"This is MY force power, its called a BLASTER!"
+────────────────────────────────────────────────────────────────────────
+Post #83  (forum post #6919)
+Author    : Treadwell
+Date      : Apr 29, 2003 at 3:47 AM
+────────────────────────────────────────────────────────────────────────
+
+Whoops, you're right, I had it mixed up. According to the thread it's the MONOGRAM version that has different tooling. (Go back a page or three to see a discussion about it.)
+
+However, don't rush out to get the Monogram just for those two parts! Thanks to Miniaturizer Ray, I've realized it is the Saturn part, arranged slightly differently than what I thought I was seeing.
+────────────────────────────────────────────────────────────────────────
+Post #84  (forum post #7354)
+Author    : Treadwell
+Date      : May 7, 2003 at 10:06 AM
+────────────────────────────────────────────────────────────────────────
+
+I added those Airfix SatV parts to the Sherman and started the molding master for the Elephant track link assembly (NOT gonna buy eight Elephants!). They're in the top of the pic below. Still need to ID the tiny greeblies added to the track link. I'd always thought they were intregal to the part...until this past weekend! Wouldn't be hard to scratch them if necessary.
+
+Thanks to the scans of the old junky pyro casting Frank posted eons ago, I was able to start on the wings. Photoshop is quite handy! Using the elephant part's length as a guide, I increased the size of the pics by a mere 3.4% or so (I forget the exact figure) to get them back up to "hero" dimentions. I was surprised there wasn't more shrinkage than that, given the multiple generations that thing had obviously been through...perhaps Frank had already enlarged the scans?
+
+Two printouts later I had a template for cutting the wings out of acrylic, keeping in mind the plating overhangs the trailing edges of the wing core by about 3/4 of the thickness of the Hanomag parts that go in the recesses on Red 2. Here are two in the works:
+
+[IMAGE: 47b3db26b3127cce97eee78521220000002610]
+
+I've left a lot of slop on the ends that go into the fuselage; determining where to trim them will come much later during assembly. Originally I'd planned to cut two pairs of wings in two, long, continuous pieces that would pivot around each other at the middle, like the Fine Molds model, but the rear view pic printed in both AOSW and Chronicles show that they are not on the same plane--that is, if you draw a straight line from the tip of the upper right wing, that line will be parallel, but not coincide, with the lower left wing.
+
+Were the pyros like that? I always thought those wings were spread too far apart anyhow, and assembling the wings so that they are on the same plane could account for that. So I will have four individual wings, although their mates may still be attached to each other via another piece that will be hidden inside the fuselage, serving as a stepped-down bracket that will secure them but keep them on their own parallel planes.
+
+Yes, I hope to be able to move my S-Foils in and out of attack position. We'll see how it goes!
+
+The REAL tricky part will be adding the thickness taper.
+────────────────────────────────────────────────────────────────────────
+Post #85  (forum post #7363)
+Author    : HeatRay
+Date      : May 7, 2003 at 11:20 AM
+────────────────────────────────────────────────────────────────────────
+
+Treadwell!  You go boy!  I'm not working on one of these, due to having a CC X-wing and the initial slow progress on my Y which is my number one deal now, however you sure do inspire me and I'm sure others in a very POSITIVE way!
+
+That baby is going to really start coming together quick for you now I think!
+
+Keep it up.
+────────────────────────────────────────────────────────────────────────
+Post #86  (forum post #7508)
+Author    : DeanB
+Date      : May 10, 2003 at 4:16 PM
+────────────────────────────────────────────────────────────────────────
+
+Hi everyone,
+
+I'm a relative newbie to this forum, and a dreaded lurker to boot!  But frankly I've had to do a lot of catching up with this thread to reach a point where I felt I could make a contribution.
+
+Well I've purchased all the kits I could locate, identified their usage, and started defining the model fuselage on a computer modeling system.  I'll post more of my progress and plans as I get more into it.
+
+But what I'm most excited about is that I think I've found something that has not been identified yet.  Perhaps the old-timers who've left this forum know this already, but I'm certain the two parts on either side of the 8Rad part in back are from the Bandai 1/24 scale Shiden Interceptor kit.  I've found another part in this kit that I'm sure belongs on the Y-wing as well.  I'd post a pic to prove my point, but I can't figure out how this BBcode posting an image yadda, yadda, yadda technique is suppossed to work.  Perhaps someone can hand hold me though this procedure...
+────────────────────────────────────────────────────────────────────────
+Post #87  (forum post #7543)
+Author    : Treadwell
+Date      : May 11, 2003 at 7:32 AM
+────────────────────────────────────────────────────────────────────────
+
+Cool, I'd love to see a pic. To post one all you have to do is type [image][/image] with the url of your picture between the two commands. (The picture has to be on the web somewhere, not just on your computer.) Be sure "Disable BBcode on this Post" is unchecked.
+
+My progress this weekend was simply cutting out the remaining pair of acrylic wings and picking up the U-channel Plastruct strips that go in the cutout areas.
+────────────────────────────────────────────────────────────────────────
+Post #88  (forum post #7579)
+Author    : DeanB
+Date      : May 12, 2003 at 5:33 PM
+────────────────────────────────────────────────────────────────────────
+
+Sorry, but due to DSL modem glitches, and the fact I'm away on business for the rest of the week, I'm unable to post the pic from the Shiden kit.  I  did however send photos of all the kit's parts to the following site:
+
+http://www.studioscale.com/ 
+
+Hopefully they will post the pics sometime this week.
+
+Enjoy!
+────────────────────────────────────────────────────────────────────────
+Post #89  (forum post #7617)
+Author    : Miniaturizer Ray
+Date      : May 14, 2003 at 5:09 AM
+────────────────────────────────────────────────────────────────────────
+
+Hey, hey, hey, here's a bit more speculation for the hobbyists...
+
+I was looking over the ol' StuG because Treadwell had asked me if it had any parts which were similar to a Hummel part that's been put forward as a candidate for the Y-Wing.
+
+Well, I didn't find the Y-Wing part, but I noticed something interesting lurking behind the back wheels.  It was a little tiny label, like the ones that Alice found, but it didn't say "Eat me", or "Drink me", it said "Insert Sherman bogey here".
+
+So I did.
+
+[IMAGE: morestug.jpg]
+
+Now I'm not saying this is the right part.  I have a couple of kits on my want list that I thought might have this part.  You need to do a lot of trimming to make this part look right.  On the other hand, it has some points in its favour:  The X-Wing parts do look as though they were trimmed all around.  The Sherman part fits exactly: if you look closely at the X-Wing part, you can see that they had to cut a couple of little notches into the Sherman part to get it to fit around the two middle struts, which is what you'd need to do to make the Sherman part fit this part.
+────────────────────────────────────────────────────────────────────────
+Post #90  (forum post #7637)
+Author    : -... . .- --..
+Date      : May 14, 2003 at 1:50 PM
+────────────────────────────────────────────────────────────────────────
+
+<decloak>
+
+Ray,
+
+That is, without question, the correct part. Looking at my castings for this greeblie, not only are all of the dimensions and angles correct, but more importantly there is the telltale ejector pin marking in exactly the right spot. Ejector pin markings...do...not...lie.
+
+I've bought a half dozen or so artillery models looking for the correct "spade," but this StuG part is the real deal. Finally. And to think I've had a StuG on the rack for more than a year and never even noticed this part.
+
+Excellent find!
+
+</decloak>
+────────────────────────────────────────────────────────────────────────
+Post #91  (forum post #7640)
+Author    : Miniaturizer Ray
+Date      : May 14, 2003 at 7:21 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks for the confirmation!
+
+And Dean, nice find!  I'd totally forgotten that we hadn't identified that part.
+────────────────────────────────────────────────────────────────────────
+Post #92  (forum post #7643)
+Author    : Treadwell
+Date      : May 15, 2003 at 12:17 AM
+────────────────────────────────────────────────────────────────────────
+
+Yup, Dean, I think you nailed it! The picture is here:
+
+http://www.studioscale.com/images/Kit%20Ph...Shinden%202.JPG
+────────────────────────────────────────────────────────────────────────
+Post #93  (forum post #7701)
+Author    : DeanB
+Date      : May 17, 2003 at 4:08 AM
+────────────────────────────────────────────────────────────────────────
+
+Nice find Ray!  It truly looks like the correct part.  However, I thought I read somewhere that there were two vesions of this kit, one with and one without the motor. The non-motorized version a later, limited re-issue.  I have the kit with the motor, and found a similar part, but not exactly the same.  It's die-cast and the ribs the Sherman piece is meant to fit into are different from yours.
+
+Can someone confirm that both kits were available during the ANH period?
+
+Dean
+────────────────────────────────────────────────────────────────────────
+Post #94  (forum post #7740)
+Author    : swpropmaker
+Date      : May 17, 2003 at 4:15 PM
+────────────────────────────────────────────────────────────────────────
+
+All  I have the Sealab parts in question.. the Cylinder and piping.  I will offer them up for molding and promised a safe return with a few examples... any takers?  I thought the Stug part was known. a few months back...
+
+Steve
+────────────────────────────────────────────────────────────────────────
+Post #95  (forum post #7747)
+Author    : Miniaturizer Ray
+Date      : May 17, 2003 at 7:28 PM
+────────────────────────────────────────────────────────────────────────
+
+Dean,
+
+The re-issue has die-cast suspension parts.  On my StuG, all of those parts are plastic.  I seem to recall reading that the kit was re-tooled during its original production lifespan, though; perhaps that explains why you have the die-cast parts and the motors.
+────────────────────────────────────────────────────────────────────────
+Post #96  (forum post #7779)
+Author    : swpropmaker
+Date      : May 18, 2003 at 5:23 AM
+────────────────────────────────────────────────────────────────────────
+
+The reason those parts were made Die-cast is because the release of the kit was made into a RC.  Im not sure the first release was RC or not.
+
+Steve
+────────────────────────────────────────────────────────────────────────
+Post #97  (forum post #8196)
+Author    : Treadwell
+Date      : May 28, 2003 at 10:29 AM
+────────────────────────────────────────────────────────────────────────
+
+I sanded/filed the wings until they were more or less uniform on Monday. I'm not worried overmuch about 100% uniformity along the trailing edges, because the plating overhang is where it will count.  This was taken only partway through the process.
+
+[IMAGE: 47b3db09b3127cce88e0d6ce4e380000001610]
+
+On Saturday I finally found the Holgate & Reynolds HO scale brick sheeting at a model train shop. Walthers doesn't have it in their catalog anymore and they informed me that a resupply from the manufacturer is not scheduled. I would guess it isn't currently in production, so ya better start lookin' if you still need it.
+
+I will have extra available for trade.
+────────────────────────────────────────────────────────────────────────
+Post #98  (forum post #8284)
+Author    : swpropmaker
+Date      : Jun 5, 2003 at 6:49 AM
+────────────────────────────────────────────────────────────────────────
+
+Hey guys,
+
+workingon a future release here and am trying to track down these 2 parts from the Arfix 1/600 Scharnhorst.   I am willing to pay for the entie kit or if someone wants to donate the two parts from thier spares Box!  I will remember those who help greatly when I release this "secret" project!
+
+[IMAGE: 26729233.jpg]
+
+Steve
+
+sneisen641@attbi.com
+────────────────────────────────────────────────────────────────────────
+Post #99  (forum post #8285)
+Author    : Zac
+Date      : Jun 5, 2003 at 7:40 AM
+────────────────────────────────────────────────────────────────────────
+
+Email sent!
+
+Zac
+────────────────────────────────────────────────────────────────────────
+Post #100  (forum post #8286)
+Author    : swpropmaker
+Date      : Jun 5, 2003 at 8:28 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks guys for all the response!
+
+Steve
+────────────────────────────────────────────────────────────────────────
+Post #101  (forum post #8309)
+Author    : Vinyl Guy
+Date      : Jun 10, 2003 at 5:52 AM
+────────────────────────────────────────────────────────────────────────
+
+Has anybody identified the "wheel" piece behind the "flash surpressor" at the front end of the X-Wing Cannon?  i.e. Not the M-8 piece on the rear.  I thought it might be from a 1/32nd scale Monogram German Pzr. IV chassis or an aircraft wheel.  This piece at one time was once identified as a wheel coming from the Bandai 1/15th Scale Hummel, which is much too large. 
+
+Thanks
+
+Dan
+
+"Vinyl Guy
+────────────────────────────────────────────────────────────────────────
+Post #102  (forum post #8310)
+Author    : Miniaturizer Ray
+Date      : Jun 10, 2003 at 6:19 AM
+────────────────────────────────────────────────────────────────────────
+
+It's not the wheel, it's the return roller - the much smaller wheel that the tank tracks run along at the top.  The size is just right, and the back part of the return roller looks exactly right as well.  The only problem with the part is that if you put the appropriate amount of taper on it, you pretty much run out of lip.  If you look very carefully at the Art of Star Wars picture of Red 3, you can see that there's a line towards the rear of the roller.  Unless somebody has better information, I'm inclined to think that it's the Hummel roller with a tapered sleeve from somewhere else.  Alternatively, the outer wall of the roller might have been heated and teased inwards, "potter's wheel" style.  Do you have a picture of the Monogram part?
+────────────────────────────────────────────────────────────────────────
+Post #103  (forum post #8311)
+Author    : Vinyl Guy
+Date      : Jun 10, 2003 at 6:47 AM
+────────────────────────────────────────────────────────────────────────
+
+Ray
+
+   Unfortunately I don't, but there is a Monogram kit on eBay that I was tempted to bid on just to verify if they used any of the wheel/roller parts.  Monogram luckily made German armour w/ just the IV chassis, one kit should resolve this question.  
+
+Dan
+
+"Vinyl Guy"
+────────────────────────────────────────────────────────────────────────
+Post #104  (forum post #8312)
+Author    : Treadwell
+Date      : Jun 10, 2003 at 10:54 AM
+────────────────────────────────────────────────────────────────────────
+
+Returned to the prop/model display at the Planet Hollywood store in Downtown Disney (Orlando) & took lotsa pics.
+
+First: 
+
+An R2 strip on a Death Star surface piece...
+
+[IMAGE: 47b3d831b3127cce891f11fa36700000004610]
+
+...yielded a good look at its remaining mystery pieces:
+
+The round half-domes and the rectangular piece with rivets at the corners...
+
+[IMAGE: 47b3d831b3127cce891f115836d20000002610]
+
+...and the wheel-like halves; Frank used Matilda wheels on his but 'basher reported a year and a half ago that those aren't the right ones.
+
+[IMAGE: 47b3d831b3127cce891f115db7e70000005610]
+
+Indeed, they have non-centered details and no center hole, meaning they aren't wheels, IMO.
+
+Next:
+
+The same Death Star piece had two of the pieces that butt up against the cannons on the wings of the X:
+
+[IMAGE: 47b3d831b3127cce891f114bb7f10000002610]
+
+...and finally:
+
+Seen plainly on the remains of poor Red 4, the Sealab III part under the engine exhaust nozzles:
+
+[IMAGE: 47b3d831b3127cce8918043116fc0000001610]
+
+Hopefully some of these pics will jog some memories out there!
+
+Apart from the exploded pyro there was a completed X hanging from the ceiling, with a very plain paintjob. Not sure of its origins, but will post pics later...there are some interesting aspects about it that will probably help some of you peg where it came from (ILM? CC? ICONS?).
+────────────────────────────────────────────────────────────────────────
+Post #105  (forum post #8316)
+Author    : swpropmaker
+Date      : Jun 10, 2003 at 4:02 PM
+────────────────────────────────────────────────────────────────────────
+
+HEy the part that goes under the xwing gun is from the back deck of the Tamiya 1/35 M4E3 #35122 Sherman.. looks like its not the Hasagawa.. ooops worng picture.   Go grab the Tamiya kit and look at the engine deck grill..  There it is.  they added some styrene in the center as a mount but look at the shaded green area.  will update pic or does someone have one?
+
+[IMAGE: 27085570.jpg]
+
+Steve
+────────────────────────────────────────────────────────────────────────
+Post #106  (forum post #8321)
+Author    : Miniaturizer Ray
+Date      : Jun 10, 2003 at 6:55 PM
+────────────────────────────────────────────────────────────────────────
+
+It's not the Hasegawa, but now that you mention it, it does look a lot like an M4A3 Sherman part.
+────────────────────────────────────────────────────────────────────────
+Post #107  (forum post #8322)
+Author    : swpropmaker
+Date      : Jun 11, 2003 at 12:25 AM
+────────────────────────────────────────────────────────────────────────
+
+Brain FART!  Its from the Tamiya 1/35 M4A3 has the same grill as the Easy 8.. When I found it originally I just wrote down the tank..  its 1/35 scale Tamiya Kit # 35122.  I went to the box opened it and I have already cut the deck off the back of it!  Just got con-fussed..  NOTE  write down all info when you find a part!!
+
+[IMAGE: 27111500.jpg]
+
+Steve
+────────────────────────────────────────────────────────────────────────
+Post #108  (forum post #8323)
+Author    : Miniaturizer Ray
+Date      : Jun 11, 2003 at 4:54 AM
+────────────────────────────────────────────────────────────────────────
+
+Ack - this is going to sound like a horrible nitpick, but count the bolts between the hinges.  The Tamiya has four; the part we want has five...
+────────────────────────────────────────────────────────────────────────
+Post #109  (forum post #8325)
+Author    : boatbuilder1
+Date      : Jun 11, 2003 at 6:17 AM
+────────────────────────────────────────────────────────────────────────
+
+hey guys I recently just got back into building my xwing been down with back injury 
+
+I had my harrier kit out and though what if the lower intakes were cut from the harrier engines the only hitch is the material is not quite thick enough sorry if this is old hash
+
+also saw the stug mentioned I tried my bandai kits and the hummel nor panther nor tiger will do it seems the only one I don't have is the stug
+
+what program is everyone using to highlight parts I have adobe ilistrator but damned if I can figure it out 
+
+thanks ca
+────────────────────────────────────────────────────────────────────────
+Post #110  (forum post #8328)
+Author    : swpropmaker
+Date      : Jun 11, 2003 at 7:28 AM
+────────────────────────────────────────────────────────────────────────
+
+Whats one rivet between friends... I know... Back to the hunt..
+
+You are correct sir.. 1 rivet off..   Ok.. then its on to the Bandai 1/48 M4A3E8  see if that pans out.. or anyother M4 kits in 1/35 scale
+
+I know its from the back of a Sherman .. the louvered grill count is dead on...
+────────────────────────────────────────────────────────────────────────
+Post #111  (forum post #8331)
+Author    : Treadwell
+Date      : Jun 12, 2003 at 2:09 AM
+────────────────────────────────────────────────────────────────────────
+
+</SPAN><TABLE BORDER=0 ALIGN=CENTER WIDTH=85%><TR><TD CLASS=$row_color>
+
+Miniaturizer Ray wrote:<HR></TD></TR><TR><TD CLASS=$row_color>
+
+...the back part of the return roller looks exactly right as well.  The only problem with the part is that if you put the appropriate amount of taper on it, you pretty much run out of lip.</TD></TR><TR><TD><HR></TD></TR></TABLE><SPAN CLASS=$row_color>
+
+What if one were to fill up the inside with zap-a-gap or similar, or putty up the cavity and cast it? One would then not run out of lip.
+────────────────────────────────────────────────────────────────────────
+Post #112  (forum post #8332)
+Author    : Miniaturizer Ray
+Date      : Jun 12, 2003 at 4:01 AM
+────────────────────────────────────────────────────────────────────────
+
+To be honest, I think I may have made a mistake about the amount of lip that would be left.  It looks as though you can put enough taper on and still have a very thin lip left over:
+
+[IMAGE: laser.jpg]
+
+Looking at the head-on photo of Red 1 in Chronicles, it seems that the outside lip is extremely thin.
+────────────────────────────────────────────────────────────────────────
+Post #113  (forum post #8333)
+Author    : Treadwell
+Date      : Jun 12, 2003 at 4:19 AM
+────────────────────────────────────────────────────────────────────────
+
+Wow, good work!
+────────────────────────────────────────────────────────────────────────
+Post #114  (forum post #8334)
+Author    : Vinyl Guy
+Date      : Jun 12, 2003 at 7:50 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks for your help Ray.  I guess the next question is "what's the melting (softening) temperature for styrene?
+
+Dan
+
+"Vinyl Guy"
+────────────────────────────────────────────────────────────────────────
+Post #115  (forum post #8335)
+Author    : boatbuilder1
+Date      : Jun 12, 2003 at 9:41 AM
+────────────────────────────────────────────────────────────────────────
+
+melting point wha huhu
+
+hold it on top of a candle  ........................
+
+joking joking 
+
+I wish I knew or is this a joke on me 
+
+I got my panther today I thought there was a few more parts there for the falcon but I guess I am wrong 
+
+I am getting some castings of the sealab  thats a plus 
+
+if there is anything I can do don't hesistate to ask 
+
+thanks
+────────────────────────────────────────────────────────────────────────
+Post #116  (forum post #8357)
+Author    : boatbuilder1
+Date      : Jun 16, 2003 at 11:38 PM
+────────────────────────────────────────────────────────────────────────
+
+hello people
+
+I hope you don't mind the intrusion
+
+I just recently got back at my xwing project, and find my earlery dim's were off I want to throw these at you guys and see waht you think
+
+fuzy length w/o nose=46 cm
+
+wingspan=46.5 cm tip to tip across fuzy
+
+enginelength phatom parts only=15.5cm
+
+aft fuzy height=8.5cm
+
+aft fuzy width=7cm
+
+butt plate including fuzy width=8.3
+
+noseconelength=6.8cm
+
+nosecone width=3.6cm
+
+nosecone height=3.3cm
+
+length of fuzy from tip to cockpit=17 cm
+
+cockpit length=9.5cm
+
+back of cockpit to front wing opening=5.5cm
+
+front wing opening to back of fuzy=12cm
+
+(now when the butt plate and surrounding fuzy are attached you get 2 cm's longer and total fuzy length is 46cm)**********
+
+cockpit width=5cm
+
+cockpit fuzy height at seatback=2.2cm
+
+across the cockpit and fuzy=6.4cm
+
+across front wing opening=8cm
+
+distance between thse two dims=8cm
+
+this is where the maxi and hasbro xwings are off the most
+
+I am using a hasbro fuzy but it has been cut and chopped greatly since the availability to find a maxi is 1 in a million
+
+one thing I really need to confirm with you guys is the width of the side rails next to (housing the r2strip) you have the r2 strip and then the fuzy rises up and create rails that run either side of the strip back aft I come up with 5/16 wide
+
+I appreciate your listening to me 
+
+also the whitley bomber does it only yield the landing gear parts is it used on anyother stwrs studio model???
+
+chuck 
+
+[IMAGE: icon_smile.gif]
+────────────────────────────────────────────────────────────────────────
+Post #117  (forum post #8358)
+Author    : boatbuilder1
+Date      : Jun 16, 2003 at 11:44 PM
+────────────────────────────────────────────────────────────────────────
+
+also one otther observation
+
+the conical shapes that are one either side of the r2 srtip up front could these conceivably be the cone of the command module from the 1/44 saturn V
+
+looks close vut not sure if anyone has tired to slice it in half
+
+ca
+────────────────────────────────────────────────────────────────────────
+Post #118  (forum post #8361)
+Author    : Treadwell
+Date      : Jun 17, 2003 at 6:30 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks for the dims; it'd be interesting to see how they compare with others', if they choose to post them. I'll see how they compare with my "actual size" blowups.
+
+I'll check the Saturn cone but IRRC it doesn't have the same texture.
+
+I don't know of another use for the Whitley but, logically, it must've been used somewhere...unlikely a box full of parts would go ignored!
+────────────────────────────────────────────────────────────────────────
+Post #119  (forum post #8363)
+Author    : boatbuilder1
+Date      : Jun 17, 2003 at 9:02 AM
+────────────────────────────────────────────────────────────────────────
+
+treadwell thanks  4 the responce
+
+I took my dims from a few differant place namley the chronicles book and pics I found on the web
+
+I just added 2 cm's the the fuzy length only to find I need to add 1.3 more damn
+
+cut sand glue ad nauseum
+
+ca
+
+is it safe to assume the 30cals gund on the front intakes are 1/35 m4 sherman  kit extras ??????
+
+ca
+────────────────────────────────────────────────────────────────────────
+Post #120  (forum post #8365)
+Author    : Treadwell
+Date      : Jun 18, 2003 at 12:13 AM
+────────────────────────────────────────────────────────────────────────
+
+Those guns have already been IDed as yet another donation from the 1/72 Hasegawa Sherman.
+────────────────────────────────────────────────────────────────────────
+Post #121  (forum post #8366)
+Author    : Miniaturizer Ray
+Date      : Jun 18, 2003 at 2:41 AM
+────────────────────────────────────────────────────────────────────────
+
+Just confirming Steve's find for the part under the laser cannons:  The 1/35 motorized Tamiya M4A3E8 (MT218).  Looks like they're pretty easy to get hold of; I think I paid way over the odds for mine.  The fact that it still has the original price sticker (for $3) doesn't help...
+────────────────────────────────────────────────────────────────────────
+Post #122  (forum post #8367)
+Author    : Treadwell
+Date      : Jun 18, 2003 at 4:25 AM
+────────────────────────────────────────────────────────────────────────
+
+So the Tamiya has the right amount of rivets after all?
+────────────────────────────────────────────────────────────────────────
+Post #123  (forum post #8368)
+Author    : Miniaturizer Ray
+Date      : Jun 18, 2003 at 4:51 AM
+────────────────────────────────────────────────────────────────────────
+
+Tamiya make two M4A3 kits at the moment (the "A3" part designates the Ford v8 engine, and hence the engine grille part that we're interested in), but they both have four rivets.  This appears to be the right amount of rivets for the real M4A3 tank, but the wrong amount of rivets for the X-wing.  
+
+The kit I got - with five rivets - is an old one from the 60s/70s - it's a 1/35 motorized kit of the M4A3E8 (the "E8" part designates the horizontal suspension bogeys). MT218 (or maybe MT218-600?) is the kit number.  Looks like they come up on eBay pretty regularly - there just happened not to be any on the day that I found mine, and splurged on it.  Just search for "tamiya sherman" and it should be obvious from the description whether it's the right kit or not.
+
+Edit:  Just to clarify, Steve PM'd me about this kit just after I found the one I bought, and of course I'd never have found it if he hadn't pointed out what the part was, so it's 100% Steve's find.
+────────────────────────────────────────────────────────────────────────
+Post #124  (forum post #8377)
+Author    : Treadwell
+Date      : Jun 19, 2003 at 12:30 AM
+────────────────────────────────────────────────────────────────────────
+
+My Shiden arrived yesterday and I found the mysterious rectangular piece on the R2 strip:
+
+[IMAGE: 47b3d831b3127cce891f115836d20000002610]
+
+It's part C-16:
+
+[IMAGE: 47b3d838b3127cce89e5803aebd30000001610]
+
+If that ain't it, it'll do. It's the perfect size and shape. The rivets look a little small, but it had to have gone through at least two generations before becoming part of that Death Star piece, so maybe there was mushing of detail.
+────────────────────────────────────────────────────────────────────────
+Post #125  (forum post #8433)
+Author    : DARKSIDE72
+Date      : Jun 21, 2003 at 1:17 PM
+────────────────────────────────────────────────────────────────────────
+
+Bump for preservation...
+────────────────────────────────────────────────────────────────────────
+Post #126  (forum post #8439)
+Author    : boatbuilder1
+Date      : Jun 21, 2003 at 1:45 PM
+────────────────────────────────────────────────────────────────────────
+
+just what is bump and what does it mean anyways
+────────────────────────────────────────────────────────────────────────
+Post #127  (forum post #8440)
+Author    : DARKSIDE72
+Date      : Jun 21, 2003 at 4:55 PM
+────────────────────────────────────────────────────────────────────────
+
+Moving (Bump) to the top.. 
+
+[IMAGE: icon_smile.gif]
+────────────────────────────────────────────────────────────────────────
+Post #128  (forum post #8455)
+Author    : boatbuilder1
+Date      : Jun 23, 2003 at 1:14 AM
+────────────────────────────────────────────────────────────────────────
+
+I was checking checking my referance on the wings and info you all have here by the way is a tome of knowledge and I couldn't build the x with out your brains 
+
+thanks
+
+anyways there seems to be an error on the back of the wings at the root (near the fuzy)
+
+the part said to come from the tamiya 1/35 8rad sdkfz 232 the little cylendrical part I looked at my kits and its not in there as far as I can find out 
+
+is there anonther kit it could be from like the anzio annie or thor
+
+thanks woould it be okay for me to post a kit list 
+
+and btw I am starting a xwing builders club or maybe  repulic ship yards site over at yahoo soon anyone interested in donating info and or pics would be great and much appreciated
+
+charles
+────────────────────────────────────────────────────────────────────────
+Post #129  (forum post #8457)
+Author    : Treadwell
+Date      : Jun 23, 2003 at 1:23 AM
+────────────────────────────────────────────────────────────────────────
+
+Not sure what you mean by the little cylindrical part, but the MONOGRAM 1/35 8rad contributes the part at the bottom in the very center.
+────────────────────────────────────────────────────────────────────────
+Post #130  (forum post #8476)
+Author    : Miniaturizer Ray
+Date      : Jun 24, 2003 at 4:04 AM
+────────────────────────────────────────────────────────────────────────
+
+It's part C9 - to the right of the centre sprue opposite the 4 - 4.5 inch marks in this picture.  Some of the models used a different part instead.
+────────────────────────────────────────────────────────────────────────
+Post #131  (forum post #8477)
+Author    : boatbuilder1
+Date      : Jun 24, 2003 at 6:03 AM
+────────────────────────────────────────────────────────────────────────
+
+much thanks 
+
+I thought I was going crazy at first I thought I had a rereleased kit that was remolded but checked all 6 of mine and they are all originals I will look again
+
+I just got lucky and got a shinden for 40 $ is that a good price or did I get suckered
+
+by the way I formed a new yahoo group
+
+republic shipyards
+
+http://groups.yahoo.com/group/republicshipyards/
+
+please feel free to look amd join the more the merrier
+────────────────────────────────────────────────────────────────────────
+Post #132  (forum post #8494)
+Author    : boatbuilder1
+Date      : Jun 25, 2003 at 1:18 PM
+────────────────────────────────────────────────────────────────────────
+
+hey guys 
+
+I just got my m8 munitions carrier 
+
+if I an correct in thinking only two parts are used the center wheel caps well ther are plenty togo round pleas confirm thi is the only contribution from this kit so I can share parts with people who need then
+
+ca
+────────────────────────────────────────────────────────────────────────
+Post #133  (forum post #8498)
+Author    : Treadwell
+Date      : Jun 26, 2003 at 12:08 AM
+────────────────────────────────────────────────────────────────────────
+
+Although you got your answer on the yahoo group, I thought I'd post it here:
+
+The kit also yields:
+
+-two hubcaps on either side of the Sherman part, on top of Hummel parts on rear
+
+-a pair of other greeblies (seat supports) used for rear of fuselage (on either side of Sherman part, below Hummel parts)
+
+As you can see from having the kit, there are plenty of wheels and hubcaps for many x-wings, but only one set of seat supports.
+────────────────────────────────────────────────────────────────────────
+Post #134  (forum post #9488)
+Author    : Treadwell
+Date      : Aug 6, 2003 at 10:52 AM
+────────────────────────────────────────────────────────────────────────
+
+Save for trimming, my X-Wing buttplate is finished!!
+
+[IMAGE: 47b3d627b3127cce8c6dc2e8760e0000001610]
+────────────────────────────────────────────────────────────────────────
+Post #135  (forum post #9493)
+Author    : boatbuilder1
+Date      : Aug 6, 2003 at 1:15 PM
+────────────────────────────────────────────────────────────────────────
+
+fantastic really nice work  how do you post pics here bsides a link 
+
+I have several shots of mine I would like to post
+
+ca
+────────────────────────────────────────────────────────────────────────
+Post #136  (forum post #9501)
+Author    : Treadwell
+Date      : Aug 7, 2003 at 12:05 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks!
+
+RPF member Wackychimp has a free image hosting service here:
+
+http://www.wackychimp.com/uploads/upload.asp
+────────────────────────────────────────────────────────────────────────
+Post #137  (forum post #9505)
+Author    : boatbuilder1
+Date      : Aug 7, 2003 at 2:50 AM
+────────────────────────────────────────────────────────────────────────
+
+so kind of you  now I can let everyone see my cruddy work compared to you guys the masters
+────────────────────────────────────────────────────────────────────────
+Post #138  (forum post #9587)
+Author    : boatbuilder1
+Date      : Aug 9, 2003 at 6:24 PM
+────────────────────────────────────────────────────────────────────────
+
+here is a few photo's of my progress
+
+[IMAGE: ACD133.jpg]
+
+ 
+
+[IMAGE: ACD6A.jpg]
+
+ 
+
+[IMAGE: 492831-R1-15.jpg]
+
+ 
+
+[IMAGE: 092339-R1-23.jpg]
+
+ 
+
+thanks this is nice to finally post some photos let em know what you all think if I am in the right direction or I suck and shouldn't quit my day job
+────────────────────────────────────────────────────────────────────────
+Post #139  (forum post #9613)
+Author    : DeanB
+Date      : Aug 10, 2003 at 4:39 AM
+────────────────────────────────────────────────────────────────────────
+
+Hey, it's nice to see others building something.  Looking good!  Unfortunately I'm still stuck in the planning stages.
+
+I thought I'd add my 2 cents worth to greeblies on the R2 strip.  Both parts are from the Bandai 1/15 Stug.  The parts are shown next to a full size printout of the strip for scale reference.  Of course the X shaped part would need to have the ring trimmed off.
+
+[IMAGE: Bandai Stug 1-15 parts.JPG]
+────────────────────────────────────────────────────────────────────────
+Post #140  (forum post #9617)
+Author    : DARKSIDE72
+Date      : Aug 10, 2003 at 5:30 AM
+────────────────────────────────────────────────────────────────────────
+
+DeanB, you have indeed been doing your homework. 
+
+[IMAGE: icon_wink.gif]
+────────────────────────────────────────────────────────────────────────
+Post #141  (forum post #9621)
+Author    : boatbuilder1
+Date      : Aug 10, 2003 at 6:30 AM
+────────────────────────────────────────────────────────────────────────
+
+wow that is indeed a great find the X part is seem on several other NH models the blockade runner for one  I think it's on the 5ft falcon too
+────────────────────────────────────────────────────────────────────────
+Post #142  (forum post #9665)
+Author    : Treadwell
+Date      : Aug 11, 2003 at 6:51 AM
+────────────────────────────────────────────────────────────────────────
+
+Good work, guys!
+────────────────────────────────────────────────────────────────────────
+Post #143  (forum post #9879)
+Author    : boatbuilder1
+Date      : Aug 23, 2003 at 9:32 AM
+────────────────────────────────────────────────────────────────────────
+
+bump
+────────────────────────────────────────────────────────────────────────
+Post #144  (forum post #9880)
+Author    : boatbuilder1
+Date      : Aug 23, 2003 at 10:55 AM
+────────────────────────────────────────────────────────────────────────
+
+hey guys I am finally at the stage where I can work on the engines I am looking at the pic of the x from the art of SW and other stuff from RPF to determine how long the upper phantom engine needs to be it appears to be 1/3 the length of the aft end but on closer examination there is that angled end where the engine meets the wing root  and the small cone is attached so now after that long winded explanation 
+
+here is my quandry would it be assuming too much to say that the upper half of the engine is sliced into several sections and reglued to get the front part with the angle on the the front so esentialy I need to take a slice out of the middle of the upper engine section 
+
+I know this sounds perplexing but it seems the only way to get the engine to the right length and appearance
+
+ca
+────────────────────────────────────────────────────────────────────────
+Post #145  (forum post #9902)
+Author    : boatbuilder1
+Date      : Aug 26, 2003 at 2:32 PM
+────────────────────────────────────────────────────────────────────────
+
+there are pics of the stug sprues over at studioscale.com
+
+the parts for the back of the wings wehre the sherman boagie is et in appears to be made of metal making it difficult to trim to size so this part would have to have been cast IMO
+
+also 
+
+If there is an interest for these parts I have this list to offer
+
+shinden-for the butt plate 2 peices
+
+hummel-for the butt plate 4 peices 
+
+sealab -for the wings 8 peices
+
+if there is any interest I will work out a price
+
+ca
+────────────────────────────────────────────────────────────────────────
+Post #146  (forum post #9903)
+Author    : DeanB
+Date      : Aug 26, 2003 at 3:58 PM
+────────────────────────────────────────────────────────────────────────
+
+The Stug photos are from me.  As expressed earlier in the thread, the metal parts are innaccurate and were not used on the x-wing.  An earlier non-motorized version used plastic pieces that are accurate.  Good luck finding them.  Unless someone has the proper parts cast and for sale, I've decided to scratch build them.
+────────────────────────────────────────────────────────────────────────
+Post #147  (forum post #9906)
+Author    : boatbuilder1
+Date      : Aug 27, 2003 at 1:27 AM
+────────────────────────────────────────────────────────────────────────
+
+your right I am sorry  and ofcourse that kit is incredible rare I have only seen one on ebay in a year and it was semi built and it went for over 150.00 I think not sure 
+
+I saw the cad plans some one did and overlaid in a pic of the xwing  very nice work indeed
+────────────────────────────────────────────────────────────────────────
+Post #148  (forum post #9972)
+Author    : boatbuilder1
+Date      : Sep 8, 2003 at 11:02 AM
+────────────────────────────────────────────────────────────────────────
+
+here is a link to the pics of my engines ready fro the rubber treatment
+
+http://groups.yahoo.com/group/republicshipyards/
+
+just go to the photo section and then caps xwing
+────────────────────────────────────────────────────────────────────────
+Post #149  (forum post #10001)
+Author    : boatbuilder1
+Date      : Sep 17, 2003 at 8:49 AM
+────────────────────────────────────────────────────────────────────────
+
+check this pic out I think there is actually detail in the inner wing panels 
+
+[IMAGE: red3.jpg]
+
+ 
+
+note the grooves in red and the detail in blue  there is definatley more than the elafant part and sheet styrene in here
+
+ca
+────────────────────────────────────────────────────────────────────────
+Post #150  (forum post #10004)
+Author    : Treadwell
+Date      : Sep 18, 2003 at 12:35 AM
+────────────────────────────────────────────────────────────────────────
+
+Where is the source pic from? Can you post it without the color highlights?
+
+The "grooves" look like another U-channel strip to me.
+────────────────────────────────────────────────────────────────────────
+Post #151  (forum post #10006)
+Author    : boatbuilder1
+Date      : Sep 18, 2003 at 3:24 AM
+────────────────────────────────────────────────────────────────────────
+
+here u go
+
+[IMAGE: red3_1.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #152  (forum post #10007)
+Author    : Treadwell
+Date      : Sep 18, 2003 at 3:45 AM
+────────────────────────────────────────────────────────────────────────
+
+Okay, scratch the u-channel idea. Might be grooves there, but the res is a bit low to be sure. Which bird is that?
+────────────────────────────────────────────────────────────────────────
+Post #153  (forum post #10008)
+Author    : Miniaturizer Ray
+Date      : Sep 18, 2003 at 5:09 AM
+────────────────────────────────────────────────────────────────────────
+
+It's Red 3.
+
+If the grooves are there (and I'm inclined to believe that they might just be JPEG artifacts) then they're not on all of the X-wings - that whole subassembly is the same cast piece that appears on the outer wing surface.  
+
+The "blue detail" is a combination of the edge of that subassembly, the edge of the U-channel, and a stuck on panel or two - you can see several more of these on the surface of the wing in the picture.
+────────────────────────────────────────────────────────────────────────
+Post #154  (forum post #10009)
+Author    : Treadwell
+Date      : Sep 18, 2003 at 5:34 AM
+────────────────────────────────────────────────────────────────────────
+
+boatbuilder1, I was just looking at your fuselage in those pics above. Is that a Hasbro FX X-Wing that you've extended with styrene? I'd love to hear more about that.
+────────────────────────────────────────────────────────────────────────
+Post #155  (forum post #10016)
+Author    : boatbuilder1
+Date      : Sep 18, 2003 at 10:27 AM
+────────────────────────────────────────────────────────────────────────
+
+ray
+
+thank 
+
+yes it is a rerelease of the hasbro xwing I chopped it into several parts and took dims from this board to confirm my own and then reassembled tog et what you see in the pics from what I understand the estes maxi had the same problems I almost wanted to get one fo those but working at toys r us
+
+(well used to work there) I got a nice discount  if there is any thing else you want to know please feel free to email me 
+
+canderson55@wi.rr.com
+
+I have higher res pics too
+
+ca
+────────────────────────────────────────────────────────────────────────
+Post #156  (forum post #10019)
+Author    : Boba Flint
+Date      : Sep 18, 2003 at 8:16 PM
+────────────────────────────────────────────────────────────────────────
+
+Something to keep in mind about that picture. You are looking at the Red 3 model. Like Red 2 and Even Red 5 there are differences some subtle some not so subtle. The differences can be as simple as different panels placed here and there. I had to do that with my CC X-Wing. Some of the panels he had on his kit were not there on the Red 2 ship and there were some on the Red 2 ship that he didn't have on his kit.
+
+So unless you are wanting to make Red 3 I wouldn't read too much into that picture. You'll just end up mixing up a couple of diffrent ships.
+────────────────────────────────────────────────────────────────────────
+Post #157  (forum post #10022)
+Author    : boatbuilder1
+Date      : Sep 19, 2003 at 1:02 AM
+────────────────────────────────────────────────────────────────────────
+
+but that is atI am building red 3 am I in for trouble
+
+wasn't red3 wedges  ship
+────────────────────────────────────────────────────────────────────────
+Post #158  (forum post #10024)
+Author    : Clerval
+Date      : Sep 19, 2003 at 1:46 AM
+────────────────────────────────────────────────────────────────────────
+
+Uh-oh CA...
+
+Red 1 Dave (Red Leader)
+
+Red 2 Wedge
+
+Red 3 Biggs (Luke's old best buddy)
+
+Red 4 John D (first Rebel casualty?)
+
+Red 5 Luke 
+
+Red 6 Porkins (Eject! Eject!)
+────────────────────────────────────────────────────────────────────────
+Post #159  (forum post #10026)
+Author    : Boba Flint
+Date      : Sep 19, 2003 at 3:05 AM
+────────────────────────────────────────────────────────────────────────
+
+Wedge's is Red 2
+
+That is the one I obsessed over for many months getting right. If you want to get as anal as I was about making Red 2 there will be some extra work.
+────────────────────────────────────────────────────────────────────────
+Post #160  (forum post #10030)
+Author    : boatbuilder1
+Date      : Sep 19, 2003 at 7:39 AM
+────────────────────────────────────────────────────────────────────────
+
+prey tell how much extra work
+
+I hate redoing what I have done already especialy when its perfectly perfect (well nearly)
+────────────────────────────────────────────────────────────────────────
+Post #161  (forum post #10039)
+Author    : Boba Flint
+Date      : Sep 20, 2003 at 2:37 AM
+────────────────────────────────────────────────────────────────────────
+
+THe engines have completely diffrent detailing than the other X-Wings. The intake shrouds have a diffrent panel pattern.
+
+Detail needs to be added to the exposed engine that is under each wing.
+
+Then comes the anal part I was talking about. Adding the little black rectangles and decals.
+────────────────────────────────────────────────────────────────────────
+Post #162  (forum post #10043)
+Author    : Treadwell
+Date      : Sep 20, 2003 at 11:18 AM
+────────────────────────────────────────────────────────────────────────
+
+About the Red 2 engines: recently I've been under the impression that the exhaust portions aren't really detailed differently, they're just turned 180 degrees. I thought I saw or have a picture somewhere with the "Red 2" detailing visible on the side opposite the Whitley gear--on a bird other than Red 2. I'll see if I can turn those pics up.
+
+edit: grammar/clarity
+────────────────────────────────────────────────────────────────────────
+Post #163  (forum post #10044)
+Author    : boatbuilder1
+Date      : Sep 20, 2003 at 12:18 PM
+────────────────────────────────────────────────────────────────────────
+
+yes I saw that too there ae some sealab parts in there man getting all those willbe rough but I am pretty good with brss rod and silver solder so I will scratch those and the other part near the wing root is a barrel from a tamiya kit maybe the 25 pndr or the 88mm not sure of that one its all so dark in there I was able to blow up some old B&W pics to find these details man that morie pattern messes up everything
+
+ca
+────────────────────────────────────────────────────────────────────────
+Post #164  (forum post #10055)
+Author    : boatbuilder1
+Date      : Sep 21, 2003 at 10:11 AM
+────────────────────────────────────────────────────────────────────────
+
+here are more pics of my progrss
+
+[IMAGE: 3749873-R1-017-7.jpg]
+
+ 
+
+[IMAGE: 3749873-R1-E025.jpg]
+
+[IMAGE: ACDBE.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #165  (forum post #10135)
+Author    : boatbuilder1
+Date      : Oct 7, 2003 at 6:44 AM
+────────────────────────────────────────────────────────────────────────
+
+ok check this link out I just loaded pics from my chronicles book  and saw this part in the inner wing root I had originally thought it was a 25 pdr filed gun part but now see it looks orange bringing in the sealab 
+
+http://photos.groups.yahoo.com/group/republicshipyards/vwp?.dir=/help+ID&.src=gr&.dnm=sealab.jpg&.view=t&.done=http%3a//photos.groups.yahoo.com/group/republicshipyards/lst%3f%26.dir=/help%2bID%26.src=gr%26.view=t
+
+ca
+────────────────────────────────────────────────────────────────────────
+Post #166  (forum post #10162)
+Author    : Treadwell
+Date      : Oct 9, 2003 at 6:03 AM
+────────────────────────────────────────────────────────────────────────
+
+For those who didn't see the answer posted elsewhere, it's an air tank part from the Sealab.
+
+As I mentioned a while back, this summer the Planet Hollywood merchandise store at the "Downtown Disney" marketplace at Walt Disney World featured a display of screenused and replica props, costumes and models. That is where I took those pics of the blown-up Red 4 and the Death Star panels.
+
+There was a complete X-Wing hanging from the ceiling. Looks like it might be a new casting. It's pretty crisp. I don't know what to make of it. A Captain Cardboard? ICONS? Interested in what y'all think.
+
+Pictures here:
+
+http://im1.shutterfly.com/procserv/47b3ce28b3127cce8f982d818e7f0000001610
+
+http://im1.shutterfly.com/procserv/47b3ce28b3127cce8f9823ed0f240000001610
+
+http://im1.shutterfly.com/procserv/47b3ce28b3127cce8f9823a50f6c0000001610
+
+http://im1.shutterfly.com/procserv/47b3ce28b3127cce8f9823aa8e530000001610
+
+http://im1.shutterfly.com/procserv/47b3ce28b3127cce8f98207a4f2a0000001610
+
+http://im1.shutterfly.com/procserv/47b3ce28b3127cce8f982019ce790000001610
+
+http://im1.shutterfly.com/procserv/47b3ce28b3127cce8f9821578eaf0000001610
+
+http://im1.shutterfly.com/procserv/47b3ce28b3127cce8f982e8b4fdc0000001610
+
+http://im1.shutterfly.com/procserv/47b3ce28b3127cce8f982f7d0fb20000001610
+
+http://im1.shutterfly.com/procserv/47b3ce28b3127cce8f982c904fc60000001610
+
+http://im1.shutterfly.com/procserv/47b3ce28b3127cce8f982d9b8e650000001610
+
+Higher resolution versions are available upon request.
+────────────────────────────────────────────────────────────────────────
+Post #167  (forum post #10163)
+Author    : boatbuilder1
+Date      : Oct 9, 2003 at 6:35 AM
+────────────────────────────────────────────────────────────────────────
+
+yes absolutley more pics at higher res isn't that what everyone wants 
+
+thanks ca
+
+pm me for email address
+────────────────────────────────────────────────────────────────────────
+Post #168  (forum post #10204)
+Author    : Rogue Studios
+Date      : Oct 16, 2003 at 12:59 PM
+────────────────────────────────────────────────────────────────────────
+
+The ones made for PH were built by a guy just for them. They are not even a good source for accuracy.
+────────────────────────────────────────────────────────────────────────
+Post #169  (forum post #10207)
+Author    : boatbuilder1
+Date      : Oct 17, 2003 at 12:07 AM
+────────────────────────────────────────────────────────────────────────
+
+they aren't even painted  pretty crappy if you ask me 
+
+oops noone did'
+
+ca
+────────────────────────────────────────────────────────────────────────
+Post #170  (forum post #10373)
+Author    : boatbuilder1
+Date      : Nov 8, 2003 at 2:41 PM
+────────────────────────────────────────────────────────────────────────
+
+here a quandry 
+
+I and doing red three and that is wedge he has a r5  trashcan head droid in the rouge suadron novels can anyone point out if he had this during the NH serial
+
+in the novels he had it for ever and If so I am going with that but would like the here opinions 
+
+ca
+────────────────────────────────────────────────────────────────────────
+Post #171  (forum post #10374)
+Author    : Treadwell
+Date      : Nov 8, 2003 at 4:00 PM
+────────────────────────────────────────────────────────────────────────
+
+Red 3 is Biggs. Wedge is Red 2. In ANH Wedge's full-scale astromech was an R2 with a red dome--one can barely see the edge of it behind him in the film. I believe the same dome was used for other R2s in the film as seen on this page:
+
+http://www.astromech.net/gallery/astromechs/R3-T2.htm
+
+(called an R3 for some reason in the "Expanded Universe" canon.)
+
+The R2 dome on the model is silver with red panels.
+────────────────────────────────────────────────────────────────────────
+Post #172  (forum post #10469)
+Author    : boatbuilder1
+Date      : Nov 14, 2003 at 6:57 AM
+────────────────────────────────────────────────────────────────────────
+
+a lot of you already may know this but I just discovered this 
+
+after rebuilding the wing root boxes twice 
+
+the wings them selves are set into the boxes (saturn parts on top) so when assembling it  goes (the box) on top of the wing and the wing in the box there is a notch taken out ot the back of the rear of the box  to accomplish this  I know it sounds difficult to follow but I will post ics later this weekend 
+
+again many may know this but I just found out and man is it easyer to do this way
+────────────────────────────────────────────────────────────────────────
+Post #173  (forum post #10473)
+Author    : boatbuilder1
+Date      : Nov 14, 2003 at 2:38 PM
+────────────────────────────────────────────────────────────────────────
+
+here is pic of notched panel
+
+[IMAGE: Friday,November14,2003.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #174  (forum post #10476)
+Author    : Rogue Studios
+Date      : Nov 14, 2003 at 9:31 PM
+────────────────────────────────────────────────────────────────────────
+
+I realize this thread is now miles deep but what are the plans for the main fuselage? if anyone out there is woking on this or planning on producing let us know. I have seen some excellent ones but most still fall just a little bit short in both length and width to the actual model.
+
+Thanks
+
+Lee
+────────────────────────────────────────────────────────────────────────
+Post #175  (forum post #10737)
+Author    : boatbuilder1
+Date      : Dec 16, 2003 at 3:02 AM
+────────────────────────────────────────────────────────────────────────
+
+hey there peoples I found pics of differant inner wing engines but cant post pics here as res is to high and you wouldn't see them at low res
+
+the  red 5 seems to be differant thant the rest the inner engines are the same as the outer fusial engines  a ket to this is the whitemore landing gear parts  email me for pics 
+
+ca
+────────────────────────────────────────────────────────────────────────
+Post #176  (forum post #10743)
+Author    : boatbuilder1
+Date      : Dec 17, 2003 at 4:28 AM
+────────────────────────────────────────────────────────────────────────
+
+question of the 2 metthods of casting the x wing at ilm
+
+I just recently  became aware that there were 2 distince versions cast at ilm for the filming here is my take on it there is the pics in the chronicles books one shows a split horizontally through the fuzzy (fuselage) and upper and lower half these wre used as the main models  and heromodels and the other is split vertically  through the fuzzy fron the back laft and right sides thses are the pyro tech models for explosions 
+
+does any one else have info on this  there is a well know pic with Joe Viscosil and someother guy showing the vertical split 
+
+ca
+────────────────────────────────────────────────────────────────────────
+Post #177  (forum post #10745)
+Author    : Treadwell
+Date      : Dec 17, 2003 at 6:36 AM
+────────────────────────────────────────────────────────────────────────
+
+The vertical split ones were pyros.
+────────────────────────────────────────────────────────────────────────
+Post #178  (forum post #10748)
+Author    : boatbuilder1
+Date      : Dec 18, 2003 at 3:19 AM
+────────────────────────────────────────────────────────────────────────
+
+thanks tread
+
+I though so 
+
+btw does anyone have info or pics of the inner wing assembly the aluminum brackest to hold the wings to the mounting tube and allow them to open I am attempting to duplicate this and have made good progress but need more info the brackets themslves do not hold the wings to the tube there has to be a strap of some kind to hold them on the tube 
+
+please help is possible 
+
+ca
+────────────────────────────────────────────────────────────────────────
+Post #179  (forum post #10756)
+Author    : boatbuilder1
+Date      : Dec 20, 2003 at 2:29 PM
+────────────────────────────────────────────────────────────────────────
+
+OK this is it 
+
+I am tossing my xwing in the trash  damned thing I have trie for a week now to get the wings to spread right using a variation of the brackets seen in the chronicles book and the mpc model but I cant seem teh get it right  it took all the alluminum and brass strips I had in the shop and they wobble like hell damn damn damn  this thing goes in the trash  now 
+
+venting over  urg to kill fadding faddinf fadding  RISING 
+
+fading
+────────────────────────────────────────────────────────────────────────
+Post #180  (forum post #10958)
+Author    : boatbuilder1
+Date      : Jan 13, 2004 at 4:41 AM
+────────────────────────────────────────────────────────────────────────
+
+I have been looking at the dims given for the cannons and I found a flaw in them 
+
+the cannon body is stated at 3/4 w1/16 wall and then the next is 5/8 this is wrong as it would lead to a very lose fit the differance between 3/4 and 5/8 is 1/8 or 2/16 so if the wall on the body tube is only 1/16 then there is  a 1/16 gap between it and the 5/8  at least this is how I see it so I am looking  to change these dims
+────────────────────────────────────────────────────────────────────────
+Post #181  (forum post #11162)
+Author    : ufisch_germany
+Date      : Feb 10, 2004 at 9:17 PM
+────────────────────────────────────────────────────────────────────────
+
+What is that?
+
+[IMAGE: wing.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #182  (forum post #11165)
+Author    : Clerval
+Date      : Feb 11, 2004 at 2:21 AM
+────────────────────────────────────────────────────────────────────────
+
+PM'ed you about it... (check your Private Messages).
+────────────────────────────────────────────────────────────────────────
+Post #183  (forum post #11171)
+Author    : ufisch_germany
+Date      : Feb 11, 2004 at 6:34 PM
+────────────────────────────────────────────────────────────────────────
+
+Thank you for the reference.
+────────────────────────────────────────────────────────────────────────
+Post #184  (forum post #34141)
+Author    : PHArchivist
+Date      : Nov 5, 2005 at 3:47 PM
+────────────────────────────────────────────────────────────────────────
+
+I'm wading through  this thread (finally); on page 13 now.
+
+What was the conclusion about the fuselage?
+────────────────────────────────────────────────────────────────────────
+Post #185  (forum post #35309)
+Author    : 12Rogues
+Date      : Nov 16, 2005 at 4:39 PM
+────────────────────────────────────────────────────────────────────────
+
+I went through this thread but couldn't find the answer. 
+
+Is this step shown between the arrows in the ANH studio models?
+
+[IMAGE: laser2.jpg]
+
+I've seen some pictures that look to have it and some that I just can't tell. 
+
+Reason: I'm building the CC/S SS X-wing and would include it if they did have them. 
+
+Thanks.
+
+Brian
+────────────────────────────────────────────────────────────────────────
+Post #186  (forum post #35314)
+Author    : Treadwell
+Date      : Nov 16, 2005 at 8:39 PM
+────────────────────────────────────────────────────────────────────────
+
+Yes.
+────────────────────────────────────────────────────────────────────────
+Post #187  (forum post #35366)
+Author    : PHArchivist
+Date      : Nov 17, 2005 at 9:12 AM
+────────────────────────────────────────────────────────────────────────
+
+Tread, any more progress shots of yours...?  
+
+In a record-breaking thread about building  the X-Wing, you were one of few who actually posted pics of an in-progress scratch-build...  Kudos.
+
+But the thread took a significant nose-dive in the winter of '04 (no more post for over 20 months).  
+
+Any personal progress in that time on yours?  I'd love to see it.
+
+--PH
+────────────────────────────────────────────────────────────────────────
+Post #188  (forum post #35377)
+Author    : Treadwell
+Date      : Nov 17, 2005 at 9:57 AM
+────────────────────────────────────────────────────────────────────────
+
+Alas, no, it's been idle for quite a while.
+
+BUT NOT DEAD.. I will finish it, dammit. :lol
+────────────────────────────────────────────────────────────────────────
+Post #189  (forum post #35423)
+Author    : 12Rogues
+Date      : Nov 17, 2005 at 4:06 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks Jay
+────────────────────────────────────────────────────────────────────────
+Post #190  (forum post #35453)
+Author    : PHArchivist
+Date      : Nov 17, 2005 at 7:11 PM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by Treadwell@Nov 17 2005, 05:57 PM
+
+Alas, no, it's been idle for quite a while.
+
+BUT NOT DEAD.. I will finish it, dammit. :lol
+
+[snapback]1118049[/snapback]​
+
+Click to expand...
+
+Glad to hear its just "dormant".
+────────────────────────────────────────────────────────────────────────
+Post #191  (forum post #35536)
+Author    : PHArchivist
+Date      : Nov 18, 2005 at 1:12 PM
+────────────────────────────────────────────────────────────────────────
+
+Here's a question or two...
+
+There has been much discussion regarding the fuselage and body of the X-Wing, however most of it has been centered on best methods for moving forward (i.e. best product to recreate the model; Maxi, Hasbro, CC, scratch-built).  But with the exception of Beaz's posts on the Icons cast he received, there has been little or nothing dicusssed, discovered, or divulged about how the original fuselages were construceted...
+
+So, how were the original fuselage/bodies created for these models?  
+
+Were there wooden masters created (or some other material)?
+
+I wonder if such masters still exist today in the LFL archives?
+────────────────────────────────────────────────────────────────────────
+Post #192  (forum post #35541)
+Author    : DARKSIDE72
+Date      : Nov 18, 2005 at 2:29 PM
+────────────────────────────────────────────────────────────────────────
+
+I think what Beaz had was a pyro casting, he compared it to the Icons fuselage which is what the CC was based on. 
+
+The fuselages were  cast by ILM, the pyro's were cast down the middle and the hero's were cast down the sides. The Chronicles show the piro castings. So yea a master "buck" would have to of been used.
+────────────────────────────────────────────────────────────────────────
+Post #193  (forum post #35546)
+Author    : Watson
+Date      : Nov 18, 2005 at 4:46 PM
+────────────────────────────────────────────────────────────────────────
+
+This thread has so much history, it is a shame some of the images got lost over the years.
+
+JDH
+────────────────────────────────────────────────────────────────────────
+Post #194  (forum post #35550)
+Author    : DARKSIDE72
+Date      : Nov 18, 2005 at 5:37 PM
+────────────────────────────────────────────────────────────────────────
+
+Never fear, I save a lot of phtographs.
+
+Pyro and CC
+
+[IMAGE: fusecomp031gt.jpg]
+
+Pyro and Icons
+
+[IMAGE: fuselages032ts.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #195  (forum post #35592)
+Author    : PHArchivist
+Date      : Nov 19, 2005 at 10:32 AM
+────────────────────────────────────────────────────────────────────────
+
+Yeah, those were the one's Beaz posted (whatever happened to him?)...
+
+I know full well about the prototype based off an existing dragster body shell, but the final bodies of the X-Wings did not incorporate any previously manufactured items, did they?
+
+So I suppose the original buck was hand sculpted, or carved... (?)
+
+I wonder which artist created the master..?
+
+And again, I wonder if it still exists today, or where it may be...
+
+Imagine if it was still around.  Imagine if molds taken off the original master were released into the mainstream....  Imagine if I won $350 million n the state lottery...
+────────────────────────────────────────────────────────────────────────
+Post #196  (forum post #35649)
+Author    : DARKSIDE72
+Date      : Nov 20, 2005 at 9:38 AM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by PHArchivist@Nov 19 2005, 01:32 PM
+
+Yeah, those were the one's Beaz posted (whatever happened to him?)...
+
+I know full well about the prototype based off an existing dragster body shell, but the final bodies of the X-Wings did not incorporate any previously manufactured items, did they?
+
+So I suppose the original buck was hand sculpted, or carved... (?)
+
+I wonder which artist created the master..?
+
+And again, I wonder if it still exists today, or where it may be...
+
+Imagine if it was still around.Â  Imagine if molds taken off the original master were released into the mainstream....Â  Imagine if I won $350 million n the state lottery...
+
+[snapback]1119184[/snapback]​
+
+Click to expand...
+
+"whatever happened to him?"
+
+Who knows... I think he moved on to play in TFBB play pen. 
+
+"the X-Wings did not incorporate any previously manufactured items, did they?"
+
+The basic hull didn't incorporate any donor parts. 
+
+"So I suppose the original buck was hand sculpted, or carved... (?)
+
+I wonder which artist created the master..?"
+
+Correct.
+
+ If I had to guess I'd say Grant McCune made the original.
+────────────────────────────────────────────────────────────────────────
+Post #197  (forum post #35833)
+Author    : PHArchivist
+Date      : Nov 22, 2005 at 5:07 PM
+────────────────────────────────────────────────────────────────────────
+
+Received a bit of history today...  
+
+I finally took the plunge and bought a Maxi-Brute off ebay.
+
+It came today, and I'm glad I bought it.
+
+My first reaction was how FAT the aft half of the body is.  I thought maybe it was distorted to accommodate the needs of a flying  model rocket, but the more I look at the damn thing, the more convinced that THIS -- and only this -- is how the original models looked...
+
+No offense AT ALL against Scott, but I like it more than the body of my CCardboard kit body...
+────────────────────────────────────────────────────────────────────────
+Post #198  (forum post #35980)
+Author    : PHArchivist
+Date      : Nov 24, 2005 at 10:26 AM
+────────────────────────────────────────────────────────────────────────
+
+I think its been mentioned somewhere in this thread...
+
+But the engine cans (turkey feathers) of Red 2 are shorter than the others, aren't they?
+
+I've also read (in a write up on the Fine Molds kit) that the studio model of Red 3 had a shorter can on the upper starboard engine, but I'm not sure I buy into that...
+
+Thoughts?
+────────────────────────────────────────────────────────────────────────
+Post #199  (forum post #35984)
+Author    : Miniaturizer Ray
+Date      : Nov 24, 2005 at 11:17 AM
+────────────────────────────────────────────────────────────────────────
+
+Yes, Red 2 had shorter engine nozzles, and yes, Red 3 had a shorter engine nozzle when it was displayed in Japan:
+
+[IMAGE: red3engine.jpg]
+
+(Fine Molds included one shorter engine nozzle to replicate this in their kit).
+
+But, as built, Red 3 had four regular nozzles.  The shorter one was taken from Red 2 (which is now missing a nozzle) at a later date.
+────────────────────────────────────────────────────────────────────────
+Post #200  (forum post #35988)
+Author    : PHArchivist
+Date      : Nov 24, 2005 at 1:59 PM
+────────────────────────────────────────────────────────────────────────
+
+Great info, MR.
+
+Yeah, I'd noticed in AoSW that the cans on R3 look the same, and longer.  In in available shots of R2, it is clearly missing the lower, port can.  
+
+Interesting...
+
+So different donor models I presume...
+────────────────────────────────────────────────────────────────────────
+Post #201  (forum post #35989)
+Author    : PHArchivist
+Date      : Nov 24, 2005 at 2:01 PM
+────────────────────────────────────────────────────────────────────────
+
+As I gear up for my first studio scale project, I'm building an AMT Pro-Shop kit (re-building is more accurate.).
+
+Its cans look to short, but if I do it as R2, it may be just about right...
+────────────────────────────────────────────────────────────────────────
+Post #202  (forum post #36091)
+Author    : boatbuilder1
+Date      : Nov 26, 2005 at 7:06 AM
+────────────────────────────────────────────────────────────────────────
+
+hello 
+
+can anyone spare a allied heat sink I want to finish my X bird but I still need these parts. please can anyone help
+
+charlie
+────────────────────────────────────────────────────────────────────────
+Post #203  (forum post #36110)
+Author    : PHArchivist
+Date      : Nov 26, 2005 at 9:42 AM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by boatbuilder1@Nov 26 2005, 03:06 PM
+
+hello 
+
+can anyone spare a allied heat sink I want to finish my X bird but I still need these parts. please can anyone help
+
+charlie
+
+[snapback]1122813[/snapback]​
+
+Click to expand...
+
+Are they still available in electronic stores?
+────────────────────────────────────────────────────────────────────────
+Post #204  (forum post #36113)
+Author    : 12Rogues
+Date      : Nov 26, 2005 at 10:38 AM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by PHArchivist+Nov 26 2005, 05:42 PM--><div class='quotetop'>QUOTE(PHArchivist @ Nov 26 2005, 05:42 PM)</div>
+
+			<!--QuoteBegin-boatbuilder1
+		
+
+Click to expand...
+
+			@Nov 26 2005, 03:06 PM
+
+hello 
+
+can anyone spare a allied heat sink I want to finish my X bird but I still need these parts. please can anyone help
+
+charlie
+
+[snapback]1122813[/snapback]​
+
+Click to expand...
+
+Are they still available in electronic stores?
+
+[snapback]1122875[/snapback]​
+[/b]
+		
+
+Click to expand...
+
+I believe these are the correct heatsinks. Can anyone confirm?
+
+http://www.alliedelec.com/Search/ProductDe...B00000%2F000540
+────────────────────────────────────────────────────────────────────────
+Post #205  (forum post #36114)
+Author    : PHArchivist
+Date      : Nov 26, 2005 at 10:56 AM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by 12Rogues@Nov 26 2005, 06:38 PM
+
+I believe these are the correct heatsinks. Can anyone confirm?
+
+http://www.alliedelec.com/Search/ProductDe...B00000%2F000540
+
+[snapback]1122905[/snapback]​
+
+Click to expand...
+
+The shape looks correct and the web page looks familiar (from much earlier in this thread I think).  
+
+Thanks for the link.
+────────────────────────────────────────────────────────────────────────
+Post #206  (forum post #36115)
+Author    : Watson
+Date      : Nov 26, 2005 at 11:02 AM
+────────────────────────────────────────────────────────────────────────
+
+I would not mind getting a set of these as well.  My next X-Wing I want to use some original parts on for an Ultimate version for myself.
+
+JDH
+────────────────────────────────────────────────────────────────────────
+Post #207  (forum post #36121)
+Author    : PHArchivist
+Date      : Nov 26, 2005 at 12:07 PM
+────────────────────────────────────────────────────────────────────────
+
+If I do a bulk order, I'll let you know...  If you do, let me know.
+────────────────────────────────────────────────────────────────────────
+Post #208  (forum post #36139)
+Author    : 1138
+Date      : Nov 26, 2005 at 2:18 PM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by boatbuilder1@Nov 26 2005, 03:06 PM
+
+hello 
+
+can anyone spare a allied heat sink I want to finish my X bird but I still need these parts. please can anyone help
+
+charlie
+
+[snapback]1122813[/snapback]​
+
+Click to expand...
+
+PM sent
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #209  (forum post #36140)
+Author    : 1138
+Date      : Nov 26, 2005 at 2:19 PM
+────────────────────────────────────────────────────────────────────────
+
+Originally posted by 12Rogues+Nov 26 2005, 06:38 PM--><div class='quotetop'>QUOTE(12Rogues @ Nov 26 2005, 06:38 PM)</div>
+
+			Originally posted by PHArchivist@Nov 26 2005, 05:42 PM
+
+<!--QuoteBegin-boatbuilder1
+
+Click to expand...
+
+Click to expand...
+
+@Nov 26 2005, 03:06 PM
+
+hello 
+
+can anyone spare a allied heat sink I want to finish my X bird but I still need these parts. please can anyone help
+
+charlie
+
+[snapback]1122813[/snapback]​
+
+Click to expand...
+
+Are they still available in electronic stores?
+
+[snapback]1122875[/snapback]​
+
+Click to expand...
+
+I believe these are the correct heatsinks. Can anyone confirm?
+
+http://www.alliedelec.com/Search/ProductDe...B00000%2F000540
+
+[snapback]1122905[/snapback]​
+
+Yes, those are the ones.
+
+Dan
+
+[/b]
+		
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #210  (forum post #63004)
+Author    : DeanB
+Date      : Feb 8, 2006 at 7:52 PM
+────────────────────────────────────────────────────────────────────────
+
+I'm in the process of defining the fuselage in CAD, referencing the Fine Molds kit, CC kit, Estes Maxi-Brute. My plan is to ultimately CNC or SLA the parts.  I'm interested in opinions regarding the ledge between the upper and lower fuselage.  All the reference kits define this as a horizontal, flat to the floor feature.  But in comparing my CAD model to photo references (I'm matching perspective of my CAD model with the photos), I have to wonder if it should actually be angled upward (see picture).  It's the only way I can get the two to match.  I know the full size props angled this ledge, but does anyone know if the SS models did as well?
+
+Thanks,
+
+Dean[attachmentid=6467]
+────────────────────────────────────────────────────────────────────────
+Post #211  (forum post #63183)
+Author    : Treadwell
+Date      : Feb 9, 2006 at 6:37 AM
+────────────────────────────────────────────────────────────────────────
+
+I doubt it was angled due to the way they were constructed. The top half sat on the bottom half, the ledge just being the thickness of that part of the hull.
+────────────────────────────────────────────────────────────────────────
+Post #212  (forum post #63724)
+Author    : Miniaturizer Ray
+Date      : Feb 10, 2006 at 1:00 AM
+────────────────────────────────────────────────────────────────────────
+
+I'd say angled.  I figure that Jay is probably right; the raw bottom half had a flat ledge, but they put a ton of filler along that seam and smoothed it off to create an angled ledge.
+────────────────────────────────────────────────────────────────────────
+Post #213  (forum post #63869)
+Author    : Treadwell
+Date      : Feb 10, 2006 at 10:03 AM
+────────────────────────────────────────────────────────────────────────
+
+Hmm, yes, a possibility.
+────────────────────────────────────────────────────────────────────────
+Post #214  (forum post #64817)
+Author    : DeanB
+Date      : Feb 12, 2006 at 9:10 AM
+────────────────────────────────────────────────────────────────────────
+
+I was thinking putty as well which might account for the inconsistency I see from model to model.  Red two for instance appears to have a more prominent angle versus red three.
+
+Another subtle detail I'm trying to figure out is the break between the front and back canopy.  I've always assumed it was perpindicular to the fuselage ledge (as seen from side view), and that's how the Fine Molds kit defines it (which I'm finding to be less and less accurate than I'd hoped, and had been led to believe.).  But to make it work in my CAD model, I'm finding that it needs to be angled slightly forward.  It's difficult to prove conclusively in photographs because you need to have a photo precisely taken from the side, but I have a couple of shots that look as if I'm correct.  Any thoughts?
+
+Dean
+
+[attachmentid=6566]
+────────────────────────────────────────────────────────────────────────
+Post #215  (forum post #65113)
+Author    : Miniaturizer Ray
+Date      : Feb 12, 2006 at 8:45 PM
+────────────────────────────────────────────────────────────────────────
+
+Yup, right again. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #216  (forum post #65260)
+Author    : boatbuilder1
+Date      : Feb 13, 2006 at 7:45 AM
+────────────────────────────────────────────────────────────────────────
+
+why spend money on the heat sinks. I cast up a tone of them for use witrh my own projects but it will be some time before I get to them so if anyone is interested in a free set give me a shout.
+
+email only please
+
+charlie
+────────────────────────────────────────────────────────────────────────
+Post #217  (forum post #65560)
+Author    : DeanB
+Date      : Feb 13, 2006 at 8:04 PM
+────────────────────────────────────────────────────────────────────────
+
+I've seen several posts claiming that the cannon bodies are built from stock plastic tubing.  I'd agree the cylinder surrounding the heat sink and the tubes from the main body to the tip are stock, but I'm not so sure about the main body.  A 3/4 inch OD tube looks pretty good, but the detailing on it seems too delicate for the original modelers to have spent the time building.  Am I off the mark here, or does anyone else think it may come from a donor kit?
+
+Dean[attachmentid=6594]
+────────────────────────────────────────────────────────────────────────
+Post #218  (forum post #112756)
+Author    : imaginager
+Date      : May 12, 2006 at 11:06 PM
+────────────────────────────────────────────────────────────────────────
+
+Been reading and re-reading this thread for the last week. Just acquired Salzo's kit (CC). Waiting on the new ILM book to be released.
+
+Did ANYBODY ever finish a kit-bashed version??? Sounds like Darkside72 may have....? Anyone else? Treadwell? Miniaturizer? I'd love to see some pics of a REAL replica.
+
+How about wings? Is anything definitive known about the internal armature or motors used for the Hero?
+
+Thanks to all of the talented folks who made this a thoroughly enjoyable read.
+
+Allan (imaginager @ comcast.net)
+────────────────────────────────────────────────────────────────────────
+Post #219  (forum post #112827)
+Author    : DARKSIDE72
+Date      : May 13, 2006 at 5:56 AM
+────────────────────────────────────────────────────────────────────────
+
+Well I've been getting a little side tracked latley. 
+
+[IMAGE: 10009230wo.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #220  (forum post #112836)
+Author    : EchoLeader
+Date      : May 13, 2006 at 6:20 AM
+────────────────────────────────────────────────────────────────────────
+
+Show off.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #221  (forum post #112838)
+Author    : DARKSIDE72
+Date      : May 13, 2006 at 6:21 AM
+────────────────────────────────────────────────────────────────────────
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+  Look who's talking  :lol
+────────────────────────────────────────────────────────────────────────
+Post #222  (forum post #112840)
+Author    : ralphee
+Date      : May 13, 2006 at 6:32 AM
+────────────────────────────────────────────────────────────────────────
+
+Wow, very nice, coupled with the Y wing thats some sidetrack lol.
+────────────────────────────────────────────────────────────────────────
+Post #223  (forum post #112850)
+Author    : DARKSIDE72
+Date      : May 13, 2006 at 7:09 AM
+────────────────────────────────────────────────────────────────────────
+
+1243529[/snapback]</div><div class='quotemain'>
+
+Been reading and re-reading this thread for the last week. Just acquired Salzo's kit (CC). Waiting on the new ILM book to be released.
+
+Did ANYBODY ever finish a kit-bashed version??? Sounds like Darkside72 may have....? Anyone else? Treadwell? Miniaturizer? I'd love to see some pics of a REAL replica.
+
+How about wings? Is anything definitive known about the internal armature or motors used for the Hero?
+
+Thanks to all of the talented folks who made this a thoroughly enjoyable read.
+
+Allan (imaginager]
+
+Wow, very nice, coupled with the Y wing thats some sidetrack lol.
+
+[/b]
+		
+
+Click to expand...
+
+It's just A.D.D.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #224  (forum post #112863)
+Author    : ralphee
+Date      : May 13, 2006 at 7:18 AM
+────────────────────────────────────────────────────────────────────────
+
+LOL,  keep up with the disorder bro, its great to see your work, hows the Y coming, used any glue on her lately?  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #225  (forum post #112871)
+Author    : DARKSIDE72
+Date      : May 13, 2006 at 7:30 AM
+────────────────────────────────────────────────────────────────────────
+
+The Y's co(kpit is going into rubber at the moment so it can be finalized. It really doesn't matter at this point WHEN or IF I finish it. It's a matter of finding each and every single part for me... sitll have 100's of kits to buy.
+────────────────────────────────────────────────────────────────────────
+Post #226  (forum post #112982)
+Author    : imaginager
+Date      : May 13, 2006 at 1:25 PM
+────────────────────────────────────────────────────────────────────────
+
+Darkside72,
+
+Thanks for the pics and posts. I won't ask - instead, just say that it looks very, very nice. Congrats.
+
+I do appreciate the info, too, on the armature and wings. And thanks for bringing up the c0ckpit lighting issue. I've not seen anything to suggest they were illuminated on screen, although SWC mentions it. To each their own (of course) but some of the c0ckpit lighting I've seen confuses the "studio" appearance, IMVHO.
+
+Thanks again,
+
+Allan
+────────────────────────────────────────────────────────────────────────
+Post #227  (forum post #113047)
+Author    : ShowCraft
+Date      : May 13, 2006 at 5:07 PM
+────────────────────────────────────────────────────────────────────────
+
+You said "The CC kit is nice but it's far too thin in the fuselage and not wide enough. The nose for instance is tiny compared to the original." 
+
+How about posting a side by side comparison pic so we all can see for ourselves.
+────────────────────────────────────────────────────────────────────────
+Post #228  (forum post #113054)
+Author    : DARKSIDE72
+Date      : May 13, 2006 at 5:27 PM
+────────────────────────────────────────────────────────────────────────
+
+<div class='quotetop'>(Samos 3 @ May 13 2006, 07:07 PM) [snapback]1243825[/snapback]</div>
+
+			You said "The CC kit is nice but it's far too thin in the fuselage and not wide enough. The nose for instance is tiny compared to the original." 
+
+How about posting a side by side comparison pic so we all can see for ourselves.
+
+[/b]
+		
+
+Click to expand...
+
+Yea that's what I said. Go back a few pages there is a comparison with a similar fuselage. It's pretty obvious size wise. 
+
+Here's the nose.
+
+[IMAGE: 10009268ez.th.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #229  (forum post #113168)
+Author    : Treadwell
+Date      : May 13, 2006 at 11:33 PM
+────────────────────────────────────────────────────────────────────────
+
+Lookin' good, as always, Jamie.
+
+Lights in the cannons? How'd you arrive at that?
+
+My X is still back burnered but not permanently abandoned.
+────────────────────────────────────────────────────────────────────────
+Post #230  (forum post #113180)
+Author    : ralphee
+Date      : May 14, 2006 at 12:10 AM
+────────────────────────────────────────────────────────────────────────
+
+Yeah the original of darksides definately has a Barry Manilow feel to it, while the CC, well its had some surgery, more akin to Micheal Jackson. You never stop learning on this forum......lee
+────────────────────────────────────────────────────────────────────────
+Post #231  (forum post #113262)
+Author    : PHArchivist
+Date      : May 14, 2006 at 7:47 AM
+────────────────────────────────────────────────────────────────────────
+
+Gotta agree with Jaime...  
+
+The CC kit -- for all its merits - is just not big enough...
+
+I recently got a Maxi-Brute, and while I suppose that is not perfect, IMO it is the closest any one can get (via reasonable means) to the original.
+
+When I first held the Maxi fuselage, I felt a wave of comfort and familiarity wash over me as this truly had the essence of the original X-Wing.  Not unlike holding a Graflex for the first time.
+
+And it was NOTABLY beefier than the CC kit...
+────────────────────────────────────────────────────────────────────────
+Post #232  (forum post #113284)
+Author    : DARKSIDE72
+Date      : May 14, 2006 at 8:55 AM
+────────────────────────────────────────────────────────────────────────
+
+<div class='quotetop'>(Treadwell @ May 14 2006, 01:33 AM) [snapback]1243951[/snapback]</div>
+
+			Lookin' good, as always, Jamie.
+
+Lights in the cannons? How'd you arrive at that?
+
+My X is still back burnered but not permanently abandoned.
+
+[/b]
+		
+
+Click to expand...
+
+ Thanks Jay,
+
+ It was in a vintage publication. Dykstra or McCune were talking about it. American Cinemaphotographer maybe, or Famous Starships of Fact and Fantasy? I don't have them handy or I'd give you the quote. 
+
+ Even the Death Star cannon's had lights in the barrels for reference. 
+
+You can easily see the wires numbered and going out to the wings in these horrible pictures.
+
+[IMAGE: sealab5rp.jpg]
+
+[IMAGE: xwingconstruction019wh.jpg]
+
+[IMAGE: towerb22tn.jpg]
+
+The Maxi Brute IS the closest thing you can get size wise as far as the fuselage goes. It's almost as if they threw an x body in rubber, made a buck and vacume formed right over it. Hence the soft details in the R2 strip, who knows. Thing is how do you scribe all the pannel lines in it with the plastic being so thin. Does one separate the top and bottom and reinforce the inside? 
+
+ The problem with the CC fuselage is it's a reworked Icons body which wasn't correct to begin with. The thin hull screws up the rear detail majorly and messes up the size of the nose.  The detail where the wings meet in the body is also way off.
+────────────────────────────────────────────────────────────────────────
+Post #233  (forum post #113743)
+Author    : moffeaton
+Date      : May 15, 2006 at 7:03 AM
+────────────────────────────────────────────────────────────────────────
+
+The cannons tips have what looked to me like fiber optic in them - brass tube with plastic filament that sticks out a few millimeters.
+────────────────────────────────────────────────────────────────────────
+Post #234  (forum post #184511)
+Author    : PHArchivist
+Date      : Sep 11, 2006 at 10:53 AM
+────────────────────────────────────────────────────────────────────────
+
+I've posted this in another thread or two (just trying to get exposure as different folks may key on different threads).  So I apologize if you've seen it already...
+
+I have a Maxi-Brute kit, and am currently tweaking the nose cone for my own purposes.
+
+Has anyone else who owns this truly analyzed this MB nose cone? And does anyone know the TRUE lineage of the MB fuselage. The box states its the same size as the studio models, but has it ever been confirmed if it was taken directly from a studio model?
+
+Reason I ask is this: 
+
+On my MB nose cone, if you look at the thing dead straight on, the two outer-most, widest points are not in line with each other; one is higher than the other. 
+
+In other words, looking straight on the thing, starting from the bottom it angles out, then back in, right? Well, the points where it angles back in (the widest points) are not in line with each other, horizontally. I'l try to get a pic.
+
+So... 
+
+--Was this how the (or an) original was?
+
+--Is this merely a production flaw in the MB?
+
+--Is this merely a flaw in my  MB?
+
+Hmmmmmm.....
+────────────────────────────────────────────────────────────────────────
+Post #235  (forum post #184993)
+Author    : DARKSIDE72
+Date      : Sep 12, 2006 at 4:30 AM
+────────────────────────────────────────────────────────────────────────
+
+I suspect the MB nose cone was made the way it was to accomodate the parachute feature. Probably why it's off. 
+
+ It obviously has a lineage to the studio model but as to how it came about is anyone's guess. 
+
+Post some pics. 
+
+<div class='quotetop'>(PHArchivist @ Sep 11 2006, 12:53 PM) [snapback]1317843[/snapback]</div>
+
+			I've posted this in another thread or two (just trying to get exposure as different folks may key on different threads).  So I apologize if you've seen it already...
+
+I have a Maxi-Brute kit, and am currently tweaking the nose cone for my own purposes.
+
+Has anyone else who owns this truly analyzed this MB nose cone? And does anyone know the TRUE lineage of the MB fuselage. The box states its the same size as the studio models, but has it ever been confirmed if it was taken directly from a studio model?
+
+Reason I ask is this: 
+
+On my MB nose cone, if you look at the thing dead straight on, the two outer-most, widest points are not in line with each other; one is higher than the other. 
+
+In other words, looking straight on the thing, starting from the bottom it angles out, then back in, right? Well, the points where it angles back in (the widest points) are not in line with each other, horizontally. I'l try to get a pic.
+
+So... 
+
+--Was this how the (or an) original was?
+
+--Is this merely a production flaw in the MB?
+
+--Is this merely a flaw in my  MB?
+
+Hmmmmmm.....
+
+[/b]
+		
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #236  (forum post #268581)
+Author    : staermose
+Date      : Jan 24, 2007 at 10:33 AM
+────────────────────────────────────────────────────────────────────────
+
+I'm looking for a part.
+
+But I don't seem to be able to find it anywhere in this thread. And I can't find any match for it on www.studioscale.com. Nor in any other kit or kit reference that I have. I think it may be a 1/48 or possibly 1/72 amor part.
+
+On the X-wing its located on the Phantom part of the engines just betwwen the Whitley Bomber landing gear. I don't have i pic to show of it. But it can be seen on the Red 3 top photo in The Art Of Star Wars A New Hope.
+
+Has anyone identified this part yet? I someone wants to shear the info but don't want to post it in the thread, please PM me. 
+
+Thanks
+
+Staermose
+────────────────────────────────────────────────────────────────────────
+Post #237  (forum post #268592)
+Author    : Gold Leader
+Date      : Jan 24, 2007 at 10:45 AM
+────────────────────────────────────────────────────────────────────────
+
+Do you mean these little guys?
+
+[IMAGE: 6.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #238  (forum post #268668)
+Author    : staermose
+Date      : Jan 24, 2007 at 12:14 PM
+────────────────────────────────────────────────────────────────────────
+
+<div class='quotetop'>QUOTE(Gold Leader @ Jan 24 2007, 06:45 PM) [snapback]1404069[/snapback]</div>
+
+			Do you mean these little guys?
+
+[IMAGE: 6.jpg]
+
+[/b]
+		
+
+Click to expand...
+
+They sure look like the the right part. But are they correct for Red 2. There seems to be another part under the top of the the big ovalish thing. Some kind of square..
+────────────────────────────────────────────────────────────────────────
+Post #239  (forum post #268696)
+Author    : Miniaturizer Ray
+Date      : Jan 24, 2007 at 12:51 PM
+────────────────────────────────────────────────────────────────────────
+
+Nope, it's the exhaust - part 16 - from the Fujimi 1/76 Jagdpanther.  I believe the same exhaust is also present on some other Fujimi 1/76 German armour, so that may not be the exact kit that the ILM guys used.  This is a cheap and readily available kit.
+────────────────────────────────────────────────────────────────────────
+Post #240  (forum post #268873)
+Author    : BrundelFly
+Date      : Jan 24, 2007 at 6:04 PM
+────────────────────────────────────────────────────────────────────────
+
+"The problem with the CC fuselage is it's a reworked Icons body which wasn't correct to begin with. The thin hull screws up the rear detail majorly and messes up the size of the nose. The detail where the wings meet in the body is also way off."
+
+Actually not so.  Randy Cooper made the body for Scott.
+
+He  referenced the PYRO body thats floating around, but he did make it from scratch.
+
+I saw it.
+
+It was all renshape.
+
+Frank
+────────────────────────────────────────────────────────────────────────
+Post #241  (forum post #268988)
+Author    : Gold Leader
+Date      : Jan 24, 2007 at 9:33 PM
+────────────────────────────────────────────────────────────────────────
+
+<div class='quotetop'>QUOTE(Miniaturizer Ray @ Jan 24 2007, 08:51 PM) [snapback]1404174[/snapback]</div>
+
+			Nope, it's the exhaust - part 16 - from the Fujimi 1/76 Jagdpanther.  I believe the same exhaust is also present on some other Fujimi 1/76 German armour, so that may not be the exact kit that the ILM guys used.  This is a cheap and readily available kit.
+
+[/b]
+		
+
+Click to expand...
+
+Yep, you're right, sorry, I'm confusing the 2 parts.
+
+The ones I posted are on the 5 ft Falcon.
+────────────────────────────────────────────────────────────────────────
+Post #242  (forum post #269135)
+Author    : staermose
+Date      : Jan 25, 2007 at 6:52 AM
+────────────────────────────────────────────────────────────────────────
+
+I got a little confused here. 
+
+Should I get a Fujimi Jagdpanther to get the right parts? 
+
+Is the pic above from the Jagdpanther kit? 
+
+Or is the correct part still not identified?
+────────────────────────────────────────────────────────────────────────
+Post #243  (forum post #269186)
+Author    : BrundelFly
+Date      : Jan 25, 2007 at 8:33 AM
+────────────────────────────────────────────────────────────────────────
+
+<div class='quotetop'>QUOTE(staermose @ Jan 25 2007, 02:52 PM) [snapback]1404619[/snapback]</div>
+
+			I got a little confused here. 
+
+Should I get a Fujimi Jagdpanther to get the right parts? 
+
+Is the pic above from the Jagdpanther kit? 
+
+Or is the correct part still not identified?
+
+[/b]
+		
+
+Click to expand...
+
+The ABOVE Picture..is NOT the right part.
+
+Its the 1/76 Fujimi Jagdpanther   and it looks like this:
+
+[IMAGE: jag.jpg]
+
+Oh...You might recognize the  U-BOLTS.
+
+Don't say I never gave ya nothin'  HA.
+
+So...anyone know what THESE are?
+
+[IMAGE: cone.jpg]
+
+There is a part on YAMOTO that looks close.  Does anyone have the OLD YAMOTO?
+
+The TWO outer CONE halve is what Im talking about.
+────────────────────────────────────────────────────────────────────────
+Post #244  (forum post #269342)
+Author    : staermose
+Date      : Jan 25, 2007 at 12:11 PM
+────────────────────────────────────────────────────────────────────────
+
+Thank you very much.
+────────────────────────────────────────────────────────────────────────
+Post #245  (forum post #269349)
+Author    : DeanB
+Date      : Jan 25, 2007 at 12:21 PM
+────────────────────────────────────────────────────────────────────────
+
+I've been looking for the two half cones as well and I have the old Tamiya Yamato.  The closed parts in the kit are unfortunately too small in diameter and lack the rivets/bolts/bumps around the perimeter.
+────────────────────────────────────────────────────────────────────────
+Post #246  (forum post #403950)
+Author    : INCOM
+Date      : Aug 26, 2007 at 1:13 PM
+────────────────────────────────────────────────────────────────────────
+
+12Rogues said:
+
+			I believe these are the correct heatsinks. Can anyone confirm?
+
+http://www.alliedelec.com/Search/ProductDe...B00000%2F000540
+
+Click to expand...
+
+Since the above link is dead, does anyone know of a different source for the correct heatsinks. Thanks in advance.
+────────────────────────────────────────────────────────────────────────
+Post #247  (forum post #404010)
+Author    : moffeaton
+Date      : Aug 26, 2007 at 3:41 PM
+────────────────────────────────────────────────────────────────────────
+
+Yikes - looks like the heatsinks are no longer available? Part # 619-0040
+
+Glad I bought 30 of them! 
+
+:love
+────────────────────────────────────────────────────────────────────────
+Post #248  (forum post #404054)
+Author    : 12Rogues
+Date      : Aug 26, 2007 at 5:00 PM
+────────────────────────────────────────────────────────────────────────
+
+I believe this is the same one. 
+
+http://www.alliedelec.com/Search/Pr...19-0093&sid=46D0C280737BE17F&tab=overview#tab
+────────────────────────────────────────────────────────────────────────
+Post #249  (forum post #404075)
+Author    : Treadwell
+Date      : Aug 26, 2007 at 5:35 PM
+────────────────────────────────────────────────────────────────────────
+
+Yep that's it.
+────────────────────────────────────────────────────────────────────────
+Post #250  (forum post #404156)
+Author    : INCOM
+Date      : Aug 26, 2007 at 8:35 PM
+────────────────────────────────────────────────────────────────────────
+
+Cool. Thank you 12Rogues and Treadwell.
+────────────────────────────────────────────────────────────────────────
+Post #251  (forum post #404161)
+Author    : Hand Solo
+Date      : Aug 26, 2007 at 8:53 PM
+────────────────────────────────────────────────────────────────────────
+
+INCOM said:
+
+			Cool. Thank you 12Rogues and Treadwell.
+		
+
+Click to expand...
+
+Yep... that's a slip-on heat sink for the old T-O5 can-type transistors. I don't recall anymore if they went on dry or if they had worked best with thermal transfer compound.
+
+T-O5s are old....
+────────────────────────────────────────────────────────────────────────
+Post #252  (forum post #405168)
+Author    : PHArchivist
+Date      : Aug 28, 2007 at 9:17 AM
+────────────────────────────────────────────────────────────────────────
+
+I called on that one Rogues linked to and they say it is 3/4 inches in diameter.  That seems a bit large.  
+
+Thoughts on that?
+────────────────────────────────────────────────────────────────────────
+Post #253  (forum post #405326)
+Author    : Hand Solo
+Date      : Aug 28, 2007 at 1:00 PM
+────────────────────────────────────────────────────────────────────────
+
+PHArchivist said:
+
+			I called on that one Rogues linked to and they say it is 3/4 inches in diameter.  That seems a bit large.  
+
+Thoughts on that?
+		
+
+Click to expand...
+
+It's just right. I compared the T-O5 sinks with the resin ones provided with the kits. They're a dead-on fit. Using this I determined that there is little to ZERO shrinkage with the Salzo kits I've built.
+
+That .75 inch figure is the outside diameter. These are made of aluminum with a black anodized finish.
+────────────────────────────────────────────────────────────────────────
+Post #254  (forum post #405348)
+Author    : INCOM
+Date      : Aug 28, 2007 at 1:28 PM
+────────────────────────────────────────────────────────────────────────
+
+Just received my order today and like Hand said they are a dead-on fit.
+────────────────────────────────────────────────────────────────────────
+Post #255  (forum post #405446)
+Author    : PHArchivist
+Date      : Aug 28, 2007 at 3:58 PM
+────────────────────────────────────────────────────────────────────────
+
+Perfect!  I have 8 on the way!
+────────────────────────────────────────────────────────────────────────
+Post #256  (forum post #405453)
+Author    : Hand Solo
+Date      : Aug 28, 2007 at 4:10 PM
+────────────────────────────────────────────────────────────────────────
+
+PHArchivist said:
+
+			Perfect!  I have 8 on the way!
+		
+
+Click to expand...
+
+If you want to be REALLY accurate, you'll need 16 per T-65. One for each engine and then 3 each for the laser cannons!
+────────────────────────────────────────────────────────────────────────
+Post #257  (forum post #405515)
+Author    : PHArchivist
+Date      : Aug 28, 2007 at 5:40 PM
+────────────────────────────────────────────────────────────────────────
+
+Initial foray wil be for the FX vonversion, but yeah - the real cannons had a couple stacked in there huh?
+────────────────────────────────────────────────────────────────────────
+Post #258  (forum post #405556)
+Author    : Treadwell
+Date      : Aug 28, 2007 at 6:43 PM
+────────────────────────────────────────────────────────────────────────
+
+Red two had TWO in each engine, as well. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #259  (forum post #405662)
+Author    : Hand Solo
+Date      : Aug 28, 2007 at 10:37 PM
+────────────────────────────────────────────────────────────────────────
+
+Treadwell said:
+
+			Red two had TWO in each engine, as well. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+Yeah, in fact it looks like it did... the ones behind the visible ones were offset slightly... like the counter-rotating props on a TU-95 Bear Foxtrot!
+
+Nice eye.
+────────────────────────────────────────────────────────────────────────
+Post #260  (forum post #407429)
+Author    : PHArchivist
+Date      : Aug 31, 2007 at 8:48 PM
+────────────────────────────────────────────────────────────────────────
+
+12Rogues said:
+
+			I believe this is the same one. 
+
+http://www.alliedelec.com/Search/Pr...19-0093&sid=46D0C280737BE17F&tab=overview#tab
+
+Click to expand...
+
+ 
+
+I got mine today and they are perfect!
+────────────────────────────────────────────────────────────────────────
+Post #261  (forum post #408651)
+Author    : Whiskey
+Date      : Sep 3, 2007 at 12:07 PM
+────────────────────────────────────────────────────────────────────────
+
+Does anyone have any info as to what the engine thrusters are from?
+
+Ive seen in different forums and post that its from the Revell Phantom 1/32, but I have that and there doesnt seem to be any kind of removable engine or access panel to show the detail.   :confused
+────────────────────────────────────────────────────────────────────────
+Post #262  (forum post #408685)
+Author    : DARKSIDE72
+Date      : Sep 3, 2007 at 1:20 PM
+────────────────────────────────────────────────────────────────────────
+
+JPagaduan said:
+
+			Does anyone have any info as to what the engine thrusters are from?
+
+Ive seen in different forums and post that its from the Revell Phantom 1/32, but I have that and there doesnt seem to be any kind of removable engine or access panel to show the detail.  :confused
+		
+
+Click to expand...
+
+ 
+
+You obviously don't have the correct one.
+────────────────────────────────────────────────────────────────────────
+Post #263  (forum post #408706)
+Author    : Whiskey
+Date      : Sep 3, 2007 at 1:59 PM
+────────────────────────────────────────────────────────────────────────
+
+Any idea on which is the correct one?
+────────────────────────────────────────────────────────────────────────
+Post #264  (forum post #408718)
+Author    : DARKSIDE72
+Date      : Sep 3, 2007 at 2:35 PM
+────────────────────────────────────────────────────────────────────────
+
+JPagaduan said:
+
+			Any idea on which is the correct one?
+		
+
+Click to expand...
+
+ 
+
+http://cgi.ebay.com/Big-REVELL-Phan...ryZ50301QQssPageNameZWDVWQQrdZ1QQcmdZViewItem
+────────────────────────────────────────────────────────────────────────
+Post #265  (forum post #408758)
+Author    : Whiskey
+Date      : Sep 3, 2007 at 4:08 PM
+────────────────────────────────────────────────────────────────────────
+
+Awesome!
+
+Thank you!
+────────────────────────────────────────────────────────────────────────
+Post #266  (forum post #414784)
+Author    : PHArchivist
+Date      : Sep 13, 2007 at 11:32 AM
+────────────────────────────────────────────────────────────────────────
+
+Here's a slightly odd question...
+
+What is the consensus about how sharp the corners/edges of the fuselage should be (where the top surface of the fuse meets the side-walls, etc.), or are on the originals?
+
+The FX toy has very sharp corners.  
+
+The CC fuselage has rounded off corners.  
+
+The blow-molded Maxi-brute also has fairly rounded corners/edges.
+
+I'm not sure on the Icons.
+
+Can someone who has seen the 1/24 models in person comment?
+────────────────────────────────────────────────────────────────────────
+Post #267  (forum post #459495)
+Author    : Watson
+Date      : Nov 29, 2007 at 11:17 AM
+────────────────────────────────────────────────────────────────────────
+
+They raised the price on these to a $1 each.  What a rip off.  I got them for .20 each last time.
+
+G
+────────────────────────────────────────────────────────────────────────
+Post #268  (forum post #523937)
+Author    : TridCloudwalker
+Date      : Feb 29, 2008 at 1:32 AM
+────────────────────────────────────────────────────────────────────────
+
+I'm reviving this oldie but goodie thread.
+
+Hand Solo said:
+
+			If you want to be REALLY accurate, you'll need 16 per T-65. One for each engine and then 3 each for the laser cannons!
+		
+
+Click to expand...
+
+Are you sure about 3 on the cannons? It only looks like two on the photos I've seen. Perhaps some of the reds used two and others three.
+
+Any thoughts?
+
+Also, does anyone have any measurments for the rear fuselage? I'm trying to correct a Hasbro body, and it's ass-end has eaten one too many power cells.
+────────────────────────────────────────────────────────────────────────
+Post #269  (forum post #524104)
+Author    : propcollector
+Date      : Feb 29, 2008 at 8:52 AM
+────────────────────────────────────────────────────────────────────────
+
+-... . .- --.. said:
+
+			One of the nice things about this forum, and the hobby we share as scratchbuilders and kit detectives, is that anyone from anywhere can meet like-minded individuals via this forum and start friendships born of common interest. I just wish we could all get together for beer somehow!
+
+Thanks to this forum, I've come to know a very sharp guy from Japan who has been following the progress of these studio-scale threads for some time now. We've shared knowledge, reference photos, and ideas and he has become a good friend, even though I only know him by his name! Along the way he has pointed out several important things about the hero X-Wings that I hadn't already noticed myself.
+
+This week, he took some reference pics that I provided and came up with this part find:
+
+[IMAGE: wingedgebits02.jpg]
+
+On the bottom is a picture of the trailing edge of one of the wings of the hero Red 2 model. Right above that is a picture of the part he found. The part? 
+
+A wheel shaft from this kit:
+
+[IMAGE: tam35020box.gif]
+
+Tamiya 1/35 German Hanomag Sd.Kfz. 251/1 Armored Half-track
+
+I already had this kit so I checked it out. I believe this is a solid find!
+
+My friend asked that he not be identified by name, so I'm going to honor that request. I hope everyone will join me in thanking him for tracking down this part. 
+
+Thanks again, man!
+		
+
+Click to expand...
+
+here is the pic of the parts
+
+http://www.studioscale.com/images/Kit Photos/Tamiya/Tamiya 1-35 Hanomag/parts3.jpg
+────────────────────────────────────────────────────────────────────────
+Post #270  (forum post #641701)
+Author    : Flintlock
+Date      : Aug 3, 2008 at 8:38 AM
+────────────────────────────────────────────────────────────────────────
+
+Would anyone be willing to offer molds of the Aurora M8 Munitions Carrier parts needed for the X wing to me for sale or trade? These are really the only parts I need for the X Wing, besides that Sherman part underneath the wing cannons. I have no leads on this, but everything else I have.
+
+Anyone?
+────────────────────────────────────────────────────────────────────────
+Post #271  (forum post #641718)
+Author    : moffeaton
+Date      : Aug 3, 2008 at 9:13 AM
+────────────────────────────────────────────────────────────────────────
+
+If it's Kaoru, count me out. He has quite a temper, and has been banned from almost all of the studio scale boards... be careful. I stay away from that guy.
+────────────────────────────────────────────────────────────────────────
+Post #272  (forum post #641753)
+Author    : Flintlock
+Date      : Aug 3, 2008 at 10:19 AM
+────────────────────────────────────────────────────────────────────────
+
+moffeaton said:
+
+			If it's Kaoru, count me out. He has quite a temper, and has been banned from almost all of the studio scale boards... be careful. I stay away from that guy.
+		
+
+Click to expand...
+
+I'm not following...
+────────────────────────────────────────────────────────────────────────
+Post #273  (forum post #641760)
+Author    : moffeaton
+Date      : Aug 3, 2008 at 10:31 AM
+────────────────────────────────────────────────────────────────────────
+
+Post #272. Beaz is apparently friends with a guy who has proven to be quite the malcontent. If this is the case, I'm steering clear, as I want nothing to do with it. That's all. :redface
+────────────────────────────────────────────────────────────────────────
+Post #274  (forum post #642256)
+Author    : -... . .- --..
+Date      : Aug 4, 2008 at 5:59 AM
+────────────────────────────────────────────────────────────────────────
+
+Post #272 contains a quote from what is actually post #3 from this thread, which is dated December 13, 2001. Yesterday I couldn't figure out why, but it seems I'm being judged a bit harshly for having once praised someone who has apparently fallen out of favor.
+
+This morning, I did some searching at the various forums and found a discussion about this person's recent actions. Having read this, I think I have a better sense of why my past association with the guy might be an issue for some. For the record, I'm not working with this person - haven't even emailed him since last year - and if what folks are saying in that thread is true, then I certainly have no desire to reconnect.
+────────────────────────────────────────────────────────────────────────
+Post #275  (forum post #642665)
+Author    : Miniaturizer Ray
+Date      : Aug 4, 2008 at 3:08 PM
+────────────────────────────────────────────────────────────────────────
+
+-... . .- --.. said:
+
+			Post #272 contains a quote from what is actually post #3 from this thread, which is dated December 13, 2001. Yesterday I couldn't figure out why, but it seems I'm being judged a bit harshly for having once praised Kaoru.
+
+This morning, I did some searching at the various forums and found this Resin Illuminati thread. Having read this, I think I have a better sense of why my past association with the guy might be an issue for some. For the record, I'm not working with Kaoru - haven't even emailed him since last year - and if what folks are saying in that thread is true, then I certainly have no desire to reconnect.
+		
+
+Click to expand...
+
+ 
+
+Well, I read it rather differently. Looks to me as if Kaoru succumbed to the temptation to join the Stonecutter schmucks (who, as far as I can tell, for all of their privileged insider connections, have actually figured out jack ****) and that Bob guy welched on some deal with him ("send the CDR as planned") so Kaoru is asking that Bob either come good on his part of the deal or pay Kaoru cash for whatever it was that he provided to Bob. If Bob doesn't do what he promised, Kaoru will (oh, horrors!) let the rest of us maggots see some of the secret Stonecutter pix stash. 
+
+I don't know how it turned out. After about half a dozen pages of racist ****, I didn't have the stomach to read any more.
+────────────────────────────────────────────────────────────────────────
+Post #276  (forum post #642690)
+Author    : DARKSIDE72
+Date      : Aug 4, 2008 at 3:47 PM
+────────────────────────────────────────────────────────────────────────
+
+Stonecutter... what's that?
+────────────────────────────────────────────────────────────────────────
+Post #277  (forum post #642697)
+Author    : Flintlock
+Date      : Aug 4, 2008 at 4:03 PM
+────────────────────────────────────────────────────────────────────────
+
+Do any of you have the Aurora M8 Munitions Carrier?
+────────────────────────────────────────────────────────────────────────
+Post #278  (forum post #643084)
+Author    : Miniaturizer Ray
+Date      : Aug 5, 2008 at 2:02 AM
+────────────────────────────────────────────────────────────────────────
+
+Flintlock said:
+
+			Do any of you have the Aurora M8 Munitions Carrier?
+		
+
+Click to expand...
+
+ 
+
+I have one but the wheels are peculiar in mine.  Why do you ask?
+
+By the way, did a bit more reading over at the Stonecutter forums, and that place is like a TZ episode where jhyphen's been elected president of the world for life.
+────────────────────────────────────────────────────────────────────────
+Post #279  (forum post #643103)
+Author    : Flintlock
+Date      : Aug 5, 2008 at 3:32 AM
+────────────────────────────────────────────────────────────────────────
+
+This is one of the last 2 X Wing kits I need, and was wondering if someone could send me castings of the parts - or better yet, a mold of them. How are your wheels peculiar?
+────────────────────────────────────────────────────────────────────────
+Post #280  (forum post #643119)
+Author    : Miniaturizer Ray
+Date      : Aug 5, 2008 at 4:24 AM
+────────────────────────────────────────────────────────────────────────
+
+You know the inner ring that protrudes slightly? In the kit that I have, all of those vary from being pretty much flush to slightly recessed.   Not really a big deal for somebody building the kit, but a major bummer for an X-wing obsessive.
+────────────────────────────────────────────────────────────────────────
+Post #281  (forum post #646829)
+Author    : Flintlock
+Date      : Aug 10, 2008 at 11:03 AM
+────────────────────────────────────────────────────────────────────────
+
+I know all the diameters of the gun tubes - the main "body" of the gun, the butyrate tube, and the portion forward of the heatsinks, the brass tube. Does anyone have any info on the lengths of these?
+────────────────────────────────────────────────────────────────────────
+Post #282  (forum post #647163)
+Author    : Miniaturizer Ray
+Date      : Aug 11, 2008 at 2:36 AM
+────────────────────────────────────────────────────────────────────────
+
+This is my guesstimation for the Red 5 miniature. At 72 pixels/inch, it's full size. You can either use the ruler tool in Photoshop if you have it, or print it out and measure it the old fashioned way.
+
+[IMAGE: cannonep0.png]
+────────────────────────────────────────────────────────────────────────
+Post #283  (forum post #647172)
+Author    : Flintlock
+Date      : Aug 11, 2008 at 3:05 AM
+────────────────────────────────────────────────────────────────────────
+
+Miniaturizer Ray said:
+
+			This is my guesstimation for the Red 5 miniature. At 72 pixels/inch, it's full size. You can either use the ruler tool in Photoshop if you have it, or print it out and measure it the old fashioned way.
+
+[IMAGE: cannonep0.png]
+
+Click to expand...
+
+WOW! Thanks!
+────────────────────────────────────────────────────────────────────────
+Post #284  (forum post #647216)
+Author    : TridCloudwalker
+Date      : Aug 11, 2008 at 6:29 AM
+────────────────────────────────────────────────────────────────────────
+
+Flintlock said:
+
+			I know all the diameters of the gun tubes - the main "body" of the gun, the butyrate tube, and the portion forward of the heatsinks, the brass tube. Does anyone have any info on the lengths of these?
+		
+
+Click to expand...
+
+Do you mind sharing the diameters? I just cut a bunch of brass tube, and it looks off. I'm thinking I may be off by a size or two.
+────────────────────────────────────────────────────────────────────────
+Post #285  (forum post #647309)
+Author    : Flintlock
+Date      : Aug 11, 2008 at 10:24 AM
+────────────────────────────────────────────────────────────────────────
+
+TridCloudwalker said:
+
+			Do you mind sharing the diameters? I just cut a bunch of brass tube, and it looks off. I'm thinking I may be off by a size or two.
+		
+
+Click to expand...
+
+As far as I knew, it was Butyrate Tubing from Plastruct - 3/4" and 5/8" for the main gun,and 7/8" for the ring around the heatsinks. Forward of the heatsinks, the tubing is brass. I will have to double check on the diameters, but the first tube will fit inside the heatsinks, and you just step down sizes from there, since they are telescoping.
+────────────────────────────────────────────────────────────────────────
+Post #286  (forum post #764530)
+Author    : Newbie Doobie
+Date      : Jan 14, 2009 at 8:35 PM
+────────────────────────────────────────────────────────────────────────
+
+Miniaturizer Ray said:
+
+			This is my guesstimation for the Red 5 miniature. At 72 pixels/inch, it's full size. You can either use the ruler tool in Photoshop if you have it, or print it out and measure it the old fashioned way.
+
+[IMAGE: cannonep0.png]
+
+Click to expand...
+
+I love the photoshop you did on this Ray!  The subtle shading looks MUCH better,and more three dimensional than just a flat drawing.
+────────────────────────────────────────────────────────────────────────
+Post #287  (forum post #764533)
+Author    : Clerval
+Date      : Jan 14, 2009 at 8:42 PM
+────────────────────────────────────────────────────────────────────────
+
+Cool diagram, looks more like an AO render than a PS image.
+
+Back to topic, any ideas on why butyrate tubing? Material and composite choices are usually interesting. 
+
+Last, has anyone worked, recently, on lighting up their cannon tips? I'm still a way off from doing the cannons, but I think I'd like to add that as well.
+────────────────────────────────────────────────────────────────────────
+Post #288  (forum post #764556)
+Author    : REL
+Date      : Jan 14, 2009 at 9:09 PM
+────────────────────────────────────────────────────────────────────────
+
+Miniaturizer Ray said:
+
+			This is my guesstimation for the Red 5 miniature. At 72 pixels/inch, it's full size. You can either use the ruler tool in Photoshop if you have it, or print it out and measure it the old fashioned way.
+
+[IMAGE: cannonep0.png]
+
+Click to expand...
+
+Thank you for that! I'm wanting to scratch an X Wing (well, some of it anyway) for the beautiful aluminum armature Jason made, and that will come in handy.
+────────────────────────────────────────────────────────────────────────
+Post #289  (forum post #765723)
+Author    : Newbie Doobie
+Date      : Jan 15, 2009 at 9:33 PM
+────────────────────────────────────────────────────────────────────────
+
+Clerval said:
+
+			Cool diagram, looks more like an AO render than a PS image.
+
+Back to topic, any ideas on why butyrate tubing? Material and composite choices are usually interesting. 
+
+Last, has anyone worked, recently, on lighting up their cannon tips? I'm still a way off from doing the cannons, but I think I'd like to add that as well.
+		
+
+Click to expand...
+
+    Are you planning on using fiberoptics for this? I don't see why not.  It should work,as long as you allow enough length for them to run all the way through the wings into the fuselage,and up to the LED. Just drill a small hole through the cannon,and the mount for it into the wing,then run a small channel through the length of the wing for it. This will allow for you to use this without the fiberoptic wire being seen. Are you scratch building the wings,or using a resin kit?
+────────────────────────────────────────────────────────────────────────
+Post #290  (forum post #767310)
+Author    : MonsieurTox
+Date      : Jan 17, 2009 at 3:02 PM
+────────────────────────────────────────────────────────────────────────
+
+Newbie Doobie said:
+
+			Are you planning on using fiberoptics for this? I don't see why not. It should work,as long as you allow enough length for them to run all the way through the wings into the fuselage,and up to the LED. Just drill a small hole through the cannon,and the mount for it into the wing,then run a small channel through the length of the wing for it. This will allow for you to use this without the fiberoptic wire being seen. Are you scratch building the wings,or using a resin kit?
+		
+
+Click to expand...
+
+ 
+
+On the ILM models, the bulbs which light the FO are in the body of the cannon. I think that's the best way to not lose light because if you let them going through the wings and fuselage they will have too much high curvatures which is always bad for light...
+────────────────────────────────────────────────────────────────────────
+Post #291  (forum post #767551)
+Author    : Newbie Doobie
+Date      : Jan 17, 2009 at 7:10 PM
+────────────────────────────────────────────────────────────────────────
+
+MonsieurTox said:
+
+			On the ILM models, the bulbs which light the FO are in the body of the cannon. I think that's the best way to not lose light because if you let them going through the wings and fuselage they will have too much high curvatures which is always bad for light...
+		
+
+Click to expand...
+
+I understand! Anyway,this should be interesting to see! Thanks Julien!
+────────────────────────────────────────────────────────────────────────
+Post #292  (forum post #767842)
+Author    : Robiwon
+Date      : Jan 18, 2009 at 5:07 AM
+────────────────────────────────────────────────────────────────────────
+
+Another way for lighting fiber optic and not loosing a lot of light due to curvature is to use a laser diode. I'm no X-Wing, expert but what color were the lights?
+
+I plan on useing a green laser pointer diode to light all four canon tips. Green lasers are now plentiful on ebay and can be had for a few dollars. I have several and have broken them down to the diode and battery. I have also done FO tests as well. While you don't get the visible green beam when using FO you do get an insanely bright point of light. Just a thought.
+
+Of course when working with any type of laser use extreme caution!
+────────────────────────────────────────────────────────────────────────
+Post #293  (forum post #865951)
+Author    : Treadwell
+Date      : May 7, 2009 at 7:02 AM
+────────────────────────────────────────────────────────────────────────
+
+Numerous pages of this thread were lost in at least one of the server moves over the years.
+
+Thanks to someone posting an archive link, the original thread can be found here:
+
+http://web.archive.org/web/20011122...udioscalemodeling.showMessage?topicID=2.topic
+
+Anyone up to the task of cutting and pasting all of the missing posts? 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #294  (forum post #865983)
+Author    : stonky
+Date      : May 7, 2009 at 7:31 AM
+────────────────────────────────────────────────────────────────────────
+
+Wow, where has the time gone? 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+My posts on the first page (now broken by the looks of it) were links to the Bill George X-Wing on the Starship Modeler site.
+
+http://www.starshipmodeler.com/gallery/bg_xwing.htm
+
+edit: added the original link
+────────────────────────────────────────────────────────────────────────
+Post #295  (forum post #866009)
+Author    : REL
+Date      : May 7, 2009 at 8:02 AM
+────────────────────────────────────────────────────────────────────────
+
+Good to see this thread back on the front page. This is what the studio scale section is all about.
+────────────────────────────────────────────────────────────────────────
+Post #296  (forum post #866094)
+Author    : ralphee
+Date      : May 7, 2009 at 9:37 AM
+────────────────────────────────────────────────────────────────────────
+
+Agreed a stellar thread, ive always loved reading the Y thread too, nothing better than scratchbuilding real prop replicas from the ground up, from IDing, to carving styrene, its all a blast!
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #297  (forum post #866639)
+Author    : Nwerke
+Date      : May 7, 2009 at 7:08 PM
+────────────────────────────────────────────────────────────────────────
+
+Beaz, that's great. I have some pages saved too, hopefully including some early ones. I'll check tonight and get back to you.
+────────────────────────────────────────────────────────────────────────
+Post #298  (forum post #866719)
+Author    : Nwerke
+Date      : May 7, 2009 at 8:59 PM
+────────────────────────────────────────────────────────────────────────
+
+DARKSIDE72 said:
+
+			That is awesome... (and cute, everyone is noobs:lol)
+		
+
+Click to expand...
+
+Oh gods yes. I'd already been rereading what is left here, just last night. My old drawings got mentioned, I hate to think anyone might have built off them. Cringe!!! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #299  (forum post #868512)
+Author    : Nwerke
+Date      : May 10, 2009 at 5:49 AM
+────────────────────────────────────────────────────────────────────────
+
+-... . .- --.. said:
+
+			So, I'd really appreciate some help filling in the gaps between September 2000 and December 2001, so many important finds during that period, and so many measurements and reference pics. If anybody has their own backup of the thread, please let me know. I'd be more than happy to put in the time to stitch it all back together for posterity.
+		
+
+Click to expand...
+
+Beaz, have checked; FWIW here's what I've got that may be useful for the period you're looking for: 
+
+40 (20 Aug 2000 to 6 Sept 2000) - pic-lite. Probably saved after many links had died. 
+
+41 (8 Oct 2000 to 12 Dec 2000) - some pics OK. Different format/theme.
+
+09 (7 Oct 2000 - 21 Jan 2002) - different series/theme; more posts per page hence different numbering. Some pics, some broken links.
+
+Cheers,
+
+Martyn
+────────────────────────────────────────────────────────────────────────
+Post #300  (forum post #871221)
+Author    : -... . .- --..
+Date      : May 12, 2009 at 7:46 PM
+────────────────────────────────────────────────────────────────────────
+
+Hey Martyn,
+
+I'm definitely interested in those thread backups. Please drop me a line!
+────────────────────────────────────────────────────────────────────────
+Post #301  (forum post #1843632)
+Author    : -... . .- --..
+Date      : Aug 27, 2011 at 9:58 AM
+────────────────────────────────────────────────────────────────────────
+
+Nevermind.
+
+Bump...
+────────────────────────────────────────────────────────────────────────
+Post #302  (forum post #1844165)
+Author    : jedimaster
+Date      : Aug 27, 2011 at 4:00 PM
+────────────────────────────────────────────────────────────────────────
+
+History in the making here folks.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 302

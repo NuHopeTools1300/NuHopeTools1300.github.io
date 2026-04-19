@@ -1,0 +1,87 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Need advice-EFX Red Five
+URL    : https://www.therpf.com/forums/threads/need-advice-efx-red-five.84952/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #1203583)
+Author    : mikenice232
+Date      : Apr 28, 2010 at 4:16 PM
+────────────────────────────────────────────────────────────────────────
+
+Need some advice guys, just bought an EFX Red Five off of Ebay. It was brand new in the box never opened. After I unpacked it(carefully) and placed it on the stand and plugged in the power supply NOTHING. I checked the connection but I cant really see anything else to check. Anyone else had this problem? Hoping its something easy that I overlooked. Thanks Mike:cry
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #1204309)
+Author    : ave4uevoli
+Date      : Apr 29, 2010 at 6:54 AM
+────────────────────────────────────────────────────────────────────────
+
+is there a switch to turn it on?   I forget if there is one on mine....
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #1204421)
+Author    : mikenice232
+Date      : Apr 29, 2010 at 8:49 AM
+────────────────────────────────────────────────────────────────────────
+
+yeah theres a switch. The base is all sealed up. Im gonna call EFX today and see if they can help.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #1204751)
+Author    : vaderdarth
+Date      : Apr 29, 2010 at 1:17 PM
+────────────────────────────────────────────────────────────────────────
+
+Sounds like a bad switch.  Maybe EFX will send a new base.  That should fix the problem.   just as a precaution,  check to see if there are even LEDs in the engine pods and under R2.
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #1204872)
+Author    : Heimidal
+Date      : Apr 29, 2010 at 2:37 PM
+────────────────────────────────────────────────────────────────────────
+
+Are you sure you have a complete connection at the base?  The first time I put mine on the base I thought I did, tested it before actually putting it on the post (which worked), then after putting it on the base I had nothing. After I checked I realized that I didn't have a complete connection and that it had separated a tiny bit upon pushing it down into the base.
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #1205415)
+Author    : mikenice232
+Date      : Apr 30, 2010 at 1:36 AM
+────────────────────────────────────────────────────────────────────────
+
+I stood up the Red Five and plugged it in w/o pushing it into the base and nothing. I have tried to call EFX but just voicemail right now. Will let you know if I get the engines to fire up. Thanks
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #1206185)
+Author    : mikenice232
+Date      : Apr 30, 2010 at 2:27 PM
+────────────────────────────────────────────────────────────────────────
+
+Well I found out whats wrong. I took off the seat(one screw) because I heard something moving around when I stood it on end . Underneathh the seat is the circuit board for the lights. It looks like something has snapped off. Maybe it was'nt soldered on too good and bouncing around during shipping snapped it off. I am going to try and speak with someone at EFX.(so far only voicemail)
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #1222152)
+Author    : mikenice232
+Date      : May 14, 2010 at 1:57 PM
+────────────────────────────────────────────────────────────────────────
+
+Just an update on on my Red Five. Bryon over at EFX sent me a new board and everything is A-OK Here are a few photos......
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #1222161)
+Author    : mikenice232
+Date      : May 14, 2010 at 2:07 PM
+────────────────────────────────────────────────────────────────────────
+
+here are a few more.............
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #1222215)
+Author    : Heimidal
+Date      : May 14, 2010 at 2:55 PM
+────────────────────────────────────────────────────────────────────────
+
+Very cool of eFX. Also...way easier than replacing the entire X-wing =)
+
+How hard was it to actually get that board out and replace it? Looks like you just had to unplug the old one and pop in the new one.
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #1222226)
+Author    : mikenice232
+Date      : May 14, 2010 at 3:05 PM
+────────────────────────────────────────────────────────────────────────
+
+its just a little tight getting  the plugs on and off for each light.  I think there's about five of them. I used tweezers and just took my time putting them back onto the new board.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 11

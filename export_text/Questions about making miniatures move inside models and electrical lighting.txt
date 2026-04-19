@@ -1,0 +1,150 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Questions about making miniatures move inside models and electrical lighting
+URL    : https://www.therpf.com/forums/threads/questions-about-making-miniatures-move-inside-models-and-electrical-lighting.356012/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #5509493)
+Author    : matencio
+Date      : Jan 31, 2024 at 7:09 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+I'm interested in building scale models of sets for Sci-Fi and Harry Potter, inside space ships and the like. I'd like to make it look like people are moving around inside the models. Does anyone have any experience doing this or can direct me to a person or website that does?
+
+Lighting: I want to add lighting and TV screens inside models of star ships or houses and in home/ship lighting. Again, does anyone know a person or website that can show me how to do this? I can use the tiny monitor screens for Arduino Nanos for the screens and then put a chip that will show a video over and over but wiring it up and using LED's is the issue. What size wire, LEDs and how to figure out the resistors for these is a struggle. Being able to dim lighting, and have them flash would be a great project to do and learn from. Any help would be greatly appreciated. Thanks
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #5509516)
+Author    : joberg
+Date      : Jan 31, 2024 at 8:16 AM
+Reactions : Like — matencio
+────────────────────────────────────────────────────────────────────────
+
+matencio said:
+
+			I'm interested in building scale models of sets for Sci-Fi and Harry Potter, inside space ships and the like. I'd like to make it look like people are moving around inside the models. Does anyone have any experience doing this or can direct me to a person or website that does?
+
+Lighting: I want to add lighting and TV screens inside models of star ships or houses and in home/ship lighting. Again, does anyone know a person or website that can show me how to do this? I can use the tiny monitor screens for Arduino Nanos for the screens and then put a chip that will show a video over and over but wiring it up and using LED's is the issue. What size wire, LEDs and how to figure out the resistors for these is a struggle. Being able to dim lighting, and have them flash would be a great project to do and learn from. Any help would be greatly appreciated. Thanks
+		
+
+Click to expand...
+
+Welcome and I'm sure a few people here have the know-how about those small TV screens/resistors/wiring, etc...
+
+As far as making people move inside the models...everything depends on scale.  I've experimented with 1/72 figures by drilling a hole through the body, removing the head and affix it to a thin metal rod.  You'll have to find the right motor to make it move; I move my figures by hand while filming.  Good luck.
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #5509525)
+Author    : matencio
+Date      : Jan 31, 2024 at 9:37 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+I was thinking about the dancer on the mirror. It has magnets below. I think I can do something similar to make them move on the layout.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #5509560)
+Author    : batguy
+Date      : Jan 31, 2024 at 12:19 PM
+Reactions : Like — joberg, matencio
+────────────────────────────────────────────────────────────────────────
+
+Interesting idea.
+
+BTW, you might consider doing some of that stuff mechanically.  Put little figures inside on tracks/linkages.  Well-built mechanicals can look better than using flat digital screens behind the windows.    
+
+For digital screens to work, you will have to really tailor everything for limited viewing angles.  The lighting in the room (that the whole model is in) will be a big variable to adjust for too.
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #5509564)
+Author    : matencio
+Date      : Jan 31, 2024 at 12:25 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+The miniatures will be on a hidden track if I can figure it out. The screens will be like overhead monitors on star ship models, Radar etc. In houses, they'll be like people watching TV. The people moving around idea is for a haunted house model with ghosts. That I could use the mini monitors for easily and set those up using glass at an angle reflecting so you can see through the ghost. That would be completely original. I have a Victorian house I'm building to try that out on.
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #5509572)
+Author    : Jkirkon
+Date      : Jan 31, 2024 at 1:05 PM
+Reactions : Love, Like — joberg, JimmyB
+────────────────────────────────────────────────────────────────────────
+
+There is a company that makes small/micro LCD screens for models…
+
+I cannot for the life of me think of the name of them.
+
+They made a targeting screen for an x-wing and a BSG Viper, if that jogs anyones memory.
+
+These screens were about 1/2”x1/2” or so.
+
+EDIT: Ha, I remembered! Brickstuff. Getting old is a bitch. 
+
+			BrickScreen OLED and LCD Hobby Video Screens | Community: Brickstuff Hobby Electronics
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #5509627)
+Author    : batguy
+Date      : Jan 31, 2024 at 6:05 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+matencio said:
+
+			The miniatures will be on a hidden track if I can figure it out. The screens will be like overhead monitors on star ship models, Radar etc. In houses, they'll be like people watching TV.
+		
+
+Click to expand...
+
+Ahhh ok.  That makes sense.  
+
+matencio said:
+
+			The people moving around idea is for a haunted house model with ghosts. That I could use the mini monitors for easily and set those up using glass at an angle reflecting so you can see through the ghost. That would be completely original. I have a Victorian house I'm building to try that out on.
+		
+
+Click to expand...
+
+So a Pepper's ghost type of setup inside a miniature haunted house?  That's a great idea.
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #5509702)
+Author    : matencio
+Date      : Feb 1, 2024 at 5:10 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+batguy said:
+
+			Ahhh ok.  That makes sense.
+
+So a Pepper's ghost type of setup inside a miniature haunted house?  That's a great idea.
+		
+
+Click to expand...
+
+Exactly. It should work for the small scale. Add a puff of smoke to make it hazy and we have ghosts in a haunted house. What couldn't be more fun?
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #5509716)
+Author    : joberg
+Date      : Feb 1, 2024 at 5:43 AM
+────────────────────────────────────────────────────────────────────────
+
+Very interesting project for sure
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #5509860)
+Author    : batguy
+Date      : Feb 1, 2024 at 2:41 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+matencio said:
+
+			Exactly. It should work for the small scale. Add a puff of smoke to make it hazy and we have ghosts in a haunted house. What couldn't be more fun?
+		
+
+Click to expand...
+
+First thought - put the screens (the sources of the ghost images) up in the ceiling instead of on the floor.  When people look through the windows of a dollhouse type of diorama, their eyeline might be down or it might be horizontal, but it probably won't be up.  Young child viewers might be a possible exception.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 10

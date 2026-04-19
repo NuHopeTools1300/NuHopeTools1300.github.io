@@ -1,0 +1,633 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : How to Accurize the MR Falcon
+URL    : https://www.therpf.com/forums/threads/how-to-accurize-the-mr-falcon.40248/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #529457)
+Author    : SD Studios
+Date      : Mar 7, 2008 at 4:30 PM
+────────────────────────────────────────────────────────────────────────
+
+As some of you know, I worked on the Falcon project at MR. I was leaving at that point, so I wasn’t there for the entire operation, but I helped as much as I could. Because of the complexity of the model, MR asked Frank, Moe and Jason to help out with reference and development. Bryan Ono and Larry coordinated the product development. Without all of these guys, this project could NOT have been completed. There are 1100 parts on each production model, and trying to catalog all of the original kits was an insane amount of work. 
+
+The original model was white-light scanned. There are 2.1 million data points in the file. Jason and I supervised that operation and then took hundreds of photographs, check-measurements, and notes. 
+
+MR then used the scan data to CNC a master pattern. The factory also used the kit parts supplied by Frank/Moe and their guide document to locate about half of the surface details (this saves having to recreate each part from the scan from scratch). The parts that could not be located, were machined/built from the scans and photos. Because we did this in 2004/2005, the model was in its current condition. So, the MR model is NOT accurate to the filming model if you want to get super-hardcore. Fortunately, ILM gave us a disk of super-high rez images of the ANH and ESB Falcons, so I could see how they looked AS-FILMED. I used these images, the Chronicles book, the pics we took at the archive, and the Sculpting a Galaxy (SAG) book to re-do my model and locate the missing parts. All of these pics in the books were taken back when the filming model was still completely intact.
+
+SO, if you REALLY want to accurize your Falcon, there are a number of steps you need to do. I will list everything I can think of. This process (including reference) took me almost 60 hours. So, if you are really serious, here we go:
+
+-Gotta repaint. Yup. Sorry. The factory paintjob is great for what it is, but if you are going to be COMPLETELY accurate, it has to be repainted. The big polka dot airbrush marks don’t exist on the original model…they gotta go. Base color: we Pantoned the model and matched it as best we could. The color on the MR model is a TINGE too light. But really close. The formula I used to make one paint bottle full is: 3 parts flat white, 1 part desert sand, 4 drops of insignia yellow and 3 or 5 drops of black to taste. 
+
+It is very difficult to color match an ILM model, as you are looking at 3 or 4 layers of color, blending together to create what your eye now sees. (side note: The Falcon, as well as ILM X-Wings are NOT white. They are a very light gray with that color then sanded down to expose white and darker gray underneath along panel edges…and then oversprayed with a slightly darker gray. The gray color almost always “blows out” in flash photography and really looks white…but it is NOT WHITE. When you see them right in front of your face, you can see this. Sorry. That has been bugging me). The Falcon is light gray with a cool-yellow cast. The X-wings and Y-wings were a warmer gray. That is how I painted both of mine. 
+
+-The hull is COVERED in teeny dots. Gazillions of them. The first thing we noticed when we set up the lights was…WOW, the model is completely COVERED in spatter paint! The really odd thing is that they rarely show up in even close-up pics. If you want to see what I am talking about…look at the SAG book on page 14. THAT is what the ESB model looks like up-close, in-person under good lighting. (In the book, it is mislabeled as the ANH model but it is DEFINITELY the EBS model.) There are three shades of “spatter”. Light gray, darker gray and rusty yellow. Thin the colors a LOT and use the trusty toothbrush-spatter method. This worked perfectly for me. It looks weird, but is absolutely correct. The MR model has this a bit, but it is actually ten times heavier than the factory did it. (and more colors).
+
+-Make notes all over the reference images. I drew arrows to spots I knew I would forget about. Look at what other people are doing. I missed a few spots that I later saw on the RPF forum and others. They were RIGHT THERE in the pics, but I didn’t even notice them, until someone else said something (or I saw it painted it on their model) That is an invaluable resource. Use it!
+
+-Refer to the missing parts thread. Very good job guys! There are 7 parts missing in total. They found all but one…the teensy detail on the center ridge about 1 ½ inches in front of the top guns. The detail is 
+
+there already, but there is supposed to be another one next to it. 
+
+-Drill out all of the cast-in-place set screws and replace them with real screws. Yah, you heard me. They are black on the bottom, center disk and silver on the mandibles. Lightly paint the mandible screws with body color, but let some of the silver show. That is how it was on the filming model. No idea what they are there for. Also, replace the two resin Allen-head screws on the top/front of the mandibles with real ones. This is a subtle item, but is definitely noticeable. Still with me? Did you think this was going to be easy??? HUH???
+
+-Many of the perimeter edge panels were smacked down/cracked on the archive model. We corrected this in the files. We DID have to thicken them up so that the resin wouldn’t be too fragile. SO, technically, you have to go around ALL of the panel edges and thin them with a Dremel down to .080. (They varied with location, but close-enough.) I started doing this on my model, but got really tired of it, so I stopped.
+
+-Some of the chip details are located wrong. I only found three; there could be more. eg; top of the right docking port. The missing detail in this location conflicts with the chip. Remove/relocate the chip-detail and add the missing detail part.
+
+-Bottom center disk, behind gun window port: There is one panel with some odd surface “damage”. That was done after filming and the digital scan picked it right up. NOT on the model as-filmed. Has to go. I filled this in with epoxy, leveled out the surface and painted the panel gray. It is body color on the MR model…that is wrong. 
+
+-There are numerous ILM staff names written all over the model. They are kind-of-sloppily done with a black rapidograph pen. I asked Lucasfilm if we could replicate those, but they said no. So, I added all of them on MY model. About 9 or 10, IIRC. Eg; “Michel Fulmer” appears twice on the cockpit. Once on top in a box and once, much larger on the bottom. And someone wrote: “WHO?” in pencil next to his name on the bottom, so that is what I did too. “Lorne Peterson” appears twice. And Ease Oweung appears twice, once in English on the rear engine panel, and once in Korean (I think) on the side mandible. The names are pretty large…SO large, I am surprised how well you can see them once you know they are there. Yup, gotta add those.
+
+-Double hashes and dots. I located EVERY one of these. There are almost 60 locations missing on the MR model and many are in the wrong location. (not bad, but slightly off). On the filming model, they were done with a drafting pen, as the ends of the lines are rounded. SOME were done with Letraset and have squared ends, so you have to look to see the difference. There are many different sizes. I used both methods. Some are closed on one end to form a rectangular U-shape. So you have to watch out. 
+
+-ILM ALWAYS sands their models down after painting. ALWAYS. We saw it on every model we referenced…Speeders, Y-Wings, X-Wings, ATATs, etc. So, you should go over the model LIGHTLY and sand the gray and red panels. In super-close-up, high-rez shots, you can clearly see the scratch marks in the panels. Don’t go nuts, just a TOUCH. It makes a very nice subtle wearing effect that you can’t get with an airbrush…and the cameras would NEVER pick up in a million years. Crazy ILM modelers! 
+
+-You will need to use pastel chalks as well. It is evident all over the filming model. Much more subtle than airbrushing a “splotch” or streak. Dark gray, yellow and black were used on my model.
+
+To be continued...
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #529460)
+Author    : SD Studios
+Date      : Mar 7, 2008 at 4:33 PM
+────────────────────────────────────────────────────────────────────────
+
+MORE blathering...
+
+-Red chipped panels: Upon sticking our noses 6 inches from the model and rubbing the panels with our fingers, we could tell that the chipping pattern on the Falcon was done with a dremel tool. The MR gray-paint-over-the-red-panel-so-it-looks-really-fake-process has to go. Repaint all of the red panels, draw out the chipping pattern with a pencil until you have it just right and then LIGHTLY dremel using a needle-bit until the resin color shows up. Then lightly sand down the red panel until some of the underlying gray shows up FAINTLY in spots. Finally, LIGHTLY overspray body color and black to tone down the red. THAT is how the original was done. Word. 
+
+-Missing underside blast marks. Next to the bottom center ring, there are three depressions on the filming model, representing blasted out panel areas . These are done with two airbrush “poofs” on the MR model. Blah! Be a man and repaint the area body color, dremel in the gouges and airbrush dark gray (never black…looks cartooney!) into and around them. 
+
+-Wash stains. I specifically located every one that I could (over about 1/8 inch) with a pencil and then dabbed on the VERY-thin wash. Some are gray, some are black, and some are rusty yellow. There is a LOT of rusty yellow on the filming model, especially between panels. Far more than the MR paintjob. If you paint it correctly, the model with have an overall rusty yellow “shade” to it, as your eye will pick out that color across the surface of the model. That is completely correct. The ILM guys must have really liked that color.
+
+-I built all of the seven missing parts from scratch, since I don’t care to spend $100+ for the kits, and they were all pretty simple to replicate. A couple are already on the model in other places. It took me maybe 4 hours to scratch-build the replacement parts. No big whoop. Close-enough for me.
+
+-Take ONE section at a time, go nuts on it, and make “laps” around the model. On each lap, get tighter and tighter with the detailing until you have everything covered. That way, you won’t go looney. Walk away, come back later and look over your work again. You WILL see stuff you missed. Do that 5…6…7 times and you will probably get 85% covered. We will never get it completely perfect. It is impossible. 
+
+Misc things we noted on the archive model: 
+
+-The model has a LOT of air bubbles and sink marks in the resin castings. They were also actually pretty rough. (look at the top center ring for example). If you want to get ULTRA-hardcore, you would need to dremel in the bumpy surface texture in the upper and lower ring castings. I just don’t care enough to do that.
+
+-There is quite a bit of “flash” on the surface panels and kit parts. They apparently didn’t take time to sand down the body panels after they cut them. All of the edges have that raised rib that you get when you score styrene. The digital scan picked all of that up, (it has a 1/10,000-inch resolution) but we cleaned it out on the files, as it looked “unfinished” for a $2000 model. On the kit parts, they almost never removed the mold-lines, and molding sprue-gates are obvious as well. SO we didn’t on the MR model either. Don’t remove them! It is accurate! 
+
+-There was only one figure in the Falcon when we referenced it. It was (apparently) Lando, sitting in the pilot seat. I added the awesome after-market figs to mine. BUT, if you want to be ultra-hardcore, paint Han as an African-American and delete Chewie.
+
+I don’t know how to post pics, but I will ask my buddy Mike to throw up some images when he can.
+
+Phew!
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #529465)
+Author    : ReturningSon
+Date      : Mar 7, 2008 at 4:38 PM
+────────────────────────────────────────────────────────────────────────
+
+Yeah Steve, you gotta post pics on these! I love this tutorial but it simply is incomplete without pics! Can't wait!
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #529467)
+Author    : mgoob
+Date      : Mar 7, 2008 at 4:43 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks for the info.
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #529472)
+Author    : SD Studios
+Date      : Mar 7, 2008 at 4:47 PM
+────────────────────────────────────────────────────────────────────────
+
+[IMAGE: sdmf01.jpg]
+
+[IMAGE: sdmf02.jpg]
+
+[IMAGE: sdmf05.jpg]
+
+[IMAGE: sdmf04.jpg]
+
+[IMAGE: sdmf06.jpg]
+
+[IMAGE: sdmf07.jpg]
+
+[IMAGE: sdmf08.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #529480)
+Author    : ictvuser
+Date      : Mar 7, 2008 at 5:08 PM
+────────────────────────────────────────────────────────────────────────
+
+Hi Steve
+
+This is awesome. Thank you for posting all this wonderful information.
+
+It is great to have pics of the signatures and the info on the seventh missing piece. This is invaluable to those planning to accurize the MR Falcon.
+
+Any chance of additional pics? I would like to see what was used for Lando and how he was painted.
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #529486)
+Author    : ReturningSon
+Date      : Mar 7, 2008 at 5:13 PM
+────────────────────────────────────────────────────────────────────────
+
+you should give us a complete, overview shot!
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #529487)
+Author    : lonepigeon
+Date      : Mar 7, 2008 at 5:14 PM
+────────────────────────────────────────────────────────────────────────
+
+Looks awesome Steve!
+
+Amazing job scratch building those parts. One minor nitpick. The Morser Karl piece has some additional thin details missing on yours:
+
+[IMAGE: sdmf04.jpg]
+
+Note the thin details on the left side of the part.
+
+Reference pic:
+
+[IMAGE: Missing_LeftMandible_A1.jpg]
+
+A small detail and easily changed if you care to.
+
+I'm debating on adding the ILM names to mine too.
+
+Thanks a ton for those notes! I plan to go over every square inch of mine and update some of the paint details and parts. Those notes will help a lot when I do.
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #529491)
+Author    : PHArchivist
+Date      : Mar 7, 2008 at 5:22 PM
+────────────────────────────────────────────────────────────────────────
+
+Fantastic information!
+
+On the original, the oval shaped piece in the circle is notably over-sprayed with the red from the adjacent square on the turret, and if I recall correctly the footings of the trapezoid-shaped shield you added was also shaded a bit red due to over-spray.
+
+[IMAGE: Falcon001_1.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #529494)
+Author    : lonepigeon
+Date      : Mar 7, 2008 at 5:26 PM
+────────────────────────────────────────────────────────────────────────
+
+QMX Steve said:
+
+-There was only one figure in the Falcon when we referenced it. It was (apparently) Lando, sitting in the pilot seat. I added the awesome after-market figs to mine. BUT, if you want to be ultra-hardcore, paint Han as an African-American and delete Chewie.
+
+Click to expand...
+
+The model might have been revised for ROTJ since Lando flies it for most of the movie, but then I guess they left out Nien Nunb.
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #529508)
+Author    : Qrest Fourstar
+Date      : Mar 7, 2008 at 5:42 PM
+────────────────────────────────────────────────────────────────────────
+
+Great thread!
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #529534)
+Author    : Clutch
+Date      : Mar 7, 2008 at 6:11 PM
+────────────────────────────────────────────────────────────────────────
+
+This should be made into a book!
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #529536)
+Author    : Pauleysolo
+Date      : Mar 7, 2008 at 6:14 PM
+────────────────────────────────────────────────────────────────────────
+
+Wow- great thread!!
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #529545)
+Author    : Guy Cowen
+Date      : Mar 7, 2008 at 6:28 PM
+────────────────────────────────────────────────────────────────────────
+
+QMX Steve, thank you so much for sharing this information. Much appreciated from me.
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #529574)
+Author    : moffeaton
+Date      : Mar 7, 2008 at 7:18 PM
+────────────────────────────────────────────────────────────────────────
+
+Yeah, when we looked at the "Lando" figure, the brown paint was flaking off, and you could see the lighter skin underneath. My gut said "this was Han, repainted to look like Lando". Also, if I recall correctly, someone told me that ILM had partially gutted the Falcon of electronics when it was scanned for the Special Editions.
+
+Steve, you forgot to add the 4mm of dust that the real one was sporting to your replica! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #529583)
+Author    : ReturningSon
+Date      : Mar 7, 2008 at 7:30 PM
+────────────────────────────────────────────────────────────────────────
+
+yeah, can't forget the 4mm of dust! Now all you need is a hundred more studio scale priceless models piled together locked in a vault somewhere and you will have your very own lifesize 1:1 replica of the Lucasfilm archives!!!!
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #529614)
+Author    : propcollector
+Date      : Mar 7, 2008 at 8:48 PM
+────────────────────────────────────────────────────────────────────────
+
+sweet i am going to work on my falcon now.....this gets me motivated
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #529657)
+Author    : nightrider
+Date      : Mar 7, 2008 at 10:34 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks so much for this information, and please post some more pics of your gorgeous model, especially a nice overall shot.
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #529760)
+Author    : Dexvader
+Date      : Mar 8, 2008 at 3:07 AM
+────────────────────────────────────────────────────────────────────────
+
+Wow, that's some great information.
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #529807)
+Author    : rmschneider104
+Date      : Mar 8, 2008 at 5:22 AM
+────────────────────────────────────────────────────────────────────────
+
+Wow.... GREAT thread.  I'm going to have to get busy...
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #529809)
+Author    : Qrest Fourstar
+Date      : Mar 8, 2008 at 5:24 AM
+────────────────────────────────────────────────────────────────────────
+
+Well, I won't be repainting mine, but the name and parts info is cool.
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #529844)
+Author    : SD Studios
+Date      : Mar 8, 2008 at 6:41 AM
+────────────────────────────────────────────────────────────────────────
+
+lonepigeon said:
+
+			Looks awesome Steve!
+
+Amazing job scratch building those parts. One minor nitpick. The Morser Karl piece has some additional thin details missing on yours:
+
+[IMAGE: sdmf04.jpg]
+
+Note the thin details on the left side of the part.
+
+Reference pic:
+
+[IMAGE: Missing_LeftMandible_A1.jpg]
+
+A small detail and easily changed if you care to.
+
+I'm debating on adding the ILM names to mine too.
+
+Thanks a ton for those notes! I plan to go over every square inch of mine and update some of the paint details and parts. Those notes will help a lot when I do.
+		
+
+Click to expand...
+
+ 
+
+Thanks guys! Great thread!
+
+Yaaaaah. I saw that framework on the MK part. I used the similar part next to the engine exhaust for reference. However:
+
+1) I am too lazy
+
+2) I was afraid that if I recreated the framework in plastic strip or brass that it would be SO thin as to be too fragile.
+
+3) I am too lazy
+
+I MAY pick up the correct kit at some point and replace that part. That is the one piece that is a place-holder for now. It took very little time to scratch and I KNOW it isn't completely correct. I also have to do some more airbrush blending on a few of the added parts. They are still a bit too "added later" looking. 
+
+I didn't notice the red overspray on the pipes before. I went back and looked at the reference pics and yup...there it is. I have to go do that now. See? THAT is what I was talking about! Thanks!
+
+OH! I almost forgot. The three "hole" things on the tops of the docking port "hallways" (I don't know the "lingo" for what you guys call these things...) There are two on the port side and one on the starboard side. You have to drill them through. On the filming model, they were hollow and you could look into the interior through them. And the adjacent C-shaped depressions get painted black.
+
+There are also about ten locations where ILM drew geometric designs on the model with a pencil. I guess someone was bored. I did all of these in...pencil. If you pour over the reference images you will start to spot them if you look real-hard-like.
+
+AND the numbers 2, 3, and 5 are written pretty large on the underside with a marker. So, I did that too.
+
+Sorry, I am trying to remember 60 hours worth of modifications in a couple of posts...
+
+And based on the OTHER thread...
+
+(Capt. Picard voice)
+
+THERE......ARE......EIGHT......PARTS!
+
+missing... 
+
+:lol
+
+I will post some overall shots later...
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #529878)
+Author    : SD Studios
+Date      : Mar 8, 2008 at 7:53 AM
+────────────────────────────────────────────────────────────────────────
+
+[IMAGE: sdmf09.jpg]
+
+[IMAGE: sdmf10.jpg]
+
+[IMAGE: sdmf11.jpg]
+
+[IMAGE: sdmf12.jpg]
+
+[IMAGE: sdmf13.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #529889)
+Author    : propcollector
+Date      : Mar 8, 2008 at 8:12 AM
+────────────────────────────────────────────────────────────────────────
+
+i know i will replace the missing parts and the signatures but as to drilling hols in it I don't thik I will
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #529892)
+Author    : cking
+Date      : Mar 8, 2008 at 8:17 AM
+────────────────────────────────────────────────────────────────────────
+
+Steve,
+
+That looks absolutely BEAUTIFUL!
+
+The best paintjob I've seen BY FAR.
+
+Nice to see Han and Chewie in there too. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Great work!
+
+Chris
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #529901)
+Author    : lonepigeon
+Date      : Mar 8, 2008 at 8:27 AM
+────────────────────────────────────────────────────────────────────────
+
+QMX Steve said:
+
+			AND the numbers 2, 3, and 5 are written pretty large on the underside with a marker. So, I did that too.
+		
+
+Click to expand...
+
+I thought those were pencil.
+
+Those numbers are labeling the landing gear bays and they are ALL labeled 1,2,3,4, and 5.
+
+1 - front port
+
+2 - front center
+
+3- front starboard
+
+4- rear starboard
+
+5- rear port
+
+The panels are removable. Underneath are holes to plug in the landing gear (see Chronicles p.178). They're numbered so they get put back in the right spots.
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #529920)
+Author    : lonepigeon
+Date      : Mar 8, 2008 at 8:46 AM
+────────────────────────────────────────────────────────────────────────
+
+QMX Steve said:
+
+			(Capt. Picard voice)
+
+THERE......ARE......EIGHT......PARTS!
+		
+
+Click to expand...
+
+I think I found a ninth missing part.
+
+Bottom side, rear port (near the #5 gear bay). There are two rectangular pieces each with 4 ridges sticking up. Next to them is a glue mark of similar size. Maybe from a third piece exactly the same?
+
+Anyone have decent shots of the Falcon's underside during filming?
+
+Nevermind - found pics. The underside shot in Chronicles shows it clearly and it's a repeat of the same parts on the starboard side. Will update the parts thread.
+
+9 parts!
+────────────────────────────────────────────────────────────────────────
+Post #28  (forum post #529925)
+Author    : PHArchivist
+Date      : Mar 8, 2008 at 8:51 AM
+────────────────────────────────────────────────────────────────────────
+
+QMX Steve said:
+
+			I didn't notice the red overspray on the pipes before. I went back and looked at the reference pics and yup...there it is. I have to go do that now. See? THAT is what I was talking about! Thanks!
+		
+
+Click to expand...
+
+ 
+
+:cheers
+
+Thanks for taking my nit-picking in stride!  And I totally know that when it comes to painting, especially stuff like the splatter or over-spray, that it really IS nit-picky!  But it's all towards to the greater goal of a dead-on kck-ass Falcon!
+────────────────────────────────────────────────────────────────────────
+Post #29  (forum post #529930)
+Author    : BrundelFly
+Date      : Mar 8, 2008 at 8:57 AM
+────────────────────────────────────────────────────────────────────────
+
+Awesome thread!
+
+Great info Steve, and wonderful pics.
+
+My Only Point of Difference is:
+
+ " about half of the surface details (this saves having to recreate each part from the scan from scratch)."
+
+We supplied WELL over half!  Come on!  hahah   
+
+Frank
+────────────────────────────────────────────────────────────────────────
+Post #30  (forum post #529956)
+Author    : Mr_Sparkle
+Date      : Mar 8, 2008 at 9:35 AM
+────────────────────────────────────────────────────────────────────────
+
+This really is fantastic info! Thanks for sharing Steve. Its really awesome to see the end product of your efforts as well. Just amazing. Do you have any progress shots? I know I would love to see the metamorphosis others probably would as well even if it just focused on one area.
+────────────────────────────────────────────────────────────────────────
+Post #31  (forum post #530074)
+Author    : nightrider
+Date      : Mar 8, 2008 at 12:10 PM
+────────────────────────────────────────────────────────────────────────
+
+Steve, did you repaint the entire ship or do touch ups to the factory job?
+────────────────────────────────────────────────────────────────────────
+Post #32  (forum post #530092)
+Author    : GF
+Date      : Mar 8, 2008 at 12:37 PM
+────────────────────────────────────────────────────────────────────────
+
+WOW Great paint job!!!
+
+I've seen some nice repaints but this one has to be the best.
+
+GFollano
+────────────────────────────────────────────────────────────────────────
+Post #33  (forum post #530176)
+Author    : SD Studios
+Date      : Mar 8, 2008 at 3:04 PM
+────────────────────────────────────────────────────────────────────────
+
+I repainted about 95% of it. Some of the factory gray panels were fine, so I left them alone. 98% of the body color stuff was repainted. A couple of BC panels were actually perfect, so I left them alone. The entire model got the spatter treatment and weathering overall. This really helped to blend the repainted/non-repainted areas together.
+
+I still have to lower the orange rectangles on the front of the cockpit tunnel. The lowest one should actually be the TOP one if they were oriented correctly. Have to get to that. And I have to add the couple of new-found missing parts. Until they find MORE missing parts...
+
+I don't have any progress shots, sorry. Just the ones I took after the first time it was done. And the second time when it was finally done. And then the THIRD time when it was REALLY finally done. :wacko
+────────────────────────────────────────────────────────────────────────
+Post #34  (forum post #530287)
+Author    : ReturningSon
+Date      : Mar 8, 2008 at 6:06 PM
+────────────────────────────────────────────────────────────────────────
+
+Your work speaks for itself! The true ILM filming model!!!!!!
+────────────────────────────────────────────────────────────────────────
+Post #35  (forum post #530389)
+Author    : Shadowknight
+Date      : Mar 8, 2008 at 8:59 PM
+────────────────────────────────────────────────────────────────────────
+
+I just want to say thank you to Steve for coming in here and providing the information to make these things accurate. He didn't have to do it yet he did it anyway. 
+
+I would also like to thank Frank and Moe for chiming in on the other threads that are currently going on about the Falcon, (and anybody else who chimed in). This is what this forum is all about.
+
+In closing, I thing that all these threads need to be archived. But not only archived for the information but the pics as well. I hate reading archived threads and all the pics are a big red ex's!!! 
+
+I say archive everything in these threads!
+────────────────────────────────────────────────────────────────────────
+Post #36  (forum post #530416)
+Author    : PHArchivist
+Date      : Mar 8, 2008 at 9:43 PM
+────────────────────────────────────────────────────────────────────────
+
+nightrider said:
+
+			Steve, did you repaint the entire ship or do touch ups to the factory job?
+		
+
+Click to expand...
+
+ 
+
+The reds and greys look like the factory colors.
+────────────────────────────────────────────────────────────────────────
+Post #37  (forum post #530785)
+Author    : nightrider
+Date      : Mar 9, 2008 at 1:07 PM
+────────────────────────────────────────────────────────────────────────
+
+Reason I ask is that after looking at overall shots of the model, things like the heavily airbrushed over weathering streaks, hull blast marks, as well as all the airbrushed spaced dots along the edges of the rear deck still seem to have the signature factory look to them. There's other small details as well that only a falcon nut like myself who's familiar with many of the small details of the paint job would even notice. Not trying to be a jerk or a kill joy, just some observations.
+────────────────────────────────────────────────────────────────────────
+Post #38  (forum post #531032)
+Author    : mgoob
+Date      : Mar 9, 2008 at 7:32 PM
+────────────────────────────────────────────────────────────────────────
+
+nightrider said:
+
+			Reason I ask is that after looking at overall shots of the model, things like the heavily airbrushed over weathering streaks, hull blast marks, as well as all the airbrushed spaced dots along the edges of the rear deck still seem to have the signature factory look to them. There's other small details as well that only a falcon nut like myself who's familiar with many of the small details of the paint job would even notice. Not trying to be a jerk or a kill joy, just some observations.
+		
+
+Click to expand...
+
+As has been posted before, photos tend to wash out details and digital cameras under $1000 average the contrast.
+
+Having seen this up close, you can see the signature; the differences in the paint splatters; the different hues used to weather the ship; the subtle washes between the panels.
+
+These Wide Shots especially wash out and increase contrast.  Closeups are easier to see on digital camera.  Matching red & grey colors that were added are close to the original; these photos weren't taken under ideal tabletop still photographic conditions.  Still you get an idea.
+
+It's more subtle.  Honest.
+────────────────────────────────────────────────────────────────────────
+Post #39  (forum post #2737932)
+Author    : propcollector
+Date      : Feb 8, 2013 at 7:50 PM
+────────────────────────────────────────────────────────────────────────
+
+Anybody have the pics of all the ILM names on the 32" falcon?
+────────────────────────────────────────────────────────────────────────
+Post #40  (forum post #2739104)
+Author    : TK9120
+Date      : Feb 9, 2013 at 3:38 PM
+────────────────────────────────────────────────────────────────────────
+
+I'd like to see these pics if anyone has them. The thread is five years old and the pics are gone.
+────────────────────────────────────────────────────────────────────────
+Post #41  (forum post #2739219)
+Author    : propcollector
+Date      : Feb 9, 2013 at 4:55 PM
+────────────────────────────────────────────────────────────────────────
+
+Pretty please......someone post these pics!!!
+────────────────────────────────────────────────────────────────────────
+Post #42  (forum post #2739273)
+Author    : Stormy320
+Date      : Feb 9, 2013 at 5:29 PM
+────────────────────────────────────────────────────────────────────────
+
+I second that.
+────────────────────────────────────────────────────────────────────────
+Post #43  (forum post #2740083)
+Author    : Darth_Pain
+Date      : Feb 10, 2013 at 8:45 AM
+────────────────────────────────────────────────────────────────────────
+
+3rd
+
+Yeah, I hate it when great old threads have nothing but little red X's left in them.
+────────────────────────────────────────────────────────────────────────
+Post #44  (forum post #2740241)
+Author    : Qrest Fourstar
+Date      : Feb 10, 2013 at 10:30 AM
+────────────────────────────────────────────────────────────────────────
+
+I'm pretty sure I saved them all. who can I e-mail them to?
+────────────────────────────────────────────────────────────────────────
+Post #45  (forum post #2741017)
+Author    : propcollector
+Date      : Feb 10, 2013 at 6:47 PM
+────────────────────────────────────────────────────────────────────────
+
+Please mail them to
+
+Mgraham2@cinci.rr.com
+────────────────────────────────────────────────────────────────────────
+Post #46  (forum post #2741925)
+Author    : Vaderios
+Date      : Feb 11, 2013 at 8:54 AM
+────────────────────────────────────────────────────────────────────────
+
+I would love to see these images too please
+
+-Angel
+────────────────────────────────────────────────────────────────────────
+Post #47  (forum post #2742861)
+Author    : propcollector
+Date      : Feb 11, 2013 at 4:24 PM
+────────────────────────────────────────────────────────────────────────
+
+Well guys I got 4 pics and that is it....I am told that there are dozens and it would be to much time to post , i did ask to buy them and did not get a reply.  So back to the drawing board on finding these pics.
+────────────────────────────────────────────────────────────────────────
+Post #48  (forum post #2743106)
+Author    : TK9120
+Date      : Feb 11, 2013 at 7:15 PM
+────────────────────────────────────────────────────────────────────────
+
+You think they could just be sent in a zip file. Oh well. Are you going to post the four you have?
+────────────────────────────────────────────────────────────────────────
+Post #49  (forum post #2743180)
+Author    : propcollector
+Date      : Feb 11, 2013 at 8:10 PM
+────────────────────────────────────────────────────────────────────────
+
+Yes I will tomorrow......would like to get all of these
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 49

@@ -1,0 +1,96 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : A-wing production blueprints
+URL    : https://www.therpf.com/forums/threads/a-wing-production-blueprints.304379/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #4654452)
+Author    : bigpetr
+Date      : Aug 23, 2019 at 3:02 AM
+Reactions : Like — foj3000, Tremas, acesh007
+────────────────────────────────────────────────────────────────────────
+
+Hello friends,
+
+I just found this blueprints on propstore. Was it realized? I do not remember seeing fulscale a-wing in ROTJ. Just the back of the cockpit.
+
+I think it solves the "true" scale of the ship question. Or not?
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img01-jpg.1051228/]
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #4654690)
+Author    : TazMan2000
+Date      : Aug 23, 2019 at 1:03 PM
+────────────────────────────────────────────────────────────────────────
+
+bigpetr said:
+
+			Hello friends,
+
+I just found this blueprints on propstore. Was it realized? I do not remember seeing fulscale a-wing in ROTJ. Just the back of the cockpit.
+
+I think it solves the "true" scale of the ship question. Or not?
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+View attachment 1051228
+
+Click to expand...
+
+Well, not exactly. They sometimes build the sets at up to 3/4 scale smaller to save money and space. Even use an actor that is smaller to sit inside it and walk in front. I'm not certain that was done in this case though. But the TIE fighter set used in ANH had a forced perspective built in. So right there the model compared to the set was off.
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #4654709)
+Author    : SteveStarkiller
+Date      : Aug 23, 2019 at 1:45 PM
+────────────────────────────────────────────────────────────────────────
+
+Very cool find!
+
+I'd be super curious to find out how much of it they built. I think they used at least a portion of the blueprints to build the fins behind the cockpit.
+
+[IMAGE: https://www.therpf.com/forums/attachments/1566592971538-png.1051445/]
+
+(from production showing the set before the bluescreen was replaced)
+
+looking at the blueprints the fins look a lot wider than they do in the image above but that could be a perspective distortion... I might have to build a mockup to see.
+
+(just to be pedantic, I'm not sure there was a forced perspective in the TIE cockpit.. that set is fully 8-feet wide I think, they built it to the specs printed in the Rinzler book. Though you only really see the back wall of it there are extant behind the scenes photos of the full cockpit... it's frankly huge.)
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #4654919)
+Author    : bigpetr
+Date      : Aug 24, 2019 at 1:45 AM
+Reactions : Like — SteveStarkiller
+────────────────────────────────────────────────────────────────────────
+
+I am also not sure with Tie cockpit forced perspective. I tried to photomat behind the scenes photos of it and made 3d model and it fits the specs in Rinzler book. 
+
+In case of A-wing theese blueprints are actualy bigger then studioscale model (or at least the one with big figure in it).
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #4655779)
+Author    : wizardofthenorth
+Date      : Aug 26, 2019 at 7:55 AM
+────────────────────────────────────────────────────────────────────────
+
+Just wondering, are the blueprints based off of the kitbashed studio model....or is the studio model built off of the blueprints?
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #4655955)
+Author    : bigpetr
+Date      : Aug 26, 2019 at 12:28 PM
+────────────────────────────────────────────────────────────────────────
+
+Standard procedure is model first so i suppose it was the same in this case too. Just my assumption.
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #4657837)
+Author    : SteveStarkiller
+Date      : Aug 30, 2019 at 1:46 PM
+Reactions : Like — Jaitea
+────────────────────────────────────────────────────────────────────────
+
+I’m constructing a quick mock-up in sketchup and I think they actually did use these blueprints to build what we see. If I move the camera right in front of the pilot I can make the fins and cockpit parts match up nicely. I’ll post a render soon to show it. 
+
+I’m willing to bet they built it from the cockpit back toward the fins, similar to the x wing builds for filming cockpit scenes. I’d love to see something surface!
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 7

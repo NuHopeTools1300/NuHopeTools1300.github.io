@@ -1,0 +1,162 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : TIE INTERCEPTOR 3-D MODEL
+URL    : https://www.therpf.com/forums/threads/tie-interceptor-3-d-model.366118/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #5698657)
+Author    : GEEK1138
+Date      : Feb 4, 2026 at 8:28 AM
+Reactions : Like, Love — Bloop, seven, rms77
+────────────────────────────────────────────────────────────────────────
+
+Yep it's me again...this time with the lovely TIE Interceptor. I'm not crazy about all the many various TIE iterations but this one really works for me.
+
+So the 'ball' is the same as the main TIE fighter, so just the wings and Wingstar areas to sort out. The wing 'solar panel' material is supposedly a bubble screen light diffuser, so I've tried to reproduce that;
+
+[IMAGE: https://www.therpf.com/forums/attachments/tie-interceptor-jpg.2009241/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/tie-interceptor-1-jpg.2009242/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/tie-interceptor-2-jpg.2009243/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/tie-interceptor-3-jpg.2009244/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/tie-interceptor-4-jpg.2009245/]
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #5698671)
+Author    : Leinads
+Date      : Feb 4, 2026 at 9:10 AM
+Reactions : Like — GEEK1138, joberg, bwayne64
+────────────────────────────────────────────────────────────────────────
+
+THE MAN NEVER SLEEPS
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #5698769)
+Author    : bwayne64
+Date      : Feb 4, 2026 at 3:02 PM
+Reactions : Like — GEEK1138, joberg, modelerdave
+────────────────────────────────────────────────────────────────────────
+
+Another great one, ; ) Have you ever considered doing a tutorial, on how you model in 3d. Would love to see your workflow. I work in Lightwave 3d. But I have to brute force it, to get anything out of it.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #5699118)
+Author    : GEEK1138
+Date      : Feb 6, 2026 at 7:46 AM
+Reactions : Like, Love — RayLuis, Duncanator, modelerdave
+────────────────────────────────────────────────────────────────────────
+
+To be honest Joe, I wouldn't know where to start on a tutorial...my workflow is a lot of brute force as well.
+
+So this ship is done...here are some final renders; 
+
+[IMAGE: https://www.therpf.com/forums/attachments/tie-interceptor-5-jpg.2009778/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/tie-interceptor-10-png.2009779/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/tie-interceptor-9-png.2009780/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/tie-interceptor-8-png.2009781/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/tie-interceptor-7-png.2009782/]
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #5699131)
+Author    : joberg
+Date      : Feb 6, 2026 at 8:12 AM
+Reactions : Like — GEEK1138
+────────────────────────────────────────────────────────────────────────
+
+Another home-run mate
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+...and what do you mean by "brute force"?
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #5699169)
+Author    : bwayne64
+Date      : Feb 6, 2026 at 10:33 AM
+Reactions : Like — GEEK1138, joberg
+────────────────────────────────────────────────────────────────────────
+
+GEEK1138 said:
+
+			To be honest Joe, I wouldn't know where to start on a tutorial...my workflow is a lot of brute force as well.
+
+So this ship is done...here are some final renders;
+
+View attachment 2009778View attachment 2009779View attachment 2009780View attachment 2009781View attachment 2009782
+
+Click to expand...
+
+Yea I totally understand. Don't know if I could explain how I build either, lol. She's looking good, as usual, ; ) Looks like you nailed the solar panel look as well. As someone who's tried to duplicate that, that ain't easy.
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #5699754)
+Author    : GEEK1138
+Date      : Feb 8, 2026 at 11:22 PM
+Reactions : Like, Wow — RayLuis, seven, bwayne64
+────────────────────────────────────────────────────────────────────────
+
+Well what I mean by brute force is that u have to be really strict with the software...it wants to screw up and get messy. Everything must be checked and constrained to an axis or datum point and almost nothing eyeballed or estimated. A clean, 'hygienic' environment is what u try to maintain so that any anomalies that develop in the workflow can be seen and eliminated.
+
+Here's the download link; https://imperialprinthub.etsy.com/listing/4454750726
+
+OK a few pics of the print bed...
+
+This is the 1/24 scale on a Bambu Carbon;
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2026-02-08-121141-png.2010450/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2026-02-08-131401-png.2010451/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2026-02-08-134413-png.2010452/]
+
+and this is the difference going x 4 as big for the 1/6 scale on a Comgrow 500 x500 which u will need to print the split and flattened wing and larger sections
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2026-02-08-142035-png.2010453/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2026-02-08-150219-png.2010454/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2026-02-09-071106-png.2010455/]
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #5699895)
+Author    : joberg
+Date      : Feb 9, 2026 at 10:08 AM
+Reactions : Like — modelerdave
+────────────────────────────────────────────────────────────────────────
+
+No words mate, no words
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #5701250)
+Author    : 13doctorwho
+Date      : Feb 14, 2026 at 6:08 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+This is AWESOME!! This is my favorite Tie Fighter design. So many great props and models from Return Of The Jedi. You're work is incredible, as always!
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 9

@@ -1,0 +1,213 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Greeblie 3d modelling question
+URL    : https://www.therpf.com/forums/threads/greeblie-3d-modelling-question.337316/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #5165194)
+Author    : TazMan2000
+Date      : Feb 7, 2021 at 12:49 PM
+────────────────────────────────────────────────────────────────────────
+
+When recreating greeblies in 3D, should you add in injector pin marks, or molding marks?
+
+There are some who will say, "absolutely", in order to create replicas almost identical to the studio model, but some who will say that those marks add nothing to the  detail and are artifacts of moulding.
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #5165270)
+Author    : TazMan2000
+Date      : Feb 7, 2021 at 7:13 PM
+Reactions : Like — acesh007, Bjorn
+────────────────────────────────────────────────────────────────────────
+
+I'm also modelling the parts so they will be a bit easier to print so that they don't need support trees. Plus, parts that are glued down, don't need that side modelled, so what is the point in modelling the backside. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/ejector-pin-marks-jpg.1423225/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/3d-greeblies-jpg.1423226/]
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #5165320)
+Author    : Bjorn
+Date      : Feb 8, 2021 at 12:03 AM
+Reactions : Like — TazMan2000
+────────────────────────────────────────────────────────────────────────
+
+Awesome Tazman2000, 
+
+It's personal  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+
+I feel that if you are going to all of the trouble to model the part, then yes.
+
+Especially if it's on the visible side of the part as viewed on any respective model.
+
+And if it's easy to see.
+
+In most cases I have also modeled the features on the rear of the parts but I am a masochistic.
+
+I probably haven't done this on all my parts but certainly the majority.
+
+I would also model the draft angle or an approximate draft angle. It's often subtle, but really adds to the character of the part. Especially if the part has any notable height. Most plastic injection parts are between 1-3° of draft angle.
+
+I have on occasion also modeled the mismatch of parting lines, and flash line when really noticeable.
+
+But that's just me.
+
+Keep in mind that printing technology will continue to evolve.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #5165380)
+Author    : joberg
+Date      : Feb 8, 2021 at 8:00 AM
+Reactions : Like — TazMan2000
+────────────────────────────────────────────────────────────────────────
+
+^^As Bjorn said: it's personal.  Accurate and rivet counting people will say YES to your question.  Others will add those little details if they're really visible on the original screen used model...while someone else will probably say: "Heck NO" 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #5167216)
+Author    : star-art
+Date      : Feb 13, 2021 at 10:18 PM
+────────────────────────────────────────────────────────────────────────
+
+Adding "draft" to the parts can dramatically increase the time and effort required to model them in 3D. Ask me how I know. . . 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #5167281)
+Author    : TazMan2000
+Date      : Feb 14, 2021 at 7:35 AM
+────────────────────────────────────────────────────────────────────────
+
+star-art said:
+
+			Adding "draft" to the parts can dramatically increase the time and effort required to model them in 3D. Ask me how I know. . . 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+I'll first ask...What is "draft"?
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #5167292)
+Author    : The 48th Ronin
+Date      : Feb 14, 2021 at 8:14 AM
+Reactions : Like — Bjorn, TazMan2000
+────────────────────────────────────────────────────────────────────────
+
+TazMan2000 said:
+
+			I'll first ask...What is "draft"?
+		
+
+Click to expand...
+
+The Merriam-Webster definition:
+
+12: ANGLE, TAPER
+
+specifically, industrial engineering : the taper given to a pattern or die so that the work can be easily withdrawn
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #5167758)
+Author    : star-art
+Date      : Feb 15, 2021 at 12:45 PM
+Reactions : Like — TazMan2000, Bjorn
+────────────────────────────────────────────────────────────────────────
+
+It's probably easiest to explain visually. The red part below has sides that are perfectly parallel with the direction the mold will move as it opens and closes. This will generate friction, making it difficult for the mold to open. In some cases, the parts could get stuck in the mold. 
+
+The green part has draft on all sides. This makes it much easier to pop this part out of the mold:
+
+[IMAGE: https://www.therpf.com/forums/attachments/1613421718634-png.1426039/]
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #5167792)
+Author    : OlivierC
+Date      : Feb 15, 2021 at 2:15 PM
+────────────────────────────────────────────────────────────────────────
+
+It's not a huge deal if you keep them or no, but if they are visible on the final model and add to the shape and silhouette of the grebblie, which is the case here, I think it's ok to model the molding artifacts.
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #5167801)
+Author    : 3Dsf
+Date      : Feb 15, 2021 at 3:02 PM
+Reactions : Like — TazMan2000
+────────────────────────────────────────────────────────────────────────
+
+Yeah, simulating draft in a 3D model can be a real pain in the butt, depending on your software. But can affect the appearance of a part a lot.
+
+It's tough. On the one hand, we all have bugs up our asses here about accuracy, or else we wouldn't be on the RPF. On the other, misaligned moulds or ejector pin witness marks or flash can look pretty crappy and undermine the illusion somewhat.
+
+One compromise is to make the replica look like the injection moulding artefacts intentional. Like adding a wire or something where there's a raised bit of flash at the seam. Or putting rings or specific recesses where the pin marks are.
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #5167809)
+Author    : Bjorn
+Date      : Feb 15, 2021 at 3:21 PM
+────────────────────────────────────────────────────────────────────────
+
+Tazman2000, out of interest, what modelling program are you using? 
+
+I use Rhino and Solidworks depending on what I'm doing.
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #5168438)
+Author    : TazMan2000
+Date      : Feb 17, 2021 at 8:00 AM
+────────────────────────────────────────────────────────────────────────
+
+Bjorn said:
+
+			Tazman2000, out of interest, what modelling program are you using?
+
+I use Rhino and Solidworks depending on what I'm doing.
+		
+
+Click to expand...
+
+TinkerCad, about 99 percent. Wings3D and Blender the other 1 percent. I know there are better programs out there but I can achieve almost everything I need in Tinker without any learning curve. Plus you can't beat the price.
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #5168779)
+Author    : Bjorn
+Date      : Feb 17, 2021 at 8:57 PM
+────────────────────────────────────────────────────────────────────────
+
+Nice! What ever gets the job done.
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #5168790)
+Author    : swgeek
+Date      : Feb 17, 2021 at 9:29 PM
+Reactions : Like — TazMan2000
+────────────────────────────────────────────────────────────────────────
+
+I try to include any imperfections, including ejector pin marks. I don't normally model seam lines though, I think out of sheer laziness. I also don't model in draft, unless it's really noticeable.
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #5169928)
+Author    : star-art
+Date      : Feb 20, 2021 at 6:08 PM
+────────────────────────────────────────────────────────────────────────
+
+Draft is often as little as 1-2 degrees, so most of the time it's barely noticeable and really not necessary for 3D printing. Unless I was making parts for injection molding, I wouldn't bother. I've been designing injection-molded parts a LOT lately and it can be much more time consuming than making stuff to be printed!
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #5169931)
+Author    : TazMan2000
+Date      : Feb 20, 2021 at 6:18 PM
+────────────────────────────────────────────────────────────────────────
+
+star-art said:
+
+			Draft is often as little as 1-2 degrees, so most of the time it's barely noticeable and really not necessary for 3D printing. Unless I was making parts for injection molding, I wouldn't bother. I've been designing injection-molded parts a LOT lately and it can be much more time consuming than making stuff to be printed!
+		
+
+Click to expand...
+
+I've also been 3d modelling a lot lately. Especially greeblies. Sometimes I go investigate what the real life part looked like and find that the modelling companies who made the original model were pretty far off on accuracy. Although sometimes they have to be. Detail that would be modelled scaled to the real object may be too small for the machines to mill, and the material may not even flow correctly into the recesses.  Also, I've read, that they make some items bigger so that they will stand out more and give more visual interest, even though they may be out of scale. 
+
+TazMan2000
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 16

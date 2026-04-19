@@ -1,0 +1,2072 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : ANH-Star Destroyer
+URL    : https://www.therpf.com/forums/threads/anh-star-destroyer.346331/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #5331134)
+Author    : Ktaylor
+Date      : Jun 23, 2022 at 4:22 PM
+Reactions : Like — Lee S, Aegis159, mb1k
+────────────────────────────────────────────────────────────────────────
+
+Decided I need to start a build thread to help me collect my thoughts, share info, and be able to remember this stuff in 5 years!
+
+I started the plans for this build after seeing all the impressive work Ringa did on his build here, it was a true inspiration and fantastic set of information to make me feel comfortable diving into this model, so massive thanks Ringa!!
+
+I did a 3D mock up off of what pics from chronicle I could find then started measuring known kit parts to help fine tune the dimensions until everything started to feel right and fit together.
+
+There is some interesting geometry happening on this seemingly simple design. Choices had to be made! I decided to go with a level top deck and rear engine design after looking at tons of pics from this model being on tour. hard to say from pics but I feel relatively confident about this, less so on the engine orientation but I went with what I felt I was seeing in pics, and what would make the most sense. Here are some pics illustrating the various ways this model can be interpreted, I when back and forth between the middle and bottom one, but ultimately I chose for the top deck AND engines to run parallel with the ground plane. Also attached are my final 3D mock ups and greeble dimensions used to dial the proportions in.
+
+I should also note I decided to make the overall form symmetrical for ease of plans and building even though actual studio model seems to be slightly asymmetrical from the top view. Using pics to judge this which isn't great due to shooting angle and lens distortion but it seems to be off a bit, but hard to say for sure.
+
+ 
+
+Attachments
+
+[IMAGE: 1233251-cc8c2f68730ebe59d47d2ab1062873f5.jpg]
+
+back.PNG
+
+					365.4 KB
+					
+					· Views: 653
+					
+				
+
+[IMAGE: 1233252-aa70c544a2ceaf01a08cd393560daa8b.jpg]
+
+bottom.PNG
+
+					133.2 KB
+					
+					· Views: 511
+					
+				
+
+[IMAGE: 1233253-f640eec2f7efff8c2a8f72bdc2836fc8.jpg]
+
+Dimensions001.PNG
+
+					165.1 KB
+					
+					· Views: 458
+					
+				
+
+[IMAGE: 1233256-51039fc2b2c0573dc85c6074c9359a31.jpg]
+
+Front.PNG
+
+					208 KB
+					
+					· Views: 476
+					
+				
+
+[IMAGE: 1233255-18b39bde1f79bf4d04ae459c77e0cf1e.jpg]
+
+Dimensions003.PNG
+
+					52.8 KB
+					
+					· Views: 438
+					
+				
+
+[IMAGE: 1233254-aabde9cbc83811a2ba60dd8821004cc1.jpg]
+
+Dimensions002.PNG
+
+					54.8 KB
+					
+					· Views: 502
+					
+				
+
+[IMAGE: 1233257-352b40a2c452fe1ffa25028494300202.jpg]
+
+side.PNG
+
+					128.1 KB
+					
+					· Views: 447
+					
+				
+
+[IMAGE: 1233258-f010f1e39cab1e8e1681e9dfaf4e8c00.jpg]
+
+Top.PNG
+
+					132.1 KB
+					
+					· Views: 480
+					
+				
+
+[IMAGE: 1242752-91f53e9475cd9715947e07dc84ee2805.jpg]
+
+SymetryPlane.jpg
+
+					338.9 KB
+					
+					· Views: 409
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #5331140)
+Author    : Ktaylor
+Date      : Jun 23, 2022 at 4:38 PM
+Reactions : Like, Love — Aegis159, seven, mb1k
+────────────────────────────────────────────────────────────────────────
+
+I used the 3D file to build out plans for the frame, which are cut from plywood, mounted with a steel rod and aluminum sides, (these pics still had plexi sides which were later replaces with 1"aluminum bars. I added routing holes as I wasnt sure if I was going to run fiber through this model or not. The Studio model didn't so I eventually opted not to as well. I'll be adding same hanger and engine lighting as the studio model. 
+
+I should add that early on I decided that would not meticulously build this accurately to the studio model in terms of little details and greebles, but would capture the overall proportions and details that really stick out as best I could. I wanted this to be more of 1 year or less project instead of 5 year meticulous part of part project like the reconstruction of the 32" deago falcon ended up being haha. That being said I'm being pretty faithful to the greebles, I had a lot of the kits on hand from the Falcon build and have purchased around 20 more to get what I felt were key parts that needed to be used.
+
+ 
+
+Attachments
+
+[IMAGE: 1233270-24951b754b017606818312fa14a1e054.jpg]
+
+IMG_1105.jpg
+
+					1.9 MB
+					
+					· Views: 378
+					
+				
+
+[IMAGE: 1233269-1e7a8484413f65d08c6921e840ca06bc.jpg]
+
+IMG_1104.jpg
+
+					1.1 MB
+					
+					· Views: 373
+					
+				
+
+[IMAGE: 1233268-2477d292530110838069ad713fd8a527.jpg]
+
+IMG_1062.jpg
+
+					3.1 MB
+					
+					· Views: 369
+					
+				
+
+[IMAGE: 1233267-89d8c479dd68f6b5294786e1dff5929e.jpg]
+
+IMG_1057.jpg
+
+					2.8 MB
+					
+					· Views: 390
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #5331143)
+Author    : Ktaylor
+Date      : Jun 23, 2022 at 4:47 PM
+Reactions : Like, Love — Aegis159, Pepperbone, gedmac66
+────────────────────────────────────────────────────────────────────────
+
+I built a production stand that will allow me to mount the model in right side up, upside down, and on its side positions which is very handy! I Etched the bottom plexi glass surfaces and started on the tower structure, using Plexi and .08' sheet styrene. I started adding the side trench details, this area is very much made up and not following the studio model at all, I used some key 8 Rad pieces that you can really see, but the rest is pretty buried inside there so I just had fun with it and used what pieces I could make out from picks. I'd still be Id'ng parts though and buy kits if I were to try and match it 1/1 and with limited pics of that stuff it would be pretty difficult.
+
+ 
+
+Attachments
+
+[IMAGE: 1233284-9d2f207a75c8a99ca83d83000da1fd4a.jpg]
+
+IMG_1371.jpg
+
+					2.5 MB
+					
+					· Views: 553
+					
+				
+
+[IMAGE: 1233283-766e682384df966c1da32dd8466422ef.jpg]
+
+IMG_1337.jpg
+
+					2.2 MB
+					
+					· Views: 536
+					
+				
+
+[IMAGE: 1233282-e2699835a1257992e02f7cfaa69b742e.jpg]
+
+IMG_1306.jpg
+
+					3 MB
+					
+					· Views: 488
+					
+				
+
+[IMAGE: 1233281-ef21fee7fedf5c906a1b9ed9e3ce2960.jpg]
+
+IMG_1305.jpg
+
+					1.6 MB
+					
+					· Views: 453
+					
+				
+
+[IMAGE: 1233280-f4d030868d119d78d164750bcc98f7f0.jpg]
+
+IMG_1279.jpg
+
+					2.1 MB
+					
+					· Views: 452
+					
+				
+
+[IMAGE: 1233279-d5519c8d374720836612bfed4d6090b6.jpg]
+
+IMG_1207.jpg
+
+					2.9 MB
+					
+					· Views: 456
+					
+				
+
+[IMAGE: 1233278-501401e74b4752318fde4b72cebb4422.jpg]
+
+IMG_1177.jpg
+
+					1.1 MB
+					
+					· Views: 484
+					
+				
+
+[IMAGE: 1233277-78da8c27a6f6ef41998a928f6e1bc39b.jpg]
+
+IMG_1174.jpg
+
+					1 MB
+					
+					· Views: 490
+					
+				
+
+[IMAGE: 1233272-6a6ee6508d07d3524f34d4b20d714de0.jpg]
+
+67158521909__216F3C3B-0660-47C6-B265-95E75FD45A84.jpg
+
+					2.7 MB
+					
+					· Views: 479
+					
+				
+
+[IMAGE: 1233273-e9b6c67948358d9c8ebf02b7cd19a45f.jpg]
+
+IMG_1095.jpg
+
+					1.8 MB
+					
+					· Views: 433
+					
+				
+
+[IMAGE: 1233274-f8f17fb827808e168bc5185ba4602889.jpg]
+
+IMG_1097.jpg
+
+					1.3 MB
+					
+					· Views: 459
+					
+				
+
+[IMAGE: 1233275-f2550bfd93556f27563afcaa894bbfa7.jpg]
+
+IMG_1098.jpg
+
+					1.3 MB
+					
+					· Views: 435
+					
+				
+
+[IMAGE: 1233276-4b28fe122e0e470e70d30e7d7dc043ce.jpg]
+
+IMG_1156.jpg
+
+					3.1 MB
+					
+					· Views: 508
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #5331149)
+Author    : Ktaylor
+Date      : Jun 23, 2022 at 4:55 PM
+Reactions : Like, Wow, Love — Aegis159, mb1k, Pepperbone
+────────────────────────────────────────────────────────────────────────
+
+Some Hanger bay work and eventual Lighting tests!
+
+ 
+
+Attachments
+
+[IMAGE: 1233292-77c8e6132d179906c5ef35d963b0c7bc.jpg]
+
+IMG_1589.jpg
+
+					2.5 MB
+					
+					· Views: 447
+					
+				
+
+[IMAGE: 1233293-333fe11acaa072c3dce51d6e324adeaf.jpg]
+
+IMG_1592.jpg
+
+					499.9 KB
+					
+					· Views: 410
+					
+				
+
+[IMAGE: 1233294-0435df1177c480519282ac60d7596cb7.jpg]
+
+IMG_1599.jpg
+
+					2.2 MB
+					
+					· Views: 397
+					
+				
+
+[IMAGE: 1233295-73eeda6ba345ec1a8cb0036d823b1c88.jpg]
+
+IMG_1619.jpg
+
+					2.5 MB
+					
+					· Views: 418
+					
+				
+
+[IMAGE: 1233296-85319ead808b132a99ca7ab94a201b27.jpg]
+
+IMG_1674.jpg
+
+					1.5 MB
+					
+					· Views: 391
+					
+				
+
+[IMAGE: 1233297-4c65ed5e57cf373ab7a3d0dbd899de1f.jpg]
+
+IMG_2374.jpg
+
+					3.4 MB
+					
+					· Views: 405
+					
+				
+
+[IMAGE: 1233298-e82875cfc3c761c649b1fb51d85f33d0.jpg]
+
+IMG_2386.jpg
+
+					1.9 MB
+					
+					· Views: 405
+					
+				
+
+[IMAGE: 1233299-f1ad046db02f5dd0c81a100878a59dff.jpg]
+
+IMG_2408.jpg
+
+					934.5 KB
+					
+					· Views: 442
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #5331150)
+Author    : Ktaylor
+Date      : Jun 23, 2022 at 4:57 PM
+Reactions : Like, Love, Wow — jackstraw9388, mb1k, Pepperbone
+────────────────────────────────────────────────────────────────────────
+
+Some more pics, I have all the LED lights hooked up to a dimmer control so each lights intensity can be dialed in for final photography. I might look into a set up that allows me to control color temp of each light as well, that would be ideal.
+
+ 
+
+Attachments
+
+[IMAGE: 1233303-9d480aab1a78fb3a2aaaa643ba30d961.jpg]
+
+IMG_2411.jpg
+
+					1.3 MB
+					
+					· Views: 300
+					
+				
+
+[IMAGE: 1233305-3bbc5322aa14c1996b452f632cbed5ba.jpg]
+
+IMG_2417.jpg
+
+					896.1 KB
+					
+					· Views: 285
+					
+				
+
+[IMAGE: 1233304-2f378221ef218e50d083f371ab0ecc1b.jpg]
+
+IMG_2413.jpg
+
+					427.9 KB
+					
+					· Views: 299
+					
+				
+
+[IMAGE: 1233302-3bbc5322aa14c1996b452f632cbed5ba.jpg]
+
+IMG_2417.jpg
+
+					896.1 KB
+					
+					· Views: 261
+					
+				
+
+[IMAGE: 1233301-2f378221ef218e50d083f371ab0ecc1b.jpg]
+
+IMG_2413.jpg
+
+					427.9 KB
+					
+					· Views: 278
+					
+				
+
+[IMAGE: 1233300-9d480aab1a78fb3a2aaaa643ba30d961.jpg]
+
+IMG_2411.jpg
+
+					1.3 MB
+					
+					· Views: 287
+					
+				
+
+[IMAGE: 1233307-6e924a0b1d1f9c3cd75d83eb68d18d39.jpg]
+
+IMG_2394.jpg
+
+					3.1 MB
+					
+					· Views: 318
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #5331151)
+Author    : Ktaylor
+Date      : Jun 23, 2022 at 4:59 PM
+Reactions : Like — Pepperbone, gedmac66, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+MORE PLEXI SCORE LINES hehehe this is an area I'm being very loose with in regards of accuracy...
+
+ 
+
+Attachments
+
+[IMAGE: 1233308-9814c2995c3735dc123f7a782acae500.jpg]
+
+IMG_1394.jpg
+
+					2.8 MB
+					
+					· Views: 381
+					
+				
+
+[IMAGE: 1233309-30a19e2d45ff6ef5de273a1873eebab5.jpg]
+
+IMG_1396.jpg
+
+					2.6 MB
+					
+					· Views: 365
+					
+				
+
+[IMAGE: 1233310-0a2ae0cb65bbc85bf164effa0332280b.jpg]
+
+IMG_1524.jpg
+
+					2.7 MB
+					
+					· Views: 351
+					
+				
+
+[IMAGE: 1233311-7072341857ae2106bc54f11c24a06d44.jpg]
+
+IMG_1526.jpg
+
+					2.6 MB
+					
+					· Views: 353
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #5331152)
+Author    : jcoffman99
+Date      : Jun 23, 2022 at 5:01 PM
+────────────────────────────────────────────────────────────────────────
+
+Very cool.
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #5331229)
+Author    : Ktaylor
+Date      : Jun 23, 2022 at 9:18 PM
+Reactions : Like — gedmac66, joberg, foj3000
+────────────────────────────────────────────────────────────────────────
+
+Here are some part maps I started for areas I haven't found ID'ed  yet. will continue to update these throughout the build
+
+ 
+
+Attachments
+
+[IMAGE: 1233434-01dfcbc56581bd5a1f5f566ebcf5af85.jpg]
+
+TopView001.jpg
+
+					612.8 KB
+					
+					· Views: 587
+					
+				
+
+[IMAGE: 1241860-13e9e171de8adc8aca33ffcf79f67e58.jpg]
+
+StarboardLowerWall.jpg
+
+					3.7 MB
+					
+					· Views: 446
+					
+				
+
+[IMAGE: 1241862-1664f53def3514a02bd09bba57d55c82.jpg]
+
+LowerStructure.jpg
+
+					903.1 KB
+					
+					· Views: 443
+					
+				
+
+[IMAGE: 1241863-5b89718d6e914d0e04ea6d054a813365.jpg]
+
+PortSideWall.jpg
+
+					3.1 MB
+					
+					· Views: 421
+					
+				
+
+[IMAGE: 1241861-fd80e8405b3ee7d1a0bcf6956d739728.jpg]
+
+FrontSuperStructure_001.jpg
+
+					2.4 MB
+					
+					· Views: 567
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #5331233)
+Author    : Ktaylor
+Date      : Jun 23, 2022 at 9:30 PM
+Reactions : Like, Love, Wow — mb1k, animator, gedmac66
+────────────────────────────────────────────────────────────────────────
+
+More progress... This pretty much gets this build up to date, Ive done some greebles on the sides of the super structures but have a few kits on the way and will be redoing areas to be more accurate soon.
+
+ 
+
+Attachments
+
+[IMAGE: 1233453-4e613a221a1bbc50540b5d00851ddb09.jpg]
+
+IMG_1862.jpg
+
+					1.7 MB
+					
+					· Views: 488
+					
+				
+
+[IMAGE: 1233454-e3be8b47157cff7e76a14004025cd07b.jpg]
+
+IMG_1863.jpg
+
+					2.2 MB
+					
+					· Views: 450
+					
+				
+
+[IMAGE: 1233455-a48e55ae3eda97e644ccd58a3f238733.jpg]
+
+IMG_1864.jpg
+
+					2.4 MB
+					
+					· Views: 406
+					
+				
+
+[IMAGE: 1233456-a8200726c80ec7f997febcf913b360ab.jpg]
+
+IMG_1865.jpg
+
+					2.4 MB
+					
+					· Views: 384
+					
+				
+
+[IMAGE: 1233457-f800072d6590ac50750999ac6b75a6cc.jpg]
+
+IMG_1868.jpg
+
+					2.5 MB
+					
+					· Views: 418
+					
+				
+
+[IMAGE: 1233458-a2fa77987689bead2ce0f9a426d0584d.jpg]
+
+IMG_1869.jpg
+
+					1.8 MB
+					
+					· Views: 534
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #5331252)
+Author    : publiusr
+Date      : Jun 23, 2022 at 11:54 PM
+Reactions : Like — Ktaylor
+────────────────────────────────────────────────────────────────────────
+
+Something I was thinking about. If you ever do a Super Star Destroyer...use sheet plastic for the arrowhead-but an early 3D printer for the cortex. At that scale-each layer is a deck tall, right? The artifact is now a feature-not a bug.
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #5331497)
+Author    : Flintlock
+Date      : Jun 24, 2022 at 12:36 PM
+────────────────────────────────────────────────────────────────────────
+
+Good job nailing that symmetry/shape (first post).
+
+Looks awesome!
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #5331653)
+Author    : Ktaylor
+Date      : Jun 24, 2022 at 7:38 PM
+Reactions : Like — joberg, Flintlock
+────────────────────────────────────────────────────────────────────────
+
+Flintlock said:
+
+			Good job nailing that symmetry/shape (first post).
+
+Looks awesome!
+		
+
+Click to expand...
+
+Thanks, it was a real head scratcher though to figure out how the engines orient, which meant knowing how the ribs need to orient since the engines stick straight off that back rib. I should call that out actually. How the ribs are done and line up with the center pipe matters a lot.
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #5331680)
+Author    : scotthothpatrol
+Date      : Jun 24, 2022 at 8:58 PM
+────────────────────────────────────────────────────────────────────────
+
+It is nice to see all those leftover kits put to good use.
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #5331772)
+Author    : Ktaylor
+Date      : Jun 25, 2022 at 6:40 AM
+────────────────────────────────────────────────────────────────────────
+
+scotthothpatrol said:
+
+			It is nice to see all those leftover kits put to good use.
+		
+
+Click to expand...
+
+That was about 80% of the Motivation on this build haha
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #5331773)
+Author    : Ktaylor
+Date      : Jun 25, 2022 at 6:42 AM
+Reactions : Like — Aegis159, mb1k, gedmac66
+────────────────────────────────────────────────────────────────────────
+
+Got these guys (cabinet door knobs, ha who would have known!?) finally molded and cast up. I bought the 35mm ones first but those are too large, these are the 30mm which if I remember correctly are actually 33mm when you measure them. I’ll pull out the calipers later and confirm.
+
+[IMAGE: https://www.therpf.com/forums/attachments/9d0a54c5-180f-47a3-8beb-7289d9d2c04a-jpeg.1591437/]
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #5331779)
+Author    : Ktaylor
+Date      : Jun 25, 2022 at 6:48 AM
+Reactions : Like, Love — Aegis159, mb1k, gedmac66
+────────────────────────────────────────────────────────────────────────
+
+More greeble work. Not shooting for 100%accuracy on those side walls but tried to get everything correct on the tower/bridge. I have some more kits coming soon and will redo that port side rear side wall area to be more accurate. The Starboard walls are about half right and half made up.
+
+ 
+
+Attachments
+
+[IMAGE: 1233959-dc1ced3911d18e6af74e1498acceed20.jpg]
+
+091C4668-3F74-4C47-ACAE-6C3961934AE2.jpeg
+
+					3 MB
+					
+					· Views: 560
+					
+				
+
+[IMAGE: 1233960-b8df656b900a6944c3046d60fa037f3a.jpg]
+
+C4244C09-BEC8-40C0-B2A1-8780AC45232E.jpeg
+
+					2 MB
+					
+					· Views: 576
+					
+				
+
+[IMAGE: 1233962-63fe6b80960d248043daef59a529f546.jpg]
+
+53333351-DDAC-45B0-9427-6B6B1A4924B3.jpeg
+
+					2.8 MB
+					
+					· Views: 473
+					
+				
+
+[IMAGE: 1233963-05a3512bdae0ef4b0c8c93c14c040fe2.jpg]
+
+F4D8F50A-42B7-458B-A114-543EBCD312BD.jpeg
+
+					2.2 MB
+					
+					· Views: 562
+					
+				
+
+[IMAGE: 1233961-b0829e88eb540544d74761199664f7e3.jpg]
+
+2CBC069A-D5E6-40B3-9567-90B2CAC34FF6.jpeg
+
+					2.8 MB
+					
+					· Views: 501
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #5333425)
+Author    : Ktaylor
+Date      : Jun 29, 2022 at 10:31 AM
+Reactions : Like — David3
+────────────────────────────────────────────────────────────────────────
+
+: O    What an amazing build! I'm now reexamining a LOT OF AREAS hehehehehe
+
+[IMAGE: logo-og.png]
+
+						Star Destroyer Devastator - ANH Style Replica
+					
+
+Thought it was time to introduce the latest project.  Been tinkering on it a while, but at a point where I've had a few folks asking about it.    My intent was to make this as close as possible to recreating the original filming model as it looked back in '77 rather than how it looks today...
+
+[IMAGE: favicon.png]
+
+					www.therpf.com
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #5335403)
+Author    : ganesha7
+Date      : Jul 5, 2022 at 10:23 AM
+────────────────────────────────────────────────────────────────────────
+
+Ktaylor said:
+
+			Got these guys (cabinet door knobs, ha who would have known!?) finally molded and cast up. I bought the 35mm ones first but those are too large, these are the 30mm which if I remember correctly are actually 33mm when you measure them. I’ll pull out the calipers later and confirm.
+
+View attachment 1591437
+
+Click to expand...
+
+I'm having trouble finding the knobs with the exact shape. Where did you buy these?
+
+Also, if you don't mind my asking, where do the greeblies that detail the perimeter come from?
+
+Fantastic build, by the way!
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #5335423)
+Author    : Flintlock
+Date      : Jul 5, 2022 at 11:23 AM
+Reactions : Like — Ktaylor
+────────────────────────────────────────────────────────────────────────
+
+ganesha7 said:
+
+			I'm having trouble finding the knobs with the exact shape. Where did you buy these?
+
+Also, if you don't mind my asking, where do the greeblies that detail the perimeter come from?
+
+Fantastic build, by the way!
+		
+
+Click to expand...
+
+Hickory Hardware
+
+			https://www.amazon.com/dp/B00791GHTG
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #5335424)
+Author    : Flintlock
+Date      : Jul 5, 2022 at 11:25 AM
+Reactions : Like — JimmyB, gedmac66
+────────────────────────────────────────────────────────────────────────
+
+[IMAGE: https://www.therpf.com/forums/attachments/1657045475078-png.1595087/]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #5335458)
+Author    : Ktaylor
+Date      : Jul 5, 2022 at 1:24 PM
+Reactions : Like — JimmyB, gedmac66, joberg
+────────────────────────────────────────────────────────────────────────
+
+ganesha7 said:
+
+			I'm having trouble finding the knobs with the exact shape. Where did you buy these?
+
+Also, if you don't mind my asking, where do the greeblies that detail the perimeter come from?
+
+Fantastic build, by the way!
+		
+
+Click to expand...
+
+yeah for sure! I have molds of these as well and can cast you some if you can't track them down I got them off amazon. The details around the sides are just little styrene chips I cut into diamond shapes and glued on. 
+
+Here is what they look like placed on top, just sat them up there they may not be in the exact location but you can get a sense of the size of them
+
+			https://www.amazon.com/dp/B00791GHTG?ref=ppx_pop_mob_ap_share
+		
+
+ 
+
+Attachments
+
+[IMAGE: 1237644-5dabf916925b928cddc66549717a63a6.jpg]
+
+IMG_3132.jpg
+
+					1.2 MB
+					
+					· Views: 373
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #5335459)
+Author    : Ktaylor
+Date      : Jul 5, 2022 at 1:26 PM
+Reactions : Like — Flintlock
+────────────────────────────────────────────────────────────────────────
+
+Ah yeah, same ones Flintlock posted.
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #5335460)
+Author    : Flintlock
+Date      : Jul 5, 2022 at 1:31 PM
+────────────────────────────────────────────────────────────────────────
+
+I had a lot of these kits before I sold everything. Wish I still had them, or at least could remember them.
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #5335466)
+Author    : ganesha7
+Date      : Jul 5, 2022 at 1:41 PM
+Reactions : Haha — Bjorn
+────────────────────────────────────────────────────────────────────────
+
+Flintlock said:
+
+			Hickory Hardware
+
+			https://www.amazon.com/dp/B00791GHTG
+		
+
+Click to expand...
+
+Thank you so much to both of you!
+
+Sadly, my problem is I only have been able to find those on Amazon.us...and I'm in Europe.
+
+The shipping costs double due to customs.
+
+Oh, well, nobody got into this hobby with the idea of keeping the money in the wallet.
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #5335495)
+Author    : Ktaylor
+Date      : Jul 5, 2022 at 2:00 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+For real, it's alarming how much this stuff costs hahah 
+
+Happy to send you some castings, DM me your addy  if you want.
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #5335505)
+Author    : Ktaylor
+Date      : Jul 5, 2022 at 2:11 PM
+Reactions : Like — mb1k, joberg, Flintlock
+────────────────────────────────────────────────────────────────────────
+
+Flintlock said:
+
+			I had a lot of these kits before I sold everything. Wish I still had them, or at least could remember them.
+		
+
+Click to expand...
+
+Yeah after the Falcon I decided to keep all of them, glad I did. I only had to buy like 20 kits to get pretty close to the studio model this time! hahah honestly I'm probably only missing about 5 or so at this point, I might bite the bullet and get them, This started off as a build to just eat a bunch of the kit parts I already had and get the forms accurate but just use what ever greebles I had. But like I said, i've bought like 20 kits just for this model now hahah With a couple still on the way. Finally found those structure pieces in the Airfix Missile Launcher kit and had to have them, I'd already scratched that area but I'll pull it off and add these when I get them.
+
+I'll probably be a little loose hear and there with greebles on the walls and engine area but figured since I already have all these kits I probably have them, so have been hunting them down one by one heh.
+
+ 
+
+Attachments
+
+[IMAGE: 1237672-4d05fd44dae3a3a4171e26970f1b7e2c.jpg]
+
+Capture.PNG
+
+					110.2 KB
+					
+					· Views: 273
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #5335635)
+Author    : bwayne64
+Date      : Jul 5, 2022 at 9:39 PM
+Reactions : Like — Flintlock, Ktaylor
+────────────────────────────────────────────────────────────────────────
+
+This is looking sweet ! Keep up the good work, it looks great !
+
+Joe
+────────────────────────────────────────────────────────────────────────
+Post #28  (forum post #5336292)
+Author    : Ktaylor
+Date      : Jul 7, 2022 at 5:31 PM
+Reactions : Like, Love, Wow — JimmyB, Aegis159, Pepperbone
+────────────────────────────────────────────────────────────────────────
+
+A bit more work on the structures, need to do the starboard side walls next.
+
+ 
+
+Attachments
+
+[IMAGE: 1238185-a7f47506dc8436a425fc134f8f0454a1.jpg]
+
+195D07FE-F9B6-4BBC-9142-2CE59FC80EB7.jpeg
+
+					2.4 MB
+					
+					· Views: 460
+					
+				
+
+[IMAGE: 1238186-57c1ca296b35404e82d6cf883337265d.jpg]
+
+278A5C55-EE82-4E7F-9A8B-029DAEFA443F.jpeg
+
+					1.8 MB
+					
+					· Views: 399
+					
+				
+
+[IMAGE: 1238187-190e608120741802a573a469ca6416a5.jpg]
+
+545AD417-5C8F-42DB-9003-CCBCAD952C46.jpeg
+
+					3 MB
+					
+					· Views: 382
+					
+				
+
+[IMAGE: 1238188-0711627c390d5f9779ec655f755a55f0.jpg]
+
+2A834350-4564-4C2D-8F95-6EAA5EE9297B.jpeg
+
+					3 MB
+					
+					· Views: 417
+					
+				
+
+[IMAGE: 1238205-396d310072ee6e806c68bdec6e49fb4a.jpg]
+
+2A123C2D-ACF4-4140-A0ED-AFAA2447A433.jpeg
+
+					2.4 MB
+					
+					· Views: 400
+					
+				
+
+[IMAGE: 1238206-9cc02935849e9148b15a25a80a1b1ee8.jpg]
+
+E8A3F4DC-C83B-41A1-96E7-CEA8A95D2617.jpeg
+
+					2 MB
+					
+					· Views: 379
+					
+				
+
+[IMAGE: 1238207-779126e91855e06b67eb48b114164a9f.jpg]
+
+EE9A4FAD-1C67-4111-AE7E-E6DB3480BE4B.jpeg
+
+					2.9 MB
+					
+					· Views: 415
+────────────────────────────────────────────────────────────────────────
+Post #29  (forum post #5336304)
+Author    : Ktaylor
+Date      : Jul 7, 2022 at 6:03 PM
+Reactions : Like — JimmyB, Aegis159, mb1k
+────────────────────────────────────────────────────────────────────────
+
+I found a pretty close match to Archive X’s reefer white. I’ve been concerned about being able to get enough if it to paint this model. Looks like Tamiya’s AS-20 insignia white with a Matt clear coat (which surprisingly made the color a bit brighter) is a REALLY close match. I’m considering going this route due to the ease and availability of it. 
+
+The side tranches are painted Reefer WhiteX and the piece of plexi is painted with Insignia. One half had a clear coat applied and the other is as it comes out of the can with a bit of sheen to it which I don’t want.
+
+ 
+
+Attachments
+
+[IMAGE: 1238200-6ac6f60306d744a29854f3e69206efba.jpg]
+
+1834A535-9B11-4501-8D18-4788AF6B17F8.jpeg
+
+					1.6 MB
+					
+					· Views: 346
+					
+				
+
+[IMAGE: 1238201-efdd5ed1874c0cfea3c937cc2a894627.jpg]
+
+54C9740B-C829-4631-A11A-0712CF88DFF5.jpeg
+
+					3.2 MB
+					
+					· Views: 331
+					
+				
+
+[IMAGE: 1238202-d940b975497c4a6aa216c43c9687c3b7.jpg]
+
+A6C0AF4E-B906-400D-9299-49C5908627AF.jpeg
+
+					3.5 MB
+					
+					· Views: 317
+					
+				
+
+[IMAGE: 1238203-b3a912f37236f95972a046fc7bc73b70.jpg]
+
+6B2E13A4-FA78-4C65-A961-1EC28933063D.jpeg
+
+					2.8 MB
+					
+					· Views: 327
+					
+				
+
+[IMAGE: 1238204-5a7cd973ef0e8357d7794167d3287abb.jpg]
+
+DB863ED3-4D02-45A9-9519-7575BC53EDC7.jpeg
+
+					3.7 MB
+					
+					· Views: 358
+────────────────────────────────────────────────────────────────────────
+Post #30  (forum post #5336328)
+Author    : 3DImpact
+Date      : Jul 7, 2022 at 7:11 PM
+Reactions : Like — Bjorn, Ktaylor
+────────────────────────────────────────────────────────────────────────
+
+Looking awesome! The overall structure and greeblie details are wonderful.
+
+Don't forget to paint it black before you paint it white...
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #31  (forum post #5336528)
+Author    : Ktaylor
+Date      : Jul 8, 2022 at 11:16 AM
+Reactions : Like — mb1k
+────────────────────────────────────────────────────────────────────────
+
+Can someone help me with this part ID, i've looked everyhwere and cant find it, I'm starting to feel its in some random kit that only gives this ONE part to the model. Much appreciation if you can. I REALLY need the satisfaction of sticking that Panther part in there!!
+
+ 
+
+Attachments
+
+[IMAGE: 1238436-8b85a2279942dd0a6b32da1ef2d6cde1.jpg]
+
+Capture.PNG
+
+					2.6 MB
+					
+					· Views: 323
+────────────────────────────────────────────────────────────────────────
+Post #32  (forum post #5336530)
+Author    : Tsophika
+Date      : Jul 8, 2022 at 11:23 AM
+Reactions : Like — mb1k, joberg, Ktaylor
+────────────────────────────────────────────────────────────────────────
+
+Nichimo Elefant.
+
+Craig
+────────────────────────────────────────────────────────────────────────
+Post #33  (forum post #5336646)
+Author    : JediMichael
+Date      : Jul 8, 2022 at 5:03 PM
+Reactions : Like, Love — Aegis159, gedmac66, joberg
+────────────────────────────────────────────────────────────────────────
+
+[IMAGE: https://www.therpf.com/forums/attachments/278a5c55-ee82-4e7f-9a8b-029daefa443f-jpeg.1596000/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/si5btjm-jpeg.1595999/]
+
+Nice work.  These 2 pictures totally have that same feel to them.  Love it.
+────────────────────────────────────────────────────────────────────────
+Post #34  (forum post #5336804)
+Author    : Ktaylor
+Date      : Jul 9, 2022 at 8:04 AM
+Reactions : Like, Wow — bwayne64, joberg
+────────────────────────────────────────────────────────────────────────
+
+Tsophika said:
+
+			Nichimo Elefant.
+
+Craig
+		
+
+Click to expand...
+
+Thanks!! Yeah this is a kit I don’t have, don’t even have any of this brand. I guess ONE more kit wont kill me…
+
+…checks EBay…
+
+Oh hey, only 300$!! I feel a 3D print coming on haha I mean it’s such a simple shape and I need to get some prints for those Battle of midway parts anyways since I can’t find that kit anywhere. Should be easy enough.
+────────────────────────────────────────────────────────────────────────
+Post #35  (forum post #5336966)
+Author    : Ktaylor
+Date      : Jul 9, 2022 at 3:07 PM
+Reactions : Like, Sad — ganesha7, gedmac66, mb1k
+────────────────────────────────────────────────────────────────────────
+
+Looks like I need to chop this lower deck down about 1/4” on each side. Trying to figure out how this got off since the back all lays out correct. Making me thing this might taper towards the front and not actually be the same width across the front as it is the back…the kit parts don’t lie
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+ 
+
+Attachments
+
+[IMAGE: 1238912-3f2acb3f55a546e917d2c27c51ae6a78.jpg]
+
+1B6179B8-335A-418B-BCDE-7CE783AD286D.jpeg
+
+					1.2 MB
+					
+					· Views: 280
+────────────────────────────────────────────────────────────────────────
+Post #36  (forum post #5337130)
+Author    : gedmac66
+Date      : Jul 10, 2022 at 2:07 AM
+Reactions : Like — mb1k
+────────────────────────────────────────────────────────────────────────
+
+Apologies for asking this in a different build thread mate, but I’m just wondering what happened with your total rebuild of the Deago MF ? Did you end up installing those incredibly insane lights for it’s engine ? Where can I find pics of that beautiful build ? This new build is a great resource too, thanks for sharing.
+
+Ged
+────────────────────────────────────────────────────────────────────────
+Post #37  (forum post #5337152)
+Author    : Flintlock
+Date      : Jul 10, 2022 at 4:43 AM
+Reactions : Like — Ktaylor
+────────────────────────────────────────────────────────────────────────
+
+Ktaylor said:
+
+			Thanks!! Yeah this is a kit I don’t have, don’t even have any of this brand. I guess ONE more kit wont kill me…
+
+…checks EBay…
+
+Oh hey, only 300$!! I feel a 3D print coming on haha I mean it’s such a simple shape and I need to get some prints for those Battle of midway parts anyways since I can’t find that kit anywhere. Should be easy enough.
+		
+
+Click to expand...
+
+Keep checking. I've scored some deals on there recently. Got an Aurora M8 for a good price - a kit that I never had (could never find) before when I was collecting. (Really only need a Bandai Stug and a Sealab III for a complete X-Wing now, but not worried too much about the Sealab III). Tamiya 1:12 F1 prices are all over the place on eBay: $120-$230 for the same kits, so a Nichimo Elephant might show up for a reasonable price.
+────────────────────────────────────────────────────────────────────────
+Post #38  (forum post #5337158)
+Author    : ganesha7
+Date      : Jul 10, 2022 at 5:03 AM
+────────────────────────────────────────────────────────────────────────
+
+Ktaylor said:
+
+			Thanks!! Yeah this is a kit I don’t have, don’t even have any of this brand. I guess ONE more kit wont kill me…
+
+…checks EBay…
+
+Oh hey, only 300$!! I feel a 3D print coming on haha I mean it’s such a simple shape and I need to get some prints for those Battle of midway parts anyways since I can’t find that kit anywhere. Should be easy enough.
+		
+
+Click to expand...
+
+Found this:
+
+https://www.ebay.es/itm/284681230250?_trkparms=amclksrc=ITM&aid=111001&algo=REC.SEED&ao=1&asc=20160811114148&meid=5e7d8ed340854975b372c1f552551afa&pid=100667&rk=1&rkt=7&sd=284681230250&itm=284681230250&pmt=0&noa=1&pg=2334524&_trksid=p2334524.c100667.m2042
+
+Not sure how the shipping costs to the States will look like, though...
+────────────────────────────────────────────────────────────────────────
+Post #39  (forum post #5337160)
+Author    : ganesha7
+Date      : Jul 10, 2022 at 5:07 AM
+────────────────────────────────────────────────────────────────────────
+
+Flintlock said:
+
+			Keep checking. I've scored some deals on there recently. Got an Aurora M8 for a good price - a kit that I never had (could never find) before when I was collecting. (Really only need a Bandai Stug and a Sealab III for a complete X-Wing now, but not worried too much about the Sealab III). Tamiya 1:12 F1 prices are all over the place on eBay: $120-$230 for the same kits, so a Nichimo Elephant might show up for a reasonable price.
+		
+
+Click to expand...
+
+Unless you're a real-plastic-parts purist, I can send you resin castings of everything xWing related from both th Stug and the Sealab.
+────────────────────────────────────────────────────────────────────────
+Post #40  (forum post #5337162)
+Author    : Flintlock
+Date      : Jul 10, 2022 at 5:20 AM
+────────────────────────────────────────────────────────────────────────
+
+ganesha7 said:
+
+			Unless you're a real-plastic-parts purist, I can send you resin castings of everything xWing related from both th Stug and the Sealab.
+		
+
+Click to expand...
+
+Nope, not a purist. I'll take them. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #41  (forum post #5337451)
+Author    : Ktaylor
+Date      : Jul 10, 2022 at 9:54 PM
+Reactions : Like — gedmac66, joberg
+────────────────────────────────────────────────────────────────────────
+
+gedmac66 said:
+
+			Apologies for asking this in a different build thread mate, but I’m just wondering what happened with your total rebuild of the Deago MF ? Did you end up installing those incredibly insane lights for it’s engine ? Where can I find pics of that beautiful build ? This new build is a great resource too, thanks for sharing.
+
+Ged
+		
+
+Click to expand...
+
+Only pics I have up for it are in the old build thread. Yeah I have all the lights still but I need to install them. I got all the archive X paints a while back to paint it, gonna try to get to that end of this year
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: logo-og.png]
+
+						My first build (deago ESB SS Falcon!)
+					
+
+Finally!!
+
+[IMAGE: favicon.png]
+
+					www.therpf.com
+────────────────────────────────────────────────────────────────────────
+Post #42  (forum post #5340912)
+Author    : Ktaylor
+Date      : Jul 21, 2022 at 1:19 PM
+Reactions : Like — JimmyB, Aegis159, Treadwell
+────────────────────────────────────────────────────────────────────────
+
+Something else that is important to understand about the geometry of this ship is that they built it to have a bit of forced perspective in the model, so that when they shot it coming towards the camera it looks really huge! So if you look at the middle trench from a side view of the ship its actually smaller at the back and larger at the front. My first thought was that the trench wall was just make taller in the front than the back, but its not, its a consistent 1" all the way down the side of the ship, the illusion comes from making the trench walls deeper in the back than the front, which allows the top and bottom hull sheets to hang over the edge further and create the tapering effect.
+
+Here is an exaggerated sketch to show what I mean. The inner triangle is the side walls and the red is the top/bottom hull sheets.
+
+You can see the effect in the final model in these pics, the side shot makes it pretty clear, but even in the 3/4 front shot you can see the effect as the image was clearly taken with a longer lens (loosk to be somewhere around 75-100mmish which minimizes the amount of perspective you would normally see in a shorter 10-40mm lens. But you can clearly see how pronounced the perspective of the side trench is even with the rest of the ship relatively flattened out. by the long lens used to take this photo.
+
+You can kind of see it in the bulid pic from ILM if you know what you are looking for, it's not a huge amount either, i'll measure mine later and post back here the actual difference.
+
+ 
+
+Attachments
+
+[IMAGE: 1242743-681565518451174e33cabd72ee3e1868.jpg]
+
+IMG_4062.JPG
+
+					68.6 KB
+					
+					· Views: 408
+					
+				
+
+[IMAGE: 1242745-358b21f8917a7433a10af8e411862e5d.jpg]
+
+SideTrench.jpg
+
+					143 KB
+					
+					· Views: 391
+					
+				
+
+[IMAGE: 1242746-55a2a3251b23a4953787399242ea27b5.jpg]
+
+SideTrench001.jpg
+
+					129.2 KB
+					
+					· Views: 398
+					
+				
+
+[IMAGE: 1242747-269d4873445d367ed291a98a1fccb7f9.jpg]
+
+SideTrench002.jpg
+
+					247.8 KB
+					
+					· Views: 412
+────────────────────────────────────────────────────────────────────────
+Post #43  (forum post #5341044)
+Author    : Ktaylor
+Date      : Jul 21, 2022 at 7:25 PM
+Reactions : Like — mb1k, Ogibendogy, joberg
+────────────────────────────────────────────────────────────────────────
+
+Earlier in this thread I posted some tests comparing Tamiya Insignia white (AS-20) to ArchiveX reefer white, they seemed pretty close…until I actually shot them side by side- ewww, very different colors…
+
+Left IW, Right RW
+
+Top is over white and bottom is over black…
+
+Guess I’m back to trying to source 20 gallons of reefer white haha
+
+ 
+
+Attachments
+
+[IMAGE: 1242822-1d81c0a22e90222e7888dc01f2891ddd.jpg]
+
+C2851D90-48EF-4862-AD7E-8DD8868E723A.jpeg
+
+					1.1 MB
+					
+					· Views: 279
+────────────────────────────────────────────────────────────────────────
+Post #44  (forum post #5341094)
+Author    : ganesha7
+Date      : Jul 22, 2022 at 12:40 AM
+Reactions : Like — Ktaylor
+────────────────────────────────────────────────────────────────────────
+
+Ktaylor said:
+
+			Earlier in this thread I posted some tests comparing Tamiya Insignia white (AS-20) to ArchiveX reefer white, they seemed pretty close…until I actually shot them side by side- ewww, very different colors…
+
+Left IW, Right RW
+
+Top is over white and bottom is over black…
+
+Guess I’m back to trying to source 20 gallons of reefer white haha
+		
+
+Click to expand...
+
+That's sooo useful information. 
+
+Thanks for the comparison pic!
+────────────────────────────────────────────────────────────────────────
+Post #45  (forum post #5341125)
+Author    : Bjorn
+Date      : Jul 22, 2022 at 4:47 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+This may be helpful based on t2sides SS 5' Falcon. 
+
+[IMAGE: logo-og.png]
+
+						5 Foot Falcon Replica - ANH
+					
+
+Absolutely amazing!!!!!!!!!!!
+
+[IMAGE: favicon.png]
+
+					www.therpf.com
+				
+
+Though I'm not really sure how different the Star Destroyer is to the base coat of the Falcon.
+
+Obviously the subsequent weathering and washes dirty down the falcon to shades of grey.
+────────────────────────────────────────────────────────────────────────
+Post #46  (forum post #5341368)
+Author    : Flintlock
+Date      : Jul 22, 2022 at 2:51 PM
+────────────────────────────────────────────────────────────────────────
+
+Ktaylor said:
+
+			Something else that is important to understand about the geometry of this ship is that they built it to have a bit of forced perspective in the model, so that when they shot it coming towards the camera it looks really huge! So if you look at the middle trench from a side view of the ship its actually smaller at the back and larger at the front. My first thought was that the trench wall was just make taller in the front than the back, but its not, its a consistent 1" all the way down the side of the ship, the illusion comes from making the trench walls deeper in the back than the front, which allows the top and bottom hull sheets to hang over the edge further and create the tapering effect.
+
+Here is an exaggerated sketch to show what I mean. The inner triangle is the side walls and the red is the top/bottom hull sheets.
+
+You can see the effect in the final model in these pics, the side shot makes it pretty clear, but even in the 3/4 front shot you can see the effect as the image was clearly taken with a longer lens (loosk to be somewhere around 75-100mmish which minimizes the amount of perspective you would normally see in a shorter 10-40mm lens. But you can clearly see how pronounced the perspective of the side trench is even with the rest of the ship relatively flattened out. by the long lens used to take this photo.
+
+You can kind of see it in the bulid pic from ILM if you know what you are looking for, it's not a huge amount either, i'll measure mine later and post back here the actual difference.
+		
+
+Click to expand...
+
+Absolutely!
+────────────────────────────────────────────────────────────────────────
+Post #47  (forum post #5342810)
+Author    : Ktaylor
+Date      : Jul 26, 2022 at 3:27 PM
+Reactions : Like — mb1k, joberg, gedmac66
+────────────────────────────────────────────────────────────────────────
+
+Think I have the color sorted out. Was able to get a local paint chain to color match a swatch of reefer white in an acrylic matte finish. It’s super close, I’m pretty pleased with the result, thinned down it shoots pretty nice through the brush, gonna paint a few more test pieces with it to be sure but so far it’s promising! The marched color is on the top resin parts cast I’m holding.
+
+AX reefer white on the bottom side trench wall.
+
+A did one with doors down and one with doors up to let some sun in and get some different lighting scenarios.
+
+ 
+
+Attachments
+
+[IMAGE: 1244295-f51b84b92d2b53b815e791dd3954207f.jpg]
+
+C862785F-E3A0-4D5D-BFF2-9F5683FEFF6F.jpeg
+
+					3.5 MB
+					
+					· Views: 429
+					
+				
+
+[IMAGE: 1244296-b71c52483b3dbb44ccc10e71a7cbe033.jpg]
+
+2C9378FD-2852-404E-A4C9-36E59E50A40A.jpeg
+
+					1.2 MB
+					
+					· Views: 430
+────────────────────────────────────────────────────────────────────────
+Post #48  (forum post #5342872)
+Author    : swgeek
+Date      : Jul 26, 2022 at 7:46 PM
+────────────────────────────────────────────────────────────────────────
+
+Yeah I'd say that's a good match.
+────────────────────────────────────────────────────────────────────────
+Post #49  (forum post #5344481)
+Author    : srspicer
+Date      : Jul 31, 2022 at 10:20 PM
+────────────────────────────────────────────────────────────────────────
+
+Looking great!!
+────────────────────────────────────────────────────────────────────────
+Post #50  (forum post #5344823)
+Author    : Ktaylor
+Date      : Aug 1, 2022 at 10:46 PM
+Reactions : Like, Love, Wow — joberg, Aegis159, robn1
+────────────────────────────────────────────────────────────────────────
+
+So I built out this Legg’s shell with the plan to mold and cast the engine bells in resin. BUT- I got a hold of this 3D resin printer and just modeled and printed them out! I mean- pffft resin is resin right?!! Plus I was able to design a pedestal that is the same diameter as my acrylic engine tubes so they fit in nice and sung- and straight!
+
+ 
+
+Attachments
+
+[IMAGE: 1246268-29b61d71c6f5f79edf91e1b96a7935e8.jpg]
+
+5BF0F246-2B53-4914-BF29-8D7571524771.jpeg
+
+					3.4 MB
+					
+					· Views: 339
+					
+				
+
+[IMAGE: 1246269-ea7e4558fae6f3a51dd80c807176703c.jpg]
+
+7ED8B9B9-F751-4D5D-9373-F66CCB00B26B.jpeg
+
+					3.4 MB
+					
+					· Views: 333
+					
+				
+
+[IMAGE: 1246270-beb9766f3ebc15ea278296b0eba7a74b.jpg]
+
+AACB9704-2EC1-4768-82B6-8BA08C07BD3A.jpeg
+
+					3.5 MB
+					
+					· Views: 297
+					
+				
+
+[IMAGE: 1246271-51022d336630c69d08f8a24ea93d60d2.jpg]
+
+6562A07E-B238-4DFF-A6C4-DF91C6469C90.jpeg
+
+					1.7 MB
+					
+					· Views: 308
+					
+				
+
+[IMAGE: 1246272-5cbd9c33197f04839217004891b13192.jpg]
+
+6F5F3002-3820-4F91-ACB8-FC4369D5CA1F.jpeg
+
+					1.9 MB
+					
+					· Views: 293
+					
+				
+
+[IMAGE: 1246273-9982ba299598768b05621b57eefd6b57.jpg]
+
+EE48E0A4-DB3D-4388-AAA3-BCED47BEA491.jpeg
+
+					1.7 MB
+					
+					· Views: 289
+					
+				
+
+[IMAGE: 1246274-5599af6d3f9c7636dd2b16b94d8b7dc9.jpg]
+
+B4F2A9BA-7F82-4647-AD7C-796A07207951.jpeg
+
+					1.3 MB
+					
+					· Views: 314
+					
+				
+
+[IMAGE: 1246275-8a5a7c03bd5f2fc3da52adf4e99bf3af.jpg]
+
+BF17C87A-E03A-4214-BBC1-B7217B958398.jpeg
+
+					3.4 MB
+					
+					· Views: 285
+					
+				
+
+[IMAGE: 1246276-d6f86bd6e5f1f6cd86d0a36067145ddd.jpg]
+
+FE640202-AE5D-4CF5-A51E-A6E2644B728C.jpeg
+
+					1.9 MB
+					
+					· Views: 345
+────────────────────────────────────────────────────────────────────────
+Post #51  (forum post #5345364)
+Author    : ganesha7
+Date      : Aug 3, 2022 at 10:36 AM
+────────────────────────────────────────────────────────────────────────
+
+Ktaylor said:
+
+			So I built out this Legg’s shell with the plan to mold and cast the engine bells in resin. BUT- I got a hold of this 3D resin printer and just modeled and printed them out! I mean- pffft resin is resin right?!! Plus I was able to design a pedestal that is the same diameter as my acrylic engine tubes so they fit in nice and sung- and straight!
+		
+
+Click to expand...
+
+Resin is Resin, indeed. 
+
+Plus, with 3D printing you avoid potential shrinkage issues.
+
+Looking great!
+────────────────────────────────────────────────────────────────────────
+Post #52  (forum post #5345572)
+Author    : Ktaylor
+Date      : Aug 3, 2022 at 11:44 PM
+Reactions : Like, Wow, Love — joberg, Aegis159, gedmac66
+────────────────────────────────────────────────────────────────────────
+
+I decided to re print these with the rings attached to the end, didn’t want to fuss with trying to build those out as they are really thin and get the to line up perfectly with inner surface of those T strips. The base cylinders are built out of acyclovir tubing with styrene strips glued around them to create the relief plating. I was able to print a disk on the base of the engine bells that snuggly fit inside the tubes perfect, so it’s keeps them lined up in the tubes really nice and straight. Worked out really well. I’ll glue the outer T strips and other little panels and end detail flaps on later.
+
+ 
+
+Attachments
+
+[IMAGE: 1247049-124f44cfd7d8cd76a23bd1decf2d78d0.jpg]
+
+C3EEC59D-EC26-477D-A0CB-8AC1CF09C057.jpeg
+
+					1.7 MB
+					
+					· Views: 264
+					
+				
+
+[IMAGE: 1247050-9bdabda2302db411425a9252b7b4639d.jpg]
+
+C0C949FB-62A4-4882-97AC-98C67D195315.jpeg
+
+					2.7 MB
+					
+					· Views: 252
+					
+				
+
+[IMAGE: 1247051-5aa3f1fe9c8118f9aa727a235f4b30ad.jpg]
+
+39853933-818C-486E-8F25-3BE4A215F986.jpeg
+
+					2.2 MB
+					
+					· Views: 257
+					
+				
+
+[IMAGE: 1247052-376b22fe5ea440cd62a062aa9a1bda3a.jpg]
+
+8F1FC819-F232-45FB-B106-552C10D321F4.jpeg
+
+					2.4 MB
+					
+					· Views: 253
+────────────────────────────────────────────────────────────────────────
+Post #53  (forum post #5345800)
+Author    : Ktaylor
+Date      : Aug 4, 2022 at 5:41 PM
+Reactions : Like, Love — robn1, joberg, edge10
+────────────────────────────────────────────────────────────────────────
+
+I scratch built in the exterior T strips and little chips that connect them at the top to keep the outer surfaces more built looking and not so perfectly computer printed which to me is the magic of these old studio models. I’m being very conscious about that as I now decide what to print vs build. I’m thinking you need to blend the 2 together like this to get the benefits of both. At least that is where my brain is at as of today! The journey continues 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+
+I’d be curious to hear others thoughts on this - bad or good! I think that dialogue and thought melding is important!
+
+ 
+
+Attachments
+
+[IMAGE: 1247244-198e9bd641a32e4b399d59e62ade60a0.jpg]
+
+B48906C4-58A5-48AA-B640-0E1EB6B6A235.jpeg
+
+					1.6 MB
+					
+					· Views: 251
+					
+				
+
+[IMAGE: 1247245-282438c8aa84a756e5b0d832d38bf9e4.jpg]
+
+B5333F67-787C-4454-B42C-2A2505ABE7D2.jpeg
+
+					2.6 MB
+					
+					· Views: 252
+────────────────────────────────────────────────────────────────────────
+Post #54  (forum post #5345819)
+Author    : 3DImpact
+Date      : Aug 4, 2022 at 6:10 PM
+Reactions : Like — Ktaylor, gedmac66
+────────────────────────────────────────────────────────────────────────
+
+Looking very nice! I like (and use myself) this same 'composite' technique, blending printed parts with donor-greeblie- and styrene-detailed additions to make it pop.
+
+Loving your build and the documentation so far - thanks for sharing!
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #55  (forum post #5345839)
+Author    : Bjorn
+Date      : Aug 4, 2022 at 7:21 PM
+Reactions : Like — Ktaylor, gedmac66
+────────────────────────────────────────────────────────────────────────
+
+Ktaylor, I think that is a great approach to using both new and original techniques to have the benefits of both worlds. 
+
+I think that's possibly where a lot of the 3D kits with fully complete detailed assemblies fail to impress as much as something cobbled together.
+
+Your parts are looking fantastic!
+────────────────────────────────────────────────────────────────────────
+Post #56  (forum post #5345868)
+Author    : bwayne64
+Date      : Aug 4, 2022 at 9:33 PM
+Reactions : Like — gedmac66
+────────────────────────────────────────────────────────────────────────
+
+Ktaylor said:
+
+			I scratch built in the exterior T strips and little chips that connect them at the top to keep the outer surfaces more built looking and not so perfectly computer printed which to me is the magic of these old studio models. I’m being very conscious about that as I now decide what to print vs build. I’m thinking you need to blend the 2 together like this to get the benefits of both. At least that is where my brain is at as of today! The journey continues 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+I’d be curious to hear others thoughts on this - bad or good! I think that dialogue and thought melding is important!
+		
+
+Click to expand...
+
+I'd be curious as to the strength and heat resistance of cast resin and printed. I want to get a resin printer myself. I've only used my Ender 3. And I know from personal experience that pla parts will deform in a hot car. Switching to abs because of that. I don't know how you'd test the strength difference. But if it can support its own weight and take any heat from lights, I say goody. Led lights are bright enough and cool, so no problem there. The only other difference would be cost. Silicone and resin ain't cheap, so printed parts may win that issue too. No vacuum pumps and pressure pots. I'm talking myself into that Elegoo Saturn S , LOL..
+────────────────────────────────────────────────────────────────────────
+Post #57  (forum post #5345893)
+Author    : gedmac66
+Date      : Aug 5, 2022 at 3:13 AM
+Reactions : Like — Ktaylor, 3DImpact, Bjorn
+────────────────────────────────────────────────────────────────────────
+
+You’re going great guns Kris !. My 0.02 worth regarding your last post, if the folks at ILM had the tech that we’re fortunate enough to have today, then they’d have been all over ( and then some ) utilising/modifying and exploiting it for results only they could have imagined. 
+
+What you’re trying to achieve is terrific, and what you’v shared so far is much appreciated.
+────────────────────────────────────────────────────────────────────────
+Post #58  (forum post #5345968)
+Author    : Ktaylor
+Date      : Aug 5, 2022 at 9:03 AM
+Reactions : Like — joberg, gedmac66
+────────────────────────────────────────────────────────────────────────
+
+bwayne64 said:
+
+			I'd be curious as to the strength and heat resistance of cast resin and printed. I want to get a resin printer myself. I've only used my Ender 3. And I know from personal experience that pla parts will deform in a hot car. Switching to abs because of that. I don't know how you'd test the strength difference. But if it can support its own weight and take any heat from lights, I say goody. Led lights are bright enough and cool, so no problem there. The only other difference would be cost. Silicone and resin ain't cheap, so printed parts may win that issue too. No vacuum pumps and pressure pots. I'm talking myself into that Elegoo Saturn S , LOL..
+		
+
+Click to expand...
+
+Yeah I’m not sure, I know smooth on makes a casing resin that can withstand pretty high temps. But yeah I’ll be using LED so I didn’t really look into much more. There is some “tough” resin I’m about to buy and print with, seems like it really helps with thin parts so they don’t break. This stuff I have now is really strong once cured, honesty it snaps and breaks with the same feel as my smooth on casting resin.
+────────────────────────────────────────────────────────────────────────
+Post #59  (forum post #5355766)
+Author    : Ktaylor
+Date      : Sep 7, 2022 at 8:37 PM
+Reactions : Like — StevenBills, robn1, Treadwell
+────────────────────────────────────────────────────────────────────────
+
+Finally got the engine mount design sorted. Tools a few prints to get the fit tolerance dialed in but they slide on snug and tight now, easy to remove them and get into the wiring and bulbs later on.
+
+Have been doing a lot of part print tests as well will list a few pics here of where I’m at. So far so good.
+
+ 
+
+Attachments
+
+[IMAGE: 1257387-379715ffaf45824cd79e579d743d4b6b.jpg]
+
+B738B0A9-EABB-4A24-9B6A-505965AC86D6.jpeg
+
+					3.7 MB
+					
+					· Views: 353
+					
+				
+
+[IMAGE: 1257388-dba9356460b499c8b2c4e771de457281.jpg]
+
+9E057530-1616-4F0C-A4E9-AE811015F1CE.jpeg
+
+					3.7 MB
+					
+					· Views: 332
+					
+				
+
+[IMAGE: 1257389-28194d494d06c734a55d89d31dccb99a.jpg]
+
+543A7E9C-3B4B-4920-B1B3-911343FCA64C.jpeg
+
+					3.7 MB
+					
+					· Views: 297
+					
+				
+
+[IMAGE: 1257390-fa56b3261c9b34a6cb0598d1761b99a9.jpg]
+
+D3B05873-FA6A-4E25-9541-7CEF4A56846C.jpeg
+
+					2 MB
+					
+					· Views: 318
+					
+				
+
+[IMAGE: 1257391-adb0b621771018bbabbdaf923ed2b240.jpg]
+
+0BE566EA-8AD7-4AF6-AD04-A22AA5F162CF.jpeg
+
+					2.2 MB
+					
+					· Views: 293
+					
+				
+
+[IMAGE: 1257392-e38072d868596fa09b3a59ff33e07af2.jpg]
+
+25BA1579-A969-4B9C-85B8-7EE59657807F.jpeg
+
+					2.3 MB
+					
+					· Views: 286
+					
+				
+
+[IMAGE: 1257393-3279a426493efb5cef112fd2c58c1ed5.jpg]
+
+DC9113AC-D308-4473-A1B8-D1CB28F69983.jpeg
+
+					1.6 MB
+					
+					· Views: 360
+────────────────────────────────────────────────────────────────────────
+Post #60  (forum post #5355767)
+Author    : Ktaylor
+Date      : Sep 7, 2022 at 8:45 PM
+Reactions : Like — robn1
+────────────────────────────────────────────────────────────────────────
+
+Some part prints. Took a couple tries of 3D modeling the part/print it, compare it to the kit part..tweak…repeat but they are really dialed in now.
+
+ 
+
+Attachments
+
+[IMAGE: 1257394-e9033d950f04b2bb398006007f5ed0ba.jpg]
+
+2BC8B274-62C9-4152-83D7-DEA6B6C8077B.jpeg
+
+					1.5 MB
+					
+					· Views: 287
+					
+				
+
+[IMAGE: 1257395-a14caa78f3f4f5179d679ddecc3d8c94.jpg]
+
+25F57187-F888-48D4-A4C0-E4655F0DA76B.jpeg
+
+					1.6 MB
+					
+					· Views: 283
+────────────────────────────────────────────────────────────────────────
+Post #61  (forum post #5355768)
+Author    : Ktaylor
+Date      : Sep 7, 2022 at 8:47 PM
+Reactions : Like — joberg, robn1, ganesha7
+────────────────────────────────────────────────────────────────────────
+
+Using the anycubic tough resin which has a little flex to it so it’s not brittle like the regular resin. The great part is that the Tamiya liquid cement glue works with this just like styrene so it’s easy to glue on. Not a fan super glue since it can make thin and small parts really brittle.
+
+ 
+
+Attachments
+
+[IMAGE: 1257396-684a7015fccfa169889bc3842a291eac.jpg]
+
+75E6D8B6-9C38-474A-99B4-0EACDFC97200.jpeg
+
+					2.2 MB
+					
+					· Views: 386
+					
+				
+
+[IMAGE: 1257397-82e46ecf53dea2d30deb55b55fb617ce.jpg]
+
+C7AC8358-F22E-46DB-8AFF-B8DE92414359.jpeg
+
+					1.4 MB
+					
+					· Views: 369
+────────────────────────────────────────────────────────────────────────
+Post #62  (forum post #5355774)
+Author    : srspicer
+Date      : Sep 7, 2022 at 9:30 PM
+────────────────────────────────────────────────────────────────────────
+
+The engines turned out really nice.
+
+What printer are you using? I looked through the thread but did not see. Thanx.
+────────────────────────────────────────────────────────────────────────
+Post #63  (forum post #5356185)
+Author    : Ktaylor
+Date      : Sep 9, 2022 at 5:05 AM
+Reactions : Like — srspicer
+────────────────────────────────────────────────────────────────────────
+
+Anycubic MonoX (4K) first printer I have used so can’t really compare it. Seems easy enough as far as resin printing goes, which is to say it’s not really easy but I’m getting the hang of it, I seem to have found the right settings for the resin I’m using, that’s the main thing that took some dialing in.
+────────────────────────────────────────────────────────────────────────
+Post #64  (forum post #5356290)
+Author    : srspicer
+Date      : Sep 9, 2022 at 10:22 AM
+────────────────────────────────────────────────────────────────────────
+
+Thank you Ktaylor. 
+
+That is one of the printers I am investigating.
+────────────────────────────────────────────────────────────────────────
+Post #65  (forum post #5356406)
+Author    : Ktaylor
+Date      : Sep 9, 2022 at 5:57 PM
+Reactions : Like — gedmac66, srspicer
+────────────────────────────────────────────────────────────────────────
+
+It’s my first as well— so far it’s been okay. The quality is pretty good it seems once you get all the settings dialed in, when I’m back at my pc I’ll post some stuff back here.
+────────────────────────────────────────────────────────────────────────
+Post #66  (forum post #5358378)
+Author    : Ktaylor
+Date      : Sep 16, 2022 at 2:25 PM
+Reactions : Like — joberg, Flintlock, srspicer
+────────────────────────────────────────────────────────────────────────
+
+Here is how these parts are oriented and supported, along with the printer settings Im using if anyone is interested.
+
+-Anycubic 4k Photon Mono X (looks like its under 200$ bucks now, wow crazy for a resin printer with a large build volume like this)
+
+-Anycubic Tough and Flexible Resin (Grey)   these settings are for this resin, looks like they would be different even for different colors of this resin. It took some tries to dial it in.
+
+ 
+
+Attachments
+
+[IMAGE: 1259898-567b4dc61218e40677bcf7f4445fddcf.jpg]
+
+1663362803594.png
+
+					122.5 KB
+					
+					· Views: 293
+					
+				
+
+[IMAGE: 1259899-d8ba068a0e088e35e3e56c6912758603.jpg]
+
+1663362757842.png
+
+					151.3 KB
+					
+					· Views: 289
+					
+				
+
+[IMAGE: 1259900-247b89bc26a1d5b718699ac12ad321ea.jpg]
+
+1663362709236.png
+
+					402.4 KB
+					
+					· Views: 300
+────────────────────────────────────────────────────────────────────────
+Post #67  (forum post #5358549)
+Author    : chazzychaz
+Date      : Sep 17, 2022 at 5:13 AM
+Reactions : Like — gedmac66, modelerdave
+────────────────────────────────────────────────────────────────────────
+
+Ktaylor said:
+
+			Here is how these parts are oriented and supported, along with the printer settings Im using if anyone is interested.
+
+-Anycubic 4k Photon Mono X (looks like its under 200$ bucks now, wow crazy for a resin printer with a large build volume like this)
+
+-Anycubic Tough and Flexible Resin (Grey)   these settings are for this resin, looks like they would be different even for different colors of this resin. It took some tries to dial it in.
+		
+
+Click to expand...
+
+I wish I knew anything about this. I want a printer but the settings and software are scary.
+────────────────────────────────────────────────────────────────────────
+Post #68  (forum post #5394222)
+Author    : Ktaylor
+Date      : Jan 14, 2023 at 2:56 PM
+Reactions : Like, Love — JimmyB, StevenBills, Flintlock
+────────────────────────────────────────────────────────────────────────
+
+Had this on pause until I figured out the lighting, digging this look though and the socket and bulb fit perfectly. Went with incandescent style LED mini bulbs. They have a good diffuser which was the key so that you only get one flair per light instead of a flare for every LED in each bulb which is like 12
+
+ 
+
+Attachments
+
+[IMAGE: 1300802-3b0747ff5b65663130116f3f698ce0ee.jpg]
+
+7956005C-BFED-4079-B661-A9B0A201626F.jpeg
+
+					3 MB
+					
+					· Views: 280
+					
+				
+
+[IMAGE: 1300803-baf919af30e847c4cb5d2cbbd1a712a9.jpg]
+
+737C47B8-D0A9-46C3-ABBF-3A8C21A4D00E.jpeg
+
+					2.6 MB
+					
+					· Views: 280
+────────────────────────────────────────────────────────────────────────
+Post #69  (forum post #5394339)
+Author    : gedmac66
+Date      : Jan 14, 2023 at 10:56 PM
+────────────────────────────────────────────────────────────────────────
+
+Beautiful !
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 69

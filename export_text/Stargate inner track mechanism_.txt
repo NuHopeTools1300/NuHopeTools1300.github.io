@@ -1,0 +1,59 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Stargate inner track mechanism?
+URL    : https://www.therpf.com/forums/threads/stargate-inner-track-mechanism.107631/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #1548970)
+Author    : Prop-Builder
+Date      : Feb 9, 2011 at 5:44 PM
+────────────────────────────────────────────────────────────────────────
+
+Does anybody happen to know how the 'inner track' was mechanised on the studio-scale Stargate prop? What was the system that made it revolve, and how did the prop-makers achieve such a close fit with the outer casing without a single part of the ring scraping the sides and jamming?
+
+Any pics or info on this would be greatly appreciated as I may attempt this on a smaller scale for my 4ft gate build. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #1553077)
+Author    : cheech9898
+Date      : Feb 12, 2011 at 2:12 PM
+────────────────────────────────────────────────────────────────────────
+
+Motor driven at the bottom of the stargate. See pic 1, which is from when they converted the SGC Gateroom set into the Icarus Base set for SG:U.  Motor can be seen and there is no outer piece at the bottom.
+
+ Blueprints show that there was a vertical back plate with tubular rings on the top and bottom and that ran on/between a double set of rollers (one above, one below). Wedges came off the back plate and the the glyph panels were mounted to those wedges..
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #1553193)
+Author    : jedimaster
+Date      : Feb 12, 2011 at 3:59 PM
+────────────────────────────────────────────────────────────────────────
+
+Have you looked at the lazy susan bearing rings? I used them fo my r2 dome. They have an inner and outer ring and are very slim. A motor could be rigged with a skate wheel.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #1553332)
+Author    : cheech9898
+Date      : Feb 12, 2011 at 5:57 PM
+────────────────────────────────────────────────────────────────────────
+
+Cost for a 4ft lazy susan bearing would be cost prohibitive, i don't know of any off the shelf that size... so your looking at one custom and some big $$$
+
+Below is a general idea what the blueprints show.
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #1554319)
+Author    : Prop-Builder
+Date      : Feb 13, 2011 at 1:28 PM
+────────────────────────────────────────────────────────────────────────
+
+cheech9898 said:
+
+			Cost for a 4ft lazy susan bearing would be cost prohibitive, i don't know of any off the shelf that size... so your looking at one custom and some big $$$
+
+Below is a general idea what the blueprints show.
+		
+
+Click to expand...
+
+Thanks for the info on this. I may do a test rig to try this out before assembling anything to a gate. I guess the motor would have to be geared to run much more slowly but with more power.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 5

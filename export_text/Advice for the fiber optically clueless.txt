@@ -1,0 +1,114 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Advice for the fiber optically clueless
+URL    : https://www.therpf.com/forums/threads/advice-for-the-fiber-optically-clueless.138968/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #2126665)
+Author    : Jediguy
+Date      : Feb 7, 2012 at 2:36 PM
+────────────────────────────────────────────────────────────────────────
+
+Hey guys, what advice could you offer someone who wants to learn how to wire up models yet has no clue where to even begin?
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #2126707)
+Author    : jedimaster
+Date      : Feb 7, 2012 at 3:05 PM
+────────────────────────────────────────────────────────────────────────
+
+Patience...lots of Patience.
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #2126718)
+Author    : Robiwon
+Date      : Feb 7, 2012 at 3:13 PM
+────────────────────────────────────────────────────────────────────────
+
+First thing is to make sure you knows the basics of completing a circuit and what one consists of. Basicaly you have a light, a battery, and a switch, along with a positive and negative wire connecting all the components. Things can get complicated real quick from there.
+
+What type of model are you wanting to start with? That way we can help you a little further.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #2127284)
+Author    : Lear60man
+Date      : Feb 8, 2012 at 1:50 AM
+────────────────────────────────────────────────────────────────────────
+
+Ok Ill go super ghetto cuz that all I can understand sometimes.  Light will travel from one point of the fiber optic strand to the other.  Drill super small holes in the wall of whatever you want to illuminate.  Now start running the fiber optic strands through the holes. Leave about 1 inch poking out. Super glue the strands from behind the holes. Once you have all the points you want illuminated, bundle up all the fiber optic strands inside with tape/glue gun what ever. Cut them off at the end.  This is where your light source should go.  It can be as simple as a small flash light or remote switched LED.  Make an access port so you can change out burned light bulbs. Now paint the outside of the space ship hull ( or whatever) with the fiber optic strands just hanging out.  It will look funky, dont worry.  Once you have finished painting/clear coating etc., now is the time to clip the loose fiber optic strand at the base.  This new cut will allow the light to pass through. Done.
+
+Hopes this helps.
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #2127314)
+Author    : Nils
+Date      : Feb 8, 2012 at 3:06 AM
+────────────────────────────────────────────────────────────────────────
+
+Lear60man said:
+
+			Ok Ill go super ghetto cuz that all I can understand sometimes.  Light will travel from one point of the fiber optic strand to the other.  Drill super small holes in the wall of whatever you want to illuminate.  Now start running the fiber optic strands through the holes. Leave about 1 inch poking out. Super glue the strands from behind the holes. Once you have all the points you want illuminated, bundle up all the fiber optic strands inside with tape/glue gun what ever. Cut them off at the end.  This is where your light source should go.  It can be as simple as a small flash light or remote switched LED.  Make an access port so you can change out burned light bulbs. Now paint the outside of the space ship hull ( or whatever) with the fiber optic strands just hanging out.  It will look funky, dont worry.  Once you have finished painting/clear coating etc., now is the time to clip the loose fiber optic strand at the base.  This new cut will allow the light to pass through. Done.
+
+Hopes this helps.
+		
+
+Click to expand...
+
+This is exactly what I did on my 38" Star Destroyer. Good info.
+
+But please use white glue from behind the holes, the fiberstrands is very brittle and from my own experiance could break very easily if you use super glue.
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #2127397)
+Author    : Jediguy
+Date      : Feb 8, 2012 at 5:33 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks guys, I was thinking of an anigrand SD. It's a dream kit of mine although i understand it's a crappy kit at best and isn't the easiest model to get right. While I know how to run the cable and bundles. Im more worried how to wire the white lights, engine lights and all together and eventually  the wall adapter. Then there's also the FM falcon which needs the lights to look good and accurate.
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #2127547)
+Author    : Robiwon
+Date      : Feb 8, 2012 at 8:20 AM
+────────────────────────────────────────────────────────────────────────
+
+Jediguy said:
+
+			Thanks guys, I was thinking of an anigrand SD. It's a dream kit of mine although i understand it's a crappy kit at best and isn't the easiest model to get right. While I know how to run the cable and bundles. Im more worried how to wire the white lights, engine lights and all together and eventually  the wall adapter. Then there's also the FM falcon which needs the lights to look good and accurate.
+		
+
+Click to expand...
+
+I'm working on an Ani SD right now. It hardly falls into the "crappy kit" catogory. It may not be as detailed as the larger RC kit it is, but it's still very nice for what it costs. There have been many builds of this kit on here and other forums. If you haven't already, I suggest checking some of them out. As with any large resin kit there is going to be some extra work needed to build it correctly.
+
+Here are some pics of mine, under construction.
+
+https://picasaweb.google.com/116877382961951625239/AnigrandStarDestroyerWIP#
+
+Oh, and if this is about the Ani SD it should be moved to General Modeling.
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #2129327)
+Author    : sapper36
+Date      : Feb 9, 2012 at 1:18 PM
+────────────────────────────────────────────────────────────────────────
+
+So anybody got hints on cutting & polishing the ends for max light flow?
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #2129342)
+Author    : Lear60man
+Date      : Feb 9, 2012 at 1:27 PM
+────────────────────────────────────────────────────────────────────────
+
+Use wire snips, fingernail cutters model spruce tree clippers (or what ever they are called).  It really doesn't matter what you use as long as its a clean-near the base cut.  Light will come out.
+
+Even if its not so clean, the difference between a clean and not so clean cut wouldn't register to the eye.  On an old Falcon build, I bundled up the light source ends with a zip tie and clipped them one by one with a par of scissors.
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #2129350)
+Author    : Deleted
+Date      : Feb 9, 2012 at 1:34 PM
+────────────────────────────────────────────────────────────────────────
+
+Here are some pics of a Randy Cooper SD that I build and lit with fiberoptics. bulding a Star Destroyer model kit with fiber optics 
+
+I did not see the need to cut these as clean as possible or even polish them. (unless you are planning on transmitting data and not light thru them 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ )
+
+A neat way of getting them to light up in different colors is painting the INNER end with a sharpie. That way you do not risk painting the model by accident when the fiber is cut real close to the model's surface.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 10

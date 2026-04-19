@@ -1,0 +1,237 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Studio Scale Kit Donors Matrix
+URL    : https://www.therpf.com/forums/threads/studio-scale-kit-donors-matrix.361856/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #5609737)
+Author    : Ogibendogy
+Date      : Mar 1, 2025 at 11:49 AM
+Reactions : Love, Like, Wow — dtssyst, JS321706, rooker2k
+────────────────────────────────────────────────────────────────────────
+
+2025-10-04 Update!
+
+Hey Builders!
+
+I'm sharing the Excel workbook I use to keep track of donors for Star Wars Studio Scale builds. You can download it here:
+
+Matrix Ver. 1.02 (2025-10-04)​
+
+This was a passion project for me during the early days of the pandemic and kept me occupied for months. The bulk of the identifications are the result of everyone's contribution on this and other forums. Thanks to you all, with special thanks to Studio Kitbash, sjanish and rooker2k for their direct input. Feel free to download and share, but please include a citation and link to this thread if you post it elsewhere. A few things to note:
+
+To sort/slice by a particular model, click the thumbnail at the top of the matrix. Hit the "reset" button anytime to return to the entire matrix.
+
+I added columns to the right side for inventory tracking. These cells are all blank as provided. Click the "inventory" button to focus on this and populate.
+
+There are some columns at the end of the columns with conditional formatting to count how many times a kit is used and for a relative cost comparison.
+
+The workbook has VBA scripts that control the sorting and model selection. I built them myself, so they are safe.
+
+I included props that use the Revell Visible V8 Engine, but this could use some work.
+
+I had hoped to include the 5' MF based on the mapping by jcoffman99, but that is a project for another day.
+
+I will keep this file updated as I work on it and should be uploading new versions every couple of months.
+
+If you'd like to contribute or see mistakes/errors, post them here or send me an IM and I will include them in the next update.
+
+Enjoy!
+
+Marc
+
+[IMAGE: https://www.therpf.com/forums/attachments/matrix-screenshot-png.1910095/]
+
+----------------------------------------------------
+
+Version Tracking: 
+
+Ver. 1.00 posted 2025-03-01
+
+Ver. 1.01 posted 2025-07-13
+
+Ver. 1.02 posted 2025-10-04
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #5609743)
+Author    : jcoffman99
+Date      : Mar 1, 2025 at 12:10 PM
+Reactions : Like — Ogibendogy, joberg
+────────────────────────────────────────────────────────────────────────
+
+Holy cow! That’s amazing.
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #5609744)
+Author    : Treadwell
+Date      : Mar 1, 2025 at 12:13 PM
+Reactions : Like — Ogibendogy, joberg
+────────────────────────────────────────────────────────────────────────
+
+A. MAZ. ING.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #5609753)
+Author    : RealDaveWinter
+Date      : Mar 1, 2025 at 12:47 PM
+Reactions : Like, Wow — Ogibendogy, joberg
+────────────────────────────────────────────────────────────────────────
+
+Looks really good.
+
+Just an FYI, studioscalemodelers.com is essentially dead. The links you have on your first page are blocked.
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #5609843)
+Author    : thibkaji
+Date      : Mar 1, 2025 at 8:20 PM
+Reactions : Like — Ogibendogy, joberg
+────────────────────────────────────────────────────────────────────────
+
+This is super cool.  Will certainly be handy for future builds after I complete the SS B-Wing I'm working on.  Feel free to scour that thread for any parts you might want to add to the list (I can get you part #s for anything I've built so far).
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #5609898)
+Author    : manugu
+Date      : Mar 2, 2025 at 6:34 AM
+Reactions : Like — Ogibendogy, joberg
+────────────────────────────────────────────────────────────────────────
+
+Epic! I saw you mentioning this list in SKs project run thread. Never dared to ask whether you plan to share one day 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Thank you big time!!
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #5613257)
+Author    : Ogibendogy
+Date      : Mar 16, 2025 at 12:20 PM
+Reactions : Sad — joberg
+────────────────────────────────────────────────────────────────────────
+
+RealDaveWinter said:
+
+			Just an FYI, studioscalemodelers.com is essentially dead. The links you have on your first page are blocked.
+		
+
+Click to expand...
+
+Glad you like it!
+
+Yea, It's a bummer about SSM for sure. I kept those links in for anyone that still has an account though.
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #5613258)
+Author    : Ogibendogy
+Date      : Mar 16, 2025 at 12:21 PM
+Reactions : Like — joberg, thibkaji
+────────────────────────────────────────────────────────────────────────
+
+thibkaji said:
+
+			This is super cool.  Will certainly be handy for future builds after I complete the SS B-Wing I'm working on.  Feel free to scour that thread for any parts you might want to add to the list (I can get you part #s for anything I've built so far).
+		
+
+Click to expand...
+
+Sounds great - I've had the B-Wing on my list to map and I'm sure your thread will be a big help!
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #5613588)
+Author    : bwayne64
+Date      : Mar 17, 2025 at 9:57 PM
+Reactions : Like — Ogibendogy, joberg
+────────────────────────────────────────────────────────────────────────
+
+Yes, I Second and Third and Fourth the Sentiment. I love this sort of thing. If it only helps to know which kits to buy for another project, and which ones to never sell, lol. There's a whole lot of overlap, between Galactica SS models and Star Wars, as would be expected. Thanks again for sharing it, ; )
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #5644157)
+Author    : Ogibendogy
+Date      : Jul 13, 2025 at 10:20 AM
+Reactions : Like — DAR23, satazius, joberg
+────────────────────────────────────────────────────────────────────────
+
+Hey All - I uploaded a revised matrix (see first post for the link). No major changes, but I deleted a couple of duplicate entries, updated some Tydirium donors, and fixed a mistake on the TIE bomber.
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #5645110)
+Author    : Rulebreaker
+Date      : Jul 16, 2025 at 2:37 PM
+────────────────────────────────────────────────────────────────────────
+
+found the "notes" thing
+
+in "online google" i can only scroll around on my own, maybe u could make small video, to show how it should work?
+
+i assume, when u click on one of the pictures, it jumps automaticaly to the column?
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #5668222)
+Author    : Ogibendogy
+Date      : Oct 4, 2025 at 1:58 PM
+Reactions : Like — manugu
+────────────────────────────────────────────────────────────────────────
+
+Version 1.02 updated today. Fixed some script errors and added a small number of parts to several models.
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #5668223)
+Author    : Ogibendogy
+Date      : Oct 4, 2025 at 1:59 PM
+────────────────────────────────────────────────────────────────────────
+
+Rulebreaker said:
+
+			found the "notes" thing
+
+in "online google" i can only scroll around on my own, maybe u could make small video, to show how it should work?
+
+i assume, when u click on one of the pictures, it jumps automaticaly to the column?
+		
+
+Click to expand...
+
+Let me see if I can figure out how to do that and I'll report back.
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #5668240)
+Author    : jcoffman99
+Date      : Oct 4, 2025 at 3:08 PM
+────────────────────────────────────────────────────────────────────────
+
+I can never get this to work the way I "think" it's supposed to.
+
+When I load it into Excel, everything I click on says it can't run the macros even though I have enable all macros in my settings. Any ideas what I'm doing wrong?
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #5668241)
+Author    : jcoffman99
+Date      : Oct 4, 2025 at 3:11 PM
+Reactions : Like — Ogibendogy
+────────────────────────────────────────────────────────────────────────
+
+Never mind. I figured it out. I enabled macros in Excel, but to make it work, I had to right click on the file, go to properties, and then unblock in the security box.
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #5668250)
+Author    : jcoffman99
+Date      : Oct 4, 2025 at 3:41 PM
+Reactions : Like — Studio Kitbash, Ogibendogy
+────────────────────────────────────────────────────────────────────────
+
+Here are the part number for the Jedi Training Remote if you'd like to add them.
+
+Plastruct VHH-600  VHH-600 x2
+
+Panzer IV Vintage Classics Airfix | No. A02308V | 1:76 x16 (odd number parts 
+
+#11,13,15,17,19,21,23,25 even number parts #40,42,44,46,48,50,52,54
+
+U.S. Army M-4(A3E8) Sherman Hasegawa | No. MB-015 | 1:72 x12 (parts #12 and #13)
+
+Kenworth K-123 Cabover AMT | No. 687 | 1:25 (parts #14 and #184)
+
+Panzerkampwagen V Panther-G Bandai | No. 8228-500 | 1:48 (parts #4, #,7, #15, #18, #22, #26)
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #5668258)
+Author    : Ogibendogy
+Date      : Oct 4, 2025 at 4:11 PM
+────────────────────────────────────────────────────────────────────────
+
+jcoffman99 said:
+
+			Never mind. I figured it out. I enabled macros in Excel, but to make it work, I had to right click on the file, go to properties, and then unblock in the security box.
+		
+
+Click to expand...
+
+I'll see if I can change that but I suspect it's controlled on your end. Thank for the tips!
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 17

@@ -1,0 +1,369 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Filming the original Enterprise
+URL    : https://www.therpf.com/forums/threads/filming-the-original-enterprise.101952/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #1461681)
+Author    : JMar
+Date      : Dec 2, 2010 at 2:03 PM
+────────────────────────────────────────────────────────────────────────
+
+I'm wondering how the original Enterprise was filmed?
+
+Was it just a roll camera single pass on the dolly track?
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #1461717)
+Author    : phase pistol
+Date      : Dec 2, 2010 at 2:19 PM
+────────────────────────────────────────────────────────────────────────
+
+Optical composition, my friend. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Enterprise was set up on a stand... camera was manually moved on dolly tracks, past her (no computerized motion-control cameras in those days). In the background was the bluescreen.
+
+Later in the optical department, the blue was removed and a starfield was "printed" into the same place in the frame. 
+
+Karl
+
+[IMAGE: 42198176741eab8183aab.jpg]
+
+[IMAGE: 34745052723222fb31b9b.jpg]
+
+pictures from this awesome Flickr set
+
+http://www.flickr.com/photos/birdofthegalaxy/sets/72157619514479789/with/4219817674/
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #1461822)
+Author    : JMar
+Date      : Dec 2, 2010 at 3:28 PM
+────────────────────────────────────────────────────────────────────────
+
+That's what I thought.
+
+Thanks Phase Pistol!
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #1461829)
+Author    : MooCriket
+Date      : Dec 2, 2010 at 3:31 PM
+────────────────────────────────────────────────────────────────────────
+
+Is the ANYTHING you don't know about Trek, Phase?!:cool  I salute you Sir
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+thumbsup, and thanks for the great link.
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #1461830)
+Author    : CessnaDriver
+Date      : Dec 2, 2010 at 3:33 PM
+────────────────────────────────────────────────────────────────────────
+
+And it was HOT in the summer with all the lights apparantly because a lot of the guys working in that studio were shirtless in photos. Though I think they may have moved to another later.
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #1462008)
+Author    : GKvfx
+Date      : Dec 2, 2010 at 5:47 PM
+────────────────────────────────────────────────────────────────────────
+
+Those photos always amaze me, especially when compared to the Star Wars behind the scenes stuff that was shot less than a decade later.
+
+Up until SW and the advancements ILM made, this, folks, was state of the art.  
+
+To expand upon Karl's post - 
+
+In bluescreen photography, the goal is to get as even and as pure a  shade of blue as possible.  This will allow the separation process to do  most of the work and minimize the tedious frame by frame rotoscoping or  garbage matting.  The bluescreen here is nothing more than a painted wall or a large section of muslin backing painted blue (there are other photos that show it rolled up at the bottom).  Similar to what we see today with the local weatherman.  That's strike one.
+
+Note the lights, they are just open faced lamps or bare photo-flood bulbs.  They are good at putting out a lot of light and can cover a large area.  But they put out a tremendous amount of heat - hence most of the stage shots have people without shirts.  More importantly, the lights aren't gelled.  This will affect the purity of the blue on the film.  Tungsten light is yellow-ish.  It would be better if they were gelled blue.  Strike two.
+
+The shadows on the bluescreen in the first photo are a no-no.  Strike three.
+
+[IMAGE: attachment.php]
+
+Because they don't have a repeatable motion control system (as we know it from Star Wars), they have to capture both the beauty pass and the matte pass on the same piece of film.  That means that the foreground (the Enterprise) and the background (the bluescreen) have to be at relatively the same exposure.  Since the bluescreen is darker than the model, the amount of light needed to get a proper exposure on the bluescreen will wash out (overexpose) the model.  (Or, conversely, if you expose the the film for the model, the bluescreen will be underexposed and you will have a hard time pulling a matte.  Catch-22.)  That's why you don't really notice all of the running/blinking lights - some of them are washed out.  
+
+Because they can't go MOCO, they are also constrained to the frame rate and exposure they can use.  On Star Wars, the beauty passes were shot at about 1 frame per second.  Since the camera dolly on Star Trek was human powered, they couldn't go that slow.  Someone told me that these shots were done at frame rates between 12fps and 24 fps.  Further speedups or slowdowns were done in optical using the same library of Enterprise elements.  Strike four.
+
+The mount the Enterprise is resting on in the top photo is actually a piece of camera equipment.  This Worrall head is designed to have a camera (and a big, heavy one at that) placed on top and the cameraman has a couple of small wheels that control the pan and tilt.  Because those things were incredibly well balanced and precisely geared, heavy cameras (or starship models) could be moved with relative ease (heat in the studio notwithstanding).  I have one of these Worrall heads and it weighs a ton.  And I have one of the small models.  This one looks like it was designed for the larger 65mm cameras and could easily crush your foot if you (or the other guy helping you carry it) dropped it.  But it shows that they were on to something that would be expanded upon in Star Wars.  By combining camera movement with model movement, you can create the illusion that the camera is standing stock still and the model is doing all the movement.  Take the shot of the Enterprise entering frame and then turning away and moving off into the distance.  The Enterprise (likely) started off in full profile, perhaps traveling on a dolly of its own.  At a certain point, it turned 90 degrees to the left and stopped.  At the same time, the camera was on a dolly traveling away from the model.  Once you remove the background and isolate just the model, the only point of reference you have left is the model itself.  (In fact, if you watch this shot in its original form, you'll see that the nacelles are cut off and seem to grow.  Likely those were off the bluescreen at the beginning of the shot and they didn't bother to rotoscope them (or even notice).
+
+[IMAGE: attachment.php]
+
+Star Wars would improve the camera movement system, allowing longer exposures and repeatable movement for separate passes.  The approach to bluescreen would also be advanced.  Instead of a reflective system seen here, they would refine a transmission system whereby the bluescreen was made out of a translucent material dyed blue and lit from behind with fluorescent lights.  This enhanced the purity of the blue and made it easier to key the bluescreen.
+
+With the steps we've made in the technology of VFX, and how challenging it was (comparatively) I can't help but think what a miracle it was to get something - anything - done back then.  Thank god they made the effort, though.
+
+Gene
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #1462127)
+Author    : CB2001
+Date      : Dec 2, 2010 at 7:11 PM
+────────────────────────────────────────────────────────────────────────
+
+You know, its posts like Gene with info that I have been looking around for.
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #1462156)
+Author    : Alan Cross
+Date      : Dec 2, 2010 at 7:34 PM
+────────────────────────────────────────────────────────────────────────
+
+Great photos.  Thanks, Karl, you rock.
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #1462487)
+Author    : Colin Droidmilk
+Date      : Dec 3, 2010 at 12:42 AM
+────────────────────────────────────────────────────────────────────────
+
+The ST Enterprise shots were damn good - and not just for their time, they're still damn good. The library beauty shots of her coming to camera still blow me away to this day. Also the shots peering up at the saucer as she fires her weapons convey a stunning vastness - not matched IMO by later spin-off series. I also think the slight washing-out was a blessing in a way - made her look like she was aglow somehow. There's a gloriously romantic feel to some of those shots. Gene, do you know more about the team responsible? I still only have one name - Jim Rugg.
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #1462711)
+Author    : phase pistol
+Date      : Dec 3, 2010 at 6:45 AM
+────────────────────────────────────────────────────────────────────────
+
+Great info Gene! Thanks.
+
+Actually wasn't Jim Rugg in charge of on-set special effects? That would be not the Enterprise and other space shots, but instead the practical stuff that had to take place on the set, such as the moving Tribbles.
+
+The big question I have about the space effects in TOS is, why the heck does it all look so BAD? Even when TOS was digitally restored, the original effects shots still look horrible. Dirt, scratches, bad mattes... it looked like it had been left on the floor for a week.
+
+Also interesting to note that "2001 a space odyssey" was shot at the same time as TOS and with much the same (low) technology! Kubrick also used carefully planned camera moves down dolly tracks past a stationary miniature... but in the case of the Discovery, it was a huge miniature (60 feet!). Also I think Kubrick's camera exposed a frame at a time, was moved incrementally, and took another exposure. So it was a kind of stop-motion where the camera was animated instead of the subject.
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #1462821)
+Author    : -... . .- --..
+Date      : Dec 3, 2010 at 7:54 AM
+────────────────────────────────────────────────────────────────────────
+
+phase pistol said:
+
+			The big question I have about the space effects in TOS is, why the heck does it all look so BAD? Even when TOS was digitally restored, the original effects shots still look horrible. Dirt, scratches, bad mattes... it looked like it had been left on the floor for a week.
+
+Also interesting to note that "2001 a space odyssey" was shot at the same time as TOS and with much the same (low) technology! Kubrick also used carefully planned camera moves down dolly tracks past a stationary miniature... but in the case of the Discovery, it was a huge miniature (60 feet!). Also I think Kubrick's camera exposed a frame at a time, was moved incrementally, and took another exposure. So it was a kind of stop-motion where the camera was animated instead of the subject.
+		
+
+Click to expand...
+
+Difference between a low, and increasingly lower, budget television production on very tight schedule, and a film created by an obsessive, perfectionist filmmaker, with a feature film-sized budget and schedule, both of which nearly doubled before it was complete? 
+
+And with the special effects for Star Trek, wouldn't the crew's assumption be that most of the detail in the special effects would be washed out by the time it reached the smallish, noisy and unfocused televisions of the day? I think we started noticing problems with TOS over the years of reruns. As each generation of TV hardware got better and better, it was easier to see how lousy the effects actually were. We got the entire Blu-ray set and have been watching each episode with the kids on a 50-inch plasma HDTV, and by now we laugh out loud each time we see:
+
+the hazy, vaseline coated lens head shot of a pretty actress,
+
+the aliens, or
+
+the original miniature special effects.
+
+Even so, I'm always quick to give credit to the original crew, reminding the kids that this was a show created to be watched on small, fuzzy televisions back when their parents were kids, and for its day it was pretty great stuff.
+
+Thanks for the production background guys. It's a lot of fun to follow. Just might show some of this this to the kids the next time we watch a show.
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #1462823)
+Author    : Treadwell
+Date      : Dec 3, 2010 at 7:55 AM
+────────────────────────────────────────────────────────────────────────
+
+Also, 2001 was shot on 70mm, which helps greatly. And, it being Kubrick, had pretty much unlimited time and budget to redo every little thing until they had it right. That means if dirt or hair got on an element during compositing, they could do it again. Plus, IIRC, they didn't use a lot of bluescreen for model shots, but against black, using multiple exposure to add stars.
+
+Colin, I believe the Trek effects house was named Anderson Company.
+
+(edit: Beaz beat me by a minute! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ )
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #1463107)
+Author    : Colin Droidmilk
+Date      : Dec 3, 2010 at 10:33 AM
+────────────────────────────────────────────────────────────────────────
+
+Treadwell said:
+
+			Colin, I believe the Trek effects house was named Anderson Company.
+
+(edit: Beaz beat me by a minute! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ )
+		
+
+Click to expand...
+
+So Rugg was just physical effects... which means the miniature effects go entirely uncredited onscreen. I'm surprised people think the miniature effects so risible. Some aren't great, certainly, but I have to reiterate how impressive I still find the library shots of the Enterprise. For a TV show, they're amazing for 1964, to my mind.
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #1463273)
+Author    : GKvfx
+Date      : Dec 3, 2010 at 11:53 AM
+────────────────────────────────────────────────────────────────────────
+
+This is going to be a long post.  You have been warned.
+
+Jim Rugg was the on set special effects guy.  "Special Effects" became this catch-all phrase to encompass anything remotely tricky - prop, physical, or optical.  Nowadays, we try to split it up between "Special" for the on set stuff and "Visual" for the stuff done in post.  But, let's face it, 90+ years of unstandardized terminology is hard to overcome.  (My Mom still says I work in "Special Effects" to her friends.  Can't fight it, really.........)
+
+Darn near everyone who had an optical printer in Hollywood worked on Trek at some point.  Howard Anderson, Van derVeer Photo Effects, Westheimer (where Richard Edlund (yeah, that Richard Edlund) worked on the main titles).  The "stock" footage that was shot early on in the series' was re-purposed time and again.  With elements traveling between houses and being used for so long, there had to inconsistencies and quality control issues. 
+
+I think -... . .- --.. hit on something key - we only started noticing the defects as the "viewing" technology outpaced the "recording" technology.  I'll also add that we, the audience, also got sophisticated.  I didn't notice ANY of the differences between the pilot model of the Enterprise and the series model when I first started watching the show when I was around 6 years old.  But by the time I was 11, you can bet I noticed that 'Battlestar Galactica' was just recycling shots by flopping them!  (Thank you "Making of Star Wars" for destroying my suspension of disbelief!)
+
+Regarding the technological differences between '2001', 'Star Trek', and 'Star Wars', here's a brief rundown - 
+
+I tend to refer to the period before '2001' as the "what you see is what you get" period.  Anything that you saw on screen had to be shot with a camera.  Period.  Yeah, you could add animation and do some split screen work, but all of that had to be shot with a camera using the same basic techniques as you would with actors or sets.  Need a plane skimming a harbor to blow up some ships?  You built a REALLY large model and filmed it - 
+
+[IMAGE: attachment.php]
+
+Ditto for a Space Ark leaving Earth - 
+
+[IMAGE: attachment.php]
+
+(By the way, go here and take a look at the images Life magazine has.  You can search for other movies like 'Destination Moon' or '2001' - worlds collide source:life - Google Search )
+
+Bluescreen photography isn't a new thing.  It goes back to the 30's and was also used with early B&W movies.  Some movies used it, but for television, it was expensive, especially when TV shows like 'Lost In Space' and 'Voyage to the Bottom of the Sea' were better suited for more traditional approaches.  'Star Trek' had to use it.  And the optical printer, another expensive tool.  Save for the fact that there was an extra step (the optical process, which was multiple steps in itself), the method to shoot the miniatures was pretty much the same.  You could undercrank or overcrank, but generally, you had the camera and a strong dolly grip.
+
+'2001' introduced an new approach to the filming methodology part of the process.  Since bluescreens are finicky to light and prone to all sorts of issues, and since white spaceships on a black starfield is essentially a B&W movie, why use bluescreen?  On top of that, depth of field is one of the dead giveaways that you are looking at a model on a stick.  So, they needed a way to expose each frame of film for a very long time.  That meant that the camera had to be rock steady during the time the shutter is open.  Clearly, a human dolly grip, even one that was really good, wasn't going to work.  The mechanical solution involved worm gears and what amounts to heavy duty industrial machinery akin to a lathe.  The principle is simple and one you can see for yourself.  Take a bolt and thread a nut on it.  When you turn the nut, it travels along the bolt.  But, if you hold the nut steady and turn the bolt, the nut will still travel along the bolt.  So, imagine the camera dolly is the nut and the bolt is a long lead screw.  By powering the lead screw, the camera will travel along the length of the track.  (If you try this, you'll notice that there is a lot of slop with a common nut an bolt.  With lead screws and better quality control, you can get a fairly decent, steady camera dolly.)
+
+Because of this precision, you can back up the camera to the same start point and record a second (or third, or fourth...) pass on the same or different piece of film, so long as the motor is traveling at the same RPM.  (I think Doug Trumbull has said that the motor was always turning.  Therfore, the camera was always moving - just really s l o w l y.)  With repeatability, you can do frontlight/backlight mattes, which offer superior image quality to bluescreen.
+
+The downside, however, is twofold.  Doing complicated camera moves is tricky if you are utilizing the repeatability feature.  Since these things relied on little marks on the track, the timing had to be perfect.  You couldn't ease into a dolly or a pan, nor could you slow down at the end of the move.  And there was no way to do all three AND have the model do something.  Watch '2001' and you see that most of the ships (save for the landing sequences of the Moonbus and Aries, which were shot 'live') move at the same rate and very slowly (to avoid motion blur).  That's the second problem - speed.  You can't really have ships zipping around at warp speed because you will get motion blur, and frontlight/backlight mattes don't work well with motion blur.  Thankfully, the nature of the story in '2001' lent itself to the slower pace.
+
+[IMAGE: attachment.php]
+
+'Silent Running' was done pretty much the same way.  They just tried to incorporate front projection into the filming of the Valley Forge to eliminate the opticals.
+
+'Star Wars' used a new type of motor - a stepper motor.  A common motor runs when you apply current to it.  You can vary the rate by which the shaft rotates by varying the current or varying the load on the shaft.  Good motors will offer a fair amount of precision once you get them up to a sufficient RPM.  But at lower speeds and/or heavier loads, they are imprecise for repeatability's sake.  A stepper motor relies on tiny pulses of electricity to turn it's shaft.  Imagine flipping the switch of a common motor on and off really quickly.  Do it fast enough and the shaft won't make a full revolution.  Each pulse of electricity turns the shaft a fixed amount.  "X" number of pulses = 1 revolution.  The track can be divided up into inches.  Each inch of travel = a set  number of revolutions.  Each revolution = a set number of pulses.  The same number of pulses with reverse polarity gets you back to the original point.  Bingo.  Repeatability.  
+
+These motors are relatively small, and each one has its own dedicated driver that controls the pulses.  This mean that you can put a separate controllable motor on each axis of movement.  Dolly, Pan, Tilt, Boom, etc.....  You can put one on the model mover so the model can move as the camera moves (just like they did manually on 'Star Trek').  So, what 'Star Wars' introduced was not a motorized camera dolly, but an entire integrated camera system.
+
+This whole system allows you to take time (the length of a shot), break it down into a series of frames, and plot out the distance the camera needs to travel (or pan or tilt) within that time frame and program the motors to make the required number of revolutions.  You can change the rate (the number of pulses in a given set of time) and that allows you to ease into or out of a move.  That means the moves can be smoothed out instead of jerky 'on' or 'off' options.  Vary the shutter speed during the move and you can have things move fast or slow.  And because you (or rather the computer memory) can remember how many pulses were applied to a given motor, it can apply the same number of pulses, but with a different polarity, and cause them to move back to their start point.  Every time.  All day long.  Welcome motion control - 
+
+[IMAGE: attachment.php]
+
+Gene
+
+ (I'll cover how the computer "controlled" everything in another 'brief'  :lolpost later.)
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #1463565)
+Author    : phase pistol
+Date      : Dec 3, 2010 at 3:25 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks morsecode! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Actually I wasn't really asking "how come Star Trek don't look as good as 2001 a space odyssey?"... :rolleyes
+
+BUT... awesome info and thanks oncet agin! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+K
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #1463925)
+Author    : -... . .- --..
+Date      : Dec 3, 2010 at 8:02 PM
+────────────────────────────────────────────────────────────────────────
+
+phase pistol said:
+
+			Thanks morsecode! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Actually I wasn't really asking "how come Star Trek don't look as good as 2001 a space odyssey?"... :rolleyes
+		
+
+Click to expand...
+
+Okay, but after re-reading the question you did ask, your follow-up point about "2001" using the same low technology as TOS, and using my Phone-a-Friend, I've decided not to change my answer, Regis!
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #1463928)
+Author    : phase pistol
+Date      : Dec 3, 2010 at 8:05 PM
+────────────────────────────────────────────────────────────────────────
+
+You win the round. Let's go to a commercial. :sleep
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #1466101)
+Author    : danchia
+Date      : Dec 5, 2010 at 5:17 PM
+────────────────────────────────────────────────────────────────────────
+
+haha. nice one. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #1466603)
+Author    : Aztek Dummy
+Date      : Dec 6, 2010 at 5:03 AM
+────────────────────────────────────────────────────────────────────────
+
+but didn't Kubrick get around the problem of moving models/cameras by first taking high quality stills of the models and then moving the photos on a printer stand?
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #1467331)
+Author    : Mike J.
+Date      : Dec 6, 2010 at 3:37 PM
+────────────────────────────────────────────────────────────────────────
+
+IIRC, Kubrick or his effects guys did do that for some shots. I don't know why. I believe the orbital bombs that we see were all animation stand shots.
+
+-Mike J.
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #1467406)
+Author    : Aztek Dummy
+Date      : Dec 6, 2010 at 4:36 PM
+────────────────────────────────────────────────────────────────────────
+
+IIRC,  It was the moonbus and the Aires as well
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #1467505)
+Author    : robn1
+Date      : Dec 6, 2010 at 5:40 PM
+────────────────────────────────────────────────────────────────────────
+
+Many of the 2001 shots were done with photo cutouts. Look really close and you'll see they were black and white photos.
+
+The shot looking down on the moonbus cockpit was a b&w photo with color live action projected into the windows.
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #1467509)
+Author    : CB2001
+Date      : Dec 6, 2010 at 5:42 PM
+────────────────────────────────────────────────────────────────────────
+
+robn1 said:
+
+			Many of the 2001 shots were done with photo cutouts. Look really close and you'll see they were black and white photos.
+
+The shot looking down on the moonbus cockpit was a b&w photo with color live action projected into the windows.
+		
+
+Click to expand...
+
+Even so, it looked pretty frakkin' good for its time.
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #1467519)
+Author    : feek61
+Date      : Dec 6, 2010 at 5:52 PM
+────────────────────────────────────────────────────────────────────────
+
+To me this (amongst others) is still a beautiful shot!
+
+[IMAGE: zEnterpriseBeautyShot.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #1467602)
+Author    : robn1
+Date      : Dec 6, 2010 at 7:03 PM
+────────────────────────────────────────────────────────────────────────
+
+Here's a shot being made by Linwood Dunn, inventor of the optical printer.
+
+[IMAGE: LinwoodDunn.jpg]
+
+Quality varied a lot, some shots were nearly perfect. Some, weren't.
+
+Here's some really bad blue spill on the Enterprise.
+
+[IMAGE: enterprise11beautyshot.jpg]
+
+EDIT- Found another shot of the camera dolly.
+
+[IMAGE: tsose11ftrspaceseedhr1.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #1468037)
+Author    : DaddyfromNaboo
+Date      : Dec 7, 2010 at 3:54 AM
+────────────────────────────────────────────────────────────────────────
+
+And the guys who were working in that field were nearly as young as the ILM guys later on, see the pic. The situation that GL found himself in, with a lot of the knowledge and equipment being lost because of noone being interested in Sci-Fi for a long time, and no central archives etc., just wow. Reinventing stuff, and did GL really buy all of the 70mm and optical printer equipment he could get his hands on, as all those documentaries suggest, or is that just a legend?
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 26

@@ -1,0 +1,1619 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ILM Van Nuys · Kit-Bash Research</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300;400;500&family=IBM+Plex+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap" rel="stylesheet">
+<style>
+
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+
+:root {
+  --bg:      #f7f7f6;
+  --surface: #ffffff;
+  --b1:      #e3e3e1;
+  --b2:      #c6c6c3;
+  --ink:     #111110;
+  --ink2:    #52524f;
+  --ink3:    #a0a09d;
+  --mono:    'IBM Plex Mono', monospace;
+  --sans:    'IBM Plex Sans', sans-serif;
+  --r:       3px;
+}
+/* KIT EDITOR functions were here but accidentally inside the <style> block.
+   They have been moved into the main <script> block further down so they
+   are parsed as JavaScript and available globally. */
+body {
+  font-family: var(--sans);
+  background: var(--bg);
+  color: var(--ink);
+  min-height: 100vh;
+  font-size: 13px;
+  line-height: 1.45;
+}
+.site-header {
+  background: var(--surface);
+  border-bottom: 1px solid var(--b1);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+.header-inner {
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 0 1rem;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+.wordmark {
+  font-family: var(--mono);
+  font-size: 11.5px;
+  font-weight: 500;
+  color: var(--ink);
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wordmark span { color: var(--ink3); font-weight: 300; }
+.hstats { display: flex; gap: 1.25rem; overflow: hidden; flex: 1; }
+.hstat { font-family: var(--mono); font-size: 10.5px; color: var(--ink3); white-space: nowrap; }
+.hstat b { color: var(--ink2); font-weight: 500; }
+.app {
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 0.75rem 1rem 3rem;
+  display: grid;
+  grid-template-columns: 172px 1fr;
+  gap: 0.75rem;
+  align-items: start;
+}
+@media (max-width: 600px) {
+  .app { grid-template-columns: 1fr; }
+  .sidebar { display: none; }
+}
+.sidebar {
+  position: sticky;
+  top: 48px;
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+.sb-section { display: flex; flex-direction: column; gap: 1px; }
+.sb-label {
+  font-family: var(--mono);
+  font-size: 9.5px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--ink3);
+  padding: 0 0.3rem;
+  margin-bottom: 2px;
+}
+.nav-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.28rem 0.35rem;
+  border-radius: var(--r);
+  cursor: pointer;
+  font-size: 12.5px;
+  color: var(--ink2);
+  transition: background 0.08s, color 0.08s;
+  user-select: none;
+  gap: 4px;
+  line-height: 1.3;
+}
+.nav-item:hover { background: var(--b1); color: var(--ink); }
+.nav-item.active { background: transparent; color: var(--ink); border: 1px solid #c8922a; box-shadow: inset 0 0 0 0px #c8922a; }
+.nav-count { font-family: var(--mono); font-size: 10px; color: var(--ink3); flex-shrink: 0; }
+.nav-item.active .nav-count { color: #c8922a; }
+.fg { display: flex; flex-direction: column; gap: 2px; margin-top: 4px; }
+.fl { font-size: 9.5px; font-family: var(--mono); color: var(--ink3); text-transform: uppercase; letter-spacing: 0.1em; }
+select {
+  width: 100%;
+  padding: 0.25rem 0.35rem;
+  border: 1px solid var(--b1);
+  border-radius: var(--r);
+  background: var(--surface);
+  font-family: var(--sans);
+  font-size: 12px;
+  color: var(--ink);
+  appearance: none;
+  outline: none;
+  cursor: pointer;
+}
+select:focus { border-color: var(--b2); }
+.main { min-width: 0; }
+.toolbar { display: flex; align-items: center; gap: 0.4rem; margin-bottom: 0.4rem; }
+.search-input {
+  flex: 1;
+  padding: 0.28rem 0.45rem;
+  border: 1px solid var(--b1);
+  border-radius: var(--r);
+  background: var(--surface);
+  font-family: var(--sans);
+  font-size: 12.5px;
+  color: var(--ink);
+  outline: none;
+  min-width: 0;
+}
+.search-input:focus { border-color: var(--b2); }
+.search-input::placeholder { color: var(--ink3); }
+.result-meta {
+  font-size: 10.5px;
+  font-family: var(--mono);
+  color: var(--ink3);
+  margin-bottom: 0.3rem;
+  letter-spacing: 0.03em;
+}
+.card-grid { display: flex; flex-direction: column; gap: 1px; }
+.kit-card {
+  background: var(--surface);
+  border: 1px solid var(--b1);
+  border-radius: var(--r);
+  padding: 0.42rem 0.6rem;
+  cursor: pointer;
+  transition: border-color 0.1s;
+}
+.kit-card:hover { border-color: var(--b2); }
+.kit-card.expanded { border-color: #c8922a; }
+.kit-card-top {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.5rem;
+  min-width: 0;
+}
+.kit-brand {
+  font-family: var(--mono);
+  font-size: 9.5px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink3);
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.kit-name {
+  font-size: 12.5px;
+  color: var(--ink);
+  flex: 1;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.kit-card-right { display: flex; gap: 4px; align-items: center; flex-shrink: 0; }
+.kit-meta { display: flex; gap: 3px; flex-wrap: wrap; margin-top: 2px; }
+.badge {
+  font-family: var(--mono);
+  font-size: 9.5px;
+  padding: 1px 5px;
+  border-radius: 2px;
+  white-space: nowrap;
+  border: 1px solid var(--b1);
+  color: var(--ink3);
+  background: var(--bg);
+}
+.badge-hi { background: transparent; color: #c8922a; border-color: #c8922a; }
+.badge-dim { background: var(--bg); color: var(--ink3); border-color: var(--b1); }
+.badge-models { background: transparent; color: #c8922a; border-color: #c8922a; font-size: 9.5px; }
+.badge-parts { background: var(--bg); color: var(--ink2); border-color: var(--b1); }
+.badge-scale { background: var(--bg); color: var(--ink3); border-color: var(--b1); }
+.badge-coffman { background: var(--bg); color: var(--ink3); border-color: var(--b1); }
+.badge-confirmed { color: var(--ink2); border-color: var(--b2); background: var(--surface); }
+.badge-probable  { color: var(--ink3); border-color: var(--b1); background: var(--bg); }
+.kit-detail { display: none; margin-top: 0.5rem; padding-top: 0.45rem; border-top: 1px solid var(--b1); }
+.kit-card.expanded .kit-detail { display: block; }
+.detail-section { margin-bottom: 0.45rem; }
+.detail-head {
+  font-family: var(--mono);
+  font-size: 9.5px;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: var(--ink3);
+  margin-bottom: 3px;
+}
+.model-pill-grid { display: flex; flex-wrap: wrap; gap: 3px; }
+.model-pill {
+  font-size: 11px;
+  background: var(--bg);
+  border: 1px solid var(--b1);
+  border-radius: var(--r);
+  padding: 1px 6px;
+  color: var(--ink2);
+}
+.model-pill.falcon { background: transparent; color: #c8922a; border-color: #c8922a; }
+.parts-list { display: flex; flex-wrap: wrap; gap: 3px; }
+.part-chip {
+  font-family: var(--mono);
+  font-size: 10px;
+  background: var(--bg);
+  border: 1px solid var(--b1);
+  border-radius: 2px;
+  padding: 1px 5px;
+  color: var(--ink2);
+}
+.detail-links { display: flex; gap: 0.75rem; flex-wrap: wrap; margin-top: 2px; }
+.detail-link {
+  font-size: 11px;
+  color: var(--ink2);
+  text-decoration: none;
+  font-family: var(--mono);
+  border-bottom: 1px solid var(--b2);
+}
+.detail-link:hover { color: var(--ink); border-color: var(--ink); }
+.conn-card {
+  background: var(--surface);
+  border: 1px solid var(--b1);
+  border-radius: var(--r);
+  padding: 0.42rem 0.6rem;
+  cursor: pointer;
+  transition: border-color 0.1s;
+}
+.conn-card:hover { border-color: var(--b2); }
+.conn-card.expanded { border-color: #c8922a; }
+.conn-top { display: flex; align-items: baseline; justify-content: space-between; gap: 0.5rem; }
+.conn-models-bar { display: flex; gap: 3px; flex-wrap: wrap; margin-top: 4px; }
+.conn-model-dot {
+  font-family: var(--mono);
+  font-size: 9px;
+  padding: 1px 5px;
+  border-radius: 2px;
+  background: var(--bg);
+  border: 1px solid var(--b1);
+  color: var(--ink3);
+}
+.conn-model-dot.active { background: transparent; color: #c8922a; border-color: #c8922a; }
+.conn-detail { display: none; margin-top: 0.5rem; padding-top: 0.45rem; border-top: 1px solid var(--b1); }
+.conn-card.expanded .conn-detail { display: block; }
+.placement-row {
+  background: var(--surface);
+  border: 1px solid var(--b1);
+  border-radius: var(--r);
+  padding: 0.32rem 0.6rem;
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 0.4rem;
+  align-items: center;
+}
+.pl-kit { font-size: 12.5px; color: var(--ink); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.pl-part { font-family: var(--mono); font-size: 10px; color: var(--ink3); }
+.pl-map { font-size: 11px; color: var(--ink3); }
+.pl-note { font-size: 10.5px; color: var(--ink3); font-style: italic; }
+.pl-right { display: flex; gap: 3px; align-items: center; }
+.state-box {
+  text-align: center;
+  padding: 2rem 1rem;
+  color: var(--ink3);
+  font-size: 11.5px;
+  font-family: var(--mono);
+}
+.spinner {
+  width: 14px; height: 14px;
+  border: 1.5px solid var(--b1);
+  border-top-color: var(--ink2);
+  border-radius: 50%;
+  animation: spin 0.6s linear infinite;
+  margin: 0 auto 0.4rem;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+.pagination { display: flex; gap: 2px; justify-content: center; margin-top: 0.6rem; flex-wrap: wrap; }
+.page-btn {
+  font-family: var(--mono);
+  font-size: 10.5px;
+  padding: 2px 7px;
+  border: 1px solid var(--b1);
+  border-radius: var(--r);
+  background: var(--surface);
+  color: var(--ink2);
+  cursor: pointer;
+  transition: background 0.08s;
+}
+.page-btn:hover { background: var(--b1); }
+.page-btn.active { background: transparent; color: #c8922a; border-color: #c8922a; }
+.page-btn:disabled { opacity: 0.3; cursor: default; }
+.toast {
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
+  background: var(--ink);
+  color: #fff;
+  font-size: 11px;
+  font-family: var(--mono);
+  padding: 0.3rem 0.7rem;
+  border-radius: var(--r);
+  opacity: 0;
+  transform: translateY(4px);
+  transition: opacity 0.15s, transform 0.15s;
+  pointer-events: none;
+  z-index: 100;
+}
+.toast.show { opacity: 1; transform: translateY(0); }
+
+/* table detail rows: hide by default, show when preceding .row has .expanded */
+.kit-detail-row { display: none; }
+.row.expanded + .kit-detail-row { display: table-row; }
+.kit-detail-cell { padding: 0.55rem 0.35rem; }
+/* clickable sortable table headers */
+.kit-table th { cursor: pointer; user-select: none; text-align: left; padding: 8px 6px; font-weight: 600; }
+.sort-ind { font-family: var(--mono); font-size: 11px; margin-left: 6px; color: var(--ink3); }
+
+/* modal editor */
+.modal-overlay { position: fixed; inset: 0; background: rgba(0,0,0,0.35); display:flex; align-items:center; justify-content:center; z-index:120; }
+.modal { background: var(--surface); border-radius:6px; padding:14px; width:720px; max-width:96%; box-shadow:0 8px 24px rgba(0,0,0,0.12); }
+.modal h3 { margin-bottom:8px; font-size:15px; }
+.modal .form-row { display:flex; gap:8px; margin-bottom:8px; }
+.modal .form-row > * { flex:1; }
+.modal textarea { width:100%; min-height:80px; }
+.modal .actions { display:flex; gap:8px; justify-content:flex-end; margin-top:8px; }
+.picker-shell { border: 1px solid var(--b1); border-radius: var(--r); background: var(--surface-2); padding: 8px; }
+.picker-shell input { margin-bottom: 6px; }
+.picker-note { font-size: 11px; line-height: 1.45; color: var(--ink3); font-family: var(--mono); }
+.picker-note.warn { color: #b87428; }
+.picker-note.ok { color: #728a64; }
+.picker-selected { min-height: 24px; margin-bottom: 6px; }
+.picker-chip { display: inline-flex; align-items: center; gap: 6px; padding: 4px 8px; border: 1px solid var(--b1); border-radius: 999px; background: rgba(200, 146, 42, 0.09); color: var(--ink); font-size: 12px; }
+.picker-chip button { border: 0; background: transparent; color: var(--ink2); font-family: var(--mono); font-size: 11px; cursor: pointer; padding: 0; }
+.picker-results { border: 1px solid var(--b1); border-radius: var(--r); max-height: 190px; overflow: auto; background: var(--surface); }
+.picker-option { width: 100%; border: 0; border-bottom: 1px solid var(--b1); background: transparent; text-align: left; padding: 8px 9px; cursor: pointer; color: var(--ink); }
+.picker-option:last-child { border-bottom: 0; }
+.picker-option:hover { background: rgba(200, 146, 42, 0.08); }
+.picker-option-title { font-size: 12.5px; color: var(--ink); }
+.picker-option-meta { margin-top: 2px; font-size: 10.5px; color: var(--ink3); font-family: var(--mono); }
+
+</style>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-inner">
+    <div class="wordmark">ILM Van Nuys <span>/ kit-bash research</span></div>
+    <div style="margin-left:auto;margin-right:8px;display:flex;gap:6px;align-items:center">
+      <button class="page-btn" onclick="promptAdminKey()">Admin</button>
+      <button class="page-btn" id="local-admin-btn" onclick="toggleLocalAdmin()">Admin (local)</button>
+    </div>
+    <div class="hstats" id="stats-bar">
+      <div class="hstat"><b>448</b> kits</div>
+      <div class="hstat"><b>1,333</b> parts</div>
+      <div class="hstat"><b>2,834</b> placements</div>
+      <div class="hstat"><b>2,619</b> confirmed</div>
+      <div class="hstat"><b>13</b> ANH models</div>
+    </div>
+  </div>
+</header>
+
+<div class="app">
+  <aside class="sidebar">
+    <div class="sb-section">
+      <div class="sb-label">Browse</div>
+      <div class="nav-item active" data-view="kits" onclick="setView('kits')">
+        Kits <span class="nav-count" id="nav-count-kits">448</span>
+      </div>
+      <div class="nav-item" data-view="connections" onclick="setView('connections')">
+        Cross-model <span class="nav-count" id="nav-count-conn">—</span>
+      </div>
+      <div class="nav-item" data-view="placements" onclick="setView('placements')">
+        Placements <span class="nav-count" id="nav-count-pl">2,834</span>
+      </div>
+      <div class="nav-item" data-view="models" onclick="setView('models')">
+        Models <span class="nav-count">13</span>
+      </div>
+    </div>
+
+    <div class="sb-section" id="sidebar-filters">
+      <div class="sb-label">Filter</div>
+      <div class="fg">
+        <label class="fl">Brand</label>
+        <select id="filter-brand" onchange="applyFilters()">
+          <option value="">All brands</option>
+        </select>
+      </div>
+      <div class="fg" id="filter-model-group">
+        <label class="fl">Model</label>
+        <select id="filter-model" onchange="applyFilters()">
+          <option value="">All models</option>
+        </select>
+      </div>
+      <div class="fg" id="filter-conf-group">
+        <label class="fl">Confidence</label>
+        <select id="filter-conf" onchange="applyFilters()">
+          <option value="">All</option>
+          <option value="confirmed">Confirmed</option>
+          <option value="probable">Probable</option>
+        </select>
+      </div>
+      <div class="fg" id="filter-map-group" style="display:none">
+        <label class="fl">Map section</label>
+        <select id="filter-map" onchange="applyFilters()">
+          <option value="">All maps</option>
+        </select>
+      </div>
+    </div>
+
+    <div class="sb-section">
+      <div class="sb-label">ANH models</div>
+      <div id="model-nav"></div>
+    </div>
+  </aside>
+
+  <main class="main">
+    <div class="toolbar">
+      <input class="search-input" id="search-input" type="text"
+        placeholder="Search kits, brands, parts…"
+        oninput="onSearchInput(this.value)">
+      <div style="display:flex;gap:6px;margin-left:8px">
+        <button class="page-btn" onclick="expandAllVisible()" title="Expand all visible">Expand all</button>
+        <button class="page-btn" onclick="collapseAllVisible()" title="Collapse all visible">Collapse all</button>
+        <button class="page-btn" onclick="openKitEditor()" title="Add a new kit">Add kit</button>
+      </div>
+    </div>
+    <div id="result-meta" class="result-meta"></div>
+    <div id="content"></div>
+    <div id="pagination" class="pagination"></div>
+  </main>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script>
+const API = 'http://localhost:5000';
+const PAGE_SIZE = 30;
+
+let state = {
+  view: 'kits',
+  search: '',
+  brand: '',
+  model: '',
+  conf: '',
+  map: '',
+  page: 1,
+  kits: [],
+  connections: [],
+  placements: [],
+  models: [],
+  maps: [],
+  expandedIds: {},
+  sortBy: 'name',
+  sortDir: 'asc',
+  expandedDetail: {},
+  searchTimeout: null,
+  kitCatalog: null,
+};
+
+async function api(path) {
+  try {
+    const r = await fetch(API + path);
+    if (!r.ok) throw new Error(r.status);
+    const j = await r.json();
+    return j.ok ? (j.data ?? j) : null;
+  } catch(e) {
+    return null;
+  }
+}
+
+async function getKitCatalog() {
+  if (Array.isArray(state.kitCatalog) && state.kitCatalog.length) return state.kitCatalog;
+  const data = await api('/api/kits');
+  const kits = Array.isArray(data) ? data : (data?.data || []);
+  state.kitCatalog = kits;
+  return kits;
+}
+
+function toast(msg) {
+  const t = document.getElementById('toast');
+  t.textContent = msg;
+  t.classList.add('show');
+  setTimeout(() => t.classList.remove('show'), 2200);
+}
+// ── KIT EDITOR (modal) ─────────────────────────────────────────
+function openKitEditor(id) {
+  if (document.getElementById('kit-editor-overlay')) return;
+  const isNew = !id;
+  const title = isNew ? 'Add kit' : 'Edit kit';
+  const overlay = document.createElement('div');
+  overlay.id = 'kit-editor-overlay';
+  overlay.className = 'modal-overlay';
+  overlay.innerHTML = `
+    <div class="modal" role="dialog" aria-modal="true">
+      <h3>${title}</h3>
+      <div id="kit-editor-form">
+        <div class="form-row"><input id="ke-brand" placeholder="Brand"/></div>
+        <div class="form-row"><input id="ke-name" placeholder="Name"/></div>
+        <div class="form-row"><input id="ke-scale" placeholder="Scale"/><input id="ke-serial" placeholder="Serial number"/></div>
+        <div class="form-row"><input id="ke-category-family" placeholder="Category family"/><input id="ke-category-subject" placeholder="Category subject"/></div>
+        <div class="form-row"><input id="ke-scalemates" placeholder="Scalemates URL"/><input id="ke-scans" placeholder="Scans URL"/></div>
+        <div class="form-row"><input id="ke-instructions" placeholder="Instructions URL"/></div>
+        <div class="form-row"><input id="ke-availability" placeholder="Availability"/></div>
+        <div class="form-row"><input id="ke-attributed" placeholder="Attributed to"/></div>
+        <div class="form-row"><textarea id="ke-notes" placeholder="Notes"></textarea></div>
+        <div class="actions">
+          <button class="page-btn" onclick="closeKitEditor()">Cancel</button>
+          <button class="page-btn" id="ke-submit">Save</button>
+        </div>
+      </div>
+    </div>`;
+  document.body.appendChild(overlay);
+  const submitBtn = document.getElementById('ke-submit');
+  submitBtn.onclick = async () => await submitKitForm(id);
+  if (!isNew) {
+    const d = await api(`/api/kits/${id}`);
+    if (!d) { toast('Could not load kit for editing'); return; }
+    const kit = d.kit || d;
+    document.getElementById('ke-brand').value = kit.brand || '';
+    document.getElementById('ke-name').value  = kit.name  || '';
+    document.getElementById('ke-scale').value = kit.scale || '';
+    document.getElementById('ke-serial').value = kit.serial_number || '';
+    document.getElementById('ke-category-family').value = kit.category_family || '';
+    document.getElementById('ke-category-subject').value = kit.category_subject || '';
+    document.getElementById('ke-scalemates').value = kit.scalemates_url || '';
+    document.getElementById('ke-scans').value = kit.scans_url || '';
+    document.getElementById('ke-instructions').value = kit.instructions_url || '';
+    document.getElementById('ke-availability').value = kit.availability || '';
+    document.getElementById('ke-attributed').value = kit.attributed_to || '';
+    document.getElementById('ke-notes').value = kit.notes || '';
+  }
+  setTimeout(()=>document.getElementById('ke-brand')?.focus(), 50);
+}
+
+function closeKitEditor() {
+  const ov = document.getElementById('kit-editor-overlay');
+  if (ov) ov.remove();
+}
+
+async function submitKitForm(id) {
+  const data = {
+    brand: document.getElementById('ke-brand').value.trim(),
+    name:  document.getElementById('ke-name').value.trim(),
+    scale: document.getElementById('ke-scale').value.trim() || null,
+    serial_number: document.getElementById('ke-serial').value.trim() || null,
+    category_family: document.getElementById('ke-category-family').value.trim() || null,
+    category_subject: document.getElementById('ke-category-subject').value.trim() || null,
+    scalemates_url: document.getElementById('ke-scalemates').value.trim() || null,
+    scans_url: document.getElementById('ke-scans').value.trim() || null,
+    instructions_url: document.getElementById('ke-instructions').value.trim() || null,
+    availability: document.getElementById('ke-availability').value.trim() || 'unknown',
+    attributed_to: document.getElementById('ke-attributed').value.trim() || null,
+    notes: document.getElementById('ke-notes').value.trim() || null
+  };
+  if (!data.brand || !data.name) { toast('Brand and Name are required'); return; }
+  const hdrs = {'Content-Type':'application/json'};
+  const ak = localStorage.getItem('adminKey'); if (ak) hdrs['X-API-Key'] = ak;
+  if (localStorage.getItem('adminMode') === '1') hdrs['X-Admin-Local'] = '1';
+  try {
+    let res;
+    if (id) {
+      res = await fetch(API + `/api/kits/${id}`, { method: 'PUT', headers: hdrs, body: JSON.stringify(data) });
+    } else {
+      res = await fetch(API + '/api/kits', { method: 'POST', headers: hdrs, body: JSON.stringify(data) });
+    }
+    if (!res.ok) {
+      let body = await res.text();
+      try { body = JSON.parse(body); } catch(e){}
+      console.error('Save failed', res.status, body);
+      if (res.status === 401) {
+        const k = prompt('Server requires admin key. Enter key:','');
+        if (k) { localStorage.setItem('adminKey', k); toast('Admin key set — retrying'); submitKitForm(id); return; }
+      }
+      toast('Save failed: '+(body?.error || body || res.status));
+      return;
+    }
+    closeKitEditor();
+    toast('Saved');
+    await loadKits();
+  } catch (e) {
+    console.error(e); toast('Error saving kit');
+  }
+}
+
+// ── INIT ───────────────────────────────────────────────────────
+async function init() {
+  await Promise.all([loadModels(), loadBrands()]);
+  await loadKits();
+  updateStats();
+}
+
+async function updateStats() {
+  const h = await api('/api/health');
+  if (!h) return;
+  const c = h.counts || {};
+  const bar = document.getElementById('stats-bar');
+  bar.innerHTML = `
+    <div class="stat"><span class="stat-n">${(c.kits||0).toLocaleString()}</span><span class="stat-l">Donor kits</span></div>
+    <div class="stat"><span class="stat-n">${(c.parts||0).toLocaleString()}</span><span class="stat-l">Parts identified</span></div>
+    <div class="stat"><span class="stat-n">${(c.placements||0).toLocaleString()}</span><span class="stat-l">Placements</span></div>
+    <div class="stat"><span class="stat-n">13</span><span class="stat-l">ILM models</span></div>
+  `;
+}
+
+async function loadModels() {
+  const data = await api('/api/models');
+  if (!data) return;
+  state.models = Array.isArray(data) ? data : (data.data || []);
+  const sel = document.getElementById('filter-model');
+  state.models.forEach(m => {
+    const o = document.createElement('option');
+    o.value = m.id; o.textContent = m.name;
+    sel.appendChild(o);
+  });
+  // model nav
+  const nav = document.getElementById('model-nav');
+  nav.innerHTML = state.models.map(m => `
+    <div class="nav-item" onclick="filterByModel(${m.id})" id="mnav-${m.id}">
+      <span>${m.name}</span>
+    </div>
+  `).join('');
+}
+
+async function loadBrands() {
+  const data = await api('/api/kits');
+  if (!data) return;
+  const kits = Array.isArray(data) ? data : (data.data || []);
+  const brands = {};
+  kits.forEach(k => { brands[k.brand] = (brands[k.brand] || 0) + 1; });
+  const sel = document.getElementById('filter-brand');
+  Object.entries(brands).sort((a,b) => b[1]-a[1]).forEach(([br,c]) => {
+    const o = document.createElement('option');
+    o.value = br; o.textContent = `${br} (${c})`;
+    sel.appendChild(o);
+  });
+}
+
+// ── VIEWS ──────────────────────────────────────────────────────
+function setView(v) {
+  state.view = v; state.page = 1; state.expandedIds = {};
+  document.querySelectorAll('.nav-item[data-view]').forEach(el => {
+    el.classList.toggle('active', el.dataset.view === v);
+  });
+  document.getElementById('filter-map-group').style.display =
+    v === 'placements' ? 'block' : 'none';
+  document.getElementById('filter-conf-group').style.display =
+    (v === 'placements' || v === 'kits') ? 'block' : 'none';
+  document.getElementById('filter-model-group').style.display =
+    v !== 'models' ? 'block' : 'none';
+  if (v === 'kits') loadKits();
+  else if (v === 'connections') loadConnections();
+  else if (v === 'placements') loadPlacements();
+  else if (v === 'models') loadModelsView();
+}
+
+function setTab(t) {
+  document.querySelectorAll('.tab').forEach(el => el.classList.toggle('active', el.dataset.tab === t));
+}
+
+function filterByModel(id) {
+  document.getElementById('filter-model').value = id;
+  state.model = id; state.page = 1;
+  if (state.view === 'kits') loadKits();
+  else if (state.view === 'placements') loadPlacements();
+  else setView('placements');
+  document.querySelectorAll('#model-nav .nav-item').forEach(el => el.classList.remove('active'));
+  document.getElementById('mnav-' + id)?.classList.add('active');
+}
+
+function applyFilters() {
+  state.brand = document.getElementById('filter-brand').value;
+  state.model = document.getElementById('filter-model').value;
+  state.conf  = document.getElementById('filter-conf').value;
+  state.map   = document.getElementById('filter-map').value;
+  state.page  = 1;
+  if (state.view === 'kits') loadKits();
+  else if (state.view === 'connections') loadConnections();
+  else if (state.view === 'placements') loadPlacements();
+}
+
+let searchDebounce;
+function onSearchInput(v) {
+  clearTimeout(searchDebounce);
+  state.search = v; state.page = 1;
+  searchDebounce = setTimeout(() => {
+    if (state.view === 'kits') loadKits();
+    else if (state.view === 'connections') loadConnections();
+    else if (state.view === 'placements') loadPlacements();
+  }, 280);
+}
+
+// ── KITS VIEW ──────────────────────────────────────────────────
+async function loadKits() {
+  showLoading();
+  let url = '/api/kits?';
+  if (state.search) url += `q=${encodeURIComponent(state.search)}&`;
+  if (state.brand)  url += `brand=${encodeURIComponent(state.brand)}&`;
+
+  let data = await api(url);
+  if (!data) { showError(); return; }
+  let kits = Array.isArray(data) ? data : (data.data || []);
+
+  // client-side filter by model: need to cross-ref via placements
+  if (state.model) {
+    const placements = await api(`/api/placements?model_id=${state.model}`);
+    const pls = Array.isArray(placements) ? placements : (placements?.data || []);
+    const kitIds = new Set(pls.map(p => {
+      // kit_id from placement directly (kit-level), or brand+kit_name combo
+      return p.kit_id_from_part || p.kit_id;
+    }).filter(Boolean));
+    // simpler: get kit ids mentioned in those placements
+    const kitIdSet = new Set();
+    pls.forEach(p => {
+      if (p.kit_id) kitIdSet.add(p.kit_id);
+      // brand+name match
+    });
+    // fallback: show all kits in this model by name
+    const modelKitNames = new Set(pls.map(p => p.kit_name).filter(Boolean));
+    kits = kits.filter(k => modelKitNames.has(k.name) || kitIdSet.has(k.id));
+  }
+
+  state.kits = kits;
+  document.getElementById('nav-count-kits').textContent = kits.length.toLocaleString();
+  renderKits(kits);
+}
+
+function renderKits(kits) {
+  const total = kits.length;
+  document.getElementById('result-meta').textContent =
+    `${total.toLocaleString()} kit${total !== 1 ? 's' : ''}${state.search ? ` matching "${state.search}"` : ''}`;
+
+  const content = document.getElementById('content');
+  if (!kits.length) { content.innerHTML = '<div class="state-box">No kits found</div>'; return; }
+
+  // Sort kits according to state.sortBy / sortDir
+  const sorted = [...kits].sort((a,b) => {
+    const key = state.sortBy || 'name';
+    const get = (k) => {
+      if (key === 'brand') return (k.brand || '').toLowerCase();
+      if (key === 'name') return (k.name || '').toLowerCase();
+      if (key === 'scale') return (k.scale || '').toLowerCase();
+      if (key === 'models' || key === 'parts') {
+        // try to read badge text from DOM (if available), fallback to 0
+        const el = document.getElementById(`kc-${k.id}`) || {};
+        const id = k.id;
+        const badgeEl = document.getElementById(`kc-${key === 'models' ? 'models' : 'parts'}-${id}`);
+        if (badgeEl) {
+          const m = (badgeEl.textContent || '').match(/(\d+)/);
+          return m ? Number(m[1]) : 0;
+        }
+        return 0;
+      }
+      return (k.name || '').toLowerCase();
+    };
+    const va = get(a), vb = get(b);
+    if (typeof va === 'number' || typeof vb === 'number') return (va - vb) * (state.sortDir === 'asc' ? 1 : -1);
+    if (va < vb) return state.sortDir === 'asc' ? -1 : 1;
+    if (va > vb) return state.sortDir === 'asc' ? 1 : -1;
+    return 0;
+  });
+
+  // header with clickable sort
+  const header = (field, label, style='') => {
+    const arrow = state.sortBy === field ? (state.sortDir === 'asc' ? '▲' : '▼') : '';
+    return `<th style="${style}" onclick="sortBy('${field}')">${label}<span class="sort-ind">${arrow}</span></th>`;
+  };
+
+  const rows = sorted.map(k => kitRow(k)).join('');
+  content.innerHTML = `
+    <table class="kit-table">
+      <thead>
+        <tr>
+          ${header('brand','Brand')}
+          ${header('name','Name')}
+          ${header('models','Models','width:120px;')}
+          ${header('parts','Parts','width:90px;')}
+          ${header('scale','Scale','width:80px;')}
+        </tr>
+      </thead>
+      <tbody>
+        ${rows}
+      </tbody>
+    </table>
+  `;
+
+  // re-attach expanded state
+  Object.keys(state.expandedIds || {}).forEach(id => {
+    const el = document.getElementById('kc-' + id);
+    if (el) {
+      el.classList.add('expanded');
+      renderKitDetail(id);
+    }
+  });
+}
+
+// ── PART EDITOR ─────────────────────────────────────────────────
+async function openPartEditor(partId, kitId) {
+  if (document.getElementById('part-editor-overlay')) return;
+  const isNew = !partId;
+  const overlay = document.createElement('div');
+  overlay.id = 'part-editor-overlay'; overlay.className='modal-overlay';
+  overlay.innerHTML = `
+    <div class="modal"><h3>${isNew?'Add part':'Edit part'}</h3>
+      <div class="form-row"><input id="pe-part-number" placeholder="Part number"/></div>
+      <div class="form-row"><input id="pe-part-label" placeholder="Part label"/></div>
+      <div class="form-row"><input id="pe-attributed" placeholder="Attributed to"/></div>
+      <div class="form-row"><textarea id="pe-notes" placeholder="Notes"></textarea></div>
+      <div class="actions"><button class="page-btn" onclick="document.getElementById('part-editor-overlay')?.remove()">Cancel</button>
+      <button class="page-btn" id="pe-save">Save</button></div>
+    </div>`;
+  document.body.appendChild(overlay);
+  document.getElementById('pe-save').onclick = async () => {
+    const data = {
+      kit_id: kitId,
+      part_number: document.getElementById('pe-part-number').value.trim(),
+      part_label: document.getElementById('pe-part-label').value.trim() || null,
+      notes: document.getElementById('pe-notes').value.trim() || null,
+      attributed_to: document.getElementById('pe-attributed').value.trim() || null
+    };
+    if (!data.part_number) { toast('Part number required'); return; }
+    const hdrs = {'Content-Type':'application/json'}; const ak = localStorage.getItem('adminKey'); if (ak) hdrs['X-API-Key']=ak;
+    if (localStorage.getItem('adminMode') === '1') hdrs['X-Admin-Local'] = '1';
+    try {
+      let res;
+      if (partId) res = await fetch(API+`/api/parts/${partId}`, {method:'PUT', headers:hdrs, body:JSON.stringify(data)});
+      else res = await fetch(API+'/api/parts', {method:'POST', headers:hdrs, body:JSON.stringify(data)});
+      if (!res.ok) {
+        let body = await res.text(); try { body = JSON.parse(body); } catch(e){}
+        console.error('Part save failed', res.status, body);
+        if (res.status === 401) {
+          const k = prompt('Server requires admin key. Enter key:',''); if (k) { localStorage.setItem('adminKey', k); toast('Admin key set — retrying'); document.getElementById('pe-save').click(); return; }
+        }
+        toast('Save failed: '+(body?.error || body || res.status));
+        return;
+      }
+      document.getElementById('part-editor-overlay')?.remove();
+      toast('Saved');
+      // refresh kit detail
+      delete state.expandedDetail[kitId]; renderKitDetail(kitId);
+    } catch(e){ console.error(e); toast('Error saving part'); }
+  };
+  if (!isNew) {
+    const d = await api(`/api/parts/${partId}`);
+    if (d && d.part) {
+      document.getElementById('pe-part-number').value = d.part.part_number || '';
+      document.getElementById('pe-part-label').value  = d.part.part_label || '';
+      document.getElementById('pe-notes').value       = d.part.notes || '';
+      document.getElementById('pe-attributed').value  = d.part.attributed_to || '';
+    }
+  }
+}
+
+function sortBy(field) {
+  if (state.sortBy === field) state.sortDir = (state.sortDir === 'asc' ? 'desc' : 'asc');
+  else { state.sortBy = field; state.sortDir = 'asc'; }
+  renderKits(state.kits);
+}
+
+function kitCard(k) {
+  const coffman = k.coffman_ref || '';
+  return `
+  <div class="kit-card" id="kc-${k.id}" onclick="toggleKit(${k.id}, this)">
+    <div class="kit-card-top">
+      <div style="min-width:0">
+        <div class="kit-brand">${esc(k.brand)}</div>
+        <div class="kit-name">${esc(k.name)}</div>
+        <div class="kit-meta">
+          ${k.scale ? `<span class="badge badge-scale">${esc(k.scale)}</span>` : ''}
+          ${k.serial_number ? `<span class="badge badge-scale">${esc(k.serial_number)}</span>` : ''}
+          ${k.category_family ? `<span class="badge badge-scale">${esc(k.category_family)}</span>` : ''}
+          ${k.category_subject ? `<span class="badge badge-scale">${esc(k.category_subject)}</span>` : ''}
+          ${coffman ? `<span class="badge badge-coffman">Coffman ${coffman}</span>` : ''}
+        </div>
+      </div>
+      <div class="kit-card-right">
+        <span class="badge badge-models" id="kc-models-${k.id}">—</span>
+        <span class="badge badge-parts" id="kc-parts-${k.id}">—</span>
+      </div>
+    </div>
+    <div class="kit-detail" id="kd-${k.id}"></div>
+  </div>`;
+}
+
+function kitRow(k) {
+  return `
+    <tr class="row" id="kc-${k.id}" onclick="toggleKit(${k.id}, this)">
+      <td class="kit-brand">${esc(k.brand)}</td>
+      <td class="kit-name">${esc(k.name)}</td>
+      <td class="kit-models" id="kc-models-${k.id}">—</td>
+      <td class="kit-parts" id="kc-parts-${k.id}">—</td>
+      <td class="kit-scale">${esc(k.scale || '')}</td>
+    </tr>
+    <tr class="kit-detail-row" id="kd-row-${k.id}">
+      <td class="kit-detail-cell" colspan="5"><div id="kd-${k.id}"></div></td>
+    </tr>
+  `;
+}
+
+async function toggleKit(id, el) {
+  // Normalize to the canonical element with id `kc-<id>` (works for table rows or card divs)
+  const row = document.getElementById('kc-' + id);
+  if (!row) return;
+  const was = !!state.expandedIds[id];
+  if (was) {
+    delete state.expandedIds[id];
+    row.classList.remove('expanded');
+    return;
+  }
+  // expand
+  state.expandedIds[id] = true;
+  row.classList.add('expanded');
+  await renderKitDetail(id);
+}
+
+function expandAllVisible() {
+  document.querySelectorAll('tr.row').forEach(r => {
+    const id = r.id?.replace('kc-','');
+    if (!id) return;
+    if (!state.expandedIds[id]) {
+      state.expandedIds[id] = true;
+      r.classList.add('expanded');
+      renderKitDetail(id);
+    }
+  });
+}
+
+function collapseAllVisible() {
+  document.querySelectorAll('tr.row.expanded').forEach(r => {
+    const id = r.id?.replace('kc-','');
+    if (!id) return;
+    delete state.expandedIds[id];
+    r.classList.remove('expanded');
+  });
+}
+
+function promptAdminKey() {
+  const cur = localStorage.getItem('adminKey') || '';
+  const v = prompt('Enter admin API key (leave blank to clear):', cur);
+  if (v === null) return;
+  if (!v) {
+    localStorage.removeItem('adminKey');
+    toast('Admin key cleared');
+  } else {
+    localStorage.setItem('adminKey', v);
+    toast('Admin key set');
+  }
+}
+
+function toggleLocalAdmin() {
+  const cur = localStorage.getItem('adminMode') === '1';
+  if (cur) {
+    localStorage.removeItem('adminMode');
+    document.getElementById('local-admin-btn').textContent = 'Admin (local)';
+    toast('Local admin mode disabled');
+  } else {
+    localStorage.setItem('adminMode','1');
+    document.getElementById('local-admin-btn').textContent = 'Admin (local) ✓';
+    toast('WARNING: Local admin mode enabled — edits are not authenticated. Use only on this machine.');
+  }
+}
+
+// Initialize admin-ui state on load
+setTimeout(()=>{
+  if (localStorage.getItem('adminMode') === '1') {
+    document.getElementById('local-admin-btn').textContent = 'Admin (local) ✓';
+    toast('Local admin mode is active — edits will be allowed locally', 2500);
+  }
+}, 300);
+
+async function renderKitDetail(id) {
+  const detailEl = document.getElementById('kd-'+id);
+  if (!detailEl) return;
+  if (state.expandedDetail[id]) { detailEl.innerHTML = state.expandedDetail[id]; return; }
+  detailEl.innerHTML = '<div class="state-box" style="padding:1rem 0"><div class="spinner"></div></div>';
+
+  const d = await api(`/api/kits/${id}`);
+  if (!d) { detailEl.innerHTML = '<p style="font-size:13px;color:var(--ink3)">Could not load detail</p>'; return; }
+
+  const kit = d.kit || d;
+  const parts = d.parts || [];
+  const refs  = d.references || [];
+  const models = d.used_on_models || [];
+
+  // update badges
+  const modelsEl = document.getElementById('kc-models-'+id);
+  const partsEl  = document.getElementById('kc-parts-'+id);
+  if (modelsEl) modelsEl.textContent = models.length + (models.length === 1 ? ' model' : ' models');
+  if (partsEl)  partsEl.textContent  = parts.length  + (parts.length  === 1 ? ' part'  : ' parts');
+
+  const coffmanRefs = refs.filter(r => r.system === 'coffman').map(r => r.value).join(', ');
+  const links = [];
+  if (kit.scalemates_url) links.push(`<a class="detail-link" href="${esc(kit.scalemates_url)}" target="_blank">Scalemates ↗</a>`);
+  if (kit.scans_url)      links.push(`<a class="detail-link" href="${esc(kit.scans_url)}" target="_blank">Kit scans ↗</a>`);
+  if (kit.instructions_url && kit.instructions_url !== 'yes') links.push(`<a class="detail-link" href="${esc(kit.instructions_url)}" target="_blank">Instructions ↗</a>`);
+  const categoryBits = [kit.category_family, kit.category_subject].filter(Boolean);
+
+  const html = `
+    <div style="display:flex;justify-content:flex-end;margin-bottom:6px">
+      <button class="page-btn" onclick="openKitEditor(${id})">Edit</button>
+    </div>
+    ${categoryBits.length ? `<div class="detail-section">
+      <div class="detail-head">Category</div>
+      <div class="parts-list">
+        ${categoryBits.map(bit => `<span class="part-chip">${esc(bit)}</span>`).join('')}
+      </div>
+    </div>` : ''}
+    ${coffmanRefs ? `<div class="detail-section">
+      <div class="detail-head">Coffman reference</div>
+      <span class="badge badge-coffman" style="font-size:12px">#${coffmanRefs}</span>
+    </div>` : ''}
+    ${models.length ? `<div class="detail-section">
+      <div class="detail-head">Appears on ${models.length} model${models.length !== 1 ? 's' : ''}</div>
+      <div class="model-pill-grid">
+        ${models.map(m => `<span class="model-pill${m.name.includes('Falcon') ? ' falcon' : ''}">${esc(m.name)}</span>`).join('')}
+      </div>
+    </div>` : ''}
+    ${parts.length ? `<div class="detail-section">
+      <div style="display:flex;justify-content:space-between;align-items:center">
+        <div class="detail-head">${parts.length} part${parts.length !== 1 ? 's' : ''} identified</div>
+        <div><button class="page-btn" onclick="openPartEditor(null, ${id})">Add part</button></div>
+      </div>
+      <div class="parts-list">
+        ${parts.slice(0, 40).map(p => `<span class="part-chip" onclick="openPartEditor(${p.id}, ${id})" style="cursor:pointer">${esc(p.part_number)}</span>`).join('')}
+        ${parts.length > 40 ? `<span class="part-chip" style="color:var(--ink3)">+${parts.length-40} more</span>` : ''}
+      </div>
+    </div>` : ''}
+    ${links.length ? `<div class="detail-section">
+      <div class="detail-head">Links</div>
+      <div class="detail-links">${links.join('')}</div>
+    </div>` : ''}
+    ${kit.notes ? `<div class="detail-section">
+      <div class="detail-head">Notes</div>
+      <p style="font-size:13px;color:var(--ink2);font-style:italic">${esc(kit.notes)}</p>
+    </div>` : ''}
+  `;
+
+  state.expandedDetail[id] = html;
+  detailEl.innerHTML = html;
+}
+
+// ── CONNECTIONS VIEW ───────────────────────────────────────────
+async function loadConnections() {
+  showLoading();
+  const data = await api('/api/connections');
+  let conns = Array.isArray(data) ? data : (data?.data || []);
+
+  if (state.search) {
+    const q = state.search.toLowerCase();
+    conns = conns.filter(c =>
+      c.kit_name.toLowerCase().includes(q) || c.brand.toLowerCase().includes(q)
+    );
+  }
+  if (state.brand) conns = conns.filter(c => c.brand === state.brand);
+  if (state.model) {
+    const mName = state.models.find(m => m.id == state.model)?.name;
+    if (mName) conns = conns.filter(c => c.appears_on?.includes(mName));
+  }
+
+  state.connections = conns;
+  document.getElementById('nav-count-conn').textContent = conns.length.toLocaleString();
+
+  if (!conns.length) {
+    document.getElementById('content').innerHTML = '<div class="state-box">No connections found</div>';
+    document.getElementById('result-meta').textContent = '0 results';
+    renderPagination(0,1);
+    return;
+  }
+
+  const total = conns.length;
+  const pages = Math.ceil(total / PAGE_SIZE);
+  const slice = conns.slice((state.page-1)*PAGE_SIZE, state.page*PAGE_SIZE);
+
+  document.getElementById('result-meta').textContent =
+    `${total.toLocaleString()} kit${total !== 1 ? 's' : ''} shared across 2+ models`;
+
+  const allModels = state.models.map(m => m.name);
+  document.getElementById('content').innerHTML = '<div class="card-grid">' +
+    slice.map(c => connCard(c, allModels)).join('') + '</div>';
+
+  renderPagination(pages, state.page);
+}
+
+function connCard(c, allModels) {
+  const appears = (c.appears_on || '').split(',');
+  const dots = allModels.map(m =>
+    `<span class="conn-model-dot${appears.includes(m) ? ' active' : ''}">${shortModel(m)}</span>`
+  ).join('');
+  return `
+  <div class="conn-card" id="cc-${c.kit_id}" onclick="toggleConn(${c.kit_id}, this)">
+    <div class="conn-top">
+      <div>
+        <div class="kit-brand">${esc(c.brand)}</div>
+        <div class="kit-name">${esc(c.kit_name)}</div>
+      </div>
+      <span class="badge badge-models">${c.model_count} models</span>
+    </div>
+    <div class="conn-models-bar">${dots}</div>
+    <div class="conn-detail" id="cd-${c.kit_id}">
+      <div class="state-box" style="padding:0.75rem 0"><div class="spinner"></div></div>
+    </div>
+  </div>`;
+}
+
+async function toggleConn(id, el) {
+  const detail = document.getElementById('cd-'+id);
+  if (el.classList.contains('expanded')) {
+    el.classList.remove('expanded');
+    return;
+  }
+  document.querySelectorAll('.conn-card.expanded').forEach(e => e.classList.remove('expanded'));
+  el.classList.add('expanded');
+
+  // Load kit detail to show parts
+  const d = await api(`/api/kits/${id}`);
+  if (!d) { detail.innerHTML = '<p style="font-size:13px;color:var(--ink3)">Could not load</p>'; return; }
+  const parts = d.parts || [];
+  const models = d.used_on_models || [];
+  const refs = (d.references||[]).filter(r=>r.system==='coffman').map(r=>r.value).join(', ');
+
+  const links = [];
+  const kit = d.kit || d;
+  if (kit.scalemates_url) links.push(`<a class="detail-link" href="${esc(kit.scalemates_url)}" target="_blank">Scalemates ↗</a>`);
+  if (kit.scans_url) links.push(`<a class="detail-link" href="${esc(kit.scans_url)}" target="_blank">Kit scans ↗</a>`);
+
+  detail.innerHTML = `
+    <div class="detail-section">
+      <div class="detail-head">${models.length} models use this kit</div>
+      <div class="model-pill-grid">
+        ${models.map(m => `<span class="model-pill${m.name.includes('Falcon')?'  falcon':''}">${esc(m.name)}</span>`).join('')}
+      </div>
+    </div>
+    ${parts.length ? `<div class="detail-section">
+      <div class="detail-head">${parts.length} parts identified · ${refs ? 'Coffman #'+refs : ''}</div>
+      <div class="parts-list">
+        ${parts.slice(0,30).map(p=>`<span class="part-chip">${esc(p.part_number)}</span>`).join('')}
+        ${parts.length>30?`<span class="part-chip" style="color:var(--ink3)">+${parts.length-30} more</span>`:''}
+      </div>
+    </div>` : ''}
+    ${links.length ? `<div class="detail-links" style="margin-top:0.5rem">${links.join('')}</div>` : ''}
+  `;
+}
+
+// ── PLACEMENT EDITOR ────────────────────────────────────────────
+async function openPlacementEditorLegacy(id) {
+  if (document.getElementById('placement-editor-overlay')) return;
+  const overlay = document.createElement('div');
+  overlay.id='placement-editor-overlay'; overlay.className='modal-overlay';
+  overlay.innerHTML = `
+    <div class="modal"><h3>Edit placement</h3>
+      <div class="form-row"><input id="ple-model" placeholder="Model ID"/></div>
+      <div class="form-row"><input id="ple-map" placeholder="Map ID (optional)"/></div>
+      <div class="form-row"><input id="ple-part" placeholder="Part ID (optional)"/></div>
+      <div class="form-row"><input id="ple-kit" placeholder="Kit ID (optional)"/></div>
+      <div class="form-row"><input id="ple-location" placeholder="Location label"/><input id="ple-copies" placeholder="Copy count"/></div>
+      <div class="form-row"><select id="ple-confidence"><option value="confirmed">confirmed</option><option value="probable">probable</option><option value="uncertain">uncertain</option></select></div>
+      <div class="form-row"><textarea id="ple-notes" placeholder="Notes"></textarea></div>
+      <div class="actions"><button class="page-btn" onclick="document.getElementById('placement-editor-overlay')?.remove()">Cancel</button>
+      <button class="page-btn" id="ple-save">Save</button></div>
+    </div>`;
+  document.body.appendChild(overlay);
+  document.getElementById('ple-save').onclick = async () => {
+    const data = {
+      model_id: document.getElementById('ple-model').value || null,
+      map_id: document.getElementById('ple-map').value || null,
+      part_id: document.getElementById('ple-part').value || null,
+      kit_id: document.getElementById('ple-kit').value || null,
+      location_label: document.getElementById('ple-location').value || null,
+      copy_count: Number(document.getElementById('ple-copies').value) || 1,
+      confidence: document.getElementById('ple-confidence').value || 'confirmed',
+      notes: document.getElementById('ple-notes').value || null
+    };
+    const hdrs={'Content-Type':'application/json'}; const ak=localStorage.getItem('adminKey'); if(ak) hdrs['X-API-Key']=ak;
+    if (localStorage.getItem('adminMode') === '1') hdrs['X-Admin-Local'] = '1';
+    try {
+      const res = await fetch(API + `/api/placements/${id}`, {method:'PUT', headers:hdrs, body:JSON.stringify(data)});
+      if(!res.ok){
+        let body = await res.text(); try{ body = JSON.parse(body);}catch(e){}
+        console.error('Placement save failed', res.status, body);
+        if (res.status === 401) {
+          const k = prompt('Server requires admin key. Enter key:',''); if (k) { localStorage.setItem('adminKey', k); toast('Admin key set — retrying'); document.getElementById('ple-save').click(); return; }
+        }
+        toast('Save failed: '+(body?.error || body || res.status));
+        return;
+      }
+      document.getElementById('placement-editor-overlay')?.remove(); toast('Saved');
+      loadPlacements();
+    } catch(e){ console.error(e); toast('Error saving placement'); }
+  };
+  // populate fields
+  const d = await api(`/api/placements/${id}`);
+  if (d && d.placement) {
+    const p = d.placement;
+    document.getElementById('ple-model').value = p.model_id || '';
+    document.getElementById('ple-map').value = p.map_id || '';
+    document.getElementById('ple-part').value = p.part_id || '';
+    document.getElementById('ple-kit').value = p.kit_id || '';
+    document.getElementById('ple-location').value = p.location_label || '';
+    document.getElementById('ple-copies').value = p.copy_count || 1;
+    document.getElementById('ple-confidence').value = p.confidence || 'confirmed';
+    document.getElementById('ple-notes').value = p.notes || '';
+  }
+}
+
+function formatKitPickerLabel(kit) {
+  const primary = [kit.brand, kit.name].filter(Boolean).join(' - ');
+  const meta = [kit.scale, kit.serial_number].filter(Boolean).join(' / ');
+  return meta ? `${primary} / ${meta}` : primary;
+}
+
+async function openPlacementEditor(id) {
+  if (document.getElementById('placement-editor-overlay')) return;
+  const kitCatalog = await getKitCatalog();
+  const overlay = document.createElement('div');
+  overlay.id='placement-editor-overlay'; overlay.className='modal-overlay';
+  overlay.innerHTML = `
+    <div class="modal"><h3>Edit placement</h3>
+      <div class="form-row"><input id="ple-model" placeholder="Model ID"/></div>
+      <div class="form-row"><input id="ple-map" placeholder="Map ID (optional)"/></div>
+      <div class="form-row"><input id="ple-part" placeholder="Part ID (optional)"/></div>
+      <input id="ple-kit" type="hidden"/>
+      <input id="ple-cast-assembly" type="hidden"/>
+      <div class="form-row">
+        <div class="picker-shell">
+          <input id="ple-kit-search" placeholder="Search kit table by brand, name, serial, scale"/>
+          <div class="picker-selected" id="ple-kit-selected"></div>
+          <div class="picker-results" id="ple-kit-results"></div>
+          <div class="picker-note" id="ple-kit-note">Search to attach this placement to a real kit record.</div>
+        </div>
+      </div>
+      <div class="form-row"><input id="ple-location" placeholder="Location label"/><input id="ple-copies" placeholder="Copy count"/></div>
+      <div class="form-row"><select id="ple-confidence"><option value="confirmed">confirmed</option><option value="probable">probable</option><option value="uncertain">uncertain</option></select></div>
+      <div class="form-row"><textarea id="ple-notes" placeholder="Notes"></textarea></div>
+      <div class="actions"><button class="page-btn" onclick="document.getElementById('placement-editor-overlay')?.remove()">Cancel</button>
+      <button class="page-btn" id="ple-save">Save</button></div>
+    </div>`;
+  document.body.appendChild(overlay);
+
+  const partInput = document.getElementById('ple-part');
+  const kitInput = document.getElementById('ple-kit');
+  const castAssemblyInput = document.getElementById('ple-cast-assembly');
+  const kitSearchInput = document.getElementById('ple-kit-search');
+  const kitSelected = document.getElementById('ple-kit-selected');
+  const kitResults = document.getElementById('ple-kit-results');
+  const kitNote = document.getElementById('ple-kit-note');
+
+  const setPickerNote = (message, tone='') => {
+    kitNote.textContent = message;
+    kitNote.className = `picker-note${tone ? ` ${tone}` : ''}`;
+  };
+
+  const renderSelectedKit = (kit, prefix='Linked kit') => {
+    if (!kit) {
+      kitSelected.innerHTML = '';
+      return;
+    }
+    kitSelected.innerHTML = `
+      <span class="picker-chip">
+        ${esc(prefix)}: ${esc(formatKitPickerLabel(kit))}
+        <button type="button" id="ple-kit-clear">clear</button>
+      </span>
+    `;
+    document.getElementById('ple-kit-clear')?.addEventListener('click', () => {
+      kitInput.value = '';
+      kitSearchInput.value = '';
+      renderSelectedKit(null);
+      renderKitMatches('');
+      refreshPlacementLinkState();
+    });
+  };
+
+  const refreshPlacementLinkState = () => {
+    const partId = partInput.value.trim();
+    const castAssemblyId = castAssemblyInput.value.trim();
+    if (partId) {
+      setPickerNote('This placement is currently linked at part level. Choosing a kit will clear the part link.', 'warn');
+      return;
+    }
+    if (castAssemblyId) {
+      setPickerNote('This placement is currently linked to a cast assembly. Choosing a kit will replace that link.', 'warn');
+      return;
+    }
+    if (kitInput.value) {
+      setPickerNote('This placement is now linked directly to a kit record.', 'ok');
+      return;
+    }
+    setPickerNote('Search to attach this placement to a real kit record.');
+  };
+
+  const renderKitMatches = (query='') => {
+    const q = query.trim().toLowerCase();
+    const selectedId = Number(kitInput.value || 0);
+    let matches = kitCatalog;
+    if (q) {
+      matches = kitCatalog.filter(kit => (
+        `${kit.brand || ''} ${kit.name || ''} ${kit.serial_number || ''} ${kit.scale || ''}`
+      ).toLowerCase().includes(q));
+    }
+    if (selectedId) matches = matches.filter(kit => kit.id !== selectedId);
+    matches = matches.slice(0, q ? 16 : 8);
+    if (!matches.length) {
+      kitResults.innerHTML = '<div class="state-box" style="padding:0.8rem 0.6rem">No matching kits</div>';
+      return;
+    }
+    kitResults.innerHTML = matches.map(kit => `
+      <button type="button" class="picker-option" data-kit-id="${kit.id}">
+        <div class="picker-option-title">${esc([kit.brand, kit.name].filter(Boolean).join(' - '))}</div>
+        <div class="picker-option-meta">${esc([`ID ${kit.id}`, kit.scale, kit.serial_number].filter(Boolean).join(' / '))}</div>
+      </button>
+    `).join('');
+    kitResults.querySelectorAll('[data-kit-id]').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const picked = kitCatalog.find(kit => kit.id === Number(btn.dataset.kitId));
+        if (!picked) return;
+        kitInput.value = picked.id;
+        kitSearchInput.value = formatKitPickerLabel(picked);
+        if (partInput.value) partInput.value = '';
+        if (castAssemblyInput.value) castAssemblyInput.value = '';
+        renderSelectedKit(picked);
+        renderKitMatches(kitSearchInput.value);
+        refreshPlacementLinkState();
+      });
+    });
+  };
+
+  kitSearchInput.addEventListener('input', () => {
+    renderKitMatches(kitSearchInput.value);
+    if (!kitSearchInput.value.trim() && !kitInput.value) renderSelectedKit(null);
+  });
+
+  partInput.addEventListener('input', () => {
+    if (partInput.value.trim()) {
+      kitInput.value = '';
+      kitSearchInput.value = '';
+      renderSelectedKit(null);
+      if (castAssemblyInput.value) castAssemblyInput.value = '';
+    }
+    refreshPlacementLinkState();
+  });
+
+  document.getElementById('ple-save').onclick = async () => {
+    const partId = partInput.value.trim() || null;
+    const castAssemblyId = castAssemblyInput.value || null;
+    const kitId = kitInput.value || null;
+    const setCount = [partId, castAssemblyId, kitId].filter(Boolean).length;
+    if (setCount === 0) {
+      toast('A placement needs a part, kit, or cast assembly link');
+      return;
+    }
+    if (setCount > 1) {
+      toast('Only one of part, kit, or cast assembly can be linked');
+      return;
+    }
+    const data = {
+      model_id: document.getElementById('ple-model').value || null,
+      map_id: document.getElementById('ple-map').value || null,
+      part_id: partId,
+      cast_assembly_id: castAssemblyId,
+      kit_id: kitId,
+      location_label: document.getElementById('ple-location').value || null,
+      copy_count: Number(document.getElementById('ple-copies').value) || 1,
+      confidence: document.getElementById('ple-confidence').value || 'confirmed',
+      notes: document.getElementById('ple-notes').value || null
+    };
+    const hdrs={'Content-Type':'application/json'}; const ak=localStorage.getItem('adminKey'); if(ak) hdrs['X-API-Key']=ak;
+    if (localStorage.getItem('adminMode') === '1') hdrs['X-Admin-Local'] = '1';
+    try {
+      const res = await fetch(API + `/api/placements/${id}`, {method:'PUT', headers:hdrs, body:JSON.stringify(data)});
+      if(!res.ok){
+        let body = await res.text(); try{ body = JSON.parse(body);}catch(e){}
+        console.error('Placement save failed', res.status, body);
+        if (res.status === 401) {
+          const k = prompt('Server requires admin key. Enter key:',''); if (k) { localStorage.setItem('adminKey', k); toast('Admin key set - retrying'); document.getElementById('ple-save').click(); return; }
+        }
+        toast('Save failed: '+(body?.error || body || res.status));
+        return;
+      }
+      document.getElementById('placement-editor-overlay')?.remove(); toast('Saved');
+      loadPlacements();
+    } catch(e){ console.error(e); toast('Error saving placement'); }
+  };
+
+  const d = await api(`/api/placements/${id}`);
+  if (d && d.placement) {
+    const p = d.placement;
+    document.getElementById('ple-model').value = p.model_id || '';
+    document.getElementById('ple-map').value = p.map_id || '';
+    partInput.value = p.part_id || '';
+    castAssemblyInput.value = p.cast_assembly_id || '';
+    kitInput.value = p.kit_id || '';
+    document.getElementById('ple-location').value = p.location_label || '';
+    document.getElementById('ple-copies').value = p.copy_count || 1;
+    document.getElementById('ple-confidence').value = p.confidence || 'confirmed';
+    document.getElementById('ple-notes').value = p.notes || '';
+
+    if (p.kit_id) {
+      const linkedKit = kitCatalog.find(kit => kit.id === Number(p.kit_id));
+      if (linkedKit) {
+        kitSearchInput.value = formatKitPickerLabel(linkedKit);
+        renderSelectedKit(linkedKit);
+      } else {
+        kitSearchInput.value = [p.brand, p.kit_name].filter(Boolean).join(' - ');
+      }
+    } else if (p.brand || p.kit_name) {
+      kitSelected.innerHTML = `
+        <span class="picker-chip">
+          ${esc(p.part_id ? 'Kit via part' : 'Resolved kit')}: ${esc([p.brand, p.kit_name].filter(Boolean).join(' - '))}
+        </span>
+      `;
+    }
+  }
+  renderKitMatches('');
+  refreshPlacementLinkState();
+}
+
+function shortModel(name) {
+  const map = {
+    'Millennium Falcon (5ft)': 'Falcon',
+    'X-Wing': 'X-Wing', 'Y-Wing': 'Y-Wing',
+    'Tie Fighter': 'TIE', 'Tie Advanced': 'TIE-A',
+    'Star Destroyer': 'SD',
+    'Death Star Turbo Laser': 'DS-TL',
+    'Death Star Tiles 1-6': 'DS-T',
+    'Training Remote': 'Remote',
+    'Blockade Runner': 'Tantive',
+    'Sandcrawler': 'Crawler',
+    'Escape Pod': 'Pod',
+    'Death Star Crane': 'DS-C',
+  };
+  return map[name] || name.substring(0,6);
+}
+
+// ── PLACEMENTS VIEW ────────────────────────────────────────────
+async function loadPlacements() {
+  showLoading();
+  let url = '/api/placements?';
+  if (state.model) url += `model_id=${state.model}&`;
+  if (state.conf)  url += `confidence=${state.conf}&`;
+  if (state.map)   url += `map_id=${state.map}&`;
+
+  const data = await api(url);
+  let pls = Array.isArray(data) ? data : (data?.data || []);
+
+  if (state.search) {
+    const q = state.search.toLowerCase();
+    pls = pls.filter(p =>
+      (p.kit_name||'').toLowerCase().includes(q) ||
+      (p.brand||'').toLowerCase().includes(q) ||
+      (p.part_number||'').toLowerCase().includes(q) ||
+      (p.map_name||'').toLowerCase().includes(q)
+    );
+  }
+  if (state.brand) pls = pls.filter(p => p.brand === state.brand);
+
+  state.placements = pls;
+  document.getElementById('nav-count-pl').textContent = pls.length.toLocaleString();
+
+  const total = pls.length;
+  const pages = Math.ceil(total / PAGE_SIZE);
+  const slice = pls.slice((state.page-1)*PAGE_SIZE, state.page*PAGE_SIZE);
+
+  const modelName = state.model
+    ? state.models.find(m => m.id == state.model)?.name || 'selected model'
+    : 'all models';
+  document.getElementById('result-meta').textContent =
+    `${total.toLocaleString()} placement${total!==1?'s':''} · ${modelName}`;
+
+  if (!slice.length) {
+    document.getElementById('content').innerHTML = '<div class="state-box">No placements found</div>';
+    renderPagination(0,1); return;
+  }
+
+  // Load maps for filter if model selected
+  if (state.model && !document.getElementById('filter-map').options.length > 1) {
+    const maps = await api(`/api/maps?model_id=${state.model}`);
+    const mArr = Array.isArray(maps) ? maps : (maps?.data || []);
+    const sel = document.getElementById('filter-map');
+    sel.innerHTML = '<option value="">All maps</option>';
+    mArr.forEach(m => {
+      const o = document.createElement('option');
+      o.value = m.id; o.textContent = m.name;
+      sel.appendChild(o);
+    });
+  }
+
+  document.getElementById('content').innerHTML = '<div class="card-grid">' +
+    slice.map(p => placementRow(p)).join('') + '</div>';
+
+  renderPagination(pages, state.page);
+}
+
+function placementRow(p) {
+  const conf = p.confidence === 'confirmed'
+    ? '<span class="badge badge-confirmed">confirmed</span>'
+    : p.confidence === 'probable'
+    ? '<span class="badge badge-probable">probable</span>'
+    : '';
+  const mod = p.modification && p.modification !== 'none'
+    ? `<span class="badge badge-scale">${esc(p.modification)}</span>` : '';
+  const copies = p.copy_count > 1
+    ? `<span class="badge badge-scale">×${p.copy_count}</span>` : '';
+  return `
+  <div class="placement-row">
+    <div>
+      <div style="display:flex;justify-content:space-between;align-items:center">
+        <div class="pl-kit">${esc(p.brand||'')} — ${esc(p.kit_name||'')}</div>
+        <div><button class="page-btn" onclick="openPlacementEditor(${p.id})">Edit</button></div>
+      </div>
+      ${p.part_number ? `<div class="pl-part">part ${esc(p.part_number)}${p.part_label ? ' · '+esc(p.part_label) : ''}</div>` : ''}
+      ${p.map_name ? `<div class="pl-map">📍 ${esc(p.map_name)}${p.location_label ? ' · '+esc(p.location_label) : ''}</div>` : ''}
+      ${p.notes ? `<div class="pl-note">${esc(p.notes)}</div>` : ''}
+    </div>
+    <div class="pl-right">${conf}${mod}${copies}</div>
+  </div>`;
+}
+
+// ── MODELS VIEW ────────────────────────────────────────────────
+async function loadModelsView() {
+  showLoading();
+  document.getElementById('result-meta').textContent = '13 ANH ILM models';
+  const rows = await Promise.all(state.models.map(async m => {
+    const d = await api(`/api/models/${m.slug}`);
+    return { model: m, data: d };
+  }));
+  document.getElementById('content').innerHTML = '<div class="card-grid">' +
+    rows.map(({ model: m, data: d }) => {
+      const kitCount = d?.kit_summary?.length || 0;
+      const placCount = d?.kit_summary?.reduce((s, k) => s + (k.total_copies||0), 0) || 0;
+      return `
+      <div class="kit-card" onclick="setView('placements'), filterByModel(${m.id})">
+        <div class="kit-card-top">
+          <div>
+            <div class="kit-brand">ANH · ${m.film}</div>
+            <div class="kit-name">${esc(m.name)}</div>
+            <div class="kit-meta">
+              ${m.scale_approx ? `<span class="badge badge-scale">${esc(m.scale_approx)}</span>` : ''}
+            </div>
+          </div>
+          <div class="kit-card-right">
+            <span class="badge badge-models">${kitCount} kits</span>
+            <span class="badge badge-parts">${placCount.toLocaleString()} placements</span>
+          </div>
+        </div>
+      </div>`;
+    }).join('') + '</div>';
+  renderPagination(0,1);
+}
+
+// ── PAGINATION ─────────────────────────────────────────────────
+function renderPagination(pages, current) {
+  const el = document.getElementById('pagination');
+  if (pages <= 1) { el.innerHTML = ''; return; }
+  let html = '';
+  for (let i = 1; i <= pages; i++) {
+    if (pages > 10 && Math.abs(i - current) > 2 && i !== 1 && i !== pages) {
+      if (i === current - 3 || i === current + 3) html += '<span style="padding:4px 4px;color:var(--ink3);font-size:12px">…</span>';
+      continue;
+    }
+    html += `<button class="page-btn${i===current?' active':''}" onclick="goPage(${i})">${i}</button>`;
+  }
+  el.innerHTML = html;
+}
+
+function goPage(n) {
+  state.page = n;
+  if (state.view === 'kits') renderKits(state.kits);
+  else if (state.view === 'connections') loadConnections();
+  else if (state.view === 'placements') loadPlacements();
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+// ── HELPERS ────────────────────────────────────────────────────
+function showLoading() {
+  document.getElementById('content').innerHTML =
+    '<div class="state-box"><div class="spinner"></div>Loading…</div>';
+  document.getElementById('result-meta').textContent = '';
+  document.getElementById('pagination').innerHTML = '';
+}
+function showError() {
+  document.getElementById('content').innerHTML =
+    `<div class="state-box">
+      <p>Could not reach the API.</p>
+      <p style="margin-top:0.5rem;font-size:12px;font-family:var(--mono)">Make sure <code>python app.py</code> is running on port 5000.</p>
+    </div>`;
+}
+function esc(s) {
+  if (!s) return '';
+  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+init();
+</script>
+</body>
+</html>

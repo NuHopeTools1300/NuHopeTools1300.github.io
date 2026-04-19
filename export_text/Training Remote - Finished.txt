@@ -1,0 +1,363 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Training Remote - Finished
+URL    : https://www.therpf.com/forums/threads/training-remote-finished.283898/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #4352284)
+Author    : spoudastis
+Date      : Nov 14, 2017 at 9:15 PM
+Reactions : Like — DJb1138, Mike J., jontom
+────────────────────────────────────────────────────────────────────────
+
+The following will document the trials and tribulations of building the jedi training remote from ANH.  A lot has gone wrong along the way and i have learned a great deal, hopefully this will help others who are contemplating this undertaking and labor of love!  I am not new to modeling or prop building but this build sure made it seem that way!
+
+I used the resources here on the RPF extensively and found that two threads really helped me along the way.  @TheRealMcFly has a great thread that discusses every aspect of the project start to finish and was a huge help
+
+https://www.therpf.com/showthread.php?t=42132
+
+The other thread is by @KrokoHunter who described a great method for cutting out the circular styrene pieces around the truck rims.
+
+https://www.therpf.com/showthread.php?t=150843
+
+I started collecting the required parts for this project more than two years ago and started building about a year ago, of course life has intervened along the way like buying a new house, switching jobs and having another kid but hey whats life without a challenge.  Needless to say this has been a slow burn but i am also determined not to rush it, here we go.
+
+The parts:
+
+I wont go too deep into the parts because they are discussed in depth in the threads linked above.
+
+[IMAGE: 436416-4ffc465ac1cd8a24a1256b6023342291.jpg]
+
+Model parts
+
+1/25 AMT Midnight Express - has all the chrome wheels required but not the axle brackets
+
+1/48 Fuman Panther G - Cupola, treads, gun port, commander's hatch, muffler baffle, part #3
+
+1/72 Airfix Panzer IV - Track rollers
+
+1/72 Hasegawa M-4 Sherman- wheel parts
+
+Other: 
+
+Plastruct 6" hemispheres - I used the grey ABS for workability instead of the clear 
+
+1mm Styrene
+
+Scotchlite
+
+Oomoo 30 silicone rubber and smoothcast 300 liquid plastic
+
+The first thing I did was to mold the parts that I needed multiple of.  This was a first for me and I found that i was quickly out of my comfort zone because my molds were full of bubbles and resulted in unusable parts.  DaveG made a great tutorial about how he molds small parts which was a huge help.
+
+https://www.therpf.com/showthread.php?t=264222
+
+The next round of molding i prepared better and purchased a vacuum chamber which resulted in perfect molds.  I used mostly a couple of block molds but i made a two part mold the cupola and gunport in order to maintain the look of the original parts.
+
+[IMAGE: 436425-c8ffeacb51f82e27e50978985a92bbe4.jpg]
+
+[IMAGE: 436426-455aead36b9c09d42715f1ca60f1a1bd.jpg]
+
+Molding and casting tips learned from failure:
+
+-follow DavG's tutorial
+
+-use a vacuum chamber.  even though oomoo says its not necessary these small parts will always have bubbles if you dont vacuum the silicone
+
+-DONT USE SILICONE MOLD RELEASE FOR 2 PARTS MOLDS.  this was a dumb one.  This actually means the release is made from silicone, not that it should be used on silicone.  the only thing that sticks to silicone is silicone so using this release was like gluing the halves together and actually made my 2 part mold into a solid block!!!  use mann 200, thats the good stuff.
+
+-use new bottles of smoothon 300.  if it sits on the shelf too long it forms a lot of bubbles.
+
+-lightly spray mold release on the molds prior to casting then dust on talc powder, this will draw the resin into the small parts
+
+-dont rush it
+
+After all of the molding and casting you will have a work bench that looks like this.  Ill discuss the sphere and the other styrene parts next.
+
+[IMAGE: 436427-4b128bf3c04350a0194b3e02d7ca23a4.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #4352288)
+Author    : shenphong
+Date      : Nov 14, 2017 at 9:34 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: Jedi Training Remote
+
+Another bay area builder!  I'll be starting on this build soon myself.
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #4361227)
+Author    : spoudastis
+Date      : Nov 30, 2017 at 10:03 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: Jedi Training Remote
+
+shenphong said:
+
+			Another bay area builder!  I'll be starting on this build soon myself.
+		
+
+Click to expand...
+
+Live up in concord now, moved from Oakland a while back.  Its a tricky build I think because it requires so many different skills and tools.  I had to learn to mold and cast and had to buy a vac chamber then i had to make a vacuum former etc etc but so far it has been pretty satisfying.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #4361230)
+Author    : spoudastis
+Date      : Nov 30, 2017 at 10:26 PM
+Reactions : Like — Mike J., Scott Graham, maxhebus
+────────────────────────────────────────────────────────────────────────
+
+Re: Jedi Training Remote
+
+I thought the ball itself would be the easy part but i was mistaken .  The first thing to decide is if I was going to make the styrene circles around the chrome wheels out of flat styrene stock (dont do this!) or if I was going to vacuum form the styrene in order to get  parts that have the same curvature as the ball so that they lay nice and flat while gluing.  I highly recommend the latter, but i initially decided on flat stock because i had access to a laser cutter and software that would "unroll" the shapes for me so that when i glued them to the ball they would conform correctly...wrong move!  Whats more is that since i decided on flat stock i figured that i could now work on getting the hemispheres together as they would not be needed for vacuum forming (wrong again!).
+
+The Ball:
+
+I apologize for the lack of pictures, it seems like i lost a lot of images from this phase. I drew a template in CAD so that i could transfer precisely the 8 divisions of the hemisphere.  Then i used a piece of thin tape as a guide to draw a line from the top of the hemisphere to each of the 8 divisions.  Once that was done i followed the measurements from Brundlefly's very helpful tutorial to locate the center of where the truck rims would go.  I started with a 1/8" drill bit and worked my way up to 3/4".  After that it was a matter of using the dremel with a sanding wheel to enlarge the hole until the wheel fit snugly, so far so good.  Next i fit the two hemispheres together and taped them with masking tape while i used plastruct plastic weld to bond the hemispheres together by dropping the liquid through the wheel holes to the inside surface.  
+
+The hemispheres fit just ok and needed a lot of sanding to smooth out the seam.  I am not sure how the acrylic hemispheres work out but the ABS ones definitely need some filling as the rim seems to flare out slightly at the equator.  I used the best filler on the planet, evercoat rage, all around the equator to blend the hemispheres together. I have to admit that i was obsessed with getting a perfect sphere with no joint but if you look closely even the original may have a hint of a joint line.  Next I used filler primer and wet sanded to get a nice uniform finish.  Of course the guidelines were now gone but i drew them on again without too much trouble.
+
+[IMAGE: 439065-069f7e28db3dea7d05f1fcc8f949ca49.jpg]
+ 
+[IMAGE: 439066-1474250ee3c59475cbe288bf619779ac.jpg]
+
+The Styrene rings:
+
+Flat Stock (dont do this)
+
+At this point I started work on the rings.  I modeled the 6” sphere in rhino and used measurements from brundlefly to model the rings on the ball.  I found that i had to modify the dimensions slightly to get the rings to better match the adjacencies of the original.  Once i had the ring shape on the sphere i trimmed and “unrolled” them so that they could be laid out and cut from a flat sheet.  At this point i wold have used the laser cutter at work but I had just switched jobs and my new office doesn't have one so i cut them out of .75mm styrene by hand.  Unfortunately at this point after testing the fit I realized that it just wasnt going to work, it was too difficult to bend the flat stock onto the sphere and i could tell if i continued down this path it would have led to a lot of frustration and ill fitting parts.
+
+[IMAGE: 439068-aa9d24a95e616aedb91cb0d057ada725.jpg]
+
+[IMAGE: 439067-05f12b8d2981c7afb955c9f476743e90.jpg]
+
+Vacuum
+
+So I decided that I needed to build my own vacuum former.  I borrowed from many sources online and decided to go with a 14”x14” bed.  I used two sheets of ½” MDF on either side of a ¼” MDF spacer that would form a thin chamber.  The top layer of ½” MDF was drilled with a 1/8” bit in a ¾” grid. It was a lot of drilling!  The bottom layer of ½” MDF was cut to accept the hose for my shop vac.  To finish the bed up i used double stick tape to adhere some thin closed cell foam to create a seal when I lowered the frame.  The frame is just a piece of ½” plywood, I tacked on 1mm styrene as I knew i would only be doing a couple of pulls so i didnt really need a more elaborate attachment system to hold the styrene onto the frame. Vacuum forming is so satisfying.
+
+[IMAGE: 439069-2fd77ea7fc40c6cf2170fc1486186bb4.jpg]
+ 
+
+Although the original remote appears to have used .5mm or .75mm styrene for the rings and other rectangles, after a couple of test pulls I found that 1mm styrene was most appropriate when vacuum forming because when the 1mm styrene is vacuumed over the hemisphere  it stretches out and becomes thinner, anywhere from .5mm at the top (most stretch) to .75mm at the equator which is exactly what the original looks like.  
+
+By the way, I had to buy a new hemisphere to vacuum over because I had already assembled my other hemispheres when i initially decided to use flat styrene stock, now you see why I said the first thing to do is decide which way you want to make the styrene parts :facepalm
+
+I used an Olfa circle cutter (looks like a compass with a blade) to cut the rings out of the vacuumed styrene.  It was a little tricky in that too much pressure would push in the styrene and not cut to the right dimension.  It took probably 20 light passes to cut out the rings.  The dimensions I used were 55mm outer diameter and 32mm inner diameter which is a 1mm larger outer diameter than Brundlefly’s dimensions.  Here is what they look like after cutting, a light sanding, and gluing to the ball.  You can see I started adding the other pieces as well. I would add the rings with the brown wheels the add the grey wheels and the part #3's.  I used the water thin cyanoacrylate for all the pieces and used capilary action to let the glue flow into the joints.  At first i was using a really expensive tool to hold small amounts of glue between two tiny forks but it worked really poorly and continuously clogged up so I made my own my cutting the eye of a needle with my dremel and it worked 10x better.  Dip it in the glue and it holds a bit and when you press the fork onto the edge of the piece the glue flows out into the seam.
+
+[IMAGE: 439071-7615753401e225457c94268dd6a65267.jpg]
+
+[IMAGE: 439072-5144ed2efa07d203eed8ea021a54075f.jpg]
+
+ 
+
+Attachments
+
+[IMAGE: 439070-38dff8e366a682d0e4e03d0f5fbc7159.jpg]
+
+IMG_3491.JPG
+
+					985.8 KB
+					
+					· Views: 474
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #4361240)
+Author    : Lee S
+Date      : Nov 30, 2017 at 11:13 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: Training Remote - Lessons Learned
+
+I have just about all the kits parts sorted for this, just need some time.  That should happen in a few months so I'll be back here to read more very soon!
+
+thanks!
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #4362865)
+Author    : spoudastis
+Date      : Dec 4, 2017 at 8:39 AM
+Reactions : Like — Mike J., Scott Graham, Lee S
+────────────────────────────────────────────────────────────────────────
+
+Re: Training Remote - Lessons Learned
+
+After having all the required pieces its a pretty repetitive process.  I used an upside down milk cap as a base while I was gluing everything on, it made it easy to move the ball in every direction.  After the styrene rings I added the axel bracket on the equator which set up the spacing for the rectangular pieces on the equator.  Next I added the tank tread assemblies on the north and south poles, with measurements from Brundlefly.   After that it was an easy job spacing the cupola, 3 rectangles, gun port, and exhaust part.
+
+All of the rectangular styrene pieces were cut from the vacuum pull and in this way conformed to the sphere well and made it easy to glue.  If you are using brundleflys measurements for the rectangles I suggest using them as reference only, I found them to be close but not exactly right in terms of spacing adjacency part to part.
+
+[IMAGE: 439637-6c808b1071f4b3bffc5bc783cefa6508.jpg]
+ 
+[IMAGE: 439638-edecc36dba2466b5689eade65f7342f3.jpg]
+
+The original remote on display has a rod fixed to the bottom.  I thought that this would be a good way to display mine and would serve as a steady base for painting.  I also used another piece of the vac pull for the ring on the bottom. I bought a 1/2" steel tube from home depot and attached it to a wood block and then to a piece of mdf for a wide base so there would not be any tipping.  I primed with grey tamiya primer from a can, i love the stuff, it goes on so smooth.
+
+[IMAGE: 439639-3dd12b61491638dc3d848d2f6e9c8546.jpg]
+ 
+[IMAGE: 439640-ab037ec79a83d31b542363e6b4500eca.jpg]
+
+The grey covered well but then i realized that white would be going down next so i primed over the top with tamiya white primer so that the reefer white application would be easier.  In its final primer state.  Big color difference in the daylight and garage light.
+
+[IMAGE: 439641-43021327d688f4180aa0a362f53b28e8.jpg]
+ 
+[IMAGE: 439645-686ea6fbf5a1300b6f6a5b5968296398.jpg]
+ 
+[IMAGE: 439642-4aded02b2d61ecf144a96863b0c679c8.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #4366674)
+Author    : spoudastis
+Date      : Dec 10, 2017 at 5:01 PM
+Reactions : Like — Scott Graham
+────────────────────────────────────────────────────────────────────────
+
+Re: Training Remote - Lessons Learned
+
+Painting
+
+After priming the remote with Tamiya white I was conflicted as I could spend a ton of money on floquil reefer white on ebay but i wasnt sure if it would actually make a difference after the weathering.  I did get a bottle of Badger’s modelfelx reefer white and it was just about exactly the same as the Tamyia white primer so for the undercoat i just stuck with the white primer followed by a layer of TS-80  flat clear.  I used Tamiya paints for all of the colors except the red/brown around the chrome rims because i am most comfortable using them.  I matched all the colors by eye and am listing them below.  After mixing the colors I thinned them heavily to brush them on in semi transparent layers. The remote was then sealed again with TS-80 after painting to get ready for weathering.  I also noticed that the dark grey gun portals seem to have more gloss than the other other parts so I will mix up some x-22 gloss clear with thinner and brush onto the gun portal.
+
+As an aside, I tested a few different colors for the red seen below.  They were model masters boxcar red, model masters rust, and life color UA 702.  All the colors were pretty close and there is a big difference in color depending on how much you thin the paint, you can see the variation.  I feel like I may have applied the paint too opaquely and if i was to go back i would do a thinner application.  Also looking at the paint again the boxcar had a bit more brown which I like.
+
+[IMAGE: 440808-e722a3a39060427eadc2e3989dbf0eb9.jpg]
+ 
+[IMAGE: 440809-c315c8d2d54ac4a651612c1cdba068a6.jpg]
+
+Base coat: Tamiya white primer, Tamiya flat clear TS-80
+
+Red/Brown around truck rims: Model Masters Rust
+
+Rectangles at equator: 14:1 xf-2 white, x-50 field blue
+
+3 Three small rectangles: 8:2:1 xf-2 white, xf-63 german grey, xf-50 field blue
+
+Dark grey gun portal: 4:1 xf-63 german grey, xf-1 black
+
+Below are some final base coat pics, I painted everything with a no.2 round brush and put it on pretty sloppy to match the reference.  The last two pics are with and without the chrome truck rim, makes such a huge difference.
+
+[IMAGE: 440810-075cd9dd36efe783282a4d4dc269bb4e.jpg]
+ 
+[IMAGE: 440811-124ba947ba81f7c0ec99627f0a4ac137.jpg]
+ 
+[IMAGE: 440812-c0237bb465ecbefc830be865111f93a1.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #4374131)
+Author    : spoudastis
+Date      : Dec 20, 2017 at 11:56 PM
+Reactions : Like — el toro, bigpetr, Somerset
+────────────────────────────────────────────────────────────────────────
+
+Finished up the remote this past weekend.  I used five oil paint colors thinned with turpenoid for all of the weathering.
+
+I started off with two applications of heavily thinned van dyke brown oil paint as a filter in order to discolor the remote slightly.  I brushed on the filter then dabbed it off with a paper towel.  This really changed the appearance and unified the surface getting rid of the bright white base color.  I am so glad I didnt spend a ton of money on floquil reefer white,  after the filter application any white would look exactly the same.  After the filters I started at the top and tried to follow reference by adding stains and steaks.  Again, I would apply the paint fairly messily then dab off whatever wasnt working for me.   I kept layering the paint on in thin layers using van dyke brown, burnt umber and lamp black to give some subtle variation.  On the top and bottom tracks I used yellow ochre and burnt sienna.  I think these colors really gave it a ton more interest and made the remote less monotone.
+
+After the oil paints had dried over night I outlined all of the styrene pieces with a no.2 pencil and added a couple of the stray marks that show up randomly.  The final weathering step was to add some burned areas around the chrome rims with black pigment powder from MIG.  The final step was to add the reflective tape inside the cupolas.  
+
+I still need to make a simple base and take some proper photographs but here is the outcome as it stands today.  
+
+[IMAGE: 442159-902cc0ced575931fb1edd4d0e8ac6778.jpg]
+ 
+[IMAGE: 442160-2de4356f6815bf9f378be947cb0e6600.jpg]
+ 
+[IMAGE: 442161-7d0085ee455b9d42709a9138918d22d6.jpg]
+ 
+[IMAGE: 442162-14f973e19d40f83b3ee171d5c4d350e5.jpg]
+ 
+[IMAGE: 442163-1aa9bde0a3c5987e2834970a4f41b101.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #4375751)
+Author    : Nils
+Date      : Dec 23, 2017 at 3:13 PM
+────────────────────────────────────────────────────────────────────────
+
+Looks really good! Kudos to you.
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #4378696)
+Author    : PHArchivist
+Date      : Dec 29, 2017 at 9:21 AM
+────────────────────────────────────────────────────────────────────────
+
+Excellent paint work...
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #4378742)
+Author    : Scott Graham
+Date      : Dec 29, 2017 at 10:26 AM
+────────────────────────────────────────────────────────────────────────
+
+Great work! And thanks for sharing the process of making it.
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #4380120)
+Author    : spoudastis
+Date      : Dec 31, 2017 at 11:49 PM
+Reactions : Like — maxhebus
+────────────────────────────────────────────────────────────────────────
+
+Thanks Guys!  It was more difficult than I thought but really satisfying nonetheless.  I always find it amazing how difficult it is to try and replicate the really perfectly dirty and used appearance of the original props.  Im about 90% happy with it, hopefully with the next prop ill be able to apply some lessons learned.
+
+Cheers!
+
+Nils said:
+
+			Looks really good! Kudos to you.
+		
+
+Click to expand...
+
+PHArchivist said:
+
+			Excellent paint work...
+		
+
+Click to expand...
+
+Scott Graham said:
+
+			Great work! And thanks for sharing the process of making it.
+		
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #4383587)
+Author    : BrundelFly
+Date      : Jan 6, 2018 at 8:21 AM
+────────────────────────────────────────────────────────────────────────
+
+One of the Nicest ones I have Seen!!
+
+;-)
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #4391957)
+Author    : spoudastis
+Date      : Jan 17, 2018 at 1:33 PM
+────────────────────────────────────────────────────────────────────────
+
+BrundelFly said:
+
+			One of the Nicest ones I have Seen!!
+
+;-)
+		
+
+Click to expand...
+
+Thank you for the kind words and for helping many of on this journey :cheers
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #4397036)
+Author    : knullzero
+Date      : Jan 24, 2018 at 11:02 AM
+────────────────────────────────────────────────────────────────────────
+
+This looks great!  I plan to build one myself one of these days...  I want to build top of one of those floating speakers or something similar.
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #4397572)
+Author    : tfett40
+Date      : Jan 25, 2018 at 8:18 AM
+────────────────────────────────────────────────────────────────────────
+
+That is wicked good man. Wowzers. Great job on it
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #4397888)
+Author    : jake88
+Date      : Jan 25, 2018 at 4:25 PM
+────────────────────────────────────────────────────────────────────────
+
+Very cool!
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 17

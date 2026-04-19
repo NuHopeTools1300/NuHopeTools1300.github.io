@@ -1,0 +1,442 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Most accurate, 3D printable, Y-wing
+URL    : https://www.therpf.com/forums/threads/most-accurate-3d-printable-y-wing.364672/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #5668103)
+Author    : RealDaveWinter
+Date      : Oct 4, 2025 at 7:20 AM
+Reactions : Like — Necronaut, joberg
+────────────────────────────────────────────────────────────────────────
+
+Hi there.
+
+Can anyone recommend a link to, either a free or purchasable, Y-wing STL package. Something that is accurate enough in dimension that I could replace some 3D printable parts with the real kit parts.
+
+I've been plugging away at my Falcon, but as I have another 6 or so years to go on that, I as thinking a 3D printable Y-Wing would be a nice side project, but I am looking for something quite accurate. One of the struggles with my Falcon build is there are so much conflicting dimensional information, it would be nice to just 3D print something where that's all been sorted  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+
+I know there were several versions of the Y-wing used for filming, so I ~think~ I'm looking for what's known as Red Jammer, which uses all the 8RAD and Kettengrad parts. I'm not a Y-wing expert but I think that was what Bandai used as the bases for their 1/72 kit?
+
+I'd prefer to print myself.
+
+thank you
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #5668205)
+Author    : manugu
+Date      : Oct 4, 2025 at 12:38 PM
+Reactions : Like — dtssyst, David3, Necronaut
+────────────────────────────────────────────────────────────────────────
+
+Hi Dave,
+
+one option to consider would be definitely Dave Goldbergs incredible green leader project, generousely given for free. This gives you a Y-Wing basis which is more than good enough for all ANH versions. Combine that with Studio Kitbashs run of 3D greeblies from Star Wars donors which should cover for 90% of the greeblies (guestimated) and you are almost there. Not out of the box, but with your skills you won't get bored with a project like that 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Here the links for convenience:
+
+https://www.therpf.com/forums/threads/the-y-wing-green-leader-project-now-open-source.250459/
+
+Limited Run - 3D Scans of 150+ Star Wars Confirmed Donors
+
+Here a mix of both resources overlayed on Gold Leader, on which also the Bandai is based on.
+
+[IMAGE: https://www.therpf.com/forums/attachments/daveg_studiokitbash_merge-png.1975933/]
+
+Red Jammer is probably the most unique of the five.
+
+I'll follow with interest!
+
+Manu
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #5668215)
+Author    : Studio Kitbash
+Date      : Oct 4, 2025 at 1:27 PM
+────────────────────────────────────────────────────────────────────────
+
+Dave,
+
+I am out of the greeblie production business, but I do have a few complete sets still lying around, so PM me if you're interested.
+
+Cheers,
+
+Read
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #5669331)
+Author    : judgedredd
+Date      : Oct 8, 2025 at 11:13 PM
+Reactions : Like — incrediblefruit, obibo2112, JimmyB
+────────────────────────────────────────────────────────────────────────
+
+[IMAGE: y-wing-gold-leader-studio-scale-replica-3d-model-d3fb110781.webp]
+
+						Y-WING GOLD LEADER STUDIO SCALE REPLICA | 3D Print Model
+					
+
+Model available for download in Stereolithography format. Visit CGTrader and browse more than 1 million 3D models, including 3D print and real-time assets
+
+					www.cgtrader.com
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #5669379)
+Author    : RealDaveWinter
+Date      : Oct 9, 2025 at 6:55 AM
+────────────────────────────────────────────────────────────────────────
+
+Great, thanks. I'll take a look. I don't suppose there is a parts breakdown anywhere?
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #5669385)
+Author    : judgedredd
+Date      : Oct 9, 2025 at 7:14 AM
+────────────────────────────────────────────────────────────────────────
+
+RealDaveWinter said:
+
+			Great, thanks. I'll take a look. I don't suppose there is a parts breakdown anywhere?
+		
+
+Click to expand...
+
+Hi What parts breakdown do you mean?
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #5669399)
+Author    : RealDaveWinter
+Date      : Oct 9, 2025 at 8:16 AM
+────────────────────────────────────────────────────────────────────────
+
+I looked at the link you sent. It's a lot of photos of the filming model, 2 images of the 3D mesh. But nothing that shows the printable parts. How is the model broken down for printing? Are the greeblies separate from the body? What's the size of the largest part? How many parts are there to print? Is there and assembly guide?
+
+It's a $70 CAD model, which is not the end of the world, but I'd like to see what I'm buying and how much rework is going to be required to meet my needs.
+
+thanks
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #5669446)
+Author    : judgedredd
+Date      : Oct 9, 2025 at 12:03 PM
+────────────────────────────────────────────────────────────────────────
+
+RealDaveWinter said:
+
+			I looked at the link you sent. It's a lot of photos of the filming model, 2 images of the 3D mesh. But nothing that shows the printable parts. How is the model broken down for printing? Are the greeblies separate from the body? What's the size of the largest part? How many parts are there to print? Is there and assembly guide?
+
+It's a $70 CAD model, which is not the end of the world, but I'd like to see what I'm buying and how much rework is going to be required to meet my needs.
+
+thanks
+		
+
+Click to expand...
+
+Hi its $49 there are different options one with most parts set in place and other parts seperated to give a choice. The whole model splits into printable sections hope this helps.
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #5669451)
+Author    : StevenBills
+Date      : Oct 9, 2025 at 12:10 PM
+Reactions : Like — Matte Painter
+────────────────────────────────────────────────────────────────────────
+
+I know a lot of people (myself included) have loved Alain Rivard's Red Jammer. You can find it on his FB page: Alain Rivard Model Shop
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #5669457)
+Author    : RealDaveWinter
+Date      : Oct 9, 2025 at 12:59 PM
+────────────────────────────────────────────────────────────────────────
+
+judgedredd said:
+
+			Hi its $49 there are different options one with most parts set in place and other parts seperated to give a choice. The whole model splits into printable sections hope this helps.
+		
+
+Click to expand...
+
+$49 USD is $70 CAD. But still, I really need to see the break down and an assembly guide would be extremely helpful.
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #5669458)
+Author    : RealDaveWinter
+Date      : Oct 9, 2025 at 1:00 PM
+────────────────────────────────────────────────────────────────────────
+
+StevenBills said:
+
+			I know a lot of people (myself included) have loved Alain Rivard's Red Jammer. You can find it on his FB page: Alain Rivard Model Shop
+
+Click to expand...
+
+Thanks, he's not selling the STL's though right? If memory serves he's selling full kits? Maybe I have that wrong.
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #5669461)
+Author    : xeno
+Date      : Oct 9, 2025 at 1:10 PM
+────────────────────────────────────────────────────────────────────────
+
+RealDaveWinter said:
+
+			Thanks, he's not selling the STL's though right? If memory serves he's selling full kits? Maybe I have that wrong.
+		
+
+Click to expand...
+
+It seems he is also selling STL's.
+
+[IMAGE: https://www.therpf.com/forums/attachments/506806392_1139663838194317_5949012832726274395_n-jpg.1977161/]
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #5669467)
+Author    : StevenBills
+Date      : Oct 9, 2025 at 1:17 PM
+Reactions : Like — Necronaut
+────────────────────────────────────────────────────────────────────────
+
+RealDaveWinter said:
+
+			Thanks, he's not selling the STL's though right? If memory serves he's selling full kits? Maybe I have that wrong.
+		
+
+Click to expand...
+
+Oh he definitely sells the STLs. Just message him.
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #5669515)
+Author    : RealDaveWinter
+Date      : Oct 9, 2025 at 4:51 PM
+────────────────────────────────────────────────────────────────────────
+
+Oh!. Okay, thanks.
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #5669525)
+Author    : rustbucket
+Date      : Oct 9, 2025 at 5:30 PM
+────────────────────────────────────────────────────────────────────────
+
+aliendred on cg trader is Robert Cowley....I have printed this one FDM but have not assembled it.
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #5669531)
+Author    : jcoffman99
+Date      : Oct 9, 2025 at 5:37 PM
+Reactions : Like — Necronaut
+────────────────────────────────────────────────────────────────────────
+
+I just got a new SLA printer...hmmmmm....
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #5669542)
+Author    : Studio Kitbash
+Date      : Oct 9, 2025 at 6:36 PM
+────────────────────────────────────────────────────────────────────────
+
+Dave,
+
+If you already have the models to build an original Falcon, then you don't need a 3D printed Y-Wing, as you've also by default already got the models to build the Y-Wing.  So just build the armature, and start adding original greeblies.  The venn diagram overlap among the kits, and which props they produce, is half the fun of studio scale, and I started with the Y-Wing, and then only retroactively realized, "Hey, if I've got these kits already, then I only need a few more to build a Falcon."  So if you're starting with the Falcon, there's very few you don't already have to build a Y-Wing.
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #5669591)
+Author    : judgedredd
+Date      : Oct 9, 2025 at 11:58 PM
+Reactions : Like — Homecine
+────────────────────────────────────────────────────────────────────────
+
+RealDaveWinter said:
+
+			I looked at the link you sent. It's a lot of photos of the filming model, 2 images of the 3D mesh. But nothing that shows the printable parts. How is the model broken down for printing? Are the greeblies separate from the body? What's the size of the largest part? How many parts are there to print? Is there and assembly guide?
+
+It's a $70 CAD model, which is not the end of the world, but I'd like to see what I'm buying and how much rework is going to be required to meet my needs.
+
+thanks
+		
+
+Click to expand...
+
+By the way those are not pictures of the filming model they are the printed files from CG Trader painted by MAXX REPLICAs i am sure he will be very pleased with your comments lol
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #5670474)
+Author    : Rulebreaker
+Date      : Oct 13, 2025 at 7:19 AM
+────────────────────────────────────────────────────────────────────────
+
+the tie bomber has around +20 kits
+
+the x-wing has around +20 kits
+
+the a-wing has around +20 kits
+
+the esb millenium falcon has around +50 kits (95% tamiya)
+
+but the y-wing has over +200 kits, with tiny bits here and there - i think your chances are better making an accurate classic battle star galactica... than ever finihsing a y-wing
+
+speaking of stl, how much do you like "lines" on round parts? that need to be sanded because the stl quality is bad
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #5670483)
+Author    : RealDaveWinter
+Date      : Oct 13, 2025 at 7:41 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks.
+
+I would point out that layer lines are far more printer dependent than source file dependent. Sure, I've seen stl's that have spheres looking more like D&D dice than true spheres, but that still has nothing to do with layer lines showing up because it was printed on a low end resin or a FDM printer. I have a 14k resin printer with a 0.01mm layer height. Part orientation on the platform also helps with reduction in layer lines. Layer lines are pretty much invisible on my prints with any sanding required probably less than I get from off the shelf plastic model kits.
+
+I'm aware of the kits involved for scratch building, which is why I was looking for a complete 3D printable source that would allow me to replace some of the major assemblies with parts from kits I already have. Many of the greebly sub sections were also used on the 4 foot Falcon, so I have quite a lot of the kits and part assemblies already. Those that I don't have, or that I don't feel like fussing with, that's what the 3d print would take care of.
+
+It's why I was looking for an accurate one. I'm sure I could scratch build one if I wanted to put that much effort into it. But this is a side quest project. I just don't want to go through the whole 'trying to find accurate resources and drawings' again like I'm doing with my Falcon build. I was looking for a solid starting point to work from.
+
+I'll shoot Alain an email and see how that works out.
+
+thanks
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #5670512)
+Author    : rooker2k
+Date      : Oct 13, 2025 at 10:21 AM
+Reactions : Wow — masterjedi322
+────────────────────────────────────────────────────────────────────────
+
+what to say, Robert Cowley made the best so far 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+This was an incredible work over a couple of months.
+
+[IMAGE: https://www.therpf.com/forums/attachments/bildschirmfoto-2025-10-13-um-19-17-40-png.1978112/]
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #5670514)
+Author    : RealDaveWinter
+Date      : Oct 13, 2025 at 10:35 AM
+────────────────────────────────────────────────────────────────────────
+
+Great, thanks. I'll check that out too.
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #5670516)
+Author    : nivektunk
+Date      : Oct 13, 2025 at 10:48 AM
+────────────────────────────────────────────────────────────────────────
+
+I too have the Robert Cowley Y-Wing. Great files and easy to print. Best set of Y-Wing files I have. Hope this helps.
+
+Cheers,
+
+Kevin
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #5670517)
+Author    : RealDaveWinter
+Date      : Oct 13, 2025 at 10:55 AM
+────────────────────────────────────────────────────────────────────────
+
+nivektunk said:
+
+			I too have the Robert Cowley Y-Wing. Great files and easy to print. Best set of Y-Wing files I have. Hope this helps.
+
+Cheers,
+
+Kevin
+		
+
+Click to expand...
+
+Great, thank you.
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #5670569)
+Author    : Rulebreaker
+Date      : Oct 13, 2025 at 1:21 PM
+Reactions : Like — DaddyfromNaboo, TazMan2000
+────────────────────────────────────────────────────────────────────────
+
+RealDaveWinter
+
+i was not talking about layer height, i was talking about bad quality stl
+
+[IMAGE: https://www.therpf.com/forums/attachments/lines-lol-png.1978118/]
+
+see the lines on the far right export? even if u have 0,00000001mm, those lines are seen on the printed model, regardless of layer height, orientation and "technology"(sla/sls/fdm and so on) because its exported cornerish like that
+
+anyways, make sure u get pictures of the real model(parts) and not just a render, for your decision
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #5670570)
+Author    : RealDaveWinter
+Date      : Oct 13, 2025 at 1:25 PM
+────────────────────────────────────────────────────────────────────────
+
+Sure, but it takes a few seconds to fix that problem in Blender. As long as the dimensions are good, issues like that can be easily corrected.
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #5670594)
+Author    : David3
+Date      : Oct 13, 2025 at 3:32 PM
+Reactions : Like — seven
+────────────────────────────────────────────────────────────────────────
+
+Here's Jaitea review of the Cowley model
+
+and his build thread
+
+[IMAGE: logo-og.png]
+
+						3D printed Studio Scale Y-Wings
+					
+
+Hi Guys, It started with one, now theres 4 on the bench, originally a model sculpted by Chris Bibby, but modified by a group on FaceBook 'SciFi Studio Scaled Modellers'  I've got 2 to be painted as Gold Leader,...one as the early paint job, the other with the heavier weathering & scotch marks...
+
+[IMAGE: favicon.png]
+
+					www.therpf.com
+				
+
+and rooker2k as well
+
+[IMAGE: logo-og.png]
+
+						3D Printed Y-Wing - Scifi Studio Scale Modellers
+					
+
+Some of you have already seen the model and bought the 3D data. A kit is already in the works for those who don't want to or can't print it themselves. The model is in Studio Scale 1:24.  The model was built by our team member Robert Cowley (Cowley Design), with help from Steve Neisen and John...
+
+[IMAGE: favicon.png]
+
+					www.therpf.com
+				
+
+both pretty awesome
+────────────────────────────────────────────────────────────────────────
+Post #28  (forum post #5706641)
+Author    : TedStickle
+Date      : Mar 7, 2026 at 10:59 AM
+Reactions : Like — David3
+────────────────────────────────────────────────────────────────────────
+
+David3 said:
+
+			Here's Jaitea review of the Cowley model
+
+and his build thread
+
+[IMAGE: logo-og.png]
+
+						3D printed Studio Scale Y-Wings
+					
+
+Hi Guys, It started with one, now theres 4 on the bench, originally a model sculpted by Chris Bibby, but modified by a group on FaceBook 'SciFi Studio Scaled Modellers'  I've got 2 to be painted as Gold Leader,...one as the early paint job, the other with the heavier weathering & scotch marks...
+
+[IMAGE: favicon.png]
+
+					www.therpf.com
+				
+
+and rooker2k as well
+
+[IMAGE: logo-og.png]
+
+						3D Printed Y-Wing - Scifi Studio Scale Modellers
+					
+
+Some of you have already seen the model and bought the 3D data. A kit is already in the works for those who don't want to or can't print it themselves. The model is in Studio Scale 1:24.  The model was built by our team member Robert Cowley (Cowley Design), with help from Steve Neisen and John...
+
+[IMAGE: favicon.png]
+
+					www.therpf.com
+				
+
+both pretty awesome
+		
+
+Click to expand...
+
+I have the Cowley Y wing and it’s more than 500 stl’s where you can print the ship in chunks and the biggest piece is the front piece and you will need a printer that can do at least 210mm. I’m gonna print mine on a Anycubic photon mono 4 ultra 10k resin printer for the body parts and Greeblies for the blank model and the finished parts as well.
+
+ It goes together sort of like an older resin kit where 90% of the greeblies are already on the model and you put on the fine detail parts. I’m getting larger resin printer that can print 300mm long  items so I can print a x wing fuselage top and bottom and at 300mm x 298mm x 164mm print area with the Anycubic photon mono 7 max there isn’t a whole lot I can’t print.  
+
+It’s cheaper for me to just print the models I want to build as opposed to getting Shapeways or the like to print for me. But there aren’t any directions or anything the Greeblies aren’t named so you can have fun opening each file with a stl viewer and id’ing each one and naming it as such. You can do things several ways. Use the Greeblies from the cowley y wing and put them on the blank body parts and armature from Dave G’s open source project. Or you can use Cowley’s blank body parts and engine nacelles and his greeblies  and put one together that way. Or you can print out the 90% done model and add the fine detail greeblies provided. It’s more than 2gb of files and I’m gonna print out the 90% finished ship out first. It fits together really solidly with no armature if you go the Cowley body parts route. Then I’m gonna build a ship and put it together   happy to be able to finally move forwards and build and paint a studio scale Y wing. Hope this helps a little.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 28

@@ -1,0 +1,530 @@
+region_id,image_id,image_title,label,status,match_count,kit_id,kit_brand,kit_name
+662,33,image2.jpg,Airfix Focke Wulf 189,linked,1,25,Airfix,Focke-Wulf 189
+664,33,image2.jpg,Airfix Henschel HS 129,linked,1,187,Airfix,Henschel H.S.129
+667,33,image2.jpg,Airfix Pontoon Bridge,linked,1,12,Airfix,Pontoon Bridge
+675,44,image3.jpg,Airfix Black Widow,linked,1,180,Airfix,Black Widow
+684,26,image13.jpg,Airfix Harrow,linked,1,18,Airfix,Harrow
+685,26,image13.jpg,Revell Phantom F-4J,linked,1,119,Revell,Phantom F-4J
+688,37,image23.jpg,AMT Chevy Titan 90,linked,1,216,AMT,Chevy Titan 90
+689,37,image23.jpg,AMT Ford LNT-8000 Tractor,linked,1,221,AMT,Ford LNT-8000 Tractor
+695,37,image23.jpg,AMT Peterbilt 359 California Hauler,linked,1,32,AMT,Peterbilt 359 California Hauler
+696,37,image23.jpg,AMT Peterbilt 359 California Hauler,linked,1,32,AMT,Peterbilt 359 California Hauler
+698,37,image23.jpg,Revell Phantom F-4J,linked,1,119,Revell,Phantom F-4J
+699,37,image23.jpg,Revell Phantom F-4J,linked,1,119,Revell,Phantom F-4J
+700,37,image23.jpg,Revell Phantom F-4J,linked,1,119,Revell,Phantom F-4J
+704,22,image1.jpg,AMT Chevy Titan 90,linked,1,216,AMT,Chevy Titan 90
+727,27,image14.jpg,AMT New Ford Pickup,linked,1,234,AMT,New Ford Pickup
+731,27,image14.jpg,AMT ‘34 Ford Pickup,linked,1,206,AMT,34 Ford Pickup
+732,27,image14.jpg,Aurora B-25 Mitchell Bomber,linked,1,261,Aurora,B-25 Mitchell Bomber
+739,65,image9.jpg,AMT 55 Chevy Nomad,linked,1,209,AMT,55 Chevy Nomad
+741,65,image9.jpg,AMT Nova Pro Stock,linked,1,249,AMT,Nova Pro Stock
+744,39,image25.png,AMT Chevy Titan 90,linked,1,216,AMT,Chevy Titan 90
+746,39,image25.png,AMT Peterbilt 359 California Hauler,linked,1,32,AMT,Peterbilt 359 California Hauler
+749,23,image10.jpg,AMT 1958 Chevy Impala,linked,1,203,AMT,1958 Chevy Impala
+754,23,image10.jpg,AMT 53 Ford Pickup Street Rods,linked,1,208,AMT,53 Ford Pickup Street Rods
+755,23,image10.jpg,AMT 55 Chevy Nomad,linked,1,209,AMT,55 Chevy Nomad
+756,23,image10.jpg,AMT 59 Chevy El Camino,linked,1,210,AMT,59 Chevy El Camino
+757,23,image10.jpg,AMT Chevy Titan 90,linked,1,216,AMT,Chevy Titan 90
+758,23,image10.jpg,AMT Chevy Titan 90,linked,1,216,AMT,Chevy Titan 90
+759,23,image10.jpg,AMT Crew Chief,linked,1,217,AMT,Crew Chief
+762,23,image10.jpg,AMT Gurney/Jorgensen Eagle,linked,1,224,AMT,Gurney/Jorgensen Eagle
+763,23,image10.jpg,AMT Kandy Van,linked,1,225,AMT,Kandy Van
+765,23,image10.jpg,AMT Mopower Plymouth Funny Car T351,linked,1,230,AMT,Mopower Plymouth Funny Car T351
+766,23,image10.jpg,AMT Mustang High Roller,linked,1,232,AMT,Mustang High Roller
+767,23,image10.jpg,AMT New Camaro,linked,1,233,AMT,New Camaro
+768,23,image10.jpg,AMT Peterbilt 359 California Hauler,linked,1,32,AMT,Peterbilt 359 California Hauler
+769,23,image10.jpg,AMT Peterbilt 359 California Hauler,linked,1,32,AMT,Peterbilt 359 California Hauler
+770,23,image10.jpg,AMT Peterbilt 359 California Hauler,linked,1,32,AMT,Peterbilt 359 California Hauler
+771,23,image10.jpg,AMT The Champ Mustang II Funny Car,linked,1,243,AMT,The Champ Mustang II Funny Car
+774,23,image10.jpg,Tamiya German 88mm Gun Flak 36/37,linked,1,159,Tamiya,German 88mm Gun Flak 36/37
+778,31,image18.jpg,AMT Chevy Titan 90,linked,1,216,AMT,Chevy Titan 90
+779,31,image18.jpg,AMT Chevy Titan 90,linked,1,216,AMT,Chevy Titan 90
+780,31,image18.jpg,AMT Crew Chief,linked,1,217,AMT,Crew Chief
+783,31,image18.jpg,AMT Gurney/Jorgensen Eagle,linked,1,224,AMT,Gurney/Jorgensen Eagle
+785,31,image18.jpg,AMT Mopower Plymouth Funny Car T351,linked,1,230,AMT,Mopower Plymouth Funny Car T351
+787,31,image18.jpg,AMT Peterbilt 359 California Hauler,linked,1,32,AMT,Peterbilt 359 California Hauler
+788,31,image18.jpg,AMT Peterbilt 359 California Hauler,linked,1,32,AMT,Peterbilt 359 California Hauler
+793,31,image18.jpg,Revell Phantom F-4J,linked,1,119,Revell,Phantom F-4J
+794,31,image18.jpg,Revell Phantom F-4J,linked,1,119,Revell,Phantom F-4J
+795,31,image18.jpg,Revell Phantom F-4J,linked,1,119,Revell,Phantom F-4J
+796,31,image18.jpg,Revell Phantom F-4J,linked,1,119,Revell,Phantom F-4J
+797,31,image18.jpg,Revell Phantom F-4J,linked,1,119,Revell,Phantom F-4J
+798,31,image18.jpg,Revell Phantom F-4J,linked,1,119,Revell,Phantom F-4J
+799,31,image18.jpg,Revell Phantom F-4J,linked,1,119,Revell,Phantom F-4J
+800,31,image18.jpg,Revell Phantom F-4J,linked,1,119,Revell,Phantom F-4J
+801,31,image18.jpg,Revell Phantom F-4J,linked,1,119,Revell,Phantom F-4J
+802,31,image18.jpg,Tamiya German 88mm Gun Flak 36/37,linked,1,159,Tamiya,German 88mm Gun Flak 36/37
+803,28,image15.jpg,AMT Kenworth K-123 Cabover,linked,1,30,AMT,Kenworth K-123 Cabover
+805,28,image15.jpg,AMT Peterbilt 359 California Hauler,linked,1,32,AMT,Peterbilt 359 California Hauler
+811,25,image12.jpg,Tamiya Zündapp KS750 & BMW R75,linked,1,367,Tamiya,Zündapp KS750 & BMW R75
+813,32,image19.jpg,AMT 1958 Chevy Impala,linked,1,203,AMT,1958 Chevy Impala
+815,32,image19.jpg,AMT 59 Chevy El Camino,linked,1,210,AMT,59 Chevy El Camino
+816,32,image19.jpg,AMT Chevy Titan 90,linked,1,216,AMT,Chevy Titan 90
+817,32,image19.jpg,AMT Chevy Titan 90,linked,1,216,AMT,Chevy Titan 90
+820,32,image19.jpg,AMT Mercedes Benz 300SL,linked,1,228,AMT,Mercedes-Benz 300SL
+821,32,image19.jpg,AMT Mopower Plymouth Funny Car T351,linked,1,230,AMT,Mopower Plymouth Funny Car T351
+825,32,image19.jpg,AMT Peterbilt 359 California Hauler,linked,1,32,AMT,Peterbilt 359 California Hauler
+826,32,image19.jpg,AMT Peterbilt 359 California Hauler,linked,1,32,AMT,Peterbilt 359 California Hauler
+828,32,image19.jpg,AMT ‘40 Ford Sedan Delivery,linked,1,207,AMT,40 Ford Sedan Delivery
+830,32,image19.jpg,Revell 53 Chevy Panel,linked,1,341,Revell,53 Chevy Panel
+831,32,image19.jpg,Tamiya German 88mm Gun Flak 36/37,linked,1,159,Tamiya,German 88mm Gun Flak 36/37
+834,38,image24.jpg,Nitto M3A1 Halftrack (?),linked,1,329,Nitto,M3A1 Half Track
+837,36,image22.jpg,AMT New Ford Pickup,linked,1,234,AMT,New Ford Pickup
+840,36,image22.jpg,Airfix Hawker Harrier,linked,1,173,Airfix,Hawker Harrier
+843,36,image22.jpg,Revell Phantom F-4J,linked,1,119,Revell,Phantom F-4J
+844,16,Dave Jones identification frame,Revell Phantom F-4J,linked,1,119,Revell,Phantom F-4J
+845,17,unidentified people in workshop footage,Revell Phantom F-4J,linked,1,119,Revell,Phantom F-4J
+876,19,mixed fighter-program group shot,AMT White Western Star,linked,1,247,AMT,White Western Star
+877,19,mixed fighter-program group shot,Aurora B-25 Mitchell Bomber,linked,1,261,Aurora,B-25 Mitchell Bomber
+885,19,mixed fighter-program group shot,Tamiya Ferrari 312B,linked,1,351,Tamiya,Ferrari 312B
+900,18,likely Rebel capital ship program; exact ID not yet locked,AMT  Kenworth K-123 Cabover,linked,1,30,AMT,Kenworth K-123 Cabover
+902,18,likely Rebel capital ship program; exact ID not yet locked,AMT Aquarod Race Team,linked,1,213,AMT,Aquarod Race Team
+903,18,likely Rebel capital ship program; exact ID not yet locked,AMT Gremlin X,linked,1,223,AMT,Gremlin X
+904,18,likely Rebel capital ship program; exact ID not yet locked,AMT Kenworth K-123 Cabover,linked,1,30,AMT,Kenworth K-123 Cabover
+911,18,likely Rebel capital ship program; exact ID not yet locked,AMT Peterbilt 359 California Hauler,linked,1,32,AMT,Peterbilt 359 California Hauler
+912,18,likely Rebel capital ship program; exact ID not yet locked,AMT Peterbilt 359 California Hauler,linked,1,32,AMT,Peterbilt 359 California Hauler
+916,18,likely Rebel capital ship program; exact ID not yet locked,AMT White Western Star,linked,1,247,AMT,White Western Star
+920,18,likely Rebel capital ship program; exact ID not yet locked,Airfix Hawker Harrier,linked,1,173,Airfix,Hawker Harrier
+922,18,likely Rebel capital ship program; exact ID not yet locked,Aurora B-25 Mitchell Bomber,linked,1,261,Aurora,B-25 Mitchell Bomber
+923,18,likely Rebel capital ship program; exact ID not yet locked,Aurora Graf Spee,linked,1,41,Aurora,Graf Spee
+931,18,likely Rebel capital ship program; exact ID not yet locked,Revell Phantom F-4J,linked,1,119,Revell,Phantom F-4J
+941,43,image29.jpg,AMT Peterbilt 359 California Hauler,linked,1,32,AMT,Peterbilt 359 California Hauler
+942,43,image29.jpg,AMT Peterbilt 359 California Hauler,linked,1,32,AMT,Peterbilt 359 California Hauler
+946,43,image29.jpg,Revell Phantom F-4J,linked,1,119,Revell,Phantom F-4J
+947,43,image29.jpg,Revell Phantom F-4J,linked,1,119,Revell,Phantom F-4J
+948,43,image29.jpg,Revell Phantom F-4J,linked,1,119,Revell,Phantom F-4J
+949,43,image29.jpg,Revell Phantom F-4J,linked,1,119,Revell,Phantom F-4J
+950,46,image34.jpg,AMT Gremlin X,linked,1,223,AMT,Gremlin X
+954,46,image34.jpg,AMT Peterbilt Wrecker,linked,1,240,AMT,Peterbilt Wrecker
+955,46,image34.jpg,AMT Peterbilt Wrecker,linked,1,240,AMT,Peterbilt Wrecker
+958,46,image34.jpg,Revell Phantom F-4J,linked,1,119,Revell,Phantom F-4J
+959,46,image34.jpg,Revell Phantom F-4J,linked,1,119,Revell,Phantom F-4J
+960,46,image34.jpg,Revell Phantom F-4J,linked,1,119,Revell,Phantom F-4J
+961,46,image34.jpg,Revell Phantom F-4J,linked,1,119,Revell,Phantom F-4J
+962,8,n/a,AMT Chevy Titan 90,linked,1,216,AMT,Chevy Titan 90
+963,8,n/a,AMT Diamond Reo,linked,1,218,AMT,Diamond Reo
+968,8,n/a,AMT Peterbilt Wrecker,linked,1,240,AMT,Peterbilt Wrecker
+972,8,n/a,Airfix Harrow,linked,1,18,Airfix,Harrow
+973,8,n/a,Airfix Hawker Harrier,linked,1,173,Airfix,Hawker Harrier
+976,8,n/a,Aurora P-51 Mustang,linked,1,260,Aurora,P-51 Mustang
+977,8,n/a,Aurora SE-5 British Scout,linked,1,258,Aurora,SE-5 British Scout
+978,8,n/a,Aurora SE-5 British Scout,linked,1,258,Aurora,SE-5 British Scout
+990,8,n/a,Bandai Jagdpanzer Hetzer,linked,1,53,Bandai,"Jagdpanzer ""Hetzer"""
+1007,8,n/a,Nichimo JagdTiger,linked,1,102,Nichimo,Jagdtiger
+1010,8,n/a,Revell Phantom F-4J,linked,1,119,Revell,Phantom F-4J
+1011,8,n/a,Revell Phantom F-4J,linked,1,119,Revell,Phantom F-4J
+1012,8,n/a,Revell Phantom F-4J,linked,1,119,Revell,Phantom F-4J
+1013,8,n/a,Revell Phantom F-4J,linked,1,119,Revell,Phantom F-4J
+1020,8,n/a,Tamiya Lotus 49B Ford F-1,linked,1,354,Tamiya,Lotus 49B Ford F-1
+1025,8,n/a,Tamiya McLaren M8A,linked,1,131,Tamiya,McLaren M8A
+1035,48,image37.jpg,AMT Kenworth K123 Cabover,linked,1,30,AMT,Kenworth K-123 Cabover
+1037,48,image37.jpg,AMT ‘32 Ford Phaeton,linked,1,205,AMT,32 Ford Phaeton
+1038,48,image37.jpg,AMT ‘32 Ford Phaeton,linked,1,205,AMT,32 Ford Phaeton
+1049,54,image43.jpg,AMT Peterbilt 359 California Hauler,linked,1,32,AMT,Peterbilt 359 California Hauler
+1050,54,image43.jpg,AMT Peterbilt 359 California Hauler,linked,1,32,AMT,Peterbilt 359 California Hauler
+1052,54,image43.jpg,AMT Right On! MAVERICK DRAG PRO STOCKER,linked,1,241,AMT,Right On! MAVERICK DRAG PRO STOCKER
+1056,54,image43.jpg,AMT White Road Boss,linked,1,33,AMT,White Road Boss
+1057,54,image43.jpg,AMT White Western Star,linked,1,247,AMT,White Western Star
+1059,54,image43.jpg,Aurora Graf Spee,linked,1,41,Aurora,Graf Spee
+1064,54,image43.jpg,IMC Volkswagen,linked,1,303,IMC,Volkswagen
+1067,54,image43.jpg,Revell Phantom F-4J,linked,1,119,Revell,Phantom F-4J
+1068,54,image43.jpg,Revell Phantom F-4J,linked,1,119,Revell,Phantom F-4J
+1069,54,image43.jpg,Revell Phantom F-4J,linked,1,119,Revell,Phantom F-4J
+1070,54,image43.jpg,Revell Phantom F-4J,linked,1,119,Revell,Phantom F-4J
+1071,54,image43.jpg,Revell Phantom F-4J,linked,1,119,Revell,Phantom F-4J
+1072,54,image43.jpg,Revell Phantom F-4J,linked,1,119,Revell,Phantom F-4J
+1073,54,image43.jpg,Revell Phantom F-4J,linked,1,119,Revell,Phantom F-4J
+1074,54,image43.jpg,Revell Phantom F-4J,linked,1,119,Revell,Phantom F-4J
+1075,54,image43.jpg,Revell Phantom F-4J,linked,1,119,Revell,Phantom F-4J
+1076,54,image43.jpg,Revell Phantom F-4J,linked,1,119,Revell,Phantom F-4J
+1086,9,Death Star surface or tile or special section work,"Heller Suffren, Fregate Lance-Engins",linked,1,301,Heller,"Suffren, Fregate Lance-Engins"
+1087,9,Death Star surface or tile or special section work,IMAI Galeass,linked,1,302,Imai,Galeass
+1090,9,Death Star surface or tile or special section work,Nichimo Jagdtiger,linked,1,102,Nichimo,Jagdtiger
+1114,58,image49.jpg,Monogram De Havilland Mosquito,linked,1,312,Monogram,De Havilland Mosquito
+1115,58,image49.jpg,Nichimo Jagdtiger,linked,1,102,Nichimo,Jagdtiger
+1128,51,image40.jpg,AMT '65 Ford Galaxie XL,linked,1,212,AMT,65 Ford Galaxie XL
+1129,51,image40.jpg,AMT 53 Ford Pickup Street Rods,linked,1,208,AMT,53 Ford Pickup Street Rods
+1131,51,image40.jpg,AMT Chevy Titan 90,linked,1,216,AMT,Chevy Titan 90
+1132,51,image40.jpg,AMT Dragray Corvette Funny Car,linked,1,220,AMT,DRAGRAY Corvette Funny Car
+1141,51,image40.jpg,AMT Mustang GT Road Racer,linked,1,231,AMT,Mustang GT Road Racer
+1143,51,image40.jpg,AMT Peterbilt 359 California Hauler,linked,1,32,AMT,Peterbilt 359 California Hauler
+1144,51,image40.jpg,AMT Peterbilt 359 California Hauler,linked,1,32,AMT,Peterbilt 359 California Hauler
+1145,51,image40.jpg,AMT Peterbilt 359 California Hauler,linked,1,32,AMT,Peterbilt 359 California Hauler
+1146,51,image40.jpg,AMT Peterbilt 359 California Hauler,linked,1,32,AMT,Peterbilt 359 California Hauler
+1152,51,image40.jpg,AMT White Western Star,linked,1,247,AMT,White Western Star
+1153,51,image40.jpg,AMT ‘34 Ford Pickup,linked,1,206,AMT,34 Ford Pickup
+1155,51,image40.jpg,Airfix Harrow,linked,1,18,Airfix,Harrow
+1157,51,image40.jpg,Revell Phantom F-4J,linked,1,119,Revell,Phantom F-4J
+1158,51,image40.jpg,Revell Phantom F-4J,linked,1,119,Revell,Phantom F-4J
+1159,51,image40.jpg,Revell Phantom F-4J,linked,1,119,Revell,Phantom F-4J
+1161,52,image41.jpg,AMT 59 Chevy El Camino,linked,1,210,AMT,59 Chevy El Camino
+1167,52,image41.jpg,AMT McLaren M16 C/D,linked,1,227,AMT,McLaren M16 C/D
+1169,52,image41.jpg,AMT Peterbilt 359 California Hauler,linked,1,32,AMT,Peterbilt 359 California Hauler
+1178,59,image51.jpg,AMT 1958 Chevy Impala,linked,1,203,AMT,1958 Chevy Impala
+1179,59,image51.jpg,AMT 55 Chevy Nomad,linked,1,209,AMT,55 Chevy Nomad
+1180,59,image51.jpg,AMT 56 Ford Victoria Hardtop,linked,1,250,AMT,56 Ford Victoria Hardtop
+1181,53,image42.jpg,AMT Dragray Corvette Funny Car,linked,1,220,AMT,DRAGRAY Corvette Funny Car
+1182,53,image42.jpg,AMT McLaren M16 C/D,linked,1,227,AMT,McLaren M16 C/D
+1183,59,image51.jpg,AMT Nova Pro Stock,linked,1,249,AMT,Nova Pro Stock
+658,29,image16.jpg,Bandai Tank IV F2,no_exact_match,0,,,
+659,5,likely Millennium Falcon rear or engine area,Bandai Hummel,no_exact_match,0,,,
+660,33,image2.jpg,Afx. Black Widow,no_exact_match,0,,,
+661,33,image2.jpg,Airfix Ark Royal,no_exact_match,0,,,
+663,33,image2.jpg,Airfix Harrier,no_exact_match,0,,,
+665,33,image2.jpg,Airfix Hurricane,no_exact_match,0,,,
+666,33,image2.jpg,Airfix Messerschmitt,no_exact_match,0,,,
+668,33,image2.jpg,Airfix Saturn V,no_exact_match,0,,,
+669,33,image2.jpg,Hasegawa Gasoline Truck,no_exact_match,0,,,
+670,33,image2.jpg,Hasegawa Yamato,no_exact_match,0,,,
+671,33,image2.jpg,LS Morgan Roadster,no_exact_match,0,,,
+672,33,image2.jpg,Mania Nate,no_exact_match,0,,,
+673,33,image2.jpg,Nichimo Musashi,no_exact_match,0,,,
+674,33,image2.jpg,Tamiya Tiger I E,no_exact_match,0,,,
+676,44,image3.jpg,Hasegawa Yamato,no_exact_match,0,,,
+677,44,image3.jpg,Tamiya Tiger I E,no_exact_match,0,,,
+678,63,image7.jpg,Airfix 1:24 (?),no_exact_match,0,,,
+679,63,image7.jpg,Airfix 1:24 Messerschmitt (?),no_exact_match,0,,,
+680,63,image7.jpg,ENTEX Panzer IV F2,no_exact_match,0,,,
+681,63,image7.jpg,ESCI Kettenkrad,no_exact_match,0,,,
+682,63,image7.jpg,Frog Heinkel 111,no_exact_match,0,,,
+683,30,image17.jpg,Airfix Saturn V,no_exact_match,0,,,
+686,37,image23.jpg,AMT 1:43 Peterbilt 359,no_exact_match,0,,,
+687,37,image23.jpg,AMT Autocar,no_exact_match,0,,,
+690,37,image23.jpg,AMT Fruehauf Tanker Semi Trailer,no_exact_match,0,,,
+691,37,image23.jpg,AMT Fruehauf Tanker Semi Trailer,no_exact_match,0,,,
+692,37,image23.jpg,AMT Fruehauf Tanker Semi Trailer,no_exact_match,0,,,
+693,37,image23.jpg,"AMT Kenworth W-925 ""Watkins",no_exact_match,0,,,
+694,37,image23.jpg,"AMT Kenworth W-925 ""Watkins""",no_exact_match,0,,,
+697,37,image23.jpg,AMT White Freightliner,no_exact_match,0,,,
+701,22,image1.jpg,AMT 1:43 Peterbilt 359,no_exact_match,0,,,
+702,22,image1.jpg,AMT 1:43 Peterbilt 359,no_exact_match,0,,,
+703,22,image1.jpg,AMT Autocar,no_exact_match,0,,,
+705,22,image1.jpg,AMT Lifestock,no_exact_match,0,,,
+706,22,image1.jpg,AMT Movin On,no_exact_match,0,,,
+707,22,image1.jpg,AMT Peterbilt Cabover,no_exact_match,0,,,
+708,22,image1.jpg,AMT Two Much,no_exact_match,0,,,
+709,22,image1.jpg,AMT White FreightLiner,no_exact_match,0,,,
+710,22,image1.jpg,AMT. California Hauler,no_exact_match,0,,,
+711,22,image1.jpg,Tamiya Centurion,no_exact_match,0,,,
+712,64,image8.jpg,AMT Aquarod Racing Team,no_exact_match,0,,,
+713,64,image8.jpg,AMT California Hauler,no_exact_match,0,,,
+714,64,image8.jpg,AMT Fruehauf Tanker Semi Trailer,no_exact_match,0,,,
+715,64,image8.jpg,Airfix 1:24 Messerschmitt,no_exact_match,0,,,
+716,64,image8.jpg,Revell Phantom,no_exact_match,0,,,
+717,64,image8.jpg,Revell Phantom,no_exact_match,0,,,
+718,64,image8.jpg,Revell Phantom,no_exact_match,0,,,
+719,64,image8.jpg,Tamiya Hanomag,no_exact_match,0,,,
+720,27,image14.jpg,AMT 1:43 Peterbilt 359,no_exact_match,0,,,
+721,27,image14.jpg,AMT Black Beauty,no_exact_match,0,,,
+722,27,image14.jpg,AMT Bobby Alison Malibu Chevy,no_exact_match,0,,,
+723,27,image14.jpg,AMT Gremlin,no_exact_match,0,,,
+724,27,image14.jpg,AMT Kenworth Cabover K123,no_exact_match,0,,,
+725,27,image14.jpg,AMT Kenworth W-925,no_exact_match,0,,,
+726,27,image14.jpg,AMT Kenworth W-925,no_exact_match,0,,,
+728,27,image14.jpg,AMT Peterbilt 352 Cabover,no_exact_match,0,,,
+729,27,image14.jpg,AMT White FreightLiner,no_exact_match,0,,,
+730,27,image14.jpg,AMT White Freightliner,no_exact_match,0,,,
+733,27,image14.jpg,Heller Porsche 917 K,no_exact_match,0,,,
+734,65,image9.jpg,???,no_exact_match,0,,,
+735,65,image9.jpg,???,no_exact_match,0,,,
+736,65,image9.jpg,???,no_exact_match,0,,,
+737,65,image9.jpg,???,no_exact_match,0,,,
+738,65,image9.jpg,???,no_exact_match,0,,,
+740,65,image9.jpg,AMT 58 Chevy Impala,no_exact_match,0,,,
+742,65,image9.jpg,Airfix Saturn V,no_exact_match,0,,,
+743,24,image11.jpg,Tamiya 8-Rad,no_exact_match,0,,,
+745,39,image25.png,AMT Peterbilt 352 Cabover,no_exact_match,0,,,
+747,39,image25.png,AMT White Freightliner,no_exact_match,0,,,
+748,39,image25.png,Airfix Saturn V,no_exact_match,0,,,
+750,23,image10.jpg,AMT 1:43 Exterior Post Van,no_exact_match,0,,,
+751,23,image10.jpg,AMT 1:43 Exterior Post Van,no_exact_match,0,,,
+752,23,image10.jpg,AMT 1:43 Exterior Post Van,no_exact_match,0,,,
+753,23,image10.jpg,AMT 1:43 Peterbilt 359,no_exact_match,0,,,
+760,23,image10.jpg,AMT Fruehauf 40ft. Reefer,no_exact_match,0,,,
+761,23,image10.jpg,AMT Fruehauf Tanker Semi Trailer,no_exact_match,0,,,
+764,23,image10.jpg,AMT Kenworth W-925 Movin On,no_exact_match,0,,,
+772,23,image10.jpg,ERTL Great Dane Flatbed Trailer,no_exact_match,0,,,
+773,23,image10.jpg,Hiroshi Sumi reference:,no_exact_match,0,,,
+775,31,image18.jpg,???,no_exact_match,0,,,
+776,31,image18.jpg,AMT 1:43 Exterior Post Van,no_exact_match,0,,,
+777,31,image18.jpg,AMT 1:43 Peterbilt 359,no_exact_match,0,,,
+781,31,image18.jpg,AMT Fruehauf Tanker,no_exact_match,0,,,
+782,31,image18.jpg,AMT Fruehauf Tanker Semi Trailer,no_exact_match,0,,,
+784,31,image18.jpg,AMT Kenworth W-925 Movin On,no_exact_match,0,,,
+786,31,image18.jpg,AMT Peterbilt 352 Cabover,no_exact_match,0,,,
+789,31,image18.jpg,AMT Tommy Ivo Dragster,no_exact_match,0,,,
+790,31,image18.jpg,AMT White Freightliner,no_exact_match,0,,,
+791,31,image18.jpg,AMTi 1:43 Peterbilt 359,no_exact_match,0,,,
+792,31,image18.jpg,ERTL Great Dane Flatbed Trailer,no_exact_match,0,,,
+804,28,image15.jpg,AMT Kenworth W-925 Watkins,no_exact_match,0,,,
+806,28,image15.jpg,Airfix Saturn V,no_exact_match,0,,,
+807,28,image15.jpg,Airfix Saturn V,no_exact_match,0,,,
+808,28,image15.jpg,Airfix Tank Transporter,no_exact_match,0,,,
+809,25,image12.jpg,Hasegawa Sherman,no_exact_match,0,,,
+810,25,image12.jpg,Tamiya M60A1E1,no_exact_match,0,,,
+812,32,image19.jpg,???,no_exact_match,0,,,
+814,32,image19.jpg,AMT 1:43 Peterbilt 359,no_exact_match,0,,,
+818,32,image19.jpg,AMT Fruehauf 40ft. Reefer,no_exact_match,0,,,
+819,32,image19.jpg,AMT Kenworth W-925 Movin On,no_exact_match,0,,,
+822,32,image19.jpg,AMT Nirvana Custom,no_exact_match,0,,,
+823,32,image19.jpg,AMT Peterbilt 352 Cabover,no_exact_match,0,,,
+824,32,image19.jpg,AMT Peterbilt 352 Cabover,no_exact_match,0,,,
+827,32,image19.jpg,AMT White Freightliner,no_exact_match,0,,,
+829,32,image19.jpg,ERTL Great Dane Flatbed Trailer,no_exact_match,0,,,
+832,38,image24.jpg,Bandai 1:48 Panther G,no_exact_match,0,,,
+833,38,image24.jpg,Fujimi Elefant,no_exact_match,0,,,
+835,36,image22.jpg,5757 video grabs,no_exact_match,0,,,
+836,36,image22.jpg,AMT Autocar,no_exact_match,0,,,
+838,16,Dave Jones identification frame,Airfix  Harrow 10x?,no_exact_match,0,,,
+839,36,image22.jpg,Airfix  Harrow 10x?,no_exact_match,0,,,
+841,41,image27.jpg,Airfix Saturn V,no_exact_match,0,,,
+842,36,image22.jpg,Bandai 1:24 M60,no_exact_match,0,,,
+846,45,image32.jpg,Aurora Iowa,no_exact_match,0,,,
+847,45,image32.jpg,ERTL Payhauler,no_exact_match,0,,,
+848,45,image32.jpg,Entex German Army Assault Gun,no_exact_match,0,,,
+849,45,image32.jpg,Entex German Army Assault Gun,no_exact_match,0,,,
+850,45,image32.jpg,Entex Panzerkampfwagen IV f2,no_exact_match,0,,,
+851,45,image32.jpg,Entex Panzerkampfwagen IV f2,no_exact_match,0,,,
+852,45,image32.jpg,Fujimi Iowa,no_exact_match,0,,,
+853,45,image32.jpg,Tamiya Hanomag,no_exact_match,0,,,
+854,45,image32.jpg,Tamiya Shinano,no_exact_match,0,,,
+855,45,image32.jpg,Tamiya Shinano,no_exact_match,0,,,
+856,45,image32.jpg,Tamiya Taiho,no_exact_match,0,,,
+857,40,image26.jpg,Aurora Iowa,no_exact_match,0,,,
+858,40,image26.jpg,ERTL Payhauler,no_exact_match,0,,,
+859,40,image26.jpg,Fujimi Iowa,no_exact_match,0,,,
+860,40,image26.jpg,Fujimi Iowa,no_exact_match,0,,,
+861,40,image26.jpg,Tamiya Hanomag,no_exact_match,0,,,
+862,40,image26.jpg,Tamiya Shinano,no_exact_match,0,,,
+863,40,image26.jpg,Tamiya Shinano,no_exact_match,0,,,
+864,40,image26.jpg,Tamiya Taiho,no_exact_match,0,,,
+865,20,X-Wing lineup or squadron build display,Aurora Iowa,no_exact_match,0,,,
+866,20,X-Wing lineup or squadron build display,ERTL Payhauler,no_exact_match,0,,,
+867,20,X-Wing lineup or squadron build display,Fujimi Iowa,no_exact_match,0,,,
+868,20,X-Wing lineup or squadron build display,Fujimi Iowa,no_exact_match,0,,,
+869,20,X-Wing lineup or squadron build display,Fujimi Missouri,no_exact_match,0,,,
+870,20,X-Wing lineup or squadron build display,Tamiya Shinano,no_exact_match,0,,,
+871,20,X-Wing lineup or squadron build display,Tamiya Shinano,no_exact_match,0,,,
+872,20,X-Wing lineup or squadron build display,Tamiya Taiho,no_exact_match,0,,,
+873,19,mixed fighter-program group shot,AMT Kenworth W-925 Movin On,no_exact_match,0,,,
+874,19,mixed fighter-program group shot,AMT Peterbilt 352 Cabover,no_exact_match,0,,,
+875,19,mixed fighter-program group shot,AMT White Freightliner,no_exact_match,0,,,
+878,19,mixed fighter-program group shot,Aurora Iowa,no_exact_match,0,,,
+879,19,mixed fighter-program group shot,Entex German Army Assault Gun,no_exact_match,0,,,
+880,19,mixed fighter-program group shot,Entex German Army Assault Gun,no_exact_match,0,,,
+881,19,mixed fighter-program group shot,Entex Panzerkampfwagen IV f2,no_exact_match,0,,,
+882,19,mixed fighter-program group shot,Entex Panzerkampfwagen IV f2,no_exact_match,0,,,
+883,19,mixed fighter-program group shot,Fujimi Iowa,no_exact_match,0,,,
+884,19,mixed fighter-program group shot,Tamiya Centurion,no_exact_match,0,,,
+886,19,mixed fighter-program group shot,Tamiya Shinano,no_exact_match,0,,,
+887,19,mixed fighter-program group shot,Tamiya Taiho,no_exact_match,0,,,
+888,47,image36.jpg,AMT Kenworth W-925 Movin On,no_exact_match,0,,,
+889,47,image36.jpg,AMT Peterbilt 359 Cal.Hauler,no_exact_match,0,,,
+890,47,image36.jpg,Aurora Iowa,no_exact_match,0,,,
+891,47,image36.jpg,ERTL Payhauler,no_exact_match,0,,,
+892,47,image36.jpg,Fujimi Iowa,no_exact_match,0,,,
+893,47,image36.jpg,Fujimi Missouri,no_exact_match,0,,,
+894,47,image36.jpg,Hasegawa Sherman,no_exact_match,0,,,
+895,47,image36.jpg,Hasegawa Sherman,no_exact_match,0,,,
+896,47,image36.jpg,Revell Wisconsin,no_exact_match,0,,,
+897,47,image36.jpg,Tamiya Shinano,no_exact_match,0,,,
+898,47,image36.jpg,Tamiya Shinano,no_exact_match,0,,,
+899,47,image36.jpg,Tamiya Taiho,no_exact_match,0,,,
+901,18,likely Rebel capital ship program; exact ID not yet locked,AMT 1:43 Peterbilt 359,no_exact_match,0,,,
+905,18,likely Rebel capital ship program; exact ID not yet locked,"AMT Kenworth W-925 ""Movin' On""",no_exact_match,0,,,
+906,18,likely Rebel capital ship program; exact ID not yet locked,"AMT Kenworth W-925 ""Movin' On""",no_exact_match,0,,,
+907,18,likely Rebel capital ship program; exact ID not yet locked,"AMT Kenworth W-925 ""Watkins""",no_exact_match,0,,,
+908,18,likely Rebel capital ship program; exact ID not yet locked,"AMT Kenworth W-925 ""Watkins""",no_exact_match,0,,,
+909,18,likely Rebel capital ship program; exact ID not yet locked,"AMT Kenworth W-925 ""Watkins""",no_exact_match,0,,,
+910,18,likely Rebel capital ship program; exact ID not yet locked,"AMT Kenworth W-925 ""Watkins""",no_exact_match,0,,,
+913,18,likely Rebel capital ship program; exact ID not yet locked,AMT Peterbilt Cabover,no_exact_match,0,,,
+914,18,likely Rebel capital ship program; exact ID not yet locked,AMT White Freightliner,no_exact_match,0,,,
+915,18,likely Rebel capital ship program; exact ID not yet locked,AMT White Freightliner,no_exact_match,0,,,
+917,18,likely Rebel capital ship program; exact ID not yet locked,AMZ White Road Boss,no_exact_match,0,,,
+918,18,likely Rebel capital ship program; exact ID not yet locked,Airfix 1:24 Messerschmitt,no_exact_match,0,,,
+919,18,likely Rebel capital ship program; exact ID not yet locked,Airfix 1:24 Messerschmitt (???),no_exact_match,0,,,
+921,18,likely Rebel capital ship program; exact ID not yet locked,Airfix SR-N1 Hovercraft,no_exact_match,0,,,
+924,18,likely Rebel capital ship program; exact ID not yet locked,Aurora ISS Iowa,no_exact_match,0,,,
+925,18,likely Rebel capital ship program; exact ID not yet locked,Bandai 1:24 M60,no_exact_match,0,,,
+926,18,likely Rebel capital ship program; exact ID not yet locked,Bandai Kübelwagen,no_exact_match,0,,,
+927,18,likely Rebel capital ship program; exact ID not yet locked,Entex Payhauler,no_exact_match,0,,,
+928,18,likely Rebel capital ship program; exact ID not yet locked,Fujimi Iowa,no_exact_match,0,,,
+929,18,likely Rebel capital ship program; exact ID not yet locked,Fujimi Iowa,no_exact_match,0,,,
+930,18,likely Rebel capital ship program; exact ID not yet locked,Nichimo Sherman,no_exact_match,0,,,
+932,18,likely Rebel capital ship program; exact ID not yet locked,Revell Rocket launcher Katyusha,no_exact_match,0,,,
+933,18,likely Rebel capital ship program; exact ID not yet locked,Tamiya Hanomag,no_exact_match,0,,,
+934,18,likely Rebel capital ship program; exact ID not yet locked,Tamiya King Tiger,no_exact_match,0,,,
+935,18,likely Rebel capital ship program; exact ID not yet locked,Tamiya King Tiger,no_exact_match,0,,,
+936,18,likely Rebel capital ship program; exact ID not yet locked,Tamiya Shinano,no_exact_match,0,,,
+937,18,likely Rebel capital ship program; exact ID not yet locked,Tamiya Shinano,no_exact_match,0,,,
+938,18,likely Rebel capital ship program; exact ID not yet locked,Tamiya T-55,no_exact_match,0,,,
+939,43,image29.jpg,AMT Autocar,no_exact_match,0,,,
+940,43,image29.jpg,"AMT Kenworth W-925 ""Movin' On""",no_exact_match,0,,,
+943,43,image29.jpg,AMT Peterbilt Cabover,no_exact_match,0,,,
+944,43,image29.jpg,AMT White Freightliner,no_exact_match,0,,,
+945,43,image29.jpg,AMT ’53 Ford Pickup,no_exact_match,0,,,
+951,46,image34.jpg,"AMT Kenworth W-925 ""Watkins""",no_exact_match,0,,,
+952,46,image34.jpg,AMT Nirvena Custom Chevy Van,no_exact_match,0,,,
+953,46,image34.jpg,AMT Peterbilt Cabover,no_exact_match,0,,,
+956,46,image34.jpg,AMT Studebaker Avanti,no_exact_match,0,,,
+957,46,image34.jpg,Heller Porsche 917,no_exact_match,0,,,
+964,8,n/a,"AMT Kenworth W-925 ""Movin' On""",no_exact_match,0,,,
+965,8,n/a,AMT Peterbilt  Cabover,no_exact_match,0,,,
+966,8,n/a,AMT Peterbilt 359 Californian Hauler,no_exact_match,0,,,
+967,8,n/a,AMT Peterbilt 359 Californian Hauler,no_exact_match,0,,,
+969,8,n/a,AMT White Freightliner,no_exact_match,0,,,
+970,8,n/a,Airfix 1:24 Hawker Hurricane,no_exact_match,0,,,
+971,8,n/a,Airfix Halifax B Mk III,no_exact_match,0,,,
+974,8,n/a,Aurora Boeing 727,no_exact_match,0,,,
+975,8,n/a,Aurora Curtis  P-40,no_exact_match,0,,,
+979,8,n/a,Aurora Sherman,no_exact_match,0,,,
+980,8,n/a,Bandai  Jagdpanther,no_exact_match,0,,,
+981,8,n/a,Bandai 1:24  Interceptor Shiden,no_exact_match,0,,,
+982,8,n/a,Bandai 1:24 Jagdpanther,no_exact_match,0,,,
+983,8,n/a,Bandai 1:24 Panther G,no_exact_match,0,,,
+984,8,n/a,Bandai 1:24 Panther G,no_exact_match,0,,,
+985,8,n/a,Bandai 1:48 Panther G,no_exact_match,0,,,
+986,8,n/a,Bandai 75mm Anti Tank Gun,no_exact_match,0,,,
+987,8,n/a,Bandai 8-Ton Semi Truck,no_exact_match,0,,,
+988,8,n/a,Bandai Aero Subaru,no_exact_match,0,,,
+989,8,n/a,Bandai Beach Bonanza,no_exact_match,0,,,
+991,8,n/a,Bandai Kübelwagen,no_exact_match,0,,,
+992,8,n/a,Bandai Kübelwagen,no_exact_match,0,,,
+993,8,n/a,Bandai Nashorn,no_exact_match,0,,,
+994,8,n/a,Bandai Piper Super Club,no_exact_match,0,,,
+995,8,n/a,Bandai Schwimmwagen,no_exact_match,0,,,
+996,8,n/a,Bandai Tiger I,no_exact_match,0,,,
+997,8,n/a,ESCI BMW R75,no_exact_match,0,,,
+998,8,n/a,Entex,no_exact_match,0,,,
+999,8,n/a,Entex Payhauler,no_exact_match,0,,,
+1000,8,n/a,Entex Wankel,no_exact_match,0,,,
+1001,8,n/a,Entex Wankel,no_exact_match,0,,,
+1002,8,n/a,Entex Wankel,no_exact_match,0,,,
+1003,8,n/a,Entex Wankel,no_exact_match,0,,,
+1004,8,n/a,Fujimi Iowa,no_exact_match,0,,,
+1005,8,n/a,Hasegawa Kettenkrad & Schwimmwagen,no_exact_match,0,,,
+1006,8,n/a,Nichimo Elefant,no_exact_match,0,,,
+1008,8,n/a,Nichimo Nagato,no_exact_match,0,,,
+1009,8,n/a,Otaki Yamato,no_exact_match,0,,,
+1014,8,n/a,Tamia Ferrari 312B,no_exact_match,0,,,
+1015,8,n/a,Tamia Texaco Marlboro M23,no_exact_match,0,,,
+1016,8,n/a,Tamia Texaco Marlboro M23,no_exact_match,0,,,
+1017,8,n/a,Tamia Texaco Marlboro M23,no_exact_match,0,,,
+1018,8,n/a,"Tamiya 7,5cm Anti Tank Gun PAK40",no_exact_match,0,,,
+1019,8,n/a,Tamiya JPS Lotus 72D,no_exact_match,0,,,
+1021,8,n/a,Tamiya M36 Jackson,no_exact_match,0,,,
+1022,8,n/a,Tamiya M41,no_exact_match,0,,,
+1023,8,n/a,Tamiya M4A3E8 Sherman,no_exact_match,0,,,
+1024,8,n/a,Tamiya M551 Sheridan,no_exact_match,0,,,
+1026,8,n/a,Tamiya Panzer III M/N,no_exact_match,0,,,
+1027,8,n/a,Tamiya Panzerkampfwagen V Panther,no_exact_match,0,,,
+1028,8,n/a,Tamiya Panzerkampfwagen V Panther,no_exact_match,0,,,
+1029,8,n/a,Tamiya Panzerkampfwagen V Panther,no_exact_match,0,,,
+1030,8,n/a,Tamiya Tyrell Ford F1,no_exact_match,0,,,
+1031,48,image37.jpg,AMT Fruehauf Tanker Semi Trailer,no_exact_match,0,,,
+1032,48,image37.jpg,AMT Fruehauf Tanker Semi Trailer,no_exact_match,0,,,
+1033,48,image37.jpg,AMT Fruehauf Tanker Semi Trailer,no_exact_match,0,,,
+1034,48,image37.jpg,AMT Fruehauf Tanker Semi Trailer,no_exact_match,0,,,
+1036,48,image37.jpg,AMT ‘32 Ford Five Window,no_exact_match,0,,,
+1039,48,image37.jpg,Aurora Sealab,no_exact_match,0,,,
+1040,54,image43.jpg,AMT 1:43 Peterbilt 359,no_exact_match,0,,,
+1041,54,image43.jpg,AMT 1:43 Reefer,no_exact_match,0,,,
+1042,54,image43.jpg,AMT Fruehauf Tanker Semi Trailer,no_exact_match,0,,,
+1043,54,image43.jpg,AMT Fruehauf Tanker Semi Trailer,no_exact_match,0,,,
+1044,54,image43.jpg,AMT Fruehauf Tanker Semi Trailer,no_exact_match,0,,,
+1045,54,image43.jpg,"AMT Kenworth W-925 ""Watkins""",no_exact_match,0,,,
+1046,54,image43.jpg,"AMT Kenworth W-925 ""Watkins""",no_exact_match,0,,,
+1047,54,image43.jpg,"AMT Kenworth W-925 ""Watkins""",no_exact_match,0,,,
+1048,54,image43.jpg,"AMT Kenworth W-925 ""Watkins""",no_exact_match,0,,,
+1051,54,image43.jpg,AMT Peterbilt Cabover,no_exact_match,0,,,
+1053,54,image43.jpg,AMT Studebaker Avanti,no_exact_match,0,,,
+1054,54,image43.jpg,AMT White Freightliner,no_exact_match,0,,,
+1055,54,image43.jpg,AMT White Freightliner,no_exact_match,0,,,
+1058,54,image43.jpg,Airfix 1:24 Messerschmitt,no_exact_match,0,,,
+1060,54,image43.jpg,Bandai 1:48 Panther G,no_exact_match,0,,,
+1061,54,image43.jpg,Bandai Aero Subaru,no_exact_match,0,,,
+1062,54,image43.jpg,ERTL Payhauler,no_exact_match,0,,,
+1063,54,image43.jpg,Heller Porsche 917 K,no_exact_match,0,,,
+1065,54,image43.jpg,Nitto Kettenkrad,no_exact_match,0,,,
+1066,54,image43.jpg,Revell Motocrosser,no_exact_match,0,,,
+1077,54,image43.jpg,Tamiya T-55,no_exact_match,0,,,
+1078,54,image43.jpg,Tamiya Taiho,no_exact_match,0,,,
+1079,9,Death Star surface or tile or special section work,ARII Chieftain,no_exact_match,0,,,
+1080,9,Death Star surface or tile or special section work,ARII T-10 Stalin,no_exact_match,0,,,
+1081,9,Death Star surface or tile or special section work,Airfix 1:24 Hawker Hurricane,no_exact_match,0,,,
+1082,9,Death Star surface or tile or special section work,Bandai 1:24 M60,no_exact_match,0,,,
+1083,9,Death Star surface or tile or special section work,ERTL Great Dane Flatbed Trailer,no_exact_match,0,,,
+1084,9,Death Star surface or tile or special section work,Fujimi Iowa,no_exact_match,0,,,
+1085,9,Death Star surface or tile or special section work,Hasegawa Yamato,no_exact_match,0,,,
+1088,9,Death Star surface or tile or special section work,Jo-han 1931 Cadillac,no_exact_match,0,,,
+1089,9,Death Star surface or tile or special section work,Nichimo Elefant,no_exact_match,0,,,
+1091,9,Death Star surface or tile or special section work,Nichimo Nagato,no_exact_match,0,,,
+1092,9,Death Star surface or tile or special section work,Nitto Kettenkrad (?),no_exact_match,0,,,
+1093,9,Death Star surface or tile or special section work,Otaki Yamato,no_exact_match,0,,,
+1094,9,Death Star surface or tile or special section work,Tamiya British 25Pdr. Field Gun,no_exact_match,0,,,
+1095,9,Death Star surface or tile or special section work,Tamiya Centurion,no_exact_match,0,,,
+1096,9,Death Star surface or tile or special section work,Tamiya Hanomag,no_exact_match,0,,,
+1097,9,Death Star surface or tile or special section work,Tamiya Hanomag,no_exact_match,0,,,
+1098,9,Death Star surface or tile or special section work,Tamiya Matilda,no_exact_match,0,,,
+1099,9,Death Star surface or tile or special section work,Tamiya Panzer III M/N,no_exact_match,0,,,
+1100,49,image39.jpg,Aurora Forrestal,no_exact_match,0,,,
+1101,49,image39.jpg,Aurora Iowa,no_exact_match,0,,,
+1102,58,image49.jpg,AMT Peterbilt Cabover (?),no_exact_match,0,,,
+1103,58,image49.jpg,Airfix 1:24 Hawker Harrier,no_exact_match,0,,,
+1104,58,image49.jpg,Airfix Hawker Hurricane (?),no_exact_match,0,,,
+1105,58,image49.jpg,Airfix Messerschmitt (?),no_exact_match,0,,,
+1106,58,image49.jpg,Aurora Forrestal,no_exact_match,0,,,
+1107,58,image49.jpg,Aurora Iowa,no_exact_match,0,,,
+1108,58,image49.jpg,Aurora Sealab (?),no_exact_match,0,,,
+1109,58,image49.jpg,Aurora Valkyre,no_exact_match,0,,,
+1110,58,image49.jpg,Bandai 1:24 Panther G,no_exact_match,0,,,
+1111,58,image49.jpg,Bandai 1:30 Diamond M-36,no_exact_match,0,,,
+1112,58,image49.jpg,Bandai M60,no_exact_match,0,,,
+1113,58,image49.jpg,ERTL Payhauler,no_exact_match,0,,,
+1116,58,image49.jpg,Tamiya 1:12 Ferrari 312B,no_exact_match,0,,,
+1117,58,image49.jpg,Tamiya 1:12 Marlboro,no_exact_match,0,,,
+1118,58,image49.jpg,Tamiya Hanomag?,no_exact_match,0,,,
+1119,58,image49.jpg,Wankel,no_exact_match,0,,,
+1120,21,likely same large ship family as image17.jpg; exact ID still open,???,no_exact_match,0,,,
+1121,21,likely same large ship family as image17.jpg; exact ID still open,???,no_exact_match,0,,,
+1122,21,likely same large ship family as image17.jpg; exact ID still open,???,no_exact_match,0,,,
+1123,21,likely same large ship family as image17.jpg; exact ID still open,Airfix Saturn V,no_exact_match,0,,,
+1124,21,likely same large ship family as image17.jpg; exact ID still open,Bandai 1:48 Panther G,no_exact_match,0,,,
+1125,21,likely same large ship family as image17.jpg; exact ID still open,Bandai 1:48 Panther G,no_exact_match,0,,,
+1126,21,likely same large ship family as image17.jpg; exact ID still open,Bandai 1:48 Panther G,no_exact_match,0,,,
+1127,51,image40.jpg,???,no_exact_match,0,,,
+1130,51,image40.jpg,AMT Bobby Alison Malibu Chevy,no_exact_match,0,,,
+1133,51,image40.jpg,AMT Fruehauf 40ft. Reefer,no_exact_match,0,,,
+1134,51,image40.jpg,AMT Fruehauf Tanker Semi Trailer,no_exact_match,0,,,
+1135,51,image40.jpg,AMT Fruehauf Tanker Semi Trailer,no_exact_match,0,,,
+1136,51,image40.jpg,AMT Fruehauf Tanker Semi Trailer,no_exact_match,0,,,
+1137,51,image40.jpg,AMT Kenworth Cabover K123,no_exact_match,0,,,
+1138,51,image40.jpg,AMT Kenworth Cabover K123,no_exact_match,0,,,
+1139,51,image40.jpg,AMT Kenworth W-925,no_exact_match,0,,,
+1140,51,image40.jpg,AMT Kenworth W-925,no_exact_match,0,,,
+1142,51,image40.jpg,AMT Nirvana Custom,no_exact_match,0,,,
+1147,51,image40.jpg,AMT Peterbilt Cabover,no_exact_match,0,,,
+1148,51,image40.jpg,AMT Peterbilt Cabover,no_exact_match,0,,,
+1149,51,image40.jpg,AMT Right On,no_exact_match,0,,,
+1150,51,image40.jpg,AMT Studebaker Avanti,no_exact_match,0,,,
+1151,51,image40.jpg,AMT White Freightliner,no_exact_match,0,,,
+1154,51,image40.jpg,Airfix 1:24 Messerschmitt,no_exact_match,0,,,
+1156,51,image40.jpg,Bandai 1:24 M60,no_exact_match,0,,,
+1160,52,image41.jpg,AMT 53 Ford Pickup,no_exact_match,0,,,
+1162,52,image41.jpg,AMT Dragray Corvette,no_exact_match,0,,,
+1163,52,image41.jpg,AMT Fruehauf 40ft. Reefer,no_exact_match,0,,,
+1164,52,image41.jpg,AMT Fruehauf Tanker Semi Trailer,no_exact_match,0,,,
+1165,52,image41.jpg,AMT Fruehauf Tanker Semi Trailer,no_exact_match,0,,,
+1166,52,image41.jpg,AMT Fruehauf Tanker Semi Trailer,no_exact_match,0,,,
+1168,52,image41.jpg,AMT Mercedes 300 SL,no_exact_match,0,,,
+1170,52,image41.jpg,AMT Trailmobile,no_exact_match,0,,,
+1171,52,image41.jpg,AMT Two Much,no_exact_match,0,,,
+1172,52,image41.jpg,AMT White Freightliner,no_exact_match,0,,,
+1173,59,image51.jpg,???,no_exact_match,0,,,
+1174,59,image51.jpg,???,no_exact_match,0,,,
+1175,59,image51.jpg,???,no_exact_match,0,,,
+1176,59,image51.jpg,???,no_exact_match,0,,,
+1177,59,image51.jpg,???,no_exact_match,0,,,
+1184,53,image42.jpg,AMT Trailmobile,no_exact_match,0,,,
+1185,57,image48.jpg,Nichimo Pz.Kpfw.VI,no_exact_match,0,,,
+1186,56,image46.jpg,AMT Covair Custom,no_exact_match,0,,,

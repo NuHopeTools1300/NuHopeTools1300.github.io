@@ -1,0 +1,210 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : AT-ST kitpart question..
+URL    : https://www.therpf.com/forums/threads/at-st-kitpart-question.137366/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #2097463)
+Author    : gonk27
+Date      : Jan 17, 2012 at 4:50 AM
+────────────────────────────────────────────────────────────────────────
+
+Hi all
+
+I'm working away on my Neisen AT-ST kit but I'm having a bit of trouble forming the rounded detail on the feet with flat plastic.
+
+It's proving fiddly work so I wondered if any folks out there could tell me what the original part is? 
+
+If the kit's easy to find and not too expensive I'm happy to hunt it out, unless of course there's a kindly soul out there with a couple of casts I can buy from them? 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Thanks very much guys, the part in question:
+
+[IMAGE: ATSTfoot.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #2097479)
+Author    : MonsieurTox
+Date      : Jan 17, 2012 at 5:28 AM
+────────────────────────────────────────────────────────────────────────
+
+Sorry, I'm affraid you'll have to build it by yourself... It was scratched on the original, like most of the parts of the go-mo AT-ST...
+
+But there're not that hard to build :
+
+[IMAGE: rotjatst116.jpg]
+
+(I used heated styrene on mine)
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #2097483)
+Author    : gonk27
+Date      : Jan 17, 2012 at 5:36 AM
+────────────────────────────────────────────────────────────────────────
+
+nuts!
+
+I was afaid you were going to say that, oh well thanks very much Julien! appreciated :thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #2097522)
+Author    : qcfoundry
+Date      : Jan 17, 2012 at 6:35 AM
+────────────────────────────────────────────────────────────────────────
+
+The TESB version of the chicken employed the B-29 bomber, I believe.  It may get you partially there -- but again that was TESB.  It wouldn't be canon to ROTJ -- just trying to use a familiar easy-to-get piece.  Julien, would that be too far off?
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #2097662)
+Author    : MonsieurTox
+Date      : Jan 17, 2012 at 8:35 AM
+────────────────────────────────────────────────────────────────────────
+
+Q, I dunno, I think the B-29 part is not rounded enough, as for the size I dont know ! Anyway I just used a hairdryer and a piece of brass tubing to form the part, the tricky part is to get a nice fit between the shroud cover and the top of the foot !
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #2097663)
+Author    : MonsieurTox
+Date      : Jan 17, 2012 at 8:36 AM
+────────────────────────────────────────────────────────────────────────
+
+gonk27 said:
+
+			nuts!
+
+I was afaid you were going to say that, oh well thanks very much Julien! appreciated :thumbsup
+		
+
+Click to expand...
+
+ 
+
+You're welcome, but dont be affraid, it's not that hard, really !
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #2097669)
+Author    : qcfoundry
+Date      : Jan 17, 2012 at 8:40 AM
+────────────────────────────────────────────────────────────────────────
+
+yep.
+
+before i used the B-29 part i scratched mine.
+
+used some heavy paper and just started hacking at it to make a template -- try it on, look for fit, then keep adjusting.
+
+used a blow dryer, wooden dowel, and vice to bend the plastisheet.
+
+as J said...the ***** is the fit TO the DV foot part...has a slow curve.  again, just take your time, chew/sand away a little, and keep checking and adjusting.
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #2097691)
+Author    : Scott Graham
+Date      : Jan 17, 2012 at 9:00 AM
+────────────────────────────────────────────────────────────────────────
+
+Concerning the ESB at-st:
+
+Which part off the B-29 Quincy? I just sold mine off after I took the turret part out. Now I might need to get another kit (or dig the one I have out of storage) for it. Never noticed a part like that in that kit. 
+
+I'd been looing at the engine nacelles of a monogram mosquito for it.
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #2097692)
+Author    : MonsieurTox
+Date      : Jan 17, 2012 at 9:00 AM
+────────────────────────────────────────────────────────────────────────
+
+The bad thing of the ROTJ feet is that there's more curve since that's not the DV part but a vacformed shell :/ Only the hatch is from the DV TIE cockpit !
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #2097923)
+Author    : gonk27
+Date      : Jan 17, 2012 at 12:06 PM
+────────────────────────────────────────────────────────────────────────
+
+qcfoundry said:
+
+			yep.
+
+before i used the B-29 part i scratched mine.
+
+used some heavy paper and just started hacking at it to make a template -- try it on, look for fit, then keep adjusting.
+
+used a blow dryer, wooden dowel, and vice to bend the plastisheet.
+
+as J said...the ***** is the fit TO the DV foot part...has a slow curve. again, just take your time, chew/sand away a little, and keep checking and adjusting.
+		
+
+Click to expand...
+
+ 
+
+Thanks qcfoundry, yep I've been doing the same sort of thing. The kit came with two shapes for these parts scored on thin plastic, but I wanted to adjust their outline a little so I've transferred them to 0.5mm styrene and worked from there.
+
+At the moment I've got my flat parts glued over a rounded 'bulkhead' rather than heat forming them. I removed the similar shape that was cast into the foot to make space for my reworked part, and filled the grooves that were in the foot that were there to accept the edges of the plastic. I tried heat forming the plastic, as I've done that before but wasn't having much luck this time for some reason.
+
+Anyway getting there.. and yes, getting the fit right against the foot is a big problem! Also both my foot cowlings (whatever they're called) were sitting too close to the front edge of the foot for my liking, but now that they're glued and puttied in place I'll try cutting/sanding back the shape along the pencil lines I've drawn to refine them a bit. 0.5mm looks a bit thin too, so I may need to wrap over another layer on top, although I've already added a strip inside the front to thicken it there which I'll sand down before adding another layer.
+
+[IMAGE: 2-1.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #2097937)
+Author    : qcfoundry
+Date      : Jan 17, 2012 at 12:13 PM
+────────────────────────────────────────────────────────────────────────
+
+Scott Graham said:
+
+			Concerning the ESB at-st:
+
+Which part off the B-29 Quincy? I just sold mine off after I took the turret part out. Now I might need to get another kit (or dig the one I have out of storage) for it. Never noticed a part like that in that kit. 
+
+I'd been looing at the engine nacelles of a monogram mosquito for it.
+		
+
+Click to expand...
+
+its public.
+
+check the existing threads here and/or studioscalemodelers.
+
+(sorry not to show you the link myself; sick as fk currently and operating in zombie gear).
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #2098039)
+Author    : Scott Graham
+Date      : Jan 17, 2012 at 1:27 PM
+────────────────────────────────────────────────────────────────────────
+
+Oh yeah Quincy, I totally forgot about that one. Found it in the kit scans. 
+
+It's interesting: I found some half-cylinder plastruct parts about the same size and am going to give those a shot too. It might just be more difficult trying to cut the parts out of already formed pieces than flat styrene though.
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #2100338)
+Author    : sjanish
+Date      : Jan 18, 2012 at 8:32 PM
+────────────────────────────────────────────────────────────────────────
+
+The ESB part was here:
+
+http://www.therpf.com/f10/esb-st-128691/index2.html
+
+I recently lost that web space and have not gotten around to finding/uploading to a new spot.
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #2100387)
+Author    : Scott Graham
+Date      : Jan 18, 2012 at 9:03 PM
+────────────────────────────────────────────────────────────────────────
+
+Ah Thanks. I'd forgotten about that thread.
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #2100606)
+Author    : qcfoundry
+Date      : Jan 19, 2012 at 3:26 AM
+────────────────────────────────────────────────────────────────────────
+
+sjanish said:
+
+			The ESB part was here:
+
+http://www.therpf.com/f10/esb-st-128691/index2.html
+
+I recently lost that web space and have not gotten around to finding/uploading to a new spot.
+		
+
+Click to expand...
+
+jason still shows a picture of the part in question -- post#38, item in the very top right of his picture.  looks like have of an oblong cylinder.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 15

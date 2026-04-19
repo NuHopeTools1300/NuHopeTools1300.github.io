@@ -1,0 +1,142 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Hi... I'm new here, and have a humble idea.
+URL    : https://www.therpf.com/forums/threads/hi-im-new-here-and-have-a-humble-idea.168311/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #2599303)
+Author    : Jerry Lee Kirk
+Date      : Nov 22, 2012 at 12:14 PM
+────────────────────────────────────────────────────────────────────────
+
+Hi folks, I'm new here.
+
+Please forgive any mistake of mine, or advice me about any rules or common sense modeler's rules. I will try to learn here, and be kind with everyone.
+
+My initial contribution it's a idea to help develop better blue prints:
+
+I found this tutorial to create 3D from quality blue prints:
+
+Free LightWave 3D Tutorial: A Beginner's Guide to Modelling | 3D World
+
+Many blue prints are not acurate, and I see modelers fighting to find the best source to add details.
+
+My idea is to use the blueprints and plans, photos and built a CGI model. After that quality phtogaphs would be compared to the cgi model, by positioning the CGI in the same angle, perspective and even lens effects. A similar lighting could, help too.
+
+It just a Idea.
+
+Well... what about that ?
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #2599522)
+Author    : jedimaster
+Date      : Nov 22, 2012 at 3:17 PM
+────────────────────────────────────────────────────────────────────────
+
+Welcome....i doubt you will ever find accurate blueprints for any studio models. most were made free hand from concept sketches. Production blueprints were generally made for the full sized set pieces which differ greatly from the filming miniatures.
+
+Check out our Narcissus thread. we used Martyns blueprints as a guide. They were actually pretty close to the original model. Now those were put together after many years of research. We then turned them into a 3d model and confirmed the measurements with real Kitparts. Then went back and tweaked them some more, and again, and again until we have what we believe to be the most accurate model to date.
+
+Our predessors in this field didnt have the blessing that is 3d modeling. theirs was blood sweat and tears doing everything by hand and going through build after build only to find something wasnt right and start again.
+
+To get an accurate model this way is the only way. while 3d modeling is a usefull tool, and if you have some original CGI files used USED IN PRODUCTION, you could grow a nice model but aside from Photomapping or 3d scanning an original model there is no substitute for good old kitbashing.
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #2599692)
+Author    : JMChladek
+Date      : Nov 22, 2012 at 6:27 PM
+────────────────────────────────────────────────────────────────────────
+
+Plus, even in the case of some studio models that did work from a set of prints (production drawings would be a better term), sometimes a funny would be detected in the 3D building that the 2D drawings didn't account for. For instance, the large Enterprise E studio model built for First Contact was supposed to have straight pylons from the engines to the secondary hull. But ILM ran into some weird shape issues during model fabrication. So as a compromise, they altered the root edge of the pylons at the secondary hull to have a little bent up egde towards the rear (going from the downward angle to a flat angle) and it altered the shape into something that worked better. The Enterprise E had another change made for the film as the ILM studio model's navigational deflector had to be altered very late in the game to match the looks of the "full size" (actually, smaller than 100% size) set of the same feature for a storyboarded fight sequence.
+
+Any model project from a major production is going to be a collaborative process between many individuals. You've got the director, producers, production designers, artists, cinematographers, model makers and painters all contributing something to the final mix. The result is in the end something that is essentially designed by a committee and prints or production drawings are just one intermediate step in the process, not the final one.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #2600394)
+Author    : Jerry Lee Kirk
+Date      : Nov 23, 2012 at 8:20 AM
+────────────────────────────────────────────────────────────────────────
+
+I think some 3D software developer could create a tool to help get the precise shape of models.  
+
+Stereoscopy...  Maps, precise register topography, is made by stereoscopic analize, by airplane shots in steroe (large stereo width like a camera in each wing's point), so they get the depth of a city map.
+
+A software to work with stereoscopic images.  Just a sereoscop image, some shots of a model, and some basic measurements. Even depression lines could get accurate register.
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #2606818)
+Author    : halocat
+Date      : Nov 27, 2012 at 6:25 AM
+────────────────────────────────────────────────────────────────────────
+
+hi guys I'm also new here and I totally agree, mainly for the simple fact that I build quantum leap handlink replicas, and while they are fun and seem to be pretty accurate, nothing would be having a good file for the designs!! if you guys know anything about that could you please let me know?
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #2610591)
+Author    : Shaw
+Date      : Nov 28, 2012 at 6:59 PM
+────────────────────────────────────────────────────────────────────────
+
+Jerry Lee Kirk said:
+
+			...
+
+Many blue prints are not acurate, and I see modelers fighting to find the best source to add details.
+
+My idea is to use the blueprints and plans, photos and built a CGI model. After that quality phtogaphs would be compared to the cgi model, by positioning the CGI in the same angle, perspective and even lens effects. A similar lighting could, help too.
+
+It just a Idea.
+
+Well... what about that ?
+		
+
+Click to expand...
+
+Where is the fun in that?  :confused
+
+Of course you have to start out with plans... and as pointed out, often times they don't exist for studio models.
+
+For an example, lets look at the original 33 inch model of the Enterprise. This model was started using one set of plans and finished using another. Because of this the 33 inch model has a number of characteristics that differ quite a bit from the 11 foot model made about a month later. Throw in the fact that the 33 inch model has been missing since 1978 (after Roddenberry loaned it to Robert Abel and Associates), and you are left with a handful of photos as the only reference. And when you consider that even with the 11 foot model on public display since the mid 70s, it took decades before reasonably accurate plans of it were produced, and most people thought accurate plans (or replicas) of the 33 inch model weren't possible.
+
+Back in 2007 a number of people tried using CGI software programs to reverse engineer plans of that model, but none of them went very far. I started gathering as much raw data about the original plans (both sets that were used) and used that information to make measurements of photos of the model using geometry (I majored and did research in mathematics, so it was nice to put some of that to good use). I released a set of plans free to the public in the Summer of 2007 hoping that someone would build a model to test how accurate they were.
+
+After waiting more than a year, I decided to give it a try myself (even though I have limited model building experience). My first attempt taught me a ton about the original model and helped me identify errors in my original plans. I started in on a second attempt using that information which got me much closer...
+
+[IMAGE: 1701_II_comp_005.gif]
+
+[IMAGE: 1701_II_comp_002.jpg]
+
+[IMAGE: 1701_viewmaster_shots-s.jpg]
+
+... and is it perfect? No. But I learned a ton, improved both my model building skills and plans of the 33 inch model from those attempts. And now, based on what I learned from that last attempt I'm about to start in on a final build that should be nearly perfect (in both detail and size).
+
+But the whole point of this is that I learned a ton with each attempt (both about the original studio model and about building models in general). This is stuff you can't learn by just looking at plans or photos. You have to do the work.
+
+Stepping away from model building for a second, computers have been widely used to help in the visualization of mathematics since the early 90s. But what I've found is that it tends to be more of a crutch that is actually hindering true understanding. For example, my avatar is an immersion of the Real Projective Plane into Euclidean three-space. There have been computer generated models of this immersion since I was in school (again, in the early 90s), but seeing a computer do it isn't the same as actually doing it yourself. You could watch my avatar for hours and not have a true understanding of what is happening with that surface.
+
+To really understand that surface, you have to be responsible for every aspect of that surface. I have hand drawn that surface quite a few times over the years... in fact, as a mental exercise I sit down with a pencil and a number of sheets of blank paper (and nothing else) and draw that immersion (usually takes me a day or two to finish).
+
+[IMAGE: surface_001s.jpg]
+
+Click to enlarge​
+
+Now, it might not be as pretty as a computer generated version, but I know all the intimate aspects of that surface now because I was responsible for all of it
+
+Going back to the Enterprise... you could have Kerr's plans sitting in front of you, but that wouldn't be the same as knowing what those plans are about. Similarly, it really doesn't matter that people have a nearly perfect model based on his plans (those have been around for years now). The only real way to learn this is by actively doing it. Either drawing up your own plans and then looking at Kerr's or building from scratch a model from Kerr's plans would give you the real knowledge that is there. but without that work, that personal investment, you aren't really going to see what is there... which is why Kerr's plans are as safe today as they were before the Round 2 model was released.
+
+Similarly, I am scratch building a model of the Phase II Enterprise to learn the Phase II Enterprise. I studied the plans for years (including cleaning up a copy back in 2007), but I didn't see tons of things about this version of the Enterprise until I was responsible for building it.
+
+Anyways, that is my take on this. You can't just whip out this stuff, and computers can't know things for you, you have to put your time and energy into these things. There are no shortcuts. When you look through this forum at the works of some of the artists around here, keep in mind that they were willing to make that type of investment to get the results they did.
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #2612621)
+Author    : JMChladek
+Date      : Nov 29, 2012 at 7:35 PM
+────────────────────────────────────────────────────────────────────────
+
+Shaw pretty well hit the nail on the head. In real aircraft circles versus modeling, we've run into EXACTLY the same problems even with subjects that are seemingly well known. An aircraft as iconic as the Spitfire according to  some people has NO kit of it is accurate because they plop the parts down on a set of "drawings" or "plans" and find things that don't line up right. Replication of drawings in the print phase can throw in their own subtle errors as paper can stretch. Scanning a set of plans can also cause problems as you might get some twist distortion into them as well (it can happen more than you might think) which can result in a funny in spots.
+
+So, you get people saying "this panel line is off by 2mms relative to the plans" and go ape spit about it. It gets worse when photo interpretation gets thrown in as different lenses, focal lengths and the like throw in their own little subtle errors. Usually the best guys I know who have been able to make sense of things tend to reveal that the problem is in fact with the drawings themselves, not with the model and they do it by measuring the correct distance of features on the actual aircraft (although sometimes you get variations there depending on how hand built the airframes were).
+
+A set of 2D drawings and a 3D object leave a lot open for interpretation. What looks good on one may have a funny on the second one and this can lead to alterations of the effects model (such as the Enterprise E example I cited earlier). Can what you are proposing be used as a "tool"? Why yes it can. But a tool is only as good as the person who uses it and it won't solve every problem.
+
+Even Gary Kerr realized that as he dialoged constantly back and fourth with Petri Blomqvist, who has done probably the most accurate CGI rendering of the classic E to date (which CBS Digital referenced when they made their own CGI Enterprise for the remastered editions). Some of this dialog took place before the 1/1000 PL kit came out, but a lot of things were refined after that kit and we now have the results in our hands, the 1/350 Enterprise. It was a collaberative process between the two men as one would find something to fix the other's drawings and the second one would find something to help fix a funny in the rendering. No one person had all the answers and no one person's ego overwhelmed the other. The result was a great set of both renderings AND drawings. But even then, I doubt Kerr is going to say his references are "100%" accurate. Probably 99.9999% accurate, but there can always be room for improvement. "Perfection" is a relative term anyway.
+
+In final summary, in my experience there are good tools which help with measurements and interpretation. But as Shaw has said, there are NO shortcuts.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 7

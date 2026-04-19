@@ -1,0 +1,76 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : What is the best molding material to make parts bigger ??
+URL    : https://www.therpf.com/forums/threads/what-is-the-best-molding-material-to-make-parts-bigger.231377/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #3524913)
+Author    : E=MC2
+Date      : Dec 31, 2014 at 7:26 PM
+────────────────────────────────────────────────────────────────────────
+
+What is the best molding material to make parts bigger ??
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #3524915)
+Author    : Lee S
+Date      : Dec 31, 2014 at 7:33 PM
+────────────────────────────────────────────────────────────────────────
+
+How big?  What shape?  There are too many variables 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+The main thing you need is a jacketed mold.
+
+https://www.google.com/search?q=jac...a=X&ei=fL-kVLD5O8aJuATMx4LgCQ&ved=0CAcQ_AUoAg
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #3524920)
+Author    : MonsieurTox
+Date      : Dec 31, 2014 at 7:46 PM
+────────────────────────────────────────────────────────────────────────
+
+I may be wrong but I think he wants to make castings that are bigger than the master pattern ? Not sure you can grow up parts this way, 3D printing may be the way to go after having 3D scanned the original parts / master pattern.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #3524924)
+Author    : Irken Tech
+Date      : Dec 31, 2014 at 7:58 PM
+────────────────────────────────────────────────────────────────────────
+
+There is Hydrospan 100. I have not used it myself but it looks promising.
+
+http://makezine.com/2012/01/25/expanding-casting-resiin/
+
+http://www.industrialpolymers.com/product-list/hydrospan-100-expanding-resin/
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #3524934)
+Author    : MustangGTR1
+Date      : Dec 31, 2014 at 8:31 PM
+────────────────────────────────────────────────────────────────────────
+
+I have used it, not that great for detail at all and leaks water all the time.  It is made from the same stuff the little toy animals  are you toss in water and they grow
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #3524935)
+Author    : E=MC2
+Date      : Dec 31, 2014 at 8:31 PM
+────────────────────────────────────────────────────────────────────────
+
+Irken Tech said:
+
+			There is Hydrospan 100. I have not used it myself but it looks promising.
+
+http://makezine.com/2012/01/25/expanding-casting-resiin/
+
+http://www.industrialpolymers.com/product-list/hydrospan-100-expanding-resin/
+
+Click to expand...
+
+Thanks, this is what I was looking for !!
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #3524936)
+Author    : MustangGTR1
+Date      : Dec 31, 2014 at 8:32 PM
+────────────────────────────────────────────────────────────────────────
+
+Also, do not try to make a mold using it, it will stick like glue to stuff
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 7

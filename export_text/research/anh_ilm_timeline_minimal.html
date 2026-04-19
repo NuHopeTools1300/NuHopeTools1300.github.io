@@ -1,0 +1,722 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ANH ILM Timeline Minimal</title>
+  <style>
+    :root {
+      --bg: #f7f2e8;
+      --panel: rgba(255, 252, 246, 0.88);
+      --panel-strong: rgba(255, 250, 243, 0.96);
+      --ink: #20262d;
+      --muted: #67707a;
+      --line: rgba(32, 38, 45, 0.1);
+      --shadow: 0 24px 60px rgba(52, 40, 26, 0.12);
+
+      --site: #657a5d;
+      --fighters: #a75a3b;
+      --deathstar: #3b6972;
+      --ships: #9d7a37;
+      --delivery: #73557c;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      color: var(--ink);
+      background:
+        radial-gradient(circle at top left, rgba(167, 90, 59, 0.12), transparent 28%),
+        radial-gradient(circle at top right, rgba(59, 105, 114, 0.12), transparent 30%),
+        linear-gradient(180deg, #faf5ec 0%, #efe4d2 100%);
+      font-family: "Trebuchet MS", "Gill Sans", "Segoe UI", sans-serif;
+    }
+
+    .page {
+      width: min(1480px, calc(100vw - 28px));
+      margin: 0 auto;
+      padding: 28px 0 40px;
+    }
+
+    .hero {
+      padding: 28px 28px 24px;
+      border-radius: 28px;
+      border: 1px solid var(--line);
+      background:
+        linear-gradient(135deg, rgba(255, 254, 250, 0.95), rgba(246, 236, 219, 0.92));
+      box-shadow: var(--shadow);
+    }
+
+    .eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 7px 12px;
+      border-radius: 999px;
+      background: rgba(32, 38, 45, 0.05);
+      color: var(--muted);
+      font-size: 12px;
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+    }
+
+    .title {
+      margin: 14px 0 8px;
+      font-family: "Palatino Linotype", "Book Antiqua", Georgia, serif;
+      font-size: clamp(2rem, 4.2vw, 3.8rem);
+      line-height: 0.98;
+      letter-spacing: -0.03em;
+      max-width: 12ch;
+    }
+
+    .subtitle {
+      margin: 0;
+      max-width: 72ch;
+      color: var(--muted);
+      font-size: 1rem;
+      line-height: 1.58;
+    }
+
+    .legend {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 18px;
+    }
+
+    .chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 10px 12px;
+      border-radius: 999px;
+      border: 1px solid var(--line);
+      background: rgba(255, 252, 246, 0.8);
+      font-size: 0.85rem;
+      box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.7);
+    }
+
+    .dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 999px;
+      background: currentColor;
+    }
+
+    .site { color: var(--site); }
+    .fighters { color: var(--fighters); }
+    .deathstar { color: var(--deathstar); }
+    .ships { color: var(--ships); }
+    .delivery { color: var(--delivery); }
+
+    .phase-rail {
+      display: grid;
+      grid-template-columns: repeat(5, minmax(240px, 1fr));
+      gap: 16px;
+      margin-top: 20px;
+      align-items: center;
+    }
+
+    .phase-node {
+      position: relative;
+      padding: 16px 18px 18px;
+      border-radius: 22px;
+      border: 1px solid var(--line);
+      background: var(--panel);
+      box-shadow: 0 16px 40px rgba(32, 38, 45, 0.08);
+      min-height: 110px;
+    }
+
+    .phase-node::after {
+      content: "";
+      position: absolute;
+      top: 50%;
+      right: -18px;
+      width: 20px;
+      height: 2px;
+      background: rgba(32, 38, 45, 0.18);
+    }
+
+    .phase-node:last-child::after {
+      display: none;
+    }
+
+    .phase-kicker {
+      color: var(--muted);
+      font-size: 11px;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      margin-bottom: 8px;
+    }
+
+    .phase-title {
+      margin: 0 0 6px;
+      font-family: "Palatino Linotype", "Book Antiqua", Georgia, serif;
+      font-size: 1.4rem;
+      line-height: 1.04;
+    }
+
+    .phase-note {
+      margin: 0;
+      color: var(--muted);
+      font-size: 0.9rem;
+      line-height: 1.45;
+    }
+
+    .timeline-grid {
+      display: grid;
+      grid-template-columns: repeat(5, minmax(240px, 1fr));
+      gap: 16px;
+      margin-top: 18px;
+    }
+
+    .column {
+      position: relative;
+      padding: 18px;
+      border-radius: 28px;
+      border: 1px solid var(--line);
+      background:
+        linear-gradient(180deg, var(--panel-strong), rgba(245, 236, 221, 0.92));
+      box-shadow: var(--shadow);
+      min-height: 680px;
+    }
+
+    .column::before {
+      content: "";
+      position: absolute;
+      top: 18px;
+      bottom: 18px;
+      left: 26px;
+      width: 2px;
+      border-radius: 999px;
+      background: linear-gradient(180deg, rgba(32, 38, 45, 0.16), rgba(32, 38, 45, 0.04));
+    }
+
+    .column-head {
+      position: relative;
+      padding-left: 24px;
+      margin-bottom: 16px;
+    }
+
+    .column-head::before {
+      content: "";
+      position: absolute;
+      top: 12px;
+      left: 18px;
+      width: 16px;
+      height: 16px;
+      border-radius: 999px;
+      background: var(--ink);
+      box-shadow: 0 0 0 6px rgba(255, 255, 255, 0.8);
+    }
+
+    .column-date {
+      color: var(--muted);
+      font-size: 11px;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      margin-bottom: 8px;
+    }
+
+    .column-title {
+      margin: 0 0 6px;
+      font-family: "Palatino Linotype", "Book Antiqua", Georgia, serif;
+      font-size: 1.55rem;
+      line-height: 1.02;
+    }
+
+    .column-note {
+      margin: 0;
+      color: var(--muted);
+      font-size: 0.92rem;
+      line-height: 1.46;
+    }
+
+    .stack {
+      display: grid;
+      gap: 12px;
+      padding-left: 24px;
+    }
+
+    .card {
+      position: relative;
+      padding: 14px 14px 14px 16px;
+      border-radius: 20px;
+      border: 1px solid var(--line);
+      background: rgba(255, 253, 249, 0.86);
+      box-shadow: 0 10px 24px rgba(32, 38, 45, 0.07);
+      transition: transform 140ms ease, box-shadow 140ms ease;
+    }
+
+    .card:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 16px 34px rgba(32, 38, 45, 0.1);
+    }
+
+    .card::before {
+      content: "";
+      position: absolute;
+      top: 18px;
+      left: -18px;
+      width: 18px;
+      height: 2px;
+      background: rgba(32, 38, 45, 0.16);
+    }
+
+    .card-date {
+      margin-bottom: 8px;
+      font-size: 10px;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+
+    .card-title {
+      margin: 0 0 7px;
+      font-family: "Palatino Linotype", "Book Antiqua", Georgia, serif;
+      font-size: 1.02rem;
+      line-height: 1.15;
+    }
+
+    .card-copy {
+      margin: 0;
+      color: var(--muted);
+      font-size: 0.84rem;
+      line-height: 1.45;
+    }
+
+    .tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 7px;
+      margin-top: 10px;
+    }
+
+    .tag {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 5px 9px;
+      border-radius: 999px;
+      font-size: 10px;
+      letter-spacing: 0.09em;
+      text-transform: uppercase;
+      white-space: nowrap;
+    }
+
+    .tag.site {
+      background: rgba(101, 122, 93, 0.14);
+      color: var(--site);
+    }
+
+    .tag.fighters {
+      background: rgba(167, 90, 59, 0.14);
+      color: var(--fighters);
+    }
+
+    .tag.deathstar {
+      background: rgba(59, 105, 114, 0.14);
+      color: var(--deathstar);
+    }
+
+    .tag.ships {
+      background: rgba(157, 122, 55, 0.16);
+      color: var(--ships);
+    }
+
+    .tag.delivery {
+      background: rgba(115, 85, 124, 0.14);
+      color: var(--delivery);
+    }
+
+    .tag.exact,
+    .tag.range,
+    .tag.inference {
+      background: rgba(32, 38, 45, 0.06);
+      color: var(--muted);
+    }
+
+    .footer-note {
+      margin-top: 18px;
+      padding: 14px 16px;
+      border-radius: 20px;
+      border: 1px solid var(--line);
+      background: rgba(255, 252, 246, 0.82);
+      color: var(--muted);
+      font-size: 0.9rem;
+      line-height: 1.55;
+      box-shadow: 0 12px 28px rgba(32, 38, 45, 0.06);
+    }
+
+    @media (max-width: 1260px) {
+      .phase-rail,
+      .timeline-grid {
+        grid-template-columns: repeat(2, minmax(280px, 1fr));
+      }
+
+      .phase-node::after {
+        display: none;
+      }
+
+      .column {
+        min-height: 0;
+      }
+    }
+
+    @media (max-width: 760px) {
+      .page {
+        width: min(100vw - 18px, 1480px);
+        padding: 18px 0 28px;
+      }
+
+      .hero {
+        padding: 22px 20px 18px;
+      }
+
+      .phase-rail,
+      .timeline-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .column,
+      .phase-node {
+        border-radius: 22px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <section class="hero">
+      <div class="eyebrow">Minimal companion view</div>
+      <h1 class="title">ANH ILM timeline, reduced to the calm version.</h1>
+      <p class="subtitle">
+        A cleaner phase map for the same research: fewer cards, broader production blocks,
+        and just enough signal to keep the chronology readable without feeling like a data wall.
+      </p>
+      <div class="legend">
+        <div class="chip site"><span class="dot"></span>Site &amp; staffing</div>
+        <div class="chip fighters"><span class="dot"></span>Fighters</div>
+        <div class="chip deathstar"><span class="dot"></span>Death Star</div>
+        <div class="chip ships"><span class="dot"></span>Ships &amp; vehicles</div>
+        <div class="chip delivery"><span class="dot"></span>Production &amp; delivery</div>
+      </div>
+    </section>
+
+    <section class="phase-rail">
+      <article class="phase-node">
+        <div class="phase-kicker">Phase 1</div>
+        <h2 class="phase-title">Foundation</h2>
+        <p class="phase-note">ILM appears, the warehouse is secured, departments are built, and the camera system becomes real.</p>
+      </article>
+      <article class="phase-node">
+        <div class="phase-kicker">Phase 2</div>
+        <h2 class="phase-title">First Builds</h2>
+        <p class="phase-note">Early design anchors lock in, the first X-wing is finished, and England reference handoffs begin.</p>
+      </article>
+      <article class="phase-node">
+        <div class="phase-kicker">Phase 3</div>
+        <h2 class="phase-title">Reference to Stage</h2>
+        <p class="phase-note">Returned models are completed, tests are photographed, and the real miniature program turns on.</p>
+      </article>
+      <article class="phase-node">
+        <div class="phase-kicker">Phase 4</div>
+        <h2 class="phase-title">Battle Program</h2>
+        <p class="phase-note">Hero families, pyro families, Death Star systems, and special-purpose ships all run in parallel.</p>
+      </article>
+      <article class="phase-node">
+        <div class="phase-kicker">Phase 5</div>
+        <h2 class="phase-title">Finish &amp; Memory</h2>
+        <p class="phase-note">The shop grinds through delivery, the film opens, and the period technical account lands.</p>
+      </article>
+    </section>
+
+    <section class="timeline-grid">
+      <article class="column">
+        <header class="column-head">
+          <div class="column-date">May 1975 to August 1975</div>
+          <h2 class="column-title">Foundation</h2>
+          <p class="column-note">The Van Nuys site goes from idea to working effects base.</p>
+        </header>
+        <div class="stack">
+          <div class="card">
+            <div class="card-date">May 28, 1975</div>
+            <h3 class="card-title">ILM is formally created</h3>
+            <p class="card-copy">George Lucas signs `Industrial Light & Magic` into existence, establishing the frame for the entire ANH miniature program.</p>
+            <div class="tags">
+              <span class="tag site">Site</span>
+              <span class="tag exact">Exact</span>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-date">May to June 1975</div>
+            <h3 class="card-title">The Van Nuys warehouse is found and leased</h3>
+            <p class="card-copy">John Dykstra secures the future model-shop and shooting-stage site on `Valjean Avenue`.</p>
+            <div class="tags">
+              <span class="tag site">Site</span>
+              <span class="tag range">Range</span>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-date">June to July 1975</div>
+            <h3 class="card-title">The empty shell becomes a functioning shop</h3>
+            <p class="card-copy">Model, machine, optical, office, and stage spaces are built out in a compressed burst of physical setup.</p>
+            <div class="tags">
+              <span class="tag site">Site</span>
+              <span class="tag range">Range</span>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-date">July 1975</div>
+            <h3 class="card-title">Dykstraflex design is completed</h3>
+            <p class="card-copy">The motion-control system reaches a usable design state, which matters for almost every miniature that follows.</p>
+            <div class="tags">
+              <span class="tag site">Site</span>
+              <span class="tag exact">Exact-ish</span>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-date">July to August 1975</div>
+            <h3 class="card-title">Key departments and people come online</h3>
+            <p class="card-copy">Art, optical, and animation start to take shape, with Johnston, Blalack, Beckett, and others locking the internal structure in place.</p>
+            <div class="tags">
+              <span class="tag site">Site</span>
+              <span class="tag range">Range</span>
+            </div>
+          </div>
+        </div>
+      </article>
+
+      <article class="column">
+        <header class="column-head">
+          <div class="column-date">September 1975 to December 1975</div>
+          <h2 class="column-title">First Builds</h2>
+          <p class="column-note">The record starts to pick up hard anchors instead of only shop setup.</p>
+        </header>
+        <div class="stack">
+          <div class="card">
+            <div class="card-date">August 1975</div>
+            <h3 class="card-title">Paul Huston joins during the early scramble</h3>
+            <p class="card-copy">He starts on boards with Joe Johnston before becoming one of the most useful eyewitnesses for the model-shop phase.</p>
+            <div class="tags">
+              <span class="tag site">Site</span>
+              <span class="tag exact">Exact-ish</span>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-date">September 25, 1975</div>
+            <h3 class="card-title">Escape Pod blueprint is dated</h3>
+            <p class="card-copy">This is one of the earliest precise dates in the entire ANH miniature corpus and anchors Joe Johnston directly to a design artifact.</p>
+            <div class="tags">
+              <span class="tag ships">Ships</span>
+              <span class="tag exact">Exact</span>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-date">September to December 1975</div>
+            <h3 class="card-title">Buildable X-wings are engineered in Van Nuys</h3>
+            <p class="card-copy">The shop moves from concept drawings toward shootable miniature logic: structure, armature, geometry, and wing mechanics.</p>
+            <div class="tags">
+              <span class="tag fighters">Fighters</span>
+              <span class="tag range">Range</span>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-date">December 1975</div>
+            <h3 class="card-title">The first ILM Y-wing exists as England reference</h3>
+            <p class="card-copy">The early ship later called `Red Jammer` is already real and travels incomplete to support the full-size build pipeline.</p>
+            <div class="tags">
+              <span class="tag fighters">Fighters</span>
+              <span class="tag range">Range</span>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-date">December 26, 1975</div>
+            <h3 class="card-title">Blue 1 is completed and shipped to John Barry</h3>
+            <p class="card-copy">The first finished ILM X-wing becomes a bridge object between Van Nuys miniature work and Elstree cockpit/set reference.</p>
+            <div class="tags">
+              <span class="tag fighters">Fighters</span>
+              <span class="tag exact">Exact-ish</span>
+            </div>
+          </div>
+        </div>
+      </article>
+
+      <article class="column">
+        <header class="column-head">
+          <div class="column-date">January 1976 to June 1976</div>
+          <h2 class="column-title">Reference to Stage</h2>
+          <p class="column-note">The reference objects come home, tests happen, and the real filming-era miniature program ignites.</p>
+        </header>
+        <div class="stack">
+          <div class="card">
+            <div class="card-date">January to February 1976</div>
+            <h3 class="card-title">Blue 1 returns and becomes Red 2</h3>
+            <p class="card-copy">The X-wing is completed with cockpit, pilot, and electrical finishing and is redressed into a proper ANH hero state.</p>
+            <div class="tags">
+              <span class="tag fighters">Fighters</span>
+              <span class="tag range">Range</span>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-date">March 6, 1976</div>
+            <h3 class="card-title">Maroon TIE test is photographed</h3>
+            <p class="card-copy">A dated comp-test wedge proves active TIE stage work and reminds us the final grey look was not the only look in play.</p>
+            <div class="tags">
+              <span class="tag fighters">Fighters</span>
+              <span class="tag exact">Exact</span>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-date">March 22, 1976</div>
+            <h3 class="card-title">Principal photography begins</h3>
+            <p class="card-copy">By the time live-action shooting starts in Tunisia, Van Nuys is already active on miniature and motion-control work.</p>
+            <div class="tags">
+              <span class="tag delivery">Delivery</span>
+              <span class="tag exact">Exact</span>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-date">Spring 1976</div>
+            <h3 class="card-title">Y-wing Number One master pattern is built</h3>
+            <p class="card-copy">Paul Huston is tied to the master pattern or hero buck from which the ANH Y-wing family is cast.</p>
+            <div class="tags">
+              <span class="tag fighters">Fighters</span>
+              <span class="tag range">Range</span>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-date">Early functioning phase, 1976</div>
+            <h3 class="card-title">Death Star cannon anchors the first completed ILM shot</h3>
+            <p class="card-copy">Huston and Stuart Ziff tie one of the earliest completed shots to a Death Star cannon model, giving the station real priority in the chronology.</p>
+            <div class="tags">
+              <span class="tag deathstar">Death Star</span>
+              <span class="tag inference">Inference</span>
+            </div>
+          </div>
+        </div>
+      </article>
+
+      <article class="column">
+        <header class="column-head">
+          <div class="column-date">Mid 1976 to late 1976</div>
+          <h2 class="column-title">Battle Program</h2>
+          <p class="column-note">The shop now behaves like a production line with multiple miniature families moving at once.</p>
+        </header>
+        <div class="stack">
+          <div class="card">
+            <div class="card-date">1976 to 1977</div>
+            <h3 class="card-title">X-wing heroes and pyros run as separate branches</h3>
+            <p class="card-copy">The fighter line expands beyond hero models into a true destruction program with specialized high-finish and rougher pyro states.</p>
+            <div class="tags">
+              <span class="tag fighters">Fighters</span>
+              <span class="tag range">Range</span>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-date">1976 to 1977</div>
+            <h3 class="card-title">Y-wing and TIE families do the same</h3>
+            <p class="card-copy">The same logic applies to Y-wings and TIEs: hero-like filming miniatures on one side, dedicated destruction stand-ins on the other.</p>
+            <div class="tags">
+              <span class="tag fighters">Fighters</span>
+              <span class="tag range">Range</span>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-date">1976 to 1977</div>
+            <h3 class="card-title">The Death Star works as an entire miniature ecosystem</h3>
+            <p class="card-copy">Sphere, surface tiles, backwall lighting, gun towers, crane, silo pieces, and docking-bay structures all behave like linked systems.</p>
+            <div class="tags">
+              <span class="tag deathstar">Death Star</span>
+              <span class="tag range">Range</span>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-date">1976</div>
+            <h3 class="card-title">The small Blockade Runner solves one specific opening-shot problem</h3>
+            <p class="card-copy">A unique `16-inch` miniature is built to make the ship appear to recede farther than the motion-control track really allows.</p>
+            <div class="tags">
+              <span class="tag ships">Ships</span>
+              <span class="tag range">Range</span>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-date">1976</div>
+            <h3 class="card-title">Sandcrawler becomes the shared-shop build</h3>
+            <p class="card-copy">Huston remembers it as a model almost everyone touched, which makes it one of the clearest markers of the shop hitting full stride.</p>
+            <div class="tags">
+              <span class="tag ships">Ships</span>
+              <span class="tag range">Range</span>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-date">1976</div>
+            <h3 class="card-title">At least two Landspeeder miniatures exist</h3>
+            <p class="card-copy">The exact states stay open, but the count floor is now clearly above one apart from the full-scale vehicle.</p>
+            <div class="tags">
+              <span class="tag ships">Ships</span>
+              <span class="tag inference">Inference</span>
+            </div>
+          </div>
+        </div>
+      </article>
+
+      <article class="column">
+        <header class="column-head">
+          <div class="column-date">1976 to July 1977</div>
+          <h2 class="column-title">Finish &amp; Memory</h2>
+          <p class="column-note">The work turns into delivery pressure, then into evidence.</p>
+        </header>
+        <div class="stack">
+          <div class="card">
+            <div class="card-date">1976 to 1977</div>
+            <h3 class="card-title">5757 preserves the day-to-day Van Nuys atmosphere</h3>
+            <p class="card-copy">Dave Brown's footage gives us a human-scale record of the building, the workspaces, and the active crew environment.</p>
+            <div class="tags">
+              <span class="tag site">Site</span>
+              <span class="tag range">Range</span>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-date">1976 to May 1977</div>
+            <h3 class="card-title">Optical completion becomes the grind</h3>
+            <p class="card-copy">Brown later recalls the printers running `24/7` and the final push going nearly right up to release.</p>
+            <div class="tags">
+              <span class="tag delivery">Delivery</span>
+              <span class="tag range">Range</span>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-date">May 25, 1977</div>
+            <h3 class="card-title">Star Wars is released</h3>
+            <p class="card-copy">The first production window closes, even if crew memory suggests the actual finish line was only barely behind it.</p>
+            <div class="tags">
+              <span class="tag delivery">Delivery</span>
+              <span class="tag exact">Exact</span>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-date">July 1977</div>
+            <h3 class="card-title">American Cinematographer locks in a period account</h3>
+            <p class="card-copy">Dykstra's technical article becomes one of the most valuable near-contemporary sources for timing, methods, and staffing.</p>
+            <div class="tags">
+              <span class="tag delivery">Delivery</span>
+              <span class="tag exact">Exact</span>
+            </div>
+          </div>
+        </div>
+      </article>
+    </section>
+
+    <div class="footer-note">
+      This version is intentionally selective. It is meant to sit beside the larger visual wall, not replace it:
+      one for immersion, one for orientation. If you want, the next really fun step is an `image-led` variant
+      where each phase gets a small curated strip of reference stills or miniature photos.
+    </div>
+  </div>
+</body>
+</html>

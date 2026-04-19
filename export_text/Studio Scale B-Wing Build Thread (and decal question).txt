@@ -1,0 +1,669 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Studio Scale B-Wing Build Thread (and decal question)
+URL    : https://www.therpf.com/forums/threads/studio-scale-b-wing-build-thread-and-decal-question.267980/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #4095707)
+Author    : Docmani
+Date      : Oct 9, 2016 at 1:06 PM
+Reactions : Like — Shadowknight, rbeach84, Lord Hater
+────────────────────────────────────────────────────────────────────────
+
+So, I've been working on this Nice-N B-Wing kit for the past few months. Its a good kit and I've been making slow but steady progress. I thought I might share how its come along and (at the end of the post) I have a decal source question.
+
+[IMAGE: 360104-cd7f127fa29244e92636eca497084c67.jpg]
+
+(Sorrry for the sideways pics, I'm not sure why they are being posted that way. If anyone knows how I can turn them 90 degrees, I would appreciate the help)
+
+I love that this kit was engineered to allow for a hollow rectangular square tube for mounting and running the electronics.
+
+There were a couple things I changed as I built the kit. Some of the recessed areas of the main wing were hard to clean out, so I decided to go ahead and cut everything out and backstop it with some styrene sheet.
+
+[IMAGE: 360107-2548453e62459642ebe79296da7717f1.jpg]
+
+[IMAGE: 360108-688c179324b6f7819ae2dd432f3a713b.jpg]
+
+Other than that (and the dozens of detail parts) the kit goes together quite well.
+
+[IMAGE: 360109-242b3e04a8e75187569a1966b70e1f8a.jpg]
+
+[IMAGE: 360110-0bf414fda2aed1140035f4946f1f7a72.jpg]
+
+[IMAGE: 360111-3ffc30d86ec5c9be9155ab31fa95f8a0.jpg]
+
+[IMAGE: 360112-b7a55a9042c59cb00cfde136bd745d92.jpg]
+
+The other big change I made to the kit was the original kit had a fixed mount for the cockpit (it was not meant to spin)
+
+[IMAGE: 360113-e9aa42eafa9ed9b4e872afb83a339c7d.jpg]
+
+So, I sourced the original treads for the part above, cut the part up, 3D printed some mounting inserts...
+
+[IMAGE: 360114-d4f6cf91dd9a8151f0ce0a7d9216984a.jpg]
+
+[IMAGE: 360115-863680180ae85fac4e31e4d6e47b53bc.jpg]
+
+[IMAGE: 360116-9890b72710c380be8a872fe2fdd10079.jpg]
+
+I also made a 3D printed insert for the cockpit mount that allowed it hold some axial bearings.
+
+[IMAGE: 360117-22450f61b3c6fb3fd30f45c279362693.jpg]
+
+[IMAGE: 360118-3363a1687fd0e167b889c2b2df7dc733.jpg]
+
+(The gap at the bottom allows for the wires to the cockpit light to rotate.
+
+[IMAGE: 360119-5bbaea218a7c243f639a1fee3d5edea3.jpg]
+
+The result allows for 180 degrees of smooth cockpit spin....
+
+So in recent weeks, I've finally gotten some paint on this thing.
+
+[IMAGE: 360120-f8f6ade736a6fa340609ec8d4aa79c3d.jpg]
+
+[IMAGE: 360121-023d01cf3badfc6062bfabc588d381e2.jpg]
+
+[IMAGE: 360122-7a440acef33bc808d5a58ee337f0c835.jpg]
+
+[IMAGE: 360123-24e6b2224294cd56851a8bce361a4270.jpg]
+
+[IMAGE: 360124-7b6aec6f1b788e4e15258558645545e6.jpg]
+
+[IMAGE: 360125-4938b9d0e55a4156f3f43d7eee5e6a15.jpg]
+
+So this leads me to my current dilemma. I have this really nice decal sheet I got from Jason:
+
+[IMAGE: 360126-59107bdc96fde0531a7bfb6b8d2f7bac.jpg]
+
+It has all of the major decals found on the B-Wing, except these little triangles on the leading edge.
+
+[IMAGE: 360128-2787598d79e6855c3996683ff4daf030.jpg]
+
+So, I was wondering if anyone had any idea what kit those little triangles come from? They are small and trivial yet now that I see in the in the B-Wing reference pictures I can't get them out of my head.... 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+  There a little under 1/8" in size.
+
+Anyhow, suggestions and comments are welcome.
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #4095739)
+Author    : moffeaton
+Date      : Oct 9, 2016 at 2:28 PM
+────────────────────────────────────────────────────────────────────────
+
+Nice to see you posting again, and it's a shame I have to tilt the laptop sideways 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+I am gonna crib from you on this one, as it looks really wonderful!
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #4096167)
+Author    : WINGNIT
+Date      : Oct 10, 2016 at 8:39 AM
+Reactions : Like — Docmani
+────────────────────────────────────────────────────────────────────────
+
+That's a great looking B.   I did the F&M one and loved every minute of it.  
+
+With regards to the triangles, that is a new discovery for me!  Now I'm with you on trying to discovery the source and going back to add it in!
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #4096412)
+Author    : rbeach84
+Date      : Oct 10, 2016 at 2:01 PM
+────────────────────────────────────────────────────────────────────────
+
+Speaking of spin, any idea how the original studio model did it?  With the armature mount being in the middle of the crew 'pod', a straight axial shaft between the front and rear wouldn't work.  Jason, did you ever see underneath the cover plate?
+
+R/ Robert
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #4096853)
+Author    : moffeaton
+Date      : Oct 11, 2016 at 4:58 AM
+Reactions : Like — rbeach84
+────────────────────────────────────────────────────────────────────────
+
+I did not, but I did spin it around when photographing, giving the archivist on hand a heart attack. She had no idea it was supposed to do that, lol! 
+
+I also begged her to let me push the mount cover back into place (it was too far forward) but that was met with a big solid "no" 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #4097309)
+Author    : Docmani
+Date      : Oct 11, 2016 at 5:10 PM
+Reactions : Like — Vacformedhero, moffeaton, rbeach84
+────────────────────────────────────────────────────────────────────────
+
+I managed to get the cockpit painted. I overdid the pilot but I have done so much painting on miniatures I can't paint him without highlights and shading. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: https://www.therpf.com/forums/attachments/fa46cc93fd0fd4517191c9ec3e7699b7-jpg.1395790/]
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #4098929)
+Author    : rbeach84
+Date      : Oct 13, 2016 at 6:08 PM
+────────────────────────────────────────────────────────────────────────
+
+moffeaton said:
+
+			I did not, but I did spin it around when photographing, giving the archivist on hand a heart attack. She had no idea it was supposed to do that, lol! 
+
+I also begged her to let me push the mount cover back into place (it was too far forward) but that was met with a big solid "no" 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+That was your mistake - asking permission.  Just do it like you know what you're doing (which you did, after all) then ask forgiveness afterwards.  Which is very easy when nothing bad happens!  ;^P
+
+R/ Robert
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #4098988)
+Author    : rbeach84
+Date      : Oct 13, 2016 at 7:59 PM
+Reactions : Like — Docmani
+────────────────────────────────────────────────────────────────────────
+
+I count at least four of the triangles on the one wing alone (on surface with the actuator fairing which I think of as the 'top' of the s-foil wing.)
+
+Oh, and two on the opposite s-foil, but again only on the side with the actuator fairing.
+
+R/ Robert
+
+Update----------------------------------------------------
+
+Been looking for suitable dry transfer sources for the little triangles which show *no apparent decal film*.  I found that Chartpak used to make a shapes sheet in black for tri's and squares, plus other shapes, but the one example I found imaged the lines were too narrow,  However, as Chartpak is apparently defunct (at least for DT sheets) that doesn't mean this option is eliminated.  Another option might be that they were drawn on using a template (of which Chartpak also made.)  Looking closely at the marks, there is a slight irregularity at some corners, plus the inside of the corners seems to have a tiny radius not visible on the outer point.  So the source may have been drafting tools!
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #4099325)
+Author    : Docmani
+Date      : Oct 14, 2016 at 8:21 AM
+Reactions : Like — Vacformedhero
+────────────────────────────────────────────────────────────────────────
+
+That's actually a good call. The other decals are peeling all over the model with edges very visible while the triangles are very flat with no edges. 
+
+I found a set of dry transfers on eBay with many different sizes that might work. It's in Canada so shipping is crazy. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/ffc9a707530562b7a62042d79f72c4d9-jpg.1396000/]
+
+Meanwhile this just arrived. I'm going to give it a try making them on my own. 
+
+Your idea will be my backup. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Thanks for the research. You are definitely on the right track!
+
+Sent from my iPhone using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #4099388)
+Author    : Stormy320
+Date      : Oct 14, 2016 at 9:57 AM
+────────────────────────────────────────────────────────────────────────
+
+Looking good!
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #4099885)
+Author    : rbeach84
+Date      : Oct 14, 2016 at 10:04 PM
+Reactions : Like — Docmani
+────────────────────────────────────────────────────────────────────────
+
+Docmani said:
+
+			That's actually a good call. The other decals are peeling all over the model with edges very visible while the triangles are very flat with no edges. 
+
+I found a set of dry transfers on eBay with many different sizes that might work. It's in Canada so shipping is crazy. <snipped image>
+
+Meanwhile this just arrived. I'm going to give it a try making them on my own. 
+
+Your idea will be my backup. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Thanks for the research. You are definitely on the right track!
+
+Sent from my iPhone using Tapatalk
+		
+
+Click to expand...
+
+I also got looking for letters where the "A" might have been used by trimming off the 'legs'. One of the triangles has a segment that is narrower than the others, implying perhaps it was trimmed a little too 'high' up the letter.  But most fonts have the A with too narrow an angle to produce a equilateral triangle in this manner.  So, again, they may have just been 'inked' in using a template, which could also account for the slight irregularities in their form.  Drafting pens (fine line markers) were certainly around during the period and may have been used for other things such as the black dash marks on the Falcon. Fast and easy with clean results...
+
+Regards, Robert
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #4101575)
+Author    : Docmani
+Date      : Oct 17, 2016 at 12:30 PM
+Reactions : Like — rbeach84
+────────────────────────────────────────────────────────────────────────
+
+I just bit the bullet and purchased that Letraset on EBay. I noticed the sheet itself was dated 1980 so there is a good chance they are the ones used. 
+
+I will send pics and I'd even be happy to cut some off and drop them in the mail to you for pointing me in the right direction!
+
+Sent from my iPhone using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #4101834)
+Author    : Docmani
+Date      : Oct 17, 2016 at 5:42 PM
+Reactions : Like — Mike J., Vacformedhero, rbeach84
+────────────────────────────────────────────────────────────────────────
+
+FYI - I purchased these. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/67426601eef1e6a60dd113e822e94067-jpg.1396302/]
+
+Sent from my iPhone using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #4101904)
+Author    : rbeach84
+Date      : Oct 17, 2016 at 7:01 PM
+────────────────────────────────────────────────────────────────────────
+
+Look forward to seeing if they are the right size and all...
+
+R/ Robert
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #4107324)
+Author    : Docmani
+Date      : Oct 24, 2016 at 2:35 PM
+Reactions : Like — Mike J., rbeach84
+────────────────────────────────────────────────────────────────────────
+
+The dry transfers arrived. I sized them against some water jet decals I had made and the size is perfect. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/59736e8a9b5ef6d5bf50003e99342142-jpg.1398108/]
+
+Sent from my iPhone using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #4107609)
+Author    : rbeach84
+Date      : Oct 24, 2016 at 8:37 PM
+────────────────────────────────────────────────────────────────────────
+
+Chalk that up as a win!  ;^D
+
+R/ Robert
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #4109950)
+Author    : Docmani
+Date      : Oct 27, 2016 at 5:13 PM
+Reactions : Like — rbeach84, moffeaton, Vacformedhero
+────────────────────────────────────────────────────────────────────────
+
+Lighting Test
+
+[IMAGE: https://www.therpf.com/forums/attachments/0661a670bd7488f588324aea12fa5d6d-jpg.1398338/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/19b7876e56bb40e5bf9471120a733cc9-jpg.1398339/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/89786569514d98c07bfab5a085313d50-jpg.1398340/]
+
+Sent from my iPhone using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #4110423)
+Author    : el loco
+Date      : Oct 28, 2016 at 10:20 AM
+────────────────────────────────────────────────────────────────────────
+
+Wow ! 
+
+Amazing effect
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #4116588)
+Author    : Docmani
+Date      : Nov 5, 2016 at 7:51 PM
+Reactions : Like — el toro, rbeach84, moffeaton
+────────────────────────────────────────────────────────────────────────
+
+[IMAGE: https://www.therpf.com/forums/attachments/56bfaa88b1be838d05d3f980f7886181-jpg.1399105/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/6c5df86e068767cdd5037e29b1c5b6c7-jpg.1399106/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/516efd1757714f68515660edddfc18ed-jpg.1399107/]
+
+Some weathering and added the side mount. 
+
+Sent from my iPhone using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #4117856)
+Author    : WINGNIT
+Date      : Nov 7, 2016 at 3:23 PM
+────────────────────────────────────────────────────────────────────────
+
+Pretty.
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #4117972)
+Author    : GF
+Date      : Nov 7, 2016 at 5:59 PM
+────────────────────────────────────────────────────────────────────────
+
+Fantastic job!!!!  one of my favorite design
+
+GFollano
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #4119232)
+Author    : Docmani
+Date      : Nov 9, 2016 at 1:43 PM
+Reactions : Like — norscout, Vacformedhero, rbeach84
+────────────────────────────────────────────────────────────────────────
+
+Thanks for the kind words guys. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+I'm calling it done. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/49a88c19ca048c5f2a33b82f16dcc64f-jpg.1399505/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/5abdda4dd34922398e4494bc136f29d2-jpg.1399506/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/75c9fea70088c9b28e1c2d468f33f5a3-jpg.1399507/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/d8ec0221bd6c5f7337ea5460772c0371-jpg.1399508/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/2b252d8bbf17af973e3fd857cceb1bca-jpg.1399509/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/6afdd9c7dd0915dce3c825e1b225e257-jpg.1399510/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/a629c39a51286c640d57677dde5f61e9-jpg.1399511/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/b1684cbb958f06b1d11f433eb43fb0a1-jpg.1399512/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/dedeea3dfbf7cd288328b5c5ec0a152f-jpg.1399513/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/a18f08610800951ee9b4395699d3e30d-jpg.1399515/]
+
+Sent from my iPhone using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #4122617)
+Author    : rbeach84
+Date      : Nov 15, 2016 at 5:07 AM
+────────────────────────────────────────────────────────────────────────
+
+Awesome result, Docmani!  So, what did you use for the S-foil weapon pod fairings (I was thinking they used A-4 Skyhawk intake shapes cut from the fuselage halves...)
+
+Again, really sharp work , spot on!
+
+Regards, Robert
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #4123571)
+Author    : Vacformedhero
+Date      : Nov 16, 2016 at 1:04 PM
+────────────────────────────────────────────────────────────────────────
+
+Beautiful work, you should be proud
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #4123606)
+Author    : Docmani
+Date      : Nov 16, 2016 at 2:19 PM
+Reactions : Like — rbeach84
+────────────────────────────────────────────────────────────────────────
+
+Thank you for the kind words!
+
+As far as the weapon pods, this was a kit. You would have to ask Steve N what he used for the pattern. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Sent from my iPhone using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #4126265)
+Author    : rbeach84
+Date      : Nov 20, 2016 at 9:27 PM
+────────────────────────────────────────────────────────────────────────
+
+Ooops!  Sorry for the dumb question...
+
+R/ Robert
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #4136618)
+Author    : GrahamT
+Date      : Dec 6, 2016 at 10:44 AM
+────────────────────────────────────────────────────────────────────────
+
+Docmani said:
+
+			So, I sourced the original treads for the part above, cut the part up, 3D printed some mounting inserts....
+		
+
+Click to expand...
+
+I'm also hoping to have a rotating cockpit if I get this kit - can you share what the original treads part is so I can also replace the detail?
+
+Many thanks.
+────────────────────────────────────────────────────────────────────────
+Post #28  (forum post #4137828)
+Author    : Rats
+Date      : Dec 8, 2016 at 1:14 AM
+────────────────────────────────────────────────────────────────────────
+
+Pretty sure the tracks are from the Flakpanzer Gepard or the Leopard 1A4 (same tracks by the way), Tamiya 1/35th.
+
+Cheers 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #29  (forum post #4168571)
+Author    : GrahamT
+Date      : Jan 18, 2017 at 9:45 AM
+────────────────────────────────────────────────────────────────────────
+
+Hey Docmani, 
+
+What lights did you use for the engine? The hot orangey colour is spot-on!
+
+My B-wing kit is being delivered tomorrow! Got a Flakpanzer coming too 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Docmani said:
+
+			Thanks for the kind words guys. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+I'm calling it done.
+		
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #30  (forum post #4168581)
+Author    : Docmani
+Date      : Jan 18, 2017 at 9:55 AM
+────────────────────────────────────────────────────────────────────────
+
+GrahamT said:
+
+			Hey Docmani, 
+
+What lights did you use for the engine? The hot orangey colour is spot-on!
+
+My B-wing kit is being delivered tomorrow! Got a Flakpanzer coming too 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+Mike Salzo actually pointed me at these:
+
+https://www.oznium.com/prewired-superflux
+
+They are not only bright but have a good viewing angle. 
+
+They are more red in person but I think they look pretty good. 
+
+Sent from my iPhone using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #31  (forum post #4168639)
+Author    : GrahamT
+Date      : Jan 18, 2017 at 10:31 AM
+────────────────────────────────────────────────────────────────────────
+
+Awesome, thanks. Will check them out.
+
+Always tricky getting the photo vs real world colour right.
+
+Docmani said:
+
+			Mike Salzo actually pointed me at these:
+
+https://www.oznium.com/prewired-superflux
+
+They are not only bright but have a good viewing angle. 
+
+They are more red in person but I think they look pretty good. 
+
+Sent from my iPhone using Tapatalk
+		
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #32  (forum post #4169621)
+Author    : GrahamT
+Date      : Jan 19, 2017 at 11:23 AM
+────────────────────────────────────────────────────────────────────────
+
+Hey Docmani,
+
+How are your S-foils attached?
+
+Do they fold or are they glued in the attack position?
+
+I was mystified to see that even after your excellent paint job, there were still no holes in the mounts for a hinge or rod 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Thanks,
+
+Graham
+────────────────────────────────────────────────────────────────────────
+Post #33  (forum post #4169857)
+Author    : Docmani
+Date      : Jan 19, 2017 at 4:27 PM
+────────────────────────────────────────────────────────────────────────
+
+GrahamT said:
+
+			Hey Docmani,
+
+How are your S-foils attached?
+
+Do they fold or are they glued in the attack position?
+
+I was mystified to see that even after your excellent paint job, there were still no holes in the mounts for a hinge or rod 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Thanks,
+
+Graham
+		
+
+Click to expand...
+
+They are pinned in attack position. 
+
+Recently, Jason Eaton successfully drilled out the hinges and reinforced them with brass rod. He then had another brass rod nested inside to hold the wings on. 
+
+He cracked the wing in the process and admitted it was a serious pain. 
+
+If is possible though. 
+
+I decided just to pin it in position and be done with it. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Sent from my iPhone using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #34  (forum post #4169871)
+Author    : GrahamT
+Date      : Jan 19, 2017 at 4:56 PM
+Reactions : Like — Docmani
+────────────────────────────────────────────────────────────────────────
+
+Docmani said:
+
+			They are pinned in attack position.
+		
+
+Click to expand...
+
+Excellent advice! After all, I've always felt the B didn't look as good with S-foils closed.
+────────────────────────────────────────────────────────────────────────
+Post #35  (forum post #4179413)
+Author    : propcollector
+Date      : Feb 1, 2017 at 5:13 PM
+────────────────────────────────────────────────────────────────────────
+
+what about this decal?
+
+ 
+
+Attachments
+
+[IMAGE: 384251-024c7bb3899914839057e2a1c1368360.jpg]
+
+image.jpg
+
+					20.5 KB
+					
+					· Views: 232
+────────────────────────────────────────────────────────────────────────
+Post #36  (forum post #4179931)
+Author    : TazMan2000
+Date      : Feb 2, 2017 at 10:28 AM
+────────────────────────────────────────────────────────────────────────
+
+[IMAGE: 384406-f24f33b198f2bf57b5df0fd252937ebb.jpg]
+
+1st Tactical Fighter Wing
+
+Same decal with Latin AUT VINCERE AUT MORI - Either Win or Die
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #37  (forum post #4179955)
+Author    : propcollector
+Date      : Feb 2, 2017 at 11:07 AM
+Reactions : Like — rbeach84
+────────────────────────────────────────────────────────────────────────
+
+Yeah same one.....here is one I did up!
+
+ 
+
+Attachments
+
+[IMAGE: 384409-904fb88c57ad283a2a2b589a59fc172a.jpg]
+
+IMG_0741.JPG
+
+					1,011.8 KB
+					
+					· Views: 305
+					
+				
+
+[IMAGE: 384408-2b95e99f2af2d69c1206d0e426812c5d.jpg]
+
+IMG_0739.JPG
+
+					78.5 KB
+					
+					· Views: 264
+────────────────────────────────────────────────────────────────────────
+Post #38  (forum post #4180410)
+Author    : joberg
+Date      : Feb 3, 2017 at 5:39 AM
+────────────────────────────────────────────────────────────────────────
+
+Beautiful build docmani...btw, if it`s not too personal, how much did you pay for that Letraset sheet?
+────────────────────────────────────────────────────────────────────────
+Post #39  (forum post #4180509)
+Author    : Docmani
+Date      : Feb 3, 2017 at 8:17 AM
+────────────────────────────────────────────────────────────────────────
+
+I think it was like $25....
+
+Sent from my iPhone using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #40  (forum post #4367440)
+Author    : darbyvet
+Date      : Dec 11, 2017 at 1:59 PM
+────────────────────────────────────────────────────────────────────────
+
+Superb build.I just got this kit and this build will be helpful for part placement.What did you use for reference photos? What did you use for the white lights?
+
+Carl
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 40

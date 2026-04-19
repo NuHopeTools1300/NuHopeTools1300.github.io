@@ -1,0 +1,153 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Question about filler. (Newb alert)
+URL    : https://www.therpf.com/forums/threads/question-about-filler-newb-alert.353570/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #5465121)
+Author    : sobsmb
+Date      : Aug 31, 2023 at 9:30 AM
+────────────────────────────────────────────────────────────────────────
+
+Sorry if this has been asked before, I searched but didn't find anything.  So I'm working on a Millennium Falcon found at gambody.com (Millennium Falcon 3D Printing Model | Standard Assembly Kit)  I'm pretty close to the point of painting the inside lower portion of the ship, but after looking at it and given that it printed in PLA and doesn't have "perfect" seams I want to cover and fill the bottom of the ship so that the "coupler" pieces are all covered and I have a relatively smooth/flatter surface for the black paint to go on so all those "coupler" pieces are hidden from view.  See images.  I'm looking for recommendations on a light weight (this thing is going to be heavy once done without it) but thick mostly liquid item to put down to "fill" in the bottom.  I don't want to use expanding foam as it will get too think, and I think bondo would be too weak/crack a lot. the ship as of now does flex a little. but once this is done I think it will be more rigid.  I do plan on running wires / leds / fibers to many location eventually but I can worry about that later, once I get a plan going.
+
+Thanks in advance
+
+[IMAGE: 1377364-5c391d00af4e33cab139c6a77532c62d.jpg]
+
+[IMAGE: 1377365-517ce6615e100679c1260bebc5332a0c.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #5465261)
+Author    : Astyanax
+Date      : Aug 31, 2023 at 7:58 PM
+Reactions : Like — sobsmb, Necronaut, joberg
+────────────────────────────────────────────────────────────────────────
+
+I recommend real Bondo body filler, in case you haven't tried it before. That stuff is tough, cures with two parts, sands medium-easy, and does not easily crack. It comes in a can. The soft stuff that cracks is the Bondo spot putty/glaze. I just use that for filling small holes or cracks.
+
+Good luck!
+
+[IMAGE: https://www.therpf.com/forums/attachments/1693537048792-png.1735084/]
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #5465367)
+Author    : sobsmb
+Date      : Sep 1, 2023 at 7:30 AM
+Reactions : Like — Astyanax
+────────────────────────────────────────────────────────────────────────
+
+Thanks, I knew about Bondo, but was hoping for something that wasn't so heavy given I need to add about 2 to 2.5 mm of it.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #5465589)
+Author    : ZeroSum
+Date      : Sep 1, 2023 at 8:53 PM
+Reactions : Like — sobsmb
+────────────────────────────────────────────────────────────────────────
+
+Would those parts not be covered up or otherwise hidden anyway?
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #5465611)
+Author    : JediMichael
+Date      : Sep 1, 2023 at 11:10 PM
+Reactions : Like — sobsmb, joberg
+────────────────────────────────────────────────────────────────────────
+
+Another good option I've used is called, Apoxie Sculpt.  It comes in two parts where you do have to mix together, but for small areas, mix like two marble sizes balls and work it into the model with some water. Also comes in bigger containers if more is needed.
+
+These little ones lasted me years doing a bunch of projects.
+
+You can at least read about it off google and see if that works for you.
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot_20230902_000716_chrome-jpg.1735577/]
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #5465689)
+Author    : chazzychaz
+Date      : Sep 2, 2023 at 7:44 AM
+Reactions : Like — sobsmb
+────────────────────────────────────────────────────────────────────────
+
+Cover the seams in thick CA and be done with it.
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #5465718)
+Author    : Necronaut
+Date      : Sep 2, 2023 at 9:38 AM
+────────────────────────────────────────────────────────────────────────
+
+Auto body supply shops do sell smaller-batch, more creamy 2-part fillers that will kick in minutes and result in little to no shrinkage. I think it’s made by the same outfits that do 2K paint, primers, and clear coats in a single spray can.
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #5465995)
+Author    : sobsmb
+Date      : Sep 3, 2023 at 9:06 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+ZeroSum said:
+
+			Would those parts not be covered up or otherwise hidden anyway?
+		
+
+Click to expand...
+
+I think mostly, but some of the cover parts are pipes and whatnot, I think I may just paint it all flat back and should be good enough.  I don't think there is really any good, easy filler I could use.
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #5465996)
+Author    : sobsmb
+Date      : Sep 3, 2023 at 9:08 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+chazzychaz said:
+
+			Cover the seams in thick CA and be done with it.
+		
+
+Click to expand...
+
+I kind of did that on the inside with some thin PLA strips and some PLA Gloop
+
+Here is how it looks now.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_20230902_205637-jpg.1736026/]
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #5466030)
+Author    : chibobber
+Date      : Sep 3, 2023 at 11:20 AM
+────────────────────────────────────────────────────────────────────────
+
+Does anybody think that thin layered SLA  UV cured resin  would work?
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #5466043)
+Author    : sobsmb
+Date      : Sep 3, 2023 at 12:26 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+chibobber said:
+
+			Does anybody think that thin layered SLA  UV cured resin  would work?
+		
+
+Click to expand...
+
+I thought about that as well, but its a bit risky with the heat that UV resin generates, also I think it might be a little too brittle.
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #5518762)
+Author    : JimmyB
+Date      : Mar 6, 2024 at 2:21 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+If you use P38 body filler that contains styrene (Bondo, Isopon, Big Boy, etc), you can add fibreglass resin to the putty part (check it also contains styrene) at 10% ratio before you add the hardener, to make it creamier, smoother and with few pinholes. YT video below showing how to do it and the kind of consistency you should expect. It doesn't suit all applications but might come in useful (I intend on experimenting with it for small casting once I get the fibreglass resin and the time).
+
+.
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #5518871)
+Author    : tsenecal
+Date      : Mar 6, 2024 at 12:29 PM
+────────────────────────────────────────────────────────────────────────
+
+There is a two part filler called evercoat glazing putty.  It is finer than the bondo filler.
+
+If you are looking for something lighter, there is a lightweight filler made for wooden r/c model airplanes,  generically referred to as "model balsa filler".
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 13

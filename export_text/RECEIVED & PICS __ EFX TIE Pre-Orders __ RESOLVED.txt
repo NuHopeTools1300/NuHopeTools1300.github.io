@@ -1,0 +1,1013 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : RECEIVED & PICS ** EFX TIE Pre-Orders ** RESOLVED
+URL    : https://www.therpf.com/forums/threads/received-pics-efx-tie-pre-orders-resolved.171522/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #2656527)
+Author    : imaginager
+Date      : Dec 24, 2012 at 8:47 AM
+────────────────────────────────────────────────────────────────────────
+
+I got the eFX TIE today from FedEx.  No issues at all with packaging or delivery, this unit appears flawless.  I haven't really seen any good pics of this offering; that is, good from a studio scale modeler's perspective.  There are a number of YouTube videos on the eFX TIE, but most leave me feeling like the person really doesn't understand what they have.  They're probably better off for it, too, most of the time.  But, not this time.  
+
+EFX have really gone the extra mile on authenticity this time around.  I built one of these, complete with Koolshade, back in 2006.  So, I know a little bit about the model.  This is the first licensed replica I've purchased that actually "feels" like a replica from ILM.  Beyond that, I'll let the pics do the talking:
+
+[IMAGE: efxTIE001.jpg]
+
+ 
+
+[IMAGE: efxTIE003.jpg]
+
+ 
+
+Replica threaded square mount
+
+[IMAGE: efxTIE005.jpg]
+
+ 
+
+True to the filming model pilot figure
+
+[IMAGE: efxTIE006.jpg]
+
+ 
+
+Very crisp
+
+[IMAGE: efxTIE007.jpg]
+
+ 
+
+[IMAGE: efxTIE008.jpg]
+
+ 
+
+This really is a great rendering of original Koolshade
+
+[IMAGE: efxTIE009.jpg]
+
+ 
+
+[IMAGE: efxTIE010.jpg]
+
+ 
+
+I really like the new plaque stand, it just slides right in - much better than the adhesive.
+
+[IMAGE: efxTIE011.jpg]
+
+ 
+
+[IMAGE: efxTIE012.jpg]
+
+ 
+
+Just wanted to update this thread.  Another member contacted me about this and I was able to get it resolved.  
+
+The long and short of it is that the EFX ordering system was trying to use my old (invalid) email address to notify me for payment.  Apparently, their email to me requesting final payment wasn't kicked back so they had no way of knowing there was problem - from their perspective it simply looked like I was ignoring them.  
+
+Anyway, even though I've kept my info current on the My Account section of the EFX site, some system limitation was preventing my account being updated with the new email address.
+
+Spoke with Bryan today and got this resolved.  He was very helpful.  And I very much appreciate the assistance from both him and the other RPF member.
+
+Allan
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #2661782)
+Author    : imaginager
+Date      : Dec 28, 2012 at 8:41 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: EFX TIE Pre-Orders
+
+My bad, then.  If I'm the only RPFer who ordered directly through EFX there's no need for this thread.
+
+That said, any garage kit producer who took this much money and didn't send product or reply to communication for more than two years would likely be looking at a ban.  Guess it's good to be a licensee.
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #2661818)
+Author    : ralphee
+Date      : Dec 28, 2012 at 9:02 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: EFX TIE Pre-Orders
+
+You STILL haven't recieved your model Allan? Even though you went direct through eFX? Bit of a cheek TBH seeing as secondary vendors got fair crack at it.......im pretty sure your one of the first guys to actually place an order here on the RPF? BOO HISS to eFX if that is the case, thats terrible conduct for a licensed business.
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #2662012)
+Author    : cking
+Date      : Dec 28, 2012 at 11:11 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: EFX TIE Pre-Orders
+
+Sorry to hear this Allan.
+
+It sucks that eFX haven't responded to you publicly or privately. Shame on them. They're quick to promote their new products on here but fail to follow up on a members request for information. :confused
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #2662764)
+Author    : imaginager
+Date      : Dec 28, 2012 at 9:28 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: EFX TIE Pre-Orders
+
+Thanks for the support, guys.  Well, to part on a bit more of a constructive note...I've started building again.  
+
+One Arduino microcontroller, two Hitech HS-55 sub-micro servos, a few lines of C++, and a casting of Nick's pattern from Mike (props to both of them)... 
+
+Video - TinyPic - Free Image Hosting, Photo Sharing & Video Hosting
+
+I've written the code for the upper flaps, which will operate independently of one another.  The lower flaps are synched for tandem control (per the filming models).  There's a bit of engineering involved in building correct hinges for the upper flaps.  I'm on version 2, which my local laser cutter may get to this weekend.  
+
+Video - TinyPic - Free Image Hosting, Photo Sharing & Video Hosting
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #2662966)
+Author    : ralphee
+Date      : Dec 29, 2012 at 1:46 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: EFX TIE Pre-Orders
+
+Allan, sorry buddy, did mean to shoot you a mail back, and....didnt lol. I did read into your servo position theory, very good IMO, and yes, would explain quite a bit on "thruster" placement.......very eager to see these mounted buddy, and as always, glad to see you back at it.
+
+Ill go over my notes on paint etc etc for you come the time, as it goes, i actually got to fitting my lower flaps yesterday.......yes, even i got back to the bench for a change lol, just need to drag this one over the finish line now.
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #2663153)
+Author    : MonsieurTox
+Date      : Dec 29, 2012 at 7:05 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: EFX TIE Pre-Orders
+
+Nice Allan !
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #2663161)
+Author    : moffeaton
+Date      : Dec 29, 2012 at 7:10 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: EFX TIE Pre-Orders
+
+Very cool, Allan! My wife has been programming Arduinos as of late - it's a really inexpensive solution for all sorts of projects. You're really putting it to good use.
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #2663575)
+Author    : Zenwalker
+Date      : Dec 29, 2012 at 1:00 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: EFX TIE Pre-Orders
+
+You can put me on your list.
+
+Paid the deposit over 2 years ago and have not received or heard anything.
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #2664103)
+Author    : imaginager
+Date      : Dec 29, 2012 at 7:50 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: EFX TIE Pre-Orders
+
+I got my EFX Vader Helmet from Redford.  Received it in less than 6 days after placing the order.
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #2664232)
+Author    : mbmcfarland
+Date      : Dec 29, 2012 at 9:42 PM
+────────────────────────────────────────────────────────────────────────
+
+I ordered direct and haven't received mine either.
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #2664251)
+Author    : imaginager
+Date      : Dec 29, 2012 at 10:00 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: EFX TIE Pre-Orders
+
+mbmcfarland said:
+
+			I ordered direct and haven't received mine either.
+		
+
+Click to expand...
+
+Thanks for posting, Mike.  I hope others who pre-ordered from EFX will do the same.  I want EFX to hear from as many people as possible that it's not acceptable to take our deposit money and then turn around and fill orders from people who haven't been $350 lighter for the last couple of years.  How EFX can call that "fair" is beyond me:
+
+eFX said:
+
+			We are trying to be fair to everyone who ordered,  regardless if they ordered direct from us or from one of our authorized  retailers.
+		
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #2664322)
+Author    : 3phase
+Date      : Dec 29, 2012 at 11:41 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: EFX TIE Pre-Orders
+
+Got mine thru Secret Compass about 3 weeks ago and I’m in Australia. There’s is no reason to order thru EFX as I have got much cheaper postage thru Secret Compass than EFX would offer.
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #2664329)
+Author    : imaginager
+Date      : Dec 29, 2012 at 11:56 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: EFX TIE Pre-Orders
+
+Good to hear it. One thing people may not remember...when EFX announced the TIE the edition size was to be set by the number of pre-orders. At that time I don't believe anyone but EFX was in the game. But, even if there had been others it seemed to me that EFX would take care of their own customers first. Why else would EFX require the $350 deposit so early?
+
+I (incorrectly, as it turns out) surmised that I needed to place an order with EFX in order to get one.  I legitimately thought I was helping EFX establish the size of the TIE edition.
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #2664339)
+Author    : Mois
+Date      : Dec 30, 2012 at 12:13 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: EFX TIE Pre-Orders (Step Up EFX)
+
+Hey Allan,
+
+Sorry to hear mate. I'm also in Australia and ordered mine through a local vendor and got it two weeks ago.
+
+Personally, I thinking eFX have the worst customer service of any company I have ever come across. Look at the threads on the Rebelscum site and see how many disgruntled customers they have (on quite a few products; not just the Tie).
+
+They have people that have been waiting over 10 MONTHS for faulty products. They never get back to people unless they want money. Etc, etc. The problems I've read over there are inconceivable. If I had the means to get to Lucasfilm Licensing, I'd do so, as they are ruining the (high-end) collecting experience.
+
+Sorry for the rant, I just don't like the community being screwed around by poor business practice.
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #2666863)
+Author    : Darth_Pain
+Date      : Dec 31, 2012 at 3:58 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: EFX TIE Pre-Orders (Step Up EFX)
+
+I just went on Efx's site and noticed that these are up for order again.
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #2667176)
+Author    : luke moonwalker
+Date      : Dec 31, 2012 at 8:35 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: EFX TIE Pre-Orders (Step Up EFX)
+
+I recieved mine with minor defects (ordered from a retailer). I attempted to send eFX an email at their customer service address, but it kept getting rejected so I called and left a message and also dropped Bryan a PM letting him know the customer service email failed. I also sent the retailer a quick heads up. Now mind you, I am fully aware that eFX has to fulfill all the existing orders before they start looking at warranty swaps. I was more concerned my info was recieved within the warranty period. I'm not unreasonable and am not expecting replacements for months (and months?). 
+
+That said I haven't received one single acknowledgement from eFX that any of my communication was recieved. I did get a message from the retailer who said they were able to confirm eFX had recieved my defect claim. I mean c'mon... Is it that much to ask for a quick "we apologize for the defective unit you recieved and will work to resolve the issue as soon as all outstanding orders are filled"?
+
+Second.... They're open for orders again? Gee glad I got ahold of the retailer who had one instead of the "wait list" I also signed up for on the eFX site. You'd think they'd try to mine that pool for additional sales before opening it back up. But I guess there would actually HAVE to be a list and not a black hole of emails from which nothing can escape.
+
+I couldn't resist the TIE because it is an impressive replica... But definitely eFX is the single worst company I've seen at managing communication. Insert broken record sound here.
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #2667206)
+Author    : imaginager
+Date      : Dec 31, 2012 at 9:13 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: EFX TIE Pre-Orders (Step Up EFX)
+
+Darth_Pain said:
+
+			I just went on Efx's site and noticed that these are up for order again.
+		
+
+Click to expand...
+
+Redford Films is also showing the TIE as a Pre-order (Wait List, Order Not Guaranteed).
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #2667276)
+Author    : GF
+Date      : Dec 31, 2012 at 11:23 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: EFX TIE Pre-Orders (Step Up EFX)
+
+luke moonwalker said:
+
+			I recieved mine with minor defects (ordered from a retailer). I attempted to send eFX an email at their customer service address, but it kept getting rejected so I called and left a message and also dropped Bryan a PM letting him know the customer service email failed. I also sent the retailer a quick heads up. Now mind you, I am fully aware that eFX has to fulfill all the existing orders before they start looking at warranty swaps. I was more concerned my info was recieved within the warranty period. I'm not unreasonable and am not expecting replacements for months (and months?). 
+
+That said I haven't received one single acknowledgement from eFX that any of my communication was recieved. I did get a message from the retailer who said they were able to confirm eFX had recieved my defect claim. I mean c'mon... Is it that much to ask for a quick "we apologize for the defective unit you recieved and will work to resolve the issue as soon as all outstanding orders are filled"?
+
+Second.... They're open for orders again? Gee glad I got ahold of the retailer who had one instead of the "wait list" I also signed up for on the eFX site. You'd think they'd try to mine that pool for additional sales before opening it back up. But I guess there would actually HAVE to be a list and not a black hole of emails from which nothing can escape.
+
+I couldn't resist the TIE because it is an impressive replica... But definitely eFX is the single worst company I've seen at managing communication. Insert broken record sound here.
+		
+
+Click to expand...
+
+ 
+
+May I ask what are the defects?
+
+Gerardo
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #2668102)
+Author    : luke moonwalker
+Date      : Jan 1, 2013 at 4:05 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: EFX TIE Pre-Orders (Step Up EFX)
+
+There was a large "wipe" looking imperfection on the underside of the acrylic base. I tried flipping it over and seeing if it was just a smudge and would wipe off, but no luck. Thinking some Novus will polish it out. I just got some and may give it a go. I also had some damage to one of the wings. There is what looks to be a scratch on the koolshade. I also had a light amount of paint loss on the ends of the wing mounts, but thats more of a nitpick OCD thing as they were covered by the wings anyway... 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: efx-tie-fighter-sdcc-img_0955.jpg-130486d1354653543]
+
+[IMAGE: efx-tie-fighter-sdcc-img_0966.jpg-130488d1354653543]
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #2671135)
+Author    : h3pilot
+Date      : Jan 3, 2013 at 11:18 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: EFX TIE Pre-Orders
+
+imaginager said:
+
+I really don't know what the point of ordering from EFX is?  I'd like to hear from Bryan on why I should order from EFX, as opposed to say Redford Films, or the like. 
+
+Click to expand...
+
+I ordered direct from eFx on 10/18/2010 @ 12:09:59 according to my eFx account info.  (I placed my order as soon as the site opened for orders)
+
+I got an email on 11/06/2012 that my TIE was in the first shipment and was billed the balance on 11/17/2012.
+
+Received TIE #102 on 11/30/2012.
+
+I've seen several posts from people who ordered from Redford and received lower edition numbers.  Redford also shipped for free.  eFx charged me $45.69 shipping in addition to the $999 TIE price.  (A nice thank you after having my deposit for two years.)
+
+I too have no idea why anyone would ever order direct from eFx.  I will certainly never do it again.
+
+eFx
+
+MSRP       
+
+Pay deposit
+
+Pay for shipping
+
+No guarantee of low edition #
+
+Redford
+
+MSRP
+
+Not charged until shipped
+
+Free shipping
+
+Still may get low edition #
+
+The TIE prop itself is very good in my opinion.  (other than the light bleed-through)
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #2675193)
+Author    : imaginager
+Date      : Jan 5, 2013 at 4:02 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: EFX TIE Pre-Orders (Step Up EFX)
+
+I ordered about 15 minutes after you (10/18/2010 12:24:15 PM).
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #2675931)
+Author    : Mois
+Date      : Jan 6, 2013 at 5:34 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: EFX TIE Pre-Orders (Step Up EFX)
+
+imaginager said:
+
+			I ordered about 15 minutes after you (10/18/2010 12:24:15 PM) and I'm still waiting...apparently the delay is calculated exponentially.
+
+And, I see, there's been no response from EFX.  I guess I might be critical of whatever EFX decide to advertise on the RPF next, just on principle.
+		
+
+Click to expand...
+
+The only time they chime in is when they need your money...
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #2676083)
+Author    : dirtydave
+Date      : Jan 6, 2013 at 7:49 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: EFX TIE Pre-Orders (Step Up EFX)
+
+Sorry to hear about your trouble with your EFX order Allan.I was wondering with your talent how come you didn't try a scratch build or a Neisen hero Tie.Your old Neisen Hero Tie build was just awesome.
+
+Dave
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #2676330)
+Author    : Dao2
+Date      : Jan 6, 2013 at 10:43 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: EFX TIE Pre-Orders (Step Up EFX)
+
+Wow I didn't know they had such issues :/ I was excited when I heard they would be doing a Slave I, but now I think I'll just pass ><
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #2676359)
+Author    : imaginager
+Date      : Jan 6, 2013 at 11:05 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: EFX TIE Pre-Orders (Step Up EFX)
+
+dirtydave said:
+
+			Sorry to hear about your trouble with your EFX order Allan.I was wondering with your talent how come you didn't try a scratch build or a Neisen hero Tie.Your old Neisen Hero Tie build was just awesome.
+
+Dave
+		
+
+Click to expand...
+
+There are a lot of kit parts (and money) that go into an authentic TIE.  I participated on a couple of projects to pool kit resources, etc, but nothing has come from it (yet).  It wouldn't be fair for me to acquire a new Neisen TIE while others are still waiting for kits.  I'm just not sure where things are at, and it's been awhile since I talked with Steve.  Would love to have had a TIE, but I sold off my vintage Koolshade to help finance a $15K motorcycle, LOL.  Priorities.
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #2676670)
+Author    : imaginager
+Date      : Jan 6, 2013 at 2:18 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: RESOLVED ** EFX TIE Pre-Orders ** RESOLVED
+
+This has been resolved.  Please read the first post of the thread.
+────────────────────────────────────────────────────────────────────────
+Post #28  (forum post #2676779)
+Author    : mbmcfarland
+Date      : Jan 6, 2013 at 3:25 PM
+────────────────────────────────────────────────────────────────────────
+
+Good to hear, Allan! I guess I better try to contact them about my order and see what's going on.
+────────────────────────────────────────────────────────────────────────
+Post #29  (forum post #2676808)
+Author    : Zenwalker
+Date      : Jan 6, 2013 at 3:44 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: RESOLVED ** EFX TIE Pre-Orders ** RESOLVED
+
+Ok , sounds like I have this same problem then. A couple months ago I changed my e-mail address on the efx website. When I log into the efx website it shows my new e-mail address so I assumed that it was updated.
+
+I have sent e-mails to efx about not receiving my orders but did not get a reply back.
+
+If anyone knows how I can contact Bryan so I can resolve this problem please let me know.
+────────────────────────────────────────────────────────────────────────
+Post #30  (forum post #2676839)
+Author    : BrundelFly
+Date      : Jan 6, 2013 at 4:00 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: RESOLVED ** EFX TIE Pre-Orders ** RESOLVED
+
+I love Happy Endings....
+────────────────────────────────────────────────────────────────────────
+Post #31  (forum post #2676848)
+Author    : Dao2
+Date      : Jan 6, 2013 at 4:07 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: RESOLVED ** EFX TIE Pre-Orders ** RESOLVED
+
+Sort of happy. Looking over the error bit ignoring emails is pretty bad :|
+────────────────────────────────────────────────────────────────────────
+Post #32  (forum post #2676866)
+Author    : eFX
+Date      : Jan 6, 2013 at 4:17 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: RESOLVED ** EFX TIE Pre-Orders ** RESOLVED
+
+Hi All!
+
+Unfortunately, the problem that we run into is that even though you update your information in your profile, for some reason, it does not always update the information in the database for previous orders. . . . (I don't know if this is a bug in the program or not)  So, when I print out the report for the pre-orders, it sometimes uses the email address that was used when the order was originally placed.
+
+Also, if we do not hear back from the customer in a timely manner, I made the decision to not try to call the customer because I do not want to put the customer in the uncomfortable position of telling me that they cannot afford to either pay the balance or make a payment in the layaway plan.  I know the economy is tough and customer's financial situation could have changed since they first placed the pre-order. I thought it would be like getting a call from a collection agency!
+
+However, I did send an e-mail reminder about a month later to remind the customers to return the agreement to us and another will be going out later this week.  However, as with Imaginer, the email would still go to the wrong address.
+
+So, I just wait until they contact us. I know that this is not the most efficient method.
+
+So if there is anyone who would like to inquire about their status, please email me at Bryan@efxcllectibles.com
+
+If you are not in the first allocation, the second shipment is scheduled to be ready to ship from Asia to the US around January 23
+
+Thanks!
+
+Bryan
+────────────────────────────────────────────────────────────────────────
+Post #33  (forum post #2676876)
+Author    : imaginager
+Date      : Jan 6, 2013 at 4:26 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: RESOLVED ** EFX TIE Pre-Orders ** RESOLVED
+
+Bryan beat to it...
+
+Thanks, again, Bryan and Frank!
+────────────────────────────────────────────────────────────────────────
+Post #34  (forum post #2676908)
+Author    : Zenwalker
+Date      : Jan 6, 2013 at 4:40 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: RESOLVED ** EFX TIE Pre-Orders ** RESOLVED
+
+OK, thanks Bryan.
+
+I have sent you an e-mail regarding this issue to Bryan@efxcollectibles.com
+
+I am also waiting on a Vader LE order as well as the TIE.
+
+Hopefully this can be resolved now.
+
+Thanks again.
+────────────────────────────────────────────────────────────────────────
+Post #35  (forum post #2684874)
+Author    : imaginager
+Date      : Jan 10, 2013 at 9:55 PM
+────────────────────────────────────────────────────────────────────────
+
+Received mine; some pics in the first post.
+────────────────────────────────────────────────────────────────────────
+Post #36  (forum post #2684880)
+Author    : imaginager
+Date      : Jan 10, 2013 at 10:00 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: EFX TIE Pre-Orders (Step Up EFX)
+
+Dao2 said:
+
+			Wow I didn't know they had such issues :/ I was excited when I heard they would be doing a Slave I, but now I think I'll just pass ><
+		
+
+Click to expand...
+
+If eFX do a Slave I of the same caliber as their TIE, it will be a winner.
+────────────────────────────────────────────────────────────────────────
+Post #37  (forum post #2684918)
+Author    : ckwanwoo
+Date      : Jan 10, 2013 at 10:50 PM
+────────────────────────────────────────────────────────────────────────
+
+Great pics Allan :thumbsup
+
+Is this eFX Tie? because I can't see any decals from your pic? 
+
+After these pics, I probably have to give up to build my Tie Fighter.
+
+Eric.
+────────────────────────────────────────────────────────────────────────
+Post #38  (forum post #2684924)
+Author    : imaginager
+Date      : Jan 10, 2013 at 10:57 PM
+────────────────────────────────────────────────────────────────────────
+
+Yes, indeed. It's the eFX, Eric. You can kinda see some decals in the pic with the pilot. I didn't do a comprehensive shoot, just wanted to show it next to some actual kit parts. I'm very happy with it.
+────────────────────────────────────────────────────────────────────────
+Post #39  (forum post #2684980)
+Author    : ckwanwoo
+Date      : Jan 11, 2013 at 12:20 AM
+────────────────────────────────────────────────────────────────────────
+
+Congratulate my friend~ 
+
+Finally, you got the Tie in your hand after long time patience.
+
+Eric.
+
+imaginager said:
+
+			Yes, indeed. It's the eFX, Eric. You can kinda see some decals in the pic with the pilot. I didn't do a comprehensive shoot, just wanted to show it next to some actual kit parts. I'm very happy with it.
+		
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #40  (forum post #2684988)
+Author    : ralphee
+Date      : Jan 11, 2013 at 12:30 AM
+────────────────────────────────────────────────────────────────────────
+
+Looks really nice Allan, glad it all worked out well for you, a silver lining!
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #41  (forum post #2685031)
+Author    : Talkierg
+Date      : Jan 11, 2013 at 1:57 AM
+────────────────────────────────────────────────────────────────────────
+
+Congrats Allan:thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #42  (forum post #2685081)
+Author    : eagle1
+Date      : Jan 11, 2013 at 3:43 AM
+────────────────────────────────────────────────────────────────────────
+
+Whew, that's a relief for you Allan, glad you got it finally mate!.
+
+She looks a stunner, kudo's to EFX for doing a great job. 
+
+Stu
+────────────────────────────────────────────────────────────────────────
+Post #43  (forum post #2685445)
+Author    : Runner
+Date      : Jan 11, 2013 at 9:35 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: RESOLVED ** EFX TIE Pre-Orders ** RESOLVED
+
+Dao2 said:
+
+			Sort of happy. Looking over the error bit ignoring emails is pretty bad :|
+		
+
+Click to expand...
+
+Exactly. Unless money is involved you will NOT hear from Bryan so dont waste your efforts emailing him.
+────────────────────────────────────────────────────────────────────────
+Post #44  (forum post #2686046)
+Author    : Zenwalker
+Date      : Jan 11, 2013 at 3:54 PM
+────────────────────────────────────────────────────────────────────────
+
+It turns out I had the same problem as Imaginager. Thanks to him I realized their was a problem and he gave me info. on how to contact Bryan.
+
+I changed my e-mail address on the eFX site but it did not update it in the system. So when Bryan sent my CC Authorization Agreements they did not get bounced back so it looked as though I had received them.
+
+Anyway, Bryan contacted me as soon as I e-mailed him and  he called me for some new info. for my account. Had a little chat with Bryan and he was very nice.
+
+Now all my orders are on their way. 
+
+Should have the Tie Fighter on Monday!
+
+Thanks Bryan!
+────────────────────────────────────────────────────────────────────────
+Post #45  (forum post #2693921)
+Author    : imaginager
+Date      : Jan 15, 2013 at 8:11 PM
+────────────────────────────────────────────────────────────────────────
+
+Did you get it?
+────────────────────────────────────────────────────────────────────────
+Post #46  (forum post #2698389)
+Author    : Zenwalker
+Date      : Jan 18, 2013 at 12:05 AM
+────────────────────────────────────────────────────────────────────────
+
+Yes, I got it on Monday.
+
+During assembly I could not get a wing on the right wing arm of the body. I tried for over an hour and even swapped the wings trying both sides and using each bolt. Still couldn't get the bolt to hand thread onto the right side.
+
+It just wouldn't go in straight.
+
+So I e-mailed Bryan and he got back to me the same day with some instructions on how to get the wing on.
+
+Basically, the factory spray painted the metal mounting points that the wings bolt onto and they were not supposed to. Bryan instructed me to sand the paint off the metal mounting point which i did with fine grit sand paper. I then wiped it with a paper towel and methyl hydrate to remove any dust and left over residue. I then mounted a wing onto the left side, which went on very easily. Then i laid the Tie flat on it's left wing on the carpet and slid the right wing on the right mounting point but not all the way down, just enough to get the hex bolt on by hand. Once I had it hand threaded a couple revolutions I made sure the notch in the wing and the mounting point were lined up. I then proceeding to tighten it with the Hex wrench, and it finally went on. It still didn't go on as easily as the other side but at least I got it on...whew!
+
+I also sanded the outer edges of the caps that cover the bolts slightly with fine grit sandpaper. They seemed very tight to put on and I thought that they were too tight and may be too difficult to get off again later.
+
+Other than the little wing hiccup everything else was perfect and Brayn was very helpful in resolving the problem. Funny how a little extra paint threw the whole mounting point out of whack.
+
+Anyway, I am very happy with this model, and like you mentioned Allan it does have the feel of a real studio scale filming model. I actually found it more impressive in the flesh than in pictures. Definitely a very well put together model and worth the 2 plus year wait.
+
+I'll try and post up some pics later.
+
+Thanks Bryan and all those who worked on this project and for taking their time to get it right!
+────────────────────────────────────────────────────────────────────────
+Post #47  (forum post #2699722)
+Author    : imaginager
+Date      : Jan 18, 2013 at 3:35 PM
+────────────────────────────────────────────────────────────────────────
+
+Zen,
+
+Glad you got it.  I had similar issues with mine, one side - the left, IIRC - the bolt was not keen on threading.  I swapped bolts, etc.  Either side / bolt threaded fine without the wing.  With the wing, the left was a trial.  I lightly sanded the inside diameter of the hole in the wing (where the bolt passes through, took a dremel brass wheel brush to the bolt, and then everything was smooth.  
+
+Like you, I also sanded the posts (hidden when installed) on the wing end caps because there was no way they were coming off without damage down the road.  Now, they press fit and stay in place just fine, but can be slipped off in a moment.
+
+While I like the plaque and holder, I'm not especially taken with the base.  Also the epoxy holding the threaded acrylic rod inside the alloy post broke loose the first time I lifted the model off the post.  I believe that was because the model was FROZEN (seriously, it was really cold to the touch), when FedEx handed it off and I unpacked it.  No doubt, this made the epoxy very brittle.  So, that gave me all the excuse I needed to fit a panavise to the model instead.  I think it looks better, but to each their own.
+
+While it's still a wonderful model, and this is by no means a bash, I'm curious why the kit parts were scanned.  They look like divine cousins of the donor parts, which makes the TIE into a supermodel rather than the girl-next-door.  It definitely is a Super model.
+
+Allan
+────────────────────────────────────────────────────────────────────────
+Post #48  (forum post #2700478)
+Author    : ckwanwoo
+Date      : Jan 19, 2013 at 3:34 AM
+────────────────────────────────────────────────────────────────────────
+
+Allan,
+
+For last 3 years, I planned to build the Tie with Koolshade because I have Steve's new Tie.
+
+Actually, I held to build my Tie to start after look at the eFX Tie result.
+
+However, I changed my mind to possess eFX Tie instead of building.
+
+Of course, I would like to add or replace some details of eFX Tie as accurately as possible, if I get it.
+
+Firstly, I noticed the cockpit frame size in comparison with prop.
+
+As you see, the width between cockpit frame and panel line of the frame is quite different with prop. I think it is caused by small frame size on eFX model?
+
+What do you think about? 
+
+Eric.
+────────────────────────────────────────────────────────────────────────
+Post #49  (forum post #2701184)
+Author    : Runner
+Date      : Jan 19, 2013 at 2:03 PM
+────────────────────────────────────────────────────────────────────────
+
+Zenwalker said:
+
+			Yes, I got it on Monday.
+
+During assembly I could not get a wing on the right wing arm of the body. I tried for over an hour and even swapped the wings trying both sides and using each bolt. Still couldn't get the bolt to hand thread onto the right side.
+
+It just wouldn't go in straight.
+
+So I e-mailed Bryan and he got back to me the same day with some instructions on how to get the wing on.
+		
+
+Click to expand...
+
+Would have been nice if eFX told us this little detail before some of us accidentally stripped the screw trying to get their wing on. I was able to take a trip to the hardware store and come up with a working solution but for $1000 I shouldnt have had to. 
+
+For the money, what should come with white glove level customer service comes with zilch. 
+
+Between Bryans silence on this problem and being totally ignored on my Vader helmet issues this will be my last eFX purchase.
+
+Sorry for the rant guys. just venting.
+────────────────────────────────────────────────────────────────────────
+Post #50  (forum post #2701725)
+Author    : imaginager
+Date      : Jan 19, 2013 at 9:10 PM
+────────────────────────────────────────────────────────────────────────
+
+ckwanwoo said:
+
+			Allan,
+
+For last 3 years, I planned to build the Tie with Koolshade because I have Steve's new Tie.
+
+Actually, I held to build my Tie to start after look at the eFX Tie result.
+
+However, I changed my mind to possess eFX Tie instead of building.
+
+Of course, I would like to add or replace some details of eFX Tie as accurately as possible, if I get it.
+
+Firstly, I noticed the cockpit frame size in comparison with prop.
+
+As you see, the width between cockpit frame and panel line of the frame is quite different with prop. I think it is caused by small frame size on eFX model?
+
+What do you think about? 
+
+Eric.
+		
+
+Click to expand...
+
+Eric, yes - I think the eFX frame is somewhat undersized.  Hadn't noticed, though, until you mentioned it.  Hmm.  Not much can be done for it.  You're better off building it, if you have a kit from Steve and the vintage Koolshade.
+────────────────────────────────────────────────────────────────────────
+Post #51  (forum post #2702396)
+Author    : cking
+Date      : Jan 20, 2013 at 9:09 AM
+────────────────────────────────────────────────────────────────────────
+
+I'm glad I wasn't the only one who noticed this Eric. The detailed pics on Rebelscum.com make it very apparent that either the cockpit frame is undersized or the cockpit ball is oversized. Not sure which it is but it annoys me and I can't see past it now so decided not to pick one of these up because I know it would always bug me. :unsure
+
+Glad you got yours though Allan and it looks good on the panavise mount. 
+
+Chris
+
+ckwanwoo said:
+
+			Allan,
+
+For last 3 years, I planned to build the Tie with Koolshade because I have Steve's new Tie.
+
+Actually, I held to build my Tie to start after look at the eFX Tie result.
+
+However, I changed my mind to possess eFX Tie instead of building.
+
+Of course, I would like to add or replace some details of eFX Tie as accurately as possible, if I get it.
+
+Firstly, I noticed the cockpit frame size in comparison with prop.
+
+As you see, the width between cockpit frame and panel line of the frame is quite different with prop. I think it is caused by small frame size on eFX model?
+
+What do you think about? 
+
+Eric.
+		
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #52  (forum post #2702492)
+Author    : Zenwalker
+Date      : Jan 20, 2013 at 10:12 AM
+────────────────────────────────────────────────────────────────────────
+
+Too bad,  if the frame/ ball size is off it is a pretty big oversight considering how much research went into this.
+
+But then again, what replica is 100% accurate. Are there any other things off on this? I mean I don't have access to much reference material so it's hard to tell. Sounds like the kit parts are little too sharp/ clean as well?
+
+I gently pulled on the window frame of my Tie and it just popped off. It just pops on and off like the hatch on the back for battery access. Theoretically, I suppose you could take the frame off and dremel around the perimeter of the cockpit opening to make it larger. But then you could risk damage and also would have to scratch build another larger cockpit window frame.
+────────────────────────────────────────────────────────────────────────
+Post #53  (forum post #2702534)
+Author    : imaginager
+Date      : Jan 20, 2013 at 10:22 AM
+────────────────────────────────────────────────────────────────────────
+
+Well, as I understand it (see the pics I posted with kit parts) the donor kit parts were scanned, then probably 3D printed.  They do not appear, to me, to be cast directly from actual kit parts.  I didn't realize this until someone said it looks "too perfect".  It is - at least, mine is - flawlessly assembled, so I initially chalked it up to the craftsmanship that went into it.  I'm really not so bothered with scanned parts.  But, that canopy size...I'll never be able to "not" see that, now. :lol  So, it pops right off does it...?  Hmm.
+────────────────────────────────────────────────────────────────────────
+Post #54  (forum post #2702620)
+Author    : Zenwalker
+Date      : Jan 20, 2013 at 10:57 AM
+────────────────────────────────────────────────────────────────────────
+
+Well, if anyone decides to modify their canopy let me know how that goes. I also have some vintage coolshade and wanted to do another set of wings if I ever get the time. Although I don't have any wingstars, maybe I can mold them off of the eFX?
+
+In the meantime I have other fish to fry.
+
+The base the Tie came with is too deep and does fit in the cabinet I want to display it in. So looks like I am going to have to custom build one. Not sure yet if I am going to go with a plain black base or do a Deathstar tile version.
+────────────────────────────────────────────────────────────────────────
+Post #55  (forum post #2706568)
+Author    : Turrican
+Date      : Jan 22, 2013 at 1:09 PM
+────────────────────────────────────────────────────────────────────────
+
+Mhh... i think if we are going to be more nit picking.
+
+There a lots of details which are not 100% the same as on the real prop.
+
+Take a look on the red circle markings i made.
+
+Those parts all differ in size,thickness or angle compare to the real prop.
+
+[IMAGE: 5wnyjtqgx5z.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #56  (forum post #2706783)
+Author    : ckwanwoo
+Date      : Jan 22, 2013 at 3:48 PM
+────────────────────────────────────────────────────────────────────────
+
+Hi Turrican,
+
+The image is not shown. 
+
+Please can you re-attach the image? I'm very interested...
+
+Eric.
+
+Turrican said:
+
+			Mhh... i think if we are going to be more nit picking.
+
+There a lots of details which are not 100% the same as on the real prop.
+
+Take a look on the red circle markings i made.
+
+Those parts all differ in size,thickness or angle compare to the real prop.
+
+[IMAGE: 5wnyjtqgx5z.jpg]
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #57  (forum post #2706805)
+Author    : Zenwalker
+Date      : Jan 22, 2013 at 4:05 PM
+────────────────────────────────────────────────────────────────────────
+
+I'd say that washed out flash photo is playing a few tricks and making some of the details look flatter than they are.
+
+In the photo below those details look closer to the eFX Tie. Also, note the panel line in the middle of the wing arm is similar to the eFX Tie. I don't think the details on all the Ties were exactly the same. And it looks like eFX might have used the below Tie more for their research?
+
+But yes some of the details are not quite exactly the same.
+────────────────────────────────────────────────────────────────────────
+Post #58  (forum post #2706861)
+Author    : ckwanwoo
+Date      : Jan 22, 2013 at 4:52 PM
+────────────────────────────────────────────────────────────────────────
+
+Actually, I just wonder whether they attached some decals on different position compared to prop? Is there any intention?
+
+Eric.
+
+Zenwalker said:
+
+			I'd say that washed out flash photo is playing a few tricks and making some of the details look flatter than they are.
+
+In the photo below those details look closer to the eFX Tie. Also, note the panel line in the middle of the wing arm is similar to the eFX Tie. I don't think the details on all the Ties were exactly the same. And it looks like eFX might have used the below Tie more for their research?
+
+But yes some of the details are not quite exactly the same.
+		
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #59  (forum post #2706937)
+Author    : imaginager
+Date      : Jan 22, 2013 at 5:54 PM
+────────────────────────────────────────────────────────────────────────
+
+You're also comparing what is essentially a master pattern in the eFX (albeit from scanned kit parts) to a casting of the TIE - resin shrinkage was much worse back in the '70s, assembly was far from uniform, models were roughly handled in the act of filming, parts popped off and were glued back on in different locations, etc.  
+
+Look at the Snowspeeder.  Most of the real world kit parts bear little resemblance to what is decorating the surviving models.  
+
+It would be extremely difficult to "gener-age" (generation age via molding and casting) a modern model to look exactly like the casting used for an ILM filming prop.
+────────────────────────────────────────────────────────────────────────
+Post #60  (forum post #2707388)
+Author    : GF
+Date      : Jan 23, 2013 at 12:48 AM
+────────────────────────────────────────────────────────────────────────
+
+Thats why I prefer and would never trade in my Neison kit which matches the filming model way more 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+
+the EFX is a nice idealized replica with many details being out of proportion, from the photos posted you can clearly see the window frame being too small in diameter and too thin, just look at the panel line spacing around it, and the laser pods sit too low or is a mixture of them and the window frame being too small creating extra spacing between them, and the list goes on.    
+
+GF
+────────────────────────────────────────────────────────────────────────
+Post #61  (forum post #2707573)
+Author    : ckwanwoo
+Date      : Jan 23, 2013 at 4:34 AM
+────────────────────────────────────────────────────────────────────────
+
+Hi GF,
+
+I have the latest Tie kit from Steve and it has the same issue as well. 
+
+I compared the cockpit both eFX and Steve and exactly same size.
+
+Probably, the cockpit was mold off his Tie kit.
+
+As a result, the cockpit is needed to extension to match with prop.
+
+Another, the phantom part on the cockpit is located in low position.
+
+Eric.
+
+GF said:
+
+			Thats why I prefer and would never trade in my Neison kit which matches the filming model way more 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+
+the EFX is a nice idealized replica with many details being out of proportion, from the photos posted you can clearly see the window frame being too small in diameter and too thin, just look at the panel line spacing around it, and the laser pods sit too low or is a mixture of them and the window frame being too small creating extra spacing between them, and the list goes on. 
+
+GF
+		
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #62  (forum post #2707591)
+Author    : Talkierg
+Date      : Jan 23, 2013 at 4:49 AM
+────────────────────────────────────────────────────────────────────────
+
+Mold off Steve's Tie? I have the same thought..
+
+Don
+────────────────────────────────────────────────────────────────────────
+Post #63  (forum post #2708045)
+Author    : Zenwalker
+Date      : Jan 23, 2013 at 10:02 AM
+────────────────────────────────────────────────────────────────────────
+
+Maybe we should continue to discuss the finer points of the eFX Tie in the main Tie thread here:
+
+http://www.therpf.com/f10/efx-tie-fighter-sdcc-91735/index17.html
+────────────────────────────────────────────────────────────────────────
+Post #64  (forum post #2708696)
+Author    : ckwanwoo
+Date      : Jan 23, 2013 at 4:25 PM
+────────────────────────────────────────────────────────────────────────
+
+Right~
+
+I already posted for my findings.
+
+Eric.
+
+Zenwalker said:
+
+			Maybe we should continue to discuss the finer points of the eFX Tie in the main Tie thread here:
+
+http://www.therpf.com/f10/efx-tie-fighter-sdcc-91735/index17.html
+
+Click to expand...
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 64

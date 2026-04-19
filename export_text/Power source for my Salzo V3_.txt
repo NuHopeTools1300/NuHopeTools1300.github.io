@@ -1,0 +1,133 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Power source for my Salzo V3?
+URL    : https://www.therpf.com/forums/threads/power-source-for-my-salzo-v3.94652/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #1348438)
+Author    : EvanW
+Date      : Aug 29, 2010 at 6:43 PM
+────────────────────────────────────────────────────────────────────────
+
+Hi All,
+
+Can anyone recommend a power supply or a particular setup the may have used to light up their Salzo X-Wing. I need enough juice to light up 7 leds. 4 ultra bright red (5v each) for the engines, and 3 more for the cockpit fibre optics (3v each for a total of 29v). I cut out underneath the droid strip so I could squeeze something in there. I was then going to hid it by using magnets to secure the strip to the model. I will admit that I don't know much about lighting but I have everything laid out wire wise and just need soething to tie it all together and turn it on. I tried searching here but couldn't find much description wise for specific power sources/supplies.
+
+Thanks,
+
+Evan
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #1348668)
+Author    : belleauwood
+Date      : Aug 30, 2010 at 12:35 AM
+────────────────────────────────────────────────────────────────────────
+
+You are adding up your voltages wrong. Run 29V through those LED's and you'll be lucky to not have a fire.  And those LED's will never shine again.
+
+You need the specs on the LED's you used, then you need to go HERE:
+
+LED series parallel array wizard
+
+  Input your LED info (Quantity,operating voltage and Milliamp draw), whatever voltage source you plan on using (usually 6-9V, {I say "usually" since you're using a 5V superbright red LED, and anything less than that 5V will not drive the LED}  with resistors to drop everything down and keep the LED's nice and happy) and you should be good to go.
+
+I suggest reading up a bit on LED's and their care and feeding before buttoning up your V3.  LED's are sensitive little critters that if you meet their requirements, can last for tens of thousands of hours.  DON'T meet their requirements, and you'll be lucky to get a handful of hours from them.
+
+As far as power sources go . . . are you talking an array of batteries or some kind of plug in? If batteries . . . some array of AA, probably arranged to give you 6V, is your best bet, the standard 9V may work too, though you'll want to probably do 2 in parallel, and you may be able to fit some "C" cells in for even longer life.  
+
+Primer on battery "wiring" options: Notes on Batteries
+
+HTH,
+
+Ryan
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #1348811)
+Author    : Robiwon
+Date      : Aug 30, 2010 at 6:43 AM
+────────────────────────────────────────────────────────────────────────
+
+Yeah, 29v thru those suckers and your LEDs will go supernova for a second and then you get a really bad smell!
+
+I used an adjustable voltage walwart from RadioShack to power my V3. It has 6 LEDs (4 jumbo reds and 2 whites). It's set at 3v and happily powers my ship. The walwart was about $18 or so, maybe cheaper.
+
+Have you already wired the lights? Did you wire in series or parrallel? Meaning did you solder all the positives together and then all the negatives together? Or did you solder one negative to one positive to one negative, etc?
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #1348846)
+Author    : EvanW
+Date      : Aug 30, 2010 at 7:24 AM
+────────────────────────────────────────────────────────────────────────
+
+I haven't soldered yet. I could go either I guess. I picked up one of these when I got my leds.
+
+Besthongkong - Eastern LED Source Shop: Loose LED, High Power LED, Car Auto LED, LED Light Bulbs, LED Strips, LED Flashlight, LED Module 1-10 x 1W Constant LED Driver Universal Input 90-250AC
+
+Along with these leds
+
+Besthongkong - Eastern LED Source Shop: Loose LED, High Power LED, Car Auto LED, LED Light Bulbs, LED Strips, LED Flashlight, LED Module 12VDC LEDs
+
+They seemed like a good choice as they were already shrink wrapped with the proper resistors.
+
+Thoughts?
+
+Thanks!
+
+Robiwon said:
+
+			Yeah, 29v thru those suckers and your LEDs will go supernova for a second and then you get a really bad smell!
+
+I used an adjustable voltage walwart from RadioShack to power my V3. It has 6 LEDs (4 jumbo reds and 2 whites). It's set at 3v and happily powers my ship. The walwart was about $18 or so, maybe cheaper.
+
+Have you already wired the lights? Did you wire in series or parrallel? Meaning did you solder all the positives together and then all the negatives together? Or did you solder one negative to one positive to one negative, etc?
+		
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #1348878)
+Author    : VOODOOFX
+Date      : Aug 30, 2010 at 7:58 AM
+────────────────────────────────────────────────────────────────────────
+
+EvanW said:
+
+			I haven't soldered yet. I could go either I guess. I picked up one of these when I got my leds.
+
+Besthongkong - Eastern LED Source Shop: Loose LED, High Power LED, Car Auto LED, LED Light Bulbs, LED Strips, LED Flashlight, LED Module 1-10 x 1W Constant LED Driver Universal Input 90-250AC
+
+Along with these leds
+
+Besthongkong - Eastern LED Source Shop: Loose LED, High Power LED, Car Auto LED, LED Light Bulbs, LED Strips, LED Flashlight, LED Module 12VDC LEDs
+
+They seemed like a good choice as they were already shrink wrapped with the proper resistors.
+
+Thoughts?
+
+Thanks!
+		
+
+Click to expand...
+
+ Give me a call if you like, I should be able to help you with your lighting project. 
+
+Thanks
+
+Randy Neubert
+
+VoodooFX
+
+1-650-568-3400
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #1349326)
+Author    : EvanW
+Date      : Aug 30, 2010 at 2:05 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks to all for their help. Randy from Voodoo is going to set me up.
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #1350018)
+Author    : Robiwon
+Date      : Aug 31, 2010 at 5:50 AM
+────────────────────────────────────────────────────────────────────────
+
+Good deal then. Make sure you post pictures though. We like pictures!!!!
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 7

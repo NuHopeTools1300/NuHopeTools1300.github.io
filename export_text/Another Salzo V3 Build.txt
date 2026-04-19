@@ -1,0 +1,3736 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Another Salzo V3 Build
+URL    : https://www.therpf.com/forums/threads/another-salzo-v3-build.50140/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #676900)
+Author    : Bigturc
+Date      : Sep 21, 2008 at 10:47 PM
+────────────────────────────────────────────────────────────────────────
+
+Hello builders,
+
+I recently bought a Salzo V3 and began working on it as soon as I could.  I'm now done sanding, cleaning and soaping the parts, the next step for me is perparing the build and make sure I know exactly what I need to do!
+
+So now, I have a few questions for all of you experts out there.  I'm fairly new to the SS world and this is gonna be my first build and paint job.  I've been monitoring all threads endlessly to gather tips and tricks .. hey, we all need to begin somewhere!
+
+So here goes nothing:
+
+1. I'm planing to light the engine on my Red, I've already drilled holes through the engine (around 1/8) but I'd need tips on what to use and what I should or should not do, ie to protect the resin from the heat etc ... is there prefered materials to use? LEDs? Where to get the wires through the fusillage through the wings? etc ...
+
+2. I've read people talking about sagging .. is it even possible for a Salzo to sag over time? The casting is pretty light, but it's the first I'm handling, so I'm still curious .. Also, I've read another thread about metal framing for the kit ...
+
+3. Paint job.  I plan on shooting the whole bird with black primer, than the base coat and then using Tamiya acrylic paint w/ mate clear coat.  Anything else I should be aware of .. For now, I'm not looking for any paint tricks, that'll come in time and I'll use Guy's awesome thread for reference (thanks again Guy!).
+
+4. I'm still clueless as to how to fit the wings to the W shaped part .. I've seen (I think in REL's thread), he used small brass tubing? Would this just hold using Zap a Gap glue only or there's some other tricks I should be aware of?  
+
+5. Also, about the wing, what is the proper position on the mounting frame? Dead center horiz. and vertically?
+
+PICS are available here:
+
+https://www.flickr.com/photos/bigturc/albums/72157658596383216
+
+Thanks for anyone's time on these!
+
+Al
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #677742)
+Author    : Guy Cowen
+Date      : Sep 23, 2008 at 4:07 AM
+────────────────────────────────────────────────────────────────────────
+
+Hi mate, I cant help you with the wiring stuff as I've never done that. Regarding the wings I have always just used a good CA (superglue) never bothered with the pinning as I'm always rushing them, but it would make sense to pin them for added security. 
+
+I ballsed my wing position up so I would recommend that you send Mike Salzo (mslz22) an email as he's producing a set of instructions for the V3, this will give you an accurate wing placement, its hard to describe how to place them without a pic to show. Look at the build of the latest Red 5 done for Kurt, this will give you a good visual of how the wings are placed for a hero look. I would recommend if you want it to look like the prop is now then a good few coats of black Primer, & a coat of matt white before the grey base coat. Dont make the grey too dark & it needs to have warmth to it as well, some grey's look a little blue so try & avoid this. I double check but I mainly used Flat white/Medium grey, Sky grey , with buff or deck tan to get my mix. A good 50/50 mix of white & grey as a start point then add color to warm it up. For the Red markings I used Flat red with a few drops of orange & medium brown, this seems to look pretty accurate to the original. German grey is another great color to use on the Red 3 for darker area's & weathering. Hope this helps?
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #678114)
+Author    : mslz22
+Date      : Sep 23, 2008 at 2:40 PM
+────────────────────────────────────────────────────────────────────────
+
+I'm catching up on a couple of things and i will be getting to some instructions in a week or two, it will actually give me a chance to build something for myself:lol....in the mean time take a look at the pic to see the orientation of the blocks, note that they need to be pulled out to the stops that are on the inside of the blocks, they will stop at the inner fuselage wall and will appear to have the same approximate gap at the top and bottom wing. Or you can have them pushed all the way in and flush with the fuselage, the later of these is closer to the "pyro"  and the first option mimics the "hero" with the mechanism.
+
+thanks
+
+mike
+
+[IMAGE: raptor578.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #678131)
+Author    : ave4uevoli
+Date      : Sep 23, 2008 at 3:03 PM
+────────────────────────────────────────────────────────────────────────
+
+definitely use LED's for the engines and fiber optics for the cockpit. Some people solder the LED's themselves. Other's use Hyperdyne's light kit... and I remember Gunpowder here had a video once of red lights that flicker like engines..
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #678146)
+Author    : Bigturc
+Date      : Sep 23, 2008 at 3:16 PM
+────────────────────────────────────────────────────────────────────────
+
+Guys,
+
+Thanks for the answers! Mike I had seen that answer on Guy's thread I think, really useful, thanks again!
+
+Keep em coming guys! Much appreciated!
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #678151)
+Author    : Bigturc
+Date      : Sep 23, 2008 at 3:19 PM
+────────────────────────────────────────────────────────────────────────
+
+Hyperdine's light kit .. I love the sound of that .. I'll try to contact Jim!
+
+For the leds in the engine .. do we need to cover the resin w/ foil or something like that to prevent it from heating? I just wanna make sure I don't end up having a boiled X on my shell! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ That would be pretty stupid!
+
+And unless there's one anywhere else, I plan of making a tutorial for the lighting system for others to refer too .. that'll be my first contribution here if it ever makes sense to do so?
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #683456)
+Author    : Bigturc
+Date      : Sep 30, 2008 at 8:27 PM
+────────────────────────────────────────────────────────────────────────
+
+So I thought, I've always seen paint thread for the V3 ... but never really a build thread.  Now, mind you, perhaps it's because it's not a kit for the newb, thus no one needs a build thread .. but I'm a newb to all this, so I thought there would certainly be others ...
+
+Here's some shot of the kit out of the box
+
+[IMAGE: medium.jpg]
+ 
+[IMAGE: medium.jpg]
+ 
+[IMAGE: medium.jpg]
+ 
+[IMAGE: medium.jpg]
+ 
+[IMAGE: medium.jpg]
+ 
+[IMAGE: medium.jpg]
+ 
+[IMAGE: medium.jpg]
+ 
+[IMAGE: medium.jpg]
+ 
+[IMAGE: medium.jpg]
+ 
+[IMAGE: medium.jpg]
+ 
+[IMAGE: medium.jpg]
+ 
+[IMAGE: medium.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #683462)
+Author    : Bigturc
+Date      : Sep 30, 2008 at 8:32 PM
+────────────────────────────────────────────────────────────────────────
+
+Kit has been cleaned up and teeth brushed with soap to remove all release agent
+
+[IMAGE: medium.jpg]
+ 
+[IMAGE: medium.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #683466)
+Author    : Bigturc
+Date      : Sep 30, 2008 at 8:37 PM
+────────────────────────────────────────────────────────────────────────
+
+This is one of the pieces that puzzled me .. the fitting of that piece was nowhere close to go around the engine intake cylinder, and after studying pretty much all builds here, I figured I had to "make" it fit.  Hopefully, I was right?  
+
+Fitting has been done with a sandpaper curved around my finger and sand, test, sand test ...
+
+Here's a comparison of the part out of the box with my sanded to fit part
+
+[IMAGE: medium.jpg]
+ 
+[IMAGE: medium.jpg]
+ 
+[IMAGE: medium.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #683473)
+Author    : Bigturc
+Date      : Sep 30, 2008 at 8:54 PM
+────────────────────────────────────────────────────────────────────────
+
+One wing built (temporary with the blue stuff for poster) for a global test fitting and to get feedback if anything could have been done differently.
+
+[IMAGE: medium.jpg]
+ 
+[IMAGE: medium.jpg]
+ 
+[IMAGE: medium.jpg]
+ 
+[IMAGE: medium.jpg]
+ 
+[IMAGE: medium.jpg]
+ 
+[IMAGE: medium.jpg]
+ 
+[IMAGE: medium.jpg]
+ 
+[IMAGE: medium.jpg]
+ 
+[IMAGE: medium.jpg]
+
+Now, I have a few more questions:
+
+1) The bottom engine bell is longer then the engine plaque .. on reference pics, it sits flush on the outside .. must I remove some len to give it the proper look? 
+
+2) The 4th picture shows 3 issues for me.
+
+A. Is the greeblie at the right height? Pics are too small for me to see this, so I'd like your input.
+
+B. The 1/16 rod trench is pretty dirty, should I clean this all up with a file or something? Cause I'll certainly be in trouble to make the part fit there properly.
+
+C. The truster don't sit flush on the wing, can you confirm I'll need to sand one of the two support and have it at an angle?
+
+I also predrilled the holes in the trusters for lighting the engines .. still, I have NO IDEA how to do this! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #683528)
+Author    : JPolacchi
+Date      : Sep 30, 2008 at 11:42 PM
+────────────────────────────────────────────────────────────────────────
+
+Looks good so far.Is this your first/only S.S X-Wing build?I was wondering...which is the better S.S kit?I've been wanting a S.S X-Wing,but I don't know if the original Captain Cardboard kit,the Salzo V2 or the current Salzo V3 X-Wing is the better of the three kits to get?I'm not even sure if a Salzo V2 is available anymore?
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #683529)
+Author    : Bigturc
+Date      : Sep 30, 2008 at 11:45 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks J .. yes, this is the first garage kit that I build.
+
+Considering the V3 is currently in production, I`d definitely say that the CC and V2 are not available anymore .. but again, I might be wrong .. I`m sure Mike can chime in about this.
+
+I`ve read everywhere in the other threads that this is THE X to get .. so I went for it! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #683645)
+Author    : -... . .- --..
+Date      : Oct 1, 2008 at 6:33 AM
+────────────────────────────────────────────────────────────────────────
+
+Yes, the V3 is definitely the way to go - all new fuselage and all new wings, considerably more accurate.
+
+Great build, so far!
+
+As for some of your questions:
+
+			1) The bottom engine bell is longer then the engine plaque .. on reference pics, it sits flush on the outside .. must I remove some len to give it the proper look?
+		
+
+Click to expand...
+
+This is because the bottom engine intake isn't deep enough, IMO. This is why on a lot of builds you'll notice the lower engine intakes aren't flush with the upper intakes, and there's a noticeable step between the two. On the original miniatures, the leading edges of the top and bottom intake half-rounds were flush.
+
+			A. Is the greeblie at the right height? Pics are too small for me to see this, so I'd like your input.
+		
+
+Click to expand...
+
+Not sure which greeblie you mean.
+
+			B. The 1/16 rod trench is pretty dirty, should I clean this all up with a file or something?
+		
+
+Click to expand...
+
+Yes. The stuff that drops in there isn't thick enough to hide all the cruft in that part of the wing casting.
+
+			C. The truster don't sit flush on the wing, can you confirm I'll need to sand one of the two support and have it at an angle?
+		
+
+Click to expand...
+
+This is just one of those areas that will need tweaking to make everything nice and straight. One way is to cut off the "connector" tube that's supposed to fit inside the hole in the back of the main engine intake. Or you can leave the tube there but make the receiving hole a smidgen larger than the one that's indicated there so that you have some play in positioning the rear engine alignment.
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #683747)
+Author    : Bigturc
+Date      : Oct 1, 2008 at 8:56 AM
+────────────────────────────────────────────────────────────────────────
+
+Great info! Thanks for the quick reply and for your input, that's much appreciated!
+
+1) As far as I can tell, both my intakes (bottom & top) have their edge flush.  So I guess I'm left with the "sand bell deep end" solution.
+
+[IMAGE: small.jpg]
+
+A. I mean the part under the thruster that sits on the back side of the wing.  My question was, what is it's exact placement? And from the ref, I'll need to trim it's right side since it's overshooting the wing and would interfere with the mounting frame?
+
+B. Trim it is!
+
+C. So I take it normally, both the little support should sit perfectly perpendicular to the wing and it's inaccurate to turn the thruster sideway (where as everyone seems to do it that way).  I'll see about that one .. since those holes give a great support for the thruster (really tight fit) and I would hate having a gap in there too.
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #684239)
+Author    : Bigturc
+Date      : Oct 1, 2008 at 10:29 PM
+────────────────────────────────────────────────────────────────────────
+
+Mmm .. close to 200 more views, and no answers to my questions ...
+
+Here's more anyway...
+
+3. I'm looking at what I'll have to glue vs what I'll have to paint .. and the first question that comes to my mind is: To what point do you assemble the bird until it become more complicated for the primer/paint to put on?  There's definitely a line .. if it was just me, I would have primered all parts black before any gluing .. but for some reason, people don't do that .. Ex. The canons, should I build them completely before primering? Won't the ring over the other part make the primer job more complicated to reach under?
+
+4. Is there anymore detailed shots of where exactly goes the 4 grills that come with the kit? Do I event need them? I couldn't spot them on any build here ... Only  on the MR Red 5, and saw they went in the wings, on the outside back part of the engine, cut in half?
+
+5. The small piston-like part that go at the end of the 1/16 rod, do we need to trim the base that it comes on to make it sit directly on the wing or is the base supposed to be kept and you glue it from the base to the wing? If so, the rod won't fit exactly on the piston, but will be lower into the wing ...
+
+6. Should I even post all these questions? Or it's just the wrong forum to do so?
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #684311)
+Author    : mslz22
+Date      : Oct 2, 2008 at 4:45 AM
+────────────────────────────────────────────────────────────────────────
+
+4. The grill get cleaned up and cut in half, and then they do go on either side of the phantom engines at the back of the wing.
+
+5. the piston part should stay on it's base, the 1/16 rod should go from the end of the piston (centered on the kit part) to the floor of the trench at the tip of the wing, this means the rod will not contact the floor of the trench most of the way. I'm not sure how they did it on the heros but on the pyro the void under the rod, between the rod and the floor of the trench, was stuffed with clay, i would not do that but that is how i determined that the rod was not supposed to sit on the floor of the trench, and why that is not cast into the wing.
+
+thanks
+
+mike
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #684464)
+Author    : Bigturc
+Date      : Oct 2, 2008 at 9:31 AM
+────────────────────────────────────────────────────────────────────────
+
+Awesome Mike! 
+
+With my limited ref at hand, how the heck could I have found this information! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+And by the way, thanks for including 4 of these grills as they brake quite easily (if not already broken) 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+As a reference for those who wouldn't know what parts we're talking about (if there's such person on this forum), here it is.
+
+[IMAGE: medium.jpg]
+
+Here's another pic with the wing built, the top one has the part glued on, the bottom part is temporary as I wanted to be sure I really needed to trim the u-shape out of the bottom piece ... Again, some build shows the right side trimmed off while other show more of the left side trimmed so that you don't need to trim the right side .. and again, my screen refs are not clear enough .. argg
+
+[IMAGE: medium.jpg]
+
+As you can see here too, it was suggested to clean the inside of the wing "trench", that I did with my utility knife.
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #687214)
+Author    : Bigturc
+Date      : Oct 6, 2008 at 8:24 PM
+────────────────────────────────────────────────────────────────────────
+
+Well, I always wanted to have this bird lit .. and I have long forgotten my electronic stuff from high school .. A quick search online and I have found some kit between 70$ and 150$ .. God, way too rich for my taste ... 
+
+So today, I had some free time and I ran to a local electronic store, asked some assistance, explained the project, bought some leds and resistors, a soldering iron and ran back home.
+
+I know nothing about electronic, so bear with me here again (yeah, this build will be quite a learning curve) ... quickly checked online, tried to remember left from right and positive from negative, what's voltage and stuff .. I've read a couple threads here too and found this: http://led.linear1.org/led.wiz.  Then I was off .. some youtube on "how-to solder"! An 30 minutes later ...
+
+A simple assembly
+
+9V battery (-) -> 1/4W resistor -> 2V Red LED -> back to 9V (+).
+
+[IMAGE: medium.jpg]
+ 
+[IMAGE: medium.jpg]
+ 
+[IMAGE: medium.jpg]
+
+Quick test
+
+[IMAGE: medium.jpg]
+ 
+[IMAGE: medium.jpg]
+ 
+[IMAGE: medium.jpg]
+ 
+[IMAGE: medium.jpg]
+
+Now, the goal of those shot are to check if I wouldn't have done anything wrong here.  This is nowhere near final as I'm gonna deassemble this for proper mounting in the wings.  I also want to add some filters for the lights .. to diffuse it more .. I saw one of REL's build that had this .. and I have some plexi/acrylic here, I was wondering if sanding it mate, cutting it into shape and fitting in in the thruster would do it?
+
+I also notices some bleeding through the resin .. but I guess the black primer outside (and probably inside) the thruster and the base coat will hide all that?
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #687662)
+Author    : JPolacchi
+Date      : Oct 7, 2008 at 11:31 AM
+────────────────────────────────────────────────────────────────────────
+
+That's awsome!I hope I can do something like that.I'm retarded when it comes to electronics.Do you have plans of lighting the cockpit as well?I think if you use acrylic/plexi-glass that if you sand one side of it(or both if you want?) to frost it up, that should be ample to diffuse the light and with a good coat of black inside&out that your bleed through issues with the lights will be no more.
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #687716)
+Author    : mslz22
+Date      : Oct 7, 2008 at 12:29 PM
+────────────────────────────────────────────────────────────────────────
+
+Looking great, just to address a couple of things in the thread, the cleaning of that treach is a good idea, but may not be needed, the piston part should cover that blob, in fact that piston was originally cast into the wing and i popped it off in the 2nd round of molding, so what you see there is the glue residue from the original configuration.
+
+Also for the half cylinder that goes under the Satrurn V part, that was made from a casting of the Sealab part, so if i am correct, even though it is a little smaller in diameter from the Saturn V part, it should be the correct part.  I can still mold and cast the old style one from the V1 and V2 (which was scratchbuilt not a kitpart) if you prefer that look, just let me know.
+
+thanks
+
+mike
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #687774)
+Author    : Bigturc
+Date      : Oct 7, 2008 at 1:58 PM
+────────────────────────────────────────────────────────────────────────
+
+J,
+
+I still feel retarded too .. I'm taking a lot of notes and I found an awesome site last night to build a blinking/oscillating board all detailed and explained step by step. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ I'll begin by building a normal on/off circuit . then, I'll see it I can improve on it.
+
+Yes, I also plan on lighting the cockpit but again, I've never worked with fiber optic before .. so I'll need to find a cheap lamp first .. I've heard there are some at dollar store...
+
+Thanks for the tip on the bleeding too.  I begin to catch up on all those tricks now and I like it! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+I'm really getting sucked in the SS stuff now .. boy am I in trouble!
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #687778)
+Author    : Bigturc
+Date      : Oct 7, 2008 at 2:03 PM
+────────────────────────────────────────────────────────────────────────
+
+Mike, 
+
+It really just made sense for me to clean the trench .. and now, the fitting of the piston is flawless .. that took no time at all!
+
+I'm very happy with the fitting of the Sealab part .. so I don't see why it would need to be otherwise. Thanks for the info though, I didn't know the V3 had a different part there.
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #688078)
+Author    : JPolacchi
+Date      : Oct 8, 2008 at 12:45 AM
+────────────────────────────────────────────────────────────────────────
+
+I still think you are doing an incredible job.Keep it up!
+
+P.S:I'm in trouble too
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #690038)
+Author    : Gunpowder
+Date      : Oct 10, 2008 at 10:32 AM
+────────────────────────────────────────────────────────────────────────
+
+Looking good
+
+I use the mottled plastic sheet that the plastic A4 paper folders/wallets are made of. They diffuse the glow really well , and if you spray them with glass frosting spray , they look even better.:thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #690049)
+Author    : Bigturc
+Date      : Oct 10, 2008 at 10:44 AM
+────────────────────────────────────────────────────────────────────────
+
+Nice tip!!!
+
+I'm sure this will be pretty useful .. I'm gonna do a quick test of this (if I can find the stuff around).
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #690050)
+Author    : Guy Cowen
+Date      : Oct 10, 2008 at 10:46 AM
+────────────────────────────────────────────────────────────────────────
+
+I'm glad your tackling the lighting with this build, you can help me with my next one?
+
+Looking great so far, how long before you start the painting?
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #690069)
+Author    : Bigturc
+Date      : Oct 10, 2008 at 11:07 AM
+────────────────────────────────────────────────────────────────────────
+
+Guy,
+
+I thank you (for your great step-by-step) paint job .. this is gonna be MY reference to do my paint!!!
+
+You can be sure I'll help you or anyone with their lighting .. by the time I'm done with this, I think I'll have a pretty good sense of what I can (or can't) do! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+As for when I'll be able to begin the pain job? Well, I gotta finish my Biker Scout costume first for Halloween, which is mostly what I'm doing right now .. but I'm almost there .. then, I just scored a nice Niecen ATST ROTJ that I'll maybe try to build first (since the paint job will be much much easier to nail down) .. not sure about that one .. 
+
+But already, I'll first paint the cockpit to be able to shut the bird closed and then, that'll be a good first step for me.  I'll see from there.
+
+I still have to figure how to properly and cleanly get the wire from the thruster to the armature.  That's my next step too .. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #28  (forum post #690124)
+Author    : kitjunky
+Date      : Oct 10, 2008 at 12:06 PM
+────────────────────────────────────────────────────────────────────────
+
+Very nice build! I'm always looking for encouragement to take the leap and learn how to light things up and your thread is helping me to do that!
+────────────────────────────────────────────────────────────────────────
+Post #29  (forum post #690516)
+Author    : Bigturc
+Date      : Oct 11, 2008 at 1:23 AM
+────────────────────────────────────────────────────────────────────────
+
+Well, that's exactly why I'm doing it!! Most build here are more for show off (and I'm all good with that) but I wanted to do one more for noob like me .. hopefully, it'll do just that, help noob on the build!
+
+I can't wait to update it and work some more on it now.
+
+Thanks for the compliments guys!
+────────────────────────────────────────────────────────────────────────
+Post #30  (forum post #694298)
+Author    : Bigturc
+Date      : Oct 16, 2008 at 11:44 PM
+────────────────────────────────────────────────────────────────────────
+
+Very fast update .. I had little to no time to work on my X .. but still, I managed to figure out where I would get the wire through the wing into the armature .. here's what I came up with.
+
+I made sure to stay within the width of the under frame , I think I'll be able to do this without any wires anywhere ...
+
+[IMAGE: medium.jpg]
+ 
+[IMAGE: medium.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #31  (forum post #695055)
+Author    : Bigturc
+Date      : Oct 18, 2008 at 8:37 AM
+────────────────────────────────────────────────────────────────────────
+
+I had to shim one of the under thruster so I added a plate to the end, and sanded it in an angle as needed ... now, it sits flush with the engine plaque ..
+
+[IMAGE: medium.jpg]
+ 
+[IMAGE: medium.jpg]
+ 
+[IMAGE: medium.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #32  (forum post #695057)
+Author    : Bigturc
+Date      : Oct 18, 2008 at 8:43 AM
+────────────────────────────────────────────────────────────────────────
+
+Wings are now completed .. with holes driled for the lighting .. hopefully, my tecnique will work once it's time to send the wires through ...:confused
+
+[IMAGE: medium.jpg]
+
+Both cockpits have been drilled, I'm still not sure which one I'm gonna use ... Holes are coming out everywhere on the first one .. a little cleaner on the second one .. had one or 2 goofs on each one .. but it's the first time I'm doing this .. I figured it wasn't that bad 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: medium.jpg]
+ 
+[IMAGE: medium.jpg]
+ 
+[IMAGE: medium.jpg]
+ 
+[IMAGE: medium.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #33  (forum post #695075)
+Author    : Guy Cowen
+Date      : Oct 18, 2008 at 9:44 AM
+────────────────────────────────────────────────────────────────────────
+
+Great stuff, I really am so pleased your doing this mate, it will help my first time feel less painful. Keep it up BigT,
+────────────────────────────────────────────────────────────────────────
+Post #34  (forum post #695233)
+Author    : darth_myeek
+Date      : Oct 18, 2008 at 2:12 PM
+────────────────────────────────────────────────────────────────────────
+
+Hey BigT,
+
+Thanks for posting this buildup. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+thumbsup I am finding it very informative.
+
+Also am interested in your lighting tutorial.
+
+-DM
+────────────────────────────────────────────────────────────────────────
+Post #35  (forum post #695649)
+Author    : Bigturc
+Date      : Oct 19, 2008 at 12:04 PM
+────────────────────────────────────────────────────────────────────────
+
+Guy Cowen said:
+
+			Great stuff, I really am so pleased your doing this mate, it will help my first time feel less painful. Keep it up BigT,
+		
+
+Click to expand...
+
+What goes around comes around Guy 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+DM, will get back on the lighting soon enough I hope!
+────────────────────────────────────────────────────────────────────────
+Post #36  (forum post #696510)
+Author    : Bigturc
+Date      : Oct 20, 2008 at 3:20 PM
+────────────────────────────────────────────────────────────────────────
+
+I've been hunting for optic fibers all afternoon around my place and couldn't come with anything .. I tried the search feature to know if any information was ever posted on online vendors but couldn't find anything either!
+
+.. so I'm asking you all .. any good links on Ebay/Online vendors? I'm in Canada if anyone knows anything locally, else, any other links would be good too.
+
+Thanks.
+────────────────────────────────────────────────────────────────────────
+Post #37  (forum post #696807)
+Author    : Bigturc
+Date      : Oct 20, 2008 at 11:03 PM
+────────────────────────────────────────────────────────────────────────
+
+Completed all 4 wired leds, I decided to do it this way .. it looked good, and I wanted to prevent the wires from touching each other when stuck inside the thruster! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: medium.jpg]
+ 
+[IMAGE: medium.jpg]
+ 
+[IMAGE: medium.jpg]
+ 
+[IMAGE: medium.jpg]
+
+[IMAGE: 104847093.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #38  (forum post #700561)
+Author    : Robiwon
+Date      : Oct 26, 2008 at 5:24 AM
+────────────────────────────────────────────────────────────────────────
+
+Go to your local Walmart or Meijer store. I picked up several fiber optic battery powered lamps for $5 each in the toy clearence section. You can also check a store called Spencer's Gifts in your local mall or online for fiber optic lamps as well.
+
+Looking good so far on the wiring. Although, just from personal experience I would use heat shrink tubing instead of electrical tape. Tape can build up a parts diameter faster than you think and may cause fit problems. It can also unravel and leave a sticky residue.
+
+You can also shorten the leads on your LEDs for a possible better fit in tight places. A tip I use when wiring a bunch of LED's is to use a Sharpie black marker and mark the negative lead near the base of the LED. That way, if I do trim the leads it's easy to tell which is the neg. lead.
+
+I've lit a lot of models (seeavatar for my favorite) so I have a little experience. I would love to try one of these SS kits. I built resin before but nothing SS.
+────────────────────────────────────────────────────────────────────────
+Post #39  (forum post #700682)
+Author    : Bigturc
+Date      : Oct 26, 2008 at 11:08 AM
+────────────────────────────────────────────────────────────────────────
+
+Robiwon,
+
+Thanks for the tips!!! I had started another thread to ask question about fiber optics and someone asnwered there with info on what he's got and where he got it .. luckily for me, this guy lived 25 minutes from my door here in Montreal !!! And he sold me some extra he had lying around which I got last night!!! My first test left me completely amazed at the end result!!! I'll get the cockpit lit in 2 colors, red and blue .. I'm still undecided as to which one I'll use.
+
+This thing looks amazing lit and I'll have more update soon.
+────────────────────────────────────────────────────────────────────────
+Post #40  (forum post #700683)
+Author    : Guy Cowen
+Date      : Oct 26, 2008 at 11:11 AM
+────────────────────────────────────────────────────────────────────────
+
+Ace, make sure you post lots of pics.
+────────────────────────────────────────────────────────────────────────
+Post #41  (forum post #700703)
+Author    : JPolacchi
+Date      : Oct 26, 2008 at 11:54 AM
+────────────────────────────────────────────────────────────────────────
+
+Just a silly question,are you using a hand-pin vise to drill the holes out for the cockpit, a small drill press or are you free hand drilling with a Dremel?
+────────────────────────────────────────────────────────────────────────
+Post #42  (forum post #700705)
+Author    : Bigturc
+Date      : Oct 26, 2008 at 11:55 AM
+────────────────────────────────────────────────────────────────────────
+
+In the meantime, as this is all temporary for now .. here's some pics ...
+
+[IMAGE: medium.jpg]
+ 
+[IMAGE: medium.jpg]
+ 
+[IMAGE: medium.jpg]
+ 
+[IMAGE: medium.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #43  (forum post #700725)
+Author    : Bigturc
+Date      : Oct 26, 2008 at 12:25 PM
+────────────────────────────────────────────────────────────────────────
+
+I'm using my drill with a 1/32 bit I had here around .. this is far from ideal as I'd prefer using the dremel but will do for now! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+I didn't even know about hand-pin vise until last night .. man, I'd kill myself doing this by hand!
+────────────────────────────────────────────────────────────────────────
+Post #44  (forum post #701031)
+Author    : Bigturc
+Date      : Oct 26, 2008 at 10:49 PM
+────────────────────────────────────────────────────────────────────────
+
+Primed the cockpit today and stayed there staring at how I could paint this thing .. 
+
+Since I couldn't even decide which cockpit I wanted to use, I decided to do both, then, I'll take the best one. 
+
+The SS was made with dry brushing white over the black primer and that's it .. 
+
+The 2nd one has been painted with the full scale color scheme .. just not so accurate as it's not really accurate to the movie anyway.
+
+These are quick test and not final at all .. just wanted to get a sense of what could be done .. Any suggestions are, as usual, more than welcome.  I want this to be super nice and I don't feel right now that my test is getting anywhere.
+
+[IMAGE: 105106918.jpg]
+ 
+[IMAGE: 105106922.jpg]
+ 
+[IMAGE: 105106924.jpg]
+ 
+[IMAGE: 105106926.jpg]
+
+[IMAGE: 105108856.jpg]
+
+[IMAGE: 105108855.jpg]
+
+[IMAGE: 105108857.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #45  (forum post #701034)
+Author    : Bigturc
+Date      : Oct 26, 2008 at 10:59 PM
+────────────────────────────────────────────────────────────────────────
+
+Finally finished downloading ANH and ESB .. and started taking screen caps for my paint reference ...
+
+Another question, you guys know in which movie we have the best SS Red5 shots?  That's if it's still there anywhere and has not been replaced with CG.
+
+ESB Red5 (click for full 1900x800 HD)
+
+[IMAGE: large.jpg]
+ 
+
+[IMAGE: large.jpg]
+ 
+
+[IMAGE: large.jpg]
+ 
+
+[IMAGE: large.jpg]
+ 
+
+[IMAGE: large.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #46  (forum post #705123)
+Author    : Bigturc
+Date      : Nov 1, 2008 at 6:14 PM
+────────────────────────────────────────────────────────────────────────
+
+Mmm .. 4 days, no comments on my cockpits paint job! I guess it looks worst than I thought! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ lol ..
+────────────────────────────────────────────────────────────────────────
+Post #47  (forum post #705469)
+Author    : JPolacchi
+Date      : Nov 2, 2008 at 10:19 AM
+────────────────────────────────────────────────────────────────────────
+
+Sorry,I've been busy.I like the one on the left w/the add ons.
+────────────────────────────────────────────────────────────────────────
+Post #48  (forum post #705472)
+Author    : Guy Cowen
+Date      : Nov 2, 2008 at 10:31 AM
+────────────────────────────────────────────────────────────────────────
+
+The dry brushing version is a bit rough for such a good build, I would def re do that one!
+
+The full scale version is a lot better but I think it lacks a bit of definition, I wouldn't know what to suggest as I've never tackled this kind of detail but I think it could look a lot better with just a few improvements. On the hole though this one is still looking really good, I'd scan through some other top builds & see how they were done?
+────────────────────────────────────────────────────────────────────────
+Post #49  (forum post #705487)
+Author    : Bigturc
+Date      : Nov 2, 2008 at 11:02 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks guys,
+
+Yeah, I'm not too satisfied with my cockpits either .. and until I know exactly which one I'll use, I'm kinda stuck on the build! 
+
+I'll scrap off what I've done and try something different .. now, what the best way to remove Tamiya paint from my base primer coat (if even possible...)? I just don't wanna end up with too much paint building up over the details.
+
+Another noob question, when you guys paint details with a normal brush with Tamiya for ex., do you thin it anyway?
+────────────────────────────────────────────────────────────────────────
+Post #50  (forum post #705503)
+Author    : rambo5788
+Date      : Nov 2, 2008 at 11:55 AM
+────────────────────────────────────────────────────────────────────────
+
+ok how and where can I get one of these kits please
+────────────────────────────────────────────────────────────────────────
+Post #51  (forum post #705510)
+Author    : Bigturc
+Date      : Nov 2, 2008 at 12:13 PM
+────────────────────────────────────────────────────────────────────────
+
+Mmm .. I've read yesterday that Mike (mslz22 here or salzo1@aol.com) was taking a break on these kits .. but you can still try to send him a PM and see what's up. Mike, I hope it's ok to share your info, lmk if it's not.
+────────────────────────────────────────────────────────────────────────
+Post #52  (forum post #705592)
+Author    : Lancer
+Date      : Nov 2, 2008 at 2:46 PM
+────────────────────────────────────────────────────────────────────────
+
+*cough* ahem. painting figures and cockpits is my thing. how much detail you want?
+────────────────────────────────────────────────────────────────────────
+Post #53  (forum post #705638)
+Author    : Bigturc
+Date      : Nov 2, 2008 at 3:51 PM
+────────────────────────────────────────────────────────────────────────
+
+lol .. well, if you're up for any advice .. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+I'm looking to get the best finish possible .. As you probably have read above, I still didn't make my mind whether to use the SS of full scale cockpit ...
+
+I think my first approach was wrong working directly on the black primer .. what I plan to do now is try to use the base color (which will probably end up being mate white on the cockpit and then, work from there adding black panel and grey details .. 
+
+I've been collecting a lot of different paint scheme done here .. but of course I'd like my own interpretation and not copycat someone else's work .. I still wanna be fidel to the original prop if I go SS cockpit.
+
+Right now, the status is black enamel primer and white/grey acrylic over it .. but I plan to redo it anyway, thus the question 'how to remove acrylic paint to prevent buildup".
+
+What would you suggest .. again, this is my first garage kit / SS model I'm doing .. I know I can do it nicely but I still need advice on the way to go 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #54  (forum post #705905)
+Author    : mslz22
+Date      : Nov 3, 2008 at 4:22 AM
+────────────────────────────────────────────────────────────────────────
+
+It's fine but, yes the kit is no longer available...
+
+thanks
+
+mike
+
+Bigturc said:
+
+			Mmm .. I've read yesterday that Mike (mslz22 here or salzo1@aol.com) was taking a break on these kits .. but you can still try to send him a PM and see what's up. Mike, I hope it's ok to share your info, lmk if it's not.
+		
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #55  (forum post #706049)
+Author    : Lancer
+Date      : Nov 3, 2008 at 9:52 AM
+────────────────────────────────────────────────────────────────────────
+
+the main consideration firstly is what you're trying to achieve. faithfulness to the prop, or matching the full size cockpit set.
+
+the prop has not much detail visible and is in deliberately dark colours. so beyond a dark grey with some drybrushing for contrast, a few ink washes etc to delineate detail, there's not much else to do.
+
+now if you're talking the cokcpit set. firstly. DO NOT use primary white as a base colour. even with washes it is bloody difficult to dull down and will stand out like a belisha beacon.
+
+on a large scale model. start with an off white as your base colour in the appropriate areas. what this gives you then is something to work with.
+
+you can then pick out detail in a pure white if you wish, and also dark washes to highlight details. regularly put the part into the model or next ot the model if you can to make sure the look of the cockpit does not dominate the colours of the exterior.
+
+no point having subtle shading work on the outside if the cockpit stands out. it needs to blend with its surroundings and look like its supposed to be there.
+
+so, with that in mind. start with off whites or greys instead of white. dark greys instead of black.
+────────────────────────────────────────────────────────────────────────
+Post #56  (forum post #706081)
+Author    : Bigturc
+Date      : Nov 3, 2008 at 10:28 AM
+────────────────────────────────────────────────────────────────────────
+
+L,
+
+Thanks so much for that information .. this is exactly the tips and consideration I was looking for! 
+
+I'll try cover everything on the 1:1 cockpit in grey tonight and start from there! I see now that using pure whites and blacks colors just doesn't work right at all!
+
+I have to check what exactly is the ink wash tecnic too!
+
+Also, I've made some progress on the kit yesterday, I'll update tonight...
+
+Thanks again L!
+
+My question still holds, let's say I wanna remove my tamiya over my primer coat .. what would be the best way?
+────────────────────────────────────────────────────────────────────────
+Post #57  (forum post #706156)
+Author    : Lancer
+Date      : Nov 3, 2008 at 11:49 AM
+────────────────────────────────────────────────────────────────────────
+
+hmm removing paint isn't really my area of expertise. my acrylics are a 12 year old make that is no longer made. the base coat can be just peeled off because it has a polymer plastic base so its very tough but also peelable.
+
+as to ink washes. in the uk, Games workshop do a range of inks for painting. they can be applied neat for a very solid coverage or thinned down to make it as light or as dark as you want.
+
+I would not recommend taking an acrylic black or grey and thinning it with water because it doesn't pool or dry right. 
+
+an alternative wash would be oil paint thinned down with thinners, but the problem there is very often runs off acrylic like oil on water. you have to consider laying down a coat of varnish first to give the oil paint something to adhere to. 
+
+in this case I wouldn't bother and I'd just stick to the inks.
+────────────────────────────────────────────────────────────────────────
+Post #58  (forum post #706167)
+Author    : Bigturc
+Date      : Nov 3, 2008 at 11:58 AM
+────────────────────────────────────────────────────────────────────────
+
+I'll check my local hobby shop for Games Workshop, I think I've seen them there, but I'm not 100% sure.
+
+If I'd have to go and buy the base colors for ink wash .. what should I go for? White, black, brown?
+
+Thanks again Lancer, much appreciated!
+────────────────────────────────────────────────────────────────────────
+Post #59  (forum post #707736)
+Author    : darth_myeek
+Date      : Nov 5, 2008 at 3:13 PM
+────────────────────────────────────────────────────────────────────────
+
+Loving the updates Bigturc!    (oh and bump :love )
+
+-DM
+────────────────────────────────────────────────────────────────────────
+Post #60  (forum post #707971)
+Author    : Bigturc
+Date      : Nov 5, 2008 at 8:50 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks DM .. that's appreciated knowing I'm not doing all that for nothing and a few people are actually reading this! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ More like 2,463 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ lol
+
+Tomorrow night, I'll update with pics .. moved forward on the wings and I need advice on the new paint scheme too! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #61  (forum post #708967)
+Author    : Bigturc
+Date      : Nov 7, 2008 at 6:51 AM
+────────────────────────────────────────────────────────────────────────
+
+Well,
+
+COCKPIT
+
+I'm finally done on the cockpit .. I just need to seal it now .. but before doing so, I want more feedback from you guys!
+
+I'm way more satisfied with what I've done here .. I think it's much better for the eye when you looks at it .. Although I was way too hard on the final light-grey mist to blend the colors together .. lol .. I almost just covered everything back 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+But I'm learning, and it's a big step forward for me!
+
+Sooo, like I said, before I seal everything, I want feedback on what I could do to make it look better, since my mist was a little heavy, I went back over the seat back-head (which is black) with a super thinned black wash to bring back the color .. it helped a lot to darken it .. I was wondering if I could do something similar to the rest too .. 
+
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+ 
+
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #62  (forum post #708982)
+Author    : Bigturc
+Date      : Nov 7, 2008 at 7:07 AM
+────────────────────────────────────────────────────────────────────────
+
+Ze Luke
+
+Well, let say folks that this little guy wasn't so lucky at birth 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ Missing in chin cup, his nose and some other stuff on the side of his helmet .. I salvaged what I could and rebuilt the rest .. I think I did ok, it's small .. and it makes me wonder how the heck can these guy sculpt those figs!!! Even though he looks like he bulped down too much beer right now, I think with the primer, it'll be good enough .. 
+
+He's my next paint job! Should be fairly easy I think. I've done lead figurines when I was younger (15 years ago)!
+
+[IMAGE: medium.jpg]
+ 
+[IMAGE: medium.jpg]
+ 
+[IMAGE: medium.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #63  (forum post #708995)
+Author    : Bigturc
+Date      : Nov 7, 2008 at 7:15 AM
+────────────────────────────────────────────────────────────────────────
+
+Wings! While I was depressing around my cockpit colors, I decided to change my mind and working on my wings .. there was some places when the resin was not so perfect, so I filled it with putty .. the worst part was definitely my wing tips .. all 4 were full of bubbles which is pretty normal I guess .. so anyway, a small job of putty fixed this easily and some along the length of the wings.
+
+I also installed my pins (coat hanger) to support the wings on the mounting frame .. I thought this would give a better hold for the wing and prevent it from being knocked sideways .. or something! 
+
+As an extra, I left one side of the support longer to paint the wings .. I figured it would be easier for the primer and base coat if I could just hang all 4 wings in the air .. I have no idea where I got this idea from .. hopefully, it will help me and do its purpose! lol .. 
+
+[IMAGE: 105605594jpg]
+ 
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #64  (forum post #711547)
+Author    : Bigturc
+Date      : Nov 10, 2008 at 11:37 PM
+────────────────────────────────────────────────────────────────────────
+
+Well, I guess I'm not made for SS building ... 
+
+I thought I could update with a finished and lit cockpit but while doing the fibers on my cockpit, the CA glue melted most of them! 
+
+I'm now stuck with FO that just fell off at the glue point under the cockpit meaning the rest of the fiber is stuck in the resin .. and stuck real good (half melted I guess, and half glued in) .. 
+
+I'll have to figure out something .. I knew hot glue was a big no-no with fiber optic, but didn't know about CA glue making such a mess .. the fubers that didn't (completely) melt, meaning, they're still going through are now all eaten around .. I'm wondering if that will affect the quality of the light passing through .. 
+
+Man, this is really depressing ... just when I thought I was finally moving on!
+────────────────────────────────────────────────────────────────────────
+Post #65  (forum post #711584)
+Author    : The Stig
+Date      : Nov 11, 2008 at 1:45 AM
+────────────────────────────────────────────────────────────────────────
+
+Eek! I'm sure it'll turn out fine. :thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #66  (forum post #711618)
+Author    : Nils
+Date      : Nov 11, 2008 at 3:51 AM
+────────────────────────────────────────────────────────────────────────
+
+Bigturc said:
+
+			Well, I guess I'm not made for SS building ... 
+
+I thought I could update with a finished and lit cockpit but while doing the fibers on my cockpit, the CA glue melted most of them! 
+
+I'm now stuck with FO that just fell off at the glue point under the cockpit meaning the rest of the fiber is stuck in the resin .. and stuck real good (half melted I guess, and half glued in) .. 
+
+I'll have to figure out something .. I knew hot glue was a big no-no with fiber optic, but didn't know about CA glue making such a mess .. the fubers that didn't (completely) melt, meaning, they're still going through are now all eaten around .. I'm wondering if that will affect the quality of the light passing through .. 
+
+Man, this is really depressing ... just when I thought I was finally moving on!
+		
+
+Click to expand...
+
+Try white glue, that wouldn´t be to harsh on the fiber.
+────────────────────────────────────────────────────────────────────────
+Post #67  (forum post #711691)
+Author    : Robiwon
+Date      : Nov 11, 2008 at 7:08 AM
+────────────────────────────────────────────────────────────────────────
+
+While I have not worked in SS scale I have worked with FO. I always try and use the least caustic type of glue, white glue. Fiber optics are very delicate and need a delicate glue. Yes white glue takes longer to dry but it holds firm and wont damage you FO. 
+
+I suggest drilling out the glued in damaged fibers you have installed and reinstall them with white glue. You have done a good job so far, don't skip the FO just because of this setback. This kit needs lights.
+
+Oh, I think the cockpit looks great. Great paintjob on it.:thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #68  (forum post #711833)
+Author    : Bigturc
+Date      : Nov 11, 2008 at 10:59 AM
+────────────────────────────────────────────────────────────────────────
+
+Nils and Robiwon,
+
+Thanks for the feedback guys .. and for the tips on the white glue too .. I wish I had know that before starting .. argg .. I will give it a try .. 
+
+I also need to find another 1/32 drill bit now as the other one is permanently broken in my cockpit now! LOL .. :| Anyway, it's not like it's ever gonna be needing to cross a metal detector at the airport or something! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+I'll lyk how this went tonight.
+────────────────────────────────────────────────────────────────────────
+Post #69  (forum post #713626)
+Author    : Bigturc
+Date      : Nov 13, 2008 at 1:39 PM
+────────────────────────────────────────────────────────────────────────
+
+A little shopping today to get the paint needed .. plus the tubing for the canons (1/16") and for the the back wing (3/32").
+
+I also bought some dullcoat .. hopefully, that's what I needed to seal the paint between layers .. ?
+
+I'm still working to remove the damn fibers that got melted .. this is soooo time consuming as it seems the FOs got melted all the way to the surface .. so I basically have to redrill my hole through it and it messes my paint job a little .. still .. I'll survive!
+
+You can all see my next step primed! That should be the easy part (hopefully).
+
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #70  (forum post #714640)
+Author    : Bigturc
+Date      : Nov 14, 2008 at 5:27 PM
+────────────────────────────────────────────────────────────────────────
+
+Ok, I got a question for you guys .. 
+
+My bottom hull had some pretty thin spot that unfortunately gave away while manipulating the hull .. so I was thinking that if I fix right now the end cap on the body, I'll be able to putty the whole since the end part will give me a floor for my putty .. 
+
+Can I fix this part right now, since I know that anyway, you have to put it on before joining both halfs anyway? I just wanna make sure to not forget anything that would prevent me to do this now.
+
+As always, thanks for your input ..
+
+NOTE Luke is now complete.  Awaiting seal coat to dry and then, I'll be able to show pictures ... quite satisfied FOR ONCE!!!
+
+NOTE Cockpit mess is also fixed.  That was super time consuming and I pray god that this thread will prevent anybody else to ever do this error of using CA glue!!! Photos to come.
+
+- The issue. -
+
+[IMAGE: large.jpg]
+ 
+
+- Part I wanna glue now -
+
+[IMAGE: large.jpg]
+ 
+
+- Last pic shows the part that gives me something to put the putty onto to fix it -
+
+[IMAGE: large.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #71  (forum post #714949)
+Author    : mslz22
+Date      : Nov 15, 2008 at 6:43 AM
+────────────────────────────────────────────────────────────────────────
+
+The floor of the back fuselage can be a little thin, it is on the master so that winds up on castings as well.  If you have not gotten too far into it you may want to cut a .010 strip of styrene to add to the inside of the lip to thicken it up a bit, it will also give you a surface to add a bit of putty to from the outside surface. You can trim the backplate just a bit to get the best fit at that time, the backplate was left a little proud to allow for a little trimming for the best fit..
+
+mike
+────────────────────────────────────────────────────────────────────────
+Post #72  (forum post #715035)
+Author    : Bigturc
+Date      : Nov 15, 2008 at 9:53 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks for the answer Mike.
+────────────────────────────────────────────────────────────────────────
+Post #73  (forum post #715038)
+Author    : Bigturc
+Date      : Nov 15, 2008 at 10:03 AM
+────────────────────────────────────────────────────────────────────────
+
+Happy to show you guys my real progress on this for some time ...
+
+I let you be the judge, and would like to get criticism on him .. 
+
+Question again .. I sealed him with satin clear but I was wondering if I could have "sealed" him with the Testor's dullcoat I bought (see picture above).  Is that a seal at all or just a spray to even the dull finish on whatever you shoot.
+
+If so, I guess I can shoot over my satin clear to dull it down? I heard my clear has to fully cure before doing anything over it.
+
+ANH Luke
+
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #74  (forum post #715142)
+Author    : Guy Cowen
+Date      : Nov 15, 2008 at 1:41 PM
+────────────────────────────────────────────────────────────────────────
+
+Wow, that is very nice indeed
+────────────────────────────────────────────────────────────────────────
+Post #75  (forum post #715144)
+Author    : Bigturc
+Date      : Nov 15, 2008 at 1:43 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks Guy!
+
+This is an adventure for me, and for once, I knew what the heck I was doing! lol
+────────────────────────────────────────────────────────────────────────
+Post #76  (forum post #715479)
+Author    : Robiwon
+Date      : Nov 16, 2008 at 7:50 AM
+────────────────────────────────────────────────────────────────────────
+
+Testors Dullcoat is just a regular clear flat lacquer. I have used it to seal the pastel weathering on my ProShop X-Wing and many other models. I think the face would look better with the dullcoat over it. Great job so far. :thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #77  (forum post #715544)
+Author    : Bigturc
+Date      : Nov 16, 2008 at 10:02 AM
+────────────────────────────────────────────────────────────────────────
+
+Robiwon said:
+
+			Testors Dullcoat is just a regular clear flat lacquer. I have used it to seal the pastel weathering on my ProShop X-Wing and many other models. I think the face would look better with the dullcoat over it. Great job so far. :thumbsup
+		
+
+Click to expand...
+
+Ok, I will try that later today .. 
+
+In the meantime, here's the R2 unit!
+
+Black primer, Metalic spray can, white airbrushed and the rest is hand painted. The eye will be lit red too.
+
+NOTE I'll switch the black line to blue, didn't realize it until too late 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #78  (forum post #715547)
+Author    : Anakin Starkiller
+Date      : Nov 16, 2008 at 10:07 AM
+────────────────────────────────────────────────────────────────────────
+
+Wow :eek
+
+the detail on that Luke and R2 look incredible.
+
+Totally blown away.
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #79  (forum post #715548)
+Author    : ralphee
+Date      : Nov 16, 2008 at 10:08 AM
+────────────────────────────────────────────────────────────────────────
+
+Fine looking figures indeed! Go for a shot of dullcoat bud, would look even better and yep, seals it all up.
+
+Just be warned on the aerosol stuff...its a bit nasty...try shooting it in the airbrush for a better finish...the rattle cans have let me down now and then!
+
+This is all shaping up to be another killer V3 X wing!
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #80  (forum post #715777)
+Author    : Bigturc
+Date      : Nov 16, 2008 at 5:05 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks Dan!
+
+Lee .. I've been following closely all your build thread, and you're a total inspiration of my own work .. I'm litterally eating through all your threads since you're doing a lot of documentation and explain what you're doing to.  And I'm not even talking about the fact that you DO share your finds and all.  And I truly admire that.
+
+Most threads on the RPF, although very interesting are mostly there to show off people's talent and there's no explanation whatsoever how things are done.
+
+Big kudos to you and Guy for doing this .. you both get a pretty high score on my good RPFer's checklist .. loll.  Plus you're just full of talent .. truly my heroes!
+
+Hoping I'll be able to help other people as well with all the crazy step by step stuff I'm doing here .. cause damn, I go so slow 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #81  (forum post #715784)
+Author    : Bigturc
+Date      : Nov 16, 2008 at 5:25 PM
+────────────────────────────────────────────────────────────────────────
+
+Back on the build .. since I'm now all done on the cockpit and lighting .. I feel like I can now begin planning the joining of the fuselage. That brings a few noob questions (did you guess?):
+
+1. As you can see in the picture below, I've already pierced through the fiselage to be able to insert my light board / change leds or anything that should be accessible. But I have to admit, I have no idea how to properly setup my FOs in the fuselage to have a good access in case anything needs to be played with.  I have about 4-5" of FOs on the cockpit and about 6-7" from my R2.  I need to plan 2 leds in there.  One blue and one Red.
+
+Does anyone have a pic of how his inside would look like? Just so I have an idea of what the heck I'm doing? 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: medium.jpg]
+
+2. Since the cockpit is all lit, I don't want the FOs to show under my Luke .. so should I close the cockpit are / do a floor under Luke so that it sits on it?  I also noticed that Luke is a little tight in the cockpit too. I think I can still squeeze it in proper position but I just don't wanna mess its paint and of course, now is too late to modify the cockpit since it's already painted.
+
+3. Before installing permanently the cockpit, I guess I'll have to paint the inside of the canopy .. from what I see on my refs, it's the same grey as the cockpit, sometime I see it black in some pics too.  What's the best solution here? 
+
+I was planning to black primer the inside then shoot the inside canopy the same color as my cockpit grey .. does that make sense? 
+
+4. Considering the 2 LEDs for cockpit and R2 + 4 more LEDs for my thrusters, will that be able to live on a single 9V battery? I suck at voltage calculation 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+The base I picked up for this is an IKEA lamp that I think will fit perfectly.  It's a simple halogen lamp with hollow tube that I'll cut.  So I hope my wires will run through this tube to the base of the lamp where I'll install the battery and switch.
+────────────────────────────────────────────────────────────────────────
+Post #82  (forum post #718571)
+Author    : Bigturc
+Date      : Nov 19, 2008 at 1:32 PM
+────────────────────────────────────────────────────────────────────────
+
+* Cough cough * Anyone ever heard anything about Tamiya Insignia White for base coat on the X-Wing? 
+
+I stumbled on that little can at my hobby store and looked pretty dead on as far as reference pics goes. So if you have any hint on it .. lmk.
+────────────────────────────────────────────────────────────────────────
+Post #83  (forum post #718714)
+Author    : DARKSIDE72
+Date      : Nov 19, 2008 at 4:02 PM
+────────────────────────────────────────────────────────────────────────
+
+Bigturc said:
+
+			* Cough cough * Anyone ever heard anything about Tamiya Insignia White for base coat on the X-Wing? 
+
+I stumbled on that little can at my hobby store and looked pretty dead on as far as reference pics goes. So if you have any hint on it .. lmk.
+		
+
+Click to expand...
+
+ 
+
+Base coat: Primered black with automotive gloss white burnished with steel wool, the effect is awesome. Everything else added was floquil.
+────────────────────────────────────────────────────────────────────────
+Post #84  (forum post #718735)
+Author    : Bigturc
+Date      : Nov 19, 2008 at 4:27 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks for the advice .. I had been suggested using the primer black with primer white over it .. not the gloss though .. 
+
+I'm having a hard time figuring out the whole 1) white becoming kinda light grey to the eye (even though I know weathering will change it) and 2) GLOSS white with that? Damn it .. I gotta get myself some of that steel wool now.
+
+Now, I'll get to paint the inside of the canopy since I don't really know what to do with all this .. I need to get that fuselage closed ASAP!
+────────────────────────────────────────────────────────────────────────
+Post #85  (forum post #719396)
+Author    : darth_myeek
+Date      : Nov 20, 2008 at 11:53 AM
+────────────────────────────────────────────────────────────────────────
+
+Big T,
+
+That Artoo & Luke are lookin suh-weet!
+
+Might do a burn test on the LEDS.  Let them stay on for a few days, before closing it all up.
+
+Also, was thinking about heat shrink tubing around the FO.   Shrinking heatshrink tubing might get too hot for FO, but if it worked would help contain the light leak, and possibly make your FO ends brighter.  Or you could just buy narrow heatshrink tubes, and just use them as sleeves without shrinking them.
+
+All of this would need testing, before assembly.
+
+Also wouldn't hurt for you to test the hull paint on regular styrene sheet before going for it on the ship.
+
+-DM
+────────────────────────────────────────────────────────────────────────
+Post #86  (forum post #719448)
+Author    : Bigturc
+Date      : Nov 20, 2008 at 12:54 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks DM,
+
+I will definitely do a test paint before launching my wrath on the V3 .. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ But I had never heard about testing the LEDs? I'll do that .. although by now, with all the lighting test I've done for the cockpit and thrusters with the LEDs, I figure they would have burned out if they were not good?
+
+I was suggested to shrink the tubes with a soldering iron that you hold close enough being careful to not heat the FOs .. but at some distance, the reaction on the shrinking tube works and it does shrink properly ..
+────────────────────────────────────────────────────────────────────────
+Post #87  (forum post #722421)
+Author    : Bigturc
+Date      : Nov 23, 2008 at 7:24 PM
+────────────────────────────────────────────────────────────────────────
+
+Had some more time today to work on this, so I primered the inside of the canopy and shot the light grey paint through the airbrush .. I thought paint would go in these small flaws and of course, I was wrong .. 
+
+Although I'm amazed at how the moulds pick up the details from the tape that was inside the canopy upon molding .. do you guys remove all that by sanding it all out then putty the inside and rework the details to be crisper? If I have to sand it now, I guess I'll remove the extra lips in the window frame ..
+
+Or am I just being picky and you guys live with the flaws and don't worry about this?
+
+Any answer would be truly appreciated.
+
+[IMAGE: medium.jpg]
+ 
+[IMAGE: medium.jpg]
+ 
+[IMAGE: medium.jpg]
+ 
+[IMAGE: medium.jpg]
+ 
+[IMAGE: medium.jpg]
+ 
+[IMAGE: medium.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #88  (forum post #722546)
+Author    : Bigturc
+Date      : Nov 23, 2008 at 11:52 PM
+────────────────────────────────────────────────────────────────────────
+
+Well, I got tired of waiting for answers! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ The canopy has been sanded back to the resin and I didn't dare remove the lips around the frame but it would certainly have added visibility to the pilot inside.
+
+Pilot has been fixed inside the cockpit and this was a pain in the ass as I found the pilot to be a little too large at the arms for the inside of the 1:1 cockpit.  While it was fitting with space all around in the SS cockpit version.  So I'd recommend to anyone doing this to enlarge the inside of the 1:1 cockpit before painting it so that the pilot will sit with some space around him.  I did scratch the paint on his arm to get a proper position but in the end, it will not be visible. 
+
+Also added is a foam piece that will be glued under the cockpit to prevent any lights from bleeding under the pilot.
+
+[IMAGE: medium.jpg]
+ 
+[IMAGE: medium.jpg]
+ 
+[IMAGE: medium.jpg]
+ 
+[IMAGE: medium.jpg]
+ 
+[IMAGE: medium.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #89  (forum post #722615)
+Author    : ralphee
+Date      : Nov 24, 2008 at 5:14 AM
+────────────────────────────────────────────────────────────────────────
+
+Sorry bud, late answer, but yes, i did the same to my hull, didnt want that tape mold there too lol.
+
+I did remove the window frame too, and TBH it was an easy job, so dont worry about it, just jump in with a file, it soon all comes away and does look much nicer!
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #90  (forum post #722630)
+Author    : darth_myeek
+Date      : Nov 24, 2008 at 6:17 AM
+────────────────────────────────────────────────────────────────────────
+
+Hi BigT,
+
+I don't have an alternate solution, but I believe the foam you are using will breakdown over a short time. I have camera lighting cases that have a similiar cell structure and the foam collapses, or turns to powder.
+
+It may not matter at all, because your foam will never be touched after you close your V3 up.
+
+-DM
+────────────────────────────────────────────────────────────────────────
+Post #91  (forum post #723264)
+Author    : Bigturc
+Date      : Nov 24, 2008 at 7:17 PM
+────────────────────────────────────────────────────────────────────────
+
+ralphee said:
+
+			Sorry bud, late answer, but yes, i did the same to my hull, didnt want that tape mold there too lol.
+
+I did remove the window frame too, and TBH it was an easy job, so dont worry about it, just jump in with a file, it soon all comes away and does look much nicer!
+
+lee
+		
+
+Click to expand...
+
+Lee,
+
+Well, you gave me the final kick in the butt and I went out, bought some files and did it ... I LOVE it, I see much more the inside and the pilot now. Plus the FO will also be much more visible!
+
+Tomorrow, I prime, then reshoot the inside the canopy .. 
+
+My question from a couple post back still holds though, what color is technically accurate for inside the canopy? Is it the same light blue as the outside, black? dark grey? Anyone...
+
+[IMAGE: large.jpg]
+ 
+
+[IMAGE: large.jpg]
+ 
+
+[IMAGE: 106336029.jpg]
+ 
+
+[IMAGE: large.jpg]
+ 
+
+[IMAGE: large.jpg]
+ 
+
+[IMAGE: large.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #92  (forum post #723451)
+Author    : ralphee
+Date      : Nov 25, 2008 at 12:52 AM
+────────────────────────────────────────────────────────────────────────
+
+Thats better Turc lol, wasnt so bad huh? As for the interior canopy bars, go for the blue, would make it neat and uniform, and eFX have done that very thing!
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #93  (forum post #723453)
+Author    : Bigturc
+Date      : Nov 25, 2008 at 1:07 AM
+────────────────────────────────────────────────────────────────────────
+
+Roger that Lee, and a big thanks for the words of wisdom!!!
+
+I'll try to do as you say .. back at ya tomorrow! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #94  (forum post #725930)
+Author    : Bigturc
+Date      : Nov 28, 2008 at 8:02 AM
+────────────────────────────────────────────────────────────────────────
+
+I'm happy to say I finally figured out my problem with the engine lighting .. I had the LEDs illuminating the filter in a way that it was too directional (you can see a yellower spot directly on the filter in the first 2 pics) .. after looking around, I decided to sand my LEDs with a 1000 grit to diffuse the lighting around!  BINGO! So yesterday, I redid my 4 filters with hot glue to give the engine can a fire look .. anyway, I think it looks pretty good and I'm happy with the result.
+
+Here's what it looked like before...
+
+[IMAGE: medium.jpg]
+ 
+[IMAGE: medium.jpg]
+ 
+
+[IMAGE: medium.jpg]
+ 
+
+And now...
+
+[IMAGE: medium.jpg]
+ 
+[IMAGE: medium.jpg]
+ 
+
+Anf the filters...
+
+[IMAGE: medium.jpg]
+ 
+[IMAGE: medium.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #95  (forum post #725934)
+Author    : Bigturc
+Date      : Nov 28, 2008 at 8:12 AM
+────────────────────────────────────────────────────────────────────────
+
+Current progress! 
+
+Wings will be closed today .. I plan on shooting the black primer inside the cans first, then, I'm putting back the the wiring in them and closing them for good.
+
+I also finally built the canons and figured it would be better to shoot the primer first without the ring glued over the star parts (sorry for my lack of better names) to allow the primer to go everywhere properly (inside all the grooves of the star and inside the ring).  
+
+I'm wondering, do you guys shoot the primer on all the parts first, THEN glue them? I'm having a hard time figuring what parts should be glued first, or perhaps SOME should be glued then primered after to allow a better covering in all the details? As I've never seen a shot of this step .. it's always shots that go from assembly to almost completed paint job.
+
+Same goes for painting .. I saw people would keep the wing assembly for later .. is this the only thing that shouldn't go on the fuselage right away? What about the canons? Painting them first, THEN gluing them seems like a good approach but I remember Guy's build when he ended up saying that was not a good idea .. why?
+
+[IMAGE: large.jpg]
+ 
+[IMAGE: 106449578.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #96  (forum post #726015)
+Author    : Robiwon
+Date      : Nov 28, 2008 at 10:31 AM
+────────────────────────────────────────────────────────────────────────
+
+Whilst I have never done a SS kit before I always find it better to build in sub assemblies and then paint. But it also depends on the parts your painting, if adaquate coverage is achievable this way. Building in subassemblies and then painting makes painting small parts easier that way but may not always be the best route.
+
+Your doing a bang up job so far.The engine lights look awesome. I think when I get my vacation check in three weeks I am going to have track one of these kits down.
+────────────────────────────────────────────────────────────────────────
+Post #97  (forum post #726016)
+Author    : Bigturc
+Date      : Nov 28, 2008 at 10:35 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks for the answer Robiwon,
+
+I can't wait to show the 4 engine lit .. I'm very happy with how they came out! 
+
+I finally figured out the electronics for this!!!!!!!!! Not only it's super cheap, but all 4 engines will oscillate separately on their own timer .. and for under 10$!!!!
+────────────────────────────────────────────────────────────────────────
+Post #98  (forum post #726067)
+Author    : Robiwon
+Date      : Nov 28, 2008 at 12:08 PM
+────────────────────────────────────────────────────────────────────────
+
+Cool. Would also like to see some shots on how your going to wire the model up. Are you going to do a battery power supply or a wall wart? And, are you doing a clear yellow visor for Luke?
+────────────────────────────────────────────────────────────────────────
+Post #99  (forum post #726076)
+Author    : Bigturc
+Date      : Nov 28, 2008 at 12:21 PM
+────────────────────────────────────────────────────────────────────────
+
+Part of the wiring can be seen for the wings in one of the millions of pictured above! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+I'm not sure yet on the power source .. since I have only 4 engine LEDs + 2 cockpit/R2 LEDs, I might still use a 9V battery that would fit under the R2 strip.  A buddy of mine here wants to help me wire it in the wall .. but I'm just not sure it's worth it for the time this thing is gonna be left lit!
+
+Plus the fact that the lamp stand I bought, to put my X on, has an hollow rod but doesn't have an hollow base!
+
+I will post a ton of pictures when I'll get there! :love
+────────────────────────────────────────────────────────────────────────
+Post #100  (forum post #726122)
+Author    : Bigturc
+Date      : Nov 28, 2008 at 1:32 PM
+────────────────────────────────────────────────────────────────────────
+
+Questions about the rods
+
+I bought 1/16" rids for the side of the canons and now, I'm thinking I might have been wrong and they're just too big .. Also, I noticed a lot of people not putting them on .. are these only for Red5 or something?
+
+My brass rods for the wing trenchs are 3/32" .. that's what fitted the best at the end of the piston part.  Now, I tried my 1/16" in there, and they actually seem to fit better .. I think I remember reading this somewhere .. 
+
+Q. Can anyone confirm those sizes?
+
+Q. In the wing trench, do they sit against the piston part (which sits on its little base) OR they sit at the bottom of the trench (thus not in line at all with the piston part).
+
+Wings on piston 3/16"
+
+[IMAGE: large.jpg]
+ 
+
+[IMAGE: large.jpg]
+ 
+
+Wings at bottom 3/16"
+
+[IMAGE: large.jpg]
+ 
+
+Wings on piston 1/16"
+
+[IMAGE: large.jpg]
+ 
+
+[IMAGE: large.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #101  (forum post #726142)
+Author    : ralphee
+Date      : Nov 28, 2008 at 2:06 PM
+────────────────────────────────────────────────────────────────────────
+
+Beaz is your guy buddy, he's pretty much the X guru around these parts, im sure if he can chime in here, he'll put you right!
+
+I was asked the same Q by a buddy today, and for the life of me, ive always though all of that area were donor kit parts...but my X knowledge isnt the best lol.
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #102  (forum post #726143)
+Author    : Guy Cowen
+Date      : Nov 28, 2008 at 2:10 PM
+────────────────────────────────────────────────────────────────────────
+
+I resolved this by using the larger size brass rod & part sanding the other side away on a belt sander to give it a flat surface half way up one side. I even got told off as 1 week later my girlfriend asked me why everything was covered in gold dust????? "I dont know, thats strange"  I missed the layer of brass dust all over the plants...oops
+────────────────────────────────────────────────────────────────────────
+Post #103  (forum post #726153)
+Author    : Bigturc
+Date      : Nov 28, 2008 at 2:29 PM
+────────────────────────────────────────────────────────────────────────
+
+Lee .. not sure who this Beaz here, but hopefully he'll chime in!
+
+Guy .. That's a neat trick .. at least, it would help staying in place .. so you had your rod sitting in the trench right? So that means, they don't align properly at the end of the piston? I also noticed you didn't put those rods on your canon, was that left on purpose?
+────────────────────────────────────────────────────────────────────────
+Post #104  (forum post #726182)
+Author    : Guy Cowen
+Date      : Nov 28, 2008 at 3:18 PM
+────────────────────────────────────────────────────────────────────────
+
+I did consider it but got carried away with the painting & never bothered in the end. If I did it again I would add them, "wink wink". I considered using long panel pins that had been ground flat at each end!!!!!!
+────────────────────────────────────────────────────────────────────────
+Post #105  (forum post #726191)
+Author    : Bigturc
+Date      : Nov 28, 2008 at 3:35 PM
+────────────────────────────────────────────────────────────────────────
+
+Alright alright, I'll make sure to put them on! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ Good things you guys are pushing me .. I know I won't regret it!
+────────────────────────────────────────────────────────────────────────
+Post #106  (forum post #727023)
+Author    : Bigturc
+Date      : Nov 29, 2008 at 10:11 PM
+────────────────────────────────────────────────────────────────────────
+
+Robiwon said:
+
+			Cool. Would also like to see some shots on how your going to wire the model up. Are you going to do a battery power supply or a wall wart? And, are you doing a clear yellow visor for Luke?
+		
+
+Click to expand...
+
+About the clear visor .. I didn't do it cause I have no idea of how to do that?! If anyone has material for this or has extra of these, I'd be happy to add it on my Luke .. reall y happy actually! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #107  (forum post #727044)
+Author    : Bigturc
+Date      : Nov 29, 2008 at 11:51 PM
+────────────────────────────────────────────────────────────────────────
+
+Small update .. I finally completed the engine lighting .. finished all filters and finally primed the engine properly.  
+
+Also, a preview of the engine cans now lit .. 
+
+And I thought it would be fun to show what I used to primer and eventually base coat the wings
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #108  (forum post #727394)
+Author    : Bigturc
+Date      : Nov 30, 2008 at 12:50 PM
+────────────────────────────────────────────────────────────────────────
+
+Well, that was exactly the info and pictures I was looking for .. wow!!!
+
+I'm definitely going for the better finished version .. as anyway, my cockpit is already off! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Man, no wonder you guys have so much infos with all these refs pics .. did you take those yourself or is that part of unpublished pictures yet?
+
+What's the diamond shape red things in the engine? Since my wings are not yet closed, perhaps I can still change my way of doing the red stuff before closing it?
+
+Thank you sooo much!
+────────────────────────────────────────────────────────────────────────
+Post #109  (forum post #727415)
+Author    : -... . .- --..
+Date      : Nov 30, 2008 at 1:28 PM
+────────────────────────────────────────────────────────────────────────
+
+Bigturc said:
+
+			Man, no wonder you guys have so much infos with all these refs pics .. did you take those yourself or is that part of unpublished pictures yet?
+		
+
+Click to expand...
+
+These are cropped from a set of pictures taken by Uwe Fischer:
+
+http://www.phoxim.de/uwe_fischer_xwing/uwe_fischer_xwing1.html
+
+That paragraph at the bottom says:
+
+Uwe Fischer's collection of studio model photographs is very comprehensive.  Here you will find only a small selection. If you would like to have pictures, please email directly to Uwe: 01ufisch@arcor.de
+
+Bigturc said:
+
+			What's the diamond shape red things in the engine? Since my wings are not yet closed, perhaps I can still change my way of doing the red stuff before closing it?
+		
+
+Click to expand...
+
+There are two heat sinks (click the pic for a link to one source):
+
+[IMAGE: 619-0093.jpg]
+
+stacked on top of each other in the hero engines, the second one offset just a bit to fill the gaps of the one in front. The V3 rear engine casting has only one of these heat sinks. Again, not a biggie unless you're trying to be uber-accurate to the original miniatures.
+
+Bigturc said:
+
+			Thank you sooo much!
+		
+
+Click to expand...
+
+You're welcome! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #110  (forum post #728502)
+Author    : Bigturc
+Date      : Dec 1, 2008 at 11:21 PM
+────────────────────────────────────────────────────────────────────────
+
+A small update for my fans out there! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Wings are almost all done on the primer side .. I just have to pass over some areas that are not totally covered.  And I'm damn happy with it!! I'll probably do a full photo shoot of my X in black when all is done!
+
+ALSO, I'm happy to say my circuit board is now ready!!! All 4 engines are oscillating independently .. yeah, I know I could have used one oscillation for all 4 but I felt is was worth the price tag : under 10$ of material for the whole wiring!!! Around 3 hours of work to put it together!
+
+A huge thanks to my buddy Fred who showed me everything he could to get me to understand how electronics actually works! lolll He's the one who ended up building the system for me .. hey, I paid the pizza!!! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ PS Now I know how to do it for my Zorg's 9D9 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: medium.jpg]
+ 
+[IMAGE: medium.jpg]
+ 
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #111  (forum post #731375)
+Author    : darth_myeek
+Date      : Dec 5, 2008 at 1:58 PM
+────────────────────────────────────────────────────────────────────────
+
+Friday Bump.
+────────────────────────────────────────────────────────────────────────
+Post #112  (forum post #732532)
+Author    : Bigturc
+Date      : Dec 7, 2008 at 10:11 AM
+────────────────────────────────────────────────────────────────────────
+
+darth_myeek said:
+
+			Friday Bump.
+		
+
+Click to expand...
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Well, I'm happy to say I'm almost cleared of show stopper!!! I finally dared myself in doing the last step I thought to a clean build and that was to realign the fuselage properly.  AS you can see in the pictures, I was suffering the same problem of length that was fixed on the RI by Max Zephyr for Kurt's build here:
+
+http://www.resinilluminati.com/showpost.php?p=49784&postcount=13
+
+I used the same solution which straighten the fuselage right away!!!! THANKS MAX!! Whoever you are, I had no idea how to handle this prior to reading your thread 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+You can see the before and after shot, also, you can see since I had already fixed the backplate on the fuselage, I had to sand about 1cm off to have the back align properly.
+
+Note that I used a cut away coat hanger for my alignment rods!
+
+FINALLY!!!! A look at my X that stays pretty much closed all by itself now!! Wouhou!!
+
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #113  (forum post #737674)
+Author    : Bigturc
+Date      : Dec 11, 2008 at 7:29 PM
+────────────────────────────────────────────────────────────────────────
+
+Another step done .. fixing the cockpit into the fusillage.
+
+I played around with the paint for the canopy .. I try to inspire myself from the pictures I had.  I think it's the big x-wing though .. but seriously, I just don't care anymore! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Pictures show my test paint on an old ERT kit .. it's not perfect, but it will do as I have not enough experience in color mixing to detect the missing colors in the final mix.
+
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #114  (forum post #737683)
+Author    : Bigturc
+Date      : Dec 11, 2008 at 7:35 PM
+────────────────────────────────────────────────────────────────────────
+
+Drilled the socket for my stand.
+
+After drilling my hole, the hex screw would fit directly in the thick resin  .. but in the long run, I figured the resin would come lose on its thread so might as well epoxy glue a nut in there?!? (NOTE I'll wait for a confirmation of my strategy before epoxy'ing it! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Anyway, again, I've never seen any inside shot in any build .. so if you have any tips or you know this is a bad idea, fire them away!
+
+Cheers
+
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #115  (forum post #738977)
+Author    : Bigturc
+Date      : Dec 13, 2008 at 11:54 AM
+────────────────────────────────────────────────────────────────────────
+
+Fiber optics are very hard to photograph .. but this gives you a general idea.
+
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #116  (forum post #738984)
+Author    : darth_myeek
+Date      : Dec 13, 2008 at 12:02 PM
+────────────────────────────────────────────────────────────────────────
+
+BigT,
+
+Looking Awesome!
+
+All this effort is definitely paying off.  
+
+-DM
+────────────────────────────────────────────────────────────────────────
+Post #117  (forum post #739047)
+Author    : MonsieurTox
+Date      : Dec 13, 2008 at 2:37 PM
+────────────────────────────────────────────────────────────────────────
+
+Awesome job, I would epoxy the nut, if you fit the screw directly in the resin you will get some troubles over time because the whole model is quite heavy...
+────────────────────────────────────────────────────────────────────────
+Post #118  (forum post #739076)
+Author    : Clerval
+Date      : Dec 13, 2008 at 3:51 PM
+────────────────────────────────────────────────────────────────────────
+
+Having looked at the socket for the stand, I wonder if it would be possible to have someone manufacture the 'cover plate' that's underneath (just rear of the point you've opened up), so you could remove what's currently there and use that as your access and mounting point/stand area; you'd have the ability to re-cover the area if you want to display it differently. Or is there a location issue which is making you put the point a bit forward?
+
+Even though it's a minor opening, that angle of the sweep underneath the X has always been a cool bit of the silhouette from the profile, it's so clean. Would be a shame to lose it, I think.
+────────────────────────────────────────────────────────────────────────
+Post #119  (forum post #739109)
+Author    : Bigturc
+Date      : Dec 13, 2008 at 5:04 PM
+────────────────────────────────────────────────────────────────────────
+
+darth_myeek said:
+
+			BigT,
+
+Looking Awesome!
+
+All this effort is definitely paying off.  
+
+-DM
+		
+
+Click to expand...
+
+Thanks man,that's much appreciated!
+
+MonsieurTox said:
+
+			Awesome job, I would epoxy the nut, if you fit the screw directly in the resin you will get some troubles over time because the whole model is quite heavy...
+		
+
+Click to expand...
+
+Exactly what I thought, thanks for your input on this as I was waiting on a confirmation!
+
+Clerval said:
+
+			Having looked at the socket for the stand, I wonder if it would be possible to have someone manufacture the 'cover plate' that's underneath (just rear of the point you've opened up), so you could remove what's currently there and use that as your access and mounting point/stand area; you'd have the ability to re-cover the area if you want to display it differently. Or is there a location issue which is making you put the point a bit forward?
+
+Even though it's a minor opening, that angle of the sweep underneath the X has always been a cool bit of the silhouette from the profile, it's so clean. Would be a shame to lose it, I think.
+		
+
+Click to expand...
+
+A cover plaque with threads into it would be a great idea .. but it won't be for this build 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Really, the location of the hole was taken from different build threads I looked at here and on the RI .. I supposed it was the most balanced anchor point on the wing so I copycat'd it! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #120  (forum post #739522)
+Author    : Robiwon
+Date      : Dec 14, 2008 at 1:16 PM
+────────────────────────────────────────────────────────────────────────
+
+Cockpit looks great all lit up! You are doing a fantastic job! :thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #121  (forum post #739527)
+Author    : MonsieurTox
+Date      : Dec 14, 2008 at 1:33 PM
+────────────────────────────────────────────────────────────────────────
+
+Clerval said:
+
+			Having looked at the socket for the stand, I wonder if it would be possible to have someone manufacture the 'cover plate' that's underneath (just rear of the point you've opened up), so you could remove what's currently there and use that as your access and mounting point/stand area; you'd have the ability to re-cover the area if you want to display it differently. Or is there a location issue which is making you put the point a bit forward?
+		
+
+Click to expand...
+
+ 
+
+That's what I did on my first X-Wing, each cover plates were removable to access all the mouting points (the fact is in 2 years I always displayed it by the same mounting point :lol). I plan to do the same on my other X-Wing.
+
+That's better to scratch them because they will fit the fuselage angles better than the ones provided with the kit (for the side ones) and they are easy and quick to do...
+────────────────────────────────────────────────────────────────────────
+Post #122  (forum post #739835)
+Author    : Bigturc
+Date      : Dec 15, 2008 at 12:46 AM
+────────────────────────────────────────────────────────────────────────
+
+Small update .. 
+
+R2 has been rigged to the lighting system and is now wrapped and ready for the paint job.
+
+[IMAGE: large.jpg]
+
+Added a resin strip in the corner as the mounting frame would leave the innards open when I was closing the fuselage.  This will be properly bondoed shut when I'll finally close it all before painting.
+
+[IMAGE: large.jpg]
+
+I began by fitting the nut in the bolt, then ca glued it in the pre-made hole. Then I used Epoxy and filled the rest and around the nut.  Looks pretty solid to me. You can also notice the groove I did for both my blue and red LEDs to go into.
+
+[IMAGE: large.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #123  (forum post #739840)
+Author    : Bigturc
+Date      : Dec 15, 2008 at 1:14 AM
+────────────────────────────────────────────────────────────────────────
+
+And here's a better look on the closed fuselage.  I'm so glad I decided to use the aligning pins .. this is saving me major headaches!!!!
+
+Nothing is fixed yet .. neither are the wing mounts or wings themselves. It's just to give a general idea!
+
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+ 
+
+[IMAGE: large.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #124  (forum post #739852)
+Author    : Max Zephyr
+Date      : Dec 15, 2008 at 2:13 AM
+────────────────────────────────────────────────────────────────────────
+
+Bigturc said:
+
+			I used the same solution which straighten the fuselage right away!!!! THANKS MAX!! Whoever you are, I had no idea how to handle this prior to reading your thread 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+Your most welcome! Glad the build notes came in handy. Your build up is looking great.
+────────────────────────────────────────────────────────────────────────
+Post #125  (forum post #739967)
+Author    : Guy Cowen
+Date      : Dec 15, 2008 at 7:19 AM
+────────────────────────────────────────────────────────────────────────
+
+Your doing an amazing job, keep up the great work
+────────────────────────────────────────────────────────────────────────
+Post #126  (forum post #740115)
+Author    : Bigturc
+Date      : Dec 15, 2008 at 10:45 AM
+────────────────────────────────────────────────────────────────────────
+
+Max Zephyr said:
+
+			Your most welcome! Glad the build notes came in handy. Your build up is looking great.
+		
+
+Click to expand...
+
+Oh they did .. thanks again for doing that!!
+
+Guy Cowen said:
+
+			Your doing an amazing job, keep up the great work
+		
+
+Click to expand...
+
+Guy, I'll come back to your build so often once the paint job starts!
+
+Once again guys, if you see anything that doesn't make sense, please let me know, I always wait some time before moving on to bigger steps in case my photo would show something that is not right!
+────────────────────────────────────────────────────────────────────────
+Post #127  (forum post #740390)
+Author    : Bigturc
+Date      : Dec 15, 2008 at 3:13 PM
+────────────────────────────────────────────────────────────────────────
+
+Ok, so I'm ready to close the fuselage .. but since the wing mounts need to be put into it before closing it .. it will create some problem with sanding around them.
+
+So, what I'm thinking is to actually close the fuselage first, bondo all the seam properly.  After that, remove the small lips inside the wing mounts and slide them in.  Anyway, since I have electronic wires and mounting rods, I don't want to leave a gap (hero style I think) between the mount and the fuselage.
+
+Does that make any sense or I'm on crack and missing something obvious? Thanks for any fast input on this.
+────────────────────────────────────────────────────────────────────────
+Post #128  (forum post #741232)
+Author    : Bigturc
+Date      : Dec 16, 2008 at 12:29 PM
+────────────────────────────────────────────────────────────────────────
+
+Fuselage closed.  It took a long time sanding everything down, there's still some imperfection along the joint but seriously .. I'm way too picky.
+
+The only thing bugging me now, is that the putty may have covered the nose line that goes all around .. and without a scribing tool, I'm affraid I can't do much that would look good .. 
+
+I'll probably have everything primered tonight.
+
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+ 
+[IMAGE: large.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #129  (forum post #741390)
+Author    : MonsieurTox
+Date      : Dec 16, 2008 at 2:31 PM
+────────────────────────────────────────────────────────────────────────
+
+Since you havent used the Hero wing blocks I wouldnt be worried about the nose line. Actually this line was not scribbed but that was a joint on the Hero models the nose was removable to access the front mouting point). This line doesnt exist on the pyro models.
+
+Anyway great job ! This is not an easy job to get it aligned !
+────────────────────────────────────────────────────────────────────────
+Post #130  (forum post #741409)
+Author    : Bigturc
+Date      : Dec 16, 2008 at 2:50 PM
+────────────────────────────────────────────────────────────────────────
+
+Yeah, exactly has I thought!! :rolleyes
+
+No but seriously, I had no clue! LOL  :confused Thanks for the info .. block has been glued now .. right on the fuselage ..
+
+I've long realised that it wouldn't be fully accurate to any of the Red5 out there.  Still, it will be MY creation and not a commission and for that, I'm truly proud of it!
+────────────────────────────────────────────────────────────────────────
+Post #131  (forum post #764461)
+Author    : Robiwon
+Date      : Jan 14, 2009 at 7:23 PM
+────────────────────────────────────────────────────────────────────────
+
+Bump for an update. Hows it coming along. I should have my V2 next week. Need the updates!
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #132  (forum post #764577)
+Author    : Bigturc
+Date      : Jan 14, 2009 at 9:32 PM
+────────────────────────────────────────────────────────────────────────
+
+My bird felt on the floor and exploded, so this project is cancelled!
+
+Ok, just kidding .. I've had a load of crap in my life lately so this has been put on standby for now! Plus, I just can't paint so I'm really stuck at the moment .. hopefully, I won't have to wait till summer to resume work on it ...
+────────────────────────────────────────────────────────────────────────
+Post #133  (forum post #765182)
+Author    : Robiwon
+Date      : Jan 15, 2009 at 12:40 PM
+────────────────────────────────────────────────────────────────────────
+
+My heart dropped when I read the first line! Painting takes practise and you have done a great job so far. Plus, it's not like an X-Wing has the shine of a Ferrari!
+────────────────────────────────────────────────────────────────────────
+Post #134  (forum post #1209266)
+Author    : Bigturc
+Date      : May 3, 2010 at 7:16 PM
+────────────────────────────────────────────────────────────────────────
+
+Well well well ...
+
+Look what thread is resurrected from the dead ...
+
+I'm happy to report that I'm back on this bad boy!!! Thanks to a good friend of mine who've brought me back to my SS love!
+
+Just added the canon lines with 1/32" brass rod.
+
+[IMAGE: large.jpg]
+
+[IMAGE: large.jpg]
+
+Hit it with more primer where I had left off more than a year ago!
+
+[IMAGE: large.jpg]
+
+[IMAGE: large.jpg]
+
+Next step, backwing lines with 1/16" brass rod and finishing shooting one canon and the back of the fuselage!!!
+────────────────────────────────────────────────────────────────────────
+Post #135  (forum post #1211891)
+Author    : Bigturc
+Date      : May 5, 2010 at 9:02 PM
+────────────────────────────────────────────────────────────────────────
+
+Hopefully someone will be able to help me .. 
+
+I've spent the past hours looking through XWing threads and couldn't find that info .. I know I've read it once .. somewhere ...
+
+On the side of Red 5 .. there's those 5 "exhaust ports" and the attach point cover ... I'm trying to find reference on the proper way to set them up .. 
+
+Ports:
+
+  - exact location
+
+  - material - I figured 1/16" aluminium rods?
+
+Cover .. here's a little montage from various build threads and image I found around ...
+
+Can anyone confirm or give me more info on the cover configuration the port material? Which setup is the best one?
+
+[IMAGE: large.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #136  (forum post #1224462)
+Author    : Bigturc
+Date      : May 16, 2010 at 6:15 PM
+────────────────────────────────────────────────────────────────────────
+
+Well .. it's tough to get tips these days!
+
+So I moved on with the build .. I'm moving more than ever on this .. and I actually begin to believe I'll be able to one day get to the paint on this bird!
+
+Side ports have been added below the canopy .. also added the wing trench tubing and on a tip from a good friend, I've also decided to add a pin to each wing's canon to make sure they don't fall off easily .. 
+
+I also completed my stand .. GF's style with an IKEA lamp!
+
+[IMAGE: large.jpg]
+
+[IMAGE: large.jpg]
+
+[IMAGE: large.jpg]
+
+[IMAGE: large.jpg]
+
+[IMAGE: large.jpg]
+
+[IMAGE: 124611539.jpg]
+
+[IMAGE: large.jpg]
+
+[IMAGE: large.jpg]
+
+[IMAGE: large.jpg]
+
+[IMAGE: large.jpg]
+
+[IMAGE: large.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #137  (forum post #1224501)
+Author    : Bigturc
+Date      : May 16, 2010 at 7:16 PM
+────────────────────────────────────────────────────────────────────────
+
+Gentlemen, I present you Black 5 ...
+
+[IMAGE: large.jpg]
+
+[IMAGE: large.jpg]
+
+[IMAGE: large.jpg]
+
+[IMAGE: large.jpg]
+
+[IMAGE: large.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #138  (forum post #1224703)
+Author    : vaderdarth
+Date      : May 17, 2010 at 6:39 AM
+────────────────────────────────────────────────────────────────────────
+
+Sweet build.  Love the lighting.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #139  (forum post #1224874)
+Author    : Bigturc
+Date      : May 17, 2010 at 9:38 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks VD,
+
+I'm a little late now to the V3 game .. well .. I wasn't when I first began that build .. but anyway .. perhaps at some point, someone will find useful information to that WIP thread!!! 
+
+I'm really motivated to finish it now .. this week, my goal is to shoot this bad boy in (gloss?) white paint then steel whool it and start airbrushing from there ...
+────────────────────────────────────────────────────────────────────────
+Post #140  (forum post #1224906)
+Author    : R2B9
+Date      : May 17, 2010 at 9:57 AM
+────────────────────────────────────────────────────────────────────────
+
+I spent my lunch hour reading this thread, all for the first time... what a journey!
+
+If I could offer one piece of advice:  Try out the  black primer/white gloss/steel wool on another kit or scrap piece (with raised detail) first.  It will give you a feel for how much or how little to do on your X.
+
+I'm still puzzling out how to do the amber visor, too. It's really tough to make it so it doesn't look too thick.
+────────────────────────────────────────────────────────────────────────
+Post #141  (forum post #1224939)
+Author    : Trekkie313
+Date      : May 17, 2010 at 10:24 AM
+────────────────────────────────────────────────────────────────────────
+
+So how much was the kit?
+────────────────────────────────────────────────────────────────────────
+Post #142  (forum post #1224953)
+Author    : mslz22
+Date      : May 17, 2010 at 10:33 AM
+────────────────────────────────────────────────────────────────────────
+
+Trekkie313 said:
+
+			So how much was the kit?
+		
+
+Click to expand...
+
+This is currently out of production but a short run may be available soon, please PM me for info.
+
+Bigturc, great job on this,  I hope it was fun to build...I still do not have one built for myself......someday...
+
+thanks 
+
+Mike S
+────────────────────────────────────────────────────────────────────────
+Post #143  (forum post #1225106)
+Author    : Bigturc
+Date      : May 17, 2010 at 12:29 PM
+────────────────────────────────────────────────────────────────────────
+
+Mike .. 
+
+Thanks bud .. this has been not only fun .. but my introduction to the SS and garage kit world and I loved it :  I couldn't think of a better kit for this purpose!!!
+
+Hopefully, my paint job will be on par with the time I spent building and tweaking my build!
+────────────────────────────────────────────────────────────────────────
+Post #144  (forum post #1225117)
+Author    : WinHac
+Date      : May 17, 2010 at 12:37 PM
+────────────────────────────────────────────────────────────────────────
+
+Lighting looks great.
+────────────────────────────────────────────────────────────────────────
+Post #145  (forum post #1226760)
+Author    : Bigturc
+Date      : May 18, 2010 at 4:45 PM
+────────────────────────────────────────────────────────────────────────
+
+I had to be an idiot at some point ...
+
+I had the perfect day to shoot my white today .. so I went ahead with Krylon gloss white .. did the 4 cannons and the 4 trusters .. Result looks pretty good on the cannons .. but not so much on the trusters where there's little cracks all over them .. plus some kind of pin heads .. can anyone shed some lights if there's something fundamental I did wrong?
+
+I used black Dupli-Color as my base primer .. and Krylon Fusion as my white coat!
+
+[IMAGE: medium.jpg]
+
+[IMAGE: medium.jpg]
+
+[IMAGE: medium.jpg]
+
+[IMAGE: medium.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #146  (forum post #1226773)
+Author    : MonsieurTox
+Date      : May 18, 2010 at 4:57 PM
+────────────────────────────────────────────────────────────────────────
+
+That's looking very good !
+
+As for the problem with the white paint on the thruster, I dont know. I have the same problem from time to time with my primer (can be styrene or resin model, I had the problem with both) and I dont know why it's perfect on other parts. Maybe you havent shaked the can enough ? 
+
+As for the port cover, you can trust the left screen cap, the right isnt Red 5. 
+
+I wouldnt paint it glossy white though. The ILM X-Wings were painted with Krylon Platinium gray (correct me if I'm wrong, but it's OOP or has a different color today). It was not a glossy paint and it was an off-white. The glossy paint story come from Bill George who painted his X-Wing from his own collection this way. And the guy never worked on the original X-Wings...
+────────────────────────────────────────────────────────────────────────
+Post #147  (forum post #1226809)
+Author    : Bigturc
+Date      : May 18, 2010 at 5:19 PM
+────────────────────────────────────────────────────────────────────────
+
+Julien .. of course, that kind of tip comes in an hour after I actually shot my bird!!! I need direction here .. what should I do from here .. obviously, I've already shot those 8 pieces gloss white .. I was planing on hitting them with steel whool after .. 
+
+But I'm up for any suggestion now! Should I move on? Remove the paint and probably mess everything up? shoot over it with something else? Throw the whole thing in the garbage?
+────────────────────────────────────────────────────────────────────────
+Post #148  (forum post #1226813)
+Author    : CessnaDriver
+Date      : May 18, 2010 at 5:24 PM
+────────────────────────────────────────────────────────────────────────
+
+Let them dry well and try the steel wool out. Can't hurt.
+────────────────────────────────────────────────────────────────────────
+Post #149  (forum post #1226816)
+Author    : Bigturc
+Date      : May 18, 2010 at 5:25 PM
+────────────────────────────────────────────────────────────────────────
+
+Oh and about the port cover .. You can see how I've done them with brass tubing! The result is not exactly what I see on pictures where it seems more round'ish .. do we know what was used on the original for these things?
+────────────────────────────────────────────────────────────────────────
+Post #150  (forum post #1226886)
+Author    : MonsieurTox
+Date      : May 18, 2010 at 6:38 PM
+────────────────────────────────────────────────────────────────────────
+
+Bigturc said:
+
+			Julien .. of course, that kind of tip comes in an hour after I actually shot my bird!!! I need direction here .. what should I do from here .. obviously, I've already shot those 8 pieces gloss white .. I was planing on hitting them with steel whool after .. 
+
+But I'm up for any suggestion now! Should I move on? Remove the paint and probably mess everything up? shoot over it with something else? Throw the whole thing in the garbage?
+		
+
+Click to expand...
+
+ 
+
+I think you can remove the paint. It's resin and solvent wont hurt it (unlike styrene). If you dont want to risk anything, you can just let it dry then put your new flat base coat on them. It will be a bit thick, but I guess it wont be very noticeable, that wont be a problem on the cannons, maybe the details of the engines will be a bit softer. Fortunatly you just have painted only those parts so far ! 
+
+Krylon isnt supplied here, so I dont know the brand, but maybe you should try to get a flat off-white from the Krylon line ? Maybe someone familiar with the Krylon line could help here, cant be of much help about that, sorry. Anyway if you want to go with a pure white, let's go I think that's what they used at least on Blue Leader (Red 2), but a flat one !
+
+As for the little round things, they are female plugs for connectors (for the engine lights, cannons FO and the motorized armature). Those are on both sides, close to the mounting points and on the back (sherman) close to the rear mounted point. I dont know where was those connectors when they were mounted from the nose.
+
+I hope it helps, and sorry to be late.
+────────────────────────────────────────────────────────────────────────
+Post #151  (forum post #1226903)
+Author    : mslz22
+Date      : May 18, 2010 at 6:49 PM
+────────────────────────────────────────────────────────────────────────
+
+I know that someone else was complaining that the new formulation of Krylon fusion in gloss was hard to shoot if not done in very, very thin layers.  I think they may have had the same problems with pinheads etc.....
+
+I would try to strip these parts, i have had good luck with stripping paint from resin with no damage to the resin, but with the fusion do it soon, or else it may really set up.
+
+If all else fails and it's just these 8 parts,  I can get you replacements.
+
+Good luck
+
+mike
+────────────────────────────────────────────────────────────────────────
+Post #152  (forum post #1228048)
+Author    : Bigturc
+Date      : May 19, 2010 at 4:24 PM
+────────────────────────────────────────────────────────────────────────
+
+Mike,
+
+Thanks for the offer .. I've put so much time in each of these parts .. I'd really prefer not doing them again so I'll figure things out and move on with my errors.
+
+So .. I'm still not sure what base coat I'm gonna hit the X with.  I'm not sure anymore about gloss white .. so I could always get another color from Dupli-Color or Krylon .. but I'm just coming back from the paint store and couldn't find anything that looked good.
+
+I'm still very open to suggestions from anyone who would have shot one with rattle cans? Should I just go Krylon Mate white?
+────────────────────────────────────────────────────────────────────────
+Post #153  (forum post #1228076)
+Author    : Bigturc
+Date      : May 19, 2010 at 4:41 PM
+────────────────────────────────────────────────────────────────────────
+
+Julien, thanks for the info about those ports .. Hopefully, my interpretation is not too far from it!
+
+Anyone ever heard anything about any of these 
+
+- Tamiya spray paint Insignia White AS20
+
+- Tamiya Racing White TS7
+────────────────────────────────────────────────────────────────────────
+Post #154  (forum post #1228143)
+Author    : MonsieurTox
+Date      : May 19, 2010 at 5:32 PM
+────────────────────────────────────────────────────────────────────────
+
+Bigturc said:
+
+			Julien, thanks for the info about those ports .. Hopefully, my interpretation is not too far from it!
+
+Anyone ever heard anything about any of these 
+
+- Tamiya spray paint Insignia White AS20
+
+- Tamiya Racing White TS7
+		
+
+Click to expand...
+
+ 
+
+Hey BT, 
+
+I dont know for the Tamiya Racing White (I guess it's glossy), but I used the AS20 for my Red 4 : 
+
+http://www.therpf.com/showpost.php?p=879580&postcount=73
+
+As you can see this is not the right hue, and that's not white enough, so I did my own mix and I covered the AS20. 
+
+I eventually used the AS 20 to paint the Lambda Shuttle has it's looking right.
+────────────────────────────────────────────────────────────────────────
+Post #155  (forum post #1228186)
+Author    : Bigturc
+Date      : May 19, 2010 at 5:58 PM
+────────────────────────────────────────────────────────────────────────
+
+Yeah .. I can see .. it looks way too grey to my (untrained) eyes!!! 
+
+That's so weird .. I know it doesn't mean much, but here's the sample of the color on Tamiya's web site : 
+
+[IMAGE: 86520.gif]
+
+I'm still trying to figure out the color I should use now ... any other suggestions? I'd really want to not have to airbrush the base color!!!
+────────────────────────────────────────────────────────────────────────
+Post #156  (forum post #1228212)
+Author    : Bigturc
+Date      : May 19, 2010 at 6:13 PM
+────────────────────────────────────────────────────────────────────────
+
+In the meantime, can anyone explain to me the idea behind the steel whool technique? 
+
+Is it to just dull down the base coat? To get the raised details scrubed so that the primer shows through it? Or just to get a general feeling of worn out look.
+
+I've tested it on a scrap piece and I see the result .. I'm not convinced .. any image I could look at that describes the process?
+
+** EDIT ***
+
+After looking at Julien's Red4 pic .. and the Red5 ref pics I have .. I guess the idea behind the steel whool is to use it over the red stripes or any other brushed paint to rub through it to reach the base coat? That would make more sense to me .. man am I newb!!! Can anyone confirm either this or the fact that I'm noob .. it's all good! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #157  (forum post #1228218)
+Author    : MonsieurTox
+Date      : May 19, 2010 at 6:17 PM
+────────────────────────────────────────────────────────────────────────
+
+Bigturc said:
+
+			Yeah .. I can see .. it looks way too grey to my (untrained) eyes!!! 
+
+That's so weird .. I know it doesn't mean much, but here's the sample of the color on Tamiya's web site : 
+
+[IMAGE: 86520.gif]
+
+I'm still trying to figure out the color I should use now ... any other suggestions? I'd really want to not have to airbrush the base color!!!
+		
+
+Click to expand...
+
+ 
+
+Yeah lol that's why I ordered several cans of it, I thought it was almost white, but no lol 
+
+I havent looked for another option as I was in a rush to paint it, and doing my own mix and airbrushing the whole thing was the best way for me (plus the AS20 is pretty thick, so I was not wanting to put another thick coat from a spray can).
+
+Did you try to search for Krylon platinium gray ? Maybe it's sill in production.
+────────────────────────────────────────────────────────────────────────
+Post #158  (forum post #1228251)
+Author    : Bigturc
+Date      : May 19, 2010 at 6:48 PM
+────────────────────────────────────────────────────────────────────────
+
+I've looked around the net but can't seem to find anything on it!
+
+The more I think about it .. the more I want to just find a mate off-white color and shoot over everything I have right now.  The only thing I'm affraid now is that shooting a color over the black primer on some part, and then over the gloss white on others my end up with different tone for the base coat.  But again, I don't want to shoot another coat of primer over the white since it's gonna end up pretty thick I guess!!!
+
+So many questions ...
+────────────────────────────────────────────────────────────────────────
+Post #159  (forum post #1228274)
+Author    : MonsieurTox
+Date      : May 19, 2010 at 7:09 PM
+────────────────────────────────────────────────────────────────────────
+
+Bigturc said:
+
+			I've looked around the net but can't seem to find anything on it!
+
+The more I think about it .. the more I want to just find a mate off-white color and shoot over everything I have right now.  The only thing I'm affraid now is that shooting a color over the black primer on some part, and then over the gloss white on others my end up with different tone for the base coat.  But again, I don't want to shoot another coat of primer over the white since it's gonna end up pretty thick I guess!!!
+
+So many questions ...
+		
+
+Click to expand...
+
+You shouldnt have any problem if you put a consistent coat of your new paint. But just to be sure, just shoot a coat of flat black (Tamiya) with your airbrush on the engines and cannons and you'll be OK. No need to put another coat of primer !
+────────────────────────────────────────────────────────────────────────
+Post #160  (forum post #1228281)
+Author    : Bigturc
+Date      : May 19, 2010 at 7:16 PM
+────────────────────────────────────────────────────────────────────────
+
+Good idea .. I'll do just that!
+
+Now, to find that base coat ...
+
+PS Julien .. on devrait s'envoyer des emails en francais .. de toute facon, on est les seuls a ecrire back and forth dans mon thread! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ D'ailleurs, je reviens d'un sejour de 15 jours a Paris .. je suis alle faire une formation pour mon boulot!!! Sympathique ville ... on est sorti dans le 2e arrondissement!!! Y'avait de l'action!! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #161  (forum post #1228487)
+Author    : GF
+Date      : May 19, 2010 at 11:52 PM
+────────────────────────────────────────────────────────────────────────
+
+Al,
+
+I pm'd you, 
+
+Your side panels are glued to close to the wing opening, look closely at red 5 side photo screen caps, they should be closer to the dot,  when you will paint the red panel it will be very noticeable.
+
+I had that corrected on my red 5.
+
+GFollano
+────────────────────────────────────────────────────────────────────────
+Post #162  (forum post #1229486)
+Author    : MonsieurTox
+Date      : May 20, 2010 at 7:20 PM
+────────────────────────────────────────────────────────────────────────
+
+Bigturc said:
+
+			Good idea .. I'll do just that!
+
+Now, to find that base coat ...
+
+PS Julien .. on devrait s'envoyer des emails en francais .. de toute facon, on est les seuls a ecrire back and forth dans mon thread! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ D'ailleurs, je reviens d'un sejour de 15 jours a Paris .. je suis alle faire une formation pour mon boulot!!! Sympathique ville ... on est sorti dans le 2e arrondissement!!! Y'avait de l'action!! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+ 
+
+Ah !! Je ne savais pas que tu parlais français ! Tu es Québécois ou Français ? C'est vrai que c'est plus simple pour moi, mais bon c'est un peu unfair pour les autres utilisateurs ! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ Hehe oui le 2ème est bien sympa, en plus avec les beaux jours, c'est encore plus sympa de se ballader sur les quais, le long de la Seine ! 
+
+Pour la couche de base, c'est vrai que l'idéal c'est une bombe de peinture, je ne pense pas que Tamiya ait ce qu'il faut. Peut-être que Citadel (pour les wargames) a une teinte de ce style en bombe. L'idéal ce serait un primer off-white pour avoir le côté matt.
+────────────────────────────────────────────────────────────────────────
+Post #163  (forum post #1229868)
+Author    : spinner 44
+Date      : May 21, 2010 at 7:21 AM
+────────────────────────────────────────────────────────────────────────
+
+My apologies to interfere in the thread, but does anyone know if the Salzo V3 will be released in a (more or less) near future?
+────────────────────────────────────────────────────────────────────────
+Post #164  (forum post #1229930)
+Author    : mslz22
+Date      : May 21, 2010 at 8:12 AM
+────────────────────────────────────────────────────────────────────────
+
+Hi Spinner, sorry i thought i had responded to your PM, my apologies, I just sent a PM to you.  I am doing a short run starting now for the open wing one.  Closed wing with landing gear is coming very soon...PM me if interested in either.
+
+thanks and sorry to hijack...
+
+mike
+
+spinner 44 said:
+
+			My apologies to interfere in the thread, but does anyone know if the Salzo V3 will be released in a (more or less) near future?
+		
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #165  (forum post #1230000)
+Author    : Bigturc
+Date      : May 21, 2010 at 9:28 AM
+────────────────────────────────────────────────────────────────────────
+
+Guys,
+
+Please keep MY thread on topic!!
+
+Lol .. just kidding .. Mike, I'm happy to learn you're redoing a run of these beauties .. man, if only I was faster on the build process .. I'd probably order a second one with the wings closed!
+
+On another note, I've put my 4 thrusters in a ziploc bag and shot some Easy off in there and sealed it.  After around 8 hours, the paint has peeled right off all the way back to the primer/resin!
+
+Boy, am I happy .. so back to primer stage!
+
+Thanks for all the suggestions guys, and thanks to GF for the Easy Off tips .. it got me up and running again!!!
+────────────────────────────────────────────────────────────────────────
+Post #166  (forum post #1230001)
+Author    : Bigturc
+Date      : May 21, 2010 at 9:30 AM
+────────────────────────────────────────────────────────────────────────
+
+MonsieurTox said:
+
+			Ah !! Je ne savais pas que tu parlais français ! Tu es Québécois ou Français ? C'est vrai que c'est plus simple pour moi, mais bon c'est un peu unfair pour les autres utilisateurs ! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ Hehe oui le 2ème est bien sympa, en plus avec les beaux jours, c'est encore plus sympa de se ballader sur les quais, le long de la Seine ! 
+
+Pour la couche de base, c'est vrai que l'idéal c'est une bombe de peinture, je ne pense pas que Tamiya ait ce qu'il faut. Peut-être que Citadel (pour les wargames) a une teinte de ce style en bombe. L'idéal ce serait un primer off-white pour avoir le côté matt.
+		
+
+Click to expand...
+
+Yes sir!
+
+Quebecois de Montreal!! Et oui, completement unfair pour les autres! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ Je dois absolument me trouver cette bombe .. je me demande si je ne devrais pas shooter au airbrush et faire mon mix custom! Mmm .. je vais checker mon hobby shop tantot pour voir ce qu'ils ont!
+────────────────────────────────────────────────────────────────────────
+Post #167  (forum post #1230604)
+Author    : Bigturc
+Date      : May 21, 2010 at 7:41 PM
+────────────────────────────────────────────────────────────────────────
+
+For those who'd care what Easy Off can do ...
+
+[IMAGE: large.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #168  (forum post #1231164)
+Author    : Bigturc
+Date      : May 22, 2010 at 12:33 PM
+────────────────────────────────────────────────────────────────────────
+
+80% done on the base coat .. Reefer White used .. also bought some Caboose Red for the markings which'll come next!
+
+[IMAGE: large.jpg]
+
+ 
+
+[IMAGE: large.jpg]
+
+ 
+
+[IMAGE: large.jpg]
+
+I plan on finishing this tomorrow!
+────────────────────────────────────────────────────────────────────────
+Post #169  (forum post #1233354)
+Author    : Bigturc
+Date      : May 24, 2010 at 12:16 PM
+────────────────────────────────────────────────────────────────────────
+
+Done with the base coat .. but I'll probably even it a little more mostly on the fuselage where I can see some differences in tone.
+
+I began trying to figure out all the stripes and marking and making myself some template for the airbrush!
+
+Wings are not fixed for good right now only for pics!
+
+[IMAGE: large.jpg]
+
+ 
+
+[IMAGE: large.jpg]
+
+ 
+
+[IMAGE: large.jpg]
+
+ 
+
+[IMAGE: large.jpg]
+
+ 
+
+[IMAGE: large.jpg]
+
+ 
+
+[IMAGE: large.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #170  (forum post #1234847)
+Author    : Bigturc
+Date      : May 25, 2010 at 4:55 PM
+────────────────────────────────────────────────────────────────────────
+
+Hey pro painters!
+
+1. I find my base coat super easy to scratch .. it's reefers white acrylic (through the airbrush) .. over a Dupli-Color black primer (which is super tough and real smooth) .. I mean, very easy to scratch .. is that normal?
+
+2. Also, in my quest to start the airbrushing, what's a good method on an acrylic base coat to do the paint chipping? I know some uses watered salt but I figured I'd ask before trying the methods ..
+
+3. Also I was planing on dull coating my paint job after the base markings were done .. but seeing how the base coat chips so easily .. I'm wondering if I shouldn't do it now before doing the markings?
+
+Thanks for any tips guys!
+────────────────────────────────────────────────────────────────────────
+Post #171  (forum post #1234889)
+Author    : Bigturc
+Date      : May 25, 2010 at 5:43 PM
+────────────────────────────────────────────────────────────────────────
+
+Test #1 : wet salt
+
+The result is pretty impressive and really gives a nice look, but I don't think it applies really well to the X-Wing where chip marks are big and round and in simple pattern. Results may not be perfect but I didn't wait for neither the salt to dry or the paint to dry to before rubing it off...
+
+Tutorial found here.
+
+[IMAGE: large.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #172  (forum post #1234897)
+Author    : Bigturc
+Date      : May 25, 2010 at 5:53 PM
+────────────────────────────────────────────────────────────────────────
+
+Test #2 : toothpaste
+
+I kinda remember reading that one somewhere .. but had no idea how to do it.  So I figured applying toothpaste with a toothpick on the model, than shooting over it .. and wipe it off! Again .. much closer to what I want .. but I'm kinda affraid to leave nasty spot from the toothpaste on my base coat ...
+
+Picture's left side : toothpaste
+
+Picture's right side : salt
+
+[IMAGE: large.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #173  (forum post #1234900)
+Author    : Bigturc
+Date      : May 25, 2010 at 5:54 PM
+────────────────────────────────────────────────────────────────────────
+
+Masking has begun on one wing ...
+
+[IMAGE: large.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #174  (forum post #1236339)
+Author    : Bigturc
+Date      : May 26, 2010 at 9:37 PM
+────────────────────────────────────────────────────────────────────────
+
+I just declared war to the toothpaste technique .. god do I hate it! It was a total pain in the arse to remove the toothpaste from the red .. as you can see .. the middle spot got completely washed away .. the other chip marks are not soo bad .. I really wanted to hit this on the nail .. I'll probably redo the red for the center chip ... perhaps I didn't wait long enough for the paint and paste to dry?!?
+
+I think my grey is pretty on spot .. I used my reefer white base color and added some black to it.
+
+The yellow is not cool at all I started from Tamiya yellow, added some brown and white to it .. I should have started from white, added some yellow and perhaps some red to it .. I'll probably try to tone it done with the base coat color .. and see from there .. eventually adding rust to it to be more accurate.
+
+[IMAGE: 124962239.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #175  (forum post #1236341)
+Author    : Bigturc
+Date      : May 26, 2010 at 9:39 PM
+────────────────────────────────────────────────────────────────────────
+
+Is the blue at the tip of the Saturn can the same as the one on the cockpit canopy?
+────────────────────────────────────────────────────────────────────────
+Post #176  (forum post #1236428)
+Author    : ralphee
+Date      : May 27, 2010 at 12:41 AM
+────────────────────────────────────────────────────────────────────────
+
+Buddy bag yourself some latex masking fluid, its super easy to use, and takes seconds to remove after shooting, play around with applicators for it, i use all sorts of picks and brushes to get different effects.
+
+Oh yeah, pretty sure the blue is the same, which TBH, isnt it still Stormy sea as used on the TIE's of ANH?
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #177  (forum post #1236866)
+Author    : BarryZ28
+Date      : May 27, 2010 at 10:57 AM
+────────────────────────────────────────────────────────────────────────
+
+Try the salt technique for paint chips, works great for me.
+
+If the salt bunches up and it will, flatten it out and then spread it around with your hobby knife.
+
+Try to make random patterns as you spread it out.
+
+I haven't tried the latex and sponge applicator technique but have seen wonderful results from it.
+
+Never heard of the tooth paste one though, that's a new one on me.
+
+Sorry, I see you did try the salt trchnique, maybe not so much salt next time.
+
+Less is more.
+────────────────────────────────────────────────────────────────────────
+Post #178  (forum post #1237033)
+Author    : Bigturc
+Date      : May 27, 2010 at 1:13 PM
+────────────────────────────────────────────────────────────────────────
+
+Lee .. I'll get that latex fluid tonight .. man .. why do I always get answers after I mess up?!? 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Barry .. Yeah .. I really liked the salt technique .. but it doesn't really apply to the weathering on the X! SO I'll stick to bigger more manipulable masker! I'd like to try it on something else though ...
+────────────────────────────────────────────────────────────────────────
+Post #179  (forum post #1237291)
+Author    : Bigturc
+Date      : May 27, 2010 at 4:23 PM
+────────────────────────────────────────────────────────────────────────
+
+Here's the wing templates I draw to prepare for paint from what I was seeing on the ref pics.
+
+I think I'm going completely anal .. now, I want to add styrene plates on the wing for those not already there .. I think I just don't want to begin this as the fuselage is not depicting Red 5 anyway .. and there's no way I'd repaint it!
+
+[IMAGE: large.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #180  (forum post #1238382)
+Author    : captain nemo
+Date      : May 28, 2010 at 1:21 PM
+────────────────────────────────────────────────────────────────────────
+
+nice to see another x-wing projekt in progress. 
+
+very nice build indeed.:thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #181  (forum post #1238485)
+Author    : Bigturc
+Date      : May 28, 2010 at 3:13 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks Cap .. each step on this journey brings so many more questions!!! But moving in the right direction .. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #182  (forum post #1241672)
+Author    : Bigturc
+Date      : May 31, 2010 at 8:04 PM
+────────────────────────────────────────────────────────────────────────
+
+Masking done for red markings .. will shoot later tonight ...
+
+[IMAGE: large.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #183  (forum post #1243223)
+Author    : Bigturc
+Date      : Jun 2, 2010 at 12:42 AM
+────────────────────────────────────────────────────────────────────────
+
+Wow .. seems like my last post disappeared!?! I had to redo my wings (3 out of 4 .. since I messed them up) .. 2 of them (top left/bottom right)had their 5 red bars too long (I didn't do my masking properly) .. and the top-right wing had some red bleeding (again from a cheap and poor masking job) over the grey.
+
+No need to tell you I didn't sleep well last night.  I promised myself it would be the last time I do these kind of stupid errors!!! :angry
+
+[IMAGE: large.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #184  (forum post #1243229)
+Author    : Bigturc
+Date      : Jun 2, 2010 at 12:48 AM
+────────────────────────────────────────────────────────────────────────
+
+2 wings out of 3 have been redone .. sanded and redid the base coat + the marking on bottom right.  New base coat over bleeding on top right one and I'll reshoot the grey next. I also tuned down the yellow since it was way off.
+
+[IMAGE: large.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #185  (forum post #1243233)
+Author    : Bigturc
+Date      : Jun 2, 2010 at 12:51 AM
+────────────────────────────────────────────────────────────────────────
+
+Shot the red on the fuselage .. I think it's pretty good .. so if you see anything wrong, let me know guys!
+
+[IMAGE: large.jpg]
+
+ 
+
+[IMAGE: large.jpg]
+
+ 
+
+[IMAGE: large.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #186  (forum post #1244164)
+Author    : Bigturc
+Date      : Jun 2, 2010 at 4:41 PM
+────────────────────────────────────────────────────────────────────────
+
+Guys,
+
+Any one of you gurus can help me with paint reference on this bird? I already have KG's set of pictures of Red 5 but unfortunately, they don't show all angles.  Perhaps a build thread with the ultimate bird based on amazingly secret pictures would do it ... I need a view of the left side of the bird, bottom and more under-wings shot .. anyway .. anything that could help me!
+
+PM me if you have anything that you think could help!
+────────────────────────────────────────────────────────────────────────
+Post #187  (forum post #1250988)
+Author    : Bigturc
+Date      : Jun 8, 2010 at 8:47 AM
+────────────────────────────────────────────────────────────────────────
+
+Does anyone have or know of someone who sells transfers for this bird? I'd be interested in having a set .. 
+
+tx
+────────────────────────────────────────────────────────────────────────
+Post #188  (forum post #1251299)
+Author    : TK4611
+Date      : Jun 8, 2010 at 12:58 PM
+────────────────────────────────────────────────────────────────────────
+
+JBOT do a set, not too sure if they are still available though - might want to call or shoot an email before ordering...
+
+http://www.jbot.ca/space/sw-x.shtml
+────────────────────────────────────────────────────────────────────────
+Post #189  (forum post #1255432)
+Author    : Bigturc
+Date      : Jun 11, 2010 at 7:17 PM
+────────────────────────────────────────────────────────────────────────
+
+I've been looking at this image and I'm convinced that the bottom wing's little squares are actually parallel to the wing's front (90 deg) edge.  Am I wrong on this?
+
+Also .. it doesn't quite fit with the proportions from the picture and of my wing .. the 3rd grey square should have its left side aligned on the wing's hole as seen in the pic.  To do that, I'd have to have my first square over the left side's line.  That's not what I see in the pic either .. so I'll settle for pretty much what I did .. even though I feel it's not accurate at all!
+
+Here's what I mean ... 
+
+[IMAGE: 125487751.jpg]
+
+[IMAGE: 125487711.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #190  (forum post #1255446)
+Author    : JD1
+Date      : Jun 11, 2010 at 7:34 PM
+────────────────────────────────────────────────────────────────────────
+
+It looks more like the V3 wing cut-out extends further forward than on Red 5, and the V3's rear panel line is a little closer to the edge.
+
+The square should be in line with the forward Plastruct piece, so you're actually not as far off as at first glance.
+────────────────────────────────────────────────────────────────────────
+Post #191  (forum post #1255458)
+Author    : Bigturc
+Date      : Jun 11, 2010 at 7:47 PM
+────────────────────────────────────────────────────────────────────────
+
+What about that one? I think it's much better .. after checking more pics I had .. I sincerely think the first square is much forward which gives way better proportions ...
+
+Not sure yet if I should remove the triangle corner on that last square ...
+
+[IMAGE: 125488630.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #192  (forum post #1255465)
+Author    : jockdeboer
+Date      : Jun 11, 2010 at 7:58 PM
+────────────────────────────────────────────────────────────────────────
+
+Rel sells or sold masks.
+────────────────────────────────────────────────────────────────────────
+Post #193  (forum post #1255470)
+Author    : Bigturc
+Date      : Jun 11, 2010 at 8:02 PM
+────────────────────────────────────────────────────────────────────────
+
+Wow .. true .. how did I missed this one!!!
+
+Here's a link for future reference ...
+
+http://www.therpf.com/f13/studio-scale-x-wing-red5-marking-blast-mark-templates-77306/
+────────────────────────────────────────────────────────────────────────
+Post #194  (forum post #1255569)
+Author    : Bigturc
+Date      : Jun 11, 2010 at 10:17 PM
+────────────────────────────────────────────────────────────────────────
+
+I plan on hitting this soon with Future to seal the base paint work. Then, weathering .. scares the &@* out of me! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #195  (forum post #1262559)
+Author    : Bigturc
+Date      : Jun 17, 2010 at 11:12 PM
+────────────────────────────────────────────────────────────────────────
+
+More work done tonight ... all the blue has been shot .. it's way more blue than grey here and a little too dark for my taste .. but at this point, I'll soften it up with white overshoot later in the process .. I think?!
+
+[IMAGE: large.jpg]
+
+ 
+
+[IMAGE: large.jpg]
+
+ 
+
+[IMAGE: large.jpg]
+
+ 
+
+[IMAGE: large.jpg]
+
+ 
+
+[IMAGE: large.jpg]
+
+ 
+
+[IMAGE: large.jpg]
+
+ 
+
+[IMAGE: large.jpg]
+
+ 
+
+[IMAGE: large.jpg]
+
+ 
+
+[IMAGE: large.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #196  (forum post #1262563)
+Author    : Bigturc
+Date      : Jun 17, 2010 at 11:16 PM
+────────────────────────────────────────────────────────────────────────
+
+Found some Future at my local Loblaws .. did some test on my old test ERTL x-wing! About 4 coats on top .. and 7 on the side for a nice solid shine! 
+
+Wow .. this stuff really works!!! Thanks to this article : The Complete Future
+
+[IMAGE: medium.jpg]
+
+ 
+
+[IMAGE: medium.jpg]
+
+ 
+
+[IMAGE: medium.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #197  (forum post #1262567)
+Author    : Bigturc
+Date      : Jun 17, 2010 at 11:20 PM
+────────────────────────────────────────────────────────────────────────
+
+Wow .. I didn't even remember what my cockpit looked like!! It's been more than a year last time I sealed it!!!
+
+[IMAGE: large.jpg]
+
+ 
+
+[IMAGE: large.jpg]
+
+ 
+
+[IMAGE: large.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #198  (forum post #1262568)
+Author    : Bigturc
+Date      : Jun 17, 2010 at 11:22 PM
+────────────────────────────────────────────────────────────────────────
+
+Any feedback and tips would be greatly appreciated!!!
+
+Keep in mind this is my first SS model .. and I also didn't begin any weathering phase yet!
+────────────────────────────────────────────────────────────────────────
+Post #199  (forum post #1269760)
+Author    : Bigturc
+Date      : Jun 24, 2010 at 5:14 PM
+────────────────────────────────────────────────────────────────────────
+
+More panels have been done .. thought it would be cool to see it in daylight!
+
+Again, any comments on how way off I am are more than welcome before I seal this bird! Wrong colors, wrong panel shape .. hit me with anything you see.
+
+[IMAGE: large.jpg]
+
+ 
+
+[IMAGE: large.jpg]
+
+ 
+
+[IMAGE: large.jpg]
+
+ 
+
+[IMAGE: large.jpg]
+
+ 
+
+[IMAGE: large.jpg]
+
+ 
+
+[IMAGE: large.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #200  (forum post #1269778)
+Author    : Bigturc
+Date      : Jun 24, 2010 at 5:34 PM
+────────────────────────────────────────────────────────────────────────
+
+Am I the only one seeing the top fuselage panels shaped that way? I'm talking about the top 2 shapes over the R2 unit.  I've never seen them on any other Red 5  paint job .. so I was wondering ...
+
+As a side note, is it ok to use cut outs of those pictures as ref and comparison? If not, I'll take them down.
+
+[IMAGE: medium.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #201  (forum post #1269780)
+Author    : DARKSIDE72
+Date      : Jun 24, 2010 at 5:35 PM
+────────────────────────────────────────────────────────────────────────
+
+Wrong pilot if you're going for accuracy...
+
+Bigturc said:
+
+			More panels have been done .. thought it would be cool to see it in daylight!
+
+Again, any comments on how way off I am are more than welcome before I seal this bird! Wrong colors, wrong panel shape .. hit me with anything you see.
+
+[IMAGE: large.jpg]
+
+ 
+
+[IMAGE: large.jpg]
+
+ 
+
+[IMAGE: large.jpg]
+
+ 
+
+[IMAGE: large.jpg]
+
+ 
+
+[IMAGE: large.jpg]
+
+ 
+
+[IMAGE: large.jpg]
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #202  (forum post #1269793)
+Author    : Bigturc
+Date      : Jun 24, 2010 at 5:46 PM
+────────────────────────────────────────────────────────────────────────
+
+Darkside .. thanks for that!
+
+Let's say, I'm going as accurate as I can manage 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+There's just so many wrongs right now:
+
+-Cockpit is the 1:1
+
+-Wrong pilot
+
+-Lights! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+-Wings block is closer to body (pyro style IIRC)
+
+But at least, I'm trying to stick to an as good as possible paint scheme! Anything else?
+────────────────────────────────────────────────────────────────────────
+Post #203  (forum post #1269794)
+Author    : Bigturc
+Date      : Jun 24, 2010 at 5:47 PM
+────────────────────────────────────────────────────────────────────────
+
+Oh and let's not forget that not only it's my first SS, but first resin kit as well, and first paint job with an airbrush! ;-)
+────────────────────────────────────────────────────────────────────────
+Post #204  (forum post #1269804)
+Author    : TK4611
+Date      : Jun 24, 2010 at 5:54 PM
+────────────────────────────────────────────────────────────────────────
+
+Well I think you are doing an awesome job, especially for your first. Great stuff and very inspiring, thank you for sharing your progress.
+────────────────────────────────────────────────────────────────────────
+Post #205  (forum post #1269808)
+Author    : Bigturc
+Date      : Jun 24, 2010 at 6:01 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks TK, it's my pleasure to share back and try to enlighten and maybe even help others that will find a V3 to build at some point! I don't get as many attentions as when I first began working on this 18 months ago but at least, I'm trying to keep the WIP alive as long as I can .. I plan on finishing it very soon!
+
+TK3205 out! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #206  (forum post #1269811)
+Author    : DARKSIDE72
+Date      : Jun 24, 2010 at 6:03 PM
+────────────────────────────────────────────────────────────────────────
+
+Bigturc said:
+
+			Oh and let's not forget that not only it's my first SS, but first resin kit as well, and first paint job with an airbrush! ;-)
+		
+
+Click to expand...
+
+Ok well you're doing great. Just be mindful of the original color pallet ILM used and you're results will be great. Floquil IS the ANH ILM paint scheme...
+
+Sorry about the pilot and interior though... That's a subjective move. 
+
+When Mike first announced this model, I'm like dude you need to offer X&Y for the SS purists... Bless his heart as he did. He understood the mentality of us nutters... lol
+
+  It's a beautiful model and incorporated with the aluminum armature... fantastic!
+────────────────────────────────────────────────────────────────────────
+Post #207  (forum post #1269812)
+Author    : TK4611
+Date      : Jun 24, 2010 at 6:05 PM
+────────────────────────────────────────────────────────────────────────
+
+My V3.1 is currently enroute from Mike, I'm hoping that it will be here early next week - but I have promised myself that I won't start it until I've finished the FM 1:72nd Falcon, then the lifesized Yoda. 
+
+Well, OK, maybe I could do just a little work on it... 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #208  (forum post #1269827)
+Author    : Bigturc
+Date      : Jun 24, 2010 at 6:22 PM
+────────────────────────────────────────────────────────────────────────
+
+DARKSIDE72 said:
+
+			Ok well you're doing great. Just be mindful of the original color pallet ILM used and you're results will be great. Floquil IS the ANH ILM paint scheme...
+
+Sorry about the pilot and interior though... That's a subjective move. 
+
+When Mike first announced this model, I'm like dude you need to offer X&Y for the SS purists... Bless his heart as he did. He understood the mentality of us nutters... lol
+
+  It's a beautiful model and incorporated with the aluminum armature... fantastic!
+		
+
+Click to expand...
+
+You're right on.  My major challenge is to mix colors to look good.  That and the fact I don't have good refs for the paint job .. I'll survive!
+
+I read about the Floquile yes .. too bad I didn't have access to the Floquil line of paint here.  It's illegal in Canada so nobody have them in stock! :angry
+
+TK4611 said:
+
+			My V3.1 is currently enroute from Mike, I'm hoping that it will be here early next week - but I have promised myself that I won't start it until I've finished the FM 1:72nd Falcon, then the lifesized Yoda. 
+
+Well, OK, maybe I could do just a little work on it... 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+You'll have a wonderful time working on this kit.  I loved it from day one when I received it .. and I'm real proud of where it is now! Don't imagine you can just do a little on it .. as soon as you'll begin pumping the knife around the kit .. you will forget about all other projects around .. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Right now, I have an unfinished Zorg EV-9D9 on the shelf, a Nisen ROTJ AT-ST and I sold my Zorg CZ-1 to another board member here cause I figured I wouldn't get to it with all the other projects I was seeing coming! :love
+────────────────────────────────────────────────────────────────────────
+Post #209  (forum post #1270495)
+Author    : Bigturc
+Date      : Jun 25, 2010 at 9:53 AM
+────────────────────────────────────────────────────────────────────────
+
+More panels .. will tweak them all later on
+
+[IMAGE: large.jpg]
+
+ 
+
+[IMAGE: large.jpg]
+
+ 
+
+[IMAGE: large.jpg]
+
+ 
+
+[IMAGE: large.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #210  (forum post #1270988)
+Author    : GF
+Date      : Jun 25, 2010 at 6:47 PM
+────────────────────────────────────────────────────────────────────────
+
+Great job!!!!
+
+Very clean build, you learn fast your natural at this.
+
+GFollano
+────────────────────────────────────────────────────────────────────────
+Post #211  (forum post #1271052)
+Author    : Bigturc
+Date      : Jun 25, 2010 at 8:11 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks GF .. oh you know it's all your fault!!!
+────────────────────────────────────────────────────────────────────────
+Post #212  (forum post #1272335)
+Author    : EvanW
+Date      : Jun 27, 2010 at 8:52 AM
+────────────────────────────────────────────────────────────────────────
+
+Bigturc said:
+
+			More work done tonight ... all the blue has been shot .. it's way more blue than grey here and a little too dark for my taste .. but at this point, I'll soften it up with white overshoot later in the process .. I think?!
+
+[IMAGE: large.jpg]
+
+Click to expand...
+
+Your build looks great! It's giving me a lot of pointers as I have also selected this kit as my first major resin endeavor. Can I ask how you achieved the candy striping on the laser cannons? This seems like it's going to be a head scratch for me.
+
+Thanks,
+────────────────────────────────────────────────────────────────────────
+Post #213  (forum post #1272716)
+Author    : Bigturc
+Date      : Jun 27, 2010 at 4:27 PM
+────────────────────────────────────────────────────────────────────────
+
+Evan,
+
+I just cut a tape at 6-7mm wide.  and rolled it around the canon up to the step. Applied some mask at certain spot and shot with the airbrush! Voila!
+────────────────────────────────────────────────────────────────────────
+Post #214  (forum post #1272771)
+Author    : EvanW
+Date      : Jun 27, 2010 at 5:21 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks for the tip. For some reason I had pictured myself trying to airbrush a straight line while twirling  the cannon. Don't ask me why...
+────────────────────────────────────────────────────────────────────────
+Post #215  (forum post #1277698)
+Author    : GF
+Date      : Jul 1, 2010 at 7:44 PM
+────────────────────────────────────────────────────────────────────────
+
+EvanW said:
+
+			Thanks for the tip. For some reason I had pictured myself trying to airbrush a straight line while twirling the cannon. Don't ask me why...
+		
+
+Click to expand...
+
+ 
+
+That would have been so much easier :lol
+
+GFollano
+────────────────────────────────────────────────────────────────────────
+Post #216  (forum post #1277887)
+Author    : hugescale
+Date      : Jul 1, 2010 at 11:55 PM
+────────────────────────────────────────────────────────────────────────
+
+Bigturc said:
+
+			Evan,
+
+I just cut a tape at 6-7mm wide.  and rolled it around the canon up to the step. Applied some mask at certain spot and shot with the airbrush! Voila!
+		
+
+Click to expand...
+
+When using only one masking tape, it takes some time and attention to get a constant and regular width of the blue stripe.
+
+I get excellent results when using 2 tapes with the same width:
+
+Just roll 2 tapes lying next to each other around the tube. Start somewhere on the middle of the tube and then roll them towards both ends. So you can put on both tapes next to each other. Make sure that there are no gaps between them and that there is no overlapping (this is easy). After removing one tape (= the tape representing the blue stripe) you have a nice regular (uniform) mask with a constant width.
+
+If you are to lazy to figure out the required width by experimenting you can also calculate the required width of your masking tapes with the following formula:
+
+W ... required width of the tapes
+
+D ... diameter of the tube
+
+L ... length of the tube
+
+N ... total number of stripes when looking from the side (white stripes + blue stripes) 
+
+PI … 3.141592654
+
+W = L/N x 1/{SQR[ {(2xL)/(PIxNxD)}^2 + 1 ]}
+
+With this technique the blue stripe has the exact same width as the (remaining) white stripe.
+
+Some people prefer that the width of the blue stripe is a little smaller than the width of the (remaining) white stripe. To achieve this, just cut the tape for the blue a little bit more narrow and the masking tape for the (remaining) white stripe a little bit (the exact same amount) wider.
+────────────────────────────────────────────────────────────────────────
+Post #217  (forum post #1277899)
+Author    : GF
+Date      : Jul 2, 2010 at 12:20 AM
+────────────────────────────────────────────────────────────────────────
+
+hugescale said:
+
+			When using only one masking tape, it takes some time and attention to get a constant and regular width of the blue stripe.
+
+I get excellent results when using 2 tapes with the same width:
+
+Just roll 2 tapes lying next to each other around the tube. Start somewhere on the middle of the tube and then roll them towards both ends. So you can put on both tapes next to each other. Make sure that there are no gaps between them and that there is no overlapping (this is easy). After removing one tape (= the tape representing the blue stripe) you have a nice regular (uniform) mask with a constant width.
+
+If you are to lazy to figure out the required width by experimenting you can also calculate the required width of your masking tapes with the following formula:
+
+W ... required width of the tapes
+
+D ... diameter of the tube
+
+L ... length of the tube
+
+N ... total number of stripes when looking from the side (white stripes + blue stripes) 
+
+PI … 3.141592654
+
+W = L/N x 1/{SQR[ {(2xL)/(PIxNxD)}^2 + 1 ]}
+
+With this technique the blue stripe has the exact same width as the (remaining) white stripe.
+
+Some people prefer that the width of the blue stripe is a little smaller than the width of the (remaining) white stripe. To achieve this, just cut the tape for the blue a little bit more narrow and the masking tape for the (remaining) white stripe a little bit (the exact same amount) wider.
+		
+
+Click to expand...
+
+ 
+
+Good tip, you can use the same concept for the red markings on the wings to get nice and perfect spacing.
+
+GFollano
+────────────────────────────────────────────────────────────────────────
+Post #218  (forum post #1277904)
+Author    : REL
+Date      : Jul 2, 2010 at 12:25 AM
+────────────────────────────────────────────────────────────────────────
+
+This is looking great.
+────────────────────────────────────────────────────────────────────────
+Post #219  (forum post #1277951)
+Author    : MonsieurTox
+Date      : Jul 2, 2010 at 2:44 AM
+────────────────────────────────────────────────────────────────────────
+
+Superbe travail BT ! Cant wait to see it weathered !
+
+GF said:
+
+			Good tip, you can use the same concept for the red markings on the wings to get nice and perfect spacing.
+
+GFollano
+		
+
+Click to expand...
+
+ 
+
+I wouldnt use this technique for the wing markings as the red markings are wider than the spacings.
+────────────────────────────────────────────────────────────────────────
+Post #220  (forum post #1278787)
+Author    : Bigturc
+Date      : Jul 2, 2010 at 3:46 PM
+────────────────────────────────────────────────────────────────────────
+
+Yep .. pretty nice tip! I did it by eyes .. counting the stripes though I was seeing on my ref pics.
+
+While I'm there, I'd also like to thank everyone that built this bird before me .. I'm thinking REL, Dymerski, Meyer and all the references pics I've stolen from your threads. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ It might not be the most accurate paint job out there .. but it will certainly have been researched .. and I'm so tired of looking at pics!!! argg
+────────────────────────────────────────────────────────────────────────
+Post #221  (forum post #1278792)
+Author    : Bigturc
+Date      : Jul 2, 2010 at 3:47 PM
+────────────────────────────────────────────────────────────────────────
+
+MonsieurTox said:
+
+			Superbe travail BT ! Cant wait to see it weathered !
+
+I wouldnt use this technique for the wing markings as the red markings are wider than the spacings.
+		
+
+Click to expand...
+
+I would agree with Julien on this one .. the squadron markings were far from perfect on the ref pics I had .. which I tried to emulate too! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #222  (forum post #1280913)
+Author    : GF
+Date      : Jul 4, 2010 at 9:38 PM
+────────────────────────────────────────────────────────────────────────
+
+MonsieurTox said:
+
+			Superbe travail BT ! Cant wait to see it weathered !
+
+I wouldnt use this technique for the wing markings as the red markings are wider than the spacings.
+		
+
+Click to expand...
+
+ 
+
+I was generaly speaking,  but yes the original were all uneven.   
+
+GFollano
+────────────────────────────────────────────────────────────────────────
+Post #223  (forum post #1323198)
+Author    : Bigturc
+Date      : Aug 8, 2010 at 2:46 PM
+────────────────────────────────────────────────────────────────────────
+
+Busy summer here .. I don't have much time to work on this .. but a rainy day calls for a little work on my X-Wing!
+
+Always open to comments ..
+
+[IMAGE: large.jpg]
+
+ 
+
+[IMAGE: large.jpg]
+
+ 
+
+[IMAGE: large.jpg]
+
+ 
+
+[IMAGE: large.jpg]
+
+ 
+
+[IMAGE: large.jpg]
+
+ 
+
+[IMAGE: large.jpg]
+
+ 
+
+[IMAGE: large.jpg]
+
+ 
+
+[IMAGE: large.jpg]
+
+ 
+
+[IMAGE: large.jpg]
+
+ 
+
+[IMAGE: large.jpg]
+
+ 
+
+[IMAGE: large.jpg]
+
+ 
+
+[IMAGE: large.jpg]
+
+ 
+
+[IMAGE: large.jpg]
+
+ 
+
+[IMAGE: large.jpg]
+
+ 
+
+[IMAGE: large.jpg]
+
+ 
+
+[IMAGE: large.jpg]
+
+ 
+
+[IMAGE: large.jpg]
+
+ 
+
+[IMAGE: large.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #224  (forum post #1323199)
+Author    : Bigturc
+Date      : Aug 8, 2010 at 2:48 PM
+────────────────────────────────────────────────────────────────────────
+
+Here's a comparison shot of my cockpit blue that I corrected!!! I'm pretty happy with the result as that was the major thing that was bothering me on my build!
+
+[IMAGE: large.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #225  (forum post #1323229)
+Author    : EvanW
+Date      : Aug 8, 2010 at 3:19 PM
+────────────────────────────────────────────────────────────────────────
+
+Looking really great there! I have started on mine too after following your build up. Keep up the good inspirations!
+────────────────────────────────────────────────────────────────────────
+Post #226  (forum post #1323388)
+Author    : MonsieurTox
+Date      : Aug 8, 2010 at 6:23 PM
+────────────────────────────────────────────────────────────────────────
+
+That's looking a lot better mate !
+────────────────────────────────────────────────────────────────────────
+Post #227  (forum post #1323522)
+Author    : Bigturc
+Date      : Aug 8, 2010 at 9:11 PM
+────────────────────────────────────────────────────────────────────────
+
+Merci Julien! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #228  (forum post #1332957)
+Author    : Bigturc
+Date      : Aug 16, 2010 at 6:35 PM
+────────────────────────────────────────────────────────────────────────
+
+Guys,
+
+Can anyone suggest the best way to do those blast/carbon marks on the wings and fuselage? I don't have a way to print stencil out of material .. so how do you guys do it? 
+
+Certainly not with an airbrush I'd say .. with a brush? Not so sure how I'd achieve a good look without it looking painted .. 
+
+Awaiting any suggestions and tips!
+
+Also, before begining the weathering .. should I shoot it with a coat of Future or Testor's Dull Coat? That was my plan but I'd love to hear about how good or bad of an idea that is! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #229  (forum post #1333183)
+Author    : TK4611
+Date      : Aug 16, 2010 at 10:22 PM
+Reactions : Like — Zenwalker
+────────────────────────────────────────────────────────────────────────
+
+Hey mate,
+
+Get hold of some dark brown, gray and black chalk pastels or better yet, powdered pigments, grind them up with some fine grit sandpaper and then dip a fine tipped brush into the powder. Lightly dab the area you want your  blast marks to be and build up the colour gradually with repeated dabs of the brush. Blow away any excess with a turkey baster or an airbrush on low pressure setting. Just don't use your breath - the moisture in it can cause a mottled effect.
+
+Chalks can be sealed with dullcote once you are happy with the results.
+
+I would seal with dullcote beforehand though, the benefit of this is that the chalks will easily wipe off if you have made a mistake or been too heavy handed. 
+
+Hope this helps.
+────────────────────────────────────────────────────────────────────────
+Post #230  (forum post #1333866)
+Author    : Jestefarean
+Date      : Aug 17, 2010 at 1:20 PM
+────────────────────────────────────────────────────────────────────────
+
+TK4611 said:
+
+			Hey mate,
+
+Get hold of some dark brown, gray and black chalk pastels or better yet, powdered pigments, grind them up with some fine grit sandpaper and then dip a fine tipped brush into the powder. Lightly dab the area you want your blast marks to be and build up the colour gradually with repeated dabs of the brush. Blow away any excess with a turkey baster or an airbrush on low pressure setting. Just don't use your breath - the moisture in it can cause a mottled effect.
+
+Chalks can be sealed with dullcote once you are happy with the results.
+
+I would seal with dullcote beforehand though, the benefit of this is that the chalks will easily wipe off if you have made a mistake or been too heavy handed. 
+
+Hope this helps.
+		
+
+Click to expand...
+
+Thats the exact technique I used and it worked great!
+────────────────────────────────────────────────────────────────────────
+Post #231  (forum post #1381042)
+Author    : James007bond
+Date      : Sep 25, 2010 at 10:15 AM
+────────────────────────────────────────────────────────────────────────
+
+Gentlmen, may I ask, are these Salzo V3 kits still available, or have I simply missed to boat?
+
+Many thanks
+
+Shiv (UK)
+────────────────────────────────────────────────────────────────────────
+Post #232  (forum post #3024278)
+Author    : R2Dan
+Date      : Aug 25, 2013 at 4:18 PM
+────────────────────────────────────────────────────────────────────────
+
+Sorry for the necro post here, but as I am just getting started on my own Salzo v3 bird here, and I am just as new to this as Al was when he started this thread. 
+
+Well I just wanted to say: Reading all this really gave me a lot of inspiration and the right push to get things started, finally, so thanks for that! I might open up my own build thread, not because I have anything new to add to all this - I know it's all old news, but I'm hoping the specialists out there will help a noob like me to actually do this kit justice.
+────────────────────────────────────────────────────────────────────────
+Post #233  (forum post #3024294)
+Author    : jedimaster
+Date      : Aug 25, 2013 at 4:36 PM
+────────────────────────────────────────────────────────────────────────
+
+Post away Dan....
+────────────────────────────────────────────────────────────────────────
+Post #234  (forum post #3024419)
+Author    : Bigturc
+Date      : Aug 25, 2013 at 6:55 PM
+────────────────────────────────────────────────────────────────────────
+
+Dan, yes please do post away!! A good build thread is better than none at all!!!
+
+I can't believe y last post is already 2 years old!!! How time flies!!! And I dont even have kids yet! Decided to build a house instead of working on my props .. That takes all the time in the world! It's already been a year and i'm not even done yet!
+
+I feel nostalgic of my time on this build .. I received my efx tie a couple months
+
+back so now I won't jave a choice to finish that one to keep her company!
+────────────────────────────────────────────────────────────────────────
+Post #235  (forum post #3024684)
+Author    : R2Dan
+Date      : Aug 26, 2013 at 2:16 AM
+────────────────────────────────────────────────────────────────────────
+
+Funny, I scored an efx Tie as well and thought "you better get that X Wing done now" 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+I'll start a thread then 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 235

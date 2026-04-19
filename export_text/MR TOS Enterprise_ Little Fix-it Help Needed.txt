@@ -1,0 +1,244 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : MR TOS Enterprise: Little Fix-it Help Needed
+URL    : https://www.therpf.com/forums/threads/mr-tos-enterprise-little-fix-it-help-needed.46618/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #624872)
+Author    : Beeb89
+Date      : Jul 10, 2008 at 8:50 PM
+────────────────────────────────────────────────────────────────────────
+
+I've recently bought the MR TOS Enterprise from a fellow RPF'er, (Thanks Doug!!), with the knowledge that one of the rotating "engines" had stopped working. Even with that little drawback, it's still an AWESOME piece and I'm glad to have it in my collection.
+
+I'm hoping ot try and fix this problem. It went through a period of starting and stopping, (the rotating engine), however the lights still work fine. I wanted to see if anyone else had experienced a problem like this with theirs and if so, if what you did to fix it. Also, I'm wanting to know how to get into that part of the ship to try and see what might be the problem. I'm hoping it might be something as simple as a short or loose wiring.
+
+Any help and advice is welcomed!
+
+Thanks!
+
+-B89! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #624889)
+Author    : CessnaDriver
+Date      : Jul 10, 2008 at 9:15 PM
+────────────────────────────────────────────────────────────────────────
+
+Pics of the prototype innards here...
+
+http://masterreplicas.com/forum/showthread.php?t=300&page=5
+
+May be helpful....
+
+[IMAGE: prototype17.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #624898)
+Author    : Beeb89
+Date      : Jul 10, 2008 at 9:24 PM
+────────────────────────────────────────────────────────────────────────
+
+Great link and pic, THANKS!! Now, I just need to figure out how to get into it without doing any damage.
+
+Thanks again!
+
+-B89! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #624899)
+Author    : CessnaDriver
+Date      : Jul 10, 2008 at 9:24 PM
+────────────────────────────────────────────────────────────────────────
+
+Thinking out loud..
+
+Try pulsing the switch off and on a lot, maybe it will cause the gears to work free. Perhaps external vibration would help free them too while doing this. Not sure how to do that though. 
+
+Cut an access panel out where the gear box is with a dremel disc saw.
+
+Perhaps drilling a small hole in the gear box and a few drops of oil would help. Or maybe they tightened the screws that hold the motor/gearbox in too tight and something is out of alignment and binding.
+
+It's a tough one.
+
+To me, putting the access panel back and puttying, sanding, repainting sounds easier then trying to find all those screws and splitting the whole thing apart again.
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #624906)
+Author    : Beeb89
+Date      : Jul 10, 2008 at 9:35 PM
+────────────────────────────────────────────────────────────────────────
+
+I'm a little hesitant to cut into just yet. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ However I will try the toggling on and off in the hopes that it might work itself out.
+
+Thanks again for the input! I'll get this sucker working!
+
+-B89! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #625053)
+Author    : sapper36
+Date      : Jul 11, 2008 at 7:04 AM
+────────────────────────────────────────────────────────────────────────
+
+Mine was experiencing this on the port engine.  The first time was when I hadn't run her in a few weeks.  I tapped the engine several times until it started up then ran it for 30-40 minutes.  Now I try to run it every day fdor 10-20 minutes and it doesn't freeze up.  I was out of town with my scout troop for 10 days & I asked my wife to run the engines daily ( I don't think she did because the engine froze again when I got home)  But I've been keeping up on the engine schedule & she starts up fine every time as long as I don't leave her shut down for too many days in a row.  I think that the lube in the gears gets gooey when it sits too long and the regular exercise keeps it from locking up.
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #625060)
+Author    : Beeb89
+Date      : Jul 11, 2008 at 7:19 AM
+────────────────────────────────────────────────────────────────────────
+
+sapper36 said:
+
+			Mine was experiencing this on the port engine.  The first time was when I hadn't run her in a few weeks.  I tapped the engine several times until it started up then ran it for 30-40 minutes.  Now I try to run it every day fdor 10-20 minutes and it doesn't freeze up.  I was out of town with my scout troop for 10 days & I asked my wife to run the engines daily ( I don't think she did because the engine froze again when I got home)  But I've been keeping up on the engine schedule & she starts up fine every time as long as I don't leave her shut down for too many days in a row.  I think that the lube in the gears gets gooey when it sits too long and the regular exercise keeps it from locking up.
+		
+
+Click to expand...
+
+That's good advice! I'm not sure how often Doug would turn it on, I know he'd fire it up when I would come by because I always loved watching it. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ That might be the problem. I'll be picking it up from him next week and will see if I can get it to turn, if so, I'll get in the habit of running it for a while every day.
+
+Thanks again!
+
+-B89! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #625071)
+Author    : Jedi Dade
+Date      : Jul 11, 2008 at 7:41 AM
+────────────────────────────────────────────────────────────────────────
+
+My MR E worked great for a long time then started to exhibit this issue to an extent.  I have found that if it moves at all then just turn the sucker on adn leave it go...  it will sputter and stick for a while but it eventually works free and spins fine.  The trick is to turn it on AT LEAST once a week  The gears are working but the "fans" are a friction fit not really gear driven and they are "slipping" if you let it run a while it might break its self free - then you need to keep it free by running it more often.  Its funny I just ran mine last night to break it loose again 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+  Let it run for like an hour or so after it comes loose...  Hopefully its not too stuck...
+
+Good Luck
+
+Jedi Dade
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #625386)
+Author    : Beeb89
+Date      : Jul 11, 2008 at 3:23 PM
+────────────────────────────────────────────────────────────────────────
+
+Ha!! You guys were right on the money! Started her up, tapped on the stuck fan a little, it slowly started up and now running perfectly! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+cool
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+cool
+
+Thanks again for the advice, guys!!
+
+-B89! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #625397)
+Author    : CessnaDriver
+Date      : Jul 11, 2008 at 3:32 PM
+────────────────────────────────────────────────────────────────────────
+
+Great news!
+
+But a little advice...
+
+Your supposed to embellish it, so Kirk will never think warp repair is easy next time!
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #625399)
+Author    : feek61
+Date      : Jul 11, 2008 at 3:38 PM
+────────────────────────────────────────────────────────────────────────
+
+I still think you should crack it open and see what the problem is and post a bunch of photos to help out anyone else who may in the future have the same problem!!!!    :lol
+
+Glad to hear shes running fine.  It's an awsome peice!!!  I love mine (which knock on wood continues to operate perfectly).
+
+Will
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #625401)
+Author    : Beeb89
+Date      : Jul 11, 2008 at 3:39 PM
+────────────────────────────────────────────────────────────────────────
+
+CessnaDriver said:
+
+			Great news!
+
+But a little advice...
+
+Your supposed to embellish it, so Kirk will never think warp repair is easy next time!
+		
+
+Click to expand...
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+lol
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+lol:lol
+
+-B89! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #625592)
+Author    : Beeb89
+Date      : Jul 11, 2008 at 10:24 PM
+────────────────────────────────────────────────────────────────────────
+
+feek61 said:
+
+			I still think you should crack it open and see what the problem is and post a bunch of photos to help out anyone else who may in the future have the same problem!!!!    :lol
+
+Glad to hear shes running fine.  It's an awsome peice!!!  I love mine (which knock on wood continues to operate perfectly).
+
+Will
+		
+
+Click to expand...
+
+Yeah, the main photo would be me crying about having to crack open a $800 item! :lol
+
+I agree, it is indeed an awesome piece and it just would be the same if those engines didn't turn. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Thanks again for the advice, guys!!
+
+-B89! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #626678)
+Author    : ShadoControl
+Date      : Jul 13, 2008 at 9:37 PM
+────────────────────────────────────────────────────────────────────────
+
+Another option would be one of those back massagers.  Place a towel against the nacelle next to the motor, then press the massager against the towel lightly pressing alittle harder until the motor starts up.
+
+There are some other pics out there, but nothing that I have seen showing the innards of the motor/light assembly.
+
+Dan
+
+---
+
+Avatar forth-coming... No, really! ...promise!  :confused
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #660359)
+Author    : Hiyata99
+Date      : Aug 29, 2008 at 9:39 AM
+────────────────────────────────────────────────────────────────────────
+
+It would take a miracle to be able to crack open the nacelle and take the motor out.  Unfortunately, I don't think it was engineered to have the motors taken out.
+
+The only way to gain access to swap out the motors would be to  take the plugs out of the screw holes that hold the nacelle housings together and disassembling the whole nacelle......which would then require refilling and repainting the whole nacelle.... if not more.
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #660552)
+Author    : Beeb89
+Date      : Aug 29, 2008 at 2:17 PM
+────────────────────────────────────────────────────────────────────────
+
+I've not had another problem with mine sense I got it started again. In fact, I fired her up last night after not having it on for a couple of weeks and it worked perfectly! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+-B89! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 16

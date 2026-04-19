@@ -1,0 +1,128 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : General Y-Wing Build Question
+URL    : https://www.therpf.com/forums/threads/general-y-wing-build-question.138956/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #2126467)
+Author    : neosporing
+Date      : Feb 7, 2012 at 12:16 PM
+────────────────────────────────────────────────────────────────────────
+
+only 1/2 inch of threads...
+
+[IMAGE: IMGP1781.JPG]
+
+This option as well...
+
+​
+
+[IMAGE: IMGP1784.JPG]
+
+It's a good 1 inch just to the rod with the cap piece, and 1/2 inch to the rod without...
+
+[IMAGE: IMGP1786.JPG]
+
+Is there an adapter piece that extends the mount that i missed?  How is everyone mounting the rod horizontally onto the panavise with just 1/2 an inch of threads on the panavise mount?
+
+​
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #2127984)
+Author    : Robiwon
+Date      : Feb 8, 2012 at 2:31 PM
+────────────────────────────────────────────────────────────────────────
+
+I used a well nut on my X-Wing. It's basically a long threaded sleave. You should be able to get one to reach the outer edge of the hull. They come in many thread sizes and lengths. Would something like this work for you?
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #2127990)
+Author    : neosporing
+Date      : Feb 8, 2012 at 2:39 PM
+────────────────────────────────────────────────────────────────────────
+
+ah thanks!  :facepalm i'll go to lowes and look for it.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #2127996)
+Author    : Robiwon
+Date      : Feb 8, 2012 at 2:48 PM
+────────────────────────────────────────────────────────────────────────
+
+neosporing said:
+
+			ah thanks!  :facepalm i'll go to lowes and look for it.
+		
+
+Click to expand...
+
+That's where I got mine so they should have the right size.
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #2128010)
+Author    : cosmic_x
+Date      : Feb 8, 2012 at 2:58 PM
+────────────────────────────────────────────────────────────────────────
+
+maybe this video from Jason would help: Y-Wing mounting - Hey, why not Panavise? - YouTube
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #2128040)
+Author    : Robiwon
+Date      : Feb 8, 2012 at 3:27 PM
+────────────────────────────────────────────────────────────────────────
+
+Oops, my bad. I used a brass threaded insert I got off Ebay. I just went back and checked my thread. The pics are gone though but this is what I used. Looks like you could screw one of these right in there.
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #2128049)
+Author    : neosporing
+Date      : Feb 8, 2012 at 3:36 PM
+────────────────────────────────────────────────────────────────────────
+
+cosmic_x said:
+
+			maybe this video from Jason would help: Y-Wing mounting - Hey, why not Panavise? - YouTube
+
+Click to expand...
+
+thanks cosmic, but jason's video doesn't address the inability to span the large gap on the bottom of the body with the stock panavise mount.
+
+Robiwon said:
+
+			Oops, my bad. I used a brass threaded insert I got off Ebay. I just went back and checked my thread. The pics are gone though but this is what I used. Looks like you could screw one of these right in there.
+		
+
+Click to expand...
+
+do these brass inserts have a name?  i guess i could make one out of wood perhaps?
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #2128480)
+Author    : moffeaton
+Date      : Feb 8, 2012 at 9:31 PM
+────────────────────────────────────────────────────────────────────────
+
+Ahhhh, yeah, I cut a length of 1/4-20 threaded rod stock, and "added" it to the Panavise mount. Screwed the Panavise threaded bit into a female/female coupler, and the new length of rod into the other end. JB Weld held it all together.
+
+It was something like this - got it at home depot:
+
+Stanley 83-6353 1/4 - 20 Zinc Plated Threaded Rod Coupling
+
+It's great, because the coupler lets the model screw down tightly to the Panavise mount AND the model without digging in too deeply.
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #2128679)
+Author    : Robiwon
+Date      : Feb 9, 2012 at 2:08 AM
+────────────────────────────────────────────────────────────────────────
+
+neosporing said:
+
+			thanks cosmic, but jason's video doesn't address the inability to span the large gap on the bottom of the body with the stock panavise mount.
+
+do these brass inserts have a name?  i guess i could make one out of wood perhaps?
+		
+
+Click to expand...
+
+Yep, mine was called a threaded brass insert.
+
+Here is a slightly different style at Lowes.
+
+Shop The Hillman Group 2-Count 1/4"-20 Brass Lock Nuts at Lowes.com
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 9

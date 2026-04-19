@@ -1,0 +1,121 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Go-Motion device for the ROTJ AT-ST ?
+URL    : https://www.therpf.com/forums/threads/go-motion-device-for-the-rotj-at-st.54899/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #749117)
+Author    : MonsieurTox
+Date      : Dec 28, 2008 at 11:21 AM
+────────────────────────────────────────────────────────────────────────
+
+Hey guys,
+
+I'm wondering how the go motion setup did work with the AT-ST in ROTJ ?
+
+We all know the pic of St-Amand and Tipett close to the ATST pupett but Im still dont know how the whole thing was working... I can figure for the legs (body were on a mount), the head (I dont know if it was animated by hand through a pupett rod or by computer) but I cant figure how the gun were firing or moving up and down... 
+
+How the body did tilt (like a chicken 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+) and how they were able to recreate so different movement with only the body hold by a mount and the feet animated by 2 rods... when you got the pupett in the hand you can see you can put the legs, hips etc in several configuration which is impossible only with a rod on each foot...
+
+Any specialist on that ? Any new pic ? 
+
+Thanks for the help !
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #749244)
+Author    : dragnink
+Date      : Dec 28, 2008 at 4:05 PM
+────────────────────────────────────────────────────────────────────────
+
+You have some plans? :love
+
+My guess is that they used a combination of techniques. For one, each stop-motion movement is recorded by a computer hooked up to the go-motion device. So up until the main movements are programmed, the process is similar to stop-motion while the computer is recording each frame of what is going to be played back.
+
+Then, to the best of my understanding, the movements of the walkers can be played back either in real-time while hooked up to the device, or can be played back by the machine frame by frame by the stepper motors.
+
+Using a combination of these techniques, it would allow some traditional stop-motion animation to be manually thrown in between frames/steps (blaster barrels recoiling, etc). We know the barrels were not automated, so this is how I think it was done.
+
+On the back of the head of the ST, there's a little hole at the bottom underneath the Porsche parts. I always imagined a rod manually (maybe with a curved end) manipulating the movements of the head.. I'm not sure on this, but it was just an idea. I heard that the top railings broke off a lot during filming.
+
+It's still a mystery, and the engineering for this would probably be really complex. The best way I figured you could simulate something like this would be a system of rods, pulleys and gears all being puppeted by a 3 or 4 people each independently operating different movements. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+It does make you wonder in some ways how it was done because to play back in real-time and only have the rods connected to the feet, they must have locked down some of the allen screws and kept others loose allowing free movement at certain joints/axis.
+
+Here's some pics of the go-motion machine used for Dragonslayer.
+
+http://www.stopmotionworks.com/mischtml/gomotion.htm
+
+And some vids of Tippett in action:
+
+http://www.youtube.com/watch?v=PW0YOYvTB8k
+
+http://www.youtube.com/watch?v=30NNjFRlR1s
+
+MonsieurTox said:
+
+			Hey guys,
+
+I'm wondering how the go motion setup did work with the AT-ST in ROTJ ?
+
+We all know the pic of St-Amand and Tipett close to the ATST pupett but Im still dont know how the whole thing was working... I can figure for the legs (body were on a mount), the head (I dont know if it was animated by hand through a pupett rod or by computer) but I cant figure how the gun were firing or moving up and down... 
+
+How the body did tilt (like a chicken 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+) and how they were able to recreate so different movement with only the body hold by a mount and the feet animated by 2 rods... when you got the pupett in the hand you can see you can put the legs, hips etc in several configuration which is impossible only with a rod on each foot...
+
+Any specialist on that ? Any new pic ? 
+
+Thanks for the help !
+		
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #749268)
+Author    : dragnink
+Date      : Dec 28, 2008 at 4:46 PM
+────────────────────────────────────────────────────────────────────────
+
+Some scans from my ILM book. I like the shot of the old computer monitor, you can see how the program allowed for individual operation of the rods (free movement, play, lock, fps).  
+
+Complex stuff and revolutionary for its time!
+
+[IMAGE: 1436167.jpeg]
+
+[IMAGE: 1473470.jpeg]
+
+[IMAGE: 1499869.jpeg]
+
+[IMAGE: 1532545.jpeg]
+
+[IMAGE: 1564181.jpeg]
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #749304)
+Author    : MonsieurTox
+Date      : Dec 28, 2008 at 6:14 PM
+────────────────────────────────────────────────────────────────────────
+
+Haha Matt, yeah I had some plans but you killed it with the pics of the go-motion device ! :lol Well I think it was a bit more simple for the AT-ST though !
+
+Thanks for the pics and the vids they are great ! 
+
+Your explanations make sense and I too think the head of the ST could be animated by hand with a rod and I guess you're right about the hole between the tranny parts ! I cant see any other way to mount it from the head. 
+
+I remember a while back you told me about a cycle-like system for the legs, I think that's a good thing to try ! 
+
+TBH I would like to display my ST on its go-motion device (a working one if possible 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+). Wouldnt be nice ? 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+love Well I guess I will go with the wooden stand. LOL :lol
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #749351)
+Author    : DarkHelmet
+Date      : Dec 28, 2008 at 7:25 PM
+────────────────────────────────────────────────────────────────────────
+
+I remember pictures like these intimidated the crap out of me. I was a terrible student in school (daydreamer/artist) so seeing that you would need a degree in Engineering, mathematics and robotics to compete completely turned me off from pursuing my love for SFX and animation. :unsure
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 5

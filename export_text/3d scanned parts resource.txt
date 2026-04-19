@@ -1,0 +1,176 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : 3d scanned parts resource
+URL    : https://www.therpf.com/forums/threads/3d-scanned-parts-resource.174108/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #2700153)
+Author    : McGraph
+Date      : Jan 18, 2013 at 8:17 PM
+────────────────────────────────────────────────────────────────────────
+
+Hi I haven't posted up much on here most of the time I just cruise the forum getting info where I can wishing I had more to add then just a pat on the back to so many great modelers on here. Anyhow I have been slowly buying up kits to eventually build the 32" Falcon and of course I have been doing the math in my head and realize I have well over half a grand into it already and maybe have a little over a third of the kits I need and was thinking to myself there has to be a cheaper way of doing this. I know for some modelers on here the only way of doing a build up is using the original kits the models were made up with. But I was thinking with the advent of some relatively cheap 3d printers now why haven't we scanned in all these kit pieces. Now i'm sure some have made it onto a site like shapeways or another 3d printing resource but not to the extent I would expect. Anyhow my idea is to scan and compile the kit pieces we have and put them up in a directory to be downloaded for free or minimal cost so those that have a 3d printer or access to a 3d printer will quit driving up the kits on ebay lol. Anyhow its just an idea and I'm not sure completely how to go about implementing it I just wanted to throw the idea out there and see if anybody else likes it or thinks I should just go back to cruising and keep my mouth shut
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #2700621)
+Author    : McGraph
+Date      : Jan 19, 2013 at 6:58 AM
+────────────────────────────────────────────────────────────────────────
+
+I was thinking something like using the david 3d scanner software coupled with a lazy susan with a stepper motor might do he trick but I wanted to know what the best resource out there might be to get the best scans of the parts with the least cleanup and where I might post them up at after I scanned and i was hoping something like this might become a community project.
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #2702061)
+Author    : ninja77
+Date      : Jan 20, 2013 at 4:57 AM
+────────────────────────────────────────────────────────────────────────
+
+I'll chime in here and say its a great idea, saves having to spend a whole lot of money on kits to bash when you can use that money to 3D print whatever part you need to whatever scale.
+
+Would love to see it get off the ground! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #2703480)
+Author    : McGraph
+Date      : Jan 20, 2013 at 7:59 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks for the support but from the general overall response here I'm thinking the idea is DOA. Might still do some of it on my own tho if I do all post up some of my progress.
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #2704201)
+Author    : stonky
+Date      : Jan 21, 2013 at 9:06 AM
+────────────────────────────────────────────────────────────────────────
+
+It's an interesting notion and challenging given the small size and intricate detailing of the pieces that we'd be dealing with and the accuracy requirements around these parts. The scan would require cleanup regardless as to how accurate it is and one might be better off just modelling the pieces with a set of calipers (I've been doing just that for the SD Devastator kit parts). The other challenge would be the actual printing of the pieces - the less expensive consumer prototyping models aren't the most accurate things in the world. That said, I've been modelling parts in my spare time with an eye to the future...
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #2704532)
+Author    : cbabbage
+Date      : Jan 21, 2013 at 12:00 PM
+────────────────────────────────────────────────────────────────────────
+
+This can and should be done.  I have been wondering why nobody has jumped on this as a service.  
+
+I have a 3d scanner I use at work for doing scans of our sculpts and maquettes all the time, however my particular scanner is not designed for super small parts.  I tried to scan a tree of parts from a 1/25th scale Allison Engine kit, but it was challenge to get a clean scan.  I have an outside vendor whose scanner can capture detail as fine as your finger print.  Unfortunately he costs about $500 a scan. 
+
+I have experimented with David 3D scanner and it seems possible to calibrate everything to work well for small parts.  The trick is having a good macro camera, and as thin a laser line as possible.  I don't think their structured light scanner will work well for tiny things.
+
+The other interesting possibility in this concept is to take the real full scale object the model part represents and scan it, re-scale and print.
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #2705244)
+Author    : McGraph
+Date      : Jan 21, 2013 at 6:57 PM
+────────────────────────────────────────────────────────────────────────
+
+Great 3d work there stonky Really nice looking devastator which program do you work in ?.
+
+wow $500 a scan I don't think i will ever feel that rich for a single scan out of curiosity Cbabbage do you happen to know what the scanner he was using was ?. Also I want to thank you on the macro camera idea and as for the full scale parts I could see it working but you might have a part with more detail then what the model kit had in it after all the can only put so much detail into these tiny parts.
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #2721353)
+Author    : stonky
+Date      : Jan 30, 2013 at 7:41 PM
+────────────────────────────────────────────────────────────────────────
+
+McGraph said:
+
+			Great 3d work there stonky Really nice looking devastator which program do you work in ?.
+		
+
+Click to expand...
+
+Maya, houdini, Sketchup, just about anything that'll do the job.
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #2724904)
+Author    : TazMan2000
+Date      : Feb 1, 2013 at 5:35 PM
+────────────────────────────────────────────────────────────────────────
+
+I think it's a great idea and will be more realistic than spending many thousands of dollars on kits where you may only use 1 or two parts out of.
+
+It doesn't have to be scanned either,...there are a number of 3d artists out there that can create an almost perfect replica.
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #2725147)
+Author    : dsp5500
+Date      : Feb 1, 2013 at 8:59 PM
+────────────────────────────────────────────────────────────────────────
+
+And what's the going rate per hour for CAD Work? Mate there's no short cuts, by the time you factor any scanning, cleanup of point clouds, modeling from scratch so on and so on your much better off buying the kit, Ok some unknown parts can be modeled, printed and used as place holders till the real parts are ID. Studio scale models aren't  cheap but that's the cost of admission if that's what you want to make.
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #2726910)
+Author    : TazMan2000
+Date      : Feb 2, 2013 at 11:02 PM
+────────────────────────────────────────────────────────────────────────
+
+The kits have a finite supply and they will only get more expensive once they become more rare. Do a search on ebay for a 1/15 Bandai Hummel. 
+
+There are a lot of 3d model makers that are just hobbyists and like many people on this site, are willing to share their work so that other's may enjoy the hobby as well. You can download free 3d models on several sites. Many hours went into those models and the artists are still willing to share their work.
+
+Tazman2000
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #2727322)
+Author    : TheEmperorsHand
+Date      : Feb 3, 2013 at 7:36 AM
+────────────────────────────────────────────────────────────────────────
+
+Check your PM.
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #2738716)
+Author    : McGraph
+Date      : Feb 9, 2013 at 10:48 AM
+────────────────────────────────────────────────────────────────────────
+
+Alright update for all those that are interested. I have been lucky enough to have a couple great guys interested in helping out with this project. One thankfully that has a good 3d scanner so I'm thinking I won't even bother anymore with the David scanner anymore. Hopefully within a few months will have some model parts scanned in and cleaned up enough to post up on a site for free for anyone to print out. Also I would like to make a call to anyone else willing to help to chime in or pm me. I have only a small collection of 40 models used in SS modeling and most of them are under the 30 dollar range so not really the ones we are targeting to get scanned. I have a few of the Tamiya 1/12's that I plan to cast and send the parts out to be scanned also a few of the more ubiquitous parts that appear on so many models. So anyone willing to send casts of the more hard to get parts will be much appreciated.
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #2738755)
+Author    : Flintlock
+Date      : Feb 9, 2013 at 11:28 AM
+────────────────────────────────────────────────────────────────────────
+
+If anyone has the rare kits, they should model the parts in CAD, scan them, or something similar. If they keep using up the styrene parts themselves on builds, soon there will be nothing left.
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #2740079)
+Author    : McGraph
+Date      : Feb 10, 2013 at 8:42 AM
+────────────────────────────────────────────────────────────────────────
+
+Everyone can use there parts how the see fit. I'm just doing this because there is a finite supply of accurate parts as reflected in the market value of some kits and the retooling of others. So I'm hoping when the day comes when you can't find that rare kit anymore even with a high price you can go down someplace and get it printed rather then scratch building a less accurate version of it. And I figure by that time the printers should be good enough that you can't tell the difference between the original and the copy. Well at least once you got some paint on it. It seems like the 3d printers keep getting better every year.
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #2741304)
+Author    : ninja77
+Date      : Feb 10, 2013 at 10:22 PM
+────────────────────────────────────────────────────────────────────────
+
+Glad to see that this idea is gaining some momentum. As much as I like the idea of scrtach building an SS kit having to spend hundreds of dollars or more to purchase kits just to use the odd bits and pieces off 1 or 2 sprues is off putting. It's difficult to convince SWMBO its money well spent when all she sees is a single model made out of many different ones and even then only a small fraction of use from each kit.
+
+If you have the coin to throw at getting these kits then good luck i say but eventually they just aint gonna be available and then what?
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #2741414)
+Author    : Stonebro
+Date      : Feb 11, 2013 at 1:11 AM
+────────────────────────────────────────────────────────────────────────
+
+Kinect Fusion is looking more than promising and cheap!!
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #2741416)
+Author    : Stonebro
+Date      : Feb 11, 2013 at 1:13 AM
+────────────────────────────────────────────────────────────────────────
+
+Microsoft Bringing 3D Scanning Software ‘Kinect Fusion’ To Windows | TPM Idea Lab
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #2741422)
+Author    : Stonebro
+Date      : Feb 11, 2013 at 1:20 AM
+────────────────────────────────────────────────────────────────────────
+
+Got an Xbox and Kinect get this free software Get Skanect | Skanect by Manctl
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #4240921)
+Author    : Firefox3D
+Date      : May 4, 2017 at 2:27 PM
+────────────────────────────────────────────────────────────────────────
+
+I know this is an old thread but this could prove useful http://www.techrepublic.com/article/windows-10-to-get-3d-makeover-for-new-299-vrar-headsets/
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 20

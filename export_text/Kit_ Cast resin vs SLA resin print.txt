@@ -1,0 +1,126 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Kit: Cast resin vs SLA resin print
+URL    : https://www.therpf.com/forums/threads/kit-cast-resin-vs-sla-resin-print.301435/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #4609100)
+Author    : jas070680
+Date      : Apr 23, 2019 at 9:36 AM
+Reactions : Like — Duncanator
+────────────────────────────────────────────────────────────────────────
+
+All,
+
+ I hope this is the proper place to pose this question. This is not an interest thread but rather a general kit question. I am thinking of making a kit run on my Wheems from "batteries not included" (see video below). The one shown was SLA printed. The thought process is that I could achieve crisp detail with undercuts where necessary. 
+
+As people in the kit building community I pose the following question to you: IS there a general preference of cast resin vs SLA resin (Formlabs standard resin-50 microns) parts? If so, why?
+
+Thanks,
+
+Jason
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #4609114)
+Author    : TazMan2000
+Date      : Apr 23, 2019 at 10:16 AM
+Reactions : Like — Fett_Ish, jas070680
+────────────────────────────────────────────────────────────────────────
+
+I would think if you asked this question several years ago, you would get a very different answer. With the technology changing for the better, the quality the Formlabs printer puts out is amazing.
+
+I myself would rather have a resin printed kit. Yes, there would be some (maybe a lot) of sanding, but I would rather deal with a bit of sanding rather than filling AND sanding tons of pinholes. Also, I have had several resin kits where I the casting looked quite good, but bubbles have still been trapped in key places and resulted in detail parts that were broken off. I would assume that this would not be the case with the Formlabs resin...of course I could be mistaken.
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #4609156)
+Author    : OlivierC
+Date      : Apr 23, 2019 at 11:26 AM
+────────────────────────────────────────────────────────────────────────
+
+Resin printing is much slower and much more expensive but the results will be much more consistent over time. Like Taz said, no bubble, no wrapping or shrinking and print number 100 will look as good as print number 1, while mold deteriorate pulls after pulls.
+
+Molds takes some work to make and cost a bit of money but then casting is rather cheap in comparison and is pretty quick (20 minutes vs. many hours to print)
+
+So if money and time is not an issue, SLA print is a good option. As a customer, I'd prefer receiving as resin printed kit, but if I had to produce said kit, I'd prefer the casting option.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #4609374)
+Author    : swgeek
+Date      : Apr 23, 2019 at 10:17 PM
+Reactions : Like — Flyscriber
+────────────────────────────────────────────────────────────────────────
+
+For me I'd rather have a cast resin kit. They are much more durable than a printed part, the SLA resins are pretty brittle . Also I don't want to have to sand off the grow lines (that's assuming you sand and prep the part before you mold it). I don't like dealing with SLA resins any more than I have to. Of course I deal with printed parts all day long as part of my job, so maybe I have a skewed view on the whole subject.
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #4609389)
+Author    : Flyscriber
+Date      : Apr 24, 2019 at 12:11 AM
+────────────────────────────────────────────────────────────────────────
+
+Ive made many resin cast models over the years, as well as 3d printed models. I prefer resin cast parts over printed pieces every time. Print lines are the bug bear of my life, even super fine ones seem to mess with the overall finish, and my OCD !!. Having said that, without the new tech, things would take a lot longer to achieve. Evolution has its shortfalls, but is known for coming good eventually. Fingers crossed for a smooth future.
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #4610048)
+Author    : jas070680
+Date      : Apr 25, 2019 at 4:40 PM
+────────────────────────────────────────────────────────────────────────
+
+Thank you to everyone for the great feedback! I hope to see some more opinions. Seeing great points for both sides.
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #4610366)
+Author    : Matte Painter
+Date      : Apr 26, 2019 at 2:12 PM
+────────────────────────────────────────────────────────────────────────
+
+I'm considering exactly the same thing.   I have something in the works that will be 3D printed but thinking that might not be the best way to produce duplicates.   I guess it may all depend the quality of the printer and the what you're printing - if subtle surface detail may be lost during the filler-primer and sanding process.
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #4613055)
+Author    : Duncanator
+Date      : May 2, 2019 at 10:32 PM
+Reactions : Like — Scott Graham
+────────────────────────────────────────────────────────────────────────
+
+I prefer cast parts to 3D printed parts. 
+
+We all hate bad versions of both. But when it comes to good versions, I'd rather sand some mold flash off a casting, rather than every surface, nook and cranny of a 3D print.
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #4614101)
+Author    : Neo-uk
+Date      : May 5, 2019 at 12:56 PM
+────────────────────────────────────────────────────────────────────────
+
+I'd be up for either
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #4616557)
+Author    : DaveG
+Date      : May 11, 2019 at 7:04 AM
+Reactions : Like — swgeek, Matte Painter
+────────────────────────────────────────────────────────────────────────
+
+From a kit cost stand point, cast resin is far less expensive if you are going to make a dozen or more parts. The quality of cast resin can be exceptional provided you have the proper molding and casting equipment including a vacuum chamber to de-air silicone (don't believe people that say good molds can be made without one) and a pressure tank for casting. Well made molds will produce parts with minimal flash and cleanup. Using a platinum based silicone can increase mold life to 100 or more castings as compared to tin based rubbers which typically will start to go bad after two dozen pours or so. 
+
+The flip side is that making molds and casting resin is messy and requires a workspace away from living areas. Not a great option for apartment dwellers. The resins are also moderately toxic and need to be handled correctly with proper safety equipment.
+
+There is also an issue with SLA resins tending to be less "archival" over time as compared with urethane castings. Being more prone to warping, shrinking, yellowing and cracking.
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #4616608)
+Author    : Matte Painter
+Date      : May 11, 2019 at 10:04 AM
+────────────────────────────────────────────────────────────────────────
+
+Dave, you've officially scared me off from trying to cast resin.
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #4616704)
+Author    : DaveG
+Date      : May 11, 2019 at 3:14 PM
+────────────────────────────────────────────────────────────────────────
+
+Well that wasn’t my intention, all the kits I produce are resin cast,  but if you don’t have the proper equipment and more importantly, workspace, that’s the right decision. Good luck!
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #4616742)
+Author    : Matte Painter
+Date      : May 11, 2019 at 4:49 PM
+────────────────────────────────────────────────────────────────────────
+
+It's good to know.  I don't have the space for all the gear you've described, so I'll have to stick with 3D printing.  Cheers.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 13

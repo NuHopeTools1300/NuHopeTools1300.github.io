@@ -1,0 +1,1119 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : And… another ANH 5FT falcon. My second attempt.
+URL    : https://www.therpf.com/forums/threads/and%E2%80%A6-another-anh-5ft-falcon-my-second-attempt.343417/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #5270688)
+Author    : Dimitri-Ajith
+Date      : Jan 14, 2022 at 11:03 AM
+Reactions : Like, Love — foj3000, joberg, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+Ok here we go, finally got the guts to post something here. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+I have been of and on doing Star Wars modeling for 8 years now I think.
+
+And on the end of 2015 I started doing the first research on building a 5ft falcon.
+
+Looking at part maps, asking around etc.
+
+In 2016 I started collecting kits, and in relative short time I think I got about 100 kits.
+
+So if in 2016 you got outbid on some vintage kits needed for SW model, it was probably me.. sorry.
+
+But as many say building a 5ft falcon is a daunting task… not only for the costs of the kits, finding them, the costs of material. But also with a project like this no creative freedom for a long time… (if that is something you need). It’s all about getting the model as close as the original. Of course this is open for debate… but with a smaller project/model you can come away with a small part that is different. But with such an icon, and scale you will probably see it.. And with already 100 kits on the shelf…. Point of no return seemed inevitable.
+
+Long story short… I got scared I guess. The cost, sticking to the project etc.
+
+We bought a new house, a big renovation project… and all time, money, and energy went it that project. Then good thing was, the hobby space got bigger. When we bought the house had a big garage, and the wifey said: “Look there is your hobby space”.
+
+So for the many ‘obstacles’, we have in this hobby, that was one less.
+
+House is almost ‘done’ (ok a project is never done)
+
+Back to the 5Ft falcon. I got the confidence, and maybe the mental growth to conquer this project I hope 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+. Take it slow, and the main goal is, to have built this beast in this lifetime.
+
+Enough of the introduction, let the good stuff begin!
+
+At my first attempt, I also used 3D printing, and always thought it would help to tackle this project. At my first attempt, I had a Core of Foam, CNCed to the right shape based on the 3D file from Joshua Maruska. I had put epoxy on the dome and the mandibles I skinned with styrene. (Partly done before I abandoned it)
+
+I considered buying the dome parts from Stu, but that was to expensive….
+
+So I always in my mind had a solution thought out to print the hull. And when I saw
+
+The printed falcon from Geek1138 (You are a printing and modeling Titan), I got the confidence to print at least the Dome.
+
+I already have a good amount of kits so I would continue to collect and in the meanwhile start printing…
+
+But there were a few things I personally wanted to take a bit of a different approach,
+
+Just to get a little closer to what Sean and now Stu is doing…. (I will never get this close.. But at least I can try 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ )
+
+The base form of the file from Maruska has the whole shape measurements so on some places you have to recalculate for the plating on the overhangs. And for the dome also, (although you could cheat there).
+
+Here is my explainer.
+
+[IMAGE: https://www.therpf.com/forums/attachments/mandibles_breakdown-png.1533929/]
+
+So I remodeled everything in CAD to my specs. First the armature and the inside.
+
+That I want to sandwich between 3mm Plexi. For the mandibles, it is really part of the model.
+
+In the saucer/dome part the plexi is more for strength and structure.
+
+It’s probably overkill. But since I still have to look at it a real long time, I better make something good to look at right?
+
+I also want to skin the sides with 2mm styrene, (this probably could be thinner). So I didn't have to do the cleanup of the FDM layering.
+
+I took this also into consideration with the new measurements of the CAD model.
+
+Some preview of how this should going to look!
+
+[IMAGE: https://www.therpf.com/forums/attachments/print_01-png.1533932/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/print_02-png.1533933/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/print_03-png.1533936/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/print_04-png.1533935/]
+
+Slicing this up in usable parts for my printbed only 30 X 30 CM and 1 KG Filament spools, was and still is a challenge. (I think I got the biggest part found, and dialed the parts in… but you never know)
+
+The metal armature is will be mounted to the famous Engine stand... Yes I also have a RED one 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Currently I started modeling the dome….
+
+And want to consider the Thickness of the shell  (I think Stu used 4,5mm).
+
+So if you see it at the pits you have the right thickness (like the explainer on the mandibles)
+
+Or I make some pie pieces that are cut out and could be printed with an SLA printer, for more accuracy on that part.
+
+For the damaged parts I have to figure something out, because if you’re going in with a Dremmel on the hull on a FDM print I don’t know what is going to happen.
+
+So that is it for now…  printing, collecting kits...
+
+and probably starting the mandible pits soon.
+
+Hope to give you some updates regularly.
+
+One more thing...
+
+I did some 'name dropping'... but probably not enough:
+
+Thanks to everyone's data & info that led upto Joshua's CAD File. Ofcourse thanks for sharing this!
+
+For the names I remember that I asked for info, and know that contributed to all info out there about this beast:
+
+Stu (eagle1), Maruska, VFXSub64, Tsides2, Faustus100, vacformedhero, Gort, Studio Kitbash, Swgeek, Lee Malone (are you on the RPF?) and probably a lot more...
+
+And Bwayne64, wasn't it you that designed an armature structure for the Hasbro 32" falcon? If it was you... thanks that design always stuck in my head..
+
+as it shows.
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #5270778)
+Author    : Bjorn
+Date      : Jan 14, 2022 at 3:17 PM
+Reactions : Like — Dimitri-Ajith
+────────────────────────────────────────────────────────────────────────
+
+That's quite a first post Dimitri. Thank you for sharing! 
+
+I like the approach that you are considering with the design of the core of the model. 3D printing has really made many complicated operations much cheaper and more accessible than traditional methods. 
+
+Really looking forward to following your build journey in this thread. I wish you the best of luck!
+
+Bjorn
+
+Nice renderings by the way!
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #5270918)
+Author    : bwayne64
+Date      : Jan 14, 2022 at 7:56 PM
+Reactions : Like — Dimitri-Ajith
+────────────────────────────────────────────────────────────────────────
+
+Dimitri-Ajith said:
+
+			Ok here we go, finally got the guts to post something here. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+I have been of and on doing Star Wars modeling for 8 years now I think.
+
+And on the end of 2015 I started doing the first research on building a 5ft falcon.
+
+Looking at part maps, asking around etc.
+
+In 2016 I started collecting kits, and in relative short time I think I got about 100 kits.
+
+So if in 2016 you got outbid on some vintage kits needed for SW model, it was probably me.. sorry.
+
+But as many say building a 5ft falcon is a daunting task… not only for the costs of the kits, finding them, the costs of material. But also with a project like this no creative freedom for a long time… (if that is something you need). It’s all about getting the model as close as the original. Of course this is open for debate… but with a smaller project/model you can come away with a small part that is different. But with such an icon, and scale you will probably see it.. And with already 100 kits on the shelf…. Point of no return seemed inevitable.
+
+Long story short… I got scared I guess. The cost, sticking to the project etc.
+
+We bought a new house, a big renovation project… and all time, money, and energy went it that project. Then good thing was, the hobby space got bigger. When we bought the house had a big garage, and the wifey said: “Look there is your hobby space”.
+
+So for the many ‘obstacles’, we have in this hobby, that was one less.
+
+House is almost ‘done’ (ok a project is never done)
+
+Back to the 5Ft falcon. I got the confidence, and maybe the mental growth to conquer this project I hope 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+. Take it slow, and the main goal is, to have built this beast in this lifetime.
+
+Enough of the introduction, let the good stuff begin!
+
+At my first attempt, I also used 3D printing, and always thought it would help to tackle this project. At my first attempt, I had a Core of Foam, CNCed to the right shape based on the 3D file from Joshua Maruska. I had put epoxy on the dome and the mandibles I skinned with styrene. (Partly done before I abandoned it)
+
+I considered buying the dome parts from Stu, but that was to expensive….
+
+So I always in my mind had a solution thought out to print the hull. And when I saw
+
+The printed falcon from Geek1138 (You are a printing and modeling Titan), I got the confidence to print at least the Dome.
+
+I already have a good amount of kits so I would continue to collect and in the meanwhile start printing…
+
+But there were a few things I personally wanted to take a bit of a different approach,
+
+Just to get a little closer to what Sean and now Stu is doing…. (I will never get this close.. But at least I can try 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ )
+
+The base form of the file from Maruska has the whole shape measurements so on some places you have to recalculate for the plating on the overhangs. And for the dome also, (although you could cheat there).
+
+Here is my explainer.
+
+View attachment 1533929
+
+So I remodeled everything in CAD to my specs. First the armature and the inside.
+
+That I want to sandwich between 3mm Plexi. For the mandibles, it is really part of the model.
+
+In the saucer/dome part the plexi is more for strength and structure.
+
+It’s probably overkill. But since I still have to look at it a real long time, I better make something good to look at right?
+
+I also want to skin the sides with 2mm styrene, (this probably could be thinner). So I didn't have to do the cleanup of the FDM layering.
+
+I took this also into consideration with the new measurements of the CAD model.
+
+Some preview of how this should going to look!
+
+View attachment 1533932
+
+View attachment 1533933
+
+View attachment 1533936
+
+View attachment 1533935
+
+Slicing this up in usable parts for my printbed only 30 X 30 CM and 1 KG Filament spools, was and still is a challenge. (I think I got the biggest part found, and dialed the parts in… but you never know)
+
+The metal armature is will be mounted to the famous Engine stand... Yes I also have a RED one 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Currently I started modeling the dome….
+
+And want to consider the Thickness of the shell  (I think Stu used 4,5mm).
+
+So if you see it at the pits you have the right thickness (like the explainer on the mandibles)
+
+Or I make some pie pieces that are cut out and could be printed with an SLA printer, for more accuracy on that part.
+
+For the damaged parts I have to figure something out, because if you’re going in with a Dremmel on the hull on a FDM print I don’t know what is going to happen.
+
+So that is it for now…  printing, collecting kits...
+
+and probably starting the mandible pits soon.
+
+Hope to give you some updates regularly.
+
+One more thing...
+
+I did some 'name dropping'... but probably not enough:
+
+Thanks to everyone's data & info that led upto Joshua's CAD File. Ofcourse thanks for sharing this!
+
+For the names I remember that I asked for info, and know that contributed to all info out there about this beast:
+
+Stu (eagle1), Maruska, VFXSub64, Tsides2, Faustus100, vacformedhero, Gort, Studio Kitbash, Swgeek, Lee Malone (are you on the RPF?) and probably a lot more...
+
+And Bwayne64, wasn't it you that designed an armature structure for the Hasbro 32" falcon? If it was you... thanks that design always stuck in my head..
+
+as it shows.
+		
+
+Click to expand...
+
+Hey Man welcome to the insanity , ; )
+
+  I designed an armature for the five footer, must be someone else on the 32" falcon. But hey it's all good. We all draw from the collective well of goodness. Love the 3d work. I always do that first myself. Most times I don't get much further. I think I have ADHD, PTSD, OCD, CIA, and many other ailments. Good work so far, enjoy the journey, Cheers,
+
+Joe
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #5270948)
+Author    : Dimitri-Ajith
+Date      : Jan 14, 2022 at 11:55 PM
+Reactions : Like — joberg, Bjorn
+────────────────────────────────────────────────────────────────────────
+
+Bjorn Thanks!  You do some amazing Cad work, and very generous of sharing those files with the community!
+
+Not sure if this is the cheapest method for the 'core sandwhich' But its AN approach, I have a little more control for myself of how it's going to be...
+
+like Joe says in his comment, I think I have some kind of ADHD , PTSD, and OCD... have to google CIA 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Thanks on the rendering, some quick scene setup in blender, makin' it shiney. I like your real-life look renderings more.
+
+And thanks Joe, 'everything is a remix' right? we'll see where this Journey leads...
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #5270959)
+Author    : Bjorn
+Date      : Jan 15, 2022 at 2:21 AM
+Reactions : Like — joberg, Searun, Dimitri-Ajith
+────────────────────────────────────────────────────────────────────────
+
+Thanks, Dimitri. Andre and Joshua are the real wizards. I'm just inspired by what I see here all the time.
+
+I think most of us in this corner of the hobby can relate with these characteristics Joe mentioned. We certainly are a strange funny bunch. It's probably a prerequisite.
+
+I look forward to being able to share more in the near future. Though I'm currently obsessing over other shiny distractions at present.
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #5271211)
+Author    : t2sides
+Date      : Jan 15, 2022 at 1:16 PM
+Reactions : Like — joberg, Bjorn
+────────────────────────────────────────────────────────────────────────
+
+Great start Dimitri!!  It's always great to see how folks take this awesome design and apply their own creativity to get to the end state.  Looking forward to your progress.  
+
+And Bjorn, you Nailed it!   Joshua and Andre are incredible TRAILBLAZERS with the an insane amount of time invested, care, attention to detail, and engineering, then being so generous to share that with all of us!    It's a fun Journey and we are all thankful to have the help of so many others on these projects!
+
+-Sean
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #5271345)
+Author    : eagle1
+Date      : Jan 15, 2022 at 6:49 PM
+Reactions : Like, Love — joberg, Searun, Bjorn
+────────────────────────────────────────────────────────────────────────
+
+Finally my friend you posted haha. 
+
+So pleased to see you here & another build of this iconic miniature. 
+
+You got this...I'm going to push your butt to the finish line this time ok...so lookout!.
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #5271467)
+Author    : Dimitri-Ajith
+Date      : Jan 16, 2022 at 3:49 AM
+Reactions : Like — joberg, Searun
+────────────────────────────────────────────────────────────────────────
+
+t2sides Thanks Sean, your build is a true inspiration!
+
+eagle1 Yeah, I hope if I ever need it you give me that extra push.. haha. But first, I hope you never get tired of my endless questions 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #5272279)
+Author    : ChrisGFX
+Date      : Jan 18, 2022 at 6:55 AM
+Reactions : Like — Dimitri-Ajith
+────────────────────────────────────────────────────────────────────────
+
+great start! Can't wait to see more 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #5278326)
+Author    : Dimitri-Ajith
+Date      : Jan 30, 2022 at 7:57 AM
+Reactions : Like, Love, Wow — el toro, Studio Kitbash, Bjorn
+────────────────────────────────────────────────────────────────────────
+
+Ok a little update:
+
+Some minor print hickups. But still going strong got a few parts done, from my 'yellow armature'.
+
+Waiting on a piece to finish printing but I have started on 1 mandible.
+
+Added some more kits to my stash. And finally took care of this one:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5803-jpg.1540159/]
+
+After dry fitting..  on the pit's (Not on this photo) I finally starting this thing!
+
+I am doing sort of a hybrid approach I guess, making the pits. the pits are inserted, but it's not closed up.
+
+(Hybrid as in: for example Eagle1  his build with making the pits separate vs Sean his build with filling the pits with the mandibles closed up.)
+
+I made a little template for checking reference photos and possible guide for placement of kit parts.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5785-jpg.1540160/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5787-jpg.1540162/]
+
+More soon!
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #5278665)
+Author    : Bjorn
+Date      : Jan 30, 2022 at 10:57 PM
+Reactions : Like — Dimitri-Ajith
+────────────────────────────────────────────────────────────────────────
+
+Hey Dimitri, nice progress!
+
+And well done with picking up the Stug!
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #5279034)
+Author    : Searun
+Date      : Jan 31, 2022 at 6:00 PM
+Reactions : Like — joberg, Dimitri-Ajith
+────────────────────────────────────────────────────────────────────────
+
+Dimitri-Ajith said:
+
+			Ok a little update:
+
+Some minor print hickups. But still going strong got a few parts done, from my 'yellow armature'.
+
+Waiting on a piece to finish printing but I have started on 1 mandible.
+
+Added some more kits to my stash. And finally took care of this one:
+
+View attachment 1540159
+
+After dry fitting..  on the pit's (Not on this photo) I finally starting this thing!
+
+I am doing sort of a hybrid approach I guess, making the pits. the pits are inserted, but it's not closed up.
+
+(Hybrid as in: for example Eagle1  his build with making the pits separate vs Sean his build with filling the pits with the mandibles closed up.)
+
+I made a little template for checking reference photos and possible guide for placement of kit parts.
+
+View attachment 1540160
+
+View attachment 1540162
+
+More soon!
+		
+
+Click to expand...
+
+Thanks for pointing out the different approaches on engine pits taken by others and your hybrid approach. I am continually amazed how important the kit parts are in fine tuning the Falcon’s dimensions. Nice to read how others tackled different aspects of this build.
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #5281869)
+Author    : Larsen
+Date      : Feb 5, 2022 at 3:24 AM
+Reactions : Like — Dimitri-Ajith
+────────────────────────────────────────────────────────────────────────
+
+Great project
+
+Thank you so much for sharing your thoughts and ideas. 
+
+Defenatley following this one.
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #5282962)
+Author    : Dimitri-Ajith
+Date      : Feb 7, 2022 at 4:39 AM
+Reactions : Like, Love — Aegis159, bwayne64, Bjorn
+────────────────────────────────────────────────────────────────────────
+
+A small update of some printed parts. Not all glued, I'll keep the mandibles separate first.
+
+And the Acrylic plate for the mandibles will be cut this week. So everything going 'patiently slow steady' 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5852-jpg.1543494/]
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #5283049)
+Author    : jcoffman99
+Date      : Feb 7, 2022 at 7:06 AM
+────────────────────────────────────────────────────────────────────────
+
+This is really impressive. You have me rethinking some things. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ Nice work.
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #5283066)
+Author    : Dimitri-Ajith
+Date      : Feb 7, 2022 at 7:22 AM
+────────────────────────────────────────────────────────────────────────
+
+jcoffman99 said:
+
+			This is really impressive. You have me rethinking some things. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ Nice work.
+		
+
+Click to expand...
+
+Thanks John,  just PM me if you want me to think with you about the armature/base structure.
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #5283067)
+Author    : jcoffman99
+Date      : Feb 7, 2022 at 7:23 AM
+────────────────────────────────────────────────────────────────────────
+
+Dimitri-Ajith said:
+
+			Thanks John,  just PM me if you want me to think with you about the armature/base structure.
+		
+
+Click to expand...
+
+Will do. I'm waiting for my second middle section to print and then I'll see how they line up and stick together. For all future builders, I'd say start with the middle first. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #5283967)
+Author    : bwayne64
+Date      : Feb 8, 2022 at 2:45 PM
+Reactions : Like — Dimitri-Ajith
+────────────────────────────────────────────────────────────────────────
+
+Dimitri-Ajith said:
+
+			A small update of some printed parts. Not all glued, I'll keep the mandibles separate first.
+
+And the Acrylic plate for the mandibles will be cut this week. So everything going 'patiently slow steady' 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+View attachment 1543494
+
+Click to expand...
+
+And when you finish the 'Ole Girl, you can print up this section again as a cup holder/ snack bar. ; )
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #5291927)
+Author    : Dimitri-Ajith
+Date      : Feb 26, 2022 at 11:10 AM
+Reactions : Like — joberg, el toro, Studio Kitbash
+────────────────────────────────────────────────────────────────────────
+
+Small update:
+
+31 December 2015 I ordered the 1/25 AMT Chevy '57.
+
+This weekend I finally glued it on. More than 6 years later, but finally started the mandibles.
+
+And fooling around with the plating....  not glued yet, till I have a enough confirmation on reference points.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6059-jpg.1550496/]
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #5291958)
+Author    : Bjorn
+Date      : Feb 26, 2022 at 1:42 PM
+────────────────────────────────────────────────────────────────────────
+
+Congratulations Dimitri on reaching this milestone!
+
+Due to the complexity of this subject and size, I have seen few replicas of this model ever attempted and even less with greeblies.
+
+I suspect the Ladder Chief parts on the upper and lower inner edges of the mandibles may help validate positions of some of the armor plating and the greeblies.
+
+Looking excellent!
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #5291965)
+Author    : Dimitri-Ajith
+Date      : Feb 26, 2022 at 1:59 PM
+Reactions : Like — joberg, Bjorn
+────────────────────────────────────────────────────────────────────────
+
+Thanks Bjorn!
+
+Yes indeed the Ladder chief and the chassis 'rails' on the outer wall provide some guidance. And honestly, i couldn't have done this with the work in progress pictures from sean and stu their builds. Using those and reconfirming plating and greeblie locations on photos of the original falcon is my workflow.... Sometimes a quick peek at the Bandai PG, for an extra confirm.
+
+Getting there... slowly, but getting ,more confident by the hour. More things fall in place... i guess the beginning is the hardest. (I hope LOL)
+
+But sometimes i forget i already have countless...hours..days... weeks... months of research and staring at this model done, the past years.
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #5299265)
+Author    : Dimitri-Ajith
+Date      : Mar 21, 2022 at 11:59 AM
+Reactions : Love, Like, Wow — stevielewis, Rick Deckard, joberg
+────────────────────────────────────────────────────────────────────────
+
+A little update:
+
+3D Printing status:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6337-jpg.1558272/]
+
+And a start on the glueing of parts on the mandible sidewall.
+
+Hope it gives me the final pointers for the plating on this side of the mandible....
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6339-jpg.1558273/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6341-jpg.1558274/]
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #5299303)
+Author    : Studio Kitbash
+Date      : Mar 21, 2022 at 3:22 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+GREAT update -- thanks for the pictures!
+
+I swear that top photo reminds me of a Fisher-Price "My First Millennium Falcon" kind of toy for toddlers.
+
+But that bottom picture, with the greeblies, is amazing at how quickly she transforms into the real ship.
+
+Also, can I ask?  Are you making your own special modifications along the way, or is your build pure canon?  If so, what are the three little pipes coming off the front of the triangular Saladin box on the lower port sidewall?
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #5299304)
+Author    : Dimitri-Ajith
+Date      : Mar 21, 2022 at 3:25 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Thanks SK, no mods. Just as it was. thats bandai 8 ton, i think.
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #5299416)
+Author    : ChrisGFX
+Date      : Mar 22, 2022 at 1:40 AM
+Reactions : Like — Dimitri-Ajith
+────────────────────────────────────────────────────────────────────────
+
+you are doing a great job!
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #5299594)
+Author    : bwayne64
+Date      : Mar 22, 2022 at 5:54 PM
+Reactions : Like — Dimitri-Ajith
+────────────────────────────────────────────────────────────────────────
+
+Gotta love that armature, Mello Yellow !
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #5452085)
+Author    : Dimitri-Ajith
+Date      : Jul 19, 2023 at 11:53 AM
+Reactions : Like, Love — Aegis159, el toro, RayLuis
+────────────────────────────────────────────────────────────────────────
+
+It's been a while....
+
+As these projects go, last year work got in the way.
+
+I joked with Stu (Eagle1), "as long as we finish these Falcons in this lifetime... "(He is almost finished now..
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+)
+
+But I jynxed it with that joke, as I got a cardiac arrest in beginning of January....
+
+I got very lucky and still here. And everything is going well.. relative upwards.
+
+So back to this project again!
+
+She is on the Engine stand, a few more parts to print.
+
+And designing the domes... still not 100% sure how I will tackle this. But chances are big I am going to print a 4mm shell with ribs...
+
+later more on this.
+
+For now 2 photos to celebrate the continuation of this project and some more regular updates.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2808-jpg.1720765/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2807-jpg.1720767/]
+────────────────────────────────────────────────────────────────────────
+Post #28  (forum post #5452102)
+Author    : swgeek
+Date      : Jul 19, 2023 at 12:30 PM
+Reactions : Like — stevielewis, joberg, Dimitri-Ajith
+────────────────────────────────────────────────────────────────────────
+
+Yikes! Glad you're still with us.
+────────────────────────────────────────────────────────────────────────
+Post #29  (forum post #5452243)
+Author    : ChrisGFX
+Date      : Jul 20, 2023 at 12:33 AM
+Reactions : Like — Dimitri-Ajith
+────────────────────────────────────────────────────────────────────────
+
+wow nice progress!
+────────────────────────────────────────────────────────────────────────
+Post #30  (forum post #5452274)
+Author    : Studio Kitbash
+Date      : Jul 20, 2023 at 4:42 AM
+Reactions : Like — Bjorn
+────────────────────────────────────────────────────────────────────────
+
+Love that Dura-Steel plating!  Nice and clean and crisp looking -- great job!
+
+Glad to hear of your recovery even more.
+────────────────────────────────────────────────────────────────────────
+Post #31  (forum post #5452276)
+Author    : Bjorn
+Date      : Jul 20, 2023 at 4:45 AM
+────────────────────────────────────────────────────────────────────────
+
+Looking excellent Dimitri. Love the cabinet in the background also!
+
+Sorry to hear of your troubles. Best regards!
+────────────────────────────────────────────────────────────────────────
+Post #32  (forum post #5452288)
+Author    : Dimitri-Ajith
+Date      : Jul 20, 2023 at 5:18 AM
+Reactions : Like — joberg, Bjorn
+────────────────────────────────────────────────────────────────────────
+
+Bjorn said:
+
+			Looking excellent Dimitri. Love the cabinet in the background also!
+
+Sorry to hear of your troubles. Best regards!
+		
+
+Click to expand...
+
+Thanks, yeah I am working on my own 'recipe' for the moducases. This is my prototype. And happy for now. Some points are even cleaner as the moducases. But not the crazy delivery times. (Not sure if you know the moducases... well know with star wars hot toy / sideshow collectors)
+
+Or you probably meant what's in the cabinet.... 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #33  (forum post #5452296)
+Author    : joberg
+Date      : Jul 20, 2023 at 5:40 AM
+────────────────────────────────────────────────────────────────────────
+
+Looking very good
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+...after that health scare of yours
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #34  (forum post #5452299)
+Author    : Searun
+Date      : Jul 20, 2023 at 5:47 AM
+Reactions : Like — joberg, Bjorn
+────────────────────────────────────────────────────────────────────────
+
+Dimitri, 
+
+Great post. Astounding transformation taking place after your unique CAD armature approach. Your detail work applying kit parts and armor plating demonstrates the care you used in measurement research when applying the many years of knowledge freely contributed by the experts you named. Without their sound foundation the build, for me, this project would have been impossible to start.
+
+ As amazing as relatively recent 3D printing is, how great the introduction of the Bandai model is as an aid, the work you have done to date shows you have the skill.  Discovering how the art of kit part use complements the design of the Falcon and other excellent movie  model space craft construction is a key to the journey started by the original craftsmen.
+
+Super work.
+────────────────────────────────────────────────────────────────────────
+Post #35  (forum post #5452306)
+Author    : Dimitri-Ajith
+Date      : Jul 20, 2023 at 6:16 AM
+Reactions : Like — joberg, Bjorn, jcoffman99
+────────────────────────────────────────────────────────────────────────
+
+Thanks Searun for your kind words,
+
+Yes 1000% percent true, it took a whole bunch of people, with collaborative knowledge. To make it 'easy' to build for us...  and all the different aspects. Making the info transferable to us... like the CAD file from Joshua. (What is also the outcome of a collab. from different people) Without it I would have never been able to do my workflow.
+
+And it costs increadible amounts of effort to make notes along the way, that could be usefull to people in the future.
+
+So I am gratefull for all knowledge that is openly available. And like the crazy amount of work Mr. Coffman did as a relative 'newcomer'.
+
+About 3D printing....
+
+I went from printing everything (not on this project). Years ago.. trailblazing that route, to... only using it for Constructional things only.
+
+But buying all these kits isn't possible or not doable anymore.... so you probably can't do without it in the future.
+
+For me personal I like al aspects of creating. Designing, 3D/CAD, printing, manufactering, Research and making things with your hands... glueing / cutting etc. But making a studio scale replica is a different story. It's about having an exact copy as close as possible. (For me... what is in my possibilities).
+
+Resin printers are so good this days... I really don't like the post work on printed stuff. (Any printer).
+
+And I think the community will have 3D copies of all the kit parts we love eventually.
+
+Also takes some collaborative effort. I would still print all the kitparts seperate and then glue it... it feels different I guess.
+
+For now...
+
+I purchased in this week alone 12 kits again. And this week 5 I think, and 2 I have been looking dfor about 5 years. So I got lucky I think.
+
+So for as long as possible....plastic it is.
+
+Studio Kitbash
+
+Plating is not glued on there. Still need to doube double check. but happy with the patience therapy it took.
+
+haha. Learning...
+
+Talking about patience... check your DM 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #36  (forum post #5452459)
+Author    : eagle1
+Date      : Jul 20, 2023 at 3:19 PM
+Reactions : Like — joberg, stevielewis, Bjorn
+────────────────────────────────────────────────────────────────────────
+
+So good to see you posting here Dimitri & your keenness to delve back into your magnificent build after your recent health scare & really very happy you're okay now and we can continue our Falcon journey together my friend, even though I'm close to finishing, I'm still going to be around to see you knock yours out too!.
+
+I'm really impressed by your build construction I must say!. Well thought out with a ton of pre-planning, which will prove dividends as you progress. 
+
+We have talked so much over the years all things Falcon, but the main ingredient is of course the kit parts & the headache of obtaining all the more obscure & rarer to find kits in particular. But you're well on your way to completing the list!. 
+
+We discussed only the other day of how difficult it will be in the future to find these kits, if a builder decides to follow that route. Even now we are seeing long wait times for kits to appear for purchase, years most likely, so your build & the likes of Bjorns would possibly be the last of their kind before printing takes over in earnest.
+
+But for now...we each relish the 'ILM' way of fabrication, kit parts, even though our hulls will/are be all unique. 
+
+But anyhoo, Dimitri, a joy to see you here & excited to see your build evolve, already its totally cool my friend!.
+
+Stu
+────────────────────────────────────────────────────────────────────────
+Post #37  (forum post #5482624)
+Author    : Dimitri-Ajith
+Date      : Oct 24, 2023 at 3:48 AM
+Reactions : Like, Wow, Love — randalls88, Aegis159, joberg
+────────────────────────────────────────────────────────────────────────
+
+Back again..
+
+Some update on the mandible walls, and the upper dome.
+
+I'll post some photos later on HOW I did this. (It's 3D printed, with epoxy coating. And a djusted Ribs for where the cutouts wil come.)
+
+Still some cleanup todo. But getting there. Happy with the progress...
+
+[IMAGE: https://www.therpf.com/forums/attachments/20180225_161443-jpg.1754291/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3756-jpg.1754292/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3757-jpg.1754293/]
+────────────────────────────────────────────────────────────────────────
+Post #38  (forum post #5482628)
+Author    : Bjorn
+Date      : Oct 24, 2023 at 4:26 AM
+Reactions : Like — Searun, joberg, Dimitri-Ajith
+────────────────────────────────────────────────────────────────────────
+
+So innovative Dimitri. This is looking fantastic!
+
+The pics understate the size of that thing.
+────────────────────────────────────────────────────────────────────────
+Post #39  (forum post #5482637)
+Author    : JediMichael
+Date      : Oct 24, 2023 at 5:07 AM
+Reactions : Like — Bjorn, Searun, Dimitri-Ajith
+────────────────────────────────────────────────────────────────────────
+
+Its like everyone is all working on a 5 footer all at once, but each person building it in their own unique way, making it still feel all different.
+
+This one is a very interesting way to get there and is looking great.
+────────────────────────────────────────────────────────────────────────
+Post #40  (forum post #5482642)
+Author    : Dimitri-Ajith
+Date      : Oct 24, 2023 at 5:13 AM
+Reactions : Like, Haha — Bjorn, joberg, JediMichael
+────────────────────────────────────────────────────────────────────────
+
+JediMichael said:
+
+			Its like everyone is all working on a 5 footer all at once, but each person building it in their own unique way, making it still feel all different.
+
+This one is a very interesting way to get there and is looking great.
+		
+
+Click to expand...
+
+Yes Michael, for the 'mid-section' (the yellow stuff) In retrospect it's not the most efficeint way. My motivation was, I would be looking a long time at it... so it would better be cool looking. Wood / plexi would be more efficient (time and money wise). But thats what it is now.
+
+My full writedown will follow. For everyone doing the builds differtent, it's a matter of each his skillset / available money and resources / time etc.
+
+For me this approach was the one I feel most confident with... especially becasue this was my second attempt.
+
+Bjorn Oooh yes def. on the size., this is the widest lens on the Iphone, so I could take a full on picture.
+
+But it's huge. (but you knew that already 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ )
+────────────────────────────────────────────────────────────────────────
+Post #41  (forum post #5482644)
+Author    : JediMichael
+Date      : Oct 24, 2023 at 5:16 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Dimitri-Ajith said:
+
+			Yes Michael, for the 'mid-section' (the yellow stuff) In retrospect it's not the most efficeint way. My motivation was, I would be looking a long time at it... so it would better be cool looking. Wood / plexi would be more efficient (time and money wise). But thats what it is now.
+
+My full writedown will follow. For everyone doing the builds differtent, it's a matter of each his skillset / available money and resources / time etc.
+
+For me this approach was the one I feel most confident with... especially becasue this was my second attempt.
+		
+
+Click to expand...
+
+Yeah, I'm totally the same way with doing what I'm most comfortable with.  Although I can't even begin to tell you how many times I start something, and realize, I SHOULD HAVE DONE IT THIS WAY INSTEAD OF THAT WAY.
+
+Its all in the learning experience, and doing what we all enjoy.
+────────────────────────────────────────────────────────────────────────
+Post #42  (forum post #5482645)
+Author    : Dimitri-Ajith
+Date      : Oct 24, 2023 at 5:20 AM
+Reactions : Like — eagle1, Bjorn, joberg
+────────────────────────────────────────────────────────────────────────
+
+JediMichael said:
+
+			Yeah, I'm totally the same way with doing what I'm most comfortable with.  Although I can't even begin to tell you how many times I start something, and realize, I SHOULD HAVE DONE IT THIS WAY INSTEAD OF THAT WAY.
+
+Its all in the learning experience, and doing what we all enjoy.
+		
+
+Click to expand...
+
+Yeah for sure... although this was a sum of my own research and advise from Stu and some other people.
+
+And the doing the domes seperate this way.. on top of the midsection gave some opportunity to Test if this approach worked.
+
+In essence the Midsection of mine is the same as Stu his midsection but 3D printed and Acrylic sheet. And Stu's one is from MDF.
+
+So that was a no brainer... 
+
+The Domes where a questionmark for a long time... but very confident on them now! But more on that later......
+────────────────────────────────────────────────────────────────────────
+Post #43  (forum post #5482668)
+Author    : joberg
+Date      : Oct 24, 2023 at 7:28 AM
+Reactions : Like — Dimitri-Ajith
+────────────────────────────────────────────────────────────────────────
+
+Really looking man
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #44  (forum post #5482771)
+Author    : Searun
+Date      : Oct 24, 2023 at 12:13 PM
+Reactions : Like, Love — joberg, Dimitri-Ajith, Bjorn
+────────────────────────────────────────────────────────────────────────
+
+Clean and crisp Dimitri construction. The sign of a good modeler and something I always struggle with.
+
+Revisited your thread from the beginning. Looks like you have recognized and addressed some hard spots. You had a unique approach to building the basic structure to dimensional specification. It paid off. Great photos. Also, your use of key kit parts to confirm thicknesses & length clearly shows. So many times the larger greeblies literally show you the way.
+────────────────────────────────────────────────────────────────────────
+Post #45  (forum post #5482993)
+Author    : Dimitri-Ajith
+Date      : Oct 25, 2023 at 6:04 AM
+Reactions : Like, Love, Wow — Aegis159, JSchneider, RealDaveWinter
+────────────────────────────────────────────────────────────────────────
+
+As promised some more details about the build so far...
+
+Not sure where the photos went but when I completed the yellow mid section printing, I glued everything together (Duh..)
+
+And had plexi lasercut, 3mm thickness.
+
+I am working of the updated CAD file from joshua (Maruska) and have made my own version from this.... in the meantime it became a lot more different than the original. (more on that later).
+
+And ofcourse It is fully customized for the printing build I am doing.
+
+I had a ring printed in the mid section, and some notches cutout in the plexi to align the ring.
+
+The sections I printed would 'lock' in the ring.
+
+[IMAGE: https://www.therpf.com/forums/attachments/cad_01-png.1754709/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/build_01-png.1754710/]
+
+Since I have to work backwards with finding the cutouts for the pits in the dome, do the plating, jawbox and walkways first.. or at least the locations. And then find and confirm the pitholes; I made an overlay in cad from the bandai blueprint. So I can add ribs and support for the dome but without interfering with the pits cutouts. (Or actually it's the other way around 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+.
+
+Keep in mind, I just used the bandai overlay for a crude measurement, you can get a lot of data from it. (with the correct scaling ratio), but beaware of some possible differences. So always DYOR, look at original ref. photos.
+
+[IMAGE: https://www.therpf.com/forums/attachments/cad_02-png.1754729/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/3d-01-png.1754713/]
+
+The underside of the dome. I also had to keep in mind that I had to print parts. So printbedsize was also a factor.
+
+[IMAGE: https://www.therpf.com/forums/attachments/3d_top_dome_inside-png.1754714/]
+
+Here you can see the inside getting epoxy coated. This will make the prints strong as F.
+
+[IMAGE: https://www.therpf.com/forums/attachments/epoxy-png.1754715/]
+
+The cleaned up walkways, these are from 7 years ago from my first attempt. The bottom ones will be a little bit more efficient. (Lighter)
+
+[IMAGE: https://www.therpf.com/forums/attachments/walkways-png.1754716/]
+
+That's it for now.
+
+Not sure what is next, have to finish te plating on the mandibles.
+
+And then I am going to do the plating and kitparts from the upper jawbox I think.
+
+The engine deck is printing now, looking forward how that will look especially the 'Lip' section, it was a lot of CAD work to get that right...
+────────────────────────────────────────────────────────────────────────
+Post #46  (forum post #5483166)
+Author    : eagle1
+Date      : Oct 25, 2023 at 2:42 PM
+Reactions : Like, Love — Searun, bwayne64, joberg
+────────────────────────────────────────────────────────────────────────
+
+She's looking great Dimitri.
+
+Now you have the basic shape & adding the subassemblies such as the walkways & jawboxes, you can have fun & jump into some of the fine detailing as you said. I found doing this helped in keeping going & to keep sane haha. It's all progress though right.
+
+Very happy your well thought out build methods have proved successful mate, we are all enjoying seeing your build progress!.
+
+Stu
+────────────────────────────────────────────────────────────────────────
+Post #47  (forum post #5483378)
+Author    : joberg
+Date      : Oct 26, 2023 at 5:31 AM
+Reactions : Like — Dimitri-Ajith
+────────────────────────────────────────────────────────────────────────
+
+Excellent work...eager to see your next updates
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #48  (forum post #5483420)
+Author    : RealDaveWinter
+Date      : Oct 26, 2023 at 7:57 AM
+Reactions : Like — Dimitri-Ajith
+────────────────────────────────────────────────────────────────────────
+
+That looks great!
+────────────────────────────────────────────────────────────────────────
+Post #49  (forum post #5526330)
+Author    : Dimitri-Ajith
+Date      : Apr 4, 2024 at 7:55 AM
+Reactions : Like, Love, Wow — Aegis159, joberg, GTMill
+────────────────────────────────────────────────────────────────────────
+
+So... Bjorn reminded me to post an update here.
+
+I'll keep it short this time 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Since last time:
+
+- Top dome on there
+
+- Engine deck, still figuring things out, nothing glued on there. Working out the center parts, still not confidnt to glue the first parts down.
+
+The vents are just placeholders.
+
+- Cockpit tunnel on there. On the top, long section,  I glued most of the kitparts. (not finished)
+
+did the measurements for the plating.
+
+- Jawbox is on there, started with cutting plating.
+
+- Sealab, yes finally 1 got one. The target was to have at least 1 vintage Sealab on there.
+
+[IMAGE: https://www.therpf.com/forums/attachments/wip06-jpg.1806908/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/wip05-jpg.1806909/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/wip04-jpg.1806910/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/wip03-jpg.1806911/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/wip02-jpg.1806912/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/wip01-jpg.1806913/]
+────────────────────────────────────────────────────────────────────────
+Post #50  (forum post #5526343)
+Author    : Searun
+Date      : Apr 4, 2024 at 9:01 AM
+Reactions : Like — joberg, Dimitri-Ajith, Bjorn
+────────────────────────────────────────────────────────────────────────
+
+Dimitri,
+
+Thanks for the photographs, especially the pilot tube photo which helps me with those small greeblies. Great fuselage construction. All around dimensions look very sharp. Critical kit parts confirm this, something you certainly know by now at this stage.
+
+ While the engine deck is one of the more difficult puzzles, the greeblies there are all interconnected. Placing confirmed groups glued on thin moveable “skid plates” may help arrange things so they can be squeezed within the engine deck boundaries. 
+
+Great work on your build. You can see success happening. It takes a lot of time and persistence. I am still about another year away from required detail work even with the good fortune of knowledgeable kit part help (a learned, but evaporating skill, that takes many years of dedicated research and rare material collection know-how).
+────────────────────────────────────────────────────────────────────────
+Post #51  (forum post #5526531)
+Author    : Bjorn
+Date      : Apr 4, 2024 at 10:13 PM
+Reactions : Like — Dimitri-Ajith, joberg, Searun
+────────────────────────────────────────────────────────────────────────
+
+That is a massive update to see it at this point. Well done.
+
+Per Searun's comments, I love the care of placement and workings out in pencil. Much like another master Falcon builder that has not posted for a while here...
+
+And congrats's on that Sealab. They are so hard to come by. Very much looking forward to seeing the new one when it is released soon.
+────────────────────────────────────────────────────────────────────────
+Post #52  (forum post #5526629)
+Author    : joberg
+Date      : Apr 5, 2024 at 9:04 AM
+Reactions : Like — Dimitri-Ajith
+────────────────────────────────────────────────────────────────────────
+
+Great update and looking very good
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #53  (forum post #5599699)
+Author    : Vacformedhero
+Date      : Jan 19, 2025 at 2:16 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Stunning work, very inspirational
+────────────────────────────────────────────────────────────────────────
+Post #54  (forum post #5599748)
+Author    : ChrisGFX
+Date      : Jan 19, 2025 at 8:41 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+great stuff my friend!
+────────────────────────────────────────────────────────────────────────
+Post #55  (forum post #5599755)
+Author    : FZ6
+Date      : Jan 19, 2025 at 9:25 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Amazing project!! As you said, you have guts!!! LOL
+────────────────────────────────────────────────────────────────────────
+Post #56  (forum post #5626901)
+Author    : sd68
+Date      : May 6, 2025 at 5:43 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+On your dome panels what is your preferred orientation of the parts for printing?  I am contemplating flat or on edge. I don’t have any fdm printing experience so looking for any tips I can get.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 56

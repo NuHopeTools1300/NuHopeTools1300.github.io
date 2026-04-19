@@ -1,0 +1,65 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Good diameter/thread gauge for mounting heavy studio scale models?
+URL    : https://www.therpf.com/forums/threads/good-diameter-thread-gauge-for-mounting-heavy-studio-scale-models.335907/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #5139463)
+Author    : Millenniumf
+Date      : Dec 1, 2020 at 5:50 AM
+Reactions : Like — Bjorn
+────────────────────────────────────────────────────────────────────────
+
+So I'm making several studio scale models (USS Grissom, TESB Millennium Falcon, A-wing fighter, etc.) and I was hoping for some recommendations on dimensions to make a general-use threaded connector. I'll be using metal, or wood-and-metal hybrids to make several of these so I can just grab one and install it in a model, and I'd really like to use a thread gauge that is commonplace enough to find in a hardware store, and which will be thick enough for large-scale models that weigh 30 pounds or more. My Millennium Falcon is probably the heaviest in that regard, or will be when completed, plus it might not be the biggest or heaviest model I will be making. I'm a little out of practice with thread gauges this large, as most of my needs so far have been met by smaller gauge bolts.
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #5139541)
+Author    : swgeek
+Date      : Dec 1, 2020 at 8:52 AM
+Reactions : Like — Bjorn
+────────────────────────────────────────────────────────────────────────
+
+1/2-13 is common enough to make it pretty easy to find and should be plenty strong.
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #5139857)
+Author    : vfxsup64
+Date      : Dec 1, 2020 at 10:02 PM
+Reactions : Like — Flixen, star-art, Bjorn
+────────────────────────────────────────────────────────────────────────
+
+Now, this is just me - but, I would suggest considering an expanding-collet type of design.
+
+It’s what we used on the miniature stages, in a myriad of forms, at Boss Film Studios.
+
+For example:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0907-jpg.1374067/]
+
+I feel a threaded shaft may limit one’s pose-able options and may get your model “painted into a corner”, so to speak.
+
+Just my 2-cents worth of input...
+
+Regards,
+
+André
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #5140111)
+Author    : Bjorn
+Date      : Dec 2, 2020 at 2:54 PM
+────────────────────────────────────────────────────────────────────────
+
+Great question, I've also strangely been curious what others are using on their armatures for mounting. The collet design is a great idea! 
+
+Thank you for sharing!
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #5142449)
+Author    : Duncanator
+Date      : Dec 7, 2020 at 10:55 PM
+Reactions : Like — Archive&Future, notype, Bjorn
+────────────────────────────────────────────────────────────────────────
+
+For the big models at ILM, we used stage pipe a lot - which is 1 1/2" schedule 40 aluminum pipe. It was handy because we had a lot of it around.
+
+On smaller models, the size of the mount was driven by where and how the model needed to be hung. We tried to go as big as we could to keep it as rigid as possible for filming - probably over-kill for mounting a home display.  We just couldn't have any sag or wobble on motion control shots.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 5

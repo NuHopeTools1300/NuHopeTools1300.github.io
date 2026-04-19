@@ -1,0 +1,1136 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : What scale is the 5 foot Millennium Falcon?
+URL    : https://www.therpf.com/forums/threads/what-scale-is-the-5-foot-millennium-falcon.239235/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #3645135)
+Author    : zeus1138
+Date      : May 14, 2015 at 4:00 AM
+────────────────────────────────────────────────────────────────────────
+
+Hi guys. Does anyone know what scale the 5 foot Millennium Falcon is? I would really appreciate it if anyone could help me out.
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #3645240)
+Author    : BiggusDoggus
+Date      : May 14, 2015 at 7:04 AM
+Reactions : Like — Nwerke
+────────────────────────────────────────────────────────────────────────
+
+That kinda depends on how long you think a full sized Falcon would be, and how long you think the 5' falcon is.
+
+Depending on source you can get a length for the full sized Falcon as anything between 80ft and 152ft
+
+many people seem to agree that Robert Brown's calculations as documented on his Ship of Riddles site are about right - certainly that's what the Full Scale Falcon guys are working to. That would give an overall length of 114ft or 34.74m
+
+as for the 5' Falcon, Star Wars Chronicles lists the model made for ANH as 173cm (or 68 inches and change). <- way more than 5' btw, but that's not the measurement that everyone who tries a 5' necessarily uses.
+
+Extrapolating from these two figures, a 5' (ish) Falcon is about 1:20 (ish) but I've seen it given as 1:24, and it's pretty easy to generate as large as 1:17 with other combinations of figures.
+
+To be honest you may as well be asking how long is a piece of string? Nobody knows for certain, not least because the full scale Falcon (more than one set in each movie) was a) not actually to scale and b) not fully built, and it's difficult if not impossible to get close enough to the 5' model that attends the shows to get exact measurements. A brief search of these very forums will turn up a number of build plans with minor differences (that may well become major if/when you actually come to do anything with them) It's usual to start with the known parts used for greeblies, and size the ship from there, but even then it's difficult to agree exactly.
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #3645411)
+Author    : swgeek
+Date      : May 14, 2015 at 10:37 AM
+Reactions : Like — jake88
+────────────────────────────────────────────────────────────────────────
+
+I've always heard it is 1:24ish.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #3645535)
+Author    : LrdSatyr8
+Date      : May 14, 2015 at 1:00 PM
+────────────────────────────────────────────────────────────────────────
+
+So far the Robert Brown numbers are most accepted and agreed upon numbers for the size of the original 1:1 scale ship.  So here's how you calculate the scale.  If the length of the ship is 114' long, and you want to find out the scale of the 5' model you divide 114 by 5 and get a result of 22.8 or roughly 1/23 scale.  Now that's a rough estimate based on the assumption that the 5 footer is actually 5 feet long. According to the number above it was 68 inches long which means 5.67 feet  So using that number up divide 114 by 5.67 and you get 20.11 or 1/20 scale.  Scale basically means if you were take the scaled down version, and place 20 of them end to end you would equal the length of the full scale version.  Scale numbers are usually rounded to the nearest whole number.  Because it's easier to say 1/20th scale then to say 1/20.11th scale.  But basically it all depends on the numbers you are looking at.  And as you can see... the difference of only 8 inches is the difference between 1/23rd and 1/20th scale.
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #3645545)
+Author    : rbeach84
+Date      : May 14, 2015 at 1:16 PM
+────────────────────────────────────────────────────────────────────────
+
+Since there was no "real" MillFalcon, it is somewhat nonsensical to discuss scale.  In essence, the "5 footer" WAS the real MF and hence was 1:1 scale.  Scaling a model in such situations boils down to 'how big does it look?'  Robert Brown & others have attempted to walk the analysis tightrope and make a reasonable correlation between the interior and exterior sets with typically a bias towards the interior sets in order to come up with some working dimensions.  For you as the modeler, it is a judgement call & if their work is acceptable, then go with it.  For me personally, I am calling the Hasbro Hero 28" 'toy model' at 1:48 scale - close enough to make it fit with the rest of my 1:48 scale collection!
+
+For "practical" reasons, I assume the approximately 5-foot long ANH MillFalcon to be 1:24 scale - aka 'dollhouse scale' - simply because you can park a 1:24 Corvette by the ramp!  ;^P
+
+Regards, Robert
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #3645577)
+Author    : LrdSatyr8
+Date      : May 14, 2015 at 1:55 PM
+Reactions : Like — rbeach84
+────────────────────────────────────────────────────────────────────────
+
+rbeach84 said:
+
+			Since there was no "real" MillFalcon, it is somewhat nonsensical to discuss scale.  In essence, the "5 footer" WAS the real MF and hence was 1:1 scale.  Scaling a model in such situations boils down to 'how big does it look?'  Robert Brown & others have attempted to walk the analysis tightrope and make a reasonable correlation between the interior and exterior sets with typically a bias towards the interior sets in order to come up with some working dimensions.  For you as the modeler, it is a judgement call & if their work is acceptable, then go with it.  For me personally, I am calling the Hasbro Hero 28" 'toy model' at 1:48 scale - close enough to make it fit with the rest of my 1:48 scale collection!
+
+For "practical" reasons, I assume the approximately 5-foot long ANH MillFalcon to be 1:24 scale - aka 'dollhouse scale' - simply because you can park a 1:24 Corvette by the ramp!  ;^P
+
+Regards, Robert
+		
+
+Click to expand...
+
+I guess it all depends on your level of OCD.  If you want to be a stickler, you'd use a 1/20th scale for the 5 footer... but personally I think anywhere between 1/20th and 1/24th scale wouldn't be very noticable.
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #3645598)
+Author    : RogueTrooper
+Date      : May 14, 2015 at 2:20 PM
+────────────────────────────────────────────────────────────────────────
+
+rbeach84 said:
+
+			Since there was no "real" MillFalcon, it is somewhat nonsensical to discuss scale.
+		
+
+Click to expand...
+
+They did build a full scale MF for ANH, where are the measurements for that?
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #3645690)
+Author    : LrdSatyr8
+Date      : May 14, 2015 at 4:08 PM
+────────────────────────────────────────────────────────────────────────
+
+RogueTrooper said:
+
+			They did build a full scale MF for ANH, where are the measurements for that?
+		
+
+Click to expand...
+
+Actually that Falcon that was "full scale" wasn't... in ANH it was only a side façade. You can tell in the tattoonie hanger because the radar dish is missing.  They did build a "full scale" complete for ESB but both of those were only 3/4 the size of what a full scale should have been.
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #3645694)
+Author    : LrdSatyr8
+Date      : May 14, 2015 at 4:13 PM
+────────────────────────────────────────────────────────────────────────
+
+RogueTrooper said:
+
+			They did build a full scale MF for ANH, where are the measurements for that?
+		
+
+Click to expand...
+
+Actually that Falcon that was "full scale" wasn't... in ANH it was only a side façade. You can tell in the tattoonie hanger because the radar dish is missing.  They did build a "full scale" complete for ESB but both of those were only 3/4 the size of what a full scale should have been.  On a happy note... a full 1:1 scale 114 foot Falcon has been built by J.J. for Disney World.  Complete with the full interior and completely accurate to the films.  It will be put on display for tours when the new Star Wars area in Disney World is completed.  Can't wait to see it!
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #3645772)
+Author    : LrdSatyr8
+Date      : May 14, 2015 at 5:39 PM
+────────────────────────────────────────────────────────────────────────
+
+RogueTrooper said:
+
+			They did build a full scale MF for ANH, where are the measurements for that?
+		
+
+Click to expand...
+
+<br>
+
+<br>
+
+Actually that Falcon that was "full scale" wasn't... in ANH it was only a side façade. You can tell in the tattoonie hanger because the radar dish is missing.  They did build a "full scale" complete for ESB but both of those were only 3/4 the size of what a full scale should have been.&nbsp; On a happy note... a full 1:1 scale 114 foot Falcon has been built by J.J. for Disney World.&nbsp; Complete with the full interior and completely accurate to the films.&nbsp; It will be put on display for tours when the new Star Wars area in Disney World is completed.&nbsp; Can't wait to see it!<br>
+
+<br>
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #3645860)
+Author    : RogueTrooper
+Date      : May 14, 2015 at 7:10 PM
+────────────────────────────────────────────────────────────────────────
+
+LrdSatyr8 said:
+
+			On a happy note... a full 1:1 scale 114 foot Falcon has been built by J.J. for Disney
+
+ World.  Complete with the full interior and completely accurate to the films.  It will be put on display for tours when the new Star Wars area in Disney World is completed.
+		
+
+Click to expand...
+
+that's something I will have to see
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #3645883)
+Author    : batguy
+Date      : May 14, 2015 at 7:43 PM
+Reactions : Like — Nwerke
+────────────────────────────────────────────────────────────────────────
+
+The Falcon has about 3 different sizes:
+
+The 5ft model was the first thing ever built.  It has 1:24 model seats inside.  The ILM crew built all the ships that were dogfighting in ANH to that same 1:24 scale in case it proved useful.  This points to a monstrously big 136ft full size ship.  
+
+The soundstage sets were extrapolated off the 5ft model.  They were never even ballpark close to fitting each other or the ILM models.  The interior sets suggest a 114ft Falcon.  The cockpit got 18" deeper (front to back) for ESB & ROTJ to give the actors more room inside.  
+
+The 1:1 exterior shells (just the right side for ANH, and the whole ship for ESB) were radically undersized to fit on the soundstages.  They were only 82ft long.  You can visibly see the cockpit is too small (compared to the interior scenes) when they are walking around underneath it.  
+
+The closest thing to an official size, as of 2015, is the 114ft interior size.  For Ep#7 they have built the 1:1 scale exterior shell that big for the first time.
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #3645998)
+Author    : Darth Humorous
+Date      : May 14, 2015 at 11:32 PM
+────────────────────────────────────────────────────────────────────────
+
+If you are interested in a scale to a “real life” sized Falcon AND want to be real nit-pickky about it (i.e., a rivet counter), below is my take on the scale.
+
+So far, my own work reveals Bob Brown’s estimate of 114 feet for a “real life” Falcon to be most excellent. Could it be different? Sure, but that is what I will go with.
+
+Furthermore, I had determined many years ago that the base, un-greeblied falcon length to be 64 inches. My estimates for the engine flap greebly and the “headlight housing” greebly as applied to the engine deck and mandible tips, respectively, gives a total length of 64.539625 inches.
+
+To be clear, the engine flap greebly I refer to is from the M8 Munitions Carrier and 8" Howitzer kit and the “headlight housing” greebly I refer to is from the Ferrari 312B kit.
+
+From the 114 foot “full size” length I choose to be correct, and my estimate of  64.539625 inches for the “5-footer” length, I calculate a scale of 1/21.1962805795664.
+
+Since I do not have access to the actual greeblies in question, there is undoubtedly some error in my final length, and therefore scale, but I’d wager this error is not very much at all.
+
+It could be that ILM was going for a total model length of 64.5 inches, and IF they succeeded in achieving this total length, some or all of the following cases may apply to my total estimate:
+
+• my “front-to-back” length estimate of the plow part used for the engine flap greebly is off a little.
+
+• my placement estimate of the “front-to-back” of the plow part used for the engine flap greebly is off a little.
+
+• my “front-to-back” length estimate of the “headlight housing” greebly is off a little.
+
+Keep in mind, however, that it is unlikely for those greeblies to measure out to an exact 1/2 inch when added to a 64 inch long base Falcon model.
+
+Mark
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #3659073)
+Author    : Vacformedhero
+Date      : May 30, 2015 at 6:15 AM
+Reactions : Like — Nwerke
+────────────────────────────────────────────────────────────────────────
+
+Thanks fr this guys, I am scratch building key components for the hasbro which I am building as ANH , my conversions were getting screwed up as I was getting distracted by the scale of the parts used .....this has cleared it up. See sketch of 1/5 rotary engine , I have been using all references gathered here and in various books, while it's ok to work things out by eye in porportion to another feature it's great when a measurement confirms a position . You can see my reference gathered in my profile photo gallery BTW seeing the actual size of this piece drawn out gives a real appreciation of the size of the original
+
+ 
+
+Attachments
+
+[IMAGE: 219933-942dc6bc7d33677d28a5d9be9fc632cb.jpg]
+
+image.jpg
+
+					905 KB
+					
+					· Views: 444
+					
+				
+
+[IMAGE: 219938-feeca517b47dbc9aa27320fcc14b3b75.jpg]
+
+image.jpg
+
+					1.7 MB
+					
+					· Views: 516
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #3659629)
+Author    : imurme
+Date      : May 30, 2015 at 7:55 PM
+────────────────────────────────────────────────────────────────────────
+
+Vacformedhero said:
+
+			...You can see my reference gathered in my profile photo gallery...
+		
+
+Click to expand...
+
+How do you find this gallery? Sorry for my ignorance...
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #3660741)
+Author    : Vacformedhero
+Date      : Jun 1, 2015 at 2:50 AM
+────────────────────────────────────────────────────────────────────────
+
+imurme said:
+
+			How do you find this gallery? Sorry for my ignorance...
+		
+
+Click to expand...
+
+Album in my profile http://www.therpf.com/album.php?albumid=5233, I gathered together all the reference shots on this site and batched them together by features on the falcon, I will do one later for paint scheme
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #3661272)
+Author    : imurme
+Date      : Jun 1, 2015 at 3:33 PM
+────────────────────────────────────────────────────────────────────────
+
+Awesome Vacformedhero, sometimes I feel like such an idiot asking basic questions like that (I didn't realize we had albums), but thank you for linking for me!  I look forward to your paint scheme album, the falcon colors are something I am currently researching...
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #3662646)
+Author    : Nwerke
+Date      : Jun 3, 2015 at 1:42 AM
+────────────────────────────────────────────────────────────────────────
+
+136' is good. Why would that be 'monstrous'? No truly full-size mockup has been built, but why build a 136' mockup when you can easily skimp and nobody will even notice til years later. We're all familiar with the problems of the sets not fitting within the mockup shells. Most of that if not all of it goes away at 136'. 
+
+ILM used 1/24 for many of the Star Wars ship models - the fighters, the final 5'-ish Falcon, I've never done the numbers but I wouldn't be surprised if the Pirate Ship was 1/24 too, originally. These were treated *by the OT productions* as the definitive research materials. 
+
+Works for me.
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #3676168)
+Author    : jlwshere
+Date      : Jun 18, 2015 at 5:05 PM
+────────────────────────────────────────────────────────────────────────
+
+I figured 1:18
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #3676270)
+Author    : Nwerke
+Date      : Jun 18, 2015 at 7:27 PM
+────────────────────────────────────────────────────────────────────────
+
+That'd be a 102' ship. Bit cramped. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #3676319)
+Author    : batguy
+Date      : Jun 18, 2015 at 8:54 PM
+────────────────────────────────────────────────────────────────────────
+
+I recall adding things up a couple years ago and finding that a 136' ship is too big to match the 1:1 soundstage cockpit sets.
+
+IMO those cockpit sets are the most crucial interlock of the interior & exterior sets.  Cockpits are usually the best place to find a match in general.  But in the Falcon's case the cockpit also gets a ton of close-quarters screen time.  And aside from that depth addition in ESB it didn't get changed very much over the course of 3 movies.  
+
+So, take the ILM 5ft model and scale it up until the cockpit sets fit right.  Whatever that is, it's the closest to a correct scale we can get IMO.  I can't recall the number now but I think it was more like 114' than 136'.  
+
+The rest of the soundstage interiors probably won't fit quite right that way.  But those are not entirely reconcilable with the exterior not matter what size you pick.  If they're close then I say go with it.  The only other option is to change the exterior's proportions.
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #3676362)
+Author    : Nwerke
+Date      : Jun 18, 2015 at 10:11 PM
+────────────────────────────────────────────────────────────────────────
+
+You may be right, never looked at the cockpit sets in a ton of detail. They're a 10' diameter like the TIE cockpit, IIRC, right?
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #3676409)
+Author    : cavx
+Date      : Jun 19, 2015 at 12:17 AM
+────────────────────────────────────────────────────────────────────────
+
+Nwerke said:
+
+			You may be right, never looked at the cockpit sets in a ton of detail. They're a 10' diameter like the TIE cockpit, IIRC, right?
+		
+
+Click to expand...
+
+So would 10" PVC be about right to make a 1/12 scale for the 6" black series?
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #3676483)
+Author    : Nwerke
+Date      : Jun 19, 2015 at 4:00 AM
+────────────────────────────────────────────────────────────────────────
+
+I checked the set drawings, the max interior diameter of the cockpit tube was about 9.1' so a 10' exterior seems pretty reasonable. I concede that approach does give less than 115' total length, in fact going by the BMB drawings, I'm getting 111'. 
+
+Sooooo the interior sets are also underscaled, just not as badly. :lol Seriously, your approach is as valid as any.
+
+- - - Updated - - -
+
+cavx, that'd be very slightly over-scale for the interior diameter, but I doubt it'd be noticeable.
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #3676516)
+Author    : batguy
+Date      : Jun 19, 2015 at 5:37 AM
+Reactions : Like — Nwerke
+────────────────────────────────────────────────────────────────────────
+
+Doing the math - it seems like 5.75" is the decided diameter of the cockpit tube on the 5ft ILM model.  Scaled up x 24 = 11.5' cockpit tube on the 1:1 scale ship.
+
+Figuring on a 5'8" (68") length for the ILM model + a 10.0' soundstage exterior cockpit = I'll spare you the math but it lands near the 114' total ship length number.  It points to the 5ft ILM minature being roughly 1/20th scale. 
+
+Trivia: 
+
+--  As other people have pointed out over the years, this makes the original 5ft ILM model almost precisely the correct size to match the classic Star Wars toy action figures.  (No wonder they always under-sized the MF toys a bit!)  
+
+--  If the ANH set builders had kept the ILM model's original (oversize 136') scale, the toy action figures would match a toy MF that is roughly 82" with a 57" dish diameter.    
+
+--  So what is a "correct" size 1/24th scale miniature Falcon, for a 114' full scale ship?  In hindsight the original ILM model should have been 4'8" (56") long, with the 48" dish diameter reduced to 40".
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #3679247)
+Author    : LrdSatyr8
+Date      : Jun 22, 2015 at 1:57 PM
+────────────────────────────────────────────────────────────────────────
+
+WOW I cannot believe that everyone is still debating and doing math about a subject that has been scrutinized extensively since the movie came out in 77.  You all really need to check into the work of Robert Brown and the Ship of Riddles site.  It's because of him we actually have a scale for the Falcon to begin with... and it took him close to 20 years to come up with the data!
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #3679540)
+Author    : Darth Humorous
+Date      : Jun 22, 2015 at 7:06 PM
+────────────────────────────────────────────────────────────────────────
+
+I’m not debating it. Perhaps my earlier post bears re-reading, or reading in the first place if anyone skipped over it. My determination of 64 inches for the base length of the “5-footer” is quite accurate, and has been verified and beaten to death in long dead and gone threads on other BBs. The only real variables are the lengths of the frontmost and rearmost greeblies, and the positioning of the rearmost greeblies. And my estimates of those are really freaking close.
+
+Mark
+
+LrdSatyr8 said:
+
+			WOW I cannot believe that everyone is still debating and doing math about a subject that has been scrutinized extensively since the movie came out in 77.  You all really need to check into the work of Robert Brown and the Ship of Riddles site.  It's because of him we actually have a scale for the Falcon to begin with... and it took him close to 20 years to come up with the data!
+		
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #28  (forum post #3679690)
+Author    : batguy
+Date      : Jun 22, 2015 at 10:21 PM
+────────────────────────────────────────────────────────────────────────
+
+I've read Robert Brown's stuff too.  It's THE definitive work on the ship.  Probably always will be.
+────────────────────────────────────────────────────────────────────────
+Post #29  (forum post #3679882)
+Author    : LrdSatyr8
+Date      : Jun 23, 2015 at 6:38 AM
+────────────────────────────────────────────────────────────────────────
+
+Darth Humorous said:
+
+			I’m not debating it. Perhaps my earlier post bears re-reading, or reading in the first place if anyone skipped over it. My determination of 64 inches for the base length of the “5-footer” is quite accurate, and has been verified and beaten to death in long dead and gone threads on other BBs. The only real variables are the lengths of the frontmost and rearmost greeblies, and the positioning of the rearmost greeblies. And my estimates of those are really freaking close.
+
+Mark
+		
+
+Click to expand...
+
+So basically you're trying to get the numbers down to the micromillimeter scale so that everything is accurate and precise.  I thought I had OCD!  Ok... so... copying my post from post #4 on this matter... here is the same information that seems to be overlooked:
+
+So far the Robert Brown numbers are most accepted and agreed upon numbers for the size of the original 1:1 scale ship. So here's how you calculate the scale. If the length of the ship is 114' long, and you want to find out the scale of the 5' model you divide 114 by 5 and get a result of 22.8 or roughly 1/23 scale. Now that's a rough estimate based on the assumption that the 5 footer is actually 5 feet long. According to the number above it was 68 inches long which means 5.67 feet So using that number up divide 114 by 5.67 and you get 20.11 or 1/20 scale. Scale basically means if you were take the scaled down version, and place 20 of them end to end you would equal the length of the full scale version. Scale numbers are usually rounded to the nearest whole number. Because it's easier to say 1/20th scale then to say 1/20.11th scale. But basically it all depends on the numbers you are looking at. And as you can see... the difference of only 8 inches is the difference between 1/23rd and 1/20th scale.​
+And from post #13
+
+             From the 114 foot “full size” length I choose to be correct, and my estimate of 64.539625 inches for the “5-footer” length, I calculate a scale of 1/21.1962805795664.
+
+So... if you want to be a stickler, and go with the actual length of the 5'footer with the greeblies on each end you're looking at a actual length of 64.539625 making the scale 1:21.19628057897664 precisely.  Does that solve the issue anymore or should I provide photo evidence?
+────────────────────────────────────────────────────────────────────────
+Post #30  (forum post #3679902)
+Author    : batguy
+Date      : Jun 23, 2015 at 7:16 AM
+────────────────────────────────────────────────────────────────────────
+
+Hmmm . . . .
+
+Here's a much simpler way to say all this:
+
+68" ILM model:  1/20
+
+64" ILM model: 1/21
+
+I have no personal opinion about the actual length of the ILM model.  I am only crunching other people's numbers.  
+
+Even if 64" is absolutely the right number, I think the 68" figure is repeated often enough that it's better to keep mentioning both computed scales, just for clarity.  For example, if we were to only repeat the figure that the ship is 1/21 scale, and somebody hears that but is also working with the 68" length figure, that just breeds more confusion.
+────────────────────────────────────────────────────────────────────────
+Post #31  (forum post #3680204)
+Author    : LrdSatyr8
+Date      : Jun 23, 2015 at 1:09 PM
+────────────────────────────────────────────────────────────────────────
+
+I believe that it was Fine Molds that had exclusive access to the 5 footer when they came out with their Falcon model and they did accurate measurements and discovered the length was exactly 64.539625 inches (that's with the greeblies).
+────────────────────────────────────────────────────────────────────────
+Post #32  (forum post #3680206)
+Author    : Jaitea
+Date      : Jun 23, 2015 at 1:12 PM
+Reactions : Like — Vacformedhero
+────────────────────────────────────────────────────────────────────────
+
+LrdSatyr8 said:
+
+			I believe that it was Fine Molds that had exclusive access to the 5 footer when they came out with their Falcon model and they did accurate measurements and discovered the length was exactly 64.539625 inches (that's with the greeblies).
+		
+
+Click to expand...
+
+Bizarre,....and the FM Falcon is based on the 32",....I'd have preferred if they would have made their model on the 5 footer
+
+....and it is worth noting that their measurements & dimensions of the 32" was a complete balls up
+
+J
+────────────────────────────────────────────────────────────────────────
+Post #33  (forum post #3680210)
+Author    : LrdSatyr8
+Date      : Jun 23, 2015 at 1:13 PM
+────────────────────────────────────────────────────────────────────────
+
+Jaitea said:
+
+			Bizarre,....and the FM Falcon is based on the 32",....I'd have preferred if they would have made their model on the 5 footer
+
+J
+		
+
+Click to expand...
+
+I know there was some company recently that has access to the 5 footer... can't remember who thou.  Thought it could have been Fine Molds.  Do you remember J?
+────────────────────────────────────────────────────────────────────────
+Post #34  (forum post #3680214)
+Author    : Jaitea
+Date      : Jun 23, 2015 at 1:16 PM
+────────────────────────────────────────────────────────────────────────
+
+I honestly don't know Lrd,....I know that the new digital Falcon that we've seen in the Teasers is of the 5 footer,......lets hope those files have been given to Bandai
+
+J
+────────────────────────────────────────────────────────────────────────
+Post #35  (forum post #3680216)
+Author    : LrdSatyr8
+Date      : Jun 23, 2015 at 1:17 PM
+────────────────────────────────────────────────────────────────────────
+
+I'm keeping my fingers crossed!
+────────────────────────────────────────────────────────────────────────
+Post #36  (forum post #3680475)
+Author    : batguy
+Date      : Jun 23, 2015 at 6:24 PM
+────────────────────────────────────────────────────────────────────────
+
+Yeah, for better or worse we probably have a single permanent MF design moving forward.  Modern filmmaking & merchandising does not tolerate the kind of fast & loose inconsistencies that the MF had back in the day.  They would have wanted everyone working from a single detailed 3D file for the whole exterior at the very least.
+────────────────────────────────────────────────────────────────────────
+Post #37  (forum post #3680651)
+Author    : Darth Humorous
+Date      : Jun 23, 2015 at 11:11 PM
+────────────────────────────────────────────────────────────────────────
+
+LrdSatyr8 said:
+
+			So basically you're trying to get the numbers down to the micromillimeter scale so that everything is accurate and precise.  I thought I had OCD!  Ok... so... copying my post from post #4 on this matter... here is the same information that seems to be overlooked:
+
+So far the Robert Brown numbers are most accepted and agreed upon numbers for the size of the original 1:1 scale ship. So here's how you calculate the scale. If the length of the ship is 114' long, and you want to find out the scale of the 5' model you divide 114 by 5 and get a result of 22.8 or roughly 1/23 scale. Now that's a rough estimate based on the assumption that the 5 footer is actually 5 feet long. According to the number above it was 68 inches long which means 5.67 feet So using that number up divide 114 by 5.67 and you get 20.11 or 1/20 scale. Scale basically means if you were take the scaled down version, and place 20 of them end to end you would equal the length of the full scale version. Scale numbers are usually rounded to the nearest whole number. Because it's easier to say 1/20th scale then to say 1/20.11th scale. But basically it all depends on the numbers you are looking at. And as you can see... the difference of only 8 inches is the difference between 1/23rd and 1/20th scale.​
+And from post #13
+
+             From the 114 foot “full size” length I choose to be correct, and my estimate of 64.539625 inches for the “5-footer” length, I calculate a scale of 1/21.1962805795664.
+
+So... if you want to be a stickler, and go with the actual length of the 5'footer with the greeblies on each end you're looking at a actual length of 64.539625 making the scale 1:21.19628057897664 precisely.  Does that solve the issue anymore or should I provide photo evidence?
+		
+
+Click to expand...
+
+Nah, I didn’t overlook your post #4, nor any others for that matter. You said that you couldn’t believe “*everyone* is still debating…”, which prompted me to say “I’m not debating it.” And in reading my post #13, my very 1st sentence (“If you are interested in a scale to a “real life” sized Falcon AND want to be real nit-pickky about it (i.e., a rivet counter), below is my take on the scale”) sets the tone for the rest of that post.
+
+I wasn’t actually taking exception with anything you said beyond the “*everyone* is still debating…” in post #27. The very next sentence of my post included the words “if *anyone* skipped over it” was meant to be for the readership in general, not you personally.
+
+Missing from post #13 was the fact that I have extremely high confidence in the 64" total base length, so I decided to add it in post #27, and gave my reasons for it. I have never had access to the “5-footer”, so there will always be a margin of doubt. Because of that, I have no real reason to contest you or anyone for believing the real length is 68". However, given my long history with this beast and the independent verifications I’ve been fortunate to get, I personally believe the 68" published value is not  correct. Could I be wrong? Maybe, but I don”t think so.
+
+Mark
+────────────────────────────────────────────────────────────────────────
+Post #38  (forum post #3680654)
+Author    : Darth Humorous
+Date      : Jun 23, 2015 at 11:18 PM
+────────────────────────────────────────────────────────────────────────
+
+LrdSatyr8 said:
+
+			I believe that it was Fine Molds that had exclusive access to the 5 footer when they came out with their Falcon model and they did accurate measurements and discovered the length was exactly 64.539625 inches (that's with the greeblies).
+		
+
+Click to expand...
+
+Really! Now that is news to me! If you’re not pulling my leg, then perhaps Fine Molds’ efforts have independently confirmed my efforts. Huh.
+
+Mark
+────────────────────────────────────────────────────────────────────────
+Post #39  (forum post #3680661)
+Author    : Darth Humorous
+Date      : Jun 23, 2015 at 11:28 PM
+────────────────────────────────────────────────────────────────────────
+
+Jaitea said:
+
+			Bizarre,....and the FM Falcon is based on the 32",....I'd have preferred if they would have made their model on the 5 footer
+
+....and it is worth noting that their measurements & dimensions of the 32" was a complete balls up
+
+J
+		
+
+Click to expand...
+
+You’re right. This one escapes me…FM had access to the “5-footer”, even went to the trouble to measure the thing, yet decided to make the 32 incher and couldn’t get it right…er, like you said.
+
+Mark
+────────────────────────────────────────────────────────────────────────
+Post #40  (forum post #3680879)
+Author    : LrdSatyr8
+Date      : Jun 24, 2015 at 7:24 AM
+────────────────────────────────────────────────────────────────────────
+
+Darth Humorous said:
+
+			You’re right. This one escapes me…FM had access to the “5-footer”, even went to the trouble to measure the thing, yet decided to make the 32 incher and couldn’t get it right…er, like you said.
+		
+
+Click to expand...
+
+That's what I thought... I knew that DeAgo (Steve Dymszo) had exclusive access to the 32" incher and was the first to have ever used a scanner to get exact measurements. The Fine Molds team on the other hand had access to the 5' Footer and even thou they did accurate measurements of the 5' footer ended up doing a 32" incher instead using the 5' footer measurements as a base, which kinda threw all of the measurements out of whack and caused the famous Fine Molds Mandible "toe-in" problem. But regardless that original measurement of 64.539625 inches for the length (which included the greeblies on the front and back) is probably the best measurement for discovering scale. I wasn't trying to berate ya Darth... just find it silly that here it is almost 40 years later, it took people 20 years to figure out the math for the actual size and to agree on that measurement, and yet there are still alot of people that are debating and trying to come up with different numbers. I believe however that the scale of 1/20th (or more precisely 1:21.19628057897664) for the 5' footer is probably the most accepted. It would be nice if we could just have some hard numbers that everyone agrees on and move on!
+
+As far as the Fine Molds Falcon... I was completely on board getting one until I learned that it was actually smaller then the AMT/Ertl... I think they really should have done it a few inches bigger then that one and I would have snatched one up ASAP!  I understand they were trying to come up with a standardize scale for them... but 1:76 was a bit on the small side.  Would have been nicer if they did a 1:64 scale and used taht as the basis for all the other models they came out with.  They would have been bigger, had more detail and would have been easier to handle and assemble.
+────────────────────────────────────────────────────────────────────────
+Post #41  (forum post #3680916)
+Author    : Jedi Dade
+Date      : Jun 24, 2015 at 8:09 AM
+Reactions : Like — Archive&Future, swgeek, Falk
+────────────────────────────────────────────────────────────────────────
+
+I love you guys...  I really do.
+
+But lets face facts here.  The ANH Falcon was not built to a specific Scale.  The guys that built it went for "roughly" 1/24 to be in the "rough" scale of the fighters.  But they were not in any way slavish to their devotion to exact scale.  Trying to reconcile the live action sets to the models is a path to a migraine and an unsatisfactory answer any way you cut it.  So the answer to this discussion depends on whether you're a glass half empty or glass half full kind of person.  Either everybody is right, or everybody is wrong.  Arguments - valid ones - can and have been made for a plethora of answers. 
+
+My advice pick the theory that you agree most with and have at it.  NOBODY can prove you're wrong - even though they may take the argument to the grave.
+
+My personal theory is that its "roughly" its 1/24 since that's "roughly" what the crew made the other models at...  and its "close" to a lot of the theories.  Good enough for me.
+
+Peace,
+
+Jedi Dade
+────────────────────────────────────────────────────────────────────────
+Post #42  (forum post #3681009)
+Author    : LrdSatyr8
+Date      : Jun 24, 2015 at 10:08 AM
+────────────────────────────────────────────────────────────────────────
+
+I agree they were shooting for a "roughly" 1:24 scale, but the numbers suggest it's closer to 1:21 scale... but that is alright.  Back when they were building it all they really wanted was for it to look cool, and that's exactly what they got!  If you were to put 1/24th scale figurines in the cockpit they would look a bit small but would probably pass on film! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #43  (forum post #3681085)
+Author    : rbeach84
+Date      : Jun 24, 2015 at 11:09 AM
+Reactions : Like — Archive&Future
+────────────────────────────────────────────────────────────────────────
+
+So, in summary: take a big swig from the creativity jug and go with makes you happy (or if doing a commission, that which makes the customer happy!)
+
+BTW, I thought someone here had done a full-on analysis of the 5 footer and created the base form in 3D?  Dang, where is that thread?
+
+R/ Robert
+────────────────────────────────────────────────────────────────────────
+Post #44  (forum post #3681190)
+Author    : Vacformedhero
+Date      : Jun 24, 2015 at 12:52 PM
+────────────────────────────────────────────────────────────────────────
+
+rbeach84 said:
+
+			So, in summary: take a big swig from the creativity jug and go with makes you happy (or if doing a commission, that which makes the customer happy!)
+
+BTW, I thought someone here had done a full-on analysis of the 5 footer and created the base form in 3D?  Dang, where is that thread?
+
+R/ Robert
+		
+
+Click to expand...
+
+Is this the one your talking about ? 
+
+http://www.therpf.com/showthread.php?t=230674
+────────────────────────────────────────────────────────────────────────
+Post #45  (forum post #3681248)
+Author    : Jaitea
+Date      : Jun 24, 2015 at 2:06 PM
+────────────────────────────────────────────────────────────────────────
+
+& theres Maruska,....http://www.therpf.com/f11/millenium-falcon-parts-3d-printing-168520/
+
+falcon.maruskadesign.com
+
+& Andre......(vfxsup64)........#447,......this image has the dimensions you could be looking for
+
+attachment.php
+
+J
+────────────────────────────────────────────────────────────────────────
+Post #46  (forum post #3681253)
+Author    : Falk
+Date      : Jun 24, 2015 at 2:13 PM
+────────────────────────────────────────────────────────────────────────
+
+rbeach84 said:
+
+			I thought someone here had done a full-on analysis of the 5 footer and created the base form in 3D?  Dang, where is that thread?
+		
+
+Click to expand...
+
+Vacformedhero said:
+
+			Is this the one your talking about ?  http://www.therpf.com/showthread.php?t=230674
+
+Click to expand...
+
+Right member, but he probably meant his other thread http://www.therpf.com/showthread.php?t=227052
+────────────────────────────────────────────────────────────────────────
+Post #47  (forum post #3681270)
+Author    : Jaitea
+Date      : Jun 24, 2015 at 2:32 PM
+────────────────────────────────────────────────────────────────────────
+
+Falk said:
+
+			Right member, but he probably meant his other thread http://www.therpf.com/showthread.php?t=227052
+
+Click to expand...
+
+Steve Starkiller has focussed mainly on the full-sized filming prop,....not the filming miniatures,....(5 footer & 32").....although he has created the nice 5 footer Ep 7 render that Vacformedhero linked to
+
+J
+────────────────────────────────────────────────────────────────────────
+Post #48  (forum post #3681340)
+Author    : bwayne64
+Date      : Jun 24, 2015 at 4:14 PM
+Reactions : Like — d_jedi1, rbeach84, Archive&Future
+────────────────────────────────────────────────────────────────────────
+
+Here's my take. Studio Scale is not a " Scale" . Even though "scale" is in the phrase. "Dog"  is in the phrase hot dog, but there's no dog in it, LOL. Studio scale is the size of the actual filming miniature, period. It may work out to be a particular scale, but that would be just be blind luck. Maybe in the case of the fighters in Star Wars or other films, they used a pilot figure of a particular scale. Then maybe you could say it was the same scale.  When someone builds a duplicate of a studio scale model, they want to build it the exact size, as much as possible, as the SS Model. With similar techniques and the exact kit parts. It doesn't really matter what " scale " it is, if you get the size right. It's a category error , Imho, to ask what "scale"  a particular studio scale model is. When someone asks I say it's studio scale, LOL. Unless there was a real Mel Falcon, the actual size it was supposed to be, then there can't be a " Scale". An F16 has an actual size, so there can be scale models of it. Is there a real Mel Falcon. Even the " full sized" Mel Falcon was under sized. So what scale is the 5 foot falcon,  20 percent of a 75 percent full sized falcon. Too much math for me.  I think people should keep Studio Scale separate from actual real world modeling. Unless you just like to play mind games for the sheer fun of it. Some people like to think of theoretical stuff to stretch their cranium. Nothing wrong with that, but unproductive, if you hope to come to an actual consensus.  Studio Scale is Studio Scale. The End. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #49  (forum post #3681596)
+Author    : Darth Humorous
+Date      : Jun 24, 2015 at 10:37 PM
+────────────────────────────────────────────────────────────────────────
+
+LrdSatyr8 said:
+
+			That's what I thought... I knew that DeAgo (Steve Dymszo) had exclusive access to the 32" incher and was the first to have ever used a scanner to get exact measurements. The Fine Molds team on the other hand had access to the 5' Footer and even thou they did accurate measurements of the 5' footer ended up doing a 32" incher instead using the 5' footer measurements as a base, which kinda threw all of the measurements out of whack and caused the famous Fine Molds Mandible "toe-in" problem. But regardless that original measurement of 64.539625 inches for the length (which included the greeblies on the front and back) is probably the best measurement for discovering scale. I wasn't trying to berate ya Darth... just find it silly that here it is almost 40 years later, it took people 20 years to figure out the math for the actual size and to agree on that measurement, and yet there are still alot of people that are debating and trying to come up with different numbers. I believe however that the scale of 1/20th (or more precisely 1:21.19628057897664) for the 5' footer is probably the most accepted. It would be nice if we could just have some hard numbers that everyone agrees on and move on!
+
+As far as the Fine Molds Falcon... I was completely on board getting one until I learned that it was actually smaller then the AMT/Ertl... I think they really should have done it a few inches bigger then that one and I would have snatched one up ASAP!  I understand they were trying to come up with a standardize scale for them... but 1:76 was a bit on the small side.  Would have been nicer if they did a 1:64 scale and used taht as the basis for all the other models they came out with.  They would have been bigger, had more detail and would have been easier to handle and assemble.
+		
+
+Click to expand...
+
+Thanks, LS8. That’s good poop…strange how it turned out, but good to know. Not to worry about the post. I usually read & write to the boards stupidly late when I am half asleep. My post was more like Luke saying “I care” in response to Leia’s comment, or perhaps “amen, brother!”. Indeed, Brown’s work should be known by all who is interested, and many who do know it are believing converts…like me.
+
+Turns out I did get that Fine Molds Falcon, mainly out of curiosity, and for reference. I doubt I will ever build it, though. I tend to get publications and differing models of the Falcon as I can afford them for the sake of comparison and triangulation. I have discovered there is a little truth in each (sometimes damn little), and as long as I have the patience to seek out and extract that truth, then ultimately, it is a plus. So far, the FM Falcon yields a 3D sculpture of the engines’ semi-innards, which is based on sketches in the Lucas archives, another version (other than the MPC Falcon)  of the landing legs/feet, and an interpretation of the forward hull boxes. Not sure what to do with them just yet, but at least I have them.
+
+Mark
+────────────────────────────────────────────────────────────────────────
+Post #50  (forum post #3681622)
+Author    : Darth Humorous
+Date      : Jun 24, 2015 at 11:17 PM
+────────────────────────────────────────────────────────────────────────
+
+Jaitea said:
+
+			& theres Maruska,....http://www.therpf.com/f11/millenium-falcon-parts-3d-printing-168520/
+
+falcon.maruskadesign.com
+
+& Andre......(vfxsup64)........#447,......this image has the dimensions you could be looking for
+
+attachment.php
+
+J
+		
+
+Click to expand...
+
+I am very grateful to Markusa for his effort to make the parts of the “5-Footer” available to folks. Even still, these days I have to watch my spending, so I have yet to partake of the bounty.
+
+My hat is off to Andre. He has tools I do not, and the desire to solve the beast. Personally, I do not think he is quite there yet, though with each iteration, he has been getting closer to my numbers. I think he might believe he has solved it at this point and is done, and maybe he has and is…again because I have never been up close and personal with the bird. His total base length is a little longer than mine; I have independent confirmation by others for mine, and his radius of saucer curvature is a little bigger than mine; I also have independent confirmation by others for mine. But he has done more in a shorter amount of  time than I ever could. Mind you, I have not thoroughly solved it myself, but I believe I have a large portion of the fundamentals solved. The biggest sticking point for me has been the hull boxes. The underside images I have access to are usually very oblique, or far too close-up with the attending perspective problems to obtain accurate orthos from.
+
+Mark
+────────────────────────────────────────────────────────────────────────
+Post #51  (forum post #3681911)
+Author    : Jedi Dade
+Date      : Jun 25, 2015 at 10:01 AM
+Reactions : Like — Scott Graham
+────────────────────────────────────────────────────────────────────────
+
+bwayne64 said:
+
+			Here's my take. Studio Scale is not a " Scale" . Even though "scale" is in the phrase. "Dog"  is in the phrase hot dog, but there's no dog in it, LOL. Studio scale is the size of the actual filming miniature, period. It may work out to be a particular scale, but that would be just be blind luck. Maybe in the case of the fighters in Star Wars or other films, they used a pilot figure of a particular scale. Then maybe you could say it was the same scale.  When someone builds a duplicate of a studio scale model, they want to build it the exact size, as much as possible, as the SS Model. With similar techniques and the exact kit parts. It doesn't really matter what " scale " it is, if you get the size right. It's a category error , Imho, to ask what "scale"  a particular studio scale model is. When someone asks I say it's studio scale, LOL. Unless there was a real Mel Falcon, the actual size it was supposed to be, then there can't be a " Scale". An F16 has an actual size, so there can be scale models of it. Is there a real Mel Falcon. Even the " full sized" Mel Falcon was under sized. So what scale is the 5 foot falcon,  20 percent of a 75 percent full sized falcon. Too much math for me.  I think people should keep Studio Scale separate from actual real world modeling. Unless you just like to play mind games for the sheer fun of it. Some people like to think of theoretical stuff to stretch their cranium. Nothing wrong with that, but unproductive, if you hope to come to an actual consensus.  Studio Scale is Studio Scale. The End. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+This would be a great post if we were arguing what is studio scale...  save it for the inevetiable thread on that - it will be around every 6 months or so 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+.
+
+Jedi Dade
+────────────────────────────────────────────────────────────────────────
+Post #52  (forum post #3682013)
+Author    : rbeach84
+Date      : Jun 25, 2015 at 12:37 PM
+────────────────────────────────────────────────────────────────────────
+
+Yes, Studio Scale is obviously a rather unfortunate choice of terminology.  It implies there is a 'scale' to a filming prop model when there can only be an 'inferred scale' based on elements that have real world counterparts such as doors, seats or crew.  So perhaps the correct question that is being asked is what is the inferred scale of the 5-foot MF filming model?  So as this is a question which has been answered quite well at this point, depending on which of the several primary assumptions to which you wish to subscribe, namely:
+
+1) The MF matches the "scale" of other models in the ANH production
+
+2) The MF model should have a good level of 'agreement' with the movie 'interior' sets
+
+3) The MF model should match the 'full size' MF filming exterior sets (but which one?)
+
+it appears we are done (ha!)?
+
+The thorough analysis attributed to Rob Brown followed the general precept of 'option #2', his conclusions being summarized on his website (now defunct but archived on the Wayback Machine archive: HERE.)  RE: the actual size of the filming prop, the thread I was thinking of is indeed Maruska's very thorough 3D analysis, as Jatiea already noted : Maruska's Millennium Falcon thread
+
+For me, I am happy to say that the Hasbro MF 'toy' is a 1:48 scale model of the Millennium Falcon because that fits with the rest of my model collection & also fits Mr. Brown's analysis.
+
+Regards, Robert
+────────────────────────────────────────────────────────────────────────
+Post #53  (forum post #3682028)
+Author    : LrdSatyr8
+Date      : Jun 25, 2015 at 1:01 PM
+────────────────────────────────────────────────────────────────────────
+
+Totally agree... so basically to reiterate to all those that don't follow the thread and are just now reading this... here's  the skinny:
+
+Studio Scale means the size at which the original filming model was created at.  This is the model that appears on screen in the movie.  
+
+                       For Example: A studio built model could be built to any size or scale they desire or see fit to build it at.  Sometimes, they are built around pre-existing model kit parts and the build progresses toward the goal of a certain size or scale, but doesn't happen often.  Many are scratch built and have no set scale to which to refer to.  
+
+Actual Scale means the size of the model compared to the full size of the ship or model (if it were to exist in real life).
+
+                       For Example: If a  747 plane is built at 1:25th scale, it would mean that it would take 25 of those models lined up end to end to equal the length of the original size of the Full Size airplane.
+
+Full Scale means the full 1:1 human interactive size ship.  
+
+If ever you see the words Studio Scale referring to the size of a model kit, it most likely means that the kit was built to the size (or approximate size) of the filming model.  Many of the X-Wings in Empire Strikes Back and Return of the Jedi were actually the AMT/Ertl model kits... so since they appeared on screen they can be called Studio Scale.  However, since there can be several different sizes of the same ship (there were at least 4 different Falcon sizes) this could get tricky. 
+
+ Most studio models had different versions for different types of shots.  The most detailed and best looking model was known as the "HERO" because it allowed for close-up shots to be taken and all the beautiful detail was shown off in all it's glory.  The 5' Footer can be considered a HERO Studio model.  Then there are the smaller scales.  The 32" wasn't as detailed, and to an untrained eye looked identical to the 5' footer, however, it lacked some of  the detail and was used primarily for action shots.  Meaning when you saw it on screen, it was usually moving by the camera quickly and all the detail was blurred out, which also makes it difficult to recreate the detail.  
+
+Now many of the ships that appeared to be made Full Scale weren't actually Full Scale... Due to size limits of the sound stages where much of the filming took place, the ships had to be made smaller to fit in the building.  So the Falcon for example wasn't actually Full Scale, but actually 3/4 the size of the Full Scale ship.  And much of the time, the entire ship was never made... only the sides that were facing the cameras were built.  In the original hanger scene on ANH, they actually just had large cardboard cutouts painted to look like Y-Wings and X-Wings in the background.  Only one Full Scale X-Wing was built and you never noticed it.
+
+Now... the biggest problem of scale when dealing with many of the Star Wars movie props is the fact that they never really had one.  They were just eyeballing it most of the time.  If it looked good, they didn't care.  These were after all ficticuos ships that don't exist.  Heck, not many of the crew actually believed that this movie was going to be any good so to them it really didn't matter much.  It wasn't until the fans themselves attempted to quantify the sizes that all the scaling issues came up.  If you go back and buy one of the models from the 70's and 80's they never had a scale on them whatsoever.  As long as they looked close to it, we were happy.  But it wasn't until fans like Robert Brown actually sat down and began drawing together other fans together to come up with actual size numbers for these ships that scale began to matter.  So... pre-Robert Brown there really wasn't any scale of the studio models.  Post-Robert Brown, now we can agree that the scale of the 5' footer Falcon was approximately 1:21 scale.
+
+If I am wrong in any of the above, please feel free to correct me!
+────────────────────────────────────────────────────────────────────────
+Post #54  (forum post #3682040)
+Author    : LrdSatyr8
+Date      : Jun 25, 2015 at 1:13 PM
+────────────────────────────────────────────────────────────────────────
+
+rbeach84 said:
+
+			For me, I am happy to say that the Hasbro MF 'toy' is a 1:48 scale model of the Millennium Falcon because that fits with the rest of my model collection & also fits Mr. Brown's analysis.
+		
+
+Click to expand...
+
+I totally agree... and the DeAgostini Falcon (as well as the 32" inch Falcon) are 1:43 scale.
+────────────────────────────────────────────────────────────────────────
+Post #55  (forum post #3682134)
+Author    : batguy
+Date      : Jun 25, 2015 at 3:06 PM
+────────────────────────────────────────────────────────────────────────
+
+I mostly agree.  
+
+But I don't see why the MF's interior sets should totally define the scale rather than the exterior sets at all.  Hollywood builds over-sized interiors of things just as often as they build under-sized exteriors.  The OT featured a lot of close-up footage of the MF's exteriors too.  
+
+Is Bart & Lisa Simpson's treehouse really the size of a 2-car garage? 
+
+ That's what a lot of the interior footage "proves" if we say "the exterior was undersized to fit in the tree" and dismiss all the exterior shots.
+
+IMO the Falcon's true size (which seems to be settled now at 114' even in Lucasfilm's eyes) should have been at least a bit smaller than the OT interior sets.
+────────────────────────────────────────────────────────────────────────
+Post #56  (forum post #3682185)
+Author    : bwayne64
+Date      : Jun 25, 2015 at 4:15 PM
+────────────────────────────────────────────────────────────────────────
+
+Jedi Dade said:
+
+			This would be a great post if we were arguing what is studio scale...  save it for the inevetiable thread on that - it will be around every 6 months or so 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+.
+
+Jedi Dade
+		
+
+Click to expand...
+
+My bad, I'll wait and repost. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #57  (forum post #3682424)
+Author    : moes1
+Date      : Jun 25, 2015 at 11:12 PM
+────────────────────────────────────────────────────────────────────────
+
+Interesting tread....
+
+As far I know of, ILM called the 5-footer, "THE 4-FOOT FALCON" and the 32 inch bird, "THE 2 FOOT FALCON" both referring to the diameter of the disc. 32" and 5 footer is more or less fan based names.
+────────────────────────────────────────────────────────────────────────
+Post #58  (forum post #3682614)
+Author    : Jedi Dade
+Date      : Jun 26, 2015 at 7:19 AM
+Reactions : Like — Vacformedhero
+────────────────────────────────────────────────────────────────────────
+
+Just when I thought we were winding this one down...  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Jedi Dade
+────────────────────────────────────────────────────────────────────────
+Post #59  (forum post #3682910)
+Author    : rbeach84
+Date      : Jun 26, 2015 at 1:55 PM
+────────────────────────────────────────────────────────────────────────
+
+batguy said:
+
+			I mostly agree.  
+
+But I don't see why the MF's interior sets should totally define the scale rather than the exterior sets at all.  Hollywood builds over-sized interiors of things just as often as they build under-sized exteriors.  The OT featured a lot of close-up footage of the MF's exteriors too.  
+
+Is Bart & Lisa Simpson's treehouse really the size of a 2-car garage? 
+
+ That's what a lot of the interior footage "proves" if we say "the exterior was undersized to fit in the tree" and dismiss all the exterior shots.
+
+IMO the Falcon's true size (which seems to be settled now at 114' even in Lucasfilm's eyes) should have been at least a bit smaller than the OT interior sets.
+		
+
+Click to expand...
+
+Cartoons aside, the 'why' for the model builder is because the interior sets define the interior space and constitute the practical minimums for the exterior - because the basic assumption is it all fits inside (unless we're talking Time Lord technology!)  Exterior sets have no such constraint since they don't have to 'fit inside' anything*.  Any exterior discrepancies can be put down to perspective, but if you don't make the model's "scale" big enough to hold the filmed interiors (or nearly so) then you lose any practical integrity.  Even if an interior isn't depicted in the model, things should still be reasonably in agreement.
+
+Of course, this is all nonsense in reality, since there was never a "real" spaceship. In the end, the modeler takes whatever stance they wish & carries on with being happy....sort of like model railroaders often do!   ;^)
+
+R/ Robert
+
+* Noted that there were sound stage constraints...
+────────────────────────────────────────────────────────────────────────
+Post #60  (forum post #3683136)
+Author    : batguy
+Date      : Jun 26, 2015 at 6:01 PM
+────────────────────────────────────────────────────────────────────────
+
+What if docking bay #94 was a known place and it was only 100' long inside?  I don't think you could build a real-life copy of that room large enough to hold the 114' Falcon without the difference being pretty obvious.  Same with the Hoth base to a lesser extent.  
+
+On the other hand the rooms & hallways inside the Falcon could probably all be shrunken down at least 25%, maybe more, before it threatens the story events.  Luke's lightsaber practice in the main hold being one of the exceptions.  (With a full-length saber blade, I wonder if it really even clears the ceiling inside a 114' Falcon.) 
+
+It's all fictional BS, yeah.  I just don't see why the soundstage interiors are given 100% canon and the exterior shells are 0%.  
+
+Having grown up watching the OT, I do wonder if the 114' Falcon exterior shell is going to look visibly too big in the new movie.
+────────────────────────────────────────────────────────────────────────
+Post #61  (forum post #3683305)
+Author    : Nwerke
+Date      : Jun 26, 2015 at 10:56 PM
+────────────────────────────────────────────────────────────────────────
+
+Because Chewie inside the mockup cockpit is hilarious.
+────────────────────────────────────────────────────────────────────────
+Post #62  (forum post #3683777)
+Author    : LrdSatyr8
+Date      : Jun 27, 2015 at 5:32 PM
+────────────────────────────────────────────────────────────────────────
+
+batguy said:
+
+			I mostly agree.  
+
+But I don't see why the MF's interior sets should totally define the scale rather than the exterior sets at all.  Hollywood builds over-sized interiors of things just as often as they build under-sized exteriors.  The OT featured a lot of close-up footage of the MF's exteriors too.
+		
+
+Click to expand...
+
+The reason why is because the interior sets are all we have to identify actual scale of objects.  If you know that a man is 6 foot tall and he stands next to a wall... you can pretty accurately tell the wall height from that known measurement.  And since the sets were made to be inside the falcon itself it would stand to reason that you would use those sets to give an accurate measurement of the falcon itself.  The whole treehouse thing is a farce simply because it's a cartoon.  They never intended for it to be reality, however, they actually built these sets in reality and can be measured accordingly!
+────────────────────────────────────────────────────────────────────────
+Post #63  (forum post #3683918)
+Author    : batguy
+Date      : Jun 27, 2015 at 8:48 PM
+────────────────────────────────────────────────────────────────────────
+
+Like nobody ever stood near/under the Falcon's exterior in the OT?  
+
+There's a shot in the Hoth hangar where Han is standing on the ship, perched in between the front mandibles.  No way would that look the same with a 114' Falcon.  That's one example. 
+
+I agree the interiors deserve the greater priority in the case of the Falcon.  But I just don't think it should be 100% and 0%.  IMO they should have compromised a little on the interiors too.  Even with a 114' exterior, the interiors still don't really fit like they appear in the movie.  It's not like the 114' figure made everything fall into place beautifully but 104' would have ruined it.  
+
+I think the only measurement that really pegs the interiors to exactly 114' size is the cockpit tube diameter.  And the details of the soundstage cockpit weren't exactly fixed in stone.  They thought nothing of enlarging it 18" deeper for ESB without even doing any exterior shape changes.  George Lucas wasn't happy about that change because he had wanted the cockpit looking SMALLER if anything, like a cramped workhorse WWII bomber.  
+
+The 114' cockpit size of the soundstage set in ANH was already a visible reduction in the size of the cockpit from the original 1/24-ish-size ILM model.  Right from day one there was some limit on how big they wanted that ship to be.
+────────────────────────────────────────────────────────────────────────
+Post #64  (forum post #3684199)
+Author    : LrdSatyr8
+Date      : Jun 28, 2015 at 9:13 AM
+────────────────────────────────────────────────────────────────────────
+
+And that's why we know that the exterior sets were actually built 3/4 the size of the actual size of the ship.  We know that in order to fit the Falcon in the sound stage it had to be built smaller or it wouldn't have fit.
+────────────────────────────────────────────────────────────────────────
+Post #65  (forum post #3684212)
+Author    : Jaitea
+Date      : Jun 28, 2015 at 9:26 AM
+Reactions : Like — rbeach84, Treadwell
+────────────────────────────────────────────────────────────────────────
+
+Nwerke said:
+
+			Because Chewie inside the mockup cockpit is hilarious.
+		
+
+Click to expand...
+
+I did a resize of that scene,.....reduced the size of Han,....& used alternative footage of Chewie
+
+[video=vimeo;71841727]https://vimeo.com/71841727[/video]
+
+J
+────────────────────────────────────────────────────────────────────────
+Post #66  (forum post #3684932)
+Author    : LrdSatyr8
+Date      : Jun 29, 2015 at 5:48 AM
+────────────────────────────────────────────────────────────────────────
+
+I don't see much of a difference at all J! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #67  (forum post #3685064)
+Author    : Jaitea
+Date      : Jun 29, 2015 at 8:26 AM
+Reactions : Like — Nwerke
+────────────────────────────────────────────────────────────────────────
+
+Ha,....
+
+well,.....heres a wee comparison pic
+
+[IMAGE: Comparison_zpsq9x2riam.jpg]
+
+J
+────────────────────────────────────────────────────────────────────────
+Post #68  (forum post #3685158)
+Author    : LrdSatyr8
+Date      : Jun 29, 2015 at 10:00 AM
+────────────────────────────────────────────────────────────────────────
+
+You can tell... but it's not that noticeable... which is really cool seeing as the Falcon is only 3/4 the size of what it should be.  Lucas really had an eye for visual deception!
+────────────────────────────────────────────────────────────────────────
+Post #69  (forum post #3685187)
+Author    : rbeach84
+Date      : Jun 29, 2015 at 10:16 AM
+────────────────────────────────────────────────────────────────────────
+
+J, nice touch 'fixing' the turret gun!  
+
+BB, the main point is that if a modeler wishes to establish a scale for a 'non-real' object, it is up to their judgement - in short, it is a personal matter!  And please take the time to read Rob Brown's entire dissertation on the MF so you have his take on this issue firmly in hand.  If nothing else, it is an entertaining read.  If you want to split hairs, the modeler can even  decide to build a miniature of the exterior sets as well as a depiction of the filming miniature, if they like - or a mix of it all!  But it may be healthier if we all just took in a viewing of 'Hardware Wars' & biased our SW modeling accordingly!
+
+Regards, Robert
+────────────────────────────────────────────────────────────────────────
+Post #70  (forum post #3685266)
+Author    : Vacformedhero
+Date      : Jun 29, 2015 at 11:39 AM
+Reactions : Like — Nwerke
+────────────────────────────────────────────────────────────────────────
+
+rbeach84 said:
+
+			J, nice touch 'fixing' the turret gun!  
+
+BB, the main point is that if a modeler wishes to establish a scale for a 'non-real' object, it is up to their judgement - in short, it is a personal matter!  And please take the time to read Rob Brown's entire dissertation on the MF so you have his take on this issue firmly in hand.  If nothing else, it is an entertaining read.  If you want to split hairs, the modeler can even  decide to build a miniature of the exterior sets as well as a depiction of the filming miniature, if they like - or a mix of it all!  But it may be healthier if we all just took in a viewing of 'Hardware Wars' & biased our SW modeling accordingly!
+
+Regards, Robert
+		
+
+Click to expand...
+
+agreed , also for many scenes a totally separate cockpit on a gimbal was built so even scene to scene your looking at a different scale 
+
+and let's not forget 
+
+.......resolve the inside and outside dimensions of this , and poor R2 getting decapitated to fly
+
+- - - Updated - - -
+
+LrdSatyr8 said:
+
+			You can tell... but it's not that noticeable... which is really cool seeing as the Falcon is only 3/4 the size of what it should be.  Lucas really had an eye for visual deception!
+		
+
+Click to expand...
+
+Also it's not just 3/4 scale it's also built  proportionally biased  to the camera (like lord of the rings)  and distant rebel troopers were crew children dressed in the same garb , all in camera deception
+
+ 
+
+Attachments
+
+[IMAGE: 228456-9443844086d0fd51cfec582448ec3002.jpg]
+
+image.jpg
+
+					224.8 KB
+					
+					· Views: 187
+────────────────────────────────────────────────────────────────────────
+Post #71  (forum post #3685279)
+Author    : rbeach84
+Date      : Jun 29, 2015 at 11:44 AM
+Reactions : Like — Vacformedhero
+────────────────────────────────────────────────────────────────────────
+
+I thought it was settled that R2 was really a Transformer (in disguise!)
+
+;^P
+
+R./ Robert
+────────────────────────────────────────────────────────────────────────
+Post #72  (forum post #3685751)
+Author    : batguy
+Date      : Jun 29, 2015 at 9:32 PM
+────────────────────────────────────────────────────────────────────────
+
+That enlargement of the Falcon in the ESB footage actually turns out a lot better than I thought.  The difference is visible but not terribly obvious.  Not in those shots.  
+
+But I think the enlargement would probably be more visible in a shot that resembled the ANH scenes, where we see the whole ship & actors walking around underneath the right side.  Those shots are much more burned into our memories.  
+
+Some people might notice a change in Ep#7 but not be able to put their finger on exactly what it is.  They might think the actors look "too small" next to the ship, or the ship might seem too high off the ground, etc.
+────────────────────────────────────────────────────────────────────────
+Post #73  (forum post #3685759)
+Author    : Nwerke
+Date      : Jun 29, 2015 at 9:43 PM
+────────────────────────────────────────────────────────────────────────
+
+Jaitea - that looks nothing but great, to me. Nice work.
+────────────────────────────────────────────────────────────────────────
+Post #74  (forum post #3691255)
+Author    : Jedi Dade
+Date      : Jul 6, 2015 at 1:16 PM
+────────────────────────────────────────────────────────────────────────
+
+Agreed - that resize does look great.  The differences are subtle.
+
+But it also proves the absurdity of trying to figure the "real size", using the model and interior sets.  They really just don't jive very well.  As I said earlier, VALID arguments can go any way you want to "justify" your position.  Pick a theory you like and run with it.  
+
+Peace,
+
+Jedi Dade
+────────────────────────────────────────────────────────────────────────
+Post #75  (forum post #3692344)
+Author    : rbeach84
+Date      : Jul 7, 2015 at 3:18 PM
+────────────────────────────────────────────────────────────────────────
+
+Amen!
+
+R/ Robert
+────────────────────────────────────────────────────────────────────────
+Post #76  (forum post #5149967)
+Author    : Studio Kitbash
+Date      : Dec 25, 2020 at 9:52 PM
+────────────────────────────────────────────────────────────────────────
+
+Just reposting this from another thread, in case it helps shed any light...
+
+The Millennium Falcon is NOT 1/24 scale.
+
+It is much closer to 1/21 scale.
+
+I'm proceeding with my build by working off the assumption that the model is specifically and precisely 1/20.5 scale. My logic and math are as follows:
+
+Per scalecalcultor.com, using the radar dish at 6" on the five-footer which is 43.4mm on the Bandai 1/72 Perfect Grade Falcon, this works out to being precisely 1/20.5 scale
+
+[IMAGE: https://www.therpf.com/forums/attachments/millennium-falcon-is-1-20-5-scale-png-png.1382417/]
+
+What this means, in absolutely super-simple terms, is that to derive any measurement, you would simply take the Bandai Measurement and then multiply it by 3.51152. (This comes with a caveat, however: Bandai did knowingly "cheat" some areas of the Falcon by resizing certain greeblies to make them fit onto the hull they had created, so while their bird is a "perfect replica" it's not actually a digital scan recreation of the original, but rather a digital scan of the original that was then converted into some "standardizable" units, which typically meant they balanced out any left/right or front/back asymmetries.
+
+Quote Reply
+
+Report Edit
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 76

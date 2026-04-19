@@ -25,11 +25,13 @@ CREATE TABLE IF NOT EXISTS kits (
     scale            TEXT,               -- e.g. '1/72', '1/35'
     name             TEXT NOT NULL,
     serial_number    TEXT,               -- manufacturer part number
+    category_family  TEXT,               -- e.g. 'aircraft', 'military_ground', 'naval'
+    category_subject TEXT,               -- e.g. 'military_aircraft', 'afv', 'carrier'
     scalemates_url   TEXT,
     scans_url        TEXT,
     instructions_url TEXT,
     availability     TEXT DEFAULT 'unknown'
-                         CHECK(availability IN ('available','rare','oop','unknown')),
+                        CHECK(availability IN ('available','rare','oop','unknown')),
                          -- oop = out of production
     notes            TEXT,
     attributed_to    INTEGER REFERENCES contributors(id),
@@ -69,7 +71,7 @@ CREATE TABLE IF NOT EXISTS part_files (
     id          INTEGER PRIMARY KEY AUTOINCREMENT,
     part_id     INTEGER NOT NULL REFERENCES parts(id) ON DELETE CASCADE,
     file_type   TEXT NOT NULL CHECK(file_type IN ('scan','cad','stl','step','reference','other')),
-    url         TEXT NOT NULL,           -- GrabCAD, Drive, Shapeways, etc.
+    url         TEXT,                    -- GrabCAD, Drive, Shapeways, etc. (NULL = source known but no URL yet)
     source      TEXT,                    -- e.g. 'Maruska', 'YAFF', 'personal scan'
     notes       TEXT,
     attributed_to INTEGER REFERENCES contributors(id),
@@ -114,6 +116,7 @@ CREATE TABLE IF NOT EXISTS maps (
     model_id      INTEGER NOT NULL REFERENCES models(id),
     name          TEXT NOT NULL,         -- e.g. 'cockpit', 'bottom center', '8Rad'
     version       TEXT,                  -- e.g. 'Version 1.2 July 4, 2024'
+    image_id      INTEGER REFERENCES images(id),
     url           TEXT,
     map_date      DATE,
     attributed_to INTEGER REFERENCES contributors(id),
@@ -195,20 +198,88 @@ CREATE TABLE IF NOT EXISTS placement_history (
     reason           TEXT                -- why the identification was revised
 );
 
+-- ── PLACEMENT POSITIONS ──────────────────────────────────────────
+-- Versioned geometric records for where a placement is drawn on a map.
+-- This keeps conceptual placement identity separate from imported/manual geometry.
+CREATE TABLE IF NOT EXISTS placement_positions (
+    id            INTEGER PRIMARY KEY AUTOINCREMENT,
+    placement_id  INTEGER NOT NULL REFERENCES placements(id) ON DELETE CASCADE,
+    map_id        INTEGER NOT NULL REFERENCES maps(id) ON DELETE CASCADE,
+    position_type TEXT NOT NULL DEFAULT 'point'
+                  CHECK(position_type IN ('point','box','polygon')),
+    x_norm        REAL,
+    y_norm        REAL,
+    width_norm    REAL,
+    height_norm   REAL,
+    polygon_json  TEXT,
+    source_kind   TEXT NOT NULL DEFAULT 'manual'
+                  CHECK(source_kind IN ('imported','manual','candidate','derived')),
+    status        TEXT NOT NULL DEFAULT 'active'
+                  CHECK(status IN ('active','superseded','rejected')),
+    is_current    INTEGER NOT NULL DEFAULT 1 CHECK(is_current IN (0,1)),
+    supersedes_id INTEGER REFERENCES placement_positions(id),
+    confidence    TEXT DEFAULT 'probable'
+                  CHECK(confidence IN ('confirmed','probable','speculative')),
+    notes         TEXT,
+    attributed_to INTEGER REFERENCES contributors(id),
+    created_at    TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+-- Canonical source records for forum threads, auction listings, interviews,
+-- slide decks, spreadsheets, magazine articles, videos, etc.
+CREATE TABLE IF NOT EXISTS sources (
+    id               INTEGER PRIMARY KEY AUTOINCREMENT,
+    source_code      TEXT UNIQUE,
+    source_type      TEXT NOT NULL,      -- forum_thread, article, auction, interview, slide_deck, spreadsheet, video
+    title            TEXT NOT NULL,
+    author           TEXT,
+    publisher        TEXT,
+    source_date      DATE,
+    url              TEXT,
+    local_path       TEXT,
+    parent_source_id INTEGER REFERENCES sources(id),
+    notes            TEXT,
+    attributed_to    INTEGER REFERENCES contributors(id),
+    created_at       TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+-- Extracted post-level or quote-level evidence from a source.
+CREATE TABLE IF NOT EXISTS source_extracts (
+    id             INTEGER PRIMARY KEY AUTOINCREMENT,
+    source_id      INTEGER NOT NULL REFERENCES sources(id) ON DELETE CASCADE,
+    extract_type   TEXT NOT NULL,        -- forum_post, quote, transcript, slide_note, caption
+    locator        TEXT,                 -- line range, post number, page, slide, timecode
+    author_handle  TEXT,
+    extract_date   DATE,
+    content        TEXT NOT NULL,
+    notes          TEXT,
+    attributed_to  INTEGER REFERENCES contributors(id),
+    created_at     TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
 -- ── IMAGES ───────────────────────────────────────────────────────
 -- All reference images: model shop, exhibition, kit scans, etc.
 -- Removed: tags (comma-separated) → see image_tags below
 CREATE TABLE IF NOT EXISTS images (
     id            INTEGER PRIMARY KEY AUTOINCREMENT,
     filename      TEXT,
+    title         TEXT,                  -- human-friendly display title
+    image_code    TEXT,                  -- stable human-readable identifier
+    caption       TEXT,
     drive_id      TEXT,                  -- Google Drive file ID
     url           TEXT,
+    storage_kind  TEXT,                  -- upload, drive, url, generated, extracted, other
+    storage_path  TEXT,                  -- local or logical storage path
+    sha256        TEXT,                  -- binary identity for dedupe / crosswalk
+    width         INTEGER,
+    height        INTEGER,
     image_type    TEXT CHECK(image_type IN (
                       'model_shop','exhibition','kit_scan',
-                      'box_art','reference','other'
+                      'box_art','reference','map','other'
                   )),
     date_taken    DATE,
     source        TEXT,                  -- e.g. 'Prop Store auction', 'RPF thread'
+    source_id     INTEGER REFERENCES sources(id),
     notes         TEXT,
     attributed_to INTEGER REFERENCES contributors(id),
     created_at    TIMESTAMP DEFAULT CURRENT_TIMESTAMP
@@ -227,6 +298,38 @@ CREATE TABLE IF NOT EXISTS image_tags (
 -- ── IMAGE LINKS ──────────────────────────────────────────────────
 -- Connects an image to any entity in the database.
 -- One image can link to a kit, a part, a placement, a model — all at once.
+-- Logical image families for duplicates, crops, overlays, and other related variants.
+CREATE TABLE IF NOT EXISTS image_families (
+    id               INTEGER PRIMARY KEY AUTOINCREMENT,
+    title            TEXT NOT NULL,
+    family_type      TEXT DEFAULT 'reference_set'
+                        CHECK(family_type IN ('reference_set','duplicate_group','detail_set','overlay_set','mixed')),
+    primary_image_id INTEGER REFERENCES images(id) ON DELETE SET NULL,
+    notes            TEXT,
+    created_at       TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+CREATE TABLE IF NOT EXISTS image_family_members (
+    id                   INTEGER PRIMARY KEY AUTOINCREMENT,
+    family_id            INTEGER NOT NULL REFERENCES image_families(id) ON DELETE CASCADE,
+    image_id             INTEGER NOT NULL REFERENCES images(id) ON DELETE CASCADE,
+    relation_type        TEXT NOT NULL DEFAULT 'variant'
+                           CHECK(relation_type IN (
+                               'primary','variant','duplicate','near_duplicate',
+                               'crop','detail','overlay','higher_resolution',
+                               'lower_resolution','alternate_scan','derived'
+                           )),
+    sort_order           INTEGER DEFAULT 0,
+    is_primary           INTEGER NOT NULL DEFAULT 0 CHECK(is_primary IN (0,1)),
+    is_hidden_in_library INTEGER NOT NULL DEFAULT 0 CHECK(is_hidden_in_library IN (0,1)),
+    coverage_role        TEXT
+                           CHECK(coverage_role IN (
+                               'full_frame','detail_crop','annotation_overlay','comparison_variant'
+                           )),
+    notes                TEXT,
+    UNIQUE(family_id, image_id)
+);
+
 CREATE TABLE IF NOT EXISTS image_links (
     id          INTEGER PRIMARY KEY AUTOINCREMENT,
     image_id    INTEGER NOT NULL REFERENCES images(id),
@@ -236,6 +339,78 @@ CREATE TABLE IF NOT EXISTS image_links (
     entity_id   INTEGER NOT NULL,
     annotation  TEXT,
     UNIQUE(image_id, entity_type, entity_id)
+);
+
+-- Persistent image annotations / regions for point, box, or polygon evidence.
+-- Can optionally carry a linked entity reference plus object snapshot metadata
+-- from the annotator until a fuller evidence-link layer lands.
+CREATE TABLE IF NOT EXISTS image_regions (
+    id               INTEGER PRIMARY KEY AUTOINCREMENT,
+    image_id         INTEGER NOT NULL REFERENCES images(id) ON DELETE CASCADE,
+    region_type      TEXT NOT NULL DEFAULT 'point'
+                         CHECK(region_type IN ('point','box','polygon')),
+    x_norm           REAL,
+    y_norm           REAL,
+    width_norm       REAL,
+    height_norm      REAL,
+    pixel_x          REAL,
+    pixel_y          REAL,
+    pixel_width      REAL,
+    pixel_height     REAL,
+    points_json      TEXT,
+    rotation_deg     REAL,
+    label            TEXT,
+    notes            TEXT,
+    object_name      TEXT,
+    object_class     TEXT,
+    color            TEXT,
+    properties_json  TEXT,
+    entity_type      TEXT,
+    entity_id        INTEGER,
+    source_extract_id INTEGER REFERENCES source_extracts(id),
+    attributed_to    INTEGER REFERENCES contributors(id),
+    created_at       TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    updated_at       TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+-- Region-level history for annotation changes.
+CREATE TABLE IF NOT EXISTS image_region_history (
+    id            INTEGER PRIMARY KEY AUTOINCREMENT,
+    region_id     INTEGER NOT NULL,
+    action        TEXT NOT NULL,         -- create, update, delete
+    snapshot_json TEXT,
+    changed_by    INTEGER REFERENCES contributors(id),
+    reason        TEXT,
+    changed_at    TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+-- Structured interpretations derived from evidence.
+CREATE TABLE IF NOT EXISTS claims (
+    id            INTEGER PRIMARY KEY AUTOINCREMENT,
+    subject_type  TEXT NOT NULL,
+    subject_id    INTEGER,
+    predicate     TEXT NOT NULL,
+    object_type   TEXT,
+    object_id     INTEGER,
+    text_value    TEXT,
+    confidence    TEXT NOT NULL DEFAULT 'probable'
+                   CHECK(confidence IN ('confirmed','probable','uncertain','speculative')),
+    status        TEXT NOT NULL DEFAULT 'active'
+                   CHECK(status IN ('draft','active','contested','retracted','superseded')),
+    rationale     TEXT,
+    attributed_to INTEGER REFERENCES contributors(id),
+    created_at    TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    updated_at    TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+-- Links a claim back to the evidence that supports it.
+CREATE TABLE IF NOT EXISTS claim_evidence (
+    id            INTEGER PRIMARY KEY AUTOINCREMENT,
+    claim_id      INTEGER NOT NULL REFERENCES claims(id) ON DELETE CASCADE,
+    evidence_type TEXT NOT NULL CHECK(evidence_type IN ('image_region','source_extract','image')),
+    evidence_id   INTEGER NOT NULL,
+    annotation    TEXT,
+    UNIQUE(claim_id, evidence_type, evidence_id)
 );
 
 -- ── INDEXES ──────────────────────────────────────────────────────
@@ -252,8 +427,31 @@ CREATE INDEX IF NOT EXISTS idx_cap_assembly        ON cast_assembly_parts(cast_a
 CREATE INDEX IF NOT EXISTS idx_cap_part            ON cast_assembly_parts(part_id);
 CREATE INDEX IF NOT EXISTS idx_kit_references_kit  ON kit_references(kit_id);
 CREATE INDEX IF NOT EXISTS idx_kit_references_sys  ON kit_references(system, value);
+CREATE INDEX IF NOT EXISTS idx_kits_category_family ON kits(category_family);
+CREATE INDEX IF NOT EXISTS idx_kits_category_subject ON kits(category_subject);
 CREATE INDEX IF NOT EXISTS idx_placement_contrib   ON placement_contributors(placement_id);
 CREATE INDEX IF NOT EXISTS idx_placement_history   ON placement_history(placement_id);
+CREATE INDEX IF NOT EXISTS idx_placement_positions_placement ON placement_positions(placement_id);
+CREATE INDEX IF NOT EXISTS idx_placement_positions_map ON placement_positions(map_id);
+CREATE INDEX IF NOT EXISTS idx_placement_positions_current ON placement_positions(placement_id, map_id, is_current);
 CREATE INDEX IF NOT EXISTS idx_part_files_part     ON part_files(part_id);
 CREATE INDEX IF NOT EXISTS idx_image_tags          ON image_tags(image_id);
 CREATE INDEX IF NOT EXISTS idx_image_tags_tag      ON image_tags(tag);
+CREATE INDEX IF NOT EXISTS idx_image_families_primary ON image_families(primary_image_id);
+CREATE INDEX IF NOT EXISTS idx_image_family_members_family ON image_family_members(family_id);
+CREATE INDEX IF NOT EXISTS idx_image_family_members_image ON image_family_members(image_id);
+CREATE UNIQUE INDEX IF NOT EXISTS idx_image_family_members_image_unique ON image_family_members(image_id);
+CREATE INDEX IF NOT EXISTS idx_sources_type        ON sources(source_type);
+CREATE INDEX IF NOT EXISTS idx_sources_date        ON sources(source_date);
+CREATE INDEX IF NOT EXISTS idx_source_extracts_src ON source_extracts(source_id);
+CREATE INDEX IF NOT EXISTS idx_images_code         ON images(image_code);
+CREATE INDEX IF NOT EXISTS idx_images_title        ON images(title);
+CREATE INDEX IF NOT EXISTS idx_images_source_id    ON images(source_id);
+CREATE INDEX IF NOT EXISTS idx_image_regions_image ON image_regions(image_id);
+CREATE INDEX IF NOT EXISTS idx_image_regions_entity ON image_regions(entity_type, entity_id);
+CREATE INDEX IF NOT EXISTS idx_image_regions_extract ON image_regions(source_extract_id);
+CREATE INDEX IF NOT EXISTS idx_image_region_history_region ON image_region_history(region_id);
+CREATE INDEX IF NOT EXISTS idx_claims_subject      ON claims(subject_type, subject_id);
+CREATE INDEX IF NOT EXISTS idx_claims_status       ON claims(status);
+CREATE INDEX IF NOT EXISTS idx_claim_evidence_claim ON claim_evidence(claim_id);
+CREATE INDEX IF NOT EXISTS idx_claim_evidence_target ON claim_evidence(evidence_type, evidence_id);

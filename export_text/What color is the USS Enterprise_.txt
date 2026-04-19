@@ -1,0 +1,131 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : What color is the USS Enterprise?
+URL    : https://www.therpf.com/forums/threads/what-color-is-the-uss-enterprise.197032/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #3073758)
+Author    : Art Andrews
+Date      : Oct 8, 2013 at 7:25 AM
+────────────────────────────────────────────────────────────────────────
+
+Doug Drexler posted it to his Facebook page and I thought it might be worth sharing here:
+
+[IMAGE: 44821-9689afae514d9826fdcb2d5301140d58.jpg]
+
+			Paul Newitt, in my book, is the last word. Enjoy, or battle!
+
+What Color IS the TOS Enterprise? – By Paul Newitt
+
+Here are the much anticipated paint specs for the “The Original Series” Enterprise, based on research provided by Richard C. Datin, the original builder of the 3′ (33in) and 11ft. (4x) filming miniatures, in late 1964.
+
+These samples, and subsequent paint formulas are based on the only known remaining sample, which is an overspray “splatter” on the backside of one of the original Enterprise drawings.
+
+You can find out more about this color, and of the Enterprise miniatures’ history in the “Star Trek Communicator”, issues # 132 and # 133, written by William McCullars, and who has an excellent Trek miniatures website, “The IDIC Page”.
+
+In part two, Richard Datin states: “Jefferies also furnished paint chips, for which I had lacquer-based paint custom-matched by a Fuller’s Paint dealer on Olympic Blvd. in Los Angeles”…..”it was not a Ford or GM paint or primer as some “learned” souls have decried. It was a flat finish–a light grey color with a light tint of green.”
+
+Below are a few comments I made in relation to this project on the “HobbyTalk” message boards, and an explanation of how grey colors work:
+
+Grey (or Gray) is a very elusive color. It’s probably the most difficult color to match in a situation like this, because it ABSORBS anything near it, giving it a bias to that influential color next to it, such as bluescreen, or studio lights with colored gels, etc. If we were talking about “fire engine red”, it wouldn’t take much to get everyone on the same page as to what it is…..but grey is a neutral, and it is very difficult to match–from a perspective of a viewer of the show. If the surface was a silver–whether metallic or not–it would REFLECT those same colors, and not appear as we know it.
+
+If you go to a paint store, you’ll notice over 50 grey samples, all muted in a specific color, and they are of a slight varying degree of “neutral grey”.
+
+After all the years I’ve researched and written about the classic Enterprise (SFAM 1), modelled it, and painting it, I’ve always wondered just what it’s root “grey” really was/is. I have seen actual miniatures Greg Jein and others have built (i.e. ST Earth Tour, some years ago), and they are not as they appear on film or video.
+
+Film stock, especially Ektachrome-based 35mm film stock used in the mid to late 60′s had a blue bias (like 35mm camera film–it usually has a bias towards the color of the box it comes in, i.e. Agfa/orange, Fuji/green, Kodachrome/yellow, etc.); so if the Enterprise looked blue from the bluescreen (enough to influence Andrew Probert to give homage to the classic Enterprise by making the “1701-D” duck egg blue), AND by the film bias–then It’s blue for those reasons, and I can see how this “Concrete” color would absorb the blue biases easily…(I held a bright blue shirt under my drafting lamp, and reflected the light coming from the shirt onto the sample–and the sample became blue-grey. Voila! No green-grey, no neutral grey–Blue-grey.)
+
+Remember–Richard and his friend thought “Armory Gray” were a close tie, but “Concrete” was closer; almost “exact”. If you look at the studio miniatures, and on TV, you’ll notice a “falling off” of the bright, seemingly neutral grey on the nacelle tops–to colored, contrasty edges on the sides and undersides. This is the nature of grey tones that precipitate they’re biased, inherent color, especially tones that are darker than you think, when brightly lit. This is also a trick with tonal variation on miniatures to fool you into (visually) believing that it’s much bigger than you think. This color might seem odd–but it works (and I can see Matt Jeffries picking out this variation of grey for the show, as he’s a master of color and tonal variation).
+
+It is my professional opinion that the colors I have researched here are the closest color samples of the TOS Enterprise currently available. If by some magical fate, the exact color spec was discovered someday, it wouldn’t affect the current research, by the pure nature and quality of this color; and it would be irrelevant to the application on a model of this scale (18-22″)….
+
+With all that discussion behind us now, we used color samples from WalMart house paint, since it would be easier for most modellers to go to a local store and pick up these as swatch samples to match their model paints to (besides–it’s free). For those not able to go to a local WalMart (like those overseas), we have provided you with a scan of the samples, along with a background AMT logo for monitor/printer color correction, since I know you all must have some sort of AMT/ERTL kit laying around to compare to (this one is from the 22″ TOS Enterprise cut-away kit). CMYB, and Pantone PMS book pages were not used for the scan, since most modelers do not have these books.
+
+The WalMart samples (“ColorPlace” paint) are as follows, and are prioritized by Richard Datin, and a friend of his which is a professional artist (these are the scanned samples on the Exclusives page) :
+
+• # 1 choice — “Concrete”, set # 632, # 96321
+
+(note: ACE Hardware # 193-D “Shady Cove” sample added below )
+
+• # 2 choice — “Armory Gray”, set # 631, #96311
+
+(note: ACE Hardware # 194-D “Summer Song” sample added below )
+
+• # 3 choice — “Rock Moss”, set # 634, # 96341 (no ACE sample)
+
+# 1 was the closest, with # 2 a close second, in Richard’s opinion. “Concrete” is an olive drab based color, with a lightening of a neutral, cold grey, and white. #2, “Armory Grey” is close, but has the slight influence of a warmer grey. #3, “Rock Moss” is similar to “Concrete”, but with the influence of a neutral (neither cold or warm) grey–and was not really a strong candidate, but I included it anyway.
+
+Now…here are the magic numbers you all have been waiting for!!!
+
+I obtained several model paints for this project, including Testor’s Model Master, Tamiya Acrylic, and Floquil PollyScale.
+
+First, the Testor’s Model Master (the most requested) use the following:
+
+• FS 17875, Insignia White, Testors# 1745
+
+• FS 34159, Sac Bomber Green, Testors# 1793
+
+• FS 36440, Flat Gull Grey, Testors# 1730
+
+Mix as follows (to match “Concrete”):
+
+• 1 part green
+
+• 6 parts grey
+
+• 23-25 parts white
+
+Note: to match “Armory Grey”, use more grey and less white, or use an equal amount of a warmer grey than flat gull grey. The idea here is to first get a real muddy looking military-looking olive drab, then to lighten it up with white to the desired shade. This color “concrete” has a definite green look to it, but it also has a powdery cold grey quality to it as well. Be careful when adding the white, because in my research, I found that 20 parts white is not enough, and 30 is way too much, and washes out the color. I did all the experimental samples on white styrene sheets, and when I was satisfied, I duplicated this sample on a neutral grey piece of plastruct, to simulate any possible bias by a darker undercoat. When properly applied, Testor’s Model Master covers very well, and there was no discernible difference in color on a medium grey surface. “Ignatz”, on the message boards (thank you!) was good enough to provide the breakdowns for color perspective, as scale increases: “…here’s the numbers from the Testor’s manual, (Ian Huntley’s numbers for IPMS fall on the low end of the range):kit scale and % of white to add to base color 1:32 and 1:35 add 7-10% / 1:48 add 10-25% / 1:72 and 1:76 add 15-30% / 1:87 add 20-35% / 1:144 add 23-38%” Although this is good information to use, the 18-22″ Classic Enterprise models are about 1/5th of the 11′ miniature, and 1/2 of the 3′ miniature–and both were painted the same grey-green color. If advanced modellers wish to be very precise, you can add about 1-3% more white to compensate, but it will be unnoticeable to the naked eye.
+
+Second, the Tamiya Acrylic paint (no exact formulas, but on the spot assessments):
+
+• To match “concrete”, use XF-12, “J.N. Grey”, lightened about 10% with white (a pretty scary color match, almost right on!)
+
+• To match “Armory gray”, use XF-20, “Medium Grey”, lightened about 20%
+
+• To match “Rock Moss”, use XF-25, “Lt. Sea Grey”, lightened about 50% (needs to be twice as bright).
+
+Third, the PollyScale paint results:
+
+• F414113, “Reefer white”
+
+• 414 332, “New Gravel Grey” (or you can use “SP Lettering Grey”)
+
+• 414209, “Burlington Green”
+
+Mix as follows:
+
+• 1 part green
+
+• 6 parts grey
+
+• 1-2 parts white
+
+Note: what is different about water based paints, is that the addition of white has a tremendously dramatic influence on a base color; much moreso than the Testor’s….so, easy on the white. PollyScale is primarily a model railroad paint, and my sources have not confirmed any problems in availability. Floquil makes equivalent colors in their “non-water-based” paint as well. Floquil paints were used extensively on the miniatures in ST:TMP (except the Enterprise), for their fine-grain, realistic application.
+
+Other PollyScale possibilities:
+
+• To match “concrete” use “I.J.A. Lt. Gray, # 505274
+
+• To match “armory gray”, use “Italian Light Blue Grey”, 505290, and lighten
+
+by about 40%
+
+I hope you can use these formulas, and put them to good use. As I know paint mixing techniques can vary, be assured that a 10-20% variation from the Walmarts samples will not be readily noticed on the 18-22″ classic Enterprise models, since grey, by nature has a wider latitude than most solid colors. If you so choose to “fine tune” your paint mixing, these formulas can be varied slightly to suit your personal acceptance.
+
+Good Luck on painting your Classic Enterprise!!
+
+Paul M. Newitt
+		
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #3073889)
+Author    : IEDBOUNTYHUNTER
+Date      : Oct 8, 2013 at 9:35 AM
+────────────────────────────────────────────────────────────────────────
+
+Ahh Ok,   You said USS Enterprise.  i think Aircraft Carrier.   i had i nice paint chip ready to post of the real ship.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 2

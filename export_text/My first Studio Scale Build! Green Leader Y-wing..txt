@@ -1,0 +1,1085 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : My first Studio Scale Build! Green Leader Y-wing.
+URL    : https://www.therpf.com/forums/threads/my-first-studio-scale-build-green-leader-y-wing.276867/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #4245106)
+Author    : Carnet
+Date      : May 11, 2017 at 8:01 PM
+Reactions : Like — Gus76, newmagrathea, Ghurkki
+────────────────────────────────────────────────────────────────────────
+
+Studiokitbash ecouraged me to start a build thread for my y-wing project. So here it goes. This build is based of of DaveGs open source project. I will be doing my best to take pictures as I go and upload progress when I can. This is my first studio scale build and I am very excited to get started. As much as I love the x-wing, the y-wing has always been my secret crush.
+
+Update: As this project has progressed it has become it's own thing...so it most definitely shouldn't be used as a reference if you are trying to make a replica and referencing any of these photos, or my albums. It most closely follows the Tie Killer/Gold Leader scheme, but there are a few Red Jammer cues here and there as well as some of my own twist on certain areas. Mostly I have just taken my favorite bits and boops from all of the different versions as well as adding my own inventions here and there, especially when I run across a section that I may be missing pieces from. This has just been a ton of fun, and I have no idea how I am going to go back to regular modeling with instructions and kits that come with all of the parts after this is done...which isn't going to be anytime soon.
+
+Thank you DaveG for making this project available to the community, and to all of the users that I have hit up for advice and tips and parts, thank you too! I hope I can find some way to make my own contributions to board to help others with their own projects.
+
+thanks for reading!
+
+Marc
+
+Edit: As I mentioned, I'm trying to keep the thread trimmed down to the highlights. Here is a link to the full Album, if anyone is interested. 
+
+http://imgur.com/a/BVxl5 (part 1)
+
+http://imgur.com/a/ZWV5p (part 2)
+
+https://imgur.com/a/T3Qpg (part 3)  
+
+https://imgur.com/a/xHE6e (part 4, paint work)
+
+work space
+
+[IMAGE: 415667-f7ba441a0b6d12234adaa978aadd675e.jpg]
+
+gotta start with the front fuselage right!
+
+[IMAGE: 415665-12ee677980c0de3260be6c206b03fd0d.jpg]
+
+my last build, the Revell Master Series 1/72 M.Falcon (the fine molds kit)
+
+[IMAGE: 415666-b926a2b52dbcc5e35e05f88e6cc13328.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #4245322)
+Author    : Fett_Ish
+Date      : May 12, 2017 at 7:45 AM
+────────────────────────────────────────────────────────────────────────
+
+Nice looking FM falcon there. I'm also working on a Deago Falcon and Dave Gs Y-Wing and about 3 other things. I'm attempting to reason out how to trim the Saturn V shells. I'm a little nervous about cutting into those Airfix kits! The front fuselage looks great as well. Have fun!
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #4245627)
+Author    : Carnet
+Date      : May 12, 2017 at 5:46 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks!
+
+Indeed, my shells are on the way. I was thinking that placing the shell where it is going to sit on the nacelle core and then spraying a color on the inside of the nacelle so it creates a stencil on the backside of the shell to use as a pattern.
+
+Might work?
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #4245765)
+Author    : 3phase
+Date      : May 13, 2017 at 1:44 AM
+────────────────────────────────────────────────────────────────────────
+
+By the looks of that MF you will do great
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #4245792)
+Author    : Studio Kitbash
+Date      : May 13, 2017 at 5:59 AM
+────────────────────────────────────────────────────────────────────────
+
+Agreed - that is a sweet paint job on the Millennium Falcon.  Can't wait to see your treatment of the Y-Wing.
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #4249361)
+Author    : Carnet
+Date      : May 19, 2017 at 6:15 AM
+Reactions : Like — knnyjay, Jamie M, Studio Kitbash
+────────────────────────────────────────────────────────────────────────
+
+I have no idea what I'm doing! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Test fitting the printed fuselage! I am going to probably refrain from too many of these WIP pics on the building of the armature...they all look so similar to the other threads already going. Unless I come across something I haven't seen documented elsewhere. 
+
+[IMAGE: 415669-bd0982e8b636583ac6d02db35dd2a121.jpg]
+
+[IMAGE: 415668-9a809480cdc3d6225077162c3d6c0134.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #4249643)
+Author    : DaveG
+Date      : May 19, 2017 at 2:02 PM
+Reactions : Like — knnyjay, vectorzero, Carnet
+────────────────────────────────────────────────────────────────────────
+
+Marc - Welcome to the party! Great to see another Y underway. A few recommendations I have to get you started on the right track...
+
+Sand and fill the visible surfaces of the 3D printed fuselage shells BEFORE you assemble them. It'll be much easier this way. The way they are broken up into sections was also done with this in mind. Then you only need to putty and sand the seams once assembled.
+
+You'll want to be able to take the nacelle cores on and off the armature a lot when test fitting the notches in the Saturn shells so don't glue it all together until you are sure you are 100% done with cutting the Sat Cans.
+
+The easiest way to cut the Sat Cans to length cleanly it to tape them together around the nacelle core. Lay out your cut line with a couple wraps of masking tape. I set the line 3/16" back from the corrugated section (some have done 1/4", both are correct depending on which original model you refer to). Then using a NEW, SHARP extra fine X-acto saw, very gently run it around the shell using the tape as a fence cutting away very little plastic at first. Then go deeper and deeper with each orbit, eventually cutting through. A little dish soap as a cutting lubricant will help. The plastic where the two halves meet is a little thicker so beware of that as you go.
+
+Cut the rectangular notch to fit around the armature Tee plate first, then file out the round notch to fit around the 1/2" wing spar. Go easy, lots of test fitting
+
+Good luck!
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #4249859)
+Author    : Carnet
+Date      : May 19, 2017 at 8:41 PM
+Reactions : Like — Fett_Ish, BowmanArt
+────────────────────────────────────────────────────────────────────────
+
+DaveG, thank you for those tips on the Saturn V parts...I came very close to cutting them way too short, but I stopped myself because I wasn't sure. Would have been a bummer to have to buy two more kits! I am considering making molds of the shells before I lock them into the model so that others don't have to buy 2 full Saturn V kits to do the project. It seems really wasteful to me to canibalize a perfectly good model kit like that. 
+
+This is a bit off topic, but I thought I would share my 3d printing experience. Due to my printing snafu that ended up with a pretty much ruined hotend on my printer, I am replacing my hotend with an E3d, but I didn't want my build to stall so I decided just to pick up the fuselage pieces that I needed from shapeways. These two prints are a comparison of my Monoprice Mini (Malyan M200) and a Shapeways commissioned print of the same piece. The piece on the left was printed on my printer with the stock hotend (prior to my printing SNAFU) and the piece on the right is what I got from Shapeways.
+
+I gotta say I am pretty impressed with the Monoprice Mini printer. For $200.00...it is providing better prints than the ones I paid for from Shapeways. This picture shows my print in PLA on the left and Shapeways print in PLA on the right. I do understand that there are a lot of different factors that go into the level of quality you get out of a print, and perhaps Shapeways doesn't attempt to achieve anything cleaner than what they provided me when they print in PLA, but I was a little disappointed. My print was not even peformed in the high detail settings. It only took about 3hrs. I was expecting a better quality than what I got from Shapeways PLA.
+
+[IMAGE: 415670-22e7016b99718f98f93d7533ac4f3c43.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #4249863)
+Author    : DaveG
+Date      : May 19, 2017 at 8:51 PM
+Reactions : Like — knnyjay, Carnet
+────────────────────────────────────────────────────────────────────────
+
+Wow, that Shapeways print is pretty rough! While sometimes Shapeways' quality may be hit or miss, they are really good now with their "you're happy or we'll make it right" pledge. I'm sure if you sent them that picture they'd either give you a refund, credit or offer to run the part again.
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #4250208)
+Author    : Dimitri-Ajith
+Date      : May 20, 2017 at 2:04 PM
+Reactions : Like — Carnet
+────────────────────────────────────────────────────────────────────────
+
+Looking forward to your build!
+
+Love the paintjob on that falcon also.
+
+That Shapeways part looks really under their standard.
+
+I have an Ultimaker 2 myself, and I have to have a really bad print to get it like that.
+
+For 200 buck that isn't a bad print! And I even think you can get some more out of it (from what I can see).
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #4272467)
+Author    : Carnet
+Date      : Jun 29, 2017 at 7:13 AM
+Reactions : Like — knnyjay, Studio Kitbash
+────────────────────────────────────────────────────────────────────────
+
+Progress!
+
+So! The dust has settled from my wedding and honeymoon, and I can get back to this build! Puerto Rico was amazing, thanks for asking!
+
+Now back to more important endeavors in modeling.
+
+I did say that I wouldn't be posting many of the boring base build up pictures, but then I realized that these threads are like a personal build journal...and I want that. So there might be a few more like these.
+
+Full disclosure,  Contrary to what I said in my earlier post...I totally did screw up on my first set of Sat V cans and cut them way too short...but I was too embarrassed to admit it at the time, so anyway, I had to order another two kits...big facepalm. That was a case of leaping before looking...so here are the new cans cut and fit!
+
+[IMAGE: 415671-eac3bac9180adc073bdc253d36472013.jpg]
+
+[IMAGE: 415672-c03349c31c84985297a7a8337dd41925.jpg]
+
+Getting the base fuselage pieces set.
+
+[IMAGE: 415673-f7a9495eccbaaf31521b1a6e6946d75d.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #4272488)
+Author    : merseajohn
+Date      : Jun 29, 2017 at 8:10 AM
+────────────────────────────────────────────────────────────────────────
+
+Great stuff! Keep it up!
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #4272503)
+Author    : Fett_Ish
+Date      : Jun 29, 2017 at 8:43 AM
+────────────────────────────────────────────────────────────────────────
+
+I just received all the fuselage files from shapeways yesterday. I uploaded the STLs from DaveGs repository leaving it at the default material. The pieces are about flawless. a very minor sanding would get rid of any printing artifacts. I am curious why mine came out so much better. Perhaps yours was printed by a "partner" that isn't actually a shapeways facility?
+
+Carnet said:
+
+			DaveG, thank you for those tips on the Saturn V parts...I came very close to cutting them way too short, but I stopped myself because I wasn't sure. Would have been a bummer to have to buy two more kits! I am considering making molds of the shells before I lock them into the model so that others don't have to buy 2 full Saturn V kits to do the project. It seems really wasteful to me to canibalize a perfectly good model kit like that. 
+
+This is a bit off topic, but I thought I would share my 3d printing experience. Due to my printing snafu that ended up with a pretty much ruined hotend on my printer, I am replacing my hotend with an E3d, but I didn't want my build to stall so I decided just to pick up the fuselage pieces that I needed from shapeways. These two prints are a comparison of my Monoprice Mini (Malyan M200) and a Shapeways commissioned print of the same piece. The piece on the left was printed on my printer with the stock hotend (prior to my printing SNAFU) and the piece on the right is what I got from Shapeways.
+
+I gotta say I am pretty impressed with the Monoprice Mini printer. For $200.00...it is providing better prints than the ones I paid for from Shapeways. This picture shows my print in PLA on the left and Shapeways print in PLA on the right. I do understand that there are a lot of different factors that go into the level of quality you get out of a print, and perhaps Shapeways doesn't attempt to achieve anything cleaner than what they provided me when they print in PLA, but I was a little disappointed. My print was not even peformed in the high detail settings. It only took about 3hrs. I was expecting a better quality than what I got from Shapeways PLA.
+
+http://i.imgur.com/Ll6gBjR.jpg
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #4272512)
+Author    : Carnet
+Date      : Jun 29, 2017 at 9:01 AM
+Reactions : Like — Fett_Ish
+────────────────────────────────────────────────────────────────────────
+
+Did you chose PLA or the Strong Flexible Plastic medium? Mine were done in PLA. After a bit of back and forth with the support team, I was able to finally get them to redo the worst of the prints in the Strong Flexible Plastic, and they came out perfectly, and I just paid the difference. Only 2 of the pieces were really bad. The rest were useable.
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #4272598)
+Author    : Fett_Ish
+Date      : Jun 29, 2017 at 12:17 PM
+────────────────────────────────────────────────────────────────────────
+
+I just looked at my order and it is the white strong and flexible. The print lines are barely visible, I was shocked that the surface was so smooth visually and slightly grainy to the touch. It is white and seems strong, but it isn't very flexible.
+
+Carnet said:
+
+			Did you chose PLA or the Strong Flexible Plastic medium? Mine were done in PLA. After a bit of back and forth with the support team, I was able to finally get them to redo the worst of the parts in the Strong Flexible Plastic, and they came out perfectly, and I just paid the difference. Only 2 of the pieces were really bad. The rest were useable.
+		
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #4272604)
+Author    : Carnet
+Date      : Jun 29, 2017 at 12:25 PM
+────────────────────────────────────────────────────────────────────────
+
+"flexible" is a relevant term here...flexible compared to pla, which is brittle. I wish I had just gone with the WSF for everything, it wasn't that much more expensive, and my finishing work would have taken less time. It's irrelevant at this point, because it is done and I am happy with how it looks, but now I know what to expect.
+
+On a side note, Shapeways flat out rejected the Nacelle Cores in PLA. They wouldn't print them, claiming there was problems with support material and the internal geometry. I had to find a local shop to get them done...in PLA...and they were perfect.
+
+I have had quite a bit of print work done from shapeways in the Extreme/Ultra Frosted Detail and I have been very happy with what I have gotten, but this project is the first I have done with the other mediums. It seems like others here have had no issues printing the Nacelle cores with Shapeways in the past, but perhaps things have changed at Shapeways? I dunno?
+
+Looking forward to getting my own printer back on-line.
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #4278025)
+Author    : Carnet
+Date      : Jul 10, 2017 at 6:15 PM
+Reactions : Like — knnyjay
+────────────────────────────────────────────────────────────────────────
+
+Working on the final foundations of the main fuselage. Based on some friendly advice I chose to widen the upper neck and droid shelf. I was considering leaving it alone, but when I saw pictures in a few of the other build threads it seem like the right way to go.
+
+[IMAGE: 415674-a71f894ca821dc44f2da65fb5393a759.jpg]
+
+[IMAGE: 415675-a45e28eb457dde856a77dd4291eeaf0f.jpg]
+
+These cuts are proving to be the most difficult so far! I have recut them about ten times and I have two that I am happy with. Maybe I am being too critical? When the cut lines are so close to each other...if they aren't straight, you can really tell.
+
+[IMAGE: 415676-a2751d2bcdb516dc8cbc3c474d74f6e6.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #4278680)
+Author    : Carnet
+Date      : Jul 12, 2017 at 6:11 AM
+Reactions : Like — knnyjay, Studio Kitbash, jontom
+────────────────────────────────────────────────────────────────────────
+
+Thanks to some friendly assistance from Scott Graham I was able to get this worked out. Just a few minor splits to fill.
+
+[IMAGE: 415677-e388e1547a3ce624dcb2a8b0f13a64f2.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #4278990)
+Author    : Studio Kitbash
+Date      : Jul 12, 2017 at 6:49 PM
+────────────────────────────────────────────────────────────────────────
+
+Yeah -- somebody should 3D design and print that part, make it available on Shapeways or Open Source it and share it.  I've also found this section to be a pain in the neck (or at least, near the neck).
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #4283428)
+Author    : Carnet
+Date      : Jul 20, 2017 at 5:54 AM
+Reactions : Like — knnyjay, maxhebus, Studio Kitbash
+────────────────────────────────────────────────────────────────────────
+
+Out of the gates! I am enjoying this immensely! I have definitely placed the underside yolk a touch too far forward. It became obvious to me after placing the pieces at the front of the main fuse...oh well, a minor thing in the grand scheme. I'll just have to get creative in a few spots.
+
+This picture shows the base fuselage with the additional styrene added primed and ready.
+
+[IMAGE: 415679-904254f044540e8be7e5809b78574705.jpg]
+
+And here is where I stopped last night.
+
+[IMAGE: 415678-d79e508ee475391e23694b9705c55bfc.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #4284092)
+Author    : Studio Kitbash
+Date      : Jul 21, 2017 at 6:56 AM
+────────────────────────────────────────────────────────────────────────
+
+Looks flawless!  What are your under-armature pieces made of?  3D prints or Plastruct Shell mock-up?  I don't see any seams or alignment mismatches anywhere, and it's impressive.
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #4284158)
+Author    : Carnet
+Date      : Jul 21, 2017 at 9:23 AM
+────────────────────────────────────────────────────────────────────────
+
+Thank you very much! The core pieces are 3D prints from Dave Gs open source combined with a few bits of plastruct sheeting here and there. I use tamiya's basic putty thinned with a bit of Mr Finish leveling thinner to fill and patch up my seams...and then just a lot of sanding. The Rustoleum Filler Primer is really great for finishing the printed parts, it wet sands beautifully.
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #4286868)
+Author    : Carnet
+Date      : Jul 25, 2017 at 6:12 PM
+Reactions : Like — knnyjay, newmagrathea, Jamie M
+────────────────────────────────────────────────────────────────────────
+
+I've gone off script a bit, but things are coming along nicely!
+
+[IMAGE: 416527-6ffb6622a8f04951ee2e0aa377f75b63.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #4287865)
+Author    : Jamie M
+Date      : Jul 27, 2017 at 1:03 PM
+Reactions : Like — Carnet
+────────────────────────────────────────────────────────────────────────
+
+A thing of beauty
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #4293238)
+Author    : Carnet
+Date      : Aug 5, 2017 at 9:45 PM
+Reactions : Like — mrbungle, Studio Kitbash, DaveG
+────────────────────────────────────────────────────────────────────────
+
+I decided to take a break from the main fuselage and work on the bulkhead panels. I didn't have all of the greeblies I needed, so I just made it up as I went along, mostly on the side panels. I'm not sure if I am finished with the left and right panels yet. 
+
+[IMAGE: 418780-0660ab59a0f8a460868685721e476305.jpg]
+
+[IMAGE: 418781-5af31a4e04b26ab6a86eb067dd91043d.jpg]
+
+[IMAGE: 418782-6c3e4d38818b8630dcea52037e5dd7dd.jpg]
+
+[IMAGE: 418783-e75d58108c4bd89a81e14591a06f6250.jpg]
+
+And definitely going to find somewhere on the model to hide these three space men.
+
+[IMAGE: 418784-f4bc698c75f53aa8c80504b2b24b5f80.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #4297980)
+Author    : Carnet
+Date      : Aug 14, 2017 at 6:46 AM
+Reactions : Like — kokkari, DaveG
+────────────────────────────────────────────────────────────────────────
+
+I think I am going to leave it like this. It reminds me of those sport bikes you see riding around with the super long swing arms.
+
+[IMAGE: 420187-9fd9b66a9e14f42c6574bf3ac4e56c61.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #4298290)
+Author    : Studio Kitbash
+Date      : Aug 14, 2017 at 3:50 PM
+────────────────────────────────────────────────────────────────────────
+
+YESSS!!! The Super Turbo Long Vector Thruster Y-Wing -- an idea whose time has come!!!
+
+Love it.  And also:  I dare you.
+
+- - - Updated - - -
+
+Carnet said:
+
+			And definitely going to find somewhere on the model to hide these three space men.
+
+View attachment 749651
+
+Click to expand...
+
+Perhaps inside the rear nozzle thrusters, in a true NASA tribute.
+────────────────────────────────────────────────────────────────────────
+Post #28  (forum post #4298315)
+Author    : Carnet
+Date      : Aug 14, 2017 at 4:39 PM
+────────────────────────────────────────────────────────────────────────
+
+Studio Kitbash said:
+
+			Love it.  And also:  I dare you.
+		
+
+Click to expand...
+
+Yeeeah...no.
+
+Studio Kitbash said:
+
+			Perhaps inside the rear nozzle thrusters, in a true NASA tribute.
+		
+
+Click to expand...
+
+Not a bad idea! I've already planted them...but they can be moved. We'll see.
+────────────────────────────────────────────────────────────────────────
+Post #29  (forum post #4298317)
+Author    : Jkirkon
+Date      : Aug 14, 2017 at 4:42 PM
+Reactions : Like — Carnet
+────────────────────────────────────────────────────────────────────────
+
+I DOUBLE dog dare ya!!
+────────────────────────────────────────────────────────────────────────
+Post #30  (forum post #4300432)
+Author    : Carnet
+Date      : Aug 17, 2017 at 7:37 PM
+Reactions : Like — Treadwell, Lee S, DaveG
+────────────────────────────────────────────────────────────────────────
+
+DaveG, I couldn't resist picking up a set of these barrels...they are so pretty!
+
+[IMAGE: 421145-b6ff76d6eac133af6967e7690d8c7ab5.jpg]
+
+[IMAGE: 421144-8545ad26d5a62cd019bac17b099d9713.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #31  (forum post #4300487)
+Author    : DaveG
+Date      : Aug 17, 2017 at 9:56 PM
+Reactions : Like — Carnet
+────────────────────────────────────────────────────────────────────────
+
+Yeah, they are nice! And they go in a area that get's lots of attention so the detail will not go unnoticed. Just go easy with the paint. You don't want to fill in the holes!
+────────────────────────────────────────────────────────────────────────
+Post #32  (forum post #4300813)
+Author    : vectorzero
+Date      : Aug 18, 2017 at 12:37 PM
+────────────────────────────────────────────────────────────────────────
+
+Carnet said:
+
+			DaveG, I couldn't resist picking up a set of these barrels...they are so pretty!
+
+View attachment 752744View attachment 752743
+
+Click to expand...
+
+Oooh. Want! Where did they come from?
+────────────────────────────────────────────────────────────────────────
+Post #33  (forum post #4300838)
+Author    : Carnet
+Date      : Aug 18, 2017 at 1:06 PM
+Reactions : Like — monsterpartyhat, knnyjay
+────────────────────────────────────────────────────────────────────────
+
+vectorzero said:
+
+			Oooh. Want! Where did they come from?
+		
+
+Click to expand...
+
+Poland
+
+For some reason, only the P is the link?
+────────────────────────────────────────────────────────────────────────
+Post #34  (forum post #4300912)
+Author    : Studio Kitbash
+Date      : Aug 18, 2017 at 4:00 PM
+Reactions : Like — knnyjay, vectorzero, Carnet
+────────────────────────────────────────────────────────────────────────
+
+Bf-109 Turned Metal Barrels in 1/24 scale can be found here.
+────────────────────────────────────────────────────────────────────────
+Post #35  (forum post #4300929)
+Author    : Jkirkon
+Date      : Aug 18, 2017 at 4:44 PM
+Reactions : Like — Carnet
+────────────────────────────────────────────────────────────────────────
+
+Studio Kitbash said:
+
+			Bf-109 Turned Metal Barrels in 1/24 scale can be found here.
+		
+
+Click to expand...
+
+ 
+
+Thanks for the link. Got some.
+────────────────────────────────────────────────────────────────────────
+Post #36  (forum post #4301149)
+Author    : Carnet
+Date      : Aug 19, 2017 at 4:48 AM
+────────────────────────────────────────────────────────────────────────
+
+Does anyone know what this is? I found it randomly on my floor...and then I found a great place for it on my y-wing...but I need another one.
+
+It reminds me of the compression fittings you find on the inside of fancy home audio banana cable ends.
+
+[IMAGE: 421336-18b0b30d3068abfcde412a7abaf3a0d6.jpg]
+
+[IMAGE: 421337-df28f902201e1a0d1785d0ad47e8cf9a.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #37  (forum post #4301226)
+Author    : Studio Kitbash
+Date      : Aug 19, 2017 at 8:10 AM
+────────────────────────────────────────────────────────────────────────
+
+That's not a nurnie I know, but it sure does look good where you've placed it.  Even if you don't get another one for symmetry, it looks good as is, like a plug-in undercarriage fueling or electrical charging port for the vessel.
+────────────────────────────────────────────────────────────────────────
+Post #38  (forum post #4301236)
+Author    : Carnet
+Date      : Aug 19, 2017 at 8:20 AM
+────────────────────────────────────────────────────────────────────────
+
+Right! I love coming up with the theory behind all of these nurnies...I mean, some of them are just there, and that's it, but when you can make a reason up for what they are doing there...it's great! I really like finding ways to connect different parts together with conduit...like this power circulator thing over here provides power to that veluvial damper thing over there, or whatever.
+
+I have to force myself to not make everything symmetrical. It's a struggle.
+────────────────────────────────────────────────────────────────────────
+Post #39  (forum post #4301249)
+Author    : kokkari
+Date      : Aug 19, 2017 at 9:16 AM
+────────────────────────────────────────────────────────────────────────
+
+Carnet said:
+
+			Does anyone know what this is? I found it randomly on my floor...and then I found a great place for it on my y-wing...but I need another one.
+
+It reminds me of the compression fittings you find on the inside of fancy home audio banana cable ends.
+
+View attachment 753042View attachment 753043
+
+Click to expand...
+
+Tampon applicator?
+────────────────────────────────────────────────────────────────────────
+Post #40  (forum post #4301299)
+Author    : Carnet
+Date      : Aug 19, 2017 at 11:15 AM
+Reactions : Like — kokkari
+────────────────────────────────────────────────────────────────────────
+
+kokkari said:
+
+			Tampon applicator?
+		
+
+Click to expand...
+
+Wife confirms "...no"
+────────────────────────────────────────────────────────────────────────
+Post #41  (forum post #4301524)
+Author    : Lee S
+Date      : Aug 19, 2017 at 8:51 PM
+────────────────────────────────────────────────────────────────────────
+
+I wouldn't use that piece TBH.
+
+It looks like that flexible plastic that paint doesn't like to stick to.
+
+The shape looks good but make sure it will later...
+
+Carnet said:
+
+			Does anyone know what this is? I found it randomly on my floor...and then I found a great place for it on my y-wing...but I need another one.
+
+It reminds me of the compression fittings you find on the inside of fancy home audio banana cable ends.
+
+View attachment 753042View attachment 753043
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #42  (forum post #4301528)
+Author    : Carnet
+Date      : Aug 19, 2017 at 8:57 PM
+Reactions : Like — Lee S
+────────────────────────────────────────────────────────────────────────
+
+Lee S said:
+
+			I wouldn't use that piece TBH.
+
+It looks like that flexible plastic that paint doesn't like to stick to.
+
+The shape looks good but make sure it will later...
+		
+
+Click to expand...
+
+Good point. It's planted. I'll see how the primer does on it. I can pop it off if it doesn't work out.
+────────────────────────────────────────────────────────────────────────
+Post #43  (forum post #4302669)
+Author    : Carnet
+Date      : Aug 22, 2017 at 6:08 AM
+────────────────────────────────────────────────────────────────────────
+
+Move along, nothing to see here.
+
+ 
+
+Attachments
+
+[IMAGE: 421778-63b418fd8b4fb03093988ad59946a0d8.jpg]
+
+IMG_0302.JPG
+
+					523.9 KB
+					
+					· Views: 452
+────────────────────────────────────────────────────────────────────────
+Post #44  (forum post #4341336)
+Author    : Carnet
+Date      : Oct 27, 2017 at 8:20 AM
+Reactions : Like — Mike J., Studio Kitbash
+────────────────────────────────────────────────────────────────────────
+
+It's about time for an update. I had to put the project on the side for a bit back at the end of august for my annual trip to Dragoncon in Atlanta, and then I lost a bit of steam and just needed a break from the bench for a bit.
+
+But here we go! I am pretty much done planting nurnies, I am currently working on my pipes and also blueprinting a way to retrofit at power source and circuit into the kit to run my LEDs for the cockpit and engines...I got so caught up in my build I didn't realize my mistake until I was about 75% done. I have come up with a good idea that I think is going to work out perfectly!
+
+I decided to warm up my paint brushes on the cockpit. After checking out of few others schemes, and then trying a few things out I finally decided to do something a little different and gave it a bit of a steampunk flavor. Pretty happy with it, just have a tiny bit touch up here and there, and also some slight weathering to do and some painting of lights and buttons. 
+
+[IMAGE: 433317-1dcc5f8339d986f8a6591ea00cb8b709.jpg]
+
+[IMAGE: 433318-9b998f5ea6e791e9f4248b674f077d11.jpg]
+
+Next bit is to route the fiber. and circuit. I am trying to work out a way to have my canopy removable, possibly with magnets. We'll see how that works out. If I can't get magnets to work and look good, then I'll just use canopy glue that can be easily cut away. The idea being to be able to service any of the LEDs if they need it.
+
+So here she sits at the moment...no pipes planted yet. Exterior scheme is going to be Gold Leader
+
+[IMAGE: 433319-064a4276d612f1946cb347f28dd34221.jpg]
+
+[IMAGE: 433320-da45c7f69c67fcfec596ce0170d85c59.jpg]
+
+[IMAGE: 433321-90200057ff34b7dd25457f028ab2b931.jpg]
+
+[IMAGE: 433322-8b96674d4364951bb70df37680c8dc24.jpg]
+
+[IMAGE: 433323-228f89bdcf2db1697d025f8dbdfbf48f.jpg]
+
+[IMAGE: 433324-a91908a68c81efd31a23197de6fe9a75.jpg]
+
+The little gap at the bottom of the Saturn V rockets in the last pic is gone, I ended up trimming the 4 fins a bit shorter, I didn't like how much they were poking out of the rear of the Cans.
+────────────────────────────────────────────────────────────────────────
+Post #45  (forum post #4341357)
+Author    : kokkari
+Date      : Oct 27, 2017 at 9:15 AM
+Reactions : Like — Carnet
+────────────────────────────────────────────────────────────────────────
+
+That cockpit interior looks beautiful!
+────────────────────────────────────────────────────────────────────────
+Post #46  (forum post #4342739)
+Author    : Ollois
+Date      : Oct 30, 2017 at 4:45 AM
+────────────────────────────────────────────────────────────────────────
+
+The whole thing looks beautiful... nice work
+────────────────────────────────────────────────────────────────────────
+Post #47  (forum post #4347708)
+Author    : Carnet
+Date      : Nov 7, 2017 at 9:01 AM
+Reactions : Like — Mike J., DCrowe, Studio Kitbash
+────────────────────────────────────────────────────────────────────────
+
+So here is how I ended up handling the routing of my circuit for my lights. I think they will mix in nicely with the other pipes,  especially after it's painted...I like to think of it as a patch up electrical repair that was done on the ship...which is pretty much exactly what it is, and I think it is in line with the slap dash character of the y-wing.
+
+[IMAGE: 435173-e29e96682a6c84d606ad0589a54c280a.jpg]
+
+[IMAGE: 435174-b7b7716a235d36b84f441b9689d84699.jpg]
+
+[IMAGE: 435175-691d4a1de87cf9c987dd8bcd7c430b14.jpg]
+
+[IMAGE: 435176-7fe686302826913c32aa110f77f2abfb.jpg]
+
+[IMAGE: 435177-68e8c2a30f0dadbe46413b0bf66f3aac.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #48  (forum post #4348663)
+Author    : Studio Kitbash
+Date      : Nov 8, 2017 at 4:29 PM
+Reactions : Like — Carnet
+────────────────────────────────────────────────────────────────────────
+
+Yeah - Guts On the OUTSIDE!!!  Looks good, and solves a problem nicely if you thought "too late" about wiring (like someone else I know did/is doing/may continue to do).
+
+Nice workaround.
+────────────────────────────────────────────────────────────────────────
+Post #49  (forum post #4350351)
+Author    : Carnet
+Date      : Nov 11, 2017 at 2:45 PM
+────────────────────────────────────────────────────────────────────────
+
+Curious. At what point did guys lay down your primer? Before or after you ran your pipes?
+
+I started planting pipes, but then stopped because the pipes are creating blockages over some of the areas...I wonder if it would be better to prime the main body first and then lay the pipes, or do I dummy fit all the pipes, pull them off and prime them separately, then plant them?
+
+These are the parts of the build that give me anxiety.
+────────────────────────────────────────────────────────────────────────
+Post #50  (forum post #4350453)
+Author    : DaveG
+Date      : Nov 11, 2017 at 5:54 PM
+Reactions : Like — Studio Kitbash, Carnet
+────────────────────────────────────────────────────────────────────────
+
+Definitely prime before adding the pipes. you might even want to paint and weather too. The pipes are (usually) a different color. On the original models they went back and painted the pipes, by hand, after they were assembled. That's fine for a model that's whizzing by on the screen but for something that's going to be looked at closely it'll be nicer  to paint the pipes separately and then glue down with a little cyano. If you get a gloss spot from the glue you can always hit it with a little clear flat.
+────────────────────────────────────────────────────────────────────────
+Post #51  (forum post #4350841)
+Author    : Carnet
+Date      : Nov 12, 2017 at 2:59 PM
+Reactions : Like — knnyjay, Treadwell, Studio Kitbash
+────────────────────────────────────────────────────────────────────────
+
+Finally.
+
+[IMAGE: 436022-684ef903baa7d79f09e66677e692d423.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #52  (forum post #4350863)
+Author    : Jkirkon
+Date      : Nov 12, 2017 at 3:38 PM
+────────────────────────────────────────────────────────────────────────
+
+Ahh, primer. Looks awesome.
+────────────────────────────────────────────────────────────────────────
+Post #53  (forum post #4350875)
+Author    : Carnet
+Date      : Nov 12, 2017 at 3:57 PM
+────────────────────────────────────────────────────────────────────────
+
+Jkirkon said:
+
+			Ahh, primer. Looks awesome.
+		
+
+Click to expand...
+
+It really ties the room together.
+────────────────────────────────────────────────────────────────────────
+Post #54  (forum post #4355907)
+Author    : Carnet
+Date      : Nov 21, 2017 at 5:26 AM
+Reactions : Like — knnyjay, Treadwell, Studio Kitbash
+────────────────────────────────────────────────────────────────────────
+
+I didn't want to have a naked LED mounted on the inside of the tube. I wanted to find someway to diffuse the light source and I wanted it to mount at the very tail end of the inside of the cylinder right behind the avid heat sinks. So, through a bunch of highly technical eyeballing and head scratching...I basically got lucky.
+
+It turns out the inside diameter of the bottom of these mixing cup bases is exactly the same diameter of the inside of the engine nozzle (eyeballing). So I mixed up a little resin with a drop of red food color...and I got my lens!
+
+[IMAGE: 437448-7d74e81e9dc248cbc9dff137a9ff8130.jpg]
+
+[IMAGE: 437449-88be8d007df50920d919f6b0449f0ab9.jpg]
+
+[IMAGE: 437450-f37c3b2dafa4a067f2cbc8d0a036bfbf.jpg]
+
+[IMAGE: 437451-6c546cff5ac2c4ab5b8779f55d0547d2.jpg]
+
+[IMAGE: 437452-48a07028cf4324e3be4725f4af5baa38.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #55  (forum post #4355963)
+Author    : Jkirkon
+Date      : Nov 21, 2017 at 6:58 AM
+────────────────────────────────────────────────────────────────────────
+
+Great solution! I’ll have to try that for my Salzo Gold Leader Y!
+────────────────────────────────────────────────────────────────────────
+Post #56  (forum post #4356193)
+Author    : kokkari
+Date      : Nov 21, 2017 at 12:39 PM
+────────────────────────────────────────────────────────────────────────
+
+The best part is that you know that's how ILM solved a lot of their problems. Like the paint buckets for the Blockade Runner head. 
+
+Sent from my SM-G955U using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #57  (forum post #4379022)
+Author    : Carnet
+Date      : Dec 29, 2017 at 5:31 PM
+Reactions : Like — maxhebus, Studio Kitbash, knnyjay
+────────────────────────────────────────────────────────────────────────
+
+Still have some light blocking to do, but she's got her base coat on (mostly).
+
+How do I tone down these LEDs...like a lot? They aren't as bright as they look in pictures, but they are still very bright. I could use them about 60% dimmer than they are.
+
+I know that I can add resistors to the circuit to bring them down a bit, but I'm not to keen on hacking back into the circuit now that it is installed. I was also thinking of just using something like Tamiya's Smoke on the lenses.
+
+[IMAGE: 443558-5f2a4e4f9f46b015cd483d572cc33efa.jpg]
+
+[IMAGE: 443559-ce279bc98c6041417759b58ca7bfeea5.jpg]
+
+[IMAGE: 443560-16cc7d9389995468fe686501b1669145.jpg]
+
+[IMAGE: 443561-59162260ff32a650dba6808bba0ce3c9.jpg]
+
+[IMAGE: 443562-807a3a14e36bf5014d27b4b0578d1f77.jpg]
+
+[IMAGE: 443563-00c2b50e7524c00ca95ded83fafc3a01.jpg]
+
+[IMAGE: 443564-d1338e63765b6a98eba3e4a696fecf4d.jpg]
+
+[IMAGE: 443565-5c897a9cad2500c1a6c214ab19d6f41f.jpg]
+
+[IMAGE: 443566-749a6cf2bab80697e9d7e34f056a0bec.jpg]
+
+[IMAGE: 443567-a1646db24dd923bee5f712cb8e36edde.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #58  (forum post #4379046)
+Author    : Hammer3246
+Date      : Dec 29, 2017 at 6:03 PM
+Reactions : Like — Carnet
+────────────────────────────────────────────────────────────────────────
+
+[IMAGE: 443596-b75e9fd8a30b9c2f3bf3e6a2dbce8474.jpg]
+
+Looking super!
+
+What I did was put my LEDS inside a tube of evergreen (about 3" long) that fit into the heat sink.  You can in turn slide your LEDS around in the tube to narrow down the intensity by setting them back until you're happy.
+
+Cheers
+
+Ron
+────────────────────────────────────────────────────────────────────────
+Post #59  (forum post #4379246)
+Author    : Carnet
+Date      : Dec 30, 2017 at 6:45 AM
+Reactions : Like — Hammer3246
+────────────────────────────────────────────────────────────────────────
+
+Hammer3246 said:
+
+View attachment 783194
+
+Looking super!
+
+What I did was put my LEDS inside a tube of evergreen (about 3" long) that fit into the heat sink.  You can in turn slide your LEDS around in the tube to narrow down the intensity by setting them back until you're happy.
+
+Cheers
+
+Ron
+		
+
+Click to expand...
+
+Thank you! This looks like it is going to work really well for the engines. I did a quick test fit this morning before work, and it definitely brought the brightness down. Then I think I am just going to use a few layers of Tamiya transparent green and yellow on the gauges in the cock pit.
+────────────────────────────────────────────────────────────────────────
+Post #60  (forum post #4380094)
+Author    : Carnet
+Date      : Dec 31, 2017 at 9:18 PM
+Reactions : Like — Studio Kitbash, Mike J., Hammer3246
+────────────────────────────────────────────────────────────────────────
+
+This morning, I was like..."I'll just mask off these nacelle struts real quick."
+
+...and then it was 10pm.
+
+[IMAGE: 443994-ad247dd2a2c2444d854a8641e4745184.jpg]
+
+[IMAGE: 443993-54a1c1f4d5165017dd317f9f8560708d.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #61  (forum post #4380217)
+Author    : Studio Kitbash
+Date      : Jan 1, 2018 at 8:59 AM
+Reactions : Like — Carnet
+────────────────────────────────────────────────────────────────────────
+
+Nice fade on the blue!
+────────────────────────────────────────────────────────────────────────
+Post #62  (forum post #4382696)
+Author    : Carnet
+Date      : Jan 4, 2018 at 7:52 PM
+Reactions : Like — Studio Kitbash
+────────────────────────────────────────────────────────────────────────
+
+Studio Kitbash said:
+
+			Nice fade on the blue!
+		
+
+Click to expand...
+
+Thank you! Although, I feel like I went a bit heavy on the blue. I actually have repainted the cockpit since that picture.
+
+...and started to weather her.
+
+[IMAGE: 445014-2dff859ea0e493fa66df07d7c836859a.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #63  (forum post #4386378)
+Author    : SeanTX
+Date      : Jan 10, 2018 at 3:17 AM
+────────────────────────────────────────────────────────────────────────
+
+Do you have a shopping list for all the lighting parts you bought?
+────────────────────────────────────────────────────────────────────────
+Post #64  (forum post #4386544)
+Author    : Carnet
+Date      : Jan 10, 2018 at 8:23 AM
+────────────────────────────────────────────────────────────────────────
+
+SeanTX said:
+
+			Do you have a shopping list for all the lighting parts you bought?
+		
+
+Click to expand...
+
+Sure!
+
+It is pretty bare bones. The numbers in the parenthesis is how many of each I used.
+
+Power source
+
+(2) https://www.allelectronics.com/item...MIlsLsuubN2AIVgiSBCh3zOgoREAQYAiABEgIP4PD_BwE
+
+Switch
+
+(2) 2 position micro switch I picked up at Frys. no link
+
+LEDs
+
+(1) https://www.superbrightleds.com/mor...ed-30-degree-viewing-angle-5000-mcd/287/1214/
+
+(2) https://www.superbrightleds.com/mor...-viewing-angle-flat-tipped-1200-mcd/279/1206/
+
+(1) https://www.superbrightleds.com/mor...ed-32-degree-viewing-angle-7500-mcd/272/1199/
+
+(1) https://www.superbrightleds.com/mor...hole-led-w-15-degree-viewing-angle/4044/8764/
+
+(2) https://www.superbrightleds.com/mor...-carbon-film-resistors-through-hole/901/2222/
+
+Fiber Optic Filament (for the cockpit gauges) I used 3mm on the larger gauges and I think 1mm on the smaller ones.
+
+https://thefiberopticstore.com/product-category/end-glow-single-strand-filament/
+
+24 gauge wire for the circuit in the cockpit, but the wires I ran along the outside of the hull are like 16 or 18 I think.
+
+I built two circuits, each Saturn V can has a 9v battery in it, and each circuit is running 3 LEDs with a 560ohm resistor, I hid a 2 position switch in the nurnies on the bottom side of each can. The left circuit is a red, green, and aqua LED, and the right circuit is a red, yellow, and red LED.
+
+I am no electrical wizard and I am still learning the best/easiest ways to light my models to get the effect that I want. So, this may not have been the best way to do this. I also decided to light it AFTER I had built it, so I had to get creative about running the wiring. One thing that I am still struggling with is scaling my lighting to the size of the model. It's very easy for LEDs to be way too bright in most cases. So, still working on that.
+────────────────────────────────────────────────────────────────────────
+Post #65  (forum post #4424753)
+Author    : Carnet
+Date      : Mar 10, 2018 at 4:03 PM
+Reactions : Like — Lee S, StevenBills, kokkari
+────────────────────────────────────────────────────────────────────────
+
+So. I'm pretty much done...are they every really finished? I am still working on the base and mount, but I wanted to get pictures up. Also, I've got a few missing nurnies that I still want to get on her...maybe. I based my paint scheme off of the earlier "cleaner" version of Gold Leader before the heavier weathering and blast marks were added.
+
+Painted using Archive-X
+
+Thank you Dave G for making this project possible for us! It was such a great learning experience. Unfortunately, I am completely addicted to Studio Scale models now...I've had to start thinking about renovations to the house.
+
+[IMAGE: 457212-2ac167fd3ea625d8891160d37cb89f7a.jpg]
+
+[IMAGE: 457213-a80947f748234f7eee026ad7654c8719.jpg]
+
+[IMAGE: 457214-614d4d147d599c2f67823670df810991.jpg]
+
+[IMAGE: 457215-0b0740824fd5089629e589da97f8c349.jpg]
+
+[IMAGE: 457216-481532cfb95b053f0b99a4dd62ca1aad.jpg]
+
+[IMAGE: 457217-460cbc1ecc089bcd72d6b5af32a6deaf.jpg]
+
+[IMAGE: 457218-ff58d5d9b8ebe6ca91c74c56f41e99d8.jpg]
+
+[IMAGE: 457219-f51ac72c398596e4b40fbbbba5346d08.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #66  (forum post #4424812)
+Author    : Jkirkon
+Date      : Mar 10, 2018 at 6:26 PM
+Reactions : Like — Carnet, Studio Kitbash
+────────────────────────────────────────────────────────────────────────
+
+Carnet, I think this is the best Gold Leader paint job I have seen. Outstanding! Wanna paint mine? Lol
+────────────────────────────────────────────────────────────────────────
+Post #67  (forum post #4424831)
+Author    : satazius
+Date      : Mar 10, 2018 at 7:19 PM
+────────────────────────────────────────────────────────────────────────
+
+Wow. Gorgeous work. And I would use the stand and base as they are.
+────────────────────────────────────────────────────────────────────────
+Post #68  (forum post #4424844)
+Author    : Studio Kitbash
+Date      : Mar 10, 2018 at 7:58 PM
+Reactions : Like — Carnet
+────────────────────────────────────────────────────────────────────────
+
+Gorgeous.  Seriously, stunning.  I knew from your Millennium Falcon paint job that you'd blow this out of the water, but this is REALLY nice.
+
+Love the proportions and the proportionality of parts to the whole.
+
+Love the custom-build - just accurate enough and just off enough in the nurnies department to make the viewer do a double-take, and say, "Hmm, that looks good" and sometimes, "Hmm, that looks even better than the original."
+
+Love the paint job: the weathering, the fading, the chipping, the scorch and blast marks, love all of it.  Looks amazing.  Man, that is a serious skill set with the airbrush you have.  It's also got a really nice balanced aesthetic look between "screen-used-in-motion-model-at-24-fps" and "static model that I have to look at all day."  To my eye it comes off visually in slight favor of the ILM side of things and not as much the Static Model side of things, which is to my eye a perfect "imbalance" and one I hope to get close to myself.
+
+Inspiring work.  Now build the rest of them!
+
+Also, if you don't mind, show us more:  Would love to see some detailed underside pics.  More detailed bulkhead pics.  Detailed backplate deck pics.  Vectral thruster fins, and Interior Cockpit pics -- love the multicolored dashboard lightshow.
+────────────────────────────────────────────────────────────────────────
+Post #69  (forum post #4424953)
+Author    : Carnet
+Date      : Mar 11, 2018 at 4:50 AM
+────────────────────────────────────────────────────────────────────────
+
+Jkirkon said:
+
+			Carnet, I think this is the best Gold Leader paint job I have seen. Outstanding! Wanna paint mine? Lol
+		
+
+Click to expand...
+
+Wow! Thank you! While the idea of painting someone else's kit is an honor...the pressure of having someone else's baby in my care...just gives me the willies.
+
+satazius said:
+
+			Wow. Gorgeous work. And I would use the stand and base as they are.
+		
+
+Click to expand...
+
+That is definitely something that has crossed my mind. The base is kind of it's own work of art, shows some of the history of the project. I really like the mirror bases...but long term I am going to be doing a big wall display for all of my models, so it will be mounted directly to the wall using a grip head for articulation.
+
+Studio Kitbash said:
+
+			Gorgeous. Seriously, stunning. I knew from your Millennium Falcon paint job that you'd blow this out of the water, but this is REALLY nice.
+
+Love the proportions and the proportionality of parts to the whole.
+
+Love the custom-build - just accurate enough and just off enough in the nurnies department to make the viewer do a double-take, and say, "Hmm, that looks good" and sometimes, "Hmm, that looks even better than the original."
+
+Love the paint job: the weathering, the fading, the chipping, the scorch and blast marks, love all of it. Looks amazing. Man, that is a serious skill set with the airbrush you have. It's also got a really nice balanced aesthetic look between "screen-used-in-motion-model-at-24-fps" and "static model that I have to look at all day." To my eye it comes off visually in slight favor of the ILM side of things and not as much the Static Model side of things, which is to my eye a perfect "imbalance" and one I hope to get close to myself.
+
+Inspiring work. Now build the rest of them!
+
+Also, if you don't mind, show us more: Would love to see some detailed underside pics. More detailed bulkhead pics. Detailed backplate deck pics. Vectral thruster fins, and Interior Cockpit pics -- love the multicolored dashboard lightshow.
+		
+
+Click to expand...
+
+Thank you, really. Your t-plate combined with Dave's kit really works well together, it's such a subtle thing, but it makes a difference.
+
+I'd be happy to snap some more shots! Also, If you check out my build log links in my first post, I have hundreds of pictures there too showing some of the areas you talk about.
+────────────────────────────────────────────────────────────────────────
+Post #70  (forum post #4424984)
+Author    : Studio Kitbash
+Date      : Mar 11, 2018 at 7:39 AM
+Reactions : Like — Hammer3246
+────────────────────────────────────────────────────────────────────────
+
+I am still tinkering and futzing and obsessing over exact wing measurements, but here is one way of getting proportionality "right" to the eye:
+
+[IMAGE: 457289-6d8f35da36946dfa4cc0b59680fc8b7a.jpg]
+ 
+[IMAGE: 457303-b70a0b7addefd3dd800d3a4e0ee78b40.jpg]
+ 
+[IMAGE: 457304-344b4abab96f7ea0cb0f1bd0370ac2d3.jpg]
+
+(Blow these photos up:  the red lines are not visible on the thumbnails.)  
+
+On an overhead shot, draw lines from the upper outer corner through the lower outer corner of the fuselage head, and extend those lines all the way down to see where they intersect the wings on left and right side:  Carnet's build, using a 34.0 cm Tee-Plate, "hits" the mark in the middle of the Kettenkrad track link greeblie as well as any of the actual studio scale models, as far as I can tell (having compared it to multiple overhead photographs with the ruler lines added on them). 
+
+So even if DaveG's head may be "slightly too wide at the base" and my wings may be "slightly too wide" at 34.0, it still hits the eye as proportional because of this relationship.  I suspect this is between one and three mm off the exact measurements of any original, and am hoping to get it down to within 1-2mm of perfectly accurate.  My current best guess is somewhere between 33.7cm and 33.9cm for the Tee Plate, but to have it "look just right" you'd also need to modify DaveG's fuselage head down by 1-2mm at the base, and this would of course mess up your bulkhead build and the usability of Gus's excellent and perfectly fitting cockpit tub.  So I'm leaving well enough alone, but still trying to achieve an overall effect that looks as close to the proportionality of the originals even while we use a mix of good guesstimates and original-vs-interpretive nurnies to dress these out.  My only consolation is that in the Y-Wing fictional universe, no two were identical with their "guts on the outside" design principle, so you can't really go wrong by too much.
+
+Another way of rough-measuring the wing widths is to use the outer diameter (at base) of the L'eggs Egg pantyhose container as a width marker for the negative space between the wing and the body.  When built, you should be able to fit an Egg in the space between the Saturn V engine can and the fuselage body (in front of the wing) without having it compress to squeeze in.  
+
+But these are just the tricks/techniques I've conceived along the way, and someone with more of an engineering background may have a better design concept for hitting proper proportionality and getting the ratios just right, so I'm all ears if you've found a better/more accurate method.  The difficulty with photogrammetry is the distortion of the camera, and getting the "exact" right overhead angle for your shot, which only exists in the Platonic realm of the ideal universe.  So perhaps 1-2mm accuracy range is as close as one can get without access to a digital scan of a film-used original.
+────────────────────────────────────────────────────────────────────────
+Post #71  (forum post #4425029)
+Author    : Studio Kitbash
+Date      : Mar 11, 2018 at 8:59 AM
+Reactions : Like — Hammer3246
+────────────────────────────────────────────────────────────────────────
+
+Here is Proportionality Trick #3 in case you've become as obsessed with proper proportionality...
+
+[IMAGE: 457394-a7b42a8c5dc49fcd0335aa7a1dc8db71.jpg]
+
+This should be useful in helping you figure out a.) how long to extend your neck and b.) how long to make your T-struts.
+────────────────────────────────────────────────────────────────────────
+Post #72  (forum post #4427867)
+Author    : bwize
+Date      : Mar 16, 2018 at 9:07 AM
+Reactions : Like — Carnet
+────────────────────────────────────────────────────────────────────────
+
+Love it.  What an awe inspiring build.  The attention is detail is absolutely beautiful as is the paint and weathering.
+────────────────────────────────────────────────────────────────────────
+Post #73  (forum post #4428630)
+Author    : Carnet
+Date      : Mar 17, 2018 at 6:20 PM
+────────────────────────────────────────────────────────────────────────
+
+bwize said:
+
+			Love it.  What an awe inspiring build.  The attention is detail is absolutely beautiful as is the paint and weathering.
+		
+
+Click to expand...
+
+Thank you very much! It was a great project, I owe a lot to the memebers that have gone before me.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 73

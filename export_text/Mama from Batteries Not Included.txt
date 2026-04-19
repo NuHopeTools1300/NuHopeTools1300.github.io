@@ -1,0 +1,704 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Mama from Batteries Not Included
+URL    : https://www.therpf.com/forums/threads/mama-from-batteries-not-included.358909/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #5559620)
+Author    : Duncanator
+Date      : Aug 2, 2024 at 10:03 PM
+Reactions : Like, Love, Wow — incrediblefruit, MangyDog, carbonitekid
+────────────────────────────────────────────────────────────────────────
+
+Hey gang!  
+
+I was starting a probe droid scratch build, but then I stumbled on some 3D files of the Batteries Not Included family of robot that weren't half bad. 
+
+Sometimes you have to take the inspiration when it comes!
+
+I've been gathering info on them for years with the intention of scratch building them, but these are a great jumping off point. These 3D files are pretty good, but they have some things that aren't quite right, so I'll be accurizing them. I guess I'll get to do some scratch building after all! 
+
+When I started working at ILM back in the 90's, these guys were sitting in the model shop lunch room.
+
+[IMAGE: https://www.therpf.com/forums/attachments/bni-family1-jpg.1846685/]
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #5559622)
+Author    : Duncanator
+Date      : Aug 2, 2024 at 10:23 PM
+Reactions : Like, Love — incrediblefruit, carbonitekid, edge10
+────────────────────────────────────────────────────────────────────────
+
+This build thread will focus on the mama robot. I'll do separate threads for the others when I get to them, but I'll show some pics of the raw prints just for fun. They all need a lot of clean up, and some parts will just be scrapped, but they are a decent start point.
+
+[IMAGE: https://www.therpf.com/forums/attachments/bni-family-prints-jpg.1846688/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/pa-prints-jpg.1846689/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/ma-top-print-jpg.1846690/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/babys-prints-jpg.1846691/]
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #5559633)
+Author    : Clerval
+Date      : Aug 2, 2024 at 11:11 PM
+Reactions : Like — joberg, George
+────────────────────────────────────────────────────────────────────────
+
+I used to love seeing them when walking through LDAC... this is a great project.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #5559645)
+Author    : George
+Date      : Aug 3, 2024 at 3:35 AM
+Reactions : Like — greenmachines, joberg
+────────────────────────────────────────────────────────────────────────
+
+I love that (evergreen) movie ! This is going to be a great project.
+
+Thank you so much for taking us on that journey. Subscribed !
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #5560914)
+Author    : Duncanator
+Date      : Aug 6, 2024 at 10:26 PM
+Reactions : Like — incrediblefruit, George, ZeroSum
+────────────────────────────────────────────────────────────────────────
+
+So the first order of business is to sand, sand, sand.  I was a bit disappointed by the faceting in the model. I don't mean the layer lines, I'm talking about the curved surfaces being broken up into planar facets. I suspect whoever modeled this was trying to keep the model from being too heavy, but unfortunately it ruins an otherwise nice model.
+
+[IMAGE: https://www.therpf.com/forums/attachments/ma-print-1-jpg.1848113/]
+
+Ma's face was oriented toward the build plate, so ended up with a bunch of support pips on it. Rather than reprint the whole thing, I just cut away the crunchy area and printed a new face to graft in its place.
+
+[IMAGE: https://www.therpf.com/forums/attachments/ma-print-2-jpg.1848112/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/ma-print-3-jpg.1848114/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/ma-print-4-jpg.1848115/]
+
+And now her face looks much better!
+
+[IMAGE: https://www.therpf.com/forums/attachments/ma-print-5-jpg.1848116/]
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #5560916)
+Author    : Duncanator
+Date      : Aug 6, 2024 at 10:30 PM
+Reactions : Like — MangyDog, George, joberg
+────────────────────────────────────────────────────────────────────────
+
+I should also take a moment to thank my buddy Kyle for printing the larger parts for me. I have a MonoX printer at home. It's too small for the body shells on Ma and Pa, but they do fit on the large format Carbon printers that Kyle has access to. Thanks Kyle!
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #5560935)
+Author    : publiusr
+Date      : Aug 7, 2024 at 1:42 AM
+────────────────────────────────────────────────────────────────────────
+
+Now, wasn't there a Wolf 359 saucer derelict that was similar?
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #5561016)
+Author    : joberg
+Date      : Aug 7, 2024 at 9:21 AM
+Reactions : Like — George
+────────────────────────────────────────────────────────────────────────
+
+Great project Duncanator
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ Eager to see your next update!!
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #5561025)
+Author    : Kylash
+Date      : Aug 7, 2024 at 9:43 AM
+────────────────────────────────────────────────────────────────────────
+
+Guessing these are the goldenarmor 3d designs or someone else? ive got an Elegoo Mars5 Ultra, so i can probably only fit the little guys on there if i made some.
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #5561190)
+Author    : Duncanator
+Date      : Aug 7, 2024 at 9:16 PM
+Reactions : Like — incrediblefruit, George, joberg
+────────────────────────────────────────────────────────────────────────
+
+The next repair was on the backside, edges. They had printed with a slight warp in the bottom edge; so following the same procedure, i printed some new edges, cut out the old and glued in the new!
+
+[IMAGE: https://www.therpf.com/forums/attachments/ma-print-8-jpg.1848438/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/ma-print-6-jpg.1848439/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/ma-print-9-jpg.1848437/]
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #5561197)
+Author    : Duncanator
+Date      : Aug 7, 2024 at 9:35 PM
+Reactions : Like — incrediblefruit, George, joberg
+────────────────────────────────────────────────────────────────────────
+
+Now repairs aside, the modeling details on the top surface look fairly accurate - just need to sand out the facets. 
+
+The bottom details however are sorta' close, but far enough off that I needed to scratch build most of it. 
+
+The first part that jumped out to me was the sink drain looking part in the middle. The shape was almost spot on, but it was too big and had way too few holes in it. For this, I modeled it in Rhino. I'm kinda proud of it because it is the first piece I've ever modeled from scratch that was not planar or made from basic shapes like cubes and cylinders. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/ma-print-13-jpg.1848441/]
+
+ 
+
+Attachments
+
+[IMAGE: 1490955-0689a335b1d0289df69201f5ad974a61.jpg]
+
+Ma print 14.JPG
+
+					3.3 MB
+					
+					· Views: 137
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #5561202)
+Author    : Duncanator
+Date      : Aug 7, 2024 at 10:15 PM
+Reactions : Like — incrediblefruit, George, JediMichael
+────────────────────────────────────────────────────────────────────────
+
+The bottom surface was modeled as a flat plane rather than with the gentle reverse curve that it should have. I also could see that the details. plating and panel layout was way off. This was true of several of the robots in this set. There isn't a lot of reference out there of the undersides, so I'm not surprised. 
+
+Fixing this required some severe surgery.
+
+I cut out the entire middle area of the print, leaving only the outer rim.
+
+[IMAGE: https://www.therpf.com/forums/attachments/ma-print-16-jpg.1848443/]
+
+You can see more of the faceting on the rounded edge. Bummer!
+
+I turned a vacuform pattern for the new bottom which has the subtle curves that should be there....
+
+[IMAGE: https://www.therpf.com/forums/attachments/ma-print-17-jpg.1848444/]
+
+...and then pulled a nice, new part in styrene.
+
+[IMAGE: https://www.therpf.com/forums/attachments/ma-print-18-jpg.1848445/]
+
+Here is the new vacuformed bottom with the new drain, ready to be epoxied to the 3D printed rim.
+
+[IMAGE: https://www.therpf.com/forums/attachments/ma-print-19-jpg.1848446/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/ma-print-20-jpg.1848447/]
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #5561274)
+Author    : joberg
+Date      : Aug 8, 2024 at 7:50 AM
+Reactions : Haha, Like — George, JediMichael, greenmachines
+────────────────────────────────────────────────────────────────────────
+
+Yep, major surgeries were performed to make that model more accurate.  Glad to see that the patient is doing well on its recovery
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #5561306)
+Author    : swgeek
+Date      : Aug 8, 2024 at 9:34 AM
+Reactions : Like — George, joberg, Clerval
+────────────────────────────────────────────────────────────────────────
+
+Ahh a Ron Charles vacuform. Wish I had one of those.
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #5561323)
+Author    : Clerval
+Date      : Aug 8, 2024 at 11:01 AM
+Reactions : Like — George, joberg, swgeek
+────────────────────────────────────────────────────────────────────────
+
+swgeek said:
+
+			Ahh a Ron Charles vacuform. Wish I had one of those.
+		
+
+Click to expand...
+
+Ditto. I was looking it over last night and... I dunno can you mildly lust after a piece of equipment like this? Cuz that might've been a thing...
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #5561351)
+Author    : swgeek
+Date      : Aug 8, 2024 at 12:34 PM
+Reactions : Like — George, joberg, Clerval
+────────────────────────────────────────────────────────────────────────
+
+It's a thing for me.
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #5561408)
+Author    : Duncanator
+Date      : Aug 8, 2024 at 5:35 PM
+Reactions : Like — incrediblefruit, George, joberg
+────────────────────────────────────────────────────────────────────────
+
+Clerval said:
+
+			Ditto. I was looking it over last night and... I dunno can you mildly lust after a piece of equipment like this? Cuz that might've been a thing...
+		
+
+Click to expand...
+
+I totally lucked out getting that vacuformer. A company I worked for a long time ago was closing up their shop, and I bought it plus a Sherline mill and lathe for a bargain.
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #5561412)
+Author    : Duncanator
+Date      : Aug 8, 2024 at 5:46 PM
+Reactions : Like — George, joberg, Krats
+────────────────────────────────────────────────────────────────────────
+
+I want to be clear that I don't think the 3D modeler who drew these did a bad job. Quite the opposite, I'm sure they did the best they could from  the reference they could find. The tops of the robots are a good example of this, as they are really well done.
+
+I hope I don't sound like I am bashing their work, especially because I probably would still be waiting to attempt making these robots. The inspiration to jump in to this project is a direct result of finding these files, even if I end up redoing a lot of the parts. 
+
+You can't complain about getting inspired!
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #5561592)
+Author    : Clerval
+Date      : Aug 9, 2024 at 11:28 AM
+Reactions : Like — Duncanator, George, joberg
+────────────────────────────────────────────────────────────────────────
+
+Wow, not enough to have the vacuformer but then has to play the Sherline card *sniff*... okay... we see how it is...
+
+Great stuff, and I've loved these little jobbers. All of the times that I visited with Ralph, I can't recall if we ever talked about them. But they are shapes that bring him to mind straight away...
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #5561886)
+Author    : Duncanator
+Date      : Aug 10, 2024 at 11:46 AM
+Reactions : Like — George, joberg
+────────────────────────────────────────────────────────────────────────
+
+Kylash said:
+
+			Guessing these are the goldenarmor 3d designs or someone else? ive got an Elegoo Mars5 Ultra, so i can probably only fit the little guys on there if i made some.
+		
+
+Click to expand...
+
+Ya, these are from there. They have their issues, but are a great starting off point.
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #5563617)
+Author    : Duncanator
+Date      : Aug 16, 2024 at 11:40 PM
+Reactions : Like, Wow — incrediblefruit, George, Krats
+────────────────────────────────────────────────────────────────────────
+
+Next steps!!
+
+Once the vacuformed bottom plate was glued and smoothed in, I started plotting out the raised plating. There was an access panel on the underside to get to the lighting and mechanisms, and since I plan on having lights in mine, I cut it open on mine.
+
+[IMAGE: https://www.therpf.com/forums/attachments/ma-print-21-jpg.1851144/]
+
+I made a second vacuform so that when I cut the panels they would have the matching contours as the belly.
+
+[IMAGE: https://www.therpf.com/forums/attachments/ma-print-22-jpg.1851145/]
+
+The panels are mostly symmetrical, however there are two shallow recessed wells that are not symmetrical on either side of the access panel.
+
+Laying out all the panels was tricky, but I'm pretty confident that I got them close. Not perfect, but better than before. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/ma-print-23-jpg.1851146/]
+
+Finally cut the panels loose and glued them in place. It's starting to look like something!
+
+Here you can see the shallow wells on either side of the access opening.
+
+[IMAGE: https://www.therpf.com/forums/attachments/ma-print-24-jpg.1851147/]
+
+...and here is the access panel with its plating.
+
+[IMAGE: https://www.therpf.com/forums/attachments/ma-print-25-jpg.1851148/]
+
+... and both parts together! 
+
+[IMAGE: https://www.therpf.com/forums/attachments/ma-print-26-jpg.1851149/]
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #5563768)
+Author    : joberg
+Date      : Aug 17, 2024 at 12:18 PM
+Reactions : Like — Duncanator
+────────────────────────────────────────────────────────────────────────
+
+Lovely update; love those paneling portions
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #5565520)
+Author    : Duncanator
+Date      : Aug 23, 2024 at 4:56 PM
+Reactions : Like — incrediblefruit, George, joberg
+────────────────────────────────────────────────────────────────────────
+
+Bottom paneling completed!
+
+[IMAGE: https://www.therpf.com/forums/attachments/ma-print-27-jpg.1853428/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/ma-print-28-jpg.1853429/]
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #5565531)
+Author    : Duncanator
+Date      : Aug 23, 2024 at 5:26 PM
+Reactions : Like, Love — incrediblefruit, George, Krats
+────────────────────────────────────────────────────────────────────────
+
+Now comes the fun part, adding the details with strips and tiny bits of evergreen plastic. What I like to call "Chip'n strips"!   
+
+Not to be confused with "Chick'n strips".  .....very different...
+
+There are a few model kit parts as well, and here is where I could use some help from all you amazing kit part IDers. Some of the parts I am just building from my styrene bits, and some I recognized and pulled from the ole kit stash, but there are some that I don't recognize and would appreciate some help finding.
+
+But first! some pics!
+
+[IMAGE: https://www.therpf.com/forums/attachments/ma-print-31-jpg.1853431/]
+
+There are a few parts from the Hasegawa Thor railroad gun kit.
+
+[IMAGE: https://www.therpf.com/forums/attachments/ma-print-32-jpg.1853432/]
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #5565538)
+Author    : Duncanator
+Date      : Aug 23, 2024 at 5:38 PM
+Reactions : Like, Wow — George, MangyDog, joberg
+────────────────────────────────────────────────────────────────────────
+
+So here are some parts I could use your help identifying! Get out your decoder rings a spy glasses!
+
+There are 4 of these hatches circled in yellow that look really familiar, but I can't place the kit. There are also a couple triangular truss pieces (also circled in yellow to be confusing) that I'd love to find the kit part.
+
+[IMAGE: https://www.therpf.com/forums/attachments/ma-prints-34-jpg.1853435/]
+
+Here's another set of challenges: the gear-wells seem to be full of car/truck suspension parts, but I'll be ding-donged if I can guess where they are from. If there is anything in there that looks familiar to you, please let me know!
+
+[IMAGE: https://www.therpf.com/forums/attachments/ma-prints-33-jpg.1853436/]
+
+The challenge is presented, and the gauntlet has been thrown! All hail the brain trust!
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #5565703)
+Author    : joberg
+Date      : Aug 24, 2024 at 10:46 AM
+Reactions : Like — George
+────────────────────────────────────────────────────────────────────────
+
+Well, you were right not to mix Chip'n strips with Chick'n strips...I read your first line too fast and was confused
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Paneling looks bitchin' 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ Sorry that I cannot help you with kit parts (my knowledge is sub-par in that subject)
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Eager to see your next update!
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #5565838)
+Author    : MangyDog
+Date      : Aug 25, 2024 at 2:44 AM
+Reactions : Like — Duncanator, joberg
+────────────────────────────────────────────────────────────────────────
+
+Duncanator said:
+
+			So here are some parts I could use your help identifying! Get out your decoder rings a spy glasses!
+
+There are 4 of these hatches circled in yellow that look really familiar, but I can't place the kit. There are also a couple triangular truss pieces (also circled in yellow to be confusing) that I'd love to find the kit part.
+
+View attachment 1853435
+
+Here's another set of challenges: the gear-wells seem to be full of car/truck suspension parts, but I'll be ding-donged if I can guess where they are from. If there is anything in there that looks familiar to you, please let me know!
+
+View attachment 1853436
+
+The challenge is presented, and the gauntlet has been thrown! All hail the brain trust!
+		
+
+Click to expand...
+
+First image, that looks like the same shape as the suspension arm used on the Aliens smart gun... 
+
+Also UTTERLY adore this movie. Was one of my favs as a kid. The baby who almost didnt make it was so so sweet. And it was the friendly giant boxer caretaker who saved him... Even thinking about it all now brings tear to my eye. 
+
+Im still a little unsure of who made the film... I always thought it was Spielberg... It has his touch without any doubt. But its credited as Matthew Robbins. Some one who I must admit. No clue who that is.
+────────────────────────────────────────────────────────────────────────
+Post #28  (forum post #5565844)
+Author    : swgeek
+Date      : Aug 25, 2024 at 3:40 AM
+Reactions : Like — George, Krats, Duncanator
+────────────────────────────────────────────────────────────────────────
+
+Tamiya 1/20 Ferrari 312T3
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot_20240825_032947_chrome-jpg.1853764/]
+
+Tamiya 1/20 Tyrrell P34
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot_20240825_033449_chrome-jpg.1853765/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot_20240825_033551_chrome-jpg.1853766/]
+────────────────────────────────────────────────────────────────────────
+Post #29  (forum post #5565887)
+Author    : Duncanator
+Date      : Aug 25, 2024 at 8:42 AM
+Reactions : Love — joberg
+────────────────────────────────────────────────────────────────────────
+
+MangyDog said:
+
+			First image, that looks like the same shape as the suspension arm used on the Aliens smart gun...
+
+Also UTTERLY adore this movie. Was one of my favs as a kid. The baby who almost didnt make it was so so sweet. And it was the friendly giant boxer caretaker who saved him... Even thinking about it all now brings tear to my eye.
+
+Im still a little unsure of who made the film... I always thought it was Spielberg... It has his touch without any doubt. But its credited as Matthew Robbins. Some one who I must admit. No clue who that is.
+		
+
+Click to expand...
+
+It has Spielberg's stamp all over it because the story was originally developed for his Amazing Stories TV show, but he liked it so much that he had it developed into a feature film. I believe it was also the feature writing debut of Brad Bird.
+────────────────────────────────────────────────────────────────────────
+Post #30  (forum post #5565889)
+Author    : Duncanator
+Date      : Aug 25, 2024 at 8:44 AM
+Reactions : Like — joberg, swgeek
+────────────────────────────────────────────────────────────────────────
+
+swgeek said:
+
+			Tamiya 1/20 Ferrari 312T3
+
+View attachment 1853764
+
+Tamiya 1/20 Tyrrell P34
+
+View attachment 1853765View attachment 1853766
+
+Click to expand...
+
+Whoo Hoo!!!  Some parts have been IDed! 
+
+Thank you for your help on this. Hopefully someone will ID those pesky D-shaped hatch doors next.
+────────────────────────────────────────────────────────────────────────
+Post #31  (forum post #5566101)
+Author    : Duncanator
+Date      : Aug 26, 2024 at 6:46 AM
+Reactions : Like — joberg, swgeek
+────────────────────────────────────────────────────────────────────────
+
+Just ordered the Tyrell and Ferrari kits!  Thank you for the fast IDs swgeek !
+────────────────────────────────────────────────────────────────────────
+Post #32  (forum post #5566109)
+Author    : swgeek
+Date      : Aug 26, 2024 at 7:16 AM
+Reactions : Like — joberg, Duncanator
+────────────────────────────────────────────────────────────────────────
+
+You're welcome! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #33  (forum post #5566962)
+Author    : Duncanator
+Date      : Aug 29, 2024 at 7:10 AM
+Reactions : Like — Rick Deckard, joberg, George
+────────────────────────────────────────────────────────────────────────
+
+The 6-wheel Tyrell kit just arrived!
+
+Can't wait to glue the parts in place.
+
+Now if we can just identify this darn hatch cover....
+
+[IMAGE: https://www.therpf.com/forums/attachments/ma-prints-34-jpg.1855302/]
+────────────────────────────────────────────────────────────────────────
+Post #34  (forum post #5567386)
+Author    : joberg
+Date      : Aug 30, 2024 at 10:40 AM
+Reactions : Like — Duncanator
+────────────────────────────────────────────────────────────────────────
+
+Eager to see those nurnies glued in place
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #35  (forum post #5571614)
+Author    : Duncanator
+Date      : Sep 15, 2024 at 4:14 PM
+Reactions : Like — incrediblefruit, joberg, Krats
+────────────────────────────────────────────────────────────────────────
+
+Finally had some time to glue the new kit parts in place! Here's the progress so far.
+
+Still hoping someone can identify those hatch covers.
+
+[IMAGE: https://www.therpf.com/forums/attachments/ma-prints-35-jpg.1860710/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/ma-prints-36-jpg.1860711/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/ma-prints-37-jpg.1860712/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/ma-prints-38-jpg.1860713/]
+────────────────────────────────────────────────────────────────────────
+Post #36  (forum post #5571625)
+Author    : swgeek
+Date      : Sep 15, 2024 at 4:55 PM
+Reactions : Like, Haha — joberg, Duncanator
+────────────────────────────────────────────────────────────────────────
+
+Duncanator said:
+
+			Still hoping someone can identify those hatch covers.
+		
+
+Click to expand...
+
+I'm trying I'm trying.
+────────────────────────────────────────────────────────────────────────
+Post #37  (forum post #5571635)
+Author    : Duncanator
+Date      : Sep 15, 2024 at 5:45 PM
+Reactions : Like — joberg, swgeek
+────────────────────────────────────────────────────────────────────────
+
+swgeek said:
+
+			I'm trying I'm trying.
+		
+
+Click to expand...
+
+You have been very helpful!
+────────────────────────────────────────────────────────────────────────
+Post #38  (forum post #5571639)
+Author    : swgeek
+Date      : Sep 15, 2024 at 5:56 PM
+Reactions : Sad — joberg
+────────────────────────────────────────────────────────────────────────
+
+It looks like a Jagdtiger upper hatch, but haven't found an exact match.
+────────────────────────────────────────────────────────────────────────
+Post #39  (forum post #5571671)
+Author    : Duncanator
+Date      : Sep 15, 2024 at 8:25 PM
+Reactions : Sad — joberg
+────────────────────────────────────────────────────────────────────────
+
+Ah! I'll look too!
+
+I've been through all the kit scans, and haven't seen it yet.
+────────────────────────────────────────────────────────────────────────
+Post #40  (forum post #5571673)
+Author    : Duncanator
+Date      : Sep 15, 2024 at 8:48 PM
+Reactions : Like, Sad — joberg, swgeek
+────────────────────────────────────────────────────────────────────────
+
+I found an image of Tamiya's sprue for the jagdtiger, and the hatch looks close, but the hinges need to be further outboard and it wants a square-ish pip off to the side.
+
+[IMAGE: https://www.therpf.com/forums/attachments/screen-shot-2024-09-15-at-8-42-12-pm-png.1860780/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/screen-shot-2024-09-15-at-8-47-56-pm-png.1860781/]
+────────────────────────────────────────────────────────────────────────
+Post #41  (forum post #5571784)
+Author    : joberg
+Date      : Sep 16, 2024 at 10:06 AM
+────────────────────────────────────────────────────────────────────────
+
+Looking good Duncanator...
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ But, are we sure that piece is from a tank?  Maybe a ship or a sub?
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #42  (forum post #5571808)
+Author    : swgeek
+Date      : Sep 16, 2024 at 11:14 AM
+Reactions : Sad — joberg
+────────────────────────────────────────────────────────────────────────
+
+I'm NOT sure.
+────────────────────────────────────────────────────────────────────────
+Post #43  (forum post #5571820)
+Author    : Duncanator
+Date      : Sep 16, 2024 at 11:40 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+joberg said:
+
+			Looking good Duncanator...
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ But, are we sure that piece is from a tank?  Maybe a ship or a sub?
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+Any suggestions are welcome!
+────────────────────────────────────────────────────────────────────────
+Post #44  (forum post #5572912)
+Author    : Duncanator
+Date      : Sep 20, 2024 at 10:19 PM
+Reactions : Like, Wow — Krats, joberg, swgeek
+────────────────────────────────────────────────────────────────────────
+
+While I search for the missing parts, I decided that I might as well make an armature to hold everything together.
+
+I intend to add lighting and possibly eye movement to these guys, so having something to mount it all to will be helpful.
+
+1/8th inch thick aluminum was used for the plate. I think that should be adequate to keep everything from drooping.
+
+Here is what I came up with for the Mama robot...
+
+[IMAGE: https://www.therpf.com/forums/attachments/ma-prints-41-jpg.1862253/]
+
+I used some locating posts that were already in the prints as screw bosses.
+
+And here it is screwed in place...
+
+[IMAGE: https://www.therpf.com/forums/attachments/ma-prints-40-jpg.1862252/]
+
+And while I was at it, I made an armature ring for the Pa robot as well. I'll do a build report on him too.
+
+[IMAGE: https://www.therpf.com/forums/attachments/ma-print-42-jpg.1862254/]
+────────────────────────────────────────────────────────────────────────
+Post #45  (forum post #5572995)
+Author    : joberg
+Date      : Sep 21, 2024 at 7:30 AM
+────────────────────────────────────────────────────────────────────────
+
+Well, that really look sturdy and solid for sure
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 45

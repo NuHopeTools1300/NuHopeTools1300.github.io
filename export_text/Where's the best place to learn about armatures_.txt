@@ -1,0 +1,57 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Where's the best place to learn about armatures?
+URL    : https://www.therpf.com/forums/threads/wheres-the-best-place-to-learn-about-armatures.194998/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #3045137)
+Author    : FLM Concepts
+Date      : Sep 12, 2013 at 9:56 AM
+────────────────────────────────────────────────────────────────────────
+
+Is there a site or a book that explains everything necessary for studio model armatures?
+
+That's the one thing I'm not sure about.  Measurements, materials, placement, etc.  Is there a standard?
+
+One day I'm hoping to make a filming model of a ship that's in my head, and I'll need to know how to create the armatures for this massive space vehicle.  Because of the design, I'm pretty sure I'll need two mounting points for in-flight shots.  It will stand on its own when landed.
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #3045429)
+Author    : star-art
+Date      : Sep 12, 2013 at 1:37 PM
+────────────────────────────────────────────────────────────────────────
+
+Not that I have seen. Everything I've learned has been self-taught. 
+
+Now that I think about, though, Fon Davis made a great DVD about building models from scratch and he talks about how to make a basic armature using Renshape block and set screws.
+
+For filming, the armature needs to be rugged. Most importantly, it needs to mount securely enough that the model won't move or wiggle while filming.
+
+ILM liked to use metal pipe. Some say the 1978 Galactica model had an armature made of steel muffler pipe. This was probably chosen because it could interface with standard 1 1/2" IPS pipe commonly used to make stage stands and equipment.
+
+Beware though that aluminum pipe and tube can and will WARP when welded. Thus, if you can find a way to make your armature without welding, you will be better off. That's why my material of choice is aluminum IPS pipe (when the scale permits). The nice thing about using pipe is you can get standard fittings to make the various joints without the need for welding.
+
+At the moment, I'm designing a smaller model that isn't big enough for pipe. For this project, I'm creating an acrylic armature that will receive a 5/8" diameter stainless steel rod for mounting. A hidden set screw will lock it down.
+
+The bottom line is that each miniature is unique. Therefore, every project will require its own approach to making a suitable armature.
+
+Hope that helps!
+
+PS Check out my thread on building a movie model here.
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #3045593)
+Author    : Zombie Killer
+Date      : Sep 12, 2013 at 3:59 PM
+────────────────────────────────────────────────────────────────────────
+
+you can try StopMotionAnimation.com. I guess you have to sign up now. Use to not be the case
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #3045818)
+Author    : FLM Concepts
+Date      : Sep 12, 2013 at 8:11 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks!  I'll check it out. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 4

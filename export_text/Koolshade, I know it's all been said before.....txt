@@ -1,0 +1,633 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Koolshade, I know it's all been said before....
+URL    : https://www.therpf.com/forums/threads/koolshade-i-know-its-all-been-said-before.360559/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #5587373)
+Author    : OldNutsy
+Date      : Nov 22, 2024 at 3:38 PM
+Reactions : Like — MrRobot, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+In the last year or so I've gotten back into modeling after a 40(?) year break?  And more recently gotten into more studio scale.  I've read all the threads, we all know finding real Koolshade is a pain in the ass.  I've searched ebay, etsy, etc.  I'm a mechanical engineer and if i've ever needed something i couldn't get i just built it.  I know it's probably been talk to death but it's time someone starts building more to the original specs.
+
+I'm 100% sure I can build a machine to do it, ~80% sure i can build one that makes something pretty close, and ~70% sure i can do it reliable and consistently enough that it would work.
+
+The issue I'm having is finding resources on the original.  Everything says it's 23 slats/inch at 17 degrees. so I accept that, but i've seen varying info on slat thickness/width.  I also don't see anything on wire diameter or spacing between wire columns.
+
+Does anybody know wire thickness, slat thickness, slat width?
+
+Also, anyone with some of the original material, could i trouble them for very close up photos of the wire twist at the top and bottom of each slat?
+
+Ideally I'd look for a small 4" square of the original that had at least two of the wire columns in it, bent or frayed ends wouldn't matter, but I can't find anywhere.  If somebody has some I'd gladly talk about how to get it.
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #5587381)
+Author    : swgeek
+Date      : Nov 22, 2024 at 3:50 PM
+Reactions : Like — stevielewis, joberg, jcoffman99
+────────────────────────────────────────────────────────────────────────
+
+Slat width. 05"
+
+Slat thickness .006"
+
+Wire dia. .012"
+
+Width between wires .4665"
+
+Not great pics, but....
+
+[IMAGE: https://www.therpf.com/forums/attachments/20241122_155054-jpg.1882499/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/20241122_155234-jpg.1882500/]
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #5587382)
+Author    : OldNutsy
+Date      : Nov 22, 2024 at 4:00 PM
+Reactions : Like — stevielewis
+────────────────────────────────────────────────────────────────────────
+
+Perfect!  Just to clarify and confirm, that's 0.05" on slat width?
+
+Is it a single twist of the wires between the slats, such that the top wire is always on top and bottom always on bottom?
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #5587386)
+Author    : 3DImpact
+Date      : Nov 22, 2024 at 4:25 PM
+Reactions : Like — Leinads, stevielewis, joberg
+────────────────────────────────────────────────────────────────────────
+
+I can send you a 4x4" patch...
+
+PM me for details.
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #5587392)
+Author    : swgeek
+Date      : Nov 22, 2024 at 5:16 PM
+Reactions : Like — stevielewis, joberg
+────────────────────────────────────────────────────────────────────────
+
+OldNutsy said:
+
+			Perfect!  Just to clarify and confirm, that's 0.05" on slat width?
+
+Is it a single twist of the wires between the slats, such that the top wire is always on top and bottom always on bottom?
+		
+
+Click to expand...
+
+Yep .05 width.
+
+You know, that's a good question, I'll look at the wire twist closely.
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #5587540)
+Author    : joberg
+Date      : Nov 23, 2024 at 9:41 AM
+Reactions : Like — greenmachines, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+Well, if you build a machine to make Koolshades, they will come...er, buy
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #5587936)
+Author    : swgeek
+Date      : Nov 25, 2024 at 9:44 AM
+Reactions : Like — joberg, David3, OldNutsy
+────────────────────────────────────────────────────────────────────────
+
+It looks like it's a single twist.
+
+[IMAGE: https://www.therpf.com/forums/attachments/20241125_093829-jpg.1883183/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/20241125_093942-jpg.1883184/]
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #5587945)
+Author    : OldNutsy
+Date      : Nov 25, 2024 at 10:17 AM
+Reactions : Like — joberg, Necronaut, swgeek
+────────────────────────────────────────────────────────────────────────
+
+swgeek said:
+
+			It looks like it's a single twist.
+
+View attachment 1883183View attachment 1883184
+
+Click to expand...
+
+Great photos thank you.  It’s interesting that it almost appears the “back” wire is wrapped around the front rather than the wires being twisted.  It also almost looks like the straight wire is a larger diameter. 3DImpact has dropped a small sample in the mail to me (which I’m hugely grateful for).  When I get it I think I will fully understand.
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #5587947)
+Author    : OldNutsy
+Date      : Nov 25, 2024 at 10:20 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+swgeek said:
+
+			It looks like it's a single twist.
+
+View attachment 1883183View attachment 1883184
+
+Click to expand...
+
+If you were to try to use the piece you took photos of (not sure how mangled it is, or normally is through regular handling), would you just twist the slats back into the correct angle?  How hard would it be to do that?
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #5587956)
+Author    : swgeek
+Date      : Nov 25, 2024 at 11:02 AM
+Reactions : Like — tdb68, joberg, OldNutsy
+────────────────────────────────────────────────────────────────────────
+
+To twist the slats back into position? Pretty much impossible. I pulled it appart to get better pictures. But here's a picture of a different end of the same piece.
+
+[IMAGE: https://www.therpf.com/forums/attachments/20241125_105545-jpg.1883204/]
+
+Also, I remeasured the wire both pieces appear to be .012"...or close to.
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #5588983)
+Author    : MrRobot
+Date      : Nov 30, 2024 at 9:07 AM
+Reactions : Like — seven, joberg
+────────────────────────────────────────────────────────────────────────
+
+My understanding is that the 23-louvre-per-inch stuff is made by compressing down 17-louvre-per-inch. That's at least according to the person who mans the eBay account selling A4 sheets of the new stuff. Comparing swgeek's photos with the images of the new stuff, this looks plausible to me. You might simply need to work out a way to do this 'scrunching' on the 17-count stuff, as opposed to weaving the stuff anew from scratch.
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #5588986)
+Author    : OldNutsy
+Date      : Nov 30, 2024 at 9:13 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+mbraz said:
+
+			My understanding is that the 23-louvre-per-inch stuff is made by compressing down 17-louvre-per-inch. That's at least according to the person who mans the eBay account selling A4 sheets of the new stuff. Comparing swgeek's photos with the images of the new stuff, this looks plausible to me. You might simply need to work out a way to do this 'scrunching' on the 17-count stuff, as opposed to weaving the stuff anew from scratch.
+		
+
+Click to expand...
+
+Have a link to the eBay?  I did a search for Koolshade before starting this and there were no listings.  I’d like to see a before/after of the scrunching.  Honestly I can’t believe it works that well.
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #5588988)
+Author    : MrRobot
+Date      : Nov 30, 2024 at 9:16 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+OldNutsy said:
+
+			Have a link to the eBay?  I did a search for Koolshade before starting this and there were no listings.  I’d like to see a before/after of the scrunching.  Honestly I can’t believe it works that well.
+		
+
+Click to expand...
+
+I think they're a UK-based seller, so you have to go through the .co.uk domain to see it. Here's the link KoolShade Modelers Fabric (A4) for TIE Fighter, Millennium Falcon,   | eBay
+
+If you want me to get you a sample and don't want to pay outrageous international eBay seller shipping to the US, let me know. I have a vested interest in your success!
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #5588999)
+Author    : MrRobot
+Date      : Nov 30, 2024 at 10:08 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+OldNutsy said:
+
+			Have a link to the eBay?  I did a search for Koolshade before starting this and there were no listings.  I’d like to see a before/after of the scrunching.  Honestly I can’t believe it works that well.
+		
+
+Click to expand...
+
+To be clear, they are selling 17-per-inch. I wrote to the seller to ask what the specs were and they said it was 17-count. They then told me that the original process used to make 23-count started with 17-count and then a machine was used to compact it, but that machine no longer exists/works.
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #5589055)
+Author    : OldNutsy
+Date      : Nov 30, 2024 at 3:49 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+mbraz said:
+
+			I think they're a UK-based seller, so you have to go through the .co.uk domain to see it. Here's the link KoolShade Modelers Fabric (A4) for TIE Fighter, Millennium Falcon,   | eBay
+
+If you want me to get you a sample and don't want to pay outrageous international eBay seller shipping to the US, let me know. I have a vested interest in your success!
+		
+
+Click to expand...
+
+Thanks for the link.  3DImpact very graciously sent me a sample of the original.  To be honest I’m still getting over how….not sure what the right word is, maybe small?  it is.  
+
+The challenge has always been the slats for me.  It, in theory, is a loom with a twist, literally.  There’s different ways in manufacturing that the slats can be inserted, rapiers, air assist, etc.  With it being a non circular slat keeping it oriented was always one of the bigger unknowns.  I’m pretty sure I’d eventually figure it out.  
+
+But setting the angle is the other big challenge.  I have a step advance mechanism in mind for the feed but a form that fits between the slats for angle control, that’s going to rakes some fine precision.  Crunching 17 to 23 would present similar but different challenges.  I will give it some thought though.  
+
+In case it progresses, what do you think we would be looking at for cost?  I’m 100% ignorant on personal international shipping.
+
+Thanks for the research on this.
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #5589114)
+Author    : MrRobot
+Date      : Nov 30, 2024 at 11:56 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+OldNutsy said:
+
+			Thanks for the link.  3DImpact very graciously sent me a sample of the original.  To be honest I’m still getting over how….not sure what the right word is, maybe small?  it is. 
+
+The challenge has always been the slats for me.  It, in theory, is a loom with a twist, literally.  There’s different ways in manufacturing that the slats can be inserted, rapiers, air assist, etc.  With it being a non circular slat keeping it oriented was always one of the bigger unknowns.  I’m pretty sure I’d eventually figure it out. 
+
+But setting the angle is the other big challenge.  I have a step advance mechanism in mind for the feed but a form that fits between the slats for angle control, that’s going to rakes some fine precision.  Crunching 17 to 23 would present similar but different challenges.  I will give it some thought though. 
+
+In case it progresses, what do you think we would be looking at for cost?  I’m 100% ignorant on personal international shipping.
+
+Thanks for the research on this.
+		
+
+Click to expand...
+
+Interesting. Indeed, the machine is very much like a loom and I suspect the machine that did the scrunching was probably similar. You'd have the benefit of being able to scale down, I suppose. You don't need to make rolls of it wide enough to cover windows!
+
+Seller wants about $25 shipping to the US for an A4 sheet of the new stuff (about the size of letter paper).
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #5589289)
+Author    : bwayne64
+Date      : Dec 1, 2024 at 6:01 PM
+Reactions : Like — joberg, MrRobot
+────────────────────────────────────────────────────────────────────────
+
+The hardest part to source would be the bronze louvers. If you can get the 17 louver stuff, that puts you parsecs ahead, ; )
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #5589458)
+Author    : RealDaveWinter
+Date      : Dec 2, 2024 at 1:16 PM
+Reactions : Haha — joberg
+────────────────────────────────────────────────────────────────────────
+
+If you are looking for some of the new stuff, I have several metric gobbs of it. I'm happy to send you some, but it would have to be courier, Canada Post has decided they don't want to earn a pay cheque over the holidays.
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #5589522)
+Author    : OldNutsy
+Date      : Dec 2, 2024 at 5:04 PM
+Reactions : Like — joberg, MrRobot
+────────────────────────────────────────────────────────────────────────
+
+RealDaveWinter said:
+
+			If you are looking for some of the new stuff, I have several metric gobbs of it. I'm happy to send you some, but it would have to be courier, Canada Post has decided they don't want to earn a pay cheque over the holidays.
+		
+
+Click to expand...
+
+What do you think it would cost to Pennsylvania?  I wouldn’t mind about a floor of it, I wouldn’t mind being destructive with the 17.
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #5589525)
+Author    : RealDaveWinter
+Date      : Dec 2, 2024 at 5:22 PM
+Reactions : Like — joberg, MrRobot
+────────────────────────────────────────────────────────────────────────
+
+I don't really know. Shoot me a pm with your zip code and I can figure it out. I think I can get a quote from the UPS on the way to work.
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #5592845)
+Author    : mjhenks
+Date      : Dec 17, 2024 at 1:32 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+How reliable is the intel that the 17 was squeezed down for the 23?  
+
+Has anyone compared the raw materials between the two to confirm the spacing is the only difference.
+
+Side by side does one look like a squeezed version of the other?  
+
+Sure seems feasible to create a precision "scrunching" machine over sourcing material to weave 23 from scratch.  Not trivial but logistically way ahead.  Some sort of top/bottom supported walking beam.  Hold the first louver stable with a split (top/bottom) clamp.  Walk the second louver closer by just a little with the same clamp system but on a stage of some sort.  Index and repeat one row at a time.  As already stated, it only has to be as wide as the hobby requires but of course work with the 17 material that is already produced.
+
+Hmmm.  
+
+So, anyone know if the 17 material is the same as 23 other than the pitch?  My mind is already thinking up ideas how to do this.
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #5592868)
+Author    : OldNutsy
+Date      : Dec 17, 2024 at 4:37 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+mjhenks said:
+
+			How reliable is the intel that the 17 was squeezed down for the 23? 
+
+Has anyone compared the raw materials between the two to confirm the spacing is the only difference.
+
+Side by side does one look like a squeezed version of the other? 
+
+Sure seems feasible to create a precision "scrunching" machine over sourcing material to weave 23 from scratch.  Not trivial but logistically way ahead.  Some sort of top/bottom supported walking beam.  Hold the first louver stable with a split (top/bottom) clamp.  Walk the second louver closer by just a little with the same clamp system but on a stage of some sort.  Index and repeat one row at a time.  As already stated, it only has to be as wide as the hobby requires but of course work with the 17 material that is already produced.
+
+Hmmm. 
+
+So, anyone know if the 17 material is the same as 23 other than the pitch?  My mind is already thinking up ideas how to do this.
+		
+
+Click to expand...
+
+I've given some thought to the scrunching.  I had much the same idea of some sort of a clamp that compacts just enough.  Mechanically i think it would be somewhat simple but I think the challenge is in controlling the crunch - doing it means that something is going to deform, and how reliable is it that it will deform in the same way at every section is where the variability would come in.  Fabricating new is more difficult but it is much more controllable.  After all, in the crunching, even if you got it to work exactly as planned 99% of the time it means there would still be a deformation every 4.5 or so inches.
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #5592959)
+Author    : mjhenks
+Date      : Dec 18, 2024 at 7:25 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+OldNutsy said:
+
+			I've given some thought to the scrunching.  I had much the same idea of some sort of a clamp that compacts just enough.  Mechanically i think it would be somewhat simple but I think the challenge is in controlling the crunch - doing it means that something is going to deform, and how reliable is it that it will deform in the same way at every section is where the variability would come in.  Fabricating new is more difficult but it is much more controllable.  After all, in the crunching, even if you got it to work exactly as planned 99% of the time it means there would still be a deformation every 4.5 or so inches.
+		
+
+Click to expand...
+
+If you tackle it one row at a time instead of many rows then all you need is to isolate row 1 and scrunch row 2 by .015".  That is not alot to scrunch on soft material like this.  Given that spring back will occur some experimentation will be needed on the scrunch stroke.  If you limit the design to the max width the community needs that could be easily controlled with precision linear bearings and a stepper drive /w encoder feedback.  (Or hard stops since it would be limited production.  Heck start out with hard stops and lever action.  Automate later or never depending on demand.)  Use some sort of cam actuated "jaws" to open/close on the louver to grab and isolate them would be suggested.
+
+I still go back to my original question.  Is this intel on the scrunch good intel or wishful thinking?  Generally manufactures reduce cost over time.  The most bang for the buck is material reduction or material change.  Going from 23 to 17 louvers reduces material but if they were scrunching to get 23 then all they reduced is machine time.  If the scrunch machine broke and was too expensive to repair then you save money but not as significant as material reduction.
+
+Anyways.  This is a very interesting line of thought but may be a waste of time if the intel is bad.  It may be possible to evaluate some super clean and clear side and top images of both styles that are in perfect shape to gain hints to this theory.  It should be very clear to see the woven wire deflected consistently OR the angle of the louver change.  Both of these would reduce the pitch.
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #5592981)
+Author    : MrRobot
+Date      : Dec 18, 2024 at 9:31 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+mjhenks said:
+
+			If you tackle it one row at a time instead of many rows then all you need is to isolate row 1 and scrunch row 2 by .015".  That is not alot to scrunch on soft material like this.  Given that spring back will occur some experimentation will be needed on the scrunch stroke.  If you limit the design to the max width the community needs that could be easily controlled with precision linear bearings and a stepper drive /w encoder feedback.  (Or hard stops since it would be limited production.  Heck start out with hard stops and lever action.  Automate later or never depending on demand.)  Use some sort of cam actuated "jaws" to open/close on the louver to grab and isolate them would be suggested.
+
+I still go back to my original question.  Is this intel on the scrunch good intel or wishful thinking?  Generally manufactures reduce cost over time.  The most bang for the buck is material reduction or material change.  Going from 23 to 17 louvers reduces material but if they were scrunching to get 23 then all they reduced is machine time.  If the scrunch machine broke and was too expensive to repair then you save money but not as significant as material reduction.
+
+Anyways.  This is a very interesting line of thought but may be a waste of time if the intel is bad.  It may be possible to evaluate some super clean and clear side and top images of both styles that are in perfect shape to gain hints to this theory.  It should be very clear to see the woven wire deflected consistently OR the angle of the louver change.  Both of these would reduce the pitch.
+		
+
+Click to expand...
+
+I posted the original claim, so I'll reply here to the reliability issue. Sadly, I can't add that much. As someone very new to this hobby, I accept I'm not the most reliable source. The information came from an eBay seller that, as far as I can tell, is a distributor of KoolShade for the hobby market but is connected to the company that produces it and owns the KoolShade trademark. From my conversation with them, they implied it was them:
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2024-12-18-at-17-29-10-png.1889361/]
+
+The best approach might be to reach out directly to SmartLouvre (https://www.smartlouvre.com/) and verify the information. They might be able to verify the information and they might have more details on how the 23-count stuff was produced, if it was scrunched.
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #5592982)
+Author    : RealDaveWinter
+Date      : Dec 18, 2024 at 9:45 AM
+Reactions : Wow, Like — Necronaut, joberg
+────────────────────────────────────────────────────────────────────────
+
+My experience in dealing with smartlouvre is that their GAF factor for modellers is less than zero.
+
+Having purchased 2m^2 of the new stuff directly from them , I can say they're really not the easiest to work with. They're slow at replying, they ask more questions than they answer, and if you're not purchasing large amounts (I ordered the absolute minimum they'd allow), they just have no interest in speaking with you. The 'salesman' I spoke to was adamant that the only pitch count the company ever produced as 17.
+
+A couple of years ago, they mentioned on their website that their product was used in 'Hollywood' but that was the extent of it. That's no longer on their site as far as I can find. Now the only thing I can find that connects the two is a 2 year old LinkedIn post
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #5592986)
+Author    : mjhenks
+Date      : Dec 18, 2024 at 10:34 AM
+Reactions : Like — joberg, animator
+────────────────────────────────────────────────────────────────────────
+
+RealDaveWinter said:
+
+			My experience in dealing with smartlouvre is that their GAF factor for modellers is less than zero.
+		
+
+Click to expand...
+
+I'll second that.  A few years ago i had a buddy who lived near them in the UK try to get info.  In the end he did help me get some 17 material but no info on 23.  I am sure we are a bothersome fly to them.
+
+Whether or not the scrunch info is real i think it is very compelling.  
+
+Do we have clear pictures available of the SAME samples of both version from the top and side that can be compared?  Some high rez image sleuthing is bound to show evidence of a scrunch if that is how it was done.   I have 17 but not 23.  I have seen 23 images of course but i cannot recall top & side of the same piece that is super clear showing the wires.
+
+Thinking about it some more...  
+
+From a mfg point of view there is a spacing that no longer blocks the sun as the material was intended. 
+
+There is a spacing that 1960's technology simply can't economically produce.  
+
+Being the 60's your talking about cam actuated machinery.  
+
+If the machinery can make 17 but 23 is the sweet spot then you need the scrunch.  If the scrunch machine breaks down and is not economical to repair OR if you are trying to cut cost some how and the scrunch operation is your target why is 17 OK in the market now?  The Sun certainly has not changed it's angle of attack so what did changed?  
+
+This feels like we are missing something but i am also not able to shut off the the Engineer mind.  At some point there was a business case made comparing 17 and 23.  Was a piece of equipment the linchpin to that argument?
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #5592988)
+Author    : RealDaveWinter
+Date      : Dec 18, 2024 at 10:36 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+I have both types. I can post a side-by-side later today.
+────────────────────────────────────────────────────────────────────────
+Post #28  (forum post #5592994)
+Author    : RealDaveWinter
+Date      : Dec 18, 2024 at 11:40 AM
+Reactions : Like — DAR23, joberg
+────────────────────────────────────────────────────────────────────────
+
+Hopefully this is useful...
+
+On the left is the vintage stuff, on the right the new production material.
+
+[IMAGE: 1531902-3ef3726f920b961f91f20623d14189d2.jpg]
+
+As an aside, if anyone wants any of the new materials, I have two monster rolls of it.
+────────────────────────────────────────────────────────────────────────
+Post #29  (forum post #5592996)
+Author    : mjhenks
+Date      : Dec 18, 2024 at 12:17 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+RealDaveWinter said:
+
+			Hopefully this is useful...
+
+On the left is the vintage stuff, on the right the new production material.
+
+View attachment 1889389
+
+As an aside, if anyone wants any of the new materials, I have two monster rolls of it.
+		
+
+Click to expand...
+
+Thank you RealDaveWinter 
+
+Can you post from the side trying to focus on both the end and the wire?  Want to see the angle of the louver and if the wire routing/sewing looks scrunched from the side.  This may be hard to get but will be the most helpful for this line of thought.
+────────────────────────────────────────────────────────────────────────
+Post #30  (forum post #5593011)
+Author    : RealDaveWinter
+Date      : Dec 18, 2024 at 1:43 PM
+Reactions : Like, Wow — DAR23, joberg, MrRobot
+────────────────────────────────────────────────────────────────────────
+
+The best I can do with an iPhone. Mine doesn't have a macro lens on it.
+
+The smaller sample on the left is the new material. The other is the vintage.
+
+[IMAGE: 1531923-494ffbaadc804c154d8cc252faa05ea8.jpg]
+
+[IMAGE: 1531924-c772f0ddf69c26db91da43e24f1e1675.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #31  (forum post #5593171)
+Author    : mjhenks
+Date      : Dec 19, 2024 at 8:39 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Thank you RealDaveWinter.  To me the images above clearly show a tighter weave of the interconnecting wire.  Not proof but evidence.   The images posted by swgeek also seem to show a change in the weave but his images are not clearly identified as 17 or 23 and if i read it right he "pulled them apart" to get a view at the weave.  His images clearly show a main wire and a wrapped wire though which seems to also be the case in the images from Dave.
+
+To anyone reading the thread to not burden Dave so much.
+
+Is it possible to get a close up of the weave at as low of an angle as possible?  Side by side.
+
+Can you confirm the weave looks the same top vs bottom?
+
+Is it possible with calipers to measure the diameter of the wire (I know it was already reported as .012"/.015") on both, height of the slat and most important the height of the weave.
+
+IMO so far this is still a feasible theory.
+
+Thank you.
+────────────────────────────────────────────────────────────────────────
+Post #32  (forum post #5594394)
+Author    : Droidr4i9
+Date      : Dec 26, 2024 at 1:43 AM
+Reactions : Wow, Like — joberg, Leinads
+────────────────────────────────────────────────────────────────────────
+
+Going to chime in here... about 6-7 months ago I posted in a koolshade thread here about a source for the vintage 23 style located in the U.S.
+
+Located in Kansas City I believe. I talked to them on the phone and the machine that makes the 17 is the same machine that wove the 23, it isn't broken it's still in use today. The reason smartlouver doesn't produce the 23 is due to the fact too many complaints of water drops from rain and/or ground sprinklers getting trapped between the slats thus employees complaining they couldn't see outside the windows and this was with several building owners that complained so the solution was spread them apart yet provide the same sunscreen protection and the answer was 23 to 17 spacing. The person that has NOS as well as reclaimed material of the 23 used to install this material and had to rip the 23 off a bunch of Boeing owned buildings and install the 17 this comes from a source that was a contractor since the 1970's for this material and still has a bunch of it.
+────────────────────────────────────────────────────────────────────────
+Post #33  (forum post #5594417)
+Author    : OldNutsy
+Date      : Dec 26, 2024 at 5:51 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Droidr4i9 said:
+
+			Going to chime in here... about 6-7 months ago I posted in a koolshade thread here about a source for the vintage 23 style located in the U.S.
+
+Located in Kansas City I believe. I talked to them on the phone and the machine that makes the 17 is the same machine that wove the 23, it isn't broken it's still in use today. The reason smartlouver doesn't produce the 23 is due to the fact too many complaints of water drops from rain and/or ground sprinklers getting trapped between the slats thus employees complaining they couldn't see outside the windows and this was with several building owners that complained so the solution was spread them apart yet provide the same sunscreen protection and the answer was 23 to 17 spacing. The person that has NOS as well as reclaimed material of the 23 used to install this material and had to rip the 23 off a bunch of Boeing owned buildings and install the 17 this comes from a source that was a contractor since the 1970's for this material and still has a bunch of it.
+		
+
+Click to expand...
+
+I believe I read that post some time ago and reached out to that contractor to try to obtain some, so you know if they are still willing to sell?
+────────────────────────────────────────────────────────────────────────
+Post #34  (forum post #5594426)
+Author    : Droidr4i9
+Date      : Dec 26, 2024 at 7:10 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Randy should still have some, just send him an email he will reply. He's retired and does reply but it could be a day or two before he does.
+────────────────────────────────────────────────────────────────────────
+Post #35  (forum post #5594427)
+Author    : OldNutsy
+Date      : Dec 26, 2024 at 7:12 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Droidr4i9 said:
+
+			Randy should still have some, just send him an email he will reply. He's retired and does reply but it could be a day or two before he does.
+		
+
+Click to expand...
+
+Thanks, I’ll give it another shot
+────────────────────────────────────────────────────────────────────────
+Post #36  (forum post #5594432)
+Author    : Droidr4i9
+Date      : Dec 26, 2024 at 7:55 AM
+Reactions : Like — Leinads, joberg
+────────────────────────────────────────────────────────────────────────
+
+how much do you need?
+────────────────────────────────────────────────────────────────────────
+Post #37  (forum post #5595163)
+Author    : Vinyl Guy
+Date      : Dec 29, 2024 at 1:07 PM
+Reactions : Wow — joberg
+────────────────────────────────────────────────────────────────────────
+
+My understanding of Koolshade, at least what was manufactured in the 1970's, was that it was produced in the Caribbean. Following a hurricane that damaged/destroyed the tooling, the machines were rebuilt, but could only reliably produce the 17 louvre product. This is the explanation that was on the RPF and other sources years ago. From a manufacturing standpoint, compressing the product from 17 to 23 doesn't make a whole lot of sense. Also, I remember that someone claimed that the manufacture at the time would produce the 23 louvre product but would require a very large production run.
+────────────────────────────────────────────────────────────────────────
+Post #38  (forum post #5595199)
+Author    : Droidr4i9
+Date      : Dec 29, 2024 at 2:59 PM
+Reactions : Like — Leinads, joberg
+────────────────────────────────────────────────────────────────────────
+
+as stated above...
+
+I talked to them on the phone and the machine that makes the 17 is the same machine that wove the 23, it isn't broken it's still in use today. The reason smartlouver doesn't produce the 23 is due to the fact too many complaints of water drops from rain and/or ground sprinklers getting trapped between the slats thus employees complaining they couldn't see outside the windows and this was with several building owners that complained so the solution was spread them apart yet provide the same sunscreen protection and the answer was 23 to 17 spacing.
+
+The "old" explanation was incorrect without actual facts. Please call or email Terry and he will tell you the same thing I just did, this isn't a mystery that needs solved. The same machine that currently makes the 17 is the same that made the 23. The slats are just wound with more spacing between them than they were originally set.
+────────────────────────────────────────────────────────────────────────
+Post #39  (forum post #5595376)
+Author    : Vinyl Guy
+Date      : Dec 30, 2024 at 10:46 AM
+────────────────────────────────────────────────────────────────────────
+
+Droidr4i9 said:
+
+			as stated above...
+
+I talked to them on the phone and the machine that makes the 17 is the same machine that wove the 23, it isn't broken it's still in use today. The reason smartlouver doesn't produce the 23 is due to the fact too many complaints of water drops from rain and/or ground sprinklers getting trapped between the slats thus employees complaining they couldn't see outside the windows and this was with several building owners that complained so the solution was spread them apart yet provide the same sunscreen protection and the answer was 23 to 17 spacing.
+
+The "old" explanation was incorrect without actual facts. Please call or email Terry and he will tell you the same thing I just did, this isn't a mystery that needs solved. The same machine that currently makes the 17 is the same that made the 23. The slats are just wound with more spacing between them than they were originally set.
+		
+
+Click to expand...
+
+No reason to get "worked up," it's not that big of deal. If you have a relationship with this Terry then it might be helpful to know how big of run they would need to produce the 23 louvre material and if they would be interested. Also, if they could substitute a different material that is less expensive. I was told some years ago by distributers of Koolshade in the US, who are the source of many of my "facts," is that the product material is made of brass. Aluminum and some grades of steel may be cheaper.
+────────────────────────────────────────────────────────────────────────
+Post #40  (forum post #5595463)
+Author    : Leinads
+Date      : Dec 30, 2024 at 5:02 PM
+Reactions : Like — Necronaut
+────────────────────────────────────────────────────────────────────────
+
+There’s a movie waiting to be made with all this lore being discussed 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #41  (forum post #5595516)
+Author    : MrRobot
+Date      : Dec 30, 2024 at 11:27 PM
+Reactions : Like — Leinads, joberg
+────────────────────────────────────────────────────────────────────────
+
+Leinads said:
+
+			There’s a movie waiting to be made with all this lore being discussed 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+Hopefully somebody makes a replica of the 23/in. Koolshade prop used in the film.
+────────────────────────────────────────────────────────────────────────
+Post #42  (forum post #5595575)
+Author    : RealDaveWinter
+Date      : Dec 31, 2024 at 8:25 AM
+Reactions : Like, Haha — joberg, Droidr4i9, Necronaut
+────────────────────────────────────────────────────────────────────────
+
+If you search this forum, you'll find more than one person has created (or tried to create) 3D printable STL's of the vintage Koolshade. Sure, it's not the real thing, but once painted and weathered, 99% of the people looking at the build will never know the difference. I'm only using the real thing because my OCD would keep my up at night if I didn't.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 42

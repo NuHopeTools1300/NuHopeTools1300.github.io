@@ -1,0 +1,2726 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Snowspeeder build.  3D print w/ a little scratch build fun
+URL    : https://www.therpf.com/forums/threads/snowspeeder-build-3d-print-w-a-little-scratch-build-fun.354230/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #5478477)
+Author    : mjhenks
+Date      : Oct 11, 2023 at 9:07 PM
+Reactions : Like — Media Man, 1138sw, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+Not my first SS build but i am no pro.  I enjoy building things and finished my Y-wing last year.  I still do not have the guts to tackle my Pyro X-wing nor my Tie so how about another 3D print based build.
+
+[IMAGE: https://www.therpf.com/forums/attachments/70129934934__13a61e6e-5115-4e6f-aa32-fd70ae3de7c1-jpg.1749836/]
+
+My plan was to find a SS 3D model to learn how to resin print with.  I was given an Elegoo Mars and needed an excuse to use it.  I also have good friends who build large format industrial 3D printers.  Between the two of them why not tackle another Star Wars OT model.  At first i was going to do the escape pod but settled on the Snowspeeder.
+
+[IMAGE: https://www.therpf.com/forums/attachments/70129930135__d14dc0bf-1f6f-48d0-a2fb-9f6d7d46bdd0-jpg.1749834/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/70129931823__0a39c012-7d97-4326-b3bc-f63cabc97b35-jpg.1749835/]
+
+Large scale 3D printing is not free so after some horse trading i had a deal to 3D print all the parts that would not fit on my ultimaker.  
+
+One surplus measuring microscope for a few large pieces of plastic.  Good deal for both parties.  sort of...
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5118-jpg.1749838/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0777-jpg.1749839/]
+
+I did not realize how wonky the flat panels would be on the print.  Great for what the market they are serving but not so great for a SS model.  I will be thinking quite a bit about my next steps.
+
+ 
+
+Attachments
+
+[IMAGE: 1392346-cd1bfc509b06ba5fee3dc2a6edb656a8.jpg]
+
+70129930135__D14DC0BF-1F6F-48D0-A2FB-9F6D7D46BDD0.jpg
+
+					989.3 KB
+					
+					· Views: 203
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #5478480)
+Author    : mjhenks
+Date      : Oct 11, 2023 at 9:17 PM
+Reactions : Like, Wow — 1138sw, stevielewis, joberg
+────────────────────────────────────────────────────────────────────────
+
+I am catching up on this project so while i had some thinking to do in the first post that thinking was done a few weeks back.  
+
+Here is the underside.  Just as wonky as the top.  
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0779-jpg.1749843/]
+
+Here is a the realization point on the reality that i was not going to be satisfied and that this was not going to end well.  After shooting some primer and sanding some it was clear that by the time i got all those lines out there would be no panel lines and no detail parts left.  I better find a plan B.  
+
+[IMAGE: https://www.therpf.com/forums/attachments/wing-jpg.1749844/]
+
+Ok.  Time to get some .080" polystyrene and do some major surgery.  The main structure is fine as are the front facets of the wing but the rest needs to go.  Serious gut check as i went over to the band saw.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0835-jpg.1749845/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0837-jpg.1749846/]
+
+OK.  I can work with this.
+
+I have the main structure still here and i have the basic size still in play.  Time to build out some wings and get that resin printer going.
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #5478484)
+Author    : mjhenks
+Date      : Oct 11, 2023 at 9:24 PM
+Reactions : Like, Love — Studio Kitbash, stevielewis, edge10
+────────────────────────────────────────────────────────────────────────
+
+3D printing is fun and frustrating.  
+
+My ultimaker does great and then sometimes just falls flat on its face.  (I was able to nicely recover the canopy)
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0906-jpg.1749853/]
+
+The Elegoo is a mixed bag so far.  Small parts seem to be OK.  Large parts not so good.  Lots of sagging and non-sticks.  Not sure why nor where to go for help so i keep trying.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1050-jpg.1749858/]
+
+But then you get some good parts and all is well.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0913-jpg.1749855/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0932-jpg.1749856/]
+
+After keeping both printers going off and on for a few weeks we have a small collection of parts.  I prime and sand as i go so some are ready to mount and some are not.  Some are a bit wonky but unless i figure out the printer's issues i can use them as partials and scratch build the rest.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1049-jpg.1749857/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0907-jpg.1749860/]
+
+Anyways....
+
+ 
+
+Attachments
+
+[IMAGE: 1392367-6bb53f4fc3b11287044eb47ec007544f.jpg]
+
+IMG_0927.jpg
+
+					547.2 KB
+					
+					· Views: 175
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #5478610)
+Author    : joberg
+Date      : Oct 12, 2023 at 10:05 AM
+────────────────────────────────────────────────────────────────────────
+
+Wow...talking about major surgery on those wings
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ Seems that you have all the pieces; eager to see your next update
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #5478638)
+Author    : mjhenks
+Date      : Oct 12, 2023 at 11:13 AM
+Reactions : Like — stevielewis, joberg, StevenBills
+────────────────────────────────────────────────────────────────────────
+
+Ya.  Was not sure if i was making a huge mistake or not.  
+
+The major bummer part was that i lost all the panel lines.   I am not sure right now if i build out the wings to the body and glue it up and then scribe in the panel lines or try to scribe them ahead of time.
+
+IMO i do that former.  Build it all out solid.  Otherwise my lines may not line up.   That is all fine but panel lines are new to me so not sure the best way to scribe them into the panel and what the best tool to use will be.
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #5478781)
+Author    : StevenBills
+Date      : Oct 12, 2023 at 7:53 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Yeah, with resin printers it REALLY matters how you orient the part for printing. The back engine piece could be printed just how you have it sitting on the table (or is the print area not large enough?), with a few supports underneath. It's definitely a learning curve!
+
+SB
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #5479017)
+Author    : mjhenks
+Date      : Oct 13, 2023 at 1:34 PM
+Reactions : Wow — stevielewis, joberg
+────────────────────────────────────────────────────────────────────────
+
+More surgery to fix poorly printed parts.  
+
+Engines were printed standing straight up and the end ring bottom was super rough.  Cut it off and machine a new ring from aluminum.
+
+[IMAGE: https://www.therpf.com/forums/attachments/snow-speeder-build-image-13-jpg.1750444/]
+
+Rear grill.  Not the most supportive 3D model.  Third print was good enough.  Lost four ribs when removing supports and both tubes.  Some surgery and re-construction.
+
+[IMAGE: https://www.therpf.com/forums/attachments/snow-speeder-build-image-19-jpg.1750445/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/snow-speeder-build-image-18-jpg.1750446/]
+
+More displeasure with the main body detail.  I took the .stl files and imported them into my CAD system.  From there i sectioned out some of the smaller detail areas and made new .stl files for printing.   That means i can machine off the areas i don't want to fix and start over.  
+
+[IMAGE: https://www.therpf.com/forums/attachments/snow-speeder-build-image-07-jpg.1750447/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/snow-speeder-build-image-20-jpg.1750448/]
+
+BTW the entire rear cockpit cover and control panel was also cut out.  Do not have an good image handy but i got rid of it all.
+
+[IMAGE: https://www.therpf.com/forums/attachments/cockpit-well-jpg.1750450/]
+
+Regarding printing.  What makes a print de-tach from the build plate on a resin printer?  I have twice printed the bottom detail plate of the speeder and both times one edge detached and sagged while the other 90% was fine.  I have re-aligned the build plate a few times and made sure i did not have debris in the resin pool.  Frustrating as you can't see the issue until your way past it so you are blind to the progress and issues associated.
+
+You can see it below.  This part is at a 60 degree angle to fit into the printer and that sagging portion is nearest the build plate.  Lots of support all around.
+
+[IMAGE: https://www.therpf.com/forums/attachments/lower-plate-sag-jpg.1750451/]
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #5479062)
+Author    : Studio Kitbash
+Date      : Oct 13, 2023 at 4:27 PM
+Reactions : Like, Sad — StevenBills, joberg
+────────────────────────────────────────────────────────────────────────
+
+Wow, this looks both impressive and daunting, almost as if the money you save in 3D printing (and NOT buying original kits to kitbash from) is made up for in all the PITA work and re-work required from 3D printing large pieces.  
+
+I have also tried and failed with 3D resin printing, so if anyone wants an Anycubic Mono X and drying station for cheap, gimme a holler.  
+
+But I'm seriously impressed by your Y-Wing, and would love to see more close-ups of that one while the Snowspeeder comes along.
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #5479836)
+Author    : mjhenks
+Date      : Oct 16, 2023 at 8:19 AM
+Reactions : Sad — joberg
+────────────────────────────────────────────────────────────────────────
+
+Ya...  Not the trip i though i was taking but honestly my Y-wing was also a different trip too.  I'll post some Y-wing images along the way.  Keeps me busy at night.
+
+I have not found a thread out there with where the original kit parts came from.  Is there one like the other OT ships have?  Seems like the Snowspeeder is relegated to the back lot of the Studio Scale world.
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #5480654)
+Author    : RayLuis
+Date      : Oct 18, 2023 at 2:11 PM
+Reactions : Wow — joberg
+────────────────────────────────────────────────────────────────────────
+
+Yeah this is a tough model to print even in resin because the designer made it very difficult for anyone who doesn't have a huge printer worth thousands of dollars to print this in one piece especially the top and bottom halves. He doesn't actually print his own stuff he sends it out to a company that has those large industrial printers that cost as much as a car.
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #5480704)
+Author    : mjhenks
+Date      : Oct 18, 2023 at 4:21 PM
+Reactions : Like, Love — 1138sw, Studio Kitbash, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1178-jpeg.1752277/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1176-jpeg.1752278/]
+
+A few shots of my Y.   I have a build thread for this too.   Will post a link later.
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #5481352)
+Author    : mjhenks
+Date      : Oct 20, 2023 at 9:10 AM
+Reactions : Wow, Like — edge10, joberg, RayLuis
+────────────────────────────────────────────────────────────────────────
+
+Some more catch-up.   Fitting of the upper wings.  
+
+[IMAGE: https://www.therpf.com/forums/attachments/snow-speeder-build-image-36-jpg.1752808/]
+
+Fitting of the lower wing.  This is three pieces and was not fun.   While the upper is a flat panel and can only really lay one way the bottom is three pieces and a bit of a puzzle.  
+
+Below the main panel is fit and i am working on the pattern for front scoop.
+
+[IMAGE: https://www.therpf.com/forums/attachments/snow-speeder-build-image-33-jpg.1752811/]
+
+Fitting a pattern for the wing root.   
+
+[IMAGE: https://www.therpf.com/forums/attachments/snow-speeder-build-image-34-jpg.1752812/]
+
+Using wood blocks as my angle guides to start and then made up some plastic inner ribs.
+
+[IMAGE: https://www.therpf.com/forums/attachments/snow-speeder-build-image-38-jpg.1752813/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/snow-speeder-build-image-39-jpg.1752815/]
+
+Comparisons...
+
+[IMAGE: https://www.therpf.com/forums/attachments/snow-speeder-build-image-52-jpg.1752825/]
+
+Once i got one side made i think mirrored it over and test fit the other side.
+
+[IMAGE: https://www.therpf.com/forums/attachments/snow-speeder-build-image-45-jpg.1752816/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/snow-speeder-build-image-47-jpg.1752821/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/snow-speeder-build-image-50-jpg.1752824/]
+
+Now.  Those of you who have an eagle eye will have already seen the problem.  You will know why everything i have shown here i eventually tore off and thru out because it was all wrong.  That sucked but oh well...  The upper panels i was able to re-work but everything on the bottom was tossed.   
+
+So what do you guys see that is wrong?  The side by side with the old 3D printed wing and the image after that shows the problem the best.
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #5481716)
+Author    : joberg
+Date      : Oct 21, 2023 at 8:09 AM
+────────────────────────────────────────────────────────────────────────
+
+wow...difficult bird to get right
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ I admire your dedication to that crazy-angles-model
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #5482036)
+Author    : mjhenks
+Date      : Oct 22, 2023 at 11:51 AM
+Reactions : Like — stevielewis, edge10, joberg
+────────────────────────────────────────────────────────────────────────
+
+Thank you Joberg.   Appreciate the comment.
+
+Time to catch up completely on the body.  I have it now totally together and i am pleased with the results.
+
+First off i made a cradle to hold the upper wings flat so they attach correctly and stay flat.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1184-jpeg.1753619/]
+
+Full support.  This was a really smart of me as it kept everything solid as i test fit and built out.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1185-jpeg.1753620/]
+
+Top panels mounted and solid.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1186-jpeg.1753621/]
+
+Rear detail parts and rear wing close out area mounted.  Had to space out this side.  Hope that does not come back to bite me.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1192-jpeg.1753623/]
+
+Upper wing gusset system installed.  This made things very stable and provided mid span attachment areas for the lower wing panels.  Each of these was fit with the lower panels tapped in place to make sure they fit and did not have gaps.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1205-jpeg.1753624/]
+
+Test fit the bottom panels.  Final check of the two triangles which was the issue from my last post.   I did not realize the triangles were formed by the three wing panels and was trying to shape it by other means.  That is why i tore it all apart and started over again.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1202-jpeg.1753625/]
+
+Done.  All glued up.  
+
+I taped the outer wing panels to the upper panel to serve as a hinge.  I think applied glue to all the ribs and folded the lower wing into place.  Once the center spar parts dried i then glued the lower panel outer edge in place.  Then the front and middle panels to finish it out.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1207-jpeg.1753626/]
+
+I am very pleased.  The whole system is strong as i had hoped.  I have some putty work to do own the center edge of both lower wings but that was expected.  Now i have to start thinking about etching panel lines.
+
+I still do not know the best tool to use for that.  Do i carve them or use this styrene and make the panels to glue on.  Not sure.
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #5482327)
+Author    : joberg
+Date      : Oct 23, 2023 at 8:37 AM
+────────────────────────────────────────────────────────────────────────
+
+Looking good
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ I use a modified cutter blade to scribe my panel lines.  It's true that, in insight, you could've made your life less miserable by scribing the lines while your parts were not assembled.  Now you'll have to find a way to make those line straight while going over some of the edges of those glued parts
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #5484327)
+Author    : mjhenks
+Date      : Oct 29, 2023 at 12:31 AM
+Reactions : Like — Krats, Studio Kitbash, SCUDMAN
+────────────────────────────────────────────────────────────────────────
+
+Laid out all the top wing main parts to start working on panel lines.    Finding that some lines need to be adjusted to look right with the guns and engines.   I know when done it will look fine but still…
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1217-jpeg.1756124/]
+
+Pencil it in. Check, erase, try again.  Mix and repeat. 
+
+One side..
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1233-jpeg.1756125/]
+
+The other side…
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1235-jpeg.1756126/]
+
+Away for business so no updates for a month.
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #5484366)
+Author    : joberg
+Date      : Oct 29, 2023 at 5:22 AM
+────────────────────────────────────────────────────────────────────────
+
+Great update and looking good already
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #5492024)
+Author    : mjhenks
+Date      : Nov 22, 2023 at 8:51 PM
+Reactions : Like — stevielewis, 1138sw, Carter C
+────────────────────────────────────────────────────────────────────────
+
+Back from Asia.   Dumb luck I was in Singapore for their scale military model competition and met fellow RPF’r Lee S. Saw some of his work.  
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1360-jpeg.1763948/]
+
+Other cool models on display. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1373-jpeg.1763949/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1377-jpeg.1763950/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1376-jpeg.1763951/]
+
+Visited the local model shop too.   Every corner was stacked to the ceiling with kits.   Did not buy anything.  
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1380-jpeg.1763952/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1381-jpeg.1763953/]
+
+Anyways.   Back and working on the lower panel layout.   Also bought a scribe tool and learning to use it.  
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1959-jpeg.1763947/]
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #5493719)
+Author    : mjhenks
+Date      : Nov 30, 2023 at 8:23 AM
+Reactions : Like, Wow, Love — stevielewis, joberg, Studio Kitbash
+────────────────────────────────────────────────────────────────────────
+
+Finished layout of the bottom scribe lines.  
+
+Been practicing laying down actual scribe lines so I guess it is time to fish or cut bait…
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1968-jpeg.1765867/]
+
+I am not pleased with my center body detail resin prints so I will scratch build those.   The resin prints are curling and brittle.    Bummer but …
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1970-jpeg.1765868/]
+
+ Been trying to figure out what is wrong with my rear grill.   
+
+ The “engine” does not fit around the rear shelf of the body.  The integrated fins are too narrow.   The “engine” has the outer fins for whatever reason where the rest of the fins are a separate assy.  
+
+I think the print file is wrong.    Any guidance?
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1971-jpeg.1765869/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1973-jpeg.1765870/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1972-jpeg.1765871/]
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #5493776)
+Author    : Studio Kitbash
+Date      : Nov 30, 2023 at 12:27 PM
+Reactions : Like — stevielewis, joberg
+────────────────────────────────────────────────────────────────────────
+
+Dang that all looks amazing.  Very impressive body-shop work at the structural level.
+
+I know this is a Snow Speeder build thread but boh oh boy do I love me some Y-Wings -- nice seeing yours, AND Lee S.'s Red Jammer from Singapore, and I think I've actually been in that hobby shop, if it's the same one.  
+
+I always buy Fine Molds products when I'm in Asia as the price is usually much better.  
+
+The Snow Speeder looks amazing, and if you haven't already tackled/solved the panel line problem, I recommend the Tamiya scribing tool with different MM widths from 0.15 all the way up to 2.5mm iirc.  They're EXPENSIVE, but surely one of them will be precisely the width/look you want.
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #5494038)
+Author    : mjhenks
+Date      : Dec 1, 2023 at 1:17 PM
+Reactions : Like — stevielewis, joberg
+────────────────────────────────────────────────────────────────────────
+
+Thank you SK.   Been playing with scribes the last few days deciding on width and depth.  
+
+Below from top to bottom is .6mm wide, .4mm and 1.0mm.   Each sample has 2, 4, 6, 8 & 10 strokes top to bottom.   All were then Primed + sand then re-prime.  
+
+ Looking for the best for this scale.  
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1977-jpeg.1766185/]
+
+I tend to think 1.0mm @ 10 strokes for all main lines and maybe .6mm for the minor lines.  
+
+Any guidance from the experts on this?
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #5494215)
+Author    : joberg
+Date      : Dec 2, 2023 at 10:07 AM
+────────────────────────────────────────────────────────────────────────
+
+mjhenks said:
+
+			Thank you SK.   Been playing with scribes the last few days deciding on width and depth. 
+
+Below from top to bottom is .6mm wide, .4mm and 1.0mm.   Each sample has 2, 4, 6, 8 & 10 strokes top to bottom.   All were then Primed + sand then re-prime. 
+
+ Looking for the best for this scale. 
+
+View attachment 1766185
+
+I tend to think 1.0mm @ 10 strokes for all main lines and maybe .6mm for the minor lines. 
+
+Any guidance from the experts on this?
+		
+
+Click to expand...
+
+I think you've got it
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #5494227)
+Author    : Studio Kitbash
+Date      : Dec 2, 2023 at 12:09 PM
+Reactions : Like — stevielewis, joberg
+────────────────────────────────────────────────────────────────────────
+
+Top stroke line on the bottom card is the one my eye likes best -- I "think" that's the one you're saying, but visually it looks like the bottom card has thinner strokes than the two cards above it.
+
+I'm not a pro, but I would say go with what "looks closest" to your own satisfaction, even though that's a bit of a fudgey answer.  Does anyone know what tool/s they used for scribing lines back in 1979 ILM days for the Snow speeder?  I don't even know what tools were available back then in terms of scribing, so imagine it was likely just an Exacto knife or similar.
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #5494305)
+Author    : mjhenks
+Date      : Dec 2, 2023 at 10:34 PM
+Reactions : Like, Love — incrediblefruit, stevielewis, Studio Kitbash
+────────────────────────────────────────────────────────────────────────
+
+Well I went for it….   About 5 hours later and the bottom is done.   Tedious for sure. 
+
+After primer
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2003-jpeg.1766469/]
+
+Top is raw after carving. 
+
+Mid is primer then carve on printed material
+
+Bottom is carving dealer after primer.  
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1998-jpeg.1766470/]
+
+Closer. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1999-jpeg.1766471/]
+
+Doing some research and found this.  Really like this for the air intake.   My body is not deep enough so mods needed.  
+
+We will see…
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1984-jpeg.1766482/]
+
+And some cool patent images. This hangs in my office at work. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1981-jpeg.1766483/]
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #5494329)
+Author    : joberg
+Date      : Dec 3, 2023 at 4:52 AM
+Reactions : Like — stevielewis, mjhenks
+────────────────────────────────────────────────────────────────────────
+
+The scribed lines are tops
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #5495501)
+Author    : mjhenks
+Date      : Dec 7, 2023 at 9:20 AM
+Reactions : Like, Love — incrediblefruit, stevielewis, canister
+────────────────────────────────────────────────────────────────────────
+
+Made some mistakes but pleased with the top.   I will have to sharpen up the leading edges in front anyways and will repair my mistakes.  
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2036-jpeg.1767931/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2035-jpeg.1767933/]
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #5495710)
+Author    : joberg
+Date      : Dec 8, 2023 at 6:32 AM
+Reactions : Like — mjhenks
+────────────────────────────────────────────────────────────────────────
+
+Great panel lines for sure; you're getting to be the specialist on these
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #28  (forum post #5496391)
+Author    : mjhenks
+Date      : Dec 10, 2023 at 10:05 PM
+Reactions : Like — incrediblefruit, stevielewis, Carter C
+────────────────────────────────────────────────────────────────────────
+
+Rear bottom center detailing this weekend.  Tedious work.  Must have done the engine intake  plate 4 times. 
+
+Using washers for the round parts and koolshade for the intake vent.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2060-jpeg.1768800/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2059-jpeg.1768801/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2058-jpeg.1768802/]
+
+Test fit the engine grill as well.  I ended up cutting the tips off the body to allow the fins to fit.  
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2062-jpeg.1768803/]
+
+Did some sanding to the top. Amazingly how wonky it was.   A few layers of primer and it was flat again.
+
+Hmmm.   That is the Makings of a cool Endor camouflage scheme…
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2052-jpeg.1768804/]
+────────────────────────────────────────────────────────────────────────
+Post #29  (forum post #5496461)
+Author    : joberg
+Date      : Dec 11, 2023 at 5:37 AM
+Reactions : Like — stevielewis, mjhenks
+────────────────────────────────────────────────────────────────────────
+
+The details on the belly are tops
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #30  (forum post #5497099)
+Author    : mjhenks
+Date      : Dec 13, 2023 at 9:08 AM
+Reactions : Like, Love — incrediblefruit, stevielewis, modelerdave
+────────────────────────────────────────────────────────────────────────
+
+Working on the armature mount.   This is not going to work. 
+
+I think I’ll make an aluminum plate for the whole cockpit base to help take the moment loads and attach a threaded ferrel to the plate.  
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2077-jpeg.1769490/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2076-jpeg.1769491/]
+
+Working on the front fins.   How do you guys make duplicates of small parts.   Very tedious work sanding each to try and match the original.   Got to be a better way.   
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2078-jpeg.1769489/]
+────────────────────────────────────────────────────────────────────────
+Post #31  (forum post #5497107)
+Author    : TazMan2000
+Date      : Dec 13, 2023 at 9:22 AM
+Reactions : Like — incrediblefruit, joberg
+────────────────────────────────────────────────────────────────────────
+
+mjhenks said:
+
+			Working on the armature mount.   This is not going to work.
+
+I think I’ll make an aluminum plate for the whole cockpit base to help take the moment loads and attach a threaded ferrel to the plate. 
+
+View attachment 1769490
+
+View attachment 1769491
+
+Working on the front fins.   How do you guys make duplicates of small parts.   Very tedious work sanding each to try and match the original.   Got to be a better way.  
+
+View attachment 1769489
+
+Click to expand...
+
+You can make a mould of them.
+
+With all this work that you did to fix the original 3d print, it seems like you might as well started off scratch building one.
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #32  (forum post #5497113)
+Author    : mjhenks
+Date      : Dec 13, 2023 at 9:43 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+TazMan2000 said:
+
+			With all this work that you did to fix the original 3d print, it seems like you might as well started off scratch building one.
+
+TazMan2000
+		
+
+Click to expand...
+
+Thanks Tazman.  Molding is the way i was thinking but though there may be some other trick out there.
+
+Ya...   That ship sailed so i will see this to the end.  Fortunately most of the "mounted to the body" 3D parts are very usable.  Just the body has been a pain.
+────────────────────────────────────────────────────────────────────────
+Post #33  (forum post #5497127)
+Author    : TazMan2000
+Date      : Dec 13, 2023 at 10:26 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+mjhenks said:
+
+			Thanks Tazman.  Molding is the way i was thinking but though there may be some other trick out there.
+
+Ya...   That ship sailed so i will see this to the end.  Fortunately most of the "mounted to the body" 3D parts are very usable.  Just the body has been a pain.
+		
+
+Click to expand...
+
+Well, you could get someone to print them on a resin printer. They wouldn't be hard to design since they are just a 3d polygon.
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #34  (forum post #5497176)
+Author    : mjhenks
+Date      : Dec 13, 2023 at 1:11 PM
+Reactions : Wow — stevielewis, joberg
+────────────────────────────────────────────────────────────────────────
+
+I have a resin printer and for sure easy to design.   But…
+
+ Printed a bunch with my Eligoo mars about 10 weeks ago and not super impressed.    All of them have warped and/or cracked using their standard resin.   Have a bit to learn before I try that again.  
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2006-jpeg.1769533/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2007-jpeg.1769534/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2008-jpeg.1769537/]
+────────────────────────────────────────────────────────────────────────
+Post #35  (forum post #5497196)
+Author    : TazMan2000
+Date      : Dec 13, 2023 at 1:53 PM
+Reactions : Like — stevielewis, mjhenks, joberg
+────────────────────────────────────────────────────────────────────────
+
+mjhenks said:
+
+			I have a resin printer and for sure easy to design.   But…
+
+ Printed a bunch with my Eligoo mars about 10 weeks ago and not super impressed.    All of them have warped and/or cracked using their standard resin.   Have a bit to learn before I try that again. 
+
+View attachment 1769533
+
+View attachment 1769534
+
+View attachment 1769537
+
+Click to expand...
+
+When you do a pattern fill on the inside, do you ensure that you have drain holes? You have to drain and wash out all that excess uncured resin or else you may get cracks later on. After washing it out completely, let it sit in the sun in a plastic container, while the heat and the UV allow the alcohol and remaining resin to leak out and cure.
+
+Also, you may want to turn up your cure time a second or more.
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #36  (forum post #5497218)
+Author    : mjhenks
+Date      : Dec 13, 2023 at 2:58 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Thank you TazMan2000.  I will give those ideas a try.  I am super new at resin.  I know i had drain issues so i drilled holes in the parts after the fact to help them drain then left them outside in the sun to cure.   Did not know about a box though.  Guess i will have to do some more playing as i am going to need those parts soon.
+────────────────────────────────────────────────────────────────────────
+Post #37  (forum post #5497473)
+Author    : mjhenks
+Date      : Dec 14, 2023 at 7:56 AM
+Reactions : Like, Wow — incrediblefruit, stevielewis, StevenBills
+────────────────────────────────────────────────────────────────────────
+
+Other than some small round stock detail nubs which I do not have right now the bottom is done.   Not perfect but I am pleased.  
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2084-jpeg.1769737/]
+────────────────────────────────────────────────────────────────────────
+Post #38  (forum post #5497497)
+Author    : DaddyfromNaboo
+Date      : Dec 14, 2023 at 9:23 AM
+Reactions : Like — mjhenks
+────────────────────────────────────────────────────────────────────────
+
+mjhenks said:
+
+			Other than some small round stock detail nubs which I do not have right now the bottom is done.   Not perfect but I am pleased.
+		
+
+Click to expand...
+
+Not perfect? Man, you really polished that print up to a really nice studio scale sheen!!!
+────────────────────────────────────────────────────────────────────────
+Post #39  (forum post #5497716)
+Author    : joberg
+Date      : Dec 15, 2023 at 5:28 AM
+────────────────────────────────────────────────────────────────────────
+
+A beauty for sure
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #40  (forum post #5498421)
+Author    : mjhenks
+Date      : Dec 18, 2023 at 7:41 AM
+Reactions : Like, Love — incrediblefruit, stevielewis, StevenBills
+────────────────────────────────────────────────────────────────────────
+
+Top plating done.  Not that much.  
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2106-jpeg.1771005/]
+
+Forgot the shark gills on the bottom.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2104-jpeg.1771006/]
+
+Question.  Seems to me like the center front of the ship should have details for a landing gear or something.  Anyone know anything?
+
+Did another top level test fit to mark things out. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2102-jpeg.1771007/]
+
+Detailed out the back engine area and drilled out the rear Gun to put a pivot pin in there. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2105-jpeg.1771008/]
+
+Re-printing a bunch of parts now.
+────────────────────────────────────────────────────────────────────────
+Post #41  (forum post #5498444)
+Author    : tsenecal
+Date      : Dec 18, 2023 at 9:42 AM
+Reactions : Like — incrediblefruit, stevielewis, joberg
+────────────────────────────────────────────────────────────────────────
+
+If i need to make identical simple parts like the little fins you showed, i will create as many rough multiples as i need, then glue them all together with elmers glue, sand them to shape while glued together, drill any holes i need, etc, and then stick them in warm water til the glue is dissolved.   for more complex shapes, a mold is the best way to make many identical parts.
+────────────────────────────────────────────────────────────────────────
+Post #42  (forum post #5498467)
+Author    : mjhenks
+Date      : Dec 18, 2023 at 11:10 AM
+Reactions : Like — joberg, modelerdave
+────────────────────────────────────────────────────────────────────────
+
+tsenecal said:
+
+			If i need to make identical simple parts like the little fins you showed, i will create as many rough multiples as i need, then glue them all together with elmers glue, sand them to shape while glued together, drill any holes i need, etc, and then stick them in warm water til the glue is dissolved.   for more complex shapes, a mold is the best way to make many identical parts.
+		
+
+Click to expand...
+
+Of course.  That makes sense and is simple.   Thank you.
+────────────────────────────────────────────────────────────────────────
+Post #43  (forum post #5498869)
+Author    : mjhenks
+Date      : Dec 20, 2023 at 7:22 AM
+Reactions : Like — incrediblefruit, stevielewis, joberg
+────────────────────────────────────────────────────────────────────────
+
+The canopy fit was bothering me.   It was too narrow for the panel lines along the sides of the cockpit.  You can see it here.  
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2123-jpeg.1771445/]
+
+Spit it in half and extend it out a little.   Much better fit and after some body work you won’t be able to tell.  
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2121-jpeg.1771446/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2122-jpeg.1771447/]
+────────────────────────────────────────────────────────────────────────
+Post #44  (forum post #5498884)
+Author    : Studio Kitbash
+Date      : Dec 20, 2023 at 7:56 AM
+Reactions : Like — stevielewis, joberg, mjhenks
+────────────────────────────────────────────────────────────────────────
+
+Impressive how the impression of the eye makes the patience of the mind make a critical decision like this -- satisfying to see you are not taking any shortcuts through the "good enough from my house" or "good enough for government work" perspective -- always a pleasure to watch a true crafstman at his craft.  Very much enjoying this build thread.
+────────────────────────────────────────────────────────────────────────
+Post #45  (forum post #5499414)
+Author    : mjhenks
+Date      : Dec 22, 2023 at 7:03 AM
+Reactions : Like — incrediblefruit, stevielewis, Folgore
+────────────────────────────────────────────────────────────────────────
+
+A few hours of work last night while it rained.
+
+Need some sort of way to mount this thing.  At first i made a small plate to mount a 1/4-20 wood anchor but realized i needed to distribute the load better because the mount is way behind the center of mass.   I made a steel plate across the cockpit base to do that and epoxied the heck out of it.  I know i will have to update the cockpit to accommodate but worth it.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2124-jpeg.1771990/]
+
+Next problem to tackle are my rear lower spoiler fins.  You can see below they do not align with the lower inner wing root.   The outer edge of the spoiler should align with the wing root edge.   Off by about 4mm and guess what...  The wing root is off by about that much somehow.  (Centerline on this model sometimes is elusive)   Not sure how to fix this.
+
+Can't really tweak the spoiler fin enough to make it work.  I think my options are:
+
+-  Live with it.
+
+-  Force it over an glue in place the best i can.
+
+-  Shift and shave the spoiler a little.
+
+-  Make a custom spoiler fin and shift the mount over to shift the fin to align.  (CAD work)
+
+Note the pencil lines on the first image and read on.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2125-jpeg.1771991/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2126-jpeg.1771992/]
+
+There are very few images of the bottom of the real prop.  Nothing in the Chronicles book and anything in the movie that shows the bottom is so fast that you can't stop the screen and see anything other than blur.  It bothers me that the spoiler fin hinges do not have a companion hinge on the wing rear edge.  There would be one there with an exposed hinge like that on the spoiler.  
+
+Took a scrap fin and cut out the hinge.  What do you guys think?
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2127-jpeg.1771993/]
+
+Working on the canopy and of course i broke another pillar.  This thing is soo weak.  Any normal canopy would have a lower frame boundary area that interfaces with the cockpit.  This has a really small one.   Well since i have a rather wide cockpit threshold (Hence the widening i had to do) why not put a boundary frame down there to add strength?  Has to go in the inside edge or i lift the cockpit so....
+
+Below i the plate and using primer to figure out the outline of the inside of the cockpit. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2129-jpeg.1771994/]
+
+After some tedious work i have a lower frame and a little stronger canopy.  I will have to adjust the front once the cockpit is built as the front display is really close to the canopy when in place but i think i can manage.  (Or i will build it again...)
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2134-jpeg.1771995/]
+
+Anyways...  Making progress.
+────────────────────────────────────────────────────────────────────────
+Post #46  (forum post #5500564)
+Author    : mjhenks
+Date      : Dec 27, 2023 at 9:44 PM
+Reactions : Like — incrediblefruit, Bloop, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+Back at work on the canopy.  Not pleased at all with firmer of printed rear canopy/cockpit.  
+
+Let’s cut out the cockpit and start over. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2139-jpeg.1773475/]
+
+Flat panels.  Bent them up but that did not work out and I just ended up gluing the four independent panels together.  
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2140-jpeg.1773476/]
+
+Test fitting and sanding here and there.  Also installed the rear deck with pivoting gun post. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2146-jpeg.1773477/]
+
+Not bad.  Good fit now and still get to keep the rear cockpit detail.  
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2153-jpeg.1773478/]
+
+Looking at the main cockpit and canopy figment.   Not happy with main cockpit.  Poor print and not easy to recover.  
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2158-jpeg.1773479/]
+
+Front canopy got some tuck and roll upholstery to the top.  
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2155-jpeg.1773481/]
+
+Staring on a new cockpit.  Side panels with tuck and roll done.  Floor plate in and front panel fits.   We will see where this ends up. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2160-jpeg.1773480/]
+
+Where can I get pilots?  Anyone know of resin ones or printable models?
+────────────────────────────────────────────────────────────────────────
+Post #47  (forum post #5500992)
+Author    : mjhenks
+Date      : Dec 29, 2023 at 9:19 PM
+Reactions : Like — incrediblefruit, Bloop, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+More cockpit work. I am not even remotely trying to match the movie or any other cockpit layout here.   Soooo…. I dug out my left over greblies from my Y-wing and went to town.  
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2217-jpeg.1774009/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2218-jpeg.1774010/]
+
+Laying things out.  
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2215-jpeg.1774011/]
+
+It is a jigsaw puzzle to install. The side panels will be grafted in to the cockpit threshold. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2220-jpeg.1774012/]
+
+If you look close I detailed out the floor boards with fake panels and the foot wells. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2219-jpeg.1774013/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2221-jpeg.1774014/]
+
+I still have to build out the seat side panels but ran out of super glue activator.   
+
+I have no plans to light this model and the cockpit painting will be simple.    
+
+Thinking about how to hinge the front canopy to the rear.  Hmmm.
+────────────────────────────────────────────────────────────────────────
+Post #48  (forum post #5501068)
+Author    : joberg
+Date      : Dec 30, 2023 at 9:26 AM
+Reactions : Like — incrediblefruit, stevielewis, mjhenks
+────────────────────────────────────────────────────────────────────────
+
+The greeblies in that cockpit look fantastic
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+Don't forget guitar strings: they make great hoses
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #49  (forum post #5501288)
+Author    : tomwardill
+Date      : Dec 31, 2023 at 9:07 AM
+Reactions : Like — Bloop, mjhenks, joberg
+────────────────────────────────────────────────────────────────────────
+
+This looks amazing, the snowspeeder has always been a favourite, but I've struggled to find decent printable models for it.
+
+For your resin printing problems, I've had much better success switching to the 'ABS-like' resins. They've got a bit of flex to them and are much tougher overall. Supposedly you give up some extreme fine detail with them, but I've not noticed it so far even printing some pretty tiny D&D minatures.
+────────────────────────────────────────────────────────────────────────
+Post #50  (forum post #5503557)
+Author    : mjhenks
+Date      : Jan 8, 2024 at 7:35 AM
+Reactions : Like — incrediblefruit, Bloop, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+A bit slow the last few weeks.  Ran out of CA glue accelerant…
+
+Been working on the cockpit the seat console and considering air line routing.  The console has been tedious as it kept being too tall or too wide to fit.  
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2298-jpeg.1777184/]
+
+Pleased so far. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2300-jpeg.1777185/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2301-jpeg.1777186/]
+
+Start to add some air lines. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2303-jpeg.1777187/]
+
+If you recall I was unhappy with the lower rear fins.   They would not align. 
+
+I printed up some spares, cut off the actuators on one set and the fin plate of another and built my own so things would fit.  Not totally symmetrical but pleased. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2289-jpeg.1777189/]
+
+Test fit for location 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2290-jpeg.1777190/]
+
+Plating 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2292-jpeg.1777191/]
+
+Compare 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2293-jpeg.1777192/]
+
+Finally started work on seat belts.   Going with a 5-point harness.    Never done this so let’s see. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2299-jpeg.1777193/]
+
+ 
+
+Attachments
+
+[IMAGE: 1419701-fd67e1b206e89acafe6a731da3fbdf4b.jpg]
+
+IMG_2289.jpeg
+
+					2.3 MB
+					
+					· Views: 100
+────────────────────────────────────────────────────────────────────────
+Post #51  (forum post #5503783)
+Author    : joberg
+Date      : Jan 9, 2024 at 5:41 AM
+────────────────────────────────────────────────────────────────────────
+
+Looking very good: cockpit instruments + rear flaps
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #52  (forum post #5504338)
+Author    : mjhenks
+Date      : Jan 11, 2024 at 7:53 AM
+Reactions : Like, Love, Wow — incrediblefruit, Bloop, masterjedi322
+────────────────────────────────────────────────────────────────────────
+
+I think the cockpit build is done but I am open to input.  What is missing?  The only thing I would like to do is a hinge for the canopy.  Not sure how to pull that off right now.  
+
+Making seatbelts. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2299-jpeg.1778043/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2311-jpeg.1778042/]
+
+5-point harness seemed appropriate 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2316-jpeg.1778044/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2322-jpeg.1778047/]
+
+Hose work using bass strings
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2319-jpeg.1778045/]
+
+The whole ensemble 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2324-jpeg.1778046/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2327-jpeg.1778048/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2330-jpeg.1778049/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2331-jpeg.1778050/]
+
+There will be no pilots or lightning in the interior.   I have no plans for micro bible wrap seat covers either.  
+
+What is missing?
+────────────────────────────────────────────────────────────────────────
+Post #53  (forum post #5504638)
+Author    : joberg
+Date      : Jan 12, 2024 at 8:08 AM
+Reactions : Like — stevielewis, mjhenks
+────────────────────────────────────────────────────────────────────────
+
+mjhenks said:
+
+			I think the cockpit build is done but I am open to input.  What is missing?  The only thing I would like to do is a hinge for the canopy.  Not sure how to pull that off right now. 
+
+Making seatbelts.
+
+View attachment 1778043
+
+View attachment 1778042
+
+5-point harness seemed appropriate
+
+View attachment 1778044
+
+View attachment 1778047
+
+Hose work using bass strings
+
+View attachment 1778045
+
+The whole ensemble
+
+View attachment 1778046
+
+View attachment 1778048
+
+View attachment 1778049
+
+View attachment 1778050
+
+There will be no pilots or lightning in the interior.   I have no plans for micro bible wrap seat covers either. 
+
+What is missing?
+		
+
+Click to expand...
+
+Seat belt is looking spiffy!  As for something missing inside the cockpit...I know that you can have 3-D decals of gages and instrumentation for jet fighters models.  That would put your detailing to another level
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #54  (forum post #5504675)
+Author    : Studio Kitbash
+Date      : Jan 12, 2024 at 10:31 AM
+Reactions : Like — stevielewis, swgeek, mjhenks
+────────────────────────────────────────────────────────────────────────
+
+This is looking GREAT!
+
+"Not perfectly symmetrical" means you are doing it exactly like ILM.
+
+Very impressive - keep up the awesome work - it's very inspirational.
+────────────────────────────────────────────────────────────────────────
+Post #55  (forum post #5504702)
+Author    : mjhenks
+Date      : Jan 12, 2024 at 12:19 PM
+Reactions : Like — joberg, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+joberg thank you.  I just educated myself on what 3D gauges are...   What a wonderful idea but what scale?  I think SS Snowspeeders are 1/6 scale or near that.  I see a few 1/24 gauge kits.  Lots of 1/35.  (Kelik & Quinta Studios)  Hmm.    If you have any further guidance let me know.
+
+Studio Kitbash thank you.  I know but the engineer in me says otherwise.   You have no idea how much i stress over perfection.
+
+Yesterday I was "inspired" by a fellow R2 builder (BrianM) that i should re-think lights so....   I pulled out my Y-wing left over fiber optics and started drilling some holes in the cockpit.   Will not be as extensive as my Y-wing though.  I did not plan for wire routing or a power-source.   Not sure where to stick a battery pack and I have never liked the idea of batteries in a model anyways due to corrosion.  
+
+I may have to put a 3mm jack somewhere and plug in to that to provide power.  Maybe where the tow cable would go and that would be my cable.  Hmmm.   Have to find good images of that.
+
+anyways....
+────────────────────────────────────────────────────────────────────────
+Post #56  (forum post #5504929)
+Author    : joberg
+Date      : Jan 13, 2024 at 8:30 AM
+────────────────────────────────────────────────────────────────────────
+
+Yes, difficult to find 1/6 scale instruments...some could be used in your cockpit, albeit at a smaller scale (1/24).  We can imagine that some of the gages are smaller than others.  As for lighting; you have to be careful not to go "Xmas decorations" in your cockpit.
+
+It's easy to go overboard with too many lights.  Eager to see your next update
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #57  (forum post #5505319)
+Author    : mjhenks
+Date      : Jan 14, 2024 at 5:19 PM
+Reactions : Like, Wow — Bloop, joberg
+────────────────────────────────────────────────────────────────────────
+
+frustrated…
+
+Spraying to all fields today.   Started the weekend looking for 3d gauges and 1/24 is the largest out there.  Ended up getting some for a dehavilland Mosquito and Junkers Ju-87d in 1/32.  We will see.
+
+I drilled for fiber optics and started to look at how to route power but did not get far.  
+
+My guns keep warping on me so I cut out the middle abs replaced it with wood dowels.   Much better. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2336-jpeg.1779191/]
+
+Painting….   I figured I would start on the cockpit as I cannot finish the body until it is installed.  Using Tamiya paints I sprayed it light grey and started hand painting details.   That went well.  
+
+So why am I frustrated….  Reefer white is why.    I started spraying parts using modelersdp acrylic paints.   I am using an itawa eclipse HP gun @20psi and if it were a spitting contest I would win.   No matter how long or vigorously I shake this paint it is filled with debris.   Brand new paint.   If I filter it it seems like I am taking all the pigment out.  I do not understand.  
+
+This is the part of model making I hate….   What am I doing wrong?
+
+The good. Base coat black using rattle can paint. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2353-jpeg.1779180/]
+
+Older bottle of reefer white. Same brand but 18 months old.  A little spitting but ok results so far.  (Needs a few more coats)
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2366-jpeg.1779181/]
+
+Again the old paint.  
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2351-jpeg.1779187/]
+
+The bad.  This is new paint ordered a week ago
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2359-jpeg.1779182/]
+
+Using my lathe to mix for 20min in various orientation and the pigment just will not desolve.  
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2356-jpeg.1779183/]
+
+In the cup and jams the gun right away
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2358-jpeg.1779184/]
+
+The tip. So the crap in the brass tip.  
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2363-jpeg.1779186/]
+
+The mess
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2360-jpeg.1779188/]
+
+Frustrated…
+────────────────────────────────────────────────────────────────────────
+Post #58  (forum post #5505407)
+Author    : joberg
+Date      : Jan 15, 2024 at 5:33 AM
+────────────────────────────────────────────────────────────────────────
+
+I usually use automotive paint for my airbrush. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ No problems concerning crap/spitting when using it...then again, you have the "Spit Perfect" way of using that paint later for the various washes of your wear and tear
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #59  (forum post #5505413)
+Author    : StevenBills
+Date      : Jan 15, 2024 at 7:07 AM
+────────────────────────────────────────────────────────────────────────
+
+What are you thinning the paint with?
+────────────────────────────────────────────────────────────────────────
+Post #60  (forum post #5505414)
+Author    : mjhenks
+Date      : Jan 15, 2024 at 7:17 AM
+────────────────────────────────────────────────────────────────────────
+
+joberg said:
+
+			I usually use automotive paint for my airbrush. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ No problems concerning crap/spitting when using it...then again, you have the "Spit Perfect" way of using that paint later for the various washes of your wear and tear
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+Automotive is what i am most familiar with.  Been trying to get comfortable with model paints again.   Back in the day i used Tamiya and have alot of that still but not in the colors I "need".  (And man Tamiya paint is expensive now days and the bottles are smaller...   I'm old....
+
+StevenBills said:
+
+			What are you thinning the paint with?
+		
+
+Click to expand...
+
+This is supposed to be ready to shoot.  They suggest thinning with IPA but it is so thin to begin with that making it thinner does not seem right.
+────────────────────────────────────────────────────────────────────────
+Post #61  (forum post #5505464)
+Author    : mjhenks
+Date      : Jan 15, 2024 at 10:16 AM
+Reactions : Wow — joberg
+────────────────────────────────────────────────────────────────────────
+
+To close the loop.  The vendor says this is "normal" and the paint should be filtered.   I guess for now i will try that and see what happens.  Let you know...
+────────────────────────────────────────────────────────────────────────
+Post #62  (forum post #5505487)
+Author    : StevenBills
+Date      : Jan 15, 2024 at 11:57 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+mjhenks said:
+
+			This is supposed to be ready to shoot.  They suggest thinning with IPA but it is so thin to begin with that making it thinner does not seem right.
+		
+
+Click to expand...
+
+Yeah I would maybe try thinning it 50/50 with some IPA and then give it a go. I know this isn't much help, but I do that with the Tamiya acrylics and it sprays like a dream.
+
+SB
+────────────────────────────────────────────────────────────────────────
+Post #63  (forum post #5505726)
+Author    : mjhenks
+Date      : Jan 16, 2024 at 11:39 AM
+Reactions : Like, Wow, Love — incrediblefruit, Ogibendogy, Laspector
+────────────────────────────────────────────────────────────────────────
+
+While my white paint issues get resolved a teasers of the cockpit w/ seatbelts and hinge work on the canopy. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2374-jpeg.1779711/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2375-jpeg.1779712/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2378-jpeg.1779713/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2377-jpeg.1779714/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2376-jpeg.1779715/]
+────────────────────────────────────────────────────────────────────────
+Post #64  (forum post #5505728)
+Author    : Jkirkon
+Date      : Jan 16, 2024 at 11:44 AM
+Reactions : Like — mjhenks
+────────────────────────────────────────────────────────────────────────
+
+Love it! 
+
+I was gonna suggest those very hinges for your canopy. R/C airplane flap hinges.
+────────────────────────────────────────────────────────────────────────
+Post #65  (forum post #5505907)
+Author    : joberg
+Date      : Jan 17, 2024 at 5:47 AM
+Reactions : Like — mjhenks
+────────────────────────────────────────────────────────────────────────
+
+Wow...that cockpit rocks big time
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ Glad to hear that the paint prob is resolved!
+────────────────────────────────────────────────────────────────────────
+Post #66  (forum post #5506174)
+Author    : mjhenks
+Date      : Jan 18, 2024 at 8:08 AM
+Reactions : Like — joberg, Krats
+────────────────────────────────────────────────────────────────────────
+
+Not sure how much detail and minutiae I should share but..
+
+Identified the rear cockpit as using Ju-87 cockpit details.  Found these in 3D but wrong scale.   Bummer.   Probably 1:24 originally.  Trying to figure out how to adapt. 
+
+Any ideas?
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2398-jpeg.1780262/]
+
+Have these to play with.   Cutting each out and pasting OR just deal with the smaller scale are the options unless there is some other idea.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2399-jpeg.1780265/]
+
+Been trying to come up with a pivot/hinge design for the rear top engine spoilers. It needs to lift and pivot and not sure if that is just a simple pivot or a complex four bar type linkage.  My mind is just not seeing it yet.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2381-png.1780269/]
+
+Found this image and using it to inspire my rear cockpit.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2379-png.1780268/]
+────────────────────────────────────────────────────────────────────────
+Post #67  (forum post #5506445)
+Author    : joberg
+Date      : Jan 19, 2024 at 6:58 AM
+Reactions : Like — TazMan2000
+────────────────────────────────────────────────────────────────────────
+
+I've used photocopy of real plane instruments and cut them/applied them on the dashboard.  Might work for you and the scale
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #68  (forum post #5506456)
+Author    : mjhenks
+Date      : Jan 19, 2024 at 8:12 AM
+Reactions : Like — Bloop, joberg, StevenBills
+────────────────────────────────────────────────────────────────────────
+
+joberg said:
+
+			I've used photocopy of real plane instruments and cut them/applied them on the dashboard.  Might work for you and the scale
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+Thank you.   Kicking that around for sure right now.
+
+I played around with the decals I have last night.  IT may work for my new rear lower panel but not for the mains.
+
+The more i played the more i became decidedly unsatisfied with the rear cockpit layout and ability to make look clean.  Another 3D printed part that just does not measure up.   Last night I did some major surgery.   
+
+It started with the large radar ring which IMO was not right and in the way so I cleared the deck to start over. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2401-jpeg.1780482/]
+
+Did not stop there.  Cleared the entire deck and carefully extracted the rear cockpit from the rear canopy to start over.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2406-jpeg.1780484/]
+
+Pucker factor right there.  They don't call it super glue for nothing...
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2407-jpeg.1780485/]
+
+Laid out a new cockpit.  Main thing i wanted to add was the lower console.  I then rounded out that area and put in fresh flat panels for the rest.  (The front edges are not yet done)  
+
+Then did some tests with the decals I have.   Gain I think they will work for the lower console but not the upper.  These are from a 1/32 B-25.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2408-jpeg.1780487/]
+
+Too small...
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2410-jpeg.1780488/]
+
+And the same for the front cockpit.  This may work ok.   Again 1/24 B-25.  The front cockpit for the Snowspeeder is just dumb.  Way too simple and not enough room to really expand it.  Oh well...
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2409-jpeg.1780489/]
+
+I ordered some 1/24 spitfire cockpit parts.  Largest scale you can buy. We will see.  
+
+If it does not work then plan B will be to do… something else.
+
+ 
+
+Attachments
+
+[IMAGE: 1422999-c99fed0aa8d1358623c3a4431658de55.jpg]
+
+IMG_2408.jpeg
+
+					1.4 MB
+					
+					· Views: 115
+────────────────────────────────────────────────────────────────────────
+Post #69  (forum post #5506699)
+Author    : joberg
+Date      : Jan 20, 2024 at 8:41 AM
+Reactions : Like — Bloop
+────────────────────────────────────────────────────────────────────────
+
+I forgot to mention that I asked my go-to-person at the print shop to make my photocopies with a stronger/heavier paper.
+
+The paper itself looks satiny to get the best colors possible.
+────────────────────────────────────────────────────────────────────────
+Post #70  (forum post #5506768)
+Author    : mjhenks
+Date      : Jan 20, 2024 at 11:55 AM
+Reactions : Like — joberg, Bloop
+────────────────────────────────────────────────────────────────────────
+
+Thank you joberg
+
+Spent the morning doing scale comparison.  Seems like the cockpit wants to be 1:20 scale based on the Ju-87 gauge panel from my printed part compared to the 1/32 scale 3D decal i have.  Odd scale but not surprised from a .stl file.  Biggest i have found for the Ju-87 is 1/24.  Found a Spitfire in 1/18...
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2425-jpeg.1780773/]
+
+Been looking at the production 1:1 prop and the rear cockpit is nothing like my printed part so i think i am going to care less and less about some of this and do what seems correct.  Re-sculpting the cockpit again today and we will see what i end up with.  Rainy so nothing is happening fast today.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2421-jpeg.1780775/]
+
+Smile Mark.  This layout image was good and inspired my angled changses
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2426-jpeg.1780784/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2415-jpeg.1780787/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2418-png.1780788/]
+
+The rear engine spoiler pivot is still frustrating me.   Think i am going to have to go with a double pivot single link and just ignore that in real live that makes no aerodynamic sense at all.  (Not that the movie pivots make sense anyways as they would tear off soo fast...  Its a movie thought...)
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2423-jpeg.1780776/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2419-jpeg.1780777/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2420-jpeg.1780778/]
+
+(Edit.   Read my next post as I figured out how to make this paint work)
+
+Paint.  Was told by the mfg that the pigment separation is normal and to just filter it.  I am no expert but i have painted a car or two and lots of other things i don't buy it.   I filtered out all the pigment ended up with white water which sprays like white water providing no coverage.  I then added Tamiya thinner to the pigment and guess what...  Ended up with paint that actually covers.  Not great but better.  Will not and would not recommend this paint to anyone.  Looking at Vallejo and Archive X.  Also learning that reefer white may not be the right base coat either but i think that is not super important as my ship will be weathered.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2414-jpeg.1780779/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2422-jpeg.1780780/]
+
+ 
+
+Attachments
+
+[IMAGE: 1423285-e48b7d7b69cc2fd64f0e2ba15630c660.jpg]
+
+IMG_2425.jpeg
+
+					2.1 MB
+					
+					· Views: 130
+					
+				
+
+[IMAGE: 1423287-278ee33c64c4e07ec01e9fb291e178be.jpg]
+
+IMG_2421.jpeg
+
+					793.1 KB
+					
+					· Views: 111
+					
+				
+
+[IMAGE: 1423298-60f99b5170b33b59b3e225fd58108369.jpg]
+
+IMG_2415.png
+
+					4.3 MB
+					
+					· Views: 130
+────────────────────────────────────────────────────────────────────────
+Post #71  (forum post #5506969)
+Author    : joberg
+Date      : Jan 21, 2024 at 7:35 AM
+────────────────────────────────────────────────────────────────────────
+
+Yes, those instruments are getting to be a frustration (understandably)...I think that some of the 3-D printed instruments could fill some of the dashboard...some will have to be photocopied or scratch built by you.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #72  (forum post #5507129)
+Author    : mjhenks
+Date      : Jan 21, 2024 at 8:35 PM
+Reactions : Like — Bloop, Folgore, joberg
+────────────────────────────────────────────────────────────────────────
+
+Integrity is important to me so I need to withdraw my position on my paint.   After more research I found their page stating that you can’t mix the paint by shaking but have to stir/beat it like pancake mix.  
+
+So….  I made this. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2439-jpeg.1781103/]
+
+And got this. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2440-jpeg.1781104/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2441-jpeg.1781105/]
+
+Very little pigment in the strainer and good coverage.  
+
+I stand corrected.
+────────────────────────────────────────────────────────────────────────
+Post #73  (forum post #5507207)
+Author    : joberg
+Date      : Jan 22, 2024 at 7:07 AM
+Reactions : Like — mjhenks, TazMan2000
+────────────────────────────────────────────────────────────────────────
+
+Looks way better
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #74  (forum post #5508019)
+Author    : mjhenks
+Date      : Jan 25, 2024 at 8:32 AM
+Reactions : Like — incrediblefruit, Bloop, joberg
+────────────────────────────────────────────────────────────────────────
+
+Getting on with the dash details.  Using greenies, 1/24 and 1/32 decals.  
+
+Pleased with the center of the console.   Wing decals not so much. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2446-jpeg.1782246/]
+
+Rear I am pleased with the center.  Wings need more work.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2447-jpeg.1782247/]
+
+ 
+
+Attachments
+
+[IMAGE: 1424758-bf32fb3fd1bcb0a02fc2635049510407.jpg]
+
+IMG_2446.jpeg
+
+					1.5 MB
+					
+					· Views: 117
+────────────────────────────────────────────────────────────────────────
+Post #75  (forum post #5508260)
+Author    : mjhenks
+Date      : Jan 26, 2024 at 7:52 AM
+Reactions : Like, Love — incrediblefruit, Bloop, Folgore
+────────────────────────────────────────────────────────────────────────
+
+Last nights progress.  Next steps are back to fiber optics and piping.  
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2467-jpeg.1782562/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2466-jpeg.1782564/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2464-jpeg.1782565/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2463-jpeg.1782566/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2462-jpeg.1782567/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2460-jpeg.1782569/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2458-jpeg.1782570/]
+────────────────────────────────────────────────────────────────────────
+Post #76  (forum post #5508283)
+Author    : joberg
+Date      : Jan 26, 2024 at 9:17 AM
+Reactions : Like — mjhenks
+────────────────────────────────────────────────────────────────────────
+
+I think that the instrumentation is not bad; I probably would've surrounded some of them into some kind of small frame.
+
+But, all in all, it does the job.
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #77  (forum post #5508323)
+Author    : mjhenks
+Date      : Jan 26, 2024 at 11:37 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+joberg said:
+
+			I think that the instrumentation is not bad; I probably would've surrounded some of them into some kind of small frame.
+
+But, all in all, it does the job.
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+Agree.   Thought about that way too late in the process.  Next time.  Once i add grime i hope things will blend a little more.
+────────────────────────────────────────────────────────────────────────
+Post #78  (forum post #5509003)
+Author    : mjhenks
+Date      : Jan 29, 2024 at 8:52 AM
+Reactions : Like — incrediblefruit, Bloop, JimmyB
+────────────────────────────────────────────────────────────────────────
+
+What do you all use for window glass on your models?
+
+Over the weekend I worked on fiber optics, canopy close magnetic latches and detailing the top of the canopy.   Also did a prototype dual pivot engine spoiler pivot to experiment a little. 
+
+Also have on the way new paints and LED illuminators for the interior lights.
+
+Trying not to go overboard.  Difficult to photograph.  Sorry.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2479-jpeg.1783708/]
+
+Hard to see the dash lights.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2482-jpeg.1783709/]
+
+Seat console.  I also have lights in the side boards but no photos.   Had to clear out space in the body and all these assemblies to route the fibers and wires.    Always fun after the fact.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2483-jpeg.1783710/]
+
+Brown roof “padding” with roof "locks" and other details and associated cables.   Stupid me almost glued my hinges shut with too much CA glue.  Yikes...
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2485-jpeg.1783712/]
+
+Spoiler.    Hinge will work.  Need to dream up ways to make it look realistic.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2486-jpeg.1783714/]
+────────────────────────────────────────────────────────────────────────
+Post #79  (forum post #5509202)
+Author    : joberg
+Date      : Jan 30, 2024 at 7:16 AM
+────────────────────────────────────────────────────────────────────────
+
+Wow; quite the update!  cabling on the roof looks really good.  The cockpit lights are just enough...You can also take a few felt pens to color the end of some fiber optics...to add some real life details and to get away from just one color.
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #80  (forum post #5509653)
+Author    : mjhenks
+Date      : Jan 31, 2024 at 9:14 PM
+Reactions : Like, Wow — incrediblefruit, Bloop, Carter C
+────────────────────────────────────────────────────────────────────────
+
+Figured out a double pivot hinge for the rear engine spoiler.   Closes properly and opens up to kick the spoiler up and back as it should.   Also came up with “hydraulics” to “actuate” it and hold it in place. 
+
+For sure not cannon but realistic and fits.   Now to make two pretty ones as the proton is pretty rough.
+
+Basic dual hinge
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2488-jpeg.1784858/]
+
+Main lift Hydraulic cylinder
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2489-jpeg.1784859/]
+
+Two secondary tilt hydraulic cylinders.  Back o e is hard to see.   It is mirrored.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2495-jpeg.1784860/]
+
+Going down.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2496-jpeg.1784861/]
+
+Stowed away from the bottom
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2497-jpeg.1784862/]
+
+Removed to replicate 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2499-jpeg.1784864/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2501-jpeg.1784865/]
+
+Paints and more micro drills for fiber optics arrived today. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/image-jpg.1784863/]
+────────────────────────────────────────────────────────────────────────
+Post #81  (forum post #5509682)
+Author    : ganesha7
+Date      : Feb 1, 2024 at 3:02 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+This build is getting more and more insane...
+
+Amazing stuff!
+────────────────────────────────────────────────────────────────────────
+Post #82  (forum post #5509718)
+Author    : joberg
+Date      : Feb 1, 2024 at 5:51 AM
+Reactions : Like — ganesha7
+────────────────────────────────────────────────────────────────────────
+
+I'm impressed by your hydraulic set-up for the flaps
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #83  (forum post #5510074)
+Author    : Studio Kitbash
+Date      : Feb 2, 2024 at 12:42 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+What do you all use for window glass on your models?
+
+Vivak PetG in .020"
+────────────────────────────────────────────────────────────────────────
+Post #84  (forum post #5510641)
+Author    : mjhenks
+Date      : Feb 4, 2024 at 7:59 PM
+Reactions : Like, Wow — incrediblefruit, Padawan311, Carter C
+────────────────────────────────────────────────────────────────────────
+
+A lot done the last week.   Since it is cold and wet for California I was focused.  
+
+Took the prototype air brake pivot assy and built it out in CAD so I could 3D print them.    Turned out nice.   Small parts so I made a few sets.  
+
+Like so many things on this build I had to scratch build the air brake panels as the 3d ones just were not good enough.  
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2503-jpeg.1786078/]
+
+Below is one full set of parts.  
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2505-jpeg.1786068/]
+
+Spare parts
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2502-jpeg.1786069/]
+
+Took another stab at painting.
+
+  Using Archive-X paints this time and much better results.  Had to play with the mix ratio but in the end pleased.   Took two bottles of “dark grime” to cover all the parts.   Super surprised at the color.   Not white at all more like beige. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2531-jpeg.1786070/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2532-jpeg.1786085/]
+
+Can you see the problem in the below image?
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2533-jpeg.1786075/]
+
+Sharp eye saw that the body and detail parts are a different shade.   I used a black primer for all my parts.   For the top of the body I had painted it reefer white by mistake and did not start reshoot black.   Dooh!
+
+Sand it down, black prime and Repainted. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2540-jpeg.1786079/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2541-jpeg.1786081/]
+
+Detail painting of the engine bays and spoilers.   Dark and grimy. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2548-jpeg.1786083/]
+
+Getting ready for orange.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2549-jpeg.1786084/]
+
+ 
+
+Attachments
+
+[IMAGE: 1428595-fd3e69bd41f04e93e5eea0cb82e8437e.jpg]
+
+IMG_2548.jpeg
+
+					1.6 MB
+					
+					· Views: 119
+					
+				
+
+[IMAGE: 1428593-889cda61f85378006869ac28a50182c8.jpg]
+
+IMG_2541.jpeg
+
+					2.7 MB
+					
+					· Views: 123
+					
+				
+
+[IMAGE: 1428589-2c25f826ccca592f9eda5ceb029981cc.jpg]
+
+IMG_2503.jpeg
+
+					1.8 MB
+					
+					· Views: 127
+					
+				
+
+[IMAGE: 1428586-ee3e75563d7adb074cc7f4f4b6c7a57a.jpg]
+
+IMG_2533.jpeg
+
+					1.8 MB
+					
+					· Views: 131
+────────────────────────────────────────────────────────────────────────
+Post #85  (forum post #5510734)
+Author    : mjhenks
+Date      : Feb 5, 2024 at 8:13 AM
+────────────────────────────────────────────────────────────────────────
+
+A few more questions.
+
+Studio Scale Decals for a 20" long model.  I do not think 1/24 decales are large enough.  Anyone have a source?
+
+I am building Rouge 2.  (Orange)  Archive X lists "scarlet" as the orange color (Which seems like the wrong name) but also has "caboose red" in the Snowspeeder kit.  Where does the red go?  I presume your not mixing the orange.  Is the red for hand making decals?  Of no the where is red on the SS model.
+
+Thank you.
+────────────────────────────────────────────────────────────────────────
+Post #86  (forum post #5510781)
+Author    : joberg
+Date      : Feb 5, 2024 at 10:47 AM
+────────────────────────────────────────────────────────────────────────
+
+This is getting greater and greater by the update
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #87  (forum post #5511191)
+Author    : mjhenks
+Date      : Feb 6, 2024 at 9:12 PM
+Reactions : Like — incrediblefruit, barney five, Carter C
+────────────────────────────────────────────────────────────────────────
+
+Decals sorted.  Going with moffeaton set.
+
+“Glass” on the way. 
+
+Still not sure where caboose red is used. Right now I think maybe hand painted decals or edge pinch warnings like the engine flaps.   Anyone???
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2560-jpeg.1786973/]
+
+Played around tonight with orange paint and chipping fluid.  
+
+Found another builder’s blog that suggested mixing 8:2 of Vallejo Clear Orange and Carmine Red. Gave it a try thinning with AX-ATR.  Applied chipping fluid (first time using) and gave it a go. 
+
+Pleased.   I see possibilities here. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2559-jpeg.1786968/]
+
+3.5mm audio ports arrived and now I have an electrical input for my lights.  Looks fine but after the fact thought about how to get that port behind the tow cable area.   Hmmm.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2553-jpeg.1786969/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2555-jpeg.1786970/]
+────────────────────────────────────────────────────────────────────────
+Post #88  (forum post #5511229)
+Author    : joberg
+Date      : Feb 7, 2024 at 5:26 AM
+Reactions : Like — mjhenks
+────────────────────────────────────────────────────────────────────────
+
+Those audio ports will be good when painted; nobody will see the diff.
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #89  (forum post #5511295)
+Author    : swgeek
+Date      : Feb 7, 2024 at 9:09 AM
+Reactions : Like — joberg, mjhenks
+────────────────────────────────────────────────────────────────────────
+
+You're making me want to build a Snow Speeder. Always loved this ship.
+────────────────────────────────────────────────────────────────────────
+Post #90  (forum post #5511367)
+Author    : Carter C
+Date      : Feb 7, 2024 at 1:29 PM
+Reactions : Like — joberg, mjhenks
+────────────────────────────────────────────────────────────────────────
+
+That red could be for the flight suits of the pilots? Could always shoot Guy a message on facebook or post in the Archive X group, I'm sure someone over there would know.
+────────────────────────────────────────────────────────────────────────
+Post #91  (forum post #5511940)
+Author    : mjhenks
+Date      : Feb 9, 2024 at 8:30 AM
+Reactions : Like, Love — incrediblefruit, barney five, Studio Kitbash
+────────────────────────────────────────────────────────────────────────
+
+Broken record.   Not happy with another part so let’s do it right.  
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2562-jpeg.1788054/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2564-jpeg.1788055/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2565-jpeg.1788056/]
+────────────────────────────────────────────────────────────────────────
+Post #92  (forum post #5512720)
+Author    : mjhenks
+Date      : Feb 12, 2024 at 8:01 AM
+Reactions : Like, Love — incrediblefruit, Folgore, Krats
+────────────────────────────────────────────────────────────────────────
+
+one of these things is not like the other...
+
+Finished unit 1 and found it was too long.   Dang...
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2566-jpeg.1788989/]
+
+Take it apart and try again.   
+
+Much better now.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2569-jpeg.1788990/]
+
+Not all the correct greeblies but
+
+1.  Hard to find good images.
+
+2.  I am doing my best.
+
+3.  Happy how they turned out.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2570-jpeg.1788994/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2572-jpeg.1788993/]
+
+In a holding pattern now.   Waiting for paints, decals and electronics.
+
+ 
+
+Attachments
+
+[IMAGE: 1431504-ac9092e99eac31fc66e484038b7e29a3.jpg]
+
+IMG_2570.jpeg
+
+					2.1 MB
+					
+					· Views: 122
+────────────────────────────────────────────────────────────────────────
+Post #93  (forum post #5512999)
+Author    : joberg
+Date      : Feb 13, 2024 at 6:09 AM
+Reactions : Like — mjhenks
+────────────────────────────────────────────────────────────────────────
+
+Good stuff.  Love your scratch built greeblies
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #94  (forum post #5513683)
+Author    : MrV
+Date      : Feb 15, 2024 at 2:56 PM
+Reactions : Like — joberg, mjhenks
+────────────────────────────────────────────────────────────────────────
+
+Oh! how did i miss this.. Looks great, love the air break detailing. Love it all actually.
+────────────────────────────────────────────────────────────────────────
+Post #95  (forum post #5515090)
+Author    : mjhenks
+Date      : Feb 21, 2024 at 6:45 AM
+Reactions : Like, Love — incrediblefruit, carbonitekid, Krats
+────────────────────────────────────────────────────────────────────────
+
+last of the dark grime. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2638-jpeg.1792237/]
+
+Time for some Orange.   
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2639-jpeg.1792238/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2641-jpeg.1792240/]
+
+Remove the tape
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2643-jpeg.1792241/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2642-jpeg.1792243/]
+
+Now let’s see how that chipping fluid worked out
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2647-jpeg.1792244/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2649-jpeg.1792246/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2648-jpeg.1792247/]
+
+Pleased.
+────────────────────────────────────────────────────────────────────────
+Post #96  (forum post #5515352)
+Author    : joberg
+Date      : Feb 22, 2024 at 5:54 AM
+Reactions : Like — mjhenks
+────────────────────────────────────────────────────────────────────────
+
+That bird is looking better and better at every update
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #97  (forum post #5516266)
+Author    : mjhenks
+Date      : Feb 25, 2024 at 9:24 PM
+Reactions : Like — Krats, Carter C, joberg
+────────────────────────────────────────────────────────────────────────
+
+And I thought I was done with the canopy…. Waiting for electronic so I thought I would play with the canopy glass.   Really quick I found I did not plan that out well.  You just can’t glue clear plastic to the inside and make it look good.  I also did not plan any recessed areas so…
+
+Let’s carefully carve out glass recessed area without destroying the canopy.   Set my Dremel up as router and went to town.  (I did break a few joints but easily repaired)
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2667-jpeg.1793681/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2668-jpeg.1793683/]
+
+Sanded all the window sills and touched up the paint.   Really messed up some of detail work.  Will repair that later.  Quite ugly below but most of the ugly will be hidden.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2672-jpeg.1793684/]
+
+Now let’s make some windows.  How will we hide the window from the inside?   Window frames I guess. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2666-jpeg.1793685/]
+
+Test fitting.  The front is the painful one.  There is so little room at the front.  Faking it.  If this were a real bird i think the front window would leak and probably blow inward...
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2674-jpeg.1793687/]
+
+Rivets/screws to mount because why not...
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2673-jpeg.1793688/]
+
+A lot of work later
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2675-jpeg.1793689/]
+
+Close up.  They look alot better farther away.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2676-jpeg.1793690/]
+
+Test fitting.   Not sure yet...  
+
+Better than clear plastic sheet but the glass really should inset into the frame.   Thinking about it some more. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2677-jpeg.1793691/]
+
+ 
+
+Attachments
+
+[IMAGE: 1436195-f0c9fd9cff9406579441cebb13c8fa90.jpg]
+
+IMG_2668.jpeg
+
+					1.6 MB
+					
+					· Views: 109
+────────────────────────────────────────────────────────────────────────
+Post #98  (forum post #5516359)
+Author    : joberg
+Date      : Feb 26, 2024 at 8:02 AM
+Reactions : Like — mjhenks, TazMan2000
+────────────────────────────────────────────────────────────────────────
+
+Yep, I usually use clear plastic from various vacu-formed packages for my window.  It's a thin/cheap material (1mm) and works well in smaller size.  
+
+Large windows have a tendency to warp and ondulate with time/heat.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #99  (forum post #5516869)
+Author    : mjhenks
+Date      : Feb 28, 2024 at 7:33 AM
+Reactions : Like — incrediblefruit, Krats, Carter C
+────────────────────────────────────────────────────────────────────────
+
+Messing around with windows.   Decided to install them on the inner surface and cover with the frame.   The test fit below sealed the seal.  Gaps are because they are not glued in yet. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2681-jpeg.1794410/]
+
+The rear canopy used to be a part of the rear cockpit.  
+
+Not any more so I need to test fit things and decide how I will mount the canopy solid.  
+
+See the gaps?  Glue, magnets or ???
+
+Whatever it do it has to be solid as the front canopy hinges and stays up with friction.  (I need some pistons in there...  hmm)
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2683-jpeg.1794411/]
+
+Test fitting the new front cockpit with yoke and the rear glass clearance with my updated greeblies.  The front cockpit and the sides (not shown) will be glued and seam filled into the body after i get the electronics done.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2685-jpeg.1794412/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2686-jpeg.1794413/]
+
+This was just a cool shot.   Like your getting into the ship the ride the back seat.   Overwhelming if you ask me.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2687-jpeg.1794414/]
+
+A few questions.
+
+-  Glue to use for windows.  Elmer white?  CA?  Other?
+
+-  Do you guys weather the ship and then install the glass?
+
+-  Tips for weathering the ship in pieces.   What challenges will I face if I weather things like the engines and guns before assy.
+────────────────────────────────────────────────────────────────────────
+Post #100  (forum post #5516914)
+Author    : joberg
+Date      : Feb 28, 2024 at 10:05 AM
+Reactions : Like — Krats, TazMan2000, mjhenks
+────────────────────────────────────────────────────────────────────────
+
+Looks very good
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ Since you can remove the glass, do it before you weather it.  No crazy glue; it'll smog your glass.
+────────────────────────────────────────────────────────────────────────
+Post #101  (forum post #5516960)
+Author    : Carter C
+Date      : Feb 28, 2024 at 11:39 AM
+Reactions : Like — joberg, mjhenks
+────────────────────────────────────────────────────────────────────────
+
+Definitely not CA, it will fog the glass as stated above. I've used this stuff for "regular modeling" called canopy glue. I'm pretty sure its just Elmer's glue but you could give it a shot if you want to.
+────────────────────────────────────────────────────────────────────────
+Post #102  (forum post #5518979)
+Author    : mjhenks
+Date      : Mar 6, 2024 at 9:16 PM
+Reactions : Like, Love — modelerdave, incrediblefruit, edge10
+────────────────────────────────────────────────────────────────────────
+
+Lighting circuit board arrived.  9-12v input.  Each channel can handle 4-6 led’s and each has a pot to adjust the blink rate.  LEDs shown are for testing.  
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2697-jpeg.1797403/]
+
+Alot of leds.   White, Red, Blue and Green.  
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2691-jpeg.1797404/]
+
+Testing.  Goal will be to put the LED near the fiber optics and run the red/black wire to the rear where the board will be.  
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2700-jpeg.1797405/]
+
+Looking at this production photo of Luke.   This inspired my rear cockpit.   
+
+What is in there holding the canopy up???  
+
+Hmmm…  Let’s see what I can do.  
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2706-jpeg.1797406/]
+
+Prototype here.  What do you all think?
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2705-jpeg.1797407/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2704-jpeg.1797408/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2703-jpeg.1797409/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2702-jpeg.1797410/]
+
+It needs some refinement but it works.   Sucky for side window visibility.
+────────────────────────────────────────────────────────────────────────
+Post #103  (forum post #5519035)
+Author    : joberg
+Date      : Mar 7, 2024 at 6:16 AM
+Reactions : Like — mjhenks
+────────────────────────────────────────────────────────────────────────
+
+That'll do the trick me think
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #104  (forum post #5519992)
+Author    : mjhenks
+Date      : Mar 11, 2024 at 8:01 AM
+Reactions : Like — incrediblefruit, barney five, Krats
+────────────────────────────────────────────────────────────────────────
+
+Time to stuff all that wiring into the body.  Well at lease most of it.  
+
+Front Cockpit and right side are tied together and installed together.  This is where i figured out i am going to be in trouble.  I had to clear out a bunch of material in both sides to get the side panels to route.  
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2712-jpeg.1798845/]
+
+Here you can see what was cleared out.  Had to burry the LED's and fibers back there and then get the power wires to the rear.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2713-jpeg.1798846/]
+
+It is all in the rear and here i am trying to install the seat.  Its wires come out the side so i had to fish it thru the already closed out side panel to the rear.  You can see the fish line there with the tape to pull thru.
+
+Here is where i convinced myself that there was no way i would get all the wires in there, wired and stuffed into the back.  Just no room to work.  
+
+So...  Back to de-constructing the rear of the model.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2714-jpeg.1798847/]
+
+Making a mess.  The top rear plate was separate to the body so removed it and dug underneath into the rear cockpit foot well.  You can see there the two power input 3.5mm phone jacks..  Will be using only one.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2715-jpeg.1798848/]
+
+Much better.  All the wires in the back and after i start trimming to length the PCB's can go down there too.   Will try and magnet that panel down for access later.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2717-jpeg.1798849/]
+
+And now for closing all the cockpit gaps.  The whole parameter is filled in and sanded.  Primer and re-paint is next,  You can see in the rear some scales holding the magnets in place flush while the glue dries.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2730-jpeg.1798850/]
+
+Pleased with the progress.  The end is in sight although my weakest skill is coming up.  Weathering...
+────────────────────────────────────────────────────────────────────────
+Post #105  (forum post #5520022)
+Author    : joberg
+Date      : Mar 11, 2024 at 9:21 AM
+Reactions : Like — mjhenks
+────────────────────────────────────────────────────────────────────────
+
+Looking good 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+and...I'm a bit like you: do I plan to put the lighting/wires during the building or after?  I'm from the school of "after" with major surgery involved while the patient is in a coma and on IV
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #106  (forum post #5520040)
+Author    : mjhenks
+Date      : Mar 11, 2024 at 10:24 AM
+Reactions : Haha — joberg
+────────────────────────────────────────────────────────────────────────
+
+SO far i have not lost a patient but sometimes i wish i planned a little more.  Of course this model was not to get lighting in the first place.  
+
+Engines and cannons WILL NOT have lights.  (That was a command to myself BTW...)  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #107  (forum post #5525017)
+Author    : mjhenks
+Date      : Mar 30, 2024 at 9:28 AM
+Reactions : Like, Love — incrediblefruit, Laspector, edge10
+────────────────────────────────────────────────────────────────────────
+
+An update.  Been chipping away at the wiring and painting.
+
+Wires are all in place.  Figuring out the blink rate of each panel has been a pain.
+
+Cockpit threshold is sealed, smooth and painted.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2732-jpeg.1805091/]
+
+Made a magnet cover for the wiring.  It was just too painful to wire otherwise.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2733-jpeg.1805092/]
+
+Test fitting the canopy
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2756-jpeg.1805093/]
+
+I can already see the guns getting broken off at some point so i buried magnets in both sides of the gun/mount and attached them that way.  The align well and break off if needed.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2757-jpeg.1805094/]
+
+Test fit it all and getting ready for more painting and weathering
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2801-jpeg.1805095/]
+
+Light panels painted.  At this point i am sure i am departing from cannon but then again my cockpit already did that.  The pictures i look at and other builds start to confuse on what is right/cannon and what looks good.  My model, my way from hear on out.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2802-jpeg.1805096/]
+
+Tape off the butt end for some darker shades.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2805-jpeg.1805097/]
+
+Looking good.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2809-jpeg.1805099/]
+
+Much better.  Test fit the spoilers.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2810-jpeg.1805100/]
+
+Another test fit.  Why not.  Realize my wood dowel guns are a but heavy.  The guns really should have a front support back to the body to be "real" and stay there in flight.  The air flow would make them terribly inaccurate and likely to break off.   I am doing everything i can to refrain from "fixing" that.  To start i will change the wood out for some plastic tubing to make things lighter.   We will see.   
+
+There really should be supports out there....
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2814-jpeg.1805101/]
+
+Unrelated but Studio Scale.  Made these for another builder.  Turned out good.  If you know, you know.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2798-jpeg.1805103/]
+────────────────────────────────────────────────────────────────────────
+Post #108  (forum post #5525018)
+Author    : Studio Kitbash
+Date      : Mar 30, 2024 at 9:45 AM
+Reactions : Like — joberg, mjhenks
+────────────────────────────────────────────────────────────────────────
+
+Wow!  Looks AMAZING.
+────────────────────────────────────────────────────────────────────────
+Post #109  (forum post #5525037)
+Author    : swgeek
+Date      : Mar 30, 2024 at 10:54 AM
+Reactions : Like — joberg, mjhenks
+────────────────────────────────────────────────────────────────────────
+
+Looks great! Also like the TB bodies.
+────────────────────────────────────────────────────────────────────────
+Post #110  (forum post #5525246)
+Author    : joberg
+Date      : Mar 31, 2024 at 9:10 AM
+Reactions : Like — mjhenks, TazMan2000
+────────────────────────────────────────────────────────────────────────
+
+Great update
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ I love the add-on details you've put on that bird. It looks well detailed and cool looking
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #111  (forum post #5525500)
+Author    : mjhenks
+Date      : Apr 1, 2024 at 8:18 AM
+Reactions : Like, Love — incrediblefruit, joberg, Krats
+────────────────────────────────────────────────────────────────────────
+
+Canopy is fully integrated now. 
+
+Had a scare the first time I glued it.  Canopy would not close.   Popped it back off and was able to recover.  
+
+Little more body work and then on to weathering.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2828-jpeg.1805769/]
+
+ 
+
+Attachments
+
+[IMAGE: 1448281-7c10f146392b118230959fe9143031ca.jpg]
+
+IMG_2827.jpeg
+
+					1.3 MB
+					
+					· Views: 129
+────────────────────────────────────────────────────────────────────────
+Post #112  (forum post #5525779)
+Author    : joberg
+Date      : Apr 2, 2024 at 9:33 AM
+Reactions : Like — mjhenks
+────────────────────────────────────────────────────────────────────────
+
+Coming to an end; eager to see that bird ready for take-off
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #113  (forum post #5525807)
+Author    : mjhenks
+Date      : Apr 2, 2024 at 11:02 AM
+Reactions : Like — incrediblefruit, joberg, swgeek
+────────────────────────────────────────────────────────────────────────
+
+joberg said:
+
+			Coming to an end; eager to see that bird ready for take-off
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+I am having trouble still adapting it to the cold.  hehe....
+────────────────────────────────────────────────────────────────────────
+Post #114  (forum post #5527340)
+Author    : mjhenks
+Date      : Apr 8, 2024 at 8:02 AM
+Reactions : Like — incrediblefruit, jcoffman99, Folgore
+────────────────────────────────────────────────────────────────────────
+
+Went ahead and applied the decals, did some damage and tried my hand at weathering.  Not done but close.  Probably all i need now is some wash but if you see something please let me know.
+
+After air brushing work.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2891-jpeg.1808207/]
+
+Working on installing glass.  PITA.  The blue tape i had on the rear cockpit messed up a little.  May have to turn that into battle damage.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2895-jpeg.1808208/]
+
+Hard to heat up a screw driver and drive it into your model but sometimes even the best pilot hits something on the way to battle.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2894-jpeg.1808209/]
+
+Tried to fill the gouge with silver paint and then streak around it.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2910-jpeg.1808210/]
+
+Overall bottom
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2899-jpeg.1808211/]
+
+One side after the glass was installed
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2906-jpeg.1808212/]
+
+Bottom intake.  Using Kool Shade where i could.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2911-jpeg.1808213/]
+
+The back end.  Not happy with the gun.  Probably re-paint.  Also not sure how to do the cables to the gun and still allow it to rotate some.   Any ideas?  Guitar strings are too stout.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2913-jpeg.1808214/]
+
+Overall with cockpit open
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2905-jpeg.1808215/]
+
+Hard to photograph the lights.   Not super pleased with the lighting but at least there is some.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2902-jpeg.1808216/]
+
+A few more things to fix.  almost there.
+────────────────────────────────────────────────────────────────────────
+Post #115  (forum post #5527341)
+Author    : mjhenks
+Date      : Apr 8, 2024 at 8:05 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Any tips on a table top tripod would also be appreciated.
+────────────────────────────────────────────────────────────────────────
+Post #116  (forum post #5527354)
+Author    : tsenecal
+Date      : Apr 8, 2024 at 8:25 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+regarding the cable for the gun...  higher strength fishing line is braided...
+────────────────────────────────────────────────────────────────────────
+Post #117  (forum post #5527612)
+Author    : joberg
+Date      : Apr 9, 2024 at 7:14 AM
+────────────────────────────────────────────────────────────────────────
+
+Looking very good.  Nothing to signal concerning the wear & tear on the bird.  I usually use a very fine griding tool/Dremel for more "damages"...but any will do if that's the look you're happy with
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #118  (forum post #5527618)
+Author    : Jkirkon
+Date      : Apr 9, 2024 at 7:51 AM
+Reactions : Like — rustbucket, incrediblefruit, joberg
+────────────────────────────────────────────────────────────────────────
+
+mjhenks said:
+
+			Any tips on a table top tripod would also be appreciated.
+		
+
+Click to expand...
+
+Panavice mounted to a piece of wood? That’s what I use to wall mount my studio scale models.
+
+Your SnowSpeeder looks absolutely amazing!! 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_9308-jpeg.1808610/]
+────────────────────────────────────────────────────────────────────────
+Post #119  (forum post #5527897)
+Author    : mjhenks
+Date      : Apr 10, 2024 at 8:09 AM
+Reactions : Like, Love, Wow — rustbucket, flimzy, incrediblefruit
+────────────────────────────────────────────────────────────────────────
+
+Thank you all.   
+
+Interior of my SS Snow Speeder.  80% scratch built.  Dash Lighting is not turned on. There are 62 fiber optics in there.
+
+ Also not cannon.  I was inspired by a mix of production stills, screen grabs, what seemed right and using the greeblies I had.  
+
+Most of the dials are WWII plane 3D decals.
+
+I was heavily influenced by this production still on the level of detail the rear cockpit would have had.  
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2706-jpeg.1808922/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2932-jpeg.1808908/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2920-jpeg.1808909/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2921-jpeg.1808910/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2922-jpeg.1808911/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2923-jpeg.1808912/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2924-jpeg.1808913/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2925-jpeg.1808914/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2926-jpeg.1808915/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2927-jpeg.1808916/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2927-jpeg.1808917/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2928-jpeg.1808918/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2929-jpeg.1808919/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2930-jpeg.1808920/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2931-jpeg.1808921/]
+────────────────────────────────────────────────────────────────────────
+Post #120  (forum post #5527938)
+Author    : Laspector
+Date      : Apr 10, 2024 at 10:54 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+This is beautiful, but just one stickler--doesn't the snowspeeder use a stick instead of a steering wheel?
+────────────────────────────────────────────────────────────────────────
+Post #121  (forum post #5527964)
+Author    : mjhenks
+Date      : Apr 10, 2024 at 12:39 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Laspector said:
+
+			This is beautiful, but just one stickler--doesn't the snowspeeder use a stick instead of a steering wheel?
+		
+
+Click to expand...
+
+yes...  I took some liberty if a few areas.   
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+There seemed to be yoke device in the rear cockpit but it also seems to pivot out of the way somehow so the pilot could get in.  I did not want to tackle that.   The front yoke felt right to me and again i took liberties.  
+
+In no way was this cannon.  It sure seems like the models and the 1:1 cockpits were different depending on what you look at for 1:1 images.
+────────────────────────────────────────────────────────────────────────
+Post #122  (forum post #5528179)
+Author    : joberg
+Date      : Apr 11, 2024 at 6:54 AM
+Reactions : Like — rustbucket
+────────────────────────────────────────────────────────────────────────
+
+Love the cockpit to bits (literally
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+) Very complete and to my liking
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #123  (forum post #5685287)
+Author    : mjhenks
+Date      : Dec 4, 2025 at 3:56 PM
+Reactions : Wow — joberg
+────────────────────────────────────────────────────────────────────────
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ Just ignore this post.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 123

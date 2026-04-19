@@ -1,0 +1,217 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Questions about Molds
+URL    : https://www.therpf.com/forums/threads/questions-about-molds.247352/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #3767616)
+Author    : Datfly
+Date      : Sep 26, 2015 at 6:42 AM
+────────────────────────────────────────────────────────────────────────
+
+OK, So I am new to this whole world of "real" kits and screen accurate models for Star Wars.
+
+I had a few early Kenner toys in the late 70's and I thought that was it so I am stunned to see this
+
+wonderful world of screen sized prop replicas and more and I have been going through various sites 
+
+for days and it seems there are so many versions of screen sized props out there by so many
+
+artist that I now have questions that I hope can be answered here.
+
+What is the difference between Resin Molds & 3D Printing Molds & what is the better of the two?
+
+What is considered to be, past or present, the most screen accurate Tie Fighter?
+
+What is considered to be, past or present,  the most screen accurate X-Wing Fighter?
+
+What is considered to be, past or present,  the most screen accurate Millennium Falcon ?
+
+One thread that I have since lost actually identified a few model parts that were used to build
+
+the original X-Wing fighter! Is there a thread or a site that is more detailed on this?
+
+I am no model builder or painter so it is just curiosity.
+
+Star Wars came out when I was 13 so I am hooked to life.......
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #3767829)
+Author    : DaveG
+Date      : Sep 26, 2015 at 1:29 PM
+Reactions : Like — minifig
+────────────────────────────────────────────────────────────────────────
+
+Dat, 
+
+As to which are the most accurate models... I'll let others get into that. You will find good information on kit parts used to build the original X-Wings in some of the threads listed in the One Stop X-Wing sticky thread. You'll need to do a bit of digging but the info is there.
+
+As to your question about resin vs. 3D printed molds. You've phrased the questions wrong, it should be resin vs. 3D printed "parts". The original Star Wars models were detailed using parts from plastic model kits. Mostly tanks and other military models but a far number of ship, cars, trucks and plane kits were used as well (and let's not forget SeaLab!) Although there is some evidence that recasts of parts may have been used (the droid strip from the X-wing for example was cast and used on several other models like the Laser Tower and Death Star Surface tiles) for the most part is appears that they just used up tons of kits. they were relatively inexpensive and readily available, unlike today.
+
+The absolute best type of part to use on the recreation of a studio scale model is a part from the correct model kit originally used. A so-called donor part. Some of these kits are still commercially available, though many are no longer manufactured and have to be found on Ebay or at model kit shows.
+
+However, since a lot of these kits are rare and expensive, people have taken to molding the original parts and casting multiple duplicates in polyurethane casting resin. If the molds are well made and the castings carefully poured (often in a pressure tank to eliminate air bubbles), once painted,  the castings can be indistinguishable from the originals donor parts. The only real disadvantage is that you have to use super glue or epoxy to glue down the parts rather than solvent cement.
+
+If donor kit parts are not available, or the kit from which they came cannot be identified then the part can be modeled in a computer using photo reference and some dimensional assumptions and 3D printed. The quality of these re-created parts depends on several things, the quality of the reference photos, the 3d modeling skills of the person doing the work and the 3D printer being used to make the parts. All 3d printed parts have layering artifacts, in high end SLA type machines these can be virtually invisible to the eye, on FDM type machines they can be pretty obvious.
+
+Depending on the cost, size and quantity needed of the 3D printed parts sometimes the printed part is used on a model, sometime the printed part is molded and cast in resin. The latter is a better solution for long term part life.
+
+Hope this helps.
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #3767872)
+Author    : MonsieurTox
+Date      : Sep 26, 2015 at 2:37 PM
+────────────────────────────────────────────────────────────────────────
+
+In addition to what Dave said, don't worry if you're using kitparts castings or a resin model kit. Several of the original screen used models were resin (X-Wings, Y-Wing, TIE Fighter/Interceptor, Snowspeeder, AT-AT, ROTJ AT-ST etc to name a few 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+) and a lot of models used resin parts, like Dave said, the X-Wing droid strip, but also several plant-ons made for the 5' Millenium Falcon were also used on the Y-Wing, 32" Falcon, ESB Star Destroyer, Laser Tower etc) same with AT-AT parts used on the ESB Star Destroyer or 32" Falcon. 
+
+For years we went for "all plastic" scratched models getting in mind it would be a true reproduction of the screen used models, which is wrong for a lot of models, most of the time if you want to be accurate, go for resin ! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ Mainly for the TIE and X-Wing you mentionned, for the Falcon that's another story...
+
+Regarding a screen accurate Falcon, nothing available regarding the 5', you're on your own if you want to scratch it (there's a good thread here with partmaps,blueprints using photogrammetry etc), for the 32" (ESB) you have the Master Replica which is nice (even if all the kitparts have been reproduced instead of using real kitparts but they are very well done) or the De Agostini Falcon, less accurate in term of kitparts but the overall shape is very good.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #3767885)
+Author    : DaveG
+Date      : Sep 26, 2015 at 2:56 PM
+Reactions : Like — Joseph C. Brown
+────────────────────────────────────────────────────────────────────────
+
+Another point I'd like to make is that many times we get too wrapped up in using just the right perfect accurate kit part, or casting there of. Keep in mind that any replica made of a Studio Scale model is going to be an artistic interpretation. I have a great deal of respect and admiration for the models built using all the correct kit parts, but at the same time, there is nothing wrong with "winging it" a bit. I liken it to trying to be faithful to the "creative intent" of the original, while not getting bogged down trying to find all the right parts. I do a little of everything on my projects. I just purchased the correct Jagd Panther to use as a donor kit for some parts on my studio scale Laser Tower, while at the same time I am fine that some of the other parts are scratch built out of styrene while others I've computer modeled and 3D printed and still others are completely made up. As long as it looks good. I'm okay with it. And I would rather have a model that is done than one sitting on the shelf unfinished while I track down some obscure rare model kit. Besides, 99.99(999)% percent of the people that ever see the model are not going to know, or care, if a particular part is correct. The important thing is to have fun recreating these iconic models in whatever way makes you happy (except recasting someone else's resin kit, but that's a different topic!).
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #3770394)
+Author    : Datfly
+Date      : Sep 29, 2015 at 1:13 PM
+────────────────────────────────────────────────────────────────────────
+
+Thank you so much for the wealth of information!
+
+Thanks for the info on Resin & 3D molds.
+
+So much to take in and learn.
+
+For the Tie Fighter - X-Wing - Millennium question
+
+I am looking for a complete ready to go studio size
+
+model and I would like to know what versions past or present
+
+of the Tie Fighter and X-Wing has received the highest praise?
+
+I did not know the the Studio scale Falcon was 5 feet so
+
+it looks like I will need to look into the 32" models which 
+
+means search the other forum for that.
+
+It seems the best Tie Fighter is the Efx model?
+
+The proto-type Hot toys model is a stunner but BIG....
+
+Again if this is the wrong forum to ask please let me know where to post.
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #3770430)
+Author    : DaveG
+Date      : Sep 29, 2015 at 2:06 PM
+────────────────────────────────────────────────────────────────────────
+
+I have one of the EFX TIE Fighters. It looks pretty accurate to me. It's a finished collectible, not a kit. It's also sold out so you'd have to find one, at a premium price, on Ebay.
+
+DeAgostini has come out with a 32" Falcon replica. Available as a kit only on a 24 month subscription basis, so you have to be patient. It's not perfect but most of us who have subscribed are very happy with it, and several people are making aftermarket detail parts to either make it more accurate, or add some details where they are missing. There are a couple of good threads here on that one.
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #3770467)
+Author    : Datfly
+Date      : Sep 29, 2015 at 2:53 PM
+────────────────────────────────────────────────────────────────────────
+
+DaveG - 
+
+Yes, I see the hefty tag for the Efx Tie on Amazon via Toynk.  I just may pull the trigger on that.
+
+I have looked at a few threads on the DeAgostini Falcon and it looks like it could be a fun challenge 
+
+and there are great videos and threads showing how to paint & age as well!  if I can't fine something
+
+"done" I may just go ahead & do that.
+
+Any thoughts on the X-Wing?
+
+Thanks,
+
+Datfly
+
+DaveG said:
+
+			I have one of the EFX TIE Fighters. It looks pretty accurate to me. It's a finished collectible, not a kit. It's also sold out so you'd have to find one, at a premium price, on Ebay.
+
+DeAgostini has come out with a 32" Falcon replica. Available as a kit only on a 24 month subscription basis, so you have to be patient. It's not perfect but most of us who have subscribed are very happy with it, and several people are making aftermarket detail parts to either make it more accurate, or add some details where they are missing. There are a couple of good threads here on that one.
+		
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #3770644)
+Author    : MonsieurTox
+Date      : Sep 29, 2015 at 5:56 PM
+────────────────────────────────────────────────────────────────────────
+
+No you don't have to search the general forum if you're looking for the 32" Falcon because it is studio scale. The 5' was built for ANH and the 32" for ESB.
+
+I think the De Agostini is a very good base. I would go for it if you're not in a rush.
+
+Regarding the TIE, I would look for the Nice-N kit if you're not too picky about the underscaled cockpit, it's better than the eFX in the way it has the correct kitparts (not machined details). 
+
+The best X-Wing was offered by Frank Cerney, his kit was cast after an original ANH pyro X-Wing. It is no longer produced though.
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #3770809)
+Author    : Zenwalker
+Date      : Sep 29, 2015 at 10:36 PM
+────────────────────────────────────────────────────────────────────────
+
+MonsieurTox said:
+
+			I
+
+Regarding a screen accurate Falcon, nothing available regarding the 5', you're on your own if you want to scratch it (there's a good thread here with partmaps,blueprints using photogrammetry etc), for the 32" (ESB) you have the Master Replica which is nice (even if all the kitparts have been reproduced instead of using real kitparts but they are very well done) or the De Agostini Falcon, less accurate in term of kitparts but the overall shape is very good.
+		
+
+Click to expand...
+
+I was under the impression that the Deagostini Falcon was tooled from the same files as the MR Falcon. Why do you feel that the Deagostini Falcon  is less accurate than the MR in terms of kit parts, especially since we have not seen all the completed pieces yet?
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #3770992)
+Author    : MonsieurTox
+Date      : Sep 30, 2015 at 5:40 AM
+────────────────────────────────────────────────────────────────────────
+
+Zenwalker said:
+
+			I was under the impression that the Deagostini Falcon was tooled from the same files as the MR Falcon. Why do you feel that the Deagostini Falcon  is less accurate than the MR in terms of kit parts, especially since we have not seen all the completed pieces yet?
+		
+
+Click to expand...
+
+I don't know if the De Agostini have been tooled from the same files as the MR Falcon, however for having seen the 3D scan of the Falcon used by MR, I can tell you that they use it only for the basic shape and maybe the plating but not to reproduce the kit parts ! The original kitparts have been used to recreate the details on the MR by the Chinese manufacturers, while the original attempt was to use them on the master.
+
+So De Agostini maybe used the same files to create the basic shape but they're on their own to recreate the details (which are far from being accurate) and will never be as good as the MR was because the MR was resin, that means undercuts are allowed and a lot of kitparts are separate injection molded parts, unlike the De Agostini. 
+
+I don't need to see the whole De Agostini Falcon to say it is less accurate in term of details than the MR (which is not as accurate as a Falcon made with original parts 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ ), actually I was able to tell that since issue 1.
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #3771014)
+Author    : Joseph C. Brown
+Date      : Sep 30, 2015 at 6:08 AM
+────────────────────────────────────────────────────────────────────────
+
+DaveG said:
+
+			And I would rather have a model that is done than one sitting on the shelf unfinished while I track down some obscure rare model kit. Besides, 99.99(999)% percent of the people that ever see the model are not going to know, or care, if a particular part is correct.
+		
+
+Click to expand...
+
+I so agree with that!  Some modeling folks I am friends with derive huge joy and genuine pleasure from getting all the parts and pieces from the original donor kits, and I understand that.  Me, I just want to have a cool spaceship on my shelf (or, on top of the bookcase)!
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 11

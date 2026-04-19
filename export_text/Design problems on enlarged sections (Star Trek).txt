@@ -1,0 +1,208 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Design problems on enlarged sections (Star Trek)
+URL    : https://www.therpf.com/forums/threads/design-problems-on-enlarged-sections-star-trek.187334/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #2932704)
+Author    : Jerry Lee Kirk
+Date      : Jun 8, 2013 at 6:42 PM
+Reactions : Like — BajaTym
+────────────────────────────────────────────────────────────────────────
+
+I Always noticed many things were wrong with the enlarged sections built for USS Enterprise:
+
+See the detail on bridge.  I never saw a studio photo of this bridge enlarged section. Is it lost today???
+
+Lateral details of the enlarged bridge do not exist in the ship model.
+
+[IMAGE: 16296-1d6f2608306c4125e8e25dde1a8f24e3.jpg]
+
+[IMAGE: 16297-ad125820d4172b45b20e1523b4a44e2b.jpg]
+
+[IMAGE: 16313-b211a1ce2c92f7a9f192fdb5201b770d.jpg]
+
+[IMAGE: 16317-c7c7eeb381fa59e2bb7ede276911b700.jpg]
+
+Now I'm not sure what model is this, cause the sequence show a complete ship model, but it's diferente from the first film, specially the red circles around the doors looking thinner, on details on docking doors, and many textures instead of the basicaztec pannels like in first film:
+
+[IMAGE: 16298-7f48a362d8f7a39ea9ebbd8e58174392.jpg]
+
+[IMAGE: 16299-5175f1f27fd3a1c7617230ce5f94e380.jpg]
+
+The Torpedo section and the docking doors are the winner of inconsistences...
+
+Enterprise Refit Computer Model
+
+If someone tried to build a digital model of the studio model, inserting the finer details of the enlarged sections, will get a ver diferente thing.
+
+[IMAGE: 16300-494b0e80b3518ea071839179dc249b3f.jpg]
+
+[IMAGE: 16318-dc9b5ae1a931bf48f03d66dd68423db9.jpg]
+
+[IMAGE: 16320-9a7f5b3406a41cf172461958d1e1234a.jpg]
+
+[IMAGE: 16319-4915183628c708a8ffbd11badffcbf94.jpg]
+
+[IMAGE: 16328-2bf733e6d0f27c6ec4f01defa9f37d40.jpg]
+
+[IMAGE: 16330-b846ebacfd1e9650e1d77463fd798635.jpg]
+
+[IMAGE: 16329-a3f791493c99c1df64f35efe484b99a9.jpg]
+
+(looks like the actual studio model pictures have the door decal (red circle) diferente from the motion picture.)
+
+Where is the other side docking  door now???   
+
+[IMAGE: 16301-1b80d2e104017bfde71ba1a70a77ec9d.jpg]
+
+http://www.mutara.net/Christies/detail models/Enterprise A/IMG_1813.JPG
+
+Why the modelers from ILM did such mistakes???
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #2932737)
+Author    : Jerry Lee Kirk
+Date      : Jun 8, 2013 at 7:19 PM
+────────────────────────────────────────────────────────────────────────
+
+A similar thing happened with the star base model:
+
+[IMAGE: 16331-457d07fd0f80d92e243ef4f26a853eb6.jpg]
+
+[IMAGE: 16332-ded8a4c820ac92497c756c53633f1f86.jpg]
+
+[IMAGE: 16333-1853764e790c748aa739eb9914fe981d.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #2932918)
+Author    : robn1
+Date      : Jun 9, 2013 at 3:25 AM
+────────────────────────────────────────────────────────────────────────
+
+Your first pic, where Spock's shuttle flips before docking, is actually a matte painting. The details don't match, and the saucer dome is too pronounced. The side docking port was an enlarged model that again doesn't quite match. ILM's enlarged torpedo launcher/neck also has differences. The differences aren't so much mistakes, they were just made to serve their purpose and they didn't take the time to match every detail. 
+
+The docking port on the space station wasn't even there originally, it was added as CGI in the director's cut (in an effort to correct a continuity error).
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #2933102)
+Author    : Jerry Lee Kirk
+Date      : Jun 9, 2013 at 7:40 AM
+Reactions : Like — BajaTym
+────────────────────────────────────────────────────────────────────────
+
+The TMP screen captures are from the Blu Ray and not from the DVD of the director's version.
+
+robn1 said:
+
+			Your first pic, where Spock's shuttle flips before docking, is actually a matte painting. The details don't match, and the saucer dome is too pronounced. The side docking port was an enlarged model that again doesn't quite match. ILM's enlarged torpedo launcher/neck also has differences. The differences aren't so much mistakes, they were just made to serve their purpose and they didn't take the time to match every detail. 
+
+The docking port on the space station wasn't even there originally, it was added as CGI in the director's cut (in an effort to correct a continuity error).
+		
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #2933115)
+Author    : Jerry Lee Kirk
+Date      : Jun 9, 2013 at 7:52 AM
+────────────────────────────────────────────────────────────────────────
+
+I found the enlarged red circle decal around the docking door was added for Undiscoverd Country:
+
+[IMAGE: 16451-dd209006212f5dc02e436a5a3e714b53.jpg]
+
+The officers longe it's like the interior miniature was removed:
+
+[IMAGE: 16456-6ae2656bf57a4cfd112b2524530d2b91.jpg]
+
+And what picard's launge is making there?
+
+[IMAGE: 16526-fd3d64842040bf6b0085e8abd6a465ce.jpg]
+ Another reuse of TNG sets...  How to explain such wndows?  Holograpic screens?
+
+About the base color of the ship... The model was repainted, but the studio model pictures we found on web look like from motion Picture, and not the blue shades from Und Country.
+
+Maybe so much repainting added a bad texture, and that's why they avoided much close ups for the VI film. We see many defects on the painting, granular paint, cracks, in the actual studio model pictures.
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #2933343)
+Author    : Treadwell
+Date      : Jun 9, 2013 at 1:02 PM
+────────────────────────────────────────────────────────────────────────
+
+Jerry Lee Kirk said:
+
+			I found the enlarged red circle decal around the docking door was added for Undiscoverd Country:
+
+View attachment 195546
+
+Click to expand...
+
+I think that might also be a painting.
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #2933696)
+Author    : robn1
+Date      : Jun 9, 2013 at 5:40 PM
+────────────────────────────────────────────────────────────────────────
+
+Jerry Lee Kirk said:
+
+			The TMP screen captures are from the Blu Ray and not from the DVD of the director's version.
+		
+
+Click to expand...
+
+My bad. It was the docked travel pod that was added.
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #2933809)
+Author    : Jerry Lee Kirk
+Date      : Jun 9, 2013 at 7:13 PM
+────────────────────────────────────────────────────────────────────────
+
+I disagree... Looks too real to be a painting...
+
+I found now the enlarged red decal around docking port was also presente in the Voyage Home. A little change for the refit Enterprise.
+
+[IMAGE: 16642-c54815d9dba5018d1f58a6b5d6d50d7e.jpg]
+
+[IMAGE: 16640-9f2c5fe8b297a7a5d1e364aa4fa53c81.jpg]
+
+Treadwell said:
+
+			I think that might also be a painting.
+		
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #2933818)
+Author    : Jerry Lee Kirk
+Date      : Jun 9, 2013 at 7:22 PM
+────────────────────────────────────────────────────────────────────────
+
+The change:
+
+[IMAGE: 16654-1853764e790c748aa739eb9914fe981d.jpg]
+
+[IMAGE: 16653-d24afca67fb6f4e8683e83955bddb420.jpg]
+
+robn1 said:
+
+			My bad. It was the docked travel pod that was added.
+		
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #3450081)
+Author    : kimberle
+Date      : Oct 6, 2014 at 7:33 PM
+────────────────────────────────────────────────────────────────────────
+
+Haven't seen the bridge yet, but how is this model looking for you for reference sake, not for advertisement, they just happen to be on FB:
+
+https://www.facebook.com/media/set/?set=a.719482294785942.1073741833.709459759121529&type=3
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #3450093)
+Author    : kimberle
+Date      : Oct 6, 2014 at 7:38 PM
+────────────────────────────────────────────────────────────────────────
+
+The change in the red decal for the docking ports was made when they went to the A. After the accident with the paint, and the need to make the A stand out from the shakedown version of the refit, the decals were changed in almost all places where there were registry and docking ports. There is one spot, though my memory fails at the moment to remember precisely where, that it still says 1701 and does not have the A even though it is on the A version of the ship, however. The original decal was indeed almost right on the edge of the docking port. And yes, there were no details on the 8' model with the little lock handles around it, that you see in the closeup of the docking with Scotty and Kirk using the larger partial model. I believe that TimeSlip put those on their version of the refit, but I am not 100% certain; I'd have to ask.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 11

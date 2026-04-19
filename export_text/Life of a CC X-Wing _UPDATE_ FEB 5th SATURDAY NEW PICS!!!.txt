@@ -1,0 +1,468 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Life of a CC X-Wing *UPDATE* FEB 5th SATURDAY NEW PICS!!!
+URL    : https://www.therpf.com/forums/threads/life-of-a-cc-x-wing-update-feb-5th-saturday-new-pics.343/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #10490)
+Author    : Watson
+Date      : Nov 17, 2003 at 12:19 AM
+────────────────────────────────────────────────────────────────────────
+
+Some new progress pics are now up on page four from today February 5, 2005.  
+
+Please scroll down page four til you see the blue <font color="blue">**UPDATE**</font> <font color="#444444"></font> 
+
+Here is the update Link:
+
+http://www.blockheadpictures.com/CCX-Wing4.html
+
+Or if you want to see this project along with my others please go to this link:
+
+http://www.blockheadpictures.com
+
+JDH
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #10491)
+Author    : NEKROFANATIC
+Date      : Nov 17, 2003 at 1:42 AM
+────────────────────────────────────────────────────────────────────────
+
+I have zero skillz in building a model of any sort. I did enjoy the website as it is so far tho'! I think that a tutorial of this caliber is highly needed and will be a benefit for anyone working with resin for any project. I look forward to following your process...
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #10493)
+Author    : Jedi Dade
+Date      : Nov 17, 2003 at 3:16 AM
+────────────────────────────────────────────────────────────────────────
+
+This an an awesome idea - if you've got to go an dupdate the web pages ...take pics tures before and after, write the text wedit everything test it all and them post it it MIGHT be enough time for the next step 
+		
+		
+	
+
+	
+
+[IMAGE: icon_wink.gif]
+
+Seriously thoough it is a realy clever ide and I hope you keep it up!
+
+Jedi Dade
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #10572)
+Author    : boatbuilder1
+Date      : Nov 24, 2003 at 1:51 PM
+────────────────────────────────────────────────────────────────────────
+
+absolutley  amen to that brother you have a great idea
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #10721)
+Author    : star-art
+Date      : Dec 14, 2003 at 4:53 PM
+────────────────────────────────────────────────────────────────────────
+
+Nice job! I know how much work it is to document the construction like this.
+
+Can you tell us more about the circuit you used to get the flickering engine effects? It looks outstanding!
+
+Thanks!
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #10722)
+Author    : Watson
+Date      : Dec 14, 2003 at 11:51 PM
+────────────────────────────────────────────────────────────────────────
+
+The basic design is a 555 Timer IC, that uses a 1.0uF microfarad capacitor.  The two resistor values for the IC are at 68K and 15K ohms.  Then the LED's themselves are fronted by 220 ohm resistors running in parallel. It has been running for about four days straight and is still going strong.  It is powered at present by a 9V power supply, but also runs just as well on a 9v battery although the battery only lasts a few hours.  I am making a diagram of the circuit and I will post it on my site when I get it complete.
+
+JDH
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #10738)
+Author    : boatbuilder1
+Date      : Dec 16, 2003 at 3:05 AM
+────────────────────────────────────────────────────────────────────────
+
+cant find a link for the mpegs help
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #10739)
+Author    : Spheric Thor
+Date      : Dec 16, 2003 at 3:52 AM
+────────────────────────────────────────────────────────────────────────
+
+Look on page 2 for the links. They are in the December 14 update just above the first picture. They are listed as movie 1 and movie 2. Hope this helps
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #10759)
+Author    : masterjedi322
+Date      : Dec 21, 2003 at 11:38 AM
+────────────────────────────────────────────────────────────────────────
+
+Very cool pics. I can't wait to watch how this thing turns out.
+
+Edit: 2/23
+
+Nice to see the wings coming along. 'Sucks the mounting bracket broke on you, but very nicely repaired. 
+
+[IMAGE: icon_smile.gif]
+
+Edit: 2/27
+
+R2 looks great! Great detailing work. 
+
+[IMAGE: icon_smile.gif]
+
+Edit: 3/14
+
+The new site layout looks very nice. Just some constructive criticism...the beginning of one of your paragraph's is missing the "N" in "Now". Also, some of your thumbnails look a little distorted. 
+
+The model itself is coming along very nicely. It's cool to see everything primed, and the wings completed. 'Can't wait to get started on mine. 
+
+[IMAGE: icon_smile.gif]
+
+Edit: 9/6
+
+Very cool to see the wings ready to go. My kit is still sitting in the box until I finish up some other projects, but your updates are an inspiration to move my butt. 
+
+[IMAGE: icon_smile.gif]
+
+ Keep it up!
+
+Edit: 11/21
+
+Glad to see you have Jim's kit. I picked it up for my CC X-Wing too. Seeing someone install it firsthand is priceless. The fuselage is coming along nicely too. 
+
+[IMAGE: icon_smile.gif]
+
+Edit: 1/22
+
+Your kit is really coming along nicely. I love the salt trick you used on the wing. I never though about doing that before. I will have to remember that for when I tackle mine. 
+
+[IMAGE: icon_smile.gif]
+
+ May I ask how you achieved the barber-pole stripe on the cannons? That is one thing I'm not sure how I'm going to pull off.
+
+Edit: 2/2
+
+The paint job is coming along very nicely. Again, I like the subtle weathering you're using on the red marks. It really adds a nice touch. And yet again, I can't thank you enough for documenting all this. As someone who's new to studio-scale building, watching you build, paint, and finish your kit is a great resource. Thanks so much for sharing with all us noobs. 
+
+[IMAGE: icon_smile.gif]
+
+Sean
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #11196)
+Author    : Aegis159
+Date      : Feb 15, 2004 at 2:52 PM
+────────────────────────────────────────────────────────────────────────
+
+Any updates JDH??
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #11238)
+Author    : Watson
+Date      : Feb 17, 2004 at 7:03 AM
+────────────────────────────────────────────────────────────────────────
+
+I am kinda at a stalemate.  I am waiting on some supplies I ordred.  LEDs, paint, etc.... I am ready to start assembly but cannot get going until my stuff comes in.  Lighting a model is not cheap LOL  I should have something by next week to update.  It is coming together nicely though.
+
+JDH
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #11350)
+Author    : Watson
+Date      : Feb 24, 2004 at 11:39 PM
+────────────────────────────────────────────────────────────────────────
+
+</SPAN><TABLE BORDER=0 ALIGN=CENTER WIDTH=85%><TR><TD CLASS=$row_color>Quote:<HR></TD></TR><TR><TD CLASS=$row_color>Edit: 2/23 
+
+Nice to see the wings coming along. 'Sucks the mounting bracket broke on you, but very nicely repaired. </TD></TR><TR><TD><HR></TD></TR></TABLE><SPAN CLASS=$row_color>
+
+Thanks, don't even know my own strength.  
+
+[IMAGE: icon_lol.gif]
+
+  Hopefully I can avoid any more accidents like that.  Good thing is that when it happens, it really is rather easy to repair.  
+
+JDH
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #11708)
+Author    : Watson
+Date      : Mar 14, 2004 at 12:14 PM
+────────────────────────────────────────────────────────────────────────
+
+</SPAN><TABLE BORDER=0 ALIGN=CENTER WIDTH=85%><TR><TD CLASS=$row_color>Quote:<HR></TD></TR><TR><TD CLASS=$row_color>Edit: 3/14 
+
+The new site layout looks very nice. Just some constructive criticism...the beginning of one of your paragraph's is missing the "N" in "Now". Also, some of your thumbnails look a little distorted. </TD></TR><TR><TD><HR></TD></TR></TABLE><SPAN CLASS=$row_color>
+
+I will fix the "N" 
+
+[IMAGE: icon_wink.gif]
+
+  As for the thumbnails being distorted, they were so small I wasn't concerened with how they came out.  Thanks for the critique 
+
+[IMAGE: icon_razz.gif]
+
+JDH
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #14915)
+Author    : Watson
+Date      : Nov 21, 2004 at 7:35 AM
+────────────────────────────────────────────────────────────────────────
+
+Update for November 21, 2004
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #14928)
+Author    : mverta
+Date      : Nov 23, 2004 at 5:00 AM
+────────────────────────────────────────────────────────────────────────
+
+Hey guys -
+
+Is anyone here with a CC X-Wing from the Los Angeles area?  I'm doing a CG X-Wing for a fanfilm, and Scott (Captain Cardboard) said I could either drive up to Fresno and check out his master, or try to find someone with a kit who might let me take a few photos.
+
+Thanks!
+
+_Mike
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #14929)
+Author    : wakeboardjedi
+Date      : Nov 23, 2004 at 5:15 AM
+────────────────────────────────────────────────────────────────────────
+
+I'm in the LA area (Burbank) but I am about a month or so away from finishing mine.
+
+JDH
+
+Thanks for the update, I like the idea you had with the styrene for the r2 lights, I was just trying to figure out how to do it. I ran all the fiber optic to my cockpit this weekend, I have over 50 strands!
+
+I have one question for you, how do you plan on putting everything into the X-Wing? I have the same hyperdyne kit and I was looking to do that but I donÂ’t see how it would all fit without some major rework.
+
+Can you enlighten me please?
+
+Thanks
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #14937)
+Author    : Watson
+Date      : Nov 24, 2004 at 12:54 AM
+────────────────────────────────────────────────────────────────────────
+
+</SPAN><TABLE BORDER=0 ALIGN=CENTER WIDTH=85%><TR><TD CLASS=$row_color>Quote:<HR></TD></TR><TR><TD CLASS=$row_color>I have the same hyperdyne kit and I was looking to do that but I donÂ’t see how it would all fit without some major rework. </TD></TR><TR><TD><HR></TD></TR></TABLE><SPAN CLASS=$row_color>
+
+I have test fit everything into the back already and it seems to fit fine.  I routed out the top of the area behind R2 so I will always have access to the electronics.  It will be a little snug in there but it should all fit.
+
+JDH
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #15738)
+Author    : wakeboardjedi
+Date      : Jan 24, 2005 at 3:25 AM
+────────────────────────────────────────────────────────────────────────
+
+Looks good. I went the satin black undercoat and the satin white top coat and I'm happy with the look. 
+
+Can you explain the "salt weathering" thing to me. I think I know what you are talking about but I just want to make sure I'm going to be doing it right.
+
+Thanks,
+
+Lee
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #15739)
+Author    : Watson
+Date      : Jan 24, 2005 at 4:30 AM
+────────────────────────────────────────────────────────────────────────
+
+</SPAN><TABLE BORDER=0 ALIGN=CENTER WIDTH=85%><TR><TD CLASS=$row_color>Quote:<HR></TD></TR><TR><TD CLASS=$row_color>Can you explain the "salt weathering" thing to me. I think I know what you are talking about but I just want to make sure I'm going to be doing it right</TD></TR><TR><TD><HR></TD></TR></TABLE><SPAN CLASS=$row_color>
+
+Basically I took a cup of water dipped my brush in the water and painted the water on where I want the chipped paint to be.  I am using the decals off my Fine Molds X-Wing as a guide and just paint the design.  From there I take regular table salt and pour it onto the area that I just painted with water.  
+
+From there I just blow off the salt and it will stick to the wet areas.  I let it dry a few minutes and then just paint straight over it.  After the paint dries just rub the salt off and instant paint chips.
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #15745)
+Author    : wakeboardjedi
+Date      : Jan 24, 2005 at 6:25 AM
+────────────────────────────────────────────────────────────────────────
+
+Got it! That's what I thought, I just wanted to make sure.
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #15758)
+Author    : PHArchivist
+Date      : Jan 24, 2005 at 12:17 PM
+────────────────────────────────────────────────────────────────────────
+
+Could also probably do the same with liquid latex...
+
+AWESOME progress, by the way!
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #15769)
+Author    : Aegis159
+Date      : Jan 25, 2005 at 3:09 AM
+────────────────────────────────────────────────────────────────────────
+
+Yeah liquid latex works as a barrier just as well, I've used it for this exact purpose before.
+
+Looking good JDH!!! Makes me want to pull my kit out and start working on it as well....if only I didn't have soooooo many other pieces on the workbench already, hehehe!!
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #15771)
+Author    : masterjedi322
+Date      : Jan 25, 2005 at 3:22 AM
+────────────────────────────────────────────────────────────────────────
+
+I've heard many people recommend liquid latex for different things, but I've been unable to find it at any of my local craft stores. Do you guys recommend a certain brand and/or know where I could pick some up?
+
+Sean
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #15772)
+Author    : Aegis159
+Date      : Jan 25, 2005 at 3:53 AM
+────────────────────────────────────────────────────────────────────────
+
+I use some Mountains in Minutes brand liquid latex. I got it at a Model Railroad shop in their terrain section. But this brand is just as good...
+
+http://www.walthers.com/exec/productinfo/785-1204
+
+[IMAGE: c1204b.jpg]
+
+Basically, just brush it onto whatever surface you want to protect from the paint/overcoat/etc and let it dry. Then go to town painting over it! Once you're done painting then just go in and either lightly rub it it off, or if it's a delicate area I've used tweezers to pull it up. The one thing to remember with the latex is that whatever you're putting it on top of has to be fully sealed first otherwise it might lift the paint as well. Also an even coverage works well, lessening the possibilty of thin spots or holes where the paint you're trying to block might get through. The latex I use starts out a milky blue then dries transparent blue so one can tell where it is and isn't pretty easily....
+
+Hehehe sorry to hijack there JDH.... we now return you to your regularly scheduled program...
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #15777)
+Author    : Watson
+Date      : Jan 25, 2005 at 8:00 AM
+────────────────────────────────────────────────────────────────────────
+
+New Pictures posted today 1-25-05
+
+Added the yellow striping on the top and bottom of the fuselage and the starboard gray marking.
+
+[IMAGE: fusemarksstarb2.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #15779)
+Author    : masterjedi322
+Date      : Jan 25, 2005 at 8:40 AM
+────────────────────────────────────────────────────────────────────────
+
+May I ask what paints (brand and colors) you're using for the different markings, JDH?
+
+Sean
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #15782)
+Author    : Watson
+Date      : Jan 25, 2005 at 9:17 AM
+────────────────────────────────────────────────────────────────────────
+
+</SPAN><TABLE BORDER=0 ALIGN=CENTER WIDTH=85%><TR><TD CLASS=$row_color>Quote:<HR></TD></TR><TR><TD CLASS=$row_color>May I ask what paints (brand and colors) you're using for the different markings, JDH? </TD></TR><TR><TD><HR></TD></TR></TABLE><SPAN CLASS=$row_color>
+
+Fuselage & Wings
+
+Testors Model Master Acryllics - Camo Gray
+
+Tamiya Acryllic - Flat Red
+
+Tamiya Acryllic - Flat Yellow
+
+Tamiya Acryllic - Light Gray
+
+R2 D2
+
+Testors Model Master Acryllics - Flat White
+
+Tamiya Acryllic - Chrome Silver
+
+Tamiya Acryllic - Metallic Blue
+
+Cockpit
+
+Testors Model Master Acryllics - Different Shades of Grays, Black etc...
+────────────────────────────────────────────────────────────────────────
+Post #28  (forum post #15788)
+Author    : Stormy320
+Date      : Jan 25, 2005 at 12:54 PM
+────────────────────────────────────────────────────────────────────────
+
+Why Acrylic paint?
+────────────────────────────────────────────────────────────────────────
+Post #29  (forum post #15798)
+Author    : Aegis159
+Date      : Jan 25, 2005 at 11:43 PM
+────────────────────────────────────────────────────────────────────────
+
+I'm not JDH but if I may I'll try to answer the "Why acrylics?" question. 
+
+I use almost exclusively acrylics for one main reason... ease of cleanup. Now there are other reasons... no harmful fumes, wide range of color choices without having to mix paints, etc... but the main one is cleanup. I can shoot a particular color through the airbrush, then flush the system with a quick rinse, and then start shooting another color within a minute or so.
+
+It also helps that I got two full display racks of acrylics from my store when we moved to another storefront....the bigwigs said to just order new ones in so I wasn't going to let the paint go to waste... 
+
+[IMAGE: icon_wink.gif]
+────────────────────────────────────────────────────────────────────────
+Post #30  (forum post #15799)
+Author    : Watson
+Date      : Jan 26, 2005 at 12:30 AM
+────────────────────────────────────────────────────────────────────────
+
+</SPAN><TABLE BORDER=0 ALIGN=CENTER WIDTH=85%><TR><TD CLASS=$row_color>Quote:<HR></TD></TR><TR><TD CLASS=$row_color>one main reason... ease of cleanup</TD></TR><TR><TD><HR></TD></TR></TABLE><SPAN CLASS=$row_color>
+
+That is the main reason right there.  I can shoot indoors if needed, and I can switch colors really fast.  I absolutely LOVE Tamiya paints.  
+
+I mainly shoot them straight with maybe a drop of thinner to break surface tension and being in Texas, the weather is 99.9% of the time totally perfect for Airbrushing.
+
+So I guess it is just an ease of use thing, either that or I am a really lazy painter and don't want to spend days waiting for enamels to totally dry 
+
+[IMAGE: icon_wink.gif]
+
+JDH
+────────────────────────────────────────────────────────────────────────
+Post #31  (forum post #16116)
+Author    : PHArchivist
+Date      : Feb 5, 2005 at 1:16 PM
+────────────────────────────────────────────────────────────────────────
+
+Didn't want to go with the Caboose Red...?
+
+</SPAN><TABLE BORDER=0 ALIGN=CENTER WIDTH=85%><TR><TD CLASS=$row_color>
+
+Jades Dark Heart wrote:<HR></TD></TR><TR><TD CLASS=$row_color>
+
+<TABLE BORDER=0 ALIGN=CENTER WIDTH=85%><TR><TD CLASS=$row_color>Quote:<HR></TD></TR><TR><TD CLASS=$row_color>May I ask what paints (brand and colors) you're using for the different markings, JDH? </TD></TR><TR><TD><HR></TD></TR></TABLE>
+
+Fuselage & Wings
+
+Testors Model Master Acryllics - Camo Gray
+
+Tamiya Acryllic - Flat Red
+
+Tamiya Acryllic - Flat Yellow
+
+Tamiya Acryllic - Light Gray
+
+R2 D2
+
+Testors Model Master Acryllics - Flat White
+
+Tamiya Acryllic - Chrome Silver
+
+Tamiya Acryllic - Metallic Blue
+
+Cockpit
+
+Testors Model Master Acryllics - Different Shades of Grays, Black etc...
+
+</TD></TR><TR><TD><HR></TD></TR></TABLE><SPAN CLASS=$row_color>
+────────────────────────────────────────────────────────────────────────
+Post #32  (forum post #16154)
+Author    : Watson
+Date      : Feb 7, 2005 at 5:22 AM
+────────────────────────────────────────────────────────────────────────
+
+</SPAN><TABLE BORDER=0 ALIGN=CENTER WIDTH=85%><TR><TD CLASS=$row_color>Quote:<HR></TD></TR><TR><TD CLASS=$row_color>Didn't want to go with the Caboose Red...? </TD></TR><TR><TD><HR></TD></TR></TABLE><SPAN CLASS=$row_color>
+
+I went with base colors so that they are very fresh and alive looking.  Even with the chipped paint they are very bright.  I am going to use the weathering to get the worn colors of the darker reds and yellows.  
+
+There is a method to my madness 
+
+[IMAGE: icon_smile.gif]
+
+JDH
+────────────────────────────────────────────────────────────────────────
+Post #33  (forum post #16171)
+Author    : PHArchivist
+Date      : Feb 7, 2005 at 4:23 PM
+────────────────────────────────────────────────────────────────────────
+
+Not madness -- talent!
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 33

@@ -1,0 +1,134 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Salzo V2 question
+URL    : https://www.therpf.com/forums/threads/salzo-v2-question.92683/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #1316169)
+Author    : Dedalus5550
+Date      : Aug 2, 2010 at 9:46 PM
+────────────────────────────────────────────────────────────────────────
+
+So I'm sizing up my V2 (and thinking about getting it started) and I noticed how much the back end of the fuselage doesn't fit onto the top and bottom halves of the fuselage.  The back end is a good three-five millimeters taller than the fuse halves.  The opening for the wings is straight, so it's not like that rear portion warped.  Obviously, it looks like the back ends of the fuse halves needs to be opened up, since reducing the height of the back end is virtually impossible.  So, bending the the rear opening of the two halves will cause the opening for the wings to not be straight.  Plus, the rear portion of the fuselage already gets taller in the section where the wings are--you can see this in the bottom fuse half.  This spreading will be accentuated by the spreading (bending) of the parts.
+
+So, how have people dealt with this?
+
+Thanks.
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #1316382)
+Author    : Apophis
+Date      : Aug 3, 2010 at 4:38 AM
+────────────────────────────────────────────────────────────────────────
+
+Hot water and super glue. 
+
+Heat it up and pull it out and then glue it before it cools.
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #1316443)
+Author    : Robiwon
+Date      : Aug 3, 2010 at 5:58 AM
+────────────────────────────────────────────────────────────────────────
+
+The spreading of the rear upper and lower fuselage parts is neccesary. This is what I did on mine. I drilled two holes in the top and bottom of the butt plate. I then drilled matching holes in the end of the two fuselage parts. I inserted and glued bits of wire coat hanger into the butt plate. Once the fuselage halves were glued and set, I was able to spread apart the rear top and bottom hulls to accept the butt plate with pins. This was a very secure way of attaching it without relying on glue to hold everything or the hot water method. Putty and sand to make the transition smooth. The wing blocks will still fit but may require a bit of putty work if your not happy with it. I just used a bit of thick 5 minute epoxy to fill the small gap between the wing block and fuselage.
+
+Hope this helps.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #1317439)
+Author    : Dedalus5550
+Date      : Aug 3, 2010 at 8:55 PM
+────────────────────────────────────────────────────────────────────────
+
+I know about how to bend resin, and the idea of using pins for placement is good.  I've read that before and planned to use it, so thanks.  My question is really about what that does to the shape of the fuselage.  The bend might (seems like it will) cause the area fuselage to look somewhat odd.  On the bottom and top, just before the wings, there will be this straight line that looks like it should stay straight to the rear of the ship, then there's a bend right about where the wings start.  
+
+Also, and this is just me, I always thought it looked better when the top and bottom of that whole rear portion is parallel to each other.  Already, even without bending, they are not as it gets taller towards the back.  Bending will add to this effect.  Again, that's probably just me.
+
+Mike Todd
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #1317698)
+Author    : Nwerke
+Date      : Aug 4, 2010 at 4:37 AM
+────────────────────────────────────────────────────────────────────────
+
+No, you're completely correct, it is a flaw with the V1 and V2 kit mastering. I built a new, less squat butt plate for mine and completely built up the lower rear hull so that it would be parallel to the upper hull. It looks a lot better, but still not as good as a V3. Not difficult to do though, just grab some styrene sheet and cut out panels, lay them on and putty them up.
+
+Cheers,
+
+Martyn
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #1318384)
+Author    : Dedalus5550
+Date      : Aug 4, 2010 at 2:20 PM
+────────────────────────────────────────────────────────────────────────
+
+huh huh huh...you said butt.
+
+Anyway, I'm wondering how you made the end plate.  I was thinking of taking the area around all or most of the outside off and discarding it as it is the easiest part to scratch.  Then keep the inner details, even though a bit of it may have to be trimmed off at the top or bottom.  Then scratch that outer section with--as you say--styrene.  Does that sound like what you did?
+
+Thanks,
+
+Mike Todd
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #1318513)
+Author    : TheRealMcFly
+Date      : Aug 4, 2010 at 4:55 PM
+────────────────────────────────────────────────────────────────────────
+
+Why not layer styrene between the entire length of the fuselage halves for a taller fuselage that will match the existing back you have. This added height would put your X closer to Hero proportions. Always thought the V2 fuselage looked a little short even for a Pyro.
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #1318838)
+Author    : Dedalus5550
+Date      : Aug 4, 2010 at 9:36 PM
+────────────────────────────────────────────────────────────────────────
+
+Nighteyes said:
+
+			Why not layer styrene between the entire length of the fuselage halves for a taller fuselage that will match the existing back you have. This added height would put your X closer to Hero proportions. Always thought the V2 fuselage looked a little short even for a Pyro.
+		
+
+Click to expand...
+
+Touche.  Another option to consider.  Thanks, and I'll definitely think about it.
+
+Mike Todd
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #1323401)
+Author    : TheRealMcFly
+Date      : Aug 8, 2010 at 6:39 PM
+────────────────────────────────────────────────────────────────────────
+
+I'm not sure if Martyn is describing what you described or what I suggested. 
+
+It is likely that the V2 backplate already trimmed in the fuselage 'border' represents the actual height. Layering a plate along the entire length would maintain a nice straight line and heck it's gotta be easier than scratching.
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #1323403)
+Author    : MonsieurTox
+Date      : Aug 8, 2010 at 6:42 PM
+────────────────────────────────────────────────────────────────────────
+
+From what Ive understood, the V2 is derived from the CC which was an original master and not from a pyro...
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #1323528)
+Author    : TheRealMcFly
+Date      : Aug 8, 2010 at 9:23 PM
+────────────────────────────────────────────────────────────────────────
+
+Then perhaps used as a point of reference? Thought I read that somewhere. I will amend my post. 
+
+Regardless of origins the inherent problems in casting tops and bottoms could result in the loss of some height.
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #1323544)
+Author    : Nwerke
+Date      : Aug 8, 2010 at 9:52 PM
+────────────────────────────────────────────────────────────────────────
+
+Paul, yeah, the CC is an original piece. 
+
+Inserting a plate along the entire fuse length would gain you some height at the cost of requiring a lot of fiddling for the nose (and the fuselage chine/step). It might be best to use two half-thickness plates, one for upper and one for lower fuse. You'll still have to rebuild the butt plate with this mod as it will no longer fit.
+
+You could trim off the walls off and use the detail parts BUT you may have to extend the Bandai parts and the baseplate itself, otherwise you'll have gaps between these and your new walls. The CC kit has them trimmed very small.
+
+With mine, I didn't use the cast pieces, I used kit parts instead though I never got around to getting the Bandai bits. Rumours began of a new Salzo version right around then... 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 12

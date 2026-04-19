@@ -1,0 +1,851 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : DS-1 Equatorial Trench Section Build
+URL    : https://www.therpf.com/forums/threads/ds-1-equatorial-trench-section-build.365903/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #5694906)
+Author    : Jakefarm
+Date      : Jan 17, 2026 at 7:54 PM
+Reactions : Like, Wow — incrediblefruit, Bloop, JediMichael
+────────────────────────────────────────────────────────────────────────
+
+Okay, here we go. The nerdiest yet coolest thing I’ve set out to build so far, and likely the most intensive. 
+
+Like many others, I was obsessed with the Star Wars models since I knew how to use a glue bottle somewhat accurately. Specifically, the Death Star always had a unique place in my head. The scale and detailing that lies on the surface is impeccable, and provides an opportunity to explore some areas in even further detail. 
+
+When I saw Rogue One in 2016 I was struck by this shot, where Krennic docks at the DS-1 through the equatorial trench. The last time we saw the equatorial trench as the audience was in Return of The Jedi, in which the DS-2’s equatorial trench was briefly shown under construction. For this project we are focusing on the DS-1 trench, and loosely basing our detailing on the shot below. The plan is to take a “slice” of this and build from there. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/1768710032766-png.2005027/]
+
+I've been slowly working on a 3D model of my "slice" for years on and off now, and could just never figure out how I wanted to build it considering costs and appearance, but I've decided on a path now and have been making some smooth progress. 
+
+One thing I have found as an architect/ ex-architecture student who crushed models in school, is that there's only so much you can model before it becomes redundant. Things will inevitably fit together terrible, or great, and 3D modeling assumes the best option. And, a hand-built aspect will only make a model feel more personal and loved rather than a machine produced model, I'll talk more about this below . I'm using my 3D model as inspiration at this point, to guide me through the general "theme" of certain areas while I detail them to further extents than what any 3D modeling could allow me to do in the same time frame. Below are the 3D model photos, for reference. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/1768710521755-png.2005028/]
+
+I toyed with the notion of 3D printing this for a long time, and while it would've been easier technically, I don't have the budget or really the desire to do so. I've always been inspired by the OG Star Wars model production being handcrafted and kit-bashing based. I want to the same here, and hell, it's almost therapeutic man. So, this is/ will be entirely hand-built. I've built some of Randy Cooper's famous models, especially his Avenger Star Destroyer where he used clear cast resin pieces to be pre-lit from behind, then scratch off/ drill off paint where you want lighting to show. I thought about this, but with the risk of having light leaks and such I've decided that nothing other than our favorite fiber optic lighting will be necessary. This is a major component of how I will be building. 
+
+To make things more complicated than they need to be, we are also going to be making this model a section cut of the equatorial trench. The goal is to add the interior of the DS-1 as best as we can, considering the scale of this model is 1:5000… insane. I’m loosely using this reference image for the interior detailing. We'll see how expansive this actually becomes in reality. I'd like for there to be at least a bit of the interior even if not as holistically as the reference photo shows. Time and sanity will tell. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/1768711202626-png.2005031/]
+
+ 
+
+Considering that this model will need lighting via fiber optic wires, the surface of the DS-1 needs to be “solid,” or it cannot be 3D printed with any empty infill and it cannot be made in any way out of wood. The imaginary line from the surface to the rear needs to be clean, in order to get the 1mm fiber optic wire to fit smoothly in place. This might make more sense later. 
+
+I have divided each large face of greebling/ detailing into more manageable sized panels. This will allow any low or hard to reach areas easier to detail. Our approach is to build a base panel, which will eventually be wrapped in styrene, to support the remaining panel details. Each panel, having varying heights and dimensions, will be cut out and glued to the surface of the base panel. This will allow us to save material and easily build more texture via different thicknesses of styrene. While the base panels do not need to be photo perfect, they absolutely need to be constructed with strong 90 degree corners and level faces. Big errors here will trickle up the model, literally, and yield us unlevel elements.
+
+[IMAGE: https://www.therpf.com/forums/attachments/1768710895641-jpeg.2005029/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/1768710905592-jpeg.2005030/]
+
+Circling back to the goal of “solid” material to drill through, these boxes are hollow beneath so that the fiber optic cables can be organized by panel, and then by region. Fiber optic cables rely on a direct light source to one end of the wire, while the other end is installed on the finished side of the model, thus glowing in their 0.85mm space. The easier it is to organize and systematize these, the less headaches we’ll have down the road… ideally. In my mind, building the boxes out of cheap but easily workable PETG allows me to not waste more expensive styrene, and ensure it has a solid base to built on. It's definitely a pain in the rear to make these, but so far it has worked very well at keeping everything aligned on 90 degree angles. Makes it all look nice and level. I mean hell, one of my buddies thought this was 3D printed, so I'll take a compliment where I can get one!
+
+Between these two, you can see how some of the detailing gets applied to the more broad and basic panelized system. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/1768711247321-jpeg.2005032/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/1768711287745-jpeg.2005033/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/1768711319605-jpeg.2005035/]
+
+Here's what a basic "block" looks like before getting a styrene wrap applied to it for further detailing:
+
+[IMAGE: https://www.therpf.com/forums/attachments/1768711454001-jpeg.2005037/]
+
+The armada of little pieces I cut to create the greebles and details: 
+
+[IMAGE: https://www.therpf.com/forums/attachments/1768711503836-jpeg.2005039/]
+
+I've been working on this for a few weeks now, on and off, and have photos below to show that progress. I'm just now getting around to posting this as it's been going well, and I intend to keep you all updated as I keep making progress. Hope some of y'all find this interesting and I'll do my best to keep consistent updates!
+
+Cheers,
+
+ 
+
+Attachments
+
+[IMAGE: 1647551-1a060c7b2c25c71a6065e2b4f5681f38.jpg]
+
+1768711474382.jpeg
+
+					4.2 MB
+					
+					· Views: 58
+					
+				
+
+[IMAGE: 1647549-33a182839ec7dc167cc167cd96316ed7.jpg]
+
+1768711367568.jpeg
+
+					3.5 MB
+					
+					· Views: 66
+					
+				
+
+[IMAGE: 1647547-33a182839ec7dc167cc167cd96316ed7.jpg]
+
+1768711312087.jpeg
+
+					3.5 MB
+					
+					· Views: 83
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #5694965)
+Author    : joberg
+Date      : Jan 18, 2026 at 7:41 AM
+Reactions : Like — stevielewis, Jakefarm
+────────────────────────────────────────────────────────────────────────
+
+Love it already and quite the project looking at the amount of small details you'll have to apply to the surfaces
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #5694988)
+Author    : Studio Kitbash
+Date      : Jan 18, 2026 at 9:27 AM
+Reactions : Like — stevielewis, joberg, Jakefarm
+────────────────────────────────────────────────────────────────────────
+
+Following!
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #5694995)
+Author    : masterjedi322
+Date      : Jan 18, 2026 at 9:53 AM
+Reactions : Like — stevielewis, joberg, Jakefarm
+────────────────────────────────────────────────────────────────────────
+
+[IMAGE: 200.gif]
+
+Following!
+
+Sean
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #5695013)
+Author    : PHArchivist
+Date      : Jan 18, 2026 at 10:39 AM
+Reactions : Like — stevielewis, joberg, Jakefarm
+────────────────────────────────────────────────────────────────────────
+
+Fun project!
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #5695081)
+Author    : Jakefarm
+Date      : Jan 18, 2026 at 4:32 PM
+Reactions : Like, Wow — stevielewis, masterjedi322, joberg
+────────────────────────────────────────────────────────────────────────
+
+PHArchivist said:
+
+			Fun project!
+		
+
+Click to expand...
+
+For the record, when I was in middle school (circa 2012?) I remember stumbling upon your legendary Death Star build and it obsessed me. When I got to high school a few years later I started this model as my own version of a Death Star build. But, through all of that, you were 100% the inspiration for this build. So thank YOU for that push, even thought ya didn't know it! I'm not alone in that regard, but happy to see your comment!
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #5695082)
+Author    : PHArchivist
+Date      : Jan 18, 2026 at 4:50 PM
+Reactions : Like — stevielewis, joberg
+────────────────────────────────────────────────────────────────────────
+
+Jakefarm said:
+
+			For the record, when I was in middle school (circa 2012?) I remember stumbling upon your legendary Death Star build and it obsessed me. When I got to high school a few years later I started this model as my own version of a Death Star build. But, through all of that, you were 100% the inspiration for this build. So thank YOU for that push, even thought ya didn't know it! I'm not alone in that regard, but happy to see your comment!
+		
+
+Click to expand...
+
+Humbled.  Completely...
+
+And feeling old!  
+
+Can't wait to see your progress!
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #5695124)
+Author    : Jakefarm
+Date      : Jan 18, 2026 at 8:45 PM
+Reactions : Like — Bloop, Pro Mod, foj3000
+────────────────────────────────────────────────────────────────────────
+
+Started the final section of what we're calling South, and got a good way through it. This section has been the most annoying so far, I think because of its straight width at ~9.50". Building the PETG box below was a pain because of the run of material. I had to reinforce it as best I could, and wrapping it with styrene was an equal in in my a**.
+
+[IMAGE: https://www.therpf.com/forums/attachments/1768800738037-jpeg.2005399/]
+
+This exposed side of PETG is hosted in the "trench" section you'll see below. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/1768800800749-jpeg.2005400/]
+
+This is the basic blocking. I try and migrate from "large" pieces of styrene and gradually get smaller and smaller. For reference, the pieces in the trench above ^ are around 5-10mm in width
+
+[IMAGE: https://www.therpf.com/forums/attachments/1768800900233-jpeg.2005401/]
+
+Remember that little ramekin if small pieces in my first post? There ya go, that's all of them. In addition to those, I cut some ~1mm strips to get the scale down a bit more. I knew this would be the most detailed portion of this southern section so I had to go all out. It's like an equatorial trench before the equatorial trench. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/1768801032193-jpeg.2005402/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/1768801512555-jpeg.2005404/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/1768801055928-jpeg.2005403/]
+
+Now I've gotta detail the top rim of this piece, drill some holes for lights and call it a day (for now) on the southern half. Then, we'll move on to what I'm calling "T.O. South," or the horizontal piece that will guide us into the actual equatorial trench. 
+
+As much fun as it is detailing this and imagining what the surface of the DS-1 would look like at 1:5000 scale, I sometimes wonder if I'm overdoing it. We know that the real greebles of the Death Star kinda stop a fair distance before the trench, and then the paneling seems to smooth out a bit more. Thus, I wonder if I'm adding too much detail for a portion that seemingly is less greeble intensive. It's food for thought, and let me know what you think (not that there's really any going back now hahaha). 
+
+With that said though, I could support my detailing by thinking about how the Death Star was built, specifically the automated droids they used in canon to construct it, I mean it's gotta be a complete mashup of panels and systems, thus making all of the surface greeble filled no?
+
+Anyways, here's where I'm leaving off for the day! 
+
+Cheers, 
+
+Jake
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #5695198)
+Author    : joberg
+Date      : Jan 19, 2026 at 8:11 AM
+Reactions : Like — stevielewis
+────────────────────────────────────────────────────────────────────────
+
+Looking very good
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ Do you plan on making landing bays also?
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #5695206)
+Author    : Jakefarm
+Date      : Jan 19, 2026 at 8:31 AM
+Reactions : Like — Bloop, stevielewis, joberg
+────────────────────────────────────────────────────────────────────────
+
+joberg said:
+
+			Looking very good
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ Do you plan on making landing bays also?
+		
+
+Click to expand...
+
+Oh dude, totally! 
+
+The section above ^ or, South, is the circled area below:
+
+[IMAGE: https://www.therpf.com/forums/attachments/1768843484114-png.2005452/]
+
+Here is part of the actual equatorial trench section with the docks: 
+
+[IMAGE: https://www.therpf.com/forums/attachments/1768843525421-png.2005453/]
+
+I haven't full 3D modeled them yet, but likely will, at least one of them. Since we know the docks are fairly standard on their detailing, I only need one to get some consistent dimensions for the wall siding, etc. AND, I do want to try and light the walls like the movies:
+
+[IMAGE: https://www.therpf.com/forums/attachments/1768843629147-png.2005455/]
+
+I don't know yet how I will achieve this at such a small scale, but I have some ideas. One idea is that the thicker panels that run vertically can either be offset by ~0.5mm from a backing plate, then maybe there's a small gap for light to leak through, and kinda "deflect" off of the offset plate, pushing the glow outwards. Another idea is similar, in that there are vertical gaps between panels, which would be painted black on the inside to prevent glowing, that allows a sliver of light through. 
+
+I've been meaning to mock some of this up in 3D, so I'll get to that soon. I also really want the lift platforms to be visible in the model, like the above photo. 
+
+And, of course, I'm going to need a 1:5000 Millennium Falcon and TIE Fighters
+
+Jake
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #5695208)
+Author    : PHArchivist
+Date      : Jan 19, 2026 at 8:33 AM
+Reactions : Like — stevielewis, joberg
+────────────────────────────────────────────────────────────────────────
+
+On how smooth or how detailed the band above and below the trench are, or should be...
+
+Not much I can offer that I'm certain you haven't already considered, except that in studying this area, (deeply), on the original three-foot model, there is in fact a bit more pencil detail (and lights) that one might imagine.  A bit; not a ton...
+
+And of course with the digital Rogue One model, it's really a bit of a 'different animal', which allowed much greater detail.
+
+Personally, I loved seeing the detail on the Rogue One digital model, but a measurable part of me wishes they only went about half as far - more detailed than the original model, but not so much more that it tends to veer into its own separate subject / item.
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #5695213)
+Author    : Jakefarm
+Date      : Jan 19, 2026 at 8:39 AM
+Reactions : Like — stevielewis, joberg
+────────────────────────────────────────────────────────────────────────
+
+PHArchivist said:
+
+			On how smooth or how detailed the band above and below the trench are, or should be...
+
+Not much I can offer that I'm certain you haven't already considered, except that in studying this area, (deeply), on the original three-foot model, there is in fact a bit more pencil detail (and lights) that one might imagine.  A bit; not a ton...
+
+And of course with the digital Rogue One model, it's really a bit of a 'different animal', which allowed much greater detail.
+
+Personally, I loved seeing the detail on the Rogue One digital model, but a measurable part of me wishes they only went about half as far - more detailed than the original model, but not so much more that it tends to veer into its own separate subject / item.
+		
+
+Click to expand...
+
+I agree! It's a trade-off with the Rogue One model too. While it's cool to see what it could be, it's becoming easy to overdo it. 
+
+So, moving forward, I'm going to keep the same relative amount of detail (so the rest doesn't look like a completely new direction), but definitely try to keep the fine greebles focused in pockets, or little tertiary trenches like the piece I made last night. In addition to that, I've actually begun covering up some of my drilled holes for lights, again focusing on having them on the fine greeble sections with outliers on more flattened, basic parts. I had wayyyy too many even for this scale, and I don't want it all to get bogged down.
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #5695214)
+Author    : PHArchivist
+Date      : Jan 19, 2026 at 8:45 AM
+Reactions : Like — stevielewis, joberg
+────────────────────────────────────────────────────────────────────────
+
+I actually considered adding itty bitty pieces of plastic in the trench on mine, or at least some pencil markings.  But am pretty certain the original model did not bear such detail, and did not want to idealize.
+
+Curious if ILM had the ROTJ effects budget available when they made ANH, if the Falcon approach might have been made as a physical model (like the side trench on the Star Destroyer in ROTJ), rather than the matte painting...
+
+And yes - you do need 1:5,000 ships in there!
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #5695292)
+Author    : Jakefarm
+Date      : Jan 19, 2026 at 1:59 PM
+Reactions : Like — stevielewis, joberg
+────────────────────────────────────────────────────────────────────────
+
+PHArchivist said:
+
+			I actually considered adding itty bitty pieces of plastic in the trench on mine, or at least some pencil markings.  But am pretty certain the original model did not bear such detail, and did not want to idealize.
+
+Curious if ILM had the ROTJ effects budget available when they made ANH, if the Falcon approach might have been made as a physical model (like the side trench on the Star Destroyer in ROTJ), rather than the matte painting...
+
+And yes - you do need 1:5,000 ships in there!
+		
+
+Click to expand...
+
+One thing I've been meaning to ask is regarding lighting. I know in most shots, especially of the DS-1 from afar, the lighting is a lighter hue, closer to a light blue than white. That being said, I recall some shots across the movies where the lighting is more a warm LED color, like many of the detail shots of the Star Destroyers. I mean hell, even my 4' SD model I used warm lighting as I thought it simply looked better. 
+
+Maybe it's really up to me and my opinion, but in your mind, Death Star master builder, which lighting hue is more canonically correct?
+
+Thanks
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #5695295)
+Author    : PHArchivist
+Date      : Jan 19, 2026 at 2:13 PM
+Reactions : Like — stevielewis, joberg
+────────────────────────────────────────────────────────────────────────
+
+I met with Gus, and the curator of the museum, and have seen the original model in person
+
+The Sci-fi museum used a purplish-blue lamp that was just never quite right.
+
+My model first used proper incandescent (albeit hot) bulbs with the correct yellow-white hue.  When I brought it to JediFyfe's home for safe keeping last year, we replaced them with cool-running LED bulbs, trying again to emulate the yellow-white color.
+
+Seattle Sci-FI Museum: Bule-purple and wrong
+
+Original model: White-yellow and correct
+
+In Gus' home: Dunno what he's got in there at the moment
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #5695296)
+Author    : Jakefarm
+Date      : Jan 19, 2026 at 2:14 PM
+Reactions : Like — stevielewis, joberg
+────────────────────────────────────────────────────────────────────────
+
+PHArchivist said:
+
+			I met with Gus, and the curator of the museum, and have seen the original model in person
+
+The Sci-fi museum used a purplish-blue lamp that was just never quite right.
+
+My model first used proper incandescent bulbs with the correct yellow-white hue.  When I brought it to JediFyfe's home for safe keeping last year, we replaced it with LEDs, trying again to emulate the yellow-white color.
+
+Seattle Sci-FI Museum: Bule-purple and wrong
+
+Original model: White-yellow and correct
+
+In Gus' home: Dunno what he's got in there at the moment
+		
+
+Click to expand...
+
+Awesome, thank you!
+
+White-yellow it shall be!
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #5695297)
+Author    : PHArchivist
+Date      : Jan 19, 2026 at 2:16 PM
+Reactions : Like, Wow — stevielewis, joberg
+────────────────────────────────────────────────────────────────────────
+
+It is amusingly ironic (to your project and this thread) that the trench lights on my model are about the only element remaining unfinished.
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #5695299)
+Author    : Jakefarm
+Date      : Jan 19, 2026 at 2:18 PM
+Reactions : Like, Love — stevielewis, joberg, PHArchivist
+────────────────────────────────────────────────────────────────────────
+
+Well, maybe by time I'm actually at the point of adding lights (i.e. a long a** time) we'll both have lit up trenches 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #5695716)
+Author    : joberg
+Date      : Jan 21, 2026 at 9:31 AM
+Reactions : Like — Jakefarm, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+Jakefarm said:
+
+			Oh dude, totally!
+
+The section above ^ or, South, is the circled area below:
+
+View attachment 2005452
+
+Here is part of the actual equatorial trench section with the docks:
+
+View attachment 2005453
+
+I haven't full 3D modeled them yet, but likely will, at least one of them. Since we know the docks are fairly standard on their detailing, I only need one to get some consistent dimensions for the wall siding, etc. AND, I do want to try and light the walls like the movies:
+
+View attachment 2005455
+
+I don't know yet how I will achieve this at such a small scale, but I have some ideas. One idea is that the thicker panels that run vertically can either be offset by ~0.5mm from a backing plate, then maybe there's a small gap for light to leak through, and kinda "deflect" off of the offset plate, pushing the glow outwards. Another idea is similar, in that there are vertical gaps between panels, which would be painted black on the inside to prevent glowing, that allows a sliver of light through.
+
+I've been meaning to mock some of this up in 3D, so I'll get to that soon. I also really want the lift platforms to be visible in the model, like the above photo.
+
+And, of course, I'm going to need a 1:5000 Millennium Falcon and TIE Fighters
+
+Jake
+		
+
+Click to expand...
+
+You can always use clear plastic.  You can mask the lights areas with tape applied to the clear surface and cut out what you need to paint.
+
+Then, spray a few coats of silver paint and remove your lighting parts.
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #5696908)
+Author    : Jakefarm
+Date      : Jan 26, 2026 at 7:22 PM
+Reactions : Like, Wow — Bloop, Studio Kitbash, joberg
+────────────────────────────────────────────────────────────────────────
+
+Sorry, been slow on updates whilst waiting for some materials.
+
+Finished this bottom section more or less, but I'll have a few photo-etched details to add here and there.
+
+Been at that same struggle point I've come to a lot in thinking through this project, the internal support while also being a section cut. I know that this could be a model with a section cut, and I haven't completely ruled it out but it is incredibly difficult to plan for. While I decided to hand make a lot of this, a decision my wallet and I am thankful for, it makes blending 3D design and hand fabrication much more difficult.
+
+Surprisingly, this lower piece comes in at an even 9.50" width by 10.125" height (enough evenness to work with in Fusion 360), there are still enough minute inconsistencies to make it difficult to 3D model around. If I'm going to 3D print something for interior support, it has to be nuts on, and I just know from experience that is easier said than done. Really, all of that is compounded by making it a section model.
+
+So, my thoughts are to limit the secondary, interior "sectional".... sections. Basically create pockets where are most convenient for me, and aesthetically. For example, in the south, towards the rear we see a bit of the cavernous airways:
+
+[IMAGE: https://www.therpf.com/forums/attachments/1769487425747-png.2007143/]
+
+And towards the center, maybe I adjust the position of the hangar bays so we can get a bit of this:
+
+[IMAGE: https://www.therpf.com/forums/attachments/1769487481664-png.2007144/]
+
+It allows me to put further effort into everything else, while still getting a bit of "pop" on the sides for some added interest. Plus, those sections that show can take even more effort on my part, and for a good reason. Architect conflict compromise brain coming into effect here...
+
+Still, how to efficiently support the interior of this increasingly large model is stressful. Hoping to work through some solutions this week. Let me know what y'all think of the reduced sectionality of the sides while I work on some tweaks.
+
+Thanks!
+
+Jake
+
+ 
+
+Attachments
+
+[IMAGE: 1649654-da4f170544b58a38403162e138a61bc2.jpg]
+
+IMG_6766.jpeg
+
+					2.1 MB
+					
+					· Views: 43
+					
+				
+
+[IMAGE: 1649658-f608f2ef42cd0ab6be1998bac22beb90.jpg]
+
+IMG_6765.jpeg
+
+					2 MB
+					
+					· Views: 42
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #5696910)
+Author    : Jakefarm
+Date      : Jan 26, 2026 at 7:33 PM
+Reactions : Like, Wow — Bloop, joberg, ZeroSum
+────────────────────────────────────────────────────────────────────────
+
+Also, it's becoming clear that some of this model will need to be SLA printed. 
+
+Tried building a trench turret tonight, and it's damn near impossible. I want them to look good, so we'll see how a few sample prints can get us. 
+
+In addition to that, I've been prototyping some hangar bays from joberg's advice. It didn't go horrible, and I can improve, but those lowly positioned angles on the hangars is very alluring, and something I simply can't model. We might resort to SLA printing them... maybe. I have no clue! We'll keep trying by hand, this is the way
+
+[IMAGE: https://www.therpf.com/forums/attachments/1769488395740-png.2007146/]
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #5696970)
+Author    : joberg
+Date      : Jan 27, 2026 at 8:05 AM
+────────────────────────────────────────────────────────────────────────
+
+Those curved wall beams could be done with blue foam: cut two exact curves in a Bristol paper (thinner than cardboard, but thicker than a regular sheet of paper).  Place those two curves on each side of your blue foam; take your hot wire and just follow the curves while cutting it.
+
+Sand your foam with 180 grit and mold it in silicone to repeat all of the beams you need...my two cents worth.  Might be easier to 3-D print
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #5697080)
+Author    : Jakefarm
+Date      : Jan 27, 2026 at 5:49 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+joberg said:
+
+			Those curved wall beams could be done with blue foam: cut two exact curves in a Bristol paper (thinner than cardboard, but thicker than a regular sheet of paper).  Place those two curves on each side of your blue foam; take your hot wire and just follow the curves while cutting it.
+
+Sand your foam with 180 grit and mold it in silicone to repeat all of the beams you need...my two cents worth.  Might be easier to 3-D print
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+I like this, a lot. As a supportive but contrasting example, I built a scale model of a house I designed in Arch and I had to make windows right? They're pretty standard across most production homes, so I made a right angle buck that allowed me to make perfect 90 degree joints. Similar concept, different application. I'll give this a shot, since I actually don't own a hot wire (though I wish I did and should probably get one). Great idea, thank you!
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #5697177)
+Author    : joberg
+Date      : Jan 28, 2026 at 8:41 AM
+────────────────────────────────────────────────────────────────────────
+
+You're welcome
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #5697896)
+Author    : Jakefarm
+Date      : Jan 31, 2026 at 9:54 PM
+Reactions : Like, Love, Haha — Bloop, Krats, Studio Kitbash
+────────────────────────────────────────────────────────────────────────
+
+Played in Fusion with some ideas for an SLA printed hangar bay. Basically, print it all in clear, but the angled protruding elements are separate. The "host" wall has notches that host the angled pieces. Since it would all be in clear, all the pieces could be printed clear and then either mask or scratch off black paint where it's not needed: 
+
+[IMAGE: https://www.therpf.com/forums/attachments/1769897867705-png.2008034/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/1769897936032-png.2008037/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/1769897884323-png.2008035/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/1769897911069-png.2008036/]
+
+I used to own a Form 2 and while I know these could be printed and cleaned up from their supports well enough, keeping track of all of these printed pieces, paying for all of them, and just in general seems like a major pain in my a**.  I mean they're 1" tall the width, at its widest on the angled bits is 4mm. Seems doable, but risky. I would prefer to get an angled appearance like the movies, but tomorrow I am going to try hand building a few more versions, likely without any angled bits. I did a mock-up earlier this week and it has potential, albeit without the cool angled bits. Still thinking on this one.
+
+In the meantime I've moved towards the center of the trench where all of the docks are. I plan to build the entire vertical face of the trench, then attach it to "T.O. South," the white base you'll see this piece on: 
+
+[IMAGE: https://www.therpf.com/forums/attachments/1769927941416-jpeg.2008164/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/1769927954407-jpeg.2008165/]
+
+Because all of this needs paint, and I need to access the south side for lighting, and build a frame to support all of this, I've gotta keep a lot of this separate for now. It's annoying, but I continually check to make sure things are level (enough) to keep me happy. I think we all know building any kind of model is figuring out how to hide all your bull**** in often... creative ways. 
+
+Started to make they real cool centerpiece, the recessed docking bays. The cutouts are not exactly perfect, but they're close. I made these "rough-ins" about 1/8" larger than they need to be. My thinking is since the hangars will be built separately, and will have about an 1/8 of extra sh** attached, I can then insert them into the rough-opening with room to spare, and hide the excess space on the front with detailing or a collar piece. Since their design isn't finalized, but I know what dimensions need to show, I feel confident with the spare 1/8" showing. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/1769928239422-jpeg.2008166/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/1769928253636-jpeg.2008167/]
+
+This box was an interesting one to build as it's an inverse of what I've been doing. Normally I can lather all of the corners up with glue, set a machinist square, and call it a day. Here, though, I can have glue in the corners. In the first pic of this you'll see some pieces of PETG sticking up behind the walls. Those are glued behind the hangar bay wall, that way I could adhere the walls to those instead of having glue show on the visible portions. It worked pretty well, I congratulated myself, and then had to rip out a wall as it wasn't at 90 degrees... such is life. 
+
+This post is sponsored by Pink Floyd, cramped fingers, and beer. 
+
+Jake
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #5697939)
+Author    : joberg
+Date      : Feb 1, 2026 at 7:29 AM
+Reactions : Haha — Jakefarm, Leinads
+────────────────────────────────────────────────────────────────────────
+
+Well, I certainly approve of your music track while working
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+...don't know about the beer (I want to have a clear head while modeling).
+
+As for the cramped fingers; welcome to my 67 year old self
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #5698025)
+Author    : JediMichael
+Date      : Feb 1, 2026 at 2:12 PM
+Reactions : Like, Love — joberg, Jakefarm
+────────────────────────────────────────────────────────────────────────
+
+I definitely always love to check out any death star threads, yet have been busy and missed this so far.
+
+I'd say Rob and I are probably some of the biggest Death Star nerds out there.
+────────────────────────────────────────────────────────────────────────
+Post #28  (forum post #5699478)
+Author    : Jakefarm
+Date      : Feb 7, 2026 at 6:56 PM
+Reactions : Like, Love — BajaTym, Bloop, joberg
+────────────────────────────────────────────────────────────────────────
+
+Been a little slow this week, but made progress on the basic blocking of the trench/ hangar section. 
+
+Still scratching my head/ avoiding the inevitable hangar bay situation. We'll get there, but I need to stall on it more (apparently) 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: https://www.therpf.com/forums/attachments/1770519175991-jpeg.2010214/]
+
+Since my architecture school days I have an excess amount of 1/8" basswood I've been needing to use, so it'll serve as the backbone of the framing for the guts of this thing. It's strong, easy to work with, and just as I've been doing with the PETG blocking, can be wrapped in styrene on the exterior to hide its appearance. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/1770519302312-jpeg.2010215/]
+
+Still working through my sequencing of how to best keep things separate for painting/ fiber optic lighting, but in the meantime, there are some areas I can start to develop early without worry of kicking myself in the rear down the road. 
+
+Jake
+────────────────────────────────────────────────────────────────────────
+Post #29  (forum post #5699481)
+Author    : Jakefarm
+Date      : Feb 7, 2026 at 7:13 PM
+Reactions : Like, Wow — BajaTym, Bloop, Krats
+────────────────────────────────────────────────────────────────────────
+
+[IMAGE: https://www.therpf.com/forums/attachments/1770520374676-jpeg.2010218/]
+────────────────────────────────────────────────────────────────────────
+Post #30  (forum post #5699576)
+Author    : joberg
+Date      : Feb 8, 2026 at 7:24 AM
+Reactions : Love — Jakefarm
+────────────────────────────────────────────────────────────────────────
+
+This is going to be epic
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #31  (forum post #5699705)
+Author    : Jakefarm
+Date      : Feb 8, 2026 at 6:34 PM
+Reactions : Like — BajaTym, Bloop, joberg
+────────────────────────────────────────────────────────────────────────
+
+[IMAGE: https://www.therpf.com/forums/attachments/1770604370472-jpeg.2010413/]
+
+Started the detailing for the trench section. I'm trying to chill myself out a bit on the details per some earlier comments. We need greebling but a bit reduced. Hoping to get this done by end of week, and ready for the hangars (whenever I decide to figure that fiasco out).
+────────────────────────────────────────────────────────────────────────
+Post #32  (forum post #5699898)
+Author    : joberg
+Date      : Feb 9, 2026 at 10:10 AM
+Reactions : Haha — Jakefarm
+────────────────────────────────────────────────────────────────────────
+
+Jakefarm said:
+
+View attachment 2010413Started the detailing for the trench section. I'm trying to chill myself out a bit on the details per some earlier comments. We need greebling but a bit reduced. Hoping to get this done by end of week, and ready for the hangars (whenever I decide to figure that fiasco out).
+		
+
+Click to expand...
+
+In terms of scale, you can go as small as you can using tiny greeblies!  You're a jeweler at that point
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #33  (forum post #5701547)
+Author    : Jakefarm
+Date      : Feb 15, 2026 at 7:33 PM
+Reactions : Like, Love — BajaTym, blewis17, Studio Kitbash
+────────────────────────────────────────────────────────────────────────
+
+Slow and steady wins the race right? Steady on progress, slow on results. A lot of time spent sitting and staring  at how to sequence this thing, but we've got the skeleton coming together, and height growing.
+
+Since I have dead on 24" basswood sheets, the final height will be around 24". This does create a bit of a difference in height between the south and north halves. Currently, the south is ~10" while the north is slated to be around 6.5". I'm personally fine with it, but it's not my original plan. It will be pretty non-noticeable to the naked eye, but ***king annoying as is because I'm a perfectionist. Still working tonight on some stuff, but in the photos below you'll see these gaps in the wood framing.
+
+On the left side, facing the camera, this is for the sectional cut I will detail with an interior of the Death Star. On the backside, a little less noticeable, is a removable 7"x7" panel which will be held with magnets, that way I can access the critical electronic components. Anybody remember old arcade games and their accessible panels for maintenance? Same thing here, something can always go wrong.
+
+[IMAGE: https://www.therpf.com/forums/attachments/1771212678654-jpeg.2012237/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/1771212698549-jpeg.2012238/]
+────────────────────────────────────────────────────────────────────────
+Post #34  (forum post #5701870)
+Author    : joberg
+Date      : Feb 17, 2026 at 7:50 AM
+Reactions : Like — TazMan2000
+────────────────────────────────────────────────────────────────────────
+
+It's looking very good so far
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+Great idea to have a removable panel to access the electronics!  And, in the tradition of the RPF, the-
+
+coke- can- beside- the model is how we judge scale around here
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ Any other objects would be deemed "Gauche" and a "faux pas"
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #35  (forum post #5703566)
+Author    : PHArchivist
+Date      : Feb 23, 2026 at 9:51 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+In awe...!
+────────────────────────────────────────────────────────────────────────
+Post #36  (forum post #5705859)
+Author    : Jakefarm
+Date      : Mar 3, 2026 at 7:57 PM
+Reactions : Wow, Like — joberg, Krats
+────────────────────────────────────────────────────────────────────────
+
+Still alive! And making some progress
+
+Nothing to post quite yet, at least nothing that would look entirely different from my last post. 
+
+Working on some hand-built hangars. I made a mock-up a few weeks ago but it was relatively **** compared to what I'm shooting for. 
+
+If I hand-build them, it requires a lot of mm measuring, masking tape, black paint, and precision. 
+
+Here's the thought:
+
+First, mark the skinny (2mm) areas that light needs to get through on the interior surface (facing into the hangar):
+
+[IMAGE: https://www.therpf.com/forums/attachments/1772596040170-jpeg.2016791/]
+
+Then, on the exterior side (facing into the model, hidden), mask off those 2mm areas that need light
+
+[IMAGE: https://www.therpf.com/forums/attachments/1772596096105-jpeg.2016792/]
+
+Then paint the remaining space, 4mm, which on the interior side, will be covered by styrene (which is also painted black on the side that will be glued in place. Basically trying to block light where it isn't wanted, and have it shine through and reflect where I want. 
+
+What will happen here, and I don't have the best pic (below) to show, is on the interior hangar side is we'll have the base 4mm plates glued and then within the 2mm "lit" spaces there will be another 4mm piece of styrene lifted above the gap. I've cut 1.5mm stubs, which are adhered to top and bottom of the wall, to raise that 4mm styrene bit above the base surface. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/1772596340819-png.2016793/]
+
+From even my messy test ^^ it doesn't look bad. I think this new version will look better (don't have a good photo of how the light shines through). 
+
+Yes, I keep with my mantra of hand-building all of it, but good Lord is this labor intensive. On the other hand, even if I 3D printed all of this like my previous post, it would require a similar amount of finishing and masking to get the same result. Ultimately, I'll likely go with the method above because clearly I hate myself. Just kidding, I live for this ****. 
+
+As far as how to actually evenly light the area behind this is still up in the air. I figure if I could get some low lumen led strips behind with a diffuser it might work, but I really can't afford to lose more than 1/4" of space behind each wall. Let me know if y'all have any wild ideas, I'm open for them.
+
+Peace!
+────────────────────────────────────────────────────────────────────────
+Post #37  (forum post #5705912)
+Author    : division 6
+Date      : Mar 4, 2026 at 6:50 AM
+Reactions : Like — joberg, Jakefarm
+────────────────────────────────────────────────────────────────────────
+
+What about EL lighting?
+────────────────────────────────────────────────────────────────────────
+Post #38  (forum post #5705913)
+Author    : Jakefarm
+Date      : Mar 4, 2026 at 6:52 AM
+Reactions : Like — joberg, division 6
+────────────────────────────────────────────────────────────────────────
+
+division 6 said:
+
+			What about EL lighting?
+		
+
+Click to expand...
+
+Can't believe I hadn't thought of that, I'll see what I can find. That would alleviate a ton of effort, and look cleaner. 
+
+Thanks!
+────────────────────────────────────────────────────────────────────────
+Post #39  (forum post #5705922)
+Author    : joberg
+Date      : Mar 4, 2026 at 7:44 AM
+Reactions : Haha — Jakefarm
+────────────────────────────────────────────────────────────────────────
+
+Yep, this is the parts of model building called: jewelry 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #40  (forum post #5706040)
+Author    : Jakefarm
+Date      : Mar 4, 2026 at 5:00 PM
+Reactions : Like — joberg, division 6
+────────────────────────────────────────────────────────────────────────
+
+division 6 said:
+
+			What about EL lighting?
+		
+
+Click to expand...
+
+Just ordered some 2.3mm white EL wire. It'll be a blast I'm sure stripping well over 50 pieces if I had to take a wild guess, but I haven't worked with EL in a loooong time so it'll be good practice. Great idea, thanks again.
+────────────────────────────────────────────────────────────────────────
+Post #41  (forum post #5706045)
+Author    : division 6
+Date      : Mar 4, 2026 at 5:20 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Hope it works out.
+────────────────────────────────────────────────────────────────────────
+Post #42  (forum post #5708124)
+Author    : monsterpartyhat
+Date      : Mar 13, 2026 at 11:09 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Dang - this is so cool! Awesome work so far.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 42

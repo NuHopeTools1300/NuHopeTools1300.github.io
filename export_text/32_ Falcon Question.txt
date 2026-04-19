@@ -1,0 +1,120 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : 32" Falcon Question
+URL    : https://www.therpf.com/forums/threads/32-falcon-question.230551/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #3512903)
+Author    : DaveG
+Date      : Dec 15, 2014 at 7:27 AM
+────────────────────────────────────────────────────────────────────────
+
+Has anyone found a nibbler tool that cuts the correct size notches for plating panels on a 32" SS Millennium Falcon?
+
+Thanks!
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #3512977)
+Author    : tk1608
+Date      : Dec 15, 2014 at 9:21 AM
+────────────────────────────────────────────────────────────────────────
+
+I don't think you can get one to cut the smaller 32" notches..I looked into it when I built mine, and it seems they were all cut by hand, so that's what I did...
+
+Takes a while, but it's gotta be done.. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Cheers, Phil
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #3513035)
+Author    : DaveG
+Date      : Dec 15, 2014 at 10:06 AM
+────────────────────────────────────────────────────────────────────────
+
+What are the correct dimensions for the notches?
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #3513057)
+Author    : MonsieurTox
+Date      : Dec 15, 2014 at 10:39 AM
+Reactions : Like — JBReplicas
+────────────────────────────────────────────────────────────────────────
+
+DaveG said:
+
+			What are the correct dimensions for the notches?
+		
+
+Click to expand...
+
+In short : none, they all are different
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #3513103)
+Author    : jayroth
+Date      : Dec 15, 2014 at 11:48 AM
+────────────────────────────────────────────────────────────────────────
+
+Dave Beasley, one of the original Star Wars model makers who remained at Apogee, showed me the nibbler he used when I worked there. He said it was the same one to create the notches on the Falcon portions that he worked on. It was a standard hand nibbler. I bought the same one, and I still have mine: 
+
+Klein Tools, Inc., Part No. 76011B
+
+FWIW
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #3513159)
+Author    : DaveG
+Date      : Dec 15, 2014 at 12:57 PM
+────────────────────────────────────────────────────────────────────────
+
+Hmmm, the Klein nibbler cuts is 1/4" wide which seems right for the larger Falcon but too wide for the 32 incher. I might just have to try making a custom width nibbler.
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #3513165)
+Author    : jayroth
+Date      : Dec 15, 2014 at 1:11 PM
+────────────────────────────────────────────────────────────────────────
+
+True; this was the one used for the original Falcon, not the 32" version (I misread the topic title.) But if you have the ability to work with tool steel, you can easily make your own cutter for various nibblers.
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #3513910)
+Author    : JBReplicas
+Date      : Dec 16, 2014 at 2:05 PM
+────────────────────────────────────────────────────────────────────────
+
+I would say 1/4" is too wide, the parts on mine I have all done by hand, like Phil says it takes a long time but it has to be done.
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #3514033)
+Author    : MonsieurTox
+Date      : Dec 16, 2014 at 4:44 PM
+────────────────────────────────────────────────────────────────────────
+
+Width varies from 4mm to 5mm, I let you convert it into inches. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #3514339)
+Author    : moes1
+Date      : Dec 17, 2014 at 3:54 AM
+Reactions : Like — Lee S
+────────────────────────────────────────────────────────────────────────
+
+I have filled mine to 4,5 mm wide and made a new bottom plate for it. - works fine for most of the notches on the 32 Falcon.
+
+1/4 inch is 6,3 mm wide which is too wide.
+
+This is the one I have:
+
+http://www.amazon.com/Hand-Sheet-Metal-Nibbler-Cutter/dp/B000T5FV4Q
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #3518490)
+Author    : Lee S
+Date      : Dec 22, 2014 at 1:42 PM
+────────────────────────────────────────────────────────────────────────
+
+If it's good enough for Mr Moe, it's good enough for me 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #3518593)
+Author    : DaveG
+Date      : Dec 22, 2014 at 3:17 PM
+────────────────────────────────────────────────────────────────────────
+
+Great. I was going to try the same thing, grinding the cutter down in width and making a new female die plate. Glad to see it work! Cheers.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 12

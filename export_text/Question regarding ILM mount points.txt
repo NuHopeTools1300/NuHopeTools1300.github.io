@@ -1,0 +1,165 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Question regarding ILM mount points
+URL    : https://www.therpf.com/forums/threads/question-regarding-ilm-mount-points.117400/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #1702809)
+Author    : kamandi
+Date      : Jun 1, 2011 at 12:09 PM
+────────────────────────────────────────────────────────────────────────
+
+Did ILM utilize any standard mount types when designing the armatures  for the original SW models?  In most of the images I've seen there's  just a round pipe and it slides onto a motion control rig.  The motion  control rigs must have had a finite set of connectors.  How did they  lock the model in place?  Did they have clamps or locking pins?  Was  there a standard size?
+
+There is so much fantastic information  documenting the model kits used for the 32 inch Millennium Falcon, but I  haven't seen any mention of this.
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #1702824)
+Author    : JPolacchi
+Date      : Jun 1, 2011 at 12:16 PM
+────────────────────────────────────────────────────────────────────────
+
+I've no idea precisely how or what ILM did.Maybe some of the really good builders in here will mention something?I had thought the mounting points were meant to be *solid*,so that the pipe was flanged with a locking nut that screwed securely into each mounting point?Perhaps a locking pin might have also been used.I would think they'd want to do something lke that to keep the miniatire from moving.Some of the shots required the model to dip,dive,rotate and what not and if your model is just *slipped* into place it would move or fall off.I think most times they'd want the camera to be doing most of the motion/movement for complicated  motion control sequences.
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #1702842)
+Author    : MonsieurTox
+Date      : Jun 1, 2011 at 12:24 PM
+────────────────────────────────────────────────────────────────────────
+
+I don't know for the other models but the 32" MF was secured with screws (the ones on the mandibles still can be seen on the model and there are holes on both side tunnels to get access to the screws when mounting from the side).
+
+2 access holes here :
+
+[IMAGE: 26_jpg.jpg]
+
+(same on the other side)
+
+And here (one screw is missing) :
+
+[IMAGE: 19_jpg.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #1703141)
+Author    : Aurora
+Date      : Jun 1, 2011 at 4:51 PM
+────────────────────────────────────────────────────────────────────────
+
+This is the best reference i have found for the 32 give you all the notes for mounting points 
+
+[IMAGE: quad_art02.jpg]
+
+[IMAGE: FalconBase-1.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #1703142)
+Author    : kamandi
+Date      : Jun 1, 2011 at 4:52 PM
+────────────────────────────────────────────────────────────────────────
+
+In that pic of the mandable there are 2 screw holes and a star screw at the very forward edge.  Are the two empty holes where they secured the mount?
+
+A few screws and a 1 inch pipe is far simpler than I would have expected for such an expensive model, especially one that must not move for ten or more hours while multiple passes were filmed.  I would have expected some type of custom fitting or collar would go in there.
+
+@Aurora - cool pic.  I wonder what the large hole near the radar dish was for.
+
+[IMAGE: falconbase1mod.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #1703230)
+Author    : Aurora
+Date      : Jun 1, 2011 at 6:24 PM
+────────────────────────────────────────────────────────────────────────
+
+I have was wondering that myself havent been able to figure it out
+
+My only guess is the blast marks on that side
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #1703290)
+Author    : kamandi
+Date      : Jun 1, 2011 at 6:54 PM
+────────────────────────────────────────────────────────────────────────
+
+Blaster Marks are a decent guess. 
+
+I've never seen a pic of the falcon where those armor plates are pulled off to expose that hole so it seems unlikely it's a service port.
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #1703905)
+Author    : Treadwell
+Date      : Jun 2, 2011 at 6:58 AM
+────────────────────────────────────────────────────────────────────────
+
+I noticed that the other day. I agree, the blast marks/holes.
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #1704274)
+Author    : MonsieurTox
+Date      : Jun 2, 2011 at 10:54 AM
+────────────────────────────────────────────────────────────────────────
+
+Aurora, the first sketch was for the 5' MF, as you can notice that's a 2" pipe which couldnt fit inside the 32" ! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+The very forward screw on the mandible is to secure the front cover (wich has the 1/20 ford engine and also some part on the side : the cut M16 chassis for the inner wall and some greeblies on the outer mandible wall).
+
+Yes the hole is for the blast damages, the shape of this hole still can be seen  through the gap between the armor plates on the prop today !
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #1704291)
+Author    : kamandi
+Date      : Jun 2, 2011 at 11:05 AM
+────────────────────────────────────────────────────────────────────────
+
+The blaster marks aren't that deep are they?
+
+I wonder if they had planned at one point to do a pyro effect in that spot.  It would have served the story very easily.
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #1704315)
+Author    : MonsieurTox
+Date      : Jun 2, 2011 at 11:22 AM
+────────────────────────────────────────────────────────────────────────
+
+Actually those are that deep 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ But it can be barely seen because those marks are just small holes...
+
+For some reasons the large armor plate covering that hole (on which were made the blast marks) was thinner than the hull armor plates. The plating of the hull was made from 0.75 mm black styrene, while the plate covering the hole was 0.5mm styrene (can be seen on some pics of the falcon in progress) just like the 0.5mm plates they used on the mandibles and tunnels.
+
+So why did they not use the 0.75 black styrene like the surrounding panels ? I can see 2 reasons :
+
+To give an effect of scale with thinner plate where the holes are. 
+
+The second reasons, which I think is the good one, is to know where was exactly the cutout on the hull, a white panel surrounded by black panels was easier to locate to make the blast marks IMHO. And they probably didnt had 0.75 white styrene, so they used 0.5 mm styrene instead. That's just my theory of course...
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #1704320)
+Author    : MonsieurTox
+Date      : Jun 2, 2011 at 11:24 AM
+────────────────────────────────────────────────────────────────────────
+
+The white panel can be seen in this pic.
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #1704344)
+Author    : kamandi
+Date      : Jun 2, 2011 at 11:42 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks for all the good info MonsieurTox.  I've really enjoyed your insanely detailed SD thread.  You are definitely pro level.  Do you work in the industry?
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #1705581)
+Author    : Aurora
+Date      : Jun 3, 2011 at 11:12 AM
+────────────────────────────────────────────────────────────────────────
+
+MonsieurTox said:
+
+			Aurora, the first sketch was for the 5' MF, as you can notice that's a 2" pipe which couldnt fit inside the 32" ! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+The very forward screw on the mandible is to secure the front cover (wich has the 1/20 ford engine and also some part on the side : the cut M16 chassis for the inner wall and some greeblies on the outer mandible wall).
+
+Yes the hole is for the blast damages, the shape of this hole still can be seen  through the gap between the armor plates on the prop today !
+		
+
+Click to expand...
+
+Thanks for the clarification. I always thought the first sketch was ment for the 32" i was comparing they both had same mount holes in the top section. But i do think a 2" pipe could fit vertically in the 32" believe the top plate at the widest is ruffly 5" diameter (hypothetical situation).
+
+Its interesting to hear about the hole an the different material.
+
+I wonder if they switched to the .5 mm styrene do to being thiner to punch a holes/blast marks
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 14

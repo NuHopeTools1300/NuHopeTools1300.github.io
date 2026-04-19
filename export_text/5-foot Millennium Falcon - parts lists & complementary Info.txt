@@ -1,0 +1,4166 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : 5-foot Millennium Falcon - parts lists & complementary Info
+URL    : https://www.therpf.com/forums/threads/5-foot-millennium-falcon-parts-lists-complementary-info.350623/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #5407625)
+Author    : manugu
+Date      : Feb 28, 2023 at 5:51 AM
+Reactions : Like, Love — JimmyB, Ogibendogy, Necronaut
+────────────────────────────────────────────────────────────────────────
+
+Hi all,
+
+I've started two documents listing all donor kit parts on Johns incredible maps (see this theread). Just wanted to check if it's feasible to start a digital kit library myselve and got carried away a bit counting all the parts. So I ended up with one spreadsheet listing kits and part IDs and a doc with reference pictures for each part and the in kit ID, since I was loosing track quickly. A bit fragmented, but works out for me that way.
+
+With Johns speed I'm still lagging behind listing and checking everything, all work in progress and time is a very limited resource, as always. For instance, reference images of kit parts are updated up to Tamiya Ferrari 312B, kit #144 in Coffmann Kit Nubers 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ . Not all recent map updates are considered. Further updates will be slow!
+
+Some disclaimers: I have no single kit myselve and do not plan to get any! All info in these documents is gathered from here (as in: TheRPF) or the links given and publically available. Expect errors, typos and misconceptions in these documents, done by me.
+
+And no, starting a digital kit library is hell of a task. Way over my head. 718 individual parts up to now, 1681 parts in total, from 107 kits. I have to wait and see what miracles others can work to get my 2.5 foot super detailed Falcon replica one day...
+
+So here's the links:
+
+Spreadsheet: Millennium Falcon - kit list
+
+Document: PartList
+
+Drive: Falcon_kits_and_pieces
+
+Manu
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #5407677)
+Author    : JSchneider
+Date      : Feb 28, 2023 at 8:59 AM
+Reactions : Like — joberg, manugu
+────────────────────────────────────────────────────────────────────────
+
+Hi! Great work! A LOT of work!!! Haha! And I should also say that John's work has been amazing too! I am in awe every time I have visited the RPF over the years with all the amazing, talented people that have put so much time and effort into all of these projects! But I have to say I most fond of the Falcon work that's been done. The amount of research everyone has put into this up to this point, I want to thank them all! An unbelievable effort... on the research side, and the build side!
+
+I looked through the kit list (the word doc) and wanted to know: Can you not find, or are you missing the kits scans for anything that has no scan photos of parts attached? There are a lot of kits labeled that have no part photos, so I'm just curious. I'm in the process of scanning everything I have and thought maybe I would start scanning based on what you don't have in your list so I don't have to throw up repeats.
+
+When I decide to scan something, I try to search the intranets to see if I'm wasting my time with certain kits that may already be available to the masses. So if I can go off your list, I can avoid repeats if you know what I mean? I do have every kit that you don't have labeled. But you may be behind in attaching photos too, so some of those scans may be on the internet already. And I know there's a lot of kits missing from all our lists still and much more work to do! Ugh!
+
+And great job linking the parts map photos in the spreadsheet. I've been working on so many other things, and that was on my list too. So that will save me some time here. So thank you for taking the time to do that and sharing it! I can only view the whole spreadsheet directly from your link. It doesn't allow you to download a copy of it and save it locally to view. Don't know if you know that? And figured I'd let you know if not.
+
+Jason
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #5407713)
+Author    : bwayne64
+Date      : Feb 28, 2023 at 11:07 AM
+Reactions : Like — joberg, manugu
+────────────────────────────────────────────────────────────────────────
+
+Very cool man ! Any help in organizing all this info is a good thing. John's thread is the penultimate source for all things 5 footer. I second the motion that you make the file downloadable. Many people have to beg or borrow Internet access, and it's nice to be able to view offline. It's up to you of course. Great work, hope the dream of a 3d parts repository comes true. I can contribute if it does. But I'm pretty sure someone has already built the models that I have, and probably better, lol.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #5407740)
+Author    : manugu
+Date      : Feb 28, 2023 at 12:23 PM
+Reactions : Like, Love — joberg, bwayne64
+────────────────────────────────────────────────────────────────────────
+
+Thanks Jason & bwayne64!
+
+Yes, this place is great, easy to get lost here with all the marvelous projects and talent all around!
+
+About missing part info in the doc from Tamiya Ferrari 312B (#144) on: I just didn't have the time to insert yet. The document I started much later and tried to catch up as good as I could while woking on the spreadsheet. Whenever I put something there from that point on it ended also in the doc, that's the reason some parts are already there beyond #144. ~200+ parts still missing, all Tamiya kits. Will come eventually. You can actually suggest images if you feel like it directly within the document, I'll happily accept them 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+My main source for Kit scans is scifikitbash.com, and the KIT SCANS thread here. Links listed in the spreadsheet, in the kits tab. I listed the best resource I could find there in the 'kit scans' column. John helped massively with that, big thanks again! It's empty if there was no good source, so if you have a kit listed there but without an entry in the 'kit scans' column, a scan would be much appreciated 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+. Also if you have better resources than some off-the-chart webpages from wayback.
+
+For me everything is downloadable, also without beeing logged in to a google account. Spreadsheet below 1MB, but document ~250 MB, so I can't easily put that here. But it took some minutes until everithing was allocated and downloaded, maybe try again and give it some time? Can't really reduce the size with all the images there. Hope we'll find a workable solution.
+
+And yes, I've seen great 3D parts around! Let's see what the future brings!
+
+Best
+
+Manu
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #5407810)
+Author    : manugu
+Date      : Feb 28, 2023 at 3:48 PM
+Reactions : Like — JSchneider, joberg, bwayne64
+────────────────────────────────────────────────────────────────────────
+
+… just realized that a few minutes ago I added the Tyrell Ford Elf part scans from you, bwayne64 and updated info based on your Centurion scans, Jason! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Thanks both!
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #5407853)
+Author    : jcoffman99
+Date      : Feb 28, 2023 at 5:54 PM
+Reactions : Like — joberg, manugu
+────────────────────────────────────────────────────────────────────────
+
+I added the Duster pics and added B15 to the list. I've been looking for that one for a while. So thanks. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #5407904)
+Author    : JSchneider
+Date      : Feb 28, 2023 at 8:18 PM
+Reactions : Like — joberg, manugu
+────────────────────────────────────────────────────────────────────────
+
+manugu said:
+
+			… just realized that a few minutes ago I added the Tyrell Ford Elf part scans from you, bwayne64 and updated info based on your Centurion scans, Jason! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Thanks both!
+		
+
+Click to expand...
+
+Anything I can do to help! Coming this late to the game it's hard to find something to contribute that hasn't already been done before! I'm walking in the footsteps of Giants here, so to say!
+
+I'm adding kits, slowly... but surely! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ These are on the current docket while I have them out:
+
+The kits on the green mat are part of the "Project." (At least I'm pretty sure they all are.)
+
+The kits on the gray mat are not part of the Falcon, at least I don't think they are at this point in my research. (I may be wrong, and I won't be afraid to admit it if I am!) But someone may come along and correct me... (Please do!) I'm going to scan them anyway while I have them out. The gray mat kits I'll put up at SciFi only for now, unless someone tells me otherwise. I don't want to confuse anyone. I'm confused enough already myself! Haha!
+
+I don't recall right now whether any of these kits are listed in your docs yet, or not. But they'll be here for future reference when needed.
+
+Jason
+
+ 
+
+Attachments
+
+[IMAGE: 1317438-980d23d83d1f26f3cd44a712152d263f.jpg]
+
+image0.jpeg
+
+					3.3 MB
+					
+					· Views: 482
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #5407918)
+Author    : bwayne64
+Date      : Feb 28, 2023 at 9:08 PM
+Reactions : Like — joberg, manugu
+────────────────────────────────────────────────────────────────────────
+
+When and if you get into Ssm there are kits scans out the ying yang over there. You'll have fun. ; )
+
+Cool about the spreadsheet, just having pics of all the parts is a big help. Not having to jump between kit scans and websites. Between John and you and a few others, this thing is gonna be nailed up. Keep up the good work.
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #5407926)
+Author    : JSchneider
+Date      : Feb 28, 2023 at 9:16 PM
+Reactions : Wow — joberg
+────────────────────────────────────────────────────────────────────────
+
+bwayne64 said:
+
+			When and if you get into Ssm there are kits scans out the ying yang over there. You'll have fun. ; )
+		
+
+Click to expand...
+
+I've sent a couple emails the last couple months, and no reply... 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ If I can make the cut, maybe it would free up some time to do other things! Haha!
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #5407928)
+Author    : bwayne64
+Date      : Feb 28, 2023 at 9:23 PM
+Reactions : Like — joberg, manugu
+────────────────────────────────────────────────────────────────────────
+
+Sorry to hear that. Wish I could get you in, but I'm just a member not a mod. Jase is probably just busy with life stuff. Don't know what to say , except keep trying. The squeaky wheel gets the grease, lol.
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #5407938)
+Author    : JSchneider
+Date      : Feb 28, 2023 at 10:04 PM
+Reactions : Like — joberg, bwayne64
+────────────────────────────────────────────────────────────────────────
+
+bwayne64 said:
+
+			Sorry to hear that. Wish I could get you in, but I'm just a member not a mod. Jase is probably just busy with life stuff. Don't know what to say , except keep trying. The squeaky wheel gets the grease, lol.
+		
+
+Click to expand...
+
+I hit him up on Facebook too. 1 email a month. Don't want to wear out my welcome, before I am welcomed! I was hoping my name alone was subliminal enough for him to accept me right away. Haha! Us 70's kids have to stick together! Haven't seen a new baby named Jason since.
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #5407943)
+Author    : JSchneider
+Date      : Feb 28, 2023 at 10:34 PM
+Reactions : Like — joberg, manugu
+────────────────────────────────────────────────────────────────────────
+
+Hey Manugu! Just navigating a bit through your amazing documents! I can't imagine the time you put into that organizing everything. You're doing a great job!
+
+Anyways, if you look at the shot I attached I'm assuming that this is the easiest way for me to figure what we don't have yet for scans (in red)? If no scan link, we don't have any good ones? Just trying to narrow down what scans are missing so I can start there when I'm finished with these here. After those are done, maybe I'll re-scan the crappy ones that are linked so we have better shots. And I'm sure that list isn't totally populated yet? I haven't gotten that deep into it yet.
+
+Thanks!
+
+Jason
+
+[IMAGE: 1317461-463e55036173088dc47f0d95a57ddedb.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #5408014)
+Author    : jcoffman99
+Date      : Mar 1, 2023 at 6:14 AM
+Reactions : Like — Necronaut, Searun, swgeek
+────────────────────────────────────────────────────────────────────────
+
+The whole reason I started scifikitbash.com was that I was afraid that someday SSModeler will disappear. (that and I hate having to open a new window for every pic) There are so many good scans over there. So, if you have some scans, please send them to our site.
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #5408040)
+Author    : jcoffman99
+Date      : Mar 1, 2023 at 7:42 AM
+Reactions : Like — manugu, joberg
+────────────────────────────────────────────────────────────────────────
+
+Added Tamiya    1/18    McLaren M8A    1810 pics and part A14
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #5408041)
+Author    : jcoffman99
+Date      : Mar 1, 2023 at 7:46 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+jcoffman99 said:
+
+			Added Tamiya    1/18    McLaren M8A    1810 pics and part A14
+		
+
+Click to expand...
+
+Also, can you add 184 to the list? I don't know how to do it the way you set yours up...which is awesome.
+
+184 Porsche 910 Display Model Tamiya | No. 10001 | 1:18
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #5408044)
+Author    : JSchneider
+Date      : Mar 1, 2023 at 7:53 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+jcoffman99 said:
+
+			Added Tamiya    1/18    McLaren M8A    1810 pics and part A14
+		
+
+Click to expand...
+
+Hey John, do you have a scan of the Texaco Marlboro M23? I'm pretty sure there's going to be parts from that that aren't in the Yardley. I'll scan that too if you all need it.
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #5408045)
+Author    : jcoffman99
+Date      : Mar 1, 2023 at 7:54 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+I do not have that one. Thanks!
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #5408077)
+Author    : manugu
+Date      : Mar 1, 2023 at 9:00 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+JSchneider said:
+
+			The kits on the green mat are part of the "Project." (At least I'm pretty sure they all are.)
+		
+
+Click to expand...
+
+Hi Jason, I'm still not good at recognizing kits. But the Wolfpack for instance I have not found good reference! Seems like you have lots of options 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #5408082)
+Author    : manugu
+Date      : Mar 1, 2023 at 9:08 AM
+────────────────────────────────────────────────────────────────────────
+
+JSchneider said:
+
+			Hey Manugu! Just navigating a bit through your amazing documents! I can't imagine the time you put into that organizing everything. You're doing a great job!
+
+Anyways, if you look at the shot I attached I'm assuming that this is the easiest way for me to figure what we don't have yet for scans (in red)? If no scan link, we don't have any good ones? Just trying to narrow down what scans are missing so I can start there when I'm finished with these here. After those are done, maybe I'll re-scan the crappy ones that are linked so we have better shots. And I'm sure that list isn't totally populated yet? I haven't gotten that deep into it yet.
+
+Thanks!
+
+Jason
+
+View attachment 1674944
+
+Click to expand...
+
+Hi Jason,
+
+yes that list is a start, but please also check the usual places before making yourselve all that effort! No listing does not necessary mean there is no good reference. For instance I have found Valkyre images, at least I have them on my harddrive, but forgot to put the link there obviously. So the images must be around (somewhere).
+
+If you find some kit images publically available that are not listed here, please feel free to comment in the spreadsheet. By publishing it here it's not mine alone any more.
+
+Manu
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #5408083)
+Author    : manugu
+Date      : Mar 1, 2023 at 9:09 AM
+────────────────────────────────────────────────────────────────────────
+
+jcoffman99 said:
+
+			Also, can you add 184 to the list? I don't know how to do it the way you set yours up...which is awesome.
+
+184 Porsche 910 Display Model Tamiya | No. 10001 | 1:18
+
+Click to expand...
+
+yes, sure! but need a while!
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #5408097)
+Author    : JSchneider
+Date      : Mar 1, 2023 at 9:46 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+jcoffman99 said:
+
+			I do not have that one. Thanks!
+		
+
+Click to expand...
+
+I didn't know you had all those scans in your kit list doc. Wow! You've really been putting in double time. Haha! Thanks for that too John. Appreciate everything! Hopefully I'll be able to contribute in a meaningful way. It's a hard act to follow with everyone that's come before, let me tell you! Hopefully this info will be available 10 years from now after all the work you've put in!
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #5408115)
+Author    : jcoffman99
+Date      : Mar 1, 2023 at 10:28 AM
+Reactions : Like — joberg, manugu
+────────────────────────────────────────────────────────────────────────
+
+Yeah my goal was to do what you're doing now. I was going to do it as I build, but you're way ahead of me. I just added a bunch of the M577 pics and parts to your list.
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #5408131)
+Author    : JSchneider
+Date      : Mar 1, 2023 at 11:09 AM
+Reactions : Like — joberg, manugu
+────────────────────────────────────────────────────────────────────────
+
+manugu said:
+
+			Hi Jason, I'm still not good at recognizing kits. But the Wolfpack for instance I have not found good reference! Seems like you have lots of options 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+I'll get them all up here, and on SciFiKitbash soon!  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #5408146)
+Author    : jcoffman99
+Date      : Mar 1, 2023 at 12:04 PM
+Reactions : Like, Wow — joberg, manugu
+────────────────────────────────────────────────────────────────────────
+
+Okay I added all the Tamiya Military pics I had to the spreadsheet.
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #5408151)
+Author    : manugu
+Date      : Mar 1, 2023 at 12:30 PM
+Reactions : Like — joberg, jcoffman99
+────────────────────────────────────────────────────────────────────────
+
+jcoffman99 said:
+
+			Yeah my goal was to do what you're doing now. I was going to do it as I build, but you're way ahead of me. I just added a bunch of the M577 pics and parts to your list.
+		
+
+Click to expand...
+
+Should have put this in the first post, but I sometimes take things for granted that are clearly not: 
+
+Thanks John for putting all this together, maps, scifikitbash etc.! And everybody who has done so along and before. 
+
+I sometimes get carried away a bit too far, don’t want to have it my way no matter what, all here is definitely open to discussion!
+
+Needed to get that straight 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #5408159)
+Author    : jcoffman99
+Date      : Mar 1, 2023 at 12:55 PM
+Reactions : Like — joberg, manugu
+────────────────────────────────────────────────────────────────────────
+
+manugu said:
+
+			Should have put this in the first post, but I sometimes take things for granted that are clearly not:
+
+Thanks John for putting all this together, maps, scifikitbash etc.! And everybody who has done so along and before.
+
+I sometimes get carried away a bit too far, don’t want to have it my way no matter what, all here is definitely open to discussion!
+
+Needed to get that straight 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+Just happy folks are enjoying/getting some use out of them.
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #5409855)
+Author    : manugu
+Date      : Mar 6, 2023 at 3:27 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+small update:
+
+thanks to John who inserted a whole truckload of part images the PartList document is now in sync with the kit list spreadsheet. Also one kind person made a helpful comment in the document, much appreciated! That means for every entry in the 'parts' table there should be now an image in the PartList document. Sometimes not a pretty one or a schematic from the instructions, but hopefully something recognizable at least.
+
+In the meantime the happy mapping didn't stop, so I have to catch up with the recent changes and additions.
+
+I was unable to identify the 9 parts from 5 kits listed here (link), so if anybody feels like filling in the blanks and insert the kit IDs, the document is completely open for editing, any help highly welcome!
+────────────────────────────────────────────────────────────────────────
+Post #28  (forum post #5409883)
+Author    : jcoffman99
+Date      : Mar 6, 2023 at 5:15 PM
+Reactions : Like — joberg, manugu
+────────────────────────────────────────────────────────────────────────
+
+manugu said:
+
+			small update:
+
+thanks to John who inserted a whole truckload of part images the PartList document is now in sync with the kit list spreadsheet. Also one kind person made a helpful comment in the document, much appreciated! That means for every entry in the 'parts' table there should be now an image in the PartList document. Sometimes not a pretty one or a schematic from the instructions, but hopefully something recognizable at least.
+
+In the meantime the happy mapping didn't stop, so I have to catch up with the recent changes and additions.
+
+I was unable to identify the 9 parts from 5 kits listed here (link), so if anybody feels like filling in the blanks and insert the kit IDs, the document is completely open for editing, any help highly welcome!
+		
+
+Click to expand...
+
+I was able to identify most of the parts. Can't tell what letter tree the Sheridan part is on, but it's #30. Not sure about the McLaren part either. Can't find a clear pic of the part. I updated the list for you.
+────────────────────────────────────────────────────────────────────────
+Post #29  (forum post #5409974)
+Author    : manugu
+Date      : Mar 6, 2023 at 11:10 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Nice! Thanks John 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+I‘ll propagate the info also to the other lists!
+
+Two things:
+
+Centurion I meant this part, as far as I can tell it’s in front of K41:
+
+[IMAGE: https://www.therpf.com/forums/attachments/1678170151648-png.1677002/]
+
+Sheridan:
+
+I imagine I see slight differences between those two:
+
+[IMAGE: https://www.therpf.com/forums/attachments/1678172904290-png.1677012/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/1678172952610-png.1677013/]
+
+What do you think?
+
+Cheers
+────────────────────────────────────────────────────────────────────────
+Post #30  (forum post #5410011)
+Author    : jcoffman99
+Date      : Mar 7, 2023 at 3:39 AM
+Reactions : Like — joberg, manugu
+────────────────────────────────────────────────────────────────────────
+
+manugu said:
+
+			Nice! Thanks John 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+I‘ll propagate the info also to the other lists!
+
+Two things:
+
+Centurion I meant this part, as far as I can tell it’s in front of K41:
+
+View attachment 1677002
+
+Sheridan:
+
+I imagine I see slight differences between those two:
+
+View attachment 1677012 View attachment 1677013
+
+What do you think?
+
+Cheers
+		
+
+Click to expand...
+
+Oh shoot. I gotta fix the maps then. I’ll see if I can find them today.
+────────────────────────────────────────────────────────────────────────
+Post #31  (forum post #5423328)
+Author    : manugu
+Date      : Apr 16, 2023 at 3:39 AM
+Reactions : Like, Love — JSchneider, Lt Washburn, joberg
+────────────────────────────────────────────────────────────────────────
+
+update on the spreadsheet:
+
+currently 1801 parts are listed (837 unique parts), from 122 source kits. Also the version of the maps used is now stated in a column.
+
+The listings for a few maps still have to be included / updated. Progress will remain slow but steady.
+
+On a side note: Heavily inspired by the mindblowing works of Maruska, Andre and Bjorn I‘m trying padawan steps in photogrammetry. Base are Alan’s amazing images. The results are nowhere near what has been displayed before, but I‘m having huge fun exploring!
+
+[IMAGE: https://www.therpf.com/forums/attachments/densesolving01-png.1691602/]
+
+If anybody is interested, I put a pointcloud of the radar dish on my google drive. Without any dimensions or proof of accuracy currently, handle with caution!
+
+[IMAGE: https://www.therpf.com/forums/attachments/dish00-png.1691603/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/dish01-png.1691604/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/dish02-png.1691606/]
+
+Won’t have much time to explore further in the near future, but will come back to that eventually. Too much fun and rewarding!
+
+That’s all for now, cheers
+
+Manu
+────────────────────────────────────────────────────────────────────────
+Post #32  (forum post #5423423)
+Author    : Bjorn
+Date      : Apr 16, 2023 at 12:39 PM
+Reactions : Like — JSchneider, joberg, Junk Pilot
+────────────────────────────────────────────────────────────────────────
+
+You've taken your first steps into a larger universe. 
+
+Nicely done!
+────────────────────────────────────────────────────────────────────────
+Post #33  (forum post #5423435)
+Author    : manugu
+Date      : Apr 16, 2023 at 1:37 PM
+Reactions : Like — JSchneider, joberg
+────────────────────────────────────────────────────────────────────────
+
+Bjorn said:
+
+			You've taken your first steps into a larger universe.
+
+Nicely done!
+		
+
+Click to expand...
+
+... into a galaxy far far away I hope 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Thanks!!
+────────────────────────────────────────────────────────────────────────
+Post #34  (forum post #5426926)
+Author    : rbeach84
+Date      : Apr 26, 2023 at 8:08 AM
+Reactions : Love, Like — JSchneider, joberg, jcoffman99
+────────────────────────────────────────────────────────────────────────
+
+Great effort and work here, guys!  Recalls for me the work I did a while back on cataloging all the 'markings' aka decals used on the 5 footer, results posted to my local club website located here:
+
+						UPDATED: Markings of the SW Millennium Falcon 5-Foot Filming Model | Hampton Roads Scale Modelers
+					
+
+Hampton Roads Scale Modelers -
+
+[IMAGE: toolbox1.ico]
+
+					hamptonroadsscalemodelers.com
+				
+
+Feel free to download copies and incorporate into your archives (just retain the attribution please) if you'd like; gathering all the research into one area can only advance the state of the art for the SS builders out there (me, I'm just a guy who likes to build accurate models, in 1/48 scale if possible!)
+
+Cheers!
+
+Robert
+────────────────────────────────────────────────────────────────────────
+Post #35  (forum post #5427152)
+Author    : manugu
+Date      : Apr 26, 2023 at 3:37 PM
+Reactions : Like — JSchneider, joberg
+────────────────────────────────────────────────────────────────────────
+
+rbeach84 said:
+
+			Great effort and work here, guys!  Recalls for me the work I did a while back on cataloging all the 'markings' aka decals used on the 5 footer, results posted to my local club website located here:
+
+						UPDATED: Markings of the SW Millennium Falcon 5-Foot Filming Model | Hampton Roads Scale Modelers
+					
+
+Hampton Roads Scale Modelers -
+
+[IMAGE: toolbox1.ico]
+
+					hamptonroadsscalemodelers.com
+				
+
+Feel free to download copies and incorporate into your archives (just retain the attribution please) if you'd like; gathering all the research into one area can only advance the state of the art for the SS builders out there (me, I'm just a guy who likes to build accurate models, in 1/48 scale if possible!)
+
+Cheers!
+
+Robert
+		
+
+Click to expand...
+
+Wow, thanks Robert for that offer! I remember browsing your and other decal ID threads after finding the part ID thread, completely amazed!
+
+Regarding everything that’s done here, I feel the need to stress that all the real work and effort was done by others in the part ID thread and is now continued in Johns common thread for instance. I’m just building on all that info here.
+
+Best
+
+Manu
+────────────────────────────────────────────────────────────────────────
+Post #36  (forum post #5438396)
+Author    : manugu
+Date      : Jun 3, 2023 at 9:44 AM
+Reactions : Like, Love — Digital Mayhem, JSchneider
+────────────────────────────────────────────────────────────────────────
+
+... short update:
+
+I think I finally caught up with the currently published finished maps. 
+
+Documents need some cleaning though, but I'm quite  happy with the current state.
+
+As always, if anybody finds something worth mentioning please do.
+
+Cheers
+
+manu
+────────────────────────────────────────────────────────────────────────
+Post #37  (forum post #5438511)
+Author    : jcoffman99
+Date      : Jun 3, 2023 at 7:15 PM
+Reactions : Like, Haha — joberg, manugu
+────────────────────────────────────────────────────────────────────────
+
+Jeez..guess I gotta get back to work. Lol
+────────────────────────────────────────────────────────────────────────
+Post #38  (forum post #5488906)
+Author    : manugu
+Date      : Nov 11, 2023 at 11:26 PM
+Reactions : Love, Like — mb1k, joberg, jcoffman99
+────────────────────────────────────────────────────────────────────────
+
+All right. I think it's done. John completed the mapping of the Falcon and already is on to even more devastating tasks. Congrats again! (Almost) all parts on those maps are now accounted for in the part list document and spreadsheet.
+
+2795 parts total.
+
+1350 unique parts.
+
+Round about. There are some quite specific ways I'm counting. And there are still edits, and probably will be for quite some time. But a big chunk is finished.
+
+So what now? The mapping is done. The maps are stunning.
+
+But...
+
+...
+
+wouldn't it be good to have more ... precise maps?
+
+I mean, the maps are great and all, but sometimes? The images are blurry or dark in some areas. The part you are interested is way in the back. Other parts are in the way of what you want to see. My proposal would be: digital 3D maps. You could rotate, zoom in and out, toggle parts visibility, colorize the way you want, overlay with reference photos ... ... 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Here's a start on the radar dish:
+
+[IMAGE: https://www.therpf.com/forums/attachments/rd_mapstyle-jpg.1760987/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/rd_onecolor-jpg.1760988/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/rd_front_overlay-jpg.1760989/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/rd_front-jpg.1760990/]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ Seriously, at the moment it’s all still a bit rough, but I think I'm starting to get where I want to go with digital modeling. Once I'm out of the 'fooling around' phase and feel comfortable with the results I‘ll share step files also. Let’s see…
+
+All images above (overlays) curtesy of Alan Anderson.
+
+Thanks to maruska, minifig and Bjorn for your publicly available 3D greeblies partly used above and most of all for inspiration to do this!
+
+Thanks for looking
+
+manu
+────────────────────────────────────────────────────────────────────────
+Post #39  (forum post #5488931)
+Author    : Bjorn
+Date      : Nov 12, 2023 at 3:03 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Some excellent work there manugu!
+
+I must say, 3d maps is something I hadn't thought about. Very cool idea. 
+
+And at the very least it will help polish CAD modelling and your workflow.
+────────────────────────────────────────────────────────────────────────
+Post #40  (forum post #5488954)
+Author    : manugu
+Date      : Nov 12, 2023 at 5:07 AM
+Reactions : Like — swgeek, joberg
+────────────────────────────────────────────────────────────────────────
+
+Bjorn said:
+
+			Some excellent work there manugu!
+
+I must say, 3d maps is something I hadn't thought about. Very cool idea.
+
+And at the very least it will help polish CAD modelling and your workflow.
+		
+
+Click to expand...
+
+Thank you Bjorn! Big fan of your work, much appreciated!
+
+I‘m not too serious about 3D maps (jet) and was trying to combine a joke about my obsession with the maps with a way to present my 3D modeling, thus the color scheme. I got the idea when John talked about the hexcodes in his list of kits. So for clarification: I don’t think the maps need a higher level of precision! They are excellent the way they are! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #41  (forum post #5488998)
+Author    : joberg
+Date      : Nov 12, 2023 at 7:24 AM
+Reactions : Like — manugu
+────────────────────────────────────────────────────────────────────────
+
+No words for this amount of research and work...simply amazing
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #42  (forum post #5489044)
+Author    : manugu
+Date      : Nov 12, 2023 at 11:36 AM
+Reactions : Love — joberg
+────────────────────────────────────────────────────────────────────────
+
+joberg said:
+
+			No words for this amount of research and work...simply amazing
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+Hi joberg, 
+
+I‘ll pass on that praise, the work and research collected here is not mine and I deeply hope I never gave reason to believe it is!
+
+It is a collection for my personal use that I thought can be of interest for others too. 
+
+Cheers 
+
+manu
+────────────────────────────────────────────────────────────────────────
+Post #43  (forum post #5489045)
+Author    : manugu
+Date      : Nov 12, 2023 at 11:38 AM
+────────────────────────────────────────────────────────────────────────
+
+.
+────────────────────────────────────────────────────────────────────────
+Post #44  (forum post #5489212)
+Author    : Bjorn
+Date      : Nov 12, 2023 at 10:41 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+manugu said:
+
+			Thank you Bjorn! Big fan of your work, much appreciated!
+
+I‘m not too serious about 3D maps (jet) and was trying to combine a joke about my obsession with the maps with a way to present my 3D modeling, thus the color scheme. I got the idea when John talked about the hexcodes in his list of kits. So for clarification: I don’t think the maps need a higher level of precision! They are excellent the way they are! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+manugu, to be honest I actually thought you were nuts with the notion of a 3D map, however didn't really want to say so.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+  So I'm kinda glad to hear that was just a gag.
+
+As you're no doubt well aware, the level of work required for something like that is huge. I take my hat off to Jay Machado who very much did just that so many years ago.
+
+So when you said, "So what now?", I was actually thinking...um... perhaps a build 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+But that said I know all too well the time required to get to that point. The ID's are a only part of a much larger puzzle.
+
+BTW, I was not aware of Blenders capabilities with photogrammetry and tracking cameras. Very interesting!
+
+Very keen to see where you take this.
+
+Best regards!
+────────────────────────────────────────────────────────────────────────
+Post #45  (forum post #5489271)
+Author    : manugu
+Date      : Nov 13, 2023 at 5:18 AM
+Reactions : Like, Love — joberg, Bjorn, darthluso
+────────────────────────────────────────────────────────────────────────
+
+Bjorn said:
+
+			manugu, to be honest I actually thought you were nuts with the notion of a 3D map, however didn't think it polite to say so.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+  So I'm kinda glad to hear that was just a gag.
+
+The level of work required for something like that is huge. I take my hat off to Jay Machado who very much did just that so many years ago.
+
+So when you said, "So what now?", I was actually thinking...up perhaps a build 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+But that said I know all too well the time required to get to that point. The ID's are a only part of a much larger puzzle.
+
+BTW, I was not aware of Blenders capabilities with photogrammetry and tracking cameras. Very interesting!
+
+Very keen to see where you take this.
+
+Best regards!
+		
+
+Click to expand...
+
+Hi Bjorn,
+
+I have no illutions about my sanity, I was warned you need to leave that at the door.
+
+Yes I love Jay Machado's blog. That is another level of insane, highly impressive!
+
+Before starting building I need to get organized. Some can dive right in and adapt as they go, I need to have a more or less clear roadmap. As you said, much more pieces of the puzzle still to gather on my end. Plus I need to start practicing again building small even! This is definitely a long term goal. At the moment it's very much just playing around.
+
+Blender is natively not capable of photogrammetry, nor of parametric moddeling (there are plugins though for that I have not tested). So I do the photogrammetry in colmap, import the point cloud and image positions to Blender via an add-on (GitHub - SBCV/Blender-Addon-Photogrammetry-Importer: Addon to import different photogrammetry formats into Blender). Then some basic shape fitting in Blender and export of the stls. Then it's on to FreeCad, I import the stls, build a parametric model or submodel which I then transfer back to Blender for photomatching. From there on its ping-pong between Blender and FreeCad, which is a bit annoying but works currently. I have jet to do this for more complex parts and assemblies, the Airfix Saturn V cone (no°42) was the most complex I did so far, and that has nice symmetries.
+
+FreeCad will become the bottleneck, so I'm testing Fusion360. Onshape I also tested, it's good but I would prefer to keep a tighter control over my files (only considering free plans/freeware).
+
+You mentioned you faced some initial issues with photogrammetry and had to start over in parts eventually. Do you have any tips or heads up thats good to be aware of from the beginning?
+
+Cheers,
+
+manu
+────────────────────────────────────────────────────────────────────────
+Post #46  (forum post #5489274)
+Author    : darthluso
+Date      : Nov 13, 2023 at 5:24 AM
+Reactions : Like — joberg, Bjorn
+────────────────────────────────────────────────────────────────────────
+
+manugu said:
+
+			Hi Bjorn,
+
+I have no illutions about my sanity, I was warned you need to leave that at the door.
+
+Yes I love Jay Machado's blog. That is another level of insane, highly impressive!
+
+Before starting building I need to get organized. Some can dive right in and adapt as they go, I need to have a more or less clear roadmap. As you said, much more pieces of the puzzle still to gather on my end. Plus I need to start practicing again building small even! This is definitely a long term goal. At the moment it's very much just playing around.
+
+Blender is natively not capable of photogrammetry, nor of parametric moddeling (there are plugins though for that I have not tested). So I do the photogrammetry in colmap, import the point cloud and image positions to Blender via an add-on (GitHub - SBCV/Blender-Addon-Photogrammetry-Importer: Addon to import different photogrammetry formats into Blender). Then some basic shape fitting in Blender and export of the stls. Then it's on to FreeCad, I import the stls, build a parametric model or submodel which I then transfer back to Blender for photomatching. From there on its ping-pong between Blender and FreeCad, which is a bit annoying but works currently. I have jet to do this for more complex parts and assemblies, the Airfix Saturn V cone (no°42) was the most complex I did so far, and that has nice symmetries.
+
+FreeCad will become the bottleneck, so I'm testing Fusion360. Onshape I also tested, it's good but I would prefer to keep a tighter control over my files (only considering free plans/freeware).
+
+You mentioned you faced some initial issues with photogrammetry and had to start over in parts eventually. Do you have any tips or heads up thats good to be aware of from the beginning?
+
+Cheers,
+
+manu
+		
+
+Click to expand...
+
+Hi.
+
+Great iniciative. I am plannig to model a millenium falcon myself and i am curious of your photogametry woorkflow.
+
+Could you provide some more information? Where do you get the photos to generate the point cloud?
+
+Again, nice work.
+────────────────────────────────────────────────────────────────────────
+Post #47  (forum post #5489306)
+Author    : Searun
+Date      : Nov 13, 2023 at 7:41 AM
+Reactions : Like — JSchneider, joberg, Bjorn
+────────────────────────────────────────────────────────────────────────
+
+jcoffman99, manugu and others.
+
+Great work you guys are doing on kit ID’s. I must admit I find it is a task to even keep up with your progress. As Bjorn said above, after all that work, “only a part of a much larger puzzle.” A reasonably good build of a 5 ft. Studio Scale Falcon is a very challenging design from many points of view. The degree of accuracy you add in greeblie identification is greatly appreciated.
+────────────────────────────────────────────────────────────────────────
+Post #48  (forum post #5489351)
+Author    : Bjorn
+Date      : Nov 13, 2023 at 10:48 AM
+Reactions : Like, Love, Wow — mb1k, joberg, manugu
+────────────────────────────────────────────────────────────────────────
+
+manugu said:
+
+			Hi Bjorn,
+
+I have no illutions about my sanity, I was warned you need to leave that at the door.
+		
+
+Click to expand...
+
+Excellent, it seems that we are both lost  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+manugu said:
+
+			Before starting building I need to get organized. Some can dive right in and adapt as they go, I need to have a more or less clear roadmap. As you said, much more pieces of the puzzle still to gather on my end. Plus I need to start practicing again building small even! This is definitely a long term goal. At the moment it's very much just playing around.
+		
+
+Click to expand...
+
+Yeah, I'm struck by the same affliction. Though I'm keenly aware that you can become stricken to a point of paralysis if you can't get past it. 
+
+This is really delving into ones psyche, but personally, I think I look at it from the same point of view that I need to be able to visualise the outcome, methods, materials and key aspects of the build and break them up into manageable chunks, and order of operation. 
+
+I have become self aware that it is often useful to step away from something that you are working on and then return a while later with a clear mind. It helps look at things from another perspective and be more critical of your work, but in a different way. And it gives you time to work through a solution that might have you stumped. Sometimes you brain is working through the problem whilst you are doing other things and you have a eureka moment. 
+
+Difficult to do this in a commercial sense, but it is still possible to a lesser degree when bouncing between different tasks.
+
+manugu said:
+
+			Blender is natively not capable of photogrammetry, nor of parametric moddeling (there are plugins though for that I have not tested). So I do the photogrammetry in colmap, import the point cloud and image positions to Blender via an add-on (GitHub - SBCV/Blender-Addon-Photogrammetry-Importer: Addon to import different photogrammetry formats into Blender). Then some basic shape fitting in Blender and export of the stls. Then it's on to FreeCad, I import the stls, build a parametric model or submodel which I then transfer back to Blender for photomatching. From there on its ping-pong between Blender and FreeCad, which is a bit annoying but works currently. I have jet to do this for more complex parts and assemblies, the Airfix Saturn V cone (no°42) was the most complex I did so far, and that has nice symmetries.
+
+FreeCad will become the bottleneck, so I'm testing Fusion360. Onshape I also tested, it's good but I would prefer to keep a tighter control over my files (only considering free plans/freeware).
+		
+
+Click to expand...
+
+Cool, I never could get onboard with Blender. The interface at the time seemed too confusing compared with what I was used to. I'll have to look into some of these other programs.
+
+If you can get Fusion up and running I'd go with that. It's very powerful and versatile and is becoming one of the dominant platforms for CAD. I have heard and seen lots of good things. Still haven't made the jump myself as I'm too hung up on Rhino3D and Solidworks for modelling.
+
+manugu said:
+
+			You mentioned you faced some initial issues with photogrammetry and had to start over in parts eventually. Do you have any tips or heads up thats good to be aware of from the beginning?
+		
+
+Click to expand...
+
+Yeah, don't be afraid to try crazy stuff. I read with the photogrammetry system that I'm using that you should not alter you photosets. 
+
+As I understand, this is because there is information embedded in the pictures that aid in software for calibration and operation. 
+
+That's fine in a perfect world where you can go back and take more photo's of the subject. However we don't really have that luxury with these things. They are on display briefly and in many cases we are reliant on what photos are available from the limited number of generous collections out there.
+
+I have had some success with slightly enhancing the photos that I process by brightening the dark areas of the picture. This not only improves the resulting texture that I generate but I have a feeling that it also gives the program more opportunity to register key points that would otherwise have been in shadow.
+
+I would also suggest that not all photosets are created equally. Some work better than others. And some some hardly work at all. Sometimes I find that key photo's trip up the result. If you can identify these pictures it is often best to remove them from the process entirely as they will diminish the result.
+
+If the pictures are too dark or too blurry or have noise, its often also best to not use them.
+
+I'm still a beginner with the photogrammetry side of things having been entirely self taught. Just keep banging away at it. It takes lots of time and perseverance. And a reasonably good computer for all those computations whilst it generates a result.
+
+The funny thing is that I only myself modelled that Airfix Saturn part #42 for the same reason last week. Seriously!
+
+[IMAGE: https://www.therpf.com/forums/attachments/screen-shot-2023-11-14-at-5-41-25-am-png.1761425/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/screen-shot-2023-11-11-at-4-32-59-pm-png.1761427/]
+
+Great minds think alike!
+────────────────────────────────────────────────────────────────────────
+Post #49  (forum post #5489353)
+Author    : Bjorn
+Date      : Nov 13, 2023 at 11:07 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+darthluso said:
+
+			Hi.
+
+Great iniciative. I am plannig to model a millenium falcon myself and i am curious of your photogametry woorkflow.
+
+Could you provide some more information? Where do you get the photos to generate the point cloud?
+
+Again, nice work.
+		
+
+Click to expand...
+
+Hey darthluso,
+
+A brief description of the pitfalls in my previous post. Perhaps best check out some Youtube videos on the subject for a better guide to workflow.  
+
+As far as photosets, there a many links to photos in some of the treads here. I'd check out the Gort's original 5' ID thread on the Falcon as I seem to remember finding a few there, and also vfxsup64's thread. He also provides some information outlining his approach.
+
+A google search might also yield a few photo collections.
+
+Best of luck!
+────────────────────────────────────────────────────────────────────────
+Post #50  (forum post #5489397)
+Author    : manugu
+Date      : Nov 13, 2023 at 2:31 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+darthluso said:
+
+			Hi.
+
+Great iniciative. I am plannig to model a millenium falcon myself and i am curious of your photogametry woorkflow.
+
+Could you provide some more information? Where do you get the photos to generate the point cloud?
+
+Again, nice work.
+		
+
+Click to expand...
+
+Hi darthluso,
+
+thanks!
+
+Photogrammetry was done using colmap,
+
+I got best results there after trying visualSFM and Meshroom. I used the default parameters there mostly, but my expectation to Photogrammetry currently is to retrieve a reasonable point cloud and most importantly to me the camera positions. If you want to have a dense reconstruction or even meshes, yes I think you have to curate your photo sets and spend some time cleaning up pointclouds also. Meshlab is quite helpful there for instance.
+
+I also highly recommend the threads suggested by Bjorn, not only for photos!
+
+Best
+
+Manu
+
+- edited - removed double content
+────────────────────────────────────────────────────────────────────────
+Post #51  (forum post #5489400)
+Author    : manugu
+Date      : Nov 13, 2023 at 2:35 PM
+Reactions : Like — joberg, Bjorn
+────────────────────────────────────────────────────────────────────────
+
+Searun said:
+
+			jcoffman99, manugu and others.
+
+Great work you guys are doing on kit ID’s. I must admit I find it is a task to even keep up with your progress. As Bjorn said above, after all that work, “only a part of a much larger puzzle.” A reasonably good build of a 5 ft. Studio Scale Falcon is a very challenging design from many points of view. The degree of accuracy you add in greeblie identification is greatly appreciated.
+		
+
+Click to expand...
+
+Thank you Searun! Much can be learned from amazing build threads here like your very own 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #52  (forum post #5489413)
+Author    : manugu
+Date      : Nov 13, 2023 at 3:33 PM
+Reactions : Like, Love — joberg, Rick Deckard, Bjorn
+────────────────────────────────────────────────────────────────────────
+
+Bjorn said:
+
+			Excellent, it seems that we are both lost  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Yeah, I'm struck by the same affliction. Though I'm keenly aware that you can become stricken to a point of paralysis if you can't get past it.
+
+This is really delving into ones psyche, but personally, I think I look at it from the same point of view that I need to be able to visualise the outcome, methods, materials and key aspects of the build and break them up into manageable chunks, and order of operation.
+
+I have become self aware that it is often useful to step away from something that you are working on and then return a while later with a clear mind. It helps look at things from another perspective and be more critical of your work, but in a different way. And it gives you time to work through a solution that might have you stumped. Sometimes you brain is working through the problem whilst you are doing other things and you have a eureka moment.
+
+Difficult to do this in a commercial sense, but it is still possible to a lesser degree when bouncing between different tasks.
+
+Cool, I never could get onboard with Blender. The interface at the time seemed too confusing compared with what I was used to. I'll have to look into some of these other programs.
+
+If you can get Fusion up and running I'd go with that. It's very powerful and versatile and is becoming one of the dominant platforms for CAD. I have heard and seen lots of good things. Still haven't made the jump myself as I'm too hung up on Rhino3D and Solidworks for modelling.
+
+Yeah, don't be afraid to try crazy stuff. I read with the photogrammetry system that I'm using that you should not alter you photosets.
+
+As I understand, this is because there is information embedded in the pictures that aid in software for calibration and operation.
+
+That's fine in a perfect world where you can go back and take more photo's of the subject. However we don't really have that luxury with these things. They are on display briefly and in many cases we are reliant on what photos are available from the limited number of generous collections out there.
+
+I have had some success with slightly enhancing the photos that I process by brightening the dark areas of the picture. This not only improves the resulting texture that I generate but I have a feeling that it also gives the program more opportunity to register key points that would otherwise have been in shadow.
+
+I would also suggest that not all photosets are created equally. Some work better than others. And some some hardly work at all. Sometimes I find that key photo's trip up the result. If you can identify these pictures it is often best to remove them from the process entirely as they will diminish the result.
+
+If the pictures are too dark or too blurry or have noise, its often also best to not use them.
+
+I'm still a beginner with the photogrammetry side of things having been entirely self taught. Just keep banging away at it. It takes lots of time and perseverance. And a reasonably good computer for all those computations whilst it generates a result.
+
+The funny thing is that I only myself modelled that Airfix Saturn part #42 for the same reason last week. Seriously!
+
+View attachment 1761425
+
+View attachment 1761427
+
+Great minds think alike!
+		
+
+Click to expand...
+
+Hi Bjorn,
+
+lots of good advice in your last post, so first of all thanks for that! I'll be re-reading that a few times in the future 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Rhino didn't cross my mind, I had it memorized as expensive high-end software. At a closer look it's in the 'still affordable' range and they offer a long test license, maybe worth giving it a shot eventually! I test Fusion now, let's see how far I get there. Not much use changing software and re-learn at every obstacle I face I guess.
+
+Boy was I surprised seeing your SaturnV part! You really nailed it! Even the off-centric holes in the tip part look right. I don't have them, they seem to be filled up on the Falcon and I couldn't get them aligned with the photo reference I have of that kit to a point I liked so I left them out for now. Images follow, I'm not at my PC now.
+
+- EDIT - here a pic; I need to get more into rendering still so it's just a snip of FreeCad. Definitely room for improvement here, but I'd be nuts going for 100% accuracy 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+:
+
+[IMAGE: https://www.therpf.com/forums/attachments/1699953218260-png.1761571/]
+
+I couldn't get the photogrammetry based meshes to the smooth level you show here or over at studioscalemodelers, so I decided to use the camera locations instead as guide for now. I'll keep practicing, your results look very encouraging!
+
+Cheers,
+
+manu
+────────────────────────────────────────────────────────────────────────
+Post #53  (forum post #5489521)
+Author    : manugu
+Date      : Nov 14, 2023 at 1:35 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+I edited above post with new content. Probably better practice to make a new post in the future and do edits for minor error corrections.
+────────────────────────────────────────────────────────────────────────
+Post #54  (forum post #5510878)
+Author    : vfxsup64
+Date      : Feb 5, 2024 at 3:19 PM
+Reactions : Like — manugu, joberg
+────────────────────────────────────────────────────────────────────────
+
+manugu said:
+
+			update on the spreadsheet:
+
+currently 1801 parts are listed (837 unique parts), from 122 source kits. Also the version of the maps used is now stated in a column.
+
+The listings for a few maps still have to be included / updated. Progress will remain slow but steady.
+
+On a side note: Heavily inspired by the mindblowing works of Maruska, Andre and Bjorn I‘m trying padawan steps in photogrammetry. Base are Alan’s amazing images. The results are nowhere near what has been displayed before, but I‘m having huge fun exploring!
+
+View attachment 1691602
+
+If anybody is interested, I put a pointcloud of the radar dish on my google drive. Without any dimensions or proof of accuracy currently, handle with caution!
+
+View attachment 1691603 View attachment 1691604 View attachment 1691606
+
+Won’t have much time to explore further in the near future, but will come back to that eventually. Too much fun and rewarding!
+
+That’s all for now, cheers
+
+Manu
+		
+
+Click to expand...
+
+Very nice...! I appreciate the mention...!
+────────────────────────────────────────────────────────────────────────
+Post #55  (forum post #5510879)
+Author    : vfxsup64
+Date      : Feb 5, 2024 at 3:20 PM
+Reactions : Like — manugu, joberg
+────────────────────────────────────────────────────────────────────────
+
+manugu said:
+
+			All right. I think it's done. John completed the mapping of the Falcon and already is on to even more devastating tasks. Congrats again! (Almost) all parts on those maps are now accounted for in the part list document and spreadsheet.
+
+2795 parts total.
+
+1350 unique parts.
+
+Round about. There are some quite specific ways I'm counting. And there are still edits, and probably will be for quite some time. But a big chunk is finished.
+
+So what now? The mapping is done. The maps are stunning.
+
+But...
+
+...
+
+wouldn't it be good to have more ... precise maps?
+
+I mean, the maps are great and all, but sometimes? The images are blurry or dark in some areas. The part you are interested is way in the back. Other parts are in the way of what you want to see. My proposal would be: digital 3D maps. You could rotate, zoom in and out, toggle parts visibility, colorize the way you want, overlay with reference photos ... ... 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Here's a start on the radar dish:
+
+View attachment 1760987View attachment 1760988View attachment 1760989View attachment 1760990
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ Seriously, at the moment it’s all still a bit rough, but I think I'm starting to get where I want to go with digital modeling. Once I'm out of the 'fooling around' phase and feel comfortable with the results I‘ll share step files also. Let’s see…
+
+All images above (overlays) curtesy of Alan Anderson.
+
+Thanks to maruska, minifig and Bjorn for your publicly available 3D greeblies partly used above and most of all for inspiration to do this!
+
+Thanks for looking
+
+manu
+		
+
+Click to expand...
+
+Mmmhhh...photo-matching (what I term "camera snaps"). Good stuff - and in Blender!
+────────────────────────────────────────────────────────────────────────
+Post #56  (forum post #5527690)
+Author    : manugu
+Date      : Apr 9, 2024 at 12:38 PM
+Reactions : Like, Haha — Dazza007, joberg, Studio Kitbash
+────────────────────────────────────────────────────────────────────────
+
+So I spent a bit more time camera snapping and learning Fusion (I‘m not as fast as Dazza007, took me longer than a weekend 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ )
+
+Here are some preliminary measurements of the radar dish (in mm). The lower base is not there yet, I have no clue how to assess how deep that goes into the hull. If anybody has some insight on that please tell me! Else I'll just guesstimate. [edit: guesstimate from Bandai images would be ~29.61 mm]
+
+Also if anybody has corrections or comments, I'm always happy to get feedback! (still learning...)
+
+[IMAGE: https://www.therpf.com/forums/attachments/radardishalignment_2024-apr-09_03-19-40pm-000_customizedview16390313172-png.1808666/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/1712691015068-png.1808665/]
+
+The files (stl, step and pdf) are also in a subfolder on the google drive, to which the link is in the first post.
+
+Cheers,
+
+manu
+
+ 
+
+Attachments
+
+MillenniumFalcon_RadarDish.pdf
+
+					151 KB
+					
+					· Views: 199
+────────────────────────────────────────────────────────────────────────
+Post #57  (forum post #5535020)
+Author    : Searun
+Date      : May 8, 2024 at 4:59 AM
+Reactions : Like — manugu, joberg
+────────────────────────────────────────────────────────────────────────
+
+Managua, 
+
+Just went through your thread again on kit parts. Saw the latest talley. Also re-read some of your build preparation philosophy. Great plan your work, work your plan advice.
+
+ When it comes to the 5 ft. Falcon, one  needs to leave sanity at the door regardless of the degree of fidelity you decide. Past “pathfinders” talent continually impresses me, as does the latest technology application which demands more homework. No easy way, regardless.
+────────────────────────────────────────────────────────────────────────
+Post #58  (forum post #5535177)
+Author    : manugu
+Date      : May 8, 2024 at 1:21 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Searun said:
+
+			Managua,
+
+Just went through your thread again on kit parts. Saw the latest talley. Also re-read some of your build preparation philosophy. Great plan your work, work your plan advice.
+
+ When it comes to the 5 ft. Falcon, one  needs to leave sanity at the door regardless of the degree of fidelity you decide. Past “pathfinders” talent continually impresses me, as does the latest technology application which demands more homework. No easy way, regardless.
+		
+
+Click to expand...
+
+Speaking of past pathfinders, I wish I had the drawing skills of a Rodolfo Martínez or the like. I have not, so I need to rely on CAD to get to some halfway decent plans.
+
+No, no easy way. But so worth it as you continue to proof 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #59  (forum post #5576708)
+Author    : manugu
+Date      : Oct 6, 2024 at 3:13 PM
+Reactions : Like, Love — mb1k, joberg, Jaitea
+────────────────────────────────────────────────────────────────────────
+
+I just realized that the 'new' ESB pits of the Falcon are compiled (almost) entirely from parts from the original pits. Seems many of you knew this already and have pointed this out occasionaly, but just for reference I made this lookup map. Blue marked parts can be found now in the port, orange in the starboard pit. Cyan originate from the former starboard, magenta from the former port pit. Yellow parts I did not find in the original pits (yet?). Images from Chronicles and Alan Anderson.
+
+[IMAGE: https://www.therpf.com/forums/attachments/pitpartorigins-jpg.1867843/]
+
+Subassemblies like 5, 6 and 7 below seem to be mostly the same now as they have been in the original pits.
+
+If anybody knows whether the yellow marked parts numbered below have been present in the original pits I'd appreciate the info. As well as any help on the IDs of the parts marked with ???
+
+[IMAGE: https://www.therpf.com/forums/attachments/pitpartquestions-jpg.1867844/]
+
+EDIT: found the McLaren part in 5.
+
+EDIT2: corrected some errors and updated with info from later in this thread
+────────────────────────────────────────────────────────────────────────
+Post #60  (forum post #5576873)
+Author    : GTMill
+Date      : Oct 7, 2024 at 10:00 AM
+Reactions : Like — joberg, manugu
+────────────────────────────────────────────────────────────────────────
+
+Part one is from the Bandai 1/48 King tiger kit if my memory serves me right. 
+
+The part is very similar but not exactly the same in the Panther G kit
+────────────────────────────────────────────────────────────────────────
+Post #61  (forum post #5576890)
+Author    : manugu
+Date      : Oct 7, 2024 at 10:37 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+GTMill said:
+
+			Part one is from the Bandai 1/48 King tiger kit if my memory serves me right.
+
+The part is very similar but not exactly the same in the Panther G kit
+		
+
+Click to expand...
+
+Thank you sir! Your memory is obviously excellent 
+
+[IMAGE: https://www.therpf.com/forums/attachments/1728322611456-png.1867086/]
+────────────────────────────────────────────────────────────────────────
+Post #62  (forum post #5576939)
+Author    : 3Dsf
+Date      : Oct 7, 2024 at 12:55 PM
+Reactions : Like — joberg, manugu
+────────────────────────────────────────────────────────────────────────
+
+manugu said:
+
+			I just realized that the 'new' ESB pits of the Falcon are compiled (almost) entirely from parts from the original pits. Seems many of you knew this already and have pointed this out occasionaly, but just for reference I made this lookup map. Blue marked parts can be found now in the port, orange in the starboard pit. Cyan originate from the former starboard, magenta from the former port pit. Yellow parts I did not find in the original pits (yet?). Images from Chronicles and Alan Anderson.
+		
+
+Click to expand...
+
+ Those photos of the ESB underside pits are great! Would you know where they could be found, not marked up?
+
+ I did a bunch of research on the appearance of those revised pits:
+
+[IMAGE: APaQ0ST74XoZtS7RvKIGkH9OrDsSGQulIV84L8EWLVwjzg_XKcBGeVZBqr_59pL0uuiInjzfY6h1RBqtg-HeLeIbq5pQXI9Tehkbk-_uM_8oCqFkBGgqeXQdoW-EEqgSPPFPp_tmFoRqZRCfKnTtfru1YohAU9qwKe8KfGMmwG-y1ieRa01KmUOke3gahkE=w16383]
+
+						The Mystery of the Five Foot Falcon's Undersaucer Pits
+					
+
+Maybe not the catchiest title, but there you have it. Here's an article on the last remaining mystery* of the five foot Falcon: details of the lower maintenance pits as they appear from 1979 onwards. I wrote this up while researching the designs for some 3D-printed parts.
+
+[IMAGE: favicon.ico]
+
+					sites.google.com
+────────────────────────────────────────────────────────────────────────
+Post #63  (forum post #5576942)
+Author    : manugu
+Date      : Oct 7, 2024 at 1:02 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+3Dsf said:
+
+			Those photos of the ESB underside pits are great! Would you know where they could be found, not marked up?
+
+ I did a bunch of research on the appearance of those revised pits:
+
+[IMAGE: APaQ0ST74XoZtS7RvKIGkH9OrDsSGQulIV84L8EWLVwjzg_XKcBGeVZBqr_59pL0uuiInjzfY6h1RBqtg-HeLeIbq5pQXI9Tehkbk-_uM_8oCqFkBGgqeXQdoW-EEqgSPPFPp_tmFoRqZRCfKnTtfru1YohAU9qwKe8KfGMmwG-y1ieRa01KmUOke3gahkE=w16383]
+
+						The Mystery of the Five Foot Falcon's Undersaucer Pits
+					
+
+Maybe not the catchiest title, but there you have it. Here's an article on the last remaining mystery* of the five foot Falcon: details of the lower maintenance pits as they appear from 1979 onwards. I wrote this up while researching the designs for some 3D-printed parts.
+
+[IMAGE: favicon.ico]
+
+					sites.google.com
+				
+
+Click to expand...
+
+Dear 3Dsf,
+
+yes, I know, I heavily relied on your notes also and should have mentioned that here, so thank you!!
+
+I'll pm you about the photos.
+────────────────────────────────────────────────────────────────────────
+Post #64  (forum post #5577083)
+Author    : 3Dsf
+Date      : Oct 8, 2024 at 4:09 AM
+Reactions : Like — Searun, manugu, joberg
+────────────────────────────────────────────────────────────────────────
+
+manugu said:
+
+			Dear 3Dsf,
+
+yes, I know, I heavily relied on your notes also and should have mentioned that here, so thank you!!
+
+I'll pm you about the photos.
+		
+
+Click to expand...
+
+ Fab! Glad to be of help. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #65  (forum post #5577355)
+Author    : manugu
+Date      : Oct 9, 2024 at 6:19 AM
+Reactions : Wow — joberg
+────────────────────────────────────────────────────────────────────────
+
+... and I was mixing up colors. Missing part in 6 on top of the lunar lander is Aurora Forrestal or Saratoga. This info has been on 3Dsf's notes only ~6.5 years now, took me a while to find it.
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Sorry jcoffman99, you're missing 59 kits now I guess 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #66  (forum post #5577358)
+Author    : jcoffman99
+Date      : Oct 9, 2024 at 6:46 AM
+Reactions : Haha, Like — bwayne64, swgeek, joberg
+────────────────────────────────────────────────────────────────────────
+
+manugu said:
+
+			... and I was mixing up colors. Missing part in 6 on top of the lunar lander is Aurora Forrestal or Saratoga. This info has been on 3Dsf's notes only ~6.5 years now, took me a while to find it.
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Sorry jcoffman99, you're missing 59 kits now I guess 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+Ah man....that's it...I'm shutting the whole thing down. lol
+────────────────────────────────────────────────────────────────────────
+Post #67  (forum post #5579311)
+Author    : manugu
+Date      : Oct 18, 2024 at 12:09 AM
+Reactions : Like, Love, Wow — Studio Kitbash, jcoffman99, joberg
+────────────────────────────────────────────────────────────────────────
+
+[IMAGE: https://www.therpf.com/forums/attachments/1729235296219-png.1872728/]
+
+Sealab.
+────────────────────────────────────────────────────────────────────────
+Post #68  (forum post #5579329)
+Author    : RealDaveWinter
+Date      : Oct 18, 2024 at 5:21 AM
+Reactions : Like — manugu, joberg
+────────────────────────────────────────────────────────────────────────
+
+manugu said:
+
+View attachment 1872728
+
+Sealab.
+		
+
+Click to expand...
+
+Nice!
+────────────────────────────────────────────────────────────────────────
+Post #69  (forum post #5584288)
+Author    : manugu
+Date      : Nov 9, 2024 at 2:25 PM
+Reactions : Like, Love — mb1k, joberg
+────────────────────────────────────────────────────────────────────────
+
+Hi fellow Falcon nutters,
+
+here comes a little experiment. I have identified (99% sure!) the following part added on top of the starboard backwards FalGal plate… 
+
+[IMAGE: https://www.therpf.com/forums/attachments/1731186057534-png.1878863/]
+
+… and will share its ID with anybody who is willing to share in return some unique 5’ Falcon info or interesting Falcon related stuff with me.
+
+Here are the conditions:
+
+- what you give is yours to share.
+
+- you can share the ID afterwards with anybody, I don’t want to keep it secret, I just want a little fun out of this! Just please don‘t post it around here immediately…
+
+- I‘m looking for any of the following, preferably in large quantities, but one would do just fine too: facts considered not commonly known, not public (or wide spread) photos from exhibitions or vintage footage, a nice shot from your builds if you have and want to share (preferably not posted already, but I’m not picky!), unknown greeblies IDs of course, mysterious kits (haha, at least I can try), digital greeblies that are close to the original or any other bit you think is appropriate or might be of interest.
+
+- anything you sent I understand as private and confidential unless explicitly stated otherwise.
+
+Now as with every experiment, I’m really curious what comes out this one!
+
+Cheers
+
+Manu
+────────────────────────────────────────────────────────────────────────
+Post #70  (forum post #5585870)
+Author    : Shamon
+Date      : Nov 15, 2024 at 8:41 PM
+Reactions : Like — mb1k, David3, 3Dsf
+────────────────────────────────────────────────────────────────────────
+
+こんにちは、マヌグ！日本から来ました！笑
+
+タミヤ 1/12 ロータス 49B フォード F-1 #C16
+
+ 
+
+Attachments
+
+[IMAGE: 1523360-d7e00f32acb19df5dc203a31c854c431.jpg]
+
+0e09bdbcfde85e8cba6e1b08b5dfda47.jpg
+
+					2.1 MB
+					
+					· Views: 142
+					
+				
+
+[IMAGE: 1523361-7e548bc6f76e63559a2ab699a577f5b1.jpg]
+
+IMG_3826.JPG
+
+					964.1 KB
+					
+					· Views: 131
+					
+				
+
+[IMAGE: 1523362-8ddb16a81e5dfb52e343907a7ed6b492.jpg]
+
+hgvhjhy.jpg
+
+					23.8 KB
+					
+					· Views: 135
+					
+				
+
+[IMAGE: 1523363-409f235daa594270fc344851fece3701.jpg]
+
+IMG_3827.JPG
+
+					1.1 MB
+					
+					· Views: 143
+────────────────────────────────────────────────────────────────────────
+Post #71  (forum post #5585881)
+Author    : manugu
+Date      : Nov 16, 2024 at 12:55 AM
+Reactions : Like — mb1k, joberg, Shamon
+────────────────────────────────────────────────────────────────────────
+
+Shamon said:
+
+			こんにちは、マヌグ！日本から来ました！笑
+
+タミヤ 1/12 ロータス 49B フォード F-1 #C16
+		
+
+Click to expand...
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ Look who smiles there! Thank you very much for letting us know Shamon, welcome to the RPF!
+
+And thanks for sharing a glimpse of your work.
+
+Do you think both clones hide in that pit?
+
+ 
+
+Attachments
+
+[IMAGE: 1523372-4d6bae584027825e3a90f0b04f31569d.jpg]
+
+1731743756015.png
+
+					829.6 KB
+					
+					· Views: 116
+────────────────────────────────────────────────────────────────────────
+Post #72  (forum post #5585885)
+Author    : Shamon
+Date      : Nov 16, 2024 at 2:05 AM
+Reactions : Like — mb1k, 3Dsf, joberg
+────────────────────────────────────────────────────────────────────────
+
+manugu said:
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ Look who smiles there! Thank you very much for letting us know Shamon, welcome to the RPF!
+
+And thanks for sharing a glimpse of your work.
+
+Do you think both clones hide in that pit?
+		
+
+Click to expand...
+
+I didn't notice at all! Thank you for letting me know.
+
+The size is also perfect.
+
+ 
+
+Attachments
+
+[IMAGE: 1523379-25c57b9cbc4d37e2a10aa2e410a85a58.jpg]
+
+IMG_3833.JPG
+
+					1.7 MB
+					
+					· Views: 122
+────────────────────────────────────────────────────────────────────────
+Post #73  (forum post #5585929)
+Author    : RealDaveWinter
+Date      : Nov 16, 2024 at 7:12 AM
+Reactions : Like — Shamon, manugu, joberg
+────────────────────────────────────────────────────────────────────────
+
+Shamon said:
+
+			こんにちは、マヌグ！日本から来ました！笑
+
+タミヤ 1/12 ロータス 49B フォード F-1 #C16
+		
+
+Click to expand...
+
+Yep, that's what I used on my build too.
+────────────────────────────────────────────────────────────────────────
+Post #74  (forum post #5585932)
+Author    : joberg
+Date      : Nov 16, 2024 at 7:13 AM
+Reactions : Like — Shamon, manugu
+────────────────────────────────────────────────────────────────────────
+
+Great to have Shamon as a new member
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #75  (forum post #5586119)
+Author    : Shamon
+Date      : Nov 17, 2024 at 5:29 AM
+Reactions : Like — mb1k, joberg
+────────────────────────────────────────────────────────────────────────
+
+I think I found this guy.
+
+Nichimo 1/35 Remote control tank.
+
+I had two remote control tank, but I sold them before I knew it, so I don't have them anymore.
+
+I regret letting them go.
+
+ 
+
+Attachments
+
+[IMAGE: 1523582-2de2ce4f616b49e4d42ef33da4b324fe.jpg]
+
+Port bottom forward mandible pit copy.jpg
+
+					44.3 KB
+					
+					· Views: 129
+					
+				
+
+[IMAGE: 1523584-aa490991b6b0e4abcc845265e32f95c1.jpg]
+
+hjuha.jpg
+
+					32.1 KB
+					
+					· Views: 137
+────────────────────────────────────────────────────────────────────────
+Post #76  (forum post #5586131)
+Author    : RealDaveWinter
+Date      : Nov 17, 2024 at 6:23 AM
+Reactions : Like — Shamon, manugu, joberg
+────────────────────────────────────────────────────────────────────────
+
+I don't suppose you recall which tank that was from?
+
+Without seeing the actual part, my concern would be the diameter. If you measure the part as used on the PG Bandai kit, that gear's diameter is ~11mm. Most of the spur gears I see in the radio control tank kit drive units are in the 5-6mm range.
+
+It's certainly the right shape though.
+────────────────────────────────────────────────────────────────────────
+Post #77  (forum post #5586207)
+Author    : manugu
+Date      : Nov 17, 2024 at 12:00 PM
+Reactions : Sad, Like — joberg, Shamon
+────────────────────────────────────────────────────────────────────────
+
+Shamon said:
+
+			I think I found this guy.
+
+Nichimo 1/35 Remote control tank.
+
+I had two remote control tank, but I sold them before I knew it, so I don't have them anymore.
+
+I regret letting them go.
+		
+
+Click to expand...
+
+Hi Shamon,
+
+I agree with Dave, no need to regret those sales. Here a pic from John’s 1/35 Nichimo JagdTiger from SciFiKitbash, which looks very similar to the one you posted. The shape looks good, as Dave already wrote, but the size does not fit 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Cheers
+
+ 
+
+Attachments
+
+[IMAGE: 1523736-039e30a88390952d34fe3a02aaf5935e.jpg]
+
+IMG_5989.jpeg
+
+					386.1 KB
+					
+					· Views: 104
+────────────────────────────────────────────────────────────────────────
+Post #78  (forum post #5586321)
+Author    : Shamon
+Date      : Nov 17, 2024 at 11:52 PM
+Reactions : Like — joberg, manugu
+────────────────────────────────────────────────────────────────────────
+
+Dave, Manugu, thank you for letting me know!
+
+I'm glad I didn't buy it in a hurry. lol
+────────────────────────────────────────────────────────────────────────
+Post #79  (forum post #5586761)
+Author    : Shamon
+Date      : Nov 19, 2024 at 10:00 PM
+Reactions : Like, Love, Wow — mb1k, jcoffman99, manugu
+────────────────────────────────────────────────────────────────────────
+
+Kettenkrad #106
+
+ 
+
+Attachments
+
+[IMAGE: 1524412-98e6d2b0229bfa14667bbae212ba6090.jpg]
+
+Img_7356.jpg
+
+					117.7 KB
+					
+					· Views: 121
+					
+				
+
+[IMAGE: 1524413-87df8dddc6547ce5307ab842390ad8c8.jpg]
+
+IMG_3869.JPG
+
+					2.4 MB
+					
+					· Views: 127
+					
+				
+
+[IMAGE: 1524414-ad47b1d54b5deacb98cb85e580139686.jpg]
+
+IMG_3872.JPG
+
+					44 KB
+					
+					· Views: 120
+────────────────────────────────────────────────────────────────────────
+Post #80  (forum post #5586774)
+Author    : manugu
+Date      : Nov 20, 2024 at 12:57 AM
+────────────────────────────────────────────────────────────────────────
+
+Great find Shamon! ... I always assumed it was a piece of the rubber tubing from the Lotus 49.
+
+Do you think the subsequent pipe that continues under the hull shown below is also connected to that piece? Shaddows would indicate that it sits right under the hull plating. On most builds I see it connected one 'level' down.
+
+[IMAGE: https://www.therpf.com/forums/attachments/1732092812624-png.1881906/]
+────────────────────────────────────────────────────────────────────────
+Post #81  (forum post #5586777)
+Author    : Treadwell
+Date      : Nov 20, 2024 at 1:20 AM
+Reactions : Like — joberg, manugu, Shamon
+────────────────────────────────────────────────────────────────────────
+
+Given the sharp line between black and white I'd say a missing part was there.
+────────────────────────────────────────────────────────────────────────
+Post #82  (forum post #5586788)
+Author    : Shamon
+Date      : Nov 20, 2024 at 3:53 AM
+Reactions : Like — joberg, manugu
+────────────────────────────────────────────────────────────────────────
+
+manugu said:
+
+			Great find Shamon! ... I always assumed it was a piece of the rubber tubing from the Lotus 49.
+
+Do you think the subsequent pipe that continues under the hull shown below is also connected to that piece? Shaddows would indicate that it sits right under the hull plating. On most builds I see it connected one 'level' down.
+
+View attachment 1881906
+
+Click to expand...
+
+I agree with you. I think the tip of the Kettenkrad is black is evidence that the pipe was connected to this place.
+
+ 
+
+Attachments
+
+[IMAGE: 1524420-98e6d2b0229bfa14667bbae212ba6090.jpg]
+
+Img_7356.jpg
+
+					117.7 KB
+					
+					· Views: 127
+────────────────────────────────────────────────────────────────────────
+Post #83  (forum post #5586810)
+Author    : RealDaveWinter
+Date      : Nov 20, 2024 at 6:50 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+I'm sorry, I'm a bit lost there, is that the McLaren Pit? Where is that?
+────────────────────────────────────────────────────────────────────────
+Post #84  (forum post #5586819)
+Author    : manugu
+Date      : Nov 20, 2024 at 7:20 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+RealDaveWinter said:
+
+			I'm sorry, I'm a bit lost there, is that the McLaren Pit? Where is that?
+		
+
+Click to expand...
+
+Yes, McLaren Pit 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #85  (forum post #5587063)
+Author    : Shamon
+Date      : Nov 21, 2024 at 9:18 AM
+Reactions : Like — joberg, manugu
+────────────────────────────────────────────────────────────────────────
+
+RealDaveWinter said:
+
+			I'm sorry, I'm a bit lost there, is that the McLaren Pit? Where is that?
+		
+
+Click to expand...
+
+By investigating the place where the parts in the McLaren Pit were moved, we are confirming the appearance at the time.
+────────────────────────────────────────────────────────────────────────
+Post #86  (forum post #5587446)
+Author    : Shamon
+Date      : Nov 23, 2024 at 12:15 AM
+Reactions : Like — manugu, joberg
+────────────────────────────────────────────────────────────────────────
+
+It seems that he accidentally forgot to color it.
+
+ 
+
+Attachments
+
+[IMAGE: 1525103-4ef7c140f374683ebbf8c99b55e207da.jpg]
+
+IMG_3952.JPG
+
+					7.9 MB
+					
+					· Views: 177
+					
+				
+
+[IMAGE: 1525104-eec50d93f72080c51d084108e9fce00b.jpg]
+
+IMG_3953.JPG
+
+					1.8 MB
+					
+					· Views: 138
+────────────────────────────────────────────────────────────────────────
+Post #87  (forum post #5587574)
+Author    : manugu
+Date      : Nov 23, 2024 at 12:43 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Thank you Shamon! I think I was a bit imprecise here, I meant the other part not colored at all:
+
+[IMAGE: https://www.therpf.com/forums/attachments/1732393553819-png.1882743/]
+
+I had the impression a little bit of that part was also just slightly visible underneath the Ferrari part, but your second pic now convinced me U13b is another C12 from the McLaren and the left bit is in reality nothing at all.
+
+I updated the collection of Unidentified Falcon Objects accordingly.
+────────────────────────────────────────────────────────────────────────
+Post #88  (forum post #5587642)
+Author    : Shamon
+Date      : Nov 23, 2024 at 8:12 PM
+Reactions : Like — joberg, Rick Deckard, manugu
+────────────────────────────────────────────────────────────────────────
+
+t seems that we have no choice but to believe in Bandai when it comes to lost parts.
+
+ 
+
+Attachments
+
+[IMAGE: 1525346-32fc4efcf757ea69e4b4ec65b6eae5a3.jpg]
+
+IMG_3960.JPG
+
+					215.9 KB
+					
+					· Views: 130
+					
+				
+
+[IMAGE: 1525347-1db442faec77fc5c29c57b5665c674d8.jpg]
+
+IMG_3962.JPG
+
+					2 MB
+					
+					· Views: 147
+					
+				
+
+[IMAGE: 1525348-5def3d83709dd56f7f76a12facd6f43c.jpg]
+
+ffth.JPG
+
+					974.3 KB
+					
+					· Views: 153
+					
+				
+
+[IMAGE: 1525349-10f87b15718040a93543824c33fab6b5.jpg]
+
+IMG_3974.JPG
+
+					513.9 KB
+					
+					· Views: 151
+────────────────────────────────────────────────────────────────────────
+Post #89  (forum post #5587644)
+Author    : Shamon
+Date      : Nov 23, 2024 at 8:16 PM
+Reactions : Sad — joberg
+────────────────────────────────────────────────────────────────────────
+
+Here is another part that I don't understand.
+
+ 
+
+Attachments
+
+[IMAGE: 1525350-bbac2c5353652130d6d2f230f3c45d11.jpg]
+
+Img_77852.jpg
+
+					51.9 KB
+					
+					· Views: 122
+────────────────────────────────────────────────────────────────────────
+Post #90  (forum post #5587645)
+Author    : Shamon
+Date      : Nov 23, 2024 at 8:45 PM
+Reactions : Like, Wow — Studio Kitbash, jcoffman99, joberg
+────────────────────────────────────────────────────────────────────────
+
+I found it! lol
+
+Ferrari 312B #E2
+
+ 
+
+Attachments
+
+[IMAGE: 1525351-b6f59d944740d1a3cb41aaea8ccc4fbe.jpg]
+
+IMG_3975.JPG
+
+					2.5 MB
+					
+					· Views: 129
+					
+				
+
+[IMAGE: 1525352-35fc423310e78fa99825fe374c6cdc0c.jpg]
+
+IMG_3976.JPG
+
+					1.4 MB
+					
+					· Views: 139
+────────────────────────────────────────────────────────────────────────
+Post #91  (forum post #5587707)
+Author    : joberg
+Date      : Nov 24, 2024 at 7:10 AM
+Reactions : Like — Shamon
+────────────────────────────────────────────────────────────────────────
+
+Shamon said:
+
+			I found it! lol
+
+Ferrari 312B #E2
+		
+
+Click to expand...
+
+Good eyes Shamon
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #92  (forum post #5587832)
+Author    : jcoffman99
+Date      : Nov 24, 2024 at 7:37 PM
+Reactions : Like — joberg, Shamon
+────────────────────────────────────────────────────────────────────────
+
+I just realized I don't have a map that shows that angle. I'll work on one.
+────────────────────────────────────────────────────────────────────────
+Post #93  (forum post #5587857)
+Author    : Shamon
+Date      : Nov 24, 2024 at 10:36 PM
+Reactions : Like — joberg, manugu, swgeek
+────────────────────────────────────────────────────────────────────────
+
+Here, it looks like there are the same parts on the left and right.
+
+ 
+
+Attachments
+
+[IMAGE: 1525611-e8607344db1b18578c504b650d706eda.jpg]
+
+ventral deck copy.jpg
+
+					234.8 KB
+					
+					· Views: 156
+					
+				
+
+[IMAGE: 1525612-7fece2360d9434d4a3f40fe33b1128d5.jpg]
+
+IMG_3988.JPG
+
+					1.8 MB
+					
+					· Views: 164
+────────────────────────────────────────────────────────────────────────
+Post #94  (forum post #5596368)
+Author    : Shamon
+Date      : Jan 3, 2025 at 5:59 PM
+Reactions : Like — MrRobot, satazius, manugu
+────────────────────────────────────────────────────────────────────────
+
+For everyone's reference, what I learned from failure.
+
+<January 16th. I made a small correction to the first image.>
+
+ 
+
+Attachments
+
+[IMAGE: 1538922-e5b3453d33fc52dc3f6b0fc546956b4a.jpg]
+
+c sprues.png
+
+					600.2 KB
+					
+					· Views: 137
+					
+				
+
+[IMAGE: 1538923-72bc2c72dda2935ac25a1b72fcfc87e9.jpg]
+
+tyrrell ford.png
+
+					1.3 MB
+					
+					· Views: 133
+					
+				
+
+[IMAGE: 1538924-85c8e5a57c464f28a4bcf5d1b329ed16.jpg]
+
+centurion.png
+
+					1.3 MB
+					
+					· Views: 145
+────────────────────────────────────────────────────────────────────────
+Post #95  (forum post #5596396)
+Author    : Studio Kitbash
+Date      : Jan 3, 2025 at 8:10 PM
+Reactions : Like — joberg, Shamon
+────────────────────────────────────────────────────────────────────────
+
+Shamon said:
+
+			For everyone's reference, what I learned from failure.
+		
+
+Click to expand...
+
+Where you fail we have all failed...
+
+Losing is just practice for winning...
+
+And etc...
+────────────────────────────────────────────────────────────────────────
+Post #96  (forum post #5600606)
+Author    : Shamon
+Date      : Jan 23, 2025 at 6:14 AM
+Reactions : Like, Love — manugu, Studio Kitbash, TDahl
+────────────────────────────────────────────────────────────────────────
+
+Today I did an experiment using a light. The black thing in the middle of the disc seems to have been a shadow.
+
+ 
+
+Attachments
+
+[IMAGE: 1540783-ab6eb95854e7884979240da938fcabdc.jpg]
+
+shadow.jpg
+
+					229.7 KB
+					
+					· Views: 141
+────────────────────────────────────────────────────────────────────────
+Post #97  (forum post #5600613)
+Author    : RealDaveWinter
+Date      : Jan 23, 2025 at 6:46 AM
+Reactions : Like — Shamon, joberg, jcoffman99
+────────────────────────────────────────────────────────────────────────
+
+Thanks. I came to the same conclusion and used the same part that you have shown here. Somewhere in my thread I have a post about it.
+
+I flipped mine over though, so that the lip is on the bottom making a stepped ridge. It could be another trick of the light, but to me it looks like the edge is sharper and there's a lip on the bottom.
+
+You've been a great help in identifying various parts and solving some of the mysteries.
+────────────────────────────────────────────────────────────────────────
+Post #98  (forum post #5600906)
+Author    : Shamon
+Date      : Jan 24, 2025 at 5:27 AM
+Reactions : Like — manugu, joberg
+────────────────────────────────────────────────────────────────────────
+
+I chose Panther because I wanted to use a disc of the same diameter as possible to conduct the experiment accurately.
+
+However, considering the edge of the bottom, I think the Panther is too small.
+
+So, this time, we conducted an experiment using Hummel. This is just an experiment, and I don't think it's correct. I think it's a glue sticking out from the side of the disc.
+
+ 
+
+Attachments
+
+[IMAGE: 1541060-6735a0a2be064f05496f2b10105a55b9.jpg]
+
+IMG_4986.JPG
+
+					772.8 KB
+					
+					· Views: 121
+					
+				
+
+[IMAGE: 1541061-49a4252d2e90472e0bb872e9432a2c9f.jpg]
+
+shape.jpg
+
+					365 KB
+					
+					· Views: 119
+────────────────────────────────────────────────────────────────────────
+Post #99  (forum post #5601930)
+Author    : Shamon
+Date      : Jan 28, 2025 at 1:47 AM
+Reactions : Wow, Love, Like — jcoffman99, David3, manugu
+────────────────────────────────────────────────────────────────────────
+
+There are Several parts that cannot be found in the Chieftain pit yet, but so far I have only found this.
+
+ 
+
+Attachments
+
+[IMAGE: 1542105-4a1e5fe2803acea172d03f1687911daa.jpg]
+
+1.jpg
+
+					1.4 MB
+					
+					· Views: 162
+					
+				
+
+[IMAGE: 1542106-cb01865ddee944ffb15a9edee94a1ef2.jpg]
+
+2.jpg
+
+					194 KB
+					
+					· Views: 147
+					
+				
+
+[IMAGE: 1542107-b25fd67a1dbfd8d57021e2e7a46cdeb5.jpg]
+
+3.jpg
+
+					218.4 KB
+					
+					· Views: 149
+					
+				
+
+[IMAGE: 1542108-717839a3518878ca1439072186ee5997.jpg]
+
+4.jpg
+
+					224.1 KB
+					
+					· Views: 148
+					
+				
+
+[IMAGE: 1542109-5b8975765e58eec32b93425ace48f344.jpg]
+
+5.jpg
+
+					430.1 KB
+					
+					· Views: 162
+────────────────────────────────────────────────────────────────────────
+Post #100  (forum post #5601931)
+Author    : RealDaveWinter
+Date      : Jan 28, 2025 at 1:49 AM
+Reactions : Like — joberg, Shamon
+────────────────────────────────────────────────────────────────────────
+
+Wow... nice finds!
+────────────────────────────────────────────────────────────────────────
+Post #101  (forum post #5601940)
+Author    : Shamon
+Date      : Jan 28, 2025 at 4:10 AM
+Reactions : Like — manugu, joberg
+────────────────────────────────────────────────────────────────────────
+
+There are 10 parts that cannot be found in the Chieftain pit yet.
+
+I have stopped trusting Bandai falcon. That's because the walls of Chieftain pit don't match the actual photo.
+
+ 
+
+Attachments
+
+[IMAGE: 1542125-e5a6ce88d579f18c74878a475ab4898e.jpg]
+
+6.jpg
+
+					208.9 KB
+					
+					· Views: 179
+────────────────────────────────────────────────────────────────────────
+Post #102  (forum post #5601941)
+Author    : RealDaveWinter
+Date      : Jan 28, 2025 at 4:18 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+I believe #9 is just a bit of plastic rod.
+────────────────────────────────────────────────────────────────────────
+Post #103  (forum post #5601942)
+Author    : Shamon
+Date      : Jan 28, 2025 at 4:40 AM
+Reactions : Wow — joberg
+────────────────────────────────────────────────────────────────────────
+
+RealDaveWinter said:
+
+			I believe #9 is just a bit of plastic rod.
+		
+
+Click to expand...
+
+I hope so, but it looks more complicated to me.
+
+ 
+
+Attachments
+
+[IMAGE: 1542126-3cb1713c4cae6ac95b911d517978fcb2.jpg]
+
+7.jpg
+
+					353.2 KB
+					
+					· Views: 132
+────────────────────────────────────────────────────────────────────────
+Post #104  (forum post #5601990)
+Author    : Searun
+Date      : Jan 28, 2025 at 9:00 AM
+Reactions : Like — Shamon, joberg
+────────────────────────────────────────────────────────────────────────
+
+Shamon,
+
+Greatly appreciate your “new” greeblie detective thread. While I am getting very close after nearly 4-1/2 dedicated retirement years on my Falcon build, my follow-up list is growing as John, RDW & you contribute to the “long in the tooth” experts that chime in on the web site regarding your observations.
+
+Building an accurate 5 ft. ANH Falcon model is extremely demanding, even with the documentation available today that was clearly not available to the original studio scale modelers. Hence, the expert category that I attribute to them. Their individual research based on published results is fantastic. The 1/72 Bandai Falcon has some minor differences as has been pointed out. For me, it’s value becomes most obvious when trying to identify very small parts hidden in the old original pictures. The accuracy of detail down to the size, location, orientation and even the number of rivets is amazing when you hold the actual, much larger, kit part in your hand. My guess is that the Bandai Perfect Grade team likely had access to all the original model kit parts & their drawings or instruction manuals as references, in addition to free access to the Empire Strikes Back prop that significantly changed the A New Hope version.
+
+Again, thanks for your new set of eyes on the greeblie details. My journey continues.
+────────────────────────────────────────────────────────────────────────
+Post #105  (forum post #5602038)
+Author    : manugu
+Date      : Jan 28, 2025 at 12:14 PM
+Reactions : Like — joberg, Shamon
+────────────────────────────────────────────────────────────────────────
+
+Shamon said:
+
+			There are Several parts that cannot be found in the Chieftain pit yet, but so far I have only found this.
+		
+
+Click to expand...
+
+Wow, highly impressive finds Shamon!
+────────────────────────────────────────────────────────────────────────
+Post #106  (forum post #5617035)
+Author    : manugu
+Date      : Mar 31, 2025 at 12:15 PM
+Reactions : Like, Wow — joberg, Necronaut, Searun
+────────────────────────────────────────────────────────────────────────
+
+Time to resolve this:
+
+[IMAGE: https://www.therpf.com/forums/attachments/1743448298285-png.1919030/]
+
+Cheers,
+
+Manu
+────────────────────────────────────────────────────────────────────────
+Post #107  (forum post #5617078)
+Author    : jcoffman99
+Date      : Mar 31, 2025 at 2:45 PM
+Reactions : Like — joberg, Necronaut, manugu
+────────────────────────────────────────────────────────────────────────
+
+manugu said:
+
+			Time to resolve this:
+
+View attachment 1919030
+
+Cheers,
+
+Manu
+		
+
+Click to expand...
+
+I've never seen that pic before. Very cool.
+────────────────────────────────────────────────────────────────────────
+Post #108  (forum post #5617087)
+Author    : eagle1
+Date      : Mar 31, 2025 at 4:01 PM
+Reactions : Like — joberg, Necronaut, Searun
+────────────────────────────────────────────────────────────────────────
+
+manugu said:
+
+			Time to resolve this:
+
+View attachment 1919030
+
+Cheers,
+
+Manu
+		
+
+Click to expand...
+
+Funnily enough, I found this Nashorn part a few months ago, along with its double, as two are on this particular sidewall originally.
+────────────────────────────────────────────────────────────────────────
+Post #109  (forum post #5617175)
+Author    : manugu
+Date      : Mar 31, 2025 at 10:56 PM
+Reactions : Like — joberg, jcoffman99
+────────────────────────────────────────────────────────────────────────
+
+John: It's this image flipped over. unfortunately I have not noted down where I found it, but it's floating around the web.
+
+[IMAGE: https://www.therpf.com/forums/attachments/18766661_1453981711333503_376546567723598009_o-jpg.1919158/]
+
+Stu: Haha! And I thought it was hard to find one! Thanks for the heads-up, I’ll keep looking …
+────────────────────────────────────────────────────────────────────────
+Post #110  (forum post #5617177)
+Author    : manugu
+Date      : Mar 31, 2025 at 11:10 PM
+Reactions : Like — joberg, jcoffman99, Studio Kitbash
+────────────────────────────────────────────────────────────────────────
+
+manugu said:
+
+			John: It's this image flipped over. unfortunately I have not noted down where I found it, but it's floating around the web.
+
+View attachment 1919158
+
+Stu: Haha! And I thought it was hard to find one! Thanks for the heads-up, I’ll keep looking …
+		
+
+Click to expand...
+
+Just noticed another missing piece, likely just a tube:
+
+[IMAGE: https://www.therpf.com/forums/attachments/1743487754474-png.1919173/]
+────────────────────────────────────────────────────────────────────────
+Post #111  (forum post #5617326)
+Author    : jcoffman99
+Date      : Apr 1, 2025 at 11:32 AM
+Reactions : Like — joberg, manugu
+────────────────────────────────────────────────────────────────────────
+
+Gotcha. Seen that one before. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #112  (forum post #5617335)
+Author    : manugu
+Date      : Apr 1, 2025 at 12:06 PM
+Reactions : Haha — joberg
+────────────────────────────────────────────────────────────────────────
+
+eagle1 said:
+
+			Funnily enough, I found this Nashorn part a few months ago, along with its double, as two are on this particular sidewall originally.
+		
+
+Click to expand...
+
+Ahem… was it Aprils fools day during the time of that posting in New Zealand btw? Just asking (after having spent 2hrs looking at nice old Falcon images from the internet with one Nashorn part max…
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+)
+────────────────────────────────────────────────────────────────────────
+Post #113  (forum post #5617379)
+Author    : eagle1
+Date      : Apr 1, 2025 at 2:02 PM
+Reactions : Like — joberg, Searun, manugu
+────────────────────────────────────────────────────────────────────────
+
+manugu said:
+
+			Ahem… was it Aprils fools day during the time of that posting in New Zealand btw? Just asking (after having spent 2hrs looking at nice old Falcon images from the internet with one Nashorn part max…
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+)
+		
+
+Click to expand...
+
+Ha, I can see your connection to a possible April Fools day prank, but no, just coincidence!. There were originally both Nashorn parts in situ, very early on mind, probably as built, maybe during filming & I'm thinking, as these parts are very delicately 'hanging' there in place so to speak, not post filming, with having been 'knocked off' during filming handling. As were quite a few other now 'missing' parts, having never made it post filming. 
+
+Same deal as to the other parts you just spotted on the rear underside engine detail area. 
+
+I'm aiming more or less for an 'as built' period replica & I have these parts on my build.
+────────────────────────────────────────────────────────────────────────
+Post #114  (forum post #5617383)
+Author    : manugu
+Date      : Apr 1, 2025 at 2:14 PM
+Reactions : Like — joberg, eagle1
+────────────────────────────────────────────────────────────────────────
+
+eagle1 said:
+
+			Ha, I can see your connection to a possible April Fools day prank, but no, just coincidence!. There were originally both Nashorn parts in situ, very early on mind, probably as built, maybe during filming & I'm thinking, as these parts are very delicately 'hanging' there in place so to speak, not post filming, with having been 'knocked off' during filming handling. As were quite a few other now 'missing' parts, having never made it post filming.
+
+Same deal as to the other parts you just spotted on the rear underside engine detail area.
+
+I'm aiming more or less for an 'as built' period replica & I have these parts on my build.
+		
+
+Click to expand...
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ ... so I have to keep looking harder! Thanks for clarifying (would have been a fun prank though, hehe)!
+
+I'll have a close look on your vids of your lovely build, just watched the one about the 8rad pit. Always a pleasure!
+────────────────────────────────────────────────────────────────────────
+Post #115  (forum post #5617544)
+Author    : Searun
+Date      : Apr 2, 2025 at 4:55 AM
+Reactions : Like — manugu, joberg
+────────────────────────────────────────────────────────────────────────
+
+Manugu says pleasure. For me it is pure jealousy. A perfect 10 Falcon style. Bo Derick is an example.
+────────────────────────────────────────────────────────────────────────
+Post #116  (forum post #5617665)
+Author    : manugu
+Date      : Apr 2, 2025 at 11:58 AM
+Reactions : Like, Love — Bjorn, Searun, joberg
+────────────────────────────────────────────────────────────────────────
+
+Photogrammetry is fun! Here my latest solve.
+
+Your browser is not able to display this video.
+
+I used photos from the repositories of Alan Anderson, André Bustanoby (vfxsup64), Bjorn Rudgley (Bjorn), David Emmerich (VFX Freak), Felix ? (Flixen), Jonathan Faber (swgeek), Steven Balogh (raiders) and Steven Lee (ForbiddenPlastic).
+
+Thank you all for kindly sharing your photos, they are truly an invaluable resource.
+
+Special thanks to John (jcoffmann99) for hosting some of these.
+
+And again to André, Joshua and Bjorn for inspiration and advice.
+
+btw, here a fantastic video I discovered only last week in which André guides through Falcon reverse engeneering and deriving measurements from photos. Highly recommended watch!
+
+Thanks,
+
+Manu
+────────────────────────────────────────────────────────────────────────
+Post #117  (forum post #5620080)
+Author    : Shamon
+Date      : Apr 11, 2025 at 11:27 PM
+Reactions : Love, Like — joberg, Searun, jcoffman99
+────────────────────────────────────────────────────────────────────────
+
+Lost parts have been found.
+
+ 
+
+Attachments
+
+[IMAGE: 1564959-808b142f1113513cd8c2ea4a543feb6c.jpg]
+
+0001.jpg
+
+					375.7 KB
+					
+					· Views: 140
+					
+				
+
+[IMAGE: 1564960-556c26d586c7d1185b8124daa4c52a48.jpg]
+
+0002.jpg
+
+					81.8 KB
+					
+					· Views: 145
+────────────────────────────────────────────────────────────────────────
+Post #118  (forum post #5620136)
+Author    : Searun
+Date      : Apr 12, 2025 at 7:39 AM
+Reactions : Haha — joberg, jcoffman99
+────────────────────────────────────────────────────────────────────────
+
+Someone has found a stash of baby Falcon pictures?
+────────────────────────────────────────────────────────────────────────
+Post #119  (forum post #5641098)
+Author    : Shamon
+Date      : Jul 2, 2025 at 2:56 AM
+Reactions : Like, Wow, Love — swgeek, Studio Kitbash, manugu
+────────────────────────────────────────────────────────────────────────
+
+I tried to check the size of this unknown greeblies.
+
+[IMAGE: https://www.therpf.com/forums/attachments/1-jpg.1945899/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/2-jpg.1945900/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/3-jpg.1945901/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/4-jpg.1945902/]
+────────────────────────────────────────────────────────────────────────
+Post #120  (forum post #5641128)
+Author    : jcoffman99
+Date      : Jul 2, 2025 at 5:28 AM
+Reactions : Like — Necronaut, manugu, joberg
+────────────────────────────────────────────────────────────────────────
+
+Sure looks like part #14 to me.
+────────────────────────────────────────────────────────────────────────
+Post #121  (forum post #5641132)
+Author    : Shamon
+Date      : Jul 2, 2025 at 5:59 AM
+Reactions : Like — manugu, joberg
+────────────────────────────────────────────────────────────────────────
+
+jcoffman99 said:
+
+			Sure looks like part #14 to me.
+		
+
+Click to expand...
+
+I also think it's #14. However, it is difficult to believe that this part was cut out for the purpose of using it in this place. It is acceptable if the cut half is used somewhere else.
+────────────────────────────────────────────────────────────────────────
+Post #122  (forum post #5641162)
+Author    : manugu
+Date      : Jul 2, 2025 at 7:53 AM
+Reactions : Wow — joberg, Shamon
+────────────────────────────────────────────────────────────────────────
+
+Shamon said:
+
+			I also think it's #14. However, it is difficult to believe that this part was cut out for the purpose of using it in this place. It is acceptable if the cut half is used somewhere else.
+		
+
+Click to expand...
+
+Maybe the cut part on top of the cockpit tube? It’s not my idea, I think John has mentioned it but I forgot where and when.
+
+[IMAGE: 1588490-62beb24f6047d1325dc51be52ad610e4.jpg]
+
+Would fit, since it is close by.
+────────────────────────────────────────────────────────────────────────
+Post #123  (forum post #5641173)
+Author    : Studio Kitbash
+Date      : Jul 2, 2025 at 8:30 AM
+Reactions : Like — joberg, Shamon, manugu
+────────────────────────────────────────────────────────────────────────
+
+I think you've solved it with the Yardley McLaren #14 theory -- further evidence that they recycled and "used everything" that was available.  This was my theory about the "missing parts" for the engine nacelles for the Y-Wing that are also used on the engine louvers of the Falcon.
+────────────────────────────────────────────────────────────────────────
+Post #124  (forum post #5641301)
+Author    : jcoffman99
+Date      : Jul 2, 2025 at 5:30 PM
+Reactions : Like — joberg, manugu, Studio Kitbash
+────────────────────────────────────────────────────────────────────────
+
+I've updated the starboard front quarter map as well as the top hull center.
+────────────────────────────────────────────────────────────────────────
+Post #125  (forum post #5641331)
+Author    : Shamon
+Date      : Jul 2, 2025 at 7:37 PM
+Reactions : Like — joberg, Rick Deckard, Studio Kitbash
+────────────────────────────────────────────────────────────────────────
+
+manugu said:
+
+			Maybe the cut part on top of the cockpit tube? It’s not my idea, I think John has mentioned it but I forgot where and when.
+
+View attachment 1945977
+
+Would fit, since it is close by.
+		
+
+Click to expand...
+
+Indeed!
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_7082-jpg.1946110/]
+────────────────────────────────────────────────────────────────────────
+Post #126  (forum post #5642075)
+Author    : Shamon
+Date      : Jul 5, 2025 at 7:50 PM
+Reactions : Like, Love, Wow — joberg, Studio Kitbash, RealDaveWinter
+────────────────────────────────────────────────────────────────────────
+
+manugu said:
+
+			Just noticed another missing piece, likely just a tube:
+
+View attachment 1919173
+
+Click to expand...
+
+I checked the length of this part. The Nashorn was too short.
+
+[IMAGE: https://www.therpf.com/forums/attachments/1-jpg.1946600/]
+
+And I found this with the perfect length.
+
+[IMAGE: https://www.therpf.com/forums/attachments/2-jpg.1946639/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/3-jpg.1946602/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/4-jpg.1946603/]
+────────────────────────────────────────────────────────────────────────
+Post #127  (forum post #5642101)
+Author    : manugu
+Date      : Jul 6, 2025 at 1:11 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Amazing find Shamon! Now I’m curious: It is the Revell, right? Which version is this part from? I don’t see it in the scans of H-188 on SSM or scifikitbash and neither in the instructions of H-198. Was another version used or was I just blind?
+────────────────────────────────────────────────────────────────────────
+Post #128  (forum post #5642104)
+Author    : Shamon
+Date      : Jul 6, 2025 at 2:24 AM
+Reactions : Like — joberg, manugu
+────────────────────────────────────────────────────────────────────────
+
+manugu said:
+
+			Amazing find Shamon! Now I’m curious: It is the Revell, right? Which version is this part from? I don’t see it in the scans of H-188 on SSM or scifikitbash and neither in the instructions of H-198. Was another version used or was I just blind?
+		
+
+Click to expand...
+
+Sorry, Phantom's sprue and Harrier's sprue were mixed on the desk. This greeblies is a 1/24 Harrier. Thank you for pointing it out! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #129  (forum post #5642158)
+Author    : jcoffman99
+Date      : Jul 6, 2025 at 8:21 AM
+Reactions : Like, Love — Necronaut, Studio Kitbash, joberg
+────────────────────────────────────────────────────────────────────────
+
+Updated with the new parts and some other corrections
+
+[IMAGE: https://www.therpf.com/forums/attachments/ventral-rear-copy-jpg.1946679/]
+
+.
+────────────────────────────────────────────────────────────────────────
+Post #130  (forum post #5643805)
+Author    : Shamon
+Date      : Jul 11, 2025 at 7:59 PM
+Reactions : Love, Wow, Like — 3Dsf, Studio Kitbash, joberg
+────────────────────────────────────────────────────────────────────────
+
+I finally found this. As you can see, it is impossible to find this part from the kit scan image. Need to look at it from the side.
+
+[IMAGE: https://www.therpf.com/forums/attachments/hfhfygg-jpg.1948420/]
+────────────────────────────────────────────────────────────────────────
+Post #131  (forum post #5643827)
+Author    : manugu
+Date      : Jul 11, 2025 at 10:43 PM
+Reactions : Like — joberg, Shamon
+────────────────────────────────────────────────────────────────────────
+
+This is another incredible discovery Shamon! I have also been searching this for quite a while now, others most likely too. Congratulations and many many Thanks!
+────────────────────────────────────────────────────────────────────────
+Post #132  (forum post #5643845)
+Author    : MrRobot
+Date      : Jul 12, 2025 at 12:42 AM
+Reactions : Like — joberg, Shamon
+────────────────────────────────────────────────────────────────────────
+
+Shamon said:
+
+			As you can see, it is impossible to find this part from the kit scan image. Need to look at it from the side.
+		
+
+Click to expand...
+
+These are the greeblies that keep me up at night.
+
+Great find!
+────────────────────────────────────────────────────────────────────────
+Post #133  (forum post #5643901)
+Author    : joberg
+Date      : Jul 12, 2025 at 8:53 AM
+Reactions : Like — Shamon, manugu
+────────────────────────────────────────────────────────────────────────
+
+"These are the greeblies you're looking for!"
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ Big thanks Shamon!!
+────────────────────────────────────────────────────────────────────────
+Post #134  (forum post #5644000)
+Author    : Shamon
+Date      : Jul 12, 2025 at 4:50 PM
+Reactions : Like, Love, Wow — rbeach84, Necronaut, Rick Deckard
+────────────────────────────────────────────────────────────────────────
+
+After all, I was convinced that Bandai did not have a photo of this place. This wall is made by their imagination.
+
+[IMAGE: https://www.therpf.com/forums/attachments/ggd-jpg.1948632/]
+────────────────────────────────────────────────────────────────────────
+Post #135  (forum post #5644020)
+Author    : RealDaveWinter
+Date      : Jul 12, 2025 at 7:21 PM
+Reactions : Like — joberg, Shamon
+────────────────────────────────────────────────────────────────────────
+
+Wonderful! Great find! Now I need to fix my build, again. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #136  (forum post #5644036)
+Author    : Studio Kitbash
+Date      : Jul 12, 2025 at 8:48 PM
+Reactions : Haha, Like — joberg, Searun, Shamon
+────────────────────────────────────────────────────────────────────────
+
+When you gonna stop?
+
+Give it up
+
+For the sake of all mankind...
+
+MY SHAMON-A!!!
+
+Again, I'm flabbergasted by your eye for detail -- this is a terrific, and subtle, and significant discovery.
+────────────────────────────────────────────────────────────────────────
+Post #137  (forum post #5644053)
+Author    : Shamon
+Date      : Jul 12, 2025 at 10:28 PM
+Reactions : Like, Love, Wow — Ogibendogy, joberg, 3Dsf
+────────────────────────────────────────────────────────────────────────
+
+There was another unknown part of U3.
+
+[IMAGE: https://www.therpf.com/forums/attachments/1-jpg.1948719/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/cfcxchcg-jpg.1948720/]
+
+Also, the map needs to be modified here.
+
+[IMAGE: https://www.therpf.com/forums/attachments/544464-jpg.1948721/]
+────────────────────────────────────────────────────────────────────────
+Post #138  (forum post #5644095)
+Author    : Searun
+Date      : Jul 13, 2025 at 5:12 AM
+Reactions : Like, Love — manugu, Studio Kitbash, joberg
+────────────────────────────────────────────────────────────────────────
+
+Unidentified Falcon Objects. The detectives continue with their discoveries. Really great stuff.
+────────────────────────────────────────────────────────────────────────
+Post #139  (forum post #5644097)
+Author    : Searun
+Date      : Jul 13, 2025 at 5:19 AM
+Reactions : Haha, Like — MrRobot, swgeek, manugu
+────────────────────────────────────────────────────────────────────────
+
+MrRobot said:
+
+			These are the greeblies that keep me up at night.
+
+Great find!
+		
+
+Click to expand...
+
+“Milk and cookies kept you awake, eh Sebastian?”
+────────────────────────────────────────────────────────────────────────
+Post #140  (forum post #5644105)
+Author    : jcoffman99
+Date      : Jul 13, 2025 at 5:45 AM
+Reactions : Like, Love — Necronaut, Rick Deckard, manugu
+────────────────────────────────────────────────────────────────────────
+
+Updated. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: https://www.therpf.com/forums/attachments/cockpit-tube-copy-jpg.1948752/]
+────────────────────────────────────────────────────────────────────────
+Post #141  (forum post #5644231)
+Author    : eagle1
+Date      : Jul 13, 2025 at 3:02 PM
+Reactions : Wow, Like — joberg, Searun, Shamon
+────────────────────────────────────────────────────────────────────────
+
+Shamon said:
+
+			There was another unknown part of U3.
+
+View attachment 1948719
+
+View attachment 1948720
+
+Also, the map needs to be modified here.
+
+View attachment 1948721
+
+Click to expand...
+
+Hi chaps. Its been a while being here, a few life's curveballs this year, but lovely to see the amazing ID finds from you guys, Shamon & Read amongst others.
+
+Shamon...Just regarding the Tamiya Panzer lll M/N part being incorrect, that part shown is incorrect, but the correct part is still in this kit, albeit a little modified. One of the axle parts to give it a name of sorts.
+
+The Hasegawa 1/72 Tiger 1 isn't a Falcon donor.
+
+Stu
+────────────────────────────────────────────────────────────────────────
+Post #142  (forum post #5644253)
+Author    : Shamon
+Date      : Jul 13, 2025 at 4:41 PM
+Reactions : Like — joberg, eagle1
+────────────────────────────────────────────────────────────────────────
+
+Thank you, Stu!
+
+I also felt a little uncomfortable with this shape, but I didn't check it well. I regret it. Please let me know if you notice my mistake from now on.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_7278-jpg.1948853/]
+────────────────────────────────────────────────────────────────────────
+Post #143  (forum post #5644254)
+Author    : Shamon
+Date      : Jul 13, 2025 at 4:48 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+I'm sorry, john. Please restore the map. lol
+────────────────────────────────────────────────────────────────────────
+Post #144  (forum post #5644263)
+Author    : jcoffman99
+Date      : Jul 13, 2025 at 5:14 PM
+Reactions : Like, Love — RyryQ5, joberg, Studio Kitbash
+────────────────────────────────────────────────────────────────────────
+
+Fixed...again. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: https://www.therpf.com/forums/attachments/cockpit-tube-copy-jpg.1948859/]
+────────────────────────────────────────────────────────────────────────
+Post #145  (forum post #5644306)
+Author    : manugu
+Date      : Jul 13, 2025 at 9:42 PM
+Reactions : Like — joberg, eagle1
+────────────────────────────────────────────────────────────────────────
+
+eagle1 said:
+
+			Hi chaps. Its been a while being here, a few life's curveballs this year, but lovely to see the amazing ID finds from you guys, Shamon & Read amongst others.
+
+Shamon...Just regarding the Tamiya Panzer lll M/N part being incorrect, that part shown is incorrect, but the correct part is still in this kit, albeit a little modified. One of the axle parts to give it a name of sorts.
+
+The Hasegawa 1/72 Tiger 1 isn't a Falcon donor.
+
+Stu
+		
+
+Click to expand...
+
+lol, that means John can soon correct these maps once Shamon finds the correct part for the docking rings instead of the Hasegawa Tiger I part there.
+
+Good to see you Stu!
+
+ 
+
+Attachments
+
+[IMAGE: 1591420-64576f57f75090bbb3d983b816f09223.jpg]
+
+IMG_7096.jpeg
+
+					726.9 KB
+					
+					· Views: 57
+────────────────────────────────────────────────────────────────────────
+Post #146  (forum post #5644329)
+Author    : Shamon
+Date      : Jul 14, 2025 at 1:07 AM
+Reactions : Like — manugu, joberg
+────────────────────────────────────────────────────────────────────────
+
+Is this it?
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_7286-jpg.1948927/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_7287-jpg.1948929/]
+────────────────────────────────────────────────────────────────────────
+Post #147  (forum post #5644355)
+Author    : RealDaveWinter
+Date      : Jul 14, 2025 at 4:46 AM
+Reactions : Like, Love — joberg, Shamon
+────────────────────────────────────────────────────────────────────────
+
+Yes, I believe those are the parts. They're what I used anyway.
+────────────────────────────────────────────────────────────────────────
+Post #148  (forum post #5644357)
+Author    : eagle1
+Date      : Jul 14, 2025 at 5:04 AM
+Reactions : Like, Love — joberg, Shamon
+────────────────────────────────────────────────────────────────────────
+
+Shamon said:
+
+			Is this it?
+
+View attachment 1948927
+
+View attachment 1948929
+
+Click to expand...
+
+Yes, that's the correct one Shamon!. I used a later Fujimi reboxing, but all the same parts as the Nitto.
+────────────────────────────────────────────────────────────────────────
+Post #149  (forum post #5644358)
+Author    : eagle1
+Date      : Jul 14, 2025 at 5:12 AM
+Reactions : Like, Love — MrRobot, Searun, joberg
+────────────────────────────────────────────────────────────────────────
+
+Shamon said:
+
+			Thank you, Stu!
+
+I also felt a little uncomfortable with this shape, but I didn't check it well. I regret it. Please let me know if you notice my mistake from now on.
+
+View attachment 1948853
+
+Click to expand...
+
+You don't need to feel bad at all Shamon. Your sluething skills are admirable, incredible really what you have managed to ID, so keep doing what you're doing. We've all gotten an ID wrong at some point & realised later on that part just wasn't a complete match, but many eyes make light work!. 
+
+Stu
+────────────────────────────────────────────────────────────────────────
+Post #150  (forum post #5644366)
+Author    : Shamon
+Date      : Jul 14, 2025 at 5:59 AM
+Reactions : Like — MrRobot, eagle1, joberg
+────────────────────────────────────────────────────────────────────────
+
+eagle1 said:
+
+			You don't need to feel bad at all Shamon. Your sluething skills are admirable, incredible really what you have managed to ID, so keep doing what you're doing. We've all gotten an ID wrong at some point & realised later on that part just wasn't a complete match, but many eyes make light work!.
+
+Stu
+		
+
+Click to expand...
+
+Thank you for your concern! I'm fine.
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ The purpose of continuing to post here is to have many people check my mistakes. Otherwise, I won't be able to realize my mistake. I will find a lot from now on, so please don't hesitate to point out my mistakes.
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #151  (forum post #5648322)
+Author    : Shamon
+Date      : Jul 26, 2025 at 3:28 AM
+Reactions : Like — joberg, manugu
+────────────────────────────────────────────────────────────────────────
+
+This is what I came up with while watching X-wing, but it may not be the right answer because there is a lot of processing. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/9-jpg.1953177/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/22-jpg.1953178/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/21-jpg.1953179/]
+
+After this, putty treatment will also be required.
+────────────────────────────────────────────────────────────────────────
+Post #152  (forum post #5648335)
+Author    : RealDaveWinter
+Date      : Jul 26, 2025 at 5:13 AM
+Reactions : Wow — joberg
+────────────────────────────────────────────────────────────────────────
+
+I asked the same question recently. This is the solution that was passed to me, and it's how I've done mine, although with a slight change. For the two rivets on top, I used the tops of the rounded pegs from the Hurricane 50cal machine gun. I know Read used the left over's from the ME-109 landing gear but I messed mine up when I cut them off. Mine look the part, and when they're cast it's impossible to tell where they came from.
+
+Falcon Louver Actuator & Y-Wing Bussard Supports
+────────────────────────────────────────────────────────────────────────
+Post #153  (forum post #5648340)
+Author    : Shamon
+Date      : Jul 26, 2025 at 5:48 AM
+Reactions : Like — joberg, Studio Kitbash
+────────────────────────────────────────────────────────────────────────
+
+RealDaveWinter said:
+
+			I asked the same question recently. This is the solution that was passed to me, and it's how I've done mine, although with a slight change. For the two rivets on top, I used the tops of the rounded pegs from the Hurricane 50cal machine gun. I know Read used the left over's from the ME-109 landing gear but I messed mine up when I cut them off. Mine look the part, and when they're cast it's impossible to tell where they came from.
+
+Falcon Louver Actuator & Y-Wing Bussard Supports
+
+Click to expand...
+
+I also tried the method that Read discovered, but with this method, the two Bf-109E are not parallel. There are many photos where the distance between the legs does not look parallel, but I think it is parallel.
+
+[IMAGE: https://www.therpf.com/forums/attachments/6666-jpg.1953384/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5958-jpg.1953187/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/tfytfty-jpeg.1953188/]
+────────────────────────────────────────────────────────────────────────
+Post #154  (forum post #5648527)
+Author    : Searun
+Date      : Jul 26, 2025 at 5:34 PM
+Reactions : Like — joberg, Shamon
+────────────────────────────────────────────────────────────────────────
+
+Appreciate the discussion. Yes, it is an affliction, but the details do matter.
+────────────────────────────────────────────────────────────────────────
+Post #155  (forum post #5648737)
+Author    : Studio Kitbash
+Date      : Jul 27, 2025 at 10:14 AM
+Reactions : Like — Searun, joberg, Shamon
+────────────────────────────────────────────────────────────────────────
+
+Shamon,
+
+I think with my second version, you do get (or "can" get) more parallelism in your landing struts: 2nd Version of Nacelle Tie-Downs
+
+But your solution looks interesting enough, and elegant enough, that I'm also going to try it with those leftover 1/15 tank parts.
+────────────────────────────────────────────────────────────────────────
+Post #156  (forum post #5648804)
+Author    : Shamon
+Date      : Jul 27, 2025 at 2:32 PM
+Reactions : Like — manugu, Studio Kitbash, joberg
+────────────────────────────────────────────────────────────────────────
+
+Studio Kitbash said:
+
+			Shamon,
+
+I think with my second version, you do get (or "can" get) more parallelism in your landing struts: 2nd Version of Nacelle Tie-Downs
+
+But your solution looks interesting enough, and elegant enough, that I'm also going to try it with those leftover 1/15 tank parts.
+		
+
+Click to expand...
+
+The two fragments cut out of Hummel require a lot of processing. However, I am skeptical about processing and bringing the shape closer. Therefore, we will continue to search until we find parts that can be used without processing.
+────────────────────────────────────────────────────────────────────────
+Post #157  (forum post #5651575)
+Author    : RealDaveWinter
+Date      : Aug 5, 2025 at 4:15 PM
+Reactions : Love, Like — manugu, joberg, Shamon
+────────────────────────────────────────────────────────────────────────
+
+I have decided to strip my previous build of the Cheiftain Pit down to parts and redo it, building in all the new parts that have been found in the past year. Also my spacing was all wrong, and with the correct parts, those errors look even worse.
+
+So this is probably mostly a question for Shamon , but is there an updated part map for the lower starboard Cheiftain pit? Specifically all the changes for the backwall? Shamon has found multiple parts, but I'm wondering if there has been an updated diagram or part map that indicates what should actually be back there.
+
+I believe the parts outlined in yellow have yet to be properly ID'd. Also, the triangular Centurion part on the backwall seems to have to be standing on top of something to properly poke out the top of the pit, past the 3mm dome skin, and touch the armour plating.
+
+[IMAGE: https://www.therpf.com/forums/attachments/1754435570155-png.1956460/]
+
+For my part, there's a small part labeled as being from #143 the Yardley McLaren that I believe is actually a cut down from the Centurion gun barrel. This is based on the two diameters and lengths used on the part.
+
+thanks
+────────────────────────────────────────────────────────────────────────
+Post #158  (forum post #5651580)
+Author    : jcoffman99
+Date      : Aug 5, 2025 at 4:30 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+I haven't updated the map yet. I'm waiting until the other maps under the checklist thread  on scifikitbash.com get approved. Then I'll move on to this one.
+────────────────────────────────────────────────────────────────────────
+Post #159  (forum post #5651691)
+Author    : Shamon
+Date      : Aug 5, 2025 at 10:34 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+RealDaveWinter said:
+
+			For my part, there's a small part labeled as being from #143 the Yardley McLaren that I believe is actually a cut down from the Centurion gun barrel. This is based on the two diameters and lengths used on the part.
+		
+
+Click to expand...
+
+It's a great discovery! I've been looking for it for long time, but I couldn't find it. Your discovery has determined the correct cutting position of the gun barrel used in another place. It's really wonderful. Thank you.
+
+RealDaveWinter said:
+
+			So this is probably mostly a question for Shamon , but is there an updated part map for the lower starboard Cheiftain pit? Specifically all the changes for the backwall? Shamon has found multiple parts, but I'm wondering if there has been an updated diagram or part map that indicates what should actually be back there.
+
+I believe the parts outlined in yellow have yet to be properly ID'd. Also, the triangular Centurion part on the backwall seems to have to be standing on top of something to properly poke out the top of the pit, past the 3mm dome skin, and touch the armour plating.
+		
+
+Click to expand...
+
+I still haven't grasped the details of back wall of the Chieftain pit. I'll let you know if I find out anything.
+
+As for the height of the triangular Centurion part, I think the depth of the pit is probably wrong, but what do you think?
+────────────────────────────────────────────────────────────────────────
+Post #160  (forum post #5651736)
+Author    : RealDaveWinter
+Date      : Aug 6, 2025 at 6:08 AM
+Reactions : Love — joberg
+────────────────────────────────────────────────────────────────────────
+
+At first, I thought the depth of the pit probably includes the 3mm dome skin. But that's not correct either as the other back wall details we know to be correct don't touch the armour plating.
+
+These are the only photos I have of the back wall. You can see the Hurricane magneto wiring harness to the right and a couple of 'blocks' to its left. Then the Centurion brace poking down to the armour plating, then everything else is obscured. I believe the height of the pit is correct because the Pay Hauler frame, the wiring harness, and that 'pipe' to the far left, all terminate at what would be the top (bottom?) of the pit where it attaches to the dome skin.
+
+I think the two options to consider are that the 'Centurion brace' is sitting on something else about 3mm tall. Or, and this is unlikely, it is not from the Centurion kit at all, but something else. Something about 3mm taller. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/1754484728288-png.1956694/]
+
+In this second photo, you can see there's a round/cylinder just to the left of the Centurion brace that I believe is part of the Airfix ME-109 that you found. Which, given that detail's position, maybe that whole part sits up higher in the pit?
+
+[IMAGE: https://www.therpf.com/forums/attachments/1754485435279-png.1956697/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/1754486718892-png.1956698/]
+
+For the cut down barrel, this is how I have done mine. The reason I chose this route is because the 'raised' portion of the McLaren part isn't long enough. Mine is probably still not right. I cut it purposefully oversized slightly (the larger diameter area is still a bit too long) so I can still make small adjustments. But I think once the lengths are correct it certainly looks correct. I make no claims that's how ILM did it, but I don't think it's the McLaren part either. But as you say, the remainder of the barrel is used in other areas. So who knows, maybe I got it right by accident.
+
+[IMAGE: https://www.therpf.com/forums/attachments/1754484497324-png.1956693/]
+
+Anyway, I look forward to seeing what you discover for the remainder of the back wall.
+────────────────────────────────────────────────────────────────────────
+Post #161  (forum post #5651758)
+Author    : RealDaveWinter
+Date      : Aug 6, 2025 at 7:53 AM
+Reactions : Like — joberg, Shamon
+────────────────────────────────────────────────────────────────────────
+
+Also interesting to note that the back wall of that pit doesn't look to sit flush with the dome skin. It looks like the Pay Hauler frame is interfering slightly leaving a gap along the back wall. And likely the inboard wall too, but it's hard to tell. I don't have a good photo of the inboard wall.
+────────────────────────────────────────────────────────────────────────
+Post #162  (forum post #5651761)
+Author    : Shamon
+Date      : Aug 6, 2025 at 7:58 AM
+Reactions : Like — joberg, RealDaveWinter
+────────────────────────────────────────────────────────────────────────
+
+RealDaveWinter said:
+
+			At first, I thought the depth of the pit probably includes the 3mm dome skin. But that's not correct either as the other back wall details we know to be correct don't touch the armour plating.
+
+These are the only photos I have of the back wall. You can see the Hurricane magneto wiring harness to the right and a couple of 'blocks' to its left. Then the Centurion brace poking down to the armour plating, then everything else is obscured. I believe the height of the pit is correct because the Pay Hauler frame, the wiring harness, and that 'pipe' to the far left, all terminate at what would be the top (bottom?) of the pit where it attaches to the dome skin.
+
+I think the two options to consider are that the 'Centurion brace' is sitting on something else about 3mm tall. Or, and this is unlikely, it is not from the Centurion kit at all, but something else. Something about 3mm taller.
+
+View attachment 1956694
+
+In this second photo, you can see there's a round/cylinder just to the left of the Centurion brace that I believe is part of the Airfix ME-109 that you found. Which, given that detail's position, maybe that whole part sits up higher in the pit?
+
+View attachment 1956697
+
+View attachment 1956698
+
+For the cut down barrel, this is how I have done mine. The reason I chose this route is because the 'raised' portion of the McLaren part isn't long enough. Mine is probably still not right. I cut it purposefully oversized slightly (the larger diameter area is still a bit too long) so I can still make small adjustments. But I think once the lengths are correct it certainly looks correct. I make no claims that's how ILM did it, but I don't think it's the McLaren part either. But as you say, the remainder of the barrel is used in other areas. So who knows, maybe I got it right by accident.
+
+View attachment 1956693
+
+Anyway, I look forward to seeing what you discover for the remainder of the back wall.
+		
+
+Click to expand...
+
+Thank you for your valuable opinions. I still doubt the depth of the pit, but as you said, it seems necessary to consider it, including various possibilities.
+────────────────────────────────────────────────────────────────────────
+Post #163  (forum post #5652127)
+Author    : RealDaveWinter
+Date      : Aug 7, 2025 at 3:24 AM
+Reactions : Like — joberg, Shamon
+────────────────────────────────────────────────────────────────────────
+
+Shamon I played around with your suggestion of the pit box being too deep. So I created another that was 3mm shallower. And I think you're correct.
+
+While everything in this photo is very roughly placed, nothing glued down and it doesn't have its styrene sheet liner, everything seems to line up to the back wall much better.
+
+The vertical portion of the long pipe to the right is about 3mm too tall. The long horizontal portion is too high above the Chieftain deck. Part of the reason for this was to allow the attachment to the back wall on the old box to connect in the right place. But it was always too high above the deck. Cut it down 3mm and it not only reconnects to the correct area on the back, but it's the right height above the deck.
+
+The little round detail on the ME-109 part on the back wall also ends up being the right distance from the top of the box as well.
+
+[IMAGE: https://www.therpf.com/forums/attachments/1754560488448-png.1957034/]
+
+So I think you're correct. If you go purely off of the Bandai kit measurements, you're going to end up with a Chieftain pit that is too deep.
+
+I still need to play around with this as I have concerns about the interior width being too wide and parts, such as the Payhauler frame and the forward section of the Chieftain deck, interfering with the domes.
+
+thanks
+────────────────────────────────────────────────────────────────────────
+Post #164  (forum post #5652172)
+Author    : Shamon
+Date      : Aug 7, 2025 at 6:26 AM
+Reactions : Like — rbeach84, swgeek, joberg
+────────────────────────────────────────────────────────────────────────
+
+RealDaveWinter said:
+
+Shamon I played around with your suggestion of the pit box being too deep. So I created another that was 3mm shallower. And I think you're correct.
+
+While everything in this photo is very roughly placed, nothing glued down and it doesn't have its styrene sheet liner, everything seems to line up to the back wall much better.
+
+The vertical portion of the long pipe to the right is about 3mm too tall. The long horizontal portion is too high above the Chieftain deck. Part of the reason for this was to allow the attachment to the back wall on the old box to connect in the right place. But it was always too high above the deck. Cut it down 3mm and it not only reconnects to the correct area on the back, but it's the right height above the deck.
+
+The little round detail on the ME-109 part on the back wall also ends up being the right distance from the top of the box as well.
+
+View attachment 1957034
+
+So I think you're correct. If you go purely off of the Bandai kit measurements, you're going to end up with a Chieftain pit that is too deep.
+
+I still need to play around with this as I have concerns about the interior width being too wide and parts, such as the Payhauler frame and the forward section of the Chieftain deck, interfering with the domes.
+
+thanks
+		
+
+Click to expand...
+
+That's good! After all, I feel that this height is more correct. There was something I was a little worried about your build, so I will post a helpful photo. The Chieftain pit has been dismantled, but the parts used remain as they were at that time. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+ 
+
+Attachments
+
+[IMAGE: 1599629-1a01acadf7e6f6a89b18e8e190e4f44d.jpg]
+
+01.png
+
+					696.7 KB
+					
+					· Views: 98
+					
+				
+
+[IMAGE: 1599630-40d20b8eb4fe7d87fea87e66b6786291.jpg]
+
+02.jpg
+
+					186.2 KB
+					
+					· Views: 91
+					
+				
+
+[IMAGE: 1599631-87ceac9b5743bff17b65ddaba9099071.jpg]
+
+03.jpg
+
+					335.4 KB
+					
+					· Views: 107
+────────────────────────────────────────────────────────────────────────
+Post #165  (forum post #5652174)
+Author    : RealDaveWinter
+Date      : Aug 7, 2025 at 6:34 AM
+Reactions : Like — joberg, Shamon
+────────────────────────────────────────────────────────────────────────
+
+Ohhhhh Okay. It's a bit confusing how that should all go together, but I'm sure I can correct that. Thanks for pointing that out. It did seem odd that that tow hook sort of just 'stuck out' like that.
+────────────────────────────────────────────────────────────────────────
+Post #166  (forum post #5652309)
+Author    : Shamon
+Date      : Aug 7, 2025 at 2:24 PM
+Reactions : Like — joberg, manugu
+────────────────────────────────────────────────────────────────────────
+
+RealDaveWinter said:
+
+			Ohhhhh Okay. It's a bit confusing how that should all go together, but I'm sure I can correct that. Thanks for pointing that out. It did seem odd that that tow hook sort of just 'stuck out' like that.
+		
+
+Click to expand...
+
+Regarding part 1, Manugu post is more helpful. 
+
+[IMAGE: logo-og.png]
+
+						5-foot Millennium Falcon - parts lists & complementary Info
+					
+
+No words for this amount of research and work...simply amazing:cool::cool::cool::cool:(y)(y)(y)(y):notworthy::notworthy::notworthy::notworthy:
+
+[IMAGE: favicon.png]
+
+					www.therpf.com
+				
+
+The correct part of part 3 is Nichimo Elefant.
+────────────────────────────────────────────────────────────────────────
+Post #167  (forum post #5652346)
+Author    : RealDaveWinter
+Date      : Aug 7, 2025 at 4:48 PM
+Reactions : Like — joberg, Studio Kitbash
+────────────────────────────────────────────────────────────────────────
+
+Could this part on the back wall be the 1:48 King Tiger axle?
+
+It almost looks like a landing gear strut, with the two little prongs to the left the attachment point for a torque link?
+
+[IMAGE: https://www.therpf.com/forums/attachments/1754610354968-png.1957288/]
+────────────────────────────────────────────────────────────────────────
+Post #168  (forum post #5652403)
+Author    : Shamon
+Date      : Aug 7, 2025 at 9:14 PM
+Reactions : Sad — joberg
+────────────────────────────────────────────────────────────────────────
+
+RealDaveWinter said:
+
+			Could this part on the back wall be the 1:48 King Tiger axle?
+
+It almost looks like a landing gear strut, with the two little prongs to the left the attachment point for a torque link?
+
+View attachment 1957288
+
+Click to expand...
+
+It's a good idea, but the details don't seem to match. The most similar thing I've investigated so far is a part of Tamiya Ford engine, but this also does not match the details. It's quite difficult. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #169  (forum post #5653002)
+Author    : feek61
+Date      : Aug 9, 2025 at 6:37 PM
+Reactions : Wow — joberg
+────────────────────────────────────────────────────────────────────────
+
+RealDaveWinter said:
+
+			Could this part on the back wall be the 1:48 King Tiger axle?
+
+It almost looks like a landing gear strut, with the two little prongs to the left the attachment point for a torque link?
+
+View attachment 1957288
+
+Click to expand...
+
+It looks like a universal joint from a driveshaft and part of a transmission to me.  Maybe look at drivetrains from known donor kits.
+
+Ok, forget that!!!  I asked ChatGPT and this is what it said:
+
+The part you’ve highlighted in the yellow circle appears to be the 1/35 scale Tamiya Panzer IV kit part that represents a grease nipple or zerk fitting on a hinge or pivot assembly—often molded as part of armored vehicle suspension or hatch detail. In the real vehicle, this would be a lubrication fitting, but in scale modeling it’s a small molded detail that’s part of the kit’s surface features.
+
+From the look of the surrounding structures and piping, it could also be a kitbash greeblie—a repurposed plastic component from a military model kit, used in sci-fi or film prop detailing (common in Star Wars production models). The shape—a small cylindrical body with a conical top and side piping—matches certain tank model suspension parts that ILM famously reused.
+
+If you want, I can cross-reference this with known ILM greeblie identification databases to pin down exactly which kit and part number it’s from. Would you like me to do that?
+
+Short answer: I can’t be 100% sure from just that tight crop, but the shape screams Airfix 1/24 Harrier GR.1/GR.3 Pegasus engine greeblie—one of the accessory-gearbox/FCU bits with the little conical “bleeder” cap on a rectangular pad. The Harrier kit is used all over the 5-footer, and that exact cone-on-base profile shows up repeatedly on the Falcon parts maps. therpf+1
+
+If you can tell me roughly where on the 5-footer (top/bottom, which quadrant/mandible or near a maintenance pit), I can pull the specific map and give you the exact kit sprue/part number.
+
+Maybe you could look at those two kits and find it.
+────────────────────────────────────────────────────────────────────────
+Post #170  (forum post #5653008)
+Author    : RealDaveWinter
+Date      : Aug 9, 2025 at 6:48 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Hi.
+
+The circled part is from a 1:48 King Tiger. I don't recall if it's Nichimo or Tamiya, but that's a bit moot as it's not the part we're really after. Interesting that AI is able to determine all of that though. Actually, scary is probably the better word.
+
+It's the part the arrow is pointing to that we are trying to figure out. There are just not enough usable photos that show it from other angles.
+
+thanks
+────────────────────────────────────────────────────────────────────────
+Post #171  (forum post #5653057)
+Author    : Shamon
+Date      : Aug 9, 2025 at 10:28 PM
+Reactions : Like, Love — Necronaut, Studio Kitbash, Rick Deckard
+────────────────────────────────────────────────────────────────────────
+
+RealDaveWinter said:
+
+			Could this part on the back wall be the 1:48 King Tiger axle?
+
+It almost looks like a landing gear strut, with the two little prongs to the left the attachment point for a torque link?
+
+View attachment 1957288
+
+Click to expand...
+
+I found out where this King Tiger originally lived. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: https://www.therpf.com/forums/attachments/5156663-jpg.1957986/]
+────────────────────────────────────────────────────────────────────────
+Post #172  (forum post #5655018)
+Author    : Shamon
+Date      : Aug 17, 2025 at 7:32 AM
+Reactions : Like, Love — 3Dsf, Studio Kitbash, swgeek
+────────────────────────────────────────────────────────────────────────
+
+There was something in the McLaren pit that I didn't know if it was a part or a shadow, so I was curious, so I turned on the light and checked it.
+
+[IMAGE: https://www.therpf.com/forums/attachments/dyjug-jpg.1959977/]
+────────────────────────────────────────────────────────────────────────
+Post #173  (forum post #5655022)
+Author    : RealDaveWinter
+Date      : Aug 17, 2025 at 7:46 AM
+Reactions : Like — Necronaut, Shamon, joberg
+────────────────────────────────────────────────────────────────────────
+
+That's great work. The lighting, and the painted in shadows, really do play havoc with trying to ID parts.
+────────────────────────────────────────────────────────────────────────
+Post #174  (forum post #5655070)
+Author    : manugu
+Date      : Aug 17, 2025 at 10:25 AM
+Reactions : Like — joberg, Shamon
+────────────────────────────────────────────────────────────────────────
+
+Shamon said:
+
+			There was something in the McLaren pit that I didn't know if it was a part or a shadow, so I was curious, so I turned on the light and checked it.
+
+View attachment 1959977
+
+Click to expand...
+
+Oh wow! This is incredible 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #175  (forum post #5655220)
+Author    : Shamon
+Date      : Aug 18, 2025 at 12:49 AM
+Reactions : Like, Wow — 3Dsf, manugu, swgeek
+────────────────────────────────────────────────────────────────────────
+
+There is something unknown in the area surrounded by yellow.
+
+[IMAGE: https://www.therpf.com/forums/attachments/ghhjk2-jpg.1960212/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/ljhlhl-jpg.1961036/]
+────────────────────────────────────────────────────────────────────────
+Post #176  (forum post #5655521)
+Author    : Studio Kitbash
+Date      : Aug 19, 2025 at 7:40 AM
+Reactions : Haha — rbeach84, joberg, manugu
+────────────────────────────────────────────────────────────────────────
+
+Shadows and Ghosts and possibly, just possibly, Greeblie Gremlins!!!  They only come out after midnight...
+────────────────────────────────────────────────────────────────────────
+Post #177  (forum post #5660662)
+Author    : Shamon
+Date      : Sep 7, 2025 at 7:11 AM
+Reactions : Wow, Like — MrRobot, joberg
+────────────────────────────────────────────────────────────────────────
+
+The lid of the left and right docking rings seems to have changed their position several times so far. The difference between the left and right can be seen in the shape of the Avrolancaster machine gun. The monochrome photo was taken after the shooting of the movie, so I can't say this is correct, but which one was the original position?
+
+[IMAGE: https://www.therpf.com/forums/attachments/gvjvj-jpg.1968753/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/jyguh-jpg.1968750/]
+────────────────────────────────────────────────────────────────────────
+Post #178  (forum post #5660750)
+Author    : manugu
+Date      : Sep 7, 2025 at 11:51 AM
+Reactions : Like — joberg, Shamon
+────────────────────────────────────────────────────────────────────────
+
+Shamon said:
+
+			The lid of the left and right docking rings seems to have changed their position several times so far. The difference between the left and right can be seen in the shape of the Avrolancaster machine gun. The monochrome photo was taken after the shooting of the movie, so I can't say this is correct, but which one was the original position?
+
+View attachment 1968753
+
+View attachment 1968750
+
+Click to expand...
+
+Thank you Shamon, I always thought the same part was used both sides! Obviousely that is not the case 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #179  (forum post #5660760)
+Author    : RealDaveWinter
+Date      : Sep 7, 2025 at 1:07 PM
+Reactions : Like — Necronaut, joberg, MrRobot
+────────────────────────────────────────────────────────────────────────
+
+This saves me having to purchase another Lancaster kit  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #180  (forum post #5664722)
+Author    : Shamon
+Date      : Sep 23, 2025 at 12:41 AM
+Reactions : Like, Wow, Love — DAR23, joberg, swgeek
+────────────────────────────────────────────────────────────────────────
+
+In this photo, the turret part is blank, so you can see that the Falcon is in an unfinished state. If you look closely, three parts have already been lost. If you revive there, they will not look the same as when they were completed. I'm wondering what to do.
+
+[IMAGE: https://www.therpf.com/forums/attachments/bvgbgngfxn-jpg.1972491/]
+
+ 
+
+Attachments
+
+[IMAGE: 1615012-cda89facd26041d9de38731a5a15958a.jpg]
+
+gddhdgh.jpg
+
+					184.1 KB
+					
+					· Views: 53
+					
+				
+
+[IMAGE: 1615013-037be801224357aa34584c3ca211b099.jpg]
+
+jyfjfj.jpg
+
+					131.9 KB
+					
+					· Views: 51
+					
+				
+
+[IMAGE: 1615014-67d2e0e258bdecf4e5ae3fc1b9910ba9.jpg]
+
+hddhdhg.jpg
+
+					821.4 KB
+					
+					· Views: 47
+────────────────────────────────────────────────────────────────────────
+Post #181  (forum post #5664726)
+Author    : 3Dsf
+Date      : Sep 23, 2025 at 1:01 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Shamon said:
+
+			In this photo, the turret part is blank, so you can see that the Falcon is in an unfinished state. If you look closely, three parts have already been lost. If you revive there, they will not look the same as when they were completed. I'm wondering what to do
+		
+
+Click to expand...
+
+What is your goal? Are you wanting a Falcon unfinished, as it appeared during construction? Or a Falcon as it appeared upon completion prior to filming? 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #182  (forum post #5664728)
+Author    : Treadwell
+Date      : Sep 23, 2025 at 1:19 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+The blank turret doesn't mean it's unfinished, it's removable, isn't it? It's a mounting point.
+────────────────────────────────────────────────────────────────────────
+Post #183  (forum post #5664750)
+Author    : Shamon
+Date      : Sep 23, 2025 at 3:47 AM
+Reactions : Wow, Like — manugu, joberg
+────────────────────────────────────────────────────────────────────────
+
+3Dsf said:
+
+			What is your goal? Are you wanting a Falcon unfinished, as it appeared during construction? Or a Falcon as it appeared upon completion prior to filming? 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+Both are attractive and I can't decide. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #184  (forum post #5664752)
+Author    : MrRobot
+Date      : Sep 23, 2025 at 4:12 AM
+Reactions : Like, Wow, Love — Studio Kitbash, JimmyB, Shamon
+────────────────────────────────────────────────────────────────────────
+
+Treadwell said:
+
+			The blank turret doesn't mean it's unfinished, it's removable, isn't it? It's a mounting point.
+		
+
+Click to expand...
+
+I think the window and turret were removable, but that the platform itself was static:
+
+[IMAGE: ddcd9645baced26007e5d93b6cfed818.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #185  (forum post #5664753)
+Author    : Shamon
+Date      : Sep 23, 2025 at 4:16 AM
+Reactions : Like — David3, manugu, joberg
+────────────────────────────────────────────────────────────────────────
+
+Treadwell said:
+
+			The blank turret doesn't mean it's unfinished, it's removable, isn't it? It's a mounting point.
+		
+
+Click to expand...
+
+As you know, there was a discussion about it a while ago. Also, I thought the turret was removable. However, if you think about it calmly, this theory is unreasonable, and it is much more reasonable to think that the turret is in an unfinished state. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #186  (forum post #5664823)
+Author    : Treadwell
+Date      : Sep 23, 2025 at 8:50 AM
+Reactions : Haha, Like — joberg, Searun, Studio Kitbash
+────────────────────────────────────────────────────────────────────────
+
+It's impossible to think of spaceship turrets calmly, it is a very excitable subject.
+────────────────────────────────────────────────────────────────────────
+Post #187  (forum post #5664958)
+Author    : Shamon
+Date      : Sep 23, 2025 at 3:58 PM
+Reactions : Like — joberg, manugu, Studio Kitbash
+────────────────────────────────────────────────────────────────────────
+
+This is probably a part that fell on the floor. Someone picked it up and put it there.
+
+ 
+
+Attachments
+
+[IMAGE: 1615271-9ea07e1ceb2e51b57af14c0d297c4b79.jpg]
+
+jygjugfy.jpg
+
+					349 KB
+					
+					· Views: 91
+					
+				
+
+[IMAGE: 1615272-56cbb9fbd38f1866c6d9fd005b12a2d5.jpg]
+
+3.jpg
+
+					520.8 KB
+					
+					· Views: 95
+────────────────────────────────────────────────────────────────────────
+Post #188  (forum post #5664971)
+Author    : Searun
+Date      : Sep 23, 2025 at 5:26 PM
+Reactions : Like — Necronaut, joberg
+────────────────────────────────────────────────────────────────────────
+
+3Dsf said:
+
+			What is your goal? Are you wanting a Falcon unfinished, as it appeared during construction? Or a Falcon as it appeared upon completion prior to filming? 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+A very insightful question 3Dsf. Falcon does teach this.
+────────────────────────────────────────────────────────────────────────
+Post #189  (forum post #5670189)
+Author    : Shamon
+Date      : Oct 12, 2025 at 5:33 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Does anyone know what kit this part belongs to? It looks like a car engine part to me.
+
+ 
+
+Attachments
+
+[IMAGE: 1620267-41ec23915cd53e30c05810f9a6230f80.jpg]
+
+Img_5599.jpg
+
+					239.2 KB
+					
+					· Views: 65
+────────────────────────────────────────────────────────────────────────
+Post #190  (forum post #5670217)
+Author    : jcoffman99
+Date      : Oct 12, 2025 at 8:11 AM
+Reactions : Like, Love — joberg, Shamon, Necronaut
+────────────────────────────────────────────────────────────────────────
+
+Brabham BT46 Tamiya | No. 20050 | 1:20
+
+[IMAGE: https://www.therpf.com/forums/attachments/part-jpg.1977827/]
+────────────────────────────────────────────────────────────────────────
+Post #191  (forum post #5670269)
+Author    : Necronaut
+Date      : Oct 12, 2025 at 10:32 AM
+Reactions : Like — joberg, Shamon
+────────────────────────────────────────────────────────────────────────
+
+jcoffman99 said:
+
+Brabham BT46 Tamiya | No. 20050 | 1:20
+
+View attachment 1977827
+
+Click to expand...
+
+Is that a post-ANH edit/fix?
+────────────────────────────────────────────────────────────────────────
+Post #192  (forum post #5670272)
+Author    : jcoffman99
+Date      : Oct 12, 2025 at 10:35 AM
+Reactions : Like — joberg, Shamon, manugu
+────────────────────────────────────────────────────────────────────────
+
+Necronaut said:
+
+			Is that a post-ANH edit/fix?
+		
+
+Click to expand...
+
+Yes. The original part is from the Ferrari.
+────────────────────────────────────────────────────────────────────────
+Post #193  (forum post #5670279)
+Author    : 3Dsf
+Date      : Oct 12, 2025 at 10:41 AM
+Reactions : Like — joberg, Shamon
+────────────────────────────────────────────────────────────────────────
+
+Very interesting. This is probably already known to experts, but:
+
+- The Brabham BT46 part was clearly slapped in there at some point after filming; that's obvious as it doesn't look painted.
+
+- The Brabham part is not present in the October 1978 photos.
+
+- Tamiya released the kit in 1978, which means it could never have been present during filming in 1976-1977.
+
+- Given that the 5' Falcon was repainted seamlessly in 1979 to accommodate the extra landing gear boxes for Empire, I have always guessed that the Brabham part was most likely added after that time. Because they would presumably have painted it to match had they put it in during the Empire mods.
+
+- That said, that's just a guess. It seems the Tamiya Brabham was used on a few ESB models, so maybe not.
+
+- It seems that the main missing parts from that area have been identified, including the Tamiya Ferrari 312 angled bit with cylinder that was originally under there.
+
+- Bandai correctly modelled the missing parts and pipes in there, to reflect the 1976 appearance. (on the PG Falcon)
+────────────────────────────────────────────────────────────────────────
+Post #194  (forum post #5670288)
+Author    : 3Dsf
+Date      : Oct 12, 2025 at 10:57 AM
+Reactions : Like, Wow — joberg, Shamon, manugu
+────────────────────────────────────────────────────────────────────────
+
+Looks like a bunch of piping also got lost somewhere along the way.
+
+[IMAGE: https://www.therpf.com/forums/attachments/port-sidewall-detail-anh-jpg.1977884/]
+────────────────────────────────────────────────────────────────────────
+Post #195  (forum post #5670333)
+Author    : Shamon
+Date      : Oct 12, 2025 at 3:02 PM
+Reactions : Like — joberg, jcoffman99
+────────────────────────────────────────────────────────────────────────
+
+jcoffman99 said:
+
+Brabham BT46 Tamiya | No. 20050 | 1:20
+
+View attachment 1977827
+
+Click to expand...
+
+Thanks, John! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #196  (forum post #5673888)
+Author    : Shamon
+Date      : Oct 24, 2025 at 11:28 PM
+Reactions : Wow — joberg
+────────────────────────────────────────────────────────────────────────
+
+I think this decal is a microscale decal. Does anyone know which sheet this belongs to? I think the length of the ribbon is 35mm, but I can't find any matching one.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0041-jpg.1983368/]
+
+ 
+
+Attachments
+
+[IMAGE: 1625882-5d66bd620004af57fe210f6ca13992ff.jpg]
+
+IMG_8850.JPG
+
+					4 MB
+					
+					· Views: 57
+					
+				
+
+[IMAGE: 1625883-1ea496353f58a482455d7ae3340aea98.jpg]
+
+IMG_8853.JPG
+
+					362.4 KB
+					
+					· Views: 65
+					
+				
+
+[IMAGE: 1625884-8f0ba6da206e784d5b3ecd90cba336b6.jpg]
+
+IMG_8854.JPG
+
+					742.9 KB
+					
+					· Views: 68
+────────────────────────────────────────────────────────────────────────
+Post #197  (forum post #5673950)
+Author    : manugu
+Date      : Oct 25, 2025 at 7:23 AM
+Reactions : Like — Shamon, joberg
+────────────────────────────────────────────────────────────────────────
+
+Dear Shamon, based on my guesstimating the Avro Lancaster part is ~5cm, that makes the number sequence~4.375cm. This would fit with the 87-96 HO sheet pretty well. Not claiming I’m correct here!
+────────────────────────────────────────────────────────────────────────
+Post #198  (forum post #5673961)
+Author    : RealDaveWinter
+Date      : Oct 25, 2025 at 7:56 AM
+Reactions : Like — joberg, Shamon
+────────────────────────────────────────────────────────────────────────
+
+Decal sheet is Microscale #87-15 "Burlington Route".
+
+For those that need it, there are a few on eBay. I really wish Microscale would have included the printed date on the sheet. When I was printing decals professionally, all my sheets at the 'printed date' on them.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5111-jpg.1983441/]
+────────────────────────────────────────────────────────────────────────
+Post #199  (forum post #5674119)
+Author    : Shamon
+Date      : Oct 25, 2025 at 4:56 PM
+Reactions : Like — joberg, manugu
+────────────────────────────────────────────────────────────────────────
+
+Thank you, manugu! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ But Avro Lancaster is 41mm...
+
+ 
+
+Attachments
+
+[IMAGE: 1626097-5797ef9f9aa5c806c09bfadf2c63516b.jpg]
+
+IMG_8856.JPG
+
+					1.9 MB
+					
+					· Views: 39
+────────────────────────────────────────────────────────────────────────
+Post #200  (forum post #5674122)
+Author    : Shamon
+Date      : Oct 25, 2025 at 5:05 PM
+Reactions : Wow — joberg
+────────────────────────────────────────────────────────────────────────
+
+RealDaveWinter said:
+
+			Decal sheet is Microscale #87-15 "Burlington Route".
+
+For those that need it, there are a few on eBay. I really wish Microscale would have included the printed date on the sheet. When I was printing decals professionally, all my sheets at the 'printed date' on them.
+
+View attachment 1983441
+
+Click to expand...
+
+Thank you, Dave. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ It looks the same as mine, but is the size of the sheet different? The size is not indicated on this sheet.
+
+ 
+
+Attachments
+
+[IMAGE: 1626101-5725a6e6cd535a9e134f67e4502d578c.jpg]
+
+IMG_8858.JPG
+
+					4.6 MB
+					
+					· Views: 44
+					
+				
+
+[IMAGE: 1626102-5dd3d8b2fa9be8c25298c5a52d371df6.jpg]
+
+IMG_8859.JPG
+
+					1.5 MB
+					
+					· Views: 44
+────────────────────────────────────────────────────────────────────────
+Post #201  (forum post #5674129)
+Author    : RealDaveWinter
+Date      : Oct 25, 2025 at 5:41 PM
+Reactions : Like — rbeach84, joberg, manugu
+────────────────────────────────────────────────────────────────────────
+
+Hmmmmm Nope. Sorry, I was wrong, it's the N-scale version of that sheet. 60-15 (right image)
+
+The HO scale one (left) is too wide.
+
+[IMAGE: https://www.therpf.com/forums/attachments/1761439123821-png.1983590/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/1761439876212-jpeg.1983592/]
+────────────────────────────────────────────────────────────────────────
+Post #202  (forum post #5674143)
+Author    : Shamon
+Date      : Oct 25, 2025 at 6:42 PM
+Reactions : Like — rbeach84, RealDaveWinter, joberg
+────────────────────────────────────────────────────────────────────────
+
+RealDaveWinter said:
+
+			Hmmmmm Nope. Sorry, I was wrong, it's the N-scale version of that sheet. 60-15
+
+The HO scale one (left) is too wide.
+
+View attachment 1983590 View attachment 1983592
+
+Click to expand...
+
+Thank you, Dave! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #203  (forum post #5676747)
+Author    : rbeach84
+Date      : Nov 4, 2025 at 1:45 PM
+Reactions : Like, Love — joberg, manugu, Shamon
+────────────────────────────────────────────────────────────────────────
+
+If it helps, a gentle reminder that the full array of decals was surveyed a few years back:
+
+[IMAGE: logo-og.png]
+
+						5 Foot Millennium Falcon markings survey
+					
+
+All, just in case anyone missed the thread over in General Modeling, there is a thread working to document all the markings applied to the 5-foot MF and provide artifacts useful to anyone making a replica of that filming model.  The thread name is somewhat confusing as it was started with a...
+
+[IMAGE: favicon.png]
+
+					www.therpf.com
+				
+
+Also, the archive of the resulting files is found on my local club's website:
+
+						UPDATED: Markings of the SW Millennium Falcon 5-Foot Filming Model | Hampton Roads Scale Modelers
+					
+
+Hampton Roads Scale Modelers -
+
+[IMAGE: toolbox1.ico]
+
+					hamptonroadsscalemodelers.com
+				
+
+Hope this is useful!  And if there is anything new to add to that effort, appreciate the inputs for incorporation.
+
+Regards, Robert
+────────────────────────────────────────────────────────────────────────
+Post #204  (forum post #5676759)
+Author    : rbeach84
+Date      : Nov 4, 2025 at 2:03 PM
+Reactions : Like, Love — joberg, MrRobot, Necronaut
+────────────────────────────────────────────────────────────────────────
+
+RealDaveWinter said:
+
+			Hmmmmm Nope. Sorry, I was wrong, it's the N-scale version of that sheet. 60-15 (right image)
+
+The HO scale one (left) is too wide.
+
+View attachment 1983590 View attachment 1983592
+
+Click to expand...
+
+Thanks, David! I updated my master survey spreadsheet with this more correct reference.  I will post to the website as soon as I can do so.
+
+Regards, Robert
+────────────────────────────────────────────────────────────────────────
+Post #205  (forum post #5678737)
+Author    : Shamon
+Date      : Nov 10, 2025 at 3:32 PM
+Reactions : Like, Wow — joberg, manugu, swgeek
+────────────────────────────────────────────────────────────────────────
+
+As you all know, this is a common part of the 1/15 German IV-F2 tank and Hummel. But I've been wondering for a long time why the details of this part are different from the original. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_9254-jpg.1988659/]
+
+I was late to realize it, but it was finally solved. What was needed was these vintage kits.
+────────────────────────────────────────────────────────────────────────
+Post #206  (forum post #5681026)
+Author    : Shamon
+Date      : Nov 18, 2025 at 3:49 AM
+Reactions : Like, Wow, Love — Necronaut, Studio Kitbash, manugu
+────────────────────────────────────────────────────────────────────────
+
+I got the original parts. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_9346-jpg.1990638/]
+────────────────────────────────────────────────────────────────────────
+Post #207  (forum post #5681032)
+Author    : RealDaveWinter
+Date      : Nov 18, 2025 at 4:38 AM
+Reactions : Like — Shamon, joberg
+────────────────────────────────────────────────────────────────────────
+
+Nice!
+────────────────────────────────────────────────────────────────────────
+Post #208  (forum post #5681048)
+Author    : Searun
+Date      : Nov 18, 2025 at 8:01 AM
+Reactions : Like — Shamon, joberg
+────────────────────────────────────────────────────────────────────────
+
+Thanks. Back in the pits agin. Sure is hard these days to keep up with kit part detectives.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 208

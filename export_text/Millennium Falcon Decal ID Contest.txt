@@ -1,0 +1,426 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Millennium Falcon Decal ID Contest
+URL    : https://www.therpf.com/forums/threads/millennium-falcon-decal-id-contest.245438/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #3739225)
+Author    : rbeach84
+Date      : Aug 26, 2015 at 11:19 AM
+────────────────────────────────────────────────────────────────────────
+
+Typical of many of the images we've been working with on the MF Markings Survey is for the text block on the forward part of the outer starboard mandible wall, seen in the below closeup of Item #133 (from the Decal Tracker - see the Markings Survey thread) is wonderfully clear (to a point) but still grainy enough that a 'translation' is needed to determine what the text says exactly:
+
+[IMAGE: 246967-3a7eee5361eb1e55d0a53a22bc373863.jpg]
+
+So, I am asking for everyone's input on what they think this says with the winner getting permanent credit and a beautifully produced certificate of appreciation to be awarded in a month's time.  How about it?
+
+I'll kick it off with my version:
+
+<undetermined smaller text>
+
+CAUTION
+
+<undetermined smaller text>
+
+MANUAL CONTROL VALVE
+
+ACTIVATION TO SECURE [alt: TO SERVICE]
+
+HYDRAULIC SYSTEM xxx
+
+GROVE 10YRJ F-81
+
+Have fun!
+
+Regards, Robert
+
+----------------------------
+
+Update: Not found in the NAVAIR manual for F-4 markings, so may be sourced from another type a/c model.
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #3739813)
+Author    : Mike J.
+Date      : Aug 27, 2015 at 4:51 AM
+────────────────────────────────────────────────────────────────────────
+
+I'm humbly suggesting the last line may be "ABOVE ___ PSI."
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #3739846)
+Author    : zorg
+Date      : Aug 27, 2015 at 5:54 AM
+────────────────────────────────────────────────────────────────────────
+
+I would say Grove is above.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #3739850)
+Author    : zorg
+Date      : Aug 27, 2015 at 5:57 AM
+────────────────────────────────────────────────────────────────────────
+
+I would say Grove is above.
+
+'Injury', third line from bottom right hand side.
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #3739871)
+Author    : crackerjazz
+Date      : Aug 27, 2015 at 6:15 AM
+────────────────────────────────────────────────────────────────────────
+
+I have a feeling it's handwritten and would account for no actual decal being found?   Those cursive E's...the "5" at the top... the uneven spacing of the letters.  Just doesn't look like something printed mechanically to me.
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #3740102)
+Author    : adinelt
+Date      : Aug 27, 2015 at 10:13 AM
+────────────────────────────────────────────────────────────────────────
+
+Here is what I think it says...
+
+AGT EXPERIMENTAL 175
+
+CAUTION
+
+not sure
+
+MANUAL COMPENSATION
+
+??TION 7 EQUIPT
+
+HYPERMARK SYSTEM 98
+
+?R?VE 109IU PMA
+
+For what it is worth...  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #3740311)
+Author    : rbeach84
+Date      : Aug 27, 2015 at 1:07 PM
+────────────────────────────────────────────────────────────────────────
+
+Ah, I'm glad I'm not the only one that finds this challenging!
+
+Here are some reasons why I believe this came from an aircraft kit:
+
+- The form of it is commonly found in a/c instructional stenciling (i.e., the CAUTION at the top)
+
+- The number '175' is probably the panel/access door number.  Often, removable panels are numbered on the panel and on the adjacent skin so replacement is easier (especially useful when there are many similarly shaped panels...)
+
+- I'm almost certain the next-to-last line has 'HYDRAULIC SYSTEM' in it; these are common in modern a/c (so a "jet" is most likely.)
+
+Keep in mind, how legible the lettering in the image is can be a function of a) decal wear, b) original printing clarity, which also is a function of c) size.  On top of this is the resolution of the image itself.  One technique I use is to compare the form of the characters in a known word (like CAUTION) to the instances in the other words.  For example, the 'O' has apparently a 'drop' off the lower, right side, making it seem something like an 'R' - but we know it is an 'O'.  Another is how the 'Y' and 'T' in 'SYSTEM' look very much alike.
+
+Another trick is to try the guesses and see how they line up. For example, in:
+
+MANUAL
+
+ACTIVATION
+
+'activation' is about half-again longer than 'manual'.  In the image, it is apparently fully twice the length of 'manual' which might imply the word is 'deactivation':
+
+MANUAL
+
+DEACTIVATION
+
+Now we have the 'IV' combo under the 'L', which in the image looks like a 'N' character - or an 'IV'.
+
+So does this make any sense?
+
+MANUAL CONTROL VALVE
+
+DEACTIVATION TO SECURE
+
+HYDRAULIC SYSTEM AT
+
+ABOVE 1000 PSI  (to build off of Mike J's suggestion)
+
+This seems reasonable if a bit stilted. So, it might also read:
+
+MANUAL CONTROL VALVE
+
+DEACTIVATION OF PRIMARY
+
+HYDRAULIC SYSTEM IF  (I like 'IF' here though it doesn't fit as well)
+
+ABOVE 1000 PSI
+
+When reading through the F-4 Phantom instructional markings diagrams (under the assumption this is from the 1/32 Revell kit), I found several references to 'COMPENSATOR' (which is a part of a hydraulic piston) - which leads me to think that is the long word on the first line of smaller text - but nothing about 'manual control valves'.
+
+Another element is that Revell might have simply 'fudged' on the stenciling, essentially making stuff up.  Now I'm looking for other jet aircraft kits issued prior to 1976.... when did the Hasegawa F-104 get issued?
+
+R/ Robert
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #3740380)
+Author    : usaeatt2
+Date      : Aug 27, 2015 at 2:09 PM
+────────────────────────────────────────────────────────────────────────
+
+The sleuthing of this decal is all very interesting to me, but I don't have much scale model experience.  HOWEVER, I did work on F-16 and F-117 fighter jets for 8 years.  Maybe I can provide a clue based on how things actually work...  Many jets have a "jet fuel starter".  This system designed to release hydraulic pressure through a small motor to get the big compressor spinning fast enough to introduce fuel.  On F-16's, this system operates at 3000 psi.  If it gets depleted (for whatever reason), the reservoir has to be pumped back up to 3000 psi MANUALLY.  A handle is inserted into a pump in the rear wheel well, and a couple guys take turns pumping until their arms wear out.
+
+A hydrazine system provides hydraulic pressure to the flight controls in case of emergency.  This is a LAST resort and provides control for about 30 seconds - like to position a heavily damaged aircraft before ejecting.  Dangerous and TOXIC stuff.  I COULD see deactivating the emergency system if the primary is above 1000 psi.
+
+The logic for the decal text spacing / lettering makes sense, but I'm not sure why you would want to deactivate the primary hydraulic system above 1000 psi?
+
+I hope this helps in some way, but if not, now you have some gee-whiz fighter jet knowledge.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #3740439)
+Author    : rbeach84
+Date      : Aug 27, 2015 at 3:14 PM
+────────────────────────────────────────────────────────────────────────
+
+usaeatt2, I now suspect the decal came from an F-104 kit though still looking to see which one (both the Hasegawa & Revell F-104 1:32 scale kits were available in the mid-'70's, as far as I can determine.)  As far as I know, the Starfighter used a RAT to provide emergency hydraulic power.  This particular caution would apply to the a/c while grounded.  Part of the message is still missing since it is part of the smaller (and even less decipherable) text.  I did manage to find a description of the hydraulic system for the F-104 online (from the Flight Manual...) and it provided some info regarding the terminology used, such as the #2 system was the 'utility' system.  So, perhaps the message is for the 'utility' system (which fits even better length-wise...):
+
+MANUAL CONTROL VALVE
+
+DEACTIVATION OF UTILITY
+
+HYDRAULIC SYSTEM IF  (I like 'IF' here though it doesn't fit as well)
+
+ABOVE 1000 PSI
+
+Moving stuff around a bit, there is also this possibility:
+
+MANUAL CONTROL VALVE
+
+DEACTIVATION IF UTILITY
+
+HYDRAULIC SYSTEM IS
+
+ABOVE 1000 PSI
+
+which fits the apparent "form" of the decal best of all...
+
+Regards, Robert
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #3740721)
+Author    : adinelt
+Date      : Aug 27, 2015 at 8:06 PM
+────────────────────────────────────────────────────────────────────────
+
+LOL!  I couldn't be further from the answer than if I tried!
+
+Robert, I like the last translation you did.  Sounds reasonable and flows well when reading it.
+
+Don't know much about aircraft or stuff like that, but could the line under CAUTION be something like IN CASE OF EMERGENCY?
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #3740734)
+Author    : usaeatt2
+Date      : Aug 27, 2015 at 8:27 PM
+────────────────────────────────────────────────────────────────────────
+
+I would say "AUXILIARY hydraulic system" instead of "utility hydraulic system".
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #3740932)
+Author    : Vacformedhero
+Date      : Aug 28, 2015 at 1:41 AM
+────────────────────────────────────────────────────────────────────────
+
+Hydraulic winch controls on armoured vehicles , just a thought 
+
+https://books.google.ie/books?id=Rg...caution manual control valve 1000 psi&f=false
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #3741209)
+Author    : rbeach84
+Date      : Aug 28, 2015 at 9:09 AM
+────────────────────────────────────────────────────────────────────────
+
+usaeatt2, the word AUXILIARY is too long to fit if you look closely at the decal - it couldn't line up with the end of the other lines as it does.  Plus, when I read up on the F-104, the manuals described the secondary system as the 'utility' system, probably because that was how it was used (vs the primary which was for flight controls...) 
+
+Vacformedhero,  seeing the tiny '175' in the  upper corner tips us off that is was probably a modern US jet because of the panel ID numbering scheme required by official painting tech orders.  Given the decals physical size, I've assumed it came from a 1/32 scale kit (being too big certainly for 1/72 & probably for 1/48) so with all this, we're left to determine what kits were available at that time (1976-77) so following the idea that it came  from an aircraft kit decal sheet (as others decals did) it just comes  down to which kit was the source.  I have been able to review the sheets for the Revell 1/32 F-4 kit(s) and did not find anything that matched this, plus having a look at the USN T.O. for the 'instructional' markings shows it wasn't anything specified there.  Then it fails to other possible candidates, such as the Hasegawa A-4 Skyhawk or the F-104 Starfighter kits (Hase & Revell.)  I haven't yet been able to locate any good , hi-rez images of those decal sheets, but looking at the low rez version from eBay and kit reviews, I can see there wasn't a lot of stenciling on the Skyhawk sheet, so that points to the F-104.  In early USAF natural metal, it was covered with black stenciling markings.
+
+Hence my research in the prototypical markings for the Starfighter.  Unfortunately, the relevant Air Force T.O.s for the F-10 are not available online.  They are kept in a closed archive at Tinker AFB, so I suppose if I were an active-duty 'blue suiter' wrencher, I might be able to submit for an account and gain access to the specific instruction (once I was able to even determine *which* TO was needed... sigh!)
+
+This well runs deep, my friends!
+
+;^D  Regards, Robert
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #3741224)
+Author    : rbeach84
+Date      : Aug 28, 2015 at 9:28 AM
+────────────────────────────────────────────────────────────────────────
+
+adinelt said:
+
+			LOL!  I couldn't be further from the answer than if I tried!
+
+Robert, I like the last translation you did.  Sounds reasonable and flows well when reading it.
+
+Don't know much about aircraft or stuff like that, but could the line under CAUTION be something like IN CASE OF EMERGENCY?
+		
+
+Click to expand...
+
+adinelt,  that seems reasonable, but think of what these 'instructional' markings are used for: they are applied near access doors and removable panels in the a/c skin for the ground crew & maintainers to read.  Markings related to 'emergency' situations are in yellow or red (usually) and primarily involve extraction of the aircrew or less commonly fire-fighting (as in 'insert fire nozzle here' type markings.)  I'm sure it is something that is conditional, but I don't have a clue.  It should be something that (obviously) is happening on the ground when parked, so perhaps it says something like "if servicing the uppty-squat widget".  The top line will probably give another clue, but 'ACT COMPENSATOR' (best guess) doesn't really do anything for me.  Perhaps we'll get some help from our Air Force buddies...
+
+R/ Robert
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #3741300)
+Author    : Alonzo Fonzo
+Date      : Aug 28, 2015 at 11:00 AM
+────────────────────────────────────────────────────────────────────────
+
+Robert,
+
+I checked my Revell Phantom kit and found the exact decal with the number 175 in the right corner. It´s decal number 11 from the decal sheet of Revell kit H-198
+
+[IMAGE: 247866-9c21c91fbf7f8af9ac2e40c14acf0813.jpg]
+
+The text is difficult to read but the instructions say the decal should be placed on the left fuselage side, near the front landing gear.
+
+Hope I could help
+
+Stefan
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #3741319)
+Author    : rbeach84
+Date      : Aug 28, 2015 at 11:18 AM
+────────────────────────────────────────────────────────────────────────
+
+Stefan, thank you for finding it!  The Revell H-198 kit is the one I hadn't found any views of the decal sheet (just the F-4B kit... I assumed the stenciling in the different issues would be the same - wrong!)
+
+Is there any chance you can scan it (at at least 300 dpi, better at 400dpi) and post here?
+
+Regards, Robert
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #3741324)
+Author    : Alonzo Fonzo
+Date      : Aug 28, 2015 at 11:22 AM
+────────────────────────────────────────────────────────────────────────
+
+Sure!
+
+I can make a scan on monday, at work 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #3741327)
+Author    : rbeach84
+Date      : Aug 28, 2015 at 11:28 AM
+────────────────────────────────────────────────────────────────────────
+
+Stefan, thank you for finding it!  The Revell H-198 kit is the one I hadn't found any views of the decal sheet (just the F-4B kit... I assumed the stenciling in the different issues would be the same - wrong!)
+
+Also, this sheet has the correct 'Release' handle markings (#27 & #29); other issues have the 'tilted' and 'bent' versions where the yellow part is not straight and up & down orientation.  In fact, it appears to be the specific source of several other decals such as the red WARNING text block, the instrument panel & console decals, the ejection seat triangles & the black & yellow RESCUE block.  Wow... probably others...
+
+Is there any chance you can scan it (at at least 300 dpi, better at 400 dpi resolution) and post here?  Or send to me via the RPF email tool?  If so, please include a scale 'rule' in the scan so we can get the exact dimensions and document 'em in the Tracker so folks like Retiredadguy & Imurme who are drawing their own graphics for decal sheets have the best information possible.
+
+Awesome!
+
+Regards, Robert
+
+-------------------------------------------------
+
+Sorry, I got double posted; thanks for doing that, Alonzo Fonzo!
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #3741553)
+Author    : Mike J.
+Date      : Aug 28, 2015 at 3:42 PM
+────────────────────────────────────────────────────────────────────────
+
+Victory!
+
+-MJ
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #3741570)
+Author    : rbeach84
+Date      : Aug 28, 2015 at 3:52 PM
+────────────────────────────────────────────────────────────────────────
+
+At this point, I feel like a sculptor chipping away tiny bits trying to finish the masterpiece... beside the decal graphics I'm doing for a buddy, I suppose I'll need to spend some time constructing Al's certificate (I have to give him credit for finding the actual source decal and if his scan can provide a good exemplar for the 5-6 different decals that came from the one sheet, we'll all benefit...)
+
+Happy, I am.
+
+R/ Robert
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #3741694)
+Author    : leyrich
+Date      : Aug 28, 2015 at 6:45 PM
+────────────────────────────────────────────────────────────────────────
+
+In the red box
+		
+		
+	
+
+	
+
+[IMAGE: 248050-5876f7c94c35d5bdddf92f9e7b7263d6.jpg]
+:d
+[IMAGE: 248064-270a71bbbac90032dd8d303cfd587da1.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #3741743)
+Author    : crackerjazz
+Date      : Aug 28, 2015 at 8:02 PM
+Reactions : Like — propcollector
+────────────────────────────────────────────────────────────────────────
+
+Wow, great work guys!   Great sleuthing, Stefan!  My face is all red from even suggesting it was handwritten : (
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #3741749)
+Author    : propcollector
+Date      : Aug 28, 2015 at 8:19 PM
+────────────────────────────────────────────────────────────────────────
+
+Great find!!
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #3741922)
+Author    : Alonzo Fonzo
+Date      : Aug 29, 2015 at 4:42 AM
+Reactions : Like — Lee S, MonsieurTox
+────────────────────────────────────────────────────────────────────────
+
+Good news! I manged to borrow a scanner so I won´t keep you guys waiting until monday.
+
+Here is the scan (600 dpi):
+
+[IMAGE: 248163-184df61af980dfa326f5c93e675dbbc4.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #3741942)
+Author    : MonsieurTox
+Date      : Aug 29, 2015 at 5:28 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks Stefan, some nice TIE Fighter decals in there ! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #3741998)
+Author    : Alonzo Fonzo
+Date      : Aug 29, 2015 at 7:15 AM
+────────────────────────────────────────────────────────────────────────
+
+Good to know Julien, thanks 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+I noticed the yellow markings (number 28) but I am not aware of any more from this sheet for the TIE. Number 39 and 43 cut up on the wing struts maybe?
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #3742376)
+Author    : rbeach84
+Date      : Aug 29, 2015 at 4:29 PM
+────────────────────────────────────────────────────────────────────────
+
+Woo-hoo!  Good job, Alonzo!
+
+Thanks so much, guys!
+
+I guess that explains why it is so illegible - it was printed that way.  Happens a lot when the text is so small to be unprintable, so they just use 'garbled text' to give the impression of the correct verbiage.  Now with Leyrichs' input from the Afterburner sheet (#072, which I have a copy of) gives us what it *should* have said, which is:
+
+AFT GUN REMOVAL
+
+CAUTION
+
+DO NOT OPERATE GUN
+
+MANUAL CONTROL VALVE
+
+WHEN AIRCRAFT UTILITY
+
+HYDRAULIC SYSTEM IS
+
+ABOVE 1000 PSI
+
+Well, that seems so obvious when you think about it - riiiightt!
+
+Regards, Robert
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 27

@@ -1,0 +1,196 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Panavise Mount Question
+URL    : https://www.therpf.com/forums/threads/panavise-mount-question.70474/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #986979)
+Author    : Zenwalker
+Date      : Sep 17, 2009 at 1:12 PM
+────────────────────────────────────────────────────────────────────────
+
+I am in the process of building a custom display base for my eFX X-wing and want to use a Panavise mount/ pole to mount my X-Wing on. I want to use the mount to have the X-wing sit at approx. a 55 degree angle.
+
+ I was just wondering what you guys use to transition from the panavise mount (1/4-20 thread) to the mounting hole in the model. I don't have the panavise mount yet but it looks like the mount on it is one solid piece. So how would you attach the pole that  fits into the mounting hole on the model to the panavise mount? The mounting hole on the eFX X-wing is 1" in diameter.
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #987235)
+Author    : GF
+Date      : Sep 17, 2009 at 6:05 PM
+────────────────────────────────────────────────────────────────────────
+
+Zenwalker said:
+
+			I am in the process of building a custom display base for my eFX X-wing and want to use a Panavise mount/ pole to mount my X-Wing on. I want to use the mount to have the X-wing sit at approx. a 55 degree angle.
+
+I was just wondering what you guys use to transition from the panavise mount (1/4-20 thread) to the mounting hole in the model. I don't have the panavise mount yet but it looks like the mount on it is one solid piece. So how would you attach the pole that fits into the mounting hole on the model to the panavise mount? The mounting hole on the eFX X-wing is 1" in diameter.
+		
+
+Click to expand...
+
+ 
+
+You would need a appropriate size threaded plug glued in the existing x-wing mounting hole to fit the panavise.
+
+GFollano
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #987254)
+Author    : Zenwalker
+Date      : Sep 17, 2009 at 6:39 PM
+────────────────────────────────────────────────────────────────────────
+
+GF said:
+
+			You would need a appropriate size threaded plug glued in the existing x-wing mounting hole to fit the panavise.
+
+GFollano
+		
+
+Click to expand...
+
+You mean like a female 1/4-20 thread (plug)? Any idea where they can be found for purchase?
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #987265)
+Author    : REL
+Date      : Sep 17, 2009 at 7:09 PM
+────────────────────────────────────────────────────────────────────────
+
+I use threaded inserts to put inside the model for the panavise. Just drill a hole the size of the insert, then screw it in with an allen wrench. 
+
+Here's what they look like, you can get them at any hardware store. 
+
+http://www.woodworkingparts.com/parts/brass_inserts.html
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #987375)
+Author    : GF
+Date      : Sep 17, 2009 at 9:09 PM
+────────────────────────────────────────────────────────────────────────
+
+REL said:
+
+			I use threaded inserts to put inside the model for the panavise. Just drill a hole the size of the insert, then screw it in with an allen wrench. 
+
+Here's what they look like, you can get them at any hardware store. 
+
+http://www.woodworkingparts.com/parts/brass_inserts.html
+
+Click to expand...
+
+ 
+
+My only concern is the brittle material of the EFX x-wing if they used the same type material as the MR models, I would rather epoxy in a plug instead  of drilling. 
+
+GFollano
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #987415)
+Author    : 3d-builder
+Date      : Sep 17, 2009 at 10:10 PM
+────────────────────────────────────────────────────────────────────────
+
+REL said:
+
+			I use threaded inserts to put inside the model for the panavise. Just drill a hole the size of the insert, then screw it in with an allen wrench. 
+
+Here's what they look like, you can get them at any hardware store. 
+
+http://www.woodworkingparts.com/parts/brass_inserts.html
+
+Click to expand...
+
+Rich I get these at work very cool link, I didn't know there was a tool!!
+
+The brass is soft if you use a flat head screw driver it sometimes mashes up the slot on the top of the insert, thanks for the link!!
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #987551)
+Author    : Robiwon
+Date      : Sep 18, 2009 at 5:09 AM
+────────────────────────────────────────────────────────────────────────
+
+Here is what the insert looks like in the bottom of my SS X-Wing. I drilled the hole a "little" bigger so that the insert was not digging as deep into the resin. I didn't want it to crack as I was threading the insert in. It was then epoxied as well. The next pic. is the ball mount from the Panvise screwed into the insert. You can get the inserts at any big box home improvement store (Lowes, Home Depot, etc) in the screw and fastener aisle.
+
+Now, you said your hole is an inch in diameter. You may have to plug it with a one inch wooden dowl and then drill your new hole for the insert. Cut a section of dowl to fit flush with the hull bottom and epoxy in place. Mask around the plug and give it a light sanding. Give it a thin coat of putty and sand smooth. Paint it to match the hull and then insert you insert.
+
+[IMAGE: 1238517613069322900.jpg]
+
+[IMAGE: 1238517391055781100.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #987861)
+Author    : Zenwalker
+Date      : Sep 18, 2009 at 12:08 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks for all the info. guys that really helps.
+
+The eFX X-wing already has a pre-existing 1" hole in it so I can't just drill a hole for the insert in the model. On the plus side the existing hole is about 5" deep so I don't think I have glue anything permanently to the model, which I don't really want to do anyway.
+
+Robiwon I like your idea using the 1" wooden dowel. The only thing with that is that the model will be sitting at approx. a 55 degree angle and I am concerned that the wood may not be strong enough to hold the weight of the model, as the eFX X-wing is a heavy b**tard.
+
+My original idea was to use a 1" aluminum tubing to fit into the mounting hole of the model, similar to what came with the original base. The only difficulty with that is fixing the insert into the aluminum tubing somehow. Anyone have any ideas on that?
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #988018)
+Author    : imaginager
+Date      : Sep 18, 2009 at 2:30 PM
+────────────────────────────────────────────────────────────────────────
+
+If I were going to do that (55 degree attitude) I would have someone machine the insert, and drill / tap it custom for the panavise.
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #988362)
+Author    : GF
+Date      : Sep 18, 2009 at 11:03 PM
+────────────────────────────────────────────────────────────────────────
+
+Zenwalker said:
+
+			Thanks for all the info. guys that really helps.
+
+The eFX X-wing already has a pre-existing 1" hole in it so I can't just drill a hole for the insert in the model. On the plus side the existing hole is about 5" deep so I don't think I have glue anything permanently to the model, which I don't really want to do anyway.
+
+Robiwon I like your idea using the 1" wooden dowel. The only thing with that is that the model will be sitting at approx. a 55 degree angle and I am concerned that the wood may not be strong enough to hold the weight of the model, as the eFX X-wing is a heavy b**tard.
+
+My original idea was to use a 1" aluminum tubing to fit into the mounting hole of the model, similar to what came with the original base. The only difficulty with that is fixing the insert into the aluminum tubing somehow. Anyone have any ideas on that?
+		
+
+Click to expand...
+
+ 
+
+Basically you will need a custom machined 1" threaded aluminum plug to fit your EFX hole.
+
+OOOPS just noticed Imaginager mentioned that already.
+
+GFollano
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #988520)
+Author    : cosmic_x
+Date      : Sep 19, 2009 at 7:54 AM
+────────────────────────────────────────────────────────────────────────
+
+Hey guys, 
+
+I wasnt able to find these things here in Germany, so can I just order 1/4-20 inserts for my panavise stands from the above link?
+
+I mean 1/40-20 is the right size?
+
+Thanks
+
+Kostas
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #989876)
+Author    : Zenwalker
+Date      : Sep 20, 2009 at 10:52 PM
+────────────────────────────────────────────────────────────────────────
+
+GF said:
+
+			Basically you will need a custom machined 1" threaded aluminum plug to fit your EFX hole.
+
+OOOPS just noticed Imaginager mentioned that already.
+
+GFollano
+		
+
+Click to expand...
+
+Looks like this is the route I will probably have to go.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 12

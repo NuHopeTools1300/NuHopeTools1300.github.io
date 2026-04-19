@@ -1,0 +1,268 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Star Trek TMP warp intermix chambers
+URL    : https://www.therpf.com/forums/threads/star-trek-tmp-warp-intermix-chambers.224681/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #3430255)
+Author    : lhenderson
+Date      : Sep 15, 2014 at 5:57 PM
+────────────────────────────────────────────────────────────────────────
+
+Hi All,
+
+I was wondering if anyone knows how much of the horizontal and vertical intermix chambers from Star Trek TMP/TWOK was a physical set piece, and how much was post-processing?  Does anyone by chance have any dimensions for these constructions?  I'm wondering if a scale model of the intermix chambers can be built with reasonable looking internal lighting effects.  Thanks for any information you may have.
+
+Lewis
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #3430271)
+Author    : phase pistol
+Date      : Sep 15, 2014 at 6:12 PM
+────────────────────────────────────────────────────────────────────────
+
+It was a forced-perspective set... the warp core got narrower toward the back, and the actors in suits down the tunnel were "little people". The back of the set was a painting, so this was all done in-camera (no matte).
+
+[IMAGE: Constitution_class_refit_engineering.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #3430531)
+Author    : Ruddigger
+Date      : Sep 16, 2014 at 12:11 AM
+────────────────────────────────────────────────────────────────────────
+
+Well that's just nuts.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #3430558)
+Author    : DaddyfromNaboo
+Date      : Sep 16, 2014 at 1:24 AM
+────────────────────────────────────────────────────────────────────────
+
+Ruddigger said:
+
+			Well that's just nuts.
+		
+
+Click to expand...
+
+Duh? No, it´s classic cinematic production design 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ In Empire Strikes back the Hoth Hangar set employed the use of child actors in costumes and smaller set pieces to give it more depth. In Lord of the Rings this technique was used to "shrink" Frodo while filming Gandalf and him sitting next to each other, to avoid post pro.
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #3430584)
+Author    : division 6
+Date      : Sep 16, 2014 at 3:05 AM
+────────────────────────────────────────────────────────────────────────
+
+Also done in Casablanca at the end in the airport scene.
+
+The plane was a plywood cut out with little people as the mechanics.
+
+Alien used children in suits to give the sets bigger scale. (landing gear under the Nostromo and Space Jockey chamber)
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #3430676)
+Author    : lhenderson
+Date      : Sep 16, 2014 at 6:02 AM
+────────────────────────────────────────────────────────────────────────
+
+Actually, I'm referring to the full scale parts of the set - the first vertical and horizontal intermix segments (and possibly the second floor vertical), and how they achieved the lighting effects for them.  These are what I'd like to try and model.  I also would like any dimensions of the originals if anyone has them.
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #3430955)
+Author    : DanY
+Date      : Sep 16, 2014 at 11:44 AM
+────────────────────────────────────────────────────────────────────────
+
+lhenderson said:
+
+			Actually, I'm referring to the full scale parts of the set - the first vertical and horizontal intermix segments (and possibly the second floor vertical), and how they achieved the lighting effects for them.  These are what I'd like to try and model.  I also would like any dimensions of the originals if anyone has them.
+		
+
+Click to expand...
+
+From what I remember, the warp core lighting effect was achieved using coat hangers with aluminum foil or mylar strips suspended in the core and spun around.  
+
+Illumination was done (I think) with lasers directed onto the spinning hangers.  It's been a very long time and my memory has faded a bit from that excited 17 year
+
+old (nerd) who read everything he could find about the movie production and model making.
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #3431060)
+Author    : lhenderson
+Date      : Sep 16, 2014 at 1:10 PM
+────────────────────────────────────────────────────────────────────────
+
+DanY said:
+
+			From what I remember, the warp core lighting effect was achieved using coat hangers with aluminum foil or mylar strips suspended in the core and spun around.  
+
+Illumination was done (I think) with lasers directed onto the spinning hangers.  It's been a very long time and my memory has faded a bit from that excited 17 year
+
+old (nerd) who read everything he could find about the movie production and model making.
+		
+
+Click to expand...
+
+Thanks for the info.  That's kind of what I figured, with possibly a bit of post-production "enhancement".  I think mylar strips, on some sort of rotation frame lit by hi-intensity LED's inside a frosted plexiglass tube should be close.  Now if I can get any "real" dimensions so I won't have to ballpark them...
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #3431851)
+Author    : Ruddigger
+Date      : Sep 17, 2014 at 8:51 AM
+────────────────────────────────────────────────────────────────────────
+
+DaddyfromNaboo said:
+
+			Duh? No, it´s classic cinematic production design 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ In Empire Strikes back the Hoth Hangar set employed the use of child actors in costumes and smaller set pieces to give it more depth. In Lord of the Rings this technique was used to "shrink" Frodo while filming Gandalf and him sitting next to each other, to avoid post pro.
+		
+
+Click to expand...
+
+I am aware of the technique and it's many uses in filmdom. That does not negate the fact that it is nuts.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #3431907)
+Author    : DaddyfromNaboo
+Date      : Sep 17, 2014 at 9:46 AM
+Reactions : Like — Apollo, robn1
+────────────────────────────────────────────────────────────────────────
+
+Ruddigger said:
+
+			I am aware of the technique and it's many uses in filmdom. That does not negate the fact that it is nuts.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+From a professional perspective there is nothing "nutty" about it. But I don´t want to force my perspective on you 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #3432326)
+Author    : robn1
+Date      : Sep 17, 2014 at 4:38 PM
+Reactions : Like — asalaw
+────────────────────────────────────────────────────────────────────────
+
+It's not nuts at all, it's a very effective means of making a large set design manageable. It's no more nutty than the use of models or matte paintings. Foreground miniatures is a cool variation.
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #3434250)
+Author    : asalaw
+Date      : Sep 19, 2014 at 5:19 PM
+────────────────────────────────────────────────────────────────────────
+
+I have to jump in in ruddigger's defense.  I've been aware of this and many other effects since childhood.  I once sat across from Colin Chilvers during lunch on Superboy and he explained to me how they did the scene in Superman where Superman flies away from Lois's penthouse terrace (on a reporter's salary?) and, in the same shot, Clark Kent appears at Lois's door.  It was only because I'd spent an incredibly nerdy childhood and adolescence geeking out on special effects that I could even understand what he was talking about.  Figuring that effect out had been driving me insane for ten years, so it was the first thing I asked him when we sat down.  
+
+However, strictly speaking, as an attorney, he's right in pointing out that its being a commonplace effect (still in use today, according to the areal photos from the Star Wars set) doesn't by itself make it non-nuts.  It's an ingenious trick on many levels, but also that's not mutually exclusive with nuttiness.
+
+However again (yes, you can stack howevers) (cuz I said so), it's far more nuts not to do it.  So Rob's right on that point.
+
+However thirdly (I like stacking), in the case of Alien, getting the director's and writers' kids in those suits on that landing pad set where they were blowing all that brown insulation crap around (which would land them all in jail today for child endangerment) WAS, in a very real and certifiable sense, COMPLETELY NUTS.
+
+So everybody's right, one or two of you are a little bit wrong, and we can all move on because I win. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #3434641)
+Author    : Ruddigger
+Date      : Sep 20, 2014 at 7:10 AM
+────────────────────────────────────────────────────────────────────────
+
+You sir, are nuts.
+
+*dives for cover*
+
+Kidding, of course. Back to the original poster, what kind of scale were you thinking about making this in?
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #3436584)
+Author    : lhenderson
+Date      : Sep 22, 2014 at 2:04 PM
+────────────────────────────────────────────────────────────────────────
+
+Ruddigger said:
+
+			You sir, are nuts.
+
+*dives for cover*
+
+Kidding, of course. Back to the original poster, what kind of scale were you thinking about making this in?
+		
+
+Click to expand...
+
+OP here,
+
+I'm still thinking about it.  I've looked over the available clear tubing/piping, and anything over a couple of inches in diameter is far too expensive for me at this time.  So, the scale might be 1:10 at the largest.  I haven't yet figured out my best guess at the full scale dimensions, so it's rather up in the air for now.  I'm open to any suggestions.
+
+Lewis
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #3436634)
+Author    : robn1
+Date      : Sep 22, 2014 at 3:12 PM
+────────────────────────────────────────────────────────────────────────
+
+These plans aren't official, but they give a good idea of the size of the engine room.
+
+http://www.cygnus-x1.net/links/lcars/ksy-enterprise.php
+
+http://www.cygnus-x1.net/links/lcars/enterprise-deck-plans.php
+
+http://www.cygnus-x1.net/links/lcars/jac-enterprise-heavy-cruiser.php
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #3436665)
+Author    : Ruddigger
+Date      : Sep 22, 2014 at 3:47 PM
+────────────────────────────────────────────────────────────────────────
+
+Look for bird feeders. They often have long clear tube, and I know they were used in at least one TNG episode as a model for a warp core style effect.
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #3437295)
+Author    : lhenderson
+Date      : Sep 23, 2014 at 8:57 AM
+────────────────────────────────────────────────────────────────────────
+
+Ruddigger said:
+
+			Look for bird feeders. They often have long clear tube, and I know they were used in at least one TNG episode as a model for a warp core style effect.
+		
+
+Click to expand...
+
+Bird feeders!  I hadn't thought of that, but I know exactly what you're talking about.  That may work very nicely.  Thanks!
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #3449066)
+Author    : JoeRalat
+Date      : Oct 5, 2014 at 11:36 PM
+────────────────────────────────────────────────────────────────────────
+
+Check outs voyager core for the wheel section they seem to look the same. Also one of the Star Trek magazine books on the last days of shooting voyager has info on the core lighting it...from what I remember on the plex panels they used the screen that they used for the old large screen tvs  re-projected tv. The screen was inside the core on the plex. The lights where lights rotate and shine on aluminum foil to give the plasma effect and the lights had color gel to give them the blue tint. If you want to see that, check out season 4 of Enterprise for the DVDs extra Nx secrets (I think it's season 4) you can see it. If I can find a photo of the same effect for the defiant warp core I will post it.
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #3450139)
+Author    : Ironic Chef
+Date      : Oct 6, 2014 at 8:24 PM
+────────────────────────────────────────────────────────────────────────
+
+My recollection is that the TMP warp core was a fairly complex mechanical device that used Mylar, lamps and lasers in order to achieve the effect. Do keep in mind that it was created in 1978, long before CGI became available. The warp cores for TNG, Voyager, and Enterprise were, as far as I know, variations on the TMP mechanical effect - CGI in those days was prohibitively expensive and any solution that got something cool on screen without burning the VFX budget was welcomed. I'm pretty sure there's a detailed description of the TMP mechanism in the 1979 CineFX issue that dug into the ST:TMP production.  That said, I very much doubt that the original TMP effect can be replicated in miniature - it was built full size and physics pretty much dictate that it's impossible to replicate at a smaller size. If I were attempting to replicate the sets at a lesser scale then I'd be focused on experimentation - you're going to have to work out a suitable effect on your own.  Yeah, that sucks, but building reproductions isn't easy. Hoping you can cope with the inherent difficulties.                             Nick
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #3507633)
+Author    : starbuck1963
+Date      : Dec 8, 2014 at 9:52 PM
+────────────────────────────────────────────────────────────────────────
+
+As I recall, the clear tubes were actually really thing plexy that was heated and bent around a large tube.  This would be much cheaper to replicate than buying the really expensive plastic acrylic tubing.
+
+as a side note, the first link listed below is of the print set I made. The interior shown is an attempt to reconcile the awkward and untennable workings of the Enterprise when comparing what is seen and what is stated in regards to how her warp drive systems are supposed to work.
+
+As a further note,, the website Cygnus-x1 site has done hi res scans of many artists' prints and posted them online for free.  In the process the owner of the site has destroyed several business of working artists doing very fine work.
+
+Why buy something when you can find it for free i.e. stolen.
+
+robn1 said:
+
+			These plans aren't official, but they give a good idea of the size of the engine room.
+
+http://www.cygnus-x1.net/links/lcars/ksy-enterprise.php
+
+http://www.cygnus-x1.net/links/lcars/enterprise-deck-plans.php
+
+http://www.cygnus-x1.net/links/lcars/jac-enterprise-heavy-cruiser.php
+
+Click to expand...
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 20

@@ -1,0 +1,1927 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ANH ILM Van Nuys Timeline Wall</title>
+  <style>
+    :root {
+      --paper: #f5ecdd;
+      --paper-deep: #eadcc5;
+      --ink: #1f242b;
+      --muted: #5b6470;
+      --line: rgba(31, 36, 43, 0.1);
+      --shadow: 0 22px 70px rgba(47, 35, 22, 0.16);
+      --month-width: 132px;
+      --label-width: 224px;
+      --months: 27;
+      --track-width: calc(var(--month-width) * var(--months));
+      --row-height: 86px;
+
+      --site: #6b7d57;
+      --site-soft: rgba(107, 125, 87, 0.16);
+      --fighters: #a55536;
+      --fighters-soft: rgba(165, 85, 54, 0.16);
+      --deathstar: #36656e;
+      --deathstar-soft: rgba(54, 101, 110, 0.16);
+      --ships: #a18137;
+      --ships-soft: rgba(161, 129, 55, 0.16);
+      --delivery: #6c4d7d;
+      --delivery-soft: rgba(108, 77, 125, 0.16);
+      --master: #f3c774;
+      --model: #bed0a8;
+      --exact: #b13f2d;
+      --range: #2d6775;
+      --inference: #857048;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0;
+      color: var(--ink);
+      background:
+        radial-gradient(circle at top left, rgba(165, 85, 54, 0.18), transparent 30%),
+        radial-gradient(circle at top right, rgba(54, 101, 110, 0.18), transparent 34%),
+        radial-gradient(circle at bottom right, rgba(161, 129, 55, 0.18), transparent 36%),
+        linear-gradient(180deg, #f8f1e5 0%, #efe2cd 100%);
+      font-family: "Trebuchet MS", "Gill Sans", "Lucida Sans", sans-serif;
+      min-height: 100vh;
+    }
+
+    .page {
+      width: min(1760px, calc(100vw - 28px));
+      margin: 0 auto;
+      padding: 28px 0 40px;
+    }
+
+    .hero {
+      position: relative;
+      overflow: hidden;
+      padding: 28px 30px 26px;
+      border-radius: 30px;
+      border: 1px solid rgba(31, 36, 43, 0.08);
+      background:
+        linear-gradient(135deg, rgba(255, 249, 238, 0.94), rgba(244, 232, 212, 0.9)),
+        linear-gradient(120deg, rgba(255, 255, 255, 0.45), rgba(255, 255, 255, 0));
+      box-shadow: var(--shadow);
+    }
+
+    .hero::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background:
+        linear-gradient(90deg, rgba(31, 36, 43, 0.04) 1px, transparent 1px),
+        linear-gradient(rgba(31, 36, 43, 0.035) 1px, transparent 1px);
+      background-size: 24px 24px;
+      mask-image: linear-gradient(180deg, rgba(0, 0, 0, 0.18), transparent 78%);
+      pointer-events: none;
+    }
+
+    .kicker {
+      position: relative;
+      z-index: 1;
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 7px 12px;
+      border-radius: 999px;
+      background: rgba(31, 36, 43, 0.06);
+      color: var(--muted);
+      font-size: 12px;
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+    }
+
+    .title {
+      position: relative;
+      z-index: 1;
+      margin: 16px 0 8px;
+      font-family: "Palatino Linotype", "Book Antiqua", Georgia, serif;
+      font-size: clamp(2.2rem, 5vw, 4.5rem);
+      line-height: 0.96;
+      letter-spacing: -0.03em;
+      max-width: 13ch;
+    }
+
+    .subtitle {
+      position: relative;
+      z-index: 1;
+      max-width: 74ch;
+      margin: 0;
+      color: var(--muted);
+      font-size: 1rem;
+      line-height: 1.55;
+    }
+
+    .stat-row {
+      position: relative;
+      z-index: 1;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 20px;
+    }
+
+    .stat-chip,
+    .legend-chip,
+    .filter-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 10px 13px;
+      border-radius: 999px;
+      border: 1px solid rgba(31, 36, 43, 0.09);
+      background: rgba(255, 252, 245, 0.8);
+      color: var(--ink);
+      font-size: 0.86rem;
+      box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.65);
+    }
+
+    .legend-strip {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin: 18px 0 0;
+    }
+
+    .dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 999px;
+      background: currentColor;
+      box-shadow: 0 0 0 3px rgba(255, 255, 255, 0.4);
+    }
+
+    .controls {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin: 22px 0 18px;
+    }
+
+    .filter-button {
+      cursor: pointer;
+      transition: transform 160ms ease, background 160ms ease, border-color 160ms ease;
+    }
+
+    .filter-button:hover {
+      transform: translateY(-1px);
+      background: rgba(255, 255, 255, 0.92);
+    }
+
+    .filter-button.active {
+      border-color: rgba(31, 36, 43, 0.22);
+      background: rgba(255, 250, 241, 0.96);
+      box-shadow: 0 10px 22px rgba(31, 36, 43, 0.08);
+    }
+
+    .timeline-shell {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) 344px;
+      gap: 22px;
+      align-items: start;
+    }
+
+    .timeline-scroll {
+      overflow: auto;
+      border-radius: 30px;
+      border: 1px solid rgba(31, 36, 43, 0.08);
+      background:
+        linear-gradient(180deg, rgba(255, 250, 243, 0.98), rgba(243, 232, 214, 0.98));
+      box-shadow: var(--shadow);
+    }
+
+    .timeline-board {
+      width: calc(var(--label-width) + var(--track-width));
+      min-width: calc(var(--label-width) + var(--track-width));
+    }
+
+    .board-row {
+      display: grid;
+      grid-template-columns: var(--label-width) var(--track-width);
+      border-bottom: 1px solid rgba(31, 36, 43, 0.08);
+    }
+
+    .board-row:last-child {
+      border-bottom: none;
+    }
+
+    .label-cell {
+      position: sticky;
+      left: 0;
+      z-index: 5;
+      padding: 20px 18px;
+      border-right: 1px solid rgba(31, 36, 43, 0.08);
+      background:
+        linear-gradient(180deg, rgba(248, 241, 228, 0.98), rgba(239, 226, 205, 0.96));
+      box-shadow: 10px 0 22px rgba(31, 36, 43, 0.04);
+    }
+
+    .label-cell.months {
+      display: flex;
+      align-items: flex-end;
+      font-size: 12px;
+      letter-spacing: 0.14em;
+      color: var(--muted);
+      text-transform: uppercase;
+    }
+
+    .lane-title {
+      margin: 0 0 6px;
+      font-family: "Palatino Linotype", "Book Antiqua", Georgia, serif;
+      font-size: 1.3rem;
+      line-height: 1.06;
+    }
+
+    .lane-note {
+      margin: 0;
+      color: var(--muted);
+      font-size: 0.88rem;
+      line-height: 1.45;
+    }
+
+    .track.months-track {
+      position: relative;
+      min-height: 92px;
+      background:
+        linear-gradient(90deg, rgba(31, 36, 43, 0.07) 1px, transparent 1px);
+      background-size: var(--month-width) 100%;
+    }
+
+    .months-grid {
+      position: absolute;
+      inset: 42px 0 0;
+      display: grid;
+      grid-template-columns: repeat(var(--months), var(--month-width));
+      height: 50px;
+    }
+
+    .month-cell {
+      padding: 12px 8px 0;
+      border-right: 1px solid rgba(31, 36, 43, 0.06);
+      color: var(--muted);
+      font-size: 0.77rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      white-space: nowrap;
+    }
+
+    .period-band {
+      position: absolute;
+      top: 10px;
+      height: 24px;
+      border-radius: 999px;
+      padding: 0 12px;
+      display: inline-flex;
+      align-items: center;
+      font-size: 11px;
+      letter-spacing: 0.13em;
+      text-transform: uppercase;
+      color: rgba(255, 255, 255, 0.92);
+      box-shadow: inset 0 -1px 0 rgba(255, 255, 255, 0.16);
+    }
+
+    .period-band.site {
+      background: linear-gradient(90deg, #6b7d57, #8f9e78);
+    }
+
+    .period-band.design {
+      background: linear-gradient(90deg, #9a603d, #b87d57);
+    }
+
+    .period-band.stage {
+      background: linear-gradient(90deg, #36656e, #538592);
+    }
+
+    .period-band.production {
+      background: linear-gradient(90deg, #896c33, #b08d4c);
+    }
+
+    .period-band.finish {
+      background: linear-gradient(90deg, #6c4d7d, #8c699b);
+    }
+
+    .track.lane-track {
+      position: relative;
+      overflow: hidden;
+      background:
+        linear-gradient(90deg, rgba(31, 36, 43, 0.07) 1px, transparent 1px),
+        linear-gradient(180deg, rgba(31, 36, 43, 0.055) 1px, transparent 1px);
+      background-size: var(--month-width) 100%, 100% var(--row-height);
+    }
+
+    .track.lane-track::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      pointer-events: none;
+      background:
+        linear-gradient(180deg, rgba(255, 255, 255, 0.42), transparent 16%, transparent 84%, rgba(255, 255, 255, 0.18));
+    }
+
+    .lane-wash {
+      position: absolute;
+      inset: 0;
+      opacity: 0.9;
+      pointer-events: none;
+    }
+
+    .lane-wash.site {
+      background: linear-gradient(90deg, rgba(107, 125, 87, 0.06), transparent 20%, transparent 80%, rgba(107, 125, 87, 0.06));
+    }
+
+    .lane-wash.fighters {
+      background: linear-gradient(90deg, rgba(165, 85, 54, 0.06), transparent 20%, transparent 80%, rgba(165, 85, 54, 0.06));
+    }
+
+    .lane-wash.deathstar {
+      background: linear-gradient(90deg, rgba(54, 101, 110, 0.06), transparent 20%, transparent 80%, rgba(54, 101, 110, 0.06));
+    }
+
+    .lane-wash.ships {
+      background: linear-gradient(90deg, rgba(161, 129, 55, 0.07), transparent 20%, transparent 80%, rgba(161, 129, 55, 0.07));
+    }
+
+    .lane-wash.delivery {
+      background: linear-gradient(90deg, rgba(108, 77, 125, 0.06), transparent 20%, transparent 80%, rgba(108, 77, 125, 0.06));
+    }
+
+    .event-card {
+      position: absolute;
+      min-width: 168px;
+      padding: 12px 13px 12px;
+      border-radius: 18px;
+      border: 1px solid rgba(31, 36, 43, 0.1);
+      background: rgba(255, 252, 246, 0.94);
+      box-shadow: 0 14px 32px rgba(31, 36, 43, 0.1);
+      cursor: pointer;
+      transition: transform 160ms ease, box-shadow 160ms ease, border-color 160ms ease;
+      z-index: 2;
+    }
+
+    .event-card:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 20px 40px rgba(31, 36, 43, 0.15);
+    }
+
+    .event-card.active {
+      border-color: rgba(31, 36, 43, 0.26);
+      box-shadow: 0 22px 46px rgba(31, 36, 43, 0.19);
+      z-index: 4;
+    }
+
+    .event-card.hidden {
+      display: none;
+    }
+
+    .event-card::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      border-radius: 18px;
+      background: linear-gradient(135deg, rgba(255, 255, 255, 0.34), rgba(255, 255, 255, 0));
+      pointer-events: none;
+    }
+
+    .event-card.group-site {
+      background:
+        linear-gradient(135deg, rgba(245, 252, 239, 0.98), rgba(255, 251, 245, 0.94));
+      box-shadow: 0 16px 36px rgba(107, 125, 87, 0.12);
+    }
+
+    .event-card.group-fighters {
+      background:
+        linear-gradient(135deg, rgba(255, 243, 238, 0.98), rgba(255, 250, 244, 0.94));
+      box-shadow: 0 16px 36px rgba(165, 85, 54, 0.13);
+    }
+
+    .event-card.group-deathstar {
+      background:
+        linear-gradient(135deg, rgba(238, 250, 252, 0.98), rgba(250, 255, 255, 0.94));
+      box-shadow: 0 16px 36px rgba(54, 101, 110, 0.13);
+    }
+
+    .event-card.group-ships {
+      background:
+        linear-gradient(135deg, rgba(255, 248, 233, 0.98), rgba(255, 253, 245, 0.94));
+      box-shadow: 0 16px 36px rgba(161, 129, 55, 0.13);
+    }
+
+    .event-card.group-delivery {
+      background:
+        linear-gradient(135deg, rgba(248, 239, 252, 0.98), rgba(255, 251, 255, 0.94));
+      box-shadow: 0 16px 36px rgba(108, 77, 125, 0.13);
+    }
+
+    .event-card.is-exact {
+      outline: 1px solid rgba(177, 63, 45, 0.16);
+    }
+
+    .event-card.is-inference {
+      border-style: dashed;
+    }
+
+    .event-topline {
+      display: flex;
+      justify-content: space-between;
+      gap: 10px;
+      margin-bottom: 8px;
+      font-size: 10px;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+
+    .event-title {
+      margin: 0 0 7px;
+      font-family: "Palatino Linotype", "Book Antiqua", Georgia, serif;
+      font-size: 1.02rem;
+      line-height: 1.12;
+      max-width: 28ch;
+    }
+
+    .event-copy {
+      margin: 0;
+      color: var(--muted);
+      font-size: 0.8rem;
+      line-height: 1.4;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .tiny-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-top: 10px;
+    }
+
+    .tiny-tag,
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      border-radius: 999px;
+      padding: 5px 9px;
+      font-size: 10px;
+      letter-spacing: 0.09em;
+      text-transform: uppercase;
+      white-space: nowrap;
+    }
+
+    .tiny-tag.master,
+    .badge.master {
+      background: rgba(243, 199, 116, 0.24);
+      color: #7a5b17;
+    }
+
+    .tiny-tag.model,
+    .badge.model {
+      background: rgba(190, 208, 168, 0.32);
+      color: #4f6737;
+    }
+
+    .tiny-tag.high,
+    .badge.high {
+      background: rgba(54, 101, 110, 0.14);
+      color: #2c5561;
+    }
+
+    .tiny-tag.medium,
+    .badge.medium {
+      background: rgba(161, 129, 55, 0.16);
+      color: #7c6530;
+    }
+
+    .tiny-tag.low,
+    .badge.low {
+      background: rgba(165, 85, 54, 0.16);
+      color: #8d4428;
+    }
+
+    .detail-panel {
+      position: sticky;
+      top: 22px;
+      border-radius: 28px;
+      border: 1px solid rgba(31, 36, 43, 0.08);
+      background:
+        linear-gradient(180deg, rgba(255, 252, 246, 0.98), rgba(243, 233, 217, 0.96));
+      box-shadow: var(--shadow);
+      padding: 22px 20px 20px;
+      min-height: 320px;
+    }
+
+    .detail-kicker {
+      font-size: 11px;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: var(--muted);
+      margin-bottom: 8px;
+    }
+
+    .detail-title {
+      margin: 0 0 8px;
+      font-family: "Palatino Linotype", "Book Antiqua", Georgia, serif;
+      font-size: 1.8rem;
+      line-height: 1.02;
+    }
+
+    .detail-copy {
+      margin: 0 0 15px;
+      color: var(--muted);
+      line-height: 1.58;
+      font-size: 0.95rem;
+    }
+
+    .detail-meta {
+      display: grid;
+      gap: 10px;
+      margin-top: 16px;
+    }
+
+    .detail-block {
+      padding-top: 12px;
+      border-top: 1px solid rgba(31, 36, 43, 0.08);
+    }
+
+    .detail-label {
+      margin-bottom: 6px;
+      font-size: 11px;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+
+    .detail-value {
+      color: var(--ink);
+      line-height: 1.55;
+      font-size: 0.95rem;
+    }
+
+    .detail-value.muted {
+      color: var(--muted);
+    }
+
+    .badge-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 14px;
+    }
+
+    .footer-note {
+      margin-top: 18px;
+      padding: 12px 14px;
+      border-radius: 18px;
+      background: rgba(31, 36, 43, 0.04);
+      color: var(--muted);
+      font-size: 0.84rem;
+      line-height: 1.5;
+    }
+
+    .media-wall {
+      margin-top: 24px;
+      padding: 22px 22px 20px;
+      border-radius: 30px;
+      border: 1px solid rgba(31, 36, 43, 0.08);
+      background:
+        linear-gradient(180deg, rgba(255, 250, 243, 0.98), rgba(242, 230, 210, 0.96));
+      box-shadow: var(--shadow);
+    }
+
+    .media-head {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      gap: 14px;
+      align-items: end;
+      margin-bottom: 16px;
+    }
+
+    .media-head-copy {
+      max-width: 68ch;
+    }
+
+    .media-kicker {
+      font-size: 11px;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: var(--muted);
+      margin-bottom: 8px;
+    }
+
+    .media-title {
+      margin: 0 0 8px;
+      font-family: "Palatino Linotype", "Book Antiqua", Georgia, serif;
+      font-size: 2rem;
+      line-height: 1.02;
+    }
+
+    .media-copy {
+      margin: 0;
+      color: var(--muted);
+      font-size: 0.95rem;
+      line-height: 1.58;
+    }
+
+    .media-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
+    .media-scroll {
+      overflow-x: auto;
+      overflow-y: hidden;
+      border-radius: 24px;
+      border: 1px solid rgba(31, 36, 43, 0.08);
+      background:
+        radial-gradient(circle at top, rgba(255, 255, 255, 0.22), transparent 35%),
+        linear-gradient(180deg, rgba(32, 38, 45, 0.96), rgba(18, 22, 28, 0.98));
+      box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.08);
+    }
+
+    .image-board {
+      position: relative;
+      height: 676px;
+      min-width: 5200px;
+      padding: 0;
+      background:
+        linear-gradient(90deg, rgba(255, 214, 102, 0.08) 1px, transparent 1px),
+        linear-gradient(180deg, rgba(255, 255, 255, 0.04) 1px, transparent 1px);
+      background-size: 240px 100%, 100% 220px;
+    }
+
+    .image-board::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background:
+        radial-gradient(circle at top left, rgba(255, 214, 102, 0.08), transparent 24%),
+        radial-gradient(circle at top right, rgba(121, 185, 255, 0.08), transparent 26%);
+      pointer-events: none;
+    }
+
+    .image-axis {
+      position: absolute;
+      left: 70px;
+      right: 70px;
+      top: 84px;
+      height: 2px;
+      background: linear-gradient(90deg, rgba(255, 214, 102, 0.42), rgba(255, 214, 102, 0.16));
+      box-shadow: 0 0 22px rgba(255, 214, 102, 0.18);
+    }
+
+    .image-phase-label {
+      position: absolute;
+      top: 24px;
+      transform: translateX(-50%);
+      min-width: 140px;
+      max-width: 230px;
+      text-align: center;
+      color: #f4e7c0;
+      font-size: 12px;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      line-height: 1.35;
+      text-shadow: 0 2px 14px rgba(0, 0, 0, 0.42);
+    }
+
+    .image-phase-label::after {
+      content: "";
+      position: absolute;
+      top: 40px;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 2px;
+      height: 30px;
+      background: linear-gradient(180deg, rgba(255, 214, 102, 0.78), rgba(255, 214, 102, 0.1));
+    }
+
+    .image-row-label {
+      position: absolute;
+      left: 18px;
+      color: rgba(244, 231, 192, 0.75);
+      font-size: 10px;
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+      writing-mode: vertical-rl;
+      transform: rotate(180deg);
+    }
+
+    .image-row-label.row-1 { top: 126px; }
+    .image-row-label.row-2 { top: 306px; }
+    .image-row-label.row-3 { top: 486px; }
+
+    .timeline-image {
+      position: absolute;
+      width: 148px;
+      padding: 8px;
+      border-radius: 18px;
+      border: 1px solid rgba(255, 255, 255, 0.14);
+      background: rgba(255, 251, 242, 0.96);
+      box-shadow:
+        0 18px 34px rgba(0, 0, 0, 0.3),
+        0 0 0 1px rgba(255, 214, 102, 0.08);
+      text-decoration: none;
+      color: var(--ink);
+      transition: transform 160ms ease, box-shadow 160ms ease, border-color 160ms ease;
+    }
+
+    .timeline-image:hover {
+      transform: translateY(-3px) scale(1.01);
+      border-color: rgba(255, 214, 102, 0.34);
+      box-shadow:
+        0 26px 44px rgba(0, 0, 0, 0.36),
+        0 0 0 1px rgba(255, 214, 102, 0.18);
+    }
+
+    .timeline-image img {
+      display: block;
+      width: 100%;
+      height: 104px;
+      object-fit: cover;
+      border-radius: 12px;
+      background: rgba(20, 24, 30, 0.12);
+    }
+
+    .timeline-image.row-2 img {
+      height: 112px;
+    }
+
+    .timeline-image.row-3 img {
+      height: 98px;
+    }
+
+    .timeline-image-caption {
+      display: flex;
+      justify-content: space-between;
+      gap: 10px;
+      margin-top: 8px;
+      font-size: 10px;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+
+    .timeline-image-index {
+      color: #8c6b21;
+    }
+
+    .legend-chip.site { color: var(--site); }
+    .legend-chip.fighters { color: var(--fighters); }
+    .legend-chip.deathstar { color: var(--deathstar); }
+    .legend-chip.ships { color: var(--ships); }
+    .legend-chip.delivery { color: var(--delivery); }
+
+    @media (max-width: 1280px) {
+      .timeline-shell {
+        grid-template-columns: 1fr;
+      }
+
+      .detail-panel {
+        position: static;
+      }
+    }
+
+    @media (max-width: 720px) {
+      .page {
+        width: min(100vw - 18px, 1760px);
+        padding: 18px 0 26px;
+      }
+
+      .hero {
+        padding: 22px 20px 20px;
+        border-radius: 24px;
+      }
+
+      .controls,
+      .stat-row,
+      .legend-strip {
+        gap: 8px;
+      }
+
+      .stat-chip,
+      .legend-chip,
+      .filter-button {
+        padding: 9px 11px;
+        font-size: 0.8rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <section class="hero">
+      <div class="kicker">ANH miniature research wall</div>
+      <h1 class="title">ILM Van Nuys timeline, but make it feel like the shop floor.</h1>
+      <p class="subtitle">
+        A visual companion to the research files for the original `Star Wars` miniature program:
+        shop formation, key build windows, reference handoffs, Death Star work, fighter programs,
+        and the final push to release.
+      </p>
+      <div class="stat-row">
+        <div class="stat-chip"><span class="dot" style="color: var(--site)"></span>May 1975 to July 1977</div>
+        <div class="stat-chip"><span class="dot" style="color: var(--fighters)"></span>35 anchor cards</div>
+        <div class="stat-chip"><span class="dot" style="color: var(--deathstar)"></span>Master + model layers</div>
+        <div class="stat-chip"><span class="dot" style="color: var(--ships)"></span>Van Nuys-centered chronology</div>
+      </div>
+      <div class="legend-strip">
+        <div class="legend-chip site"><span class="dot"></span>Site &amp; staffing</div>
+        <div class="legend-chip fighters"><span class="dot"></span>Fighters</div>
+        <div class="legend-chip deathstar"><span class="dot"></span>Death Star</div>
+        <div class="legend-chip ships"><span class="dot"></span>Ships &amp; vehicles</div>
+        <div class="legend-chip delivery"><span class="dot"></span>Production &amp; delivery</div>
+        <div class="legend-chip"><span class="badge master">Master</span> overall shop anchor</div>
+        <div class="legend-chip"><span class="badge model">Model</span> model-specific milestone</div>
+      </div>
+    </section>
+
+    <div class="controls" id="filters"></div>
+
+    <section class="timeline-shell">
+      <div class="timeline-scroll">
+        <div class="timeline-board" id="timelineBoard"></div>
+      </div>
+
+      <aside class="detail-panel" id="detailPanel" aria-live="polite">
+        <div class="detail-kicker">Select a card</div>
+        <h2 class="detail-title">Timeline wall notes</h2>
+        <p class="detail-copy">
+          This view is built from the master timeline plus the model-specific layer. Click any card to
+          inspect the event, its people, its evidence band, and how it ties back into the research IDs.
+        </p>
+        <div class="badge-row">
+          <span class="badge master">Master anchor</span>
+          <span class="badge model">Model layer</span>
+          <span class="badge high">High confidence</span>
+          <span class="badge medium">Medium confidence</span>
+        </div>
+        <div class="footer-note">
+          Design suggestion: this works best as a living research wall. If you like the format, the next
+          strong upgrade would be a second pass with direct photo links and a separate variant view for
+          X-wings, Y-wings, and TIEs only. A first-pass PPTX image manifest now also exists in
+          `anh_pptx_image_manifest`.
+        </div>
+      </aside>
+    </section>
+
+    <section class="media-wall">
+      <div class="media-head">
+        <div class="media-head-copy">
+          <div class="media-kicker">PPTX image stream</div>
+          <h2 class="media-title">Images pulled from your slide and re-threaded into the web timeline.</h2>
+          <p class="media-copy">
+            This section uses the left-to-right order from your `ILM75-77_timeline_.pptx` slide and translates it
+            into a web-native image chronology. The spacing is derived from the deck's own rough timeline layout,
+            so this is intentionally "research-wall accurate" rather than pretending to be frame-perfect.
+          </p>
+        </div>
+        <div class="media-meta">
+          <div class="stat-chip"><span class="dot" style="color: #ffd666"></span>46 extracted images</div>
+          <div class="stat-chip"><span class="dot" style="color: #79b9ff"></span>5 date anchors from the slide</div>
+          <div class="stat-chip"><span class="dot" style="color: #ff9e7a"></span>1 malformed JPG omitted</div>
+        </div>
+      </div>
+
+      <div class="media-scroll">
+        <div class="image-board" id="pptxImageBoard"></div>
+      </div>
+    </section>
+  </div>
+
+  <script>
+    const laneMeta = [
+      {
+        id: "site",
+        title: "Site & Staffing",
+        note: "warehouse, departments, crew buildout, Dykstraflex, internal shop rhythm",
+        color: "site"
+      },
+      {
+        id: "fighters",
+        title: "Fighters",
+        note: "X-wing, Y-wing, and TIE build windows, reference handoffs, hero and pyro families",
+        color: "fighters"
+      },
+      {
+        id: "deathstar",
+        title: "Death Star",
+        note: "cannon, main sphere, surface system, trench sections, and special structures",
+        color: "deathstar"
+      },
+      {
+        id: "ships",
+        title: "Ships & Vehicles",
+        note: "Escape Pod, Blockade Runner, Landspeeder, and Sandcrawler threads",
+        color: "ships"
+      },
+      {
+        id: "delivery",
+        title: "Production & Delivery",
+        note: "production pressure, principal photography context, optical crunch, release, and period documentation",
+        color: "delivery"
+      }
+    ];
+
+    const filters = [
+      { id: "all", label: "All cards" },
+      { id: "master", label: "Master anchors" },
+      { id: "model", label: "Model layer" },
+      { id: "site", label: "Site & Staffing" },
+      { id: "fighters", label: "Fighters" },
+      { id: "deathstar", label: "Death Star" },
+      { id: "ships", label: "Ships & Vehicles" },
+      { id: "delivery", label: "Production & Delivery" }
+    ];
+
+    const periods = [
+      { label: "Formation", start: "1975-05-01", end: "1975-08-31", color: "site" },
+      { label: "Early builds", start: "1975-09-01", end: "1975-12-31", color: "design" },
+      { label: "Reference to stage", start: "1976-01-01", end: "1976-06-30", color: "stage" },
+      { label: "Production line miniatures", start: "1976-07-01", end: "1976-12-31", color: "production" },
+      { label: "Optical finish", start: "1977-01-01", end: "1977-05-31", color: "finish" },
+      { label: "Period account", start: "1977-07-01", end: "1977-07-31", color: "stage" }
+    ];
+
+    const imageMarkers = [
+      { label: "Sep 1975 · ILM starts at Van Nuys", x: -3457575 },
+      { label: "Jan 1976 · reference models sent to England", x: -266400 },
+      { label: "Apr 1976 · filming underway at Elstree", x: 684598 },
+      { label: "Jul 1976 · filming ends at Elstree", x: 3730340 },
+      { label: "Late 1976 / early 1977", x: 10632227 }
+    ];
+
+    const timelineImages = [
+      { file: "image6.jpg", x: -2828501, y: 1789750 },
+      { file: "image1.jpg", x: -2412238, y: 1790413 },
+      { file: "image5.jpg", x: -2037766, y: 1790425 },
+      { file: "image19.png", x: -1658060, y: 1402738 },
+      { file: "image9.jpg", x: -1658016, y: 2026650 },
+      { file: "image2.jpg", x: -1602661, y: 1699900 },
+      { file: "image7.jpg", x: -1492423, y: 1402650 },
+      { file: "image3.jpg", x: -1430408, y: 2020738 },
+      { file: "image4.jpg", x: -1242538, y: 2015738 },
+      { file: "image22.jpg", x: -936312, y: 2134373 },
+      { file: "image31.jpg", x: -882277, y: 1330544 },
+      { file: "image37.jpg", x: -271150, y: 1714654 },
+      { file: "image34.jpg", x: 247925, y: 1712579 },
+      { file: "image35.jpg", x: 471008, y: 1708208 },
+      { file: "image42.jpg", x: 1093203, y: 1712571 },
+      { file: "image46.jpg", x: 1170587, y: 2110725 },
+      { file: "image44.jpg", x: 1177125, y: 1314413 },
+      { file: "image28.jpg", x: 1759674, y: 1712571 },
+      { file: "image29.jpg", x: 2348809, y: 1716946 },
+      { file: "image33.jpg", x: 2900870, y: 1715079 },
+      { file: "image39.jpg", x: 3140865, y: 1708204 },
+      { file: "image30.jpg", x: 3194825, y: 2134371 },
+      { file: "image36.jpg", x: 3460473, y: 1716954 },
+      { file: "image38.jpg", x: 3945432, y: 1929225 },
+      { file: "image43.jpg", x: 4029506, y: 1535700 },
+      { file: "image18.jpg", x: 4421685, y: 1918000 },
+      { file: "image26.jpg", x: 4424070, y: 1581599 },
+      { file: "image24.jpg", x: 4966524, y: 1769913 },
+      { file: "image21.jpg", x: 5523826, y: 1769914 },
+      { file: "image23.jpg", x: 6099526, y: 1769914 },
+      { file: "image20.jpg", x: 6699864, y: 1769914 },
+      { file: "image16.jpg", x: 7257161, y: 2129925 },
+      { file: "image13.jpg", x: 7259150, y: 1409925 },
+      { file: "image14.jpg", x: 7259161, y: 1769925 },
+      { file: "image10.jpg", x: 7757090, y: 1769925 },
+      { file: "image17.jpg", x: 8125336, y: 1769913 },
+      { file: "image12.jpg", x: 8750161, y: 1770602 },
+      { file: "image27.jpg", x: 9309864, y: 1827866 },
+      { file: "image25.jpg", x: 9725432, y: 1827863 },
+      { file: "image8.jpg", x: 10282236, y: 1827863 },
+      { file: "image47.jpg", x: 10631845, y: 1949912 },
+      { file: "image40.jpg", x: 10631858, y: 1589925 },
+      { file: "image41.jpg", x: 11102145, y: 1945212 },
+      { file: "image45.jpg", x: 11279487, y: 1594625 },
+      { file: "image11.jpg", x: 11646179, y: 1790325 },
+      { file: "image15.jpg", x: 11985340, y: 1790325 }
+    ];
+
+    const events = [
+      {
+        id: "TL-001",
+        lane: "site",
+        tier: "master",
+        title: "ILM is formally signed into existence",
+        start: "1975-05-28",
+        end: "1975-05-28",
+        band: "Exact",
+        confidence: "High",
+        people: "George Lucas; John Dykstra",
+        sources: "ILM-START-2025",
+        links: "TL-001",
+        description: "George Lucas formally signs Industrial Light & Magic into existence."
+      },
+      {
+        id: "TL-002",
+        lane: "site",
+        tier: "master",
+        title: "Van Nuys warehouse is found and leased",
+        start: "1975-05",
+        end: "1975-06",
+        band: "Range",
+        confidence: "High",
+        people: "John Dykstra",
+        sources: "ILM-START-2025",
+        links: "TL-002",
+        description: "Dykstra locates the Valjean Avenue warehouse that becomes the future model shop and shooting-stage site."
+      },
+      {
+        id: "TL-004",
+        lane: "site",
+        tier: "master",
+        title: "Early core crew recruiting accelerates",
+        start: "1975-06",
+        end: "1975-08",
+        band: "Range",
+        confidence: "High",
+        people: "Grant McCune; Bill and Jamie Shourt; Richard Edlund; Al Miller; Richard Alexander; Don Trumbull; Bob Shepherd; Jerry Greenwood",
+        sources: "ILM-START-2025",
+        links: "TL-004",
+        description: "The core technical and model crew begins to take shape as the empty warehouse is converted into a functioning effects shop."
+      },
+      {
+        id: "TL-005",
+        lane: "site",
+        tier: "master",
+        title: "The empty warehouse becomes a working effects site",
+        start: "1975-06",
+        end: "1975-07",
+        band: "Range",
+        confidence: "High",
+        people: "ILM core crew",
+        sources: "ILM-START-2025",
+        links: "TL-005",
+        description: "Over roughly six weeks the building is turned into a model shop, machine shop, optical spaces, offices, and rear shooting stages."
+      },
+      {
+        id: "TL-006",
+        lane: "site",
+        tier: "master",
+        title: "Dykstraflex design reaches a closed form",
+        start: "1975-07",
+        end: "1975-07",
+        band: "Range",
+        confidence: "High",
+        people: "John Dykstra; Al Miller and team",
+        sources: "ASC-SW-1977",
+        links: "TL-006",
+        description: "Dykstra later says the Dykstraflex design was completed in July 1975, after which construction began."
+      },
+      {
+        id: "TL-007",
+        lane: "site",
+        tier: "master",
+        title: "Art, animation, and optical departments come online",
+        start: "1975-07",
+        end: "1975-08",
+        band: "Range",
+        confidence: "High",
+        people: "Robbie Blalack; Adam Beckett; Joe Johnston; Ben Burtt",
+        sources: "ILM-START-2025",
+        links: "TL-007",
+        description: "By early August Joe Johnston is setting up the art department while other key departments are already forming."
+      },
+      {
+        id: "TL-008",
+        lane: "site",
+        tier: "master",
+        title: "Paul Huston arrives during the shop's earliest scramble",
+        start: "1975-08",
+        end: "1975-08",
+        band: "Exact-ish",
+        confidence: "High",
+        people: "Paul Huston; Joe Johnston; Jamie Shourt",
+        sources: "SW-HUSTON-2017",
+        links: "TL-008",
+        description: "Huston starts in August 1975, initially helping Joe Johnston produce bidding and story boards."
+      },
+      {
+        id: "TL-015",
+        lane: "site",
+        tier: "master",
+        title: "Facility matures from warehouse to full pipeline",
+        start: "1975-06",
+        end: "1976-02",
+        band: "Range",
+        confidence: "High",
+        people: "Dykstra-led ILM crew",
+        sources: "ASC-SW-1977",
+        links: "TL-015",
+        description: "Dykstra later describes an eight-month ramp from empty shell to a fully in-house effects system."
+      },
+      {
+        id: "TL-017",
+        lane: "site",
+        tier: "master",
+        title: "Dave Brown joins the Van Nuys operation",
+        start: "1976-03",
+        end: "1976-03",
+        band: "Range",
+        confidence: "Medium",
+        people: "Dave Brown; Adam Beckett; Mike Ross; Pete Kuran",
+        sources: "LTI-ABOUT; LTI-5757",
+        links: "TL-017",
+        description: "Brown later recalls entering the shop through Rotoscope & Animation in March 1976."
+      },
+      {
+        id: "TL-024",
+        lane: "site",
+        tier: "master",
+        title: "5757 captures the facility in active use",
+        start: "1976",
+        end: "1977",
+        band: "Range",
+        confidence: "Medium",
+        people: "Dave Brown; Adam Beckett; Richard Edlund; Dennis Muren; Ken Ralston and others",
+        sources: "LTI-5757",
+        links: "TL-024",
+        description: "Brown's footage preserves the original Van Nuys building, parking lot culture, screening room, and day-to-day working environment."
+      },
+
+      {
+        id: "MTL-001",
+        lane: "fighters",
+        tier: "model",
+        title: "Shootable X-wings are engineered in Van Nuys",
+        start: "1975-09",
+        end: "1975-12",
+        band: "Range",
+        confidence: "High",
+        people: "David Beasley; Grant McCune; David Grell; Joe Johnston; Dave Jones and others",
+        sources: "ILM-XW-2025",
+        links: "MTL-001; TL-010",
+        description: "ILM moves from concept X-wings to buildable filming miniatures with working armatures, wing mechanisms, and revised geometry."
+      },
+      {
+        id: "MTL-005",
+        lane: "fighters",
+        tier: "model",
+        title: "The first ILM Y-wing exists and heads to England incomplete",
+        start: "1975-12",
+        end: "1975-12",
+        band: "Range",
+        confidence: "Medium-High",
+        people: "early Y-wing crew; likely Joe Johnston / model-shop staff",
+        sources: "RPF-YW-ID; HA-YW-2024",
+        links: "MTL-005; TL-011",
+        description: "The early Y-wing later called Red Jammer is already real by December 1975 and is sent out as reference support for the full-size build."
+      },
+      {
+        id: "MTL-002",
+        lane: "fighters",
+        tier: "model",
+        title: "Blue 1 is finished and shipped to John Barry",
+        start: "1975-12",
+        end: "1975-12-26",
+        band: "Exact-ish",
+        confidence: "High",
+        people: "Lorne Peterson; Jon Erland; Steve Gawley; Joe Johnston; John Barry",
+        sources: "ILM-XW-2025",
+        links: "MTL-002; TL-012",
+        description: "The first completed ILM X-wing is detailed and painted just before Christmas, then shipped to England as set and cockpit reference."
+      },
+      {
+        id: "MTL-003",
+        lane: "fighters",
+        tier: "model",
+        title: "Blue 1 returns and becomes Red 2",
+        start: "1976-01",
+        end: "1976-02",
+        band: "Range",
+        confidence: "High",
+        people: "Grant McCune; Joe Johnston; Steve Gawley and team",
+        sources: "ILM-XW-2025",
+        links: "MTL-003; TL-014",
+        description: "After returning from England, Blue 1 is completed with cockpit, pilot, and electrical work and redressed into Red 2."
+      },
+      {
+        id: "MTL-009",
+        lane: "fighters",
+        tier: "model",
+        title: "Maroon test TIE proves camera work is underway",
+        start: "1976-03-06",
+        end: "1976-03-06",
+        band: "Exact",
+        confidence: "High",
+        people: "original ILM test crew",
+        sources: "RPF-TIE-MAROON",
+        links: "MTL-009; TL-016",
+        description: "A dated maroon two-tone TIE miniature is photographed under motion-blur and compositing conditions."
+      },
+      {
+        id: "MTL-006",
+        lane: "fighters",
+        tier: "model",
+        title: "Y-wing Number One master pattern is built",
+        start: "1976-03",
+        end: "1976-06",
+        band: "Range",
+        confidence: "Medium-High",
+        people: "Paul Huston and model-shop crew",
+        sources: "HA-YW-BUCK-2025",
+        links: "MTL-006; TL-019",
+        description: "By spring 1976 the serious Y-wing build phase is underway, including the master pattern or hero buck used for later casts."
+      },
+      {
+        id: "MTL-004",
+        lane: "fighters",
+        tier: "model",
+        title: "X-wing hero and pyro fleet expands into full production",
+        start: "1976",
+        end: "1977",
+        band: "Range",
+        confidence: "High",
+        people: "Van Nuys model shop; mold shop; stage crew",
+        sources: "ILM-XW-2025; ASC-SW-1977",
+        links: "MTL-004; TL-023",
+        description: "The X-wing program broadens into bespoke heroes, high-finish pyros, and rougher destruction units for battle photography."
+      },
+      {
+        id: "MTL-007",
+        lane: "fighters",
+        tier: "model",
+        title: "High-finish Y-wing family enters active service",
+        start: "1976",
+        end: "1977",
+        band: "Range",
+        confidence: "Medium",
+        people: "Paul Huston and model-shop crew",
+        sources: "HA-YW-2024; HA-YW-BUCK-2025; RPF-YW-ID",
+        links: "MTL-007; TL-023",
+        description: "Hero-style Y-wings are in service for trench and formation material, even though the exact object-to-callsign mapping remains contested."
+      },
+      {
+        id: "MTL-008",
+        lane: "fighters",
+        tier: "model",
+        title: "Separate Y-wing pyro family runs beside the hero ships",
+        start: "1976",
+        end: "1977",
+        band: "Range",
+        confidence: "Medium",
+        people: "model shop; mold shop; stage crew",
+        sources: "PS-YW-PYRO-2023; RPF-YW-ID",
+        links: "MTL-008; TL-023",
+        description: "Y-wing destruction work uses a different family from the preserved high-finish survivors."
+      },
+      {
+        id: "MTL-010",
+        lane: "fighters",
+        tier: "model",
+        title: "Standard ANH TIE family settles into its final filming look",
+        start: "1976",
+        end: "1977",
+        band: "Range",
+        confidence: "Medium",
+        people: "Van Nuys model shop and stage crew",
+        sources: "ASC-SW-1977; RPF-TIE-SPOT; RPF-TIE-MAROON",
+        links: "MTL-010; TL-023",
+        description: "After the test phase, the TIE line settles into the familiar light-grey family, including marked and damaged states."
+      },
+      {
+        id: "MTL-011",
+        lane: "fighters",
+        tier: "model",
+        title: "TIE pyros confirm a dedicated destruction branch",
+        start: "1976",
+        end: "1977",
+        band: "Range",
+        confidence: "High",
+        people: "model shop; pyro / stage crew",
+        sources: "PS-TIE-PYRO-2020",
+        links: "MTL-011; TL-023",
+        description: "Dedicated TIE pyrotechnic units are built for shot-down explosion work."
+      },
+
+      {
+        id: "MTL-014",
+        lane: "deathstar",
+        tier: "model",
+        title: "Death Star cannon anchors ILM's first completed shot",
+        start: "1976",
+        end: "1976",
+        band: "Inference",
+        confidence: "Medium",
+        people: "Paul Huston; Stuart Ziff",
+        sources: "SW-HUSTON-2017",
+        links: "MTL-014; TL-020",
+        description: "Huston says the Death Star cannon, built with Stuart Ziff, was the key model in the first completed ILM shot."
+      },
+      {
+        id: "MTL-015",
+        lane: "deathstar",
+        tier: "model",
+        title: "Main sphere and surface system operate as one miniature ecosystem",
+        start: "1976",
+        end: "1977",
+        band: "Range",
+        confidence: "Medium-High",
+        people: "broad Death Star build crew",
+        sources: "PS-DS-SURFACE-2018; RPF-DS-PRE; RPF-DS-PROD",
+        links: "MTL-015; TL-023",
+        description: "The Death Star battle work uses one main sphere plus an interlocking field of surface tiles, panel families, and approach/trench material."
+      },
+      {
+        id: "MTL-016",
+        lane: "deathstar",
+        tier: "model",
+        title: "Trench specials go beyond generic panel work",
+        start: "1976",
+        end: "1977",
+        band: "Range",
+        confidence: "Medium",
+        people: "specific builders partly open; gantry locally tied to Jon Erland",
+        sources: "RPF-DS-CRANE; RPF-DS-GANTRY; RPF-DS-TOWERS; RPF-DS-PROD",
+        links: "MTL-016; TL-020",
+        description: "Gun towers, trench backwall lighting, the one-shot crane, silo / tower pieces, and docking-bay structures all behave like special sections, not generic surface texture."
+      },
+
+      {
+        id: "MTL-012",
+        lane: "ships",
+        tier: "model",
+        title: "Escape Pod blueprint gives us one of the earliest hard dates",
+        start: "1975-09-25",
+        end: "1975-09-25",
+        band: "Exact",
+        confidence: "High",
+        people: "Joe Johnston",
+        sources: "HA-EP-BP-2025",
+        links: "MTL-012; TL-009",
+        description: "A Johnston-signed blueprint dated 9/25/75 makes the Escape Pod one of the earliest precisely anchored miniature-design elements."
+      },
+      {
+        id: "MTL-013",
+        lane: "ships",
+        tier: "model",
+        title: "Escape Pod miniature and launch setup are in play by the active build period",
+        start: "1975-09",
+        end: "1976",
+        band: "Inference",
+        confidence: "Medium-Low",
+        people: "Joe Johnston and model-shop crew",
+        sources: "HA-EP-BP-2025; RPF-EP",
+        links: "MTL-013; TL-009",
+        description: "The pod miniature and some launch-specific handling or rigging arrangement must exist by the time Death Star and ship miniature work is functioning."
+      },
+      {
+        id: "MTL-017",
+        lane: "ships",
+        tier: "model",
+        title: "Large Blockade Runner serves as the main detailed miniature",
+        start: "1976",
+        end: "1976",
+        band: "Range",
+        confidence: "Medium",
+        people: "exact build team still open; later provenance touches Grant McCune and Richard Edlund circles",
+        sources: "RPF-BR-SMALL; RPF-BR-BUILD; RPF-BR-INFO",
+        links: "MTL-017; TL-022",
+        description: "The larger detailed Blockade Runner is clearly distinct from the special small recession model used for the opening shot problem."
+      },
+      {
+        id: "MTL-018",
+        lane: "ships",
+        tier: "model",
+        title: "Small Blockade Runner is built for the recession illusion",
+        start: "1976",
+        end: "1976",
+        band: "Range",
+        confidence: "Medium-High",
+        people: "Richard Edlund cited in provenance trail; Grant McCune collection provenance",
+        sources: "HA-BR-SMALL-2015",
+        links: "MTL-018; TL-022",
+        description: "A unique 16-inch runner is built to create the illusion of recession within the limited track length of the Dykstraflex."
+      },
+      {
+        id: "MTL-019",
+        lane: "ships",
+        tier: "model",
+        title: "At least two Landspeeder miniatures exist in the ANH period",
+        start: "1976",
+        end: "1976",
+        band: "Inference",
+        confidence: "Medium",
+        people: "ILM vehicle miniature crew not yet pinned",
+        sources: "RPF-LS; USER-LS-2026-04-16",
+        links: "MTL-019",
+        description: "The count floor is now two miniatures apart from the full-size prop, although their exact states and dates are still open."
+      },
+      {
+        id: "MTL-020",
+        lane: "ships",
+        tier: "model",
+        title: "Sandcrawler becomes a many-hands build",
+        start: "1976",
+        end: "1976",
+        band: "Range",
+        confidence: "Medium-High",
+        people: "Paul Huston; broad model-shop crew",
+        sources: "SW-HUSTON-2017; RPF-SC",
+        links: "MTL-020; TL-021",
+        description: "Huston remembers the Sandcrawler as a model almost everyone touched once the shop found its production rhythm."
+      },
+
+      {
+        id: "TL-013",
+        lane: "delivery",
+        tier: "master",
+        title: "Fox hesitation compresses the preparation window",
+        start: "1975-12",
+        end: "1976-01",
+        band: "Range",
+        confidence: "Medium-High",
+        people: "George Lucas; Fox; production leadership",
+        sources: "SW-FILMING-2026; ILM-START-2025",
+        links: "TL-013",
+        description: "Late 1975 financing hesitation contributes to a hurried final stretch before principal photography."
+      },
+      {
+        id: "TL-018",
+        lane: "delivery",
+        tier: "master",
+        title: "Principal photography begins in Tunisia",
+        start: "1976-03-22",
+        end: "1976-03-22",
+        band: "Exact",
+        confidence: "High",
+        people: "George Lucas; Gilbert Taylor; cast and live-action crew",
+        sources: "SW-FILMING-2026",
+        links: "TL-018",
+        description: "By the time live-action shooting starts, Van Nuys is already operating on miniatures, motion control, and effects planning."
+      },
+      {
+        id: "TL-025",
+        lane: "delivery",
+        tier: "master",
+        title: "Optical work grinds into a near-continuous final push",
+        start: "1976",
+        end: "1977-05",
+        band: "Range",
+        confidence: "Medium",
+        people: "Dave Brown; Robbie Blalack; Richard Edlund; Dennis Muren; Ken Ralston",
+        sources: "LTI-5757; LTI-ABOUT",
+        links: "TL-025",
+        description: "Brown recalls the printers eventually running 24/7 and the optical team pushing through to roughly a week before release."
+      },
+      {
+        id: "TL-026",
+        lane: "delivery",
+        tier: "master",
+        title: "Star Wars is released",
+        start: "1977-05-25",
+        end: "1977-05-25",
+        band: "Exact",
+        confidence: "High",
+        people: "Lucasfilm; ILM",
+        sources: "SW-HUSTON-2017; SW-FILMING-2026; LTI-ABOUT",
+        links: "TL-026",
+        description: "The initial ANH production window closes, even though crew memories suggest effects work had only just finished."
+      },
+      {
+        id: "TL-027",
+        lane: "delivery",
+        tier: "master",
+        title: "American Cinematographer preserves a near-contemporary technical account",
+        start: "1977-07",
+        end: "1977-07",
+        band: "Exact",
+        confidence: "High",
+        people: "John Dykstra",
+        sources: "ASC-SW-1977",
+        links: "TL-027",
+        description: "The July 1977 issue of American Cinematographer becomes one of the strongest period sources for timing and staffing."
+      }
+    ];
+
+    const timelineStart = { year: 1975, month: 5 };
+    const timelineEnd = { year: 1977, month: 7 };
+    const monthWidth = 132;
+    const labelWidth = 224;
+    const minimumCardWidth = 180;
+    const cardGap = 20;
+    const rowHeight = 86;
+
+    function daysInMonth(year, month) {
+      return new Date(year, month, 0).getDate();
+    }
+
+    function parseDateValue(input, isEnd = false) {
+      if (!input) {
+        return null;
+      }
+
+      const parts = String(input).split("-").map(Number);
+
+      if (parts.length === 3) {
+        return { year: parts[0], month: parts[1], day: parts[2] };
+      }
+
+      if (parts.length === 2) {
+        return {
+          year: parts[0],
+          month: parts[1],
+          day: isEnd ? daysInMonth(parts[0], parts[1]) : 1
+        };
+      }
+
+      if (parts.length === 1) {
+        return {
+          year: parts[0],
+          month: isEnd ? 12 : 1,
+          day: isEnd ? 31 : 1
+        };
+      }
+
+      return null;
+    }
+
+    function dateToMonthFloat(input, isEnd = false) {
+      const value = parseDateValue(input, isEnd);
+      if (!value) {
+        return 0;
+      }
+
+      const baseMonth = (value.year - timelineStart.year) * 12 + (value.month - timelineStart.month);
+      const monthDays = daysInMonth(value.year, value.month);
+      const fraction = isEnd ? value.day / monthDays : (value.day - 1) / monthDays;
+      return baseMonth + fraction;
+    }
+
+    function eventGeometry(event) {
+      const startFloat = dateToMonthFloat(event.start, false);
+      const endFloat = dateToMonthFloat(event.end || event.start, true);
+      const startPx = Math.max(0, startFloat * monthWidth);
+      const rawWidth = Math.max(monthWidth * 0.68, (endFloat - startFloat) * monthWidth);
+      const timelineWidth = (((timelineEnd.year - timelineStart.year) * 12) + (timelineEnd.month - timelineStart.month + 1)) * monthWidth;
+      const widthPx = Math.min(Math.max(minimumCardWidth, rawWidth), Math.max(minimumCardWidth, timelineWidth - startPx - 10));
+      return {
+        ...event,
+        startPx,
+        endPx: startPx + widthPx
+      };
+    }
+
+    function packLaneEvents(items) {
+      const rows = [];
+      const packed = [];
+
+      items
+        .map(eventGeometry)
+        .sort((a, b) => a.startPx - b.startPx)
+        .forEach((item) => {
+          let rowIndex = 0;
+          while (rows[rowIndex] !== undefined && item.startPx < rows[rowIndex] + cardGap) {
+            rowIndex += 1;
+          }
+          rows[rowIndex] = item.endPx;
+          packed.push({ ...item, rowIndex });
+        });
+
+      return {
+        events: packed,
+        rowCount: Math.max(1, rows.length)
+      };
+    }
+
+    function monthLabels() {
+      const output = [];
+      let year = timelineStart.year;
+      let month = timelineStart.month;
+
+      while (year < timelineEnd.year || (year === timelineEnd.year && month <= timelineEnd.month)) {
+        output.push({
+          key: `${year}-${String(month).padStart(2, "0")}`,
+          label: new Date(year, month - 1, 1).toLocaleString("en-US", {
+            month: "short",
+            year: "numeric"
+          })
+        });
+
+        month += 1;
+        if (month > 12) {
+          month = 1;
+          year += 1;
+        }
+      }
+
+      return output;
+    }
+
+    function createMonthRow() {
+      const row = document.createElement("div");
+      row.className = "board-row";
+
+      const label = document.createElement("div");
+      label.className = "label-cell months";
+      label.textContent = "Programs";
+
+      const track = document.createElement("div");
+      track.className = "track months-track";
+
+      periods.forEach((period) => {
+        const band = document.createElement("div");
+        band.className = `period-band ${period.color}`;
+        band.style.left = `${dateToMonthFloat(period.start) * monthWidth}px`;
+        const width = Math.max(120, (dateToMonthFloat(period.end, true) - dateToMonthFloat(period.start)) * monthWidth);
+        band.style.width = `${width}px`;
+        band.textContent = period.label;
+        track.appendChild(band);
+      });
+
+      const grid = document.createElement("div");
+      grid.className = "months-grid";
+      monthLabels().forEach((month) => {
+        const cell = document.createElement("div");
+        cell.className = "month-cell";
+        cell.textContent = month.label;
+        grid.appendChild(cell);
+      });
+
+      track.appendChild(grid);
+      row.append(label, track);
+      return row;
+    }
+
+    function formatDateLabel(start, end) {
+      if (!end || start === end) {
+        return start;
+      }
+      return `${start} to ${end}`;
+    }
+
+    function createLaneRow(lane) {
+      const laneEvents = events.filter((event) => event.lane === lane.id);
+      const packed = packLaneEvents(laneEvents);
+
+      const row = document.createElement("div");
+      row.className = "board-row";
+      row.dataset.lane = lane.id;
+
+      const label = document.createElement("div");
+      label.className = "label-cell";
+      label.innerHTML = `
+        <h3 class="lane-title">${lane.title}</h3>
+        <p class="lane-note">${lane.note}</p>
+      `;
+
+      const track = document.createElement("div");
+      track.className = "track lane-track";
+      track.style.minHeight = `${packed.rowCount * rowHeight + 22}px`;
+
+      const wash = document.createElement("div");
+      wash.className = `lane-wash ${lane.color}`;
+      track.appendChild(wash);
+
+      packed.events.forEach((event) => {
+        const card = document.createElement("button");
+        const bandClass = event.band.toLowerCase().includes("inference")
+          ? "is-inference"
+          : event.band.toLowerCase().includes("exact")
+            ? "is-exact"
+            : "";
+        card.className = `event-card group-${lane.color} ${bandClass}`;
+        card.dataset.filterLane = event.lane;
+        card.dataset.filterTier = event.tier;
+        card.dataset.eventId = event.id;
+        card.style.left = `${event.startPx}px`;
+        card.style.top = `${14 + event.rowIndex * rowHeight}px`;
+        card.style.width = `${event.endPx - event.startPx}px`;
+        card.title = `${event.id} - ${event.title}`;
+        card.innerHTML = `
+          <div class="event-topline">
+            <span>${event.id}</span>
+            <span>${event.band}</span>
+          </div>
+          <h4 class="event-title">${event.title}</h4>
+          <p class="event-copy">${event.description}</p>
+          <div class="tiny-tags">
+            <span class="tiny-tag ${event.tier}">${event.tier}</span>
+            <span class="tiny-tag ${event.confidence.toLowerCase().includes("high") ? "high" : event.confidence.toLowerCase().includes("low") ? "low" : "medium"}">${event.confidence}</span>
+          </div>
+        `;
+
+        card.addEventListener("click", () => setActiveEvent(event.id));
+        track.appendChild(card);
+      });
+
+      row.append(label, track);
+      return row;
+    }
+
+    function markerLabelForX(x) {
+      let best = imageMarkers[0];
+      let bestDistance = Math.abs(x - best.x);
+
+      imageMarkers.forEach((marker) => {
+        const distance = Math.abs(x - marker.x);
+        if (distance < bestDistance) {
+          best = marker;
+          bestDistance = distance;
+        }
+      });
+
+      return best.label;
+    }
+
+    function buildPptxImageBoard() {
+      const board = document.getElementById("pptxImageBoard");
+      if (!board) {
+        return;
+      }
+
+      const boardWidth = 5200;
+      const padding = 92;
+      const minX = Math.min(...timelineImages.map((item) => item.x), ...imageMarkers.map((marker) => marker.x));
+      const maxX = Math.max(...timelineImages.map((item) => item.x), ...imageMarkers.map((marker) => marker.x));
+      const usableWidth = boardWidth - padding * 2;
+      const positionForX = (x) => padding + ((x - minX) / (maxX - minX)) * usableWidth;
+      const rowTop = { 1: 122, 2: 304, 3: 486 };
+
+      const axis = document.createElement("div");
+      axis.className = "image-axis";
+      board.appendChild(axis);
+
+      [
+        { row: 1, label: "row 1" },
+        { row: 2, label: "row 2" },
+        { row: 3, label: "row 3" }
+      ].forEach((item) => {
+        const label = document.createElement("div");
+        label.className = `image-row-label row-${item.row}`;
+        label.textContent = item.label;
+        board.appendChild(label);
+      });
+
+      imageMarkers.forEach((marker) => {
+        const label = document.createElement("div");
+        label.className = "image-phase-label";
+        label.style.left = `${positionForX(marker.x)}px`;
+        label.textContent = marker.label;
+        board.appendChild(label);
+      });
+
+      timelineImages.forEach((item, index) => {
+        const row = item.y < 1500000 ? 1 : item.y < 1900000 ? 2 : 3;
+        const jitter = ((item.y % 140000) / 140000) * 18;
+        const node = document.createElement("a");
+        node.className = `timeline-image row-${row}`;
+        node.href = `_pptx_extract/ppt/media/${item.file}`;
+        node.target = "_blank";
+        node.rel = "noopener";
+        node.style.left = `${positionForX(item.x)}px`;
+        node.style.top = `${rowTop[row] + jitter}px`;
+        node.title = `${markerLabelForX(item.x)} - ${item.file}`;
+
+        const image = document.createElement("img");
+        image.src = `_pptx_extract/ppt/media/${item.file}`;
+        image.alt = `Timeline source image ${index + 1}`;
+        image.loading = "lazy";
+
+        const caption = document.createElement("div");
+        caption.className = "timeline-image-caption";
+        caption.innerHTML = `
+          <span>${markerLabelForX(item.x)}</span>
+          <span class="timeline-image-index">#${index + 1}</span>
+        `;
+
+        node.append(image, caption);
+        board.appendChild(node);
+      });
+    }
+
+    function buildBoard() {
+      const board = document.getElementById("timelineBoard");
+      board.appendChild(createMonthRow());
+      laneMeta.forEach((lane) => board.appendChild(createLaneRow(lane)));
+    }
+
+    function renderFilters() {
+      const container = document.getElementById("filters");
+      filters.forEach((filter) => {
+        const button = document.createElement("button");
+        button.className = `filter-button${filter.id === "all" ? " active" : ""}`;
+        button.type = "button";
+        button.dataset.filter = filter.id;
+        button.textContent = filter.label;
+        button.addEventListener("click", () => applyFilter(filter.id));
+        container.appendChild(button);
+      });
+    }
+
+    function applyFilter(filterId) {
+      document.querySelectorAll(".filter-button").forEach((button) => {
+        button.classList.toggle("active", button.dataset.filter === filterId);
+      });
+
+      document.querySelectorAll(".event-card").forEach((card) => {
+        const lane = card.dataset.filterLane;
+        const tier = card.dataset.filterTier;
+        const shouldShow =
+          filterId === "all" ||
+          filterId === tier ||
+          filterId === lane;
+
+        card.classList.toggle("hidden", !shouldShow);
+      });
+
+      document.querySelectorAll(".board-row[data-lane]").forEach((row) => {
+        const laneMatch = row.dataset.lane === filterId;
+        if (["site", "fighters", "deathstar", "ships", "delivery"].includes(filterId)) {
+          row.style.opacity = laneMatch ? "1" : "0.48";
+        } else {
+          row.style.opacity = "1";
+        }
+      });
+    }
+
+    function confidenceClass(value) {
+      const lowered = String(value).toLowerCase();
+      if (lowered.includes("high")) {
+        return "high";
+      }
+      if (lowered.includes("low")) {
+        return "low";
+      }
+      return "medium";
+    }
+
+    function setActiveEvent(eventId) {
+      const event = events.find((item) => item.id === eventId);
+      if (!event) {
+        return;
+      }
+
+      document.querySelectorAll(".event-card").forEach((card) => {
+        card.classList.toggle("active", card.dataset.eventId === eventId);
+      });
+
+      const lane = laneMeta.find((item) => item.id === event.lane);
+      const panel = document.getElementById("detailPanel");
+      panel.innerHTML = `
+        <div class="detail-kicker">${lane ? lane.title : "Timeline event"}</div>
+        <h2 class="detail-title">${event.title}</h2>
+        <p class="detail-copy">${event.description}</p>
+
+        <div class="badge-row">
+          <span class="badge ${event.tier}">${event.tier}</span>
+          <span class="badge ${confidenceClass(event.confidence)}">${event.confidence}</span>
+          <span class="badge ${event.band.toLowerCase().includes("exact") ? "high" : event.band.toLowerCase().includes("inference") ? "medium" : "medium"}">${event.band}</span>
+        </div>
+
+        <div class="detail-meta">
+          <div class="detail-block">
+            <div class="detail-label">Date window</div>
+            <div class="detail-value">${formatDateLabel(event.start, event.end)}</div>
+          </div>
+          <div class="detail-block">
+            <div class="detail-label">People</div>
+            <div class="detail-value">${event.people || "Not specified in this pass."}</div>
+          </div>
+          <div class="detail-block">
+            <div class="detail-label">Research IDs</div>
+            <div class="detail-value">${event.links || event.id}</div>
+          </div>
+          <div class="detail-block">
+            <div class="detail-label">Sources</div>
+            <div class="detail-value">${event.sources}</div>
+          </div>
+          <div class="detail-block">
+            <div class="detail-label">Why this matters</div>
+            <div class="detail-value muted">
+              ${event.tier === "master"
+                ? "This card anchors the shop-wide chronology and helps relate individual builds to the larger Van Nuys operation."
+                : "This card narrows the broad shop chronology down to one specific model line, handoff, or filming program."}
+            </div>
+          </div>
+        </div>
+
+        <div class="footer-note">
+          This wall intentionally separates exact dates, broader production windows, and inference-based placements.
+          It is designed to stay honest where the record is still fragmented.
+        </div>
+      `;
+    }
+
+    renderFilters();
+    buildBoard();
+    buildPptxImageBoard();
+    applyFilter("all");
+    setActiveEvent("TL-001");
+  </script>
+</body>
+</html>

@@ -1,0 +1,282 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Yet Another X-Wing Build
+URL    : https://www.therpf.com/forums/threads/yet-another-x-wing-build.236230/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #3596660)
+Author    : DeanB
+Date      : Mar 24, 2015 at 10:32 PM
+Reactions : Like — JimmyB, el toro, Bjorn
+────────────────────────────────────────────────────────────────────────
+
+Ok, I'm late to the party, but I've been preparing for a long time.  I've had an obsession with the X-wing since I was a teenager (a long, long time ago...), and I, like many others have wanted a truly accurate model of my own.  I've messed around with this ever since finding the RPF in 2001, buying up a lot of old kits, contributing what little knowledge or insight I could (very little I'm embarrassed to say), and methodically working towards actually making something...
+
+I figured it's about time to show where I'm at, garner some critical input, and make faster progress to completing this!
+
+[IMAGE: 199333-5396c0a3456a44b37d8cd36221f9ee75.jpg]
+
+My specimen baggies.  I've collected all the necessary external kit parts, except for the cockpit...I'm planning on do full scale version instead.
+
+[IMAGE: 199334-58ef123b2241f8781162bf21e0e13ccc.jpg]
+
+I started doing small build experiments, but that got expensive after I trimmed away expensive parts, only to realize I needed to re-do the work. To prevent any more expensive experiments, and enhance the overall accuracy, I decided to methodically build all of the greeblies, and everything else in CAD.  I've been at it for about a year and a half now, and I'm really pleased with the results so far.  I'm figuring after all of this I'll have a great database to build a 1/12th scale version!  Hopefully by then, I can afford a good 3d printer with a large build volume
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: 199335-8a20430e5d5f0324f198642b0d21903c.jpg]
+
+[IMAGE: 199336-c5fbbfe891bbe52b8c55ba5911522e7c.jpg]
+
+[IMAGE: 199337-79b9e83bcd98c06274f374c66df52496.jpg]
+
+Here's some renderings of how it's looking so far.  The wings are all but done, and I'm currently working on the droid strip.  The fuselage is a stand in for now. Based on what I'm learning from the wings and droid strip, I'll need to make some modifications to its length.  Yes, those are Red 5 markings.  I'm trying as best I can to match its unique details.
+
+[IMAGE: 199338-886faa8431a5cc85efca330dad295a29.jpg]
+
+I've also been trying perspective matching of my work to the reference I have.  This has helped me make a lot of critical decisions.
+
+I hope you enjoy!  More to come.
+
+Dean
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #3598277)
+Author    : maxhebus
+Date      : Mar 26, 2015 at 3:51 PM
+────────────────────────────────────────────────────────────────────────
+
+That's brilliant!
+
+I can't wait to see how good this is gonna come out of a printer.
+
+1/12th going to be big. 
+
+S
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #3598390)
+Author    : StevenBills
+Date      : Mar 26, 2015 at 6:08 PM
+────────────────────────────────────────────────────────────────────────
+
+Amazing.
+
+SB
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #3598526)
+Author    : DeanB
+Date      : Mar 26, 2015 at 9:04 PM
+────────────────────────────────────────────────────────────────────────
+
+I won't be doing a 1/12th version for awhile.  Let me finish the 1/24th with actual kit pieces first! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+  However, I do plan on printing the fuselage and cockpit. Not sure yet if I'll SLA or FDM the parts.  I might actually objet print the cockpit and R2 because of its fine detail.
+
+-Dean
+
+- - - Updated - - -
+
+StevenBills said:
+
+			Amazing. What part of Renton are you in? I'm originally from Maple Valley. The Great PNW!
+
+SB
+		
+
+Click to expand...
+
+East Highlands...are you still in the area?
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #3599203)
+Author    : StevenBills
+Date      : Mar 27, 2015 at 3:43 PM
+────────────────────────────────────────────────────────────────────────
+
+DeanB said:
+
+			East Highlands...are you still in the area?
+		
+
+Click to expand...
+
+Nope, moved out a while back. I've always wanted to make it back someday though!
+
+SB
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #3600804)
+Author    : DeanB
+Date      : Mar 29, 2015 at 4:58 PM
+Reactions : Like — Bjorn
+────────────────────────────────────────────────────────────────────────
+
+I'm feeling pretty good with the overall accuracy of the wings, except or two areas. I'm hoping someone could help me out with the first one:
+
+I'm trying to better understand what details are present in the "wing box" area where one half of the F-4 engine resides..  My question is with the Sealab part (#62 in the kit).  I've seen it referenced and used on several builds on this site, but I've never felt confident they were accurate.  And my reference, no matter how clear and close up, has never given me a clear look inside the wing box.  I've got a couple tantalizing, but not very clear views for the Sealab's use on the outboard side of the engine half (Hero, hollow wing model), but I'm stumped with its possible use on the inboard side.  
+
+[IMAGE: 200833-e5e37ec3ea3f83423b40c111c6c80a3c.jpg]
+
+[IMAGE: 200834-034ebc8a8447012d4c14eb4296e866b1.jpg]
+
+Thoughts anyone?
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #3601221)
+Author    : moffeaton
+Date      : Mar 30, 2015 at 7:16 AM
+Reactions : Like — JimmyB, Bjorn, Padawan311
+────────────────────────────────────────────────────────────────────────
+
+These are all Red 5 - hope they help.
+
+[IMAGE: 200957-415fc5a0c3c9cff50d044c736cada5e0.jpg]
+
+[IMAGE: 200958-6d58cbbfc45dc7147c0f03d8c2cee05b.jpg]
+
+[IMAGE: 200959-eeed047b7b23c2133d83152d7f1bccd7.jpg]
+
+[IMAGE: 200960-1d76bfcdd74ddf94ce84baa4e29648e0.jpg]
+
+[IMAGE: 200961-719a36d98aff1a81658f1220e016cf70.jpg]
+
+[IMAGE: 200962-a1daf2bdb73e594beff8524d25992c45.jpg]
+
+[IMAGE: 200963-8d85a2d2028ad484a73316dbd18e45c7.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #3601802)
+Author    : DeanB
+Date      : Mar 30, 2015 at 4:50 PM
+────────────────────────────────────────────────────────────────────────
+
+Wow! Yes, those are very helpful.  Thank you very much.  I'm picking out  a number of interesting things.  I'll post my updates later.  In the meantime, I'm curious about a couple of details I've picked out.
+
+[IMAGE: 201070-c4e709323e02c02390dba908cde4639f.jpg]
+
+I'm assuming this (pink highlight) is a conduit (rubber?), possibly to route wires to the cannon and engine lights.  It also looks like some of the wires are routed outside of the conduit.
+
+[IMAGE: 201071-8ca22bc00b0579f2501fbe997ab5f189.jpg]
+
+The pink highlighted bit looks like the u-channel used on the other end of the engine box.  The green highlighted piece above it looks familiar (pattern anyway), but I'm not recognizing the donor kit, or if it's a standard patterned sheet.
+
+Thanks,
+
+Dean
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #3601913)
+Author    : Talkierg
+Date      : Mar 30, 2015 at 7:16 PM
+────────────────────────────────────────────────────────────────────────
+
+I used Plastruct CFS-4.
+
+Don
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #3601936)
+Author    : DeanB
+Date      : Mar 30, 2015 at 7:55 PM
+────────────────────────────────────────────────────────────────────────
+
+Thank you Don. I've purchased the ABS version, C-4 (same dimensions). I had a hunch for the patterned part above the u-channel and pulled out my 1/700 Hasegawa Ticonderoga, Essex, and Hancock. The backside of their flight decks have a pattern that dimensions really close to the space available in my model. Of course it would need to be trimmed out. Am I hallucinating? The reference is admittedly hard to see. 
+
+[IMAGE: 201118-35a412264c5db2ee94c4a2d841f10654.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #3602273)
+Author    : moffeaton
+Date      : Mar 31, 2015 at 8:04 AM
+────────────────────────────────────────────────────────────────────────
+
+Glad it helped you! I love what you are doing here, and yeah you can see the surgical tubing in there...
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #3602509)
+Author    : DeanB
+Date      : Mar 31, 2015 at 12:17 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks for your support!  I've been really happy with the clarity this approach has provided.   I want to do this for the Y-wing as well, but I'm not looking forward to recreating the shear number of parts that will require.   
+
+Since reappearing seemingly from nowhere, I'm thinking of using this method for the 2001 Aries 1-B.   It seems a little more manageable (except for its size). 
+
+Sent from my iPhone using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #3647510)
+Author    : DeanB
+Date      : May 16, 2015 at 5:32 PM
+────────────────────────────────────────────────────────────────────────
+
+Am I seeing what I think I'm seeing?
+[IMAGE: 215942-286200cb25612557d100013a720996c8.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #3647525)
+Author    : DeanB
+Date      : May 16, 2015 at 5:58 PM
+────────────────────────────────────────────────────────────────────────
+
+Finishing the droid strip.  Any ideas what's filling in the space beneath the Airfix Hurricane part in the region that butts up to the droid socket?  Some reference I have seems to suggest a part of some hard to figure shape.  Others look like a blob of putty.  Thoughts anyone?
+
+-Dean
+[IMAGE: 215948-c9f77ce782c8031523c216590ab75b63.jpg]
+
+[IMAGE: 215949-3dc9b9d0bd44fb8231a0238e66ae8f63.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #3647609)
+Author    : swgeek
+Date      : May 16, 2015 at 8:31 PM
+────────────────────────────────────────────────────────────────────────
+
+As far as the Stug and Hummel parts, yes, you are seeing what you think you're seeing. For the droid strip, it looks like they clayed up the gap before they molded it.
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #3647615)
+Author    : DeanB
+Date      : May 16, 2015 at 8:44 PM
+────────────────────────────────────────────────────────────────────────
+
+I thought so. This is why I'm not physically building anything yet. I'm constantly discovering strange nuances like this. 
+
+For the Hurricane part, I'm pretty sure it's putty as well I think I'll do something a little more purposeful looking. Thanks got your thoughts.
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #3862364)
+Author    : DeanB
+Date      : Jan 3, 2016 at 6:04 PM
+Reactions : Like — JimmyB, Bjorn, ecl
+────────────────────────────────────────────────────────────────────────
+
+Happy New Year! 
+
+I've been making steady progress over the past months...I've re-arranged the engine bits inside the wings, and added the Hummel jack parts to the back of the wings (Although, I just realized I arranged them wrong.  I need to correct that).  Looking more closely at my assertions in post #10, I've concluded I don't know what the heck is going on there.  The photo is too out of focus to really know what's happening.
+
+The parts to the buttplate (I don't know what else to call that area!) are all finished (except the Sherman hull.  I'm having a tough time modeling the rough casting features) and arranged.
+
+The past two weeks I've been working on a complete re-work of the fuselage.  It was originally a surface only model, now it's a parametric solid which is more robust and allows for easier tweaks. It also sets me up for detailing the final parts.  During this process, I've been verifying and validating its shape and proportion through perspective matching of reference photos.  I'm pretty happy with the result.  I'm confident it's a good re-creation of the original Red 5 fuselage (minus the twisting and asymmetry I noticed in the original model).
+[IMAGE: 286876-0ba797da19ab92bf2e7498a2d84c8822.jpg]
+
+[IMAGE: 286874-6c45be46c9087116689c366dea68ab01.jpg]
+
+[IMAGE: 286877-5b4235ed9fd783592651a280d86dbdcb.jpg]
+
+[IMAGE: 286878-266660a0df8edb34e040beda1dc53733.jpg]
+
+[IMAGE: 286875-35ae9f5ff9d4bd2629a9d206114da131.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #4675359)
+Author    : greeble_gremlin
+Date      : Oct 17, 2019 at 6:41 PM
+────────────────────────────────────────────────────────────────────────
+
+really nice work DeanB!
+
+regarding what type of 3D printing, for a 1/12 scal bird Id's say use both. and hi-res poly-jet too.
+
+not to mention some laser cutting for the flat parts
+
+ save the FDM for the big pieces that do not have a lot of detail , like the nose section
+
+laser cutting makes the most sense for the flat part of wing, its a lot cheaper and with Acrylic sheet or styrene less chance of warping.
+
+Also for example, on the R2 strip... all kit parts were printed in either Poly-jet or SLA but the "deck was laser-cut plexi.
+
+ To save money I plan to print the fuselage "core" in FDM but "clad" the outer surfaces in a shell of SLA parts.
+
+SLA will be uch smoother and more precise with the panel lines on curved surfaces last that is the theory,
+
+Im running some tests now
+
+I want to keep the fuselage contours & dimensions as "true" as possible. If printed entirely with FDM,even adjusting the final surfaces to allow for "finishing" work that a lot of primer, putty to slather on and then a lot of sanding and finishing, which could mean ending up with less than accurate final shape on the body
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 18

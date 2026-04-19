@@ -1,0 +1,2206 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Motion-Control System V2 - A continuation
+URL    : https://www.therpf.com/forums/threads/motion-control-system-v2-a-continuation.338308/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #5180668)
+Author    : MattWinchell
+Date      : Mar 23, 2021 at 11:51 AM
+Reactions : Like — MightyYaks, yojoono, Bloop
+────────────────────────────────────────────────────────────────────────
+
+I have decided that I wanted to recreate the motion-controlled reel of various shots of the razor crest, much like what ILM did. My main inspiration was that behind-the-scenes video that ILMVFX posted: 
+
+Fortunately, I own a CR-10s and my school in the Bay Area, California, owns a Form 2 which I pretty much have free reign over. With that in mind, does anyone know of a relatively accurate 3D model of the Razor Crest that is ready to print and is about the same scale as the model ILM used for the shots? I have tried researching for one but I am unsure if 1:34 is the correct scale.
+
+Once I do eventually find and print a model, I'll modify the inside to have attachment points for different areas of the model (front, back, and sides). Furthermore, I hope to keep this thread active if I do get the ball rolling.
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #5192909)
+Author    : MattWinchell
+Date      : May 2, 2021 at 6:57 PM
+Reactions : Like, Love — Bloop, rbeach84, PoopaPapaPalps
+────────────────────────────────────────────────────────────────────────
+
+Here are some updates to the project thus far.
+
+I went ahead and bought an accurate Razor Crest stl package off etsy by this brilliant designer name Jeff Lu: Jeff's Razor Crest STL files for 3d printing | Etsy
+
+What's so wonderful about his files is that he sliced them for either an FDM or SLA printer, which makes it easier to make out which parts are more appropriate for a type of printer. Furthermore, he has added a bit of documentation to make the scaling and assembly process easy. I took some time to look over every file to plan out my attack strategy for printing this guy. I first wanted to ensure a decent scale, and after quickly talking with some people on the Razor Crest Builders group on Facebook, I settled on a 1:72 scale Razor Crest, where the Jeff Lu files were initially at 1:100. With that scale, I began printing out the files on my school's Form 2:
+
+[IMAGE: https://www.therpf.com/forums/attachments/pxl_20210422_230819996-1-jpg.1452541/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/pxl_20210422_231229290-1-jpg.1452542/]
+
+The Form 2 is an incredibly easy to use machine, and it produces fantastic results with relatively manageable post-processing. In tangent with the print process, I began going through the ILM Razor Crest reel frame by frame on the shots regarding the camera rig.
+
+I was lucky enough to snag several long pieces of 80/20, t-brackets and screws for the build, so I had the parts on hand to measure. I went into Fusion360 and began marking up some very basic shapes for the camera rig. When looking closely at the ILM camera rig (courtesy of John Knoll and co.), the translating stepper motor is mounted directly on the moving rig itself, with a decently clever system.
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot_2021-04-29_131633-png.1452543/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot_2021-04-29_131503-png.1452544/]
+
+Much like a 3D printer, the stepper motor rotates the pulley/belt system, and the belt moves, except this time, the stepper motor is not fixed on the end, but rather the assembly itself, which makes everything nice and consolidated. The belts seem to be tensioned with some flat grooved idler pulleys, which can easily be found on amazon. In terms of the stepper motors, ILM is using Stepperonline's Nema 17 & 23 stepper motors. The translation motor is at a 15:1 reduction while the others are a bit unclear. For my purposes, the remaining can be 5:1-10:1 since torque is not too needed for yaw and pitch. Here is an image of the basic CAD I quickly mocked up:
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2021-05-02-184131-png.1452545/]
+
+It does look pretty basic, but it's good to have some starting mates in the assembly to get an understanding of scale. 
+
+This project and my other work can be found at: www.matthewwinchell.com
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #5192911)
+Author    : MattWinchell
+Date      : May 2, 2021 at 7:06 PM
+Reactions : Like — Bloop, enterprise0216, starks
+────────────────────────────────────────────────────────────────────────
+
+Continuing with the actual Razor Crest model, I was able to print many more parts out. It's really starting to take shape, and I am hoping to print the remaining parts once I get some more resin cartridges (I am using Formlabs standard Grey V4, resin).
+
+I printed out the engine parts and started to carefully glue and clean up some of the other prints. Here's a rough look at the assembly:
+
+[IMAGE: https://www.therpf.com/forums/attachments/pxl_20210427_182523712-jpg.1452552/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/pxl_20210429_214437598-1-jpg.1452553/]
+
+Alongside the CAD, I was a bit gitty and decided to do research on the engine lights. In the Facebook group, there aren't many posts regarding specific LEDs, especially for 1:72, so after my research, I went ahead and grabbed an Adafruit Neopixel ringlight. Here is a quick test I did with some wax paper to diffuse the light:
+
+[IMAGE: https://www.therpf.com/forums/attachments/pxl_20210503_020239549-jpg.1452554/]
+
+It's not incredibly bright, but it will look better in the dark when I eventually shoot some shots of the ship in its full glory. Speaking of the ship again, here is a quick CAD model of the ship with a cheap attachment rig using servo city actobotics parts:
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2021-04-22-192616-png.1452555/]
+
+There's a clamping line along the length of the ship that can be accessed from the rear hatch, and one from the sides. These mounting points are supposed to be the same as the ones used in the show. A sturdy rod that can be clamped from the assembly will connect from the ship to the ship roll motor.
+
+For now, I am still waiting on a new batch of Form resin so I can print the remaining parts.
+
+As always, this project and my other projects can be found on my website: www.matthewwinchell.com
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #5192915)
+Author    : MastahBlastah
+Date      : May 2, 2021 at 7:16 PM
+Reactions : Like — MattWinchell
+────────────────────────────────────────────────────────────────────────
+
+Super excited to follow along here, and impressed at your range of skill/ambition in tackling this! The ILM video on Knoll's rig was surprisingly in-depth for what we normally get with the Disney bts stuff, but still left so many questions unanswered. Absolutely love the idea of a modern home-brew moco system ... best of luck to you!
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #5195440)
+Author    : MattWinchell
+Date      : May 11, 2021 at 12:13 PM
+Reactions : Like — Bloop, enterprise0216, Studio Kitbash
+────────────────────────────────────────────────────────────────────────
+
+As a quick update, I've printed out nearly every remaining part for the Razor Crest and I am moving on to gluing the whole thing together. I'm holding off on some areas as I am waiting for my servo city parts to come in for the internal clamping assembly.
+
+In terms of the camera rig, I discovered through closer inspection that John Knoll & co used some C-Beam specific platforms from Maker store, or at least the specific products they sell there. I was able to actually snag a 1500mm long C-beam off their site for 35$! I bought a bulk order of that with some other stuff and am hoping it will come in soon.\
+
+I'll make sure to update my website to reflect this progress: www.matthewwinchell.com
+
+[IMAGE: https://www.therpf.com/forums/attachments/pxl_20210511_020350238-jpg.1456972/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/pxl_20210511_020344652-jpg.1456973/]
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #5195467)
+Author    : mikelbrierly
+Date      : May 11, 2021 at 2:18 PM
+Reactions : Like — MattWinchell
+────────────────────────────────────────────────────────────────────────
+
+This is incredible! I cannot wait to see the final product. And great job with the kit too!
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #5195491)
+Author    : MattWinchell
+Date      : May 11, 2021 at 4:00 PM
+────────────────────────────────────────────────────────────────────────
+
+mikelbrierly said:
+
+			This is incredible! I cannot wait to see the final product. And great job with the kit too!
+		
+
+Click to expand...
+
+Thank you!
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #5195550)
+Author    : Duncanator
+Date      : May 11, 2021 at 9:59 PM
+Reactions : Like — MattWinchell
+────────────────────────────────────────────────────────────────────────
+
+Great looking build!
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #5195590)
+Author    : joberg
+Date      : May 12, 2021 at 5:24 AM
+Reactions : Like — MattWinchell
+────────────────────────────────────────────────────────────────────────
+
+Wow, great project to tackle
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #5195735)
+Author    : MattWinchell
+Date      : May 12, 2021 at 4:29 PM
+────────────────────────────────────────────────────────────────────────
+
+Duncanator said:
+
+			Great looking build!
+		
+
+Click to expand...
+
+I appreciate it!
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #5195975)
+Author    : StevenBills
+Date      : May 13, 2021 at 11:47 AM
+Reactions : Like — starks, MattWinchell
+────────────────────────────────────────────────────────────────────────
+
+This is ambitious! It's looking great so far! How are you planning on silvering the Crest? Foil? Paint? I have always wanted to build a DIY MoCon setup to film models. One day...
+
+SB
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #5196006)
+Author    : MattWinchell
+Date      : May 13, 2021 at 1:54 PM
+Reactions : Like — StevenBills
+────────────────────────────────────────────────────────────────────────
+
+I'm going to try to go for the foil technique.
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #5204350)
+Author    : MattWinchell
+Date      : Jun 10, 2021 at 9:19 AM
+Reactions : Like — Jkirkon
+────────────────────────────────────────────────────────────────────────
+
+As a quick update. I am taking a break from the project for a tad bit. I have a deadline to get BB-8 painted and rolling, so I'm putting all my focus into that.
+
+I did get my 80/20 c beam and mount plate parts, so whenever I do have the time, I can start building the camera rig.
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #5204591)
+Author    : joberg
+Date      : Jun 11, 2021 at 7:43 AM
+Reactions : Like — MattWinchell
+────────────────────────────────────────────────────────────────────────
+
+Glad to hear that the project is still going, albeit in the future.
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #5206786)
+Author    : MattWinchell
+Date      : Jun 18, 2021 at 2:01 PM
+Reactions : Like — mung, Borjis, enterprise0216
+────────────────────────────────────────────────────────────────────────
+
+So the break wasn't as long as I thought! I got my BB-8 painted well enough for his shoot & have decided to take a long break from that project (I have been at it for around 5 years).
+
+I wanted to immediately jump back into this project, so I returned first to the CAD. Funnily enough, I was rewatching Adam Savage's interview of John Knoll & Goodson and discovered way more reference images of the camera and model rig:
+
+[IMAGE: https://www.therpf.com/forums/attachments/1-png.1468521/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/3-png.1468514/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/4-png.1468515/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/5-png.1468516/]
+
+With these images and some previous ones I screenshot, I spent a long two days CADing up the camera rig. As I mentioned in my earlier posts, I CADed everything around a couple of parts, that being the stepper motors, C-beam extrusion, and mount plate. In terms of hardware, I tried really hard to keep it within two screw sizes, M3 & M5. Despite there being several different lengths, you will only find those two sizes, especially since everything was CADed in metric.
+
+Another thing I wanted to mention was the material choice. I was jumping back and forth in my head if I wanted to go the aluminum or the 3D printing route. I eventually decided on 3D printing, to which all of the parts were designed with that in mind. I chose 3D printing for a couple of reasons:
+
+1. I don't have direct access to a machine shop, so producing aluminum parts would take longer
+
+2. I'm pretty adept at 3D printing and feel more comfortable with it than machining
+
+3. I hope to make this open-source for you guys and I know 3D printing is very accessible to many of you.
+
+Furthermore, I will try to experiment with at least two different filaments, PLA & Carbon-PLA. I have never tried carbon-pla, but have heard great things about it. Perhaps I can 3D print the 80T pulleys out of carbon-pla if everything works out. I'd hate to have to bore out a 40mm hole in three pulleys.
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #5206788)
+Author    : MattWinchell
+Date      : Jun 18, 2021 at 2:05 PM
+Reactions : Like — PoopaPapaPalps, BajaTym, mung
+────────────────────────────────────────────────────────────────────────
+
+Here are some images of my CAD. I tried pretty hard to recreate John Knoll's creation, and I think I nailed it pretty well (with 3D printing in mind). The linear stepper motor has more bracket pieces, however, as going for a single bracket mount would guarantee unwanted flex:
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2021-06-18-115233-png.1468524/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2021-06-18-135930-png.1468525/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2021-06-18-135944-png.1468527/]
+
+In this version of the CAD, I thought socket heads would be a good idea, but I realize it might be better to have the M5x14mm screws be button. I spent enough time on this where I feel comfortable to start printing out some parts. As I mentioned, I will be testing carbon-pla in addition to just pla.
+
+Also, here's a look at the C-beam. It's so long!
+
+[IMAGE: https://www.therpf.com/forums/attachments/pxl_20210618_210406559-jpg.1468520/]
+
+I'm making a lot of good progress and hope to do a test in the near future. Until then, peace!
+
+My other work can be found on my website:
+
+www.matthewwinchell.com
+
+ 
+
+Attachments
+
+[IMAGE: 1111039-71b784ae99548fb89c6a072860cc46be.jpg]
+
+Screenshot 2021-06-18 135944.png
+
+					1.4 MB
+					
+					· Views: 263
+					
+				
+
+[IMAGE: 1111040-1743e3f3c5b76d9725eb5768cd115c27.jpg]
+
+Screenshot 2021-06-18 135930.png
+
+					660.2 KB
+					
+					· Views: 263
+					
+				
+
+[IMAGE: 1111043-0da78b61691650883d522652ead4a0d9.jpg]
+
+Screenshot 2021-06-18 115233.png
+
+					1.1 MB
+					
+					· Views: 260
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #5206823)
+Author    : StevenBills
+Date      : Jun 18, 2021 at 6:55 PM
+Reactions : Like — MattWinchell
+────────────────────────────────────────────────────────────────────────
+
+Are you going to be CAD'ing the model mover as well, or will the ship be static?
+
+SB
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #5206833)
+Author    : MattWinchell
+Date      : Jun 18, 2021 at 7:33 PM
+Reactions : Like — StevenBills
+────────────────────────────────────────────────────────────────────────
+
+StevenBills said:
+
+			Are you going to be CAD'ing the model mover as well, or will the ship be static?
+
+SB
+		
+
+Click to expand...
+
+Yup! I'm just working on one thing at a time. If you take a look at the model mover, it actually isn't too complex either, except the rocking mechanism which incorporates these curved rails.
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #5207482)
+Author    : MattWinchell
+Date      : Jun 21, 2021 at 6:46 PM
+Reactions : Like — PoopaPapaPalps, BajaTym, mung
+────────────────────────────────────────────────────────────────────────
+
+Quick Update: Here's a look at the work-in-progress motion-controlled miniature rig. I was able to find the quarter circle rails that were used thanks to a kind guy on discord who's been helping me identify certain parts and such.
+
+I think the biggest challenge will be CADing up a mounting plate where V-wheels are attached to in addition to the motor that will be swinging the model along the curved rail.
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2021-06-21-154741-png.1469458/]
+
+I'll post again soon when I have a decent mockup of the full thing ready.
+
+ 
+
+Attachments
+
+[IMAGE: 1111974-545fa42fd7cfcde5b03f3c38b4e21c87.jpg]
+
+Screenshot 2021-06-21 154741.png
+
+					726.4 KB
+					
+					· Views: 245
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #5207608)
+Author    : joberg
+Date      : Jun 22, 2021 at 7:18 AM
+Reactions : Like — MattWinchell
+────────────────────────────────────────────────────────────────────────
+
+Wow, this is very Pro-Job going on in here
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+Eager to see your next update!!
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #5209136)
+Author    : Millenniumf
+Date      : Jun 28, 2021 at 5:02 AM
+Reactions : Like — MattWinchell
+────────────────────────────────────────────────────────────────────────
+
+Man, this is such a useful thread to follow! I'm learning a lot about how to make a rig like this!
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #5209228)
+Author    : MattWinchell
+Date      : Jun 28, 2021 at 11:15 AM
+Reactions : Like — Bloop, PoopaPapaPalps, BajaTym
+────────────────────────────────────────────────────────────────────────
+
+After a long while of switching between my CAD model and my reference images, I feel pretty comfortable sharing Version 1 of the Motion-Controlled Miniature Rig!
+
+Much like Version 1 of the Motion-Controlled Camera Rig, the goal of this project is to make it hobbyist friendly, where the parts are sourced from 3-4 sellers. For this particular rig, I opted for the 80/20 30 series framing. Given the bulkiness of this rig, I think that using the 30 series was a good choice. Now, the screw choices are M3, M5, M6 & M8. You will find that some of the M3 & M5 screws are the same for the camera rig. This is to reduce the cost (even if by a little) and to be hardware efficient. Here are some images of the beginning to the end of Version 1:
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2021-06-20-115606-png.1471309/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2021-06-20-143002-png.1471310/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2021-06-21-131412-png.1471311/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2021-06-21-154741-png.1471312/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2021-06-22-171749-png.1471313/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2021-06-28-104816-png.1471316/]
+
+As you might have noticed, I pivoted quickly from the 20 series to the 30 series.
+
+The main piece that is most important to this build is the quarter circle rail. This particular rail in conjunction with the mechanism I CADed around it, is for the rocking mechanism. I feel pretty good with the yaw & miniature roll mechanisms as well. Much like John Knoll's rig, this recreation also has an easy way of adjusting its base height. Here is a quick video of the real rig versus my recreation:
+
+With this CAD out of the way, I am going to focus on printing out and getting the camera rig working. Here are some images of my progress so far. I will note that some minor changes have been made, but nothing that visible:
+
+[IMAGE: https://www.therpf.com/forums/attachments/pxl_20210628_180742700-jpg.1471304/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/pxl_20210628_180747834-jpg.1471305/]
+
+I am very pleased with how progress is turning out, as I haven't run into many issues with the tolerances and strength of my parts. I've been printing at 25% infill with standard PLA for reference. At some point when I start digging into the electronics & coding, I might ask someone here or somewhere else to help me work on the code. I'm not too familiar with recording keyframes and such and I'd like some assistance. 
+
+I will keep you all informed on my next post on my progress. Until then, check out my website on my other projects like my full-scale, fully-functional BB-8: www.matthewwinchell.com
+
+Peace.
+
+ 
+
+Attachments
+
+[IMAGE: 1113824-684200de4df11c8bbb66773a8935845c.jpg]
+
+Screenshot 2021-06-20 115606.png
+
+					1 MB
+					
+					· Views: 224
+					
+				
+
+[IMAGE: 1113825-02e15cd65b615ad9ff33323368762e00.jpg]
+
+Screenshot 2021-06-20 143002.png
+
+					676.7 KB
+					
+					· Views: 223
+					
+				
+
+[IMAGE: 1113832-6da77d43f8fb3a1b484cf0e02b8f1a6a.jpg]
+
+Screenshot 2021-06-22 173917.png
+
+					611.5 KB
+					
+					· Views: 233
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #5209443)
+Author    : akumazeto
+Date      : Jun 29, 2021 at 8:30 AM
+Reactions : Like — MattWinchell
+────────────────────────────────────────────────────────────────────────
+
+I would love to have a track setup like this for my stuff. Jealous of what your doing
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #5209652)
+Author    : MattWinchell
+Date      : Jun 29, 2021 at 8:45 PM
+Reactions : Like, Love — LOM, Redman99, StevenBills
+────────────────────────────────────────────────────────────────────────
+
+akumazeto said:
+
+			I would love to have a track setup like this for my stuff. Jealous of what your doing
+		
+
+Click to expand...
+
+The plan is to make this all open-source, so you can have this setup if you want (albeit, whenever I feel comfortable releasing this all)!
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #5209742)
+Author    : akumazeto
+Date      : Jun 30, 2021 at 8:12 AM
+Reactions : Like — MattWinchell
+────────────────────────────────────────────────────────────────────────
+
+HackinSpock said:
+
+			The plan is to make this all open-source, so you can have this setup if you want (albeit, whenever I feel comfortable releasing this all)!
+		
+
+Click to expand...
+
+That’s great. I don’t think I have the equipment to make the equipment though
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #5209825)
+Author    : MattWinchell
+Date      : Jun 30, 2021 at 12:58 PM
+Reactions : Like — PoopaPapaPalps, BajaTym, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+Given that my designs for the V1 camera & miniature rig are complete, I might be willing to have a beta-tester or two print and grab the parts for these designs and try them for themselves. A couple of things to note if you are interested:
+
+1. DM me if you are
+
+2. You are liable to your own purchases
+
+3. These designs as indicated can/will be changed as time goes on, so it's your decision if you want to make purchases that reflect these version changes
+
+4. I have not hooked up the electronics or programmed the rig yet, so if you do Beta-Test, I would like some help in these endeavors.
+
+        4a - The goal for the electronics & programming, much like what John Knoll & Co did, is to create a contained electronics system that's well                      organized and labelled. The programming will be based on creating key frames and recording them through a controller, much like                       the one John Knoll used
+
+        4b - These designs, as per your help, are also subject to change. So be aware that you might spend money across each version
+
+With these things in mind, feel free to DM and I'd be happy to chat. If you have any concerns or things you would like to add to this list, please add them to your message.
+
+As always, you can find my other work on my website: www.matthewwinchell.com
+
+Until my next update, here is a look at the camera rig fully assembled:
+
+[IMAGE: https://www.therpf.com/forums/attachments/pxl_20210630_195651622-jpg.1472058/]
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #5211229)
+Author    : joberg
+Date      : Jul 5, 2021 at 9:44 AM
+Reactions : Like — MattWinchell
+────────────────────────────────────────────────────────────────────────
+
+Yep, this is a Pro-Job all the way 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #28  (forum post #5211533)
+Author    : akumazeto
+Date      : Jul 6, 2021 at 8:04 AM
+Reactions : Like — MattWinchell
+────────────────────────────────────────────────────────────────────────
+
+I will be in on this as well. Excited to contriubte.
+────────────────────────────────────────────────────────────────────────
+Post #29  (forum post #5212991)
+Author    : MattWinchell
+Date      : Jul 10, 2021 at 2:06 PM
+────────────────────────────────────────────────────────────────────────
+
+I've started to do research into the electronics and software for the camera and miniature rig. Because this rig utilizes CNC electronics, it would be more appropriate to approach this from that angle. So with some help & research, I believe I will need to control the six total axis with GRBL. There is an arduino mega shield for DRV8825 drivers, but that's only useful for Nema17s. I have a combination of Nema17 & 23s so I will have to find a way to get the shield to work with some beefier DM542T drivers for the 23s.
+
+[IMAGE: 2018-03-10T04%3A10%3A28.210Z-GMSV1_1.jpg]
+
+						GRBLDuino Mega Shield-GRBL 1.1 Arduino CNC Shield by The Eccentric Workshop on Tindie
+					
+
+GRBLDuino Mega Shield V1 - 6 Axis GRBL v1.1 Arduino Mega CNC Controller Shield
+
+[IMAGE: favicon.ico]
+
+					www.tindie.com
+────────────────────────────────────────────────────────────────────────
+Post #30  (forum post #5213595)
+Author    : joberg
+Date      : Jul 12, 2021 at 12:00 PM
+────────────────────────────────────────────────────────────────────────
+
+This build is above my skills/knowledge/pay grade.  While I understand the general principals I'm in awe concerning the electronics/motors, etc, needed to make everything work! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #31  (forum post #5215583)
+Author    : publiusr
+Date      : Jul 18, 2021 at 9:31 PM
+────────────────────────────────────────────────────────────────────────
+
+I wonder if one of those tiny trains you see at zoos would allow your rig on one…To Live and Die in LA style. I could see being chased by a similar craft but with some Soviet Hind-D bits added
+────────────────────────────────────────────────────────────────────────
+Post #32  (forum post #5229721)
+Author    : MattWinchell
+Date      : Sep 3, 2021 at 9:38 AM
+Reactions : Like — PoopaPapaPalps, Ogibendogy
+────────────────────────────────────────────────────────────────────────
+
+It's been a while! I've made my transition to college at WPI (Worcester Polytechnic Institute in MA) as a Freshmen, and I've been slowly finding more free time.
+
+To get you all updated, I found an awesome CNC controller called the GRBL-ESP32 6-Axis Universal Controller by Bart Dring. The Nema23s will use the Tranamic TMC 2130 drivers and the Nema17 will use the DRV8825 drivers. I did some basic tests through the wireless UI software and got some movement!
+
+With the linear motor working, i've 3D printed the C-Beam endcaps to secure both ends of the GT2 Belt. I just took the STEP file of OpenBuilds C-beam endcap and added a small pocket for the belt to slip in:
+
+[IMAGE: https://www.therpf.com/forums/attachments/pxl_20210903_163440707-jpg.1490988/]
+
+I also recently grabbed another 1500mm C-beam rail, so now I have a total of 3m meters of track. Next step is to secure the rig on the rails, loop in the belts, and do a test run of the linear motor!
+
+Hope you all enjoyed the update and I will talk to you all soon!
+
+-Matthew
+
+www.matthewwinchell.com
+────────────────────────────────────────────────────────────────────────
+Post #33  (forum post #5229724)
+Author    : joberg
+Date      : Sep 3, 2021 at 10:06 AM
+Reactions : Like — MattWinchell
+────────────────────────────────────────────────────────────────────────
+
+Hello
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ F.A.B. update mate...looking very pro
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #34  (forum post #5233143)
+Author    : MattWinchell
+Date      : Sep 15, 2021 at 5:57 AM
+Reactions : Like — Jedi Dade, Lt Washburn, Bjorn
+────────────────────────────────────────────────────────────────────────
+
+Hello again!
+
+Here's a quick update on my progress. I was able to get the linear motion working on the camera rig!
+
+Thanks for your time and see you all soon!
+
+-Matthew
+
+www.matthewwinchell.com
+────────────────────────────────────────────────────────────────────────
+Post #35  (forum post #5233404)
+Author    : joberg
+Date      : Sep 16, 2021 at 5:40 AM
+Reactions : Like — MattWinchell
+────────────────────────────────────────────────────────────────────────
+
+Great update...getting there 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #36  (forum post #5234246)
+Author    : Takanuva
+Date      : Sep 19, 2021 at 12:54 AM
+Reactions : Like — MattWinchell
+────────────────────────────────────────────────────────────────────────
+
+You're making a lot of progress on this, it's super cool. I doubt I have the means to build one of these anytime soon but I love how a motion control rig like this will be a game changer for amateur film production!
+────────────────────────────────────────────────────────────────────────
+Post #37  (forum post #5234247)
+Author    : PoopaPapaPalps
+Date      : Sep 19, 2021 at 1:16 AM
+Reactions : Like — MattWinchell
+────────────────────────────────────────────────────────────────────────
+
+joberg said:
+
+			This build is above my skills/knowledge/pay grade.  While I understand the general principals I'm in awe concerning the electronics/motors, etc, needed to make everything work! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+You and me, both! I've been looking into motion-control options out there as I want to experiment with this method myself. I'm a decent machinist now and after seeing the BTS of the sp/fx on the model, I entertained the idea of custom machining the parts like Knoll did himself. The wiring and programming just stumps me though.
+────────────────────────────────────────────────────────────────────────
+Post #38  (forum post #5236790)
+Author    : MattWinchell
+Date      : Sep 28, 2021 at 11:51 AM
+Reactions : Like — newmagrathea, DaddyfromNaboo, Studio Kitbash
+────────────────────────────────────────────────────────────────────────
+
+Thought it would be fun to mention I was recently featured on this week's Galactic Builder's segment on the Star Wars Instagram page & the Star Wars Kids youtube channel:
+────────────────────────────────────────────────────────────────────────
+Post #39  (forum post #5236806)
+Author    : Pedro
+Date      : Sep 28, 2021 at 12:38 PM
+Reactions : Like — MattWinchell
+────────────────────────────────────────────────────────────────────────
+
+HackinSpock said:
+
+			Thought it would be fun to mention I was recently featured on this week's Galactic Builder's segment on the Star Wars Instagram page & the Star Wars Kids youtube channel:
+
+Click to expand...
+
+Awesome, congrats! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #40  (forum post #5236837)
+Author    : StevenBills
+Date      : Sep 28, 2021 at 2:36 PM
+Reactions : Like — MattWinchell
+────────────────────────────────────────────────────────────────────────
+
+HackinSpock said:
+
+			Thought it would be fun to mention I was recently featured on this week's Galactic Builder's segment on the Star Wars Instagram page & the Star Wars Kids youtube channel:
+
+Click to expand...
+
+That's dope, man. Keep up the awesome work!
+────────────────────────────────────────────────────────────────────────
+Post #41  (forum post #5239545)
+Author    : joberg
+Date      : Oct 8, 2021 at 1:57 PM
+Reactions : Like — MattWinchell
+────────────────────────────────────────────────────────────────────────
+
+Great stuff and well deserved 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #42  (forum post #5248569)
+Author    : MattWinchell
+Date      : Nov 7, 2021 at 6:36 AM
+Reactions : Like — Bjorn, stevielewis, Lt Washburn
+────────────────────────────────────────────────────────────────────────
+
+It's been a while!
+
+To bring you guys up to speed, I am going to go back a couple of weeks. I decided to make this project an independent study at my college so I would have more time to work on it, and as such, I made a bulk purchase of nearly every single part I would need to assemble each rig as per the CAD. The one issue that needed to be squared away was the 80-20. I spent a good couple of hours searching for cheap 80-20 and stumbled upon a site called Misumi. After compiling my cart, I decided to reach out to the company and see if they provided college sponsorships. To my luck, they were, and offered to cover all of my 80-20! I also reached out to the company Igus that manufactures the quarter moon rails I need for the miniature rig and also scored a sponsorship with them. Thank you Misumi & Igus!
+
+More recently, I have received all of my parts including the 80-20 & quarter moon rails & started assembling it all! Of course, I ran into some small problems, that being the 80/20 I purchased doesn't have any inside threading on the faces, so I had to quickly CAD a profile with an M5 hole to sit flush against the inside. Otherwise, here are some images of my progress! 
+
+[IMAGE: https://www.therpf.com/forums/attachments/pxl_20211103_161033054-jpg.1510377/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/pxl_20211107_141634236-jpg.1510378/]
+
+The linear rail is 3 meters in order to have enough room for longer camera shots. The miniature rig is taking a bit longer since a large portion of it requires 3D printed parts. Here is an image of the quarter moons!
+
+[IMAGE: https://www.therpf.com/forums/attachments/pxl_20211107_143044276-jpg.1510379/]
+
+On the electronic and coding side of things, I've made great progress on the Jog box, which is the numpad & joystick that will handle moving the rigs and a blender simulation at the same time. The real rig will move so I can actually see where it is going, while the blender simulation is there for me to program keyframes and revise the movement curves. Once all the revisions are done, I can export that scene in blender as a gcode file using a nifty python script I found online.
+
+[IMAGE: https://www.therpf.com/forums/attachments/pxl_20211107_143426340-jpg.1510380/]
+
+Now I am just waiting for more 3D printed parts. But in the meantime, I might install the linear rail belt and see if I can create a small test of the camera rig filming a shot of the razorcrest. 
+
+See you guys soon!
+
+-Matthew Winchell
+
+www.matthewwinchell.com
+────────────────────────────────────────────────────────────────────────
+Post #43  (forum post #5248596)
+Author    : joberg
+Date      : Nov 7, 2021 at 7:51 AM
+────────────────────────────────────────────────────────────────────────
+
+Great update and congrats on scoring some sponsors
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+Did you select the Razorcrest model yet?
+────────────────────────────────────────────────────────────────────────
+Post #44  (forum post #5248631)
+Author    : MattWinchell
+Date      : Nov 7, 2021 at 10:25 AM
+Reactions : Like — BajaTym, joberg, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+joberg said:
+
+			Great update and congrats on scoring some sponsors
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+Did you select the Razorcrest model yet?
+		
+
+Click to expand...
+
+Thanks! I've actually had a resin printed razor crest for a while now from Jeff Lu. It's 1/72. Here's a picture:
+
+[IMAGE: https://www.therpf.com/forums/attachments/pxl_20210511_020344652-jpg.1510414/]
+────────────────────────────────────────────────────────────────────────
+Post #45  (forum post #5248674)
+Author    : Bengrim09
+Date      : Nov 7, 2021 at 1:25 PM
+Reactions : Like — MattWinchell
+────────────────────────────────────────────────────────────────────────
+
+Phenomenal work
+────────────────────────────────────────────────────────────────────────
+Post #46  (forum post #5250846)
+Author    : MattWinchell
+Date      : Nov 14, 2021 at 6:48 PM
+Reactions : Like, Love — Bjorn, BajaTym, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+Another quick update. Got the miniature rig mostly assembled. Still waiting on some parts I forgot to purchase for the rig, but I also worked on the camera rig:
+
+[IMAGE: https://www.therpf.com/forums/attachments/pxl_20211111_023146768-jpg.1512719/]
+────────────────────────────────────────────────────────────────────────
+Post #47  (forum post #5251176)
+Author    : joberg
+Date      : Nov 16, 2021 at 6:58 AM
+Reactions : Like — MattWinchell
+────────────────────────────────────────────────────────────────────────
+
+Beautifully made and programed 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #48  (forum post #5253876)
+Author    : MattWinchell
+Date      : Nov 25, 2021 at 10:57 AM
+Reactions : Like, Love — Bjorn, stevielewis, BajaTym
+────────────────────────────────────────────────────────────────────────
+
+Just another quick update. I was able to position the internal clamping rig on my razor rest miniature, so now I can position it on the roll rod. I do have to slightly sand off the side walls to allow side clamping, but I should be fine.
+
+The miniature rig works surprisingly well. There is a bit off wobble happening, which is primarily due to the parts being 3D printed instead of being machined out of aluminum. I'm thinking to string up some weights on either side of the quarter rails to ease the wobble.
+
+[IMAGE: https://www.therpf.com/forums/attachments/pxl_20211123_010417887-jpg.1515746/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/pxl_20211123_010404701-jpg.1515747/]
+
+Happy Thanksgiving Everyone!
+────────────────────────────────────────────────────────────────────────
+Post #49  (forum post #5253972)
+Author    : Jediguy
+Date      : Nov 25, 2021 at 7:49 PM
+Reactions : Like — MattWinchell
+────────────────────────────────────────────────────────────────────────
+
+This is amazing. Absolutely great work!
+────────────────────────────────────────────────────────────────────────
+Post #50  (forum post #5254045)
+Author    : MattWinchell
+Date      : Nov 26, 2021 at 6:09 AM
+────────────────────────────────────────────────────────────────────────
+
+Thank you! It's been super fun to make.
+
+Jediguy said:
+
+			This is amazing. Absolutely great work!
+		
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #51  (forum post #5254143)
+Author    : Bjorn
+Date      : Nov 26, 2021 at 1:25 PM
+Reactions : Like — MattWinchell
+────────────────────────────────────────────────────────────────────────
+
+I was curious why the motion in the Yaw axis became so coarse when you reduced the jog speed to 1. I was expecting to see it to get get slower but stay relatively smooth.
+
+For a moment I thought you had directly mounted the motor to the Yaw axis, but I realised you have a reduction belt drive like the other axis.
+
+Understanding its a work in progress. And seriously that aside, well done.
+
+Absolutely great work!
+────────────────────────────────────────────────────────────────────────
+Post #52  (forum post #5254165)
+Author    : MattWinchell
+Date      : Nov 26, 2021 at 2:37 PM
+Reactions : Like — Bjorn
+────────────────────────────────────────────────────────────────────────
+
+Bjorn said:
+
+			I was curious why the motion in the Yaw axis became so coarse when you reduced the jog speed to 1. I was expecting to see it to get get slower but stay relatively smooth.
+
+For a moment I thought you had directly mounted the motor to the Yaw axis, but I realised you have a reduction belt drive like the other axis.
+
+Understanding its a work in progress. And seriously that aside, well done.
+
+Absolutely great work!
+		
+
+Click to expand...
+
+Good eye! So the coarseness of the yaw motor moving at 1 is not an error, as it is primarily the nature of jogging. The use of jogging for this rig is purely to position the axis and set keyframes. The actual motion will be programmed through standard gcode, so the movements will appear much smoother.
+
+-Matthew
+────────────────────────────────────────────────────────────────────────
+Post #53  (forum post #5254212)
+Author    : StevenBills
+Date      : Nov 26, 2021 at 6:53 PM
+Reactions : Like — MattWinchell
+────────────────────────────────────────────────────────────────────────
+
+Not sure about the software that you're using, but I am familiar with keyframing in After Effects. Are you able to adjust the curve so that you can ease into and out of a specific keyframe?
+────────────────────────────────────────────────────────────────────────
+Post #54  (forum post #5254270)
+Author    : MattWinchell
+Date      : Nov 27, 2021 at 5:22 AM
+────────────────────────────────────────────────────────────────────────
+
+StevenBills said:
+
+			Not sure about the software that you're using, but I am familiar with keyframing in After Effects. Are you able to adjust the curve so that you can ease into and out of a specific keyframe?
+		
+
+Click to expand...
+
+That's the idea! However, I am still trying to figure out what program to use. Ideally, I want to simultaneously jog the rig in realtime and jog a virtual rig to keyframe. Blender is the current candidate I am working on, but I am finding it extremely difficult to program shortcuts to move a virtual camera and set keyframes. Not only that, once I set keyframes on the timeline and smooth out the curves, I need to output that timeline to proper gcode. I'm not sure After Effects has that capability. Do you have another program in mind that can do all this?
+────────────────────────────────────────────────────────────────────────
+Post #55  (forum post #5254271)
+Author    : mung
+Date      : Nov 27, 2021 at 5:26 AM
+Reactions : Like — MattWinchell
+────────────────────────────────────────────────────────────────────────
+
+Do you have another program in mind that can do all this?
+		
+
+Click to expand...
+
+Have you looked at Mantis?
+
+https://www.bfg-motion.com/index.php?p=1_4
+────────────────────────────────────────────────────────────────────────
+Post #56  (forum post #5254273)
+Author    : MattWinchell
+Date      : Nov 27, 2021 at 5:31 AM
+Reactions : Like — MastahBlastah
+────────────────────────────────────────────────────────────────────────
+
+mung said:
+
+			Have you looked at Mantis?
+
+https://www.bfg-motion.com/index.php?p=1_4
+
+Click to expand...
+
+Unless I have misread, it seems like the software requires it's own custom usb control box. I'm already using a GRBL CNC board, so that won't be viable. Especially since the control box is expensive. However, I just sent an email to the guy just in case.
+────────────────────────────────────────────────────────────────────────
+Post #57  (forum post #5254303)
+Author    : StevenBills
+Date      : Nov 27, 2021 at 8:44 AM
+Reactions : Like — MattWinchell
+────────────────────────────────────────────────────────────────────────
+
+HackinSpock said:
+
+			That's the idea! However, I am still trying to figure out what program to use. Ideally, I want to simultaneously jog the rig in realtime and jog a virtual rig to keyframe. Blender is the current candidate I am working on, but I am finding it extremely difficult to program shortcuts to move a virtual camera and set keyframes. Not only that, once I set keyframes on the timeline and smooth out the curves, I need to output that timeline to proper gcode. I'm not sure After Effects has that capability. Do you have another program in mind that can do all this?
+		
+
+Click to expand...
+
+Yeah I honestly have no idea which software would be best for your application, sorry. I know that there are off-the-shelf motion control units (by companies like Kessler and Rhino) that use an app to control the keyframing. But that doesn't really help you, sorry.
+
+SB
+────────────────────────────────────────────────────────────────────────
+Post #58  (forum post #5254351)
+Author    : MattWinchell
+Date      : Nov 27, 2021 at 11:17 AM
+Reactions : Like — StevenBills
+────────────────────────────────────────────────────────────────────────
+
+No worries! I appreciate it nonetheless.
+
+StevenBills said:
+
+			Yeah I honestly have no idea which software would be best for your application, sorry. I know that there are off-the-shelf motion control units (by companies like Kessler and Rhino) that use an app to control the keyframing. But that doesn't really help you, sorry.
+
+SB
+		
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #59  (forum post #5255546)
+Author    : MangyDog
+Date      : Dec 2, 2021 at 6:22 AM
+Reactions : Like — MattWinchell
+────────────────────────────────────────────────────────────────────────
+
+Amazing work...
+
+Seeing youre also working on a camera rig too... Im actually going to be doing the same thing a bit later (maybe in a year or so) Ill be making a custom camera control rig. Using a 3d printer board as a base. But ill have to make a custom animation program to send gcode commands to the rig. I might also write the program as a plugin for 3dsmax so the camera rig will be directly tracked and controlled within the digital 3D space. 
+
+But also going to make it stop motion too, so ill need to write a program to control my camera as well to take photos... This means i can run my camera at 5k raw rather than HD compressed in motion mode. 
+
+I did notice some wobble and backlash on your camera rig though when you were testing it. My only suggestion I can make there is, go large. Make your lasysue bearings or needle ring bearings as wide a diameter as possible. It increases ther... umm... solidness! Yeah thats the word 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+
+You might also want to consider gearing down the stepper motors for the camera rig as well... And make sure you got 0.9' steppers as well, to get the best smooth motion. Unless speed is your goal. With stop motion filming speed isnt important, accuracy is.
+────────────────────────────────────────────────────────────────────────
+Post #60  (forum post #5255596)
+Author    : MattWinchell
+Date      : Dec 2, 2021 at 10:41 AM
+────────────────────────────────────────────────────────────────────────
+
+MangyDog said:
+
+			Amazing work...
+
+Seeing youre also working on a camera rig too... Im actually going to be doing the same thing a bit later (maybe in a year or so) Ill be making a custom camera control rig. Using a 3d printer board as a base. But ill have to make a custom animation program to send gcode commands to the rig. I might also write the program as a plugin for 3dsmax so the camera rig will be directly tracked and controlled within the digital 3D space.
+
+But also going to make it stop motion too, so ill need to write a program to control my camera as well to take photos... This means i can run my camera at 5k raw rather than HD compressed in motion mode.
+
+I did notice some wobble and backlash on your camera rig though when you were testing it. My only suggestion I can make there is, go large. Make your lasysue bearings or needle ring bearings as wide a diameter as possible. It increases ther... umm... solidness! Yeah thats the word 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+You might also want to consider gearing down the stepper motors for the camera rig as well... And make sure you got 0.9' steppers as well, to get the best smooth motion. Unless speed is your goal. With stop motion filming speed isnt important, accuracy is.
+		
+
+Click to expand...
+
+That sounds awesome! Please keep me updated on your progress when you start your build. In terms of the stepper motors, I can't really change them at this current stage, but I will let you know I am using the exact same ones that John Knoll used in his rig, so I'm pretty confident with their smoothness. The wobble/backlash you mention does in fact need to be addressed. The main cause of that is the 3D printed brackets. Because there is some inherent flex, some parts are cantilevering some of my mechanisms. My current way to reduce this issue is to use zip ties, but I think I might have to machine some of the brackets in aluminum to eliminate the flexing. There's also an inherent issue with the o-drive (the linear motion of the camera). Because the linear rail is 3 meters, I have to extend a belt that long, which is a pain since you need to make sure it's ultra-tight. Unfortunately, I'm definitely going to need to re-tension the belt, but I'm not sure what solution to use to make it permanent and super-taut. Another slight issue is the roll mount where the camera is positioned. Because the camera is a bit heavy, it's tilting the roll rod ever so slightly. But I took a look at John Knoll's rig used in the show and observed some similar leaning. The current rod is 3D printed, so I am planning on replacing it with an aluminum one, but I doubt it will make a difference.
+
+If you have some solutions to the things I listed above, I am all ears 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+-Matthew
+────────────────────────────────────────────────────────────────────────
+Post #61  (forum post #5255609)
+Author    : MangyDog
+Date      : Dec 2, 2021 at 11:26 AM
+────────────────────────────────────────────────────────────────────────
+
+Maybe redesign the end idlers of your rail, design in a screw press tensioner, so you can really get the belt tight. Also consider a wider gauge belt and make sure its fiberglass reinforced. 
+
+Yeah 3D printing is really great. But does have some limitations.... Id love to have a CNC machine to make the parts in aluminium 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ But i feel ill be doing the printed route too
+
+One thing you can really do is make the parts thicker to get less flex. 
+
+Ive not seen john knolls design, did he make it public?
+────────────────────────────────────────────────────────────────────────
+Post #62  (forum post #5255647)
+Author    : MattWinchell
+Date      : Dec 2, 2021 at 1:41 PM
+────────────────────────────────────────────────────────────────────────
+
+MangyDog said:
+
+			Maybe redesign the end idlers of your rail, design in a screw press tensioner, so you can really get the belt tight. Also consider a wider gauge belt and make sure its fiberglass reinforced.
+
+Yeah 3D printing is really great. But does have some limitations.... Id love to have a CNC machine to make the parts in aluminium 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ But i feel ill be doing the printed route too
+
+One thing you can really do is make the parts thicker to get less flex.
+
+Ive not seen john knolls design, did he make it public?
+		
+
+Click to expand...
+
+He did not make it public. I've been looking at the video I linked on my first post as a reference. I just eyeballed and redesigned it all.
+────────────────────────────────────────────────────────────────────────
+Post #63  (forum post #5255669)
+Author    : MattWinchell
+Date      : Dec 2, 2021 at 2:59 PM
+────────────────────────────────────────────────────────────────────────
+
+MangyDog said:
+
+			Maybe redesign the end idlers of your rail, design in a screw press tensioner, so you can really get the belt tight. Also consider a wider gauge belt and make sure its fiberglass reinforced.
+
+Yeah 3D printing is really great. But does have some limitations.... Id love to have a CNC machine to make the parts in aluminium 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ But i feel ill be doing the printed route too
+
+One thing you can really do is make the parts thicker to get less flex.
+
+Ive not seen john knolls design, did he make it public?
+		
+
+Click to expand...
+
+And to speak upon your recommendations, I found this screw gt2 tensioner: Adjustable GT2 Belt Tensioner by stratop80
+
+The aluminum pulleys I purchased are at the max-width for my current 6mm width belts, so I can't change them. However, the belt is indeed fiberglass reinforced. I guess I can make the parts thicker as well! I'm just debating if it's also worth printing them at 100% infill.
+────────────────────────────────────────────────────────────────────────
+Post #64  (forum post #5255809)
+Author    : MangyDog
+Date      : Dec 3, 2021 at 4:01 AM
+Reactions : Like — MattWinchell
+────────────────────────────────────────────────────────────────────────
+
+Inline belt tensioning is an option as long as that part of the belt wont get pulled into the pully. Best option is to take one of the end idlers and have a screw design on them that pulls the bely tighter away from the axis its going. 
+
+And yes 100% infill is a must. also ideally everything in ABS. or ASA
+────────────────────────────────────────────────────────────────────────
+Post #65  (forum post #5257844)
+Author    : MattWinchell
+Date      : Dec 10, 2021 at 10:12 AM
+Reactions : Like, Love — animator, rbeach84, Grievous
+────────────────────────────────────────────────────────────────────────
+
+I am very happy to announce that the motion-control rig, a recreation of John Knoll, John Goodson & the team at ILM's work, had its first-ever shoot day! Here are some images of the shoot. My good friend Kyle helped me out throughout the shoot and took the photos. I'll be sure to share some completed shots:
+
+[IMAGE: https://www.therpf.com/forums/attachments/dsc04536-xx-jpg.1519961/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/pxl_20211210_025052970-jpg.1519959/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/2-jpg.1519960/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/dsc04537-xx-jpg.1519962/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/dsc04553-jpg.1519963/]
+────────────────────────────────────────────────────────────────────────
+Post #66  (forum post #5257863)
+Author    : HMSwolfe
+Date      : Dec 10, 2021 at 10:52 AM
+Reactions : Like — MattWinchell
+────────────────────────────────────────────────────────────────────────
+
+Very excited to see the results!
+────────────────────────────────────────────────────────────────────────
+Post #67  (forum post #5257917)
+Author    : StevenBills
+Date      : Dec 10, 2021 at 2:36 PM
+Reactions : Like — MattWinchell
+────────────────────────────────────────────────────────────────────────
+
+Beautiful! Can't wait to see the shots!
+────────────────────────────────────────────────────────────────────────
+Post #68  (forum post #5258164)
+Author    : joberg
+Date      : Dec 11, 2021 at 1:51 PM
+Reactions : Like — MattWinchell
+────────────────────────────────────────────────────────────────────────
+
+Love the set-up and really eager to see the first vid
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #69  (forum post #5260150)
+Author    : MattWinchell
+Date      : Dec 18, 2021 at 9:15 AM
+Reactions : Like, Love — joberg, ZeroSum
+────────────────────────────────────────────────────────────────────────
+
+As promised, here is a video of all the shots I filmed.
+
+As a disclaimer, I wasn't able to add a starfield. When trying to get the model in complete focus, I brought the aperture to the smallest iris size which caused the least amount of light to leak into the sensor. As such, keying the model proved too difficult. I think I generally need more experience with the camera, but for next time, I will definitely experiment with the lighting setup.
+
+Additionally, if you guys have any recommendations to improve the shots, please let me know!
+────────────────────────────────────────────────────────────────────────
+Post #70  (forum post #5260152)
+Author    : StevenBills
+Date      : Dec 18, 2021 at 9:22 AM
+Reactions : Like, Love — joberg, mung, MattWinchell
+────────────────────────────────────────────────────────────────────────
+
+HackinSpock said:
+
+			As promised, here is a video of all the shots I filmed.
+
+As a disclaimer, I wasn't able to add a starfield. When trying to get the model in complete focus, I brought the aperture to the smallest iris size which caused the least amount of light to leak into the sensor. As such, keying the model proved too difficult. I think I generally need more experience with the camera, but for next time, I will definitely experiment with the lighting setup.
+
+Additionally, if you guys have any recommendations to improve the shots, please let me know!
+
+Click to expand...
+
+That's a great first attempt! In order to combat the light loss due to closing your aperture, simply make each shutter click last longer. For example, I like to make composites of my models, but find myself in a similar situation with the focus and having a small aperture. I simply change the shutter speed (in my case, it's usually about 4-5 seconds for a normally-lit shot, and 25 seconds for the lighting pass that gets overlaid on top). Here are a few of my images so you know what I'm talking about.
+
+[IMAGE: https://www.therpf.com/forums/attachments/ambush-at-ryloth-2k-jpg.1521917/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/assault-on-the-death-star-2k-jpg.1521918/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/_punch_it__chewie___by_starwarsbattleground_de035i9-fullview-jpg.1521919/]
+
+Many of the ships, being so small, need to be focus-stacked in order for them to be fully in focus. Of course, that's harder to do with a moving subject. What camera/lens are you using? PM me, I'd love to help you troubleshoot some of this technical stuff. 
+
+(source: am a video/photo guy).
+
+SB
+────────────────────────────────────────────────────────────────────────
+Post #71  (forum post #5260158)
+Author    : HMSwolfe
+Date      : Dec 18, 2021 at 9:54 AM
+────────────────────────────────────────────────────────────────────────
+
+You really gotta just blast that thing with light. Post your settings here, too, like frame rate, shutter speed, ISO, focal length, aperture.
+────────────────────────────────────────────────────────────────────────
+Post #72  (forum post #5260164)
+Author    : MastahBlastah
+Date      : Dec 18, 2021 at 10:18 AM
+────────────────────────────────────────────────────────────────────────
+
+StevenBills said:
+
+			That's a great first attempt! In order to combat the light loss due to closing your aperture, simply make each shutter click last longer. For example, I like to make composites of my models, but find myself in a similar situation with the focus and having a small aperture. I simply change the shutter speed (in my case, it's usually about 4-5 seconds for a normally-lit shot, and 25 seconds for the lighting pass that gets overlaid on top). Here are a few of my images so you know what I'm talking about.
+
+View attachment 1521917
+
+View attachment 1521918
+
+View attachment 1521919
+
+Many of the ships, being so small, need to be focus-stacked in order for them to be fully in focus. Of course, that's harder to do with a moving subject. What camera/lens are you using? PM me, I'd love to help you troubleshoot some of this technical stuff.
+
+(source: am a video/photo guy).
+
+SB
+		
+
+Click to expand...
+
+Would love to hear more about this as well!
+────────────────────────────────────────────────────────────────────────
+Post #73  (forum post #5260219)
+Author    : Lt Washburn
+Date      : Dec 18, 2021 at 3:02 PM
+────────────────────────────────────────────────────────────────────────
+
+The shots look cool so far.  Are you trying to get everything in one exposure, or are you doing beauty, key, matte, etc. passes and compositing them after?
+────────────────────────────────────────────────────────────────────────
+Post #74  (forum post #5260360)
+Author    : MattWinchell
+Date      : Dec 19, 2021 at 9:30 AM
+Reactions : Like — Lt Washburn
+────────────────────────────────────────────────────────────────────────
+
+Lt Washburn said:
+
+			The shots look cool so far.  Are you trying to get everything in one exposure, or are you doing beauty, key, matte, etc. passes and compositing them after?
+		
+
+Click to expand...
+
+The latter, but I definitely need to improve the lighting situation.
+────────────────────────────────────────────────────────────────────────
+Post #75  (forum post #5260468)
+Author    : swgeek
+Date      : Dec 19, 2021 at 5:22 PM
+Reactions : Like, Wow — stevielewis, StevenBills, MattWinchell
+────────────────────────────────────────────────────────────────────────
+
+As StevenBills said I would play with the exposure time. I know on Interstellar we would do passes that took a couple hours because of the long exposure times.
+────────────────────────────────────────────────────────────────────────
+Post #76  (forum post #5262816)
+Author    : joberg
+Date      : Dec 27, 2021 at 1:16 PM
+────────────────────────────────────────────────────────────────────────
+
+swgeek said:
+
+			As StevenBills said I would play with the exposure time. I know on Interstellar we would do passes that took a couple hours because of the long exposure times.
+		
+
+Click to expand...
+
+^^And those were lookin' mighty good 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ Same for 2001: long exposures are the key!
+────────────────────────────────────────────────────────────────────────
+Post #77  (forum post #5262827)
+Author    : swgeek
+Date      : Dec 27, 2021 at 1:54 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Thank you!  =)
+────────────────────────────────────────────────────────────────────────
+Post #78  (forum post #5263173)
+Author    : MattWinchell
+Date      : Dec 28, 2021 at 2:57 PM
+Reactions : Like — swgeek
+────────────────────────────────────────────────────────────────────────
+
+swgeek said:
+
+			As StevenBills said I would play with the exposure time. I know on Interstellar we would do passes that took a couple hours because of the long exposure times.
+		
+
+Click to expand...
+
+Wait you worked on Interstellar! That's sooo cool! Dream stuff there.
+────────────────────────────────────────────────────────────────────────
+Post #79  (forum post #5263418)
+Author    : swgeek
+Date      : Dec 29, 2021 at 9:12 AM
+Reactions : Like — bwayne64, MattWinchell, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+Yeah I was the lead model maker on Interstellar. 
+
+I Look forward to more progress on this project.
+────────────────────────────────────────────────────────────────────────
+Post #80  (forum post #5263441)
+Author    : joberg
+Date      : Dec 29, 2021 at 10:03 AM
+Reactions : Like — swgeek, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+swgeek said:
+
+			Yeah I was the lead model maker on Interstellar.
+
+I Look forward to more progress on this project.
+		
+
+Click to expand...
+
+Loved the size of the models on that movie; made for very realistic shots.  Reminded me of 2001
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #81  (forum post #5264373)
+Author    : MattWinchell
+Date      : Dec 31, 2021 at 3:01 PM
+Reactions : Like — joberg, PoopaPapaPalps, Bjorn
+────────────────────────────────────────────────────────────────────────
+
+It's funny because when you think you know something, but realize that you had it completely wrong, your whole world is flipped again.
+
+It's even funnier because I had all the answers right in front of me! I actually own a copy of the ILM: Art of Special Effects book and it gives so much insight into the motion-control process. For one, ILM had a base formula for frame rates depending on ship sizes and hints to look out for when shooting
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0041-jpg.1529059/]
+
+EDIT: Disregard this formula. It has no bearing on what I'm looking for.
+
+"In order to get the maximum f/stop the camera exposures are usually longer than one second each, so a typical shot might take half a day to shoot. With each click of the shutter, the camera advances a fraction of an inch along its sixty-foot rail."
+
+One of the issues I ran into as evident of my video is blue spill. When you have a reflective object in front of a blue screen, often enough, you may find the blue light from the blue screen on the model, so keying out your model is tough as hell. It's so funny that I am running into the same issues as the ILM people did back in the day.
+────────────────────────────────────────────────────────────────────────
+Post #82  (forum post #5264400)
+Author    : Bjorn
+Date      : Dec 31, 2021 at 4:44 PM
+────────────────────────────────────────────────────────────────────────
+
+I was super impressed with their use of the projected interactive lighting on the Razor Crest model when filming the Mandalorian. It obviously serves to create realistic reflections but it probably also helps a little bit with spill issue.
+
+Very clever stuff.
+────────────────────────────────────────────────────────────────────────
+Post #83  (forum post #5264402)
+Author    : mung
+Date      : Dec 31, 2021 at 4:45 PM
+Reactions : Like — joberg, PoopaPapaPalps, Bjorn
+────────────────────────────────────────────────────────────────────────
+
+HackinSpock said:
+
+			It's funny because when you think you know something, but realize that you had it completely wrong, your whole world is flipped again.
+
+It's even funnier because I had all the answers right in front of me! I actually own a copy of the ILM: Art of Special Effects book and it gives so much insight into the motion-control process. For one, ILM had a base formula for frame rates depending on ship sizes and hints to look out for when shooting
+
+View attachment 1529059
+
+"In order to get the maximum f/stop the camera exposures are usually longer than one second each, so a typical shot might take half a day to shoot. With each click of the shutter, the camera advances a fraction of an inch along its sixty-foot rail."
+
+One of the issues I ran into as evident of my video is blue spill. When you have a reflective object in front of a blue screen, often enough, you may find the blue light from the blue screen on the model, so keying out your model is tough as hell. It's so funny that I am running into the same issues as the ILM people did back in the day.
+		
+
+Click to expand...
+
+ That formula is really only of use in determining the frame rate for filming an action miniature, one that is in motion such as a crashing vehicle. It has no bearing on the frame rate of a motion control shot which is dictated by the shutter exposure time required for the aperture that is desired for maximum depth of field. The use of a spaceship in the example in the book is misleading as that would generally be shot motion control and the formula in that case would not be relevant.
+
+Blue spill is the reason that models with flat paint finishes were common. Shiny objects is generally asking for trouble. With a motion control camera you have the ability to shoot multiple passes so you don't necessarily have to capture the matte and the beauty pass at the same time.
+
+One of the alternatives to blue(or any other colour) screens are a front light back light matte pass where the shiny model is filmed against black for the beauty pass. The unlit model is then filmed as a silhouette against a brightly lit (usually) white background. This however will not stop the white spill on the model. When I used to work in VFX in the late 1980's one trick we used to alleviate this spill was to cover the shiny model in black tape or some sort of removable paint for the back light pass. This however was prone to to the model shifting slightly while taping it over and then the mattes would not fit. Apogee developed the reverse front light back light matting system where the model would be painted in a fluorescent coating that was invisible in normal light but would glow under UV light. Against a black background the glowing model could then be shot as the matte pass.
+
+Another alternative also developed by Apogee was to use a front projection screen and project the blue background. This resulted in a greatly reduced blue spill as the light from the screen would reflect back along the vector it arrived without all the scatter from a blue backing that could bounce off the model's surfaces.
+────────────────────────────────────────────────────────────────────────
+Post #84  (forum post #5264403)
+Author    : MattWinchell
+Date      : Dec 31, 2021 at 4:50 PM
+────────────────────────────────────────────────────────────────────────
+
+mung said:
+
+			That formula is really only of use in determining the frame rate for filming an action miniature, one that is in motion such as a crashing vehicle. It has no bearing on the frame rate of a motion control shot which is dictated by the shutter exposure time required for the aperture that is desired for maximum depth of field. The use of a spaceship in the example in the book is misleading as that would generally be shot motion control and the formula in that case would not be relevant.
+
+Blue spill is the reason that models with flat paint finishes were common. Shiny objects is generally asking for trouble. With a motion control camera you have the ability to shoot multiple passes so you don't necessarily have to capture the matte and the beauty pass at the same time.
+
+One of the alternatives to blue(or any other colour) screens are a front light back light matte pass where the shiny model is filmed against black for the beauty pass. The unlit model is then filmed as a silhouette against a brightly lit (usually) white background. This however will not stop the white spill on the model. When I used to work in VFX in the late 1980's one trick we used to alleviate this spill was to cover the shiny model in black tape or some sort of removable paint for the back light pass. This however was prone to to the model shifting slightly while taping it over and then the mattes would not fit. Apogee developed the reverse front light back light matting system where the model would be painted in a fluorescent coating that was invisible in normal light but would glow under UV light. Against a black background the glowing model could then be shot as the matte pass.
+
+Another alternative also developed by Apogee was to use a front projection screen and project the blue background. This resulted in a greatly reduced blue spill as the light from the screen would reflect back along the vector it arrived without all the scatter from a blue backing that could bounce off the model's surfaces.
+		
+
+Click to expand...
+
+Thank you so much for clarifying this as I started to get confused on how the formula related to the motion control stuff. In that case, I'll still have to find the supposed chart ILM had regarding the speed of the control rig and for what distances each frame was separated by.
+────────────────────────────────────────────────────────────────────────
+Post #85  (forum post #5264427)
+Author    : mung
+Date      : Dec 31, 2021 at 6:46 PM
+Reactions : Like — animator, joberg, PoopaPapaPalps
+────────────────────────────────────────────────────────────────────────
+
+HackinSpock said:
+
+			Thank you so much for clarifying this as I started to get confused on how the formula related to the motion control stuff. In that case, I'll still have to find the supposed chart ILM had regarding the speed of the control rig and for what distances each frame was separated by.
+		
+
+Click to expand...
+
+The speed of the rig should be dictated by the exposure time.
+
+Imagine you are filming a shot in real time with a movie camera mounted on a dolly.
+
+The frame rate is set to the normal speed of 24 frames per second. The camera has a 180 degree shutter.
+
+This means that the exposure time is half of a 24th of a second as the shutter is open for 180 degrees of rotation and closed for the other 180 degrees for every frame. The exposure time therefore is 1/48 of a second.
+
+The grip is pushing the dolly at a constant speed so each fame gets exposed and therefore motion blurred for half the distance traveled for each frame.
+
+On your motion control rig you program a simple dolly move that you want to take 5 seconds of screen time.
+
+That is 5 times 24 frames, 120 frames in total.
+
+You set your lens to its smallest aperture because you want maximum depth of field.
+
+This then requires say 5 seconds of exposure time per frame.
+
+The camera has to move for 10 seconds per frame as half the time the shutter needs to be closed to simulate a real movie camera.
+
+Your motion control rig then has to do the 120 frame move in 10x120 seconds - 1200 seconds or 20 minutes. During this continuous movement of the motion control rig the camera is taking a 5 second exposure and then waiting for 5 seconds, repeating 120 times.
+
+Ideally your motion control software should figure this all out. You set your start and end points, any ease in  or ease outs, tell it the exposure time and it figures out the speeds to move all the stepper (or servo ) motors on all the axis in sync to achieve the move in the number of frames you want. The software would also control the camera exposing each frame for the required time at the right syncronised interval, and takes control of the focus.
+
+There will naturally be a limitation in the maximum speed any of the axis on your rig can move and how quickly they can stop.
+────────────────────────────────────────────────────────────────────────
+Post #86  (forum post #5264466)
+Author    : swgeek
+Date      : Dec 31, 2021 at 9:15 PM
+Reactions : Like — DaddyfromNaboo, joberg
+────────────────────────────────────────────────────────────────────────
+
+I don't know if it matters for what you're doing but I noticed your model is not set up to be the center of rotation. So whenever the rig rotates it either raises or lowers the miniature.
+────────────────────────────────────────────────────────────────────────
+Post #87  (forum post #5264477)
+Author    : Lt Washburn
+Date      : Dec 31, 2021 at 10:19 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+This might not be directly relevant, but I was musing about the use of the Mandalorian-style video walls for model photography.  The biggest issue would presumably be keeping model mounts out of the shot, if you wanted to capture everything in camera, so there would be no conventional matting-out of the stand arm.  If you combined camera and/or model movement with a dynamically changing background, you could increase the apparent motion of the model on camera without actually moving things so much that the model no longer occludes the stand from the camera's view.  But then would you still want to do multiple passes, to get separate lighting and exposure passes, or would everything look good if done in one shot?
+────────────────────────────────────────────────────────────────────────
+Post #88  (forum post #5264489)
+Author    : MattWinchell
+Date      : Jan 1, 2022 at 12:19 AM
+Reactions : Like — joberg, swgeek
+────────────────────────────────────────────────────────────────────────
+
+mung said:
+
+			The speed of the rig should be dictated by the exposure time.
+
+Imagine you are filming a shot in real time with a movie camera mounted on a dolly.
+
+The frame rate is set to the normal speed of 24 frames per second. The camera has a 180 degree shutter.
+
+This means that the exposure time is half of a 24th of a second as the shutter is open for 180 degrees of rotation and closed for the other 180 degrees for every frame. The exposure time therefore is 1/48 of a second.
+
+The grip is pushing the dolly at a constant speed so each fame gets exposed and therefore motion blurred for half the distance traveled for each frame.
+
+On your motion control rig you program a simple dolly move that you want to take 5 seconds of screen time.
+
+That is 5 times 24 frames, 120 frames in total.
+
+You set your lens to its smallest aperture because you want maximum depth of field.
+
+This then requires say 5 seconds of exposure time per frame.
+
+The camera has to move for 10 seconds per frame as half the time the shutter needs to be closed to simulate a real movie camera.
+
+Your motion control rig then has to do the 120 frame move in 10x120 seconds - 1200 seconds or 20 minutes. During this continuous movement of the motion control rig the camera is taking a 5 second exposure and then waiting for 5 seconds, repeating 120 times.
+
+Ideally your motion control software should figure this all out. You set your start and end points, any ease in  or ease outs, tell it the exposure time and it figures out the speeds to move all the stepper (or servo ) motors on all the axis in sync to achieve the move in the number of frames you want. The software would also control the camera exposing each frame for the required time at the right syncronised interval, and takes control of the focus.
+
+There will naturally be a limitation in the maximum speed any of the axis on your rig can move and how quickly they can stop.
+		
+
+Click to expand...
+
+Thank you for the detailed explanation. In terms of the software, I personally don't have the budget to afford the proper software since it requires working with specific hardware which is the main cost deterrent. I'll have to figure it out in Blender where I am currently creating the gcode file. I'll have to work out coding for figuring out the speed of the motors and the required time to expose each frame in Python.
+────────────────────────────────────────────────────────────────────────
+Post #89  (forum post #5355419)
+Author    : MattWinchell
+Date      : Sep 6, 2022 at 3:45 PM
+Reactions : Like — joberg, Lt Washburn, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+Been a while! I've decided to start working on V2 of the rig. I'm upping the track length from 3m to 6 meters and will replace all the 3D printed parts with metal. I've also decided to change up the motor controller with the gecko g540 controller so it can interface with dragon frame.
+
+I was lucky enough to have my rig noticed by ILM, so I got to talk to a few great folks about the rig.
+
+I'll keep this page updated as my design gets fleshed out again.
+────────────────────────────────────────────────────────────────────────
+Post #90  (forum post #5357409)
+Author    : MattWinchell
+Date      : Sep 13, 2022 at 6:13 AM
+Reactions : Like — Bjorn, stevielewis, joberg
+────────────────────────────────────────────────────────────────────────
+
+Just to remind everyone, the design of the moco system is not mine (it's Knoll's), I'm merely replicating it. Moving that aside, I'm nearly done rebuilding the cad model for the camera rig. Everything will be in metric minus the stock material used to make the plates. Send Cut Send is a really affordable seller, but they only sell their services in imperial, so I'm opting for all my stock to be either 0.25" or 0.5."
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2022-09-13-091145-png.1616478/]
+
+I'm going to do a couple of passes to clean up the model and refine my bom to also account for quantities. My hope is to design both the camera and miniature rigs to share similar hardware as to cut down on costs. Despite that, this version of the project will be far more expensive, so i'm hoping my college can fund the project if I can convince them to.
+────────────────────────────────────────────────────────────────────────
+Post #91  (forum post #5362166)
+Author    : Crefflin
+Date      : Sep 29, 2022 at 6:18 PM
+────────────────────────────────────────────────────────────────────────
+
+I'm looking at building a motion control rig (when finances permit) that follow the boom and track of the classic motion control rig.  I too; have been inspired by what ILM did for 'The Mandalorian', and I would like to get a miniature mounting rig for my system as well.
+
+Software, I might look into Bottango.
+────────────────────────────────────────────────────────────────────────
+Post #92  (forum post #5362190)
+Author    : MattWinchell
+Date      : Sep 29, 2022 at 7:20 PM
+Reactions : Like — stevielewis, joberg
+────────────────────────────────────────────────────────────────────────
+
+Crefflin said:
+
+			I'm looking at building a motion control rig (when finances permit) that follow the boom and track of the classic motion control rig.  I too; have been inspired by what ILM did for 'The Mandalorian', and I would like to get a miniature mounting rig for my system as well.
+
+Software, I might look into Bottango.
+		
+
+Click to expand...
+
+Be sure when you're using a program like bottango you also account for opening and closing the shutter of your camera in intervals that create that signature motion blur
+────────────────────────────────────────────────────────────────────────
+Post #93  (forum post #5362203)
+Author    : Crefflin
+Date      : Sep 29, 2022 at 7:45 PM
+────────────────────────────────────────────────────────────────────────
+
+I think you can modify Bottango, change some of it to do specific things.   Or I might even see if I can find a programmer to create something bespoke.
+────────────────────────────────────────────────────────────────────────
+Post #94  (forum post #5362294)
+Author    : MattWinchell
+Date      : Sep 30, 2022 at 6:01 AM
+Reactions : Like — stevielewis, joberg
+────────────────────────────────────────────────────────────────────────
+
+Crefflin said:
+
+			I think you can modify Bottango, change some of it to do specific things.   Or I might even see if I can find a programmer to create something bespoke.
+		
+
+Click to expand...
+
+Dragonframe, albeit expensive, also can be used with arduino
+────────────────────────────────────────────────────────────────────────
+Post #95  (forum post #5362460)
+Author    : Crefflin
+Date      : Sep 30, 2022 at 3:15 PM
+────────────────────────────────────────────────────────────────────────
+
+Doesn't work with the camera I want to use, the Ursa Mini Pro 12K.
+────────────────────────────────────────────────────────────────────────
+Post #96  (forum post #5362533)
+Author    : Tommy
+Date      : Sep 30, 2022 at 9:46 PM
+Reactions : Wow — joberg
+────────────────────────────────────────────────────────────────────────
+
+Impressive work! Though if you're seeking a fully-authentic experience, you'll also need to construct a Martian patrol ship from 1990's Spaced Invaders, since John Knoll used a leftover foam stunt model from his first VFX supervisor job to test the rig prior to the Razor Crest's completion. My brother owns the hero miniature, so we could hook you up with excellent reference...
+
+[IMAGE: https://www.therpf.com/forums/attachments/spaced-invaders-patrol-ship-jpg.1621394/]
+────────────────────────────────────────────────────────────────────────
+Post #97  (forum post #5362564)
+Author    : MattWinchell
+Date      : Oct 1, 2022 at 5:14 AM
+Reactions : Like — Tommy
+────────────────────────────────────────────────────────────────────────
+
+Tommy said:
+
+			Impressive work! Though if you're seeking a fully-authentic experience, you'll also need to construct a Martian patrol ship from 1990's Spaced Invaders, since John Knoll used a leftover foam stunt model from his first VFX supervisor job to test the rig prior to the Razor Crest's completion. My brother owns the hero miniature, so we could hook you up with excellent reference...
+
+View attachment 1621394
+
+Click to expand...
+
+I'm intrigued...
+────────────────────────────────────────────────────────────────────────
+Post #98  (forum post #5363158)
+Author    : MattWinchell
+Date      : Oct 3, 2022 at 7:42 AM
+Reactions : Like — stevielewis, Bloop, Lt Washburn
+────────────────────────────────────────────────────────────────────────
+
+Finished up camera rig and track cad (for now). Still debating whether or not 6 meters is enough track, or if I need more. Moving onto the miniature rig though:
+
+[IMAGE: https://www.therpf.com/forums/attachments/1664808096052-png.1621921/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/1664808117584-png.1621922/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/1664808141038-png.1621923/]
+────────────────────────────────────────────────────────────────────────
+Post #99  (forum post #5375804)
+Author    : MattWinchell
+Date      : Nov 12, 2022 at 4:49 PM
+Reactions : Like, Love — stevielewis, joberg, animator
+────────────────────────────────────────────────────────────────────────
+
+Finished up the model mover cad a while ago. Now I am just in the process of requesting funding from my college. This project will cost more than I could ever imagine...
+
+[IMAGE: https://www.therpf.com/forums/attachments/untitled-png.1637655/]
+
+I'm still trying to brainstorm what models I want to produce. Looking back at the mando experience from star wars celebration, I really want to do the razor crest, naboo starfighter and jedi ambassador ship, but that seems like a lot. Thoughts?
+────────────────────────────────────────────────────────────────────────
+Post #100  (forum post #5375928)
+Author    : joberg
+Date      : Nov 13, 2022 at 9:47 AM
+────────────────────────────────────────────────────────────────────────
+
+I guess that the model will be in a 1/72 scale?  The razor crest has better movements (visual dynamics) with the wings + the engines.
+
+The Naboo starfighter doesn't have that "wing movement look"(too sleek; not taking a lot of room in a shot) and could not benefit fully, in terms of dynamics, from your rig.
+
+The Jedi Ambassador Ship could be more interesting in terms of  wing/visual dynamic and would fill the screen better.  Simpler to build also
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #101  (forum post #5376539)
+Author    : MattWinchell
+Date      : Nov 15, 2022 at 6:15 AM
+────────────────────────────────────────────────────────────────────────
+
+joberg said:
+
+			I guess that the model will be in a 1/72 scale?  The razor crest has better movements (visual dynamics) with the wings + the engines.
+
+The Naboo starfighter doesn't have that "wing movement look"(too sleek; not taking a lot of room in a shot) and could not benefit fully, in terms of dynamics, from your rig.
+
+The Jedi Ambassador Ship could be more interesting in terms of  wing/visual dynamic and would fill the screen better.  Simpler to build also
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+Do you know of a high-quality 3d model of the jedi ambassador ship? Also i'm pretty sure 1/72 is too small. My original razor crest model was 1/72 and that was about a foot, so I need to find the correct scale that matches the one used on Mando.
+────────────────────────────────────────────────────────────────────────
+Post #102  (forum post #5378596)
+Author    : MattWinchell
+Date      : Nov 22, 2022 at 7:06 AM
+Reactions : Like, Love — foj3000, modelerdave, Bjorn
+────────────────────────────────────────────────────────────────────────
+
+So I decided I want to fabricate two miniatures: the Razor Crest at 1:45 scale from: Mandalorian Ship Razor Crest - Etsy
+
+I'd also like to tackle 3D modeling the T-6 Jedi Ambassador shuttle shown at the Mando Experience using 3Ds Max. I have a lot of nice reference images I found on the Dented Helmet forum:
+
+[IMAGE: https://www.therpf.com/forums/attachments/3-jpg.1640905/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/10-jpg.1640906/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/12-jpg.1640907/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/13-jpg.1640908/]
+────────────────────────────────────────────────────────────────────────
+Post #103  (forum post #5380316)
+Author    : MattWinchell
+Date      : Nov 27, 2022 at 3:12 PM
+Reactions : Like — foj3000, Lt Washburn, skahtul
+────────────────────────────────────────────────────────────────────────
+
+I'm proud to share that I was interviewed by InCamera about my work:
+────────────────────────────────────────────────────────────────────────
+Post #104  (forum post #5380362)
+Author    : Keiko
+Date      : Nov 27, 2022 at 5:48 PM
+Reactions : Like — joberg, Bjorn
+────────────────────────────────────────────────────────────────────────
+
+Great video, I really admire your drive and results. I shall watch your career with interest.
+────────────────────────────────────────────────────────────────────────
+Post #105  (forum post #5380448)
+Author    : Bjorn
+Date      : Nov 28, 2022 at 3:45 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Outstanding achievement to be recognised for your work in this way Matt. Well done!
+────────────────────────────────────────────────────────────────────────
+Post #106  (forum post #5380470)
+Author    : joberg
+Date      : Nov 28, 2022 at 5:26 AM
+────────────────────────────────────────────────────────────────────────
+
+Fantastic recognition for your hard work; love your philosophy as to how to approach Special FX and the final results showed to the audience
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #107  (forum post #5380488)
+Author    : MattWinchell
+Date      : Nov 28, 2022 at 6:18 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Thanks, everyone! Means a lot.
+────────────────────────────────────────────────────────────────────────
+Post #108  (forum post #5380531)
+Author    : MastahBlastah
+Date      : Nov 28, 2022 at 8:13 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+HackinSpock said:
+
+			I'm proud to share that I was interviewed by InCamera about my work:
+
+Click to expand...
+
+Wow, love the InCamera guys! Cool to see these two worlds colliding. Awesome work!
+────────────────────────────────────────────────────────────────────────
+Post #109  (forum post #5380565)
+Author    : OWFilms
+Date      : Nov 28, 2022 at 10:48 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Hi Matthew
+
+I've just started playing with motion control and have been watching the guys at InCamera for a few years now, they're very inspiring. I was impressed to see your project and what you've achieved, congratulations so far. 
+
+I thought I'd try Motion Control with a reasonable affordable off the shelf gear that wasn't really designed to do motion control. My modest system is a Zeapon Micro3 e1000 slider and their PONS PTZ head system, I've run a few tests to check the accuracy and it seem capable at this point, the APP controls both the slider and head in sync and is repeatable, although the app is very limiting.
+
+Just finished my 3D printed Starfighter and looking forward to getting the camera dialled in a trying a few tests shoots, any words of wisdom on the best frame rates or techniques would be useful.
+
+I'll follow your build with interest, a self-built system may be the road I will take shortly if I get frustrated with the Zeapon limitations.
+
+Cheers,
+
+Jeremy
+────────────────────────────────────────────────────────────────────────
+Post #110  (forum post #5380630)
+Author    : MattWinchell
+Date      : Nov 28, 2022 at 3:47 PM
+Reactions : Like — OWFilms, joberg
+────────────────────────────────────────────────────────────────────────
+
+OWFilms said:
+
+			Hi Matthew
+
+I've just started playing with motion control and have been watching the guys at InCamera for a few years now, they're very inspiring. I was impressed to see your project and what you've achieved, congratulations so far.
+
+I thought I'd try Motion Control with a reasonable affordable off the shelf gear that wasn't really designed to do motion control. My modest system is a Zeapon Micro3 e1000 slider and their PONS PTZ head system, I've run a few tests to check the accuracy and it seem capable at this point, the APP controls both the slider and head in sync and is repeatable, although the app is very limiting.
+
+Just finished my 3D printed Starfighter and looking forward to getting the camera dialled in a trying a few tests shoots, any words of wisdom on the best frame rates or techniques would be useful.
+
+I'll follow your build with interest, a self-built system may be the road I will take shortly if I get frustrated with the Zeapon limitations.
+
+Cheers,
+
+Jeremy
+		
+
+Click to expand...
+
+Well so the framerate will always be 24frames per second. You'll be taking roughly 1-2 second exposures per frame while having your camera/model slightly moving as that exposure is taken. If you're taking a 1 second exposure for example, it'll take the camera 1 second to open the shutter and 1 second to close the shutter, so you actually have 2 seconds per frame. You can then take that amount with a given base speed to figure out about how much track you need for your shot. I'd recommending looking at spaceship shots and add a frame counter. You can figure out the base speed from there (it should be very slow), but it shouldn't be a big issue.
+
+I'm still relatively new to this, so if anyone else wants to call out anything i've gotten wrong, please do haha.
+
+-Matt
+────────────────────────────────────────────────────────────────────────
+Post #111  (forum post #5381483)
+Author    : OWFilms
+Date      : Dec 1, 2022 at 11:37 AM
+────────────────────────────────────────────────────────────────────────
+
+Hi Matt
+
+I'm curious about the frame rate that you used and what you tried for best results, I think you'd shot individual frames if I'm correct, the guys over at InCamera had shot their Tie Fighter at about 5fps and that seem to give pretty good results.
+────────────────────────────────────────────────────────────────────────
+Post #112  (forum post #5381524)
+Author    : MattWinchell
+Date      : Dec 1, 2022 at 1:22 PM
+Reactions : Like — joberg, animator
+────────────────────────────────────────────────────────────────────────
+
+OWFilms said:
+
+			Hi Matt
+
+I'm curious about the frame rate that you used and what you tried for best results, I think you'd shot individual frames if I'm correct, the guys over at InCamera had shot their Tie Fighter at about 5fps and that seem to give pretty good results.
+		
+
+Click to expand...
+
+So my actual tests for the first rig were done completely wrong. I did video instead of images. I am still in the process of acquiring the funding for my new moco system, but the plan is to use Dragonframe's built in go-motion capabilities.
+────────────────────────────────────────────────────────────────────────
+Post #113  (forum post #5391802)
+Author    : MattWinchell
+Date      : Jan 6, 2023 at 6:11 PM
+Reactions : Like, Love — Redman99, Big C, Treadwell
+────────────────────────────────────────────────────────────────────────
+
+I'm going to have to halt the project for a while because I was recently accepted into a CO-OP as a design engineer for Legacy Effects for 8 months. It happened all so suddenly and I'm so excited.
+────────────────────────────────────────────────────────────────────────
+Post #114  (forum post #5391804)
+Author    : animator
+Date      : Jan 6, 2023 at 6:17 PM
+Reactions : Like — joberg, MattWinchell
+────────────────────────────────────────────────────────────────────────
+
+Congratulations!
+────────────────────────────────────────────────────────────────────────
+Post #115  (forum post #5391805)
+Author    : Takanuva
+Date      : Jan 6, 2023 at 6:18 PM
+Reactions : Like — joberg, MattWinchell
+────────────────────────────────────────────────────────────────────────
+
+Congratulations as well! That sounds like an amazing opportunity.
+────────────────────────────────────────────────────────────────────────
+Post #116  (forum post #5391813)
+Author    : swgeek
+Date      : Jan 6, 2023 at 7:19 PM
+Reactions : Wow — joberg
+────────────────────────────────────────────────────────────────────────
+
+When do you start? That's where I work.
+────────────────────────────────────────────────────────────────────────
+Post #117  (forum post #5391848)
+Author    : MattWinchell
+Date      : Jan 6, 2023 at 10:06 PM
+Reactions : Like — joberg, Bjorn, swgeek
+────────────────────────────────────────────────────────────────────────
+
+swgeek said:
+
+			When do you start? That's where I work.
+		
+
+Click to expand...
+
+Monday
+
+EDIT: Next monday my bad
+────────────────────────────────────────────────────────────────────────
+Post #118  (forum post #5391939)
+Author    : joberg
+Date      : Jan 7, 2023 at 8:31 AM
+────────────────────────────────────────────────────────────────────────
+
+^^
+
+Congrats on the gig and now you'll have swgeek as a friend
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #119  (forum post #5529333)
+Author    : MattWinchell
+Date      : Apr 16, 2024 at 2:04 PM
+Reactions : Like, Love — Carter C, animator, JimmyB
+────────────────────────────────────────────────────────────────────────
+
+I recently received funding for this project so I will be making it into a senior thesis! I'd like to make two miniatures:
+
+1. Ahsoka's T6 Jedi Shuttle
+
+2. X-Wing or a different IP
+
+Does anyone know of a 1/24 X-Wing kit that has a built in armature? (Like a Salzo or captain cardboard)?
+────────────────────────────────────────────────────────────────────────
+Post #120  (forum post #5529494)
+Author    : joberg
+Date      : Apr 17, 2024 at 8:39 AM
+────────────────────────────────────────────────────────────────────────
+
+Excellent news!!
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #121  (forum post #5531029)
+Author    : Carter C
+Date      : Apr 22, 2024 at 5:47 PM
+Reactions : Like — DaddyfromNaboo, joberg, MattWinchell
+────────────────────────────────────────────────────────────────────────
+
+MattWinchell said:
+
+			I recently received funding for this project so I will be making it into a senior thesis! I'd like to make two miniatures:
+
+1. Ahsoka's T6 Jedi Shuttle
+
+2. X-Wing or a different IP
+
+Does anyone know of a 1/24 X-Wing kit that has a built in armature? (Like a Salzo or captain cardboard)?
+		
+
+Click to expand...
+
+Max Repli over on the FB group "Scifi Studio Scale Modellers" has STL files for a 1/24 X-Wing, although I'm not sure about how its mounted. I haven't purchased it from him so I don't have any experience on that front either. It would certainly be the cheapest if you have a printer but I would OPT for a Salzo if you get the chance. (And if you do manage to get a hookup on one of those count me in as well lol).
+
+Good luck with your search and can't wait to see what you can do!
+────────────────────────────────────────────────────────────────────────
+Post #122  (forum post #5531039)
+Author    : MattWinchell
+Date      : Apr 22, 2024 at 6:41 PM
+Reactions : Like — MightyYaks, joberg, Carter C
+────────────────────────────────────────────────────────────────────────
+
+Carter C said:
+
+			Max Repli over on the FB group "Scifi Studio Scale Modellers" has STL files for a 1/24 X-Wing, although I'm not sure about how its mounted. I haven't purchased it from him so I don't have any experience on that front either. It would certainly be the cheapest if you have a printer but I would OPT for a Salzo if you get the chance. (And if you do manage to get a hookup on one of those count me in as well lol).
+
+Good luck with your search and can't wait to see what you can do!
+		
+
+Click to expand...
+
+I'll look into that option. Thank you!
+────────────────────────────────────────────────────────────────────────
+Post #123  (forum post #5531041)
+Author    : MattWinchell
+Date      : Apr 22, 2024 at 6:51 PM
+Reactions : Like — bwayne64, MightyYaks, joberg
+────────────────────────────────────────────────────────────────────────
+
+Slight discovery while making revisions to my pan-tilt mount. I initially thought that the camera's sensor plane should be aligned with the tilt axis. 
+
+There is a nodal point called the entrance pupil which is the optically appropriate part of the lens that should be the point of rotation for the tilt axis. It's also known as the no-parallax point. Here's a better explanation of what I am talking about: How to find Entrance pupil in panoramic photography
+
+The best way to find the entrance pupil of a lens is to actually take photographs and move the camera forward/back fixed on a PT mount until two stitched images marry perfectly. You then can mark the position on the PT mount where that physically is.
+
+For now, I found a crude method of taking a piece of paper and drawing splayed vanishing point lines and translating it closer and closer to my lens. In the live view of my eos 5d mark 3, I observe this until the lines become parallel. I then align the vanishing point with where the approximate entrance pupil is. Here is a video demonstrating that: 
+
+This is good enough for now. I added a slot along the approximate mount hole for my quick release clamp so I can slightly adjust it forward/back if need be:
+
+[IMAGE: https://www.therpf.com/forums/attachments/1713837061344-png.1812765/]
+────────────────────────────────────────────────────────────────────────
+Post #124  (forum post #5531127)
+Author    : MattWinchell
+Date      : Apr 23, 2024 at 5:23 AM
+Reactions : Like — DaddyfromNaboo, MightyYaks, Carter C
+────────────────────────────────────────────────────────────────────────
+
+I may have spoken too soon. It appears that this article ( https://cookeoptics.com/wp-content/uploads/2023/07/Cooke-Camera-Lens-Definitions-for-VFX-210723.pdf) suggests that the entrance pupil is more of an approximation for the location of the pinhole. Rather, it's the pinhole and its associative focal length (distance between it and the image/sensor plane) that is used for matchmoving and CG software.
+
+However, given that the entrance pupil is defined as an "approximate location of the pinhole," i'll let that nuance slide for now.
+────────────────────────────────────────────────────────────────────────
+Post #125  (forum post #5573572)
+Author    : MightyYaks
+Date      : Sep 23, 2024 at 3:38 PM
+────────────────────────────────────────────────────────────────────────
+
+Hope this project is still going well!
+
+Not that it matters (points if you caught the Neverending Story reference), but a guy going by the handle "NJM Photo" on YouTube has also been chasing this particular rabbit for the past year or more. His current major limitations appear to be model scale, quality, and level of detail, as well as the execution of related supporting VFX. He's currently focused on Star Trek franchise models, but the technical challenges are almost identical.
+
+You guys should absolutely compare notes. I love seeing these techniques being kept alive, and would be even happier to see them make a comeback in the modern production space.
+
+A former colleague of mine (from a now-defunct interactive Trek project) is doing amazing work with MoCo-inspired CGI, but even a phenomenal render still can't achieve the same difficult-to-define aesthetic of actual studio motion control (with the possible exception of IRML's Captain's Yacht video from an astounding 13 years ago, which even Dave admits was sort of lightning in a bottle as far as work in Lightwave and AAE is concerned).
+
+Will continue to watch this project with great interest!
+────────────────────────────────────────────────────────────────────────
+Post #126  (forum post #5583766)
+Author    : MattWinchell
+Date      : Nov 7, 2024 at 3:55 PM
+Reactions : Like, Love — Carter C, jah5150, Scott Graham
+────────────────────────────────────────────────────────────────────────
+
+A few updates of my moco rig electronics enclosure. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5950-jpg.1878224/]
+────────────────────────────────────────────────────────────────────────
+Post #127  (forum post #5583890)
+Author    : joberg
+Date      : Nov 8, 2024 at 6:26 AM
+────────────────────────────────────────────────────────────────────────
+
+MattWinchell said:
+
+			A few updates of my moco rig. Currently in the process of wiring up the electronics box.
+
+View attachment 1878222View attachment 1878223
+
+View attachment 1878224
+
+Click to expand...
+
+Wow...pretty gnarly 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #128  (forum post #5587666)
+Author    : publiusr
+Date      : Nov 24, 2024 at 2:06 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Of interest
+
+[IMAGE: glam_slider_featured.png]
+
+						A Very Fast Camera Slider For The Glam Shot
+					
+
+High-speed photography with the camera on a fast-moving robot arm has become all the rage at red-carpet events, but this GlamBOT setup comes with a hefty price tag. To get similar visual effects on…
+
+[IMAGE: favicon.ico]
+
+					hackaday.com
+				
+
+[IMAGE: cars-traffic-freeway-office-buidlings-motion-hg.jpg]
+
+						Create impactful content: How to change video speed online
+					
+
+In the bustling world of marketing, a marketer is zealously showcasing a product's standout feature, an influencer is meticulously crafting captivating Instagram reels, and a savvy YouTuber is diligently assembling that perfect how-to tutorial - all striving for one crucial goal: to captivate...
+
+					www.spacedaily.com
+────────────────────────────────────────────────────────────────────────
+Post #129  (forum post #5627618)
+Author    : MattWinchell
+Date      : May 9, 2025 at 8:03 AM
+Reactions : Like, Love — DaddyfromNaboo, Lt Washburn, masterjedi322
+────────────────────────────────────────────────────────────────────────
+
+Some of you may recall that I had been working on my V2 motion control system for quite some time now. It took the form of a senior project at my college, and now that I am officially done with all my classes, I feel comfortable sharing some of the shots I recreated.
+
+I used an MPC X-Wing model kit from 1978 and painted it back during my sophmore year. I crudely affixed a clamp at the back due to time constraints. I was only able to book a tiny room on my campus that could comfortably fit just 4.5 meters of track, so I was pretty constrained to what shots I could do.
+
+I selected three shots from the Empire Strikes Back, and did my best to capture their motion through Modo. Using a python script, I grabbed each axes keyframe values and exported them as a Kuper file. I wrote a software package that would ingest the Kuper file and send the appropriate signals to my stepper motors for the PT head and model mover.
+
+Two things to note before you watch this video.
+
+1. I poorly lit the bluescreen (utter incompetence on my part)
+
+2. Did not properly rigidify the dolly track (some shots don't line up perfectly)
+
+Despite this, I'm still very happy with the results. I have a much better grasp of the technique and believe the majority of the newly fabricated mechanics, electronics, and software I built reflect my growth as an engineer and amateur filmmaker.
+
+Last note: when I mean "composite," I'm just referring to the fact that I layered all three passes. I still need to learn how to properly composite all the passes with the appropriate elements.
+────────────────────────────────────────────────────────────────────────
+Post #130  (forum post #5627622)
+Author    : TK-Fett
+Date      : May 9, 2025 at 8:15 AM
+Reactions : Like — DaddyfromNaboo, celboy, joberg
+────────────────────────────────────────────────────────────────────────
+
+This is one of the coolest projects i've ever seen on the RPF. Amazing build and dedication.
+────────────────────────────────────────────────────────────────────────
+Post #131  (forum post #5627836)
+Author    : MattWinchell
+Date      : May 10, 2025 at 7:05 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+TK-Fett said:
+
+			This is one of the coolest projects i've ever seen on the RPF. Amazing build and dedication.
+		
+
+Click to expand...
+
+Thank you!
+────────────────────────────────────────────────────────────────────────
+Post #132  (forum post #5627854)
+Author    : joberg
+Date      : May 10, 2025 at 8:28 AM
+Reactions : Like — DaddyfromNaboo
+────────────────────────────────────────────────────────────────────────
+
+Great stuff...yes, as you said, the blue screen should be lit better.  Question: what's your speed for filming that miniature?
+────────────────────────────────────────────────────────────────────────
+Post #133  (forum post #5627881)
+Author    : MattWinchell
+Date      : May 10, 2025 at 10:09 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+joberg said:
+
+			Great stuff...yes, as you said, the blue screen should be lit better.  Question: what's your speed for filming that miniature?
+		
+
+Click to expand...
+
+I'm shooting 1 second exposures
+────────────────────────────────────────────────────────────────────────
+Post #134  (forum post #5628091)
+Author    : joberg
+Date      : May 11, 2025 at 7:31 AM
+────────────────────────────────────────────────────────────────────────
+
+MattWinchell said:
+
+			I'm shooting 1 second exposures
+		
+
+Click to expand...
+
+Are you going to make it more "slo-mo" in post?  Or are you going to lower the speed?
+────────────────────────────────────────────────────────────────────────
+Post #135  (forum post #5630687)
+Author    : MattWinchell
+Date      : May 20, 2025 at 7:28 AM
+Reactions : Like — DaddyfromNaboo, joberg
+────────────────────────────────────────────────────────────────────────
+
+joberg said:
+
+			Are you going to make it more "slo-mo" in post?  Or are you going to lower the speed?
+		
+
+Click to expand...
+
+The speed of these shots are pretty close to what I wanted.
+
+I'm animating everything in modo so I could always change it there.
+────────────────────────────────────────────────────────────────────────
+Post #136  (forum post #5658505)
+Author    : publiusr
+Date      : Aug 30, 2025 at 11:40 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+joberg said:
+
+			Are you going to make it more "slo-mo" in post?  Or are you going to lower the speed?
+		
+
+Click to expand...
+
+Some tech that might be helpful 
+
+						My FAMAS slow motion system design
+					
+
+It works by pulling the shutter back, pressing on the lever and pulling the upper part of the shutter, which should be connected to a large spring as resistance.
+
+[IMAGE: favicon-32x32.png]
+
+					www.secretprojects.co.uk
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 136

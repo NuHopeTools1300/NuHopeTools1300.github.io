@@ -1,0 +1,888 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Shuttle Tydirium
+URL    : https://www.therpf.com/forums/threads/shuttle-tydirium.129029/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #1940712)
+Author    : jedimaster
+Date      : Oct 10, 2011 at 4:07 PM
+────────────────────────────────────────────────────────────────────────
+
+Ok so this will be a build thread of the Neisen kit. I will post some pix later today. Just wanting to know if anyone else has started to build one and how badly their main hull was warped if at all?
+
+Thanks...... Simon
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #1940725)
+Author    : Bootlegger137
+Date      : Oct 10, 2011 at 4:12 PM
+────────────────────────────────────────────────────────────────────────
+
+I loved those shuttles...one of the coolest spacecraft in the movies. Looking forward to the build!
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #1940739)
+Author    : Guy Cowen
+Date      : Oct 10, 2011 at 4:16 PM
+────────────────────────────────────────────────────────────────────────
+
+I've got 2 of these from the first run that Rich did, I'm sure it was improved somewhat. expect the unexpected and expect to be baffled and angry, that where I was last time I touched em. Looking forward to seeing how your build goes and fingers crossed its easier than mine. I have a box full of very expensive parts.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #1940740)
+Author    : complex plastic
+Date      : Oct 10, 2011 at 4:17 PM
+────────────────────────────────────────────────────────────────────────
+
+I'll look forward to following your build.
+
+Cheers,
+
+Jase.
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #1940832)
+Author    : Commander Max
+Date      : Oct 10, 2011 at 5:14 PM
+────────────────────────────────────────────────────────────────────────
+
+I only wish I had gotten mine, then you guys would have had a wing mechanism for your kits.
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #1940844)
+Author    : jedimaster
+Date      : Oct 10, 2011 at 5:26 PM
+────────────────────────────────────────────────────────────────────────
+
+Now that would be cool.... Guy I've been staring at mine for almost two years wondering how the hell am I going to do that. I got some neon for the engines and grain of wheat for the flashing and landing lights. I am getting an armature machined with two mounting points. One on the underside and one at the rear where the aft guns are. This is a very heavy kit.
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #1940906)
+Author    : Commander Max
+Date      : Oct 10, 2011 at 6:14 PM
+────────────────────────────────────────────────────────────────────────
+
+It would be real easy, but I can't do a thing without the model in front of me. 
+
+Sadly it was out of my hands, I was promised a kit. Nothing ever showed up. 
+
+It's a hard lesson, that's why I never do any form of trading these days. I'm owed way too much.
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #1940927)
+Author    : TheWhiteGrail
+Date      : Oct 10, 2011 at 6:27 PM
+────────────────────────────────────────────────────────────────────────
+
+jedimaster, I just hope that code is worth the price you paid...
+
+Looking forward to this!!
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #1941091)
+Author    : jedimaster
+Date      : Oct 10, 2011 at 7:47 PM
+────────────────────────────────────────────────────────────────────────
+
+Commander Max said:
+
+			It would be real easy, but I can't do a thing without the model in front of me. 
+
+Sadly it was out of my hands, I was promised a kit. Nothing ever showed up. 
+
+It's a hard lesson, that's why I never do any form of trading these days. I'm owed way too much.
+		
+
+Click to expand...
+
+It would need some good motors and gearing I can tell ya. The solid wings with brass reinforcement weigh a ton on this model. On the extra's disc on the blu ray set they talk about how they had to make the wings hollow to keep the weight down for the Mech. That's why you see the warped wings at the exhibits today.
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #1941190)
+Author    : Commander Max
+Date      : Oct 10, 2011 at 8:50 PM
+Reactions : Like — darth_myeek
+────────────────────────────────────────────────────────────────────────
+
+jedimaster said:
+
+			It would need some good motors and gearing I can tell ya. The solid wings with brass reinforcement weigh a ton on this model. On the extra's disc on the blu ray set they talk about how they had to make the wings hollow to keep the weight down for the Mech. That's why you see the warped wings at the exhibits today.
+		
+
+Click to expand...
+
+That's why I need the model in front of me, the motor is the trick to making it work. 
+
+I wouldn't use the model for mounting the motor, I wanted to use an aluminum plate and attach the entire mechanism to the plate. Including the wing pivots, attach the plate to the hull and use the plate for the mount. 
+
+The motor would be a gearmotor(they come in all shapes, sizes and torques), two gears are needed(one is attached to the motor), the other is moving the opposite way. For connecting to the wings I would use timing pulleys or chains. One connected to each gear, so the wings would move in the correct direction. And if set up correctly the wings movement will sync no problem. To stop the wings in each direction I would use a limit switch(only two needed on one wing), then use a 3 way switch to control the direction of the wings, the limit switches stop the wings from moving any further(thus damaging the model). Use a pot(variable resistor) to control the wings speed. 
+
+I know this doesn't sound very easy, I'm used to things being more difficult. 
+
+Getting it all together is the tricky part. It would have to be relatively precise, like I said, I would need the model to make it all fit.
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #1941617)
+Author    : MonsieurTox
+Date      : Oct 11, 2011 at 5:07 AM
+Reactions : Like — darth_myeek
+────────────────────────────────────────────────────────────────────────
+
+Getting the wings motorized was my dream, unfortunatly as you said the wings need to be very light. Mine was a full scratchbuilt shuttle with hollow wings but to avoid any warp over time I built them very strong with a lot of reinforcement, they're light but not as light as the original I guess. Lorne said they used honeycomb and styrene, but the wings started to warp even before the end of the building. :lol
+
+The other tough point is that the landing gears and doors are linked to the wing mechanism, there's not that much room inside the body (you need a strong armature, room for the electronic (engine lights and wing tip lights). I think everything (I mean the mechanism) should be homemade to fit in this tight body, with machined gears, machined landing gears etc... That's really something I wanted to do but because of the lack of money (would have cost a fortune !) and time (I was in a rush to finish it lol) and because of the lack of information of the ILM mechanism it never happened. 
+
+However I really hope someone will build it this way someday, that would make a beautiful model !
+
+Guy, too bad you never finished any of your Shuttle. Mine is painted but I'm not happy with the result and I was waiting for your paintjob to redo mine ! :cry
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #1941652)
+Author    : Guy Cowen
+Date      : Oct 11, 2011 at 5:35 AM
+────────────────────────────────────────────────────────────────────────
+
+I'll get it done one day mate, I'm just having a break from Resin builds whilst Freya is so young. Just think though Julien, you may not be happy but thousands would mate, its still looks amazing but I know the feeling of not happy only too well mate.
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #1941938)
+Author    : Commander Max
+Date      : Oct 11, 2011 at 9:11 AM
+────────────────────────────────────────────────────────────────────────
+
+I don't think the wings and gear were linked, when looking at the footage they didn't move at the same rate. Nor did they appear to work very well. They have to come down and extend. 
+
+But like most things in film we were seeing an illusion. It's a whole lot easier to have each on it's own switch, than make something far more complex than it needs to be. 
+
+But it isn't the first time guys were taken in by the illusions of SW. The R2 guys still haven't got the 3rd leg to work like it was depicted in the films.
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #1942063)
+Author    : MonsieurTox
+Date      : Oct 11, 2011 at 10:33 AM
+────────────────────────────────────────────────────────────────────────
+
+Being linked do not mean moving at the same rate !
+
+Yeah yeah the lights were not even blinking by their own but the guys put them on and off by hand, counting the frame they should be on and off. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+As for the 3rd leg of R2, they're all aware of it worked (AFAIK it was pneumatic and the leg couldnt retracts by itself) but that's so cool to have an astromech unit being able to do a 2-3-2 ! That's a lot of challenge and they reached their goal where the UK crew failed.
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #1942084)
+Author    : Commander Max
+Date      : Oct 11, 2011 at 10:47 AM
+────────────────────────────────────────────────────────────────────────
+
+Was the gear down when we first saw the Tyderium(in Jedi the opening)?
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #1942129)
+Author    : MonsieurTox
+Date      : Oct 11, 2011 at 11:12 AM
+────────────────────────────────────────────────────────────────────────
+
+No but the system can be disengageable, what I think can be true since on a tour, the shuttle was displayed wings up with only one landing gear down.
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #1942241)
+Author    : Commander Max
+Date      : Oct 11, 2011 at 12:15 PM
+────────────────────────────────────────────────────────────────────────
+
+It doesn't make any sense that it would be a mechanical connection. That would be more work than it's worth. It's a lot easier to push two buttons at the same time, after all if the guy is already doing it. What's another button?
+
+But without seeing the mechanism there is no way to know. Like in the Star Trek world, just because somebody says something about it. We can't take them at their word(memories fade, egos, they think we are nuts, etc).  
+
+I would place them on separate switches, it's a lot easier and far less costly. Especially to my sanity.
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #1942304)
+Author    : MonsieurTox
+Date      : Oct 11, 2011 at 12:54 PM
+────────────────────────────────────────────────────────────────────────
+
+I was more thinking about an electrical connection than a mechanical connection TBH.
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #1942724)
+Author    : Commander Max
+Date      : Oct 11, 2011 at 5:07 PM
+────────────────────────────────────────────────────────────────────────
+
+MonsieurTox said:
+
+			I was more thinking about an electrical connection than a mechanical connection TBH.
+		
+
+Click to expand...
+
+That would be the best, and the least amount of work. 
+
+It's just as easy to wire up several switches so you can turn functions on and off.
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #1942751)
+Author    : jedimaster
+Date      : Oct 11, 2011 at 5:24 PM
+Reactions : Like — darth_myeek
+────────────────────────────────────────────────────────────────────────
+
+These are my main concerns with the kit. This thing has more curves than Kim Kardashian. Hopefully all the warps will pull out around the armature. I don't understand why all the flat panels are made from this thin resin. Especially the load bearing parts.
+
+[IMAGE: 3141c5a8.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #1942778)
+Author    : ralphee
+Date      : Oct 11, 2011 at 5:42 PM
+────────────────────────────────────────────────────────────────────────
+
+Simon, sorry bud, but that does look like ass, what a horrible kit this turned out to be.
+
+Hope you can make good on it mate, be great to see somebody pull one out the bag.
+
+Lee
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #1942786)
+Author    : jedimaster
+Date      : Oct 11, 2011 at 5:48 PM
+────────────────────────────────────────────────────────────────────────
+
+Gonna give it a go mate.....Wait till ya see some of the other pix. I know you would have tossed it years ago. But it cost Me a packet so gotta try. Even if I have to scratch the main Hull which I'm not looking forward to.
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #1942857)
+Author    : jedimaster
+Date      : Oct 11, 2011 at 6:24 PM
+────────────────────────────────────────────────────────────────────────
+
+The underside ain't much better.
+
+[IMAGE: 0ead9634.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #1942874)
+Author    : jedimaster
+Date      : Oct 11, 2011 at 6:32 PM
+────────────────────────────────────────────────────────────────────────
+
+And this .....
+
+[IMAGE: ba54727c.jpg]
+
+[/IMG]
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #1942879)
+Author    : jedimaster
+Date      : Oct 11, 2011 at 6:37 PM
+────────────────────────────────────────────────────────────────────────
+
+Steves gonna replace this...
+
+[IMAGE: da1565f1.jpg]
+
+[/IMG]
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #1942881)
+Author    : jedimaster
+Date      : Oct 11, 2011 at 6:38 PM
+────────────────────────────────────────────────────────────────────────
+
+Steves gonna replace this...
+
+[IMAGE: da1565f1.jpg]
+
+[/IMG]
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #1942894)
+Author    : jedimaster
+Date      : Oct 11, 2011 at 6:43 PM
+────────────────────────────────────────────────────────────────────────
+
+Another example of this resin. These are the cheeks on the cockpit. They are supposed to sit straight on the model but I can bend em round my finger. This is the same soapy resin Jason had trouble priming on the tie fighter.
+
+[IMAGE: e3cdb4a6.jpg]
+
+[/IMG]
+────────────────────────────────────────────────────────────────────────
+Post #28  (forum post #1942911)
+Author    : jedimaster
+Date      : Oct 11, 2011 at 6:50 PM
+────────────────────────────────────────────────────────────────────────
+
+In all fairness the parts are bubble free castings but I question the choice of resin on this. As I said before it is a heavy kit and this resin is very soft and warps to easily. Still it can be done but it's gonna take a lot of work. Stay tuned......
+
+[IMAGE: 0f290deb.jpg]
+
+[/IMG]
+────────────────────────────────────────────────────────────────────────
+Post #29  (forum post #1943002)
+Author    : ralphee
+Date      : Oct 11, 2011 at 7:41 PM
+────────────────────────────────────────────────────────────────────────
+
+Ouch, thats not pretty though. Is be way more tempted to repair and rectify, while making the hull/cockpit into vac bucks to give you a perfect build platform?
+
+I know its cost a wedge, but thats how id go about it.
+
+Lee
+────────────────────────────────────────────────────────────────────────
+Post #30  (forum post #1943072)
+Author    : jedimaster
+Date      : Oct 11, 2011 at 8:14 PM
+────────────────────────────────────────────────────────────────────────
+
+I hear ya... I'll have to fit the armature and see if I can't pull this together around it. Hoping the machinist can get it done for me next week. If it works it'll save me a lot of time and money. If not I'll cut the detail off and try the vac method.
+────────────────────────────────────────────────────────────────────────
+Post #31  (forum post #1943147)
+Author    : Commander Max
+Date      : Oct 11, 2011 at 9:15 PM
+────────────────────────────────────────────────────────────────────────
+
+JM that's a real shame. Steve used to way much dye, and it weakened the resin to the point where it's pretty much useless. 
+
+Even if you did fix it, it will never keep it's shape. 
+
+Getting paint to stick will be a hell of a chore. 
+
+I hate to see stuff like this. It should have gone right from the molds into the trash.
+────────────────────────────────────────────────────────────────────────
+Post #32  (forum post #1943491)
+Author    : Guy Cowen
+Date      : Oct 12, 2011 at 4:08 AM
+────────────────────────────────────────────────────────────────────────
+
+Yikes, I thought I had trouble with my kit, I dont have the issues you see here but many others that make it very hard to build. I'm Glad I went with Rich's kits now. Wipes brow but still shrugs shoulders.
+────────────────────────────────────────────────────────────────────────
+Post #33  (forum post #1943495)
+Author    : Laser Brain
+Date      : Oct 12, 2011 at 4:14 AM
+────────────────────────────────────────────────────────────────────────
+
+:thumbsdown Wow. That's bad. Everything looks awful. That's really disappointing.
+────────────────────────────────────────────────────────────────────────
+Post #34  (forum post #1943519)
+Author    : jedimaster
+Date      : Oct 12, 2011 at 4:37 AM
+────────────────────────────────────────────────────────────────────────
+
+I've been going through you're build Neil and I think I can salvage this by following some of you're methods.
+────────────────────────────────────────────────────────────────────────
+Post #35  (forum post #1943953)
+Author    : Gus76
+Date      : Oct 12, 2011 at 10:13 AM
+────────────────────────────────────────────────────────────────────────
+
+Geez! This looks bad 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ Are all SS kits like this one? If so, I will stay away from them! From my little experience with garage kits this is almost always the case. I wonder if there is a way to know what you are buying before you actually buy it? The price is usually quite steep though...
+────────────────────────────────────────────────────────────────────────
+Post #36  (forum post #1944002)
+Author    : Guy Cowen
+Date      : Oct 12, 2011 at 10:43 AM
+────────────────────────────────────────────────────────────────────────
+
+Gus76 said:
+
+			Geez! This looks bad 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ Are all SS kits like this one? If so, I will stay away from them! From my little experience with garage kits this is almost always the case. I wonder if there is a way to know what you are buying before you actually buy it? The price is usually quite steep though...
+		
+
+Click to expand...
+
+This is not the Norm, sadly it does hapen from time to time but if you stick to trusted Kitters like Frank/Moe, Mike Salzo etc you shouldn't go wrong. Saying that this was from a trusted Kit maker, I guess it should've been replaced really, it would be interesting to see if other shuttles are like this one???
+────────────────────────────────────────────────────────────────────────
+Post #37  (forum post #1944298)
+Author    : Commander Max
+Date      : Oct 12, 2011 at 1:33 PM
+────────────────────────────────────────────────────────────────────────
+
+Gus76 said:
+
+			Geez! This looks bad 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ Are all SS kits like this one? If so, I will stay away from them! From my little experience with garage kits this is almost always the case. I wonder if there is a way to know what you are buying before you actually buy it? The price is usually quite steep though...
+		
+
+Click to expand...
+
+Like Guy said, they are not all like this. When looking to buy a garage kit ask around. It's like the wild west in the prop world, so you have to be careful. But don't a few things you see turn you away. For there is some real neat stuff hidden from view. 
+
+Guy Cowen said:
+
+			This is not the Norm, sadly it does hapen from time to time but if you stick to trusted Kitters like Frank/Moe, Mike Salzo etc you shouldn't go wrong. Saying that this was from a trusted Kit maker, I guess it should've been replaced really, it would be interesting to see if other shuttles are like this one???
+		
+
+Click to expand...
+
+If they were cast with the dye in the resin there is a very good chance(unless someone got lucky).  
+
+Steve has a real nightmare on his hands. Didn't he cast other models with dye in the resin?
+────────────────────────────────────────────────────────────────────────
+Post #38  (forum post #1944447)
+Author    : STEVE THE SWEDE
+Date      : Oct 12, 2011 at 3:12 PM
+────────────────────────────────────────────────────────────────────────
+
+Holy crap! Thats got to be the worst resin kit I've ever seen! I'm sorry you're stuck with it, I bet those were pretty pricy!? Why are you only getting the cockpit replaced? The entire hull looks like useless barf.
+
+Cheers,
+
+Steve.
+────────────────────────────────────────────────────────────────────────
+Post #39  (forum post #1944490)
+Author    : jedimaster
+Date      : Oct 12, 2011 at 3:35 PM
+────────────────────────────────────────────────────────────────────────
+
+I've had warps before and they come out in the end. Steve is replacing some parts for me. The trouble with this hull is there is no support in the center. There are four cast in joists that go across the hull. The warps have occured in between these joists. As the curved edges have warped they have dimpled the top and bottom flat surfaces. I figure if I can machine an armature which fills the interior void , then pull the hull over it with a little heat it should come together. If not then I am stuffed and will have to scratch a new hull which for me is the worst case scenario.
+────────────────────────────────────────────────────────────────────────
+Post #40  (forum post #1944571)
+Author    : jedimaster
+Date      : Oct 12, 2011 at 4:31 PM
+────────────────────────────────────────────────────────────────────────
+
+[IMAGE: e3f50fc3.jpg]
+
+[/IMG]
+
+[IMAGE: dbc48d74.jpg]
+
+[/IMG]
+────────────────────────────────────────────────────────────────────────
+Post #41  (forum post #1945055)
+Author    : jedimaster
+Date      : Oct 12, 2011 at 10:02 PM
+────────────────────────────────────────────────────────────────────────
+
+Ok spent all day lookin at it and decided I'm gonna scratch the hull as this is way too fragile in places. Picked up some 40ml PVC pipe and some acrylic today and gonna cut all the detail/kitparts off tonight.
+────────────────────────────────────────────────────────────────────────
+Post #42  (forum post #1945440)
+Author    : JMChladek
+Date      : Oct 13, 2011 at 6:56 AM
+────────────────────────────────────────────────────────────────────────
+
+Sounds like a plan, otherwise the only other alternative would be a crashed Imperial shuttle. If you can indeed make something good from this kit, then buy some lottery tickets as I would say your force powers are off the charts!
+────────────────────────────────────────────────────────────────────────
+Post #43  (forum post #1945523)
+Author    : joez2391
+Date      : Oct 13, 2011 at 7:53 AM
+────────────────────────────────────────────────────────────────────────
+
+man that is in rough shape for such an expensive kit, im sure it'll look great once you put some magic into it.  will definately be watching with intrest. good luck!
+────────────────────────────────────────────────────────────────────────
+Post #44  (forum post #1945546)
+Author    : Nwerke
+Date      : Oct 13, 2011 at 8:12 AM
+────────────────────────────────────────────────────────────────────────
+
+Hey, JMC...judge him by his size, do you not! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+I've seen this kit in the flesh and Simon's being pretty restrained about it, tbh. When I first saw it I kinda had to bite my lip! He will make it look good though.
+────────────────────────────────────────────────────────────────────────
+Post #45  (forum post #1945603)
+Author    : jedimaster
+Date      : Oct 13, 2011 at 8:56 AM
+────────────────────────────────────────────────────────────────────────
+
+Ok guys, changed my mind. Not gonna scratch unless I have to but I made some progress today. Still a bit rough but it will all come good. I need to secure everything before I can pull the warps out. Despite what you may think this is still a great kit. It just needs a bit more work than some.
+
+[IMAGE: c653f593.jpg]
+
+[/IMG]
+────────────────────────────────────────────────────────────────────────
+Post #46  (forum post #1946115)
+Author    : Laser Brain
+Date      : Oct 13, 2011 at 2:35 PM
+────────────────────────────────────────────────────────────────────────
+
+I hope you can salvage this. I feel embarrassed to even be associated with this kit. If you do decide to scratch a new hull I'll certainly answer any questions you might have. I doubt you'd need my help though, but it's there if you do.
+────────────────────────────────────────────────────────────────────────
+Post #47  (forum post #1946182)
+Author    : jedimaster
+Date      : Oct 13, 2011 at 3:32 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks Neil ... Really appreciate it.
+
+Simon.
+────────────────────────────────────────────────────────────────────────
+Post #48  (forum post #1946234)
+Author    : Commander Max
+Date      : Oct 13, 2011 at 4:16 PM
+────────────────────────────────────────────────────────────────────────
+
+Simon, have you tried to paint any of the parts you got from Steve?
+────────────────────────────────────────────────────────────────────────
+Post #49  (forum post #1946254)
+Author    : jedimaster
+Date      : Oct 13, 2011 at 4:30 PM
+────────────────────────────────────────────────────────────────────────
+
+Yeah .. The tamiya primer went on ok on the wings. Just did the soap wash first.
+────────────────────────────────────────────────────────────────────────
+Post #50  (forum post #1946288)
+Author    : ralphee
+Date      : Oct 13, 2011 at 4:58 PM
+────────────────────────────────────────────────────────────────────────
+
+Just reach for the UPOL acid grey if you do struggle Simon, should stick well and allow you too put any masking worries to bed. 
+
+Lee
+────────────────────────────────────────────────────────────────────────
+Post #51  (forum post #1946942)
+Author    : jedimaster
+Date      : Oct 14, 2011 at 5:04 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks lee, found a supplier here that has the #8 . gonna get me some and give it a go.
+────────────────────────────────────────────────────────────────────────
+Post #52  (forum post #1999147)
+Author    : darth_myeek
+Date      : Nov 13, 2011 at 7:57 PM
+────────────────────────────────────────────────────────────────────────
+
+jedimaster said:
+
+			These are my main concerns with the kit. This thing has more curves than Kim Kardashian. Hopefully all the warps will pull out around the armature. I don't understand why all the flat panels are made from this thin resin. Especially the load bearing parts.
+		
+
+Click to expand...
+
+Sorry if it's a left field question, but maybe you could straighten parts & then laminate their interior with a layer of carbon fiber/regular fiberglas veneer?
+────────────────────────────────────────────────────────────────────────
+Post #53  (forum post #2003051)
+Author    : tk1608
+Date      : Nov 16, 2011 at 12:41 AM
+────────────────────────────────────────────────────────────────────────
+
+Crikey, that does look a swine to sort out, I reckon you should be sent a whole new kit...
+
+Forgive me for not knowing this, but why put dye in there if that's caused the warping problems...I would've thought it wouldn't matter what colour the resin is..it's gonna be painted anyhoo..
+
+Good luck with it though, it's a great looking ship, and I'm sure you'll be able to make it look awesome..!!
+
+Cheers
+
+Phil
+────────────────────────────────────────────────────────────────────────
+Post #54  (forum post #2003091)
+Author    : jedimaster
+Date      : Nov 16, 2011 at 1:39 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks Phil. Look it isn't as bad as it seems. The warps are all getting straightened out and the other main parts were just fine. I understand the kit if released again will be much stronger. Half the trouble is where I live I think.down here in Oz it gets really f...ing hot. I mean really hot and if some ****** of a parcel worker leaves any resin kits on The Tarmac for an hour, you may as well put it in a microwave. Now I don't know this is what happened here but as with any garage kit you will get some warps and cleanup. At the end of the day this will look great and I don't regret buying it at all. I think that leaving these sorts of kits in a box for a while is a bad idea. They should be built within a certain amount of time. I just pulled an MPC injection molded snowspeeder out of the box after 30 years and it is warped also. It will all come good and Steve has offered to replace any parts that dont. But being a stubborn a hole I'm determined to make this one good. I'll get some more progress pix up next week.
+
+Simon.
+────────────────────────────────────────────────────────────────────────
+Post #55  (forum post #2003134)
+Author    : Nwerke
+Date      : Nov 16, 2011 at 2:44 AM
+────────────────────────────────────────────────────────────────────────
+
+Dead right. You should see my 1/18 Vader TIE kit (Lasse's kit) - it's gone 'orrible. It was beautiful when it arrived but will take a LOT of hot water to fix now. Curse my hot tin shed and slow slow kit building...
+────────────────────────────────────────────────────────────────────────
+Post #56  (forum post #2003156)
+Author    : jedimaster
+Date      : Nov 16, 2011 at 3:24 AM
+────────────────────────────────────────────────────────────────────────
+
+darth_myeek said:
+
+			Sorry if it's a left field question, but maybe you could straighten parts & then laminate their interior with a layer of carbon fiber/regular fiberglas veneer?
+		
+
+Click to expand...
+
+Sorry DM missed this one. Hopefully all is now sorted. I have made up some acrylic inserts which should pull it all together. I just need to fasten the sides around it and it should be fixed.
+
+@Martyn. How about a new years resolution? Mine is to complete all my kits next year. Apart from the 5 footer of course but I think that is doable once we have the dims sorted. I plan on taking at least 6 to Wasmex. This includes the BIG walker.
+────────────────────────────────────────────────────────────────────────
+Post #57  (forum post #2003238)
+Author    : Dedalus5550
+Date      : Nov 16, 2011 at 5:13 AM
+────────────────────────────────────────────────────────────────────────
+
+jedimaster said:
+
+			Thanks Phil. Look it isn't as bad as it seems. The warps are all getting straightened out and the other main parts were just fine. I understand the kit if released again will be much stronger. Half the trouble is where I live I think.down here in Oz it gets really f...ing hot. I mean really hot and if some ****** of a parcel worker leaves any resin kits on The Tarmac for an hour, you may as well put it in a microwave. Now I don't know this is what happened here but as with any garage kit you will get some warps and cleanup. At the end of the day this will look great and I don't regret buying it at all. I think that leaving these sorts of kits in a box for a while is a bad idea. They should be built within a certain amount of time. I just pulled an MPC injection molded snowspeeder out of the box after 30 years and it is warped also. It will all come good and Steve has offered to replace any parts that dont. But being a stubborn a hole I'm determined to make this one good. I'll get some more progress pix up next week.
+
+Simon.
+		
+
+Click to expand...
+
+I have always tried by anything resin during the colder months for this reason.  Of course, in OZ, you might order it during your cold months and get it during the northern hemisphere's hot months--and everyone has tarmacs.  And the availability of kits is another issue.  But when timing comes together--which it looks like it will for the new Y, then it works out.  
+
+Mike Todd
+────────────────────────────────────────────────────────────────────────
+Post #58  (forum post #2003479)
+Author    : Laser Brain
+Date      : Nov 16, 2011 at 8:32 AM
+────────────────────────────────────────────────────────────────────────
+
+I'm glad you've got it under control Simon. I'm really looking forward to seeing the build finished. I've not seen many completed to date.
+────────────────────────────────────────────────────────────────────────
+Post #59  (forum post #2003791)
+Author    : 3d-builder
+Date      : Nov 16, 2011 at 11:49 AM
+────────────────────────────────────────────────────────────────────────
+
+Well I hope you get it together!:thumbsup Correct me if I am wrong but resin isn't exactly that cheap right, so what's the big draw to use it? As far as I see
+
+it's great for making multiple  small parts...and larger parts up to a certain degree, depending on what they have to do in regards to things such as load bearing and so on. This model should be in my opinion vacuum formed or done in fiberglass.....it's a very big subject.The main body holds 2 stabilizers one top stabilizer....and a big cockpit I think thats asking a lot for a medium like resin.
+
+  You have to remember this subject was a working tool a filming miniature,
+
+that doesn't always mean it can be made out of any medium.......and I think the size should dictate the chosen medium. Maybe if I knew why resin is used so much i would better understand......to be fair  I don't use much resin.
+
+Anyway it's a cool thread to me because I want to see how your going to 
+
+pull it off....I am rooting for you!
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+thumbsup
+
+Regards,
+
+Michael
+────────────────────────────────────────────────────────────────────────
+Post #60  (forum post #2050073)
+Author    : jedimaster
+Date      : Dec 16, 2011 at 6:34 AM
+────────────────────────────────────────────────────────────────────────
+
+Ok back on track with this. Picked up the armature today. This and a few clamps and some epoxy should do the trick. I'll get this part together over the weekend and let you guy's know. Excuse the mess in the pix. I really need to clean the shop.
+
+[IMAGE: 9417ac5a.jpg]
+
+[/IMG]
+
+[IMAGE: 0dcd0e0f.jpg]
+
+[/IMG]
+────────────────────────────────────────────────────────────────────────
+Post #61  (forum post #2050098)
+Author    : Rats
+Date      : Dec 16, 2011 at 6:55 AM
+────────────────────────────────────────────────────────────────────────
+
+Yowsa! That looks good Simon. Should hold the beast together. :lol
+
+Was all that acrylic part of the kit?
+────────────────────────────────────────────────────────────────────────
+Post #62  (forum post #2050136)
+Author    : jedimaster
+Date      : Dec 16, 2011 at 7:29 AM
+────────────────────────────────────────────────────────────────────────
+
+Hey John , yeah mate the acrylic came with the kit.  Very nice too. Clean cut . I just had this milled to fit the horizontal joists  so as to pull it all together. This thing ain't goin nowhere once the glue sets.
+────────────────────────────────────────────────────────────────────────
+Post #63  (forum post #2050153)
+Author    : marvin
+Date      : Dec 16, 2011 at 7:39 AM
+────────────────────────────────────────────────────────────────────────
+
+Wow. That's what I like to see. Looks solid as hell. Should do the trick!
+
+Marvin
+────────────────────────────────────────────────────────────────────────
+Post #64  (forum post #2070397)
+Author    : jedimaster
+Date      : Dec 31, 2011 at 6:34 AM
+────────────────────────────────────────────────────────────────────────
+
+Ok so today I epoxied the plates in.(finally). I had these machined with the grooves to line everything up nicely.
+
+[IMAGE: d5f907c1.jpg]
+
+[IMAGE: 5bdcc790.jpg]
+
+[IMAGE: 7df37b40.jpg]
+
+[/IMG]
+────────────────────────────────────────────────────────────────────────
+Post #65  (forum post #2070401)
+Author    : jedimaster
+Date      : Dec 31, 2011 at 6:39 AM
+────────────────────────────────────────────────────────────────────────
+
+Came together ok I think. I still have to install the wiring for the engines and the wing tip lights then I'll join the fuse together.
+
+[IMAGE: 0822531c.jpg]
+
+[IMAGE: 06d9c938.jpg]
+
+[/IMG]
+────────────────────────────────────────────────────────────────────────
+Post #66  (forum post #2070405)
+Author    : darth_daniel
+Date      : Dec 31, 2011 at 6:45 AM
+────────────────────────────────────────────────────────────────────────
+
+That looks awesome! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ And very solid... But also very heavy. What´s the weight of those metal (aluminium?) plates?
+────────────────────────────────────────────────────────────────────────
+Post #67  (forum post #2070551)
+Author    : dbhs
+Date      : Dec 31, 2011 at 9:11 AM
+────────────────────────────────────────────────────────────────────────
+
+Wow - looks great.
+
+How does the mounting rod attach? In the last picture it looks too far back to hit the large hole in the aluminum plate.
+────────────────────────────────────────────────────────────────────────
+Post #68  (forum post #2070912)
+Author    : jedimaster
+Date      : Dec 31, 2011 at 3:15 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks guys it is a heavy kit to begin with. The whole kit with armature and base will come in I'm guessing at aroung 5 kg. The rod/support is solid steel and is mounted forward as per the original. Will start on the wing detail next.
+────────────────────────────────────────────────────────────────────────
+Post #69  (forum post #2115741)
+Author    : tk1608
+Date      : Jan 30, 2012 at 8:58 AM
+────────────────────────────────────────────────────────────────────────
+
+Love it !!, 
+
+Whats the story with the slave 1 lurking near the Y ?
+
+Cheers
+
+Phil
+────────────────────────────────────────────────────────────────────────
+Post #70  (forum post #2115759)
+Author    : Nwerke
+Date      : Jan 30, 2012 at 9:15 AM
+────────────────────────────────────────────────────────────────────────
+
+Oh yeah. And what's the story with this model...Simon, you finished it yet, mate? :lol
+────────────────────────────────────────────────────────────────────────
+Post #71  (forum post #2116249)
+Author    : jedimaster
+Date      : Jan 30, 2012 at 3:40 PM
+────────────────────────────────────────────────────────────────────────
+
+tk1608 said:
+
+			Love it !!, 
+
+Whats the story with the slave 1 lurking near the Y ?
+
+Cheers
+
+Phil
+		
+
+Click to expand...
+
+Just waitin for Guy to catch up. No seriously Phil it's the really Big Hasbro I'm modding. :behave
+────────────────────────────────────────────────────────────────────────
+Post #72  (forum post #2116254)
+Author    : jedimaster
+Date      : Jan 30, 2012 at 3:46 PM
+────────────────────────────────────────────────────────────────────────
+
+Nwerke said:
+
+			Oh yeah. And what's the story with this model...Simon, you finished it yet, mate? :lol
+		
+
+Click to expand...
+
+Almost. Just waitin in a few things. I tried some 12v neon tubes in the engines. But they didn't spread the light too well. Next up tried some blue LED's but even with the diffuser in place they look like blue **** holes in the snow. So I'm waitin on some EL wire to give that a go. Also waiting for a new cockpit from Steve. Then it's all downhill from there baby.
+────────────────────────────────────────────────────────────────────────
+Post #73  (forum post #2116361)
+Author    : tk1608
+Date      : Jan 30, 2012 at 5:26 PM
+────────────────────────────────────────────────────────────────────────
+
+Modding the hasbro..? Have u got a progress thread for that too?..I'd really like to see that...
+
+Cheers
+
+Phil
+────────────────────────────────────────────────────────────────────────
+Post #74  (forum post #2116423)
+Author    : jedimaster
+Date      : Jan 30, 2012 at 6:11 PM
+────────────────────────────────────────────────────────────────────────
+
+Not as yet mate but I'm onto it. Will have it up in the general section this week. Ever since Richard (REL) showed pix and mentioned it was close to studio scale , I've wanted to start it but I've only gotten so far as removing the plastic hinges and sanding some of the crap panels and chips off. It's a pretty big ship.
+────────────────────────────────────────────────────────────────────────
+Post #75  (forum post #2116440)
+Author    : Scott Graham
+Date      : Jan 30, 2012 at 6:23 PM
+────────────────────────────────────────────────────────────────────────
+
+Have you considered cold cathode tubes for the engine lighting? They might be like the neon though. That's what I'm going to try. I noticed in a pic of the engine area opened up on the blu ray, see pic. They seemed to have used an upper and lower light tube for it.
+────────────────────────────────────────────────────────────────────────
+Post #76  (forum post #2116493)
+Author    : jedimaster
+Date      : Jan 30, 2012 at 6:52 PM
+────────────────────────────────────────────────────────────────────────
+
+Something like that would be good Scott. The problem I have is the neon tube I got is only 5mm thick so it shows through the diffuser as two blue strips rather than one diffused glow. Maybe thicker tubes as ILM used should do the trick.
+
+Edit: actually Julien and mike got good results on theirs. I think mike used some LED's and julien Neon if I'm correct? I'll have a look at their threads.
+
+Simon.
+────────────────────────────────────────────────────────────────────────
+Post #77  (forum post #2116913)
+Author    : MonsieurTox
+Date      : Jan 31, 2012 at 5:09 AM
+────────────────────────────────────────────────────────────────────────
+
+I used cold cathode neons (to put into a PC), and they work just fine !
+────────────────────────────────────────────────────────────────────────
+Post #78  (forum post #2116914)
+Author    : MonsieurTox
+Date      : Jan 31, 2012 at 5:11 AM
+────────────────────────────────────────────────────────────────────────
+
+Scott Graham said:
+
+			Have you considered cold cathode tubes for the engine lighting? They might be like the neon though. That's what I'm going to try. I noticed in a pic of the engine area opened up on the blu ray, see pic. They seemed to have used an upper and lower light tube for it.
+		
+
+Click to expand...
+
+Actually their neon (probably custom made, like the ones used in the Executor) is U-shaped.
+────────────────────────────────────────────────────────────────────────
+Post #79  (forum post #2118068)
+Author    : jedimaster
+Date      : Jan 31, 2012 at 9:28 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks Julien, I just ordered some. I may look into a custom curved neon but we'll see how these pan out. They look great on your build.
+────────────────────────────────────────────────────────────────────────
+Post #80  (forum post #2499837)
+Author    : trooper
+Date      : Sep 29, 2012 at 12:51 PM
+────────────────────────────────────────────────────────────────────────
+
+how are you coming with this build ? i wish i saw this before buying this pos kit from another member who did not disclose the really bad warping 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #81  (forum post #2500108)
+Author    : jedimaster
+Date      : Sep 29, 2012 at 4:26 PM
+────────────────────────────────────────────────────────────────────────
+
+Well I thought this was dead and buried. I actually sold the kit to a friend. I got so sick of looking at it and not being able to go any further without the replacement canopy I started to HATE the Model and everytime I looked at it in the shop I wanted to smash it to bits. I'm not sure which incarnation of this kit you have but All were plagued with problems not just Steves . Apparently the new version has addressed some of those issues so I am looking forward to seeing some builds on this model.
+────────────────────────────────────────────────────────────────────────
+Post #82  (forum post #2500155)
+Author    : trooper
+Date      : Sep 29, 2012 at 5:15 PM
+────────────────────────────────────────────────────────────────────────
+
+jedimaster said:
+
+			Well I thought this was dead and buried. I actually sold the kit to a friend. I got so sick of looking at it and not being able to go any further without the replacement canopy I started to HATE the Model and every time I looked at it in the shop I wanted to smash it to bits. I'm not sure which incarnation of this kit you have but All were plagued with problems not just Steves . Apparently the new version has addressed some of those issues so I am looking forward to seeing some builds on this model.
+		
+
+Click to expand...
+
+ 
+
+my exact thoughts on steve neils pos big e enterprise, i did just like you, got sick of looking at it and wanted to smash it, i ended selling to some one who just had to have it, despite everything i told him about it.  i did not send funds as gift on this one, so i have the option of paypal dispute.
+
+the prob's with this kit should have been disclosed but was not.
+────────────────────────────────────────────────────────────────────────
+Post #83  (forum post #2500183)
+Author    : jedimaster
+Date      : Sep 29, 2012 at 5:42 PM
+────────────────────────────────────────────────────────────────────────
+
+It can be fixed up bit it may require a bit more work than usual. I haven't seen yours so i cant really comment. The real problem I had was the smashed canopy. Everything else could be fixed with a bit more elbow grease and a whacking great aluminum armature. 
+
+If you decide to build it ... Good luck. I'm sure you could salvage something. The trouble with some of the garage kits is that in replicating the studio model you have to replicate everything. So even the flimsy L'il bits. Some folks are used to just getting a box of resin and assembling it. There could have been better ways of making some parts for this but they could also be cost prohibitive for the producer and more work for the modeler. Not everyone is up for that. I think that is why only die yards will buy my Narc kit.
+
+I think Dave mentioned though that Steve had ironed out some of the issues with the shuttle so Don't read into mine and troopers kits as being anything like the new shuttle kit when it is released. I wanna see some builds.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 83

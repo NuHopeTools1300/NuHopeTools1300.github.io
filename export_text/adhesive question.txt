@@ -1,0 +1,81 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : adhesive question
+URL    : https://www.therpf.com/forums/threads/adhesive-question.38585/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #504921)
+Author    : dirtydave
+Date      : Feb 2, 2008 at 6:03 PM
+────────────────────────────────────────────────────────────────────────
+
+What is the best adhesive for joining metal to resin.Thanks for any info.
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #504939)
+Author    : PHArchivist
+Date      : Feb 2, 2008 at 6:45 PM
+────────────────────────────────────────────────────────────────────────
+
+First to come to mind is JB Weld.
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #505078)
+Author    : GKvfx
+Date      : Feb 2, 2008 at 11:19 PM
+────────────────────────────────────────────────────────────────────────
+
+Well, it also helps to know what the parts are going to be doing.  If it's just a piece of flat metal being glued to a broad resin area, then ordinary CA glue is fine.
+
+If the surface area of the bond is small and likley to be bumped, then I would go with an epoxy (5, 10, 20 minute).
+
+If there is going to be torque or weight applied, I'd go with the aforementioned JB Weld.
+
+Gene
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #505869)
+Author    : JOATRASH FX
+Date      : Feb 4, 2008 at 10:08 AM
+────────────────────────────────────────────────────────────────────────
+
+I just found a local store here in Sweden that has JB Weld. It costs like double what the regular 2-part epoxies do. Is it really that much tougher?
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #505983)
+Author    : dirtydave
+Date      : Feb 4, 2008 at 12:56 PM
+────────────────────────────────────────────────────────────────────────
+
+I'm glueing a 4-40 blind nut to resin on my ROTJ AT-ST leg.I tried super glue but it didn't hold.I'm going with the epoxy.Thanks for all the info.
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #506086)
+Author    : TridCloudwalker
+Date      : Feb 4, 2008 at 2:21 PM
+────────────────────────────────────────────────────────────────────────
+
+joatrash said:
+
+			I just found a local store here in Sweden that has JB Weld. It costs like double what the regular 2-part epoxies do. Is it really that much tougher?
+		
+
+Click to expand...
+
+Ridiculously tougher.
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #506354)
+Author    : GKvfx
+Date      : Feb 4, 2008 at 9:16 PM
+────────────────────────────────────────────────────────────────────────
+
+TridCloudwalker said:
+
+			Ridiculously tougher.
+		
+
+Click to expand...
+
+Yeah, what he said.  It's actually made of metal pastes, so not only does it have a stronger tensile strength, it has better heat properties.
+
+For what DirtyDave is doing, a common epoxy is fine.  Just rough up both surfaces with coarse sandpaper to give some tooth to the surface area.
+
+Gene
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 7

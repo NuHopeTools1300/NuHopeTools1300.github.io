@@ -1,0 +1,1012 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Question about the original 11' USS Enterprise
+URL    : https://www.therpf.com/forums/threads/question-about-the-original-11-uss-enterprise.288283/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #4426432)
+Author    : Miniaturizer Ray
+Date      : Mar 13, 2018 at 4:32 PM
+────────────────────────────────────────────────────────────────────────
+
+Been on a bit of a Star Trek jag recently, and I get the impression that it's generally believed that at least some of the bulbs in the nacelle domes blinked on and off.  I don't see how that could be the case.  Does anybody have any evidence?
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #4426468)
+Author    : Clerval
+Date      : Mar 13, 2018 at 5:52 PM
+────────────────────────────────────────────────────────────────────────
+
+?? Really...? I've never heard anyone say that they blinked. Simple rotation of a platform of vanes with XMas lights and mirror fragments. Low tech and effective.
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #4426516)
+Author    : Miniaturizer Ray
+Date      : Mar 13, 2018 at 7:48 PM
+────────────────────────────────────────────────────────────────────────
+
+That's what I think, too (specifically, according to the book published by Richard Datin's son and daughter, the "platforms of vanes" were spun aluminium domes which he had made by Crescent Metals, into which he cut a series of slots).  Most of the lighting kits which you can buy for models of the Enterprise incorporate blinking LEDs, which I presume more accurately reproduces the flickering effect which was caused by filming the original device, but the impression I get is that most people seem to think that the original miniature worked this way too.  Most people seem to think that there were five non-blinking amber C7 bulbs as well as the Christmas lights.  This detail is even represented on the Polar Lights 1:350 kit:
+
+[IMAGE: EFOU6Pn.jpg]
+
+I don't think this is the case, either.
+
+ 
+
+Attachments
+
+[IMAGE: 458015-9d2e3f53de02ab2ccdac0f637b984453.jpg]
+
+EFOU6Pn.jpg
+
+					83.3 KB
+					
+					· Views: 341
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #4426536)
+Author    : Clerval
+Date      : Mar 13, 2018 at 8:35 PM
+Reactions : Like — Borjis
+────────────────────────────────────────────────────────────────────────
+
+Would be interesting to find out one way or another... suppose the restoration folks could speak to the nature of the rotating inserts, and whether the apparent blinking was, in fact, blinking, or an artifact of tv fx 50+ years ago. I think the choice may have been to shift the cooler lights on/off and allow the amber and warmer to persist? That seems to jive with what I recall of the look.
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #4426575)
+Author    : trooper
+Date      : Mar 13, 2018 at 10:40 PM
+Reactions : Like — asalaw, robn1
+────────────────────────────────────────────────────────────────────────
+
+there are blinkers, and some don't blink, along with the rotation and mirrors that create the effect.
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #4426715)
+Author    : Miniaturizer Ray
+Date      : Mar 14, 2018 at 7:43 AM
+────────────────────────────────────────────────────────────────────────
+
+With respect, that hardly constitutes "evidence". 
+
+Here's a picture of the model when it was originally donated to the Smithsonian Institute:
+
+[IMAGE: 458016-70db7a9c2de1ba39fdaf57c0e7bb5c98.jpg]
+
+All electrical connections to the starboard nacelle are achieved via the plug that can be seen hanging down, which allows for two circuits - one for the motor and one for the lights.
+
+With only one electrical connection, how could some of the lights have blinked while others stayed lit?
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #4426909)
+Author    : feek61
+Date      : Mar 14, 2018 at 1:52 PM
+Reactions : Like — robn1
+────────────────────────────────────────────────────────────────────────
+
+There are certainly blinking lights in the nacelle along with others that don't blink.  Watching the miniature on screen; it is pretty evident.
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #4426925)
+Author    : Treadwell
+Date      : Mar 14, 2018 at 2:19 PM
+Reactions : Like — robn1
+────────────────────────────────────────────────────────────────────────
+
+Miniaturizer Ray said:
+
+			With only one electrical connection, how could some of the lights have blinked while others stayed lit?
+		
+
+Click to expand...
+
+A pair of leads attached in parallel to the same power connector. One +/- pair of leads for the blinkies, one for the non-. It isn't the power source being turned on and off that causes the blinking, it's a circuit along the line.
+
+The blinking is MUCH slower than the effect caused by the blades.
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #4427012)
+Author    : robn1
+Date      : Mar 14, 2018 at 5:07 PM
+Reactions : Like — asalaw
+────────────────────────────────────────────────────────────────────────
+
+The rotating blades gave a shimmering effect, and gave the lights an impression of motion in some shots (I used to swear some of the lights were mounted to a rotating disc). This effect alone would be too regular, the random blinkers give a more uneven pulsating look.
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #4427071)
+Author    : Miniaturizer Ray
+Date      : Mar 14, 2018 at 7:17 PM
+────────────────────────────────────────────────────────────────────────
+
+Again, with respect, gentlemen, do you have any evidence?
+
+This Starlog article by Jeff Szazly goes into some detail about how they replaced the Christmas tree lights in the starboard nacelle when the model was loaned to Golden West college.  If you read the article carefully, the description isn't really compatible with the idea that the lights were on more than one circuit.
+
+In the Datins' book, this appears to be quoted directly from Richard Datin himself (although there's no reference to who he was originally talking or writing to):
+
+"I purchased two, 7 inch Plexiglass domes at a cost of $15.00 and had them finely sandblasted by Abrasive Art to be translucent for another $2.50.  Then I contracted with Crescent Metals, a metal spinning firm to have two domes-shaped metal spinnings or shells made for a diameter slightly less than the inside diameter of the Plexiglass domes.  The metal was most likely aluminum.  Two flat disks were fabricated to which a set of miniature Christmas tree-type lights were attached.  I believe the bulbs were white or clear, (at a later date Craig Thompson spoke of multicolored Christmas lights in each dome, I do recall seeing it on the third year's episodes herein it seemed that the light source behind the nacelle domes were multicolored.  To me it seemed 'cheesy')."
+
+"On the spinnings, I cut a series of slots radiating from the dome's center.  Each dome was powered by a heavy duty commercial type display motor embedded under the disk (which rotated in opposite directions) inside the nacelle pod and when powered, achieved the 'spinning lights' effect under the frosted but translucent, Plexiglass surface.  The lights remained stationary while an off-camera stage technician controlled the speed of the rotating slotted dome to simulate whatever amount of energy needed to illustrate the degree of warp power Roddenberry sought, as well as the intensity of the lights controlled by a transformer and rheostat similar to a lamp dimmer switch". 
+
+I've been quite careful to check that I've quoted this text exactly verbatim, with the exception of making Craig Thompson's name a hotlink.  One would think, given this detailed description, that if the lights were designed to blink, Mr Datin would have mentioned it.  Obviously, he's mistaken in his belief that the lights were only multicoloured in the third season (perhaps he bought a new TV set in 1968?), but if it is true that the lights that he installed were clear or white, then they must have been replaced by somebody, just as Jeff Szazly later replaced them at Golden West.  Look at this picture:
+
+View attachment 802613
+
+To replace the lights, you just take a fresh string of Christmas tree lights, wrap them around the tape covered pins, and connect them to the (only two!) wires.
+
+Treadwell said:
+
+			The blinking is MUCH slower than the effect caused by the blades.
+		
+
+Click to expand...
+
+Consider:  
+
+The apparent rotational speed of the vanes depends on the speed that the camera is running at (see the Wagon Wheel effect).
+
+The speed that the vanes rotated was variable.  The vanes may not have all been equally spaced (see below).  If the model, the camera, or both are in motion, then the angle around the shaft that corresponds to a vane obscuring a particular light from the camera lens will change.  All of this could give rise to an apparent blink rate which might seem entirely divorced from the rotational effect of the vanes.
+
+Bear in mind that we don't really know what the aluminium spinnings looked like.  The dark areas that we see "through" the nacelle domes may not actually be the vanes themselves, but rather the shadows cast by the vanes (even when the internal lights are off, which it looks as though they might be in three of the Golden West pictures, a certain amount of ambient light would still enter the domes and reflect off the mirror shards, casting shadows from the vanes back onto the domes.
+
+Here's a video that Doug Drexler made for the restoration team to study.  It doesn't feature every single shot of the Enterprise, but it's a good start.  It's surprisingly difficult to even count how exactly how many vanes there were.  Pick any ninety degree segment, and it almost always appears to be divided into three wedges by the vanes, giving an obvious answer of twelve.  But are you sure that you were actually looking at ninety degrees?  I suspect that there may actually be thirteen, and there's a discernible variation in the angles between them.
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #4427377)
+Author    : feek61
+Date      : Mar 15, 2018 at 10:03 AM
+Reactions : Like — asalaw
+────────────────────────────────────────────────────────────────────────
+
+Again, if you watch the show, it it obvious that some of the bulbs blink and it is also obvious that the 12 vanes are for the most part evenly spaced (except for one).    I will post some photos showing as much later when I get home.
+
+The bulbs themselves blink but maintain the circuit.  When the element of the bulb gets hot, it disconnects from the lead on the light only but the power sill flows through the bulb, just not the lighted part.  The old Christmas tree string lights would have blinking bulbs in them that would all randomly blinked at different times and one did not effect the other because the circuit was sill maintained; this is similar to what they used on the miniature.  The circuit was not interrupted by the blinking of the lights so the wiring on the miniature makes sense.
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #4427380)
+Author    : Darth Humorous
+Date      : Mar 15, 2018 at 10:11 AM
+────────────────────────────────────────────────────────────────────────
+
+@ Miniaturizer Ray…your attachment link doesn’t work.
+
+Mark
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #4427491)
+Author    : Miniaturizer Ray
+Date      : Mar 15, 2018 at 1:36 PM
+────────────────────────────────────────────────────────────────────────
+
+Darth Humorous said:
+
+			@ Miniaturizer Ray…your attachment link doesn’t work.
+
+Mark
+		
+
+Click to expand...
+
+Tell me about it. I've been using Internet forums for twenty years, but trying to get links to work properly on this one has gotten the better of me. It never used to be this glitchy. From now on, I'm just going to type the URLs; you might have to copy and paste them. Sometimes the BBCode parser makes them hotlinks and sometimes it doesn't.  The link was to this picture:
+
+https://i.imgur.com/dZRKUlq.jpg
+
+feek61 said:
+
+			Again, if you watch the show, it it obvious that some of the bulbs blink and it is also obvious that the 12 vanes are for the most part evenly spaced (except for one). I will post some photos showing as much later when I get home.
+
+The bulbs themselves blink but maintain the circuit. When the element of the bulb gets hot, it disconnects from the lead on the light only but the power sill flows through the bulb, just not the lighted part. The old Christmas tree string lights would have blinking bulbs in them that would all randomly blinked at different times and one did not effect the other because the circuit was sill maintained; this is similar to what they used on the miniature. The circuit was not interrupted by the blinking of the lights so the wiring on the miniature makes sense.
+		
+
+Click to expand...
+
+Is there something in particular that can be gleaned from watching the show that can't be gleaned from watching Doug Drexler's video? I have the first two seasons on Blu-ray, which is fine for just watching an episode but for study on a computer, they're a pain in the neck.
+
+I'd very much like to see the photos, please! I will concede that, having stabilized and studied Doug Drexler's video - specifically the first "season two" clip - I'm back to believing that there were 12 slots (but I'm also forming the opinion that they were indeed slots; I think that there was a lot more metal and a lot less open space than one would suppose.
+
+Are you sure about the Christmas tree lights? I'm from the UK, I was born in 1964, and I have a diploma in Electrical Engineering. In the 1960s, our Christmas tree lights were always wired in series. Usually there were 50 15W 5V bulbs (our domestic power supply is 240V 50Hz). If a bulb blew, they all went out. If a bulb worked loose, they all went out.  It used to be part of the annual Christmas ritual to work your way through the bulbs and find the one that had mysteriously come unscrewed while they'd been stored away. In the 1970s (maybe late '60s) new lights came on the market that would work even if one of the bulbs blew. They had very fine wires (called "shunts") wrapped around the base of the filament, dipped in an insulating material. Ordinarily, most of the currrent would flow through the bulb filament, but if the filament burned out, the current would flow through the shunt wire, heating it up, burn off the insulation, and the shunt would effectively become a wire link, allowing the rest of the bulbs to work. Your description sounds a bit like this, but this is a one time operation. 
+
+I'm not saying that you couldn't get lights that work the way that you describe in the US, but I haven't been able to find any reference to them, and I think that it's possible that whoever provided you with the information may have misunderstood the way that shunt bulbs work.
+
+Side note:  I'm still having a hell of a time just getting a post up that remotely resembles what I actually typed in.  I've tried it on three different computers.  What am I missing?
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #4427502)
+Author    : Darth Humorous
+Date      : Mar 15, 2018 at 2:03 PM
+────────────────────────────────────────────────────────────────────────
+
+FWIW, I was born in the mid 1950’s in the U.S., and the Xmas lights commonly available for decades were usually fitted into dark green colored, parallel-wired string harnesses. The bulbs were of two different sizes, one with a candelabra base, and one with a standard base, the standard base bulb being the larger. Both styles of bulb were shaped similarly, and the wire harnesses were available for one or the other sizes. In either harness, if a bulb went out, the remaining lights stayed on. There were no shunts in these bulbs. In fact, these bulbs are still available today. I recall seeing various of these bulbs flashing in store window displays during the Xmas season. Many folks still use these bulbs in either size to decorate their house exteriors so that they may be seen from a distance because they are larger than the tiny, newer style bulbs with the shunts whose harnesses are wired in series.
+
+Mark
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #4427530)
+Author    : feek61
+Date      : Mar 15, 2018 at 2:45 PM
+Reactions : Like — edge10
+────────────────────────────────────────────────────────────────────────
+
+Miniaturizer Ray said:
+
+			Tell me about it. I've been using Internet forums for twenty years, but trying to get links to work properly on this one has gotten the better of me. It never used to be this glitchy. From now on, I'm just going to type the URLs; you might have to copy and paste them. Sometimes the BBCode parser makes them hotlinks and sometimes it doesn't.  The link was to this picture:
+
+https://i.imgur.com/dZRKUlq.jpg
+
+Is there something in particular that can be gleaned from watching the show that can't be gleaned from watching Doug Drexler's video? I have the first two seasons on Blu-ray, which is fine for just watching an episode but for study on a computer, they're a pain in the neck.
+
+I'd very much like to see the photos, please! I will concede that, having stabilized and studied Doug Drexler's video - specifically the first "season two" clip - I'm back to believing that there were 12 slots (but I'm also forming the opinion that they were indeed slots; I think that there was a lot more metal and a lot less open space than one would suppose.
+
+Are you sure about the Christmas tree lights? I'm from the UK, I was born in 1964, and I have a diploma in Electrical Engineering. In the 1960s, our Christmas tree lights were always wired in series. Usually there were 50 15W 5V bulbs (our domestic power supply is 240V 50Hz). If a bulb blew, they all went out. If a bulb worked loose, they all went out.  It used to be part of the annual Christmas ritual to work your way through the bulbs and find the one that had mysteriously come unscrewed while they'd been stored away. In the 1970s (maybe late '60s) new lights came on the market that would work even if one of the bulbs blew. They had very fine wires (called "shunts") wrapped around the base of the filament, dipped in an insulating material. Ordinarily, most of the currrent would flow through the bulb filament, but if the filament burned out, the current would flow through the shunt wire, heating it up, burn off the insulation, and the shunt would effectively become a wire link, allowing the rest of the bulbs to work. Your description sounds a bit like this, but this is a one time operation. 
+
+I'm not saying that you couldn't get lights that work the way that you describe in the US, but I haven't been able to find any reference to them, and I think that it's possible that whoever provided you with the information may have misunderstood the way that shunt bulbs work.
+
+Side note:  I'm still having a hell of a time just getting a post up that remotely resembles what I actually typed in.  I've tried it on three different computers.  What am I missing?
+		
+
+Click to expand...
+
+Yes, much can be learned by going frame-by-frame and watching the nacelle lighting which is why I recommended it.  You would be wrong if you believe there were only small slots between the  fan blades.  (well, I guess it depends on how big you consider a slot, lol); the blades were very thin at the front but tapered out a little as they went to the back of the sphere.  The fan blades were never bigger than the open space.  I am sure about the Christmas lights, I saw them every year for well over a decade; I will try to find some documentation on that since it was obviously different in the U.K.  Here is a screen cap from the second season episode "Metamorphosis" clearly showing the fan blades and the size relative to the open slots; clearly much smaller than the slots.
+
+[IMAGE: zz_Fan_Blade.jpg]
+
+[IMAGE: Fan_Blades_2.jpg]
+
+Here is the last known photograph from 1972 of the miniature with the original nacelle's intact.  Even though the nacelles are not lit; you can clearly see how thin the blades were:
+
+[IMAGE: Last_Complete_Nacelle_Photo.jpg]
+
+The 2015-2016 restoration team went to great lengths to get the model as perfect as possible.  They have 12 thin vanes which matches the original model.  
+
+[IMAGE: NASM-_A19740668000-_NASM2016-02385-000005.jpg]
+
+The effect of the lights, blinking lights, turning fan blades, broken mirrors, stage lighting (creating shadows from the fan blades) and the effect of the individual film frames creating a strobe effect gave us an amazing visual representation of what was suppose to be great power.  To me, it was very effective.
+
+Here is a quick .GIF clearly showing the lights flashing.  I have tried to align the blades of the spinning fan so that they would be close to matching up (difficult because the spacing of the fan blades changes due to them bending has they turn).  Even though it is not perfect you can see the top right light and several on the RH side are on in one frame and off in another.  The same is true on the LH side.
+
+[IMAGE: Nacelle-_Flashing-_Lights-_WM.gif]
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #4427629)
+Author    : Miniaturizer Ray
+Date      : Mar 15, 2018 at 6:54 PM
+────────────────────────────────────────────────────────────────────────
+
+Feek, thanks very much for those. I'll dig out the Blu-ray and have a look at Metamorphosis.  Any other first or second series episodes that feature good shots that aren't in Doug Drexler's video?  (from the look of the still you posted, it seems much clearer than any of the clips he selected.  I wonder why he missed it?)
+
+The Golden West pictures are the main fly in the ointment to the "slot" theory.  If the lights are off and the motors aren't running then it's dead in the water.  As I mentioned in post #10, though, if the lights were off, there would still be ambient light reflected from the mirrors to cast shadows of the "vanes" onto the sandblasted outer domes.
+
+I'm trying to think of a common example of how narrow slots cut into a solid dome would give the appearance of wide gaps separated by narrow vanes when the dome is spun in front of a light source, and I haven't come up with anything. To get the crisp edges of the "vanes" you need to film or photograph it to achieve a definite shutter period.  Even if I rigged something up and videoed it, it wouldn't look right, because all of the cameras that I have now have CMOS sensors, which do this:
+
+https://www.diyphotography.net/this-video-helps-you-understand-the-rolling-shutter-effect/
+
+I'm going to try and make some CGI renders to show my theory.  I have five different rendering engines which each have their strengths and weaknesses when it comes to simulating real world lighting, but I'm well out of my comfort zone with that - I have an arsenal of tricks for making images look real without incurring the computational costs of physical accuracy but here I'll be doing the opposite.  I've done a few tests, and that stuff takes a long time to render.  Please keep posting to this thread; if I don't reply, it's because I'm waiting for a render to finish...
+
+Another point that I noticed in the Jeff Szazly article that I linked to is that he specifically describes the inner domes as being clear hemispheres bisected by black lines.  To me, that doesn't sound like a different way of describing the aluminium spinnings that Richard Datin had made, that sounds like something different.  Maybe somebody replaced Mr Datin's spinnings as well as the clear or white bulbs that he remembers installing.  Hmmm...
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #4427642)
+Author    : feek61
+Date      : Mar 15, 2018 at 7:33 PM
+────────────────────────────────────────────────────────────────────────
+
+I always thought the fans were clear domes with black lines on them but after watching them spin, frame-by-frame you can actually see the spacing change between the fan blades like they are bending as they spin.  The only way that would happen is if they were thin pieces of something (cut aluminum dome just as Datin described) that slightly bend as the dome spun.  There is no questions the spacing between the fan blades slightly changes as it rotates.
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #4427698)
+Author    : Miniaturizer Ray
+Date      : Mar 15, 2018 at 10:53 PM
+────────────────────────────────────────────────────────────────────────
+
+Okay - I found some information about the blinking Christmas bulbs.  Apparently it was a pretty common thing in the US.  
+
+You have a special bulb with a red tip containing a bi-metallic strip, and if you put it in a string of lights, all of the lights further down the string blink with it, is that right?  
+
+I still can't figure out exactly how that's wired up according to the various descriptions that I've read, but I'm willing to accept  that it's a thing.  How is it wired up?  
+
+So, in the Enterprise nacelles, you have twenty Christmas tree lights, some of which stay lit, and some of which blink on and off in unison, is that right?  The number that blink depends on where the red tip bulb is located along the string, yes?  Presumably, you can't put another red bulb further down the string to make some of the lights blink off even more, because the bimetallic strip wouldn't have a chance to get hot enough before the previous red bulb broke the circuit.
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #4427756)
+Author    : feek61
+Date      : Mar 16, 2018 at 3:21 AM
+Reactions : Like — Borjis
+────────────────────────────────────────────────────────────────────────
+
+You are not reading about the correct bulbs.  The red-tipped bulbs are the smaller lights.  If you put the red-tipped light in a normal strand of lights: yes, the rest of the strand would blink.  Typically however, those strands are wired with 3 conductor wire so that there is always current going to all of the lights so the blinking does not effect the others.    The Enterprise miniature used the C7 twinkle lights if I am remembering correctly.  The C7 strands only had two conductors.  The blinking lights in the nacelles did NOT blink in unison; they blinked randomly.  One light flashing had no relationship to the other flashing lights; it depended on how long it took for each individual light to heat up.  This blinking light randomness was common in TOS; another example is the type 4B computers.
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #4427933)
+Author    : swhite228
+Date      : Mar 16, 2018 at 11:00 AM
+────────────────────────────────────────────────────────────────────────
+
+They said after the last restoration was done that (members of the restoration team) that the C-7 bulbs were not the bulbs used in the nacelles.  It was likely they used the new thin tube like "Merry Miniatures" that were new to the market in 1962. If you use C-7 bulbs you would have space problems.  If the bulbs were cut from a strand then placed in the back plate  and then wired together quickly they would end up as a parallel circuit allowing both flashing and always on  bulbs.  
+
+The bulbs were 3v which would explain the need for the transformer.
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #4428014)
+Author    : Miniaturizer Ray
+Date      : Mar 16, 2018 at 2:00 PM
+────────────────────────────────────────────────────────────────────────
+
+Seriously, this whole Christmas tree light business is frying my noodle.  
+
+If you'd told anybody in the UK that you'd used a set of Christmas tree lights to accomplish something in the 1960s, they would have known exactly what you meant.  The only variation was the colour of the bulbs and the style of the little plastic decorative cup at the base of the bulb.  
+
+I'm slowly working my way though https://oldchristmastreelights.com/table_of_contents.htm 
+
+swhite228, "Merry Miniatures" or "Merry Midgets"?  I get lots of Google hits for "merry miniatures Christmas tree lights" but none of them seem to specifically refer to a particular type of light, and most of them are primarily about Hallark "Merry Miniatures" decorations.  "Merry Midgets", on the other hand, were GE lights wired "on a loop" which I presume means in series.  I found some sets of Merry midgets that include a red tip flasher bulb, but it clearly states on the packaging that the lights either all burn steadily or all flash, as you'd expect with a series wired set.
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #4428072)
+Author    : swhite228
+Date      : Mar 16, 2018 at 3:26 PM
+────────────────────────────────────────────────────────────────────────
+
+Miniaturizer Ray said:
+
+			Seriously, this whole Christmas tree light business is frying my noodle.  
+
+If you'd told anybody in the UK that you'd used a set of Christmas tree lights to accomplish something in the 1960s, they would have known exactly what you meant.  The only variation was the colour of the bulbs and the style of the little plastic decorative cup at the base of the bulb.  
+
+I'm slowly working my way though https://oldchristmastreelights.com/table_of_contents.htm 
+
+swhite228, "Merry Miniatures" or "Merry Midgets"?  I get lots of Google hits for "merry miniatures Christmas tree lights" but none of them seem to specifically refer to a particular type of light, and most of them are primarily about Hallark "Merry Miniatures" decorations.  "Merry Midgets", on the other hand, were GE lights wired "on a loop" which I presume means in series.  I found some sets of Merry midgets that include a red tip flasher bulb, but it clearly states on the packaging that the lights either all burn steadily or all flash, as you'd expect with a series wired set.
+		
+
+Click to expand...
+
+Stop thinking that the lights remained in the configuration they were sold in.  If you take a set of  the  lights and you separate the bulbs and sockets you will end up with 1 bulb, 1 socket, and 2 lead wires.  This is what they did for the Enterprise. The sockets were taped to screws or left loose over the mirror pieces which gives the effect of large and small bulbs. The wires were divided into two groups 1 wire from each socket in each group and those two wire groups were wired to the transformer, making the circuit parallel at that point, and allowing the flashing bulbs to flash with the others to remain on.
+
+Remember the lighting on the original model was a quick and dirty job. There was no flashing circuit to drive the lights, just the flasher bulbs.  The model was a mixture of incandescent bulb sizes and voltages .
+
+You are correct the bulbs were "Marry Midgets" made by GE.  The "red" top clear bulbs were blinkers made with a strip of BiMetal that opened and closed the circuit a it heated and cooled.  As sold the bulbs were wired in series (loop) and the flasher bulb would flash the whole strand.  The red tip was standard, but GE did make colored flashers available in some sets at the request of it's customers.  The bubs were clear when made then dipped in colored dye that would as the bulbs aged flake off. In most cases the colored flasher bulbs had the red top that could be seen after it was dipped to make the colored flasher.
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #4428196)
+Author    : Miniaturizer Ray
+Date      : Mar 16, 2018 at 8:20 PM
+────────────────────────────────────────────────────────────────────────
+
+swhite228 said:
+
+			Stop thinking that the lights remained in the configuration they were sold in.
+		
+
+Click to expand...
+
+The reason that I want that to be the case is because that's what it's natural to assume by interpreting Richard Datin's words exactly. 
+
+If you read the Datin book, he repeatedly remarks on incorrect information that he's heard passed around, and his description of the modification work that he performed is quite detailed and specific. On topics where he doesn't have a clear recollection or paperwork to remind him, he says so. So I'm kind of starting from the assumption that if Richard Datin says he did something, he did. 
+
+He doesn't make any mention of constructing a new wire harness, he just says "a set of miniature Christmas tree-type lights were attached". As you yourself have remarked, it was a "quick and dirty job". Much less work to just take a string of Merry Midget bulbs (which are basically the same as the UK lights that I'd originally imagined were used) and use them as they are than to cut them all up and reconnect them. Bear in mind that the effect that Datin was after (which, in my opinion, he didn't really achieve) was to make it look as if the lights were spinning, not blinking:
+
+"...and when powered, achieved the 'spinning lights' effect under the frosted but translucent, Plexiglass surface. The lights remained stationary while an off-camera stage technician controlled the speed of the rotating slotted dome..."
+
+This is not to say that somebody else didn't replace the lights (in all probability, the lights were replaced, since Datin says that he used white or clear lights, but they might have installed a whole new custom rig, or they might have just changed out the bulbs.
+
+I've taken a look at the Metamorphosis clip from the blu-ray, and it's not that dissimilar to the clips in the Doug Drexler video. The stills and GIF that feek61 has posted have a lot of sharpening on them, which changes the appearance of the "vanes" quite a bit. I'm still not convinced that they're proof of blinking lights.
+
+Here are a couple of renders that I've made. This first one shows how a metal disc with narrow slots can appear to be a set of narrow vanes when it's rotated in front of a light and filmed with a movie camera. What it doesn't show is the slight "bending" that feek61 mentioned, which I believe is an artifact caused by the camera shutter - the way movie camera shutters work, they do exhibit a very mild version of the "rolling shutter" effect that makes helicopter blades look totally wacky when filmed with a CMOS sensor camera. 
+
+Here I've spun the disc up to pretty close to the maximum speed that it can spin at and still show "vanes". If you go much faster, you get bright bands where the slots have rotated far enough around to overlap the next slot. I've put a little red flag on the edge of the dome to indicate the speed that the dome is actually spinning at. When the dome gets up to full speed, what's actually a metal dome with narrow slots rotating clockwise fairly fast appears to be a set of narrow vanes rotating much more slowly in the opposite direction. The speed that it's rotating at at about the two and a half second mark is more like the effect usually seen on the show - wider vanes rotating slowly in the same direction as the disk is spinning.
+
+http://i.imgur.com/lymnFt4.gif
+
+This next one is done with computer tricks, I admit.  Because this stuff takes so long to render, I pre-rendered an opacity map for the dome to simulate the spinning slots, and I used a post-render gaussian blur to simulate the diffusion from the sandblasted domes.  It still basically shows exactly the same thing that you'd see if I'd accurately simulated those aspects.  These are all little lights that remain steadily lit, they just appear to blink as the slots whizzz past them.  Notice how the red light nearest the bottom corner appears completely steady.  Viewed from a different angle, it would start to blink, and some of the other lights might appear steadily lit.  
+
+All this shows is a bunch of lights with a black slotted dome spinning in front of them.  The real effect is considerably more complex still, with the diffusion from the outer dome, the reflections from the mirror shards which will each also have their own distinct "blinking" pattern, and possibly reflections from the inside of the aluminium dome as well:
+
+http://i.imgur.com/zBSss7q.gif
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #4428315)
+Author    : feek61
+Date      : Mar 17, 2018 at 5:37 AM
+────────────────────────────────────────────────────────────────────────
+
+Nice job on the renders and I appreciate the work you are putting in this but In the end you believe what you want; photographic proof doesn't appear to convince you.  Not to be harsh but you asked for evidence and much has been provided but you discount or explain it away in order to push forward your (wrong) theory that there were no blinking lights and only thin slots in the solid (aluminum) hemisphere.  The photo from 1972 of the nacelles lights and fan off clearly shows the small fan blades and the .GIF  I posted was not "sharpened" in any way unless you consider zooming into a specific area sharpening.  The extensive work and research done by the restoration team which has thin fan blades and blinking lights to replicate the original effect is totally ignored by you.  
+
+On the Blu-Ray release of "The Vault Series" there are a number of film tests of the miniature with different configurations of the nacelles.  One of the film test is without the spinning fans; just the blinking lights.  Along with the obvious proof I have previous posted of the flashing lights; here are yet more photos of the blinking lights sans the fans (direct caps; not "sharpened" or zoomed or any other enhancement).  In the photos below you can see that the lights are indeed colored but the studio re-worked the nacelle effect to several different configurations after the miniature was delivered.  This particular test was done early into the production of the series on 6/03/66.  FWIW, I have read Datin's (daughter's) book and there are many errors in it.  She interviewed him later in his life for the book and he was recalling what he had done 35 years previously so what is written is interesting and informative but not exactly accurate in some cases.  There were absolutely blinking lights and the fan blades were thinner than the open spaces; you are trying to prove something that is not correct in both cases.  If you discount the photos posted here am not sure how much more evidence can be produced.  I appreciate your dedication but there is a point if you are reasonable and trying to find the truth where you have to admit and agree that your theory is wrong. 
+
+For what it is worth, I don't believe Datin's recollections of the nacelle effect and his involvement.  If he delivered the model with the effect as we know it; why would the studio try different less impressive configurations?  There were many film tests including a cloudy inner dome that spun, pulsating white lights, the colored blinking lights and finally the colored blinking lights with the spinning fan.  Looking at the dates when the effects were filmed; the effect as we know it was the last to be filmed with the plain white lights being filmed weeks before.  If Datin had delivered this effect (with the spinning fan) it seems that this would have been the first filmed.  Why would the studio disassemble this brilliant effect (without film tests) and change it to just pulsating white lights which obviously were not going to be as impressive as the effect that was delivered only to change them back weeks later to the effect Datin delivered?   It doesn't make any sense which is why I think that Datin is misremembering what he did on the nacelle lighting.  Based on the dates and the effects that were filmed, I think Datin delivered the miniature with white lights and then the studio spent weeks changing and improving the effect to what was eventually seen on screen.  
+
+[IMAGE: Rod_Vault_11.jpg]
+
+[IMAGE: Rod_Vault_10.jpg]
+
+[IMAGE: 20180317-085745.jpg]
+
+[IMAGE: 20180317-085749.jpg]
+
+[IMAGE: 20180317-085751.jpg]
+
+[IMAGE: 20180317-085753.jpg]
+
+[IMAGE: 20180317-085754.jpg]
+
+[IMAGE: 20180317-085756.jpg]
+
+[IMAGE: 20180317-085757.jpg]
+
+[IMAGE: 20180317-085759.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #4428435)
+Author    : Miniaturizer Ray
+Date      : Mar 17, 2018 at 10:22 AM
+────────────────────────────────────────────────────────────────────────
+
+I don't want to get into a fight about this, but photographic proof certainly does convince me. 
+
+ The second render that I posted specifically addresses the point that just because a movie appears to show blinking lights, that, by itself, isn't proof that the lights were actually blinking. 
+
+  We can all see that the effect looks like aset of vanes rotating around a set of blinking lights, but it's kind of the whole point of "special effects" photography that what appears on screen isn't what was actually happening.  In SUPERMAN THE MOVIE, it looks like Christopher Reeve can fly.  In JASON AND THE ARGONAUTS, it looks like Todd Armstrong fights off a bunch of skeletons grown from dragon's teeth.  What actually happened on the soundstages was completely different from what appeared on screen.
+
+As I said earlier, in three of the four Golden West photos that I've seen, the lights in the domes certainly appear to be unlit, but why assume that that means that the motors also weren't running? Those photographs are photographic proof that whatever exactly is inside the outer domes is visible even when the lights are off.  If the lights were off because they were having some problem with them, it doesn't automatically follow that they would also have turned the motors off while the model was on display, because the spinning innards would still be a visible part of the display. 
+
+ If the motors were running, ambient light would shine in through the outer domes, reflect off the mirror shards, and shine back out through the inner domes like the light from the bulbs, and the apparent shape of the "vanes" would be largely the same as it is with the lights on.
+
+It's not like I'm digging my heels in and refusing to acknowledge the obvious in the face of overwhelming evidence.  Plenty of people have tried to replicate the effect seen on screen; few, if any, have entirely succeeded. I'm pretty sure that I've either seen a video, or read an interview, in which Malcolm Collum, who's a pretty smart guy from what I've seen, explicitly stated that they couldn't precisely replicate the original effect on the model as seen in person, because the movie camera shutter is a crucial part of the equation.
+
+As I've said, I was completely ignorant of the fact that in the US, "Christmas tree-type lights" could refer to any one of dozens of different contraptions.  Having learned more about that I feel stupid for not considering the fact that US Christmas tree lights might not have been the same as the kind that we had here. 
+
+ I'm entirely open to the idea that there may have been blinking lights, but I want to see evidence that clearly shows that it was actually the bulbs blinking rather than something else (like the render that I posted) going on.I'm not trying to prove that that the bulbs didn't blink, I'm trying to establish, to my own satisfaction, whether they did or not.   If the shots shown on the show were conclusive evidence that they did, I wouldn't have had any reason to doubt it in the first place.
+
+This "Vault Series" blu-ray, is that this?:
+
+https://www.amazon.com/Star-Trek-Original-Roddenberry-Blu-ray/dp/B01LFUORW0
+
+I know a Trekkie who will almost certainly have a copy of that.  I'll see if I can borrow it.  I notice that "Metamorphosis" is on there; is that where your grabs came from?  If so, it could explain why your grabs are more sharpened than the series blu-ray footage.
+
+This is the theory that I currently have:  Richard Datin, who designed and built the original effect, specifically referred to it as a "spinning light" effect.  If you built the gizmo that he described, with a solid inner dome with slots cut into it, and a set of lights and mirrors inside, when you spun the inner dome, bands of light would appear to be spinning around the outer dome, with the appearance of each band changing as the spatial relationships between each of the bulbs and the slots changed.  Spinning the dome faster would eventually merge the bands together, in the same way that a plane's propeller blades eventually look like a transparent disc when they spin fast enough, giving the effect of scintillating lights whirling around the surface of the dome. 
+
+ If the inner dome that Richard Datin made had had narrow vanes with wide open spaces between them, it wouldn't have produced this effect.
+
+Seen with the naked eye, this was probably quite an impressive effect.  However, filmed with a movie camera, the effect wouldn't really work.  A movie camera (running at normal speed, with a normal shutter angle) records everything that happens in 1/48th of a second, none of what happens in the following 1/48th of a second, then everything that happens in the following 1/48th and so on.  Then when the movie is played, each of those little 1/48th of a second slices of time are presented all at once so that all of the movement that would have been visible to the naked eye during each individual 48th of a second is lost. 
+
+ The effect on film would essentially resemble the first render that I posted, but with all of the individual lights showing through the dome rather than just the plain white illuminated background in my render.
+
+At the time when he started working on Star Trek, Richard Datin had made a few models for various movies, but he wasn't actually officially working in the movie business because he didn't have a union card.  He was a model maker by trade, not an effects technician.  He probably wasn't fully aware of the way that filming the  device that he designed would change its appearance.
+
+Possibly, when they filmed the effect, they realized that it was a bit "meh" looking on film, so they put in the coloured bulbs (which may or may not have blinked) to spice it up a bit, and it's possible that some bright individual figured out that since the slotted dome didn't really work as intended, you could achieve the same effect by replacing it with the transparent domes with black stripes that Jeff Szazly describes in the Starlog article.  I think, for this to be the case, though, given the tight budget, there'd need to be a compelling reason for doing it.
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #4428451)
+Author    : feek61
+Date      : Mar 17, 2018 at 10:55 AM
+Reactions : Like — Mark2000
+────────────────────────────────────────────────────────────────────────
+
+The photos I posted above are FROM A FILM THAT YOU CAN WATCH THE FLASHING LIGHTS HAPPENING WITHOUT THE SPINNING FANS!!!.  How do you explain that the lights are easily seen as blinking but actually are not?  Do you want me to believe that the shutter alone causes some lights in the nacelle to randomly blink while others never waiver in brightness or intensity?  Poppycock!  
+
+There is no logical reason for the studio to remove Datin's effect to replace it with this unimpressive effect (which is from film on 5/25/66 more than a week before those I posted above):
+
+[IMAGE: Rod_Vault_2.jpg]
+
+[IMAGE: Rod_Vault_3.jpg]
+
+[IMAGE: Rod_Vault_4.jpg]
+
+Or this pulsating white light (which I suspect is Datin's original effect before the studio created the final effect):
+
+[IMAGE: Rod_Vault_7.jpg]
+
+[IMAGE: Rod_Vault_8.jpg]
+
+I don't believe that Datin installed the broken mirrors either which I believe he confirmed in the Communicator issue (which I would have to dig up to remember specifically what he said).  Remember, the Datin book was written by his daughter from interviews she did with her dad almost 20 years earlier which was 35 years after he worked on the miniature.  She obviously loves and is proud of her dad but there are many things in the book that are just plain wrong.  I find the thought absurd that Datin delivered the miniature with the effect that we know (but with only white or clear lighting) only to have the studio completely change it to some really basic "flashing white light" effects and then change it back to what Datin delivered.  That is highly unlikely.  The more plausible scenario is that Datin delivered the miniature and the nacelle effect was unremarkable.  The studio then modified it and continued to work on it for several weeks filming each iteration until they came up with the effect that was eventually used.  The studio most probably added the broken mirrors, colored flashing lights, spinning fan and tinted dome.
+
+Back to the flashing lights.  There is no scenario using your theory that would account for differences in brightness on the entire hemisphere.  If what you say is true then even though the spinning fan and camera strobe effect were making the lights appear to blink; there would not be changes in the apparent brightness of the entire hemisphere.  How do you explain the difference here?
+
+[IMAGE: 20180317-163016.jpg]
+
+[IMAGE: 20180317-163020.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #4428567)
+Author    : gjjackson
+Date      : Mar 17, 2018 at 4:29 PM
+────────────────────────────────────────────────────────────────────────
+
+What the Smithsonian accomplished pretty well mirrors what is seen on screen in certain visuals.  Remember also, the Smithsonian has materials that no one in the public are privy to. Furthermore, those blades, and lighting effects had different rates at different times.    I find this to be another pointless excursion.
+────────────────────────────────────────────────────────────────────────
+Post #28  (forum post #4428575)
+Author    : robn1
+Date      : Mar 17, 2018 at 4:41 PM
+Reactions : Like — Mark2000
+────────────────────────────────────────────────────────────────────────
+
+View the first few seconds of this clip a frame at a time (pause the video and use the < and > keys to advance one frame), some of the lights can be seen to go off and two or three vanes pass over them before they come back on. Others can be clearly seen to remain lit as the vanes pass over them and do not go off.
+────────────────────────────────────────────────────────────────────────
+Post #29  (forum post #4428658)
+Author    : feek61
+Date      : Mar 17, 2018 at 8:16 PM
+Reactions : Like — Mark2000
+────────────────────────────────────────────────────────────────────────
+
+gjjackson said:
+
+			I find this to be another pointless excursion.
+		
+
+Click to expand...
+
+I agree, I was trying to help but now I just feel like I'm wasting my time.
+────────────────────────────────────────────────────────────────────────
+Post #30  (forum post #4428675)
+Author    : Miniaturizer Ray
+Date      : Mar 17, 2018 at 8:54 PM
+────────────────────────────────────────────────────────────────────────
+
+Feek, I'm sorry to be awkward, but in the clip that you say has only the blinking bulbs, I can see the spinning inner domes fairly clearly:
+
+http://i.imgur.com/Ot7ic5B.gif
+
+They appear to be rotating clockwise at about 60 rpm, but the Wagon Wheel effect means that they could be rotating considerably faster, in either direction (they can't actually be rotating at exactly 60 RPM, because if the camera is running at 24fps, with a 12 vane spinner, you wouldn't see rotation, you'd see a slightly flickery stationary spinner that appeared to have 24 vanes).
+
+I think that the configuration of the model is exactly the same in that clip as it is in the next clip, with the only difference being that the camera is in motion.  Obviously, if you just can't see the spinning motion (I admit that it's much less discernible than in the actual show) then there's not much I can do to persuade you that it's there.
+
+			Back to the flashing lights. There is no scenario using your theory that would account for differences in brightness on the entire hemisphere. If what you say is true then even though the spinning fan and camera strobe effect were making the lights appear to blink; there would not be changes in the apparent brightness of the entire hemisphere. How do you explain the difference here?
+		
+
+Click to expand...
+
+This seems like a slightly strange question to ask, because it seems to be back to front.  With only blinking bulbs present, the illumination across the entire outer dome would always exactly match the amount of light that we can see directly coming from the bulbs, but it clearly doesn't.  If you separate the video into the red, green and blue channels you can see this even more clearly.  
+
+https://i.imgur.com/BcUDpkr.gif
+
+Every "scenario using my theory" automatically accounts for this. The constantly changing light on the surface of the outer dome is coming from lights that are on, but are obscured from direct view by the vanes of the inner dome.  The amount of light reaching any given point on the surface of the dome will exhibit the same kind of blinking pattern as is seen in my second render.
+
+robn1,  the first part of that clip is the "Metamorphosis" clip that we've already looked at.  The appearance of the spinners is an illusion caused by the film camera.  Look closely at the starboard spinner:   
+
+https://i.imgur.com/yCKWZpL.gif
+
+Notice how the spinner looks like a twelve legged rubber spider, lurching around at about 7RPM.   What you're seeing is not the spinner itself, but the shadow cast by the spinner on the outer dome, or more specifically, those areas of the outer dome that remained shaded by the spinner for the entire duration that the film frame was exposed.  Look at the six o'clock position, and notice how, as each leg approaches six o'clock, it seems to make a little leap towards six o'clock, changing the size of the gaps between the two legs that are next to it.  It's the same effect as when you walk past a street lamp.  As you walk towards the street lamp, your shadow trails behind you.  As you pass the street lamp, your shadow will suddenly swing round and appear in front of you.
+
+The spinner isn't actually rotating at 7RPM, it's going much faster than that, but the effect of the camera shutter makes it appear that way (as I've mentioned, this is called "the Wagon Wheel effect".
+
+Now notice how, as each of the spider legs makes its little leap, the red light that's at six o'clock flashes.  The flashing isn't completely identical for each leg because you have a combination of two factors - the illusion of the leaping that's a function of the spatial relationship between the spinners and lights that they're casting shadows from, and the illusion of the slow rotation that's caused by the Wagon Wheel effect.  Having noticed the relationship between the flashing red light and the leaping leg at six o'clock, pick another spot on the dome to study, and you'll see that there's always a relationship between the flashing of the lights and the lurching of the legs.
+
+gjjackson, thanks for reporting your findings.  Feel free not to participate further.
+────────────────────────────────────────────────────────────────────────
+Post #31  (forum post #4428698)
+Author    : gjjackson
+Date      : Mar 17, 2018 at 9:57 PM
+────────────────────────────────────────────────────────────────────────
+
+Watch the Hi-Res Drexler video and it is clearly defined and obvious.
+────────────────────────────────────────────────────────────────────────
+Post #32  (forum post #4428761)
+Author    : robn1
+Date      : Mar 18, 2018 at 5:09 AM
+────────────────────────────────────────────────────────────────────────
+
+gjjackson said:
+
+			Watch the Hi-Res Drexler video and it is clearly defined and obvious.
+		
+
+Click to expand...
+
+Yes, look especially at the clip at 3:20 in that video. Seen frame by frame there are times where the dome light color is predominately yellow/orange, and times where it is predominately blue/green. These colors are also reflected in the upper surface of the saucer. This could not be caused by the rotating fan alone; the blades can only block the bulb from view, they could not block the light output entirely.
+────────────────────────────────────────────────────────────────────────
+Post #33  (forum post #4428781)
+Author    : feek61
+Date      : Mar 18, 2018 at 6:47 AM
+Reactions : Like — Mark2000
+────────────────────────────────────────────────────────────────────────
+
+robn1 said:
+
+			Yes, look especially at the clip at 3:20 in that video. Seen frame by frame there are times where the dome light color is predominately yellow/orange, and times where it is predominately blue/green. These colors are also reflected in the upper surface of the saucer. This could not be caused by the rotating fan alone; the blades can only block the bulb from view, they could not block the light output entirely.
+		
+
+Click to expand...
+
+This is what I was referring to; the apparent differences in brightness (and as Robn1 pointed out color) of the entire dome.  The dome intensity would remain the same using your theory through out the sequence yet it does not.  The other flaw to your theory is that the fan speeds were adjustable so we would be seeing different effects.
+
+[IMAGE: 20180318-154437.jpg]
+
+[IMAGE: 20180318-154513.jpg]
+
+You seem to be more interested in proving your point while ignoring the obvious.  Have you done a simulation with blinking lights and thin fan blades?
+
+BTW, the first clip you linked to is NOT the clip I was referring to.
+
+  I don't think I can add anymore to this pointless discussion but I will leave you with this photo which I will be interested to hear how you explain this one away.
+
+[IMAGE: Front_View.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #34  (forum post #4428857)
+Author    : gjjackson
+Date      : Mar 18, 2018 at 10:10 AM
+────────────────────────────────────────────────────────────────────────
+
+Considering the extent the Smithsonian went to in order to return the prop to its original state I would defer to their authority, especially since they had access to far more information and details that the public will evidently never see. I would say viewing that 200 meg video at about 5:42 also is clear indication. The purpose of the blades would make the lights seem more random and deflect away from the appearance of being X-Mas lights. On that clip the camera is stationary, for the most part,  and you have about 6 seconds of film which is quite a few frames to analyze. I ran it at 0.25 fps.
+────────────────────────────────────────────────────────────────────────
+Post #35  (forum post #4428980)
+Author    : Miniaturizer Ray
+Date      : Mar 18, 2018 at 1:17 PM
+────────────────────────────────────────────────────────────────────────
+
+feek61 said:
+
+			This is what I was referring to; the apparent differences in brightness (and as Robn1 pointed out color) of the entire dome.  The dome intensity would remain the same using your theory through out the sequence yet it does not.  The other flaw to your theory is that the fan speeds were adjustable so we would be seeing different effects.
+		
+
+Click to expand...
+
+I can't understand why you keep asserting this.  The inner domes pass in front of various light sources, either absorbing the light if the inside of the spinners is a dark, matte finish, or reflecting the light off in a different direction if its a bright metal finish.  In either case, the location in space that the light would have arrived at receives no light when the solid part of the spinner passes in front of it.  If the light is originating from one of the bulb filaments, and the location in space that the light would have arrived at is the camera lens, then, when its occluded by the spinner, the bulb appears to be off.  If the location in space that the light would have arrived at if it were not occluded by the spinner is the surface of the outer dome, then the light from that particular bulb does not contribute to the illumination of the outer dome at that particular point, and the colour and brightness of the outer dome there will change.
+
+			BTW, the first clip you linked to is NOT the clip I was referring to.
+		
+
+Click to expand...
+
+The first GIF in my previous post is a stabilized close up from the clip on the Roddenberry Vault blu-ray disc 3 "Swept Up:  Snippets from the cutting room floor" segment.  It starts at the 16 minute, 13 seconds, 15 frame point and lasts for 5 seconds and 17 frames.  The colour separated GIF is from the clip that immediately follows it, and lasts for 5 seconds and 4 frames.  It is the clip that the two bottom stills that you posted are taken from.  If neither of these clips are the shot that you claim shows blinking lights with no internal spinner, then which clip is?  If either of these clips is the shot that you claim shows blinking lights with no internal spinner, then how to do account for the fact that the fluctuating light on the surface of the outer dome doesn't exactly match the blinking of the bulbs?
+
+			You seem to be more interested in proving your point while ignoring the obvious.  Have you done a simulation with blinking lights and thin fan blades?
+		
+
+Click to expand...
+
+What would be the point?  CBS digital have done that virtually, and the Smithsonian restoration team have done it in hardware.  We already know what it looks like.  It looks close to - but not exactly like - the effect that was seen on the show.
+
+  I don't think I can add anymore to this pointless discussion but I will leave you with this photo which I will be interested to hear how you explain this one away.
+
+https://s20.postimg.org/bgucjwwzx/Front_View.jpg[/QUOTE]
+
+Presumably, you're asking me to explain away the appearance of narrow vanes on what appears to be an unlit, static model.   Firstly, you've assumed that because the model appears to be unlit, the motors must not be running.  Secondly, you've assumed that because the lights on the model appear to be unlit, they are unlit.  Look underneath the model and there's a huge studio light pointing almost directly at the camera, and yet many of the pixels on the fresnel aren't even white.  The camera would have to be stopped down considerably to achieve that exposure.  The comparatively much dimmer model lights would barely register in the photograph.
+
+gjjackson said:
+
+			Considering the extent the Smithsonian went to in order to return the prop to its original state I would defer to their authority, especially since they had access to far more information and details that the public will evidently never see. I would say viewing that 200 meg video at about 5:42 also is clear indication. The purpose of the blades would make the lights seem more random and deflect away from the appearance of being X-Mas lights. On that clip the camera is stationary, for the most part,  and you have about 6 seconds of film which is quite a few frames to analyze. I ran it at 0.25 fps.
+		
+
+Click to expand...
+
+The Smithsonian team did any extraordinarily good job, but they had to make a case to the board to be able to do a "restoration" at all, since the Smithsonian's current blanket policy is conservation (or possibly preservation - see http://www.computerhistory.org/atchm/preservation-conservation-restoration-whats-the-difference/ for an explanation of the distinctions).  For a time they weren't intending to put any moving parts inside the nacelles at all, but the team at ILM that were tasked with creating a static simulation of the nacelle dome effect weren't able to find a way of doing it convincingly.  The device that's currently installed is designed to replicate the effect, not the mechanism by which it was originally achieved.  In this video at 4:15 you can see Andy Probert (I think) trying out various slightly different inner domes to see which one most convincingly replicates the original effect:
+
+https://vimeo.com/176999007
+────────────────────────────────────────────────────────────────────────
+Post #36  (forum post #4429012)
+Author    : feek61
+Date      : Mar 18, 2018 at 2:15 PM
+Reactions : Like — Mark2000
+────────────────────────────────────────────────────────────────────────
+
+LOL, you really are grasping at straws now!!  To say the black and white PHOTOGRAPH somehow has the exact blur you discuss (due to the fan speed and motion picture shudder) is absurd!  The light to the far bottom RH side of the photo was to illuminate the bluescreen behind the miniature and it is obviously turned off which means they were not filming, which means the miniature lights were not on.  Typically they only turned them on for a second while filming; to suggest that they just left them on for the hell of it is again, absurd.  In fact, most if not all of the clapper footage does not even have the miniature lights on and that is seconds before filming is to begin!  Again, looking at the B & W photo it appears to have been taken with a flash slightly above the camera judging by the shadow under the saucer and the reflection from the front of the domes and deflector dish.  There is little illumination on the top of the saucer (and in fact there are shadows and back lighting visible on top) which would indicate that no stage lighting above could have caused the shadow.  Besides the bottom sensor dome is partially illuminated by the flash which could not be possible with an overhead stage light.  If for some reason they set up a stage light from this angle; the shadow of the photographer would have been clearly evident.  If this were a filming set-up they certainly would have illuminated the bottom of the saucer which it clearly is not based on the massive shadow; something they certainly avoided.
+
+Face it, the photo clearly shows small vanes.  What are the odds that multiple still photographs show the same distortion you propose is caused by a strobe effect caused by the spinning fans and shutter of the motion picture camera?  Oh, I forgot to mention different spinning rates (that still show the exact same distortion; which we both know is impossible).  I will help you out: none!  Your are saying the motors are spinning at extreme speed but remember Datin said these were display motors; they rotated slowly.   Every shred of evidence points to blinking lights and small fan blades yet somehow you cannot accept that.  Truly amazing.  Sometimes a duck is just a duck.
+
+This is just seconds before filming and obviously the lights on the miniature are off; they just did NOT leave the lighting on until the last moment before they needed to.  Also, to the right you can see the bluescreen lighting light is on (the same one that is off in the B&W photo)
+
+[IMAGE: 20180318-172731.jpg]
+
+[IMAGE: 20180318-173608.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #37  (forum post #4429017)
+Author    : alensatemybuick
+Date      : Mar 18, 2018 at 2:24 PM
+────────────────────────────────────────────────────────────────────────
+
+Miniaturizer Ray said:
+
+			In this video at 4:15 you can see Andy Probert (I think) trying out various slightly different inner domes to see which one most convincingly replicates the original effect:
+
+https://vimeo.com/176999007
+
+Click to expand...
+
+Pretty sure that is John Goodson.
+────────────────────────────────────────────────────────────────────────
+Post #38  (forum post #4429027)
+Author    : gjjackson
+Date      : Mar 18, 2018 at 2:46 PM
+────────────────────────────────────────────────────────────────────────
+
+They had to work at "creating" the effect because of the decision to use LED's rather than flashing X-Mas lights, which produce far too much heat. Also, smaller motors were used instead of the original fan motor, as I recall.  In order to get the flashing more accurate they used a controller board to flash the LED's. In the six second clip between 5:43 and 5:50 there are wild color variations from five distinct orange lights  to multi-colored blue and distinct red.
+────────────────────────────────────────────────────────────────────────
+Post #39  (forum post #4429118)
+Author    : Miniaturizer Ray
+Date      : Mar 18, 2018 at 5:37 PM
+────────────────────────────────────────────────────────────────────────
+
+alensatemybuick said:
+
+			Pretty sure that is John Goodson.  More broadly, there is no shame in being wrong (I am all the time), as long as you are willing to correct your thinking when necessary.
+		
+
+Click to expand...
+
+Ha ha, yes definitely not Andy Probert.  Happy to admit being wrong about that.
+
+feek61 said:
+
+			LOL, you really are grasping at straws now!!  To say the black and white PHOTOGRAPH somehow has the exact blur you discuss (due to the fan speed and motion picture shudder) is absurd!  The light to the far bottom RH side of the photo was to illuminate the bluescreen behind the miniature and it is obviously turned off which means they were not filming, which means the miniature lights were not on.  Typically they only turned them on for a second while filming; to suggest that they just left them on for the hell of it is again, absurd.  In fact, most if not all of the clapper footage does not even have the miniature lights on and that is seconds before filming is to begin!  Again, looking at the B & W photo it appears to have been taken with a flash slightly above the camera judging by the shadow under the saucer and the reflection from the front of the domes and deflector dish.  There is little illumination on the top of the saucer (and in fact there are shadows and back lighting visible on top) which would indicate that no stage lighting above could have caused the shadow.  Besides the bottom sensor dome is partially illuminated by the flash which could not be possible with an overhead stage light.  If for some reason they set up a stage light from this angle; the shadow of the photographer would have been clearly evident.  If this were a filming set-up they certainly would have illuminated the bottom of the saucer which it clearly is not based on the massive shadow; something they certainly avoided.Face it, the photo clearly shows small vanes.  What are the odds that multiple still photographs show the same distortion you propose is caused by a strobe effect caused by the spinning fans and shutter of the motion picture camera?  Oh, I forgot to mention different spinning rates (that still show the exact same distortion; which we both know is impossible).  I will help you out: none!  Your are saying the motors are spinning at extreme speed but remember Datin said these were display motors; they rotated slowly.   Every shred of evidence points to blinking lights and small fan blades yet somehow you cannot accept that.  Truly amazing.  Sometimes a duck is just a duck.This is just seconds before filming and obviously the lights on the miniature are off; they just did NOT leave the lighting on until the last moment before they needed to.  Also, to the right you can see the bluescreen lighting light is on (the same one that is off in the B&W photo)https://s20.postimg.org/jmztymay5/20180318-172731.jpghttps://s20.postimg.org/5ulf2ncd9/20180318-173608.jpg
+
+Click to expand...
+
+Yeah, I really can't understand the hostility here, to be honest.  I honestly don't know what the inner domes looked like.  I don't think that there's a photograph of them anywhere in existence. 
+
+ If there was that would constitute proof, in my opinion. 
+
+All I've asked for is evidence, and I haven't seen any yet. 
+
+You said there was a clip on the "Vaults series" blu-ray that showed blinking lights with no spinners inside, so I went out in the snow, borrowed a blu-ray, found the only clips on it that could conceivably be interpreted as blinking lights with no spinners, stabilized one of them, converted them to GIFs and posted them on here, asserted that, to me, they pretty obviously show spinners, pointed out that in addition to the spinners being just plain visible, there are also discrepancies in the overall illumination across the outer dome which are inconsistent with the idea that they're being illuminated solely by blinking lights, and you've just responded with "oh, that's not the clip I was talking about". 
+
+ So I've asked you to clarify which clip you were talking about, and instead you've just chosen to ignore that issue, and move on to a fresh picture.
+
+Twice you've posted pictures that you suggest show that the inner spinners were clearly visible through the outer domes, and I've offered suggestions as to why that isn't actually the case, to be met with mounting scorn and derision.
+
+Go to http://www.startrekhistory.com/models.html and scroll through the gallery of pictures of the eleven foot models till you get to the one that says "The big E stored backstage with the spare studio lights"  (a bit of a slog, I know, but the guy's gone to some bother to prevent people from copying his pictures so it seems a bit off to just copy it anyway and post it here). 
+
+ Why aren't the spinners visible in that picture?  You could answer that they've been removed from the model for some reason, and I'd have to concede that you might well be right. 
+
+ But my alternative, equally valid suggestion is what I've already said about the Golden West picture - you're not seeing the spinners through the outer domes, you're seeing the shadows of the spinners cast on the outer domes by the light coming from within.  When the model is lit, the light comes from the bulbs.  When the model is unlit, the light is ambient light reflected from the mirrors.  In the case of the photo in which the spinners aren't visible most of the light is coming from the camera flash, and isn't reflected in the right direction to cast shadows that we can see. 
+
+ There's no need for either of us to get worked up, or make claims about "poppycock" or clutching at straws", we can both just recognize that these photographs aren't actually evidence of one thing or the other.
+
+Let me try and lay this out simply.  We've all seen Star Trek.  We've all seen that, basically, the nacelle dome effect looks like a bunch of narrow vanes slowly rotating around a bunch of blinking lights. 
+
+ But, like Clerval, who was the first person to respond to this thread, as an adult, I've always assumed that the blinking effect was caused by the rotating vanes, because, where I'm from, in the 1960s, we didn't have all the hundreds of different complicated harnesses and goodness knows what else that apparently were available in the US.
+
+I've been set straight on that, so now I'm looking at all the clips with fresh eyes, trying to work out which bulbs are blinking, and how often, and I'm just not seeing it.  I'm still seeing apparently blinking lights, which when you look more closely, only appear to be blinking because of the spinners. 
+
+ All I've asked for is evidence. 
+
+Some examples of what  I'd consider to be evidence are: 
+
+ Eye witness testimony that specifically mentions blinking bulbs.
+
+Some sort of photograph that actually shows that there was, or even may have been, something more complicated than a set of miniature bulbs wired in series inside the dome. 
+
+Eye witness testimony indicating that there was something more complicated than a set of miniature bulbs wired in series inside the dome.
+
+ I've been tentatively formulating a theory of what would constitute proof of blinking lights inside the dome, and I think that if you could find a clip in which one of the slow moving phantom vanes rotated through 30 degrees past a light which remained off the entire time, that would be it.  I'm going to look for that, and if I can find it, I'll post it here and try and explain why it proves that the lights did actually blink.
+
+But all of the clips that people have said obviously show blinking Christmas tree lights so far don't even constitute evidence, let alone proof, and I've put quite a bit of effort into explaining why.  I'm the one that ought to be getting hostile about this, to be honest.
+────────────────────────────────────────────────────────────────────────
+Post #40  (forum post #4429128)
+Author    : robn1
+Date      : Mar 18, 2018 at 6:06 PM
+────────────────────────────────────────────────────────────────────────
+
+You've seen the clip I pointed out, where the domes appear at times to be only blue, or only green, or only orange etc. These color changes hold for several frames at a time. This can ONLY be due to the colored bulbs blinking on and off. The fan blades passing over the bulbs CAN NOT block all illumination inside the dome, only the bulbs themselves. If a blue bulb is on, it's light will be visible inside the dome whether the bulb itself is blocked by the fan or not.
+────────────────────────────────────────────────────────────────────────
+Post #41  (forum post #4429146)
+Author    : feek61
+Date      : Mar 18, 2018 at 6:46 PM
+────────────────────────────────────────────────────────────────────────
+
+I meant no hostility, it's mostly just frustration at your ignoring compelling evidence and putting forth your preposterous (at this point) theory.  I respect you for asking the question to begin with and your tenacity but at some point the continual excuses for evidence and proof to the contrary of your theory becomes absurd; which is where we have been.  People here have tried to help and have pointed out the flaws to your conclusions but you refuse to accept them.  There are no photos of the inner dome which I'm sure you are aware of but you blissfully ignore other proof, all the while proposing wild speculation without any credible proof yourself.  You have been shown still photography (not film clips) clearly showing the thin fan blades which would be impossible considering different shutter speeds of the camera verses a motion picture camera.  There is no logical explanation that these photos of the fan size blades match the video stills almost exactly unless that is the actual size of them.  Even if the still photography photographed the spinning fans; it still would not match the motion picture stills if they are as you say.  Funny you mention the one person who very early agreed with you but he has not posted since any of the proof has been posted here.  I respectfully withdraw from the discussion since you feel hostility (which is not my intent) and honestly I don't think I have anything further to add anyway.  I was only trying to help answer your question which I really thought you wanted to know the truth; not use this to continually put forth your theory despite all evidence to the contrary.  If you have proof like photos of the inner dome with slits in them or photos of the non blinking lights ; please post them.  I would be interested in seeing those instead of wild speculation.
+
+Take care
+
+Cheers and good luck!!
+────────────────────────────────────────────────────────────────────────
+Post #42  (forum post #4435925)
+Author    : Search4
+Date      : Mar 31, 2018 at 3:56 AM
+────────────────────────────────────────────────────────────────────────
+
+I believe - believe - the Enterprise at Golden West did not have the control box. 
+
+Hence no motors and no lights.  
+
+Btw Feek is correct.  The lights were hot and only turned on rarely and for filming.
+────────────────────────────────────────────────────────────────────────
+Post #43  (forum post #4436506)
+Author    : healvis
+Date      : Apr 1, 2018 at 5:57 AM
+────────────────────────────────────────────────────────────────────────
+
+The lights & box were present at the Golden West display. You can clearly see the dome lights in action from the photo in the article.
+		
+		
+	
+
+	
+
+[IMAGE: 461280-39d0d86206723b3120ada7a78c590dfb.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #44  (forum post #4436702)
+Author    : alensatemybuick
+Date      : Apr 1, 2018 at 12:36 PM
+────────────────────────────────────────────────────────────────────────
+
+I recall reading excepts of an interview with Craig Thompson done some years after the fact, and he described the console in some detail.  I used to have a slightly better version of the following studio pic I downloaded off the 'net that shows it in the foreground, but can't seem to find at the moment.
+
+[IMAGE: 461330-3edae069327cb1233fc6a8412651e0fd.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #45  (forum post #4436728)
+Author    : gjjackson
+Date      : Apr 1, 2018 at 1:34 PM
+────────────────────────────────────────────────────────────────────────
+
+A better one
+
+[IMAGE: 461336-29092ee24097ca5f8ffc26a5daafed75.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #46  (forum post #4436770)
+Author    : alensatemybuick
+Date      : Apr 1, 2018 at 4:00 PM
+────────────────────────────────────────────────────────────────────────
+
+Yes, thanks, that’s the one - though when I posted it once on Hobbytalk I was told that there was an even more high resolution (but privileged) version extant. :rolleyes
+
+I have assumed that the box on the floor and to the right of the model with the slot in the side (which also appears in the photo of the Enterprise after being donated to the Smithsonian) was for the console. Seems too small to be for any part of the model.
+────────────────────────────────────────────────────────────────────────
+Post #47  (forum post #4436817)
+Author    : feek61
+Date      : Apr 1, 2018 at 5:11 PM
+────────────────────────────────────────────────────────────────────────
+
+alensatemybuick said:
+
+			I have assumed that the box on the floor and to the right of the model with the slot in the side (which also appears in the photo of the Enterprise after being donated to the Smithsonian) was for the console. Seems too small to be for any part of the model.
+		
+
+Click to expand...
+
+No, that actually looks like something called an "Apple Box", in this case it appears to be a half-apple box.  They are commonly used on sets for all kinds of purposes (for actors to stand on to make them appear taller, or even heights with other actors) including apparently as part of the Enterprise stand.  They come in several different sizes (half, quarter, etc.).  The photo showing the control box box from the NASM is just a crate; not the half apple box shown in the above photo.
+────────────────────────────────────────────────────────────────────────
+Post #48  (forum post #4436838)
+Author    : The 48th Ronin
+Date      : Apr 1, 2018 at 6:08 PM
+────────────────────────────────────────────────────────────────────────
+
+feek61 said:
+
+			No, that actually looks like something called an "Apple Box", in this case it appears to be a half-apple box.
+		
+
+Click to expand...
+
+He wrote: "I have assumed that the box on the floor and to the right of the model with the slot in the side was for the console." (yellow arrow)
+
+That's way too big to be an apple box. There *is* an apple box in the photo - indicated by the red arrow. The dimensions of an apple box are 20"x12"x8", with a "half apple", "quarter apple", and "pancake" being half, quarter, and one eighth of the 8" dimension.
+
+[IMAGE: 461349-4527f01eeaa2b6d00fc5560ef3921dbf.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #49  (forum post #4436863)
+Author    : feek61
+Date      : Apr 1, 2018 at 7:08 PM
+────────────────────────────────────────────────────────────────────────
+
+Ahh, yes, you are right!!  Whatever it is; it does not match the crate in the NASM photos that clearly says "Electrical Control Panel."
+────────────────────────────────────────────────────────────────────────
+Post #50  (forum post #4436879)
+Author    : alensatemybuick
+Date      : Apr 1, 2018 at 7:28 PM
+────────────────────────────────────────────────────────────────────────
+
+Will, you can tell what it says on this photo (or a higher-res version you have access to)?  
+
+On review, it does not look like quite the same box, though the dimensions sure look similar (hence my ASSumption).
+
+So does anyone know what that weird round plate is with the 3 short tubes sticking up out of it next to the Tholian ship (or is that the Aurora?) behind the Enterprise (it was also in one of the boxes the Enterprise was shipped in)?
+
+[IMAGE: 461355-6fcfe0c69fb97d8d71181b28999e1d41.jpg]
+
+[IMAGE: 461358-045ccc9d1447e8a17e57c77403450ad1.jpg]
+
+ 
+
+Attachments
+
+[IMAGE: 461354-c45fc47089443edf4a715142d517dd19.jpg]
+
+USS_Enterprise_11-foot_studio_model_re-assembled_at_the_Smithsonian_for_inspection.jpg
+
+					1.3 KB
+					
+					· Views: 304
+────────────────────────────────────────────────────────────────────────
+Post #51  (forum post #4436906)
+Author    : Mark2000
+Date      : Apr 1, 2018 at 8:27 PM
+Reactions : Like — edge10, robn1, alensatemybuick
+────────────────────────────────────────────────────────────────────────
+
+But, wait. I still don’t understand. How could a society that had telephones and cars and world spanning commercial air travel and rockets to the moon possibly create randomly blinking Christmas lights that allowed other lights to stay constantly lit? I don’t buy it for a second.
+────────────────────────────────────────────────────────────────────────
+Post #52  (forum post #4436934)
+Author    : Maurice
+Date      : Apr 1, 2018 at 9:23 PM
+Reactions : Like — edge10, Mark2000
+────────────────────────────────────────────────────────────────────────
+
+alensatemybuick said:
+
+			Pretty sure that is John Goodson.
+		
+
+Click to expand...
+
+It is John. I've met him. And I know Bill George.
+
+The lights blinked. I've always known that. You could tell on an NTSC TV in the 70s.
+
+Honestly, you can't put too much stock in people's recollections years on. I asked Dorothy Fontana to read something I'd written up about Bill Theiss and she said I had a point wrong... until I pointed out I'd gotten that information from an interview she herself did with him back around 1969. Over 45 years she's just misremembered some details. We ALL do it. Datin was a very nice man who swapped  some emails with me close to 20 years ago, but I doubt he really remembered the particulars of an iterative job from decades before.
+
+BLINKED. They BLINKED. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #53  (forum post #4436942)
+Author    : JediG60racer
+Date      : Apr 1, 2018 at 9:45 PM
+Reactions : Like — CessnaDriver
+────────────────────────────────────────────────────────────────────────
+
+THERE ARE FOUR LIGHTS!!!!!
+
+Sorry, couldn't resist.
+────────────────────────────────────────────────────────────────────────
+Post #54  (forum post #4437070)
+Author    : alensatemybuick
+Date      : Apr 2, 2018 at 6:17 AM
+────────────────────────────────────────────────────────────────────────
+
+I can't say that I know Bill George or John Goodson, but I met Bill George at NASM on the 50th anniversary of the premiere of TOS. And I can confirm that he blinked. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #55  (forum post #4437277)
+Author    : edge10
+Date      : Apr 2, 2018 at 1:03 PM
+────────────────────────────────────────────────────────────────────────
+
+Mark2000 said:
+
+			But, wait. I still don’t understand. How could a society that had telephones and cars and world spanning commercial air travel and rockets to the moon possibly create randomly blinking Christmas lights that allowed other lights to stay constantly lit? I don’t buy it for a second.
+		
+
+Click to expand...
+
+Lucy Lawless: Ah, yeah, well, whenever you notice something like that, a wizard did it.
+────────────────────────────────────────────────────────────────────────
+Post #56  (forum post #4437920)
+Author    : asalaw
+Date      : Apr 3, 2018 at 1:43 PM
+────────────────────────────────────────────────────────────────────────
+
+alensatemybuick said:
+
+			I can't say that I know Bill George or John Goodson, but I met Bill George at NASM on the 50th anniversary of the premiere of TOS. And I can confirm that he blinked. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+Damn! I was there, and I missed out on meeting him. Bugger.
+────────────────────────────────────────────────────────────────────────
+Post #57  (forum post #4553927)
+Author    : publiusr
+Date      : Dec 10, 2018 at 9:55 AM
+────────────────────────────────────────────────────────────────────────
+
+The best fix is for dome shaped flexible display screens to replicate the effect with no moving parts. The flexible display screens are on the horizon--and with any luck some internet billionaire will help us out on this.
+────────────────────────────────────────────────────────────────────────
+Post #58  (forum post #5171851)
+Author    : craigt
+Date      : Feb 25, 2021 at 9:21 PM
+Reactions : Like — vectorzero, Laspector, CessnaDriver
+────────────────────────────────────────────────────────────────────────
+
+Miniaturizer Ray said:
+
+			Been on a bit of a Star Trek jag recently, and I get the impression that it's generally believed that at least some of the bulbs in the nacelle domes blinked on and off.  I don't see how that could be the case.  Does anybody have any evidence?
+		
+
+Click to expand...
+
+Hi Miniaturizer Ray,
+
+My name is Craig Thompson, formerly of Desilu Studios, and the only person ever allowed to take TOS 11 ft Enterprise off the Paramount lot, in 1972, for display in a major NASA exhibition I created at Golden West College, CA... where over 50,000 guests got to stand within 2 feet of the model and watch it come alive. My former associate, Executive VP Production (Desilu/Paramount Television, Herb Solow, was gracious enough to hand it over. I know first hand that the miniature lights, in the two Nacelles, were just non-blinking Christmas lights (because, when we picked the craft up from its props warehouse storage area—with an open wall exposed to the elements— it was in several pieces and literally caked with years of dust. Once at Golden West College, and cleaned up, we had to take apart the Nacelles and replace the lights. As far as the blinking goes—model designer Richard Datin had been quite clever at creating the illusion of power being generated at Nacelles two ends. The illusion was created with two formed, semi-translucent, fiberglass fittings that spun around *over* the lights, inside their covers—at controllable speeds on a rheostat fitted to the top of a 4 ft high metal control panel that also had switches to control each of the nacelles, deck, and starboard lights (which was the only side of the ship anyone ever saw)... Enterprise’s actual port side was never seen because it literally had large and small electrical cables that spilled out from port—and fed directly to the control panel about 10-15 ft away from the ship. After we returned the ship to the studio... they didn’t want it back, taking up space in the props department. Unfortunately, the control panel must have been tossed—as it was not part of the original donation, when shipped to the Smithsonian, two years later. I hope this answers your question about the non-blinking lights. Technically, you are correct. However, the spinning light covers did present the illusion that something mighty powerful was going on inside the two nacelles. I hope you get to see this answer, since it’s going on three years since it was posed.
+────────────────────────────────────────────────────────────────────────
+Post #59  (forum post #5171868)
+Author    : CessnaDriver
+Date      : Feb 25, 2021 at 10:11 PM
+Reactions : Like — Captain Dunsel
+────────────────────────────────────────────────────────────────────────
+
+I did a little marginal skills photoshopping the Smithsonian pic to give the port side details it lacks.
+
+[IMAGE: https://www.therpf.com/forums/attachments/to6yi6w-jpg.1430449/]
+────────────────────────────────────────────────────────────────────────
+Post #60  (forum post #5172263)
+Author    : Miniaturizer Ray
+Date      : Feb 26, 2021 at 11:34 PM
+────────────────────────────────────────────────────────────────────────
+
+craigt said:
+
+			Hi Miniaturizer Ray,
+
+My name is Craig Thompson, formerly of Desilu Studios, and the only person ever allowed to take TOS 11 ft Enterprise off the Paramount lot, in 1972, for display in a major NASA exhibition I created at Golden West College, CA... where over 50,000 guests got to stand within 2 feet of the model and watch it come alive. My former associate, Executive VP Production (Desilu/Paramount Television, Herb Solow, was gracious enough to hand it over. I know first hand that the miniature lights, in the two Nacelles, were just non-blinking Christmas lights (because, when we picked the craft up from its props warehouse storage area—with an open wall exposed to the elements— it was in several pieces and literally caked with years of dust. Once at Golden West College, and cleaned up, we had to take apart the Nacelles and replace the lights. As far as the blinking goes—model designer Richard Datin had been quite clever at creating the illusion of power being generated at Nacelles two ends. The illusion was created with two formed, semi-translucent, fiberglass fittings that spun around *over* the lights, inside their covers—at controllable speeds on a rheostat fitted to the top of a 4 ft high metal control panel that also had switches to control each of the nacelles, deck, and starboard lights (which was the only side of the ship anyone ever saw)... Enterprise’s actual port side was never seen because it literally had large and small electrical cables that spilled out from port—and fed directly to the control panel about 10-15 ft away from the ship. After we returned the ship to the studio... they didn’t want it back, taking up space in the props department. Unfortunately, the control panel must have been tossed—as it was not part of the original donation, when shipped to the Smithsonian, two years later. I hope this answers your question about the non-blinking lights. Technically, you are correct. However, the spinning light covers did present the illusion that something mighty powerful was going on inside the two nacelles. I hope you get to see this answer, since it’s going on three years since it was posed.
+		
+
+Click to expand...
+
+Hi Craig,
+
+Thanks very much for posting this.  I'd be interested in reading anything and everything that you can recollect about your experiences with the Enterprise!
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 60

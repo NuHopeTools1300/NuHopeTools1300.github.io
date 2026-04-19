@@ -1,0 +1,196 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Tips and tricks on lighting studio scale models?
+URL    : https://www.therpf.com/forums/threads/tips-and-tricks-on-lighting-studio-scale-models.101256/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #1448904)
+Author    : CB2001
+Date      : Nov 21, 2010 at 11:18 PM
+────────────────────────────────────────────────────────────────────────
+
+Now, before I begin, I am not talking about wiring lights inside studio scale models.  But before I explain, I'd like to start off with the following: I've watched my fair share of older TV and film productions in which a lot of model work was done.  Even though, now, most shots performed are done with CG work, a small bit of recent films have utilized actual models (the last few films I can think of include Titanic, Lords of the Rings and Ghosts of Mars).  
+
+Though I went to film school, this particular practice of lighting a model miniature (no matter what size) is no longer in use.  I asked a teacher about it once, and he explained the only thing that they had left in relation to lighting a physical model miniature is a kit (and then went on the say that learning how to is completely useless at this point, as CG has replaced a majority of the hard work).
+
+Even though the practice of lighting a model miniature (this includes lighting model "sets") to be used in a production is not being done as much, I have been trying to find any information about how to light model miniatures, just in case if I should ever have the need for it (I know that the lighting HAS to be somewhat different from lighting a human being or a set, as models are much smaller and the wrong kinds of light could very well warp it.  But I also known it can't be very different from lighting a human being in front of a green or blue screen).  However, I haven't been able to find anything about how to light a model miniature.  
+
+Has anyone come across any information about this topic?  Thank you for your time.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #1452989)
+Author    : CB2001
+Date      : Nov 25, 2010 at 12:31 PM
+────────────────────────────────────────────────────────────────────────
+
+Anybody?
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #1453155)
+Author    : jedimaster
+Date      : Nov 25, 2010 at 5:00 PM
+────────────────────────────────────────────────────────────────────────
+
+I don't know of any one source but my advice would be to look through old copies of starlog and cinefx . As each film came out they would usually have an article on the filming miniatures and the problems they encountered ie lighting and the way's to overcome those problems.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #1453541)
+Author    : Gort
+Date      : Nov 26, 2010 at 5:52 AM
+────────────────────────────────────────────────────────────────────────
+
+Hi,
+
+What you are referring to is indeed a dying art. Through my time in the BBC Visual effects department here in the UK and a few years working freelance in the miniature effects industry, I've worked with some very clever people who are masters of the well crafted 'model shot'
+
+Mike Tucker who runs a company called 'The Model Unit' out of Ealing Studios ( just type it into Google for his site) has many examples of miniature effects shots. They have won a Bafta and been Emmy nominated. Mike's regular Dir of photography is a guy called Peter Tyler. Peter makes this stuff look so easy, but its not! he lights and shoots everything himself.
+
+I guess what I'm alluding to is that the lighitng of a model and the filming of a model are two parts of the same whole and tend to inform each other. The scale of the miniature also play a big part. Generally the level of light to the eye on set with a miniature will look too much. But when you take into account the considerable depth of field required to get it all in focus, and thus appear 'real' the lighting has to be amped up to compensate for the small camera aperture etc
+
+Check out the interviews on the LOTR DVD's with Alex Funke. He and his teams shot all the complex miniature ( or is that Bigature) shots for those films and you may glean a fair amount from looking at how they approached things. Very much 'old school' meets and embraces the new ways of the digital world.
+
+I'm probably rambling here but check out what I've suggested and it may help a bit.
+
+Cheers
+
+Nick
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #1453940)
+Author    : CB2001
+Date      : Nov 26, 2010 at 3:16 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks, Nick.  Yeah, I know that the art of lighting and filming studio scale models is a dying art, but it's one I've always been interested in.  
+
+I'll definitely check out what you've suggested.  Thanks.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #1453990)
+Author    : Firefoxm31
+Date      : Nov 26, 2010 at 4:42 PM
+────────────────────────────────────────────────────────────────────────
+
+one of the tricks I know of for lighting studio models is to use clear fiberglass with masks for window areas paint em and remove masks... modelers for Startrek ships used this technique...
+
+Will
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #1454064)
+Author    : CB2001
+Date      : Nov 26, 2010 at 6:20 PM
+────────────────────────────────────────────────────────────────────────
+
+Firefoxm31 said:
+
+			one of the tricks I know of for lighting studio models is to use clear fiberglass with masks for window areas paint em and remove masks... modelers for Startrek ships used this technique...
+
+Will
+		
+
+Click to expand...
+
+That sounds interesting.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #1454073)
+Author    : masterjedi322
+Date      : Nov 26, 2010 at 7:02 PM
+────────────────────────────────────────────────────────────────────────
+
+I would pick up a book or something on basic LED circuits. LEDs are cheaper and last longer when compared to the lamps and electronics used to light most film models in the past. They're also relatively easy to implement once you understand the basics.
+
+Sean
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #1454373)
+Author    : CB2001
+Date      : Nov 27, 2010 at 9:19 AM
+────────────────────────────────────────────────────────────────────────
+
+masterjedi322 said:
+
+			I would pick up a book or something on basic LED circuits. LEDs are cheaper and last longer when compared to the lamps and electronics used to light most film models in the past. They're also relatively easy to implement once you understand the basics.
+
+Sean
+		
+
+Click to expand...
+
+Thanks for the info, Masterjedi it may come in handy.
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #1454412)
+Author    : feek61
+Date      : Nov 27, 2010 at 10:28 AM
+────────────────────────────────────────────────────────────────────────
+
+I don't think he is asking how to light interior of the miniatures (windows, running lights, etc.) he is asking about stage lighting and how to best light the exterior of the model for filming.
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #1454566)
+Author    : masterjedi322
+Date      : Nov 27, 2010 at 1:50 PM
+────────────────────────────────────────────────────────────────────────
+
+Ahhhh, I totally missed that. My bad!
+
+Sean
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #1454896)
+Author    : CB2001
+Date      : Nov 27, 2010 at 9:09 PM
+────────────────────────────────────────────────────────────────────────
+
+Feek61 is right.  But it's no problem, MasterJedi322.
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #1467071)
+Author    : CB2001
+Date      : Dec 6, 2010 at 12:13 PM
+Reactions : Like — Drew Baker
+────────────────────────────────────────────────────────────────────────
+
+Just to keep this post up to date, someone has posted about how the Enterprise was lit for "Star Trek."  I'm posting the link here in case someone else, at a later time looks for a post about lighting studio scale models with some interest (like me): http://www.therpf.com/f10/filming-original-enterprise-101952/
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #1471729)
+Author    : Sym-Cha
+Date      : Dec 9, 2010 at 2:45 PM
+────────────────────────────────────────────────────────────────────────
+
+Hi there,
+
+you should try the cinefex website directly here's the link:
+
+Cinefex :: Visual Effects Magazine :: Special Effects :: Computer Graphics
+
+You'll be able to acquire back issues here as well or check ebay for special editions :love
+
+-Chaim
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #1471735)
+Author    : CB2001
+Date      : Dec 9, 2010 at 2:52 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks for the heads up on this.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #1473652)
+Author    : JarodRussell
+Date      : Dec 11, 2010 at 5:36 AM
+────────────────────────────────────────────────────────────────────────
+
+Here's a short feature about model effects in Star Trek: Generations
+
+YouTube - Visual Effects Inside ILM Models & Miniatures
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #1473887)
+Author    : CB2001
+Date      : Dec 11, 2010 at 10:20 AM
+────────────────────────────────────────────────────────────────────────
+
+JarodRussell said:
+
+			Here's a short feature about model effects in Star Trek: Generations
+
+YouTube - Visual Effects Inside ILM Models & Miniatures
+
+Click to expand...
+
+Thanks.  I've also saw some videos like this on YouTube. One of them I've seen is Hollywood films called "Movie Magic".
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 17

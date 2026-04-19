@@ -1,0 +1,65 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Light sheet material...
+URL    : https://www.therpf.com/forums/threads/light-sheet-material.42386/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #560963)
+Author    : Madog
+Date      : Apr 18, 2008 at 3:58 PM
+────────────────────────────────────────────────────────────────────────
+
+Has any one ever used any of the light sheet material? Looking to use some in some projects I've got going. I just have no idea where to get what I need, with out spending a fortune doing it. I need a totally portable solution. I plan on powering all of it with 12v rechargeable airplane batteries. It also need to be the  kind that you can cur and trim to size.
+
+Thanks,
+
+MADOG
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #562478)
+Author    : OdiWan72
+Date      : Apr 21, 2008 at 7:24 AM
+────────────────────────────────────────────────────────────────────────
+
+Depending on what size of lightsheet you plan to use, you can easily have it battery operated. Many shops offer a combo of lightsheet, inverter and battery pack alltogether for a good price. All you need is cut to size (don´t forget to re-seal the lightsheet, regular clear tape will do the job), wire it up and you´re ready to go.
+
+May I ask what exactly you need it for?
+
+markus
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #562479)
+Author    : franz bolo
+Date      : Apr 21, 2008 at 7:27 AM
+────────────────────────────────────────────────────────────────────────
+
+I bought an LED light panel from this guy. They also offer sheets. I had good service with them.
+
+http://www.luminousfilm.com/el_lamp.htm
+
+FB
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #563372)
+Author    : Madog
+Date      : Apr 22, 2008 at 9:45 AM
+────────────────────────────────────────────────────────────────────────
+
+Odiwan75, I see your avatar is coincidentally associated to my project. I'm working on a Republic commando pistol and armor. The armor is just a kit I purchased, but the pistol is totally scratch built. They both have elements that could be resolved with the light sheet material. I called a few places I found on the net, but It seemed that they were making the sheet up custom per order and charging a premium for it. Thanks for the info guys, maybe other members will chime in with more suggestions and links.
+
+MADOG
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #567904)
+Author    : OdiWan72
+Date      : Apr 26, 2008 at 10:40 AM
+────────────────────────────────────────────────────────────────────────
+
+Just google for el sheet or lightsheet.
+
+here are two example websites, that carry pretty much anything you´ll need:
+
+http://electroluminescence-inc.com
+
+http://www.glowhut.com/el-strip--el-panel.html
+
+Markus
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 5

@@ -1,0 +1,534 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NuHopeTools Workflow System Map</title>
+  <style>
+    :root {
+      --bg: #140f0d;
+      --panel: #1e1714;
+      --panel-2: #2b211c;
+      --panel-3: #352922;
+      --line: #574537;
+      --ink: #f3ead9;
+      --ink-2: #d4c4ae;
+      --ink-3: #a6907a;
+      --gold: #d8a553;
+      --sage: #94b08a;
+      --rust: #d07c54;
+      --blue: #8aa5c7;
+      --shadow: 0 24px 60px rgba(0,0,0,0.35);
+      --radius: 20px;
+      --mono: "Cascadia Mono", Consolas, monospace;
+      --sans: "Segoe UI", system-ui, sans-serif;
+    }
+
+    * { box-sizing: border-box; }
+    html, body {
+      margin: 0;
+      min-height: 100%;
+      background:
+        radial-gradient(circle at top, rgba(77,58,41,0.4) 0%, transparent 38%),
+        linear-gradient(180deg, #211914 0%, var(--bg) 55%);
+      color: var(--ink);
+      font-family: var(--sans);
+    }
+
+    body {
+      padding: 24px;
+    }
+
+    .page {
+      max-width: 1560px;
+      margin: 0 auto;
+      display: grid;
+      gap: 18px;
+    }
+
+    .hero,
+    .legend,
+    .surfaces,
+    .pivots,
+    .system-grid {
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      background: linear-gradient(180deg, rgba(40,31,26,0.96), rgba(24,18,15,0.98));
+      box-shadow: var(--shadow);
+    }
+
+    .hero {
+      padding: 22px 24px;
+      display: grid;
+      gap: 10px;
+    }
+
+    .eyebrow {
+      color: var(--ink-3);
+      font: 11px var(--mono);
+      text-transform: uppercase;
+      letter-spacing: 0.14em;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: clamp(28px, 4vw, 54px);
+      line-height: 1.02;
+      letter-spacing: -0.03em;
+    }
+
+    .hero p {
+      margin: 0;
+      max-width: 980px;
+      color: var(--ink-2);
+      line-height: 1.55;
+      font-size: 15px;
+    }
+
+    .hero-chips,
+    .legend-chips,
+    .pivot-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
+    .chip {
+      padding: 7px 12px;
+      border-radius: 999px;
+      border: 1px solid var(--line);
+      background: rgba(255,255,255,0.03);
+      color: var(--ink-2);
+      font: 12px var(--mono);
+    }
+
+    .system-grid {
+      padding: 20px;
+      display: grid;
+      gap: 18px;
+      grid-template-columns: 280px 1fr 1fr 1fr;
+      align-items: start;
+    }
+
+    .lane-title {
+      padding: 12px 14px;
+      border-radius: 16px;
+      border: 1px solid var(--line);
+      background: rgba(255,255,255,0.02);
+      color: var(--ink-2);
+      font: 12px var(--mono);
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      position: sticky;
+      top: 16px;
+    }
+
+    .column {
+      display: grid;
+      gap: 14px;
+    }
+
+    .card {
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      background: rgba(255,255,255,0.03);
+      overflow: hidden;
+    }
+
+    .card-head {
+      padding: 12px 14px;
+      border-bottom: 1px solid rgba(255,255,255,0.06);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 10px;
+      background: rgba(0,0,0,0.12);
+    }
+
+    .card-title {
+      font-size: 15px;
+      font-weight: 700;
+    }
+
+    .card-tag {
+      font: 11px var(--mono);
+      color: var(--ink-3);
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+    }
+
+    .card-body {
+      padding: 14px;
+      display: grid;
+      gap: 12px;
+    }
+
+    .card-body p {
+      margin: 0;
+      color: var(--ink-2);
+      line-height: 1.5;
+      font-size: 14px;
+    }
+
+    .list {
+      display: grid;
+      gap: 7px;
+    }
+
+    .list div {
+      padding: 8px 10px;
+      border-radius: 12px;
+      background: rgba(255,255,255,0.03);
+      border: 1px solid rgba(255,255,255,0.04);
+      color: var(--ink-2);
+      font-size: 13px;
+    }
+
+    .flow {
+      border-left: 3px solid var(--gold);
+      padding-left: 10px;
+      color: var(--ink);
+      font: 13px var(--mono);
+      line-height: 1.55;
+    }
+
+    .objects {
+      grid-column: 2 / span 3;
+      display: grid;
+      gap: 14px;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+
+    .object-band {
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      background: linear-gradient(180deg, rgba(255,255,255,0.04), rgba(0,0,0,0.06));
+      overflow: hidden;
+    }
+
+    .object-band .card-head {
+      background: transparent;
+    }
+
+    .pill-grid {
+      padding: 0 14px 14px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .pill {
+      padding: 7px 10px;
+      border-radius: 999px;
+      background: rgba(255,255,255,0.04);
+      border: 1px solid rgba(255,255,255,0.06);
+      font: 12px var(--mono);
+      color: var(--ink-2);
+    }
+
+    .gold { border-color: rgba(216,165,83,0.45); }
+    .sage { border-color: rgba(148,176,138,0.45); }
+    .rust { border-color: rgba(208,124,84,0.45); }
+    .blue { border-color: rgba(138,165,199,0.45); }
+
+    .legend,
+    .surfaces,
+    .pivots {
+      padding: 18px 20px;
+      display: grid;
+      gap: 14px;
+    }
+
+    h2 {
+      margin: 0;
+      font-size: 18px;
+      letter-spacing: -0.02em;
+    }
+
+    .surfaces-grid {
+      display: grid;
+      gap: 12px;
+      grid-template-columns: repeat(5, minmax(0, 1fr));
+    }
+
+    .surface-card {
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      background: rgba(255,255,255,0.03);
+      padding: 14px;
+      display: grid;
+      gap: 10px;
+    }
+
+    .surface-card h3 {
+      margin: 0;
+      font-size: 15px;
+    }
+
+    .surface-card p {
+      margin: 0;
+      color: var(--ink-2);
+      line-height: 1.5;
+      font-size: 13px;
+    }
+
+    .surface-card .mini {
+      color: var(--ink-3);
+      font: 11px var(--mono);
+    }
+
+    @media (max-width: 1320px) {
+      .system-grid {
+        grid-template-columns: 1fr 1fr;
+      }
+      .objects {
+        grid-column: 1 / -1;
+      }
+      .lane-title {
+        position: static;
+      }
+      .surfaces-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+    }
+
+    @media (max-width: 860px) {
+      body {
+        padding: 14px;
+      }
+      .system-grid,
+      .objects,
+      .surfaces-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <section class="hero">
+      <div class="eyebrow">NuHopeTools / Workflow Architecture</div>
+      <h1>Research Workbench System Map</h1>
+      <p>
+        This is the visual end-state map: not a redesign of one legacy tool, but a set of interoperable research surfaces built on one shared object model. The system must support both evidence-first and entity-first work, with reliable pivots between images, regions, kits, placements, locations, claims, sources, and events.
+      </p>
+      <div class="hero-chips">
+        <span class="chip">Evidence-first</span>
+        <span class="chip">Entity-first</span>
+        <span class="chip">Library / Canvas / Inspector</span>
+        <span class="chip">Shared object identity</span>
+        <span class="chip">Reversible pivots</span>
+      </div>
+    </section>
+
+    <section class="legend">
+      <h2>Core Flow</h2>
+      <div class="legend-chips">
+        <span class="chip">Image intake and grouping sits upstream</span>
+        <span class="chip">Images workbench handles inspection, annotation, linking, claims</span>
+        <span class="chip">Maps own spatial correction</span>
+        <span class="chip">Sources own extract mining</span>
+        <span class="chip">Entity workbench owns reverse lookup</span>
+      </div>
+    </section>
+
+    <section class="system-grid">
+      <div class="lane-title">Workflow Surfaces</div>
+
+      <div class="objects">
+        <div class="object-band gold">
+          <div class="card-head">
+            <div class="card-title">Evidence Objects</div>
+            <div class="card-tag">Raw and structured evidence</div>
+          </div>
+          <div class="pill-grid">
+            <span class="pill">source</span>
+            <span class="pill">source_extract</span>
+            <span class="pill">image_family</span>
+            <span class="pill">image</span>
+            <span class="pill">image_region</span>
+          </div>
+        </div>
+        <div class="object-band sage">
+          <div class="card-head">
+            <div class="card-title">Reference / Spatial Objects</div>
+            <div class="card-tag">Stable lookup and location layer</div>
+          </div>
+          <div class="pill-grid">
+            <span class="pill">kit</span>
+            <span class="pill">part</span>
+            <span class="pill">cast_assembly</span>
+            <span class="pill">model</span>
+            <span class="pill">map</span>
+            <span class="pill">location</span>
+            <span class="pill">placement</span>
+            <span class="pill">placement_position</span>
+          </div>
+        </div>
+        <div class="object-band rust">
+          <div class="card-head">
+            <div class="card-title">Interpretation / Time Objects</div>
+            <div class="card-tag">Meaning, chronology, lineage</div>
+          </div>
+          <div class="pill-grid">
+            <span class="pill">claim</span>
+            <span class="pill">event</span>
+            <span class="pill">physical_object</span>
+            <span class="pill">object_state</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="column">
+        <article class="card gold">
+          <div class="card-head">
+            <div class="card-title">Image Intake</div>
+            <div class="card-tag">Workflow 1</div>
+          </div>
+          <div class="card-body">
+            <p>Bring images in, deduplicate them, group them into logical families, assign a primary image, and preserve useful crops, overlays, and higher-resolution variants.</p>
+            <div class="list">
+              <div>dedupe</div>
+              <div>family management</div>
+              <div>primary vs associated variants</div>
+              <div>source / provenance assignment</div>
+            </div>
+          </div>
+        </article>
+      </div>
+
+      <div class="column">
+        <article class="card gold">
+          <div class="card-head">
+            <div class="card-title">Workbench / Images</div>
+            <div class="card-tag">Evidence-first</div>
+          </div>
+          <div class="card-body">
+            <p>Open one logical image family, inspect its variants, annotate regions, correct geometry, link to entities, and form claims.</p>
+            <div class="flow">image_family → image → image_region → entity → claim</div>
+            <div class="list">
+              <div>family row in library</div>
+              <div>variants in filmstrip</div>
+              <div>region creation and correction</div>
+              <div>visual claim workflow</div>
+            </div>
+          </div>
+        </article>
+
+        <article class="card blue">
+          <div class="card-head">
+            <div class="card-title">Workbench / Maps</div>
+            <div class="card-tag">Spatial</div>
+          </div>
+          <div class="card-body">
+            <p>Inspect map areas, place entities spatially, and preserve imported versus manually corrected positions.</p>
+            <div class="flow">map / location → placement → placement_position → evidence</div>
+          </div>
+        </article>
+      </div>
+
+      <div class="column">
+        <article class="card sage">
+          <div class="card-head">
+            <div class="card-title">Entity Workbench</div>
+            <div class="card-tag">Entity-first</div>
+          </div>
+          <div class="card-body">
+            <p>Start from kits, parts, placements, or object lineages and fan outward into all linked evidence, claims, and neighboring related entities.</p>
+            <div class="flow">kit / part / placement / object → linked regions → linked images → linked claims</div>
+            <div class="list">
+              <div>reverse lookup</div>
+              <div>all supporting evidence</div>
+              <div>all conflicting claims</div>
+              <div>neighbor relationships</div>
+            </div>
+          </div>
+        </article>
+
+        <article class="card rust">
+          <div class="card-head">
+            <div class="card-title">Workbench / Timeline</div>
+            <div class="card-tag">Chronology</div>
+          </div>
+          <div class="card-body">
+            <p>Date build windows, filming, repaint states, transfers, and exhibitions by linking events back to evidence and objects.</p>
+            <div class="flow">event → evidence → object_state / physical_object</div>
+          </div>
+        </article>
+      </div>
+
+      <div class="column">
+        <article class="card rust">
+          <div class="card-head">
+            <div class="card-title">Workbench / Sources</div>
+            <div class="card-tag">Text evidence</div>
+          </div>
+          <div class="card-body">
+            <p>Inspect forum posts, interviews, auctions, or articles; extract quotable evidence; and connect it to images, objects, events, and claims.</p>
+            <div class="flow">source → source_extract → entity / image / event / claim</div>
+          </div>
+        </article>
+
+        <article class="card panel-3">
+          <div class="card-head">
+            <div class="card-title">Graph / Cross-Model</div>
+            <div class="card-tag">Later surface</div>
+          </div>
+          <div class="card-body">
+            <p>Show the wider network once the core pivots are reliable: model-to-kit, part-to-object, claim-to-evidence, event-to-state relationships.</p>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section class="surfaces">
+      <h2>What Each Surface Owns</h2>
+      <div class="surfaces-grid">
+        <div class="surface-card">
+          <h3>Images</h3>
+          <p>Inspection, annotation, image-region correction, entity linking, claim formation.</p>
+          <div class="mini">best at visual evidence-first work</div>
+        </div>
+        <div class="surface-card">
+          <h3>Entities</h3>
+          <p>Start from kits, parts, placements, or objects and pivot outward into every linked support and conflict.</p>
+          <div class="mini">best at reverse lookup</div>
+        </div>
+        <div class="surface-card">
+          <h3>Maps</h3>
+          <p>Location review, map-area pivots, placement inspection, manual position overrides.</p>
+          <div class="mini">best at spatial work</div>
+        </div>
+        <div class="surface-card">
+          <h3>Sources</h3>
+          <p>Post/article review, extract mining, provenance-heavy text evidence linking.</p>
+          <div class="mini">best at text evidence</div>
+        </div>
+        <div class="surface-card">
+          <h3>Timeline</h3>
+          <p>Chronology, production windows, object states, event-to-evidence review.</p>
+          <div class="mini">best at dated interpretation</div>
+        </div>
+      </div>
+    </section>
+
+    <section class="pivots">
+      <h2>Non-Negotiable Pivots</h2>
+      <div class="pivot-list">
+        <span class="chip">image → regions</span>
+        <span class="chip">region → entity</span>
+        <span class="chip">region → claim</span>
+        <span class="chip">entity → linked regions</span>
+        <span class="chip">entity → linked images</span>
+        <span class="chip">location → linked evidence</span>
+        <span class="chip">placement → map position</span>
+        <span class="chip">source extract → claim</span>
+        <span class="chip">event → evidence</span>
+      </div>
+      <p style="margin:0;color:var(--ink-2);line-height:1.6;">
+        Simple test: if a user can enter the system from one side but cannot pivot back out through the linked objects, the surface is incomplete.
+      </p>
+    </section>
+  </div>
+</body>
+</html>

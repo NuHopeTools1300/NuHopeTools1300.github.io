@@ -1,0 +1,30 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Need help locating curved rails for motion control system tile mechanism
+URL    : https://www.therpf.com/forums/threads/need-help-locating-curved-rails-for-motion-control-system-tile-mechanism.362794/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #5627801)
+Author    : Millenniumf
+Date      : May 9, 2025 at 11:45 PM
+────────────────────────────────────────────────────────────────────────
+
+So I have been making a list of parts I can use to build a motion control camera rig, and I really want a tilt system like what's on the Dykstraflex for the camera, the part that sort of looks like a centurion helmet crest that allows the camera to be rotated about the axis of its sensor, and also which can tilt a model on a stand. The problem is I can't for the life of me find a curved rail like this which is designed to pass between rollers and a motor, and I don't have any machine tools or the money to pay someone to machine this for me. I'm planning on making most of it out of 8020 aluminum and McMaster-Carr parts. I did find a curved rail on MC, but I'm not sure it's rigid enough to do the job, and my Google-fu is too weak to find what I'm looking for online, apparently. Can someone please help me find a set of curved rails that will work?
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #5627856)
+Author    : joberg
+Date      : May 10, 2025 at 8:30 AM
+────────────────────────────────────────────────────────────────────────
+
+Millenniumf said:
+
+			So I have been making a list of parts I can use to build a motion control camera rig, and I really want a tilt system like what's on the Dykstraflex for the camera, the part that sort of looks like a centurion helmet crest that allows the camera to be rotated about the axis of its sensor, and also which can tilt a model on a stand. The problem is I can't for the life of me find a curved rail like this which is designed to pass between rollers and a motor, and I don't have any machine tools or the money to pay someone to machine this for me. I'm planning on making most of it out of 8020 aluminum and McMaster-Carr parts. I did find a curved rail on MC, but I'm not sure it's rigid enough to do the job, and my Google-fu is too weak to find what I'm looking for online, apparently. Can someone please help me find a set of curved rails that will work?
+		
+
+Click to expand...
+
+Maybe you should PM MattWinchell 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 2

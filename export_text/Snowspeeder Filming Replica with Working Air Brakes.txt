@@ -1,0 +1,1634 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Snowspeeder Filming Replica with Working Air Brakes
+URL    : https://www.therpf.com/forums/threads/snowspeeder-filming-replica-with-working-air-brakes.172518/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #2675208)
+Author    : imaginager
+Date      : Jan 5, 2013 at 4:21 PM
+────────────────────────────────────────────────────────────────────────
+
+One of my longstanding studio scale goals has been to build a Snowspeeder with servo-controlled upper and lower air brakes.  I remember seeing the "Making of" special for ESB as a kid and being completely taken with the moving flaps and pilot's head.  
+
+So, the only thing I knew about servos before starting this build was that I'd need to use them. :lol 
+
+About the middle of December I purchased an Arduino Uno micro-controller and a couple of E-flite servos, just to dink around (HiTEC HS-55s are installed in the model).  Then, I thought, I'd start on the hard part: developing the code.  My requirements were primarily to control the servos so they could move  both simultaneously and independently of each other, at  variable speeds and throw.
+
+Turned out the code only took a day to work out.  The actual hard part was developing the hinges for the flaps - these aren't some off-the-shelf products from the local hobby shop.  I had to design them in CAD, have some of components laser cut (because of the tolerances), then scratch build them.  There may have even been some expletives and swearing.
+
+But, enough whining from me.  I think the initial "on-board" test of the upper flaps went pretty well.  I posted a teaser of the lower flaps in my EFX TIE Preorder rant thread, earlier.
+
+Snowspeeder Upper Flap Test 4.1
+
+Snowspeeder Upper Flap Test 4
+
+And, here is the practical test for the lower flaps:
+
+Video - TinyPic - Free Image Hosting, Photo Sharing & Video Hosting
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #2675226)
+Author    : ralphee
+Date      : Jan 5, 2013 at 4:34 PM
+────────────────────────────────────────────────────────────────────────
+
+Couldnt view the vid this time round on my iPhone buddy, but cant wait to see this on my computer, this will be a special one to watch for me, ive missed the old Hansen magic!
+
+Lee
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #2675306)
+Author    : moffeaton
+Date      : Jan 5, 2013 at 5:34 PM
+────────────────────────────────────────────────────────────────────────
+
+You've harnessed magic, Allan. Hitec servos, yeah?
+
+Looks like you have them fully extend, or partial - or can you control them at any degree you choose? I guess it's the code you decide to write, eh?
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #2675482)
+Author    : dsp5500
+Date      : Jan 5, 2013 at 7:26 PM
+────────────────────────────────────────────────────────────────────────
+
+Bravo Allen. This is how it should be built. Awesome. I know what you mean by hoping to use off the self item's! These ILM guys custom made EVERYTHING and over engineered it to boot..
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #2675574)
+Author    : imaginager
+Date      : Jan 5, 2013 at 8:41 PM
+────────────────────────────────────────────────────────────────────────
+
+ralphee said:
+
+			Couldnt view the vid this time round on my iPhone  buddy, but cant wait to see this on my computer, this will be a special  one to watch for me, ive missed the old Hansen magic!
+
+Lee
+		
+
+Click to expand...
+
+Thanks, Lee, yeah...Apple iPhone doesn't speak flash.  I get caught with the same problem.  In these latest vids I have the rear boxes on (taped) the model and am testing operation.  At the moment, I'm working on getting the top and bottom flaps working together (more wiring and more code).
+
+moffeaton said:
+
+			You've harnessed magic, Allan. Hitec servos, yeah?
+
+Looks like you have them fully extend, or partial - or can you control  them at any degree you choose? I guess it's the code you decide to  write, eh?
+		
+
+Click to expand...
+
+Jason, yep HiTEC.  I knew nothing about servos, really, and bought E-flites first.  Then, some research suggested I wouldn't want to seal those up inside the model.  Anyway, yeah...the code controls the degree the flaps open (in the video I'm using both full and half open), how fast/slow the flaps move, how long they're opened/closed, etc.  It's so much fun,  I'll probably leave a place for the USB port on the display box so I can hook it up to the computer and "play".  But, the idea is to make it with a simple on/off switch and it will go through it's paces.
+
+dsp5500 said:
+
+			Bravo Allen. This is how it should be built.  Awesome. I know what you mean by hoping to use off the self item's!  These ILM guys custom made EVERYTHING and over engineered it to  boot..
+		
+
+Click to expand...
+
+Thanks Rob!  Yeah, the upper flaps were interesting. I don't know if the way I do it is the same as ILM, but I bet it's pretty close (the mechanics and opposed to the electrics).
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #2675776)
+Author    : ralphee
+Date      : Jan 6, 2013 at 1:30 AM
+────────────────────────────────────────────────────────────────────────
+
+Got it now Allan, yeah, he's back lol. I think you have the throw and speed spot on, and the position of servo, yeah, i think your dead right.
+
+You going for the pilots head movement too bud? Would be a shame not too now you have cracked the perfect air brake animation.
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #2676010)
+Author    : mslz22
+Date      : Jan 6, 2013 at 6:50 AM
+────────────────────────────────────────────────────────────────────────
+
+That is just about the coolest thing I have seen, your really tugging at some childhood heartstrings with this.  I am guessing almost everyone here watched the FX special for ESB about a thousand times and knows instinctively what part of the special your talking about.  fantastic stuff.
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #2676020)
+Author    : tuskentrooper
+Date      : Jan 6, 2013 at 6:58 AM
+────────────────────────────────────────────────────────────────────────
+
+Very cool, imaginager! Those simple movements bring back memories and add so much to the model! Get those videos on YouTube for maximum viewability. Would love to share this on the RPF Facebook page.
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #2676073)
+Author    : dirtydave
+Date      : Jan 6, 2013 at 7:41 AM
+────────────────────────────────────────────────────────────────────────
+
+That is just too cool Allan.I was thinking the same as lee,will you also have the pilots heads turning?
+
+Dave
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #2676231)
+Author    : trooper
+Date      : Jan 6, 2013 at 9:33 AM
+────────────────────────────────────────────────────────────────────────
+
+i think this is the coolest thing ive seen in a very long time.  I would love to have a set up like that for my salzo kit 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #2676262)
+Author    : Stormy320
+Date      : Jan 6, 2013 at 9:52 AM
+────────────────────────────────────────────────────────────────────────
+
+This is very cool.  Kudos for tackling it.  The timing looks perfect.
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #2676356)
+Author    : Gort
+Date      : Jan 6, 2013 at 11:01 AM
+────────────────────────────────────────────────────────────────────────
+
+Impressive, most impressive! - So glad someone has managed to get working airbrakes. Looks really cool. I'd be fascinated to see how you solved the upper flap mechanisms, they always looked a very neat bit of ILM engineering. 
+
+Great job  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Nick
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #2676378)
+Author    : imaginager
+Date      : Jan 6, 2013 at 11:17 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks for the comments, all.  
+
+Gort said:
+
+			I'd be fascinated  to see how you solved the upper flap mechanisms, they always looked a  very neat bit of ILM engineering.
+		
+
+Click to expand...
+
+Nick, I will show how that's done a little later - the key really is to think outside the box.  TBH, I never gave it a thought prior to starting this (yeah, I'm just that dumb :lol). That was a nice surprise, though.  Finished the code with just the servos for mockup, then thought, 'huh, now how am I......the hinge and pushrod go where?'
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #2676398)
+Author    : imaginager
+Date      : Jan 6, 2013 at 11:30 AM
+────────────────────────────────────────────────────────────────────────
+
+To answer some PMs I've been getting:
+
+I'm flattered you guys approve!  Anyway, coupla things.  One, to do this so that a typical builder can install it, you'd need whoever owns the rights to sell the kit to collaborate and have some speeder kit parts modified to accept the installation of the servos.  
+
+Like I said earlier, there's nothing about what I've done that's off the shelf.  In addition to the servo tech, the resin kit parts have been modified to accept the installation of the servos, etc.  When I was building the components for the upper flaps I recall getting everything working in the right air brake box, then mirroring all the components precisely to install on the left side.  Unfortunately, I didn't look at the left side first, because if I had I would have seen that it was molded differently than the one on the right.  Which definitely had some implications to what I was trying to install.
+
+TBH, barring a modified servo version of the speeder kit being released, the best way to get there is to customize your own.  Even if I had time to build components for someone else, they wouldn't be plug and play and someone would probably spend more time trying to modify my stuff than if they'd made their own.  
+
+This is my first build in almost 3 years, and I was only able to get as far as I did because I had a week off of my real job over the holidays and the weather was too crap to take the Triumph out (although I did get a short New Year's Day ride in).:thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #2676444)
+Author    : peza
+Date      : Jan 6, 2013 at 12:04 PM
+────────────────────────────────────────────────────────────────────────
+
+eh up buddy.this looks mnt mym8!had a little nosey at the films,and seeing them in motion they are truely amazing!!top marks peza:cool
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #2676650)
+Author    : dsp5500
+Date      : Jan 6, 2013 at 2:08 PM
+────────────────────────────────────────────────────────────────────────
+
+Is this the resin kit or have you gone totally scratch?
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #2676697)
+Author    : imaginager
+Date      : Jan 6, 2013 at 2:35 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks peza!
+
+Rob, it's a mix of castings from Nick's original kit, Mike's resin version, and new scratchbuilt stuff.  I upscaled the canopy from a Master Replica's quarter-scale and had it laser cut from .08 styrene - it's a little different shape than the kit version.  
+
+I'm going to rebuild a lot of the cockpit as I've identified many of the parts, and the seat is different on the filming model.  The resin kit mimics the MR Snowspeeder, which is fine - just not the look I want.  
+
+Also, Lee and I commissioned pilots from another member, grumble garage (Dan G), which are really nice replicas of the filming model's pilot/gunner.  Dan also did the Cloud Car pilots.  Let's see, I've ID'd a lot of the stuff on the front gun boxes, and one of mine is a bit warped so I will likely rebuild those.  
+
+Even if the castings were as good as injection molded I'd still use kit parts when I can find 'em; just what I do! LOL
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #2676702)
+Author    : ralphee
+Date      : Jan 6, 2013 at 2:38 PM
+────────────────────────────────────────────────────────────────────────
+
+This will be the Rogue Leader replica to end them all IMO.
+
+Allan your addressing much of what i couldnt find energy for, a true testament to the studio scaler in you lol.
+
+Lee
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #2676729)
+Author    : imaginager
+Date      : Jan 6, 2013 at 2:52 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks, Lee.  I doubt I'll match your painting artistry, though!  And, I still have a long way to go here.  Not to mention that you've helped me plenty with some part IDs!
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #2676744)
+Author    : moffeaton
+Date      : Jan 6, 2013 at 3:01 PM
+────────────────────────────────────────────────────────────────────────
+
+So your arduino will live inside the model? You going to run any lights off of it as well?
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #2676887)
+Author    : imaginager
+Date      : Jan 6, 2013 at 4:32 PM
+────────────────────────────────────────────────────────────────────────
+
+moffeaton said:
+
+			So your arduino will live inside the model? You going to run any lights off of it as well?
+		
+
+Click to expand...
+
+No lights, although I was considering including a sound clip of the speeder with a speaker in the rear radiator area....but, too toy-like. :$
+
+The Arduino will live in the MDF base, basically a box like I built for my cloud car with a wall plug (http://www.therpf.com/f10/cloud-city-twin-pod-cloud-car-91429/).
+
+[IMAGE: ccdone12.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #2676910)
+Author    : ralphee
+Date      : Jan 6, 2013 at 4:41 PM
+────────────────────────────────────────────────────────────────────────
+
+Sounds good Allan, yeah kerb the sound, itll cheapen it TBH!
+
+You really do have me pondering this Arduino for the Ion cannon now, i good hi speed MG 1/10 servo should have some serious recoil action with one of these at the helm!!!
+
+Lee
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #2676921)
+Author    : imaginager
+Date      : Jan 6, 2013 at 4:49 PM
+────────────────────────────────────────────────────────────────────────
+
+ralphee said:
+
+			Sounds good Allan, yeah kerb the sound, itll cheapen it TBH!
+
+You really do have me pondering this Arduino for the Ion cannon now, i good hi speed MG 1/10 servo should have some serious recoil action with one of these at the helm!!!
+
+Lee
+		
+
+Click to expand...
+
+Do it!  You know you want to...
+
+Okay, new footage and info...
+
+First, a demo of the rear flaps:
+
+Speeder Flap Test #5
+
+Next, Nick asked about the upper flap mechanisms.  It's pretty simple, really.  My teaser reply was that you have to think outside the box...get it?
+
+[IMAGE: upperflapmechs.jpg]
+
+And, here's a peek behind the curtain:  
+
+Speeder Flap Test #6
+
+If you look at ref pics, you'll notice the engines are not aligned with the cannons.  Rather, they're aligned with the two struts that raise and lower the upper flaps.  Did ILM do it this way?  Dunno, but it seems like a good bet.  Now, nevermind the fact that the engines seem to be planted somewhere they can't possibly work (in real life), instead they're simply window dressing to cover up the flap hinges.
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #2676941)
+Author    : moffeaton
+Date      : Jan 6, 2013 at 5:00 PM
+────────────────────────────────────────────────────────────────────────
+
+Hah! Completely agree - the form follows function, almost always! 
+
+Did you think about actuating the lower flaps with the pistons, or is that too non-canon? 
+
+Arduino in the base is smart, especially in case something goes south.
+
+And don't knock sound, awwwww. I know it's to each his own, but when you walk by a Probe Droid and it chatters at you, it's pretty exciting :lol
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #2677015)
+Author    : ralphee
+Date      : Jan 6, 2013 at 5:41 PM
+────────────────────────────────────────────────────────────────────────
+
+Ill get one ordered Mr H, see if i can sort my thingers from my fumbs :lol
+
+Lee
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #2677068)
+Author    : imaginager
+Date      : Jan 6, 2013 at 6:10 PM
+────────────────────────────────────────────────────────────────────────
+
+moffeaton said:
+
+			Hah! Completely agree - the form follows function, almost always! 
+
+Did you think about actuating the lower flaps with the pistons, or is that too non-canon? 
+
+Arduino in the base is smart, especially in case something goes south.
+
+And don't knock sound, awwwww. I know it's to each his own, but when you walk by a Probe Droid and it chatters at you, it's pretty exciting :lol
+		
+
+Click to expand...
+
+No, no. The Probot sound IS cool.  Speeder flyby?  A little Hasbro...
+
+I actually scratchbuilt the pistons for both lower flaps, making nice use of my neglected Harbor Freight mini cutoff saw.  In the end, before I ever attached a servo to the model, I scrapped them due to weight.  Turns out I didn't need to worry.  I think it would be possible to actuate the pistons, but yeah, too non-canon.  Apparently, I never took a pic of a finished scratched flap.  Ah well, here's some pics of stuff...
+
+[IMAGE: pistons.jpg]
+
+This is how small the axles had to be cut, and you can see the collars for each end...
+
+[IMAGE: upperaxle.jpg]
+
+Upper flap hinge/struts installed:
+
+[IMAGE: upperhinges.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #2677113)
+Author    : moffeaton
+Date      : Jan 6, 2013 at 6:37 PM
+────────────────────────────────────────────────────────────────────────
+
+Sweet 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #28  (forum post #2677131)
+Author    : SofaKing01
+Date      : Jan 6, 2013 at 6:50 PM
+────────────────────────────────────────────────────────────────────────
+
+VERY COOL!
+────────────────────────────────────────────────────────────────────────
+Post #29  (forum post #2677149)
+Author    : Talkierg
+Date      : Jan 6, 2013 at 7:07 PM
+────────────────────────────────────────────────────────────────────────
+
+Love it:thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #30  (forum post #2677263)
+Author    : ckwanwoo
+Date      : Jan 6, 2013 at 8:45 PM
+────────────────────────────────────────────────────────────────────────
+
+Hi Allan,
+
+I didn't imagine the openable/closeable air-brake. 
+
+You brought it into real-world. :thumbsup
+
+Eric.
+────────────────────────────────────────────────────────────────────────
+Post #31  (forum post #2677349)
+Author    : CJS
+Date      : Jan 6, 2013 at 9:44 PM
+────────────────────────────────────────────────────────────────────────
+
+Could you do tilt switches to control each flap by tilting the speeder and upward flat motion to extend both at the same time?
+────────────────────────────────────────────────────────────────────────
+Post #32  (forum post #2677662)
+Author    : kh39
+Date      : Jan 7, 2013 at 5:04 AM
+────────────────────────────────────────────────────────────────────────
+
+I'm really really impressed!!:love
+────────────────────────────────────────────────────────────────────────
+Post #33  (forum post #2678550)
+Author    : Guy Cowen
+Date      : Jan 7, 2013 at 1:44 PM
+────────────────────────────────────────────────────────────────────────
+
+Awesome stuf Allan, great to see you posting again. Just wish I could have the time to do build at the mo. Seeing this and Lees speeder reminds me why I do this, did this...!!! want this.....ermmmm 
+
+Just awesome
+────────────────────────────────────────────────────────────────────────
+Post #34  (forum post #2678695)
+Author    : Gort
+Date      : Jan 7, 2013 at 2:48 PM
+────────────────────────────────────────────────────────────────────────
+
+Nice one. When I was doing the speeder and generally tinkering around with the flap assemblies, I had concluded that the only way to make the flaps raise and move back the way they do, required the hinge point to be much further back than the inside of the box would allow. Photos of the ILM models in bits also showed a hole in the back of the box where the cylinders sit which seemed to indicate the cylinder wasn't just there to look pretty. And lo and behold you have beautifully realised the whole thing, and got the darn things working. Fantastic job 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Nick
+
+imaginager said:
+
+			Do it! You know you want to...
+
+Okay, new footage and info...
+
+First, a demo of the rear flaps:
+
+Speeder Flap Test #5
+
+Next, Nick asked about the upper flap mechanisms. It's pretty simple, really. My teaser reply was that you have to think outside the box...get it?
+
+[IMAGE: upperflapmechs.jpg]
+
+And, here's a peek behind the curtain: 
+
+Speeder Flap Test #6
+
+If you look at ref pics, you'll notice the engines are not aligned with the cannons. Rather, they're aligned with the two struts that raise and lower the upper flaps. Did ILM do it this way? Dunno, but it seems like a good bet. Now, nevermind the fact that the engines seem to be planted somewhere they can't possibly work (in real life), instead they're simply window dressing to cover up the flap hinges.
+		
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #35  (forum post #2679798)
+Author    : imaginager
+Date      : Jan 8, 2013 at 6:02 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks, Nick, Eric, and everyone!  The build has settled into the more routine aspects, now.  I was a little concerned about powering the servos based on what I'd read on some of the Arduino forums.  But, I picked up a variable voltage 1000 mA DC wall adapter, so the Arduino is no longer tethered to the computer's USB port and all the servos are running off of 3 volts (even though the specs call for 4.6 - 6v).
+────────────────────────────────────────────────────────────────────────
+Post #36  (forum post #2680144)
+Author    : crackerjazz
+Date      : Jan 8, 2013 at 9:55 AM
+────────────────────────────────────────────────────────────────────────
+
+@%*#@!!%$#!!!!!!!!! You are amazing, imaginager!
+────────────────────────────────────────────────────────────────────────
+Post #37  (forum post #2680279)
+Author    : IEDBOUNTYHUNTER
+Date      : Jan 8, 2013 at 10:56 AM
+────────────────────────────────────────────────────────────────────────
+
+Now thats an Awesome speeder.
+────────────────────────────────────────────────────────────────────────
+Post #38  (forum post #2680576)
+Author    : imaginager
+Date      : Jan 8, 2013 at 1:11 PM
+────────────────────────────────────────────────────────────────────────
+
+THANKS!
+────────────────────────────────────────────────────────────────────────
+Post #39  (forum post #2680630)
+Author    : Scott Graham
+Date      : Jan 8, 2013 at 1:35 PM
+────────────────────────────────────────────────────────────────────────
+
+This is really cool! Thanks for showing the behind the scenes stuff too.
+────────────────────────────────────────────────────────────────────────
+Post #40  (forum post #2684337)
+Author    : imaginager
+Date      : Jan 10, 2013 at 3:45 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks, Scott!
+────────────────────────────────────────────────────────────────────────
+Post #41  (forum post #2685188)
+Author    : MonsieurTox
+Date      : Jan 11, 2013 at 5:48 AM
+────────────────────────────────────────────────────────────────────────
+
+Awesome Allan ! Glad you finally found away to get them working !
+
+Those arduino boards are so cool, I may order some more for more cool stuff !
+────────────────────────────────────────────────────────────────────────
+Post #42  (forum post #2688304)
+Author    : imaginager
+Date      : Jan 12, 2013 at 10:45 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks, Julien!
+
+Continuing to work on the build and a few part IDs.  I decided to rework the back just a bit, stripped some of the detail and put back correct parts from the Midway, M42, and Scharnhorst.   This area doesn't really show once the radiator fins are installed, but I had the time and the kit parts, so there ya go...  That part on the face just under the Leopold bit, that sits next to the piston for the lower flaps...that's from the Entex.  Of course.
+
+[IMAGE: spdr021.jpg]
+
+Primed the canopy, then sanded, primed, sanded, etc.  It cuts a dashing profile.  I used the electronic calipers on the sample MR Speeder I have and measured the thickness of the canopy, then scaled that up.  I'm glad I saved my fingers and wrist and had this laser cut.  It's .08 styrene, just over 2.0 mm.  Once I welded it all together out came the disc sander I got years ago from Micromark (that had never been used) to flatten all the corners and smooth the joins.  In the process, I lost some thickness, and I think it matches up to the photo-ref of the canopy pretty well, now.
+
+[IMAGE: spdr023.jpg]
+
+[IMAGE: spdr022.jpg]
+
+Unfortunately, I should have used alloy spars installed perpendicular to the canopy to reinforce the upper wing on the port side.  TBH, it looked perfectly straight when I welded the hulls together.   Alas, I discovered a 3 - 4.0mm concavity on that side to contend with.  Which means the forward gun box won't sit flush.  I've built up the area with some Apoxie sculpt, and will be cheating the boxes themselves.  I started stripping off the detail bits, and placing the kit parts.  The front is where this will show the most, so that has to be tidied up, as well.  Won't be able to use the fascia that came with the kit.  But, I've ID's most of the parts on the front, might have that close enough to show tomorrow.
+
+[IMAGE: spdr020.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #43  (forum post #2688363)
+Author    : ralphee
+Date      : Jan 12, 2013 at 11:54 PM
+────────────────────────────────────────────────────────────────────────
+
+Beautiful. That canopy worked out pretty well eh Allan lol.
+
+Love the new rear end, your knocking this out the park buddy!
+
+Lee
+────────────────────────────────────────────────────────────────────────
+Post #44  (forum post #2688654)
+Author    : Talkierg
+Date      : Jan 13, 2013 at 6:26 AM
+────────────────────────────────────────────────────────────────────────
+
+Yea love that canopy soooo much,another build thread using oiginal kit parts hah,keep up the superb work,love it:thumbsup
+
+Don
+────────────────────────────────────────────────────────────────────────
+Post #45  (forum post #2688725)
+Author    : Telepathic
+Date      : Jan 13, 2013 at 7:21 AM
+────────────────────────────────────────────────────────────────────────
+
+Hey Allan, great work on your speeder. Love the working flaps. You beat me to it. I am also using an Arduino to add the animatronics on my speeder. Also nice to see you adding some actual kit parts as many of the greeblies on that kit had scratchbuilt parts. I was going to offer you a canopy because I have an extra one built here that I am not going to use and I don't want to toss it. Also do you have any extra castings of the Entex Porsche part you used on the rear of your speeder?
+
+Keep at it.
+────────────────────────────────────────────────────────────────────────
+Post #46  (forum post #2688828)
+Author    : ralphee
+Date      : Jan 13, 2013 at 8:53 AM
+────────────────────────────────────────────────────────────────────────
+
+One thing i did notice when fitting the Leo parts to mine, ILM have cut it down some.
+
+If you look Allan, seems they trimmed it to sit lower, maybe so the lower flap damper would not foul it? Not even sure it would have fouled it, but yeah, those guys at ILM again!
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #47  (forum post #2688917)
+Author    : imaginager
+Date      : Jan 13, 2013 at 9:59 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks, Lee and Don.  Oh, and Lee, thanks for the catch on the Leopard bits.  TBH, I just counted the number of slats that were visible and never looked at the pic too closely!
+
+Telepathic, thanks for the comments - PM me your address and I'll send you a casting.  Maybe we can compare some part finds.
+────────────────────────────────────────────────────────────────────────
+Post #48  (forum post #2688947)
+Author    : moffeaton
+Date      : Jan 13, 2013 at 10:14 AM
+────────────────────────────────────────────────────────────────────────
+
+Your bench pics are always so clean... man, do you wear a bunnysuit when you work? I am envious of your work environment/methods. My studio leans more towards the Greg Jein scale of chaotic clutter.
+────────────────────────────────────────────────────────────────────────
+Post #49  (forum post #2688956)
+Author    : imaginager
+Date      : Jan 13, 2013 at 10:19 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks, Jason. It's kinda like high tide / low tide in my shop.  I know I've been working a fair amount when I start to unconsciously clean up.  For instance, right now, that same spot on my bench is covered in white resin and green styrene dust, plus lots of little chopped bits to discard.
+────────────────────────────────────────────────────────────────────────
+Post #50  (forum post #2688959)
+Author    : Telepathic
+Date      : Jan 13, 2013 at 10:20 AM
+────────────────────────────────────────────────────────────────────────
+
+Hi Allan. Thanks, I'll PM you my address. Lee is not talking of the Leopard parts. Those are perfect, don't touch those. What he is mentioning are the Leopold parts on the sides of the engine box. Those need to be sanded down to approximately 1/4". I am adding one of your pics and what you want to do is remove from the Leopold part what I shade in grey. The parts that are marked with a blue arrow come from the Tamiya Gneiseneu/ Scharnhorst. The part I circled red is from the Flak 52 and the part marked in green is from the Yamato and the brown is from the Walker Bulldog. If you make those changes it is perfect..
+────────────────────────────────────────────────────────────────────────
+Post #51  (forum post #2689036)
+Author    : imaginager
+Date      : Jan 13, 2013 at 11:07 AM
+────────────────────────────────────────────────────────────────────────
+
+Hey, thanks Tele.  Use of the 20mm makes sense, as I hadn't seen it elsewhere on the model and it's such a staple.  Scharnhorst.  I actually considered those, then discounted them.  I'm cross-eyed.  I had decided to leave those circles in the upper corner alone, but now that I know what they are... :love
+
+So, you've poured a lot of time in on the speeder!  You've definitely got the chops for part IDs.  Nice to have another member with x-ray vision!
+────────────────────────────────────────────────────────────────────────
+Post #52  (forum post #2689082)
+Author    : Telepathic
+Date      : Jan 13, 2013 at 11:33 AM
+────────────────────────────────────────────────────────────────────────
+
+Hi Allan. I have put alot of time in on the speeder. I've stared at pics of this model far longer than I care to admit. Couple of more that I forgot to mention. The brake discs from the Lotus that you are using are the wrong ones. You need parts 37 and 38 for the left and right ones and 42 or 43 for the centre. Also the round parts behind the the brake discs are bogeys from the 25 scale SU100. You are also missing a couple of parts that are situated below the Duster grills and they are from the Gneiseneu\ Scharnhorst also. I'm adding a image of the engine box from my speeder for reference.
+────────────────────────────────────────────────────────────────────────
+Post #53  (forum post #2689174)
+Author    : imaginager
+Date      : Jan 13, 2013 at 12:19 PM
+────────────────────────────────────────────────────────────────────────
+
+Awesome, thanks! Had the JPS discs, but didn't want to dremel the insides of Nick's kit because I didn't have the SU100 ID'd - but, the kit is on the shelf.  Looks like it also donates a part to the cockpit I've been looking for, part 11...so, thanks again for pointing me at it.  The discs I used just fit and provided a bit more visual depth.  Not sure I'll dremel those out, but I am starting to take dimensions for a styrene build.  So, one day I'll be here again.
+
+Also, I don't mean to take advantage, but do you know the following parts?
+
+Anything on the base of the harpoon gun?
+
+[IMAGE: spdrharpoonbase.jpg]
+
+I have the Taiho bits that make up a lot of the front gun boxes, but these three parts are troubling me:
+
+[IMAGE: harpbase.jpg]
+
+And, finally, on the rear under the wing, there's a "V" shaped bit next to the Taiho turret on the Stuka panel.  No idea what the V-shaped bit is.  And then there's a piece about some JPS parts to the right.
+
+[IMAGE: starskirt.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #54  (forum post #2689181)
+Author    : ralphee
+Date      : Jan 13, 2013 at 12:23 PM
+────────────────────────────────────────────────────────────────────────
+
+Harpoon gun base, the bracket looking part is 25 Pdr Allan.
+
+V shaped part, looks like control levers, 1/24, sure its not in the Stuka?
+
+I recall something similar in the Shiden, but thats another era!
+
+Lee
+────────────────────────────────────────────────────────────────────────
+Post #55  (forum post #2689192)
+Author    : imaginager
+Date      : Jan 13, 2013 at 12:30 PM
+────────────────────────────────────────────────────────────────────────
+
+There a v-shaped part in the stuka, but it's too large. Saw it on a kitscan and logged it as the deal, then pulled it and saw how big it is.  Shiden's probably too big, too...  Running to look at 25lb, thought I had...but, maybe not. :facepalm
+────────────────────────────────────────────────────────────────────────
+Post #56  (forum post #2689212)
+Author    : ralphee
+Date      : Jan 13, 2013 at 12:39 PM
+────────────────────────────────────────────────────────────────────────
+
+Ill take another look Allan, unless Telepathic knows?
+
+No 25 Pdr???....... I dont believe you :lol
+
+Lee
+────────────────────────────────────────────────────────────────────────
+Post #57  (forum post #2689317)
+Author    : Telepathic
+Date      : Jan 13, 2013 at 1:32 PM
+────────────────────────────────────────────────────────────────────────
+
+Hey guys. The first pic of the harpoon gun base. What a b*****. I have not ID'd all of it. I only know that the 25 pdr donates the U shaped part from the trailer frame. I've added the picture of the harpoon gun, I can't for the life of me find the part I shaded purple. Any ideas? Pic 2 of the forward gun mount, the round part is from the 12 scale Lotus, the square part is from the 312T and the last part is from the churchill crocodile. The V shaped thingie from the last pic is actually 2 parts from the Leopold cut and added to Stuka part up against the Taiho turret, I've added a pic, remove the shaded areas.
+
+Take care guys.
+────────────────────────────────────────────────────────────────────────
+Post #58  (forum post #2689403)
+Author    : Telepathic
+Date      : Jan 13, 2013 at 2:17 PM
+────────────────────────────────────────────────────────────────────────
+
+I forgot the last pic Allan posted. The other part is the Scharnhorst part again, same as the six used on the engine box only this time it is top of another part that you can't see very well but could be from the King George.
+────────────────────────────────────────────────────────────────────────
+Post #59  (forum post #2689413)
+Author    : imaginager
+Date      : Jan 13, 2013 at 2:22 PM
+────────────────────────────────────────────────────────────────────────
+
+You're an encyclopedia - thanks!  So, the Churchhill donates the cone-shaped part on the gunbox?  I'm going to have to scan through that kit again.
+────────────────────────────────────────────────────────────────────────
+Post #60  (forum post #2689429)
+Author    : Telepathic
+Date      : Jan 13, 2013 at 2:30 PM
+────────────────────────────────────────────────────────────────────────
+
+Allan, that is the main gun, halves glued together and cut down. Also don't forget to add a short piece of styrene rod to fill in the hole left by the cut. I'm adding a pic, just remove shade area from the parts.
+
+No problem Allan, glad to help.
+────────────────────────────────────────────────────────────────────────
+Post #61  (forum post #2689433)
+Author    : Telepathic
+Date      : Jan 13, 2013 at 2:31 PM
+────────────────────────────────────────────────────────────────────────
+
+Forgot the pic.
+────────────────────────────────────────────────────────────────────────
+Post #62  (forum post #2689468)
+Author    : imaginager
+Date      : Jan 13, 2013 at 2:54 PM
+────────────────────────────────────────────────────────────────────────
+
+Clever, I wouldn't have guessed that.  On the 25PDR I realized I used that part for something else, so I opened a new kit... no wonder I couldn't see it.  I thought Lee was jerking my chain!  Thanks again.
+────────────────────────────────────────────────────────────────────────
+Post #63  (forum post #2690611)
+Author    : ralphee
+Date      : Jan 14, 2013 at 7:19 AM
+────────────────────────────────────────────────────────────────────────
+
+Telepathic said:
+
+			Forgot the pic.
+		
+
+Click to expand...
+
+I love this find 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+.
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #64  (forum post #2691685)
+Author    : dirtydave
+Date      : Jan 14, 2013 at 5:00 PM
+────────────────────────────────────────────────────────────────────────
+
+Hey Telepathic,I think I have your purple part on the harpoon gun base.Part 11 from Italeri Nebelwerfer.I think parts 32,33 might be the triangle hinge parts at the end of the 25pd part.
+
+Dave
+────────────────────────────────────────────────────────────────────────
+Post #65  (forum post #2691753)
+Author    : Telepathic
+Date      : Jan 14, 2013 at 5:31 PM
+────────────────────────────────────────────────────────────────────────
+
+Good find, Dave that is the exact part. Thanks, been looking for this part for awhile.
+────────────────────────────────────────────────────────────────────────
+Post #66  (forum post #2691771)
+Author    : dirtydave
+Date      : Jan 14, 2013 at 5:39 PM
+────────────────────────────────────────────────────────────────────────
+
+Glad I could help.What do you think about parts 32,33?They look like a match to me.
+
+Dave
+────────────────────────────────────────────────────────────────────────
+Post #67  (forum post #2691782)
+Author    : dirtydave
+Date      : Jan 14, 2013 at 5:51 PM
+────────────────────────────────────────────────────────────────────────
+
+Here is a picture if your not sure of what I'm talking about.
+
+View attachment 137066
+────────────────────────────────────────────────────────────────────────
+Post #68  (forum post #2691933)
+Author    : imaginager
+Date      : Jan 14, 2013 at 7:36 PM
+────────────────────────────────────────────────────────────────────────
+
+Good eye, Dave.
+────────────────────────────────────────────────────────────────────────
+Post #69  (forum post #2691968)
+Author    : imaginager
+Date      : Jan 14, 2013 at 8:11 PM
+────────────────────────────────────────────────────────────────────────
+
+With a lot of help from Telepathic...  They're not completely finished, and I blasted one with some primer to get a sense of how it is shaping up.  Tiny, tiny parts.
+
+[IMAGE: spdr024.jpg]
+
+[IMAGE: spdr025.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #70  (forum post #2692082)
+Author    : moffeaton
+Date      : Jan 14, 2013 at 9:24 PM
+────────────────────────────────────────────────────────────────────────
+
+The mods and kit parts are well worth it.
+────────────────────────────────────────────────────────────────────────
+Post #71  (forum post #2692141)
+Author    : Telepathic
+Date      : Jan 14, 2013 at 10:33 PM
+────────────────────────────────────────────────────────────────────────
+
+Hey Allan, looking great, just happy to have helped a little, you are really moving quick on this, in primer already, great. Can't wait to start putting paint on mine but I have to get the flaps working first. And thanks again to you Dave, those parts look spot on. I have been searching for these parts for awhile, almost had given up.
+────────────────────────────────────────────────────────────────────────
+Post #72  (forum post #2692166)
+Author    : ralphee
+Date      : Jan 14, 2013 at 11:05 PM
+────────────────────────────────────────────────────────────────────────
+
+Awesome Allan, well worth the effort indeed, those boxes look fantastic.
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #73  (forum post #2692218)
+Author    : Gort
+Date      : Jan 15, 2013 at 12:34 AM
+────────────────────────────────────────────────────────────────────────
+
+Terrific work. Wish some of these ID's had been around when I did my patterns.
+────────────────────────────────────────────────────────────────────────
+Post #74  (forum post #2693240)
+Author    : imaginager
+Date      : Jan 15, 2013 at 1:28 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks guys.  Nick, your pattern is still a standard.  I appreciate what you did each hour I spend on this build.  
+
+I'm eagerly awaiting more on Telepathic's build, too.  That's the one to watch.
+
+Okay, enough sitting on the sidelines, figured I ought to start earning my keep:
+
+From the Peerless/Italeri Steyr...
+────────────────────────────────────────────────────────────────────────
+Post #75  (forum post #2693307)
+Author    : ralphee
+Date      : Jan 15, 2013 at 1:57 PM
+────────────────────────────────────────────────────────────────────────
+
+Thats a great find from what is still a dissapointing kit Allan, great eye!
+
+Lee
+────────────────────────────────────────────────────────────────────────
+Post #76  (forum post #2693317)
+Author    : moffeaton
+Date      : Jan 15, 2013 at 2:02 PM
+────────────────────────────────────────────────────────────────────────
+
+The Steyr?! Holy cow! It just doubled it's donor parts! :lol
+────────────────────────────────────────────────────────────────────────
+Post #77  (forum post #2693722)
+Author    : imaginager
+Date      : Jan 15, 2013 at 6:16 PM
+────────────────────────────────────────────────────────────────────────
+
+Seems like these were rare, though...once upon a time?  Or, was that the Nebelwerfer 41 I'm thinking of?  There's a Peerless on America's fence, combo Steyr and 'werfer.  Was always my favorite version.  
+
+Anyway, the gun boxes are officially complete.  Time to move on to the rear gun deck.
+────────────────────────────────────────────────────────────────────────
+Post #78  (forum post #2693728)
+Author    : ralphee
+Date      : Jan 15, 2013 at 6:19 PM
+────────────────────────────────────────────────────────────────────────
+
+Nice shot Allan, it does provide a lovely photo does the speeder!
+
+Lee
+────────────────────────────────────────────────────────────────────────
+Post #79  (forum post #2693731)
+Author    : imaginager
+Date      : Jan 15, 2013 at 6:20 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks, Lee!  I should probably resize that one...
+────────────────────────────────────────────────────────────────────────
+Post #80  (forum post #2693754)
+Author    : imaginager
+Date      : Jan 15, 2013 at 6:33 PM
+────────────────────────────────────────────────────────────────────────
+
+Does anyone know how many speeders featured the working flaps?  I've always assumed Rogue Leader and just one Rogue # (not sure which one).  The model that goes on tour is static, isn't it?  I guess it would make sense that ILM would have built the Leader and one Orange speeder with working flaps.  So, now the question is, where's the Orange speeder with working flaps?
+────────────────────────────────────────────────────────────────────────
+Post #81  (forum post #2693764)
+Author    : swfan
+Date      : Jan 15, 2013 at 6:39 PM
+────────────────────────────────────────────────────────────────────────
+
+Looks like a Bismarck turret on the bottom pic.  Not sure if its the 1/350 or a different version though.
+
+imaginager said:
+
+			Awesome, thanks! Had the JPS discs, but didn't want to dremel the insides of Nick's kit because I didn't have the SU100 ID'd - but, the kit is on the shelf.  Looks like it also donates a part to the cockpit I've been looking for, part 11...so, thanks again for pointing me at it.  The discs I used just fit and provided a bit more visual depth.  Not sure I'll dremel those out, but I am starting to take dimensions for a styrene build.  So, one day I'll be here again.
+
+Also, I don't mean to take advantage, but do you know the following parts?
+
+Anything on the base of the harpoon gun?
+
+[IMAGE: spdrharpoonbase.jpg]
+
+I have the Taiho bits that make up a lot of the front gun boxes, but these three parts are troubling me:
+
+[IMAGE: harpbase.jpg]
+
+And, finally, on the rear under the wing, there's a "V" shaped bit next to the Taiho turret on the Stuka panel.  No idea what the V-shaped bit is.  And then there's a piece about some JPS parts to the right.
+
+[IMAGE: starskirt.jpg]
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #82  (forum post #2694733)
+Author    : Telepathic
+Date      : Jan 16, 2013 at 8:53 AM
+────────────────────────────────────────────────────────────────────────
+
+Hey guys, here's a little color coded parts map I came up with for the parts I know on the main guns. The main body of the gun I believe to be either scratchbuilt or a found item. If it is a found item, I have not seen anything like it. I also haven't come across any kit part that resembles it. The ribbed part in between the Vosper torpedo I believe is turned on a lathe. There are kit parts that look similar but not exact. I was leaning towards motorcycle suspension parts but haven't found anything that would be an exact match. The part I shaded in red I believe to be 2 parts together, could be scratched but I don't think so. I just haven't found it yet.
+
+Hope it helps.
+────────────────────────────────────────────────────────────────────────
+Post #83  (forum post #2694768)
+Author    : imaginager
+Date      : Jan 16, 2013 at 9:10 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks for that!
+────────────────────────────────────────────────────────────────────────
+Post #84  (forum post #2695334)
+Author    : dirtydave
+Date      : Jan 16, 2013 at 2:01 PM
+────────────────────────────────────────────────────────────────────────
+
+Allan your speeder in coming out very nice.That Steyr find is awesome.
+
+Dave
+────────────────────────────────────────────────────────────────────────
+Post #85  (forum post #2695834)
+Author    : imaginager
+Date      : Jan 16, 2013 at 7:00 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks, Dave.  Your finds with the 'werfer made me think of the Steyr.
+────────────────────────────────────────────────────────────────────────
+Post #86  (forum post #2697206)
+Author    : dirtydave
+Date      : Jan 17, 2013 at 12:27 PM
+────────────────────────────────────────────────────────────────────────
+
+I thought I found the base the Stery sits on,Airfix Harrier.But when I checked it with the 25pdr part it was too big.:cry
+
+Dave
+────────────────────────────────────────────────────────────────────────
+Post #87  (forum post #2697251)
+Author    : Telepathic
+Date      : Jan 17, 2013 at 12:48 PM
+────────────────────────────────────────────────────────────────────────
+
+Hey Dave, thanks, you've made some nice IDs on the speeder. My two cents on the circular base of the harpoon gun is that it is scratched.
+────────────────────────────────────────────────────────────────────────
+Post #88  (forum post #2697268)
+Author    : dirtydave
+Date      : Jan 17, 2013 at 12:57 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks.Your probably right.The very bottom piece looks scratched.But when I seen the Harrier part I thought it was it for sure.
+
+Dave
+────────────────────────────────────────────────────────────────────────
+Post #89  (forum post #2699085)
+Author    : imaginager
+Date      : Jan 18, 2013 at 9:46 AM
+────────────────────────────────────────────────────────────────────────
+
+I decided to spend some time scanning in and adjusting a couple of shots from Chronicles, in the event they help anyone.  The cockpit shot...the model looks a lot different without the 25 years of accumulated dust, lint, and detritus.  The stripe detail on the helmets is interesting, too.  I'm also beginning to wonder if the figures weren't interchangeable.  Or, has someone verified why Wedge is driving Rogue Leader in the MR ref set?
+
+[IMAGE: spdrcpit.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #90  (forum post #2701750)
+Author    : imaginager
+Date      : Jan 19, 2013 at 9:33 PM
+────────────────────────────────────────────────────────────────────────
+
+More slow progress. Upper air brake servo installation meant modifying the engines.  Wasn't quite sure how I was going to do that, as there's not much clearance. Initial thought was to Dremel out the kit part engine, but the tolerance for the necessary wall thickness was too small.  So, shot off an order to Plastruct for clear acrylic round tubing.  I'm using the kit parts - well, technically, the ends of the kit parts - from Nick's kit 'cause I like that the engine nozzle is a separate piece.
+
+Oh dear, someone's decapitated my pilot.  You know what that means...  :love
+
+And, last, but not least (and with some assistance from my wife because I don't have four hands, four eyes, and can't see from two directions at the same time) I bonded the air brake boxes to the hull.  What a PITA!  But, it's done and no servos or linkage were harmed in the construction of this speeder (relieved).
+
+[IMAGE: spdr030a.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #91  (forum post #2701991)
+Author    : ralphee
+Date      : Jan 20, 2013 at 3:46 AM
+────────────────────────────────────────────────────────────────────────
+
+Allan
+
+That really does look so nice, awesome to see such nice clean work.
+
+The airbrake box, with the clear tubing alone, would make for a really great display piece and talking point.......i think you should make a one off someday, you owe it to yourself, your the guy who figured it all out!
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #92  (forum post #2703542)
+Author    : Telepathic
+Date      : Jan 20, 2013 at 8:40 PM
+────────────────────────────────────────────────────────────────────────
+
+Allan, I just had to say that looks incredible. Awesome work, you must be happy with the results, I would be. I know it's slow but keep it up. BTW never seen the chronicles pic, it seems ILM placed this pilot in Rogue 2. The Art of Empire book has a pic of the speeder which I presume was taken around the time Empire was made has the same pilot figure that is in the model now.
+────────────────────────────────────────────────────────────────────────
+Post #93  (forum post #2706970)
+Author    : imaginager
+Date      : Jan 22, 2013 at 6:20 PM
+────────────────────────────────────────────────────────────────────────
+
+Well, it has it's flaws and I know where they all are, lol.  I finished and primed the rear cannon and gun box assemblies yesteday, then shot some new pics.  As I was looking at them I decided it was time for that canopy to go, or get a face lift.  Face lift ensued, and it looks better.  But, I may still have a new one cut.
+────────────────────────────────────────────────────────────────────────
+Post #94  (forum post #2707068)
+Author    : moffeaton
+Date      : Jan 22, 2013 at 7:24 PM
+────────────────────────────────────────────────────────────────────────
+
+That clear engine shot is ACE
+────────────────────────────────────────────────────────────────────────
+Post #95  (forum post #2707285)
+Author    : ralphee
+Date      : Jan 22, 2013 at 10:49 PM
+────────────────────────────────────────────────────────────────────────
+
+Canopy looks fine to me Allan, whole deal looks super cool now, your not far from paint now buddy, its playtime!
+
+Lee
+────────────────────────────────────────────────────────────────────────
+Post #96  (forum post #2707678)
+Author    : imaginager
+Date      : Jan 23, 2013 at 5:59 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks, Lee.  Paint's a little way down the road, yet.  Still have the cockpit and animated pilot to contend with...
+────────────────────────────────────────────────────────────────────────
+Post #97  (forum post #2707875)
+Author    : ralphee
+Date      : Jan 23, 2013 at 8:23 AM
+────────────────────────────────────────────────────────────────────────
+
+Oh crikey yes, you will be going nuts accurate on the cockpit too Allan, thats going to be cool, the kit cockpit is nice, but yes, a little off here and there, striking differences being the front console and seat.......and then is ONLY those pilots to animate.........sounds easy eh, hah.
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #98  (forum post #2711776)
+Author    : imaginager
+Date      : Jan 25, 2013 at 11:22 AM
+────────────────────────────────────────────────────────────────────────
+
+Canopy tweaking continues.  Looking at the ref I decided the raised panel on the rear top of the canopy is actually removable to allow access to the mount point situated in the gunner's lap.  
+
+Another thing, I believe our revised figures may be 5 percent-ish too large.  But, I still love 'em!
+────────────────────────────────────────────────────────────────────────
+Post #99  (forum post #2711804)
+Author    : ralphee
+Date      : Jan 25, 2013 at 11:41 AM
+────────────────────────────────────────────────────────────────────────
+
+Spot on Allan, its amazing what fresh eyes can pick up!
+
+What is funny, is the fact a computer scanned this prop and dropped the ball, the panel is flush, it just wasnt seated right!
+
+Lee
+────────────────────────────────────────────────────────────────────────
+Post #100  (forum post #2711837)
+Author    : imaginager
+Date      : Jan 25, 2013 at 12:00 PM
+────────────────────────────────────────────────────────────────────────
+
+It's kinda hard to "see" it as flush, now. Lol
+────────────────────────────────────────────────────────────────────────
+Post #101  (forum post #2711848)
+Author    : ralphee
+Date      : Jan 25, 2013 at 12:06 PM
+────────────────────────────────────────────────────────────────────────
+
+imaginager said:
+
+			It's kinda hard to "see" it as flush, now. Lol
+		
+
+Click to expand...
+
+I know, you have pulled another " the ATAT helmet is grey" manouvers hehe, im kinda bummed now lol!
+
+Lee
+────────────────────────────────────────────────────────────────────────
+Post #102  (forum post #2711930)
+Author    : Telepathic
+Date      : Jan 25, 2013 at 12:59 PM
+────────────────────────────────────────────────────────────────────────
+
+Hey guys, how's it going? Allan, coming along very nicely. It looks like you'll be ready for paint soon. I do agree with Allan on the removable panel on the canopy, I don't believe it is supposed to be flush. The way I see it is that the canopy itself is made of 1.5mm styrene and the removable panel is 2mm giving you a .5mm difference which accounts for the slight raise in comparison to the rest of the canopy. The reason I believe that was the intentional design is because of Rogue 2, whose panel does not seem to be removable nor can I see a mounting point on that model under that area. The panel seems to be a piece of styrene about .020" or .5mm just like the other armor overlays on the rest of the model. One other little observation. I know there is a lot of confidence in the 3D scanning equipment used to scan some of these models but as a 3D artist I can tell you they are not 100% accurate. What happens is that beams of light are pointed at the model and those points are translated to a point in 3d space on the computer. The next thing is the computer joins the points, kind of connect the dots like, to come up with a wireframe. The problem is there is quite a bit of interpolation the computer has to do between the dots, it basically guesses. Also some points intersect surfaces. It's difficult for the computer to read that. I found quite a few errors on the snowspeeder including the canopy, cannons, and there are quite a few more. Also interesting is that MR chose to make their model as the prop stands now, which is disappointingly, in bad shape. The top and bottom hulls are split open. MR decided to replicate this, their speeder is also split. There is also a missing panel on the rear next to the engine box on the left side, MR left that out. The harpoon gun is broken off but MR added one anyway which is totally incorrect. I'm assuming they just guessed at what it looked like. Also on the prop there are a couple of engine fins gone but MR added those. Time has not been kind to this model, Rogue 2 on the other hand is in good shape, probably explains why this model does the shows. Sorry for the long reply.
+────────────────────────────────────────────────────────────────────────
+Post #103  (forum post #2711955)
+Author    : ralphee
+Date      : Jan 25, 2013 at 1:12 PM
+────────────────────────────────────────────────────────────────────────
+
+No, its good to hear the info Helio! I will agree the props condition today, is awful, the rear is missing lower fins too, and yes, the hulls have really parted company.
+
+Not sure on the canopy panel though, its flush in one spot to my eye, and proud in another corner, just a case of bad seating, much like the B wing armature plug.
+
+Lee
+────────────────────────────────────────────────────────────────────────
+Post #104  (forum post #2711970)
+Author    : moffeaton
+Date      : Jan 25, 2013 at 1:25 PM
+────────────────────────────────────────────────────────────────────────
+
+MR was directed to make what was "in" the archives... warts and all. Even if you made case that it "didn't used to be like that"!
+
+[IMAGE: MRREF---3239.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #105  (forum post #2712078)
+Author    : Telepathic
+Date      : Jan 25, 2013 at 2:34 PM
+Reactions : Like — imaginager
+────────────────────────────────────────────────────────────────────────
+
+Hi Moff I apologize if I offended you, I did not know that you or anyone here has a vested interest in the MR model. I don't want to get into a p****** contest with anyone here. I also don't doubt in anyway that the original was scanned in the creation of the MR speeder, but I am just coming out to say that just because it was laser scanned does not guarantee ultimate accuracy. Also, I did not know that there was a mandate to only replicate the model in the "as is" state. But the question then becomes why add the missing harpoon gun, which by the way was poorly executed on the MR, or why add the missing fins to the replica or the mounting cover panel on the bottom of the speeder which I have never seen and I believe that panel to be long gone, I don't think anyone has seen it since the filming of the movie, though this is just conjecture on my part. If this is in fact the case then the MR team just made that part up. Your justification also does not explain the glaring errors to the details that are present on the original. Check the attached pics for one example. Like I said I only started posting here in order to help out others who are also building a replica speeder, I I.D'ed most of the kit parts and have shared all of my findings with those interested. I can only defend myself by saying that I believe the MR replica for all it's advertisement for being "exact in every detail at 3/4 the scale", to be a poorly executed replica of the original. I don't necessarily think it's a bad model. I also have no issues at all with Master Replicas. As far as mass produced items go, they are quite good, better than anything that came before.
+────────────────────────────────────────────────────────────────────────
+Post #106  (forum post #2712086)
+Author    : Telepathic
+Date      : Jan 25, 2013 at 2:37 PM
+────────────────────────────────────────────────────────────────────────
+
+I should have added an apology to Allan in my post for derailing his build thread. Let's get back to that. Great work Allan, keep it coming.
+────────────────────────────────────────────────────────────────────────
+Post #107  (forum post #2712215)
+Author    : imaginager
+Date      : Jan 25, 2013 at 3:50 PM
+────────────────────────────────────────────────────────────────────────
+
+Hey Telepathic, no worries. I don't consider it derailing, at all.  This is the sort of conversation that I actually enjoy on these forums, as long as we all understand that the point is to learn as much as we can about the filming model.  Jason provided a great archive of photo-ref and, IIRC, did the paint-ups for MR.
+
+I did take a lot of the MR speeder dimensions as solid when developing scaled up drawings for some of my replacement parts, like the canopy (which you and I have already discussed).  Not sure why I didn't trouble myself to compare against the reference.  But, too late now.  More apologies to Lee as the canopy dims I provided him are really ailing, now.
+
+Anyway, the MR canopy is not representative of the Rogue Leader filming model.  I understand what you're saying about the limitations of 3D scanning, but, I don't think all of the inconsistencies between the MR canopy and that of the filming prop can simply be attributed to computer error.  The front top window is out of alignment with the rear top panel, as one example.  Stuff happens during development that's completely out of the hands of some of the project participants.
+────────────────────────────────────────────────────────────────────────
+Post #108  (forum post #2712227)
+Author    : ralphee
+Date      : Jan 25, 2013 at 3:57 PM
+────────────────────────────────────────────────────────────────────────
+
+No need Allan, im happy with what i have right now lol, theres always styrene at a later date, following you two will serve me well. Hey, lets face it, im way past the MR model, so ill call that a happy medium.
+
+As ive said before buddy, this became a journey into painting, not build accuracy in the end, so i thank Jason for the chance to do maybe the most accurate paint thus far on this model, without that ref...... id have been stuck!
+
+Lee
+────────────────────────────────────────────────────────────────────────
+Post #109  (forum post #2712260)
+Author    : moffeaton
+Date      : Jan 25, 2013 at 4:22 PM
+────────────────────────────────────────────────────────────────────────
+
+Not all all - I take no offense at all. Just wanted to let you know "why" MR did things the way they did. Believe me, no matter what happened, it was never something that sat well with everyone.
+────────────────────────────────────────────────────────────────────────
+Post #110  (forum post #2712263)
+Author    : moffeaton
+Date      : Jan 25, 2013 at 4:24 PM
+────────────────────────────────────────────────────────────────────────
+
+Oh yeah - and no matter what you send to China, they will arbitrarily change it. Happened with stuff I worked on at MR, Qmx, Palisades.... it's just impossible to get something made in a "toy" factory to tight tolerances that the RPF demands, apparently!
+────────────────────────────────────────────────────────────────────────
+Post #111  (forum post #2712560)
+Author    : imaginager
+Date      : Jan 25, 2013 at 8:10 PM
+────────────────────────────────────────────────────────────────────────
+
+Meanwhile... the front prow has been bugging me on the kit.  The model just doesn't look quite right without the seams on those front facets.  So, I spent a little longer than I thought it would take and laminated a "facade" onto the front.  Still need to add the "rivet" holes, or whatever they are.  Hard to see as my camera doesn't focus well on styrene, but you get the idea.
+────────────────────────────────────────────────────────────────────────
+Post #112  (forum post #2714095)
+Author    : 3d-builder
+Date      : Jan 26, 2013 at 8:19 PM
+────────────────────────────────────────────────────────────────────────
+
+I have been looking through this Allan....it's a great thread!:thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #113  (forum post #2714497)
+Author    : ralphee
+Date      : Jan 27, 2013 at 5:57 AM
+────────────────────────────────────────────────────────────────────────
+
+imaginager said:
+
+			Meanwhile... the front prow has been bugging me on the kit.  The model just doesn't look quite right without the seams on those front facets.  So, I spent a little longer than I thought it would take and laminated a "facade" onto the front.  Still need to add the "rivet" holes, or whatever they are.  Hard to see as my camera doesn't focus well on styrene, but you get the idea.
+		
+
+Click to expand...
+
+That i do like Allan, its something that bugs me on my model, i like the joins in that area, its one bit i got super nice on my styrene upper hull i have stashed away.
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #114  (forum post #2715745)
+Author    : imaginager
+Date      : Jan 27, 2013 at 8:39 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks, Michael...Lee.  
+
+Well, continuing on with the cockpit.  I've spent way too many hours looking for kit parts that are little better than blurry shapes in the ref, so some concessions had to be made.  
+
+Finished the new bulkhead / seat (actually, it's more of a backrest - there is no seat in the filming model).  The bulk head is entirely scratched and I found a total of 3 parts on the backrest, all on the starboard side bulkhead.  Also tweaked the cockpit pilot instrument panel / dash.  Not much to show for the number of hours spent...
+────────────────────────────────────────────────────────────────────────
+Post #115  (forum post #2715755)
+Author    : moffeaton
+Date      : Jan 27, 2013 at 8:46 PM
+────────────────────────────────────────────────────────────────────────
+
+Looks beautiful. Are you adding the bubble wrap seat belts? :lol
+────────────────────────────────────────────────────────────────────────
+Post #116  (forum post #2715762)
+Author    : Telepathic
+Date      : Jan 27, 2013 at 8:51 PM
+────────────────────────────────────────────────────────────────────────
+
+Looks beautiful Allen. The cockpit has been kicking my butt.
+────────────────────────────────────────────────────────────────────────
+Post #117  (forum post #2715765)
+Author    : Telepathic
+Date      : Jan 27, 2013 at 8:52 PM
+────────────────────────────────────────────────────────────────────────
+
+Sorry Allan, with an "a" not an "e".
+────────────────────────────────────────────────────────────────────────
+Post #118  (forum post #2715770)
+Author    : imaginager
+Date      : Jan 27, 2013 at 8:54 PM
+────────────────────────────────────────────────────────────────────────
+
+Jason, not sure about the bubble-wrap...is that what the live action shots used?  Lost...
+
+Telepathic, yeah...I'm actually starting to see your interest in rendering the cockpit more like the live action full scale.  The parts that I did find...it was kinda, "huh?, they used that?!"
+
+Ah, well.
+────────────────────────────────────────────────────────────────────────
+Post #119  (forum post #2715775)
+Author    : moffeaton
+Date      : Jan 27, 2013 at 8:57 PM
+────────────────────────────────────────────────────────────────────────
+
+Yeah, it was a joke about the filming set. Makes me giggle.
+
+http://xa.yimg.com/kq/groups/19464533/sn/1026299384/name/n_a
+────────────────────────────────────────────────────────────────────────
+Post #120  (forum post #2715794)
+Author    : imaginager
+Date      : Jan 27, 2013 at 9:10 PM
+────────────────────────────────────────────────────────────────────────
+
+Ah.  Couldn't be sure from the single live action c-pit shot I turned up with Google images. But, considering what the model shop came up with, bubble wrap was a step up!
+────────────────────────────────────────────────────────────────────────
+Post #121  (forum post #2715799)
+Author    : moffeaton
+Date      : Jan 27, 2013 at 9:12 PM
+────────────────────────────────────────────────────────────────────────
+
+Ages ago when I tricked out a casting of the MR speeder for SD, I screen capped the film to hell and back to get the quilted pattern of the liner on the upper section (headliner) of the canopy, and that's when I spied the bubble wrap material. Ridiculous/charming but yeah, in line with what they did everywhere else.
+────────────────────────────────────────────────────────────────────────
+Post #122  (forum post #2715807)
+Author    : Telepathic
+Date      : Jan 27, 2013 at 9:21 PM
+────────────────────────────────────────────────────────────────────────
+
+Hey Allan, I'm still shooting for a cross between the live action and the miniature, similar to the MR. That's one aspect of that replica that was well executed. The front, rear and side consoles are live action and the lower cockpit walls are the mini. I think it's pretty cool.
+────────────────────────────────────────────────────────────────────────
+Post #123  (forum post #2716054)
+Author    : eagle1
+Date      : Jan 28, 2013 at 2:34 AM
+────────────────────────────────────────────────────────────────────────
+
+Hey Allan, 
+
+Great work on your Speeder mate, some tricky area's there youv'e really put alot of thought & dedication into getting right. Love the cockpit details. This one's gonna be a stunner for sure!.
+
+Stu
+────────────────────────────────────────────────────────────────────────
+Post #124  (forum post #2716240)
+Author    : 3d-builder
+Date      : Jan 28, 2013 at 6:19 AM
+────────────────────────────────────────────────────────────────────────
+
+Thing is Allen you look at the speeder from the out side 
+
+it's all mechanical and working. Then you look inside and
+
+it's like....wow "Nothing looks like it is working in here,
+
+to make everything out there work"LOL Well at least
+
+on the filming mini......:lol But the live action one is
+
+def more mechanical looking and working!
+
+Your seat back looks perfect great job along
+
+with instrumentation part.:thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #125  (forum post #2719464)
+Author    : imaginager
+Date      : Jan 29, 2013 at 6:52 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks, Michael.  Hey, would you direct me to your own speeder build up?  I lost that bookmark two computers ago...yours is a winner!
+
+I'm still trying to decide what to do about the parts I can't find... The incorrect ones are tacked on as placeholders, for now.
+────────────────────────────────────────────────────────────────────────
+Post #126  (forum post #2721975)
+Author    : BrundelFly
+Date      : Jan 31, 2013 at 7:15 AM
+────────────────────────────────────────────────────────────────────────
+
+Amazing!!! I love this thread!!
+────────────────────────────────────────────────────────────────────────
+Post #127  (forum post #2721992)
+Author    : imaginager
+Date      : Jan 31, 2013 at 7:21 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks, Frank.  I've gotten bogged down in the 80-20 rule.  Anyway, chipping away at that last 20 percent (that's costing 80 percent of the effort, except Telepathic put in the 80 percent, lol) with a couple more part IDs.  This is cropped from an image included in Jason's set, and I lightened the photo considerably to reveal that panel on the gunner's side of the seat.
+
+[IMAGE: rearseat.jpg]
+
+And, Telepathic ID'd the round part on the left / port side top of the seat / bulkhead - above the 20mm part in the pic. It's cut from a Panzer IV suspension.  Don't have a better pic handy...
+────────────────────────────────────────────────────────────────────────
+Post #128  (forum post #2722086)
+Author    : 3d-builder
+Date      : Jan 31, 2013 at 8:17 AM
+────────────────────────────────────────────────────────────────────────
+
+imaginager said:
+
+			Thanks, Michael.  Hey, would you direct me to your own speeder build up?  I lost that bookmark two computers ago...yours is a winner!
+
+I'm still trying to decide what to do about the parts I can't find... The incorrect ones are tacked on as placeholders, for now.
+		
+
+Click to expand...
+
+My speeder I am pretty sure is bigger than SS my cockpit tub
+
+ended up being huge.....LOL Just by looking at the seat I was
+
+working on you can tell.
+
+[IMAGE: Mvc-691f.jpg]
+
+[IMAGE: Mvc-906s.jpg]
+
+Here Is the link to the album on photobucket.....don't think there 
+
+is a damn thing there you can learn building wise!:thumbsup But
+
+there rest of the cockpit pictures are there.
+
+Studio Scale Snowspeeder V1 Photos by 3dimensionalmanagement | Photobucket
+────────────────────────────────────────────────────────────────────────
+Post #129  (forum post #2722149)
+Author    : masterjedi322
+Date      : Jan 31, 2013 at 8:48 AM
+────────────────────────────────────────────────────────────────────────
+
+That cockpit looks amazing!!! Love all the details!!! Are those lit displays or some kind of decal? :thumbsup
+
+Sean
+────────────────────────────────────────────────────────────────────────
+Post #130  (forum post #2722257)
+Author    : moffeaton
+Date      : Jan 31, 2013 at 9:48 AM
+────────────────────────────────────────────────────────────────────────
+
+I really is a sight to behold - I love it! Your pencil sharpener makes me smile, too. I love those. Boston, right?
+────────────────────────────────────────────────────────────────────────
+Post #131  (forum post #2763893)
+Author    : Telepathic
+Date      : Feb 22, 2013 at 6:34 PM
+────────────────────────────────────────────────────────────────────────
+
+Hey guys, wondering if you can help out with another part ID. I am pretty sure I've seen this part somewhere, I just can't recall where I've seen it.
+────────────────────────────────────────────────────────────────────────
+Post #132  (forum post #2765413)
+Author    : imaginager
+Date      : Feb 23, 2013 at 7:14 PM
+────────────────────────────────────────────────────────────────────────
+
+I'm looking Helio, nothing yet.  C'mon folks, I know someone knows!!
+────────────────────────────────────────────────────────────────────────
+Post #133  (forum post #2765624)
+Author    : Bioshutt
+Date      : Feb 23, 2013 at 11:20 PM
+────────────────────────────────────────────────────────────────────────
+
+Reminds me of an F-14 exaust tailpipe part but it is way to diffrent than the part that I am thinking of.  It cold be part of a model jet part but I can't really be sure btw this model is looking amazing and is showing a lot of progress!
+────────────────────────────────────────────────────────────────────────
+Post #134  (forum post #2765704)
+Author    : ralphee
+Date      : Feb 24, 2013 at 1:09 AM
+────────────────────────────────────────────────────────────────────────
+
+Telepathic said:
+
+			Hey guys, wondering if you can help out with another part ID. I am pretty sure I've seen this part somewhere, I just can't recall where I've seen it.
+		
+
+Click to expand...
+
+Looks like a T34 wheel cap, sure ive seen it on a couple of Russian tank sprues.
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #135  (forum post #2765874)
+Author    : sjanish
+Date      : Feb 24, 2013 at 5:28 AM
+────────────────────────────────────────────────────────────────────────
+
+Telepathic said:
+
+			Hey guys, wondering if you can help out with another part ID. I am pretty sure I've seen this part somewhere, I just can't recall where I've seen it.
+		
+
+Click to expand...
+
+ 
+
+Purple part in the center? It looks like a Plastruct butyrate endcaps, like on the probe droid.
+────────────────────────────────────────────────────────────────────────
+Post #136  (forum post #2765932)
+Author    : Telepathic
+Date      : Feb 24, 2013 at 6:38 AM
+────────────────────────────────────────────────────────────────────────
+
+Lee, Scott, thanks for the suggestions. The part does not seem to come from any of the Russian tanks and from an initial browsing of the tubing and fittings section in the Plastruct catalog has not led me to the part. I don't know why guys but this part seems so familiar, kind of like I have actually held it in hand before I just can't recall the specific circumstances.
+────────────────────────────────────────────────────────────────────────
+Post #137  (forum post #2765944)
+Author    : ralphee
+Date      : Feb 24, 2013 at 6:59 AM
+────────────────────────────────────────────────────────────────────────
+
+Hmm, i actually liked Scotts suggestion better than my own Helio, but, if you think not, its odd....cant figure that notch that is in the side, moulded, or a bad sprue trim?
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #138  (forum post #2765978)
+Author    : Telepathic
+Date      : Feb 24, 2013 at 7:19 AM
+────────────────────────────────────────────────────────────────────────
+
+How's it going Lee. I thought Scott's suggestion was good too but  I still have not been able to locate the part in the catalog. As far as the notch goes I believe it to be in the part due to the fact that it is has perfectly square edges as opposed to rough spots that would be produced by either a poor removal from the parts tree or a rough casting. I still can't seem to shake the feeling that I have personally handled this part but I just can't seem to remember from where, I am building a falcon and have dealt with 100's maybe 1000's of parts, just wish that I could remember where this part was.
+────────────────────────────────────────────────────────────────────────
+Post #139  (forum post #2765991)
+Author    : ralphee
+Date      : Feb 24, 2013 at 7:28 AM
+────────────────────────────────────────────────────────────────────────
+
+Telepathic said:
+
+			How's it going Lee. I thought Scott's suggestion was good too but  I still have not been able to locate the part in the catalog. As far as the notch goes I believe it to be in the part due to the fact that it is has perfectly square edges as opposed to rough spots that would be produced by either a poor removal from the parts tree or a rough casting. I still can't seem to shake the feeling that I have personally handled this part but I just can't seem to remember from where, I am building a falcon and have dealt with 100's maybe 1000's of parts, just wish that I could remember where this part was.
+		
+
+Click to expand...
+
+All good here buddy 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+. Oh i so here you on handling parts, its infuriating trying to jog the memory sometimes, theres a lot of junk rattling round in my head.
+
+Its kind of like that scene in Stephen Kings Dreamcatcher, having an actual memory bank, so to speak, a filing system lol, that would be something.
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #140  (forum post #2766011)
+Author    : Telepathic
+Date      : Feb 24, 2013 at 7:39 AM
+────────────────────────────────────────────────────────────────────────
+
+And the worst part of it all is that I am going to tire looking for the thing and either scratch my own or settle for a part that is close enough and then after all is said and done the proper part will turn up.
+────────────────────────────────────────────────────────────────────────
+Post #141  (forum post #2766019)
+Author    : ralphee
+Date      : Feb 24, 2013 at 7:49 AM
+────────────────────────────────────────────────────────────────────────
+
+Telepathic said:
+
+			And the worst part of it all is that I am going to tire looking for the thing and either scratch my own or settle for a part that is close enough and then after all is said and done the proper part will turn up.
+		
+
+Click to expand...
+
+Bud that is ALWAYS the way....i remember being the first to build the PD pods, and over time, a few finds were made, when i absolutely thought they would forever be a mystery lol.......but naturally, i had to swap out my incorrect ones.
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #142  (forum post #2766060)
+Author    : sjanish
+Date      : Feb 24, 2013 at 8:22 AM
+────────────────────────────────────────────────────────────────────────
+
+Hmm. I didn't notice that notch earlier, so maybe not the tube cap. If it was it would have to be a two part/mod that would still leave you looking for what is likely a kit part. 
+
+Just fyi, page 35 of the vol 9 catalog.
+
+[IMAGE: tubcap_zpsc3697de4.jpg]
+
+[IMAGE: pc6_zpsc88f03f7.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #143  (forum post #2766155)
+Author    : dirtydave
+Date      : Feb 24, 2013 at 9:38 AM
+────────────────────────────────────────────────────────────────────────
+
+Hey Helio,the closet part for the bottom part(if it's 2 parts?) is part #d-17 from Bandai 1/48 Jagd-panther.
+
+View attachment 145592
+
+View attachment 145593
+
+Dave
+────────────────────────────────────────────────────────────────────────
+Post #144  (forum post #2766177)
+Author    : Telepathic
+Date      : Feb 24, 2013 at 9:54 AM
+────────────────────────────────────────────────────────────────────────
+
+Hey Dave, how's it going? I knew you would have something. That looks pretty good. I honestly don't believe it's the part but it is pretty close though it does require another circular part over top. I have a Bandai Panther G which shares several trees with the Jagdpanther but it is in storage. Before I go grab it could you just tell me the approximate diameter of the part.
+
+Thanks buddy.
+────────────────────────────────────────────────────────────────────────
+Post #145  (forum post #2766199)
+Author    : dirtydave
+Date      : Feb 24, 2013 at 10:14 AM
+────────────────────────────────────────────────────────────────────────
+
+Yeah I deff don't think it's the correct part,the original seems to be hollow underneath & the cutout seem to go higher on the top.I don't have a micrometer,so this is the best I can do.Will keep an eye out for the part.
+
+View attachment 145617 
+
+Dave
+────────────────────────────────────────────────────────────────────────
+Post #146  (forum post #2766218)
+Author    : Telepathic
+Date      : Feb 24, 2013 at 10:25 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks again for the effort Dave. As I thought it's slightly over sized and you are right, it should be hollow and slightly fit over the center of the halftrack bogey. It's driving me crazy because I am convinced that I have personally handled this part and disregarded it because I was not looking for it at the time.
+
+Helio
+────────────────────────────────────────────────────────────────────────
+Post #147  (forum post #2766238)
+Author    : dirtydave
+Date      : Feb 24, 2013 at 10:34 AM
+────────────────────────────────────────────────────────────────────────
+
+No problem,I'll keep an eye out for it.
+
+Dave
+────────────────────────────────────────────────────────────────────────
+Post #148  (forum post #2815996)
+Author    : Telepathic
+Date      : Mar 23, 2013 at 11:18 AM
+────────────────────────────────────────────────────────────────────────
+
+OK guys, here's another ID. This one is a hard one as the picture of the part is not very good but it is the best I have of this area. I am about to hurt myself looking for this part, I haven't come close to finding anything that looks remotely close. I'm hoping someone here may recognize it, I am pretty sure that it isn't Tamiya armor though.
+
+Helio
+────────────────────────────────────────────────────────────────────────
+Post #149  (forum post #2823984)
+Author    : Telepathic
+Date      : Mar 27, 2013 at 6:42 PM
+────────────────────────────────────────────────────────────────────────
+
+Hey guys, any guesses or suggestions on that last unknown part?
+
+Helio
+────────────────────────────────────────────────────────────────────────
+Post #150  (forum post #2824029)
+Author    : imaginager
+Date      : Mar 27, 2013 at 7:00 PM
+────────────────────────────────────────────────────────────────────────
+
+Helio, I spent a little time looking earlier this evening.  The first time I saw your post I wanted to say kettenkrad (even though I knew that was wrong - it was).  I also checked the Entex - negative.  I haven't gone through the F1s, yet.  Is it possible that it's two pieces?
+────────────────────────────────────────────────────────────────────────
+Post #151  (forum post #2824082)
+Author    : moffeaton
+Date      : Mar 27, 2013 at 7:32 PM
+────────────────────────────────────────────────────────────────────────
+
+For size comparison - those are 8Rad parts to the rear, right? The triangular guys with straps/buckles. The highlighted mystery part does look like it could be two of the same thing, side by side. It's an interesting part for sure. Pedals?
+────────────────────────────────────────────────────────────────────────
+Post #152  (forum post #2824143)
+Author    : Telepathic
+Date      : Mar 27, 2013 at 8:01 PM
+────────────────────────────────────────────────────────────────────────
+
+Hey Allan good to hear from you, it is possible that it is 2 parts, at this point anything is possible. The reality is that this is the best pic I have of this mystery part and it doesn't really show much. I was hoping that someone would recognize a specific detail of the part(s) and know where it came from but so far nothing. I've checked all the F1 kits and if it is in there it's not obvious, could be modifications to a part(s). BTW I should make it to the P.O. tomorrow, hopefully you will have the parts next week. Have you gotten any work done on your speeder?
+
+Jason thanks for the help, pedals actually sounds reasonable, I just haven't seen any that looks like that yet? Also the cylindrical parts in the back, I don't know what they are. The 8 rad parts do look close except for the fact that the parts on the model have a taper to them and the parts in the 8 rad don't, they do look close though. As for the size, these parts are should be quite large, approx. 1/2" high.
+
+Thanks again guys,
+
+Helio
+────────────────────────────────────────────────────────────────────────
+Post #153  (forum post #2824154)
+Author    : Telepathic
+Date      : Mar 27, 2013 at 8:07 PM
+────────────────────────────────────────────────────────────────────────
+
+Hey Jason, I've rethought my position on the cylinders and I believe You are right on and those are the cylinders from the 8 Rad. Thanks man, I think it's the camera distortion throwing me off there.
+
+Thanks again buddy.
+
+Helio
+────────────────────────────────────────────────────────────────────────
+Post #154  (forum post #2824201)
+Author    : moffeaton
+Date      : Mar 27, 2013 at 8:48 PM
+────────────────────────────────────────────────────────────────────────
+
+If it is indeed them, it's a great comparison for the size of the mystery part!!
+────────────────────────────────────────────────────────────────────────
+Post #155  (forum post #2831344)
+Author    : adam010289
+Date      : Apr 1, 2013 at 3:31 PM
+────────────────────────────────────────────────────────────────────────
+
+I would love to own one one day. Moving parts are always a bonus.
+────────────────────────────────────────────────────────────────────────
+Post #156  (forum post #4369709)
+Author    : mknorr
+Date      : Dec 15, 2017 at 4:18 AM
+────────────────────────────────────────────────────────────────────────
+
+Hello,
+
+i found this post via a photo link. Why are none of the images viewable?
+
+cheers,
+
+Manfred
+────────────────────────────────────────────────────────────────────────
+Post #157  (forum post #4370027)
+Author    : TazMan2000
+Date      : Dec 15, 2017 at 1:07 PM
+────────────────────────────────────────────────────────────────────────
+
+Thumbnails may be saved in history or cache of search engines or some server, even though the link to them may be dead. Keep in mind the thread was stared nearly 5 years ago.  Also, millions of images that were on Photobucket, are inaccessible (unless you have a patch to your browser, and PB keeps changing the code so that patches have to be constantly updated), however, the thumbnails may still be viewable.
+
+TazMan2000
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 157

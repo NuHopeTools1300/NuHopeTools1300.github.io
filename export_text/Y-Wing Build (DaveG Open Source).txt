@@ -1,0 +1,1330 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Y-Wing Build (DaveG Open Source)
+URL    : https://www.therpf.com/forums/threads/y-wing-build-daveg-open-source.296407/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #4545795)
+Author    : CheesyGrin
+Date      : Nov 18, 2018 at 10:56 AM
+Reactions : Like — struschie, Lee S, Mike J.
+────────────────────────────────────────────────────────────────────────
+
+Hi All,
+
+I'll be constructing a studio scale Y-Wing based off of DaveG's open source project. Many thanks to Dave for sharing this great work! The Y-Wing is one of my favorite Star Wars fighters. This will be an exciting build for me.
+
+Like most, I'm working within a budget. Shapeways prints are fantastic but dollars add up when you're printing many parts. Over my model building years, I've acquired or built tools to help fuel the fervor. So, my plan is to grow or cut the major assemblies in my garage. I'll be using Dave's excellent 3D model and Fusion 360 to modify the 3D files. I'll post pics of 3D model updates I make. For example, I'm planning to refine the 3D nacelle shells to make a close match to the Airfix Saturn shells. If someone finds value in having them, I'm happy to submit to DaveG for inclusion in the open source repo.
+
+Here's a rundown of my equipment. Nothing super expensive, all hobbyist-grade tools:
+
+Creality CR-10 Printer (FDM)
+
+Anycubic Photon DLP Printer (Resin)
+
+Inventables 1000x1000 CNC
+
+After 2 weekends of printing, here's where I am so far:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3317_zpssx0frdq1-jpg.941455/]
+
+I had to split the forward fuselage to fit on the Photon printer. I have more parts to print before this is complete.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3318_zpsvk0uv1vd-jpg.941456/]
+
+The shrouds printed nicely. A little primer and wet and dry sanding will knock off the tiny layer lines
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3303_zpsz6xrtda6-jpg.941457/]
+
+Finally, the shroud pistons
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3301_zpsu6jpexza-jpg.941458/]
+
+I'm hoping for steady progress!
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #4546342)
+Author    : Keiko
+Date      : Nov 19, 2018 at 5:26 PM
+────────────────────────────────────────────────────────────────────────
+
+It looks like you got pretty clean prints there. I'm looking forward to seeing your progress.
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #4547658)
+Author    : dtssyst
+Date      : Nov 23, 2018 at 4:57 AM
+────────────────────────────────────────────────────────────────────────
+
+I can not wait to see more.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #4547809)
+Author    : CheesyGrin
+Date      : Nov 23, 2018 at 2:20 PM
+Reactions : Like — Lee S, dtssyst, Hammer3246
+────────────────────────────────────────────────────────────────────────
+
+Happy Friday and Belated Thanksgiving!
+
+I had some time off from work and made progress on the Y-Wing:
+
+1. Cut the Tee Plate on the CNC. I could not find the 'Tee Plate.dxf' file in the Google repo so I recreated it from Fusion360. I'll package it up with other files I create and send to DaveG for possible contribution to the open source files. I chose to cut the Tee Plate from 1/4" MDF. Why? Budget! I'm trying to keep this build relatively inexpensive. A 2x2 MDF sheet is $4.99 whereas acrylic is $26. Acrylic is more finicky to cut on a CNC, too. I'm plating the Tee Plate with styrene anyway so it shouldn't matter.
+
+2. Completed the armature. Nothing unique here. Another shout out to DaveG for some great engineering!
+
+3. Sanded and test fit the core body sections.
+
+Here are some pics:
+
+[IMAGE: https://www.therpf.com/forums/attachments/1b018382-419b-438a-972a-8e4e9d236524_zpsguuknnt4-jpg.943029/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3329_zps0gptwueq-jpg.943030/]
+
+ 
+
+There's more sanding and dry fitting to do before the core section is complete. I'm also prepping/printing more parts in parallel. I'll post pics of more 3D printed parts soon. For the Y-Wing aficionados - if you see me making goofy mistakes, speak up!
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #4548200)
+Author    : CheesyGrin
+Date      : Nov 24, 2018 at 7:37 PM
+Reactions : Like — Hammer3246
+────────────────────────────────────────────────────────────────────────
+
+I'm refining the nacelle covers, adding the slight flaring and detail around the bottom. Best as I can tell from reference photos, the Airfix pieces have consecutive ridges that wrap the circumference of the rocket shell. They reverse direction midway causing a slight reflection change. Better described with pics:
+
+[IMAGE: https://www.therpf.com/forums/attachments/y-wing-20open-20source-20161112-20v10-20v1_zps5p5ck94g-png.943523/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/y-wing_open_source_zpssbgryc4l-jpg.943524/]
+
+ 
+
+This effect looks pretty close to the kit part. Well, close enough for me. I'll complete the wider band at the top pf the shell and this 3D model will be done. These models allow me to print the nacelle covers instead of purchasing 2 Airfix kits. I'll add scratch built details, post-print. Hopefully I can finish them up tomorrow before heading back to work. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #4548396)
+Author    : CheesyGrin
+Date      : Nov 25, 2018 at 1:21 PM
+Reactions : Like — Lee S, dtssyst, Studio Kitbash
+────────────────────────────────────────────────────────────────────────
+
+Completed a test print to check real world output. Based on this, I'll make the ridges slightly more proud and print the final nacelle covers. Otherwise, I'm satisfied this approach will work. The fit is spot on.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3332_zpsptgwmive-jpg.943790/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3334_zpsbzoa5eie-jpg.943791/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3335_zpsqcztdij9-jpg.943792/]
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #4548516)
+Author    : TazMan2000
+Date      : Nov 25, 2018 at 10:17 PM
+────────────────────────────────────────────────────────────────────────
+
+Wow. That DLP sure does a nice job.
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #4549349)
+Author    : CheesyGrin
+Date      : Nov 28, 2018 at 5:35 AM
+────────────────────────────────────────────────────────────────────────
+
+TazMan2000 said:
+
+			Wow. That DLP sure does a nice job.
+
+TazMan2000
+		
+
+Click to expand...
+
+Yes, agreed! Every print that comes out of that printer amazes me. The quality it produces for such a relatively low cost is outstanding.
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #4551376)
+Author    : DaveG
+Date      : Dec 3, 2018 at 3:51 PM
+────────────────────────────────────────────────────────────────────────
+
+Nice work!
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #4551765)
+Author    : CheesyGrin
+Date      : Dec 4, 2018 at 2:52 PM
+Reactions : Like — struschie
+────────────────────────────────────────────────────────────────────────
+
+DaveG said:
+
+			Nice work!
+		
+
+Click to expand...
+
+Thanks Dave! I can't thank you enough for your open source contributions. I'm going to do the same with my studio scale ED-209 build when I pick it back up. 
+
+I've been modeling and printing like crazy. Finished the Saturn V shell 3D model and started the prints. I had to split/slice each shell half to fit my DLP printer. Otherwise, I think they're a good match to the Saturn V kit parts. I also printed maxhebus' designs for the engine core and fins. The black parts in the pics are ABS printed on my FDM printer and the green and gray parts are resin printed on my DLP printer. I'm estimating ~$35 in filament and resin costs to print everything so far. Not bad for a low budget approach to the build!
+
+[IMAGE: https://www.therpf.com/forums/attachments/nacelle-20shell_zpsben94o5d-jpg.961875/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/nacelle-20shell-202_zpsm5y0dirt-png.961876/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3342_zpsoayxh2iw-jpg.961877/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3343_zpsonueeyvp-jpg.961878/]
+
+ 
+
+These parts are straight off the printer with support nubs unsanded. I'll have everything cleaned up and sanded during construction.
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #4559440)
+Author    : CheesyGrin
+Date      : Dec 24, 2018 at 5:53 AM
+Reactions : Like — Axlotl, edge10, vectorzero
+────────────────────────────────────────────────────────────────────────
+
+Merry Christmas!
+
+I've been working on modeling the Nacelle Clips. DaveG's source files were missing the front scoop so I used what was there as a baseline. I also reviewed Studio Kitbash's excellent part breakdown. I modeled the original parts individually and cut them relative to the method Studio Kitbash demonstrates. I also replicated the slight curve on the Nacelle Cone so the fit should be just right. Many thanks to DaveG and Studio Kitbash! Here's the final model and a test print:
+
+[IMAGE: https://www.therpf.com/forums/attachments/connector2_zpskkhdm9uz-jpg.968039/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/connector1_zpsiwxwicbc-jpg.968040/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3354_zpsyialdqon-jpg.968041/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3355_zpskwluzx22-jpg.968042/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3356_zpsgzknslnv-jpg.968043/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3358_zpsu7bcsxhd-jpg.968044/]
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #4561011)
+Author    : CheesyGrin
+Date      : Dec 29, 2018 at 8:02 AM
+Reactions : Like — Studio Kitbash, dtssyst, Mike J.
+────────────────────────────────────────────────────────────────────────
+
+Happy Saturday!
+
+I've completed the Forward Fuselage print and assembly. This was a bit of an engineering challenge. I had to split top and bottom because the fuselage was ~10mm too wide for my DLP. I went through several design iterations to find a good split line that minimized sanding, maximized strength, and provided decent surface area for glueing. I also modeled 12 'tabs' and glue plates to increase adhesion surface area. The plates conformed to the complex curves of the inner fuselage. The fuselage bottom is a relatively thin piece. So I also fiberglassed the inside of this piece after glue-up. I've got about 8 hrs in the thinking, modeling, and slicing. This resin sands easily so I printed at .1mm layer height and cut print time in half. In all, this represents ~21 hrs of printing time. 
+
+BTW - I print this on my DLP printer but I think it's possible to get a useable version on an FDM printer too. I tried various iterations on my CR10 because the large print area allowed the entire print w/o splitting. I printed in ABS at .1mm layer height. The surface was very good and ABS is easily sanded. The only gotcha were the modeled panel lines had minor stair stepping. However, I think someone with good modeling skills could re-scribe with success. Point is, someone with an FDM printer, a little fortitude, and willingness to finesse the part can get a SS Y-Wing fuselage for their very own w/o paying $200+ for the Shapeways version. Anyway, just my $.02. 
+
+Here's some pics:
+
+[IMAGE: https://www.therpf.com/forums/attachments/bottom_zpsuqmkjrnn-png.969453/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/top_zpsitcziamh-png.969454/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3365_zpsn5bxqxta-jpg.969455/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3366_zpsdskbawut-jpg.969456/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3368_zps3ktgc4qn-jpg.969457/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3373_zps0zfvu3zs-jpg.969458/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3371_zpsqslnfthx-jpg.969460/]
+
+ 
+
+ A little more sanding and a spot of filler and I think this major part is complete!
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #4561032)
+Author    : Jkirkon
+Date      : Dec 29, 2018 at 9:10 AM
+Reactions : Like — CheesyGrin
+────────────────────────────────────────────────────────────────────────
+
+I’m SO tuned in to this! 
+
+I was never a huge fan of the Y-wing until I built a Nice-n Gold Leader awhile back, now I’m fascinated by it. So many variations between the ships, and such intricate details. 
+
+Your work is fantastic, and very inspiring (maybe enough for me to do Gold 5)....
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #4561172)
+Author    : CheesyGrin
+Date      : Dec 29, 2018 at 4:41 PM
+────────────────────────────────────────────────────────────────────────
+
+Jkirkon said:
+
+			I’m SO tuned in to this!
+
+I was never a huge fan of the Y-wing until I built a Nice-n Gold Leader awhile back, now I’m fascinated by it. So many variations between the ships, and such intricate details.
+
+Your work is fantastic, and very inspiring (maybe enough for me to do Gold 5)....
+		
+
+Click to expand...
+
+Thank you for the kind words!
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #4561399)
+Author    : joberg
+Date      : Dec 30, 2018 at 10:10 AM
+Reactions : Like — CheesyGrin
+────────────────────────────────────────────────────────────────────────
+
+Very nice indeed!  Dave did a stellar job on those files
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ Eager to see your next update
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #4561571)
+Author    : Studio Kitbash
+Date      : Dec 30, 2018 at 8:15 PM
+────────────────────────────────────────────────────────────────────────
+
+Looks REALLY good so far -- thanks for the progress shots!
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #4564011)
+Author    : CheesyGrin
+Date      : Jan 5, 2019 at 2:05 PM
+Reactions : Like — Hammer3246, Studio Kitbash, dtssyst
+────────────────────────────────────────────────────────────────────────
+
+Hi All,
+
+I had a significant fail but overcame. I think there's value in sharing the fails and how things get resolved. Hopefully someone can benefit!
+
+The Saturn V pieces I modeled were too tall to print as one piece on my SLA. No worries, that's what model slicing is for. However, I choose poorly when slicing the models. Long story short, I sliced them midway making 4 pieces total for a complete Nacelle shell. Here's how mounting went:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3377_zpssjpmmbig-jpg.973178/]
+
+ 
+
+The issue was not with the prints but with alignment of 4 separate parts. One slight alignment miss on piece 1 and it transmits through to piece 4. No bueno. I tried to remove the pieces to salvage the Nacelle Cores but JBWeld and superglue wouldn't give them back without a fight:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3376-202_zpsjkuzgrcp-jpg.973179/]
+
+ 
+
+Back to the drawing board. After some thinking, I decided to solve the problem with 2 changes - (1) smarter slice point and (2) assemble the shell half BEFORE glueing to Nacelle Core. My printer could handle a slightly longer section. After some measurements, I decided to slice where the smooth section meets the ridges. I also created 2 recessed section where I could epoxy a styrene tab, connecting the two sections with a little more strength:
+
+[IMAGE: https://www.therpf.com/forums/attachments/nacelleshell_zpsxvro5q30-png.973180/]
+
+ 
+
+Next I engineered a clamping system that would hold the pieces in register while I glue it up from the inside:
+
+[IMAGE: https://www.therpf.com/forums/attachments/clamp_zpszjfm3tmx-png.973181/]
+
+ 
+
+The clamp may be overkill but it takes 13hrs to print two Saturn V pieces at .05mm layer height. I want to ensure that when they are glued, they are glued in the correct alignment. There's no going back once it sets! A screw-up costs me another 13hrs. 
+
+I think the new approach has this issue licked. The jig worked great. It also functioned well as sanding guide for the ends of the shells. Here are some pics of the outcomes:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3379_zpsxnufb4qt-jpg.973182/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3378_zpslwav2wlm-jpg.973183/]
+
+ 
+
+I made a portal to check alignment on the backside:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3380_zpsor1jphaa-jpg.973184/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3381_zpsbyqym6w8-jpg.973185/]
+
+ 
+
+Much better and no seams to sand! With this new approach confirmed, I will (re)start prints on all the Nacelle parts. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #4564238)
+Author    : Studio Kitbash
+Date      : Jan 6, 2019 at 6:29 AM
+Reactions : Like — CheesyGrin
+────────────────────────────────────────────────────────────────────────
+
+That's an impressive bit of engineering and work-around; I love the jig idea and it seems to have worked great.  I always recommend to scratch builders who ask that you buy two original Airfix Saturn V models in 1/144 scale and save yourself the hassle of all this work for both the engines as well as the engine cores and cones, but at least this way you've got a back-up way of producing a Y-Wing when the Saturn V molds finally break down and fall apart and they stop being produced.  I imagine we'll see a new re-issue of the kit this year with the 50th anniversary of the moon launch, but I'm also of the impression (from this forum) that the original mold for the kit is not the one they are currently using (the post-1989 version?), and that there are some slight, subtle, but significant differences between them, one reason why the old vintage kits are usually $75 or more on Ebay, and only cheaper than that if you can find them at a garage sale.
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #4564386)
+Author    : joberg
+Date      : Jan 6, 2019 at 2:07 PM
+Reactions : Like — CheesyGrin
+────────────────────────────────────────────────────────────────────────
+
+Fancy jig work you got here: looking very good
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #4573755)
+Author    : DaveG
+Date      : Jan 28, 2019 at 2:30 PM
+Reactions : Like — Lee S, CheesyGrin
+────────────────────────────────────────────────────────────────────────
+
+Yes! That's one of the things people tend to overlook with 3D printing... it's not just for parts, but can also be used to make custom jig, clamps, cutting fixtures, etc. Nice work!
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #4576363)
+Author    : CheesyGrin
+Date      : Feb 3, 2019 at 10:39 AM
+Reactions : Like — Axlotl, canister, vectorzero
+────────────────────────────────────────────────────────────────────────
+
+Hello Everyone,
+
+I received a massive batch of Y-Wing nurnies from Studio Kitbash and WOW! It's a potent dose of Y-Wing nurnie wizardry. Studio Kitbash sent hundreds of individual parts and many full assemblies. The level of awesome is hard to express. Combining DaveG's armature parts with Studio Kitbash's nurnies makes me feel like I'm an ILM modeler working on New Hope! Part quality is top-notch. Here are some pics:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3413_zpsz1uuzpi3-jpg.985318/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3414_zpsxyx5q4hl-jpg.985319/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3415_zpsucdjg6gr-jpg.985320/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3416_zpsqqnlfpnm-jpg.985321/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3417_zps4zwptnp0-jpg.985322/]
+
+ 
+
+I also received the engine nurnies from Masterpiece Models. Great parts as well. These will make the engine detailing go much faster:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3418_zpsgsb5zb4f-jpg.985323/]
+
+ 
+
+Finally, I needed a storage/sorting mechanism for all the parts. I decided to sort by each part's final position on the armature (roughly). I printed DaveGs ortho pdfs 1:1, glued them to a piece of foam board, then sliced and diced a few separating pieces. After ~45m I ended up with this:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3420_zpsiuimi9zv-jpg.985324/]
+
+ 
+
+Now, the puzzle piece sorting begins!
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3421_zpsgwjhbnjf-jpg.985325/]
+
+ 
+
+Work and life has slowed my overall progress on the build. At least with this done, I can spend a few late evenings getting hundreds of nurnies sorted out.
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #4576393)
+Author    : Jkirkon
+Date      : Feb 3, 2019 at 12:00 PM
+Reactions : Like — dtssyst
+────────────────────────────────────────────────────────────────────────
+
+I too just ordered the nurnie kit from Studio Kitbash, looking forward to receiving it!
+
+It appears to be amazing quality castings!
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #4576419)
+Author    : 3phase
+Date      : Feb 3, 2019 at 1:25 PM
+────────────────────────────────────────────────────────────────────────
+
+I wish Studio Kitbash nurnie set was around when I started collecting parts. Spent a lot of money already and I still need parts, crap it
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #4576574)
+Author    : Studio Kitbash
+Date      : Feb 3, 2019 at 8:45 PM
+Reactions : Like — el toro, monsterpartyhat, CheesyGrin
+────────────────────────────────────────────────────────────────────────
+
+If you're building a Scratchbuilt Y-Wing -- which really is the "most fun' way to do it, in my opinion, in terms of "reliving" the excitement of being an ILM modeler -- then the following kits are recommended to get in Original model kit form to kitbash from, rather than cast greeblies form, simply because the level of detail is higher, and in many cases, some of the super fiddly-bits are simply not moldable in any reliable form:
+
+1.) Airfix Saturn V in 1/144 scale -- x 2
+
+2.) Tamiya 1/35 Panzerspahwagen 8rad - only one, so you have the canisters and the spindle/arms pieces for the front/side walls depending on version of Y-Wing you are building, and so you can "see" the beauty of the original neck sidewall source code.
+
+3.) L'eggs Pantyhose containers -- b/c acquiring these, then taking the plunge and cutting them back is terrifying, difficult, and requires a very steady hand or set of very expensive tools (and a steady hand to operate).
+
+4.) 1/9 Kettenkrad -- b/c track links don't mold well, and you get a bunch of other greeblies to boot, and it's back on the market in a repop.
+
+5.) Airfix 1/24 Hurricane - b/c of lots of small detailed parts that are moldable, but not "great", and b/c these are very visual top-side dressings that are cool to brag about, as in "those are original greeblies and not castings."
+
+6.) Airfix/MPC 1/24 Me-109, b/c having original top turret guns, modified with turned metal barrels, can't be beat.
+
+7.) Nichimo 1/35 Jagdtiger -- This last one is controversial, and if you want to use a decent substitute, you can always use Tamiya's Hunting Tiger or King Tiger, but this is a piece that gets a lot of attention, and building up the back plate (with castings or originals) is always a lot of fun and allows you to "get inside" the mind of Dave Beasley and other ILMers as much or more as the fuselage bulkhead plate does.
+
+8.)  I do NOT recommend acquiring/using the 13 or so original kits to build the fuselage bulkhead plate b/c a.) that was never seen on screen, b.) that will never get seen on your model, and c.) if you go that route, for the sake of being a "purist" then you are ALREADY too far gone down the rabbit hole for reason or any other force to pull you back -- this is what happened to me, and it could happen to you, so be forewarned.  And try to remember that the Y-Wing only ever saw (in all forms) three minutes and forty-one seconds of screen time in the original Star Wars (by my count), and so your attention to the detail of the fuselage bulkhead plate is going to be appreciated by EXACTLY one person, and that is not even your mom.  It's you.
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #4576754)
+Author    : Jkirkon
+Date      : Feb 4, 2019 at 9:07 AM
+────────────────────────────────────────────────────────────────────────
+
+I have about 20 complete LEggs pantyhose containers available for Y-wing builders. 
+
+4 are required per Y-wing.
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #4598841)
+Author    : CheesyGrin
+Date      : Mar 29, 2019 at 12:44 PM
+Reactions : Like — acesh007, Studio Kitbash, dtssyst
+────────────────────────────────────────────────────────────────────────
+
+Hi Everyone,
+
+I updated 2 parts to accommodate dtssyst's more accurate dimensions (details in his post in thread Red Jammer Y-Wing Build by dtssyst (DaveG open source):
+
+1. Main Fuselage Mid Starboard/Port Section (.stl) - added 5mm to the length
+
+2. Updated Center Spar V2 (3/4" aluminum channel) - added length and moved fuselage mounting holes
+
+I had to move the Forward Fuselage up a few mm to accommodate the new length of the Main Fuselage Mid Starboard/Port Section. This was easier than modifying the sections on the backend.
+
+The fuselage is now 278.34mm long:
+
+[IMAGE: https://www.therpf.com/forums/attachments/edited-image_zpsil5gh9hu-png.1004744/]
+
+ 
+
+These .stl's are 5mm longer:
+
+[IMAGE: https://www.therpf.com/forums/attachments/armature-20update_zps2imlrpu9-png.1004745/]
+
+ 
+
+DM me if you'd like the updated stl files. I'm attaching the updated Updated Center Spar drawing here.
+
+ 
+
+Attachments
+
+Center Spar v3.pdf
+
+					104.2 KB
+					
+					· Views: 389
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #4605334)
+Author    : CheesyGrin
+Date      : Apr 14, 2019 at 3:38 PM
+Reactions : Like — el toro, Scott Graham, Studio Kitbash
+────────────────────────────────────────────────────────────────────────
+
+Happy Sunday,
+
+I completed the fuselage reprints and CNC'd Tee Plate v2. I printed the parts updated for FDM printers. No supports required and they print quite a bit faster (disclaimer: your results may differ, just like our print profiles). 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ A bit of cleanup and fast placement has me back to where I left off. Was the reprinting time worth it? I think so. The nurnies will fit without armature modification. The overall fuselage is beefier, too. I like the extra girth. Many thanks to Dtssyst and Studio Kitbash for the reverse engineering and dimension updates! 
+
+I offer you obligatory pics:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3524_zpsarnxthph-jpg.1010236/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3525_zpsfx2zz1od-jpg.1010237/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3527_zpssaszrveo-jpg.1010238/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3528_zpsaayrluqt-jpg.1010239/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3529_zps2tlaavvt-jpg.1010240/]
+────────────────────────────────────────────────────────────────────────
+Post #28  (forum post #4606768)
+Author    : Duncanator
+Date      : Apr 17, 2019 at 2:37 PM
+────────────────────────────────────────────────────────────────────────
+
+Great looking build! Although technically if you want to "feel like an old ILM model maker", you should be calling them greeblies instead of nurnies.
+
+Nurnies is a perfectly legitimate name for the detail bits, but is more of a southern California term. ILM always called them greeblies.
+
+Here's to hair splitting!
+
+Can't wait to see more progress.
+────────────────────────────────────────────────────────────────────────
+Post #29  (forum post #4607321)
+Author    : thegnome
+Date      : Apr 18, 2019 at 6:36 PM
+────────────────────────────────────────────────────────────────────────
+
+very nice 3d printing
+────────────────────────────────────────────────────────────────────────
+Post #30  (forum post #4607951)
+Author    : CheesyGrin
+Date      : Apr 20, 2019 at 11:04 AM
+Reactions : Like — el toro, dtssyst, canister
+────────────────────────────────────────────────────────────────────────
+
+Duncanator and thegnome, thank you! Duncanator - I've witnessed the geeblies/nurnies etymology discussion in other threads. Thankfully, the etumología of both words engenders a shared nostalgia of modeling legends never forgotten. This post happens to be focused on improving our engine greeblies so that affixing is easier!
+
+I like the utility gained from 3d printing. I also appreciate seeing different techniques and solutions to common problems. I'm sharing something I came up with and hope you find it useful.
+
+Now that the reprints are complete, I'm finishing the armature so that the greeburnies application can start. If you recall from earlier posts, I modeled and 3d printed the Saturn V rocket shells. Essentially, they are glued in the same configuration as the Saturn V kit parts, just 3d printed instead of scavenged. I was bugged by the seam lines though. I knew the seams would be covered more or less by the kit bashed parts but still wanted to eliminate them. 
+
+Since I have 3d models for all the things, I designed some simple sanding tools for eliminating the Saturn V seams and resurfacing the engine parts to get a better surface fit. Best explained in pics:
+
+The engine greeblies have flash to cleanup. The mating surfaces are also rather lumpy. Must resolve.
+
+[IMAGE: https://www.therpf.com/forums/attachments/edited-image_zpsrk3vekhh-png.1011968/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/edited-image_zpsns8oflia-png.1011969/]
+
+ 
+
+I printed a sanding block that matches the Nacelle diameter and inner curve of the engine greeblies. Sandpaper wraps around the base and locks into a vice. I can now sand the back of the greeblies to match the Nacelle curvature, It also thins out the flash for easier removal.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3747_zpsyzsfuqqs-jpg.1011970/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3748_zpshpujmuzb-jpg.1011971/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3749_zps6iya15wd-jpg.1011972/]
+
+ 
+
+Engine greeblies after sanding and a little filing:
+
+[IMAGE: https://www.therpf.com/forums/attachments/edited-image_zpsztwscyia-png.1011973/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/edited-image_zpsvvqgqio2-png.1011974/]
+
+ 
+
+Similar tactic on the Nacelle seam. Printed a concave sanding block, used a little filler, and erased the seams! Biggest advantage was maintaining the Nacelle curve, i.e. no flat spots.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3752_zpsd9gbhcum-jpg.1011975/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_3753_zps0jwzqtin-jpg.1011976/]
+
+ 
+
+Again, maybe you find this a useful solution to a common modeling woe. Now I'm pressing on with this build while I have 1 more day off. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #31  (forum post #5129783)
+Author    : CheesyGrin
+Date      : Nov 2, 2020 at 6:19 PM
+Reactions : Like — el toro, vectorzero, Studio Kitbash
+────────────────────────────────────────────────────────────────────────
+
+Hello!
+
+It's been a while since my last post. Freaking pandemics and #adulting. I'm making progress on the build, though. dtssyst completed build has inspired me to get mine finished! Here's a few quick pics:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5945-jpg.1364539/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5944-jpg.1364540/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5943-jpg.1364542/]
+
+In my defense, I have finished a few other projects. One was a Mandalorian helmet. This is the raw helmet after printing and some post-processing. I gave it to a friend for his cosplay. Fun 8hr project (minus the 68hr print time). 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5223-jpg.1364544/]
+────────────────────────────────────────────────────────────────────────
+Post #32  (forum post #5133506)
+Author    : CheesyGrin
+Date      : Nov 14, 2020 at 9:39 AM
+Reactions : Like — el toro, Studio Kitbash, Carnet
+────────────────────────────────────────────────────────────────────────
+
+Hello!
+
+I finished thruster construction yesterday:
+
+[IMAGE: 1010409-ed4dec56162bc66731098f52da50ba8f.jpg]
+
+[IMAGE: 1010410-c8643fcea6595849b52b03b99e232b79.jpg]
+
+[IMAGE: 1010412-15112509da4d69638c9ab86f91591a3e.jpg]
+
+[IMAGE: 1010411-ccf334bdd96200aa40f42a7d2af70f02.jpg]
+
+All major sections are either FDM printed or SLA printed. Studio Kitbash greeblies and Evergreen styrene finish them off. I had a few layer lines on the inside of the FDM-printed nozzle core. So, I scrounged the interwebs for an STL of a jet nozzle vane assembly and found one! I did a quick SLA print. They're paper thin!! I'm pretty pleased with the result. Not studio accurate but I'm taking some liberties. 1/24 scale gives me some detailing options.
+
+[IMAGE: 1010414-9b6f567a5aca0e6653b9bb5611cb2e5f.jpg]
+
+[IMAGE: 1010415-10c63a56d73b06751dbb349c7e1fbcec.jpg]
+
+[IMAGE: 1010416-6d83911ef6561d47bf342e2b5f3d4150.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #33  (forum post #5133595)
+Author    : joberg
+Date      : Nov 14, 2020 at 1:32 PM
+Reactions : Like — CheesyGrin
+────────────────────────────────────────────────────────────────────────
+
+Beautiful build so far!  Eager to see your next update
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #34  (forum post #5134584)
+Author    : Studio Kitbash
+Date      : Nov 17, 2020 at 9:55 AM
+────────────────────────────────────────────────────────────────────────
+
+Those look way bad-asser and turbo-charged than studio scale originals, and just as no two Y-Wings were/are identical in greeblies and piping, this unorthodox engine assembly passes the test of being individually *souped up* by the pilot/mechanic team flying it.  
+
+Love it - more people should take such liberties.
+────────────────────────────────────────────────────────────────────────
+Post #35  (forum post #5134852)
+Author    : CheesyGrin
+Date      : Nov 18, 2020 at 7:25 AM
+────────────────────────────────────────────────────────────────────────
+
+Studio Kitbash said:
+
+			Those look way bad-asser and turbo-charged than studio scale originals, and just as no two Y-Wings were/are identical in greeblies and piping, this unorthodox engine assembly passes the test of being individually *souped up* by the pilot/mechanic team flying it. 
+
+Love it - more people should take such liberties.
+		
+
+Click to expand...
+
+Thanks sir! My painting skills are a bit rusty. Hopefully, I wont ruin this thing after all the hard work (and your great greeblie parts).
+────────────────────────────────────────────────────────────────────────
+Post #36  (forum post #5135912)
+Author    : CheesyGrin
+Date      : Nov 20, 2020 at 9:26 PM
+Reactions : Like, Love — Studio Kitbash, vectorzero, Ogibendogy
+────────────────────────────────────────────────────────────────────────
+
+Happy (Early) Saturday Morn,
+
+Vane subassemblies completed this evening. I'll share a bending technique I tried and some pics of the final assembly.
+
+[IMAGE: 1012672-815c04dbab410e082a19c0664800ec95.jpg]
+
+I printed a top view and glued it to a sacrificial board. I nailed small diameter nails at the radius of the various bends. I grabbed some styrene and a soldering iron and went to bending. Touching the soldering iron to the nail for 30-45s transferred heat directly to the styrene and allowed it to bend. The whole process took a few minutes. This is what I had to show for the effort:
+
+[IMAGE: 1012673-b54515e590f8f9baed24d45dffdaa4a6.jpg]
+
+The remaining assembly is tacked together with tacky putty until I'm ready to glue up. Gray and green parts are SLA printed and the frosty clear parts are .40" acrylic cut on my laser cutter. I picked up a CO2 laser cutter on Craigslist a few weeks ago and it's been one of my most helpful tools in the shop!
+
+[IMAGE: 1012674-72932fb9c88ec2953127385e0c98cf8e.jpg]
+ 
+[IMAGE: 1012675-ea5b88987e3018f97929cf8e3aa551a8.jpg]
+ 
+[IMAGE: 1012676-a36d7ca044c74237757eca0ee339f86d.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #37  (forum post #5135924)
+Author    : swgeek
+Date      : Nov 20, 2020 at 10:23 PM
+Reactions : Like — CheesyGrin
+────────────────────────────────────────────────────────────────────────
+
+Brilliant, I love it.
+────────────────────────────────────────────────────────────────────────
+Post #38  (forum post #5136132)
+Author    : joberg
+Date      : Nov 21, 2020 at 1:38 PM
+Reactions : Like — CheesyGrin
+────────────────────────────────────────────────────────────────────────
+
+Most excellent trick!  Don't mind me if I use it for future builds 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #39  (forum post #5136362)
+Author    : Chuffy 70
+Date      : Nov 22, 2020 at 8:03 AM
+Reactions : Like — CheesyGrin
+────────────────────────────────────────────────────────────────────────
+
+I like your bending jig. very clever with the heat transference 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #40  (forum post #5137674)
+Author    : CheesyGrin
+Date      : Nov 25, 2020 at 6:30 PM
+Reactions : Like — dtssyst, Firefox3D
+────────────────────────────────────────────────────────────────────────
+
+Happy Pre-Thanksgiving!
+
+Front fuselage is done! Panel details, torpedo shroud, and front cannons built and ready for final glue-up.
+
+[IMAGE: 1014327-0053168360dc3a27b5fa28da9e6dc6c0.jpg]
+
+[IMAGE: 1014328-99f2397f41d7c6a37906acac39fea5fe.jpg]
+
+[IMAGE: 1014326-01bac33b2a30bed6fd5a6a74f77bab1f.jpg]
+
+[IMAGE: 1014330-b32d41d6437af66386e81e5a23ea738f.jpg]
+
+[IMAGE: 1014331-9ef9678be172dfcfb20d47f754b5909f.jpg]
+
+[IMAGE: 1014333-cc74477bc283e84c6e0acb38b5782177.jpg]
+
+Temporary assembly pics too. Once I get greeblies on the nacelles, the pipe bending completes major construction. I can see the light at the end of this tunnel.
+
+[IMAGE: 1014339-8780c41b5eb951bef4f8d652b3d3f169.jpg]
+ 
+[IMAGE: 1014340-c8225f552b8d43ef3c139ac96427d94d.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #41  (forum post #5137708)
+Author    : akumazeto
+Date      : Nov 25, 2020 at 8:52 PM
+────────────────────────────────────────────────────────────────────────
+
+CheesyGrin said:
+
+			Happy Pre-Thanksgiving!
+
+Front fuselage is done! Panel details, torpedo shroud, and front cannons built and ready for final glue-up.
+
+View attachment 1371816View attachment 1371817View attachment 1371815View attachment 1371819View attachment 1371820View attachment 1371822
+
+Temporary assembly pics too. Once I get greeblies on the nacelles, the pipe bending completes major construction. I can see the light at the end of this tunnel.
+
+View attachment 1371828 View attachment 1371829
+
+Click to expand...
+
+Do you remember brass sizes and lengths?
+────────────────────────────────────────────────────────────────────────
+Post #42  (forum post #5137773)
+Author    : CheesyGrin
+Date      : Nov 26, 2020 at 4:28 AM
+Reactions : Like — Studio Kitbash
+────────────────────────────────────────────────────────────────────────
+
+akumazeto said:
+
+			Do you remember brass sizes and lengths?
+		
+
+Click to expand...
+
+Here's a quick drawing with dimensions. IMO, lengths are critical dimensions. I used common brass and aluminum tubing sizes I had on hand but were close to the diameters in the drawing. Hope this helps!
+
+ 
+
+Attachments
+
+Cannon DWG.pdf
+
+					107.7 KB
+					
+					· Views: 385
+────────────────────────────────────────────────────────────────────────
+Post #43  (forum post #5158107)
+Author    : CheesyGrin
+Date      : Jan 16, 2021 at 4:40 PM
+Reactions : Like, Love — Jaitea, Studio Kitbash, Bjorn
+────────────────────────────────────────────────────────────────────────
+
+HI All,
+
+Update on the Y-Wing. I printed the canopy on my Photon resin printer. It printed great but was slightly thin and felt flimsy. My intent was to reinforce 'just enough' but it turned into a small scratch building exercise. I know most of this wont be very visible but it was fun to embellish. I very loosely followed some screenshots of a Y-Wing cockpit from EA's Squadrons. 
+
+[IMAGE: 1055005-74a049c8b2401e8d63104169cd7470c4.jpg]
+ 
+[IMAGE: 1055006-54506bfb00d5231e27cdba68ba6eda16.jpg]
+ 
+[IMAGE: 1054999-5c72d873bba6e1e139e37c061cea7b1c.jpg]
+ 
+[IMAGE: 1055000-aec264a0b2a1ee8695d84c44b234a8a0.jpg]
+ 
+[IMAGE: 1055001-42a5851e465b0cbfbbf9cf6a23a2a930.jpg]
+ 
+[IMAGE: 1055002-be7eb770ef6da2d5cacdb136d29c3889.jpg]
+ 
+[IMAGE: 1055003-3d1b4b2a429e0436990cdce8580b5183.jpg]
+ 
+[IMAGE: 1055004-cda45afe99a3ffc7f471841db21581d9.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #44  (forum post #5184199)
+Author    : Mindmax
+Date      : Apr 2, 2021 at 2:18 PM
+────────────────────────────────────────────────────────────────────────
+
+Jkirkon said:
+
+			I have about 20 complete LEggs pantyhose containers available for Y-wing builders.
+
+4 are required per Y-wing.
+		
+
+Click to expand...
+
+Hello Jkirkon,
+
+Do still have the containers available? I am building a studio scale Y-Wing and would be very interested. Thank you and Nest regards, Mark
+────────────────────────────────────────────────────────────────────────
+Post #45  (forum post #5184202)
+Author    : StevenBills
+Date      : Apr 2, 2021 at 2:23 PM
+────────────────────────────────────────────────────────────────────────
+
+CheesyGrin said:
+
+			HI All,
+
+Update on the Y-Wing. I printed the canopy on my Photon resin printer. It printed great but was slightly thin and felt flimsy. My intent was to reinforce 'just enough' but it turned into a small scratch building exercise. I know most of this wont be very visible but it was fun to embellish. I very loosely followed some screenshots of a Y-Wing cockpit from EA's Squadrons.
+
+View attachment 1412494 View attachment 1412495 View attachment 1412488 View attachment 1412489 View attachment 1412490 View attachment 1412491 View attachment 1412492 View attachment 1412493
+
+Click to expand...
+
+Wow I LOVE what you did with the canopy here. The greeblies in the back make it feel more like the guns on top are connected to something. Very cool! I might have to steal this idea for my 1/48 build I'm doing...
+
+SB
+────────────────────────────────────────────────────────────────────────
+Post #46  (forum post #5184256)
+Author    : Jkirkon
+Date      : Apr 2, 2021 at 5:16 PM
+────────────────────────────────────────────────────────────────────────
+
+Mindmax said:
+
+			Hello Jkirkon,
+
+Do still have the containers available? I am building a studio scale Y-Wing and would be very interested. Thank you and Nest regards, Mark
+		
+
+Click to expand...
+
+I’ll have to check, but I think I have a few sets left. Are you in the US?
+────────────────────────────────────────────────────────────────────────
+Post #47  (forum post #5184338)
+Author    : Mindmax
+Date      : Apr 3, 2021 at 3:59 AM
+────────────────────────────────────────────────────────────────────────
+
+Jkirkon said:
+
+			I’ll have to check, but I think I have a few sets left. Are you in the US?
+		
+
+Click to expand...
+
+This would be phantastic! I am from Germany and I would buy all you have.
+────────────────────────────────────────────────────────────────────────
+Post #48  (forum post #5184373)
+Author    : Mindmax
+Date      : Apr 3, 2021 at 7:07 AM
+────────────────────────────────────────────────────────────────────────
+
+Jkirkon said:
+
+			I’ll have to check, but I think I have a few sets left. Are you in the US?
+		
+
+Click to expand...
+
+I would need them for three models. Hopefully you still have a few. Here in Germany we don‘t have these.
+────────────────────────────────────────────────────────────────────────
+Post #49  (forum post #5184481)
+Author    : star-art
+Date      : Apr 3, 2021 at 3:00 PM
+────────────────────────────────────────────────────────────────────────
+
+A few sets of LEGGS eggs? I'd be interested as well! Thanks! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ (and I'm in the US)
+────────────────────────────────────────────────────────────────────────
+Post #50  (forum post #5185223)
+Author    : Studio Kitbash
+Date      : Apr 6, 2021 at 6:26 AM
+────────────────────────────────────────────────────────────────────────
+
+I've got plenty of these if any of you purist builders still need them.  PM for details.
+────────────────────────────────────────────────────────────────────────
+Post #51  (forum post #5186924)
+Author    : CheesyGrin
+Date      : Apr 11, 2021 at 7:09 PM
+Reactions : Like — edge10, dtssyst
+────────────────────────────────────────────────────────────────────────
+
+StevenBills said:
+
+			Wow I LOVE what you did with the canopy here. The greeblies in the back make it feel more like the guns on top are connected to something. Very cool! I might have to steal this idea for my 1/48 build I'm doing...
+
+SB
+		
+
+Click to expand...
+
+Thanks so much! Take inspiration freely.
+
+I'm very close to paint prep. Two construction items remain- Droid unit and fuselage piping. I tackled the droid unit this weekend. I found editable models of an R2-D2 and R5-D4 online. I decided to go with the R5-D4 for the Y-Wing. I'm using an R2 unit for a studio scale X-wing soon to follow. Some pics:
+
+[IMAGE: 1088333-a68c89992af51dbd54e4394db6e5aad8.jpg]
+
+I designed the R5 unit around the droid-shaped hole but sometimes things in real life turn out different than what the digital version presents. So, I printed 3 units, each 3% larger than the previous. Printing more parts on a resin printer takes the same amount of time so fill up the plate!
+
+[IMAGE: 1088340-14e2f18115067198d163b2e2277f52f0.jpg]
+
+Final prints arranged smallest to largest.
+
+[IMAGE: 1088341-181411cf7f2b701b8f6547f02d373e7a.jpg]
+ 
+[IMAGE: 1088342-46707f5dcce234e4bf2478d8050d0636.jpg]
+
+I chose the middle size. The size seems right to me.
+
+Fingers crossed that piping can be completed this week.
+────────────────────────────────────────────────────────────────────────
+Post #52  (forum post #5187084)
+Author    : dtssyst
+Date      : Apr 12, 2021 at 10:01 AM
+────────────────────────────────────────────────────────────────────────
+
+Awesome!
+
+Would like to get my hands on a droid like that for my second build.
+────────────────────────────────────────────────────────────────────────
+Post #53  (forum post #5187372)
+Author    : CheesyGrin
+Date      : Apr 13, 2021 at 7:39 AM
+Reactions : Love, Like — edge10, joberg, Ogibendogy
+────────────────────────────────────────────────────────────────────────
+
+I've read a few builder's experience with piping as studio scale Y-Wing and now I agree - Piping a studio scale Y-Wing is insanely tedious. Straight pipes are styrene and not straight pipes are aluminum.
+
+[IMAGE: 1088831-993024b04e88cbef34acae83141f7448.jpg]
+ 
+[IMAGE: 1088832-5d4189f7b2a4837d724248723350f6fb.jpg]
+
+Headed into the home stretch.
+────────────────────────────────────────────────────────────────────────
+Post #54  (forum post #5187419)
+Author    : Jkirkon
+Date      : Apr 13, 2021 at 10:00 AM
+Reactions : Like — CheesyGrin
+────────────────────────────────────────────────────────────────────────
+
+Looks great!
+
+I had an insanely difficult time using aluminum for the curved pipes. They always linked, no matter the technique i tried. 
+
+Wound up using styrene, heated gently over a candle flame, and they came out perfectly.
+
+Nice job!
+────────────────────────────────────────────────────────────────────────
+Post #55  (forum post #5187709)
+Author    : CheesyGrin
+Date      : Apr 14, 2021 at 6:52 AM
+────────────────────────────────────────────────────────────────────────
+
+Jkirkon said:
+
+			Looks great!
+
+I had an insanely difficult time using aluminum for the curved pipes. They always linked, no matter the technique i tried.
+
+Wound up using styrene, heated gently over a candle flame, and they came out perfectly.
+
+Nice job!
+		
+
+Click to expand...
+
+I’m using K&S solid aluminum rod, 3/32 and 1/8” diameter. Were you using tubing? If so, I could see that easily kinking on the right bends.
+────────────────────────────────────────────────────────────────────────
+Post #56  (forum post #5187717)
+Author    : CheesyGrin
+Date      : Apr 14, 2021 at 7:20 AM
+Reactions : Like — StevenBills
+────────────────────────────────────────────────────────────────────────
+
+Good progress yesterday. I'm done with the top after a couple more pipes. The remainder of the pipe work is on the bottom. I need a couple more packages of K&S aluminum rod before I can wrap this up. It's nice working with the solid aluminum rod because it maintains shape post-bending. It's also more rigid as compared with long styrene runs. Even so, I'll also do some bend tests with styrene and use it were it seems appropriate.
+
+[IMAGE: 1089295-0da7f0dda039c9ef5330dbfbcc62e733.jpg]
+ 
+[IMAGE: 1089296-8a4eaecb5c9da1019367a34b79c235ec.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #57  (forum post #5188456)
+Author    : CheesyGrin
+Date      : Apr 16, 2021 at 2:26 PM
+Reactions : Like, Love — Treadwell, edge10, Studio Kitbash
+────────────────────────────────────────────────────────────────────────
+
+I followed the Fine Molds 1/72 Y-wing piping layout but also took some liberties. I believe it's ready for primer.
+
+[IMAGE: 1090185-5f6035ecc83039c9fd7f78e5d36a3763.jpg]
+ 
+[IMAGE: 1090186-1d2984d2554c0fe34c665171be5a0f7c.jpg]
+ 
+[IMAGE: 1090187-88d143fbc5b53cec26282999726234ed.jpg]
+ 
+[IMAGE: 1090188-ff5879cce0650b68d98412baa9bf6b06.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #58  (forum post #5188697)
+Author    : joberg
+Date      : Apr 17, 2021 at 10:43 AM
+────────────────────────────────────────────────────────────────────────
+
+Beautiful build CheesyGrin, beautiful 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #59  (forum post #5188793)
+Author    : CheesyGrin
+Date      : Apr 17, 2021 at 4:24 PM
+────────────────────────────────────────────────────────────────────────
+
+joberg said:
+
+			Beautiful build CheesyGrin, beautiful 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+Thank you very much!
+────────────────────────────────────────────────────────────────────────
+Post #60  (forum post #5227372)
+Author    : CheesyGrin
+Date      : Aug 26, 2021 at 5:42 PM
+Reactions : Like, Love — StevenBills, Laspector, vectorzero
+────────────────────────────────────────────────────────────────────────
+
+Y-Wing cockpit and internal canopy are done! I took my sweet time on this since I haven't painted in nearly 5 years. Kept a neutral scheme so the lighter colors of the Y-wing aren't overpowered. Engine subassemblies are next.
+
+[IMAGE: 1131051-d93a7c86a1d8442b61ca5fa4cf96e20d.jpg]
+ 
+[IMAGE: 1131052-4f7eaa4d2d5cb1bcb1c6e32cf04d5b90.jpg]
+ 
+[IMAGE: 1131053-d95b12a8c0f88e5873b015bc3269ba6c.jpg]
+ 
+[IMAGE: 1131054-0d98d7bf439038b89a42813fabc2cf64.jpg]
+ 
+[IMAGE: 1131055-8a116511f03e5f55b4f7f8b4e1cdd9bb.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #61  (forum post #5227380)
+Author    : DaveG
+Date      : Aug 26, 2021 at 5:59 PM
+────────────────────────────────────────────────────────────────────────
+
+That's looking great! The little bit of yellow and black warning stripes really pop. And I love the detail on the underside of the canopy.
+────────────────────────────────────────────────────────────────────────
+Post #62  (forum post #5227468)
+Author    : CheesyGrin
+Date      : Aug 27, 2021 at 4:45 AM
+────────────────────────────────────────────────────────────────────────
+
+DaveG said:
+
+			That's looking great! The little bit of yellow and black warning stripes really pop. And I love the detail on the underside of the canopy.
+		
+
+Click to expand...
+
+Thanks Dave!
+────────────────────────────────────────────────────────────────────────
+Post #63  (forum post #5234655)
+Author    : CheesyGrin
+Date      : Sep 20, 2021 at 11:10 AM
+Reactions : Like — el toro, Laspector, vectorzero
+────────────────────────────────────────────────────────────────────────
+
+Rebel pilot complete and priming has commenced. I sprayed black primer on the fuselage with hope to build a base shadow in the deepest, darkest reaches of Y-Wing depths.
+
+[IMAGE: 1138737-dc15f1614b373f7938f64e11df97e0e6.jpg]
+ 
+[IMAGE: 1138738-9197353d9d56919644fadc4664456553.jpg]
+ 
+[IMAGE: 1138739-bd455c8857abe2f80ee66ba5808a3798.jpg]
+ 
+[IMAGE: 1138740-e97a974b0d37078bf9cd59faa70a53c2.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #64  (forum post #5234858)
+Author    : joberg
+Date      : Sep 21, 2021 at 5:23 AM
+Reactions : Like — CheesyGrin
+────────────────────────────────────────────────────────────────────────
+
+Very sharp
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #65  (forum post #5240938)
+Author    : CheesyGrin
+Date      : Oct 13, 2021 at 6:16 PM
+Reactions : Like, Love — edge10, acesh007, StevenBills
+────────────────────────────────────────────────────────────────────────
+
+Construction is 99% done. Engines, cockpit, and pilot painted. Finish painting is all that remains. I just booked a room in Orlando for Modelpalooza Orlando 2021 and plan to bring this model.
+
+Anyone else going?
+
+[IMAGE: 1145613-5538b227ecb01c5e3f470ca4086ce155.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #66  (forum post #5241042)
+Author    : joberg
+Date      : Oct 14, 2021 at 5:17 AM
+Reactions : Like — CheesyGrin
+────────────────────────────────────────────────────────────────────────
+
+Looking sharp
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #67  (forum post #5242725)
+Author    : CheesyGrin
+Date      : Oct 20, 2021 at 5:57 AM
+Reactions : Like — el toro, Rust and Bolts, Ogibendogy
+────────────────────────────────────────────────────────────────────────
+
+Base paint mostly complete. I started the weathering but only have 2 days left before ModelPalooza. Ugh. I will post the pre-trip, final 'this is all I can do in 4 days' result sometime late Thursday evening.
+
+[IMAGE: 1147564-17642d5213aaa1d329d837f4fbb1d74f.jpg]
+
+[IMAGE: 1147563-dc7cfc15657a2fd107a26a405dc057a5.jpg]
+ 
+[IMAGE: 1147572-35424b2f456f790dee57a8fc75caf090.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #68  (forum post #5244191)
+Author    : CheesyGrin
+Date      : Oct 25, 2021 at 6:10 AM
+Reactions : Love, Like — StevenBills, el toro, Bjorn
+────────────────────────────────────────────────────────────────────────
+
+Here's the final entry at Modelpalooza 2021 in Orlando this past weekend. Won Gold. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+I was rushed to get this paint done in 4 nights. Met some great studio scale folks at Modelpalooza and we chatted about weathering, ILM styling, etc. I'll refine this paint job in the coming days.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0984-jpg.1506302/]
+────────────────────────────────────────────────────────────────────────
+Post #69  (forum post #5244218)
+Author    : Jkirkon
+Date      : Oct 25, 2021 at 7:19 AM
+────────────────────────────────────────────────────────────────────────
+
+WOW!!! Totally amazing!
+────────────────────────────────────────────────────────────────────────
+Post #70  (forum post #5244227)
+Author    : CheesyGrin
+Date      : Oct 25, 2021 at 7:52 AM
+────────────────────────────────────────────────────────────────────────
+
+Jkirkon said:
+
+			WOW!!! Totally amazing!
+		
+
+Click to expand...
+
+Thank you!
+────────────────────────────────────────────────────────────────────────
+Post #71  (forum post #5244531)
+Author    : joberg
+Date      : Oct 26, 2021 at 7:37 AM
+────────────────────────────────────────────────────────────────────────
+
+Beautiful at any angles
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #72  (forum post #5244705)
+Author    : Studio Kitbash
+Date      : Oct 26, 2021 at 3:28 PM
+Reactions : Like — CheesyGrin
+────────────────────────────────────────────────────────────────────────
+
+I saw this beauty up close and in-person, and she is a thing to behold.
+────────────────────────────────────────────────────────────────────────
+Post #73  (forum post #5244890)
+Author    : CheesyGrin
+Date      : Oct 27, 2021 at 6:03 AM
+────────────────────────────────────────────────────────────────────────
+
+Studio Kitbash said:
+
+			I saw this beauty up close and in-person, and she is a thing to behold.
+		
+
+Click to expand...
+
+Thank you! I'm still chuckling about our chance encounter. Made my whole weekend!
+
+Ping me about the part mods. Happy to dig in and see what's possible.
+────────────────────────────────────────────────────────────────────────
+Post #74  (forum post #5244891)
+Author    : CheesyGrin
+Date      : Oct 27, 2021 at 6:04 AM
+────────────────────────────────────────────────────────────────────────
+
+joberg said:
+
+			Beautiful at any angles
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+Thank you joberg!
+────────────────────────────────────────────────────────────────────────
+Post #75  (forum post #5245057)
+Author    : Ogibendogy
+Date      : Oct 27, 2021 at 1:42 PM
+Reactions : Like — CheesyGrin
+────────────────────────────────────────────────────────────────────────
+
+Congrats on taking gold!  She's a beaut!
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 75

@@ -1,0 +1,1250 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Nice-N Slave 1 Build
+URL    : https://www.therpf.com/forums/threads/nice-n-slave-1-build.288715/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #4433132)
+Author    : kokkari
+Date      : Mar 26, 2018 at 9:10 AM
+Reactions : Like, Love — BajaTym, mugatu, ecl
+────────────────────────────────────────────────────────────────────────
+
+This is a bucket list project for me, and I am by no means a Slave 1 expert. So this is going to be a huge learning experience with a steep learning curve. There is very little info about how this thing goes together out there. So one of my goals is to provide some documentation on how it's built. I know there are others out there in the same boat as me with this kit. Hoping the experts will chime in with some advice and tell me what I'm doing wrong so I can fix it. Mike Salzo has already been a huge help with this.
+
+First impressions. It's freaking huge and heavy!
+
+[IMAGE: 460148-4f7482e79b4ad4ed4810ba49d1976721.jpg]
+
+Here are almost all the parts laid out together.
+
+[IMAGE: 460149-138e801fcbd608498b53922c96e13d02.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #4433220)
+Author    : Scott Graham
+Date      : Mar 26, 2018 at 10:57 AM
+────────────────────────────────────────────────────────────────────────
+
+Go Mike! I'm looking forward to seeing this come together, seeing how I have one too. Thanks for making this a build log.
+
+One of the first things, besides what goes where, that sticks out to me is how it'll be supported. It seems that getting someone to weld the support base is essential. And also, deciding how to show it in different positions.
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #4433437)
+Author    : kokkari
+Date      : Mar 26, 2018 at 4:55 PM
+────────────────────────────────────────────────────────────────────────
+
+Scott Graham said:
+
+			Go Mike! I'm looking forward to seeing this come together, seeing how I have one too. Thanks for making this a build log.
+
+One of the first things, besides what goes where, that sticks out to me is how it'll be supported. It seems that getting someone to weld the support base is essential. And also, deciding how to show it in different positions.
+		
+
+Click to expand...
+
+Everything centers around the mount in back too.
+
+Here are the 2 options I'm toying around with. The imbeded mount is 1/2"-20 thread. The safest option would probably do what John Simmons did and weld a coupler to a metal sheet.
+
+[IMAGE: 460259-ebdf10279eb511be81c142ad9a158278.jpg]
+
+I'm toying with this idea, but I can't find it in 1/2-20 only 1/2-13
+
+[IMAGE: 460260-bd3738e0d5744c50288d070b8949bb88.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #4433704)
+Author    : mslz22
+Date      : Mar 27, 2018 at 5:55 AM
+Reactions : Like — kokkari
+────────────────────────────────────────────────────────────────────────
+
+For the mount on the ones I have built I telescope the 1/2 20 rod into a larger black pipe.   Using set screw (1/4 20)  in the larger pipe to clamp down on the smaller pipe.   I used like 6 inches of the 1/2 20 into a 3/4 sleeve,  then into the black gas pipe that has an approximate 3/4 ID.
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #4433865)
+Author    : merseajohn
+Date      : Mar 27, 2018 at 11:33 AM
+Reactions : Like — kokkari
+────────────────────────────────────────────────────────────────────────
+
+Watching this, feel free to ask if you need any help...though it may not be exactly right! 
+
+John
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #4434002)
+Author    : mktodd
+Date      : Mar 27, 2018 at 4:01 PM
+────────────────────────────────────────────────────────────────────────
+
+How much is the kit and can it be ordered? I've seen a couple of builds of this kit, but I cant find out how they are actually acquired..
+
+cheers
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #4434011)
+Author    : joberg
+Date      : Mar 27, 2018 at 4:26 PM
+────────────────────────────────────────────────────────────────────────
+
+Serious kit you've got there!  Love it already and eager to see it all coming together!!
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #4434214)
+Author    : daveman
+Date      : Mar 28, 2018 at 12:22 AM
+────────────────────────────────────────────────────────────────────────
+
+Very nice project !
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #4434374)
+Author    : OTnROTSfan
+Date      : Mar 28, 2018 at 8:24 AM
+────────────────────────────────────────────────────────────────────────
+
+Glad to see another one being built.  Will need some reference when I get to mine, lol.
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #4434492)
+Author    : blakeh1
+Date      : Mar 28, 2018 at 12:30 PM
+Reactions : Like — BajaTym, mugatu
+────────────────────────────────────────────────────────────────────────
+
+Is this the same kit that is used in the Disney Launch Bay displays?
+
+[IMAGE: https://www.therpf.com/forums/attachments/40906354891_33d33d4f0f_k-jpg.1244511/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/40906353781_140845f53b_k-jpg.1244512/]
+
+The one there was really impressive. I was never really drawn to Studio Scale before mainly due to cost and display space, but seeing it up close with all that amazing detail made me seriously start considering something in Studio Scale. The older I get, the more I have problems with seeing close up and those small 1/72 kits are getting harder to appreciate without glasses :lol
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #4434496)
+Author    : kokkari
+Date      : Mar 28, 2018 at 12:34 PM
+────────────────────────────────────────────────────────────────────────
+
+blakeh1 said:
+
+			Is this the same kit that is used in the Disney Launch Bay displays?
+		
+
+Click to expand...
+
+Yes it is. 
+
+Sent from my SM-G955U using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #4434498)
+Author    : kokkari
+Date      : Mar 28, 2018 at 12:35 PM
+────────────────────────────────────────────────────────────────────────
+
+mktodd said:
+
+			How much is the kit and can it be ordered? I've seen a couple of builds of this kit, but I cant find out how they are actually acquired..
+
+cheers
+		
+
+Click to expand...
+
+It's a Neisen kit. You would have to contact him. 
+
+Sent from my SM-G955U using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #4435146)
+Author    : blakeh1
+Date      : Mar 29, 2018 at 2:57 PM
+────────────────────────────────────────────────────────────────────────
+
+kokkari said:
+
+			Yes it is. 
+
+Sent from my SM-G955U using Tapatalk
+		
+
+Click to expand...
+
+Now I just have to start saving
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #4435211)
+Author    : kokkari
+Date      : Mar 29, 2018 at 5:16 PM
+────────────────────────────────────────────────────────────────────────
+
+The wings are insane! They are a total testament that they were just slapping parts together, literally just covering the internal cross bar.
+
+[IMAGE: 460836-f8fcd2a71e6d731b1a79166987d3df22.jpg]
+
+[IMAGE: 460837-4e44d162915e17375c6c582cc83290f3.jpg]
+
+[IMAGE: 460838-b9a1d7448bac73bdaced5d9bbe48eb4f.jpg]
+
+[IMAGE: 460839-da1bbeed05e30873c4ce95b4149a6267.jpg]
+
+1974 Airfix. Awesome!
+
+[IMAGE: 460835-31984628bedf11b5fd26c18b90b86611.jpg]
+
+[IMAGE: 460844-8235d61037f710fce0b92b75af8624fa.jpg]
+
+[IMAGE: 460843-dc9458cfa760c01f6acbec4704959a6a.jpg]
+
+[IMAGE: 460842-42e0e9d925eb12d45e8c7e48b4379f13.jpg]
+
+[IMAGE: 460841-73cb2d6c5a25394d438a6eeb518d5680.jpg]
+
+[IMAGE: 460845-2a49fbff67a354721a7f462b91017da4.jpg]
+
+[IMAGE: 460847-fab01a85c7e5bbd4cd7d696314ea4960.jpg]
+
+[IMAGE: 460848-5fdfad6a84221dd4a7db7af5983b4512.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #4435227)
+Author    : azheat
+Date      : Mar 29, 2018 at 6:05 PM
+────────────────────────────────────────────────────────────────────────
+
+I really want one of these.........can you share approximate cost?
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #4435236)
+Author    : kokkari
+Date      : Mar 29, 2018 at 6:26 PM
+────────────────────────────────────────────────────────────────────────
+
+azheat01 said:
+
+			I really want one of these.........can you share approximate cost?
+		
+
+Click to expand...
+
+I'm not sure what the forum policy is regarding sharing that info or else I would share. You are probably better off contacting Steve or Mike for specifics. 
+
+Sent from my SM-G955U using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #4435309)
+Author    : NS4
+Date      : Mar 29, 2018 at 8:54 PM
+────────────────────────────────────────────────────────────────────────
+
+Price is mentioned in the comments of this Tested video (from Oct 2017):
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #4435355)
+Author    : kokkari
+Date      : Mar 29, 2018 at 11:15 PM
+────────────────────────────────────────────────────────────────────────
+
+NS4 said:
+
+			Price is mentioned in the comments of this Tested video (from Oct 2017):
+
+https://www.youtube.com/watch?v=ZTNOGfr7QFU
+
+Click to expand...
+
+After watching that video all I can say is that is one of the most incredible paint jobs I've seen.
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #4435582)
+Author    : joberg
+Date      : Mar 30, 2018 at 11:22 AM
+────────────────────────────────────────────────────────────────────────
+
+This kit is a thing of beauty!  Eager to see the rest coming to life
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #4439640)
+Author    : DARTH SABER
+Date      : Apr 6, 2018 at 11:07 AM
+────────────────────────────────────────────────────────────────────────
+
+Its massive!! Wow!!
+
+I need it!
+
+Sent from my iPhone using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #4449973)
+Author    : kokkari
+Date      : Apr 24, 2018 at 12:04 PM
+Reactions : Like — ABE, robn1, E3kehoe
+────────────────────────────────────────────────────────────────────────
+
+Some progress on the cockpit.
+
+[IMAGE: 465488-c5874b7bce3188ca96b49377cda4f846.jpg]
+
+[IMAGE: 465489-365b1091edda48c96a0388c95df00383.jpg]
+
+[IMAGE: 465490-2a7de0bd6c70f6764994fd1c4151d814.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #4449974)
+Author    : DARTH SABER
+Date      : Apr 24, 2018 at 12:07 PM
+────────────────────────────────────────────────────────────────────────
+
+Awesome!
+
+Holy moly that looks massive!!
+
+Sent from my iPhone using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #4450175)
+Author    : GF
+Date      : Apr 24, 2018 at 7:05 PM
+────────────────────────────────────────────────────────────────────────
+
+kokkari said:
+
+			After watching that video all I can say is that is one of the most incredible paint jobs I've seen.
+		
+
+Click to expand...
+
+That paintjob is actually simplified and not accurate, IMHO the best paint job and a very close match to the original prop is this one.
+
+https://www.therpf.com/showthread.php?t=286705&highlight=studio+scale+slave
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #4450712)
+Author    : joberg
+Date      : Apr 25, 2018 at 4:30 PM
+────────────────────────────────────────────────────────────────────────
+
+Massive indeed!!!
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #4452105)
+Author    : kokkari
+Date      : Apr 28, 2018 at 8:04 AM
+Reactions : Like — Xolin
+────────────────────────────────────────────────────────────────────────
+
+Epoxy sculpt has been my best friend so far with this build. There are many gaps between the 2 hull  pieces. 
+
+It was hurting my brain trying to figure it how I was going to light the 82v lights along with my other LEDs when Mike told me he just cut out the bulbs and used the lenses only. Problem solved. 
+
+[IMAGE: faab9adaff70f40ce537a81a04c67726.jpg]
+
+[IMAGE: 51de374d47face12a18228c410b11c77.jpg]
+
+Sent from my SM-G955U using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #4452118)
+Author    : kokkari
+Date      : Apr 28, 2018 at 8:20 AM
+Reactions : Like — ABE, gedmac66, E3kehoe
+────────────────────────────────────────────────────────────────────────
+
+I installed the cockpit, test fit the canopy glass, and glued the hull sections together yesterday. Tested the stand and it works really well. I want to display it in the flying position, but I have the option to take off the elbow and display it horizontally which is much easier for painting the top. This beast is heavy! 
+
+[IMAGE: https://www.therpf.com/forums/attachments/c63c77d6beb6442e7af72a68a22bfb53-jpg.1003003/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/644dd5fc353849e9bed2a93e814d95a3-jpg.1003004/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/d7ad610529cc10a800318f1d7b74e13c-jpg.1003005/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/5977dad8355de855e6a38bfec1e7adbd-jpg.1003006/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/defd3202d4ee5a350ff2098f89394cf3-jpg.1003007/]
+
+Sent from my SM-G955U using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #4452199)
+Author    : Scott Graham
+Date      : Apr 28, 2018 at 11:13 AM
+────────────────────────────────────────────────────────────────────────
+
+Looking good! Do you just plug it in place on the stand or have to rotate the whole model to screw it on?
+
+Also I notice your wing bar is two pieces whereas the kit one is one piece. Any reason for that?
+────────────────────────────────────────────────────────────────────────
+Post #28  (forum post #4452213)
+Author    : kokkari
+Date      : Apr 28, 2018 at 11:36 AM
+────────────────────────────────────────────────────────────────────────
+
+Scott Graham said:
+
+			Looking good! Do you just plug it in place on the stand or have to rotate the whole model to screw it on?
+
+Also I notice your wing bar is two pieces whereas the kit one is one piece. Any reason for that?
+		
+
+Click to expand...
+
+Right now I have to screw it on, which is a pain. Eventually I'm going to try and do a an elbow joint that steps up to a larger thread on one side to just sleeve a wider pipe over the long threaded one. If that makes any sense?
+
+You got a one piece bar in your kit? Two piece is what I got with mine. Not sure why that is. The only advantage that I can think of of having a two piece is to lengthen the wingspan or to be able to remove them as needed.
+────────────────────────────────────────────────────────────────────────
+Post #29  (forum post #4452279)
+Author    : mslz22
+Date      : Apr 28, 2018 at 2:27 PM
+Reactions : Like — kokkari
+────────────────────────────────────────────────────────────────────────
+
+Couple quick things,  one is you need a 7/8 plastic tube scrap in those wing mounts.  Same one you should have for the x wing heatsinks.  It has a 3/4 ID and will act like a bushing for the wings.  Sorry,  it's been a while since I did one of these and I forgot to mention it in our conversations.
+
+I have switched to a 2 bar system on the kit since the early ones.  I did it because I realized you can adjust the left or right wings independently of each other rather than needing to get the glue up perfect on a one piece bar.   You can easily cut the bar in half if you have the 1 part with a hack saw.  I now use a centered 1/2 rod to connect the 2
+────────────────────────────────────────────────────────────────────────
+Post #30  (forum post #4452596)
+Author    : joberg
+Date      : Apr 29, 2018 at 11:18 AM
+Reactions : Like — kokkari
+────────────────────────────────────────────────────────────────────────
+
+Really looking good!!  I love beast models:cool
+────────────────────────────────────────────────────────────────────────
+Post #31  (forum post #4453420)
+Author    : kokkari
+Date      : Apr 30, 2018 at 4:03 PM
+────────────────────────────────────────────────────────────────────────
+
+mslz22 said:
+
+			One is you need a 7/8 plastic tube scrap in those wing mounts.  Same one you should have for the x wing heatsinks.  It has a 3/4 ID and will act like a bushing for the wings.  Sorry,  it's been a while since I did one of these and I forgot to mention it in our conversations.
+		
+
+Click to expand...
+
+Thanks Mike that makes total sense. 
+
+Sent from my SM-G955U using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #32  (forum post #4453425)
+Author    : kokkari
+Date      : Apr 30, 2018 at 4:05 PM
+Reactions : Like — ABE, Scott Graham
+────────────────────────────────────────────────────────────────────────
+
+Scott Graham said:
+
+			Looking good! Do you just plug it in place on the stand or have to rotate the whole model to screw it on?
+		
+
+Click to expand...
+
+Hey Scott, here is the sleeve idea I was talking about. Still a work in progress, but much easier to get on and off the stand. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/c24d366efd03bc532deaa2f616b8759b-jpg.1003008/]
+
+Sent from my SM-G955U using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #33  (forum post #4453492)
+Author    : kokkari
+Date      : Apr 30, 2018 at 5:49 PM
+Reactions : Like — ABE, Scott Graham
+────────────────────────────────────────────────────────────────────────
+
+The pieces in the lower bowl all center around this cross bar section. So finding the right location and depth is key. I had to dry fit everything numerous times to make it work. I sanded down the top larger mounting block about 1/2 inch to get the right depth. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/e64faf795c074e4e32cec26da71e113f-jpg.1003009/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/b5ce3baa9acb017f4ca86757a6b3668d-jpg.1003010/]
+
+I found getting all these parts together around the Harrier part worked best to get things started in the bowl. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/8dffa1852f559acb3962046336ffe6d6-jpg.1003011/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/705d6b2a8ab5b37bcc6bcbf2712b412e-jpg.1003012/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/e839a0755bcc0755071406e0bf2419bc-jpg.1003013/]
+────────────────────────────────────────────────────────────────────────
+Post #34  (forum post #4453532)
+Author    : Scott Graham
+Date      : Apr 30, 2018 at 7:21 PM
+────────────────────────────────────────────────────────────────────────
+
+So that sleeve helps. That’s good. I’ll have to follow your progress on it to fully understand it I think.
+
+Thanks for sharing your progress. It really helps to see this stuff.
+────────────────────────────────────────────────────────────────────────
+Post #35  (forum post #4459021)
+Author    : kokkari
+Date      : May 10, 2018 at 7:36 AM
+Reactions : Like — ABE, Treadwell, Scott Graham
+────────────────────────────────────────────────────────────────────────
+
+Made a lot of progress on the back. Once you get the core pieces in the correct spot, the rest pretty much goes together pretty easily. Lots of parts have excess material, so there's a lot of sanding and test fitting.
+
+I lightly sanded a clear piece of plexiglass and fit it over the strip lighting. I like the diffused effect much better.
+
+[IMAGE: 468186-04ae77a60ac8bcfb43108d7b7a1e24d2.jpg]
+
+[IMAGE: 468187-b5c346e69fba9b8a22fe1157e203c1db.jpg]
+
+[IMAGE: 468189-737091eb5bd5b59bf996a8ab5d333d0f.jpg]
+
+[IMAGE: 468188-835ad7164d747c7bde0edfc8bb0d2040.jpg]
+
+[IMAGE: 468190-e2058b9aac11ff7552491a15b78fda83.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #36  (forum post #4459214)
+Author    : kokkari
+Date      : May 10, 2018 at 11:46 AM
+Reactions : Like — ABE, Xolin, Scott Graham
+────────────────────────────────────────────────────────────────────────
+
+Antena assembly on the dish. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/d3b9181306e5b5baf0ca1e668eae83b1-jpg.1003014/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/839a1432649d205450fcb9a50482dbde-jpg.1003015/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/b0f5cbd66de794feff5eee6f987e5fac-jpg.1003016/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/368021001c43610ed35c68cc17009432-jpg.1003017/]
+
+Sent from my SM-G955U using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #37  (forum post #4459383)
+Author    : joberg
+Date      : May 10, 2018 at 4:43 PM
+Reactions : Like — kokkari
+────────────────────────────────────────────────────────────────────────
+
+Fantastic update; such a pleasure to see that build/model coming together:cool
+────────────────────────────────────────────────────────────────────────
+Post #38  (forum post #4459785)
+Author    : Treadwell
+Date      : May 11, 2018 at 9:29 AM
+Reactions : Like — kokkari
+────────────────────────────────────────────────────────────────────────
+
+Good job on the diffusion. The only reason they weren't on the studio model was because the bright light would "blow out" on film and you wouldn't see the element. Yours looks better to the naked eye!
+────────────────────────────────────────────────────────────────────────
+Post #39  (forum post #4463390)
+Author    : kokkari
+Date      : May 17, 2018 at 8:38 PM
+Reactions : Like — Carnet, Treadwell, Scott Graham
+────────────────────────────────────────────────────────────────────────
+
+Getting the wings so they functionally rotate was by far the hardest part for me on this build. I had to constantly check the placement of parts underneath and in the wing well so nothing impeded the rotation. The supporting structure that hangs over the wings requires exact placement so the wing can rotate around it as it fits inside the opening in the wing. 
+
+The piston parts have to be functional in order for the wings to rotate. They also have to be able to freely move over 3 axes. Each end has to freely move with pins and the upper part of the pistons also needs to rotate up and around the wing support. 
+
+Crazy!
+
+[IMAGE: be4e940df451e70248e4fc3d4212a62d.jpg]
+
+[IMAGE: 899fd23b404ae669fcc957cc9628cdfd.jpg]
+
+Sent from my SM-G955U using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #40  (forum post #4463693)
+Author    : eethan
+Date      : May 18, 2018 at 9:15 AM
+Reactions : Like — kokkari
+────────────────────────────────────────────────────────────────────────
+
+really looking great! :thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #41  (forum post #4468197)
+Author    : joberg
+Date      : May 26, 2018 at 12:55 PM
+────────────────────────────────────────────────────────────────────────
+
+Man that rocks big time:cool
+────────────────────────────────────────────────────────────────────────
+Post #42  (forum post #4470359)
+Author    : kokkari
+Date      : May 30, 2018 at 11:31 AM
+Reactions : Like — ABE, peza, Hammer3246
+────────────────────────────────────────────────────────────────────────
+
+Primer!
+		
+		
+	
+
+	
+
+[IMAGE: https://www.therpf.com/forums/attachments/131dff013b30c1c37b19271650ffd63b-jpg.1003018/]
+
+Sent from my SM-G955U using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #43  (forum post #4470378)
+Author    : Jkirkon
+Date      : May 30, 2018 at 12:07 PM
+Reactions : Like — kokkari
+────────────────────────────────────────────────────────────────────────
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #44  (forum post #4470507)
+Author    : slynger
+Date      : May 30, 2018 at 2:47 PM
+Reactions : Like — kokkari
+────────────────────────────────────────────────────────────────────────
+
+That's looking real nice.  :thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #45  (forum post #4471282)
+Author    : joberg
+Date      : May 31, 2018 at 5:13 PM
+Reactions : Like — kokkari
+────────────────────────────────────────────────────────────────────────
+
+Beauty!!:cool
+────────────────────────────────────────────────────────────────────────
+Post #46  (forum post #4473835)
+Author    : kokkari
+Date      : Jun 5, 2018 at 5:53 PM
+Reactions : Like — BajaTym, ABE, gedmac66
+────────────────────────────────────────────────────────────────────────
+
+I've been busy painting. Using all Archive-X paints and really just copying John Simmons' paint job. The colors were collaborated on the archive-x Facebook page by Guy Cohen and others. Sorry, not sure who to give credit to. Started off with DS Surface Grey as my base coat, which was just slightly lighter than the Tamiya primer. 
+
+Next used a lot of latex masking and LT Green. It looks really  bright at first, but gets toned down. 
+
+I then knocked down the tone of the green with a nice coat of Grime. I love this color. We were just discussing on FB how Grime takes on the color it's next to. It totally appears as a minty green over and next to the LT Green.
+
+[IMAGE: https://www.therpf.com/forums/attachments/8b1ebc06825e1414c2448ccddf811ba9-jpg.1003023/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/efedf48bba1571f5cecb4aac8134d496-jpg.1003024/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/33ef74922a6689433cd1731f563cdcf3-jpg.1003025/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/2f92e7e33e5865a67f8d166462890564-jpg.1003026/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/fdc0c692a0ecaf6d74cc6e10e098d381-jpg.1003027/]
+────────────────────────────────────────────────────────────────────────
+Post #47  (forum post #4473844)
+Author    : kokkari
+Date      : Jun 5, 2018 at 6:10 PM
+Reactions : Like — ABE, gedmac66, robn1
+────────────────────────────────────────────────────────────────────────
+
+Next, was painting the darker green panels with GN Grey-Green. After masking the areas I used more latex. This time I used a stiff toothbrush to apply the spatter effect on the left wing well. Looking at reference you can tell that they lightly sprayed over it again with the same color after peeling off all the spatter. I then hit this area with a coat of Grime again. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/0f48ba2b401ec2fb22542c9ec183d08c-jpg.1003019/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/6d66795ed88136fbc03a24694e50046d-jpg.1003020/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/67b074147ddb9114fbe4e3dcd946022f-jpg.1003021/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/f72423136fcb31f0c1e8456f0fa38dec-jpg.1003022/]
+
+Sent from my SM-G955U using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #48  (forum post #4474297)
+Author    : joberg
+Date      : Jun 6, 2018 at 4:58 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks for the tuto!  Looking mighty great :cool
+────────────────────────────────────────────────────────────────────────
+Post #49  (forum post #4474394)
+Author    : kokkari
+Date      : Jun 6, 2018 at 8:47 PM
+Reactions : Like — BajaTym, ABE, zsherman
+────────────────────────────────────────────────────────────────────────
+
+Started the skirt by latexing where my base coat will show throw. Then Hull Pink to give the lady a nice pink skirt. Then I latexed where I want to maintain my pink. Then hit it with Boxcar Red. After I paint the dark stripes on the front and back I'll dull the whole shirt with Grime again and she should look just about right.
+
+[IMAGE: https://www.therpf.com/forums/attachments/f5190ab89646cc4dda5aa342e1659244-jpg.1003028/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/a8e159881b86414e741f1c789564ff88-jpg.1003029/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/4600d0e497abe6c367e072bb7e6238eb-jpg.1003030/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/c1df0af411e5e8c94393eb5b134b3ec2-jpg.1003031/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/0d7f502ed07386eeb846360a7ebb6e5c-jpg.1003032/]
+
+Sent from my SM-G955U using Tapatalk
+
+[IMAGE: https://www.therpf.com/forums/attachments/b27fa87512ad92802501a7af79f299e6-jpg.1003033/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/db4634cf5f8d63a2025473ea23329c8c-jpg.1003034/]
+────────────────────────────────────────────────────────────────────────
+Post #50  (forum post #4475353)
+Author    : Clutch
+Date      : Jun 8, 2018 at 8:46 AM
+────────────────────────────────────────────────────────────────────────
+
+What latex are you using? I only know of the giant tubs of the white stuff you can find at Michael's.
+────────────────────────────────────────────────────────────────────────
+Post #51  (forum post #4475690)
+Author    : kokkari
+Date      : Jun 8, 2018 at 5:47 PM
+Reactions : Like — BajaTym, gedmac66, Clutch
+────────────────────────────────────────────────────────────────────────
+
+Clutch said:
+
+			What latex are you using? I only know of the giant tubs of the white stuff you can find at Michael's.
+		
+
+Click to expand...
+
+I like this stuff. It dries super fast and they have a lot of colors to chose from to make it easier to show up against different paints.
+
+[IMAGE: b0476e05507c5be437976532579973af.jpg]
+
+Sent from my SM-G955U using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #52  (forum post #4477179)
+Author    : blakeh1
+Date      : Jun 11, 2018 at 5:15 PM
+Reactions : Like — kokkari
+────────────────────────────────────────────────────────────────────────
+
+Thats looking fantastic!
+────────────────────────────────────────────────────────────────────────
+Post #53  (forum post #4477198)
+Author    : joberg
+Date      : Jun 11, 2018 at 5:39 PM
+Reactions : Like — kokkari
+────────────────────────────────────────────────────────────────────────
+
+Not only the build is great, but the paint job is greater:thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #54  (forum post #4477265)
+Author    : slynger
+Date      : Jun 11, 2018 at 8:26 PM
+Reactions : Like — kokkari
+────────────────────────────────────────────────────────────────────────
+
+Paint job is looking great!
+────────────────────────────────────────────────────────────────────────
+Post #55  (forum post #4477278)
+Author    : kokkari
+Date      : Jun 11, 2018 at 8:43 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks Blakeh1, Joberg, and Slynger. I truly appreciate that. I am having so much fun painting this. I've been prepping and practicing to paint this thing for a long time. I've gotten a lot of help with the colors and techniques from Guy C., John S., and Lee R. They have been so open to sharing what they know. I'm in debt to them. 
+
+The Archive X colors are so rich and smooth. They are spot on to the originals IMO. I should mention they are an extremely durable paint also. Once they have dried they are not going anywhere. Definitely not peeling up with tape or anything. 
+
+Sent from my SM-G955U using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #56  (forum post #4478394)
+Author    : kokkari
+Date      : Jun 13, 2018 at 12:03 PM
+Reactions : Like — BajaTym, peza, robn1
+────────────────────────────────────────────────────────────────────────
+
+Armor Yellow under Reefer White has such a cool effect. I wish the camera picked it up better. The 8rad parts are Armor Yellow, Boxcar Red, and a hint of Reefer White. I may hit them with a little rust in the end. Inner well is DK Lark but will probably add a little Engine Black later.
+
+[IMAGE: 25ac0f57cc877f6bcc23aaf221d0f1aa.jpg]
+
+[IMAGE: 12227bd0ac6d96aa11064a77927ce980.jpg]
+
+[IMAGE: 80e9534d4fb9e27a90624166434327f5.jpg]
+
+[IMAGE: 0725377ebec888b1e88a2e72116d370a.jpg]
+
+[IMAGE: c615ad5545ebcf72b6ab9787705f764c.jpg]
+
+[IMAGE: edb0fc6c0f0dd908739af36c2ae30556.jpg]
+
+Sent from my SM-G955U using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #57  (forum post #4478418)
+Author    : bighead5
+Date      : Jun 13, 2018 at 12:42 PM
+Reactions : Like — kokkari
+────────────────────────────────────────────────────────────────────────
+
+Wow, looks amazing!
+
+Sent from my iPhone using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #58  (forum post #4480068)
+Author    : srspicer
+Date      : Jun 16, 2018 at 5:45 AM
+────────────────────────────────────────────────────────────────────────
+
+Looks fantastic!!
+
+I would love to build this kit for someone!!!!
+────────────────────────────────────────────────────────────────────────
+Post #59  (forum post #4480670)
+Author    : joberg
+Date      : Jun 17, 2018 at 4:24 PM
+Reactions : Like — kokkari
+────────────────────────────────────────────────────────────────────────
+
+Epic in every way:cool
+────────────────────────────────────────────────────────────────────────
+Post #60  (forum post #4480693)
+Author    : DARKSIDE72
+Date      : Jun 17, 2018 at 5:44 PM
+Reactions : Like — kokkari
+────────────────────────────────────────────────────────────────────────
+
+Stunning build!
+────────────────────────────────────────────────────────────────────────
+Post #61  (forum post #4480735)
+Author    : GF
+Date      : Jun 17, 2018 at 7:32 PM
+Reactions : Like — kokkari
+────────────────────────────────────────────────────────────────────────
+
+top notch work !!!
+────────────────────────────────────────────────────────────────────────
+Post #62  (forum post #4481431)
+Author    : merseajohn
+Date      : Jun 19, 2018 at 3:42 AM
+Reactions : Like — kokkari
+────────────────────────────────────────────────────────────────────────
+
+Fantastic mate.
+
+john S
+────────────────────────────────────────────────────────────────────────
+Post #63  (forum post #4481642)
+Author    : kokkari
+Date      : Jun 19, 2018 at 10:56 AM
+Reactions : Like, Love — ecl, peza, Treadwell
+────────────────────────────────────────────────────────────────────────
+
+Thank you everyone. I really appreciate your warm comments. I've been working on the engines. I see a lot of different colors on the original so matching exactly is pretty difficult. I think I'm up to 5 colors lol. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/7bcd8cd0c3c499de3b27cee750293a79-jpg.1078686/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/286ce8aa4a486f7f1a0e7114d6464d89-jpg.1078687/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/9a796c406ce350da5aea6ed0269eec61-jpg.1078688/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/2822b7975de8693a80219c15c330aaa6-jpg.1078689/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/fbacb4fa2a4be75e0b332e155464976e-jpg.1078690/]
+
+Light test with Boba. Went for a more accurate look for him as opposed to trying to match the one in the original model. 
+
+Sent from my SM-G955U using Tapatalk
+
+[IMAGE: https://www.therpf.com/forums/attachments/b138c0fe9476f376f228ded1a15ae8d4-jpg.1078691/]
+────────────────────────────────────────────────────────────────────────
+Post #64  (forum post #4481759)
+Author    : Scott Graham
+Date      : Jun 19, 2018 at 2:16 PM
+Reactions : Like — kokkari
+────────────────────────────────────────────────────────────────────────
+
+I love the cockpit! Great job! 
+
+This whole build is steadily getting done. It seems you didn't have any pitfalls with parts or construction. Those wing wells seem like they'd to be difficult to figure out.
+
+What's the rust colored paint you're using on the engines? It looks like one not used before now.
+
+Do you think you'll use any metallics on the engines? Maybe the interiors of them?
+────────────────────────────────────────────────────────────────────────
+Post #65  (forum post #4481799)
+Author    : blakeh1
+Date      : Jun 19, 2018 at 3:25 PM
+Reactions : Like — kokkari
+────────────────────────────────────────────────────────────────────────
+
+Wow, that sure is spectacular!
+
+Out of curiosity, what scale would the studio scale model be close to?
+
+Is it around 1/48 or closer to 1/35?
+────────────────────────────────────────────────────────────────────────
+Post #66  (forum post #4481832)
+Author    : kokkari
+Date      : Jun 19, 2018 at 5:02 PM
+────────────────────────────────────────────────────────────────────────
+
+blakeh1 said:
+
+			Wow, that sure is spectacular!
+
+Out of curiosity, what scale would the studio scale model be close to?
+
+Is it around 1/48 or closer to 1/35?
+		
+
+Click to expand...
+
+I could be totally wrong because I'm not a scale guru, but I would say 1/24 based on the size of Boba figure inside. Same size as the 1/24 SS x-wing pilots. 
+
+Sent from my SM-G955U using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #67  (forum post #4481860)
+Author    : bighead5
+Date      : Jun 19, 2018 at 5:48 PM
+Reactions : Like — kokkari
+────────────────────────────────────────────────────────────────────────
+
+kokkari said:
+
+			Light test with Boba. Went for a more accurate look for him as opposed to trying to match the one in the original model.
+		
+
+Click to expand...
+
+I love that you did that! I like that look better than going with the original studio model look myself. Everything else can be studio model accurate, but Boba Fett is half the reason we love that ship too! [emoji6]
+
+Sent from my iPhone using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #68  (forum post #4481875)
+Author    : joberg
+Date      : Jun 19, 2018 at 6:13 PM
+Reactions : Like — kokkari
+────────────────────────────────────────────────────────────────────────
+
+The paint job is getting better and better by the post:thumbsup Eager to see the overall look!
+────────────────────────────────────────────────────────────────────────
+Post #69  (forum post #4481885)
+Author    : slynger
+Date      : Jun 19, 2018 at 6:35 PM
+Reactions : Like — kokkari
+────────────────────────────────────────────────────────────────────────
+
+Everything looks great. Just fantastic work.
+────────────────────────────────────────────────────────────────────────
+Post #70  (forum post #4482026)
+Author    : kokkari
+Date      : Jun 20, 2018 at 1:19 AM
+────────────────────────────────────────────────────────────────────────
+
+Scott Graham said:
+
+			I love the cockpit! Great job! 
+
+This whole build is steadily getting done. It seems you didn't have any pitfalls with parts or construction. Those wing wells seem like they'd to be difficult to figure out.
+
+What's the rust colored paint you're using on the engines? It looks like one not used before now.
+
+Do you think you'll use any metallics on the engines? Maybe the interiors of them?
+		
+
+Click to expand...
+
+I didn't use rust on the engines. I used yellow, then boxcar red, then a couple different grey colors. From the reference I gathered they did the same because you can see hints of each color between layers of liquid mask. 
+
+As far as the wing wells the hardest part was determining the location of the disk shaped part and the support strut because as the wings rotate that strut has to fit into a small groove within the wings. As far as all the other busy looking parts in the well, they just fit around the disc. Just a bunch of sanding to get them to fit. 
+
+Sent from my SM-G955U using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #71  (forum post #4482171)
+Author    : blakeh1
+Date      : Jun 20, 2018 at 8:43 AM
+────────────────────────────────────────────────────────────────────────
+
+kokkari said:
+
+			I could be totally wrong because I'm not a scale guru, but I would say 1/24 based on the size of Boba figure inside. Same size as the 1/24 SS x-wing pilots. 
+
+Sent from my SM-G955U using Tapatalk
+		
+
+Click to expand...
+
+thanks for the info
+────────────────────────────────────────────────────────────────────────
+Post #72  (forum post #4484242)
+Author    : kokkari
+Date      : Jun 24, 2018 at 10:28 AM
+Reactions : Like, Love — BTTFfan88, Flyscriber, Padawan311
+────────────────────────────────────────────────────────────────────────
+
+I'm pretty much done. I decided I need to add a little bit more staining to the port side since taking these photos.
+
+[IMAGE: 476112-bb5541bf518d76d6c893ed812350a449.jpg]
+
+[IMAGE: 476115-cfb98c3e4bf6ee98ca06d6d33a55ef4b.jpg]
+
+[IMAGE: 476114-de45afb6d5be5a4337eb22370cad112a.jpg]
+
+[IMAGE: 476113-a20acf6e3ced29fe9f252338bcc7c5c9.jpg]
+
+[IMAGE: 476111-63e76b02aa0c6f8cfca0cb156f31b2ac.jpg]
+
+[IMAGE: 476119-fc3e55a5932827706067745ef972b42a.jpg]
+
+[IMAGE: 476120-580cd634f7055ba1d5130e3d995069ef.jpg]
+
+[IMAGE: 476116-7b28a3edd0db14297e92c2c3a6b4ca00.jpg]
+
+[IMAGE: 476117-5df902fad890acfd901b62bbc15b1336.jpg]
+
+[IMAGE: 476118-975b23052894285204deab49c6867f04.jpg]
+
+[IMAGE: 476121-f233c8c0dabe09aea95d8bbc57b4bde9.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #73  (forum post #4484263)
+Author    : Scott Graham
+Date      : Jun 24, 2018 at 11:14 AM
+Reactions : Like — kokkari
+────────────────────────────────────────────────────────────────────────
+
+Awesome Mike! Thanks for sharing the build too.
+────────────────────────────────────────────────────────────────────────
+Post #74  (forum post #4484279)
+Author    : E3kehoe
+Date      : Jun 24, 2018 at 11:54 AM
+Reactions : Like — kokkari
+────────────────────────────────────────────────────────────────────────
+
+Great job!!!!!! I am so jealous that you have one. I really need one in my life but funds :’(   Some day maybe. You did an outstanding job on this!!!
+────────────────────────────────────────────────────────────────────────
+Post #75  (forum post #4484307)
+Author    : joberg
+Date      : Jun 24, 2018 at 12:52 PM
+Reactions : Like — kokkari
+────────────────────────────────────────────────────────────────────────
+
+Pro-Job all the way with this model for sure!  :cool
+────────────────────────────────────────────────────────────────────────
+Post #76  (forum post #4484775)
+Author    : srspicer
+Date      : Jun 25, 2018 at 3:36 PM
+Reactions : Like — kokkari
+────────────────────────────────────────────────────────────────────────
+
+Well done!!!
+────────────────────────────────────────────────────────────────────────
+Post #77  (forum post #4485225)
+Author    : peza
+Date      : Jun 26, 2018 at 2:17 PM
+Reactions : Like — kokkari
+────────────────────────────────────────────────────────────────────────
+
+Loving sweet buddy. Top job
+────────────────────────────────────────────────────────────────────────
+Post #78  (forum post #4499265)
+Author    : zsherman
+Date      : Jul 25, 2018 at 2:43 PM
+Reactions : Like — kokkari
+────────────────────────────────────────────────────────────────────────
+
+peza said:
+
+			Loving sweet buddy. Top job
+		
+
+Click to expand...
+
+I cannot believe how INCREDIBLE this looks! Total pro work, man. Really!!
+
+Sent from my Starfleet-issue communicator
+────────────────────────────────────────────────────────────────────────
+Post #79  (forum post #4499925)
+Author    : kokkari
+Date      : Jul 26, 2018 at 9:49 PM
+Reactions : Like — BajaTym, Oofa, Hammer3246
+────────────────────────────────────────────────────────────────────────
+
+Thank you! Here is a shot to give an idea of the scale. 
+
+zsherman said:
+
+			I cannot believe how INCREDIBLE this looks! Total pro work, man. Really!!
+
+Sent from my Starfleet-issue communicator
+		
+
+Click to expand...
+
+[IMAGE: https://www.therpf.com/forums/attachments/b934baa5cd6b836c30cad3023d887984-jpg.1003039/]
+
+Sent from my SM-G955U using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #80  (forum post #4499993)
+Author    : zsherman
+Date      : Jul 27, 2018 at 4:19 AM
+Reactions : Like — GF, kokkari
+────────────────────────────────────────────────────────────────────────
+
+kokkari said:
+
+			Thank you! Here is a shot to give an idea of the scale. https://uploads.tapatalk-cdn.com/20180727/b934baa5cd6b836c30cad3023d887984.jpg
+
+Sent from my SM-G955U using Tapatalk
+		
+
+Click to expand...
+
+That’s big. And you’re a Giants fan? I knew I liked this thread 
+
+Sent from my Starfleet-issue communicator
+────────────────────────────────────────────────────────────────────────
+Post #81  (forum post #4502157)
+Author    : joberg
+Date      : Jul 31, 2018 at 4:44 PM
+Reactions : Like — kokkari
+────────────────────────────────────────────────────────────────────────
+
+Scale is fantastic and a SF Giant fan to boot...it cannot get better than that
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+thumbsup
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+thumbsup:thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #82  (forum post #4502386)
+Author    : jake88
+Date      : Aug 1, 2018 at 5:46 AM
+Reactions : Like — kokkari
+────────────────────────────────────────────────────────────────────────
+
+Hands down the closest color match Ive ever seen to the original ILM studio model.  Effing fantastic work!!!
+────────────────────────────────────────────────────────────────────────
+Post #83  (forum post #4502411)
+Author    : kokkari
+Date      : Aug 1, 2018 at 6:34 AM
+────────────────────────────────────────────────────────────────────────
+
+jake88 said:
+
+			Hands down the closest color match Ive ever seen to the original ILM studio model.  Effing fantastic work!!!
+		
+
+Click to expand...
+
+Thanks. That's only because of all the research Guy C. and crew have done with Archive-x paints. I just took notes and asked a lot of questions. 
+
+Sent from my SM-G955U using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #84  (forum post #4504438)
+Author    : Gus76
+Date      : Aug 5, 2018 at 7:12 PM
+────────────────────────────────────────────────────────────────────────
+
+Fantastic build!
+
+Sent from my Pixel XL using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #85  (forum post #4504721)
+Author    : GoldenStudio
+Date      : Aug 6, 2018 at 11:23 AM
+────────────────────────────────────────────────────────────────────────
+
+Beautiful!!  Very nice build and paint.
+────────────────────────────────────────────────────────────────────────
+Post #86  (forum post #4505346)
+Author    : GoldenStudio
+Date      : Aug 7, 2018 at 9:16 PM
+────────────────────────────────────────────────────────────────────────
+
+Can you list all the paints used?  How did you apply the latex on the top and bottom haul?
+────────────────────────────────────────────────────────────────────────
+Post #87  (forum post #4506108)
+Author    : Carnet
+Date      : Aug 9, 2018 at 2:49 PM
+────────────────────────────────────────────────────────────────────────
+
+Dashing! The model is nice too.
+────────────────────────────────────────────────────────────────────────
+Post #88  (forum post #4596680)
+Author    : ABE
+Date      : Mar 23, 2019 at 9:18 PM
+────────────────────────────────────────────────────────────────────────
+
+I had not met this post before, the truth is excellent work, if you could guide me in the right direction to quote one of these kits I would appreciate it
+────────────────────────────────────────────────────────────────────────
+Post #89  (forum post #4596690)
+Author    : kokkari
+Date      : Mar 23, 2019 at 9:47 PM
+Reactions : Like — ABE
+────────────────────────────────────────────────────────────────────────
+
+ABE said:
+
+			I had not met this post before, the truth is excellent work, if you could guide me in the right direction to quote one of these kits I would appreciate it
+		
+
+Click to expand...
+
+It's a nice-n-model kit. Mike Salzo was making the kit when I bought one. The easiest way I've found is trying to contact Steve or Mike through Facebook
+────────────────────────────────────────────────────────────────────────
+Post #90  (forum post #4678302)
+Author    : PULLED PORKINS
+Date      : Oct 25, 2019 at 7:45 AM
+────────────────────────────────────────────────────────────────────────
+
+Looking forward to seeing it completed, these are such impressive looking ships! Looking for one myself, would love to see some pictures of the build, probably done by now.
+────────────────────────────────────────────────────────────────────────
+Post #91  (forum post #4678309)
+Author    : kokkari
+Date      : Oct 25, 2019 at 8:11 AM
+────────────────────────────────────────────────────────────────────────
+
+PULLED PORKINS said:
+
+			Looking forward to seeing it completed, these are such impressive looking ships! Looking for one myself, would love to see some pictures of the build, probably done by now.
+		
+
+Click to expand...
+
+Thanks man! Completed pics are on page 4 if this thread.
+────────────────────────────────────────────────────────────────────────
+Post #92  (forum post #4678341)
+Author    : Carnet
+Date      : Oct 25, 2019 at 9:26 AM
+────────────────────────────────────────────────────────────────────────
+
+That is something to be proud of! Great work!
+────────────────────────────────────────────────────────────────────────
+Post #93  (forum post #4678349)
+Author    : PULLED PORKINS
+Date      : Oct 25, 2019 at 9:49 AM
+────────────────────────────────────────────────────────────────────────
+
+kokkari said:
+
+			Thanks man! Completed pics are on page 4 if this thread.
+		
+
+Click to expand...
+
+Thanks for the reply,
+
+I'm still very new to this forum and get anxious sometimes before I look at all of the post's. Just looked at the picture's. The detail and the paint is out of this world, really looks like it's seen a lot of time in the harsh environment of space. Great looking work of art !
+────────────────────────────────────────────────────────────────────────
+Post #94  (forum post #5196588)
+Author    : akumazeto
+Date      : May 15, 2021 at 3:20 PM
+Reactions : Like — kokkari
+────────────────────────────────────────────────────────────────────────
+
+kokkari said:
+
+			Some progress on the cockpit.
+
+View attachment 812607View attachment 812608
+
+View attachment 812610
+
+Click to expand...
+
+Mike First off Happy Birthday! Second do you happen to have a pic of the cockpit assembly outside of the hull?
+────────────────────────────────────────────────────────────────────────
+Post #95  (forum post #5196592)
+Author    : kokkari
+Date      : May 15, 2021 at 3:48 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks buddy! What I have is on page 2. You've probably already seen it. I'll look for more.
+
+Post in thread 'Nice-N Slave 1 Build' Nice-N Slave 1 Build
+────────────────────────────────────────────────────────────────────────
+Post #96  (forum post #5196610)
+Author    : akumazeto
+Date      : May 15, 2021 at 5:10 PM
+────────────────────────────────────────────────────────────────────────
+
+yeah I am looking for a pic with the sidewalls in place as I am trying to wrap my head around the one I am doing. But the one I am repairing...well was a hack job of a build.
+────────────────────────────────────────────────────────────────────────
+Post #97  (forum post #5198028)
+Author    : Flyscriber
+Date      : May 21, 2021 at 1:07 AM
+Reactions : Like — kokkari
+────────────────────────────────────────────────────────────────────────
+
+kokkari said:
+
+			I'm pretty much done. I decided I need to add a little bit more staining to the port side since taking these photos.
+
+View attachment 826504View attachment 826507View attachment 826506View attachment 826505View attachment 826503View attachment 826511View attachment 826512View attachment 826508View attachment 826509View attachment 826510View attachment 826513
+
+Click to expand...
+
+Nice and slick. Looks the absolute dogs B&**$^$%. As per normal. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 97

@@ -1,0 +1,344 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Probe Droid SS buildthread
+URL    : https://www.therpf.com/forums/threads/probe-droid-ss-buildthread.366416/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #5704693)
+Author    : Kiwimaddog
+Date      : Feb 27, 2026 at 4:12 AM
+Reactions : Like, Love — JD Douglas, seven, Duncanator
+────────────────────────────────────────────────────────────────────────
+
+Hi,
+
+Several years ago I bought a resin kit from Sergio Gutierrez of the ESB probe Droid. The time has finally come for me to put it together. I'll document this in this thread mainly as pictures and with some occasional sporadic comments.
+
+The kit did not come with any assembly instructions but with an vast amount of reference pictures and they're fine to use to figure the assembly out.
+
+After thoroughly cleaning the parts I started the build by figuring out how to deal with a overmold issue on the 'Head'-bulb.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0445-jpeg.2015515/]
+
+I carefully worked on the affected area with a thin needle file. I took quite a while but in the end I got it to look pretty acceptable.
+
+Then I organized the different parts to figure out what goes where. the first thing I assembled was this odd greeblythingy sitting underneath the body. It took some hunting amongst the reference images to get correct but in the end I got there.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0547-jpeg.2015516/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0549-jpeg.2015517/]
+
+I then needed a suitable base for it to sit on. I found a steel rod in a good diameter and length which I attached to a wooden cutting board. On the top of that I designed a part that is screwed onto the 'Body' of the droid. The idea here is that I want the completed build to be able to disassemble in parts to make in possible to move when needed.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0560-jpeg.2015518/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0563-jpeg.2015519/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0561-jpeg.2015520/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0618-jpeg.2015521/]
+
+I then drew up and printed a part for the 'head' to attach to the 'body'. It's just an round disc that is screwed onto the head and keeps in place by friction.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0622-jpeg.2015522/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0623-jpeg.2015523/]
+
+The bottommost part showing above will be attached to the rod fix part and thus hiding it by Neodym magnets at a later stage.
+
+Next up was the arms,
+
+This was a bit of challenge to figure out and took a while.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0552-jpeg.2015524/]
+
+Of course the arms needs their actuators so I made these out of brass rods which I soldered together to match what I could see on the reference pictures.  I might add that they're moving parts, what's soldered are end pieces and sleeves. This was also a good excuse to use my tiny lathe, which is always a joy 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0626-jpeg.2015527/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0629-jpeg.2015528/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0631-jpeg.2015529/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0635-jpeg.2015530/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0637-jpeg.2015531/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0638-jpeg.2015532/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0645-jpeg.2015533/]
+
+When that was finished it was time to attach everything together to the main body. I attached brass rods at the ends of the arms which are then fixed on the 'Body'.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0652-jpeg.2015534/]
+
+Lastly I soldered together a couple of brass antenna(e)s and attached to the head.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0657-jpeg.2015535/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0655-jpeg.2015536/]
+
+This is as far as I've gotten at the time of writing this. Next up I'll be spraying primer of the parts so that I can get onto the paint-job for which I'll be using Archive-X enamels and acrylics.
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #5704718)
+Author    : joberg
+Date      : Feb 27, 2026 at 8:01 AM
+Reactions : Like — Kiwimaddog
+────────────────────────────────────────────────────────────────────────
+
+Great build; eager to see it painted
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ I can see your Rocketeer in the background also (no news on that model?)
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #5704732)
+Author    : Kiwimaddog
+Date      : Feb 27, 2026 at 9:13 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+joberg said:
+
+			Great build; eager to see it painted
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ I can see your Rocketeer in the background also (no news on that model?)
+		
+
+Click to expand...
+
+Yeah, the Rocketeer is on a bit of a hiatus currently. I'm waiting for the temperature to go above 0°C here in Sweden so that I can start printing resin-parts. Getting there though, the snow is slowly melting away.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #5704809)
+Author    : Ogibendogy
+Date      : Feb 27, 2026 at 1:53 PM
+Reactions : Like — joberg, Kiwimaddog
+────────────────────────────────────────────────────────────────────────
+
+Nice work! Look forward to seeing your next update.
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #5704840)
+Author    : Searun
+Date      : Feb 27, 2026 at 3:20 PM
+Reactions : Like — joberg, Kiwimaddog
+────────────────────────────────────────────────────────────────────────
+
+Another fascinating Star Wars machine design. Large size makes for interesting viewing at many angles. Quite amount of work on these type of kits and often can be as much effort as scratch building. Great construction photos and particularly the sequence of assembly. Love the moveable features enabled by lathe skill. Brass tubing and strut work especially appreciated by me since the metal work is challenging & strong, as s well as very rewarding.
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #5704930)
+Author    : Kiwimaddog
+Date      : Feb 28, 2026 at 2:17 AM
+Reactions : Like — Searun, joberg
+────────────────────────────────────────────────────────────────────────
+
+Searun said:
+
+			Another fascinating Star Wars machine design. Large size makes for interesting viewing at many angles. Quite amount of work on these type of kits and often can be as much effort as scratch building. Great construction photos and particularly the sequence of assembly. Love the moveable features enabled by lathe skill. Brass tubing and strut work especially appreciated by me since the metal work is challenging & strong, as s well as very rewarding.
+		
+
+Click to expand...
+
+Thank you, It's very nice to hear it's appreciated. I love doing hard soldering and small machining but seldom find any good excuse so this was a very welcome excercise for me. I also wanted it to be pretty robust since it'll struggle to survive to be moved larger distances otherwise. I plan to have the arms removable as well but I'll document that when I've solved it 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #5705377)
+Author    : Duncanator
+Date      : Mar 1, 2026 at 4:47 PM
+Reactions : Like — joberg, Kiwimaddog
+────────────────────────────────────────────────────────────────────────
+
+Love seeing it come together! It makes me want to work on mine.
+
+Please post more inspiration!
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #5706553)
+Author    : Kiwimaddog
+Date      : Mar 7, 2026 at 12:10 AM
+Reactions : Like, Wow — JD Douglas, flimzy, MustangMando
+────────────────────────────────────────────────────────────────────────
+
+Update-time;
+
+Keep it simple, as the motto goes. This will be my solution for the fixing the arms in the body.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0670-jpeg.2017378/]
+
+I've also been focused on priming the parts for the paintjob. I've done dual soap baths of the parts and sprayed+wiped them off with Isopropanol but still  get the patches where the primer refuses to lay flat. I'm guessing it's Petroluem Jelly or such release agents that I somehow failed to get off, does anybody have any good methods of avoiding that this happens when dealing with resin kits?
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0688-jpeg.2017379/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0689-jpeg.2017380/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0675-jpeg.2017381/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0691-jpeg.2017382/]
+
+One last thing, the kits also contains these two cylindrical parts, does anyone know where they go? I'm struggling to figure it out...
+
+[IMAGE: https://www.therpf.com/forums/attachments/1772871000521-png.2017383/]
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #5706589)
+Author    : joberg
+Date      : Mar 7, 2026 at 7:23 AM
+Reactions : Like — Kiwimaddog
+────────────────────────────────────────────────────────────────────────
+
+Sharp and detailed; eager to see all of those parts/greeblies put together
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #5707696)
+Author    : rustbucket
+Date      : Mar 12, 2026 at 1:24 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+cylinders.....this is the real studio model....kinda brown huh..
+
+ 
+
+Attachments
+
+[IMAGE: 1661108-ca55268d1a4d90f7548f4627bc474937.jpg]
+
+Screenshot (65).png
+
+					1.4 MB
+					
+					· Views: 50
+					
+				
+
+[IMAGE: 1661107-d32ff6967c155d6f8dabc418a2d78140.jpg]
+
+Screenshot (64).png
+
+					1.2 MB
+					
+					· Views: 40
+					
+				
+
+[IMAGE: 1661106-f292ee6cb7221c39237689017972a648.jpg]
+
+Screenshot (63).png
+
+					1.1 MB
+					
+					· Views: 47
+					
+				
+
+[IMAGE: 1661105-ba0b0ba2a2b838587e41abc62e711312.jpg]
+
+Screenshot (62).png
+
+					1.1 MB
+					
+					· Views: 46
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #5708386)
+Author    : Kiwimaddog
+Date      : Mar 15, 2026 at 3:20 AM
+Reactions : Like, Love — Ogibendogy, ZeroSum, TheWolfhound
+────────────────────────────────────────────────────────────────────────
+
+I've gotten to the grey stage now. A lot of work had to be put in to fixing some parts that where damaged and removing the mold seam lines which where quite aggressive underneath the head-unit. Also, I've made all the greebly-parts removable using tubes and magnets.
+
+I'll let the pictures do the storytelling underneath.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0730-jpeg.2019329/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0733-jpeg.2019330/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0734-jpeg.2019331/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0735-jpeg.2019332/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0741-jpeg.2019333/]
+
+Twist 'n lock-solution for the bottom cover.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0738-jpeg.2019334/]
+
+This part was missing in the kit so I designed my own and made it removable. Artisitc license here since all I could see on the photos was the protruding tube.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0742-jpeg.2019335/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0743-jpeg.2019336/]
+
+Seamline-removal in progress....
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0744-jpeg.2019337/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0745-jpeg.2019338/]
+
+This flange was damaged so I had to glue on a replacement piece of Styrene.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0750-jpeg.2019339/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0751-jpeg.2019340/]
+
+...and the same went for this edge...
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0748-jpeg.2019343/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0765-jpeg.2019342/]
+
+Current status of the build.
+
+Your browser is not able to display this video.
+
+ 
+
+Attachments
+
+[IMAGE: 1661854-d4dae711726cf732be6cfd5bb6406c5f.jpg]
+
+IMG_0748.jpeg
+
+					3.1 MB
+					
+					· Views: 21
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #5708424)
+Author    : joberg
+Date      : Mar 15, 2026 at 7:42 AM
+Reactions : Like — Kiwimaddog
+────────────────────────────────────────────────────────────────────────
+
+Great little tricks putting all of those details together!  It's looking the part for sure
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 12

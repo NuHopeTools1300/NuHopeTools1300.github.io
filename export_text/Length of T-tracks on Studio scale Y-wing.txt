@@ -1,0 +1,106 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Length of T-tracks on Studio scale Y-wing
+URL    : https://www.therpf.com/forums/threads/length-of-t-tracks-on-studio-scale-y-wing.340444/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #5216322)
+Author    : Armyofhades
+Date      : Jul 21, 2021 at 9:32 AM
+────────────────────────────────────────────────────────────────────────
+
+Just picked up my first Studio Scale Y-wing. Wanted to see if you gents could help me with the overall length of the T-tracks. Thanks
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #5216332)
+Author    : kokkari
+Date      : Jul 21, 2021 at 9:51 AM
+Reactions : Like — mjs111, ffoeg
+────────────────────────────────────────────────────────────────────────
+
+I think the lengths slightly varied from Y to Y, but I know for The Gold Leader model it's very close to 13.5 inches, around 34 centimeters. I left an additional 1/4" on the ends to mount the rings on the end. Hope this helps.
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #5216333)
+Author    : Armyofhades
+Date      : Jul 21, 2021 at 9:55 AM
+────────────────────────────────────────────────────────────────────────
+
+Appreciate it good sir
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #5216356)
+Author    : Studio Kitbash
+Date      : Jul 21, 2021 at 11:14 AM
+────────────────────────────────────────────────────────────────────────
+
+So, there are three theories on this:
+
+1. Gold Leader Theory:  T-bar ON the Saturn V should be EQUAL to T-bar OFF the Saturn V.  T-bar should be 346mm total.  Gold Leader - 346mm for the four T-rods, from where it butts against the front "clamp" assemblies that ring the egg to the end against the back egg "steering vane" assemblies. (346mm matches exactly the Master Replicas measurement precisely, FWIW). This equals 13.622 inches.
+
+2. Gold 2 Theory:  T-bar ON the Saturn V should be NOT EQUAL to T-bar OFF the Saturn V.  Specifically, on Gold 2, it is my opinion that the T-bar length past the end of the Saturn V shell should be 6% longer than the length of T-bar ON the Saturn V.  This means a T-bar length of 353.2mm, which is 350.2mm + 3mm to "hold onto" the 4 piston slot attachments to the rear vectral). (355.6 mm IS exactly 14 inches, which is possibly the actual original length of the 3/16" brass T-bars that ILM used, FWIW)
+
+3. Golden Ratio Theory:  Make the T-bars length a function of a Golden Section "cut" such that the A:B ratio is 1:1.618, in which A = length from tip of L'eggs Nacelle dome to end of Saturn V can and B = length of T-bar past the Saturn V to the very end of the rear-most greeblie sticking out of the rear vectral nacelle.  This depends on how tall/short you cut your eggs, how/where you cut your Sat V cans, and how long your rear-end greeblies stick out of the subassembly.  But "in general" you want to achieve a look of "proper proportionality" that uses the tip of the Egg, the send of the Sat V can, and the very end of the rear vectral as your three points with which to achieve a golden ratio.  No golden squadron without the golden ratio...
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #5216453)
+Author    : Armyofhades
+Date      : Jul 21, 2021 at 4:13 PM
+────────────────────────────────────────────────────────────────────────
+
+Studio Kitbash said:
+
+			So, there are three theories on this:
+
+1. Gold Leader Theory:  T-bar ON the Saturn V should be EQUAL to T-bar OFF the Saturn V.  T-bar should be 346mm total.  Gold Leader - 346mm for the four T-rods, from where it butts against the front "clamp" assemblies that ring the egg to the end against the back egg "steering vane" assemblies. (346mm matches exactly the Master Replicas measurement precisely, FWIW). This equals 13.622 inches.
+
+2. Gold 2 Theory:  T-bar ON the Saturn V should be NOT EQUAL to T-bar OFF the Saturn V.  Specifically, on Gold 2, it is my opinion that the T-bar length past the end of the Saturn V shell should be 6% longer than the length of T-bar ON the Saturn V.  This means a T-bar length of 353.2mm, which is 350.2mm + 3mm to "hold onto" the 4 piston slot attachments to the rear vectral). (355.6 mm IS exactly 14 inches, which is possibly the actual original length of the 3/16" brass T-bars that ILM used, FWIW)
+
+3. Golden Ratio Theory:  Make the T-bars length a function of a Golden Section "cut" such that the A:B ratio is 1:1.618, in which A = length from tip of L'eggs Nacelle dome to end of Saturn V can and B = length of T-bar past the Saturn V to the very end of the rear-most greeblie sticking out of the rear vectral nacelle.  This depends on how tall/short you cut your eggs, how/where you cut your Sat V cans, and how long your rear-end greeblies stick out of the subassembly.  But "in general" you want to achieve a look of "proper proportionality" that uses the tip of the Egg, the send of the Sat V can, and the very end of the rear vectral as your three points with which to achieve a golden ratio.  No golden squadron without the golden ratio...
+		
+
+Click to expand...
+
+That's alot of info. Appreciate it good sir.
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #5216454)
+Author    : Armyofhades
+Date      : Jul 21, 2021 at 4:15 PM
+────────────────────────────────────────────────────────────────────────
+
+One more question so if I opted to use brass t-bars would someone be able to help me with on what size I would need
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #5216463)
+Author    : kokkari
+Date      : Jul 21, 2021 at 5:20 PM
+────────────────────────────────────────────────────────────────────────
+
+I would stick with 1/4" ABS. Brass is easily bent. The plastruct ABS is pretty strong and light weight.
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #5216467)
+Author    : Armyofhades
+Date      : Jul 21, 2021 at 5:41 PM
+────────────────────────────────────────────────────────────────────────
+
+kokkari said:
+
+			I would stick with 1/4" ABS. Brass is easily bent. The plastruct ABS is pretty strong and light weight.
+		
+
+Click to expand...
+
+Sounds good. Thanks for all the help.
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #5216496)
+Author    : swgeek
+Date      : Jul 21, 2021 at 7:54 PM
+Reactions : Like — vectorzero, Armyofhades
+────────────────────────────────────────────────────────────────────────
+
+ABS also has the correct thickness,  brass is pretty thin.
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #5220489)
+Author    : jake88
+Date      : Aug 4, 2021 at 5:16 PM
+────────────────────────────────────────────────────────────────────────
+
+Honestly,  just eye ball it
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 10

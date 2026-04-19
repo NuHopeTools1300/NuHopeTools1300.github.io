@@ -1,0 +1,1462 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NuHopeTools · Map Correction</title>
+  <style>
+    :root {
+      --bg: #15110f;
+      --panel: #211b18;
+      --panel-2: #2a231f;
+      --surface: #342c26;
+      --surface-2: #3f352e;
+      --line: #5c4c40;
+      --ink: #f1e6d9;
+      --ink-2: #d7c3b2;
+      --ink-3: #a89382;
+      --accent: #d4a458;
+      --accent-2: #8ec5b3;
+      --warn: #d88157;
+      --ok: #8cbc7d;
+      --shadow: 0 20px 40px rgba(0, 0, 0, 0.28);
+      --mono: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    }
+    * { box-sizing: border-box; }
+    html, body { margin: 0; min-height: 100%; background: var(--bg); color: var(--ink); }
+    body { display: flex; flex-direction: column; }
+    button, input, select, textarea {
+      font: inherit;
+      color: inherit;
+      background: var(--surface);
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 9px 12px;
+    }
+    button { cursor: pointer; }
+    button.primary {
+      background: rgba(212, 164, 88, 0.12);
+      border-color: var(--accent);
+    }
+    button.ghost {
+      background: transparent;
+    }
+    button:disabled { opacity: 0.45; cursor: default; }
+    .field, textarea, select { width: 100%; }
+    textarea { min-height: 82px; resize: vertical; }
+    .topbar {
+      display: flex;
+      gap: 14px;
+      align-items: center;
+      justify-content: space-between;
+      padding: 14px 16px;
+      border-bottom: 1px solid var(--line);
+      background: rgba(15, 12, 10, 0.9);
+      position: sticky;
+      top: 0;
+      z-index: 50;
+      backdrop-filter: blur(10px);
+    }
+    .brand { min-width: 0; }
+    .eyebrow { color: var(--ink-3); font: 12px var(--mono); text-transform: uppercase; letter-spacing: 0.12em; }
+    .title { font-size: 22px; }
+    .topbar-controls { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+    .topbar-toggle {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 8px 10px;
+      background: var(--surface);
+    }
+    .topbar-toggle input { margin: 0; accent-color: var(--accent); }
+    .app {
+      flex: 1;
+      min-height: 0;
+      display: grid;
+      grid-template-columns: 320px minmax(0, 1fr) 360px;
+    }
+    .panel {
+      min-width: 0;
+      display: flex;
+      flex-direction: column;
+      border-right: 1px solid var(--line);
+      background: linear-gradient(180deg, rgba(41, 33, 28, 0.92), rgba(29, 23, 20, 0.94));
+    }
+    .panel:last-child {
+      border-right: none;
+      border-left: 1px solid var(--line);
+    }
+    .panel-head {
+      padding: 16px 18px;
+      border-bottom: 1px solid var(--line);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+    }
+    .panel-title { font-size: 18px; }
+    .panel-sub { color: var(--ink-3); font: 12px var(--mono); }
+    .panel-body {
+      flex: 1;
+      min-height: 0;
+      overflow: auto;
+      padding: 14px;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+    .filters {
+      display: grid;
+      gap: 8px;
+      position: sticky;
+      top: 0;
+      z-index: 2;
+      background: linear-gradient(180deg, rgba(33, 27, 24, 0.98), rgba(33, 27, 24, 0.9));
+      padding-bottom: 6px;
+    }
+    .list {
+      display: grid;
+      gap: 8px;
+    }
+    .card {
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      padding: 10px 12px;
+      background: rgba(52, 44, 38, 0.48);
+      display: grid;
+      gap: 5px;
+      cursor: pointer;
+    }
+    .card.active {
+      border-color: var(--accent);
+      background: rgba(212, 164, 88, 0.1);
+      box-shadow: inset 0 0 0 1px rgba(212, 164, 88, 0.18);
+    }
+    .card-title { font-size: 16px; }
+    .card-meta { color: var(--ink-3); font-size: 12px; }
+    .center {
+      min-width: 0;
+      display: flex;
+      flex-direction: column;
+      background: linear-gradient(180deg, rgba(26, 21, 18, 0.98), rgba(20, 16, 14, 1));
+    }
+    .canvas-meta {
+      display: grid;
+      gap: 10px;
+      padding: 14px 16px;
+      border-bottom: 1px solid var(--line);
+    }
+    .canvas-title { font-size: 18px; }
+    .canvas-sub { color: var(--ink-3); font: 12px var(--mono); }
+    .toolbar {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+    .toolbar-group {
+      display: inline-flex;
+      gap: 8px;
+      align-items: center;
+      padding: 8px;
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      background: rgba(48, 40, 35, 0.62);
+    }
+    .toolbar-label {
+      color: var(--ink-3);
+      font: 11px var(--mono);
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      padding: 0 2px;
+    }
+    .canvas-shell {
+      flex: 1;
+      min-height: 0;
+      padding: 14px 16px 16px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+    .canvas-frame {
+      flex: 1;
+      min-height: 0;
+      border: 1px solid var(--line);
+      border-radius: 20px;
+      background:
+        linear-gradient(rgba(255,255,255,0.04) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255,255,255,0.04) 1px, transparent 1px),
+        #171311;
+      background-size: 24px 24px, 24px 24px, auto;
+      overflow: auto;
+      position: relative;
+      box-shadow: var(--shadow);
+    }
+    .map-stage {
+      position: relative;
+      transform-origin: top left;
+      width: fit-content;
+      min-width: 100%;
+      min-height: 100%;
+    }
+    .map-image {
+      display: block;
+      max-width: none;
+      user-select: none;
+      -webkit-user-drag: none;
+    }
+    .map-empty {
+      min-height: 100%;
+      display: grid;
+      place-items: center;
+      color: var(--ink-3);
+      padding: 26px;
+      text-align: center;
+    }
+    .position-layer {
+      position: absolute;
+      inset: 0;
+      pointer-events: none;
+    }
+      .placement {
+        position: absolute;
+        pointer-events: auto;
+        border: 2px solid var(--accent-2);
+        background: rgba(142, 197, 179, 0.12);
+        border-radius: 999px;
+        cursor: pointer;
+      }
+      .placement.point {
+        transform: translate(-50%, -50%);
+      }
+      .placement.box { border-radius: 6px; }
+    .placement.active {
+      border-color: var(--accent);
+      background: rgba(212, 164, 88, 0.2);
+      box-shadow: 0 0 0 3px rgba(212, 164, 88, 0.24), 0 0 22px rgba(212, 164, 88, 0.28);
+    }
+      .placement.current::after {
+        content: '';
+        position: absolute;
+        inset: -4px;
+        border: 1px dashed rgba(255,255,255,0.28);
+        border-radius: inherit;
+      }
+      .placement.point::before {
+        content: '';
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        width: 4px;
+        height: 4px;
+        transform: translate(-50%, -50%);
+        border-radius: 999px;
+        background: rgba(255,255,255,0.92);
+      }
+    .placement-label {
+      position: absolute;
+      left: 50%;
+      bottom: calc(100% + 6px);
+      transform: translateX(-50%) scale(calc(1 / var(--map-scale, 1)));
+      transform-origin: bottom center;
+      white-space: nowrap;
+      font-size: 14px;
+      line-height: 1.2;
+      font-weight: 600;
+      color: var(--ink);
+      background: rgba(0, 0, 0, 0.78);
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      padding: 5px 12px;
+      display: none;
+      z-index: 2;
+    }
+    .placement:hover .placement-label,
+    .placement.active .placement-label { display: block; }
+    .placement.show-label .placement-label { display: block; }
+    .position-layer.show-labels .placement-label { display: block; }
+    .draft-box {
+      position: absolute;
+      border: 2px dashed var(--warn);
+      background: rgba(216, 129, 87, 0.12);
+      pointer-events: none;
+    }
+    .hidden { display: none !important; }
+    .section {
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      background: rgba(42, 35, 31, 0.7);
+      overflow: hidden;
+    }
+    .section-head {
+      padding: 12px 14px;
+      border-bottom: 1px solid rgba(255,255,255,0.06);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 8px;
+    }
+    .section-body {
+      padding: 12px 14px;
+      display: grid;
+      gap: 10px;
+    }
+    .kv {
+      display: grid;
+      gap: 8px;
+    }
+    .kv-row {
+      display: grid;
+      grid-template-columns: 110px minmax(0, 1fr);
+      gap: 10px;
+      color: var(--ink-2);
+    }
+    .kv-row span:first-child {
+      color: var(--ink-3);
+    }
+    .split {
+      display: grid;
+      gap: 8px;
+      grid-template-columns: 1fr 1fr;
+    }
+    .small-list {
+      display: grid;
+      gap: 8px;
+    }
+    .picker-results {
+      max-height: 220px;
+      overflow: auto;
+      padding-right: 4px;
+    }
+    .small-card {
+      border: 1px solid rgba(255,255,255,0.06);
+      border-radius: 14px;
+      padding: 10px 12px;
+      display: grid;
+      gap: 4px;
+      background: rgba(24, 20, 17, 0.22);
+    }
+    .small-card.active {
+      border-color: var(--accent);
+      background: rgba(212, 164, 88, 0.08);
+    }
+    .small-title { font-size: 14px; }
+    .small-meta { font-size: 12px; color: var(--ink-3); }
+    .hint { color: var(--ink-3); font-size: 12px; line-height: 1.5; }
+    .status {
+      border: 1px dashed var(--line);
+      border-radius: 14px;
+      padding: 10px 12px;
+      font-size: 13px;
+      color: var(--ink-2);
+    }
+    .status.ok { border-color: rgba(140,188,125,0.45); color: #cfe4c7; }
+    .status.error { border-color: rgba(216,129,87,0.55); color: #f2c3aa; }
+    .status.pending { border-color: rgba(212,164,88,0.55); color: #f0d29a; }
+    @media (max-width: 1180px) {
+      .app { grid-template-columns: 280px minmax(0, 1fr); }
+      .panel:last-child { grid-column: 1 / -1; border-left: none; border-top: 1px solid var(--line); }
+    }
+    @media (max-width: 860px) {
+      .app { grid-template-columns: 1fr; }
+      .panel, .panel:last-child { border: none; border-top: 1px solid var(--line); }
+      .topbar { align-items: flex-start; }
+    }
+  </style>
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <div class="eyebrow">NuHopeTools / Next Step</div>
+      <div class="title">Map Workbench - Position Correction</div>
+    </div>
+    <div class="topbar-controls">
+      <input class="field" id="api-base" style="width:220px" value="http://localhost:5000" aria-label="API base">
+      <button id="api-save">Save API</button>
+      <button id="admin-key">Admin key</button>
+      <label class="topbar-toggle" for="admin-local">
+        <input type="checkbox" id="admin-local">
+        <span>Local admin</span>
+      </label>
+      <a href="workbench.html" style="color:var(--ink-2);text-decoration:none">Image workbench</a>
+    </div>
+  </header>
+
+  <main class="app">
+    <aside class="panel">
+      <div class="panel-head">
+        <div>
+          <div class="panel-title">Library</div>
+          <div class="panel-sub" id="library-meta">Maps and placements</div>
+        </div>
+      </div>
+      <div class="panel-body">
+        <div class="filters">
+          <select id="model-filter"></select>
+          <select id="map-filter"></select>
+          <input class="field" id="placement-search" placeholder="Search placements, kit, location">
+        </div>
+        <div class="section" style="flex:1;min-height:0;display:flex;flex-direction:column;">
+          <div class="section-head"><span>Placements</span></div>
+          <div class="section-body" style="flex:1;min-height:0;overflow:auto">
+            <div class="small-list" id="placement-list"></div>
+          </div>
+        </div>
+      </div>
+    </aside>
+
+    <section class="center">
+      <div class="canvas-meta">
+        <div class="canvas-title" id="canvas-title">Select a map</div>
+        <div class="canvas-sub" id="canvas-sub">Placement geometry correction lives here.</div>
+        <div class="toolbar">
+          <div class="toolbar-group">
+            <span class="toolbar-label">View</span>
+            <button id="zoom-out">-</button>
+            <button id="zoom-in">+</button>
+            <button id="zoom-fit">Fit</button>
+            <span id="zoom-label" class="hint">Scale 100%</span>
+          </div>
+          <div class="toolbar-group">
+            <span class="toolbar-label">Annotate</span>
+            <button class="primary" data-tool="select">Select</button>
+            <button data-tool="point">Add point</button>
+            <button data-tool="box">Add box</button>
+            <button id="toggle-labels">Labels off</button>
+          </div>
+        </div>
+      </div>
+      <div class="canvas-shell">
+        <div class="canvas-frame" id="canvas-scroll">
+          <div class="map-stage" id="map-stage">
+            <div class="map-empty" id="map-empty">Choose a map from the left to inspect and correct placement positions.</div>
+            <img id="map-image" class="map-image hidden" alt="">
+            <div id="position-layer" class="position-layer hidden"></div>
+            <div id="draft-box" class="draft-box hidden"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <aside class="panel">
+      <div class="panel-head">
+        <div>
+          <div class="panel-title">Inspector</div>
+          <div class="panel-sub" id="inspector-meta">Nothing selected</div>
+        </div>
+      </div>
+      <div class="panel-body" id="inspector-stack"></div>
+    </aside>
+  </main>
+
+  <script>
+    const state = {
+      apiBase: localStorage.getItem('mapWorkbenchApiBase') || 'http://localhost:5000',
+      adminKey: localStorage.getItem('mapWorkbenchAdminKey') || '',
+      adminLocal: localStorage.getItem('mapWorkbenchAdminLocal') === '1',
+      models: [],
+      maps: [],
+      placements: [],
+      selectedModelId: null,
+      selectedMapId: null,
+      selectedPlacementId: null,
+      selectedPositionId: null,
+      mapImageScale: 1,
+      mode: 'select',
+      showLabels: localStorage.getItem('mapWorkbenchShowLabels') === '1',
+      search: '',
+      newPlacementSearch: '',
+      newPlacementResults: [],
+      newPlacementSearchToken: 0,
+      newPlacementTarget: null,
+      newPlacementLocation: '',
+      mapImageSearch: '',
+      mapImageResults: [],
+      mapImageSearchToken: 0,
+      mapRecordDraft: null,
+      draftBox: null,
+      imageSize: { width: 0, height: 0 },
+      actionStatus: null
+    };
+
+    const el = (id) => document.getElementById(id);
+
+    function escapeHtml(value) {
+      return String(value ?? '')
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#39;');
+    }
+
+    function apiOrigin() {
+      return (state.apiBase || 'http://localhost:5000').replace(/\/$/, '');
+    }
+
+    function buildApiPath(path) {
+      const hasQuery = path.includes('?');
+      const params = [];
+      if (state.adminLocal) params.push('admin_local=1');
+      if (state.adminKey) params.push(`api_key=${encodeURIComponent(state.adminKey)}`);
+      if (!params.length) return path;
+      return `${path}${hasQuery ? '&' : '?'}${params.join('&')}`;
+    }
+
+    async function api(path, options = {}) {
+      const url = apiOrigin() + buildApiPath(path);
+      const res = await fetch(url, options);
+      let body = null;
+      try { body = await res.json(); } catch (e) {}
+      if (!res.ok || (body && body.ok === false)) {
+        throw new Error(body?.error || `Request failed (${res.status})`);
+      }
+      return body?.data ?? body;
+    }
+
+    function authHeaders(extra = {}) {
+      return { 'Content-Type': 'application/json', ...extra };
+    }
+
+    function selectedMap() {
+      return state.maps.find((item) => item.id === state.selectedMapId) || null;
+    }
+
+    function mapImageUrl(map) {
+      if (!map) return '';
+      if (map.image_url && /^https?:\/\//i.test(map.image_url)) return map.image_url;
+      if (map.image_url && map.image_url.startsWith('/')) return apiOrigin() + map.image_url;
+      if (map.image_storage_path && /^https?:\/\//i.test(map.image_storage_path)) return map.image_storage_path;
+      if (map.url && /^https?:\/\//i.test(map.url)) return map.url;
+      if (map.url && map.url.startsWith('/')) return apiOrigin() + map.url;
+      return map.image_url || map.url || '';
+    }
+
+    function selectedPlacement() {
+      return state.placements.find((item) => item.id === state.selectedPlacementId) || null;
+    }
+
+    function selectedPosition() {
+      const placement = selectedPlacement();
+      if (!placement) return null;
+      return (placement.positions || []).find((item) => item.id === state.selectedPositionId) || placement.current_position || null;
+    }
+
+    function currentMapBackingImageTitle(map) {
+      return map?.image_title || map?.image_code || (map?.image_id ? `Image ${map.image_id}` : '');
+    }
+
+    function getMapRecordDraft(map) {
+      if (!map) return null;
+      if (state.mapRecordDraft?.mapId === map.id) return state.mapRecordDraft;
+      return {
+        mapId: map.id,
+        name: map.name || '',
+        version: map.version || '',
+        mapDate: map.map_date || '',
+        notes: map.notes || '',
+        imageId: map.image_id || '',
+        imageDisplay: currentMapBackingImageTitle(map)
+      };
+    }
+
+    function ensureMapRecordDraft(map) {
+      const draft = getMapRecordDraft(map);
+      state.mapRecordDraft = draft;
+      return draft;
+    }
+
+    function updateMapRecordDraft(patch) {
+      const map = selectedMap();
+      if (!map) return;
+      const draft = ensureMapRecordDraft(map);
+      state.mapRecordDraft = { ...draft, ...patch };
+    }
+
+    function clearMapRecordDraft(mapId = null) {
+      if (!state.mapRecordDraft) return;
+      if (mapId === null || state.mapRecordDraft.mapId === mapId) {
+        state.mapRecordDraft = null;
+      }
+    }
+
+    function placementTitle(placement) {
+      const bits = [];
+      if (placement.brand || placement.kit_name) bits.push([placement.brand, placement.kit_name].filter(Boolean).join(' - '));
+      if (placement.part_number) bits.push(`#${placement.part_number}`);
+      if (!bits.length && placement.location_label) bits.push(placement.location_label);
+      return bits.join(' ') || `Placement ${placement.id}`;
+    }
+
+    function placementObjectKind(placement) {
+      if (placement.part_id || placement.part_number || placement.part_label) return 'part';
+      if (placement.cast_assembly_id || placement.cast_assembly_name) return 'cast assembly';
+      if (placement.kit_id || placement.brand || placement.kit_name) return 'kit';
+      return 'object';
+    }
+
+    function setActionStatus(type, message) {
+      state.actionStatus = message ? { type, message } : null;
+      renderInspector();
+    }
+
+    function renderMapImageResults() {
+      const wrap = el('map-image-results');
+      if (!wrap) return;
+      if (!state.mapImageResults.length) {
+        wrap.innerHTML = state.mapImageSearch.length >= 2
+          ? '<div class="hint">No matching images.</div>'
+          : '<div class="hint">Search for an existing image to back this map.</div>';
+        return;
+      }
+      wrap.innerHTML = state.mapImageResults.map((item) => `
+        <div class="small-card" data-pick-map-image="${item.id}" style="cursor:pointer">
+          <div class="small-title">${escapeHtml(item.title || item.image_code || `Image ${item.id}`)}</div>
+          <div class="small-meta">${escapeHtml([item.image_type, item.source, item.image_code].filter(Boolean).join(' / '))}</div>
+        </div>
+      `).join('');
+      wrap.querySelectorAll('[data-pick-map-image]').forEach((node) => {
+        node.addEventListener('click', () => {
+          const item = state.mapImageResults.find((row) => row.id === Number(node.dataset.pickMapImage));
+          if (!item) return;
+          const imageDisplay = item.title || item.image_code || `Image ${item.id}`;
+          updateMapRecordDraft({
+            imageId: String(item.id),
+            imageDisplay
+          });
+          el('map-image-id-edit').value = item.id;
+          el('map-image-display').value = imageDisplay;
+          state.mapImageResults = [];
+          renderMapImageResults();
+        });
+      });
+    }
+
+    function renderPlacementTargetResults() {
+      const wrap = el('placement-target-results');
+      if (!wrap) return;
+      if (!state.newPlacementResults.length) {
+        wrap.innerHTML = state.newPlacementSearch.length >= 2
+          ? '<div class="hint">No matching kits or parts.</div>'
+          : '<div class="hint">Search for a kit or part to create a placement.</div>';
+        return;
+      }
+      wrap.innerHTML = state.newPlacementResults.map((item) => `
+        <div class="small-card" data-pick-placement-target="${item.entity_type}:${item.entity_id}" style="cursor:pointer">
+          <div class="small-title">${escapeHtml(item.title || `${item.entity_type} ${item.entity_id}`)}</div>
+          <div class="small-meta">${escapeHtml([item.entity_type, item.subtitle, ...(item.badges || [])].filter(Boolean).join(' / '))}</div>
+        </div>
+      `).join('');
+      wrap.querySelectorAll('[data-pick-placement-target]').forEach((node) => {
+        node.addEventListener('click', () => {
+          const [entityType, rawId] = String(node.dataset.pickPlacementTarget || '').split(':');
+          const entityId = Number(rawId);
+          const item = state.newPlacementResults.find((row) => row.entity_type === entityType && row.entity_id === entityId);
+          if (!item) return;
+          state.newPlacementTarget = item;
+          state.newPlacementSearch = item.title || '';
+          const search = el('placement-target-search');
+          if (search) search.value = state.newPlacementSearch;
+          state.newPlacementResults = [];
+          renderPlacementTargetResults();
+          renderInspector();
+        });
+      });
+    }
+
+    async function loadModels() {
+      const payload = await api('/api/models');
+      state.models = Array.isArray(payload) ? payload : (payload?.data || []);
+      if (!state.selectedModelId && state.models.length) state.selectedModelId = state.models[0].id;
+    }
+
+    async function loadMaps() {
+      const suffix = state.selectedModelId ? `?model_id=${state.selectedModelId}` : '';
+      const payload = await api(`/api/maps${suffix}`);
+      state.maps = Array.isArray(payload) ? payload : (payload?.data || []);
+      if (!state.maps.find((m) => m.id === state.selectedMapId)) {
+        state.selectedMapId = state.maps[0]?.id || null;
+      }
+    }
+
+    async function loadPlacements() {
+      const params = [];
+      if (state.selectedModelId) params.push(`model_id=${state.selectedModelId}`);
+      if (state.selectedMapId) params.push(`map_id=${state.selectedMapId}`);
+      const payload = await api(`/api/placements${params.length ? '?' + params.join('&') : ''}`);
+      const rows = Array.isArray(payload) ? payload : (payload?.data || []);
+      state.placements = rows;
+      if (!rows.find((p) => p.id === state.selectedPlacementId)) {
+        state.selectedPlacementId = rows[0]?.id || null;
+        state.selectedPositionId = rows[0]?.current_position?.id || null;
+      }
+    }
+
+    function renderFilters() {
+      el('model-filter').innerHTML = [
+        '<option value="">All models</option>',
+        ...state.models.map((model) => `<option value="${model.id}" ${model.id === state.selectedModelId ? 'selected' : ''}>${escapeHtml(model.name)}</option>`)
+      ].join('');
+      el('map-filter').innerHTML = [
+        '<option value="">All maps</option>',
+        ...state.maps.map((map) => `<option value="${map.id}" ${map.id === state.selectedMapId ? 'selected' : ''}>${escapeHtml(map.name)}</option>`)
+      ].join('');
+    }
+
+    function renderMapList() {
+      const wrap = el('map-list');
+      if (!wrap) return;
+      if (!state.maps.length) {
+        wrap.innerHTML = '<div class="hint">No maps found for this model.</div>';
+        return;
+      }
+      wrap.innerHTML = state.maps.map((map) => `
+        <div class="card ${map.id === state.selectedMapId ? 'active' : ''}" data-open-map="${map.id}">
+          <div class="card-title">${escapeHtml(map.name)}</div>
+          <div class="card-meta">${escapeHtml([map.version, map.map_date].filter(Boolean).join(' / ')) || 'No version/date'}</div>
+        </div>
+      `).join('');
+      wrap.querySelectorAll('[data-open-map]').forEach((node) => {
+        node.addEventListener('click', async () => {
+          state.selectedMapId = Number(node.dataset.openMap);
+          state.selectedPlacementId = null;
+          state.selectedPositionId = null;
+          await loadPlacements();
+          renderAll();
+          fitMap();
+        });
+      });
+    }
+
+    function filteredPlacements() {
+      const q = state.search.trim().toLowerCase();
+      if (!q) return state.placements;
+      return state.placements.filter((placement) => [placementTitle(placement), placement.location_label, placement.map_name].filter(Boolean).join(' ').toLowerCase().includes(q));
+    }
+
+    function renderPlacementList() {
+      const rows = filteredPlacements();
+      const map = selectedMap();
+      el('library-meta').textContent = `${rows.length} placements${map ? ` / ${map.name}` : ''}`;
+      const wrap = el('placement-list');
+      if (!rows.length) {
+        wrap.innerHTML = '<div class="hint">No placements found for the current filters.</div>';
+        return;
+      }
+      wrap.innerHTML = rows.map((placement) => `
+        <div class="card ${placement.id === state.selectedPlacementId ? 'active' : ''}" data-open-placement="${placement.id}">
+          <div class="card-title">${escapeHtml(placementTitle(placement))}</div>
+          <div class="card-meta">${escapeHtml([placementObjectKind(placement), placement.location_label, placement.current_position ? `current ${placement.current_position.position_type}` : 'no current position'].filter(Boolean).join(' / '))}</div>
+          <div style="display:flex;gap:8px;flex-wrap:wrap">
+            <button class="ghost" data-place-placement="${placement.id}">Place</button>
+          </div>
+        </div>
+      `).join('');
+      wrap.querySelectorAll('[data-open-placement]').forEach((node) => {
+        node.addEventListener('click', async () => {
+          state.selectedPlacementId = Number(node.dataset.openPlacement);
+          state.selectedPositionId = selectedPlacement()?.current_position?.id || null;
+          await refreshSelectedPlacement();
+        });
+      });
+      wrap.querySelectorAll('[data-place-placement]').forEach((node) => {
+        node.addEventListener('click', async (event) => {
+          event.stopPropagation();
+          state.selectedPlacementId = Number(node.dataset.placePlacement);
+          state.selectedPositionId = selectedPlacement()?.current_position?.id || null;
+          state.mode = 'point';
+          setActionStatus('ok', 'Object selected. Click the map to place a point or switch to box mode.');
+          await refreshSelectedPlacement();
+        });
+      });
+    }
+
+    function renderMapCanvas() {
+      const map = selectedMap();
+      const img = el('map-image');
+      const empty = el('map-empty');
+      const layer = el('position-layer');
+      const stage = el('map-stage');
+      if (!map) {
+        img.classList.add('hidden');
+        layer.classList.add('hidden');
+        empty.classList.remove('hidden');
+        empty.textContent = 'Choose a map from the left to inspect and correct placement positions.';
+        el('canvas-title').textContent = 'Select a map';
+        el('canvas-sub').textContent = 'Placement geometry correction lives here.';
+        return;
+      }
+      el('canvas-title').textContent = map.name || `Map ${map.id}`;
+      const src = mapImageUrl(map);
+      el('canvas-sub').textContent = [
+        map.version,
+        map.map_date,
+        map.image_id ? `image ${map.image_code || map.image_id}` : null,
+        src ? 'image available' : 'no image URL'
+      ].filter(Boolean).join(' / ');
+      if (!src) {
+        img.classList.add('hidden');
+        layer.classList.add('hidden');
+        empty.classList.remove('hidden');
+        empty.textContent = 'This map does not currently have a backing image attached.';
+        return;
+      }
+      if (img.dataset.src !== src) {
+        img.dataset.src = src;
+        img.src = src;
+      }
+      img.onload = () => {
+        state.imageSize = { width: img.naturalWidth, height: img.naturalHeight };
+        stage.style.width = `${img.naturalWidth}px`;
+        stage.style.height = `${img.naturalHeight}px`;
+        fitMap();
+        renderPositionLayer();
+      };
+      img.classList.remove('hidden');
+      layer.classList.remove('hidden');
+      empty.classList.add('hidden');
+      renderPositionLayer();
+    }
+
+    function renderPositionLayer() {
+      const layer = el('position-layer');
+      const map = selectedMap();
+      if (!map || !state.imageSize.width) {
+        layer.innerHTML = '';
+        return;
+      }
+      layer.classList.toggle('show-labels', !!state.showLabels);
+      const placements = filteredPlacements().filter((placement) => placement.current_position && placement.current_position.map_id === map.id);
+      layer.innerHTML = placements.map((placement) => {
+        const pos = placement.current_position;
+        const active = placement.id === state.selectedPlacementId ? 'active' : '';
+        const showLabel = state.showLabels ? 'show-label' : '';
+        const left = (pos.x_norm || 0) * state.imageSize.width;
+        const top = (pos.y_norm || 0) * state.imageSize.height;
+        if (pos.position_type === 'box') {
+          const width = Math.max((pos.width_norm || 0) * state.imageSize.width, 10);
+          const height = Math.max((pos.height_norm || 0) * state.imageSize.height, 10);
+          return `
+            <div class="placement box current ${active} ${showLabel}" data-open-placement="${placement.id}" style="left:${left}px;top:${top}px;width:${width}px;height:${height}px;">
+              <div class="placement-label">${escapeHtml(placementTitle(placement))}</div>
+            </div>
+          `;
+        }
+        return `
+          <div class="placement point current ${active} ${showLabel}" data-open-placement="${placement.id}" style="left:${left}px;top:${top}px;width:16px;height:16px;">
+            <div class="placement-label">${escapeHtml(placementTitle(placement))}</div>
+          </div>
+        `;
+      }).join('');
+      layer.querySelectorAll('[data-open-placement]').forEach((node) => {
+        node.addEventListener('click', async (event) => {
+          event.stopPropagation();
+          state.selectedPlacementId = Number(node.dataset.openPlacement);
+          state.selectedPositionId = selectedPlacement()?.current_position?.id || null;
+          await refreshSelectedPlacement();
+        });
+      });
+    }
+
+    function renderInspector() {
+      const wrap = el('inspector-stack');
+      const map = selectedMap();
+      const placement = selectedPlacement();
+      const position = selectedPosition();
+      const mapDraft = map ? ensureMapRecordDraft(map) : null;
+      el('inspector-meta').textContent = placement ? `Placement ${placement.id}` : (map ? `Map ${map.id}` : 'Nothing selected');
+      const statusBlock = state.actionStatus ? `<div class="status ${state.actionStatus.type}">${escapeHtml(state.actionStatus.message)}</div>` : '';
+      const createPlacementSection = map ? `
+        <div class="section">
+          <div class="section-head"><span>Create placement</span></div>
+          <div class="section-body">
+            <input class="field" id="placement-target-search" value="${escapeHtml(state.newPlacementSearch || '')}" placeholder="Search kit or part">
+            <div class="small-list picker-results" id="placement-target-results"></div>
+            <input class="field" id="placement-location-edit" value="${escapeHtml(state.newPlacementLocation || '')}" placeholder="Location label (optional)">
+            <div class="hint">${state.newPlacementTarget
+              ? `Selected: ${escapeHtml(state.newPlacementTarget.title || '')}`
+              : 'Pick a kit or part, then create a placement on this map.'}</div>
+            ${state.adminLocal || state.adminKey ? '' : '<div class="hint">Creating placements requires Local admin or an admin key.</div>'}
+            <div class="split">
+              <button class="primary" id="create-placement">Create placement</button>
+              <button class="ghost" id="clear-placement-target">Clear selection</button>
+            </div>
+          </div>
+        </div>
+      ` : '';
+      const mapRecordSection = map ? `
+        <div class="section">
+          <div class="section-head"><span>Map record</span></div>
+          <div class="section-body">
+            <input class="field" id="map-name-edit" value="${escapeHtml(mapDraft?.name || '')}" placeholder="Map name">
+            <div class="split">
+              <input class="field" id="map-version-edit" value="${escapeHtml(mapDraft?.version || '')}" placeholder="Version">
+              <input class="field" id="map-date-edit" value="${escapeHtml(mapDraft?.mapDate || '')}" placeholder="Date">
+            </div>
+            <input type="hidden" id="map-image-id-edit" value="${escapeHtml(mapDraft?.imageId || '')}">
+            <input class="field" id="map-image-display" value="${escapeHtml(mapDraft?.imageDisplay || '')}" placeholder="No backing image selected" readonly>
+            <input class="field" id="map-image-search" value="${escapeHtml(state.mapImageSearch || '')}" placeholder="Search backing image by title, code, source">
+            <div class="small-list picker-results" id="map-image-results"></div>
+            <textarea id="map-notes-edit" placeholder="Map notes">${escapeHtml(mapDraft?.notes || '')}</textarea>
+            ${state.adminLocal || state.adminKey ? '' : '<div class="hint">Saving map changes requires Local admin or an admin key.</div>'}
+            <div class="split">
+              <button class="primary" id="save-map-record">Save map</button>
+              <button class="ghost" id="clear-map-image">Clear backing image</button>
+            </div>
+          </div>
+        </div>
+      ` : '';
+      if (!map) {
+        wrap.innerHTML = `${statusBlock}<div class="hint">Select a map to begin.</div>`;
+        return;
+      }
+      if (!placement) {
+        wrap.innerHTML = `
+          ${statusBlock}
+          ${createPlacementSection}
+          <div class="section">
+            <div class="section-head"><span>Map</span></div>
+            <div class="section-body kv">
+              <div class="kv-row"><span>Name</span><span>${escapeHtml(map.name || `Map ${map.id}`)}</span></div>
+              <div class="kv-row"><span>Version</span><span>${escapeHtml(map.version || '-')}</span></div>
+              <div class="kv-row"><span>Backing image</span><span>${escapeHtml(map.image_title || map.image_code || (map.image_id ? `Image ${map.image_id}` : '-'))}</span></div>
+              <div class="kv-row"><span>Image URL</span><span>${escapeHtml(mapImageUrl(map) || '-')}</span></div>
+              <div class="kv-row"><span>Notes</span><span>${escapeHtml(map.notes || '-')}</span></div>
+            </div>
+          </div>
+          ${mapRecordSection}
+          <div class="hint">Select a placement from the map or from the list to inspect and correct geometry.</div>
+        `;
+        renderPlacementTargetResults();
+        renderMapImageResults();
+        bindMapInspector(map);
+        return;
+      }
+      const positions = placement.positions || [];
+      wrap.innerHTML = `
+        ${statusBlock}
+        ${createPlacementSection}
+        ${mapRecordSection}
+        <div class="section">
+          <div class="section-head"><span>Placement</span></div>
+          <div class="section-body kv">
+            <div class="kv-row"><span>Title</span><span>${escapeHtml(placementTitle(placement))}</span></div>
+            <div class="kv-row"><span>Map</span><span>${escapeHtml(placement.map_name || '-')}</span></div>
+            <div class="kv-row"><span>Location</span><span>${escapeHtml(placement.location_label || '-')}</span></div>
+            <div class="kv-row"><span>Confidence</span><span>${escapeHtml(placement.confidence || '-')}</span></div>
+            <div class="split" style="margin-top:10px">
+              <button class="ghost" id="delete-placement">Delete placement</button>
+            </div>
+          </div>
+        </div>
+        <div class="section">
+          <div class="section-head"><span>Current position</span></div>
+          <div class="section-body kv">
+            <div class="kv-row"><span>Type</span><span>${escapeHtml(position?.position_type || '-')}</span></div>
+            <div class="kv-row"><span>x / y</span><span>${position ? `${Number(position.x_norm || 0).toFixed(3)} / ${Number(position.y_norm || 0).toFixed(3)}` : '-'}</span></div>
+            <div class="kv-row"><span>w / h</span><span>${position ? `${Number(position.width_norm || 0).toFixed(3)} / ${Number(position.height_norm || 0).toFixed(3)}` : '-'}</span></div>
+            <div class="kv-row"><span>Source</span><span>${escapeHtml(position?.source_kind || '-')}</span></div>
+          </div>
+        </div>
+        <div class="section">
+          <div class="section-head"><span>Positions</span></div>
+          <div class="section-body small-list">
+            ${positions.length ? positions.map((item) => `
+              <div class="small-card ${item.id === state.selectedPositionId || (!state.selectedPositionId && item.is_current) ? 'active' : ''}" data-open-position="${item.id}">
+                <div class="small-title">${escapeHtml([item.position_type, item.is_current ? 'current' : null, item.source_kind].filter(Boolean).join(' / '))}</div>
+                <div class="small-meta">${escapeHtml([`x ${Number(item.x_norm || 0).toFixed(3)}`, `y ${Number(item.y_norm || 0).toFixed(3)}`, item.confidence, item.status].filter(Boolean).join(' / '))}</div>
+                <div style="display:flex;gap:8px;flex-wrap:wrap">
+                  ${!item.is_current ? `<button class="ghost" data-make-current="${item.id}">Make current</button>` : ''}
+                  <button class="ghost" data-delete-position="${item.id}">Delete</button>
+                </div>
+              </div>
+            `).join('') : '<div class="hint">No position records yet. Use Add point or Add box on the map.</div>'}
+          </div>
+        </div>
+      `;
+      renderPlacementTargetResults();
+      renderMapImageResults();
+      wrap.querySelectorAll('[data-open-position]').forEach((node) => {
+        node.addEventListener('click', () => {
+          state.selectedPositionId = Number(node.dataset.openPosition);
+          renderInspector();
+        });
+      });
+      wrap.querySelectorAll('[data-make-current]').forEach((node) => {
+        node.addEventListener('click', async (event) => {
+          event.stopPropagation();
+          try {
+            await api(`/api/placement_positions/${Number(node.dataset.makeCurrent)}`, {
+              method: 'PUT',
+              headers: authHeaders(),
+              body: JSON.stringify({ is_current: 1 })
+            });
+            setActionStatus('ok', 'Position marked current.');
+            await refreshSelectedPlacement();
+          } catch (error) {
+            setActionStatus('error', error.message || 'Failed to update current position.');
+          }
+        });
+      });
+      wrap.querySelectorAll('[data-delete-position]').forEach((node) => {
+        node.addEventListener('click', async (event) => {
+          event.stopPropagation();
+          if (!confirm('Delete this position record?')) return;
+          try {
+            await api(`/api/placement_positions/${Number(node.dataset.deletePosition)}`, {
+              method: 'DELETE',
+              headers: authHeaders()
+            });
+            setActionStatus('ok', 'Position deleted.');
+            await refreshSelectedPlacement();
+          } catch (error) {
+            setActionStatus('error', error.message || 'Failed to delete position.');
+          }
+        });
+      });
+      el('delete-placement')?.addEventListener('click', async () => {
+        if (!state.adminLocal && !state.adminKey) {
+          setActionStatus('error', 'Deleting placements requires Local admin or an admin key.');
+          return;
+        }
+        if (!confirm('Delete this placement record? This removes the object/placement entry itself.')) return;
+        try {
+          await api(`/api/placements/${placement.id}`, {
+            method: 'DELETE',
+            headers: authHeaders()
+          });
+          state.selectedPlacementId = null;
+          state.selectedPositionId = null;
+          setActionStatus('ok', 'Placement deleted.');
+          await loadPlacements();
+          renderAll();
+          renderPositionLayer();
+        } catch (error) {
+          setActionStatus('error', error.message || 'Failed to delete placement.');
+        }
+      });
+      bindMapInspector(map);
+    }
+
+    function bindMapInspector(map) {
+      el('placement-location-edit')?.addEventListener('input', (event) => {
+        state.newPlacementLocation = event.target.value || '';
+      });
+      el('placement-target-search')?.addEventListener('input', async (event) => {
+        state.newPlacementSearch = event.target.value.trim();
+        const token = ++state.newPlacementSearchToken;
+        if (state.newPlacementSearch.length < 2) {
+          state.newPlacementResults = [];
+          renderPlacementTargetResults();
+          return;
+        }
+        try {
+          const payload = await api(`/api/entity_search?q=${encodeURIComponent(state.newPlacementSearch)}&types=part,kit`);
+          if (token !== state.newPlacementSearchToken) return;
+          const rows = Array.isArray(payload) ? payload : (payload?.data || []);
+          state.newPlacementResults = rows.slice(0, 10);
+          renderPlacementTargetResults();
+        } catch (error) {
+          state.newPlacementResults = [];
+          renderPlacementTargetResults();
+          setActionStatus('error', error.message || 'Failed to search kits and parts.');
+        }
+      });
+      el('clear-placement-target')?.addEventListener('click', () => {
+        state.newPlacementTarget = null;
+        state.newPlacementSearch = '';
+        state.newPlacementResults = [];
+        state.newPlacementLocation = '';
+        renderInspector();
+      });
+      el('create-placement')?.addEventListener('click', async () => {
+        if (!state.adminLocal && !state.adminKey) {
+          setActionStatus('error', 'Creating placements requires Local admin or an admin key.');
+          return;
+        }
+        const modelId = map?.model_id || state.selectedModelId;
+        if (!modelId || !map) {
+          setActionStatus('error', 'Select a model and map first.');
+          return;
+        }
+        const target = state.newPlacementTarget;
+        if (!target || !target.entity_type || !target.entity_id) {
+          setActionStatus('error', 'Choose a kit or part first.');
+          return;
+        }
+        const payload = {
+          model_id: modelId,
+          map_id: map.id,
+          location_label: state.newPlacementLocation.trim() || null,
+          confidence: 'probable'
+        };
+        if (target.entity_type === 'part') payload.part_id = target.entity_id;
+        else if (target.entity_type === 'kit') payload.kit_id = target.entity_id;
+        else {
+          setActionStatus('error', 'Only kit or part targets are supported here for now.');
+          return;
+        }
+        try {
+          setActionStatus('pending', 'Creating placement...');
+          const created = await api('/api/placements', {
+            method: 'POST',
+            headers: authHeaders(),
+            body: JSON.stringify(payload)
+          });
+          await loadPlacements();
+          state.selectedPlacementId = created.id || created?.placement?.id || state.selectedPlacementId;
+          state.selectedPositionId = null;
+          state.newPlacementTarget = null;
+          state.newPlacementSearch = '';
+          state.newPlacementResults = [];
+          state.newPlacementLocation = '';
+          setActionStatus('ok', 'Placement created. You can place it on the map now.');
+          await refreshSelectedPlacement();
+        } catch (error) {
+          setActionStatus('error', error.message || 'Failed to create placement.');
+        }
+      });
+      el('map-name-edit')?.addEventListener('input', (event) => {
+        updateMapRecordDraft({ name: event.target.value });
+      });
+      el('map-version-edit')?.addEventListener('input', (event) => {
+        updateMapRecordDraft({ version: event.target.value });
+      });
+      el('map-date-edit')?.addEventListener('input', (event) => {
+        updateMapRecordDraft({ mapDate: event.target.value });
+      });
+      el('map-notes-edit')?.addEventListener('input', (event) => {
+        updateMapRecordDraft({ notes: event.target.value });
+      });
+      el('map-image-search')?.addEventListener('input', async (event) => {
+        state.mapImageSearch = event.target.value.trim();
+        const token = ++state.mapImageSearchToken;
+        if (state.mapImageSearch.length < 2) {
+          state.mapImageResults = [];
+          renderMapImageResults();
+          return;
+        }
+        const payload = await api(`/api/images?q=${encodeURIComponent(state.mapImageSearch)}`);
+        if (token !== state.mapImageSearchToken) return;
+        const rows = Array.isArray(payload) ? payload : (payload?.data || []);
+        state.mapImageResults = rows.slice(0, 8);
+        renderMapImageResults();
+      });
+      el('clear-map-image')?.addEventListener('click', () => {
+        updateMapRecordDraft({ imageId: '', imageDisplay: '' });
+        el('map-image-id-edit').value = '';
+        el('map-image-display').value = '';
+        state.mapImageResults = [];
+        state.mapImageSearch = '';
+        const search = el('map-image-search');
+        if (search) search.value = '';
+        renderMapImageResults();
+      });
+      el('save-map-record')?.addEventListener('click', async () => {
+        const draft = ensureMapRecordDraft(map);
+        const payload = {
+          model_id: map.model_id,
+          name: String(draft.name || '').trim() || map.name,
+          version: String(draft.version || '').trim() || null,
+          image_id: String(draft.imageId || '').trim() || null,
+          url: map.url || null,
+          map_date: String(draft.mapDate || '').trim() || null,
+          notes: String(draft.notes || '').trim() || null,
+          attributed_to: map.attributed_to || null
+        };
+        try {
+          setActionStatus('pending', 'Saving map record...');
+          await api(`/api/maps/${map.id}`, {
+            method: 'PUT',
+            headers: authHeaders(),
+            body: JSON.stringify(payload)
+          });
+          clearMapRecordDraft(map.id);
+          setActionStatus('ok', 'Map record saved.');
+          await loadMaps();
+          renderAll();
+          fitMap();
+        } catch (error) {
+          setActionStatus('error', error.message || 'Failed to save map record.');
+        }
+        return;
+        setActionStatus('pending', 'Saving map record…');
+        await api(`/api/maps/${map.id}`, {
+          method: 'PUT',
+          headers: authHeaders(),
+          body: JSON.stringify({
+            model_id: map.model_id,
+            name: el('map-name-edit').value.trim() || map.name,
+            version: el('map-version-edit').value.trim() || null,
+            image_id: el('map-image-id-edit').value.trim() || null,
+            url: map.url || null,
+            map_date: el('map-date-edit').value.trim() || null,
+            notes: el('map-notes-edit').value.trim() || null,
+            attributed_to: map.attributed_to || null
+          })
+        });
+        setActionStatus('ok', 'Map record saved.');
+        await loadMaps();
+        renderAll();
+        fitMap();
+      });
+    }
+
+    async function refreshSelectedPlacement() {
+      if (!state.selectedPlacementId) {
+        await loadPlacements();
+        renderAll();
+        return;
+      }
+      const payload = await api(`/api/placements/${state.selectedPlacementId}`);
+      const detail = payload.placement || payload;
+      detail.positions = payload.positions || [];
+      detail.current_position = payload.current_position || null;
+      const idx = state.placements.findIndex((row) => row.id === state.selectedPlacementId);
+      if (idx !== -1) state.placements[idx] = { ...state.placements[idx], ...detail };
+      state.selectedPositionId = detail.current_position?.id || detail.positions?.[0]?.id || null;
+      renderAll();
+    }
+
+    function renderAll() {
+      renderFilters();
+      renderMapList();
+      renderPlacementList();
+      renderMapCanvas();
+      renderInspector();
+      updateToolButtons();
+    }
+
+    function updateToolButtons() {
+      document.querySelectorAll('[data-tool]').forEach((node) => {
+        node.classList.toggle('primary', node.dataset.tool === state.mode);
+      });
+      const labelsButton = el('toggle-labels');
+      if (labelsButton) {
+        labelsButton.classList.toggle('primary', !!state.showLabels);
+        labelsButton.textContent = state.showLabels ? 'Labels on' : 'Labels off';
+      }
+    }
+
+    function fitMap() {
+      const img = el('map-image');
+      const frame = el('canvas-scroll');
+      if (!img || !img.naturalWidth || !frame.clientWidth) return;
+      const scale = Math.min(
+        frame.clientWidth / img.naturalWidth,
+        frame.clientHeight / img.naturalHeight
+      );
+      state.mapImageScale = Math.max(0.1, Math.min(scale || 1, 4));
+      applyMapScale();
+    }
+
+    function applyMapScale() {
+      const stage = el('map-stage');
+      if (!stage) return;
+      stage.style.transform = `scale(${state.mapImageScale})`;
+      stage.style.setProperty('--map-scale', String(state.mapImageScale || 1));
+      el('zoom-label').textContent = `Scale ${Math.round(state.mapImageScale * 100)}%`;
+    }
+
+    function pointerToNorm(event) {
+      const img = el('map-image');
+      const stage = el('map-stage');
+      const rect = (img && !img.classList.contains('hidden') && img.getBoundingClientRect().width && img.getBoundingClientRect().height)
+        ? img.getBoundingClientRect()
+        : stage.getBoundingClientRect();
+      const x = (event.clientX - rect.left) / rect.width;
+      const y = (event.clientY - rect.top) / rect.height;
+      return {
+        x: Math.max(0, Math.min(1, x)),
+        y: Math.max(0, Math.min(1, y))
+      };
+    }
+
+    async function createPositionFromPoint(point) {
+      const placement = selectedPlacement();
+      const map = selectedMap();
+      if (!placement || !map) {
+        setActionStatus('error', 'Select a placement first.');
+        return;
+      }
+      setActionStatus('pending', 'Saving manual point position…');
+      await api('/api/placement_positions', {
+        method: 'POST',
+        headers: authHeaders(),
+        body: JSON.stringify({
+          placement_id: placement.id,
+          map_id: map.id,
+          position_type: 'point',
+          x_norm: point.x,
+          y_norm: point.y,
+          source_kind: 'manual',
+          confidence: placement.confidence || 'probable',
+          supersedes_id: placement.current_position?.id || null,
+          is_current: 1
+        })
+      });
+      setActionStatus('ok', 'Manual point position saved.');
+      await refreshSelectedPlacement();
+      renderPositionLayer();
+    }
+
+    async function createPositionFromBox(start, end) {
+      const placement = selectedPlacement();
+      const map = selectedMap();
+      if (!placement || !map) {
+        setActionStatus('error', 'Select a placement first.');
+        return;
+      }
+      const x = Math.min(start.x, end.x);
+      const y = Math.min(start.y, end.y);
+      const width = Math.abs(end.x - start.x);
+      const height = Math.abs(end.y - start.y);
+      setActionStatus('pending', 'Saving manual box position…');
+      await api('/api/placement_positions', {
+        method: 'POST',
+        headers: authHeaders(),
+        body: JSON.stringify({
+          placement_id: placement.id,
+          map_id: map.id,
+          position_type: 'box',
+          x_norm: x,
+          y_norm: y,
+          width_norm: width,
+          height_norm: height,
+          source_kind: 'manual',
+          confidence: placement.confidence || 'probable',
+          supersedes_id: placement.current_position?.id || null,
+          is_current: 1
+        })
+      });
+      setActionStatus('ok', 'Manual box position saved.');
+      await refreshSelectedPlacement();
+      renderPositionLayer();
+    }
+
+    function bindTopLevel() {
+      el('api-base').value = state.apiBase;
+      el('admin-local').checked = state.adminLocal;
+      el('api-save').addEventListener('click', () => {
+        state.apiBase = el('api-base').value.trim() || 'http://localhost:5000';
+        localStorage.setItem('mapWorkbenchApiBase', state.apiBase);
+        bootstrap().catch(handleError);
+      });
+      el('admin-key').addEventListener('click', () => {
+        const value = prompt('Admin API key', state.adminKey || '');
+        if (value !== null) {
+          state.adminKey = value.trim();
+          localStorage.setItem('mapWorkbenchAdminKey', state.adminKey);
+        }
+      });
+      el('admin-local').addEventListener('change', (event) => {
+        state.adminLocal = event.target.checked;
+        localStorage.setItem('mapWorkbenchAdminLocal', state.adminLocal ? '1' : '0');
+      });
+      el('model-filter').addEventListener('change', async (event) => {
+        state.selectedModelId = Number(event.target.value) || null;
+        state.selectedMapId = null;
+        state.selectedPlacementId = null;
+        await loadMaps();
+        await loadPlacements();
+        renderAll();
+        fitMap();
+      });
+      el('map-filter').addEventListener('change', async (event) => {
+        state.selectedMapId = Number(event.target.value) || null;
+        state.selectedPlacementId = null;
+        await loadPlacements();
+        renderAll();
+        fitMap();
+      });
+      el('placement-search').addEventListener('input', (event) => {
+        state.search = event.target.value || '';
+        renderPlacementList();
+        renderPositionLayer();
+      });
+      document.querySelectorAll('[data-tool]').forEach((node) => {
+        node.addEventListener('click', () => {
+          state.mode = node.dataset.tool;
+          updateToolButtons();
+        });
+      });
+      el('zoom-in').addEventListener('click', () => {
+        state.mapImageScale = Math.min(4, state.mapImageScale + 0.1);
+        applyMapScale();
+      });
+      el('zoom-out').addEventListener('click', () => {
+        state.mapImageScale = Math.max(0.1, state.mapImageScale - 0.1);
+        applyMapScale();
+      });
+      el('zoom-fit').addEventListener('click', fitMap);
+      el('toggle-labels').addEventListener('click', () => {
+        state.showLabels = !state.showLabels;
+        localStorage.setItem('mapWorkbenchShowLabels', state.showLabels ? '1' : '0');
+        renderPositionLayer();
+        updateToolButtons();
+      });
+
+      const frame = el('canvas-scroll');
+      const draftBox = el('draft-box');
+      let dragStart = null;
+      frame.addEventListener('click', async (event) => {
+        if (event.target !== frame && event.target !== el('map-stage') && event.target !== el('position-layer') && event.target !== el('map-image')) return;
+        if (state.mode !== 'point') return;
+        await createPositionFromPoint(pointerToNorm(event));
+      });
+      frame.addEventListener('mousedown', (event) => {
+        if (state.mode !== 'box') return;
+        dragStart = pointerToNorm(event);
+        draftBox.classList.remove('hidden');
+      });
+      frame.addEventListener('mousemove', (event) => {
+        if (!dragStart || state.mode !== 'box') return;
+        const current = pointerToNorm(event);
+        const x = Math.min(dragStart.x, current.x) * state.imageSize.width;
+        const y = Math.min(dragStart.y, current.y) * state.imageSize.height;
+        const w = Math.abs(current.x - dragStart.x) * state.imageSize.width;
+        const h = Math.abs(current.y - dragStart.y) * state.imageSize.height;
+        draftBox.style.left = `${x}px`;
+        draftBox.style.top = `${y}px`;
+        draftBox.style.width = `${Math.max(w, 6)}px`;
+        draftBox.style.height = `${Math.max(h, 6)}px`;
+      });
+      window.addEventListener('mouseup', async (event) => {
+        if (!dragStart || state.mode !== 'box') return;
+        const end = pointerToNorm(event);
+        draftBox.classList.add('hidden');
+        const start = dragStart;
+        dragStart = null;
+        if (Math.abs(end.x - start.x) < 0.002 || Math.abs(end.y - start.y) < 0.002) return;
+        await createPositionFromBox(start, end);
+      });
+      window.addEventListener('resize', () => {
+        fitMap();
+      });
+    }
+
+    async function bootstrap() {
+      await loadModels();
+      await loadMaps();
+      await loadPlacements();
+      if (state.selectedPlacementId) {
+        await refreshSelectedPlacement();
+        return;
+      }
+      renderAll();
+      fitMap();
+    }
+
+    function handleError(error) {
+      console.error(error);
+      setActionStatus('error', error.message || 'Something went wrong.');
+    }
+
+    bindTopLevel();
+    bootstrap().catch(handleError);
+  </script>
+</body>
+</html>

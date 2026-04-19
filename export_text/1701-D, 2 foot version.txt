@@ -1,0 +1,136 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : 1701-D, 2 foot version
+URL    : https://www.therpf.com/forums/threads/1701-d-2-foot-version.277282/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #4251117)
+Author    : DonS
+Date      : May 22, 2017 at 9:41 AM
+Reactions : Like — Jediscum, Lee S, ProfKSergeev
+────────────────────────────────────────────────────────────────────────
+
+Heya,
+
+Been working on this CAD model for awhile and here's the last test print of a section of the upper saucer:
+
+[IMAGE: 404542-39fde72066e030e123ace89353850c7d.jpg]
+
+[IMAGE: 404541-3f2234fecbd372d03cd1e7825ae251c8.jpg]
+
+This is the straight print with no processing/cleanup other than a shot of Tamiya primer. There a few minor screw-ups-with the print but nothing a very small amount of work won't fix:  The model will be 1/1000, about 26" long by 19" wide.  Although this will be printed at 2 foot size, it has the detailing of the ILM 6 footer.
+
+Pretty satisfied with this, so the saucer top will be sent to the printer sometime next month.
+
+Thanks for looking!
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #4251580)
+Author    : capbadger
+Date      : May 23, 2017 at 2:50 AM
+────────────────────────────────────────────────────────────────────────
+
+Looking great, really crisp, especially the detail on the phaser array. The saucer will be quite a size when fully printed!
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #4252015)
+Author    : DonS
+Date      : May 23, 2017 at 4:52 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks!  The saucer will be as wide as the 1/1400 model is long...holding the test piece in my hand brings home how big the full saucer will be.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #4252638)
+Author    : capbadger
+Date      : May 24, 2017 at 4:24 PM
+────────────────────────────────────────────────────────────────────────
+
+I remember building the 1/1400 AMT version and attached the saucer last. The model didn't seem that big, but the moment that saucer goes on it becomes very big, I recall Gary Hutzel saying the same of the 6 foot miniature's oval saucer. The 1/1000 will really be a beast!
+
+It will great to see this next to the 1/1000 AMT Excelsior, just like the shot with the D and the Hood in Encounter at Farpoint.
+
+Saw on your site that you've done a lot of Lightwave work, are you modeling this in Lightwave or are using more specialized CAD software?
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #4252662)
+Author    : DonS
+Date      : May 24, 2017 at 4:58 PM
+Reactions : Like — Lee S
+────────────────────────────────────────────────────────────────────────
+
+All LightWave...for all I know, the process might be easier with a specialized CAD package, but I know LW pretty well and just assume working with what I know is faster than learning new software.  I'd make myself learn if there was something I couldn't get with my current setup, but LW has always delivered for me.
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #4253087)
+Author    : MangyDog
+Date      : May 25, 2017 at 11:20 AM
+────────────────────────────────────────────────────────────────────────
+
+Those prints look really really clean...
+
+What printer did you use? Doesnt look like prusa type... no grain 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+And yeah stick with LW Im a Max person trying to learn maya and I know a bit of autocad... Trust me stick with the 3D modeller you know 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ Autocad is horrific. And Maya is a pain to learn. But Im on a mac at the moment so no Max.
+
+I was planing on doing something just like this. But maybe 3 foot....
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #4253315)
+Author    : DonS
+Date      : May 25, 2017 at 5:38 PM
+────────────────────────────────────────────────────────────────────────
+
+They're done on a resin printer at i.materialise.  Finding a high-rez printer that can do large prints has opened up a lot of possibilities for me.  They advertise 50 micron resolution but do such a good job setting up that things I've gotten from them look as good as 16 micron prints from others.  Never had anything done on an FDM printer as I'm not sure the sesolution would be sufficient...too bad since I could buy a good quality FDM printer with what this will cost to have printed in resin.  This model will cost in the neighborhood of $4k to print...if I could find a printer for that price that would handle parts this big, work in the resolution I need, but not require months of fiddling and adjusting in order to produce large pieces of similar qulaity to what's shown in the above images, I'd seriously considering buying it.
+
+As you can see in the pics, this part has no grain or layering worth speaking of.  There were a few glitches and some details were left out but problems were expected...i.materialise advertises minimum details of .5mm for this material, but I made this model with most fine details (window depth, phaser emitter depth, grid lines) at .2mm, assuming they allowed a margin of error that could be pushed.  For the most part, it worked out.
+
+Regarding modeling: yeah, I'll stick with what I know, but sometimes LW brings out my temper...while finishing up the saucer bottom this morning, cleaning up the last few mesh errors seemed to be creating new errors for me to fix.  At one point I was literally shouting at the top of my lungs and smashing my mouse on the desktop...must've drove my blood pressure sky high as I was seeing bright flare spots in my field of vision.  Thank God I use a near-indestructible IBM model M keyboard as that has been mercilessly pounded at times.  Perhaps true CAD software would work better for this application but such hysterical-fit-causing incidents are rare.
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #4254057)
+Author    : MangyDog
+Date      : May 27, 2017 at 4:15 AM
+────────────────────────────────────────────────────────────────────────
+
+LOL, I must admit in the short time I used LW i wasnt a huge fan of it. But the price was great... and yeah it was prone to mesh errors... Even Voyager, when they had some press shots or something you could see warped normals around some windows in close ups...
+
+So if a production company struggles with them i think its ok for you to as well 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Im a Max person and i got very used to cleaning up meshes as i worked with them... Trying to learn maya now. Seems to be more forgiving with boolean tools...
+
+As for 4k to print this D: Thats a lot... I must admit I would personally try to find cheaper options. Even FDM to get the bulk of the work out and then clean up by hand later... Though the 3 footer I want to build I'm going to scratch build... Might use some 3D printed parts but the main hull deffo scratch build.
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #4256577)
+Author    : DonS
+Date      : May 31, 2017 at 7:15 PM
+Reactions : Like — Lee S
+────────────────────────────────────────────────────────────────────────
+
+For me, it's a question of time vs. money...when I had the pieces printed on my Reliant project, several months were spent cleaning them up to make them suitable as masters.  The test pieces I've gotten back for this project would need little post-processing.  IMHO, saving the time is worth the cost.  That said, I've been looking into 3D printers again and am surprised how far FDM has come...seen one advertised that would suit my needs; large enough prints at 50 micron layering.  But I can't find pics of any actual large pieces printed at that rez to judge quality.  More research....
+
+Finished the saucer section, and am nearly done with the warp engines.  Basic shape of the engineering hull is done and will start detailing soon.
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #4256645)
+Author    : Lee S
+Date      : May 31, 2017 at 8:52 PM
+────────────────────────────────────────────────────────────────────────
+
+Talk to Jim Crevling, I'm sure he can help with comparing printers!
+
+DonS said:
+
+			For me, it's a question of time vs. money...when I had the pieces printed on my Reliant project, several months were spent cleaning them up to make them suitable as masters.  The test pieces I've gotten back for this project would need little post-processing.  IMHO, saving the time is worth the cost.  That said, I've been looking into 3D printers again and am surprised how far FDM has come...seen one advertised that would suit my needs; large enough prints at 50 micron layering.  But I can't find pics of any actual large pieces printed at that rez to judge quality.  More research....
+
+Finished the saucer section, and am nearly done with the warp engines.  Basic shape of the engineering hull is done and will start detailing soon.
+		
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #4256685)
+Author    : DonS
+Date      : May 31, 2017 at 9:48 PM
+Reactions : Like — kirkman
+────────────────────────────────────────────────────────────────────────
+
+Thanks, Lee; I know of Jim's work...I'll look him up!
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 11

@@ -1,0 +1,62 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Tantive IV/Rebel Blockade Runner scale table
+URL    : https://www.therpf.com/forums/threads/tantive-iv-rebel-blockade-runner-scale-table.280222/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #4295056)
+Author    : ajmadison
+Date      : Aug 8, 2017 at 7:20 PM
+────────────────────────────────────────────────────────────────────────
+
+Not sure how much interest there is in this information. I'm obsessed with the Tantive IV, but not so obsessed that I want to build a six foot studio scale version.
+
+But after doing some math, and having access to some expensive reference material, I came up with the following table. 
+
+Note: Just because its listed, doesn't mean the producer is still making kits.
+
+Note 2: Donor kit reference is the Tiger/Jagdtiger Engine Deck part
+
+Note 3: Scale column is adjusted to a typical model kit scale. Similarly Scale to Prototype has been adjusted to whole number. The actual numbers are not these numbers, and if you account for 2 sig. fig. accuracy, the numbers appear even more random.
+
+"Real" World Dimensions
+
+126.88m 150m 
+
+Scale  | Prototype length | Scale      | Scale to Prototype | Donor Kit Reference | Producer
+
+Studio |  194cm |              1/65 1/77 | 1:1 |                         1:35 Tank Kits            | ILM
+
+73%    |   41"  |                  HO          | 1:1.36 |                    1:48 Tank Kits            | C. Kelly
+
+49%    | ~95cm |               1/144 |       1:2 |                         1:72 Tank Kits |           Randy Cooper
+
+24%    | ~46cm |                1/350 |      1:4 |                         1:144 Tank Kits |         Blue Moon
+
+Why is this information useful? Admittedly, Mike Salzo is helping to solve access to parts that are not available anywhere, namely the Sea Lab parts. And some of the smaller scale Tantive IV kits had access to some scaled model kits that were approximately 1/2 or 1/4 scale to the original ILM miniature donor parts. For example, there are 1/144 tank kits that provide detail parts for the 1/350 RBR. There are also 1/144 rail car gun kits, aka "Leopolds" that could be applied to a half studio scale Tantive IV model. But IIRC there aren't any 1/48 or smaller semi truck kits, so those details would need to be scratch built. But the advent of 3D printing makes it possible to model some/many of these original kit parts as a CAD mesh, and print them in the exact ratio needed to build or super detail your replica.
+
+Is there any interest in gaining access to some/all of the parts? A contributor to RPF created meshes for all of the Sea Lab parts, which I have downloaded. Scaling those parts unmodified to 1/4 size and printing them does not necessarily result in valid parts. The Sea Lab railing parts would need some adjustment to make them printable at 1/4 size, but having the original meshes simplifies developing a smaller scale copy. I can explain this in more detail, if requested.
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #4295087)
+Author    : tsenecal
+Date      : Aug 8, 2017 at 8:20 PM
+────────────────────────────────────────────────────────────────────────
+
+ajmadison said:
+
+			But IIRC there aren't any 1/48 or smaller semi truck kits, so those details would need to be scratch built.
+		
+
+Click to expand...
+
+not sure what specific truck parts are needed, but AMT/ERTL/MATCHBOX did make a series of 1/43 scale plastic model tractor-trailer kits in the 70's and 80's -- peterbilt, kenworth, freightliner etc.  they can be found quite easily on ebay.  perhaps they would be close enough.
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #4296273)
+Author    : ajmadison
+Date      : Aug 10, 2017 at 3:37 PM
+────────────────────────────────────────────────────────────────────────
+
+The semi-truck parts are the panels on the 3 engines on the port side of the Tantive IV. They're on the rectangular engine supports just forward of the rounded engine nacelle/turbine section. There's not much to them. Just a couple of rectangular panels with a row of rivets on the perimeter. I believe they compose the end panels of the sleeper section aft of the truck's cab. Scratch-building or modeling them in CAD software is not that big a deal.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 3

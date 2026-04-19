@@ -1,0 +1,193 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Suggestions for a metal armature for a 1/350 1701-A?
+URL    : https://www.therpf.com/forums/threads/suggestions-for-a-metal-armature-for-a-1-350-1701-a.361448/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #5603262)
+Author    : hoggworks
+Date      : Feb 2, 2025 at 10:59 AM
+────────────────────────────────────────────────────────────────────────
+
+Hey all!
+
+Can anyone point me to suggestions/specs for a way to reinforce the Polar Lights 1/350 scale 1701-A? I’m assuming that using wood wouldn’t be the best idea, and I’ve primarily seen brass as a metal to prevent sag (for the nacelles and saucer section, primarily), but is that the best metal? Is aluminum a good/better idea? Something else? The model comes with three support points, one on the secondary hull and two in the saucer, but I want to have it supported by one rod through the secondary hull, with the armature extending as necessary on the inside of the model. 
+
+The kit isn’t super heavy, but I’ll be lighting it, so there will be a bit of extra weight there. Can anyone suggest what the minimum thickness that would make sense for a brass/aluminum/some other metal armature? It’s not crazy heavy, but it sure is relatively top-heavy, as the majority of the weight in the kit is in the saucer. Any directions a person could point me in would be much appreciated.
+
+Thanks!
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #5603279)
+Author    : division 6
+Date      : Feb 2, 2025 at 12:16 PM
+Reactions : Like — hoggworks
+────────────────────────────────────────────────────────────────────────
+
+I forgot who was making them but welded steel supports where available at one point.
+
+I was planning to use aluminum or steel and probably bond the parts together with 2 part steel plumbers putty. 
+
+Or I may just rivet them.
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #5603300)
+Author    : hoggworks
+Date      : Feb 2, 2025 at 1:40 PM
+────────────────────────────────────────────────────────────────────────
+
+division 6 said:
+
+			I forgot who was making them but welded steel supports where available at one point.
+
+I was planning to use aluminum or steel and probably bond the parts together with 2 part steel plumbers putty.
+
+Or I may just rivet them.
+		
+
+Click to expand...
+
+Any specific functional reason to use aluminum or steel? I see brass referenced more often as a metal to use, but I don’t know why it would be used over something else.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #5603332)
+Author    : chazzychaz
+Date      : Feb 2, 2025 at 4:02 PM
+Reactions : Like — division 6, hoggworks, Captain Dunsel
+────────────────────────────────────────────────────────────────────────
+
+I would use brass plate, its easy to cut and silver solder.  You basically only need a central spine to support the warp pylonds and the neck for the saucer. I would say a 1/2 dia tube for the central spine and 3/32 plate or sheet for the supports.
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #5603439)
+Author    : division 6
+Date      : Feb 3, 2025 at 6:31 AM
+────────────────────────────────────────────────────────────────────────
+
+I mentioned aluminum or steel because it's easy to find at any hardware store.
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #5603445)
+Author    : JPH
+Date      : Feb 3, 2025 at 7:18 AM
+────────────────────────────────────────────────────────────────────────
+
+I have always been a fan of right angle pieces of aluminum. 
+
+0.06 thickness in this case can be found at hardware stores. 
+
+If you have a metal brake you can make your own and use 0.04 (1mm) thickness. 
+
+You can drill holes for weight reduction, but do not have a hole too close to the bend. 
+
+Put resin at the attachment site. Make sure you drill a few teeny, tiny holes into the aluminum that goes into the resin. 
+
+Id get fine files to help make the groove to hold the aluminum right angle.
+
+Wires can lay in the channel of the right angle.
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #5603446)
+Author    : JPH
+Date      : Feb 3, 2025 at 7:19 AM
+Reactions : Like — hoggworks
+────────────────────────────────────────────────────────────────────────
+
+Quick n dirty idea
+
+ 
+
+Attachments
+
+[IMAGE: 1544040-429654c29b31e48626dc7255c7daf5e0.jpg]
+
+20250203_101710.jpg
+
+					1.5 MB
+					
+					· Views: 178
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #5603453)
+Author    : swgeek
+Date      : Feb 3, 2025 at 7:47 AM
+Reactions : Like — hoggworks, Congo, division 6
+────────────────────────────────────────────────────────────────────────
+
+You should take a look at admiralbuck on Instagram, he has made some really good armatures out of brass.
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #5603530)
+Author    : StevenBills
+Date      : Feb 3, 2025 at 12:42 PM
+Reactions : Like — hoggworks, swgeek
+────────────────────────────────────────────────────────────────────────
+
+swgeek said:
+
+			You should take a look at admiralbuck on Instagram, he has made some really good armatures out of brass.
+		
+
+Click to expand...
+
+Came here to say this. https://www.instagram.com/admiralbuck/
+
+SB
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #5605139)
+Author    : hoggworks
+Date      : Feb 10, 2025 at 10:30 AM
+────────────────────────────────────────────────────────────────────────
+
+StevenBills said:
+
+			Came here to say this. https://www.instagram.com/admiralbuck/
+
+SB
+		
+
+Click to expand...
+
+Looking now, some of his armatures are DENSE! I wonder if they're significantly heavier than the plastic model kit will be, or if they are just being built to survive an earthquake.
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #5605306)
+Author    : StevenBills
+Date      : Feb 11, 2025 at 7:32 AM
+Reactions : Like — Captain Dunsel, Necronaut, edge10
+────────────────────────────────────────────────────────────────────────
+
+What's funny is that he literally just yesterday posted a metal armature for a 1/350 1701.
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2025-02-11-at-8-32-26%E2%80%AFam-png.1904824/]
+
+SB
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #5606529)
+Author    : Duncanator
+Date      : Feb 15, 2025 at 4:15 PM
+Reactions : Like — hoggworks, division 6, swgeek
+────────────────────────────────────────────────────────────────────────
+
+hoggworks said:
+
+			Any specific functional reason to use aluminum or steel? I see brass referenced more often as a metal to use, but I don’t know why it would be used over something else?
+		
+
+Click to expand...
+
+You just need to pick which material compromises work for your project and abilities. It can also be an opportunity to learn a new technique.
+
+Each material has its Pros and Cons:
+
+- Brass is easy to join with solder or screws, and is ductile so you can bend it easily to weird shapes. However it tends to cost more, and is
+
+   heavier than steel, which can add up. The ductile nature of brass can work against it too.
+
+- Aluminum is the lightest (1/3 the weight of steel or brass), so it adds less weight to the model. It is more rigid than brass, but can be bent if
+
+  careful. Joining it can be trickier as it needs to be TIG welded - although brazing works, as do screws.
+
+- Steel is cheapest and is easily welded, brazed (maybe even soldered?) or screwed. It is more rigid than the other two, which is nice for strength.
+
+  But it is almost as heavy as brass, and is the hardest of these metals to form, cut and drill.
+
+All of them come in a variety of shapes - bars, tubes, angles, etc...  Brass and aluminum seem to have a better selection of small, thinner walled shapes than steel.
+
+I'm also a fan of wood and bamboo, which can be surprisingly strong and light when used properly. Heck for rigidity and light weight, it is hard to beat carbon fiber. It is sold in plates, rods and tubes, and gluing or screwing works to join it. It can cost a bit, and there's no bending it to shape.
+
+It also wears out cutting tools quicker than the rest, but it's great for some things.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 12

@@ -1,0 +1,330 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : How to Build - An Indie Film Spaceship
+URL    : https://www.therpf.com/forums/threads/how-to-build-an-indie-film-spaceship.304560/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #4658006)
+Author    : onebaldman
+Date      : Aug 31, 2019 at 2:24 AM
+────────────────────────────────────────────────────────────────────────
+
+Hi! My name is Cameron. I am currently in pre-production for our short film called "Infinitus". I am looking to use miniatures and practical FX mixed with a little SFX. I've been heavily researching scratch builds and kit-bashing, but I am having a really hard time getting started.
+
+I went to the dollar tree, collected some cheap little toys. Then I went to a hobby shop, and got a sheet of plain styrene, a razor saw, cutting pad, xacto knife, dremel, and various other modeling gear.
+
+I'm looking to create a ship similar to the image below, without the green nose and maybe a bit more "grungy". It will also have a folding warp taurus that unfolds and creates a circle when in space. I want to create something that is a blend of submarine and windowless drone vessel.
+
+The story is that this ship is a re-purposed drone retrofitted with a cockpit. It wasn't designed for a person, so instead of a window I will be putting in a periscope similar to what they use on the Soyuz for manual docking.
+
+The budget is around $500. I was thinking of using a 2-liter bottle as the body, and then gluing all the toy bits onto that. Is that a good place to start? How would you build a ship like this?
+
+ 
+
+Attachments
+
+[IMAGE: 696756-8ea3a7b52539599d30d56356882b9c25.jpg]
+
+ship design.jpg
+
+					619.9 KB
+					
+					· Views: 721
+					
+				
+
+[IMAGE: 696757-d08c344703cfce68ecc9c63cc7a280ab.jpg]
+
+Ship Schematic.jpg
+
+					125.8 KB
+					
+					· Views: 646
+					
+				
+
+[IMAGE: 696758-b9e81f7d388d20fa23d1e37896ebc800.jpg]
+
+Kitbashing.jpg
+
+					46.1 KB
+					
+					· Views: 582
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #4658034)
+Author    : TrooperKast
+Date      : Aug 31, 2019 at 4:46 AM
+Reactions : Like — onebaldman
+────────────────────────────────────────────────────────────────────────
+
+Perhaps the bottle is a bit flimsy and light to be the main body, I would recommend using timber as the internal body and shape then attaching the details to the exterior that way you have a solid body to work off. Also it gives you a shape perspective to model off so that you can scale your details. Perhaps buy a 1/72 or 1:48 figure from a hobby shop so you can scale your design using the figure based off human height in comparison
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #4658035)
+Author    : onebaldman
+Date      : Aug 31, 2019 at 4:52 AM
+────────────────────────────────────────────────────────────────────────
+
+TrooperKast said:
+
+			I would recommend using timber as the internal body and shape then attaching the details to the exterior that way you have a solid body to work off.
+		
+
+Click to expand...
+
+Would any shape timber block work? Or is it shaped to resemble the ship? I'm terrible with wood craft, so I would probably use a standard 2/4 piece and go from there.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #4658037)
+Author    : TrooperKast
+Date      : Aug 31, 2019 at 5:00 AM
+Reactions : Like — onebaldman
+────────────────────────────────────────────────────────────────────────
+
+onebaldman said:
+
+			Would any shape timber block work? Or is it shaped to resemble the ship? I'm terrible with wood craft, so I would probably use a standard 2/4 piece and go from there.
+		
+
+Click to expand...
+
+ 
+
+You could do that or you could buy a round post section  and just use it as the core. Even if you ask the local hardware store to look in their off cut bin be surprised what odds and ends are there or even some pvc pipe + fittings the subject and materials limits are your imagination
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #4658038)
+Author    : Chaank
+Date      : Aug 31, 2019 at 5:05 AM
+Reactions : Like — onebaldman
+────────────────────────────────────────────────────────────────────────
+
+Your project sounds cool and very ambitious. That is a good thing, you gotta shoot high but just a heads up, filming miniatures is tough work. The hardest miniatures to film are ones with moving parts. Small motors and drives don't move as smooth as big heavy things. They can be quite jerkie and this can read very much like a miniature on screen. The only reason I mention this (I'm sure you've already thought about it but just in case) is it might be worth designing any moving parts while or maybe before you build your ship. It would be easier to build the ship to fit them than shrink moving parts to fit your ship. Just a thought anyway. Good luck dude, keep us posted...
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #4658052)
+Author    : onebaldman
+Date      : Aug 31, 2019 at 6:25 AM
+────────────────────────────────────────────────────────────────────────
+
+Chaank said:
+
+			It would be easier to build the ship to fit them than shrink moving parts to fit your ship.
+		
+
+Click to expand...
+
+Ah, good idea! I was trying to figure out how the hell to get a mechanism like that to work. Good thought. Thank you
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #4658053)
+Author    : onebaldman
+Date      : Aug 31, 2019 at 6:26 AM
+────────────────────────────────────────────────────────────────────────
+
+TrooperKast said:
+
+			Even if you ask the local hardware store to look in their off cut bin...
+		
+
+Click to expand...
+
+I will do that, thanks for the tip.
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #4658240)
+Author    : Duncanator
+Date      : Aug 31, 2019 at 2:58 PM
+Reactions : Like — onebaldman
+────────────────────────────────────────────────────────────────────────
+
+Chaank is right. Figure out the mechanism that needs to make the action work, and then use that to drive the scale of the ship. It may even be a cool element to design around.
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #4658248)
+Author    : star-art
+Date      : Aug 31, 2019 at 3:11 PM
+Reactions : Like — StevenBills, newmagrathea, Markus
+────────────────────────────────────────────────────────────────────────
+
+I built a rather complex model for a low-budget sci-fi film a while back. If you're on Facebook, I invite you to visit my albums to see many detailed photos of the build process. I also wrote an in-depth article about the project for a magazine and those excerpts are also available in my albums:
+
+[IMAGE: 89981529_3116059731740277_7792394508418678784_n.jpg]
+
+						Charles Adams
+					
+
+Charles Adams is on Facebook. Join Facebook to connect with Charles Adams and others you may know. Facebook gives people the power to share and makes the world more open and connected.
+
+[IMAGE: KFyVIAWzntM.ico]
+
+					www.facebook.com
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #4658743)
+Author    : onebaldman
+Date      : Sep 1, 2019 at 7:30 PM
+────────────────────────────────────────────────────────────────────────
+
+star-art said:
+
+			I also wrote an in-depth article about the project for a magazine and those excerpts are also available in my albums:
+
+[IMAGE: 89981529_3116059731740277_7792394508418678784_n.jpg]
+
+						Charles Adams
+					
+
+Charles Adams is on Facebook. Join Facebook to connect with Charles Adams and others you may know. Facebook gives people the power to share and makes the world more open and connected.
+
+[IMAGE: KFyVIAWzntM.ico]
+
+					www.facebook.com
+				
+
+Click to expand...
+
+Awesome! Thanks for the link. I will check it out!
+
+As for the folding alcubier drive, I was thinking of gluing a half circle rim onto two battery powered display motors. The motors would be stuck to each side of the space ship. 
+
+The remote control ones allow you to slow the speed down, and they have 40lb capacity. Would be plenty for a plastic half circle rim I think. Amazon.com : ComXim 360 Degree Black Electric Turntable, Direction, Angle and Rotation Mode, 7.87in Diameter, 44lb Capacity, Product Photography, Product, Cake and Jewelry Display， : Camera & Photo
+
+I could also get the cheaper ones that don't have remotes, and just flip a switch?
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #4658745)
+Author    : onebaldman
+Date      : Sep 1, 2019 at 7:34 PM
+Reactions : Like — star-art
+────────────────────────────────────────────────────────────────────────
+
+star-art said:
+
+			I built a rather complex model for a low-budget sci-fi film a while back. If you're on Facebook, I invite you to visit my albums to see many detailed photos of the build process. I also wrote an in-depth article about the project for a magazine and those excerpts are also available in my albums:
+
+[IMAGE: 89981529_3116059731740277_7792394508418678784_n.jpg]
+
+						Charles Adams
+					
+
+Charles Adams is on Facebook. Join Facebook to connect with Charles Adams and others you may know. Facebook gives people the power to share and makes the world more open and connected.
+
+[IMAGE: KFyVIAWzntM.ico]
+
+					www.facebook.com
+				
+
+Click to expand...
+
+Also, Charles I loved your build! I've seen the movie a while ago, and I was looking through your posts here for inspiration. Great work! I hope to even barely scratch the surface of your knowledge with this build.
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #4662231)
+Author    : newmagrathea
+Date      : Sep 11, 2019 at 7:56 AM
+Reactions : Like — onebaldman
+────────────────────────────────────────────────────────────────────────
+
+Check out this thread for some inspiration for scratch building and kit bashing. 
+
+[IMAGE: logo-og.png]
+
+						Blade Runner SUSHI BAR + SLICE OF LIFE making of
+					
+
+EDIT:  For the finished SLICE OF LIFE film and lots of BTS documentaries follow this link:  Blade Runner SUSHI BAR + SLICE OF LIFE making of  If you would, however, like to delve into the long and complicated creation of this film, then please read along. Enjoy ;) ...
+
+[IMAGE: favicon.png]
+
+					www.therpf.com
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #4662334)
+Author    : onebaldman
+Date      : Sep 11, 2019 at 12:11 PM
+Reactions : Like — newmagrathea
+────────────────────────────────────────────────────────────────────────
+
+newmagrathea said:
+
+			Check out this thread for some inspiration for scratch building and kit bashing.
+
+[IMAGE: logo-og.png]
+
+						Blade Runner SUSHI BAR + SLICE OF LIFE making of
+					
+
+EDIT:  For the finished SLICE OF LIFE film and lots of BTS documentaries follow this link:  Blade Runner SUSHI BAR + SLICE OF LIFE making of  If you would, however, like to delve into the long and complicated creation of this film, then please read along. Enjoy ;) ...
+
+[IMAGE: favicon.png]
+
+					www.therpf.com
+				
+
+Click to expand...
+
+Awesome! I've been following this film for a while in facebook. This is great, thank you!
+
+Man, these forums are really great.
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #4662353)
+Author    : laellee
+Date      : Sep 11, 2019 at 1:24 PM
+Reactions : Like — DaddyfromNaboo, onebaldman
+────────────────────────────────────────────────────────────────────────
+
+I am super-biased, but I would 3d print a prototype and develop from there. The reproducibility of the base model then gives a lot of flexibility when it comes to adding mechanics and lighting, so you can work out your bugs without jeopardizing the integrity of 1 kit-bashed ship. Once it's getting where you want it and working properly, you can easily build over adding kit-bashed greeblies, individually-laid styrene panels (such as on the nose), all those additions that will then make it uniquely 'grungy' and more bespoke than just a clean-lined, printed hull.
+
+ Again, just what I would do. Good luck with the film!
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #4662442)
+Author    : onebaldman
+Date      : Sep 11, 2019 at 6:55 PM
+────────────────────────────────────────────────────────────────────────
+
+laellee said:
+
+			I am super-biased, but I would 3d print a prototype and develop from there. The reproducibility of the base model then gives a lot of flexibility when it comes to adding mechanics and lighting, so you can work out your bugs without jeopardizing the integrity of 1 kit-bashed ship. Once it's getting where you want it and working properly, you can easily build over adding kit-bashed greeblies, individually-laid styrene panels (such as on the nose), all those additions that will then make it uniquely 'grungy' and more bespoke than just a clean-lined, printed hull.
+
+Again, just what I would do. Good luck with the film!
+		
+
+Click to expand...
+
+I would love to 3d print a model, I just have zero experience with 3d software is all. I wouldn't be able to design the computer model in order to get it printed properly.
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #4662517)
+Author    : DaddyfromNaboo
+Date      : Sep 12, 2019 at 2:55 AM
+Reactions : Like — onebaldman
+────────────────────────────────────────────────────────────────────────
+
+laellee said:
+
+			I am super-biased, but I would 3d print a prototype and develop from there. The reproducibility of the base model then gives a lot of flexibility when it comes to adding mechanics and lighting, so you can work out your bugs without jeopardizing the integrity of 1 kit-bashed ship. Once it's getting where you want it and working properly, you can easily build over adding kit-bashed greeblies, individually-laid styrene panels (such as on the nose), all those additions that will then make it uniquely 'grungy' and more bespoke than just a clean-lined, printed hull.
+
+Again, just what I would do. Good luck with the film!
+		
+
+Click to expand...
+
+I would probably look into the direction of combining a model and CGI, although this of course requires a completely different skill set, especially when it come to lighting the 3D model correctly.
+
+You may want to look at our member steve neill ´s homepage and a lot of his posts and facebook page because Steve is a professional model builder and did exactly what you are trying to figure out. He may be able to answer a few of your questions.
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #4664756)
+Author    : onebaldman
+Date      : Sep 17, 2019 at 7:41 PM
+Reactions : Like — publiusr
+────────────────────────────────────────────────────────────────────────
+
+Fortunately, I've been contacted by someone interested in facilitating the build of the model, on these forums! That's great news, since I've got so many other things going on with this film. It's always nice to have help and feedback for these low budgets. 
+
+I'm redesigning the idea of the sip to be easier, in order to facilitate the script, where the main character has scenes of building it life size. 
+
+I don't know if this will be final, but this is my attempt to make something less intense in order to simplify the budget and realize the film.
+
+ 
+
+Attachments
+
+[IMAGE: 702595-08e4ec5dfed32cc1db6a3af045309847.jpg]
+
+Spaceship concept.png
+
+					46.9 KB
+					
+					· Views: 428
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 17

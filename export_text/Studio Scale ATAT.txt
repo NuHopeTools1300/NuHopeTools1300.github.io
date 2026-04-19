@@ -1,0 +1,1582 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Studio Scale ATAT
+URL    : https://www.therpf.com/forums/threads/studio-scale-atat.185284/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #2900162)
+Author    : dsp5500
+Date      : May 16, 2013 at 3:35 AM
+────────────────────────────────────────────────────────────────────────
+
+I need some help getting my ATAT off the ground guys! Ive got the proportions of the main head where i think there very close to the original. Got some more kits in the mail to day and was able to model and add the left and right banks from the 1/700 enterprise on the underside protrusion, As you can see i think it needs to be wider as the gap between the parts seems a tad bit to small. There is a flat part with ribs that sits under these parts and extends to the end of the recess in the protrusion. What part have i pointed to with the arrow? That part would go a long way to adjusting the proportion of that part but i don't know what it is. The red/salmon colour is the main buck, the tan/yellow are basic modelled kit parts for dimensional data and grey are just place holders till i replace them with real kit parts. Any help appreciated.
+
+Rob
+
+[IMAGE: 9561-5ec0af5fcd6a835dd60a1a4cc1fb0c65.jpg]
+
+[IMAGE: 9562-87282876c3fae6c53578438a4d2a0f26.jpg]
+
+[IMAGE: 9563-fabac1480c6bc207c8a8de1143680dba.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #2900486)
+Author    : north3
+Date      : May 16, 2013 at 8:14 AM
+────────────────────────────────────────────────────────────────────────
+
+hi rob
+
+your progess is looking great, i remembered i promised some dimensions for you so i will send them when i get home tonight.
+
+what cad program do you use ? rhino ?
+
+i wish i could help with the kit parts , but alot of them , i was told in confidence . 
+
+have you seen monsiour toc's  atat ? alot of parts can be seen without paint which should help......
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #2900511)
+Author    : marsattack
+Date      : May 16, 2013 at 8:31 AM
+────────────────────────────────────────────────────────────────────────
+
+told in confidence??
+
+really???
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #2900585)
+Author    : dsp5500
+Date      : May 16, 2013 at 9:25 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks Jon, Just replied to your PM
+
+Julians great as always but there only so many times you can bug the guy before you become annoying :lol
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #2900621)
+Author    : ralphee
+Date      : May 16, 2013 at 9:52 AM
+────────────────────────────────────────────────────────────────────────
+
+marsattack said:
+
+			told in confidence??
+
+really???
+		
+
+Click to expand...
+
+Yes, it happens, nature of the beast!
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #2900643)
+Author    : ralphee
+Date      : May 16, 2013 at 10:08 AM
+────────────────────────────────────────────────────────────────────────
+
+Pretty sure the part in the centre is Naval carrier Rob, at least if memory serves me right, but Julien and Mat are the ATAT ID guru's!
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #2900837)
+Author    : north3
+Date      : May 16, 2013 at 12:24 PM
+────────────────────────────────────────────────────────────────────────
+
+Hi rob
+
+I can't get your email address to work....
+
+Hope these help...
+
+ 
+
+Attachments
+
+[IMAGE: 9722-2422b3ee6be32f67a400583805e8301c.jpg]
+
+image.jpg
+
+					101.1 KB
+					
+					· Views: 944
+					
+				
+
+[IMAGE: 9723-e52732d629bb5b4b596be1b0aef3b0b9.jpg]
+
+image.jpg
+
+					94 KB
+					
+					· Views: 959
+					
+				
+
+[IMAGE: 9724-08bbab7f0252a54e39627e22caedb576.jpg]
+
+image.jpg
+
+					121.8 KB
+					
+					· Views: 962
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #2901209)
+Author    : dsp5500
+Date      : May 16, 2013 at 5:08 PM
+────────────────────────────────────────────────────────────────────────
+
+Naval kit hey, I have the Enterprise, Shinano, Taiho and Rodney but couldn't see it in those. WIll buy some more and see where i get.
+
+Thanks for the images Jon, Im close to you and with final adjustment I'll see where i end up before milling but I'm glad that at least I'm in the ballpark. Thanks again.
+
+If anyone is interested in joining forces to get this project complete then PM me. Im all for collaboration, i'ts a lot more fun than doing this my myself!
+
+Cheers, :cheers
+
+Rob
+
+[IMAGE: 9797-b8127add90a710e6f5b66258389e3f7a.jpg]
+
+[IMAGE: 9798-e2059c1e353275ace88748d3faaf9567.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #2912998)
+Author    : dsp5500
+Date      : May 25, 2013 at 4:13 AM
+Reactions : Like — Clawhammer
+────────────────────────────────────────────────────────────────────────
+
+Im just going through all the reference data I've collected and out of all of them this is the only photo I have which shows the mechanism which controls the pistons on the leg. Im still leaning to them being animated separately and not moved via the leg movement. The associated text is an interesting read where Phil Tippet explains the mechanism a bit and also how due to the weight they would have to loosen the bolts then tighten them after each frame of movement, This was tedious so Tom St. Amand came up with a solution using ball lock pins. Good read
+
+[IMAGE: 12007-e95e8474bee3fad9cb2901e282c2232e.jpg]
+
+[IMAGE: 12008-91769d4b426682131c17912a72504711.jpg]
+
+Im still on the hunt for the part/parts on the underside of the head, Ive gone through my kits but no luck as yet.
+
+[IMAGE: 12009-4d392118837d753d5df4d8137d265b35.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #3220171)
+Author    : dsp5500
+Date      : Feb 24, 2014 at 9:32 PM
+────────────────────────────────────────────────────────────────────────
+
+Still very much a proof of concept and needs refinement but its works:thumbsup
+
+ATAT Piston - YouTube
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #3220253)
+Author    : ralphee
+Date      : Feb 24, 2014 at 11:54 PM
+────────────────────────────────────────────────────────────────────────
+
+Looking superb Rob, didn't clock you had the thigh cam functioning when i last saw this, duh, very sweet!
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #3220370)
+Author    : Teddz
+Date      : Feb 25, 2014 at 3:53 AM
+────────────────────────────────────────────────────────────────────────
+
+Looking very good Rob. Have you done any other studio scale models?
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #3220379)
+Author    : dsp5500
+Date      : Feb 25, 2014 at 4:05 AM
+────────────────────────────────────────────────────────────────────────
+
+Hi Teddz,
+
+Im still a noob, only been at it for just over a year but have a few build in the works
+
+Probe Droid (Nearly Complete)
+
+Taun Taun Armature (Prototype Done)
+
+ATST ESB (Nearly Complete)
+
+And a couple more in the design stage.
+
+Rob
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #3378189)
+Author    : dsp5500
+Date      : Jul 29, 2014 at 1:45 AM
+────────────────────────────────────────────────────────────────────────
+
+Over the last few day's Ive been redoing the ATAT head, Trying to get more accurate.
+
+Only a few left on the head to ID now. This highlighted one in particular still evades me.
+
+Anyone have any idea as to what it may be?
+
+[IMAGE: 124380-3daea983e160f09d850ae14aee71193c.jpg]
+
+[IMAGE: 124379-95a29a56429464365da05ac1cfebe771.jpg]
+
+[IMAGE: 124378-030f00eb9b166a14cb6142f77bf8e7a8.jpg]
+
+[IMAGE: 124377-4e5815d86f19f00d3d854e014f94b618.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #3378470)
+Author    : joberg
+Date      : Jul 29, 2014 at 8:43 AM
+────────────────────────────────────────────────────────────────────────
+
+Looking forward to see your progress on that beast!
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #3378726)
+Author    : Sym-Cha
+Date      : Jul 29, 2014 at 12:36 PM
+────────────────────────────────────────────────────────────────────────
+
+Indeed very looking forward to you progress 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ ... any chance we might see a thread about your prototype Taun Taun armature in the near future as well?
+
+Chaim
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #3378930)
+Author    : dsp5500
+Date      : Jul 29, 2014 at 4:20 PM
+────────────────────────────────────────────────────────────────────────
+
+joberg said:
+
+			Looking forward to see your progress on that beast!
+		
+
+Click to expand...
+
+You and me both :rolleyes
+
+Sym-Cha said:
+
+			Indeed very looking forward to you progress 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ ... any chance we might see a thread about your prototype Taun Taun armature in the near future as well?
+
+Chaim
+		
+
+Click to expand...
+
+Sure Thing.
+
+http://www.therpf.com/f10/ilm-tauntaun-armature-171293/
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #3386550)
+Author    : Star Lord
+Date      : Aug 6, 2014 at 7:27 AM
+────────────────────────────────────────────────────────────────────────
+
+I have just joined the forum and was immediately directed into your build (thanks Joberg!).  Can't wait to see your project unfold and is inspiring me to upgrade my AT AT.  Are there sources of reference material that you would recommend that reveals more accuracy and detail?  I apologize if this info has already been revealed in the thread.  Thanks!
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #3386562)
+Author    : dsp5500
+Date      : Aug 6, 2014 at 7:34 AM
+────────────────────────────────────────────────────────────────────────
+
+Check out 
+
+http://www.modelermagic.com/
+
+Do a search for AT-AT. good stuff there 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #3386963)
+Author    : Star Lord
+Date      : Aug 6, 2014 at 2:33 PM
+────────────────────────────────────────────────────────────────────────
+
+Your right.  Found a few large scale projects that provided lots of detail.  I hate to pepper you with lots of questions but are you scratch building or kit bashing your AT AT?
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #3387182)
+Author    : dsp5500
+Date      : Aug 6, 2014 at 7:11 PM
+────────────────────────────────────────────────────────────────────────
+
+Well both, Trying to replicate the original studio stop-mo model. Scratch, kit parts and machining of the armature.
+
+Rob
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #3387447)
+Author    : Moviekits
+Date      : Aug 7, 2014 at 2:13 AM
+────────────────────────────────────────────────────────────────────────
+
+Well this is going to be awesome man!!
+
+In terms of measures hope this won't help you a lot, but we are building a 1/48 AT-AT in which we've tried to add every possible detail shown in the original modek, so may be it could give you some extra ideas. http://www.therpf.com/f11/scratchbuilt-star-wars-imperial-walker-1-48-a-213895/?highlight=at-at+scratchbuilt
+
+Cheers!!
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #3388607)
+Author    : dsp5500
+Date      : Aug 8, 2014 at 2:08 AM
+────────────────────────────────────────────────────────────────────────
+
+stararts2000 said:
+
+			Well this is going to be awesome man!!
+
+In terms of measures hope this won't help you a lot, but we are building a 1/48 AT-AT in which we've tried to add every possible detail shown in the original modek, so may be it could give you some extra ideas. http://www.therpf.com/f11/scratchbuilt-star-wars-imperial-walker-1-48-a-213895/?highlight=at-at+scratchbuilt
+
+Cheers!!
+		
+
+Click to expand...
+
+Well i may be doing the same thing as you and scratch that one piece if i can't identify it soon.
+
+Rob
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #3389502)
+Author    : joberg
+Date      : Aug 8, 2014 at 7:32 PM
+────────────────────────────────────────────────────────────────────────
+
+This is going to be good!!
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #3451327)
+Author    : dsp5500
+Date      : Oct 7, 2014 at 10:40 PM
+────────────────────────────────────────────────────────────────────────
+
+Nearly all done with the armature prototype.
+
+Just the other half of this part and its done. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: 148055-88662a7bb5a916d633b0a4a5892eee30.jpg]
+
+Time permitting should have all the parts cleaned up by Friday:thumbsup
+
+Rob
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #3451356)
+Author    : anamorphicWayne
+Date      : Oct 7, 2014 at 11:27 PM
+────────────────────────────────────────────────────────────────────────
+
+Excellent dsp5500. Can't wait to see them. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #3452011)
+Author    : mofo77
+Date      : Oct 8, 2014 at 4:11 PM
+────────────────────────────────────────────────────────────────────────
+
+brilliant work rob,very technical.look forward to seeing more of this.:thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #28  (forum post #3452144)
+Author    : sjanish
+Date      : Oct 8, 2014 at 6:43 PM
+────────────────────────────────────────────────────────────────────────
+
+What a tease...shows us nothing but a little ankle.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+dsp5500 said:
+
+			Nearly all done with the armature prototype.
+
+Just the other half of this part and its done. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+View attachment 386443
+
+Time permitting should have all the parts cleaned up by Friday:thumbsup
+
+Rob
+		
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #29  (forum post #3452307)
+Author    : kbilly
+Date      : Oct 8, 2014 at 10:15 PM
+────────────────────────────────────────────────────────────────────────
+
+If you haven't found it yet...
+
+http://www.therpf.com/showthread.php?t=135145&page=2&p=2072406&viewfull=1#post2072406
+────────────────────────────────────────────────────────────────────────
+Post #30  (forum post #3452332)
+Author    : dsp5500
+Date      : Oct 8, 2014 at 11:01 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks Guys, 
+
+kbilly said:
+
+			If you haven't found it yet...
+
+http://www.therpf.com/showthread.php?t=135145&page=2&p=2072406&viewfull=1#post2072406
+
+Click to expand...
+
+Thanks Mate, Found that one but this one still eludes me. Thats not saying much as I'm still getting the hang of IDing :facepalm
+
+http://www.therpf.com/showthread.php?t=185284&p=3378189&viewfull=1#post3378189
+
+But would love that one other wise i'll scratch it as its taking to long.
+
+sjanish said:
+
+			What a tease...shows us nothing but a little ankle, Not to much!  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+Well I don't want to get a reputation as a tease so just for you Scott here some more below the ankle. :lol
+
+[IMAGE: 148395-8fc66c1662fa3a01f8d2bb5372a38468.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #31  (forum post #3452346)
+Author    : dsp5500
+Date      : Oct 8, 2014 at 11:46 PM
+────────────────────────────────────────────────────────────────────────
+
+Another rough placement shot.
+
+[IMAGE: 148400-bdadaf5bf8969b4ee91d32e0b5997acf.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #32  (forum post #3452435)
+Author    : north3
+Date      : Oct 9, 2014 at 4:21 AM
+────────────────────────────────────────────────────────────────────────
+
+Looks stunning...how did you get on with the head and body ?
+────────────────────────────────────────────────────────────────────────
+Post #33  (forum post #3452443)
+Author    : dsp5500
+Date      : Oct 9, 2014 at 4:35 AM
+────────────────────────────────────────────────────────────────────────
+
+Hey Jon, Good to hear form you.
+
+There all done, Have been since February but Ive been adjusting them both ever since.
+
+Definitely gotta just put the breaks on the adjustments as i think I'm just going around in circles. :wacko
+
+But yer Ive decided there's a line on the head i want to modify slightly then i'll stop :facepalm  and get them outa the virtual world.
+────────────────────────────────────────────────────────────────────────
+Post #34  (forum post #3452504)
+Author    : Guy Cowen
+Date      : Oct 9, 2014 at 6:19 AM
+Reactions : Like — dsp5500
+────────────────────────────────────────────────────────────────────────
+
+Looking Killer Rob, now put it aside 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Seriously great work though, can't wait to see more
+────────────────────────────────────────────────────────────────────────
+Post #35  (forum post #3453129)
+Author    : joberg
+Date      : Oct 9, 2014 at 5:01 PM
+Reactions : Like — dsp5500
+────────────────────────────────────────────────────────────────────────
+
+Man...we're on another level altogether here
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+cool I'm flabbergasted!!
+────────────────────────────────────────────────────────────────────────
+Post #36  (forum post #3453190)
+Author    : anamorphicWayne
+Date      : Oct 9, 2014 at 6:25 PM
+Reactions : Like — dsp5500
+────────────────────────────────────────────────────────────────────────
+
+Outstanding work dsp5500!! Looking forward to the rest. BTW, are they made out of aluminum?
+────────────────────────────────────────────────────────────────────────
+Post #37  (forum post #3453218)
+Author    : KramStaar
+Date      : Oct 9, 2014 at 7:04 PM
+Reactions : Like — dsp5500
+────────────────────────────────────────────────────────────────────────
+
+Man that's looking great Rob!!
+
+Bravo mate, bravo...
+
+Highest regards
+
+MARK
+────────────────────────────────────────────────────────────────────────
+Post #38  (forum post #3453278)
+Author    : Talkierg
+Date      : Oct 9, 2014 at 8:23 PM
+Reactions : Like — dsp5500
+────────────────────────────────────────────────────────────────────────
+
+Looks great Rob,keep it comin:thumbsup
+
+Don
+────────────────────────────────────────────────────────────────────────
+Post #39  (forum post #3453389)
+Author    : CutThumb
+Date      : Oct 9, 2014 at 11:57 PM
+Reactions : Like — dsp5500
+────────────────────────────────────────────────────────────────────────
+
+Damn you are great engineer Rob!!!
+────────────────────────────────────────────────────────────────────────
+Post #40  (forum post #3453464)
+Author    : dsp5500
+Date      : Oct 10, 2014 at 2:32 AM
+Reactions : Like — KramStaar
+────────────────────────────────────────────────────────────────────────
+
+Im glad you guys are enjoying the photos and I appreciate the comments, Cheers. :thumbsup
+
+anamorphicWayne said:
+
+			Outstanding work dsp5500!! Looking forward to the rest. BTW, are they made out of aluminum?
+		
+
+Click to expand...
+
+6061 Aluminium, Brass and mild steel.
+
+Just waiting on the hardware so I can screw it together, Sure beats meccano :cool 
+
+Here are a couple of hinge pieces.
+
+[IMAGE: 148896-69a05b385364cae6d7a39d6636a3fce4.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #41  (forum post #3453538)
+Author    : Junk Pilot
+Date      : Oct 10, 2014 at 5:30 AM
+Reactions : Like — dsp5500, KramStaar
+────────────────────────────────────────────────────────────────────────
+
+There are just no words in the dictionary to describe this. This is pure porn.
+────────────────────────────────────────────────────────────────────────
+Post #42  (forum post #3456222)
+Author    : dsp5500
+Date      : Oct 13, 2014 at 7:13 AM
+Reactions : Like — KramStaar
+────────────────────────────────────────────────────────────────────────
+
+:thumbsup Thanks guys :thumbsup
+
+Here is the bulk of the lower foot with the feet finished.
+
+I will grow the shoes and make multiple casts. I added a hole on each foot for the casts to have something to bite to,
+
+Im not convinced that's canon but its only a minor part and can be remade if need be.
+
+[IMAGE: 150075-14dc72e8e09f9f5b9647637ee2240f5c.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #43  (forum post #3456941)
+Author    : vfxsup64
+Date      : Oct 13, 2014 at 9:14 PM
+────────────────────────────────────────────────────────────────────────
+
+Absolutely beautiful work...!
+────────────────────────────────────────────────────────────────────────
+Post #44  (forum post #3463711)
+Author    : mirdhim
+Date      : Oct 21, 2014 at 11:59 AM
+────────────────────────────────────────────────────────────────────────
+
+ufffffffffff  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #45  (forum post #3465636)
+Author    : mbmcfarland
+Date      : Oct 23, 2014 at 12:15 PM
+────────────────────────────────────────────────────────────────────────
+
+Awesome!
+────────────────────────────────────────────────────────────────────────
+Post #46  (forum post #3470699)
+Author    : dsp5500
+Date      : Oct 28, 2014 at 8:53 PM
+Reactions : Like — EddieL, jkno
+────────────────────────────────────────────────────────────────────────
+
+Got all the machine screws and other parts I needed. Thanks Scott 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Couldn't wait so started putting it together to check fit. Still a bit of work milling the screws that need to be worked
+
+but Its coming together nicely. 
+
+Re machined the shin and will do the foot inserts next.
+
+[IMAGE: 155555-451ce1920eba14898422048ed5390476.jpg]
+
+[IMAGE: 155554-8ff8051650a655c1c4b4b037c40d3423.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #47  (forum post #3470762)
+Author    : sjanish
+Date      : Oct 28, 2014 at 10:30 PM
+────────────────────────────────────────────────────────────────────────
+
+Yup...couldn't have done it without me. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Seriously looking very nice.  Can't wait to see more.
+────────────────────────────────────────────────────────────────────────
+Post #48  (forum post #3470841)
+Author    : north3
+Date      : Oct 29, 2014 at 2:05 AM
+────────────────────────────────────────────────────────────────────────
+
+Nice machining did you do it yourself ? Have you made the other legs at the same time ?
+
+Maybe a bit late but I got all my screws and pins from  here  www.accuscrews.co.uk . It saved a lot of time trimming all the screws to length !
+
+Looking forward to more progress
+────────────────────────────────────────────────────────────────────────
+Post #49  (forum post #3470854)
+Author    : dsp5500
+Date      : Oct 29, 2014 at 2:38 AM
+────────────────────────────────────────────────────────────────────────
+
+99% of everything I do is CNC, I'd much rather the CNC make swarf 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+As you know theres nothing stopping some one manual milling something like this, Bit of turning on the foot and the rest is mainly some pocket milling.
+
+A couple of REAL machinists  in the late 70's made a few that way. :lol
+
+Ive just done the one leg as a prototype for now. When Im happy with it I'll do the other 3.
+
+Thanks for the link :thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #50  (forum post #3471234)
+Author    : Duncanator
+Date      : Oct 29, 2014 at 11:20 AM
+────────────────────────────────────────────────────────────────────────
+
+There's nothing quite like the look of machined metal! It'll be a shame to paint it.
+────────────────────────────────────────────────────────────────────────
+Post #51  (forum post #3471648)
+Author    : joberg
+Date      : Oct 29, 2014 at 6:24 PM
+────────────────────────────────────────────────────────────────────────
+
+Yep, I'm with Duncanator on that one...paint would be crime on those marvelous metal pieces:cool
+────────────────────────────────────────────────────────────────────────
+Post #52  (forum post #3472886)
+Author    : jkno
+Date      : Oct 31, 2014 at 1:40 AM
+────────────────────────────────────────────────────────────────────────
+
+Full metal AT-AT = :thumbsup
+
+BTW here is a link with the AT-AT Studio Scale used by MR for their version, plus some other screen used AT-AT pics: 
+
+http://smg.photobucket.com/user/ser...Blasters/AT-AT Studio Scale ILM?sort=9&page=1
+────────────────────────────────────────────────────────────────────────
+Post #53  (forum post #3475288)
+Author    : swpropmaker
+Date      : Nov 2, 2014 at 6:42 PM
+────────────────────────────────────────────────────────────────────────
+
+Wow!  Amazing talent... I good if i can get Facebook to open the first time...  Looking good!
+────────────────────────────────────────────────────────────────────────
+Post #54  (forum post #3536984)
+Author    : dsp5500
+Date      : Jan 15, 2015 at 12:56 AM
+Reactions : Like — imaginager, peza, Talkierg
+────────────────────────────────────────────────────────────────────────
+
+Cheers Guys.
+
+Bit more work on the ATAT. Kits parts and test fit for parts to be cast mainly.
+
+Finished the top half but forgot to take pics. Will later.
+
+Love the ATAT, Such a cool prop.
+
+Rob
+
+[IMAGE: 177624-5b817f9a89ff38f3ac783f9ea91d5978.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #55  (forum post #3537022)
+Author    : Talkierg
+Date      : Jan 15, 2015 at 2:50 AM
+────────────────────────────────────────────────────────────────────────
+
+It indeed a cool designed walker,great update Rob!
+
+Don
+────────────────────────────────────────────────────────────────────────
+Post #56  (forum post #3537082)
+Author    : dsp5500
+Date      : Jan 15, 2015 at 5:33 AM
+────────────────────────────────────────────────────────────────────────
+
+Upper section mostly done. Few more kit parts to add and need to dig up some Plastruct U beams.
+
+If anyone has a spare 1/24 Stuka gunner window thats not being used and your willing to sell it, Let me know.
+
+Cheers,
+
+Rob
+
+[IMAGE: 177674-dd09df6239261b0fa186f72249196314.jpg]
+
+[IMAGE: 177673-88f672d42cbb3aa9320afb363c57967f.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #57  (forum post #3537379)
+Author    : LrdSatyr8
+Date      : Jan 15, 2015 at 12:26 PM
+────────────────────────────────────────────────────────────────────────
+
+Looking awesome... always admire the people that can machine their own metal parts!  Simply amazing!  Are the pistons on the upper leg going to be moveable at all?  They are in the movie and I have yet to see anyone actually reproduce that effect on the AT-AT legs.
+────────────────────────────────────────────────────────────────────────
+Post #58  (forum post #3537587)
+Author    : dsp5500
+Date      : Jan 15, 2015 at 4:43 PM
+Reactions : Like — imaginager
+────────────────────────────────────────────────────────────────────────
+
+All the internal mechanisms work like the original just not set up yet.
+
+Heres my early acrylic prototype.
+────────────────────────────────────────────────────────────────────────
+Post #59  (forum post #3537648)
+Author    : imaginager
+Date      : Jan 15, 2015 at 6:16 PM
+────────────────────────────────────────────────────────────────────────
+
+That's spectacular!
+────────────────────────────────────────────────────────────────────────
+Post #60  (forum post #3537658)
+Author    : LrdSatyr8
+Date      : Jan 15, 2015 at 6:38 PM
+────────────────────────────────────────────────────────────────────────
+
+dsp5500 said:
+
+			All the internal mechanisms work like the original just not set up yet.
+
+Heres my early acrylic prototype.
+		
+
+Click to expand...
+
+Now I'm impressed... HIGHLY IMPRESSED!  That's something I've never seen done before!  AWESOME!
+────────────────────────────────────────────────────────────────────────
+Post #61  (forum post #3537912)
+Author    : KramStaar
+Date      : Jan 16, 2015 at 4:34 AM
+────────────────────────────────────────────────────────────────────────
+
+Holy moly Rob, that's magnificent mate!
+
+Highest regards
+
+MARK
+────────────────────────────────────────────────────────────────────────
+Post #62  (forum post #3537977)
+Author    : dsp5500
+Date      : Jan 16, 2015 at 6:48 AM
+Reactions : Like — KramStaar
+────────────────────────────────────────────────────────────────────────
+
+Glad everyone approves 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+You doing anything for the new movies Mark?
+
+Rob
+────────────────────────────────────────────────────────────────────────
+Post #63  (forum post #3537996)
+Author    : KramStaar
+Date      : Jan 16, 2015 at 7:13 AM
+────────────────────────────────────────────────────────────────────────
+
+dsp5500 said:
+
+			Glad everyone approves 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+You doing anything for the new movies Mark?
+
+Rob
+		
+
+Click to expand...
+
+Yep, more Star Wars stuff for Lucasfilm.. 
+
+We need to get together to catch up again mate!
+
+M
+────────────────────────────────────────────────────────────────────────
+Post #64  (forum post #3538030)
+Author    : dsp5500
+Date      : Jan 16, 2015 at 7:59 AM
+────────────────────────────────────────────────────────────────────────
+
+Sounds like a plan :thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #65  (forum post #3539537)
+Author    : north3
+Date      : Jan 18, 2015 at 3:32 AM
+────────────────────────────────────────────────────────────────────────
+
+I have the Stuka part you are looking for, do you fancy swapping it for a couple of the small plastic parts that are on the top inside of the leg ?
+
+Looking great by the way....
+────────────────────────────────────────────────────────────────────────
+Post #66  (forum post #3539566)
+Author    : dsp5500
+Date      : Jan 18, 2015 at 4:23 AM
+────────────────────────────────────────────────────────────────────────
+
+What parts Jon? The two Morser Karl parts?
+
+Rob
+────────────────────────────────────────────────────────────────────────
+Post #67  (forum post #3539786)
+Author    : north3
+Date      : Jan 18, 2015 at 10:44 AM
+────────────────────────────────────────────────────────────────────────
+
+Yes , that's them...this was another kit that I never got round to getting !
+────────────────────────────────────────────────────────────────────────
+Post #68  (forum post #3540106)
+Author    : joberg
+Date      : Jan 18, 2015 at 6:14 PM
+────────────────────────────────────────────────────────────────────────
+
+That leg is smokin' hot!!  Love the "pistons" working up and down:cool
+────────────────────────────────────────────────────────────────────────
+Post #69  (forum post #3540964)
+Author    : qcfoundry
+Date      : Jan 19, 2015 at 5:25 PM
+Reactions : Like — KramStaar
+────────────────────────────────────────────────────────────────────────
+
+Stunning work, Rob.  You should be very proud of this technical achievement (namely the leg/piston mechanism).  Looking forward to seeing more.
+────────────────────────────────────────────────────────────────────────
+Post #70  (forum post #3541105)
+Author    : dsp5500
+Date      : Jan 19, 2015 at 8:41 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks for the kind comments. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Will hopefully get back on the ATAT full steam once the wonky street light is done!
+
+So not for a while then! :facepalm
+────────────────────────────────────────────────────────────────────────
+Post #71  (forum post #3541287)
+Author    : Guy Cowen
+Date      : Jan 20, 2015 at 4:17 AM
+────────────────────────────────────────────────────────────────────────
+
+Ha ha, awe it won't be long and then you can take your dog for a walk 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #72  (forum post #3541289)
+Author    : dsp5500
+Date      : Jan 20, 2015 at 4:23 AM
+────────────────────────────────────────────────────────────────────────
+
+always good to have a optimist on the team :lol
+────────────────────────────────────────────────────────────────────────
+Post #73  (forum post #3541298)
+Author    : north3
+Date      : Jan 20, 2015 at 4:41 AM
+────────────────────────────────────────────────────────────────────────
+
+ive tried to reply to your email but its telling me your in box is full.....
+────────────────────────────────────────────────────────────────────────
+Post #74  (forum post #3541327)
+Author    : dsp5500
+Date      : Jan 20, 2015 at 5:19 AM
+────────────────────────────────────────────────────────────────────────
+
+Try now!
+────────────────────────────────────────────────────────────────────────
+Post #75  (forum post #3541348)
+Author    : north3
+Date      : Jan 20, 2015 at 5:55 AM
+────────────────────────────────────────────────────────────────────────
+
+thanks
+
+email sent
+────────────────────────────────────────────────────────────────────────
+Post #76  (forum post #3542292)
+Author    : north3
+Date      : Jan 21, 2015 at 5:27 AM
+────────────────────────────────────────────────────────────────────────
+
+part sent !
+────────────────────────────────────────────────────────────────────────
+Post #77  (forum post #3542293)
+Author    : dsp5500
+Date      : Jan 21, 2015 at 5:28 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks mate, Im still to go to the Post office, Will shoot out tomorrow 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Rob
+────────────────────────────────────────────────────────────────────────
+Post #78  (forum post #3542848)
+Author    : LrdSatyr8
+Date      : Jan 21, 2015 at 7:32 PM
+────────────────────────────────────────────────────────────────────────
+
+dsp5500 said:
+
+			All the internal mechanisms work like the original just not set up yet.
+
+Heres my early acrylic prototype.
+		
+
+Click to expand...
+
+Would love to see the inner mechanism on how you were able to achieve the piston movement.  Would that be possible?
+────────────────────────────────────────────────────────────────────────
+Post #79  (forum post #3542855)
+Author    : dsp5500
+Date      : Jan 21, 2015 at 7:40 PM
+Reactions : Like — moffeaton
+────────────────────────────────────────────────────────────────────────
+
+How much you offering for a peek? $$$$$
+
+:lol
+────────────────────────────────────────────────────────────────────────
+Post #80  (forum post #3543108)
+Author    : dsp5500
+Date      : Jan 22, 2015 at 5:06 AM
+────────────────────────────────────────────────────────────────────────
+
+Got your parts out Jon :thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #81  (forum post #3543370)
+Author    : LrdSatyr8
+Date      : Jan 22, 2015 at 10:58 AM
+────────────────────────────────────────────────────────────────────────
+
+dsp5500 said:
+
+			How much you offering for a peek? $$$$$
+
+:lol
+		
+
+Click to expand...
+
+I think I got some pocket lint and an old button here... I might be able to throw in a stick of chewing gum but I've been saving that for a special occasion! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #82  (forum post #3543407)
+Author    : o2b4wln
+Date      : Jan 22, 2015 at 11:39 AM
+────────────────────────────────────────────────────────────────────────
+
+Amazing work!
+
+What type of cnc machine are you using? 
+
+I'm looking into getting the cnc-carving x6-1500gt for this type of work along with Mach3 but would love to pick your brain about the machine and software that you are using.
+
+Again, amazing work and i'm following this thread very closely.
+────────────────────────────────────────────────────────────────────────
+Post #83  (forum post #3543477)
+Author    : north3
+Date      : Jan 22, 2015 at 12:35 PM
+────────────────────────────────────────────────────────────────────────
+
+Cheers !
+────────────────────────────────────────────────────────────────────────
+Post #84  (forum post #3543687)
+Author    : dsp5500
+Date      : Jan 22, 2015 at 4:52 PM
+────────────────────────────────────────────────────────────────────────
+
+o2b4wln said:
+
+			Amazing work!
+
+What type of cnc machine are you using? 
+
+I'm looking into getting the cnc-carving x6-1500gt for this type of work along with Mach3 but would love to pick your brain about the machine and software that you are using.
+
+Again, amazing work and i'm following this thread very closely.
+		
+
+Click to expand...
+
+Cheers!
+
+That unit's not exactly cheap for what it is and as for cutting metal well.... You would be better off and getting a sieg mill then converting it to cnc at a later date.
+
+Workflow usually is Rhino - RhinoCam - Mach3/Propietry - various industrial cnc machines.
+
+Rob
+────────────────────────────────────────────────────────────────────────
+Post #85  (forum post #3543939)
+Author    : darth_daniel
+Date      : Jan 23, 2015 at 12:43 AM
+────────────────────────────────────────────────────────────────────────
+
+LrdSatyr8 said:
+
+			Would love to see the inner mechanism on how you were able to achieve the piston movement.  Would that be possible?
+		
+
+Click to expand...
+
+I believe it would work with one cogwheel fixed to the hip in the center of the hip-thigh-joint. The hidden ends of the pistons would be done as cograils. A second cogwheel would have to sit inside the thigh between the first cogwheel and the cograils to reverse the piston motion. Of course I don´t know if ILM built it that way but it should work...
+────────────────────────────────────────────────────────────────────────
+Post #86  (forum post #3547537)
+Author    : north3
+Date      : Jan 27, 2015 at 2:00 AM
+────────────────────────────────────────────────────────────────────────
+
+parts arrived.. thank you.
+
+any sign of mine ??
+────────────────────────────────────────────────────────────────────────
+Post #87  (forum post #3547549)
+Author    : dsp5500
+Date      : Jan 27, 2015 at 2:29 AM
+────────────────────────────────────────────────────────────────────────
+
+No nothing yet, Just checked.
+
+Rob
+────────────────────────────────────────────────────────────────────────
+Post #88  (forum post #3549514)
+Author    : north3
+Date      : Jan 29, 2015 at 2:49 AM
+────────────────────────────────────────────────────────────────────────
+
+still no sign of the parts ???
+
+i sent some machined  parts to monsiour tox once that took a couple of months to get through customs , i hope this wont take as long.
+
+i reverse engineered this part (in cad) so i could machine mine , do you want me to send the file ??
+────────────────────────────────────────────────────────────────────────
+Post #89  (forum post #3549516)
+Author    : dsp5500
+Date      : Jan 29, 2015 at 2:52 AM
+────────────────────────────────────────────────────────────────────────
+
+Ive modelled it myself for fit reference but thanks, Don't worry about it.:thumbsup It will come eventually plus at the moment I'm up to my eyeballs getting the rest of the Slave 1 body done.
+────────────────────────────────────────────────────────────────────────
+Post #90  (forum post #3549552)
+Author    : MonsieurTox
+Date      : Jan 29, 2015 at 4:25 AM
+────────────────────────────────────────────────────────────────────────
+
+........................
+────────────────────────────────────────────────────────────────────────
+Post #91  (forum post #3549611)
+Author    : MonsieurTox
+Date      : Jan 29, 2015 at 5:50 AM
+────────────────────────────────────────────────────────────────────────
+
+I may add than even if I knew since day one I would not get any Slave One pulls (and havent asked for) I continued to help Guy (and you indirectly) as far as I could so the Slave would be as good as possible. So I'm probably not perfect but I'm not that terrible guy you are describing.
+────────────────────────────────────────────────────────────────────────
+Post #92  (forum post #3549614)
+Author    : dsp5500
+Date      : Jan 29, 2015 at 6:02 AM
+────────────────────────────────────────────────────────────────────────
+
+This had nothing to do with Quincy and you know it. He also added you not the other way around. I was talking to both regarding the possibility of helping to do a run for the ATAT armature. And if i remember correctly before you got involved in the email I was helping Matt out with files to make his job easier modelling the armature. 
+
+You got the ball rolling by repeatedly posting arrogant replies of why you should share info....... to which i repeatedly tried explaining I wasn't asking for a thing! and i didn't instigate the conversation. Mars was also in here so can collaborate but I won't speak for him.
+
+Ok so from your account 25 emails and change both ways is Endless emails? Not worth arguing with that:rolleyes
+
+"Also you have been nothing but gracious helping me out since Ive joined the RPF".
+
+Did I say this to you, Yes i most certainly did. You hadn't pushed my buttons then so why shouldn't I be polite?
+
+He's a reply from Matt before you got involved after I helped him out with a short cut to help the armature modelling,  just to prove Im not only polite to you!
+
+Rob these are a life saver, thanks! 
+
+Been reworking some of the AT-AT parts.. getting the last minute stuff squared away as Julien's got someone
+
+interested in making a prototype leg.
+
+Was glad to help him and indirectly YOU to complete the project!
+
+"As far as I know I have always been polite even after your mails which I won't paste here. It seems you can't talk without throwing insuls."
+
+Well fine then, But i have to agree I have never been more politely insulted in my life. You have the art down pat!
+
+I tend to call a spade spade and make comments to peoples face, not behind there back!
+
+"Like Mars and you said, you are not interested in wasting time looking for the parts, you just want to build. That's fine and that's your right but you can't blame people who do the hard work because they won't share everything with you." 
+
+A blatant Fabrication and a Lie, Wouldn't expect any less from you mate! Of course you could prove me wrong! Where exactly did i say that?
+
+"As far as I remember, I have never asked you anything, right ?"
+
+WHAT!! Who said you did?
+
+"I hadn't had any contact with you for 6 Months.
+
+Untrue."
+
+Really! So what was it 5 and a half then? I guess this goes back to the endless email post:facepalm
+
+"Really ?
+
+Quoting myself from the S1 FB page, comments are about the skirt and pulls pics Guy was showing :
+
+Looks perfect Guy ! Congratz !
+
+This is fantastic Guy !!!
+
+Looks very accurate !"
+
+And your quotes to guy have what to do with me or your comments about me? Man thats excellent cherry picking:lol
+
+You don't work in Politics by any chance?
+
+"Regading the ***** account, it was pretty funny and if that was not you... well it's still pretty funny !"
+
+I bet it was funny, Real Funny. I wish I was in on the Joke. Oh wait i was just didn't know!:wacko
+
+"That's very cool Rab, I think I am a very helpful guy and I also got a lot of help from different people and that's nice ! 
+
+However you are condescendant about the guys who "found a piece of plastic and glued it somewhere". You know it can take as much time as doing a 3D model. Most of the time it tooks even more time (look at the Slave !). But yeah you already stated that finding parts is a waste of time, but without the guys who wasted their time to find the Slave One parts you would probably has nothing solid at the moment."
+
+Well Jules, whats you agenda in that post. I talk about you and you only and you try to spin it that my comment was about everyone in the community generally?
+
+Thats not worth more comment!
+
+"No I don't know how to model in CAD, yes I can generating toolpath, set up fixtures and tooling.
+
+However you are probably mistaken me for someone else, I never bought a Taig mini mill of a RPF member (nor own one). 
+
+But I hope you own the 10K because I posted some pics (and vid) of the CNC'ed parts I made for the proto leg."
+
+Why should you have the monopoly insulting me? It goes both ways mate!
+
+Look at the end of the the your not worth the aggravation and your beginning to bore me.
+
+I got better things to do!
+
+Keep your defaming comments about me to private email so next time i won't see then OK"
+────────────────────────────────────────────────────────────────────────
+Post #93  (forum post #3549619)
+Author    : dsp5500
+Date      : Jan 29, 2015 at 6:13 AM
+────────────────────────────────────────────────────────────────────────
+
+MonsieurTox said:
+
+			I may add than even if I knew since day one I would not get any Slave One pulls (and havent asked for) I continued to help Guy (and you indirectly) as far as I could so the Slave would be as good as possible. So I'm probably not perfect but I'm not that terrible guy you are describing.
+		
+
+Click to expand...
+
+If you Manned up and apologised you'd have a set!
+────────────────────────────────────────────────────────────────────────
+Post #94  (forum post #3549633)
+Author    : MonsieurTox
+Date      : Jan 29, 2015 at 6:46 AM
+────────────────────────────────────────────────────────────────────────
+
+..............................................
+────────────────────────────────────────────────────────────────────────
+Post #95  (forum post #3549634)
+Author    : dsp5500
+Date      : Jan 29, 2015 at 6:47 AM
+────────────────────────────────────────────────────────────────────────
+
+Yer BS hhahahah! What ever!!
+────────────────────────────────────────────────────────────────────────
+Post #96  (forum post #3549750)
+Author    : MonsieurTox
+Date      : Jan 29, 2015 at 8:53 AM
+────────────────────────────────────────────────────────────────────────
+
+....................................
+────────────────────────────────────────────────────────────────────────
+Post #97  (forum post #3549752)
+Author    : dsp5500
+Date      : Jan 29, 2015 at 8:56 AM
+Reactions : Like — MonsieurTox
+────────────────────────────────────────────────────────────────────────
+
+God you are a bore! 
+
+My Stories? The air must be pretty thin up there?
+────────────────────────────────────────────────────────────────────────
+Post #98  (forum post #3549871)
+Author    : joewhite
+Date      : Jan 29, 2015 at 10:40 AM
+────────────────────────────────────────────────────────────────────────
+
+Just for the record, all people mentioned in these posts are really awesome people! Hoping y'all can settle any differences and continue showing off your inspirational work!
+
+Ok, I'm slowing stepping back into my lane.
+
+Joe
+────────────────────────────────────────────────────────────────────────
+Post #99  (forum post #3550001)
+Author    : marsattack
+Date      : Jan 29, 2015 at 12:49 PM
+────────────────────────────────────────────────────────────────────────
+
+Julien
+
+I have never once since I have known you mentioned your name here in public in the way you are making it sound above !!
+
+I have tried to pm you this morning after reading this and you inbox is full.
+
+Please stop dragging my name as I returned an email to you back then responding to one YOU FIRST SEMT ME that you cc'd my name.
+
+It was not attacking you in fact the email was sent to Rob and I ccd you!!!
+
+Not once did I ever email you directly or for the first time.
+
+I have the pm saved , clear your box pm me or lmk so I can resend it
+
+Marcel
+────────────────────────────────────────────────────────────────────────
+Post #100  (forum post #3550409)
+Author    : dsp5500
+Date      : Jan 29, 2015 at 9:22 PM
+────────────────────────────────────────────────────────────────────────
+
+If I was really wanting your S1 pulls I just had to ask Guy to buy one more from you and to sell it to me or someone else. 
+
+Wow, how'd i miss that doozy?
+
+No need to be underhanded or get Guy to be!, I'll take your money:lol No mates rates discount though sorry! In fact it will be a Honour to have it taking pride and place on your mantle. I know thats all mars ever talked about with his Probe Droid being there:thumbsup
+
+Infact I'd love to deliver to you personally, Would be nice to get back to Paris, A beautiful City
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #101  (forum post #3550938)
+Author    : scottjua
+Date      : Jan 30, 2015 at 11:27 AM
+────────────────────────────────────────────────────────────────────────
+
+I just wanna see some more AT AT progress at this point. Please post pics...
+────────────────────────────────────────────────────────────────────────
+Post #102  (forum post #3552148)
+Author    : dsp5500
+Date      : Feb 1, 2015 at 4:50 AM
+────────────────────────────────────────────────────────────────────────
+
+north3 said:
+
+			still no sign of the parts ???
+
+i sent some machined  parts to monsiour tox once that took a couple of months to get through customs , i hope this wont take as long.
+
+i reverse engineered this part (in cad) so i could machine mine , do you want me to send the file ??
+		
+
+Click to expand...
+
+Arrived today, Thanks Jon:thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #103  (forum post #3552250)
+Author    : north3
+Date      : Feb 1, 2015 at 8:18 AM
+────────────────────────────────────────────────────────────────────────
+
+Glad it arrived ok ,I was starting to get worried
+
+i look forward to seeing your progress
+────────────────────────────────────────────────────────────────────────
+Post #104  (forum post #3745447)
+Author    : anamorphicWayne
+Date      : Sep 1, 2015 at 9:01 PM
+────────────────────────────────────────────────────────────────────────
+
+Any Updates??  :unsure
+────────────────────────────────────────────────────────────────────────
+Post #105  (forum post #3746355)
+Author    : joberg
+Date      : Sep 2, 2015 at 6:33 PM
+────────────────────────────────────────────────────────────────────────
+
+Bumperoo
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #106  (forum post #3746673)
+Author    : LrdSatyr8
+Date      : Sep 3, 2015 at 5:38 AM
+────────────────────────────────────────────────────────────────────────
+
+OK... the last update to this was back in January... it's now September... there's got to be some progress on this build! I'm sure you guys didn't just throw it in a box and forget about it! Comon... let's see more!!
+────────────────────────────────────────────────────────────────────────
+Post #107  (forum post #3750256)
+Author    : dsp5500
+Date      : Sep 6, 2015 at 10:35 PM
+────────────────────────────────────────────────────────────────────────
+
+No they don't get thrown in box's but other build's can take priority. You can check out some of what's been going on here.
+
+https://www.facebook.com/profile.php?id=100008906173772
+
+But yes totally agree the ATAT is way to cool a prop not to allocate some more time to so looks like it will be getting some bench time now.
+
+All the prototype work will be taken to the next level and a totally new armature machined from new data.
+
+[IMAGE: 251029-74f39d98bf8f09e9ae354665a87d2c52.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #108  (forum post #3750512)
+Author    : moffeaton
+Date      : Sep 7, 2015 at 7:44 AM
+────────────────────────────────────────────────────────────────────────
+
+New data! New data!
+────────────────────────────────────────────────────────────────────────
+Post #109  (forum post #3751354)
+Author    : LrdSatyr8
+Date      : Sep 8, 2015 at 5:34 AM
+────────────────────────────────────────────────────────────────────────
+
+Did someone get access to the scans of the AT-AT???  hehehehehehheeheh!
+────────────────────────────────────────────────────────────────────────
+Post #110  (forum post #4112232)
+Author    : Neo-uk
+Date      : Oct 31, 2016 at 8:00 AM
+────────────────────────────────────────────────────────────────────────
+
+...   1`234567890-
+
+- - - Updated - - -
+
+north3 said:
+
+			i wish i could help with the kit parts , but alot of them , i was told in confidence .
+		
+
+Click to expand...
+
+How childish
+────────────────────────────────────────────────────────────────────────
+Post #111  (forum post #4112587)
+Author    : Treadwell
+Date      : Oct 31, 2016 at 3:52 PM
+────────────────────────────────────────────────────────────────────────
+
+...boy THAT was worth bumping a year old thread for. :rolleyes
+────────────────────────────────────────────────────────────────────────
+Post #112  (forum post #4423302)
+Author    : dsp5500
+Date      : Mar 7, 2018 at 11:50 PM
+Reactions : Like — Carnet, maxhebus, joewhite
+────────────────────────────────────────────────────────────────────────
+
+Thought this was worth a bump :cool
+
+On the last "LEG" to finish the ATAT armature :lol
+
+[IMAGE: 456773-699614091a68827c991ac63fc8e7c8ac.jpg]
+
+[IMAGE: 456774-a941c55e4d277636b0301fcf291673f4.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #113  (forum post #4423346)
+Author    : eagle1
+Date      : Mar 8, 2018 at 3:25 AM
+────────────────────────────────────────────────────────────────────────
+
+Now THAT is a feat of some incredible machining!. 
+
+So looking like that shot of the parts laid out on a table at the old ILM. 
+
+Amazing skills here, do you have the body & head in the works as well?.
+
+Stu
+────────────────────────────────────────────────────────────────────────
+Post #114  (forum post #4423349)
+Author    : dsp5500
+Date      : Mar 8, 2018 at 3:46 AM
+Reactions : Like — Junk Pilot, moffeaton, seven
+────────────────────────────────────────────────────────────────────────
+
+The Head, Body and Body/Neck armature are more or less done, Once these Leg's are done I'll finalise the rest.
+
+I probably should recreate that shot of all the parts laid out :thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #115  (forum post #4423631)
+Author    : mofo77
+Date      : Mar 8, 2018 at 1:49 PM
+────────────────────────────────────────────────────────────────────────
+
+outstanding work buddy,some amazing engineering there!:thumbsup
+
+Rod
+────────────────────────────────────────────────────────────────────────
+Post #116  (forum post #4423780)
+Author    : anamorphicWayne
+Date      : Mar 8, 2018 at 6:12 PM
+Reactions : Like — swmodelfan1977
+────────────────────────────────────────────────────────────────────────
+
+Whoa!! Amazing work Rob. Excellent Job.
+
+Say, can you show us what's under the upper leg panel? 
+
+[IMAGE: 456908-952d3a9ea1996db30e73d5fa30f29dde.jpg]
+
+Here's what I came up with.
+────────────────────────────────────────────────────────────────────────
+Post #117  (forum post #4423783)
+Author    : dsp5500
+Date      : Mar 8, 2018 at 6:19 PM
+Reactions : Like — maxhebus, Space In Vader, joewhite
+────────────────────────────────────────────────────────────────────────
+
+Cheers Rod.
+
+mofo77: outstanding work buddy,some amazing engineering there!:thumbsup
+
+Rod
+
+- - - Updated - - -
+
+Trade secrets mate 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+anamorphicWayne said:
+
+			Whoa!! Amazing work Rob. Excellent Job.
+
+Say, can you show us what's under the upper leg panel? 
+
+View attachment 801026
+
+Here's what I came up with.
+		
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #118  (forum post #4423938)
+Author    : Neo-uk
+Date      : Mar 9, 2018 at 4:12 AM
+────────────────────────────────────────────────────────────────────────
+
+" Say, can you show us what's under the upper leg panel ?  "
+
+" Trade secrets mate 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ "
+
+Are people still acting like this :facepalm
+────────────────────────────────────────────────────────────────────────
+Post #119  (forum post #4423943)
+Author    : joewhite
+Date      : Mar 9, 2018 at 4:27 AM
+────────────────────────────────────────────────────────────────────────
+
+Neo-uk said:
+
+			" Say, can you show us what's under the upper leg panel ?  "
+
+" Trade secrets mate [emoji14] "
+
+Are people still acting like this :facepalm
+		
+
+Click to expand...
+
+If you mean, are people still working hard and still nice enough to post pics which we can all learn from if we just study them? Then yes, and I hope it continues!
+
+Absolutely stunning, Rob! We want more! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Joe
+
+Sent from my SM-G900V using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #120  (forum post #4423947)
+Author    : dsp5500
+Date      : Mar 9, 2018 at 4:34 AM
+Reactions : Like — joewhite
+────────────────────────────────────────────────────────────────────────
+
+Cheers Joe, 
+
+Glad you liked the post 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #121  (forum post #4424051)
+Author    : anamorphicWayne
+Date      : Mar 9, 2018 at 9:22 AM
+Reactions : Like — swmodelfan1977
+────────────────────────────────────────────────────────────────────────
+
+Say, can you show us what's under the upper leg panel? 
+
+Trade secrets mate 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+Hmmm. That's too bad. :rolleyes
+────────────────────────────────────────────────────────────────────────
+Post #122  (forum post #4425490)
+Author    : Gimme Shelter
+Date      : Mar 12, 2018 at 6:37 AM
+────────────────────────────────────────────────────────────────────────
+
+amazing work - do you have a shop that sells kits of your models as resin castings please?
+────────────────────────────────────────────────────────────────────────
+Post #123  (forum post #4425538)
+Author    : north3
+Date      : Mar 12, 2018 at 8:18 AM
+────────────────────────────────────────────────────────────────────────
+
+fanatsic work...
+
+its great to see it done properly !!
+
+looking forward to seeing it all come together
+────────────────────────────────────────────────────────────────────────
+Post #124  (forum post #4425845)
+Author    : dsp5500
+Date      : Mar 12, 2018 at 5:12 PM
+────────────────────────────────────────────────────────────────────────
+
+Gimme Shelter said:
+
+			amazing work - do you have a shop that sells kits of your models as resin castings please?
+		
+
+Click to expand...
+
+Never say never, but no plans to do a resin version currently.
+────────────────────────────────────────────────────────────────────────
+Post #125  (forum post #4425851)
+Author    : dsp5500
+Date      : Mar 12, 2018 at 5:15 PM
+────────────────────────────────────────────────────────────────────────
+
+north3 said:
+
+			fanatsic work...
+
+its great to see it done properly !!
+
+looking forward to seeing it all come together
+		
+
+Click to expand...
+
+Cheers Jon, Appreciate it.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 125

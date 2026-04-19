@@ -1,0 +1,225 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Digital Y-wing on Rogue One
+URL    : https://www.therpf.com/forums/threads/digital-y-wing-on-rogue-one.271620/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #4159726)
+Author    : Avanaut
+Date      : Jan 7, 2017 at 6:12 AM
+────────────────────────────────────────────────────────────────────────
+
+When the first glimpses of the Y-wing in Rogue One arrived, I was convinced the design was different. I was sure there were panels on the hull, shields covering some of the more greeblied areas. With this still from the movie, it is obvious that this is not the case, the details are all there, at least to a degree. What I wonder though, is that the details are not as prominent as I’d expect, the Y-wing looks flat. Did I "see" the panels because of that? Is it me and my ideal mental image of the model, or is the CGI version really flat? Please also note that there is only one Y-wing in the still image multiplied:
+
+[IMAGE: 378959-8969835473a5e507c1c0521f3ce5202c.jpg]
+
+Looking at the area behind the big 8Rad piece on the neck, the port flank around the Kettenkrad track part, front of the wing root. The details are mostly there but they don’t stand out much. The model seems to be missing some of the piping as well. The lighting on that area is flat, but I wonder. Comparing it to an original filming model shows that the details indeed seem to differ. Here’s a photograph of one of the originals from an angle closest to the screenshot I could find, the Triangles in an archive photo flipped sideways. Please look at the engine struts on the nacelles, they are clearly bigger on the Triangles. The engine details in general are flatter on the CGI model.
+
+[IMAGE: 378960-b9aedf3278d7bfe8ff5d03744a5bb0c2.jpg]
+
+I first thought that the flatness was just a question of maybe lack of painted detail such as the digital equivalent of washes and drybrushing. But if the details are actually smaller, then that won't cover it. Now, I was suggested that a Y-wing was scanned for Rogue One, which one would that be is unclear. Maybe it was the Master Replicas model seen in this video. If it was scanned and, as the video explains, they went deep in digital modeling by scanning original vintage kit parts for other models, where does this impression of flatness come from?
+
+My question is, should the digital models be accurate to the original they recreate, or should they be accurate to the impression of the original? It seems to be two different things, maybe the CGI process still has room to develop and we get to see even better, more organic models in near future. Models genuinely indistinguishable from the real thing.
+
+There is also the question of what is the reasonable amount of work that  can be invested in a digital model that makes a few quick passes on  screen? Making special effects is a tough business and you can't spend  much time on something you don't really need. The Y-wing was most likely not on the A-priority list and do not reperesent the best the industry can create. These birds looked great  on screen though, and while I would have wished for more depth in details, their  performance was still right on the nose.
+
+On a sidenote, someone asked why didn't they use the old 3D files created for the Special Editions back in the 90's. I have no idea if they did. But if they did use those old files as a base, it would perhaps explain some of the flatness. In the 90's the computers weren't as efficient as they are today and to make effects they had to be economical about the numbers of polygons they use. It was details with mapping on flat surface when possible. Who knows? I'm sure we get answers some day, maybe in the Bluray extras.
+
+Ps. The forum does not have the tag "Star Wars Rogue One". I'm not allowed to create one. Admin?
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #4159741)
+Author    : Toadmeister
+Date      : Jan 7, 2017 at 6:45 AM
+Reactions : Like — Avanaut
+────────────────────────────────────────────────────────────────────────
+
+I've seen one video already where they discussed the digital model making for R1.  Their process is going back to some of the origional kit -bashed model kits parts (like from Tamiya armor kits or race cars), scanning those into a library, than digitally assembling them to a new 3D model.  Pretty impressive.
+
+That said, they didn't specifically cover the Y-Wing so maybe they did use older digital masters from the ANH SE like you said?
+
+Sent from my SM-G900V using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #4159782)
+Author    : Stormy320
+Date      : Jan 7, 2017 at 7:47 AM
+Reactions : Like — Avanaut
+────────────────────────────────────────────────────────────────────────
+
+Love the film. The Ties looked bad. Makes you appreciate the two scenes in Jedi when the ties were swarming.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #4159833)
+Author    : TazMan2000
+Date      : Jan 7, 2017 at 8:51 AM
+────────────────────────────────────────────────────────────────────────
+
+To me, the fuselage looks way to thick. The details look very subdued and the Kettenkrad sensors on the nacelle nose cones look way too small. The cockpit looks...ok, but you can see some places where they embellished the design.
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #4159843)
+Author    : Jkirkon
+Date      : Jan 7, 2017 at 9:00 AM
+────────────────────────────────────────────────────────────────────────
+
+Bang for the buck...it LOOKS like the Y-Wing 99.5% of the fans remember from the OT. That's what counts to the filmmakers. The financial cost to appeal to the 0.5%'s attention to detail is a greatly diminishing ROI. I mean, really...other than a few people on studio scale modeling sites who else is going to scrutinize these ships frame by frame?
+
+I saw the movie 3X and I thought overall they did a great job of the digital modeling.
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #4159879)
+Author    : Matte Painter
+Date      : Jan 7, 2017 at 9:32 AM
+────────────────────────────────────────────────────────────────────────
+
+Differences have nothing to do with limitations in "the CGI process" but purely down to the inclination to put time and money in to going to that level of fidelity.   It's worth remembering that the organic differences between the original models was for this exact same reason, that it was easier and cheaper to grab whatever parts were available rather than try and find another tank tread of the exact same type you just used.  In CG it's a lot easier to copy/paste than model up some fresh parts that just go on to one model that spends a second of motion blurred screen time.   Though I am disappointed to see the textures were not at least mixed up a bit.  The model supervisor on that video states that did do that but clearly the Y-wings were not deemed worthy of that extra time and effort (aka money)
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #4160004)
+Author    : blakeh1
+Date      : Jan 7, 2017 at 12:41 PM
+Reactions : Like — Avanaut
+────────────────────────────────────────────────────────────────────────
+
+I could be wrong, but it looks like Gold 2, aka Tiger Sprocket aka Alad Ladd Jr Y?
+
+Also the shape of the from and cockpit area remind of the Fine Molds one. I wonder if the digital asset came from the same place as Fine Molds ref
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #4160185)
+Author    : Avanaut
+Date      : Jan 7, 2017 at 4:41 PM
+────────────────────────────────────────────────────────────────────────
+
+TazMan2000 said:
+
+			To me, the fuselage looks way to thick. The  details look very subdued and the Kettenkrad sensors on the nacelle nose  cones look way too small. The cockpit looks...ok, but you can see some  places where they embellished the design.
+
+TazMan2000
+		
+
+Click to expand...
+
+I actually liked the embellishments. If you  meant the texture mapped grime and worn out paint by it. Not sure of the  front cannons.
+
+Jkirkon said:
+
+			Bang for the buck...it  LOOKS like the Y-Wing 99.5% of the fans remember from the OT. That's  what counts to the filmmakers. The financial cost to appeal to the  0.5%'s attention to detail is a greatly diminishing ROI. I mean,  really...other than a few people on studio scale modeling sites who else  is going to scrutinize these ships frame by frame?
+
+I saw the movie 3X and I thought overall they did a great job of the digital modeling.
+		
+
+Click to expand...
+
+You are correct on all accounts and I especially agree on the great job they did on digital modeling. I have none of that physical vs. digital  mindset, that one if better than the other thing, if it looks good, it's good. CGI is a tool, no more, no less. My post comes from curiosity,  it's an attempt to understand the process. 
+
+Matte Painter said:
+
+			Differences have nothing to do with limitations in "the CGI process" but purely down to the inclination to put time and money in to going to that level of fidelity.   It's worth remembering that the organic differences between the original models was for this exact same reason, that it was easier and cheaper to grab whatever parts were available rather than try and find another tank tread of the exact same type you just used.  In CG it's a lot easier to copy/paste than model up some fresh parts that just go on to one model that spends a second of motion blurred screen time.   Though I am disappointed to see the textures were not at least mixed up a bit.  The model supervisor on that video states that did do that but clearly the Y-wings were not deemed worthy of that extra time and effort (aka money)
+		
+
+Click to expand...
+
+It boggles my mind how the originals were made, fast and from scratch. Well, scratch and then resin. Individual differences and sometimes brutal details, but they delivered 100% To see the same process at work behind the digital process is interesting. A 4K 3D process is really new, I heard that Rogue was one of the early examples that were processed on that level all the way through the production. I haven't seeked confirmation for that though. If so, the processing power required to do the massive space battle sequence must have been mindboggling. The need for that processing power combined to budget restraints are the limitations. 
+
+This Popular Science article on the creation of the digital Death Star tells a lot about the process. It was allocated about six weeks to create the Death Star models but it took over five months. It's a great read. The Y-wing clearly didn't get that treatment but I would still love to learn more about it.
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #4160263)
+Author    : DanielB
+Date      : Jan 7, 2017 at 6:26 PM
+Reactions : Like — StevenBills
+────────────────────────────────────────────────────────────────────────
+
+I just got out of seeing Rogue One, and the still you posted is literally the closest we ever get to the Y-wings. AND, that shot lasts maybe one second, and I doubt it's even a full 2 seconds. The repeating texture map if forgivable in that case because the only people who know are people on forums like this. 99.9999999% would never notice.
+
+There is a pretty large full page render of the Y-wing digital model in the Rogue One Ultimate Visual Guide book.
+
+CG is at a point now where you can make a digital model look 100% as real as a physical model. It's all about the time and skill an artist has to work on it. Just like if you gave two people a model kit, one of them will probably do a better job than the other. CG images can be produced 100% realistic now if you have a skilled technician doing the shot.
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #4160407)
+Author    : Lee S
+Date      : Jan 7, 2017 at 10:55 PM
+────────────────────────────────────────────────────────────────────────
+
+I can 99.99999% assure you that models from the 90's S.E.s were not used.  For multiple reasons. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #4160692)
+Author    : kokkari
+Date      : Jan 8, 2017 at 12:21 PM
+────────────────────────────────────────────────────────────────────────
+
+I enjoyed seeing them in the film was really happy they included them. I agree the body seems a little too beefy in that photo, but what I find interesting is some of the added detail that's not on the originals like what appears to be small semicircular engine intakes on the root of the wings.
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #4160766)
+Author    : darth_daniel
+Date      : Jan 8, 2017 at 1:58 PM
+────────────────────────────────────────────────────────────────────────
+
+The elongated main cannons look funny, looks like they have some sort of "silencer" at the tip.
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #4160782)
+Author    : dirtydave
+Date      : Jan 8, 2017 at 2:17 PM
+────────────────────────────────────────────────────────────────────────
+
+Looking at the weathering,is it me or are all the Y-wings the same in that picture?
+
+Dave
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #4160819)
+Author    : Jkirkon
+Date      : Jan 8, 2017 at 3:03 PM
+────────────────────────────────────────────────────────────────────────
+
+darth_daniel said:
+
+			The elongated main cannons look funny, looks like they have some sort of "silencer" at the tip.
+		
+
+Click to expand...
+
+I know they are not supposed to have those 'suppressors' on the cannons, but they sure do look cool.
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #4160823)
+Author    : Toadmeister
+Date      : Jan 8, 2017 at 3:05 PM
+────────────────────────────────────────────────────────────────────────
+
+Jkirkon said:
+
+			I know they are not supposed to have those 'suppressors' on the cannons, but they sure do look cool.
+		
+
+Click to expand...
+
+"Muzzle break" cough, cough...
+
+Sent from my SM-G900V using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #4160828)
+Author    : Jkirkon
+Date      : Jan 8, 2017 at 3:12 PM
+────────────────────────────────────────────────────────────────────────
+
+lol I am WELL versed in muzzle brakes.
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #4161186)
+Author    : sworrubs
+Date      : Jan 9, 2017 at 1:27 AM
+────────────────────────────────────────────────────────────────────────
+
+That still is from a trailer/tv spot/marketing I presume? Probably wishful thinking but has anyone been eagle eyed enough to confirm that it's identical to the shot in the film? It's not uncommon for trailer etc. shots to be temporary/different (especially in R1s case!) so they may have added texture variations at least in the actual film?
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #4161236)
+Author    : stonky
+Date      : Jan 9, 2017 at 4:17 AM
+────────────────────────────────────────────────────────────────────────
+
+It looks like a frame from the shot after they first arrive at Scarif where the Ys are first introduced ("Gold leader, standing by").
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #4183003)
+Author    : Pedro
+Date      : Feb 6, 2017 at 2:30 PM
+────────────────────────────────────────────────────────────────────────
+
+The X-Wings in The Force Awakens clearly had mirrored texture maps (weathering the same on both sides of the ship), so no surprise that they cheated a bit with the textures on the Y's.  Disappointing, but not surprising.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 19

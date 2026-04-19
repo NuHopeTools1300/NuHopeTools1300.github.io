@@ -1,0 +1,730 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Serenity Firefly 3D Project
+URL    : https://www.therpf.com/forums/threads/serenity-firefly-3d-project.346633/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #5337146)
+Author    : Star Lord
+Date      : Jul 10, 2022 at 3:26 AM
+Reactions : Like — tdb68, enterprise0216, joberg
+────────────────────────────────────────────────────────────────────────
+
+The Serenity Firefly is a unique spaceship design which captured my attention from the very beginning of this terrific but short lived sci fi series.  Unfortunately, finding a suitably large, studio scale model has been next to impossible until I stumbled upon a 3D model on Gambody.  The detail of the model was generally very good (in my opinion) but the overall size was way too small for my taste.  However, I decided to reslice the 3D files and increase the size of the original ship by 250%!  This would increase the length of the Firefly from a paltry 15 inches to over three and a half feet long (41 inches).   Now we're talking some serious space craft.  When starting this project I did not have an abundance of reference material which meant that I would probably offer my own preferences on final paint, engine louvers, and duct work for example.  More on these features later.  I opted to start with the main body and work my way towards the ship's stern or abdomen.  Here goes...
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1022-jpg.1596523/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1021-jpg.1596524/]
+
+    I am using an Ender 3 V2 and an Ender 5 plus whereby the goal was to do as little surface prep as possible (which is my least favorite thing to do!) and still assemble a respectable final project.
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #5337147)
+Author    : Star Lord
+Date      : Jul 10, 2022 at 3:36 AM
+Reactions : Like — Media Man, tdb68, enterprise0216
+────────────────────────────────────────────────────────────────────────
+
+The next stage begins with the two main thrusters and wings which attach directly to the main body.  The original designer of the STL files provided wire channels for the LED lighting effects which were installed after printing but before final assembly.  For once, I was thinking ahead.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0973-jpg.1596525/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0980-jpg.1596526/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0982-jpg.1596527/]
+
+The engines and most of the model were printed using a silver silk filament which gives the illusion that they are made out of aluminum.  This would be a big advantage when it came time to start painting.  The overall quality of the prints are really pretty decent.  I opted for 5mm LEDs wired to a controller that simulates a pulsing effect.  Evans Designs provided all of the lighting and wiring materials.  They are a great resource IMHO.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1460-jpg.1596528/]
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #5337165)
+Author    : JPH
+Date      : Jul 10, 2022 at 5:36 AM
+Reactions : Love — ssdesigner
+────────────────────────────────────────────────────────────────────────
+
+Shiny!
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #5337494)
+Author    : Star Lord
+Date      : Jul 11, 2022 at 3:46 AM
+Reactions : Like — tdb68, enterprise0216, joberg
+────────────────────────────────────────────────────────────────────────
+
+Once the two main engines were outfitted with LEDs, they were mounted on the wings and then test fit to the main body of the Serenity.  Fitment was excellent.  I then focused on printing the "cradle" that surrounds the base of the ship's "abdomen" and then the abdomen base itself.  One word of caution... I found out the hard way that the cradle should NOT be glued together until final assembly of the ship.  More on this later.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0994-jpg.1596859/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0972-jpg.1596860/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0967-jpg.1596861/]
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #5337495)
+Author    : Star Lord
+Date      : Jul 11, 2022 at 3:52 AM
+Reactions : Like — tdb68, enterprise0216, joberg
+────────────────────────────────────────────────────────────────────────
+
+The base of the abdomen or lower fuselage took a day and a half to print but the results were worth the wait.  I had already decided to install an LED strand in this part of the fuselage that would rotate when the Serenity engines were underway.  I test fit this component to the main body and was pleased once again with the fitment.  Printing and completing the abdomen proved to be a different story altogether.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0977-jpg.1596862/]
+
+I should mention that some cleanup was necessary on the underhang of this part.  I did not use supports for much of this project but the underhang had to be cleaned up and a coat of Evercoat body filler was added.  This seam is not visible in the finished model.
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #5337841)
+Author    : Star Lord
+Date      : Jul 12, 2022 at 1:56 AM
+Reactions : Like — enterprise0216, joberg, JPH
+────────────────────────────────────────────────────────────────────────
+
+The detail on the abdomen of the Serenity was really pretty impressive and the designer of the STL files gave me several options in terms of what style of louvers to use and whether to have open or closed vents.  Unfortunately, this abundance of surface features like fuel conduits, pipes and tubes created a real mess for my printing skills (or lack thereof).  To make matters worse, my Ender 5 started having control board issues and the print quality really plummeted.  As a result, many of these aforementioned, unsupported features were removed from the print or were badly reproduced and virtually unusable.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1001-jpg.1597146/]
+
+I decided to shave many of the tubes, conduits etc and reproduce them using Evergreen tubing, heat shrink tubing and various diameters of solder.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1051-1-jpg.1597147/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1082-jpg.1597148/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1457-jpg.1597149/]
+
+After several hours, much of the detail was restored or at least cleaned up to a point where I could feel good about moving on to the next step in the build.  Once finished, any stringing or uneven surfaces were filled and everything received several coats of Vallejo flat black primer.
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #5337842)
+Author    : Star Lord
+Date      : Jul 12, 2022 at 2:04 AM
+Reactions : Like — kickman88, tdb68, enterprise0216
+────────────────────────────────────────────────────────────────────────
+
+At this point, I wanted to test fit the main body components to make sure I was heading in the right direction.  One issue that I ran into was that the size of the H shaped connectors was designed improperly or I was just incapable of figuring out how to make them fit.  Body sections were supposed to "snap" together, perfectly aligned.  This was one of the only complaints I had about the quality of the STL files and the overall design of the Serenity.  I shaved the connectors, reduced their scale and finally achieved some success.  Pictured below, the Serenity is finally taking shape.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1025-jpg.1597150/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1027-jpg.1597151/]
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #5337850)
+Author    : JPH
+Date      : Jul 12, 2022 at 3:42 AM
+────────────────────────────────────────────────────────────────────────
+
+Wow! This project is a-movin right along.
+
+So, using Enders. 
+
+PLA? 
+
+Nice looking prints.
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #5338018)
+Author    : Star Lord
+Date      : Jul 12, 2022 at 5:50 PM
+Reactions : Like — joberg, JPH
+────────────────────────────────────────────────────────────────────────
+
+JPH said:
+
+			Wow! This project is a-movin right along.
+
+So, using Enders.
+
+PLA?
+
+Nice looking prints.
+		
+
+Click to expand...
+
+Yep, it's Matchbox and Amazon silk PLA.
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #5338077)
+Author    : Star Lord
+Date      : Jul 13, 2022 at 12:51 AM
+Reactions : Like — Knightmare, enterprise0216, JPH
+────────────────────────────────────────────────────────────────────────
+
+Printing the upper fuselage went off without a hitch after my Ender 5 printer issues were resolved.  I had originally thought about detailing the cockpit but decided against it.  A resin printer would probably have done a much better job of capturing the details on this feature. 
+
+More testing fitting and more primer was needed at this point. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1083-jpg.1597335/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1459-jpg.1597336/]
+
+The overall length of the Serenity has surpassed 41 inches!  This thing is a beast.  I did not want to permanently bond the upper fuselage to the main body so I added rare earth magnets which provided a really strong grip.  The Serenity's upper fuselage and rear abdomen can be easily removed for possible shipping or relocation in the future.  You can also access the batter, remote receiver and LED wiring inside the main body too.
+
+ 
+
+Attachments
+
+[IMAGE: 1239855-457593197b4046c7c38e9b92178616f5.jpg]
+
+IMG_1523.jpg
+
+					2.1 MB
+					
+					· Views: 266
+					
+				
+
+[IMAGE: 1239854-4f8b9df72b13bace478a8622c393f5df.jpg]
+
+IMG_1046.jpg
+
+					2.2 MB
+					
+					· Views: 374
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #5338078)
+Author    : Star Lord
+Date      : Jul 13, 2022 at 12:56 AM
+Reactions : Like — enterprise0216, JPH, joberg
+────────────────────────────────────────────────────────────────────────
+
+The solar panels and engine louvers were printed next.  The designer provided me with two options on how to configure the rear abdomen.  I wanted the louvers mounted in the open position. The solar panels were painted with Vallejo Metallic Blue and Flat Black.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1464-jpg.1597339/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1002-jpg.1597340/]
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #5338079)
+Author    : Star Lord
+Date      : Jul 13, 2022 at 1:01 AM
+Reactions : Like — rbeach84, joberg, TDahl
+────────────────────────────────────────────────────────────────────────
+
+At this point, I decided to add two versions of the shuttle craft- one in the take off position and the other with it's wings fold but clearly visible inside the main body.  I downscaled and resliced another Gambody offering, added flat black primer and dusted them with a light coat of steel paint.  I embedded a piece of brass tubing in the seam of the wing, and drilled out the flying shuttle.  This feature can easily be removed and  reinstalled if needed.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1100-jpg.1597341/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1099-jpg.1597342/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1536-jpg.1597343/]
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #5338393)
+Author    : srspicer
+Date      : Jul 14, 2022 at 12:22 AM
+Reactions : Like — enterprise0216
+────────────────────────────────────────────────────────────────────────
+
+Wow, that's a lot of material!
+
+Looks great.
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #5338411)
+Author    : Star Lord
+Date      : Jul 14, 2022 at 3:19 AM
+Reactions : Like — srspicer, JPH, joberg
+────────────────────────────────────────────────────────────────────────
+
+Final assembly is all but complete and final paint is about 90 percent complete as well.  I have seen several versions of the Serenity online including movie/series clips from various sources but have to admit that I took some artistic license on my final choice of paint color. Most examples show the hull with a bare steel finish but I wanted something with more contrast.  I applied Vallejo flat black to the entire spacecraft followed by a very light misting (believe it or not) of Vallejo metallic bronze.  Some areas were left unpainted due to the aforementioned use of metallic silk PLA.  I have also added the louvers to the abdomen in the open position and begun placement of the solar panels. The abdomen and upper fuselage are removable as previously mentioned.  Please let me know what you think of the paint scheme.
+
+ 
+
+Attachments
+
+[IMAGE: 1240229-e254e1d38cac4d5c2c9fe3ec6c9492b9.jpg]
+
+IMG_1461.jpg
+
+					1.6 MB
+					
+					· Views: 252
+					
+				
+
+[IMAGE: 1240230-eda7c57c90d1009e773a698143c2044b.jpg]
+
+IMG_1462.jpg
+
+					2 MB
+					
+					· Views: 240
+					
+				
+
+[IMAGE: 1240231-7d4e18ba3e9987d9e2791248df6489c4.jpg]
+
+IMG_1519.jpg
+
+					2.8 MB
+					
+					· Views: 250
+					
+				
+
+[IMAGE: 1240232-f4f3a4d56400df49400de03176ca8e6b.jpg]
+
+IMG_1522.jpg
+
+					3.4 MB
+					
+					· Views: 249
+					
+				
+
+[IMAGE: 1240233-2761dbe7fb78fe6312675ef4b579ef9c.jpg]
+
+IMG_1534.jpg
+
+					2.7 MB
+					
+					· Views: 242
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #5338413)
+Author    : Star Lord
+Date      : Jul 14, 2022 at 3:24 AM
+Reactions : Like, Love — rbeach84, Tommy, srspicer
+────────────────────────────────────────────────────────────────────────
+
+I followed up with lots of dry brushing using Vallejo aluminium and flat black once again.  The main engine nacelles will be painted a very light misting of transparent metallic blue and the rear thrusters will be dry brushed with smoke and gunmetal grey.  Window panels were added to the cockpit as well. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1532-jpg.1597717/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1531-jpg.1597718/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1536-jpg.1597719/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1530-jpg.1597720/]
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #5338471)
+Author    : Jamesfett
+Date      : Jul 14, 2022 at 8:22 AM
+Reactions : Like — Tommy, bwayne64
+────────────────────────────────────────────────────────────────────────
+
+
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #5338490)
+Author    : JPH
+Date      : Jul 14, 2022 at 9:05 AM
+Reactions : Like — greenmachines, feek61
+────────────────────────────────────────────────────────────────────────
+
+What ever happened to "Hobby Speed"?!?!
+
+Dang! That was fast
+
+Beautiful build.
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #5338517)
+Author    : enterprise0216
+Date      : Jul 14, 2022 at 10:17 AM
+────────────────────────────────────────────────────────────────────────
+
+WOW AMAZINF STELLAR!!!   I have always wanted the Serenity like this for display etc etc.  Thanks for sharing all the pics of your project.  Tis Shiny Cap'n!!
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #5338532)
+Author    : Gee2
+Date      : Jul 14, 2022 at 10:43 AM
+────────────────────────────────────────────────────────────────────────
+
+Just WOW...
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #5338538)
+Author    : Jamesfett
+Date      : Jul 14, 2022 at 10:51 AM
+────────────────────────────────────────────────────────────────────────
+
+Can I ask what glue did you use with your magnets?
+
+I have tried several.  It went,...odd!!
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #5338586)
+Author    : Star Lord
+Date      : Jul 14, 2022 at 12:30 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Jamesfett said:
+
+			Can I ask what glue did you use with your magnets?
+
+I have tried several.  It went,...odd!!
+		
+
+Click to expand...
+
+Sure!  I drilled out the PLA and then packed the hole with Aves Apoxy Sculpt. The magnet was pressed into the AAS before it set up in order to give a clean impression of the magnet.  24 hours later, I roughed up the side of the magnet that was being glued with fine grade sand paper and then used CA glue to secure the magnet into the cavity or hole.  The damn things are really strong and so far have held up well.  The upper fuselage takes a bit of umph to remove which is exactly what I was hoping for.  Hope this helps.
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #5338588)
+Author    : Jamesfett
+Date      : Jul 14, 2022 at 12:34 PM
+────────────────────────────────────────────────────────────────────────
+
+Star Lord said:
+
+			Sure!  I drilled out the PLA and then packed the hole with Aves Apoxy Sculpt. The magnet was pressed into the AAS before it set up in order to give a clean impression of the magnet.  24 hours later, I roughed up the side of the magnet that was being glued with fine grade sand paper and then used CA glue to secure the magnet into the cavity or hole.  The damn things are really strong and so far have held up well.  The upper fuselage takes a bit of umph to remove which is exactly what I was hoping for.  Hope this helps.
+		
+
+Click to expand...
+
+Excellent.
+
+Thank you.  To bother you again can you tell me what size and thickness of magnet you used?
+
+There are a million sizes on K&J magnetics.
+
+Thanks again.
+
+Tom
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #5338593)
+Author    : Jamesfett
+Date      : Jul 14, 2022 at 12:39 PM
+────────────────────────────────────────────────────────────────────────
+
+So sorry to bother yet again.
+
+Searching CA glue has brought up a thousand choices.
+
+I usually use superglue and or JB weld, however these have odd results with magnets.
+
+Can you ell me what type of CA glue you specifically use?
+
+Thanks and sorry to be a pain.
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #5338628)
+Author    : bwayne64
+Date      : Jul 14, 2022 at 1:46 PM
+────────────────────────────────────────────────────────────────────────
+
+Glad to see an Ender can do this level of printing. But I would have to own stock in a filament company to print something this big. Awesome work !
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #5338783)
+Author    : Star Lord
+Date      : Jul 15, 2022 at 2:50 AM
+Reactions : Love — Jamesfett
+────────────────────────────────────────────────────────────────────────
+
+Jamesfett said:
+
+			Excellent.
+
+Thank you.  To bother you again can you tell me what size and thickness of magnet you used?
+
+There are a million sizes on K&J magnetics.
+
+Thanks again.
+
+Tom
+		
+
+Click to expand...
+
+No bother whatsoever.  I wish I had saved the original packaging but these are the magnets that I use on most of my projects.  They are 7mm in diameter and 3mm deep. I purchase them at Ace Hardware btw.  The CA glue I use is Loctite brand, not the gel but the super glue.  I have typically used ZAP products for years but the local hobby shop that carries this brand is not convenient.  I have had good success with Loctite and it works well on PLA.  Two part resin and JB Weld do not always bond well with PLA.  However, roughing up the surface to be bonded is imperative and will improve results. You can get it at any local Home Depot, or Ace Hardware and it works well with a Zip Kicker catalyst.
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #5338784)
+Author    : Star Lord
+Date      : Jul 15, 2022 at 2:53 AM
+────────────────────────────────────────────────────────────────────────
+
+bwayne64 said:
+
+			Glad to see an Ender can do this level of printing. But I would have to own stock in a filament company to print something this big. Awesome work !
+		
+
+Click to expand...
+
+The Ender 3 V2 and the Ender 5 Plus are capable of producing excellent results if dialed in correctly.  Believe it or not, I did not use a lot of filament on this project because I avoid supports whenever possible and keep the infill percentage really low (8-10%) except on highly detailed pieces.  I highly recommend both printers but the Ender 3 is best if you are new to 3D printing.
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #5338936)
+Author    : Jamesfett
+Date      : Jul 15, 2022 at 12:28 PM
+────────────────────────────────────────────────────────────────────────
+
+Okay I use superglue all the time, including Loctite, so I was very confused as I have seen "CA glue" mentioned before.  Rather than continue to bother by asking question I went to youtube, so for any other goobers like me here is a great video for you on CA glue.
+────────────────────────────────────────────────────────────────────────
+Post #28  (forum post #5338939)
+Author    : Jamesfett
+Date      : Jul 15, 2022 at 12:34 PM
+────────────────────────────────────────────────────────────────────────
+
+Can I ask how the 3D lines look in person?
+
+I picked up a 3D printed Mando Rifle.  Very well designed, and I figured, like in other cases the camera was making the 3D lines look worse, which is usually the case.  Not in this case, and trying to get rid of them is a real pain.
+
+I have heard of some new primers, (Not autobody filler primer) that are specifically made to smooth 3D printed lines.
+
+My Mando rifle is a nightmare, my 3D printed The Batman Batarang showed up with very obvious 3D printed lines but were easy to sand down.  To sand the individual Mando Rifle parts will be a challenge.
+
+Thanks
+────────────────────────────────────────────────────────────────────────
+Post #29  (forum post #5339286)
+Author    : bwayne64
+Date      : Jul 16, 2022 at 7:08 PM
+────────────────────────────────────────────────────────────────────────
+
+Star Lord said:
+
+			The Ender 3 V2 and the Ender 5 Plus are capable of producing excellent results if dialed in correctly.  Believe it or not, I did not use a lot of filament on this project because I avoid supports whenever possible and keep the infill percentage really low (8-10%) except on highly detailed pieces.  I highly recommend both printers but the Ender 3 is best if you are new to 3D printing.
+		
+
+Click to expand...
+
+Yea I've had my Ender 3 for a couple of years, it's a great printer. Just never printed anything as big as your Serenity. Love that ship and show. Too bad it was cancelled so soon. People at networks are so stupid.
+────────────────────────────────────────────────────────────────────────
+Post #30  (forum post #5339370)
+Author    : Star Lord
+Date      : Jul 17, 2022 at 1:55 AM
+────────────────────────────────────────────────────────────────────────
+
+bwayne64 said:
+
+			Yea I've had my Ender 3 for a couple of years, it's a great printer. Just never printed anything as big as your Serenity. Love that ship and show. Too bad it was cancelled so soon. People at networks are so stupid.
+		
+
+Click to expand...
+
+There has been a lot of talk lately about a Firefly reboot.  Nathan Fillion has expressed interest in returning but one of the issues is Josh Whedon and some of the problems associated with his directorial style/behavior etc. Hopefully, the reboot is more than just wishful thinking.
+────────────────────────────────────────────────────────────────────────
+Post #31  (forum post #5339400)
+Author    : bwayne64
+Date      : Jul 17, 2022 at 5:54 AM
+Reactions : Like — Jamesfett
+────────────────────────────────────────────────────────────────────────
+
+Star Lord said:
+
+			There has been a lot of talk lately about a Firefly reboot.  Nathan Fillion has expressed interest in returning but one of the issues is Josh Whedon and some of the problems associated with his directorial style/behavior etc. Hopefully, the reboot is more than just wishful thinking.
+		
+
+Click to expand...
+
+I would say that would be a good thing, but the way they remake things these days, I don't know. They probably should just leave it alone. As much as I'd like to see the gang together again, I will just watch the blu-rays and enjoy what we have.
+────────────────────────────────────────────────────────────────────────
+Post #32  (forum post #5349597)
+Author    : snouty
+Date      : Aug 16, 2022 at 7:59 AM
+────────────────────────────────────────────────────────────────────────
+
+Utterly gorgeous. Ender 5 you say . . . hmm
+────────────────────────────────────────────────────────────────────────
+Post #33  (forum post #5366284)
+Author    : Jamesfett
+Date      : Oct 13, 2022 at 3:15 PM
+────────────────────────────────────────────────────────────────────────
+
+Update please. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Need a Serenity fix.
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #34  (forum post #5368591)
+Author    : drusselmeyer
+Date      : Oct 20, 2022 at 11:07 PM
+Reactions : Like — greenmachines, swgeek
+────────────────────────────────────────────────────────────────────────
+
+Somehow I missed this whole thread.
+
+Nicely done.  
+
+I would suggest that anyone deciding to do this, either consider using something other than PLA or throwing rubber over the parts after printing and cast them.
+
+Remember the purpose of PLA is to disintegrate.
+────────────────────────────────────────────────────────────────────────
+Post #35  (forum post #5525222)
+Author    : Jamesfett
+Date      : Mar 31, 2024 at 7:22 AM
+Reactions : Like — greenmachines
+────────────────────────────────────────────────────────────────────────
+
+drusselmeyer said:
+
+			Somehow I missed this whole thread.
+
+Nicely done. 
+
+I would suggest that anyone deciding to do this, either consider using something other than PLA or throwing rubber over the parts after printing and cast them.
+
+Remember the purpose of PLA is to disintegrate.
+		
+
+Click to expand...
+
+PLA disintegrates???????????
+────────────────────────────────────────────────────────────────────────
+Post #36  (forum post #5525504)
+Author    : drusselmeyer
+Date      : Apr 1, 2024 at 8:33 AM
+Reactions : Like — greenmachines
+────────────────────────────────────────────────────────────────────────
+
+That's the claim: Biodegradable.  Have you seen old filament prints that have begun to unravel?  That's the purpose of plant based materials.
+────────────────────────────────────────────────────────────────────────
+Post #37  (forum post #5525506)
+Author    : Jamesfett
+Date      : Apr 1, 2024 at 8:37 AM
+────────────────────────────────────────────────────────────────────────
+
+drusselmeyer said:
+
+			That's the claim: Biodegradable.  Have you seen old filament prints that have begun to unravel?  That's the purpose of plant based materials.
+		
+
+Click to expand...
+
+What the Duck!!!!!!!!!!!!!!!
+
+So if you want to build a large ship model that does not go away, what do you use?
+────────────────────────────────────────────────────────────────────────
+Post #38  (forum post #5525511)
+Author    : drusselmeyer
+Date      : Apr 1, 2024 at 8:59 AM
+────────────────────────────────────────────────────────────────────────
+
+Technically, every model is in danger of falling apart at some point. Even polystyrene models eventually degrade.  I recently started restoring an old model from the 1960's.  It was made of styrene, so it's parts must be reinforced due to its fragility.  The parts crack in places new parts usually wouldn't. 
+
+One of the most durable model materials currently being used is stainless steel sheet. Other materials include wood, aluminum (aluminium), brass, glass and polycarbonates.  Basically, any long-lasting material you can find for real items is a good model material.
+────────────────────────────────────────────────────────────────────────
+Post #39  (forum post #5525518)
+Author    : Jamesfett
+Date      : Apr 1, 2024 at 9:33 AM
+────────────────────────────────────────────────────────────────────────
+
+drusselmeyer said:
+
+			Technically, every model is in danger of falling apart at some point. Even polystyrene models eventually degrade.  I recently started restoring an old model from the 1960's.  It was made of styrene, so it's parts must be reinforced due to its fragility.  The parts crack in places new parts usually wouldn't.
+
+One of the most durable model materials currently being used is stainless steel sheet. Other materials include wood, aluminum (aluminium), brass, glass and polycarbonates.  Basically, any long-lasting material you can find for real items is a good model material.
+		
+
+Click to expand...
+
+A bit scary looking at my MR Falcon.
+
+As far as material what is best for 3D printing?
+
+Thanks again.
+────────────────────────────────────────────────────────────────────────
+Post #40  (forum post #5525531)
+Author    : swgeek
+Date      : Apr 1, 2024 at 10:09 AM
+Reactions : Like — Jamesfett, drusselmeyer
+────────────────────────────────────────────────────────────────────────
+
+ABS is durable and long lasting...for FDM printing.
+────────────────────────────────────────────────────────────────────────
+Post #41  (forum post #5528664)
+Author    : RealDaveWinter
+Date      : Apr 13, 2024 at 8:36 AM
+Reactions : Like — Bloop
+────────────────────────────────────────────────────────────────────────
+
+drusselmeyer said:
+
+			That's the claim: Biodegradable.  Have you seen old filament prints that have begun to unravel?  That's the purpose of plant based materials.
+		
+
+Click to expand...
+
+It takes decades for PLA to degrade. I have plant pots I printed years ago, that have been sitting outside in the sun, rain, and snow, and they still look like the day they were printed.
+
+At least 80 years according to experts.
+
+			https://www.gianeco.com/en/faq-detail/1/10/how-long-does-pla-take-to-decompose
+		
+
+If someone wants to print a model ship hull out of PLA, and assuming it's looked after with even the smallest amount of effort, it will outlive them.
+────────────────────────────────────────────────────────────────────────
+Post #42  (forum post #5529649)
+Author    : drusselmeyer
+Date      : Apr 17, 2024 at 6:31 PM
+Reactions : Like — greenmachines
+────────────────────────────────────────────────────────────────────────
+
+I guess that would depend on where you are.  In warmer places even polyethylene doesn't survive more than a year.
+────────────────────────────────────────────────────────────────────────
+Post #43  (forum post #5658587)
+Author    : greenmachines
+Date      : Aug 31, 2025 at 9:20 AM
+Reactions : Like — Bloop, Jamesfett
+────────────────────────────────────────────────────────────────────────
+
+drusselmeyer said:
+
+			I guess that would depend on where you are.  In warmer places even polyethylene doesn't survive more than a year.
+		
+
+Click to expand...
+
+In direct sunlight, most commercial products, that are not specifically marked as outdoor, will decay severely. This is why pipe and wire coatings are referred to as "in ground". At first I thought that meant they were stronger or waterproof but it was backwards. It meant they could NOT be exposed to sunlight.
+
+UV is the decayer of all things petroleum based but heat comes in as a close second for causing damage. A plastic pipe laying in the sun in Montana might last years where that same pipe would last one summer in Arizona before flaking and cracking. Same can be said for plastic tarps. Other products have a huge range of uses and longevity. I will place a few things outside to see how they fair. This topic had me searching all over the rpf so I will be sharing a few of the above in another few threads.
+────────────────────────────────────────────────────────────────────────
+Post #44  (forum post #5658637)
+Author    : RealDaveWinter
+Date      : Aug 31, 2025 at 1:41 PM
+Reactions : Like — Bloop, greenmachines, Jamesfett
+────────────────────────────────────────────────────────────────────────
+
+PLA filament is only 'technically' biodegradable. Most recycle places wont touch it. You need extremely high humidity and maintained temps of over 400 degrees Celsius to break down PLA. Unless you live on Venus, this is unlikely. Nobody should be worried about building a model out of PLA, especially if that model is going to spend 99% of its life indoors.
+────────────────────────────────────────────────────────────────────────
+Post #45  (forum post #5658698)
+Author    : drusselmeyer
+Date      : Aug 31, 2025 at 8:22 PM
+Reactions : Like — greenmachines, Bloop
+────────────────────────────────────────────────────────────────────────
+
+RealDaveWinter said:
+
+			PLA filament is only 'technically' biodegradable. Most recycle places wont touch it. You need extremely high humidity and maintained temps of over 400 degrees Celsius to break down PLA. Unless you live on Venus, this is unlikely. Nobody should be worried about building a model out of PLA, especially if that model is going to spend 99% of its life indoors.
+		
+
+Click to expand...
+
+Hopefully it is more dependable now, but I have seen older prints unravel and flake after just a couple of years. 
+
+That said; it is not the traditional practice to leave models unpainted but displayed.
+────────────────────────────────────────────────────────────────────────
+Post #46  (forum post #5658754)
+Author    : Bloop
+Date      : Aug 31, 2025 at 11:15 PM
+Reactions : Like — greenmachines
+────────────────────────────────────────────────────────────────────────
+
+drusselmeyer said:
+
+			Hopefully it is more dependable now, but I have seen older prints unravel and flake after just a couple of years.
+
+That said; it is not the traditional practice to leave models unpainted but displayed.
+		
+
+Click to expand...
+
+I wonder if those models broke down due to improper build temperatures - maybe the pla wasn't printed hot enough to stay stuck to the lower layers. Or maybe the PLA had too much moisture in it when it was used to print? Just speculating based on the little knowledge I have of printing with PLA.
+────────────────────────────────────────────────────────────────────────
+Post #47  (forum post #5658759)
+Author    : greenmachines
+Date      : Aug 31, 2025 at 11:25 PM
+────────────────────────────────────────────────────────────────────────
+
+Bloop said:
+
+			I wonder if those models broke down due to improper build temperatures - maybe the pla wasn't printed hot enough to stay stuck to the lower layers. Or maybe the PLA had too much moisture in it when it was used to print? Just speculating based on the little knowledge I have of printing with PLA.
+		
+
+Click to expand...
+
+You bring up a good point though. Does its water retention characteristic stop after printing or is that yet another reason to paint and seal a finished project?
+────────────────────────────────────────────────────────────────────────
+Post #48  (forum post #5658813)
+Author    : RealDaveWinter
+Date      : Sep 1, 2025 at 6:15 AM
+────────────────────────────────────────────────────────────────────────
+
+PLA will absorb moisture after printing. The chemical composition of the material hasn't changed, it's just in a different form. So if you want to keep something around a long time, you should at least prime it.
+
+That said though, the horror stories of PLA breaking down are exaggerated in my experience. I have had a PLA object sitting outside for 3 years of Southern Ontario weather. +40 to -40 temps and summers of 80% humidity. The object is unchanged except it's faded a bit in colour.
+
+Now I say that, but I did have a large part of my Falcon hull melt when I left it out in the high noon sunshine for a few hours. It was black PLA so absorbs light. Keep in mind though, almost any black plastic left in direct sunlight will likely melt and warp. It also melted as a solid piece, it didn't flake or unravel. 
+
+So like I said, your PLA model will be fine for decades, just keep it out of direct sun.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 48

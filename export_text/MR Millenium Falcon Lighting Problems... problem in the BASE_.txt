@@ -1,0 +1,154 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : MR Millenium Falcon Lighting Problems... problem in the BASE?
+URL    : https://www.therpf.com/forums/threads/mr-millenium-falcon-lighting-problems-problem-in-the-base.60933/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #844135)
+Author    : jvasilatos
+Date      : Apr 12, 2009 at 5:32 PM
+────────────────────────────────────────────────────────────────────────
+
+I turned on my Millenium Falcon lights today, the one with the portside mandible light problem, to see the lights from the engines and cockpit flicker out while the starboard mandible light stayed lit.  It seems that the switch on the base ALWAYS has to be fiddled with for all the lights to stay on, or the Falcon rotated on it's support pole, which makes me wonder... could the lighting problem many of us are suffering be from bad or faulty wiring in the mirror base from the distribution of power from the light switch?  I am going to explore this when I have some time to figure out if the base can coma apart to see if there are wires inside of it that are not connected properly...
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #844297)
+Author    : jvasilatos
+Date      : Apr 12, 2009 at 10:07 PM
+────────────────────────────────────────────────────────────────────────
+
+Well what a surprise.
+
+MR made the base impossible to get into also without destroying it. :angry
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #844751)
+Author    : vaderdarth
+Date      : Apr 13, 2009 at 12:59 PM
+────────────────────────────────────────────────────────────────────────
+
+mine's out too.  I am gonna have to replace my plug as it seems to be shorted out there.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #844872)
+Author    : jvasilatos
+Date      : Apr 13, 2009 at 3:10 PM
+────────────────────────────────────────────────────────────────────────
+
+Repeated in other thread...
+
+I went to a Radio Shack with the "dead" mandible LED to find a match.
+
+Guess what?  We tested the "dead" LED at the store with a 9 volt battery and a resistor to protect it, and it works fine.
+
+That means the good news is, everyone's mandible LEDs are probably NOT burnt out.
+
+The bad news is... I believe that the source of the problem is in the ****ty mirror base with the rocker switch that never stays in a position that keeps the Falcon lit.
+
+I am going to connect a 9 volt battery to the male extension plug that came apart from the base and test it by plugging it into the lower gunport after resoldering the mandible LED and seeing if the 9 volt will light everything up fine.
+
+If it turns out that all the lights shine fine, (as I'm hoping), MR's base manufacturer  released a bunch of crappy bases, that in the scheme of things, wouldn't be that expensive to replace or repair as opposed to cracking open the Falcons now that it's been determined the LEDs are fine.
+
+And consider this, if these mandible LEDs worked once, but don't now even though my test shows the LED is fine, what are the chances a wire came loose inside the Falcon as opposed to the loose metal plug that powers the bird from the base?  I'm betting it's a problem in the base, stand by when I'm home and can wire up a 9 volt to the plug and see how things look.
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #844970)
+Author    : jvasilatos
+Date      : Apr 13, 2009 at 5:33 PM
+────────────────────────────────────────────────────────────────────────
+
+It's the base.
+
+I reconnected the "bad" LED, connected a 9 volt battery with resistor to the metal phono jack, plugged it into the underside gunport and guess what?  EVERYTHING lights up fine.
+
+So your LEDs are not burnt out.  The problem with everyone's MR Falcons is that the base is shoddily designed and that somewhere between that crappy on/off switch to the phono plug that goes into the underside of the Falcon, there is bad wiring.
+
+So the question NOW is... how do we get into that base without having to figure out a way to power our Falcon's with a 9 volt battery?
+
+It would have been so much easier if MR had simply had SOME kind of hidden panel on the Falcon so it could be powered by a 9 volt... that's how much voltage the AC adaptor is directing into the phono plug.
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #844989)
+Author    : ave4uevoli
+Date      : Apr 13, 2009 at 5:50 PM
+────────────────────────────────────────────────────────────────────────
+
+jvasilatos, First... thank you so much for doing this. I understand that you did this mostly because you were upset over your own millennium falcon but few have the balls to try and fix the problem... and I bow down to your courage sir. 
+
+I guess I don't have anything else to say.. I'm still pretty stunned that you got to the root of the problem. 
+
+Too bad the base is just as hard to open up. Thinking about it though the problem may still be in the falcon. I'm not really electrically savy.. . but with one mandible lighting up you should assume that power is getting to the plug on the stand. Thus, it may be a problem with the contact of the plug to the inside of the falcon....   (i'll have to look at that post of the lighting assembly inside of the falcon again to figure out if the distribution of the power from the plug...
+
+If we have to open up the inside of the falcon near the power port then that would be a much bigger job to fix than fixing the led in the mandible. 
+
+either way.. thanks for doing this..
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #845008)
+Author    : jvasilatos
+Date      : Apr 13, 2009 at 6:19 PM
+────────────────────────────────────────────────────────────────────────
+
+Trust me... our Falcons are fine.  We all had the same problem.  If the power switch on your stand is wobbly and you have to play with it to keep the power on like mine in any way, it pinpoints the problem, especially now that I've been powering my Falcon with not a hint of flickering or power problems from a 9 volt battery attached to the same phon plug from the MR stand, and the power is channeling through that phono jack plug perfectly.  I just wish I hadn't had to pop the front mandible off and have to do a little cosmetic weathering now to hide a little of the surgery, but it's no big deal.  What bugs me is MR couldn't figure this out with all the questions directed at them, or offer any solutions regarding the bases that seem to have bad switches channeling the current to that frosted pole and the phono plug within.
+
+Now that the Falcon is diagnosed as being healthy, I have to screw around with the mirror base more, but I cannot figure out how to pull the switch out to try and fix or replace it without damaging the glass mirror.
+
+It's not the circuits in the Falcon.  Repeat... it's NOT the circuits in the Falcon.
+
+Want to prove it to yourself?  Go to a Radio Shack, buy a mono male phono plug jack, connect it to a 9 volt battery with a resistor on the black (negative) wire and plug it into the bottom of your Falcon and it will light fine.
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #1324214)
+Author    : Hedjii72
+Date      : Aug 9, 2010 at 1:41 PM
+────────────────────────────────────────────────────────────────────────
+
+Bumping this as a new development surfaced by a user on Rebelscum, who wrote:
+
+			A lot of Falcon owners encourter the problem as time passes.
+
+It took  more or less 2 years to mine to have this problem.
+
+Hopefully, I bought a new adaptater today (multiples volatages available from 6 to 12V at 0.5mA and 13.5/15V at 0.38mA).
+
+I setted it to 9V and all my lights are now working again.
+
+No need to open the Falcon nor the base actually; I highly recommand to change the adaptater but to each their own. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+Anyone else try this, and would it work the same for US adaptors? (the person who tried it is in France)
+
+So where do I need to go?  Would Radio Shack have this?
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #1324276)
+Author    : vaderdarth
+Date      : Aug 9, 2010 at 2:32 PM
+────────────────────────────────────────────────────────────────────────
+
+It would help if the adaptor is the problem,  but mine like JV's is the connector in the base which was loose and had a short.  Not the power adaptor itself.  Mine will require rewiring the base.  
+
+Dave
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #1324727)
+Author    : GF
+Date      : Aug 9, 2010 at 10:52 PM
+────────────────────────────────────────────────────────────────────────
+
+jvasilatos said:
+
+			Trust me... our Falcons are fine. We all had the same problem. If the power switch on your stand is wobbly and you have to play with it to keep the power on like mine in any way, it pinpoints the problem, especially now that I've been powering my Falcon with not a hint of flickering or power problems from a 9 volt battery attached to the same phon plug from the MR stand, and the power is channeling through that phono jack plug perfectly. I just wish I hadn't had to pop the front mandible off and have to do a little cosmetic weathering now to hide a little of the surgery, but it's no big deal. What bugs me is MR couldn't figure this out with all the questions directed at them, or offer any solutions regarding the bases that seem to have bad switches channeling the current to that frosted pole and the phono plug within.
+
+Now that the Falcon is diagnosed as being healthy, I have to screw around with the mirror base more, but I cannot figure out how to pull the switch out to try and fix or replace it without damaging the glass mirror.
+
+It's not the circuits in the Falcon. Repeat... it's NOT the circuits in the Falcon.
+
+Want to prove it to yourself? Go to a Radio Shack, buy a mono male phono plug jack, connect it to a 9 volt battery with a resistor on the black (negative) wire and plug it into the bottom of your Falcon and it will light fine.
+		
+
+Click to expand...
+
+ 
+
+I would love to make this for my Falcon, what resistor do I need, can you make diagram of how everything goes togheter? 
+
+GFollano
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 10

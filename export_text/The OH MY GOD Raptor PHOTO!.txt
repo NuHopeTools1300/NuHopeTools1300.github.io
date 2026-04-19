@@ -1,0 +1,235 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : The OH MY GOD Raptor PHOTO!
+URL    : https://www.therpf.com/forums/threads/the-oh-my-god-raptor-photo.35472/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #460533)
+Author    : FLUKE
+Date      : Nov 30, 2007 at 9:39 PM
+────────────────────────────────────────────────────────────────────────
+
+This sites pics are 'protected' :rolleyes Do any of you guys know a way to grab pics like this, do you have this, already have it or any like it?  Its a not bad huh?
+
+http://www.tv.com:80/photos/viewer.html?type=21&ref_id=23557&ref_type_id=101&expand=1&picnum=12
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #460537)
+Author    : RedTwoX
+Date      : Nov 30, 2007 at 9:44 PM
+────────────────────────────────────────────────────────────────────────
+
+You just have to "view page source" and dig through the HTML a bit.  Here's the URL for the image:
+
+http://image.com.com/tv/images/processed/super/0e/09/121239.JPG
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #460551)
+Author    : FLUKE
+Date      : Nov 30, 2007 at 10:13 PM
+────────────────────────────────────────────────────────────────────────
+
+If I had any formal computer training that would be a no brainer. Thats Very helpful...Thank you Red2! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #460569)
+Author    : star-art
+Date      : Nov 30, 2007 at 11:33 PM
+────────────────────────────────────────────────────────────────────────
+
+That's a very detailed and impressive set piece. I was lucky enough to have stood on that set and had my picture taken standing next to it. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+I only wish they could have built a similar set piece for the (small style) shuttle I designed that never got built due to budget constraints.
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #460580)
+Author    : FLUKE
+Date      : Dec 1, 2007 at 12:30 AM
+────────────────────────────────────────────────────────────────────────
+
+Hello Charles! Its Troy from the Sci-Fan club. That would have been cool....I read where a person who sall the Raptor on the deck set said it looked as if it could fly and it looked very expensive....I wonder what will happen to it?
+
+To me.. the color of the 'set' Raptor looks very close to a very light olive drab?
+
+Is there an SF color would you choose for it at 1/24 scale,  I really want to stay with Model Master acrylics....I have had good luck with that brand.
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #460690)
+Author    : motivealloy
+Date      : Dec 1, 2007 at 9:35 AM
+────────────────────────────────────────────────────────────────────────
+
+Oh, that photos is old news. You should see the Hi-Res version. OMG! :eek
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #460692)
+Author    : ave4uevoli
+Date      : Dec 1, 2007 at 9:38 AM
+────────────────────────────────────────────────────────────────────────
+
+if you dont' want to go into the html or anything... Sometimes Windows XP automatically "unlocks" protected pictures. 
+
+If you move your cursor over a picture sometimes a icon from windows will pop up in the top left hand corner. Just click save. 
+
+~Thomas
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #460699)
+Author    : FLUKE
+Date      : Dec 1, 2007 at 9:50 AM
+────────────────────────────────────────────────────────────────────────
+
+If they come out with High Rez porn....I don't wanna know...there are just some things that should never be seen up close with that much clarity.:sick.....or maybe I should say some 'people's' bits.
+
+Are there other sites out there that have GOOD BSG set photos...I looked around but a person can spend hours on the net doing so.  I'm trying to spend more time at the bench than at the keys just yapping about building models.
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #460705)
+Author    : motivealloy
+Date      : Dec 1, 2007 at 10:06 AM
+────────────────────────────────────────────────────────────────────────
+
+Hi-Rez bits, is already out there. Yeah, it's kinda TMI. Close your eyes and say. "la, la, la, la... "  :confused
+
+But when it comes to BSG hi-rez, can never get enough! 
+
+If you are looking for something specific shoot me a PM and I can see what I have.
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #460726)
+Author    : terryr
+Date      : Dec 1, 2007 at 10:47 AM
+────────────────────────────────────────────────────────────────────────
+
+Use a browser other than IE. They can usually save it.
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #460727)
+Author    : Kuhn Global
+Date      : Dec 1, 2007 at 10:47 AM
+────────────────────────────────────────────────────────────────────────
+
+star-art said:
+
+			I was lucky enough to have stood on that set and had my picture taken standing next to it. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+ 
+
+CHARLES!!! :eek You absolutely MUST show us that photo! That had to be VERY kewl indeed! :love I am soooooo jealous my friend! Even though that is a set prop, that is still way kewl! The Raptor is one of my favs! :cool
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #460747)
+Author    : FLUKE
+Date      : Dec 1, 2007 at 11:28 AM
+────────────────────────────────────────────────────────────────────────
+
+Couldn't agree more.  I can't wait to get further on my build....right now its just the body with no wings or engines...not that exciting.
+
+I'm completely re-building the doorway edges and adding the red lights that run along the edges as well using led's....pics soon.
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #460779)
+Author    : star-art
+Date      : Dec 1, 2007 at 12:27 PM
+────────────────────────────────────────────────────────────────────────
+
+Well, that was like 3 or 4 years ago. I couldn't visit the set during filming of the miniseries because I had back surgery right after I finished the design work for the Mk II Shuttle. I did get to visit during filming of Season One the following summer. (In fact, it was the episode where Starbuck crashed on a planet and had to fly home in a raider -- they had just built the raider and I saw it on set. It was all top secret at the time.) 
+
+I just can't explain how impressive these sets were. All were 360-degree constructions. They had walls on all sides, a floor, and a ceiling. Walking through the corridors was like being on the "real" ship if it existed. It was better than something at a theme park like Disney, let me tell you. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+The sets took up three huge soundstages. The first building had the corridors and Adama's office (I sat at his desk, you wouldn't believe all the detailed set dressing they had). The second building had Colonial One and the CIC. CIC has two levels including a gallery above and is jammed full of real equipment just like the TOS bridge set. Colonial One had "wild" walls that were moved during filming. The seats were leather recliners. (In fact, you could see the recline handles in the miniseries! These were later removed for Season One.)
+
+The third building held the massive hangar set with not one but two full-size Viper Mk IIs, a Mk VII, the Raptor, and the then-secret Raider. The Raider was built quite small. It was much smaller than a "real" ship would have been. I guess that's typical because it saves money. Forced perspective and all that.
+
+Anyway, the color of the Raptor was brown/bronze. IIRC, it had a metallic tint to it. The sets were not well lit unless they were filming, so the pics required a flash. I wouldn't necessarily rely on them for color reference. I'd think you could do well using screencaps from the show instead.
+
+Hope that helps! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #460814)
+Author    : FLUKE
+Date      : Dec 1, 2007 at 2:04 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks Charles! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #460818)
+Author    : Kuhn Global
+Date      : Dec 1, 2007 at 2:06 PM
+────────────────────────────────────────────────────────────────────────
+
+Again.... I am jealous my friend! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ The sets sound fantastic!
+
+If you ever come across that photo, I would LOVE to see it! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #465126)
+Author    : FLUKE
+Date      : Dec 8, 2007 at 3:00 PM
+────────────────────────────────────────────────────────────────────────
+
+The pics could be better and my camera doesn't like 'RED' lights no matter what kind of setings or lighting I use ...but hey its 5 years old. 
+
+I am 98% done with the new scratch built door trim w/ lights. In all there are three parts that fit togther very snug and basically I just replaced the top ceiling part #19 and Door part #18. The paint is metalizer Magnesium.
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #465147)
+Author    : MjolnirArmor
+Date      : Dec 8, 2007 at 3:43 PM
+────────────────────────────────────────────────────────────────────────
+
+I always come in here looking for dinosaurs.
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #465148)
+Author    : Tordoc
+Date      : Dec 8, 2007 at 3:43 PM
+────────────────────────────────────────────────────────────────────────
+
+FLUKE said:
+
+			The pics could be better and my camera doesn't like 'RED' lights no matter what kind of setings or lighting I use ...but hey its 5 years old. 
+
+I am 98% done with the new scratch built door trim w/ lights. In all there are three parts that fit togther very snug and basically I just replaced the top ceiling part #19 and Door part #18. The paint is metalizer Magnesium.
+		
+
+Click to expand...
+
+That's amazing. :thumbsup  I hope you're step by step documenting the entire build!
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #465943)
+Author    : FLUKE
+Date      : Dec 9, 2007 at 11:08 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks a lot Ken! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+.....yes I am.
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #465954)
+Author    : CSMacLaren
+Date      : Dec 10, 2007 at 12:06 AM
+────────────────────────────────────────────────────────────────────────
+
+Here's a direct link to that photo.
+
+http://image.com.com/tv/images/processed/super/0e/09/121239.JPG
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #465974)
+Author    : Nick
+Date      : Dec 10, 2007 at 2:38 AM
+────────────────────────────────────────────────────────────────────────
+
+on the mac I can just drag the photo from the page to the desktop.
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #465983)
+Author    : trooper_jim
+Date      : Dec 10, 2007 at 3:25 AM
+────────────────────────────────────────────────────────────────────────
+
+OK, I need one of these. It would make a great daily commuter.
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #466313)
+Author    : FLUKE
+Date      : Dec 10, 2007 at 1:42 PM
+────────────────────────────────────────────────────────────────────────
+
+Funny thing about that photo....I just now realized that the wings and engine intakes missing....probably removed to make room for storage.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 23

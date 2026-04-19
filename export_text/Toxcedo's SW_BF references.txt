@@ -1,0 +1,83 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Toxcedo's SW:BF references
+URL    : https://www.therpf.com/forums/threads/toxcedos-sw-bf-references.268341/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #4101535)
+Author    : Toxcedo
+Date      : Oct 17, 2016 at 11:47 AM
+Reactions : Like — Lee S, SofaKing01, Hammer3246
+────────────────────────────────────────────────────────────────────────
+
+Hi guys, I will slowly upload turnaround models from Star Wars:Battlefront. Fun to watch. Each frame takes 5 minutes to render with a small lighting setup.
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #4101932)
+Author    : rbeach84
+Date      : Oct 17, 2016 at 7:30 PM
+────────────────────────────────────────────────────────────────────────
+
+That is surprisingly detailed!
+
+Regards, Robert
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #4102193)
+Author    : blakeh1
+Date      : Oct 18, 2016 at 6:55 AM
+────────────────────────────────────────────────────────────────────────
+
+Did they scan in the studio models, or were they created from scratch?
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #4102237)
+Author    : Toxcedo
+Date      : Oct 18, 2016 at 8:00 AM
+────────────────────────────────────────────────────────────────────────
+
+They claim they have scaned the models. Still, they show significant differences from the original SS models. Also, the model is low poly, which means they used normal map to recreate some of the details, which makes it less acurate.
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #4102400)
+Author    : moffeaton
+Date      : Oct 18, 2016 at 11:07 AM
+────────────────────────────────────────────────────────────────────────
+
+They scanned them, then mirrored things in some instances. So they are idealized, cleaned up, etc.
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #4108069)
+Author    : Lee S
+Date      : Oct 25, 2016 at 11:44 AM
+────────────────────────────────────────────────────────────────────────
+
+Very nice!
+
+I need to get some of those 3D files to play with 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+L
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #4108080)
+Author    : maxhebus
+Date      : Oct 25, 2016 at 11:55 AM
+────────────────────────────────────────────────────────────────────────
+
+Any way for you to share the A-wing model?
+
+Few parts I'd like to test print to add to my F14 based version.
+
+Thanks
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #4108465)
+Author    : stonky
+Date      : Oct 25, 2016 at 8:47 PM
+────────────────────────────────────────────────────────────────────────
+
+Looking good - your textures/renders look like they might be non-linear though (dark, over saturated).
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #4108486)
+Author    : Matte Painter
+Date      : Oct 25, 2016 at 9:20 PM
+────────────────────────────────────────────────────────────────────────
+
+Yes, you haven't corrected for the linear space textures.  You need to apply a 2,2 gamma to brighten the midtones and reduce the saturation.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 9

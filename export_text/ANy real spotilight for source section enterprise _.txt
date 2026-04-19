@@ -1,0 +1,405 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : ANy real spotilight for source section enterprise ?
+URL    : https://www.therpf.com/forums/threads/any-real-spotilight-for-source-section-enterprise.168855/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #2606723)
+Author    : Jerry Lee Kirk
+Date      : Nov 27, 2012 at 5:08 AM
+────────────────────────────────────────────────────────────────────────
+
+I was thinking...
+
+  The only real spotlight ligthing the NCC-1701 USS Enterprise, in the upper and lower source section I ever saw was in the movies.
+
+[IMAGE: uss-enterprise-star-trek-the-motion-picture-directors-cut-7.jpg]
+
+   The models I saw on web or did not have that, or have a trick, using the transparent characteristic of plastic, lighthing by inside, masking inside to allow the light to form the spot from inside to outside.
+
+     Is that possible for a kit to have a real spotlight starting form the bridge and illuminating the front source area?
+
+     Or the angle make it impossible?
+
+      If it's impossible how the film model did it?  Prisms ?
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #2608068)
+Author    : Orbital Drydock
+Date      : Nov 27, 2012 at 5:28 PM
+────────────────────────────────────────────────────────────────────────
+
+Jerry Lee Kirk said:
+
+			I was thinking...
+
+  The only real spotlight ligthing the NCC-1701 USS Enterprise, in the upper and lower source section I ever saw was in the movies.
+
+   The models I saw on web or did not have that, or have a trick, using the transparent characteristic of plastic, lighthing by inside, masking inside to allow the light to form the spot from inside to outside.
+
+     Is that possible for a kit to have a real spotlight starting form the bridge and illuminating the front source area?
+
+     Or the angle make it impossible?
+
+      If it's impossible how the film model did it?  Prisms ?
+		
+
+Click to expand...
+
+the only way to get a true spot from the bridge is to raise the bridge high enough to get the light over the B/C deck section. Lighting from the inside is called the "raytheon" method. It does work, but.. it's not very easy to get the proper look(light edges falling off properly, shadows from the phasers, light showing through the decals, etc). On my build I'm using 100ma SMD leds. I still have to raise the bridge a little, but not as much as 3mm or 5mm leds would require. I'll be posting pics of what I'm doing on my build soon.
+
+On the motion pictures some of the floods were secondary above light sources, not actually in the model.
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #2608089)
+Author    : robn1
+Date      : Nov 27, 2012 at 5:40 PM
+────────────────────────────────────────────────────────────────────────
+
+Garbaron has built practical spotlights into his refit, which is an awesome build all around WIP: PolarLights1/350 TMP Refit - HobbyTalk
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #2608256)
+Author    : enan
+Date      : Nov 27, 2012 at 7:04 PM
+────────────────────────────────────────────────────────────────────────
+
+In the audio commentary for the ST:TMP Dierctor's Cut, John Dykstra talks about how he used a few spot lights on the the ship model to sell the idea of self illumination but really used a spot light and dental mirrors to reflect the light where he wanted it.
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #2608359)
+Author    : PHArchivist
+Date      : Nov 27, 2012 at 7:58 PM
+────────────────────────────────────────────────────────────────────────
+
+Orbital Drydock said:
+
+			On the motion pictures some of the floods were secondary above light sources, not actually in the model.
+		
+
+Click to expand...
+
+ 
+
+You know...
+
+I suppose there really is no reason why you couldn't build a case for the model, and do the same exact thing in miniature - have "secondary above light sources" installed in the ceiling of the case.
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #2608586)
+Author    : GKvfx
+Date      : Nov 27, 2012 at 10:02 PM
+────────────────────────────────────────────────────────────────────────
+
+enan said:
+
+			In the audio commentary for the ST:TMP Dierctor's Cut, John Dykstra talks about how he used a few spot lights on the the ship model to sell the idea of self illumination but really used a spot light and dental mirrors to reflect the light where he wanted it.
+		
+
+Click to expand...
+
+Correct.  Though Trumbull's group did most of the filming of the Enterprise, not Apogee.
+
+In order to get this:
+
+[IMAGE: attachment.php]
+
+The setup was something like this:
+
+[IMAGE: attachment.php]
+
+....and they used mechanic's inspection mirrors, not dental mirrors (too small) - 
+
+[IMAGE: attachment.php]
+
+Gene
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #2608901)
+Author    : robn1
+Date      : Nov 28, 2012 at 2:26 AM
+────────────────────────────────────────────────────────────────────────
+
+I've always assumed the mirrors were used to create the dock spotlights, not the ships own lights.
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #2609120)
+Author    : Jerry Lee Kirk
+Date      : Nov 28, 2012 at 5:53 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks for everyone cntribution.
+
+IF somebody have a diagram to try to trace the lowest line possible from the bridge "window" bord, to see if it's possible to light a large area...
+
+THERE IS ONE IMPOSSIBLE (OR NEARLY) spotlight !!!  The NCC-1701  on the end of the nacele.  From where would that light come???  Maybe even a CGI could not add this light by itself.
+
+I think that a special prism, in the very bord, the edge, of the bridge window, would make possible to a LED to light the hull.
+
+Maybe with a very large model...
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #2617979)
+Author    : Jerry Lee Kirk
+Date      : Dec 2, 2012 at 4:02 PM
+────────────────────────────────────────────────────────────────────────
+
+This model look like have real spotlight, and do not appears to have a raised bridge:
+
+SOLD! HUGE, 1:350 Star Trek TMP Enterprise 1701 Refit by Thomas Johnson
+
+Not perfect spotlight, but real at least.  How he did it?
+
+This one too:
+
+http://www.modelermagic.com/?p=33253
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #2618897)
+Author    : Lee S
+Date      : Dec 3, 2012 at 6:32 AM
+────────────────────────────────────────────────────────────────────────
+
+Hey Jerry,
+
+The first shot you posted was a CGI shot I did from the Director Edition DVD.  It was 12 years ago, but as I recall I had to fake the spotlight on the top of the dish too.  I know you are looking for a practical solution, just letting you know that even in CGI we (nearly always) fake it too 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #2620017)
+Author    : Jerry Lee Kirk
+Date      : Dec 3, 2012 at 4:05 PM
+────────────────────────────────────────────────────────────────────────
+
+I knew it was a CGI, but I imagined it was from the directors edition added FX itself, and not a fan made.  
+
+Never imagined a CGI would also need a little trick to get it right.
+
+ Looks very professional, like from a movie FX company.
+
+ Where did you got the plans ?
+
+Lee S said:
+
+			Hey Jerry,
+
+The first shot you posted was a CGI shot I did from the Director Edition DVD. It was 12 years ago, but as I recall I had to fake the spotlight on the top of the dish too. I know you are looking for a practical solution, just letting you know that even in CGI we (nearly always) fake it too 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #2620239)
+Author    : Lee S
+Date      : Dec 3, 2012 at 6:11 PM
+────────────────────────────────────────────────────────────────────────
+
+It is 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+  I got the plans from access to the original miniature.
+
+Star Trek: The Motion Picture Gallery
+
+http://www.leestringer.com/Images/MotionPicture/VG11_Print.jpg
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #2620299)
+Author    : Jerry Lee Kirk
+Date      : Dec 3, 2012 at 6:37 PM
+────────────────────────────────────────────────────────────────────────
+
+There is no place from where a spotilight emiter could come, to create the NCC-1701 spot in the end of the naceles.  Am I right?
+
+So I supose you have to make some trick there too.
+
+Funny in TMP is that the docking port in Enterprise seconday hull its diferent, from the model of the entire ship, to the large scale close up model built for the scene the pot is connecting with the ship.
+
+May I ask a question about the painting?
+
+The color, azetec pannels, look of diferent colors but with some few more light get almost the same color tone, so not just the color was different to the pattern, but the reflexive characteristic too, creatin the nice azetec effect.
+
+ How did you recreated that in CGI?  Analizing the orginal inks to get the precise characteristics?
+
+Lee S said:
+
+			It is 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ I got the plans from access to the original miniature.
+
+Star Trek: The Motion Picture Gallery
+
+http://www.leestringer.com/Images/MotionPicture/VG11_Print.jpg
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #2620866)
+Author    : Lee S
+Date      : Dec 4, 2012 at 3:00 AM
+────────────────────────────────────────────────────────────────────────
+
+Correct, that light is floating in space too 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #2620871)
+Author    : Lee S
+Date      : Dec 4, 2012 at 3:09 AM
+────────────────────────────────────────────────────────────────────────
+
+I loaded up the TMP
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+E Enterprise so you can see where the light were on it.
+
+[IMAGE: 8243292879_b9a9f34d86_b.jpg]
+
+Now remember, this is the CGI recreation, and nothing like the lighting on the real miniature.
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #2621331)
+Author    : trooper
+Date      : Dec 4, 2012 at 9:20 AM
+────────────────────────────────────────────────────────────────────────
+
+this is the best painting reference Ive ever found, the guy did the most stunning and accurate work Ive ever seen. read through this, it will teach you allot about the painting
+
+Progress of Star Trek TMP Style 1/350 Refit - HobbyTalk
+
+fyi, on the lighting, it is possible to light the letters on the saucer with a couple very minor adjustments to the bridge, which in my opinion need to happen any way.
+
+here is a link to the starling-tech tutorial where i showed Stan how to do this. fyi, he sells the best lighting kits around in my opinion, i have several of his kits and there amazing.  the refit kit is incredible !!!
+
+Welcome to Starling Technologies, PC Repair, Electronics, LED Flasher boards, Antiques and more.
+
+as for the rear nacelle lighting, im thinking it MAY be possible to shine a light from the opposite nacelle using an optic or a small bulb of some sort in a brass tube, to focus the light you simply move the light source in and out of the tube just like focusing a flash light, i did something similar 12 years ago on another model and it worked great, but this would be a longer distance, i have not tried this yet so i dont know.....fod for though i guess 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+i hope this helps
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #2621670)
+Author    : Jerry Lee Kirk
+Date      : Dec 4, 2012 at 12:14 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks for the imaginary friend lights.
+
+Iwas thinkng...   There is a light emiter that come from a spot, and project a light beam in the nacele suport.  
+
+ Is that possible that this emiter could have  beams, one emiting a light spot to focus in the NCC 1701 in the end of the nacele (not the external nacele are spots off course) ??
+
+Lee S said:
+
+			I loaded up the TMP
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+E Enterprise so you can see where the light were on it.
+
+[IMAGE: 8243292879_b9a9f34d86_b.jpg]
+
+Now remember, this is the CGI recreation, and nothing like the lighting on the real miniature.
+		
+
+Click to expand...
+
+Incredible paint job!!  
+
+Makes the decals for azetec I saw on web looks silly.
+
+The link for the lighting spot it's also very good. I presume a larger scale model (with correct bridge possition as real TMP model and not Polar-Lights model) would have no problem using small LEDs.
+
+What about use this led ( http://www.ebay.com/itm/100-pcs-Lig...690?pt=LH_DefaultDomain_0&hash=item5d2de68572 ) but try to falt the head, or at least let it less curved, to make the spot less contenctrated ?
+
+trooper said:
+
+			this is the best painting reference Ive ever found, the guy did the most stunning and accurate work Ive ever seen. read through this, it will teach you allot about the painting
+
+Progress of Star Trek TMP Style 1/350 Refit - HobbyTalk
+
+fyi, on the lighting, it is possible to light the letters on the saucer with a couple very minor adjustments to the bridge, which in my opinion need to happen any way.
+
+here is a link to the starling-tech tutorial where i showed Stan how to do this. fyi, he sells the best lighting kits around in my opinion, i have several of his kits and there amazing. the refit kit is incredible !!!
+
+Welcome to Starling Technologies, PC Repair, Electronics, LED Flasher boards, Antiques and more.
+
+as for the rear nacelle lighting, im thinking it MAY be possible to shine a light from the opposite nacelle using an optic or a small bulb of some sort in a brass tube, to focus the light you simply move the light source in and out of the tube just like focusing a flash light, i did something similar 12 years ago on another model and it worked great, but this would be a longer distance, i have not tried this yet so i dont know.....fod for though i guess 
+
+i hope this helps
+		
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #2621677)
+Author    : GKvfx
+Date      : Dec 4, 2012 at 12:18 PM
+────────────────────────────────────────────────────────────────────────
+
+I went looking through a couple of notebooks and technical manuals on the original miniatures to see if there were any clues.
+
+As has been mentioned before, this model was nearly completed by the time RA&A left the film.  When Doug Trumbull came in, he made some revisions including the whole "self lit" concept, which necessitated a revised bridge and a revised planetary dome (on the underside of the saucer).
+
+This memo shows that as of January 1979, they were just getting started on those changes - 
+
+[IMAGE: attachment.php]
+
+The wiring diagrams don't reveal anything about the spotlights (location, voltage, etc) leading me to think this diagram was drawn prior to the addition of the spotlights.
+
+But this page offered up a new mystery (check out the highlighted text) - 
+
+[IMAGE: attachment.php]
+
+"Rear" Photon torpedo?  Huh?  Didn't know the refit Enterprise had a rear photon torpedo tube.
+
+And it's not a typo. On the next page, they list the forward facing photon torpedo tubes - 
+
+[IMAGE: attachment.php]
+
+So, where the hell is the rear facing photon torpedo tube?  I mean, it exists - it has a light - but where is it?
+
+All of these lights were pretty low voltage, save for the neon.  And it should be obvious from the time period that LED's were not used.  They could have put little glass lenses over the lights and buried the bulbs in lengths of tubing to get them to focus.   and there are some incandescent bulbs that have little glass lenses at the tip.  But remember that their appearance on film is due to both the brightness of the bulb and the exposure time of the film.  So, trying to build something that looks right to your eye using what you are used to seeing on film is going to be tricky.......
+
+Gene
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #2621697)
+Author    : moffeaton
+Date      : Dec 4, 2012 at 12:27 PM
+────────────────────────────────────────────────────────────────────────
+
+In the span of a single day, Lee is mistaken for a bootlegger and a "regular" Trek fan. I mean, sure, you can be a fan and still be a professional Hollywood Guy™ (like someone else in this thread, wink wink), but when it rains it pours, eh?
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #2622424)
+Author    : t2sides
+Date      : Dec 4, 2012 at 6:41 PM
+────────────────────────────────────────────────────────────────────────
+
+GKvfx said:
+
+			So, where the hell is the rear facing photon torpedo tube? I mean, it exists - it has a light - but where is it?
+		
+
+Click to expand...
+
+ 
+
+It shows 4 Bulbs  (different than the Fwd Photons), perhaps it's the four 'spotlights' that are in the top of the rear of the Photon assembly (2 on each side), not really a Photon Tube? 
+
+Or, it's hidden inside the Laser Turret...:love
+
+Sean
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #2622572)
+Author    : enan
+Date      : Dec 4, 2012 at 8:11 PM
+────────────────────────────────────────────────────────────────────────
+
+I guess since Andy Probert designed the refit, you could always ask him about torpedo tubes.
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #2622885)
+Author    : robn1
+Date      : Dec 5, 2012 at 2:29 AM
+────────────────────────────────────────────────────────────────────────
+
+I think the notes are referring to the "front" and the "rear" of the torpedo section, not the tubes. Cool to see those notes, thanks for posting them :thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #2623413)
+Author    : Jerry Lee Kirk
+Date      : Dec 5, 2012 at 9:56 AM
+────────────────────────────────────────────────────────────────────────
+
+This guy did a great job ( Star Trek 6 foot scratch built Enterprise A - Construction - YouTube ), and the painting is even better than this link ( Progress of Star Trek TMP Style 1/350 Refit - HobbyTalk ) 
+
+His paints also looks very realistic but wihou the few excessive saturated pannels here and there from Hobby Talk link.
+
+The bridge spotlight emiter could be a little better
+
+The blue lights rail in the nacele is segmented, oprobably due many lEDs isntead of a long ligh tube.
+
+Some modelists try to add the docking port usinf as reference the large scale model, from TMP scene when the pod dock with enterprise.  But it's cleary another design, with more details. Some details could be made to the studio scale enterprise, but the movie modelers did not, probably due some problem.  
+
+When someone try to put all details to docking port, the result is a bit different than the usual enterprise.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 23

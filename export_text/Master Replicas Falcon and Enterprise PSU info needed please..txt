@@ -1,0 +1,55 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Master Replicas Falcon and Enterprise PSU info needed please.
+URL    : https://www.therpf.com/forums/threads/master-replicas-falcon-and-enterprise-psu-info-needed-please.83440/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #1181495)
+Author    : Flipside
+Date      : Apr 8, 2010 at 7:29 AM
+────────────────────────────────────────────────────────────────────────
+
+Hi all,
+
+Firstly sorry if this post is in the wrong location, please move it if needed.
+
+I have a MR Millennium Falcon and Enterprise studio scale replicas but have lost the power supplies for both!?! 
+
+Does anyone have the specs for both these PSU's? Volts (V) and Current (A).
+
+I'll be using these in the UK but US info will be the same on the DC side of things.
+
+Thanks in advance,
+
+Cheers,
+
+Flipside
+
+UPDATE:-
+
+I've done some more digging and it looks like both power supplies are 9v 1.7amps, is this correct?
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #1181570)
+Author    : Montagar
+Date      : Apr 8, 2010 at 9:09 AM
+────────────────────────────────────────────────────────────────────────
+
+I did a search on "power supply enterprise" and found multiple threads that answer your question.
+
+I then did a search on "power supply falcon" and much to my surprise I found a thread that I personally gave the answer. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+So I guess the moral of the story is that the search function is alive and well. :thumbsup
+
+Here are two threads that answer your questions directly (from the searches that I did).
+
+Enterprise:
+
+http://www.therpf.com/showthread.php?t=64955
+
+Falcon:
+
+http://www.therpf.com/showthread.php?t=72952
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 2

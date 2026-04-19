@@ -1,0 +1,103 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : 3D printing parts to upscale a model kit?
+URL    : https://www.therpf.com/forums/threads/3d-printing-parts-to-upscale-a-model-kit.276930/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #4246002)
+Author    : roguemodeler
+Date      : May 13, 2017 at 3:17 PM
+────────────────────────────────────────────────────────────────────────
+
+Alright. I am making an inquiry of guys here who know about this stuff. I know it is possible to take a model kit, say 1/72 size as in the Starship Modeler Nazi flying wing from Raiders and scan it in for a 3D printer and print parts to make a 1/24th scale studio kit. Is there anyone here who can do this? I do not have a printer and don't know if one is made to handle the size. I have always wanted a large size model of this subject and can build it the old fashioned way, but would like to do it the NEW WAY. Thanks, Mike
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #4246116)
+Author    : star-art
+Date      : May 13, 2017 at 8:14 PM
+Reactions : Like — Daniel Nelms
+────────────────────────────────────────────────────────────────────────
+
+Sorry but it doesn't work that way. Because of the nature of 3D scan data, it's really difficult to clean them up and make something that can be printed. A 3D model that will be printed needs to be clean, neat and 100% "water tight." More often than not, a 3D scan produces a very rough model that's coarse and full of "holes." Even if such a scan can be made water tight, it would be so rough as to not make a very good looking print. 
+
+Bottom line: A 3D scan is really just a three-dimensional template. It can be used as reference to build a new 3D model from scratch. Someone still has to make the final 3D model that will be printed.
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #4246124)
+Author    : OlivierC
+Date      : May 13, 2017 at 8:50 PM
+────────────────────────────────────────────────────────────────────────
+
+Just like Star-art said, in its current state, 3d scanning technology, at a consumer level, is not ready yet for what you want to do, at least not as simple as pressing a button to scan and another one to print. But it can be really helpful if you know WHEN to use it. For instance, in the case of the nazi flying wing, it will be great to get the overall shape of the main hull/wing, which you can use to remodel a clean version. But when it come to smaller parts, like say, landing gear, you're better off pulling out a caliper and taking mesurement yourself and model it from scratch, much faster than doing the whole scanning process (either laser or photogrammetry), for something you'll probably have to cleanup or remodel in the end anyway.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #4246214)
+Author    : roguemodeler
+Date      : May 14, 2017 at 4:24 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks guys, I have seen models made from 3D scanning, but these were designed in the computer and not scanned. Guess I'll do it the old fashioned way, thanks for your input!
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #4246400)
+Author    : Meddison
+Date      : May 14, 2017 at 12:09 PM
+────────────────────────────────────────────────────────────────────────
+
+If you wonder where to find some good 3d models so you can look for them here : http://3dinsider.com/
+
+You can find here awesome websites with cool models indeed.
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #4246747)
+Author    : minifig
+Date      : May 15, 2017 at 1:21 AM
+────────────────────────────────────────────────────────────────────────
+
+...please also bear in mind the copyright issues involved in scanning...It always worries me when I hear people say "I want to get a kit, scan it , then print it out a different size, or a hundred times".
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #4247401)
+Author    : xeno
+Date      : May 16, 2017 at 4:20 AM
+Reactions : Like — minifig, Daniel Nelms
+────────────────────────────────────────────────────────────────────────
+
+I think it can be done, while it still would be a copyright issue 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+I have an Einscan-S that can do 0.1mm detail, and it produces good watertight scans, the only problem I would see are the canopy and cockpit details.
+
+This is a scan of the AMT vinyl Rancor model
+
+[IMAGE: 403491-316b2355fa735d150d63646afa3265ca.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #4251249)
+Author    : The Piranha
+Date      : May 22, 2017 at 1:40 PM
+────────────────────────────────────────────────────────────────────────
+
+Canopies and other clear parts could possibly be solved with vacuum forming as long as they are not too complex.  
+
+This is an intriguing subject;  Has anyone ever actually built a model this way?  For instance, take a 1/72 model, scan the sprue trees, then 3d print the same trees in 1/48?
+
+I'd love to see a write up on it.
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #4251690)
+Author    : Lee S
+Date      : May 23, 2017 at 8:01 AM
+────────────────────────────────────────────────────────────────────────
+
+1/24th you say.....
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #4251876)
+Author    : Treadwell
+Date      : May 23, 2017 at 1:17 PM
+Reactions : Like — swgeek
+────────────────────────────────────────────────────────────────────────
+
+As a side note, making something 1/24 doesn't necessarily make something "studio scale". In fact, in the case of the Raiders flying wing, there WAS no studio model, as it was a full size prop only (and perhaps a study model maquette, but that's a different animal). So nothing but 1:1 would make it "studio scale".
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #4259069)
+Author    : Dogsbody
+Date      : Jun 5, 2017 at 2:11 AM
+────────────────────────────────────────────────────────────────────────
+
+I 3d printed a Colonial Viper stick full scale prop from a friends scan of an original..Came out quite nice.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 11

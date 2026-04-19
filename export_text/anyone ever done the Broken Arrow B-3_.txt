@@ -1,0 +1,98 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : anyone ever done the Broken Arrow B-3?
+URL    : https://www.therpf.com/forums/threads/anyone-ever-done-the-broken-arrow-b-3.23280/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #316731)
+Author    : DarkKnight
+Date      : Apr 1, 2007 at 2:08 PM
+────────────────────────────────────────────────────────────────────────
+
+was watching this on disc, anyone ever done the "B-3" from Broken Arrow?, the crash scene looks like it wiped out at least one model
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #320578)
+Author    : DarkKnight
+Date      : Apr 6, 2007 at 6:41 PM
+────────────────────────────────────────────────────────────────────────
+
+anyone? anyone know anymore about the subject at least?
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #320661)
+Author    : GKvfx
+Date      : Apr 6, 2007 at 10:12 PM
+────────────────────────────────────────────────────────────────────────
+
+Well, let's see.  I think there were three sizes built.  A large one (perhaps a couple) for the crash scene.  A medium one (that was still pretty darn big) for the hangar scene, and a smaller 3 foot one that was used by VIFX to digitize to create the CG model.  Theoretically, they were built from the same plans and were at the very least similar.  All of the in flight stuff was done CG by VIFX - none of the models were filmed against a bluescreen ala FIREFOX.  The medium model was shot on a stage for the shot were Travolta and Slater walk out to it.  A section of the hangar ceiling was built to be used as a reflection element in the windshield.  The bomb bay with the multiple launch rack was also a separate model.
+
+VIFX didn't make any of the models, though the B-3 was filmed on their stage.  After it was done, the rumor was that it was given to Travolta and transported to a hangar he had at the Santa Monica Airport.
+
+After it was digitized, the smaller model was painted up in the proper colors (Gunship Gray and black) and decorated with the VIFX logos and hung on the wall of the conference room.
+
+Hope this sheds some light on it.  The film never showed the design off, really.  I actually kinda liked it.
+
+Gene
+
+PS - yes, I worked on it.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #320884)
+Author    : minieffects
+Date      : Apr 7, 2007 at 10:28 AM
+────────────────────────────────────────────────────────────────────────
+
+<div class='quotetop'>QUOTE(GKvfx @ Apr 6 2007, 10:12 PM) [snapback]1457183[/snapback]</div>
+
+			Well, let's see.  I think there were three sizes built.  A large one (perhaps a couple) for the crash scene.  A medium one (that was still pretty darn big) for the hangar scene, and a smaller 3 foot one that was used by VIFX to digitize to create the CG model.  Theoretically, they were built from the same plans and were at the very least similar.  All of the in flight stuff was done CG by VIFX - none of the models were filmed against a bluescreen ala FIREFOX.  The medium model was shot on a stage for the shot were Travolta and Slater walk out to it.  A section of the hangar ceiling was built to be used as a reflection element in the windshield.  The bomb bay with the multiple launch rack was also a separate model.
+
+VIFX didn't make any of the models, though the B-3 was filmed on their stage.  After it was done, the rumor was that it was given to Travolta and transported to a hangar he had at the Santa Monica Airport.
+
+After it was digitized, the smaller model was painted up in the proper colors (Gunship Gray and black) and decorated with the VIFX logos and hung on the wall of the conference room.
+
+Hope this sheds some light on it.  The film never showed the design off, really.  I actually kinda liked it.
+
+Gene
+
+PS - yes, I worked on it. [/b]
+		
+
+Click to expand...
+
+I seem to remember only two sizes. There was the large version that we repainted and added detail too at VIFX and that was used for the shot of slater and travolta climbing in and it was also used for the hanger shots done by Hunter / Gratzner Industries.  The smaller one was built by Vision Crew and was fully motion control. That model was never used. A casting of that model was painted and used for texture mapping the digital version. The pyro models were made from molds taken off the original plane. That was done by Stirber Visual Network.  As I recall , texture map pics were taken of the large plane in the parking lot before we loaded it on a truck and took it to HGI.  The Bomb bay was indeed a seperate model built by HGI and shot at the Chandler Group.
+
+Minieffects
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #321494)
+Author    : GKvfx
+Date      : Apr 8, 2007 at 1:09 PM
+────────────────────────────────────────────────────────────────────────
+
+Oh, God...now I remember.  I remember having the hull delivered to VI and everyone saying "that's it?".  The ship was pulled off of the pyro model and didn't have any of the detail that would be needed for a beauty shot.  That's when it was decided to upgrade it.  I didn't realize that Vision Crew built up a full on MOCO miniature.  All I know is that the 3' model we had was digitized (or maybe scanned) and was sitting around till we had Laure paint it up for the conference room.  What happened to the Vision Crew miniature?  Did Fox take it like the subs from Down Periscope and the saucer from X-files?
+
+Happy Easter, Scotty...............
+
+Gene
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #321631)
+Author    : minieffects
+Date      : Apr 8, 2007 at 7:04 PM
+────────────────────────────────────────────────────────────────────────
+
+<div class='quotetop'>QUOTE(GKvfx @ Apr 8 2007, 01:09 PM) [snapback]1458023[/snapback]</div>
+
+			Oh, God...now I remember.  I remember having the hull delivered to VI and everyone saying "that's it?".  The ship was pulled off of the pyro model and didn't have any of the detail that would be needed for a beauty shot.  That's when it was decided to upgrade it.  I didn't realize that Vision Crew built up a full on MOCO miniature.  All I know is that the 3' model we had was digitized (or maybe scanned) and was sitting around till we had Laure paint it up for the conference room.  What happened to the Vision Crew miniature?  Did Fox take it like the subs from Down Periscope and the saucer from X-files?
+
+Happy Easter, Scotty...............
+
+Gene [/b]
+		
+
+Click to expand...
+
+Oh you know Fox, anything to make a buck.......lord knows their movies useually dont.
+
+Happy Easter to you Gene.
+
+P.S. I will have some more PL pics later this week.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 6

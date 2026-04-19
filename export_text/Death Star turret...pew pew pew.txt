@@ -1,0 +1,146 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Death Star turret...pew pew pew
+URL    : https://www.therpf.com/forums/threads/death-star-turret-pew-pew-pew.258887/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #3948518)
+Author    : Scott Graham
+Date      : Apr 2, 2016 at 3:28 PM
+Reactions : Like — dirtydave, Lee S
+────────────────────────────────────────────────────────────────────────
+
+There's not much to see so far, but I'm going to start on this wonderful styrene kit and greeblie build of the Death Star turret. The toughest part will be figuring out the armature for it, as I plan to put electronics inside it so it turns, shoots and lights with sound fx. So far I'm just taping it together for a looksee. It's all going to have to be built on this kitchen table "workshop".
+
+I have tamiya and testors glues I'm planning on using to assemble the boxes. I think welding the parts together will hold better than super glue. Is there a better cement that anyone can recommend for this? 
+
+Thanks to Wasili for making the awesome styrene and ABS kit of this!
+
+Thanks to Moffeaton for the help with obtaining electronic elements for this. I might have to ask a few questions down the line. Your build is an inspiration.
+
+Also thanks to Tox and Eric for their great builds that helped ID the turret parts and dimensions.
+
+ 
+
+Attachments
+
+[IMAGE: 314770-c13980b690ab9917b2bb4199f3f03567.jpg]
+
+IMG_2065.JPG
+
+					453.3 KB
+					
+					· Views: 221
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #3948547)
+Author    : MonsieurTox
+Date      : Apr 2, 2016 at 3:57 PM
+────────────────────────────────────────────────────────────────────────
+
+Scott, I used Tamiya extra thin glue (solvent actually, green cap) on my turret (and on all my other models). Weld-on 3 seems to work too, but since we can't find it here, I never used it.
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #3948560)
+Author    : Scott Graham
+Date      : Apr 2, 2016 at 4:08 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks Julien. It was weld on I must have been thinking about.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #3948571)
+Author    : Flixen
+Date      : Apr 2, 2016 at 4:19 PM
+────────────────────────────────────────────────────────────────────────
+
+I use methylenchlorid or dichlormetan as a "glue" (solvent).
+
+We call it cold-welding.
+
+But You should definitely check the warnings before using it.
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #3948600)
+Author    : moffeaton
+Date      : Apr 2, 2016 at 5:07 PM
+────────────────────────────────────────────────────────────────────────
+
+I think WeldOn is MEK? It's SUPER powerful and volatile.
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #3948650)
+Author    : swpropmaker
+Date      : Apr 2, 2016 at 6:14 PM
+────────────────────────────────────────────────────────────────────────
+
+Great start!  Looking forward to see baby come to life!
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #3948928)
+Author    : joberg
+Date      : Apr 3, 2016 at 7:08 AM
+────────────────────────────────────────────────────────────────────────
+
+Eager to see it all come together.
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #3948956)
+Author    : Scott Graham
+Date      : Apr 3, 2016 at 7:54 AM
+────────────────────────────────────────────────────────────────────────
+
+Me too. The engineering seems daunting though. I think I'll try to figure that out up front.
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #3949167)
+Author    : Scott Graham
+Date      : Apr 3, 2016 at 1:35 PM
+Reactions : Like — swpropmaker
+────────────────────────────────────────────────────────────────────────
+
+This didn't take long to get into "what the h*** did I get myself into" territory.
+
+Calling Dr. Eaton...
+
+I charged the battery and can get the remote control to turn on. Woohoo! I should also mention that I have two extra heavy duty servos to replace the small one in the pic.
+
+Jason, if you can, can you please help me understand a thing or two about the electronics? 
+
+1-Did you just start plugging things into the circuit board to see what happens? I don't know how else you'd know what leads go to which device.
+
+2-There seems no way to plug the battery into the circuit board. There is no wire assembly with a socket for it. Is something missing maybe?
+
+3-There's a potentiometer. Which device is that for?
+
+4-There's an AC/DC adapter. I don't know what it's for.
+
+I'd be eternally grateful for any help I can get with these. I'm going to try and get these running to help me understand where things go inside.
+
+PS: I just went back to look at emails with Curtis at Immortal Hobbies. He didn't send me the instructions for setting it up like a tank. I'm guessing that would help. Also, the pot seems to be for volume control. I also just asked how I get power to this setup.
+
+PSS: Immortal Hobbies email is getting bounced back to me and their website is gone. You may be my only hope. Do you have the setup info that Curtis sent?
+
+ 
+
+Attachments
+
+[IMAGE: 315003-ec8231f5320fd0937553c463a18c7e77.jpg]
+
+IMG_2067.JPG
+
+					1.6 MB
+					
+					· Views: 214
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #3949314)
+Author    : moffeaton
+Date      : Apr 3, 2016 at 5:11 PM
+Reactions : Like — swpropmaker
+────────────────────────────────────────────────────────────────────────
+
+It's a tank board solution and I hated working with it... this is what I used
+
+http://www.clark-model.com/eng/prod_rx20/
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #3949370)
+Author    : Scott Graham
+Date      : Apr 3, 2016 at 6:00 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks. I'll study that.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 11

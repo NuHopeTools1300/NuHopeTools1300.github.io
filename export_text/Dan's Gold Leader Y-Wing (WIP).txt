@@ -1,0 +1,1746 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Dan's Gold Leader Y-Wing (WIP)
+URL    : https://www.therpf.com/forums/threads/dans-gold-leader-y-wing-wip.331641/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #5068850)
+Author    : 3DImpact
+Date      : May 15, 2020 at 1:50 PM
+Reactions : Like — incrediblefruit, Bjorn, edge10
+────────────────────────────────────────────────────────────────────────
+
+I've had this Gold Leader Y-Wing kit from Mike Salzo since November 2017 and it sat in its shipping box intimidating me all this time. Well, no more - I decided to finally start cleaning up parts a couple weeks ago and one thing led to another!
+
+Oddly, the first things I managed to finish were the rear thruster assemblies. I started cleaning those parts first and as I was looking at reference photos to make sure I was trimming away casting flashing and not actual greeblie bits I started finally getting more familiar with the parts so I just went with it and assembled.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5181_small-jpg.1298948/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5184_small-jpg.1298949/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5185_small-jpg.1298950/]
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #5068852)
+Author    : 3DImpact
+Date      : May 15, 2020 at 1:53 PM
+Reactions : Like — incrediblefruit, Rick Deckard, robn1
+────────────────────────────────────────────────────────────────────────
+
+My cockpit is missing the canopy. I don't know how or why I missed that during my initial survey when I first opened the box when I received it, but here I am.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5204_small-jpg.1298951/]
+
+Does anyone know where I might get a nice clean casting or 3D print of a studio-scale Gold Leader Y-Wing canopy and guns?
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #5068854)
+Author    : 3DImpact
+Date      : May 15, 2020 at 1:57 PM
+Reactions : Like — SCUDMAN, el toro, Bjorn
+────────────────────────────────────────────────────────────────────────
+
+Cleaned up the main central body and cockpit.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5216_small-jpg.1298952/]
+
+I decided to use a wooden central support rod, as it was easier for me to do the cutting and drilling I needed in order to get the 1/4-20 mount thread in there.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5279_small-jpg.1298954/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5280_small-jpg.1298955/]
+
+I've decided that I want to light my engines and run some fiber for a minimal cockpit lights setup.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5281_small-jpg.1298956/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5283_small-jpg.1298957/]
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #5068856)
+Author    : 3DImpact
+Date      : May 15, 2020 at 2:04 PM
+Reactions : Like — JimmyB, SCUDMAN, Bjorn
+────────────────────────────────────────────────────────────────────────
+
+Time for assembly of the main central body with the wing bar. Everything is bonded with J-B Weld at this stage so it's all good and solid.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5285_small-jpg.1298958/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5305_small-jpg.1298959/]
+
+And now the wing panels are bonded as well, along with a fit check with the engine pods.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5307_small-jpg.1298960/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5308_small-jpg.1298961/]
+
+I'm holding off on bonding the engine pods down for now until I've fit checked a few other things. Mainly, I now need to make sure the front domes are trimmed and sanded to fit as flush as I can make them and then think through the assembly and paint order for the rear engine nozzles - looking at reference photos of the original ILM model I can see that there are some 'internal' painted details that might best be painted before I make my final assembly...
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #5068885)
+Author    : Jkirkon
+Date      : May 15, 2020 at 3:18 PM
+────────────────────────────────────────────────────────────────────────
+
+I believe Falcon 3D has a canopy. There are shareware .stl files from DaveG that have the canopy as well.
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #5068980)
+Author    : Hammer3246
+Date      : May 15, 2020 at 8:47 PM
+Reactions : Like — edge10
+────────────────────────────────────────────────────────────────────────
+
+3DImpact said:
+
+			My cockpit is missing the canopy. I don't know how or why I missed that during my initial survey when I first opened the box when I received it, but here I am.
+
+View attachment 1298951
+
+Does anyone know where I might get a nice clean casting or 3D print of a studio-scale Gold Leader Y-Wing canopy and guns?
+
+Dan
+		
+
+Click to expand...
+
+Can't help with the guns,  but I'll send you a canopy.
+
+PM me with your details.
+
+Cheers!
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #5069052)
+Author    : Studio Kitbash
+Date      : May 16, 2020 at 3:18 AM
+Reactions : Like — Rick Deckard
+────────────────────────────────────────────────────────────────────────
+
+Dan,
+
+Do you need the top-of-canopy turret guns, or the chin guns?  I have a mold of the top-of-canopy guns I can send you casting from, but the chin guns you typically make yourself from concentric tubing.
+
+Also, FWIW, I'm not sure if the DaveG .stl file canopy is a match for the Neisen body forward fuselage, as they were two different designs.  I've never tried it, or compared them, so they might be close enough to be "not noticeable" but it's a possible mismatch, about which you may be annoyed.
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #5069135)
+Author    : Hammer3246
+Date      : May 16, 2020 at 10:35 AM
+────────────────────────────────────────────────────────────────────────
+
+Studio Kitbash said:
+
+			Dan,
+
+Do you need the top-of-canopy turret guns, or the chin guns?  I have a mold of the top-of-canopy guns I can send you casting from, but the chin guns you typically make yourself from concentric tubing.
+
+Also, FWIW, I'm not sure if the DaveG .stl file canopy is a match for the Neisen body forward fuselage, as they were two different designs.  I've never tried it, or compared them, so they might be close enough to be "not noticeable" but it's a possible mismatch, about which you may be annoyed.
+		
+
+Click to expand...
+
+The canopy I have is from this kit, so no need to print.
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #5069229)
+Author    : 3DImpact
+Date      : May 16, 2020 at 3:40 PM
+Reactions : Like — dtssyst, Studio Kitbash, Hammer3246
+────────────────────────────────────────────────────────────────────────
+
+Wow - thanks guys! I love this place!
+
+I did check Falcon 3D - they have a cockpit but not the canopy itself. I did order a nice pilot there though and will likely replace my astromech droid as well.
+
+Thanks Hammer3246! PM inbound...
+
+Thanks Studio Kitbash! I’ll take you up on the canopy guns. PM inbound...
+
+I kinda figured the chin guns were custom made from tubing - they have that look - but I wasn’t sure. I’ll fashion those from scratch then.
+
+Thanks again guys!
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #5071343)
+Author    : jontom
+Date      : May 20, 2020 at 10:13 PM
+────────────────────────────────────────────────────────────────────────
+
+Looking great!
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #5073236)
+Author    : 3DImpact
+Date      : May 26, 2020 at 9:34 AM
+Reactions : Like — SCUDMAN, Bjorn
+────────────────────────────────────────────────────────────────────────
+
+Time to get the domes mounted to the engines. Before bonding them on I wanted to be sure the T bars that extend to the thrust vanes are mounted along the engines nice and true and on a perfect 45-degree box relative to the horizontal defined by the central aluminum wing spar. So I made up a simple leveling 'jig' to let the engine rest level as it will on the actual spar. I then used a 45-degree guide to mark across the center of the engine (which I carefully marked out in overlain tape ahead of time) to mark the mount lines.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5317_small-jpg.1302901/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5318_small-jpg.1302902/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5319_small-jpg.1302903/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5320_small-jpg.1302904/]
+
+Nice and vertical!
+
+And then bond the domes. That was an intimidating step since the castings of both the engine cylinders and the domes were a bit wonky and out of round all over. So I could tell it was going to take a lot of work to get them to fit. But with a bit of sanding here and there and a bunch of pressing along the joins as I spot-glued with CA I got everything to fit all around the circumference with nice flush seams. Only one slight overhang on one of them but I worked that to be a kinda hidden spot on the inside of the starboard dome where it's least visible.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5322_small-jpg.1302906/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5323_small-jpg.1302907/]
+
+I'm happy and relieved! 
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #5073237)
+Author    : 3DImpact
+Date      : May 26, 2020 at 9:36 AM
+Reactions : Like — Bjorn
+────────────────────────────────────────────────────────────────────────
+
+Some minor greeblie clean up here and there, replacing some of the cast bits with actual found parts.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5324_small-jpg.1302908/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5325_small-jpg.1302909/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5328_small-jpg.1302910/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5396_small-jpg.1302911/]
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #5073239)
+Author    : 3DImpact
+Date      : May 26, 2020 at 9:43 AM
+Reactions : Like, Love — SCUDMAN, Bjorn
+────────────────────────────────────────────────────────────────────────
+
+I always intended to light the cockpit on this model - a bit of a departure from a 'true' replica of Gold Leader, but I figured I might as well make it a pretty model while I'm at it. It's my model, I can do what I want! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Got the fiber run - my first-ever fiber optic work. I didn't want to try to go overboard with too much, but tried to roughly match the pattern of where certain major lights are in the on-screen cockpit.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5355_small-jpg.1302913/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5354_small-jpg.1302914/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5356_small-jpg.1302915/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5357_small-jpg.1302916/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5358_small-jpg.1302917/]
+
+Just the first steps getting ready for painting the cockpit. I'll get it primed and painted next and then cut and tint the ends of the fiber to the proper color to match the on-screen light colors and pull them and glue into place...
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #5073241)
+Author    : 3DImpact
+Date      : May 26, 2020 at 9:47 AM
+Reactions : Like, Love — Studio Kitbash, SCUDMAN, Bjorn
+────────────────────────────────────────────────────────────────────────
+
+And, as long as I was going to make that departure from the original model I might as well add a nice Gold Leader pilot. I purchased a printed pilot from Falcon 3D and cleaned him up a bit...
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5314_small-jpg.1302918/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5315_small-jpg.1302919/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5329_small-jpg.1302920/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5331_small-jpg.1302921/]
+
+Time to paint!
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5359_small-jpg.1302922/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5370_small-jpg.1302923/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5373_small-jpg.1302924/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5375-jpg.1302925/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5376_small-jpg.1302926/]
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #5073247)
+Author    : 3DImpact
+Date      : May 26, 2020 at 9:56 AM
+Reactions : Like, Love — Studio Kitbash, BajaTym, SCUDMAN
+────────────────────────────────────────────────────────────────────────
+
+But, not quite done yet - time for the world's smallest impromptu vac-forming job! The buck is a side mirror from the AMT Kenworth T600A - perfect size and curvature! Mounted it on a popsicle stick to work with.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5378_small-jpg.1302927/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5379_small-jpg.1302928/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5385_small-jpg.1302931/]
+
+Scrounged the house and found some good thermoplastic on a pack of dental floss. Easy enough to form from the heat of a hair drier while pulling across the buck with a pair of needle nose pliers.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5380_small-jpg.1302929/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5382_small-jpg.1302930/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5383_small-jpg.1302932/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5384_small-jpg.1302933/]
+
+A little yellow tint with some Tamiya clear yellow paint and we're ready to fly!
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5386_small-jpg.1302934/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5391_small-jpg.1302935/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5393_small-jpg.1302936/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5395_small-jpg.1302937/]
+
+I figure this is good enough to hint at some cockpit detail - it'll all be hidden inside by a lot of structure and shadow anyway.
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #5073314)
+Author    : xingshen
+Date      : May 26, 2020 at 1:27 PM
+────────────────────────────────────────────────────────────────────────
+
+Looking really good!
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #5073850)
+Author    : 3DImpact
+Date      : May 27, 2020 at 7:45 PM
+Reactions : Like, Love — el toro, Bjorn, edge10
+────────────────────────────────────────────────────────────────────────
+
+Worked the cockpit today. I primed and painted, trimmed and tinted the fiber and pulled it through and glued in place. Painted various bits here and there to suggest panel detail, ran a few additional pipes, and used guitar string for the corrugated hoses.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5401_small-jpg.1303601/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5415_small-jpg.1303603/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5405_small-jpg.1303604/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5416_small-jpg.1303608/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5406_small-jpg.1303602/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5408_small-jpg.1303605/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5411_small-jpg.1303606/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5413_small-jpg.1303607/]
+
+It looks much better in person - nice rich color in the lights and of course all the imperfections that you see in such close-up images blend and disappear. Once the canopy is on and everything is finished the overall effect will be to suggest some interesting detail in there.
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #5073863)
+Author    : Studio Kitbash
+Date      : May 27, 2020 at 8:09 PM
+Reactions : Like — Bjorn
+────────────────────────────────────────────────────────────────────────
+
+Guitar string is a brilliant hack -- thanks!
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #5076029)
+Author    : 3DImpact
+Date      : Jun 2, 2020 at 8:38 PM
+Reactions : Like, Love — Bjorn, LadyFerry, Gus76
+────────────────────────────────────────────────────────────────────────
+
+Had a lot of work still to do to tidy up the fiber bundles 'under the hood'. So I spent today gathering everything together and tying the fiber runs in place. I used waxed dental floss to make slip-free ties in a few spots and then tacked down the bundles in spots with short loops of heat shrink tubing and epoxy. I made a light-tight mount for the illumination end of the fiber bundle from a 1.5-inch-long bit of 1/4-inch Plastruct tube - the fiber bundle inserts into one end with the warm white LED in the other. With the illumination end of the fiber bundle cut flush the ends nicely glowed a bit from the 'back illumination' of the exposed ends of the cockpit lights. The whole light assembly was then enclosed in heat shrink tubing and tacked into place with some epoxy. A few splashes of flat black primer around the places where the fibers exit the cockpit into the interior took care of any light leaks. Even in a dark room there is not a hint of any light showing through - just the nice glow from the cockpit lights themselves.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5452_small-jpg.1305723/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5454_small-jpg.1305724/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5453_small-jpg.1305725/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5457_small-jpg.1305726/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5458_small-jpg.1305727/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5461_small-jpg.1305728/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5464_small-jpg.1305729/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5466_small-jpg.1305730/]
+
+I can now move on to getting the cockpit fully assembled and mounted to the main fuselage...
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #5078733)
+Author    : 3DImpact
+Date      : Jun 10, 2020 at 7:41 PM
+Reactions : Like, Love — Bjorn, edge10, LadyFerry
+────────────────────────────────────────────────────────────────────────
+
+I got sidetracked off the cockpit and started adding on greeblies to the main fuselage...
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5505_small-jpg.1308496/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5508_small-jpg.1308497/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5593_small-jpg.1308498/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5592_small-jpg.1308499/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5595_small-jpg.1308500/]
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #5078735)
+Author    : 3DImpact
+Date      : Jun 10, 2020 at 7:59 PM
+Reactions : Like — el toro, Bjorn, Gus76
+────────────────────────────────────────────────────────────────────────
+
+Also working the inner engine cores so that I can get on to mounting the engines to the fuselage/wings assembly. To do that I have to get all the lighting and wiring worked out, which means getting the cores pre-painted and so on.
+
+The heat sinks fit beautifully into the Plastruct TB-28 tubing - perfect fit.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5567_small-jpg.1308501/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5568_small-jpg.1308502/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5569_small-jpg.1308503/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5570_small-jpg.1308504/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5574_small-jpg.1308505/]
+
+I had to go with the more pure deep red than I preferred for the engine light color - I was hoping to get a bit more of the magenta look as on screen by tinting the Tamiya transparent red with a little transparent blue, but the pigments mixed to a more dull brownish burgundy instead. So I went with the pure red.
+
+The recessed areas of the engines are hard to get to painting-wise if you assemble the whole thing first. Plus, looking at the various reference photos of the actual Gold Leader model it's pretty obvious that they must have pre-painted at least a bit of those recessed areas before final assembly. So I'm following suit and trying to match the details as best I can. I'll touch up as I go, but at least for now I can proceed to get the nozzle assembly finished up...
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5575_small-jpg.1308506/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5576_small-jpg.1308507/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5579_small-jpg.1308508/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5585_small-jpg.1308509/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5589_5590_comb_small-jpg.1308510/]
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #5078739)
+Author    : Studio Kitbash
+Date      : Jun 10, 2020 at 8:24 PM
+────────────────────────────────────────────────────────────────────────
+
+Looking Schweeeet...
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #5086494)
+Author    : 3DImpact
+Date      : Jul 1, 2020 at 8:06 PM
+Reactions : Like, Love — el toro, Larsen, Bjorn
+────────────────────────────────────────────────────────────────────────
+
+Well, I've been busy working away on this thing, but haven't kept up with updating the pics and progress reporting here, so here goes...
+
+Greeblie additions:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5592_small-jpg.1320125/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5593_small-jpg.1320126/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5595_small-jpg.1320127/]
+
+I built and installed the front cannons and sealed up the cockpit. I now have a canopy, thanks to the kindness of a member here:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5900_small-jpg.1320132/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5901_small-jpg.1320133/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5903_small-jpg.1320134/]
+
+Final wiring attachment between cockpit and main fuselage and got the cockpit and engines bonded on:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5912_small-jpg.1320136/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5967_small-jpg.1320137/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5969_small-jpg.1320138/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5970_small-jpg.1320139/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5971_small-jpg.1320140/]
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #5086497)
+Author    : 3DImpact
+Date      : Jul 1, 2020 at 8:13 PM
+Reactions : Like, Love — SCUDMAN, norscout, Bjorn
+────────────────────────────────────────────────────────────────────────
+
+"Oh, Danny boy, the pipes, the pipes are calling..."
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5975_small-jpg.1320141/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5976_small-jpg.1320142/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5980_small-jpg.1320144/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5982_small-jpg.1320145/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5991_small-jpg.1320146/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5993_small-jpg.1320147/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5996_small-jpg.1320148/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5997_small-jpg.1320149/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5998_small-jpg.1320150/]
+
+Such piping. Much work. Wow!
+
+The "oops" pile:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6003_small-jpg.1320151/]
+
+I kinda like that I've been able to 'let go' and not worry so much about the little bits that don't fit quite right and miss just a bit looking exactly like the original filming model. I'm trying to match as close as reasonably possible, but not stressing too much if one or two things are a bit off.
+
+A bit more piping left to do, a few more greeblies here and there, and then I'll get the engine cores installed...
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #5086626)
+Author    : bwize
+Date      : Jul 2, 2020 at 7:50 AM
+────────────────────────────────────────────────────────────────────────
+
+Those greeblie pics are pure eye candy.  This is looking amazing!
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #5086658)
+Author    : StevenBills
+Date      : Jul 2, 2020 at 9:07 AM
+────────────────────────────────────────────────────────────────────────
+
+Wow, the piping looks great! How are you bending the pipes into their proper shapes?
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #5086678)
+Author    : 3DImpact
+Date      : Jul 2, 2020 at 9:53 AM
+────────────────────────────────────────────────────────────────────────
+
+StevenBills said:
+
+			Wow, the piping looks great! How are you bending the pipes into their proper shapes?
+		
+
+Click to expand...
+
+Thanks! The two smallest diameter pipes (3/64- and 1/16-inch, Plastruct TB-1 and TB-2) are wire cored, so they take a bend rather easily like bending a paperclip. The other tubing needs to be heated until soft enough to bend and I've just been using a candle and carefully twirling the tubing above the flame until it slowly becomes soft enough to yield. I'm new at that so more complex, 'multi' bends in close proximity to each other are a bit tricky. I'm open to any tips from the pros here!
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #28  (forum post #5086898)
+Author    : Studio Kitbash
+Date      : Jul 2, 2020 at 9:27 PM
+Reactions : Like — jontom
+────────────────────────────────────────────────────────────────────────
+
+Dan,
+
+This looks really nice -- and I'm pretty sure that even the pros use the same candle-flame method for pipe bending.  My discard pile was even bigger on my first build, and I briefly flirted with the idea of buying Plastruct "bends" of 45 and 90 degree angles in order to get things perfect looking, but then realized I'd have just as much work puttying all those seams all the way around and then sanding/painting it to look "seamless", so abandoned the idea and kept the imperfections.  I also tried real copper pipe with the Dubro bender tool, but that was even harder for the complex bends.  
+
+The piping difficulty and resulting "orginality" is also one of the reasons they Y-Wing is so satisfying to build, in my mind, because no two are alike, so you can always hot-rod it your own way and get away with the rational narrative of Repairs after the Battle of ____________.  Whereas the Tie Fighters and X-Wings all are duplicates of each other pretty much, with differences related mostly to paint schemes and smudge marks on the X-wings, so not nearly as much "give" in the creativity department when building those.
+────────────────────────────────────────────────────────────────────────
+Post #29  (forum post #5086989)
+Author    : 3DImpact
+Date      : Jul 3, 2020 at 7:52 AM
+Reactions : Like — SCUDMAN, Bjorn, LadyFerry
+────────────────────────────────────────────────────────────────────────
+
+"The pipes - they've stopped."
+
+I think I've gotten all the piping done finally (except for the two close-looped ones at the rear end of the fuselage) and the last of the few remaining small greeblies attached on top.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6017_small-jpg.1320705/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6018_small-jpg.1320706/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6029_small-jpg.1320722/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6027_small-jpg.1320708/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6028_small-jpg.1320721/]
+
+For some reason the one running down the underside of the port side that takes a gentle double right-angle bend and then runs out along the wing and out to the engine seemed at the outset the most daunting to me. But by the time I got to it I guess I had gained a bit more experience on the heat and bend techniques and it turned out just fine I think. That's another reason I haven't tried to tackle the rear end loops yet. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Yeah, as Studio Kitbash says above (thanks!), this part was very satisfying and fun, even if it was a lot of trial and error work.
+
+Dan
+
+ 
+
+Attachments
+
+[IMAGE: 963218-67bc7ecdf715cca79a0bbadf229dd3dc.jpg]
+
+IMG_6026_small.jpg
+
+					692.5 KB
+					
+					· Views: 186
+					
+				
+
+[IMAGE: 963228-6acd3b8f9d1d83ad19beda89e980e497.jpg]
+
+IMG_6029.jpg
+
+					1.7 MB
+					
+					· Views: 193
+					
+				
+
+[IMAGE: 963231-67bc7ecdf715cca79a0bbadf229dd3dc.jpg]
+
+IMG_6026_small.jpg
+
+					692.5 KB
+					
+					· Views: 192
+────────────────────────────────────────────────────────────────────────
+Post #30  (forum post #5089170)
+Author    : 3DImpact
+Date      : Jul 9, 2020 at 6:23 PM
+Reactions : Like — SCUDMAN, Bjorn, Rick Deckard
+────────────────────────────────────────────────────────────────────────
+
+Engine cores installed:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6102_small-jpg.1323169/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6103_small-jpg.1323170/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6104_small-jpg.1323171/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6105_small-jpg.1323172/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6106_small-jpg.1323173/]
+
+I decided that I needed to do a bit of 'pre-painting' on the cores before installing them, since there are some deep recesses there and my interpretation of the look of the actual filming model suggested that some bits might have been painted before the final install. So, there's a bit of painting and some first-stage weathering here. Lots of detail to paint in there still but I got the difficult recessed stuff taken care of.
+
+So, it's come to that time - time to actually start painting this thing!
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #31  (forum post #5089499)
+Author    : Studio Kitbash
+Date      : Jul 10, 2020 at 1:46 PM
+────────────────────────────────────────────────────────────────────────
+
+Lookin' good !!!
+
+Save yourself the headache on the rear-end loops, and get DaveG's perfectly modeled versions at his Shapeways shop.
+
+UNLESS you want that hand-made droopy/wonky ILM look -- to my eye, this is one of the "tells" of the handmade model that doesn't look good in static form, only screaming by at 24 frames per second.
+────────────────────────────────────────────────────────────────────────
+Post #32  (forum post #5089512)
+Author    : 3DImpact
+Date      : Jul 10, 2020 at 2:18 PM
+────────────────────────────────────────────────────────────────────────
+
+Studio Kitbash said:
+
+			Lookin' good !!!
+
+Save yourself the headache on the rear-end loops, and get DaveG's perfectly modeled versions at his Shapeways shop.
+
+UNLESS you want that hand-made droopy/wonky ILM look -- to my eye, this is one of the "tells" of the handmade model that doesn't look good in static form, only screaming by at 24 frames per second.
+		
+
+Click to expand...
+
+Thanks! Oh, I'm going to give them a try and I am indeed trying to match some of the imperfections of the actual model. Maybe not quite so wonky as the original in this particular case, but there's surely a lot of randomness in the tube bending process for me still so I'm sure they will be 'uniquely wonky' for my model. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #33  (forum post #5089600)
+Author    : skahtul
+Date      : Jul 10, 2020 at 8:24 PM
+────────────────────────────────────────────────────────────────────────
+
+Looking fantastic! I keep wanting to build something like this, then I see one these amazing builds in action and I think, well, maybe someday but I am not there yet!
+
+Also, Acetone on the kitchen counter, typical modelers house, my wife always complains when I leave paint and primer in the kitchen 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #34  (forum post #5089731)
+Author    : 3DImpact
+Date      : Jul 11, 2020 at 7:21 AM
+Reactions : Like — skahtul
+────────────────────────────────────────────────────────────────────────
+
+skahtul said:
+
+			Looking fantastic! I keep wanting to build something like this, then I see one these amazing builds in action and I think, well, maybe someday but I am not there yet!
+
+Also, Acetone on the kitchen counter, typical modelers house, my wife always complains when I leave paint and primer in the kitchen 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+Thanks! Oh gosh, if I can do this anyone can! Go for it and dig in! You’ll learn a bunch and have a ton of fun doing it. Jump in!
+
+And, yeah, condo life limits my workspace. Changing soon, though, and I hope to have a real workshop area and dedicated display space for all my helmets/headgear, props, and models.
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #35  (forum post #5091751)
+Author    : 3DImpact
+Date      : Jul 16, 2020 at 6:59 PM
+Reactions : Like, Love — SCUDMAN, LadyFerry, Ogibendogy
+────────────────────────────────────────────────────────────────────────
+
+Just a few minor items before priming. I needed to get the rear end loops done and then work out the rear end cap mounting:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6131_small-jpg.1325878/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6132_small-jpg.1325879/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6133_small-jpg.1325880/]
+
+They loop inboard just a bit too far, but oh well... 'imperfectly imperfect' I guess.
+
+I knew that I was going to be using magnets to hold the rear end cap in place to hide the batteries for the cockpit and engine lights:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6134_small-jpg.1325881/]
+
+Bonded down nice and tight with J-B Weld.
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #36  (forum post #5091753)
+Author    : 3DImpact
+Date      : Jul 16, 2020 at 7:04 PM
+Reactions : Like, Love — JimmyB, SCUDMAN, Krats
+────────────────────────────────────────────────────────────────────────
+
+Ready for 'prime time'!
+
+Last time I'll see her like this:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6139_small-jpg.1325883/]
+
+Tape up the cockpit and engine cores:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6140_small-jpg.1325885/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6141_small-jpg.1325886/]
+
+On goes some Tamiya gray primer:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6142_small-jpg.1325887/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6144_small-jpg.1325888/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6145_small-jpg.1325889/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6146_small-jpg.1325890/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6147_small-jpg.1325891/]
+
+I always love this stage - the way the primer coat 'unifies' the look and somehow make all the greeblies 'stand out' even more.
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #37  (forum post #5091969)
+Author    : Chuffy 70
+Date      : Jul 17, 2020 at 11:43 AM
+────────────────────────────────────────────────────────────────────────
+
+very nice, I thought those pilot prints came with a visor?
+────────────────────────────────────────────────────────────────────────
+Post #38  (forum post #5092106)
+Author    : 3DImpact
+Date      : Jul 17, 2020 at 6:19 PM
+────────────────────────────────────────────────────────────────────────
+
+Chuffy 70 said:
+
+			very nice, I thought those pilot prints came with a visor?
+		
+
+Click to expand...
+
+Not the one I got at least. Really nice print with great detail, but no visor with mine. I had fun crafting my own so no worries.
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #39  (forum post #5094537)
+Author    : 3DImpact
+Date      : Jul 24, 2020 at 1:58 PM
+Reactions : Like, Love — JimmyB, SCUDMAN, LadyFerry
+────────────────────────────────────────────────────────────────────────
+
+White coat on top of the primer, some blue and yellow striping, and the very beginnings of detail and weathering...
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6163_small-jpg.1328828/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6171_small-jpg.1328829/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6172_small-jpg.1328830/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6179_small-jpg.1328831/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6197_small-jpg.1328832/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6198_small-jpg.1328833/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6199_small-jpg.1328834/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6215_small-jpg.1328835/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6217_small-jpg.1328836/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6219_small-jpg.1328837/]
+
+The blue is not as intense in person, it's actually pretty subtle. And the cockpit and engine domes aren't quite as bright as they appear here - they are closer in tone to the rest of the fueslage. I'm going for a compromise between the white of the actual filming model and the 'gray' as it kinda appears on screen - I'm trying to capture the on-screen feel while still maintaining as much of the actual model tones as I can. When it's all done I'll use my DSLR to take proper pics and take more care to get properly exposed and white-balanced images to capture it's true in-person appearance.
+
+Layer by layer, wash by wash, learning as I go...
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #40  (forum post #5094546)
+Author    : 3DImpact
+Date      : Jul 24, 2020 at 2:37 PM
+Reactions : Like, Love — JimmyB, SCUDMAN, LadyFerry
+────────────────────────────────────────────────────────────────────────
+
+Okay, these are probably a better representation of what it looks like in its present state:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6220_small-jpg.1328853/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6221_small-jpg.1328854/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6222_small-jpg.1328855/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6223_small-jpg.1328856/]
+
+Still crappy cell phone pics but at least in a bit better lighting.
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #41  (forum post #5094560)
+Author    : Analyzer
+Date      : Jul 24, 2020 at 3:20 PM
+────────────────────────────────────────────────────────────────────────
+
+Awesome!
+────────────────────────────────────────────────────────────────────────
+Post #42  (forum post #5094624)
+Author    : skahtul
+Date      : Jul 24, 2020 at 7:20 PM
+────────────────────────────────────────────────────────────────────────
+
+Nice paint, looking great! Pics almost never show it correctly (at least in my case) but it's looking awesome.
+────────────────────────────────────────────────────────────────────────
+Post #43  (forum post #5094726)
+Author    : Studio Kitbash
+Date      : Jul 25, 2020 at 7:35 AM
+────────────────────────────────────────────────────────────────────────
+
+Lovely paint job -- and really smart, as in "why didn't I think of that?" to paint the body/engines BEFORE adding on the T-struts and rear vectral thrusters.  
+
+This is the way - from now on.  Thanks!
+────────────────────────────────────────────────────────────────────────
+Post #44  (forum post #5094739)
+Author    : DaveP
+Date      : Jul 25, 2020 at 8:31 AM
+────────────────────────────────────────────────────────────────────────
+
+This is awesome! Love the Y-Wing! Excellent job!
+────────────────────────────────────────────────────────────────────────
+Post #45  (forum post #5094775)
+Author    : xingshen
+Date      : Jul 25, 2020 at 11:02 AM
+────────────────────────────────────────────────────────────────────────
+
+Looking great!
+────────────────────────────────────────────────────────────────────────
+Post #46  (forum post #5095605)
+Author    : 3DImpact
+Date      : Jul 27, 2020 at 5:38 PM
+Reactions : Like, Love — SCUDMAN, Bjorn, LadyFerry
+────────────────────────────────────────────────────────────────────────
+
+Little by little...
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6244_small-jpg.1330051/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6246_small-jpg.1330052/]
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #47  (forum post #5095765)
+Author    : Studio Kitbash
+Date      : Jul 28, 2020 at 6:07 AM
+────────────────────────────────────────────────────────────────────────
+
+LIKE!
+────────────────────────────────────────────────────────────────────────
+Post #48  (forum post #5097094)
+Author    : 3DImpact
+Date      : Jul 31, 2020 at 1:35 PM
+Reactions : Like, Love — SCUDMAN, Bjorn, LadyFerry
+────────────────────────────────────────────────────────────────────────
+
+Wash after wash. Still no airbrushing just yet...
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6282_small-jpg.1331497/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6285_small-jpg.1331498/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6287_small-jpg.1331499/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6288_small-jpg.1331500/]
+
+Some of the wash areas will get smoothed over a bit with some additional airbrush 'washes'.
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #49  (forum post #5099424)
+Author    : 3DImpact
+Date      : Aug 7, 2020 at 2:22 PM
+Reactions : Like, Love — Bjorn, Krats, LadyFerry
+────────────────────────────────────────────────────────────────────────
+
+Getting the bottom fuselage wrapped up - comparison with the ILM original (on the left) and mine (on the right)...
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6320_compare_small-jpg.1334455/]
+
+It's a bit tough to match the exact lighting but I was curious how it was stacking up. Not quite 1:1, maybe 1:0.9. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Of course, I know I'll find some details to touch up here and there (I already see at least three or four) but I'll wait until I'm going over the entire model at the end for those. For now I want to finally move on to the engine nacelles...
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #50  (forum post #5099436)
+Author    : DaveP
+Date      : Aug 7, 2020 at 3:11 PM
+Reactions : Like — SCUDMAN, skahtul
+────────────────────────────────────────────────────────────────────────
+
+Simply incredible work! Dare I say it, I think yours looks better! Personal preference perhaps, but I love the higher contrast. 
+
+I don't know how or why, but growing up, I found myself owning a toy Y Wing. But no X Wing or falcon (or any other rebel ship). So the Y Wing holds a very special place in my heart. It's the ship that defeated the empire for me! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+
+Thoroughly enjoying seeing the attention your paying to this model. It looks fantastic!
+────────────────────────────────────────────────────────────────────────
+Post #51  (forum post #5099491)
+Author    : skahtul
+Date      : Aug 7, 2020 at 8:21 PM
+────────────────────────────────────────────────────────────────────────
+
+Even more amazing paint, looking great!
+────────────────────────────────────────────────────────────────────────
+Post #52  (forum post #5099668)
+Author    : Studio Kitbash
+Date      : Aug 8, 2020 at 12:32 PM
+Reactions : Like — Bjorn, skahtul
+────────────────────────────────────────────────────────────────────────
+
+Dan,
+
+I'm not sure who you are trying to fool, but photoshopping the original onto the background of a shag carpet doesn't at all convince me... that it's the same foam background... ; )  
+
+Are you so cheap that you can't go buy a piece of foam from Hobby Lobby?
+
+Seriously -- where'd you get those mad painting skillz?
+
+NICE work!!!
+────────────────────────────────────────────────────────────────────────
+Post #53  (forum post #5101183)
+Author    : 3DImpact
+Date      : Aug 13, 2020 at 4:03 PM
+Reactions : Love, Like — SCUDMAN, Bjorn, LadyFerry
+────────────────────────────────────────────────────────────────────────
+
+Thanks guys! Having a ton of fun learning to weather this thing.
+
+Today was a day of transformation:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6372_small-jpg.1336538/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6373_small-jpg.1336539/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6374_small-jpg.1336540/]
+
+Gosh, it seems so much larger now!
+
+My efforts earlier on to mark out the positioning of the T struts so that they were on perfect 45-degree angles paid off. Everything lined up straight and true:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6378_small-jpg.1336550/]
+
+Now that the vector vanes are on I can finish up the weathering on the engines and the whole rear end. After that I'll tackle the cockpit weathering and detailing.
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #54  (forum post #5101265)
+Author    : Studio Kitbash
+Date      : Aug 13, 2020 at 8:12 PM
+Reactions : Haha, Like — maxhebus, skahtul
+────────────────────────────────────────────────────────────────────────
+
+BEE
+
+EEE
+
+AAYY
+
+YOU
+
+TEA
+
+FULLL!!!
+────────────────────────────────────────────────────────────────────────
+Post #55  (forum post #5103232)
+Author    : 3DImpact
+Date      : Aug 19, 2020 at 1:57 PM
+Reactions : Like, Love — SCUDMAN, Bjorn, LadyFerry
+────────────────────────────────────────────────────────────────────────
+
+Finishing up the rear end:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6410_small-jpg.1338633/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6414_small-jpg.1338634/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6409_small-jpg.1338659/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6412_compare_small-jpg.1338635/]
+
+Still some minor details to touch up, but I'll save that for the very end.
+
+On to the cockpit...
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #56  (forum post #5103323)
+Author    : Studio Kitbash
+Date      : Aug 19, 2020 at 6:14 PM
+────────────────────────────────────────────────────────────────────────
+
+Yeah, you missed a "spot"...  ; )
+────────────────────────────────────────────────────────────────────────
+Post #57  (forum post #5103341)
+Author    : 3DImpact
+Date      : Aug 19, 2020 at 7:27 PM
+────────────────────────────────────────────────────────────────────────
+
+Studio Kitbash said:
+
+			Yeah, you missed a "spot"...  ; )
+		
+
+Click to expand...
+
+Heh 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #58  (forum post #5103510)
+Author    : Jkirkon
+Date      : Aug 20, 2020 at 1:52 PM
+────────────────────────────────────────────────────────────────────────
+
+3DImpact said:
+
+			Finishing up the rear end:
+
+View attachment 1338633
+
+View attachment 1338634
+
+View attachment 1338659
+
+View attachment 1338635
+
+Still some minor details to touch up, but I'll save that for the very end.
+
+On to the cockpit...
+
+Dan
+		
+
+Click to expand...
+
+Nice butt!
+────────────────────────────────────────────────────────────────────────
+Post #59  (forum post #5103528)
+Author    : 3DImpact
+Date      : Aug 20, 2020 at 2:36 PM
+Reactions : Like, Love — SCUDMAN, Bjorn, LadyFerry
+────────────────────────────────────────────────────────────────────────
+
+Jkirkon said:
+
+			Nice butt!
+		
+
+Click to expand...
+
+Yeah, I get that sometimes. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Here it is actually finished out (I didn't have the rust wash on there when I took the previous rear end image):
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6423_small-jpg.1339048/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6424_small-jpg.1339049/]
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #60  (forum post #5105433)
+Author    : 3DImpact
+Date      : Aug 25, 2020 at 6:03 PM
+Reactions : Like, Love — SCUDMAN, Bjorn, Studio Kitbash
+────────────────────────────────────────────────────────────────────────
+
+"Almost there..."
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6452_small-jpg.1340824/]
+
+That's the last image I'll show until it's all completely done. Just a few minor details to do at this point - the rust spots on the top surface of the cockpit, the turret guns, and decals. When she's all completely done I'll set up some proper 'beauty' shots and show her off.
+
+In the mean time, here's the weathering palette 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+  :
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6451_small-jpg.1340825/]
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #61  (forum post #5107925)
+Author    : 3DImpact
+Date      : Aug 31, 2020 at 1:50 PM
+Reactions : Like, Love, Wow — carbonitekid, JimmyB, budashlock
+────────────────────────────────────────────────────────────────────────
+
+Decals from Jason arrived Friday and they went on this morning, so I guess she's finally all done!
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6490_small-jpg.1342949/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6492_small-jpg.1342950/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6494_small-jpg.1342951/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6499_small-jpg.1342952/]
+
+Okay, so not the greatest images to show her off, but I wanted to get something out there. Mostly cockpit images here since you've seen a lot of the fuselage in progress already. At the risk of breaching some etiquette perhaps, here are a couple images comparing the cockpit with the ILM original to show the level of detail matching I was aiming for (I figure since I've seen these images on the web and I'm only reproducing them at lower rez here I hope I'm okay including them here this way).
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6501_compare_small-jpg.1342953/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6500_compare_small-jpg.1342954/]
+
+Plans are afoot for some video (something something motion control rig with green screen mumble mumble) but that's several weeks out at least. I'll share more fun stuff about that later as it develops...
+
+It's been an amazing journey getting here! Including my training remote and my still unpainted escape pod, this is just my third studio-scale model. I'm re-learning a lot about painting (I did work on military models as a kid) and have definitely caught the big, studio-scale bug badly. I squarely blame Sean (T2Sides) for that! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+  For anyone else new to this all I can do is encourage you to go for it, press on, and enjoy the heck out of it - if I can do it, anyone can...
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #62  (forum post #5107934)
+Author    : 3DImpact
+Date      : Aug 31, 2020 at 2:05 PM
+Reactions : Like, Love — SCUDMAN, Bjorn, Studio Kitbash
+────────────────────────────────────────────────────────────────────────
+
+On the display stand:
+
+[IMAGE: https://www.therpf.com/forums/attachments/5d3_0601_small-jpg.1342964/]
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #63  (forum post #5107955)
+Author    : Hammer3246
+Date      : Aug 31, 2020 at 2:53 PM
+────────────────────────────────────────────────────────────────────────
+
+3DImpact said:
+
+			On the display stand:
+
+View attachment 1342964
+
+Dan
+		
+
+Click to expand...
+
+Beautiful job!
+────────────────────────────────────────────────────────────────────────
+Post #64  (forum post #5113362)
+Author    : 3DImpact
+Date      : Sep 14, 2020 at 8:47 PM
+Reactions : Love, Like — SCUDMAN, Magnoli Props, Bjorn
+────────────────────────────────────────────────────────────────────────
+
+I visited t2sides today and took my Y-Wing along to hang out with friends:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6697_small-jpg.1348775/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/5d3_0680_small-jpg.1348776/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6699_small-jpg.1348777/]
+
+Sean's models are impressive beyond words!
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #65  (forum post #5115409)
+Author    : vectorzero
+Date      : Sep 21, 2020 at 4:48 AM
+────────────────────────────────────────────────────────────────────────
+
+Seeing the Y and the Falcon together really reinforces how big the 5 footer is. Look great together. Fantastic job.
+────────────────────────────────────────────────────────────────────────
+Post #66  (forum post #5115631)
+Author    : t2sides
+Date      : Sep 21, 2020 at 5:50 PM
+Reactions : Like — 3DImpact
+────────────────────────────────────────────────────────────────────────
+
+Thanks for bringing it over Dan!!  What a pleasure seeing your model!   That really is one AUTHENTIC looking Y-Wing, just amazed at how well you nailed the details, the color, the finish and all the little nuances that make it look just like the Original!! Congrats on completing this incredible build up!!!   Can't wait to see your next amazing project!
+
+-Sean
+────────────────────────────────────────────────────────────────────────
+Post #67  (forum post #5116022)
+Author    : 3DImpact
+Date      : Sep 22, 2020 at 6:39 PM
+Reactions : Like — Bjorn
+────────────────────────────────────────────────────────────────────────
+
+Aww - shucks. Thanks, Sean, that's super nice of you. I was relieved upon holding my Y-Wing next to your Falcon that the overall 'look' seemed to match, in terms of color palette match and the overall level of weathering. They kinda feel like they were made by the same model shop.
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #68  (forum post #5116040)
+Author    : Jkirkon
+Date      : Sep 22, 2020 at 7:42 PM
+Reactions : Like — 3DImpact
+────────────────────────────────────────────────────────────────────────
+
+3DImpact, that Gold Leader is absolutely awful...you should send it to me for immediate disposal....
+
+In all seriousness, beautiful job!
+
+You CAN send it to me for ‘disposal’ though. Lol
+────────────────────────────────────────────────────────────────────────
+Post #69  (forum post #5116562)
+Author    : dirkterrell
+Date      : Sep 24, 2020 at 9:09 AM
+Reactions : Like — 3DImpact
+────────────────────────────────────────────────────────────────────────
+
+I had the pleasure of seeing this in person last week. My ability to conjure up the words to describe it properly is simply too limited. The detail, and how it matches the studio model down to individual scratches, is simply amazing. But, having known Dan for 30+ years, I am not the slightest bit surprised.
+────────────────────────────────────────────────────────────────────────
+Post #70  (forum post #5116600)
+Author    : 3DImpact
+Date      : Sep 24, 2020 at 10:51 AM
+────────────────────────────────────────────────────────────────────────
+
+<blush></blush>
+────────────────────────────────────────────────────────────────────────
+Post #71  (forum post #5136310)
+Author    : dep974
+Date      : Nov 22, 2020 at 3:28 AM
+────────────────────────────────────────────────────────────────────────
+
+3DImpact said:
+
+			Worked the cockpit today. I primed and painted, trimmed and tinted the fiber and pulled it through and glued in place. Painted various bits here and there to suggest panel detail, ran a few additional pipes, and used guitar string for the corrugated hoses.
+
+View attachment 1303601
+
+View attachment 1303603
+
+View attachment 1303604
+
+View attachment 1303608
+
+View attachment 1303602
+
+View attachment 1303605
+
+View attachment 1303606
+
+View attachment 1303607
+
+It looks much better in person - nice rich color in the lights and of course all the imperfections that you see in such close-up images blend and disappear. Once the canopy is on and everything is finished the overall effect will be to suggest some interesting detail in there.
+
+Dan
+		
+
+Click to expand...
+
+Hi...did you paint the fiber directly on it?
+
+regards
+────────────────────────────────────────────────────────────────────────
+Post #72  (forum post #5136383)
+Author    : 3DImpact
+Date      : Nov 22, 2020 at 9:11 AM
+Reactions : Like — dep974
+────────────────────────────────────────────────────────────────────────
+
+dep974 said:
+
+			Hi...did you paint the fiber directly on it?
+
+regards
+		
+
+Click to expand...
+
+Yes, I painted/tinted the tips of the fibers before running them but then did the cockpit base color with the fibers already run. I left a few inches as the paint dried then pulled to final fit and glued in place.
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #73  (forum post #5273090)
+Author    : Jamesfett
+Date      : Jan 19, 2022 at 2:40 PM
+────────────────────────────────────────────────────────────────────────
+
+3DImpact said:
+
+			White coat on top of the primer, some blue and yellow striping, and the very beginnings of detail and weathering...
+
+View attachment 1328828
+
+View attachment 1328829
+
+View attachment 1328830
+
+View attachment 1328831
+
+View attachment 1328832
+
+View attachment 1328833
+
+View attachment 1328834
+
+View attachment 1328835
+
+View attachment 1328836
+
+View attachment 1328837
+
+The blue is not as intense in person, it's actually pretty subtle. And the cockpit and engine domes aren't quite as bright as they appear here - they are closer in tone to the rest of the fueslage. I'm going for a compromise between the white of the actual filming model and the 'gray' as it kinda appears on screen - I'm trying to capture the on-screen feel while still maintaining as much of the actual model tones as I can. When it's all done I'll use my DSLR to take proper pics and take more care to get properly exposed and white-balanced images to capture it's true in-person appearance.
+
+Layer by layer, wash by wash, learning as I go...
+
+Dan
+		
+
+Click to expand...
+
+Hello,
+
+You mentioned the white coat on top of the gray Tamiya Primer.  It looks like a very light gray instead of white.  Is that just the camera?
+
+I am starting a Y wing and trying to research the colors.
+
+Thanks and amazing work.
+────────────────────────────────────────────────────────────────────────
+Post #74  (forum post #5273177)
+Author    : 3DImpact
+Date      : Jan 19, 2022 at 4:44 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Jamesfett said:
+
+			Hello,
+
+You mentioned the white coat on top of the gray Tamiya Primer.  It looks like a very light gray instead of white.  Is that just the camera?
+
+I am starting a Y wing and trying to research the colors.
+
+Thanks and amazing work.
+		
+
+Click to expand...
+
+I believe pretty standard ILM practice was to prime with black then base coat with Reefer White then weather over that. That's how Sean did his Falcon and the result is spot on. I 'cheated' a bit on my Y-Wing and just used the Tamiya gray primer because it goes on so very well and preserves every little detail. But then, yes, white for the base coat over that primer before I then started weathering...
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #75  (forum post #5273279)
+Author    : Jamesfett
+Date      : Jan 19, 2022 at 8:36 PM
+────────────────────────────────────────────────────────────────────────
+
+3DImpact said:
+
+			I believe pretty standard ILM practice was to prime with black then base coat with Reefer White then weather over that. That's how Sean did his Falcon and the result is spot on. I 'cheated' a bit on my Y-Wing and just used the Tamiya gray primer because it goes on so very well and preserves every little detail. But then, yes, white for the base coat over that primer before I then started weathering...
+
+Dan
+		
+
+Click to expand...
+
+Excellent.
+
+Thank you so much.
+
+Your build has given me hope that maybe somehow I can pull this off.
+
+Thanks again.
+
+Tom
+────────────────────────────────────────────────────────────────────────
+Post #76  (forum post #5273287)
+Author    : 3DImpact
+Date      : Jan 19, 2022 at 9:10 PM
+Reactions : Like — Jamesfett
+────────────────────────────────────────────────────────────────────────
+
+Jamesfett said:
+
+			Excellent.
+
+Thank you so much.
+
+Your build has given me hope that maybe somehow I can pull this off.
+
+Thanks again.
+
+Tom
+		
+
+Click to expand...
+
+Sure thing! Gosh, like I said above - If I can do it anyone can. You're going to nail it - dig in and enjoy the process!
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #77  (forum post #5273327)
+Author    : Dimitri-Ajith
+Date      : Jan 20, 2022 at 2:44 AM
+────────────────────────────────────────────────────────────────────────
+
+Amazing build! And looks sooo good next to the 5fter.
+────────────────────────────────────────────────────────────────────────
+Post #78  (forum post #5273332)
+Author    : Jaitea
+Date      : Jan 20, 2022 at 3:41 AM
+────────────────────────────────────────────────────────────────────────
+
+Amazing painting, beautiful model
+
+J
+────────────────────────────────────────────────────────────────────────
+Post #79  (forum post #5273424)
+Author    : Jamesfett
+Date      : Jan 20, 2022 at 7:30 AM
+Reactions : Like — Bjorn
+────────────────────────────────────────────────────────────────────────
+
+This sample of the pics above amaze me. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+
+  I have seen many attempts to get a prop or model matching exactly to the original and many look amazing, however I have never seen a match like this.  It is incredible.
+
+I need to read through this entire thread, but I may have a few more questions if that is okay?
+
+[IMAGE: https://www.therpf.com/forums/attachments/1642692542011-png.1536104/]
+────────────────────────────────────────────────────────────────────────
+Post #80  (forum post #5273560)
+Author    : 3DImpact
+Date      : Jan 20, 2022 at 11:58 AM
+Reactions : Like — Searun, Jamesfett
+────────────────────────────────────────────────────────────────────────
+
+Jamesfett said:
+
+			This sample of the pics above amaze me. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+  I have seen many attempts to get a prop or model matching exactly to the original and many look amazing, however I have never seen a match like this.  It is incredible.
+
+I need to read through this entire thread, but I may have a few more questions if that is okay?
+		
+
+Click to expand...
+
+<blush, humble>Thanks much!</blush, /humble>
+
+Sure, ask away. It's been a bit now since I had my head deep into this one, but I'm happy to help wherever I can... 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #81  (forum post #5273981)
+Author    : joberg
+Date      : Jan 21, 2022 at 6:24 AM
+────────────────────────────────────────────────────────────────────────
+
+Is there another stronger word for Wow?  Speechless
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #82  (forum post #5274044)
+Author    : Jamesfett
+Date      : Jan 21, 2022 at 8:17 AM
+────────────────────────────────────────────────────────────────────────
+
+amazed
+
+astounded
+
+shocked
+
+thunderstruck
+────────────────────────────────────────────────────────────────────────
+Post #83  (forum post #5274534)
+Author    : joberg
+Date      : Jan 22, 2022 at 9:30 AM
+Reactions : Love — Jamesfett
+────────────────────────────────────────────────────────────────────────
+
+Jamesfett said:
+
+amazed
+
+astounded
+
+shocked
+
+thunderstruck
+
+Click to expand...
+
+Flabbergasted
+
+Gobsmacked
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #84  (forum post #5276487)
+Author    : Bjorn
+Date      : Jan 26, 2022 at 5:41 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Congratulations Dan on a great job, 
+
+I finally had a chance to read this thread which is excellent, and she looks really fantastic! 
+
+I agree with the previous praise. 
+
+Mike really did some amazing stuff with these kits.
+
+Cheers!
+────────────────────────────────────────────────────────────────────────
+Post #85  (forum post #5276905)
+Author    : 3DImpact
+Date      : Jan 26, 2022 at 9:35 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Thanks much, everyone!
+
+And, yes - it's all about the great kit - really nice work getting that out there for us...
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #86  (forum post #5489283)
+Author    : norscout
+Date      : Nov 13, 2023 at 6:17 AM
+────────────────────────────────────────────────────────────────────────
+
+3DImpact said:
+
+			"Oh, Danny boy, the pipes, the pipes are calling..."
+
+View attachment 1320141
+
+View attachment 1320142
+
+View attachment 1320144
+
+View attachment 1320145
+
+View attachment 1320146
+
+View attachment 1320147
+
+View attachment 1320148
+
+View attachment 1320149
+
+View attachment 1320150
+
+Such piping. Much work. Wow!
+
+The "oops" pile:
+
+View attachment 1320151
+
+I kinda like that I've been able to 'let go' and not worry so much about the little bits that don't fit quite right and miss just a bit looking exactly like the original filming model. I'm trying to match as close as reasonably possible, but not stressing too much if one or two things are a bit off.
+
+A bit more piping left to do, a few more greeblies here and there, and then I'll get the engine cores installed...
+
+Dan
+		
+
+Click to expand...
+
+Looking good! Nice adjustable stand. What kind of stand is that?
+────────────────────────────────────────────────────────────────────────
+Post #87  (forum post #5489295)
+Author    : 3DImpact
+Date      : Nov 13, 2023 at 6:59 AM
+Reactions : Like — joberg, norscout
+────────────────────────────────────────────────────────────────────────
+
+norscout said:
+
+			Looking good! Nice adjustable stand. What kind of stand is that?
+		
+
+Click to expand...
+
+Thanks! Here’s the stand:
+
+https://www.amazon.com/gp/aw/d/B000IDBXBO?psc=1&ref=ppx_pop_mob_b_asin_image
+────────────────────────────────────────────────────────────────────────
+Post #88  (forum post #5535207)
+Author    : 3DImpact
+Date      : May 8, 2024 at 3:05 PM
+Reactions : Like, Love, Wow — dirtydave, Studio Kitbash, Carter C
+────────────────────────────────────────────────────────────────────────
+
+Okay, as soon as Jason posted the Heritage Gold Leader images my second reaction was "Crap - why didn't these come out when I was working on mine!". So I had to do a comparison. Of course some details are off, especially on the bottom and the starboard side where the previous references were more scarce, but overall I'm still pretty pleased with mine  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ . It'll have to do...
+
+[IMAGE: https://www.therpf.com/forums/attachments/gl_compare_01_small-jpg.1818451/]
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #89  (forum post #5535285)
+Author    : Jamesfett
+Date      : May 8, 2024 at 8:11 PM
+Reactions : Haha, Like — joberg, 3DImpact
+────────────────────────────────────────────────────────────────────────
+
+I know I sound like a broken record,.......but I hate you!!! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+If I ever in the lottery, which is very unlikely as I rarely play.  Well it would be unlikely if I played all the time, however should it ever happen we are gonna talk.  This will be right after I track down that lucky bugger who snagged the Enterprise E.
+
+Again, will all sincerity,...I hate you.   Just kidding.  Amazing work.
+────────────────────────────────────────────────────────────────────────
+Post #90  (forum post #5535369)
+Author    : joberg
+Date      : May 9, 2024 at 7:16 AM
+Reactions : Like, Love — Jamesfett, 3DImpact
+────────────────────────────────────────────────────────────────────────
+
+^^
+
+What he said and, to reiterate: great build and great results; you should be proud
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 90

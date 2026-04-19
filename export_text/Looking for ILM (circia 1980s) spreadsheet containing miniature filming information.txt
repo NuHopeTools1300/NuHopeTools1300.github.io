@@ -1,0 +1,113 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Looking for ILM (circia 1980s) spreadsheet containing miniature filming information
+URL    : https://www.therpf.com/forums/threads/looking-for-ilm-circia-1980s-spreadsheet-containing-miniature-filming-information.343178/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #5264313)
+Author    : StevenBills
+Date      : Dec 31, 2021 at 12:22 PM
+Reactions : Like — MattWinchell
+────────────────────────────────────────────────────────────────────────
+
+I am looking for an image of a spreadsheet that was made at ILM in the 1980s for RotJ (I think), that contains various lens information, camera information, which filters looked best on which model ships, etc...  I know that I have seen it somewhere, and I thought it was in the Rinzler books, but I can't seem to find it anywhere.
+
+Does this ring a bell with anybody?
+
+SB
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #5264351)
+Author    : MattWinchell
+Date      : Dec 31, 2021 at 1:57 PM
+────────────────────────────────────────────────────────────────────────
+
+For reference for anyone else looking at this thread, Steven and I are trying to find this spreadsheet as to expedite the process of shooting my Razor Crest motion control shots. Currently, we know that to get the best out of shooting motion-control space ship shots, shooting at 1/24 with F/22 or F/16 is best, but the speed at which the rig moves and each frame is taken is unknown to us.
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #5264366)
+Author    : Aku
+Date      : Dec 31, 2021 at 2:37 PM
+Reactions : Like — RunLoganRun
+────────────────────────────────────────────────────────────────────────
+
+Well there's at least three books that I know of. If you Google them, do any of the covers ring a bell?? 
+
+Industrial Light and Magic - the Art of Innovation - 
+
+Industrial Light and Magic - Into the Digital Realm
+
+Industrial Light and Magic - the art of Special Effects
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #5264370)
+Author    : MattWinchell
+Date      : Dec 31, 2021 at 2:47 PM
+Reactions : Like — RunLoganRun, DaddyfromNaboo
+────────────────────────────────────────────────────────────────────────
+
+It's actually hilarious because I own the last book and found exactly what we're looking for!
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0041-jpg.1529058/]
+
+I will continue to add photos as I read through the book. One thing to note is that Dennis Muren did not rely on this formula, but used it as a jumping off point
+
+EDIT: Disregard this formula. It has no bearing on what we're looking for
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #5264404)
+Author    : MattWinchell
+Date      : Dec 31, 2021 at 4:51 PM
+────────────────────────────────────────────────────────────────────────
+
+I actually take the previous postback. Someone on the thread mentioned that the formula is unrelated to the motion of control shots and is mainly for action miniatures and explosions. Perhaps we need to do more digging
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #5264702)
+Author    : StevenBills
+Date      : Jan 1, 2022 at 1:22 PM
+────────────────────────────────────────────────────────────────────────
+
+Yeah I'm looking for a specific hand-written spreadsheet with lens information, which filters were used on which models (for example, the B-Wing lighting pass was shot with a double-fog filter that would bloom the engine lights nicely), what f/stop they were shot at, etc... I've seen it floating around and would love to dig it up again.
+
+SB
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #5265401)
+Author    : Mr. E Man
+Date      : Jan 3, 2022 at 12:27 PM
+────────────────────────────────────────────────────────────────────────
+
+That's correct.  The formula in the book is for the square root of the model scale to shoot overcranked explosions, falling objects, and scale water effects.  It has nothing to do with motion control.
+
+Motion control miniature shots are done at far slower speeds in order to build exposure and introduce natural motion blur while at tiny apertures (f/22) to hold DOF.  The speed that each pass is shot can vary depending on the relative brightness of lighting sources in order to get proper exposure.
+
+E
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #5265511)
+Author    : DanielB
+Date      : Jan 3, 2022 at 4:42 PM
+Reactions : Like — Treadwell, StevenBills, joberg
+────────────────────────────────────────────────────────────────────────
+
+Mr. E Man is correct. The miniature formula is only for miniatures being shot in real time. It doesn't matter whatsoever for motion control. If you know you have to keep the aperture at F/22, then all the matters is how long you need to hold the iris open to get a good exposure. 
+
+Then you will need to figure out how many frames you want, and how long between each frame the camera needs to be exposed. So if the frame needs 2 seconds of exposure, you want to double the amount of time between each frame to 4 seconds between frames. This will emulate the motion blur of motion picture of 24fps at 1/48th shutter.
+
+You will then need to determine how fast you want the camera to fly by the model when factoring all these variables in.
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #5265585)
+Author    : MattWinchell
+Date      : Jan 3, 2022 at 8:42 PM
+Reactions : Like — joberg, DaddyfromNaboo
+────────────────────────────────────────────────────────────────────────
+
+DanielB said:
+
+			Mr. E Man is correct. The miniature formula is only for miniatures being shot in real time. It doesn't matter whatsoever for motion control. If you know you have to keep the aperture at F/22, then all the matters is how long you need to hold the iris open to get a good exposure.
+
+Then you will need to figure out how many frames you want, and how long between each frame the camera needs to be exposed. So if the frame needs 2 seconds of exposure, you want to double the amount of time between each frame to 4 seconds between frames. This will emulate the motion blur of motion picture of 24fps at 1/48th shutter.
+
+You will then need to determine how fast you want the camera to fly by the model when factoring all these variables in.
+		
+
+Click to expand...
+
+This was the answer that will help me most. I was concerned about the distance between each frame, but you've made it easier to understand given that the distance between each frame is based on time. So thank you for that.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 9

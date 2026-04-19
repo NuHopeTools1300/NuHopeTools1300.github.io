@@ -1,0 +1,496 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Measuring studio scale models
+URL    : https://www.therpf.com/forums/threads/measuring-studio-scale-models.19892/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #272616)
+Author    : 3D-builder
+Date      : Jan 30, 2007 at 3:47 PM
+────────────────────────────────────────────────────────────────────────
+
+I was just wondering looking through the chronicals book, at the sizes of the models listed. Slave-1  has measurements of 66x69x25.Thats fine but what points were they measured from? Iam sure the 66 0r 69 measurement is for the length or width.Lets say the 69 measurement is for the length, was it measured from the one end of the turltle shaped hull to the other end?Or was it measured from the front all the way back to the tip of rear hull behind the rotating laser cannons?Another thing just how accurate is this stuff written in say the ,chronicals book.?And how far off  + or - can a model be before it is not considered studio scale? In the US a measurement will be stated by L W H is this true in the chronicals book? Looking at some of the numbers it can't seem possible can it :unsure Any help would be appreciated thanks,
+
+Regards,
+
+Michael
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #272742)
+Author    : DARKSIDE72
+Date      : Jan 30, 2007 at 7:27 PM
+────────────────────────────────────────────────────────────────────────
+
+Good question, the measurements in the books aren't accurate, aren't accurate by far as in the SS world. The best way to begin a measurement of an area/section is to use the kit parts in hand as an accurate template. With the parts in hand one can easily gauge the size of a section of a  model. 1.1 prints/drawings can be made from these calculations.
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #272806)
+Author    : 3D-builder
+Date      : Jan 30, 2007 at 9:21 PM
+────────────────────────────────────────────────────────────────────────
+
+<div class='quotetop'>QUOTE(DARKSIDE72 @ Jan 31 2007, 03:27 AM) [snapback]1408313[/snapback]</div>
+
+			Good question, the measurements in the books aren't accurate, aren't accurate by far as in the SS world. The best way to begin a measurement of an area/section is to use the kit parts in hand as an accurate template. With the parts in hand one can easily gauge the size of a section of a  model. 1.1 prints/drawings can be made from these calculations.
+
+[/b]
+		
+
+Click to expand...
+
+Thanks Darkside72 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ But if the measurements in say the chronicals book aren't accurate what do you guys in the studio scale world make your measurements by? :unsure Iam sure the kit parts aren't that accurate also right?Which leads me to belive a lot of this studio scale stuff is based on a big size or "Kind of close" If you can't go by the books with the filming minatures pictured with measurements or the model kits what is left?I mean unless you have the real original model in your hand and you are taking measurements we are all guessing. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ It seems like finding the pieces that made up the model is very important on this site, but what good are they if you have no idea how big the area is they are getting glued to. :angry 
+
+  Another question did anyone say to the original builders, the model has to be 66X69x28,
+
+or were they given a raw measurements?These final measurements we see in books like the Chronicals are just the end products of building. I belive a lot of these models changed measurements just through evolution, and with the natural limitations of building which they encountered along the way. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ Iam not sure building a "studio Sclae" model is that cool in my opinion. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ Lets face it if your building a "Studio Scale" model you....we....me are copying someones work.We are not the great builders....but maybe we are the great copiers? 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ Some say a copy is the best form flatery, that might be true but it depends on what the intensions of the copy are for.Should every one have a  T-47 like the one I scratch-built, In my opinion I say yes if they can build one.Now a lot of people will say hey "You can't expect everyone to have the talent to build one from scratch". Scratch-buildig models does not take talent, some people may want you to belive this but Iam living proof. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ this is not true.Check this out even if you buy and build a studio scale model kit you have not built a model, but a kit of it. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ For the most part you can't buy a studio scale Star Wars model (OOPS thats not true anymore with MR in the mix)you have to build it. 
+
+  I see there is a working effort to source out parts in this community for the studio scale stuff, and thats great. What about the people who want to learn how to build the the subjects? I think there are many out there that want to learn, I was one of them and Iam still learning.There are no secrets to scratch-building there are just things we don't know or we havn't learned yet.We are modeling community here over 4,000 strong?Wow thats a lot of knowledge, anyone here can ask me for help as much as I know I will tell, Iam user friendly. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ I will not be ashamed to ask for help as I continue to learn and pogress in my model building .
+
+Regards,
+
+MIchael
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #272838)
+Author    : star-art
+Date      : Jan 30, 2007 at 11:26 PM
+────────────────────────────────────────────────────────────────────────
+
+For the subjects I've worked on, I've tried gauging proportions from available photos and drawing plans, then building mockups and "posing" them to see how well they match the original. With the use of 3D modeling, this process gets easier. But this only helps nail proportions, not dimensions.
+
+To figure the dimensions, you ID the kit parts that are applied to the surface and then measure those. The parts then become a "measuring stick" to gauge the size of the underlying panel. Of course, this doesn't always work for all subjects. But it works for many SW and BSG models.
+
+Again, 3D modeling technology is a huge help in this process. Scan the kit part, make an outline template, then build a 3D "stand in" part from that. Apply this to your 3D model and position it until it looks right and see how it fits. Adjust the panel and placement until everything lines up like it does on the original subject. This is about as close as you can get without detailed measurements of the original model.
+
+It's a lot of work.. There are no easy solutions to these kinds of problems, at least not in my experience. HTH. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #273050)
+Author    : BrundelFly
+Date      : Jan 31, 2007 at 8:40 AM
+────────────────────────────────────────────────────────────────────────
+
+" But if the measurements in say the chronicals book aren't accurate what do you guys in the studio scale world make your measurements by?  "
+
+He Just told you.   Use real kit parts, and interpolate.
+
+"Iam sure the kit parts aren't that accurate also right?"
+
+HUH????  Lets see.  The XWING used a PHantom Engine. You BUY the same kit, and its the same part.
+
+How accurat would you say...the SAME PART is?
+
+"Which leads me to belive a lot of this studio scale stuff is based on a big size or "Kind of close" If you can't go by the books with the filming minatures pictured with measurements or the model kits what is left?I mean unless you have the real original model in your hand and you are taking measurements we are all guessing.  
+
+Some of us GUESS better than others.   When Moe measured the CNC engineering protype from the FALCON scan, most of his measures were withing .5mm    Only Three were off by more than 2 mm.
+
+"It seems like finding the pieces that made up the model is very important on this site, but what good are they if you have no idea how big the area is they are getting glued to."
+
+See above.
+
+"Another question did anyone say to the original builders, the model has to be 66X69x28,
+
+or were they given a raw measurements?These final measurements we see in books like the Chronicals are just the end products of building. I belive a lot of these models changed measurements just through evolution, and with the natural limitations of building which they encountered along the way. "
+
+Gee....are you saying they were BUILT and thus a scale that DIDNT exist before was created???
+
+and it was called STUDIO  SCALE because we needed a name for it ??
+
+MY GOD man you  are ONTO SOMETHING..
+
+"Iam not sure building a "studio Sclae" model is that cool in my opinion.  Lets face it if your building a "Studio Scale" model you....we....me are copying someones work.   are not the great builders....but maybe we are the great copiers? 
+
+Not COOL? Well...You are entitled to you opinion.   However, if its NOT cool. DONT DO IT.  Let us WHo DO do ...ENJOY it. 
+
+"Scratch-buildig models does not take talent, some people may want you to belive this but Iam living proof."
+
+Ok..NOW you pissed me off.   WHo are you to say what takes talent?    An accurate statement from you WOULD have Been Posting does not take intelligence.
+
+You statement about  SCRATCH BUILDING not taking talent, is insulting. Your opinion or not, you are NOT making friends here.
+
+" this is not true.Check this out even if you buy and build a studio scale model kit you have not built a model, but a kit of it."
+
+How are you making a KIT??   You might be building a model of a MODEL..but..a kit?
+
+That makes NO sense whats so ever.  It doesnt even QUALIFY as OPINION an absurd one.
+
+"For the most part you can't buy a studio scale Star Wars model (OOPS thats not true anymore with MR in the mix)you have to build it. "
+
+But wait...Scratch building wasnt cool? HOW else ya gonna GET one UNLESS you build it..???
+
+HAVE YOU BEEN SNIFFING THE GLUE again???
+
+"There are no secrets to scratch-building there are just things we don't know or we havn't learned yet.We are modeling community here over 4,000 strong?Wow thats a lot of knowledge, anyone here can ask me for help as much as I know I will tell, Iam user friendly.  I will not be ashamed to ask for help as I continue to learn and pogress in my model building ."
+
+MIchael,
+
+I wouldnt ask you to park my car.   You SHOULD NOT be ashamed to ask for help.   In fact, I would suggest you get professonal help.
+
+If you do nothing else, go buy a book on COUTH and CLASS. Or basic manners.
+
+To come to a MODEL BUILDING prop COLLECTING forum...and tell the builders they HAVE NO TALENT and their hobby isnt WORTHY of beng a hobby is beyond INSULTING.
+
+Im termping my words, thinking...this HAS to be a 12 year old who doesn't know any better.
+
+And if so...then Im sorry.   But if you want to play in the big boy forums, you better  be cautious.
+
+Go be a good little boy and back to K-MART and BUY a SNAP KIT of something.
+
+If you are an adult...then: Please,.. Go be a good little boy and back to K-MART and BUY a SNAP KIT of something.
+
+Because same applies to you.
+
+Frank
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #273077)
+Author    : Mycroft Holmes
+Date      : Jan 31, 2007 at 9:19 AM
+────────────────────────────────────────────────────────────────────────
+
+Wow. Did he come to this board to insult us great copiers? Okay, all of us need to go to our room and sit in the corner. Were talentless copiers that have no right to exist :cry  
+
+Now, excuse me, I'm going to sit back and let Kurt Kuhn and his guys do all the kit IDing and leach the efforts and use it with my talentless copier building and not offer any help  :love  
+
+Grow the F up kid. Go play with the snap kits. The glue will only add to your neurosis :confused 
+
+Now, onto the fumes. I need fumes :lol 
+
+Or is that the vapors :eek 
+
+Mark :love
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #273109)
+Author    : David Moeller
+Date      : Jan 31, 2007 at 10:08 AM
+────────────────────────────────────────────────────────────────────────
+
+Hey Michael,
+
+I understand some of what you are saying, but it is important to remember that this is a "community" which is defined by people who share common interests. Read the caption that defines what Studio Scale is about. This is why these particular members are here.
+
+"to replicate the models that were used in the film"
+
+I understand that is not easy to do, when I was growing up, my parents took me to a show to see the filming models in person, and as a kid, I realized that the actual models were not as impressive as what I saw on the film. Though I was impressed with the Galactica, CETK mother-ship, and the police station from Blade Runner.
+
+I guess I fall in between the lines, because I want to make the models appear as they are in the movie or what I would like them to be, that is how "I" enjoy this hobby, but you have to respect what the community is about.
+
+As for the figures in the book; you need to look at the purpose of the author, to "sell a book" it is not a guide for building anything. The post figures to give you an idea of what size it is. If you look at any engineering drawing, it defines the scale and gives you tolerances to follow. I always look at the book as a ruff estimate at best.
+
+If you want to find out about scale, you have been told by long time members of the community how to do just that - extrapolate from existing model parts. It is not easy, but that is what most people do.
+
+If you know about the motion picture industry, everybody is under time pressure to get the job done. These models were built 30 years ago. That is a long time, I was trying to remember what happened to me 30 years ago. These models were built for the film, that's all. If you see anything original, it is mainly just bits. There is little documentation so as far as accurate dimensions... we are just out of luck.
+
+The other thing you mention, does not fit in the SS category, which is "design". If you want to create something new, I am sorry to say, does not fit into this category by the previously stated definition. There is nothing to stop you from doing it, I myself have thought about doing a project that is "inspired" by these films, but I believe it must be placed in the general modeling category. Anyone can correct me if I am wrong.
+
+As for talent, I guess that depends on what "your" definition of talent is. If you mean that they can do some things better than others, then that includes a lot of people. I have been impressed with many guys dedication to this subject. I do not have the patients to poke through all of those model kits to "find" that "correct" part. You could attribute it to effort, but I do believe that some people are better at it than others, therefore they are "talented" at doing it. Shaping material, molding, painting, electronics, many of the things that make up model building could be "learned" true, but some will do it better, therefore they possess "talent"
+
+I understand that you enjoy building models, that is why you are here, but if you want to be part of the "community", you have to respect the community rules, but nothing is stopping you from doing what you want to do in your free time.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+
+Dave
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #273110)
+Author    : terryr
+Date      : Jan 31, 2007 at 10:08 AM
+────────────────────────────────────────────────────────────────────────
+
+If nobody can judge the scale, then how would they know yours is off?
+
+How big are big boobs? How do you measure them accurately?
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #273117)
+Author    : EchoLeader
+Date      : Jan 31, 2007 at 10:15 AM
+────────────────────────────────────────────────────────────────────────
+
+<div class='quotetop'>QUOTE(terryr @ Jan 31 2007, 06:08 PM) [snapback]1408716[/snapback]</div>
+
+			If nobody can judge the scale, then how would they know yours is off?
+
+How big are big boobs? How do you measure them accurately?
+
+[/b]
+		
+
+Click to expand...
+
+Big boobs are a touchy subject. At least that's how I measure them.  :love
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #273151)
+Author    : 3D-builder
+Date      : Jan 31, 2007 at 11:03 AM
+────────────────────────────────────────────────────────────────────────
+
+<div class='quotetop'>QUOTE(BrundelFly @ Jan 31 2007, 04:40 PM) [snapback]1408648[/snapback]</div>
+
+			" But if the measurements in say the chronicals book aren't accurate what do you guys in the studio scale world make your measurements by?  "
+
+He Just told you.   Use real kit parts, and interpolate.
+
+"Iam sure the kit parts aren't that accurate also right?"
+
+HUH????  Lets see.  The XWING used a PHantom Engine. You BUY the same kit, and its the same part.
+
+How accurat would you say...the SAME PART is?
+
+"Which leads me to belive a lot of this studio scale stuff is based on a big size or "Kind of close" If you can't go by the books with the filming minatures pictured with measurements or the model kits what is left?I mean unless you have the real original model in your hand and you are taking measurements we are all guessing.  
+
+Some of us GUESS better than others.   When Moe measured the CNC engineering protype from the FALCON scan, most of his measures were withing .5mm    Only Three were off by more than 2 mm.
+
+"It seems like finding the pieces that made up the model is very important on this site, but what good are they if you have no idea how big the area is they are getting glued to."
+
+See above.
+
+"Another question did anyone say to the original builders, the model has to be 66X69x28,
+
+or were they given a raw measurements?These final measurements we see in books like the Chronicals are just the end products of building. I belive a lot of these models changed measurements just through evolution, and with the natural limitations of building which they encountered along the way. "
+
+Gee....are you saying they were BUILT and thus a scale that DIDNT exist before was created???
+
+and it was called STUDIO  SCALE because we needed a name for it ??
+
+MY GOD man you  are ONTO SOMETHING..
+
+"Iam not sure building a "studio Sclae" model is that cool in my opinion.  Lets face it if your building a "Studio Scale" model you....we....me are copying someones work.   are not the great builders....but maybe we are the great copiers? 
+
+Not COOL? Well...You are entitled to you opinion.   However, if its NOT cool. DONT DO IT.  Let us WHo DO do ...ENJOY it. 
+
+"Scratch-buildig models does not take talent, some people may want you to belive this but Iam living proof."
+
+Ok..NOW you pissed me off.   WHo are you to say what takes talent?    An accurate statement from you WOULD have Been Posting does not take intelligence.
+
+You statement about  SCRATCH BUILDING not taking talent, is insulting. Your opinion or not, you are NOT making friends here.
+
+" this is not true.Check this out even if you buy and build a studio scale model kit you have not built a model, but a kit of it."
+
+How are you making a KIT??   You might be building a model of a MODEL..but..a kit?
+
+That makes NO sense whats so ever.  It doesnt even QUALIFY as OPINION an absurd one.
+
+"For the most part you can't buy a studio scale Star Wars model (OOPS thats not true anymore with MR in the mix)you have to build it. "
+
+But wait...Scratch building wasnt cool? HOW else ya gonna GET one UNLESS you build it..???
+
+HAVE YOU BEEN SNIFFING THE GLUE again???
+
+"There are no secrets to scratch-building there are just things we don't know or we havn't learned yet.We are modeling community here over 4,000 strong?Wow thats a lot of knowledge, anyone here can ask me for help as much as I know I will tell, Iam user friendly.  I will not be ashamed to ask for help as I continue to learn and pogress in my model building ."
+
+MIchael,
+
+I wouldnt ask you to park my car.   You SHOULD NOT be ashamed to ask for help.   In fact, I would suggest you get professonal help.
+
+If you do nothing else, go buy a book on COUTH and CLASS. Or basic manners.
+
+To come to a MODEL BUILDING prop COLLECTING forum...and tell the builders they HAVE NO TALENT and their hobby isnt WORTHY of beng a hobby is beyond INSULTING.
+
+Im termping my words, thinking...this HAS to be a 12 year old who doesn't know any better.
+
+And if so...then Im sorry.   But if you want to play in the big boy forums, you better  be cautious.
+
+Go be a good little boy and back to K-MART and BUY a SNAP KIT of something.
+
+If you are an adult...then: Please,.. Go be a good little boy and back to K-MART and BUY a SNAP KIT of something.
+
+Because same applies to you.
+
+Frank
+
+[/b]
+		
+
+Click to expand...
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ Frank easy big fella, I never said "the builders here have no talent" Talent is a over rated word it holds people  back from trying because they think you need it to scratch-buld. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ Scrath-building is a learning process.Everything in scratch-building is a learned skill, that means if you are willing to learn you can begin to scratch- build your favorite subjects.It's not the talent  of scrath-building that shows up in these beautiful pieces you see on this site totaly, it's the PASSION and years of learning experience. I do not have a big enough ego to think that talent allows me to do all that I can. In fact to say I have talent is kind of insulting in a weird way the way I look at things 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ Only because I had to  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ LEARN most of what I do, I would rarther someone say to me "Hey how did you build that thing" instead of hearing wow you have un-beliveable talent. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ Constructive critisisim Ya thats cool to, what a great tool.
+
+ As far as building a studio scale model not being cool becaue it has already been built. You will notice the word (I) in there. A question I ask to myself sometimes, thats why I will usually build an original design after  I build one of my favorite SW subjects.Lets face it SW subjects are addictave with there shapes and detail, it's hard sometimes to sit down and design something original with out SW creeping in there. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+
+ It is true if you buy a studio scale model kit of a subject you have not built a model but a model kit, the dude who made up the plans, built the masters, built the molds, poured the resin, made mistakes and started over so you would have this beautifull finished piece......he built the model. Now does everyone have the time or room for this no. All Iam saying is that it can be learned, and don't get it twisted this is not an attempt to put down the guys making kits for the people in the hobby here, this is a FREE country I could not be that greedy.......now if your talking about Poppey's chicken thats a different story. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+
+  My statement about the measurements and the original builders was a question it ended with a ? mark, before I babbeld about how maybe the models changed during the building process, I remember I read Lorne Peterson say "You just can't build everything the way it's drawn" so it seems there was room for making things work, which is why (maybe) people tell me the the measurements in books like the Chronicals are not 100% right. All I was asking is was it possible they started out with a scale or size and they changed along the way. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+
+  As far as kit parts Darkside72 said parts in hand, I thought he was talking about the parts that come in the commercialized model kits like ertle and others who put out model kits of the SW subjects, I knew these parts were not accurate thats why I was (Wondering). Not sure why you got mad about that?
+
+  In your comments to me about my age and couth and class I have no reply, you have never sat down with me and talked about the craft, you have no idea of my passion for building or helping others who want to learn...do you? 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ Your comments about me going to K-mart are insulting NOT to me.... but to the majority of people here who do buy model kits, and enjoy the hobby through that medium. My comments were light hearted and a bit opinionated...they were even off subject but in the end thank you Starart and Darkside72 for your comments. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+
+Regards,
+
+Michael
+
+P.S. This is a link to my latest build it's a progression intended to help people learn, it is not a brag book. I have been writing for a month a how to manual with step by step instructions. When it's finished Iam going to make it (FREE) to help others who want to get started learning.It may not be the best manual but it's my contribution back to the people who ask "How did you build that thing" and for the people who need something to read in the bathroom. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+
+http://public.fotki.com/HVHMG/members_gall...m_t-47_armored/
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #273177)
+Author    : EchoLeader
+Date      : Jan 31, 2007 at 11:32 AM
+────────────────────────────────────────────────────────────────────────
+
+3D-builder, don't take this the wrong way dude but, MAN. your typing style gives me a headache when I try to read it.
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #273181)
+Author    : BrundelFly
+Date      : Jan 31, 2007 at 11:39 AM
+────────────────────────────────────────────────────────────────────────
+
+Well...Your FIRST post was pretty clear, and although you make a nice job of backpeddling in yoursecond post,  it (your Second post) is so full of contridictions  in its ownright, that its not even worth addressing how it contradicts what you said in the first place in the previous post.     Just describing what you did is confusing.    You are speaking in circles.
+
+To top it off....You bash SCRATCH building, then you post a picture of a really nice SCRATCH BUILT SNOWSPEEDER.
+
+I will chalk it up to your inability to articulate your point via asci text and not waste any more of my time.
+
+Best of luck to you.
+
+Frank
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #273236)
+Author    : Dymerski
+Date      : Jan 31, 2007 at 1:24 PM
+────────────────────────────────────────────────────────────────────────
+
+Scratch builders are amazing people... the talent is there..... I get these model magazines were these guys build a total scratch built P-51 mustang that match the factory blueprints and it has working landing gear, control surfaces etc....how do they work soooo small????? tell me they dont have talent.
+
+I can scratch build but it is my least skilled thing I do
+
+I LOVE scratch builders....
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #273255)
+Author    : Treadwell
+Date      : Jan 31, 2007 at 1:44 PM
+────────────────────────────────────────────────────────────────────────
+
+Indeed.
+
+Talk about some skilled scratchbuilding:
+
+http://www.colorado4x4.org/vbb/showthread.php?t=85152
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #273344)
+Author    : 3D-builder
+Date      : Jan 31, 2007 at 4:40 PM
+────────────────────────────────────────────────────────────────────────
+
+<div class='quotetop'>QUOTE(BrundelFly @ Jan 31 2007, 07:39 PM) [snapback]1408788[/snapback]</div>
+
+			Well...Your FIRST post was pretty clear, and although you make a nice job of backpeddling in yoursecond post,  it (your Second post) is so full of contridictions  in its ownright, that its not even worth addressing how it contradicts what you said in the first place in the previous post.     Just describing what you did is confusing.    You are speaking in circles.
+
+To top it off....You bash SCRATCH building, then you post a picture of a really nice SCRATCH BUILT SNOWSPEEDER.
+
+I will chalk it up to your inability to articulate your point via asci text and not waste any more of my time.
+
+Best of luck to you.
+
+Frank
+
+[/b]
+		
+
+Click to expand...
+
+I don't back peddle my second post was just a defensive reply 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ (Natural...right?) I may be a bit of a strange bird but don't let that fool you. Iam humble enough and secure enough to ask myself questions, about everything I do and wonder why Iam doing it. You are reading my words out of context I purposely left the link for the speeder, ya I used to build model kits to and I have no disrespect for the people who do ,but I wonder about your feelings with the comments you made.? I never bashed scratch-building thats insane, I may look at it and have my own opinions about what I do ....ya it might be weird but thats me maybe Iam weird? :eek 
+
+I will always keep (my) stance on talent because I hold myself as a witness. when I saw all the cool models with lights I wanted to LEARN how to do this, no talent in the world was going to teach me. I built a model with a basic shape which was very (UGLY) 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ I must say.I went down to radio shack and started experimenting. I kept wiring the micro switch wrong and instead of lights I got HEAT way to much HEAT. But I learned it was part  passion and the willingness to learn.I belive the passion and willingness to learn produce the talent over years that you can see here on this very site. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+
+Iam sorry but you siad my first post was pretty clear, and then you chalked it up to my inabilty to articulate my words. Iam sorry about the confusion if it's pretty clear but then you don't understand there is not much more I can d
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+f course I can always shut up 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+  And thats probably a good idea here because we have moved way off topic so thats what Iam going to do. :thumbsup 
+
+Regards,
+
+Michael
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #273354)
+Author    : 3D-builder
+Date      : Jan 31, 2007 at 4:57 PM
+────────────────────────────────────────────────────────────────────────
+
+<div class='quotetop'>QUOTE(Mycroft Holmes @ Jan 31 2007, 05:19 PM) [snapback]1408679[/snapback]</div>
+
+			Wow. Did he come to this board to insult us great copiers? Okay, all of us need to go to our room and sit in the corner. Were talentless copiers that have no right to exist :cry  
+
+Now, excuse me, I'm going to sit back and let Kurt Kuhn and his guys do all the kit IDing and leach the efforts and use it with my talentless copier building and not offer any help  :love  
+
+Grow the F up kid. Go play with the snap kits. The glue will only add to your neurosis :confused 
+
+Now, onto the fumes. I need fumes :lol 
+
+Or is that the vapors :eek 
+
+Mark :love
+
+[/b]
+		
+
+Click to expand...
+
+I am pretty sure I didn't say anything that vulger to have a response like that. Even if you do abreviate the word. The people who do build snap kits they come here as inspiration to move on in there modeling hobby and improve. Thats how you feel about them? They are the future of this craft you shuld think about that.When I say somehting like "if you build a studio scale model kit you have not built a model but a kit of it " It's the truth it's not meant to be an insult .....most of the good builders started out building kits.....right?I never forgot where I started to prove this I offer my help. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ Now Iam offically done
+
+Regards,
+
+Michael
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #278874)
+Author    : Jedi Dade
+Date      : Feb 8, 2007 at 10:31 AM
+────────────────────────────────────────────────────────────────────────
+
+I'm not going to go into a point by point breakdown of this thread and its merits but let me say this in summary...
+
+3D builder - if you did not intend the things you wrote - you really need to take hard critical look at your writing style because it sure reads like you did...
+
+Brudlefly - Damn Frank tell us what you really think. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+On the topic of talent vs. skill...  In the act of "creating" something, it is passion that drives us to hone our skills to acheive the desired result.  Like anything that requires skill some individuals learn something, or are naturally good at certain things - that is a talent for something.  I freely admit that my scratching skills are more of a hard learned lessons thing then a talent, but I'm damn good at math science and problem/puzzle solving - naturally - but my abiltiy to do higher math is a honed skill made a litle easier by my natural tendencies... nobody comes out of the womb being able to do 3D calculus - or able to scratch the falcons side panels...  but they may have natural tendancies that make it a bit easier for them then the next guy...  Clear as Mud eh 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Peace - 
+
+Jedi Dade
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 17

@@ -1,0 +1,3975 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : The Probe Droid Resin Kit Instructions Tread
+URL    : https://www.therpf.com/forums/threads/the-probe-droid-resin-kit-instructions-tread.152209/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #2328381)
+Author    : moffeaton
+Date      : Jun 26, 2012 at 7:42 AM
+────────────────────────────────────────────────────────────────────────
+
+Heya gents!
+
+I have received Hyperdyne's electronics, and have the servos on order. As soon as I get them, I can start on the main body. First I will tackle the legs, but before I begin, let me know if you guys want the instructions to go into detail on how to articulate them? It's going to be more work for you as a builder, but then you can pose the legs. It will also require you to buy some more brass stock - not a ton though.
+
+I suggest that you all get one of these for this model build as you will be cutting a fair amount of brass tubing - it also comes in handy for a lot of other builds, too. I use mine all the time:
+
+Amazon.com: 2" High Speed Mini Miter/Cut-Off Saw, #919: Home Improvement
+
+Also buy some Aves Apoxie Sculpt, or your choice of putty. I also think I'm going to make a side mount for this model - so it can be hung from the wall! The Apoxie Sculpt will come in handy for anchoring in the mount point...
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #2328449)
+Author    : ralphee
+Date      : Jun 26, 2012 at 8:27 AM
+────────────────────────────────────────────────────────────────────────
+
+J, a cool fix, would be a steel rod, with a welded flat plate on the end, that would bolt up to the droids centre body "hub".......just like the prop in Chronicles maybe?
+
+Would save building something internal, just maybe a bit of reinforcement inside, and, be ILM savvy too 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+.
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #2328497)
+Author    : marsattack
+Date      : Jun 26, 2012 at 9:00 AM
+────────────────────────────────────────────────────────────────────────
+
+Jason, these were going to be the base of the armature we are building, the set screw tightens the shaft that goes inside the PD,still designing this , however someone also had mentioned to do the wall mount as seen in the chronicles.
+
+I can do both as the wall hung would be missing the panavise adaptor.
+
+any good to you??
+
+[IMAGE: photo-2.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #2328520)
+Author    : marsattack
+Date      : Jun 26, 2012 at 9:22 AM
+────────────────────────────────────────────────────────────────────────
+
+sorry , i thought you were building the Vacs, DOH!!.
+
+wrong thread, dont know if this fits the resin, sorry
+
+Mars
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #2328540)
+Author    : cosmic_x
+Date      : Jun 26, 2012 at 9:41 AM
+────────────────────────────────────────────────────────────────────────
+
+Thank you for this thread Jason, this is really appreciated
+
+How accurate is that Mini Cutter/Saw, can it cut straight and in accurate length?
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #2328596)
+Author    : moffeaton
+Date      : Jun 26, 2012 at 10:11 AM
+────────────────────────────────────────────────────────────────────────
+
+Mars, no worries - but INTERESTED IN THAT FOR MY SCRATCHBUILD, YES!!! Ahem.
+
+Cosmic_x, yep, it's able to cut 90º accurately enough for studio scale work. I cut the legs for this model recently, and all four legs are consistent, length-wise:
+
+[IMAGE: 8967cf26b8be11e1abd612313810100a_7.jpg]
+
+[IMAGE: a61b097cb9c111e1abd612313810100a_7.jpg]
+
+[IMAGE: 0e8fff4cbdb111e188131231381b5c25_7.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #2328600)
+Author    : ralphee
+Date      : Jun 26, 2012 at 10:13 AM
+────────────────────────────────────────────────────────────────────────
+
+Tube cutter works well too, just dont apply too much pressure, i tend to groove the brass now, and make the cut, with a swipe of the razor saw, mild clean with a file, and job done, perfect sleeved tubing.
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #2328665)
+Author    : moffeaton
+Date      : Jun 26, 2012 at 10:49 AM
+────────────────────────────────────────────────────────────────────────
+
+Old school! I always have a heavy hand with that thing, ugh!!!
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #2328851)
+Author    : cosmic_x
+Date      : Jun 26, 2012 at 12:41 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks Jason, the SCHENKEL is huge in 1/35!
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #2357734)
+Author    : Nils
+Date      : Jul 12, 2012 at 2:42 AM
+────────────────────────────────────────────────────────────────────────
+
+Well, I received my PD, now I just need some instructions..:lol
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #2357877)
+Author    : moffeaton
+Date      : Jul 12, 2012 at 5:29 AM
+────────────────────────────────────────────────────────────────────────
+
+Yeah, I think I've figured out which leg parts go where. We spent a week without power in over 100º heat, so everything was set aside as I spent about a grand and a half on a generator, replacing all of the food we lost, and paying to have the partially fallen Oak tree removed from my back yard. Also - my fence is smashed in, so it's not over yet.
+
+http://www.roboterkampf.com/
+
+It's on my very short list, but please be patient. I also just received an Epilog laser cutter yesterday, so I need to finish installing it, and I have oral surgery tomorrow. 
+
+That is where we are with the instructions. 
+
+In the meantime - clean your parts, remove the flash. That will take a few days, yeah?
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #2357878)
+Author    : moffeaton
+Date      : Jul 12, 2012 at 5:30 AM
+────────────────────────────────────────────────────────────────────────
+
+I think this is right....
+
+http://instagram.com/p/MuWd9_PtsN/
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #2357911)
+Author    : jedimaster
+Date      : Jul 12, 2012 at 5:54 AM
+────────────────────────────────────────────────────────────────────────
+
+Laser cutter..... Tree...... Laser cutter..... Magnifiying Glass.... Tree....
+
+Maybe not... Just put the kids to bed with Dispicable Me.
+
+Looking forward to your build Jason. Sweet.
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #2359353)
+Author    : vaderdarth
+Date      : Jul 12, 2012 at 8:24 PM
+────────────────────────────────────────────────────────────────────────
+
+cool stuff!
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #2361142)
+Author    : darth_myeek
+Date      : Jul 13, 2012 at 11:05 PM
+────────────────────────────────────────────────────────────────────────
+
+Harbor Freight has a similar (everything but the color) saw on sale. Down from $34.99 to $24.99.
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #2361858)
+Author    : cosmic_x
+Date      : Jul 14, 2012 at 1:09 PM
+────────────────────────────────────────────────────────────────────────
+
+I got this one
+
+[IMAGE: kappsaege.png]
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #2371336)
+Author    : vaderdarth
+Date      : Jul 19, 2012 at 1:12 PM
+────────────────────────────────────────────────────────────────────────
+
+Jason,  the guys are starting to request all the parts needed for a full kit all in one or two photographs.  Could you do that for us one day soon?  I think they want to ID and make sure they have everything they need for the build.   Peace man.  
+
+Dave 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #2371961)
+Author    : moffeaton
+Date      : Jul 19, 2012 at 8:04 PM
+────────────────────────────────────────────────────────────────────────
+
+I will have it for you tomorrow! Sorry, it's been a really busy and strange couple of weeks in our area. We are weathering another major storm right now - really getting tired of the 100º+ days and power outages!!!
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #2372528)
+Author    : vaderdarth
+Date      : Jul 20, 2012 at 6:23 AM
+────────────────────────────────────────────────────────────────────────
+
+No hurry buddy.  Take all the time you need.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+   I only got my own kit 2 days ago so it's definitely not a huge rush.
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #2373230)
+Author    : moffeaton
+Date      : Jul 20, 2012 at 1:20 PM
+────────────────────────────────────────────────────────────────────────
+
+Okay, as soon as we solve the questions in this particular post, I can give you guys a proper visual inventory. I can't do that if I don't know if everything is included, right?
+
+Okay, some of this seems to be slight "legacy" detailing from the original release, and I don't know if I'm looking at something that was deemed "close enough" to stand in for what would be "über accurate" parts... hence my questions below. First off - there seems to be a couple of pieces that are flat-out missing - they are highlighted in red below - don't have them, or anything close, in the castings I have:
+
+[IMAGE: IMG_0300.jpg]
+
+[IMAGE: IMG_0472.jpg]
+
+First off, the easy stuff - the main parts. If you don't know that you need these, I can't help you. No one can 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: L1120389.jpg]
+
+Here's a preview of everything ready to go - almost...
+
+[IMAGE: L1120390.jpg]
+
+And finally - where do these suckers go? As soon as we figure this out (and the missing red highlighted parts), we are ready to rock!
+
+[IMAGE: L1120391.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #2373236)
+Author    : moffeaton
+Date      : Jul 20, 2012 at 1:22 PM
+────────────────────────────────────────────────────────────────────────
+
+I can figure out a couple of them... but some I'm just not seeing. Then again, I think I'm missing some reference pics (I know, I know)... A couple key angles! Grrrr.
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #2373246)
+Author    : ralphee
+Date      : Jul 20, 2012 at 1:31 PM
+────────────────────────────────────────────────────────────────────────
+
+Red highlighted are Tamiya Matilda (3 boxes) and Morser Karl (trimmed) on the head, easy ones to miss out really?
+
+The lower parts seem to be all leg parts of various fitment Jason, though 8 and 10 escape me, could be ones we missed, but then we didnt have a "team" on it, just two guys and a lot of work lol.
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #2373252)
+Author    : ralphee
+Date      : Jul 20, 2012 at 1:34 PM
+────────────────────────────────────────────────────────────────────────
+
+Im so foggy of late with this kit part wise, but part 14 is a mystery, its cut from a Quad gun, but is that a legacy from Ro's build? Pretty sure i carved a part like that off my head? Guy?
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #2373265)
+Author    : moffeaton
+Date      : Jul 20, 2012 at 1:44 PM
+────────────────────────────────────────────────────────────────────────
+
+Yeah, I IDed the Karl and Matilda stuff immediately (man, the Matilda is a MaK *****, too!) but I don't have it in resin... which might mean no one does? That'll need to be fixed...
+
+Yeah, I figure it's all leg stuff... but I'm still not seeing exact matches so I'm loathe to declare it correct! 10 is from the flak kit, and I think it might be intended for one of the larger pincer assemblies... there's a similar art to 14 on a leg assembly too, so I was thinking "maybe it's supposed to represent that one?"
+
+I just want to get this right for the group. No pressure, Jason! LOL
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #2373267)
+Author    : moffeaton
+Date      : Jul 20, 2012 at 1:44 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks for the feedback, Lee - immensely appreciated!
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #2373323)
+Author    : mslz22
+Date      : Jul 20, 2012 at 2:17 PM
+────────────────────────────────────────────────────────────────────────
+
+# 2 is a false "cap" that i think you need for one of the bigger pistons.  I think you may only need 1 or 2 but the molds are set up to throw in extra.
+
+#11 goes on one of the legs that has the M16 wheels at the joint.
+
+#1,3 and 9 should go on one of the mid legs on one of the larger, long legs.
+
+If you don't find them I can circle them on some pics later, headed out to dinner with the wife now....no kids, yeah babysitter!
+
+mike
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #2373420)
+Author    : moffeaton
+Date      : Jul 20, 2012 at 3:20 PM
+────────────────────────────────────────────────────────────────────────
+
+Awesome! Thanks, Mike!! ENJOY your night out!!!
+────────────────────────────────────────────────────────────────────────
+Post #28  (forum post #2373450)
+Author    : Guy Cowen
+Date      : Jul 20, 2012 at 3:40 PM
+────────────────────────────────────────────────────────────────────────
+
+ralphee said:
+
+			Im so foggy of late with this kit part wise, but part 14 is a mystery, its cut from a Quad gun, but is that a legacy from Ro's build? Pretty sure i carved a part like that off my head? Guy?
+
+lee
+		
+
+Click to expand...
+
+Guy = Drunk :lol
+
+14 =Quad
+
+10, 8, 2 =?????? I'm not getting these at all???
+────────────────────────────────────────────────────────────────────────
+Post #29  (forum post #2373472)
+Author    : moffeaton
+Date      : Jul 20, 2012 at 3:54 PM
+────────────────────────────────────────────────────────────────────────
+
+Drunk modeler alert!
+────────────────────────────────────────────────────────────────────────
+Post #30  (forum post #2373765)
+Author    : mslz22
+Date      : Jul 20, 2012 at 7:14 PM
+────────────────────────────────────────────────────────────────────────
+
+#11 up first
+────────────────────────────────────────────────────────────────────────
+Post #31  (forum post #2373778)
+Author    : mslz22
+Date      : Jul 20, 2012 at 7:23 PM
+────────────────────────────────────────────────────────────────────────
+
+#12 and some more
+────────────────────────────────────────────────────────────────────────
+Post #32  (forum post #2373805)
+Author    : moffeaton
+Date      : Jul 20, 2012 at 7:46 PM
+────────────────────────────────────────────────────────────────────────
+
+Awesome! Why do I not have that last shot... Man, somehow my Probe Droid ref is not all-inclusive. I am ashamed!
+────────────────────────────────────────────────────────────────────────
+Post #33  (forum post #2373806)
+Author    : moffeaton
+Date      : Jul 20, 2012 at 7:48 PM
+────────────────────────────────────────────────────────────────────────
+
+Effing facepalm. Reference: Star Wars Museum of Science Boston
+
+I had imported NONE of these to the Probe Droid folder. Derp.
+────────────────────────────────────────────────────────────────────────
+Post #34  (forum post #2373816)
+Author    : moffeaton
+Date      : Jul 20, 2012 at 7:52 PM
+────────────────────────────────────────────────────────────────────────
+
+Do we know what goes under the "gun turret"? Was something included?
+
+http://www.forbiddenplastic.com/ref_star_wars/img/sw_mos_probe_droid_0005.jpg
+────────────────────────────────────────────────────────────────────────
+Post #35  (forum post #2373826)
+Author    : vaderdarth
+Date      : Jul 20, 2012 at 8:01 PM
+────────────────────────────────────────────────────────────────────────
+
+We've been discussing that part.  Not identified as far as I can tell.  
+
+Dave
+────────────────────────────────────────────────────────────────────────
+Post #36  (forum post #2374684)
+Author    : Guy Cowen
+Date      : Jul 21, 2012 at 11:32 AM
+────────────────────────────────────────────────────────────────────────
+
+moffeaton said:
+
+			Drunk modeler alert!
+		
+
+Click to expand...
+
+:eek, yikes  7 pints of Hogarden and I was anyones
+────────────────────────────────────────────────────────────────────────
+Post #37  (forum post #2375158)
+Author    : marsattack
+Date      : Jul 21, 2012 at 5:50 PM
+────────────────────────────────────────────────────────────────────────
+
+Mike or anyone, where is number 11 from ??
+
+thanks
+
+Marcel
+────────────────────────────────────────────────────────────────────────
+Post #38  (forum post #2377112)
+Author    : grumble garage
+Date      : Jul 22, 2012 at 11:39 PM
+────────────────────────────────────────────────────────────────────────
+
+Don't know if these will help at all. They are two shots I took in 1998 in California. Add them to the pile.
+────────────────────────────────────────────────────────────────────────
+Post #39  (forum post #2377410)
+Author    : moffeaton
+Date      : Jul 23, 2012 at 6:52 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks!
+
+So what are we doing about the missing parts?
+────────────────────────────────────────────────────────────────────────
+Post #40  (forum post #2377418)
+Author    : ralphee
+Date      : Jul 23, 2012 at 6:55 AM
+────────────────────────────────────────────────────────────────────────
+
+moffeaton said:
+
+			Thanks!
+
+So what are we doing about the missing parts?
+		
+
+Click to expand...
+
+ 
+
+What we in the business normally do, reach for the brass in pocket and buy the donors :lol.
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #41  (forum post #2377428)
+Author    : Guy Cowen
+Date      : Jul 23, 2012 at 7:02 AM
+────────────────────────────────────────────────────────────────────────
+
+All pics are always a help 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #42  (forum post #2377433)
+Author    : moffeaton
+Date      : Jul 23, 2012 at 7:06 AM
+────────────────────────────────────────────────────────────────────────
+
+Oooooh no. I'm not dipping into my Matildas and Karls for this one, as I will do that for the scratch build! This thread is for solving the parts puzzle and making instructions, so I'm thinking these pieces should be included off the bat....
+
+I can send them to Mike for casting of course, but I want to hear from David and Mike first. Maybe they already have them?
+────────────────────────────────────────────────────────────────────────
+Post #43  (forum post #2377437)
+Author    : moffeaton
+Date      : Jul 23, 2012 at 7:07 AM
+────────────────────────────────────────────────────────────────────────
+
+Also - am I making something up for the under-the-gun-turret area? As it stands, there's nothing to put under there, and something needs to fit in that space.
+────────────────────────────────────────────────────────────────────────
+Post #44  (forum post #2377464)
+Author    : ralphee
+Date      : Jul 23, 2012 at 7:26 AM
+────────────────────────────────────────────────────────────────────────
+
+Still looking for that Jason, well, havent for a while, but i have a few hunches i need to follow up on, just need the energy to drag the kits down from thew shelves TBH.
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #45  (forum post #2377512)
+Author    : moffeaton
+Date      : Jul 23, 2012 at 7:51 AM
+────────────────────────────────────────────────────────────────────────
+
+Gotcha
+────────────────────────────────────────────────────────────────────────
+Post #46  (forum post #2377586)
+Author    : mslz22
+Date      : Jul 23, 2012 at 8:42 AM
+────────────────────────────────────────────────────────────────────────
+
+I don't mean to speak for Dave, but I think the plan was to use a little of the extra brass that comes with the kit (J yours didn't have that because it came straight from me) as a stand in.  I was not even aware that there was something under that part until about 1/2 way thru the molding and casting.
+
+I think the plan is to use some of that brass as a stand in and if we can find the part i will mold it and cast up some to send out to everyone. 
+
+mike
+────────────────────────────────────────────────────────────────────────
+Post #47  (forum post #2377619)
+Author    : vaderdarth
+Date      : Jul 23, 2012 at 9:02 AM
+────────────────────────────────────────────────────────────────────────
+
+Is anything else missing from your kit Jason?  
+
+Dave
+────────────────────────────────────────────────────────────────────────
+Post #48  (forum post #2377839)
+Author    : moffeaton
+Date      : Jul 23, 2012 at 11:17 AM
+────────────────────────────────────────────────────────────────────────
+
+Mike - I'll do that in the instructions then, thanks!
+
+Dave - There's one leg that I think needs one more part - am confirming this evening!
+────────────────────────────────────────────────────────────────────────
+Post #49  (forum post #2378636)
+Author    : moffeaton
+Date      : Jul 23, 2012 at 7:41 PM
+────────────────────────────────────────────────────────────────────────
+
+Aslo, I plan to draft a lasercut neck assembly to work with the head servo Jim Shima recommended. I am also thinking this would be a good bearing ring to use?
+
+Low Profile Lazy Susans - Rockler Woodworking Tools
+
+What do you guys think? I will offer the laser cut parts to jive with the servo and the bearing assembly - which ever we all decide on.
+────────────────────────────────────────────────────────────────────────
+Post #50  (forum post #2378707)
+Author    : vaderdarth
+Date      : Jul 23, 2012 at 8:38 PM
+────────────────────────────────────────────────────────────────────────
+
+And those dimensions from corner to corner will still fit inside the neck area between body and head?  If I'm calculating right,  we need a clearance of just around 4.25" for it to fit inside the neck area.
+────────────────────────────────────────────────────────────────────────
+Post #51  (forum post #2378723)
+Author    : moffeaton
+Date      : Jul 23, 2012 at 8:51 PM
+────────────────────────────────────────────────────────────────────────
+
+The 3" square was the one I was eyeballing. It's all going to hide inside the 4-ish" neck any way, so it won't matter, I think? I'll be hogging out the resin and replacing with acrylic anyway. Pre cut to house the servo and bearing assembly... that's the loose plan.
+────────────────────────────────────────────────────────────────────────
+Post #52  (forum post #2378775)
+Author    : vaderdarth
+Date      : Jul 23, 2012 at 9:33 PM
+────────────────────────────────────────────────────────────────────────
+
+I just meant if you measure the lazy susan diagonally from corner to corner,  it measures out to about  4.25"   Rather than 3"   Just a heads up.   I don't have the model here at home so I can't measure to see if it's got that much clearance.  Worst case we can cut the corners off the lazy susan.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #53  (forum post #2379154)
+Author    : Falk
+Date      : Jul 24, 2012 at 5:45 AM
+────────────────────────────────────────────────────────────────────────
+
+moffeaton said:
+
+			Aslo, I plan to draft a lasercut neck assembly to work with the head servo Jim Shima recommended. I am also thinking this would be a good bearing ring to use?
+
+Low Profile Lazy Susans - Rockler Woodworking Tools
+
+Click to expand...
+
+Jason et al,
+
+I do not know this specific product, but my experience with other - albeit way larger - turntable bearings is they ask for a good amount of energy to rotate (and the 200 lbs. (weight) rating indicates this one is equally constructed)... Possibly too much for a standard servo?
+
+Cheers,
+
+Falk
+────────────────────────────────────────────────────────────────────────
+Post #54  (forum post #2379325)
+Author    : qcfoundry
+Date      : Jul 24, 2012 at 8:02 AM
+────────────────────────────────────────────────────────────────────────
+
+moffeaton said:
+
+			Aslo, I plan to draft a lasercut neck assembly to work with the head servo Jim Shima recommended. I am also thinking this would be a good bearing ring to use?
+
+Low Profile Lazy Susans - Rockler Woodworking Tools
+
+What do you guys think? I will offer the laser cut parts to jive with the servo and the bearing assembly - which ever we all decide on.
+		
+
+Click to expand...
+
+Jason, did you pick up any/either of the turntables I reco'd from wonderfest? I'm not doing the resin, but rather the scratch -- same size either way. Wondering if one I picked up will work.
+────────────────────────────────────────────────────────────────────────
+Post #55  (forum post #2379331)
+Author    : qcfoundry
+Date      : Jul 24, 2012 at 8:05 AM
+────────────────────────────────────────────────────────────────────────
+
+Falk said:
+
+			Jason et al,
+
+I do not know this specific product, but my experience with other - albeit way larger - turntable bearings is they ask for a good amount of energy to rotate (and the 200 lbs. (weight) rating indicates this one is equally constructed)... Possibly too much for a standard servo?
+
+Cheers,
+
+Falk
+		
+
+Click to expand...
+
+Maybe I'm misunderstanding what you're saying -- but the "rating" is the MAXIMUM load that the table/bearings will operate properly.  Not the load it takes to rotate.  I have similar turntables as these and they rotate with the same easy that a lazy susan turns in your kitchen cabinets -- very little effort.  Rotating effort only increases with the increase of the seated load increasing.
+────────────────────────────────────────────────────────────────────────
+Post #56  (forum post #2379422)
+Author    : vaderdarth
+Date      : Jul 24, 2012 at 9:00 AM
+────────────────────────────────────────────────────────────────────────
+
+I agree,  it takes virtually no pressure to rotate these.  That rating means how much weight you sit on top of the lazy susan.
+────────────────────────────────────────────────────────────────────────
+Post #57  (forum post #2379541)
+Author    : moffeaton
+Date      : Jul 24, 2012 at 10:13 AM
+────────────────────────────────────────────────────────────────────────
+
+Quincy - I missed that, rats!
+
+So any one recommend a turntable? I'd like to order something so I can get cracking!
+────────────────────────────────────────────────────────────────────────
+Post #58  (forum post #2380498)
+Author    : satazius
+Date      : Jul 24, 2012 at 6:35 PM
+────────────────────────────────────────────────────────────────────────
+
+Are you familiar with Berkey System stuff like this?
+
+750 Rotational Bearing Insert | | Berkey System
+
+I use there stuff on camera rigs and i've seen a lot of effects guys build mechanical rigs with them.  They have pretty tight tolerances generally, so you might get away from some of the "wobble" that could be inherent in a consumer lazy susan.
+────────────────────────────────────────────────────────────────────────
+Post #59  (forum post #2380626)
+Author    : vaderdarth
+Date      : Jul 24, 2012 at 7:47 PM
+────────────────────────────────────────────────────────────────────────
+
+I was just browsing bearings this afternoon and saw that same thing and thought it would be great for this project.  Nice and compact.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #60  (forum post #2380832)
+Author    : Rats
+Date      : Jul 24, 2012 at 10:29 PM
+────────────────────────────────────────────────────────────────────────
+
+Is the part under the "Gun Turret" a tank cupola part, such as the Tamiya Kampfpanzer as seen here http://www.therpf.com/f10/anh-death-star-laser-turret-136082/index5.html#post2125447 (post #101)?
+
+Cheers, JT
+────────────────────────────────────────────────────────────────────────
+Post #61  (forum post #2381492)
+Author    : vaderdarth
+Date      : Jul 25, 2012 at 9:26 AM
+────────────────────────────────────────────────────────────────────────
+
+I only see a tube and inside the tube or on top of it appears to be some sort of bracket???  No idea.   I have looked at every photo I can get my hands on and nothing looks familiar.
+────────────────────────────────────────────────────────────────────────
+Post #62  (forum post #2382722)
+Author    : moffeaton
+Date      : Jul 25, 2012 at 8:27 PM
+────────────────────────────────────────────────────────────────────────
+
+So which one shall I buy, fellas?
+
+Also, Dave - am I sending these missing parts to Mike?
+────────────────────────────────────────────────────────────────────────
+Post #63  (forum post #2382818)
+Author    : vaderdarth
+Date      : Jul 25, 2012 at 9:32 PM
+────────────────────────────────────────────────────────────────────────
+
+Send him pics first to make sure he didn't already have them and they just got left out of your kit.  
+
+Dave 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #64  (forum post #2383363)
+Author    : moffeaton
+Date      : Jul 26, 2012 at 7:14 AM
+────────────────────────────────────────────────────────────────────────
+
+Good idea!
+────────────────────────────────────────────────────────────────────────
+Post #65  (forum post #2384638)
+Author    : vaderdarth
+Date      : Jul 26, 2012 at 8:40 PM
+────────────────────────────────────────────────────────────────────────
+
+I've been going thru my kit parts,  post pics of the ones you mean and I'll have a look to see if they are in my kit.  
+
+Dave
+────────────────────────────────────────────────────────────────────────
+Post #66  (forum post #2384648)
+Author    : moffeaton
+Date      : Jul 26, 2012 at 8:48 PM
+────────────────────────────────────────────────────────────────────────
+
+Post #20  - parts in red in the first two pics.
+
+http://www.therpf.com/f10/probe-droid-resin-kit-instructions-tread-152209/#post2373230
+────────────────────────────────────────────────────────────────────────
+Post #67  (forum post #2386901)
+Author    : vaderdarth
+Date      : Jul 28, 2012 at 7:52 AM
+────────────────────────────────────────────────────────────────────────
+
+In the two pics......I do not seem to have the 3 box looking parts in the upper pic in my kit,  but I definitely have the second part in my kit so I'm assuming everyone got the second one.    (almost everybody)   Send the first one to Mike,  but call him first as I believe he's gone on holiday with his family.
+────────────────────────────────────────────────────────────────────────
+Post #68  (forum post #2386936)
+Author    : ralphee
+Date      : Jul 28, 2012 at 8:22 AM
+────────────────────────────────────────────────────────────────────────
+
+Three boxes, Tamiya Matilda, its all easy to follow here.
+
+http://www.therpf.com/f10/studio-scale-probe-droid-id-build-102636/
+
+Most ID's, if not all are listed within, i think its been used for a ref guide anyway, but it seems these parts from the Matty were missed.
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #69  (forum post #2388342)
+Author    : Talkierg
+Date      : Jul 29, 2012 at 7:28 AM
+────────────────────────────────────────────────────────────────────────
+
+Is this it? Please correct me if Im wrong...
+
+[IMAGE: P7291777.jpg]
+
+[/IMG]
+────────────────────────────────────────────────────────────────────────
+Post #70  (forum post #2388352)
+Author    : ralphee
+Date      : Jul 29, 2012 at 7:33 AM
+────────────────────────────────────────────────────────────────────────
+
+Those are the ones.
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #71  (forum post #2389926)
+Author    : vaderdarth
+Date      : Jul 30, 2012 at 8:07 AM
+────────────────────────────────────────────────────────────────────────
+
+By the way,  for those of you wondering and following this last minute development.........I will be sending out the last minute additon to the kit,  these 3 missing bits.......at no charge to my buyers.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #72  (forum post #2389957)
+Author    : moffeaton
+Date      : Jul 30, 2012 at 8:21 AM
+────────────────────────────────────────────────────────────────────────
+
+Good man 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #73  (forum post #2389994)
+Author    : cosmic_x
+Date      : Jul 30, 2012 at 8:37 AM
+────────────────────────────────────────────────────────────────────────
+
+thanks Dave!
+────────────────────────────────────────────────────────────────────────
+Post #74  (forum post #2389995)
+Author    : vaderdarth
+Date      : Jul 30, 2012 at 8:38 AM
+────────────────────────────────────────────────────────────────────────
+
+Who's your daddy?
+────────────────────────────────────────────────────────────────────────
+Post #75  (forum post #2391725)
+Author    : vaderdarth
+Date      : Jul 31, 2012 at 6:32 AM
+────────────────────────────────────────────────────────────────────────
+
+Alright Jason,  I've trimmed out all my PD kit parts and am ready to follow your build!!!!  We can worry about the 3 missing bits at the end.   
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+
+Dave
+────────────────────────────────────────────────────────────────────────
+Post #76  (forum post #2391735)
+Author    : moffeaton
+Date      : Jul 31, 2012 at 6:38 AM
+────────────────────────────────────────────────────────────────────────
+
+As you wish. I won't be home until late tonight, but I will be able to post inventory pics tomorrow. Like I said, it's probably best to start on the legs, so that's where I'll start. It will "stall" enough to allow the missing parts to land in my mail box, maybe?
+────────────────────────────────────────────────────────────────────────
+Post #77  (forum post #2391760)
+Author    : moffeaton
+Date      : Jul 31, 2012 at 6:50 AM
+────────────────────────────────────────────────────────────────────────
+
+Just ordered a couple of bearings off of Amazon. A 3" "Lazy Susan" for under $2. If that works, I'll tailor the lasercut acrylic to the mount points!
+────────────────────────────────────────────────────────────────────────
+Post #78  (forum post #2391996)
+Author    : vaderdarth
+Date      : Jul 31, 2012 at 8:56 AM
+────────────────────────────────────────────────────────────────────────
+
+sounds good!  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #79  (forum post #2395206)
+Author    : vaderdarth
+Date      : Aug 1, 2012 at 7:02 PM
+────────────────────────────────────────────────────────────────────────
+
+Alright.  I'm ready,  got my CA glue ready,  Xacto, duct tape and chewing gum,       Ready!!!!  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #80  (forum post #2395247)
+Author    : moffeaton
+Date      : Aug 1, 2012 at 7:28 PM
+────────────────────────────────────────────────────────────────────────
+
+Been at this all evening. Hope this works. Will start building now, as I can find the dang time. July was not a kind month for "free time". Bag and tag your parts into the following groups, as this is how I'm approaching the sub-assemblies.
+
+Big stuff:
+
+[IMAGE: L1120389.jpg]
+
+This wee fella goes with the smallest big piece:
+
+[IMAGE: L1120422.jpg]
+
+Leg:
+
+[IMAGE: L1120423.jpg]
+
+Leg:
+
+[IMAGE: L1120425.jpg]
+
+Leg:
+
+[IMAGE: L1120426.jpg]
+
+Leg:
+
+[IMAGE: L1120427.jpg]
+
+Leg:
+
+[IMAGE: L1120428.jpg]
+
+Head:
+
+[IMAGE: L1120431.jpg]
+
+[IMAGE: L1120432.jpg]
+
+Body:
+
+[IMAGE: L1120433.jpg]
+
+[IMAGE: L1120434.jpg]
+
+Sad orphans I might use. We will see:
+
+[IMAGE: L1120421.jpg]
+
+Parts I will probably remake with laser cutter, or probable duplicates:
+
+[IMAGE: L1120429.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #81  (forum post #2395794)
+Author    : vaderdarth
+Date      : Aug 2, 2012 at 4:56 AM
+────────────────────────────────────────────────────────────────────────
+
+Excellent.  Do you have a very basic list of "must have" tools one might need to build this kit?
+
+Dave 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #82  (forum post #2395812)
+Author    : ralphee
+Date      : Aug 2, 2012 at 5:14 AM
+────────────────────────────────────────────────────────────────────────
+
+vaderdarth said:
+
+			Excellent. Do you have a very basic list of "must have" tools one might need to build this kit?
+
+Dave 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+ 
+
+Seriously ???
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #83  (forum post #2395844)
+Author    : vaderdarth
+Date      : Aug 2, 2012 at 5:41 AM
+────────────────────────────────────────────────────────────────────────
+
+Not for me Lee,  but there are bunches of folks who haven't tackled a garage kit before,  at least that was what I was told.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+   If you've ever assembled an RPF related garage kit,  most of them have some tutorial that begins with the basics.  Not everyone is an all knowing,  Garage Kit god like you are Lee.............LOL
+
+One nifty little tool I discovered a few years back was a Xuron sprue cutting tool that makes sprues a very easy thing to deal with.   Almost no sanding after it's use.  I picked it up right by the register at Hobby Town. 
+
+[IMAGE: xur_2175et_p.jpg]
+
+ 
+
+Another one is a mini sanding stick with replaceable "belts". 
+
+[IMAGE: 123283.jpg]
+
+ 
+
+And of course a set of mini needle files.  A set of 6 or 8 in various shapes. 
+
+[IMAGE: 114257.jpg]
+
+And a Xacto knife with a very very sharp blade.  So buy new blades so you can do more work with less pressure..........and you might keep most of your digits.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #84  (forum post #2395875)
+Author    : ralphee
+Date      : Aug 2, 2012 at 6:09 AM
+────────────────────────────────────────────────────────────────────────
+
+vaderdarth said:
+
+			Not for me Lee,  but there are bunches of folks who haven't tackled a garage kit before,  at least that was what I was told.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+   If you've ever assembled an RPF related garage kit,  most of them have some tutorial that begins with the basics.  Not everyone is an all knowing,  Garage Kit god like you are Lee.............LOL
+		
+
+Click to expand...
+
+Ahhhh, the penny drops, very good Dave. I just thought i was in general modeling for a bit there pip pip, :lol
+
+Lee
+────────────────────────────────────────────────────────────────────────
+Post #85  (forum post #2395886)
+Author    : moffeaton
+Date      : Aug 2, 2012 at 6:24 AM
+────────────────────────────────────────────────────────────────────────
+
+Sure?
+
+X-acto blade handle
+
+Crap ton of X-Acto blades. I prefer the X-LIFE ones NOT made in China.
+
+Sandpaper - crunchy, regular, calienté
+
+Glue - super and not so super
+
+Paint - all the colors of the rainbow, in enamel or acrylic
+
+Primer - spray kind.
+
+Soap - the grease cutting kind
+
+Epoxy - the two part kind
+
+Airbrush - the double action kind
+
+Brushes - not cheap ones. Skimp on your tools, you will make crappy models.
+
+Solvent for paint - clean your brushes and airbrush. And fingers. 
+
+Patient significant other - you will abandon them in the evenings for a while.
+
+Snacks - healthy or not, it's your choice.
+
+Drinks - stay hydrated!
+
+Clothes - you don't want to look like a pervert at the model table, do you?
+
+AC - a temperature controlled room is kinder to drying paint.
+
+But seriously - a lot of this stuff is pretty basic, and personal choices. If there are people who bought this and have NEVER made a resin kit before, they are in for one hell of a daunting task. But I will try to make this straightforward, and I am totally willing and happy to show what I prefer to use when making these models. BUt I have expensive high end stuff in play, and I'm not about to go back to hacking with a dremel, causing resin dust, when I can use the sonic cutter on the sprue stubs. With the lasercut stuff, no one in their right mind has one for personal use, so I'm happy to cut duplicates for people who pay for the materials and shipping. It doesn't take any time at all to slap acrylic on the cutting bed and press "print", when I'm already in the basement building. 
+
+I will try my best to "demystify" the process, but again - this is a studio scale kit. I thought there was a level of expertise in place, just walking in the door? Like I said - I'll show what I use, but your mileage will vary.
+
+I'm not in the business of teaching people "how to breathe", you know?
+────────────────────────────────────────────────────────────────────────
+Post #86  (forum post #2395887)
+Author    : moffeaton
+Date      : Aug 2, 2012 at 6:26 AM
+────────────────────────────────────────────────────────────────────────
+
+Also - I'm headed to Ace Hardware this weekend to buy lots of machined screws and nuts, for use on the legs. I'm happy to post what I come up with, but it's up to the modeler to decide how they best want to articulate the joints.
+────────────────────────────────────────────────────────────────────────
+Post #87  (forum post #2395927)
+Author    : ralphee
+Date      : Aug 2, 2012 at 6:56 AM
+────────────────────────────────────────────────────────────────────────
+
+Jason/Dave
+
+You will probably find M3 cap heads, or 4/40 (being in the US) cap heads the best method of articulation.
+
+Size wise its about spot on to what ILM used, and is easy to "lose" the capped head inside the joints Saturn/Plastruct caps.
+
+The other end of the screw is just as easy, as you can tap it into the resin, rather than worrying about fitting metal or nyloc nuts to grip.
+
+You need VERY little pressure to pinch these up, sure, yours will be a way bit heavier being solid resin, but still easy to pinch up into the resin.
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #88  (forum post #2395941)
+Author    : vaderdarth
+Date      : Aug 2, 2012 at 7:07 AM
+────────────────────────────────────────────────────────────────────────
+
+Sweet.  definitely gotta look into that.  Thanks Lee.  That sounds better than my idea of using brass tubing.
+────────────────────────────────────────────────────────────────────────
+Post #89  (forum post #2395945)
+Author    : ralphee
+Date      : Aug 2, 2012 at 7:09 AM
+────────────────────────────────────────────────────────────────────────
+
+vaderdarth said:
+
+			Sweet. definitely gotta look into that. Thanks Lee. That sounds better than my idea of using brass tubing.
+		
+
+Click to expand...
+
+ 
+
+No, brass tubing would not work, you still need a pinch. Id go for 4/40 cap heads, the thread is that little bit more coarse to grab the resin the other side.
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #90  (forum post #2395990)
+Author    : moffeaton
+Date      : Aug 2, 2012 at 7:35 AM
+────────────────────────────────────────────────────────────────────────
+
+Yeah, I use those exact cap heads on the Panavise mounts, so I was going to gravitate to those! Great minds 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+I wasn't thinking about actually just having them eat into the resin with no nut on the other end. That's what you did with your legs? That will be WAY easier!
+
+(I was thinking about using brass tubing and pinching/scoring one of the tubes for friction fit, but then I chickened out and went with the screw plan)
+────────────────────────────────────────────────────────────────────────
+Post #91  (forum post #2395996)
+Author    : Scott Graham
+Date      : Aug 2, 2012 at 7:38 AM
+────────────────────────────────────────────────────────────────────────
+
+I loved the end of your list there Jason!!!! Good info guys.
+────────────────────────────────────────────────────────────────────────
+Post #92  (forum post #2397035)
+Author    : Guy Cowen
+Date      : Aug 2, 2012 at 3:42 PM
+────────────────────────────────────────────────────────────────────────
+
+If you get the pilot hole the right size in the discs it will self tap, be warned though as any miss alignment in centre drilling the three discs per joint will send you into a world of pain.
+
+DO make sure you have the 3 discs per joint, clamped together or in a custom built jig before drilling, if they're not even it will be ugly. 
+
+A tip to those who have never done this before.....pay someone else 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+eek
+────────────────────────────────────────────────────────────────────────
+Post #93  (forum post #2397082)
+Author    : moffeaton
+Date      : Aug 2, 2012 at 4:01 PM
+────────────────────────────────────────────────────────────────────────
+
+A jig is a good idea.
+
+Also guys - add a drill press to your list of tools needed!
+────────────────────────────────────────────────────────────────────────
+Post #94  (forum post #2397092)
+Author    : REL
+Date      : Aug 2, 2012 at 4:07 PM
+────────────────────────────────────────────────────────────────────────
+
+moffeaton said:
+
+			Sure?
+
+X-acto blade handle
+
+Crap ton of X-Acto blades. I prefer the X-LIFE ones NOT made in China.
+
+Sandpaper - crunchy, regular, calienté
+
+Glue - super and not so super
+
+Paint - all the colors of the rainbow, in enamel or acrylic
+
+Primer - spray kind.
+
+Soap - the grease cutting kind
+
+Epoxy - the two part kind
+
+Airbrush - the double action kind
+
+Brushes - not cheap ones. Skimp on your tools, you will make crappy models.
+
+Solvent for paint - clean your brushes and airbrush. And fingers. 
+
+Patient significant other - you will abandon them in the evenings for a while.
+
+Snacks - healthy or not, it's your choice.
+
+Drinks - stay hydrated!
+
+Clothes - you don't want to look like a pervert at the model table, do you?
+
+AC - a temperature controlled room is kinder to drying paint.
+		
+
+Click to expand...
+
+And a first aid kit, one with lots of gauze.
+────────────────────────────────────────────────────────────────────────
+Post #95  (forum post #2397100)
+Author    : Zombie Killer
+Date      : Aug 2, 2012 at 4:11 PM
+────────────────────────────────────────────────────────────────────────
+
+I would add eye protection to that list. Don't play with the eyeballs.
+────────────────────────────────────────────────────────────────────────
+Post #96  (forum post #2397129)
+Author    : mslz22
+Date      : Aug 2, 2012 at 4:21 PM
+────────────────────────────────────────────────────────────────────────
+
+Hey guys, I m away on vacation (first real one in two years) and have limited Internet but wanted to chime in really quick on the leg joints.  When I was building them i had to make the legs so that they could be molded, that means that each joint could only have 1 of the "hangers" of the joint cast into them.  By hanger I mean the uppermost leg outer joint disk.  Most or all of the middle and lower legs have the middle disk of the sandwich.
+
+The third disk in the joint is cast seperatly, since this is resin it will need to be CA or epoxy glued to the upper leg.  I am not sure if that 3rd disk will take any force exerted on it by either a bolt or nut.  If you are using a bolt and nut combo it may be good idea to have it only go thru the disks that are cast into the recpective legs, using the 3rd one only as cover. The other option may be to use a brass tube that has been painted or clear coated to add resistance, I.e a 1/4 hole, 1/4 tube painted to add just enough material to tighten up the joint.  
+
+I m sure there is more than one approach, and that outer joint may wind up being stronger than I expect, but wanted to share what I had in mind when I made them
+
+Mike
+────────────────────────────────────────────────────────────────────────
+Post #97  (forum post #2397152)
+Author    : Guy Cowen
+Date      : Aug 2, 2012 at 4:30 PM
+────────────────────────────────────────────────────────────────────────
+
+Go back to your vacation Mike, forget us and enjoy it bud. 
+
+PS speeder landed safe n sound last week. Awesome mate
+────────────────────────────────────────────────────────────────────────
+Post #98  (forum post #2397371)
+Author    : moffeaton
+Date      : Aug 2, 2012 at 6:30 PM
+────────────────────────────────────────────────────────────────────────
+
+Mike - thanks! I'll solve each leg as they come. Starting on leg one this weekend - the build begins in earnest!
+
+First bearing set arrived - not bad. If the other one is better, I'll recommend that one!
+
+Photo by roboterkampf &bull; Instagram
+────────────────────────────────────────────────────────────────────────
+Post #99  (forum post #2401583)
+Author    : moffeaton
+Date      : Aug 4, 2012 at 7:13 PM
+────────────────────────────────────────────────────────────────────────
+
+First leg!
+
+[IMAGE: L1120423.jpg]
+
+Clean the parts, and sand the discs that form the joints VERY carefully - the goal is to get these sandwiched together cleanly, and symmetrically. 
+
+[IMAGE: L1120435.jpg]
+
+Find the centers, and drill holes using a bit slightly smaller than the diameter of the cap head screws. Note: I then drilled a larger hole at a shallow depth, so the cap head can be recessed into the (in this example) tan resin.
+
+[IMAGE: L1120436.jpg]
+
+As Lee said, allow the screw to bite into the resin, at a slight pinch, and the whole assembly will freely swing, with enough resistance that the arm stays posed where you leave it. It will look like this when you are done:
+
+[IMAGE: L1120438.jpg]
+
+FInish this first joint by gluing the Saturn V parts, centered, to the outer discs:
+
+[IMAGE: L1120439.jpg]
+
+[IMAGE: L1120440.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #100  (forum post #2401702)
+Author    : Talkierg
+Date      : Aug 4, 2012 at 8:41 PM
+────────────────────────────────────────────────────────────────────────
+
+Good start,Im gonna enjoy to see this instruction build,just like I enjoy the build of the Red Jammer last time
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #101  (forum post #2401752)
+Author    : vaderdarth
+Date      : Aug 4, 2012 at 9:25 PM
+────────────────────────────────────────────────────────────────────────
+
+If you wanted to leave the caps over the screw head end unglued for future access,  you can lay a piece of saran wrap over the screw assembly,  put a strong mini magnet on top of the screw head (on top of saran wrap),  then take, some epoxy putty and push the cap with epoxy onto the magnet,  making sure to center,  allow to set.   Voila,  removable cap secured by a magnet.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+  I did that with the TIE hero build for the panels covering the armature connectors.
+────────────────────────────────────────────────────────────────────────
+Post #102  (forum post #2402019)
+Author    : Gans
+Date      : Aug 5, 2012 at 2:53 AM
+────────────────────────────────────────────────────────────────────────
+
+Jason
+
+Thanks for taking the time to do this.
+
+This will really help me
+────────────────────────────────────────────────────────────────────────
+Post #103  (forum post #2402971)
+Author    : moffeaton
+Date      : Aug 5, 2012 at 4:20 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks!
+
+Okay, now do the same with the remaining leg segments so that they are arranged like so:
+
+[IMAGE: L1120441.jpg]
+
+For the pincers, I have decided to embed a threaded bolt into one of the caps. It will pass through the middle disc (freely) and then will bore into the other end cap, by twisting the first cap (it is essentially now a large headed bolt, lol). Since this photo was taken, I have filled the crater with Apoxie Sculpt which will really lock the bolt into the whole assembly. Then I will glue each pincer to one of the caps, and this should allow them to remain posable.
+
+[IMAGE: L1120444.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #104  (forum post #2403591)
+Author    : ralphee
+Date      : Aug 6, 2012 at 1:43 AM
+────────────────────────────────────────────────────────────────────────
+
+It kinda looks how i imagined, you got the orientation right at least Jason lol.
+
+Anyways, the uppermost damper mount......seems you guys have a T strip section, there should be a part from the Morser Karl in the mix there, its  the mounting point for the T strip that is already fitted, an easy fix.
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #105  (forum post #2403820)
+Author    : vaderdarth
+Date      : Aug 6, 2012 at 6:44 AM
+────────────────────────────────────────────────────────────────────────
+
+do you have a pic of that part Lee?
+
+Dave
+────────────────────────────────────────────────────────────────────────
+Post #106  (forum post #2403968)
+Author    : ralphee
+Date      : Aug 6, 2012 at 8:39 AM
+────────────────────────────────────────────────────────────────────────
+
+Ill see if i get chance to grab a sprue number later Dave, its an easy find though, have a look at the ref in the meantime bud or my thread, its on show in there i think.
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #107  (forum post #2404059)
+Author    : vaderdarth
+Date      : Aug 6, 2012 at 9:34 AM
+────────────────────────────────────────────────────────────────────────
+
+Cool,  will do Lee.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #108  (forum post #2405877)
+Author    : vaderdarth
+Date      : Aug 7, 2012 at 6:57 AM
+────────────────────────────────────────────────────────────────────────
+
+So you glue one prong of pincher part A to left cap and one prong of other pincher part B to the right cap?  Then the unglued prongs will simply ride the curvature of the joint as it swivels.   I like it.
+────────────────────────────────────────────────────────────────────────
+Post #109  (forum post #2406127)
+Author    : moffeaton
+Date      : Aug 7, 2012 at 9:38 AM
+────────────────────────────────────────────────────────────────────────
+
+Yep! Will test that out tonight if I get the time.
+────────────────────────────────────────────────────────────────────────
+Post #110  (forum post #2409672)
+Author    : vaderdarth
+Date      : Aug 9, 2012 at 5:06 AM
+────────────────────────────────────────────────────────────────────────
+
+Any Luck with pinchers???  I haven't been brave enough to try them.  LOL
+────────────────────────────────────────────────────────────────────────
+Post #111  (forum post #2409710)
+Author    : moffeaton
+Date      : Aug 9, 2012 at 5:45 AM
+────────────────────────────────────────────────────────────────────────
+
+Mayyyyyyybe 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Pics tonight!
+────────────────────────────────────────────────────────────────────────
+Post #112  (forum post #2409715)
+Author    : Guy Cowen
+Date      : Aug 9, 2012 at 5:48 AM
+────────────────────────────────────────────────────────────────────────
+
+I think you may find it easier to do the joints if you stick with the tried and rested route, been looking over the thread and it does look like more effort is required to do it this way. You need to drill out one of the saturn V cones on each joint to gain access to the cap head screw. 
+
+Just one hole in the last joint needs to be made smaller to to self tap the screw in, both mine and Lees legs are made with Resin inserts in the ABS so its pretty much the exact same for the kit version. As long as you can get the hole bang centre it should be easy to get a good tight join. 
+
+They aren't designed to be played with everyday, thats why the ILM legs are battered and repaired as they are fragile in plastic. Once you've got em past finger tight they lock up great and can be tweaked for fun without ever going back to adjust the screw. 
+
+If your screws are longer than the 3 discs stacked then just drill out a small hole in the reverse side of the opposite saturn V knuckle so its invisible at one end. You should only see the cap end through one of the knuckles. I promise it will be easier doing it this way
+────────────────────────────────────────────────────────────────────────
+Post #113  (forum post #2409721)
+Author    : Guy Cowen
+Date      : Aug 9, 2012 at 5:54 AM
+────────────────────────────────────────────────────────────────────────
+
+They are a PITA to get centred Jason, we had the benefit of being able to scrap a joint if it was off, I dont envy you having to do it on discs that are part of the leg.
+
+Re the Karl part lee is talking about I think it was a repair done after production so left it off mine, I cant remember if there is a pic of the PD without though so its a matter of taste.
+
+Its not visible in Chronicles!
+────────────────────────────────────────────────────────────────────────
+Post #114  (forum post #2409723)
+Author    : moffeaton
+Date      : Aug 9, 2012 at 5:57 AM
+────────────────────────────────────────────────────────────────────────
+
+Guy, do you have a pic of the access hole on the joint covers on the one you made? Also - how did you assemble the pincers using that method when the caps are the outer hinge pieces themselves? Thanks!
+────────────────────────────────────────────────────────────────────────
+Post #115  (forum post #2409725)
+Author    : moffeaton
+Date      : Aug 9, 2012 at 5:58 AM
+────────────────────────────────────────────────────────────────────────
+
+Yeah, I'm tempted to add the wires... I think it looks cool. 
+
+I'm not uptight about überaccuracy™ so it won't haunt me.
+
+(much)
+────────────────────────────────────────────────────────────────────────
+Post #116  (forum post #2409733)
+Author    : Guy Cowen
+Date      : Aug 9, 2012 at 6:05 AM
+────────────────────────────────────────────────────────────────────────
+
+moffeaton said:
+
+			Guy, do you have a pic of the access hole on the joint covers on the one you made? Also - how did you assemble the pincers using that method when the caps are the outer hinge pieces themselves? Thanks!
+		
+
+Click to expand...
+
+I'm just on my way out to hunt shipping boxes but will post a pic later, on a couple of the smaller pincer joints I cheated. its a section of knitting needle inserted into the abs tube, the abs is glued to the leg and then 2 more discs glued to each claw. They then just slip over the knitting needle.
+────────────────────────────────────────────────────────────────────────
+Post #117  (forum post #2409742)
+Author    : vaderdarth
+Date      : Aug 9, 2012 at 6:09 AM
+────────────────────────────────────────────────────────────────────────
+
+No worries on these legs.  Jason's method allowed me to build the whole leg in just under 2 hrs.   I will admit that I drilled and tapped each side for the screws which seemed to actually spped up the process for me.     I already have the pincer knuckle to the tightness I like,  and just need to add the pincers to that.  Think I'll slide some masking tape between the disks as I glue that pincer on,  to keep CA out of the space between disks.  Then repeat for the other pincer half.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+And because the pincer connection is so thin and fragile,  I am gonna bulk up on the outside with epoxy I think.
+────────────────────────────────────────────────────────────────────────
+Post #118  (forum post #2409796)
+Author    : moffeaton
+Date      : Aug 9, 2012 at 6:56 AM
+────────────────────────────────────────────────────────────────────────
+
+Or embed a wire into the disc, and hav
+
+e it run along the inner corner of the pincer sides....
+────────────────────────────────────────────────────────────────────────
+Post #119  (forum post #2409891)
+Author    : vaderdarth
+Date      : Aug 9, 2012 at 7:59 AM
+────────────────────────────────────────────────────────────────────────
+
+Was thinking of embedding pins actually.  Definitely be stronger. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #120  (forum post #2409893)
+Author    : moffeaton
+Date      : Aug 9, 2012 at 8:00 AM
+────────────────────────────────────────────────────────────────────────
+
+Yeah, steel rod. Uh huh huh. Rod.
+────────────────────────────────────────────────────────────────────────
+Post #121  (forum post #2413018)
+Author    : Nils
+Date      : Aug 11, 2012 at 2:39 AM
+────────────────────────────────────────────────────────────────────────
+
+Guys, I´m sorry for changing parts here, but I was thinking, is it a bad idea to cut the head open along the seam (trench) to have easy acces to servos and electronics? It should be fairly easy to hide it when done.
+
+Please let me know what you think (or maybe this has been discussed earlier).
+
+Thanks.
+────────────────────────────────────────────────────────────────────────
+Post #122  (forum post #2413045)
+Author    : ralphee
+Date      : Aug 11, 2012 at 3:26 AM
+────────────────────────────────────────────────────────────────────────
+
+Nils said:
+
+			Guys, I´m sorry for changing parts here, but I was thinking, is it a bad idea to cut the head open along the seam (trench) to have easy acces to servos and electronics? It should be fairly easy to hide it when done.
+
+Please let me know what you think (or maybe this has been discussed earlier).
+
+Thanks.
+		
+
+Click to expand...
+
+ 
+
+Thats a big ask, and task TBH Nils. You have a lot going on around the trench as you will cut, eyes, and eye domes, a bit dicey.
+
+Best option on cutting is the top hat, the ILM top hat is a removable piece as far as i can tell, with a pair of wires that protrude for the stepper IMO.
+
+Cutting this on the resin kit again could be risky, but easier and safer than the first option......though, you "may" have to vac a new top hat, depends how well you cut i guess bud.
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #123  (forum post #2413083)
+Author    : Guy Cowen
+Date      : Aug 11, 2012 at 4:43 AM
+────────────────────────────────────────────────────────────────────────
+
+I would say, you have a heck of a task to just build a decent PD from any kit, both me and Lee have full Stop Mo PD's at home and I can bet you $1000 that Lee adjusts his as much as I do......Virtually never!
+
+I would just go for as clean a build as you can and make it as simple as you can, any work you make for your self will if done correctly be great to have but really at the end of the day it will be a display piece, just concentrate on that. Its not Designed to have internal servos inside the head, I 'm sure it can be adapted but at what cost?
+
+It took me an age to get the original kit to a standard I was happy with, most of this time was cleaning it up and neatening parts. The scratch stuff was the easy bit.
+
+Go for a super clean and beautifully posed Droid, you'll still enjoy looking at as much as a droid that the head moves a bit....and no-one will appreciate it aside from you (on a day to day basis). 
+
+However if you want a challenge and love cleaning, filling re cleaning cutting, re shaping, adding plastic parts, buying donor kits, starting again, trying to get new parts, re shaping, cleaning and filling, etc etc etc Then go for it :behave
+
+I'm not trying to put you off as it would be amazing to see a fully working PD, I just want you to know your not loosing anything by just having a great display piece :thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #124  (forum post #2413216)
+Author    : ralphee
+Date      : Aug 11, 2012 at 7:12 AM
+────────────────────────────────────────────────────────────────────────
+
+Hmm, Guy is right on the display factor. Id bet my farm (havent got one so call it my racing Kart lol) that most of you will never use the stop mo function after the first week or so lol.
+
+I adjust mine maybe every time i dust it, which isnt too often, and even then i end up throwing it back in same pose it was in before i tweaked it.
+
+Regards the joints themselves, remember there are NOT carrying any load at all, so they dont need any form of OTT joint reinforcement, there delicate, intricate, yet still strong, i mean, the commision set i did got a lot of use, never once did they break.
+
+Maybe some will take the route of scratching new legs, its way easy TBH, just time consuming and costly, but a massive worthwhile exercise.
+
+As for servos and gizmo inside the head etc, well on the vac model, yes, that is very easy to do, its designed for that purpose, on a resin kit such as this, its a much harder job, the challenge in building this alone will be high, the mods some talk of, will snowball that quickly.
+
+If you got the stones, jump in and get carving, but, dont be put off if you know you can nail this as a stunning static piece as Guy said, itll still have a big effect in a room.
+
+Either way, were going to see some really nice models for all you guys soon im sure.
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #125  (forum post #2413303)
+Author    : vaderdarth
+Date      : Aug 11, 2012 at 8:43 AM
+────────────────────────────────────────────────────────────────────────
+
+Oh yeah,  this leg build has been a cinch so far.   Looks more challenging for the smaller diameter ones I must say,  but not that much.    I should think you could access the head thru the neck  opening if you leave a lip around the outside to be able to close it up etc...   it will take some finesse that's for sure!!!!  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #126  (forum post #2414891)
+Author    : vaderdarth
+Date      : Aug 12, 2012 at 11:01 AM
+────────────────────────────────────────────────────────────────────────
+
+How bout those pincers Jason???
+────────────────────────────────────────────────────────────────────────
+Post #127  (forum post #2415431)
+Author    : moffeaton
+Date      : Aug 12, 2012 at 6:40 PM
+────────────────────────────────────────────────────────────────────────
+
+[IMAGE: L1120477.jpg]
+
+[IMAGE: L1120478.jpg]
+
+[IMAGE: L1120479.jpg]
+
+Working on leg two now...
+────────────────────────────────────────────────────────────────────────
+Post #128  (forum post #2415990)
+Author    : vaderdarth
+Date      : Aug 13, 2012 at 5:01 AM
+────────────────────────────────────────────────────────────────────────
+
+Sweet!!!!!!!!!!
+────────────────────────────────────────────────────────────────────────
+Post #129  (forum post #2416112)
+Author    : moffeaton
+Date      : Aug 13, 2012 at 7:04 AM
+────────────────────────────────────────────────────────────────────────
+
+I pinned them, too - just to be safe.
+────────────────────────────────────────────────────────────────────────
+Post #130  (forum post #2416169)
+Author    : vaderdarth
+Date      : Aug 13, 2012 at 8:01 AM
+────────────────────────────────────────────────────────────────────────
+
+Do the pins get epoxied next to the inner wall of each pincer?
+────────────────────────────────────────────────────────────────────────
+Post #131  (forum post #2416175)
+Author    : moffeaton
+Date      : Aug 13, 2012 at 8:07 AM
+────────────────────────────────────────────────────────────────────────
+
+They get superglued in, VERY close to the edge of the discs, yeah - nerve wracking.
+────────────────────────────────────────────────────────────────────────
+Post #132  (forum post #2416181)
+Author    : vaderdarth
+Date      : Aug 13, 2012 at 8:15 AM
+────────────────────────────────────────────────────────────────────────
+
+How did you get them in the pincer itself?
+────────────────────────────────────────────────────────────────────────
+Post #133  (forum post #2416287)
+Author    : moffeaton
+Date      : Aug 13, 2012 at 9:23 AM
+────────────────────────────────────────────────────────────────────────
+
+The larger pincer - drilled into the resin, REALLY close to the outer wall. The smaller was rebuilt partially with styrene stock, and the wire runs along the inner corner - low profile. You'll never notice it...
+────────────────────────────────────────────────────────────────────────
+Post #134  (forum post #2416379)
+Author    : vaderdarth
+Date      : Aug 13, 2012 at 10:34 AM
+────────────────────────────────────────────────────────────────────────
+
+Got it.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #135  (forum post #2423037)
+Author    : Nils
+Date      : Aug 17, 2012 at 12:07 AM
+────────────────────────────────────────────────────────────────────────
+
+First leg done..
+────────────────────────────────────────────────────────────────────────
+Post #136  (forum post #2424639)
+Author    : vaderdarth
+Date      : Aug 17, 2012 at 9:19 PM
+────────────────────────────────────────────────────────────────────────
+
+Mine too!!!  Just finished 2 seconds ago.  LOL
+────────────────────────────────────────────────────────────────────────
+Post #137  (forum post #2428216)
+Author    : vaderdarth
+Date      : Aug 20, 2012 at 6:27 AM
+────────────────────────────────────────────────────────────────────────
+
+Got the other large leg done this weekend too.  Same techniques,  worked like a charm.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #138  (forum post #2428363)
+Author    : Nils
+Date      : Aug 20, 2012 at 8:10 AM
+────────────────────────────────────────────────────────────────────────
+
+Did you use the chronicles as reference? It´easy to have the parts mixed up.
+────────────────────────────────────────────────────────────────────────
+Post #139  (forum post #2428364)
+Author    : vaderdarth
+Date      : Aug 20, 2012 at 8:12 AM
+────────────────────────────────────────────────────────────────────────
+
+No,  I used Lee's photos and what few photos I have of the original prop as references.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #140  (forum post #2428551)
+Author    : Nils
+Date      : Aug 20, 2012 at 9:59 AM
+────────────────────────────────────────────────────────────────────────
+
+Those photos from Lee you mentioned, are they available in a thread or did you receive them private?
+────────────────────────────────────────────────────────────────────────
+Post #141  (forum post #2428572)
+Author    : ralphee
+Date      : Aug 20, 2012 at 10:09 AM
+────────────────────────────────────────────────────────────────────────
+
+Just bumped mine and Guys thread up for you Nils. I think youll find more info in there TBH.
+
+At least, youll get all your orientation correct, anything else you need to know, by all means ask!
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #142  (forum post #2428580)
+Author    : Nils
+Date      : Aug 20, 2012 at 10:15 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks mate.
+────────────────────────────────────────────────────────────────────────
+Post #143  (forum post #2428582)
+Author    : ralphee
+Date      : Aug 20, 2012 at 10:16 AM
+────────────────────────────────────────────────────────────────────────
+
+Welcome bud 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+.
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #144  (forum post #2428754)
+Author    : vaderdarth
+Date      : Aug 20, 2012 at 12:05 PM
+────────────────────────────────────────────────────────────────────────
+
+It really is an invaluable resource.  Plus you get to see the "thought process" as it's being built as well as little light bulbs going on as discoveries of donor parts are being made!!!    
+
+I do wish the mods would stick that thread so we don't have to dig constantly.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #145  (forum post #2430278)
+Author    : moffeaton
+Date      : Aug 21, 2012 at 8:49 AM
+────────────────────────────────────────────────────────────────────────
+
+Coming back from a long vacation on the Eastern Shore of MD today (no internet, gasp) so I can get back to the resin kit instructions for you, Dave. Thanks for bumping the thread, lee!
+────────────────────────────────────────────────────────────────────────
+Post #146  (forum post #2430521)
+Author    : vaderdarth
+Date      : Aug 21, 2012 at 11:20 AM
+────────────────────────────────────────────────────────────────────────
+
+Hope you had a great time Jason!  Sounds sweet!!!!  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #147  (forum post #2430789)
+Author    : moffeaton
+Date      : Aug 21, 2012 at 2:04 PM
+────────────────────────────────────────────────────────────────────────
+
+It was pretty awesome... Cooked and ate some killer food, did battle with millions of mosquitos, saw a flock of wild turkeys, etc etc
+────────────────────────────────────────────────────────────────────────
+Post #148  (forum post #2430818)
+Author    : vaderdarth
+Date      : Aug 21, 2012 at 2:22 PM
+────────────────────────────────────────────────────────────────────────
+
+You drank or you saw a flock of Wild Turkey(s)???
+────────────────────────────────────────────────────────────────────────
+Post #149  (forum post #2441146)
+Author    : moffeaton
+Date      : Aug 27, 2012 at 7:45 PM
+────────────────────────────────────────────────────────────────────────
+
+Leg 2!
+
+[IMAGE: L1120576.jpg]
+
+Top joint is just like last time. Next joint is a little different. Drill your holes and thread your bolts...
+
+[IMAGE: L1120577.jpg]
+
+Glue the Saturn V part down, and then use a washer to keep the bolt secure:
+
+[IMAGE: L1120578.jpg]
+
+Tank wheels fit over top of the bolt head and tail nicely, with a little trimming.
+
+[IMAGE: L1120579.jpg]
+
+Your leg will freely rotate securely, and it's pretty dang close in resin, accuracy-wise.
+
+[IMAGE: L1120581.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #150  (forum post #2442642)
+Author    : Zombie Killer
+Date      : Aug 28, 2012 at 3:07 PM
+────────────────────────────────────────────────────────────────────────
+
+Those are looking real nice Jason.
+────────────────────────────────────────────────────────────────────────
+Post #151  (forum post #2442769)
+Author    : moffeaton
+Date      : Aug 28, 2012 at 4:24 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks! The secret is to take your time and really make the casts shine.
+────────────────────────────────────────────────────────────────────────
+Post #152  (forum post #2443793)
+Author    : cosmic_x
+Date      : Aug 29, 2012 at 8:10 AM
+────────────────────────────────────────────────────────────────────────
+
+Jason, hiw do you secure the joint/bolt from the other side?
+────────────────────────────────────────────────────────────────────────
+Post #153  (forum post #2443948)
+Author    : moffeaton
+Date      : Aug 29, 2012 at 9:52 AM
+────────────────────────────────────────────────────────────────────────
+
+The last piece of resin that the bolt threads into has a smaller diameter hole, so the threads grab into the resin and lock everything together. You can add a dab of cyanoacrylate to that end, if you wish... In this example, it's the last piece with the red arrow:
+
+[IMAGE: L1120438a.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #154  (forum post #2444196)
+Author    : vaderdarth
+Date      : Aug 29, 2012 at 12:55 PM
+────────────────────────────────────────────────────────────────────────
+
+I've been using a "tap" to thread my resin end caps so that my screw matches it exactly.  So far so good.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #155  (forum post #2444211)
+Author    : moffeaton
+Date      : Aug 29, 2012 at 1:07 PM
+────────────────────────────────────────────────────────────────────────
+
+Yeah, that works :-D
+────────────────────────────────────────────────────────────────────────
+Post #156  (forum post #2450274)
+Author    : cosmic_x
+Date      : Sep 2, 2012 at 7:25 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks Jason
+────────────────────────────────────────────────────────────────────────
+Post #157  (forum post #2455541)
+Author    : moffeaton
+Date      : Sep 5, 2012 at 7:08 AM
+────────────────────────────────────────────────────────────────────────
+
+Next leg:
+
+[IMAGE: L1120426.jpg]
+
+Put it together like this, using a couple of the appropriate diameter resin discs as seen in this photo  http://www.roboterkampf.com/roboterkampf/misc/probe/L1120429.jpg :
+
+[IMAGE: L1120582.jpg]
+
+Once again, with the pincer assembly, bury a bolt into the endcap:
+
+[IMAGE: L1120584.jpg]
+
+Entomb in putty:
+
+[IMAGE: L1120585.jpg]
+
+Middle assembly:
+
+[IMAGE: L1120586.jpg]
+
+Top assembly - the wheels cover over the bolt:
+
+[IMAGE: L1120587.jpg]
+
+Trim this part to give the illusion that it sits inside the leg's hollow, as it does on the real prop:
+
+[IMAGE: L1120588.jpg]
+
+Flip 'er around and add the rectangular greeblie to the middle section of the leg as shown:
+
+[IMAGE: L1120589.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #158  (forum post #2455677)
+Author    : ralphee
+Date      : Sep 5, 2012 at 8:38 AM
+────────────────────────────────────────────────────────────────────────
+
+Looking really good Jason, nice work on the joints.
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #159  (forum post #2455681)
+Author    : vaderdarth
+Date      : Sep 5, 2012 at 8:39 AM
+────────────────────────────────────────────────────────────────────────
+
+pretty!!!!!
+────────────────────────────────────────────────────────────────────────
+Post #160  (forum post #2455689)
+Author    : vaderdarth
+Date      : Sep 5, 2012 at 8:43 AM
+────────────────────────────────────────────────────────────────────────
+
+man Jason,  between your assembly skills and Mike's moulding and casting skills,  you guys have made this kit look pretty easy!!!  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+  I thank you guys kindly for that!!!!
+────────────────────────────────────────────────────────────────────────
+Post #161  (forum post #2455828)
+Author    : moffeaton
+Date      : Sep 5, 2012 at 10:07 AM
+────────────────────────────────────────────────────────────────────────
+
+It actually is pretty straightforward if a bit tedious at first, and I guess therefore easy? LOL. A lot can be said for scratch building these legs, and a lot can be said for resin - I'm having my cake and eating it too by making both, and I feel very fortunate that there are people in my life that have been supportive about all aspects of this and every build. 
+
+This is light years ahead of the old Probe Droid kit, because this was actually designed to be a kit! (LOL) And yeah, Mike's castings are AWESOME. Seasoned model makers and novice builders who want to dive into the scary pool of studio scale will find something to grin about with this model, and I'm happy/honored to suss all the parts out in this thread. Like Lee and Guy have alluded to, having posable legs is just the best!! These are an acceptable solution in resin, too, which was a concern I had that passed, as I got into the nitty gritty. Not super hard core rivet-counter-accurate, but it definitely has a "wow!" factor!
+
+Once you're past all five legs, the rest will seem like cake. Except the electronics - the antenna mechanisms are going to be a "hope this crap in my head translates into the real world" situation. I'm crossing my fingers on that one!
+────────────────────────────────────────────────────────────────────────
+Post #162  (forum post #2455854)
+Author    : mslz22
+Date      : Sep 5, 2012 at 10:28 AM
+────────────────────────────────────────────────────────────────────────
+
+Hey Jason, that's looking pretty good, the bottom half of this leg is one of the ones that i added some "meat" to (about 1.5mm in height) because the on the old kit it was voted most likely to be a pretzel. 
+
+Just an FYI to anyone getting started,  I will be sending Dave some waves of the 3 tiny bits that go on the head soon.  I am molding them up along with Epod stuff over the next week or so......if you think this has a lot of parts just wait for that, I think i am going to have 15 full 4x6 molds of just greeblies, never mind engines, bottom, top, body etc. I also have been running the Dr evil part for the Y as i go, hang tight on those.
+
+thanks
+
+mike
+────────────────────────────────────────────────────────────────────────
+Post #163  (forum post #2455923)
+Author    : moffeaton
+Date      : Sep 5, 2012 at 11:17 AM
+────────────────────────────────────────────────────────────────────────
+
+One million parts? (pinky extended to corner of mouth)
+────────────────────────────────────────────────────────────────────────
+Post #164  (forum post #2457846)
+Author    : moffeaton
+Date      : Sep 6, 2012 at 11:59 AM
+────────────────────────────────────────────────────────────────────────
+
+Next leg!
+
+[IMAGE: L1120590.jpg]
+
+Do the thing with the stuff...
+
+[IMAGE: L1120591.jpg]
+
+And do it again... and make sure the leg parts are oriented like you see below:
+
+[IMAGE: L1120592.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #165  (forum post #2458141)
+Author    : ralphee
+Date      : Sep 6, 2012 at 2:26 PM
+────────────────────────────────────────────────────────────────────────
+
+Guys you look to have a part from the Tamiya M16 fitted to the mid section of this leg.
+
+You could if you wanted to, further accurize this with correct part from the Tamiya 88mm that was ID'd last week, after a two year search, its worth the addition, and a simple shave and replace too!
+
+Lee
+────────────────────────────────────────────────────────────────────────
+Post #166  (forum post #2458350)
+Author    : moffeaton
+Date      : Sep 6, 2012 at 3:43 PM
+────────────────────────────────────────────────────────────────────────
+
+Sweet! I have enough of that kit to do that all the live long day, lol! Will do
+────────────────────────────────────────────────────────────────────────
+Post #167  (forum post #2458362)
+Author    : ralphee
+Date      : Sep 6, 2012 at 3:49 PM
+────────────────────────────────────────────────────────────────────────
+
+Welcome bud!
+
+Lee
+────────────────────────────────────────────────────────────────────────
+Post #168  (forum post #2458390)
+Author    : qcfoundry
+Date      : Sep 6, 2012 at 4:06 PM
+────────────────────────────────────────────────────────────────────────
+
+Two years to find a piece that ended up coming from the 88mm? That's a pretty popular donor. I presume the available ref is what held you up?
+────────────────────────────────────────────────────────────────────────
+Post #169  (forum post #2458510)
+Author    : ralphee
+Date      : Sep 6, 2012 at 5:11 PM
+────────────────────────────────────────────────────────────────────────
+
+No Q, the fact it took that long for two guys thereabout to ID the whole model.
+
+This part straggled for a long time, covered in glue, and teased, then, the rest is history, and we hand out the info of that hard work, right on this very board my good friend!
+
+Lee
+────────────────────────────────────────────────────────────────────────
+Post #170  (forum post #2458520)
+Author    : 3phase
+Date      : Sep 6, 2012 at 5:22 PM
+────────────────────────────────────────────────────────────────────────
+
+moffeaton said:
+
+			Sweet! I have enough of that kit to do that all the live long day, lol! Will do
+		
+
+Click to expand...
+
+Jason will you be showing us this mod in these instuctions, If so thanks.
+────────────────────────────────────────────────────────────────────────
+Post #171  (forum post #2458725)
+Author    : vaderdarth
+Date      : Sep 6, 2012 at 7:20 PM
+────────────────────────────────────────────────────────────────────────
+
+thanks for the heads up Lee.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #172  (forum post #2458821)
+Author    : moffeaton
+Date      : Sep 6, 2012 at 8:17 PM
+────────────────────────────────────────────────────────────────────────
+
+Yep. Hope I got it right:
+
+Okay, pincer mounts just like the previous leg:
+
+[IMAGE: L1120594.jpg]
+
+Everything glued down like this:
+
+[IMAGE: L1120595.jpg]
+
+This is the part Guy and Lee IDed from the 88mm Tamiya kit (36/37). It's $25 on Amazon, and contains other Probe Droid parts. It's definitely a "gateway" donor kit, like the Karl and Leopold... you will see these parts all over a LOT of models:
+
+[IMAGE: L1120596.jpg]
+
+I guess both sides are supposed to have this detail?
+
+[IMAGE: L1120597.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #173  (forum post #2458925)
+Author    : ralphee
+Date      : Sep 6, 2012 at 9:22 PM
+────────────────────────────────────────────────────────────────────────
+
+Much better, though its placement is further into the joint and sanded round, its almost an extra bit of bite to support the joint discs.
+
+I wouldnt worry J, its fine where it is!
+
+Lee
+────────────────────────────────────────────────────────────────────────
+Post #174  (forum post #2459323)
+Author    : moffeaton
+Date      : Sep 7, 2012 at 6:27 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks! I can move 'em.... I think, lol
+────────────────────────────────────────────────────────────────────────
+Post #175  (forum post #2459326)
+Author    : ralphee
+Date      : Sep 7, 2012 at 6:29 AM
+────────────────────────────────────────────────────────────────────────
+
+Just check the ref mate, its all in there for you.
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #176  (forum post #2459360)
+Author    : moffeaton
+Date      : Sep 7, 2012 at 7:04 AM
+────────────────────────────────────────────────────────────────────────
+
+Yeah, I was trying to place it onto the leg so that it made sense, spatially, where it extends away from the joint in relation to the plant on just North of the part. This pic was a tough call:
+
+[IMAGE: a.jpg]
+
+This one clears it up a little:
+
+[IMAGE: b.jpg]
+
+But I think I will leave it, as shifting it closer to the joint will throw the over all look of the leg off. It's a good compromise for this iteration of the build!
+────────────────────────────────────────────────────────────────────────
+Post #177  (forum post #2459368)
+Author    : ralphee
+Date      : Sep 7, 2012 at 7:08 AM
+────────────────────────────────────────────────────────────────────────
+
+Your call mate, ill waiver my consultancy fee, no win, no fee, this time 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+At least you get a dummy  run for your ultimate hero set in styrene, thats when it really gets serious!
+
+Lee
+────────────────────────────────────────────────────────────────────────
+Post #178  (forum post #2459434)
+Author    : moffeaton
+Date      : Sep 7, 2012 at 8:07 AM
+────────────────────────────────────────────────────────────────────────
+
+You know it!
+────────────────────────────────────────────────────────────────────────
+Post #179  (forum post #2460994)
+Author    : mslz22
+Date      : Sep 8, 2012 at 5:57 AM
+────────────────────────────────────────────────────────────────────────
+
+I can throw the 88 part in with the mold for those little head greeblies,  they will be easy to swap out.
+
+mike
+────────────────────────────────────────────────────────────────────────
+Post #180  (forum post #2465509)
+Author    : moffeaton
+Date      : Sep 10, 2012 at 6:32 PM
+────────────────────────────────────────────────────────────────────────
+
+Next leg:
+
+[IMAGE: L1120427.jpg]
+
+What goes in the lower leg section in this kit? Mike? Dave?
+
+[IMAGE: L1120599.jpg]
+
+Make sure you glue this greeblie to the lower leg segment only, so the upper leg can hinge freely:
+
+[IMAGE: L1120600.jpg]
+
+Glue the greeblie into the upper hollow as shown:
+
+[IMAGE: L1120602.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #181  (forum post #2465720)
+Author    : moffeaton
+Date      : Sep 10, 2012 at 8:28 PM
+────────────────────────────────────────────────────────────────────────
+
+HOLY BALLS SWEEP THE LEG JOHNNY CUBS WIN YAHOOO YOU'RE ALL CLEAR KID!
+
+Probe Droid Antenna test - YouTube
+────────────────────────────────────────────────────────────────────────
+Post #182  (forum post #2465730)
+Author    : ralphee
+Date      : Sep 10, 2012 at 8:35 PM
+────────────────────────────────────────────────────────────────────────
+
+moffeaton said:
+
+			Next leg:
+
+[IMAGE: L1120427.jpg]
+
+What goes in the lower leg section in this kit? Mike? Dave?
+
+[IMAGE: L1120599.jpg]
+
+Make sure you glue this greeblie to the lower leg segment only, so the upper leg can hinge freely:
+
+[IMAGE: L1120600.jpg]
+
+Glue the greeblie into the upper hollow as shown:
+
+[IMAGE: L1120602.jpg]
+
+Click to expand...
+
+Ill have a dig for that info Jason, cant recall the ID as i didnt write it down.
+
+Its a gateway kit i recall, so shouldnt hard to find for you, but ill check if the other guys dont know.
+
+BTW, lower leg channel should be 6.4mm in height, thats why it looks a bit hefty with the claw fitted.
+
+Lee
+────────────────────────────────────────────────────────────────────────
+Post #183  (forum post #2465734)
+Author    : moffeaton
+Date      : Sep 10, 2012 at 8:37 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks, Lee. I haven't checked the kits or ref yet - was hoping there was a resin piece I'm overlooking, lol.
+
+I'm riding high on antenna goodness right now. Calling it a night before I break something, LOL!
+────────────────────────────────────────────────────────────────────────
+Post #184  (forum post #2465766)
+Author    : moffeaton
+Date      : Sep 10, 2012 at 8:48 PM
+────────────────────────────────────────────────────────────────────────
+
+Followed Q's suggestion of keeping it "old school". Will make a cleaner and heartier mechanism now that I know it works the way I constructed the parts! 
+
+[IMAGE: L1120605.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #185  (forum post #2465804)
+Author    : moffeaton
+Date      : Sep 10, 2012 at 9:14 PM
+────────────────────────────────────────────────────────────────────────
+
+Watch the video with the YouTube supplied (beta) captions. It makes everything amazing.
+────────────────────────────────────────────────────────────────────────
+Post #186  (forum post #2466196)
+Author    : marsattack
+Date      : Sep 11, 2012 at 4:56 AM
+────────────────────────────────────────────────────────────────────────
+
+Where is the you tube link Jason?
+
+Looks pretty cool this contraption!
+
+Just a thought , of you used longer horns , would you get not the same travel?
+
+Without doing the pulley system?
+
+Mars
+────────────────────────────────────────────────────────────────────────
+Post #187  (forum post #2466269)
+Author    : moffeaton
+Date      : Sep 11, 2012 at 5:59 AM
+────────────────────────────────────────────────────────────────────────
+
+Post #181 - it got lost in Lee's copying the photos in his reply:
+
+http://www.therpf.com/f10/probe-droid-resin-kit-instructions-tread-152209/index8.html#post2465720
+
+Can you draw what you mean? Longer arms on the servo means you might run out of room in the head...
+────────────────────────────────────────────────────────────────────────
+Post #188  (forum post #2466270)
+Author    : moffeaton
+Date      : Sep 11, 2012 at 5:59 AM
+────────────────────────────────────────────────────────────────────────
+
+Probe Droid Antenna test - YouTube
+────────────────────────────────────────────────────────────────────────
+Post #189  (forum post #2466301)
+Author    : marsattack
+Date      : Sep 11, 2012 at 6:30 AM
+────────────────────────────────────────────────────────────────────────
+
+Actually Jason that works awesome!
+
+Is the weight of the brass bringing it down?
+
+I will get back to you on the longer thing,but looks like that will do the job just fine.
+
+Mars
+────────────────────────────────────────────────────────────────────────
+Post #190  (forum post #2466312)
+Author    : moffeaton
+Date      : Sep 11, 2012 at 6:40 AM
+────────────────────────────────────────────────────────────────────────
+
+Yep - it's not heavy in the grand scheme of things, but heavy enough to fall back down. I plan to replace the cutout in between the slots with a brass rod, so the line doesn't abrade on hard edges. I rounded them a little with an X-Acto, but a bit of brass would be best. For a first go-round, I am pleased.
+────────────────────────────────────────────────────────────────────────
+Post #191  (forum post #2466335)
+Author    : vaderdarth
+Date      : Sep 11, 2012 at 6:48 AM
+────────────────────────────────────────────────────────────────────────
+
+Extremely nice!  I want to see the access into the head when you have time.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #192  (forum post #2466342)
+Author    : moffeaton
+Date      : Sep 11, 2012 at 6:51 AM
+────────────────────────────────────────────────────────────────────────
+
+I'll take a pic tonight. Every head will be a little different, since it's rotocast, but the mount I made gets glued to the head via the brass tube and "floats" near the top of the head, so it's not a problem 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #193  (forum post #2466475)
+Author    : Rats
+Date      : Sep 11, 2012 at 8:08 AM
+────────────────────────────────────────────────────────────────────────
+
+Great solution for the antennae Jason. I guess there's plenty of room in the vac-form head.......!
+
+A piece of brass rod would certainly help the string to slide a bit better, and not cut through the support!! Excellent video.
+────────────────────────────────────────────────────────────────────────
+Post #194  (forum post #2466541)
+Author    : qcfoundry
+Date      : Sep 11, 2012 at 8:44 AM
+────────────────────────────────────────────────────────────────────────
+
+Jason,
+
+How many revolutions does that motor provide -- and is it programmable?
+
+With your current setup, I presume your arm only wants to rotate 180 degree?
+
+If I had my druthers, I would get rid of the arm and have the string go straight to a bobbin that is attached directly to the motor axle?  That way you can hoist up that antenna as high as you like, given adequate clear space below the ceiling (ie inside the head of the PD).
+────────────────────────────────────────────────────────────────────────
+Post #195  (forum post #2466579)
+Author    : moffeaton
+Date      : Sep 11, 2012 at 9:05 AM
+────────────────────────────────────────────────────────────────────────
+
+It's a servo, so it's just "weep, weep" back and forth. 
+
+Or "eeerp, eeerp" - whatever that noise is.
+────────────────────────────────────────────────────────────────────────
+Post #196  (forum post #2466596)
+Author    : qcfoundry
+Date      : Sep 11, 2012 at 9:17 AM
+────────────────────────────────────────────────────────────────────────
+
+Not what I wanted to hear. But nothing a few gears from the RC dept won't fix. How many degrees of rotation does the servo provide?
+────────────────────────────────────────────────────────────────────────
+Post #197  (forum post #2466619)
+Author    : moffeaton
+Date      : Sep 11, 2012 at 9:29 AM
+────────────────────────────────────────────────────────────────────────
+
+I love that you're asking me to be exact. Visually from like 1pm to 5pm....
+────────────────────────────────────────────────────────────────────────
+Post #198  (forum post #2466824)
+Author    : hyperdyne
+Date      : Sep 11, 2012 at 11:23 AM
+────────────────────────────────────────────────────────────────────────
+
+Nice vid Jason!  The servo slewing range is probably around 90-100 degrees.  
+
+I like your pulley system, that will certainly work and not require any maintenance given the string doesnt detach.  Plus it will work for any other servo model nicely.  :thumbsup
+
+The HS-55 is a good low cost micro servo to use for the antennas.  I use them on larger foam RC planes and they have way more torque than will ever be needed for this app.
+────────────────────────────────────────────────────────────────────────
+Post #199  (forum post #2466833)
+Author    : hyperdyne
+Date      : Sep 11, 2012 at 11:29 AM
+────────────────────────────────────────────────────────────────────────
+
+qcfoundry, the motor Jason is using is a RC hobby servo that only has up to 120 deg of travel (at the most).  It has the positioning circuitry built into it so one can command it electronically to go to any position at a given speed.  
+
+With your proposal, you would also need some sort of limit switch to stop the free running motor at the desired height.  Plus you would need to make the motor run at the correct speed to synchronize with the sounds.  That makes things much more complicated.  
+
+BTW, they do make continuous rotation servos, but again you would need some way to know absolute position of either the motor axle or the antenna.
+
+In my kit I used the RC servos since it is 1) easier to install and use once the proper linkage is made, 2) everything is synchronized electronically, 3) there are lots of servos to choose from, 4) they are plug and play, easily replaced.
+
+YMMV.
+────────────────────────────────────────────────────────────────────────
+Post #200  (forum post #2466836)
+Author    : moffeaton
+Date      : Sep 11, 2012 at 11:30 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks! I'll have to order another kit from you, too, for my scratch build.
+
+I also want to talk to you about the "ultimate" Spinner light kit, if you're interested. I want to have four of the small 0603 LEDs per police light, to more effectively replicate the real life rotating police lights!!
+────────────────────────────────────────────────────────────────────────
+Post #201  (forum post #2466929)
+Author    : qcfoundry
+Date      : Sep 11, 2012 at 12:32 PM
+────────────────────────────────────────────────────────────────────────
+
+H'dyne,
+
+I'll be ordering your sweet little package for the PD, but I'm a ways from that currently.  
+
+Do I need to order these now, or are they a recipe of items that you can produce, say,  3 years from now?
+
+Additionally, would it be too taxing to substitute a very similar servo only with a wider slew range?  I realize the sync with the audio may be off.  I think I favor getting a higher telescope than the syncing with audio?
+
+...thinking about Jason's design.
+
+he's loosing a lot of lift potential at the end (at the assumed 5 o'clock position) -- if your arm was more a cam design you may get a little extra.
+
+I'm sorry -- I hope I'm not pissing on parades here, especially since I'm so far from actually getting mine going.  Just wondering out loud.  If I'm asking too much, I'm sure there are several home brew methods of getting a little more height out of the antenna.
+────────────────────────────────────────────────────────────────────────
+Post #202  (forum post #2467053)
+Author    : hyperdyne
+Date      : Sep 11, 2012 at 1:40 PM
+────────────────────────────────────────────────────────────────────────
+
+No worries here.  I can build the kits anytime, but I cant guarantee I will have several components 3 yrs from now.  They can be obsoleted at any time and I have no control over that.  I have been making some of my kits for over 10 yrs now, but that required some lifetime buys of components. I hope to be able to make them for a couple yrs.
+
+Jason, for the spinner let me know what you had in mind.  I'm super busy with the halloween season right now, but the LEDs sound reasonable.  
+
+Food for thought, here is a RC car police light kit replicating the N4S hot pursuit video game that I did.  The top bar police sequences really came out nice.
+
+Traxxas Slash RC Truck w/ Police LED light kit (Need 4 Speed)! - YouTube
+
+Sorry to get off track.  I'll go back to dreaming about owning a PD one day! :facepalm
+────────────────────────────────────────────────────────────────────────
+Post #203  (forum post #2467340)
+Author    : marsattack
+Date      : Sep 11, 2012 at 4:32 PM
+────────────────────────────────────────────────────────────────────────
+
+Jason sent you the diagram I had in mind . 
+
+My hyper stuff is at glens house ATM.
+
+Otherwise I would make a proto to see if I can get the aerials higher.
+
+If you want to try it , just post away.
+
+Guys I don't know how to upload pics from my iPhone , I need to use photobucket from home, only reason why I sent them via email to Jason.
+────────────────────────────────────────────────────────────────────────
+Post #204  (forum post #2468289)
+Author    : moffeaton
+Date      : Sep 12, 2012 at 7:29 AM
+────────────────────────────────────────────────────────────────────────
+
+A little Dremel work:
+
+[IMAGE: L1120606.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #205  (forum post #2468319)
+Author    : mslz22
+Date      : Sep 12, 2012 at 7:47 AM
+────────────────────────────────────────────────────────────────────────
+
+Boy that rotocaster really does a decent job of evenly slinging that resin around.....at least it looks that way from that pic...
+────────────────────────────────────────────────────────────────────────
+Post #206  (forum post #2468321)
+Author    : moffeaton
+Date      : Sep 12, 2012 at 7:48 AM
+────────────────────────────────────────────────────────────────────────
+
+It does!!! This is the best even coverage I have EVER seen. Which is nice, because the head will be balanced when it's rotating back and forth!
+────────────────────────────────────────────────────────────────────────
+Post #207  (forum post #2470009)
+Author    : MonsieurTox
+Date      : Sep 13, 2012 at 3:14 AM
+────────────────────────────────────────────────────────────────────────
+
+Wow that's a nice rotocast part ! 
+
+Nice job on the antennaes !
+────────────────────────────────────────────────────────────────────────
+Post #208  (forum post #2471445)
+Author    : moffeaton
+Date      : Sep 13, 2012 at 6:20 PM
+────────────────────────────────────────────────────────────────────────
+
+Head/neck assembly I designed works flawlessly - servo has barely any load on it due to the bearing ring - it's awesome. Still working on a few things here and there inside to make sure it all "works" - and then we'll be full-bore with the rest of this. 
+
+Like I think I said earlier (?) I will make all my .ai files available here, so any one can get the parts lasercut where they live, if they want to use this in conjunction with Hyperdyne's AWESOME electronics!
+
+[IMAGE: 551922_10151210327063156_2073928845_n.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #209  (forum post #2476743)
+Author    : moffeaton
+Date      : Sep 16, 2012 at 6:28 PM
+────────────────────────────────────────────────────────────────────────
+
+Redesigned the neck assembly to allow the servo to operate differently. Screwed a 1/20 Tyrell rim and wheel to the servo - reversed it, and it works like it was supposed to be that way!
+
+[IMAGE: L1120609.jpg]
+
+[IMAGE: L1120610.jpg]
+
+The wheel sits against the bearing with enough pressure to turn it.
+
+[IMAGE: L1120611.jpg]
+
+See?
+
+[IMAGE: L1120612.jpg]
+
+Now we add the parts to the head, keeping in mind we will not add certain parts that end up glossy black - doing the assembly as follows will make it easier to paint. 
+
+1 a,b, and c - the domed black lens doesn't get glued just yet.
+
+[IMAGE: L1120613.jpg]
+
+Just the two base parts as pictured.
+
+[IMAGE: L1120614.jpg]
+
+Next up:
+
+[IMAGE: L1120615.jpg]
+
+Now this part - pay attention to the details - there are subtle differences in different parts.
+
+[IMAGE: L1120616.jpg]
+
+Again, the lens will not be glued down:
+
+[IMAGE: L1120617.jpg]
+
+[IMAGE: L1120618.jpg]
+
+Same with this - shallow dished part gets painted black later:
+
+[IMAGE: L1120619.jpg]
+
+More:
+
+[IMAGE: L1120620.jpg]
+
+These two will not be placed now - as the black dome needs to be painted black, so neither piece will be glued until everything is painted.
+
+[IMAGE: L1120621.jpg]
+
+It will look like this - check the parts and sand to ensure a clean fit though!
+
+[IMAGE: L1120622.jpg]
+
+Again, don't glue the lens:
+
+[IMAGE: L1120623.jpg]
+
+Just that one large piece:
+
+[IMAGE: L1120624.jpg]
+
+And don't glue this domed lens either, bub!
+
+[IMAGE: L1120625.jpg]
+
+Just these bits:
+
+[IMAGE: L1120626.jpg]
+
+Second verse, same as the first. Don't glue, just sand to ensure a clean fit.
+
+[IMAGE: L1120627.jpg]
+
+This guy gets glued down like the one before - you will have to sand a little here and there to get a nice fit:
+
+[IMAGE: L1120628.jpg]
+
+These parts will be modded if you are using the Hyperdyne kit. It's perfect to house the photoelectric assembly!
+
+[IMAGE: L1120629.jpg]
+
+Core the lens out - see how the part fits?
+
+[IMAGE: L1120630.jpg]
+
+Here they are apart:
+
+[IMAGE: L1120631.jpg]
+
+Hog out some resin on the head to make room for the board behind it!
+
+[IMAGE: L1120632.jpg]
+
+More soon!
+────────────────────────────────────────────────────────────────────────
+Post #210  (forum post #2476961)
+Author    : moffeaton
+Date      : Sep 16, 2012 at 9:01 PM
+────────────────────────────────────────────────────────────────────────
+
+Will process the next batch of pics tomorrow - now we're primed.
+
+[IMAGE: 267247_10151214319613156_226387593_n.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #211  (forum post #2476988)
+Author    : Scott Graham
+Date      : Sep 16, 2012 at 9:25 PM
+────────────────────────────────────────────────────────────────────────
+
+Great job Jason! I love the servo solution.
+────────────────────────────────────────────────────────────────────────
+Post #212  (forum post #2477448)
+Author    : Rats
+Date      : Sep 17, 2012 at 7:16 AM
+────────────────────────────────────────────────────────────────────────
+
+Agreed, the tyre idea is fantastic. Much easier than cogs. And when you have F1 rims just lying about......:lol 
+
+Following this with much interest, even though I'm a styrene guy on this one!
+
+Thanks for the instruction Jason :thumbsup :thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #213  (forum post #2477523)
+Author    : moffeaton
+Date      : Sep 17, 2012 at 7:50 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks! Yeah, mine will be all-styrene which I freely admit is koo-koo-nutso, and will probably take ten years to finish 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #214  (forum post #2477558)
+Author    : jedimaster
+Date      : Sep 17, 2012 at 8:14 AM
+────────────────────────────────────────────────────────────────────────
+
+John I have spare servo's and wheels like Jasons if you need em.
+────────────────────────────────────────────────────────────────────────
+Post #215  (forum post #2477564)
+Author    : moffeaton
+Date      : Sep 17, 2012 at 8:17 AM
+────────────────────────────────────────────────────────────────────────
+
+I don't even want to try to count how many spare tires I have lying around from kits. That and aircraft wings/bodies!
+────────────────────────────────────────────────────────────────────────
+Post #216  (forum post #2478401)
+Author    : marsattack
+Date      : Sep 17, 2012 at 4:50 PM
+────────────────────────────────────────────────────────────────────────
+
+Jason what a clever idea!!!
+
+Awesome mate , I think you pioneered  again .
+
+Now I am also glad you have enough wheels to go around for everyone , ad by everyone I mean me!
+
+What adaptor is required to hook up the wheel to the servo ??
+
+Again awesome, opened up a new world for
+
+Me, thanks for posting champ!
+
+Mars
+────────────────────────────────────────────────────────────────────────
+Post #217  (forum post #2478402)
+Author    : marsattack
+Date      : Sep 17, 2012 at 4:54 PM
+────────────────────────────────────────────────────────────────────────
+
+Also Jim (hyperdyne) could easily extend the time for the servo to be activated both ways and change the servo from a 90 degree to a 360 degree.
+
+Mars
+────────────────────────────────────────────────────────────────────────
+Post #218  (forum post #2478424)
+Author    : moffeaton
+Date      : Sep 17, 2012 at 5:12 PM
+────────────────────────────────────────────────────────────────────────
+
+Hehe- the wheel is plug and play! You use the small tire/rim from the Tamiya 1/20 Team Lotus Type 78, flip it around so that the rim faces the servo, and use the small silver screw that comes with the Lotus kit - it literally jives with the servo's threads and locks in tight!
+────────────────────────────────────────────────────────────────────────
+Post #219  (forum post #2478576)
+Author    : marsattack
+Date      : Sep 17, 2012 at 6:51 PM
+────────────────────────────────────────────────────────────────────────
+
+Sold!!!
+
+Ok Jason, how much for a wheel?? Lol
+────────────────────────────────────────────────────────────────────────
+Post #220  (forum post #2478583)
+Author    : moffeaton
+Date      : Sep 17, 2012 at 6:54 PM
+────────────────────────────────────────────────────────────────────────
+
+I'll send you one!
+────────────────────────────────────────────────────────────────────────
+Post #221  (forum post #2478610)
+Author    : jedimaster
+Date      : Sep 17, 2012 at 7:09 PM
+────────────────────────────────────────────────────────────────────────
+
+Hey Jason did ya get that disc I sent ya?
+────────────────────────────────────────────────────────────────────────
+Post #222  (forum post #2478643)
+Author    : moffeaton
+Date      : Sep 17, 2012 at 7:29 PM
+────────────────────────────────────────────────────────────────────────
+
+YES! Crap, sorry - I literally have about a hundred emails I'm catching up on and everyone thinks I'm ignoring them while I slog though. MANY thanks!!
+────────────────────────────────────────────────────────────────────────
+Post #223  (forum post #2478664)
+Author    : jedimaster
+Date      : Sep 17, 2012 at 7:47 PM
+────────────────────────────────────────────────────────────────────────
+
+Snob!!!:lol
+────────────────────────────────────────────────────────────────────────
+Post #224  (forum post #2478765)
+Author    : moffeaton
+Date      : Sep 17, 2012 at 8:39 PM
+Reactions : Like — hollywoodhardware
+────────────────────────────────────────────────────────────────────────
+
+LOL! :lol
+────────────────────────────────────────────────────────────────────────
+Post #225  (forum post #2479054)
+Author    : Rats
+Date      : Sep 18, 2012 at 12:34 AM
+────────────────────────────────────────────────────────────────────────
+
+Jason, I don't think I'll be ALL styrene, as some of the kits are a bit pricey, but I meant the main body/head sections not being resin. Would love to be all styrene, as it's easier to deal with.
+
+Simon, A spare servo sounds good. I got this "Rotating Fake Security Surveillance Camera"  off Ebay the other day to help with some motion. Ended up being less than $10 delivered.
+────────────────────────────────────────────────────────────────────────
+Post #226  (forum post #2479215)
+Author    : moffeaton
+Date      : Sep 18, 2012 at 5:40 AM
+────────────────────────────────────────────────────────────────────────
+
+I put that very toy into the first Probe Droid I made.... will tyr to find the video. Works great.
+────────────────────────────────────────────────────────────────────────
+Post #227  (forum post #2479698)
+Author    : Nils
+Date      : Sep 18, 2012 at 10:31 AM
+────────────────────────────────────────────────────────────────────────
+
+I'm most interested in how you get it all together, how to attach the servo solution with the head and body. It must be possible to get apart too.
+────────────────────────────────────────────────────────────────────────
+Post #228  (forum post #2479741)
+Author    : moffeaton
+Date      : Sep 18, 2012 at 10:51 AM
+────────────────────────────────────────────────────────────────────────
+
+I'm buttoning it up - making it rock solid.
+────────────────────────────────────────────────────────────────────────
+Post #229  (forum post #2479822)
+Author    : Nils
+Date      : Sep 18, 2012 at 11:32 AM
+────────────────────────────────────────────────────────────────────────
+
+Buttoning, how?
+────────────────────────────────────────────────────────────────────────
+Post #230  (forum post #2479825)
+Author    : moffeaton
+Date      : Sep 18, 2012 at 11:36 AM
+────────────────────────────────────────────────────────────────────────
+
+Glue, putty, wind, fire, all that kind of thing!
+────────────────────────────────────────────────────────────────────────
+Post #231  (forum post #2479980)
+Author    : Nils
+Date      : Sep 18, 2012 at 1:16 PM
+────────────────────────────────────────────────────────────────────────
+
+Sorry, I´m from Sweden, I´m a little slow... 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #232  (forum post #2479984)
+Author    : moffeaton
+Date      : Sep 18, 2012 at 1:17 PM
+────────────────────────────────────────────────────────────────────────
+
+I'm a smart ass - dangerous combo!
+
+LOL
+
+I think it can be made so that everything is still accessible, if you want it to be - it's smart!
+────────────────────────────────────────────────────────────────────────
+Post #233  (forum post #2480025)
+Author    : Nils
+Date      : Sep 18, 2012 at 1:43 PM
+────────────────────────────────────────────────────────────────────────
+
+I think my Probots head will spinn, vomit like Linda Blair and eventually fall off...
+────────────────────────────────────────────────────────────────────────
+Post #234  (forum post #2480305)
+Author    : moffeaton
+Date      : Sep 18, 2012 at 4:27 PM
+────────────────────────────────────────────────────────────────────────
+
+Hahah, yeah, mine too, probably!
+────────────────────────────────────────────────────────────────────────
+Post #235  (forum post #2487685)
+Author    : moffeaton
+Date      : Sep 22, 2012 at 6:02 PM
+────────────────────────────────────────────────────────────────────────
+
+Okay, so continuing the "insane laser cut acrylic parts" detour - this is the last of it. These will also be free files I will upload, so you can do this to your PD if you wish. After this update, everything else is putting resin to resin and cutting brass tubes, so we're nearing the home stretch, in a way!
+
+I added a mount to the bottom of the bottom body part (pics coming tomorrow) so those are the bolts you're seeing... anyway, I decided to grind/cut off the equatorial disc, as it wasn't 100% flat. 
+
+[IMAGE: L1120649.jpg]
+
+I replaced it with acrylic of the same thickness:
+
+[IMAGE: L1120653.jpg]
+
+[IMAGE: L1120652.jpg]
+
+I then thought "hey - why not inset a similar disc in the body's other half, so that I can weld-on 3 them together, and ensure the whole trench is straight and true!". SO that's what I did.
+
+[IMAGE: L1120657.jpg]
+
+Same diameter hole makes lining these two up a cinch.
+
+[IMAGE: L1120654.jpg]
+
+Like. A. Glove.
+
+[IMAGE: L1120659.jpg]
+
+Currently sanding and cleaning the join lines with liberal gobs of Apoxie Sculpt.
+
+[IMAGE: L1120660.jpg]
+
+[IMAGE: L1120661.jpg]
+
+It really makes the assembly clean and easy...
+────────────────────────────────────────────────────────────────────────
+Post #236  (forum post #2487772)
+Author    : jedimaster
+Date      : Sep 22, 2012 at 7:01 PM
+────────────────────────────────────────────────────────────────────────
+
+I want a laser cutter!!!!
+────────────────────────────────────────────────────────────────────────
+Post #237  (forum post #2487774)
+Author    : moffeaton
+Date      : Sep 22, 2012 at 7:03 PM
+────────────────────────────────────────────────────────────────────────
+
+It's making everything SO COOL as I build!!
+────────────────────────────────────────────────────────────────────────
+Post #238  (forum post #2488038)
+Author    : ralphee
+Date      : Sep 22, 2012 at 11:02 PM
+────────────────────────────────────────────────────────────────────────
+
+jedimaster said:
+
+			I want a laser cutter!!!!
+		
+
+Click to expand...
+
+Do you get one with the kit, bargain :lol
+
+Lee
+────────────────────────────────────────────────────────────────────────
+Post #239  (forum post #2488291)
+Author    : moffeaton
+Date      : Sep 23, 2012 at 6:20 AM
+────────────────────────────────────────────────────────────────────────
+
+No, sadly, lol! You do get one hell of a nice set of castings though!
+────────────────────────────────────────────────────────────────────────
+Post #240  (forum post #2488348)
+Author    : ralphee
+Date      : Sep 23, 2012 at 7:22 AM
+────────────────────────────────────────────────────────────────────────
+
+moffeaton said:
+
+			No, sadly, lol! You do get one hell of a nice set of castings though!
+		
+
+Click to expand...
+
+ 
+
+Yeah they look.....lovely!
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #241  (forum post #2489023)
+Author    : vaderdarth
+Date      : Sep 23, 2012 at 4:33 PM
+────────────────────────────────────────────────────────────────────────
+
+Jason I'm very jealous!!!  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #242  (forum post #2489030)
+Author    : moffeaton
+Date      : Sep 23, 2012 at 4:43 PM
+────────────────────────────────────────────────────────────────────────
+
+Dave, you adding electronics to yours?
+────────────────────────────────────────────────────────────────────────
+Post #243  (forum post #2490436)
+Author    : moffeaton
+Date      : Sep 24, 2012 at 1:28 PM
+────────────────────────────────────────────────────────────────────────
+
+Do we know the ID on this tube (with the hole)? I've searched the threads in IDs, but they've been heavily edited now.
+
+[IMAGE: C38matilda.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #244  (forum post #2490484)
+Author    : vaderdarth
+Date      : Sep 24, 2012 at 1:57 PM
+────────────────────────────────────────────────────────────────────────
+
+Yes I am.  At least I hope.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #245  (forum post #2490505)
+Author    : ralphee
+Date      : Sep 24, 2012 at 2:07 PM
+────────────────────────────────────────────────────────────────────────
+
+moffeaton said:
+
+			Do we know the ID on this tube (with the hole)? I've searched the threads in IDs, but they've been heavily edited now.
+
+[IMAGE: C38matilda.jpg]
+
+Click to expand...
+
+Yes, it is a known part, and in the thread, one has only to read!
+
+Its from a "gateway" kit too, so very easy to find, but again, the info is in my build thread!
+
+Lee
+────────────────────────────────────────────────────────────────────────
+Post #246  (forum post #2490616)
+Author    : moffeaton
+Date      : Sep 24, 2012 at 3:17 PM
+────────────────────────────────────────────────────────────────────────
+
+Dave - I will send you the acrylic soon, then. You've been a great help and it's my way of saying thank ya!
+────────────────────────────────────────────────────────────────────────
+Post #247  (forum post #2490626)
+Author    : moffeaton
+Date      : Sep 24, 2012 at 3:24 PM
+────────────────────────────────────────────────────────────────────────
+
+Matilda Part #38 - the casting of the head I have had an air bubble, so I'm going to replace it. So if you guys want to do the same - Tamiya 1/35th Matilda part #38.
+────────────────────────────────────────────────────────────────────────
+Post #248  (forum post #2490633)
+Author    : ralphee
+Date      : Sep 24, 2012 at 3:27 PM
+────────────────────────────────────────────────────────────────────────
+
+Your welcome J, any other way we can help you get this done, just holler!
+
+Lee
+────────────────────────────────────────────────────────────────────────
+Post #249  (forum post #2490647)
+Author    : moffeaton
+Date      : Sep 24, 2012 at 3:34 PM
+────────────────────────────────────────────────────────────────────────
+
+Funny enough, it was a PM from a friend, lol! It's totally one of those parts you can look at directly and not "see" it until the stars align. 
+
+I did check your thread, and around page two or three you guys reference the part, but everything's been edited and there are contradictions in the 40 pages, it's a little frustrating for the reader. But thank you, yes, for the positive valuable contributions you make to the studio scale forum. Working together, we all make this a better hobby!
+────────────────────────────────────────────────────────────────────────
+Post #250  (forum post #2490657)
+Author    : ralphee
+Date      : Sep 24, 2012 at 3:37 PM
+────────────────────────────────────────────────────────────────────────
+
+Yeah, its nice to have ID hounds on the case to document info, its what we love to do Jason, we do make the hobby more accesible for those who cant ID, or struggle to find the time, so agreed, it works out very well!
+
+Lee
+────────────────────────────────────────────────────────────────────────
+Post #251  (forum post #2490670)
+Author    : moffeaton
+Date      : Sep 24, 2012 at 3:45 PM
+────────────────────────────────────────────────────────────────────────
+
+So when you want to add a mount, and don't want to use a Panavise, a gas pipe is a good solution. It not only offers strength, but is an easy conduit for wires and power cords. For the smaller models, the now-antiquated 1/4" pipe is perfect. 30 years ago, it was easily obtained (and was used primarily in gas light fixtures), but now a days, is really hard to source unless you want to get it delivered (for a small fortune) or have an old mom and pop shop that has old stock. I have just that kind of shop available, and the owner was thrilled to sell me most of his remaining stock. He even cut and threaded it for free, and did a much better job than a kid would have at Home Depot. Try asking a Home Depot or Lowes for this stuff - they just stare blankly and say "we got 3/4" - is that it?
+
+So anyway - 1/4" gas pipe - PERFECT for this model. Cast resin fits like it was designed for the fittings.
+
+[IMAGE: L1120663.jpg]
+
+Here's the store - I wouldn't be surprised to find a Balance Pipe or Viscount Reading Light in those aisles, lol!
+
+Photo by roboterkampf &bull; Instagram
+────────────────────────────────────────────────────────────────────────
+Post #252  (forum post #2490677)
+Author    : moffeaton
+Date      : Sep 24, 2012 at 3:48 PM
+────────────────────────────────────────────────────────────────────────
+
+Oh - and it'll run you around 1/4 the price of a Panavise mount for the pipe length (I have an 18" section and a 24" section to try out visually once the legs are attached) and both flanges.
+────────────────────────────────────────────────────────────────────────
+Post #253  (forum post #2490721)
+Author    : jedimaster
+Date      : Sep 24, 2012 at 4:18 PM
+────────────────────────────────────────────────────────────────────────
+
+Ahhh ye olde hardware stores.... I can find the pipe here but can I find the damn Flange???? Noooo!!!! Dammit!!
+────────────────────────────────────────────────────────────────────────
+Post #254  (forum post #2490725)
+Author    : moffeaton
+Date      : Sep 24, 2012 at 4:21 PM
+────────────────────────────────────────────────────────────────────────
+
+I know they have more... it sounds crazy to ship one to your neck of the woods, but as a last resort, if you can't fine one, I'm happy to! I'll make it a care package too... send you some bullets from Baltimore, or something apropos. Heh :lol
+────────────────────────────────────────────────────────────────────────
+Post #255  (forum post #2490753)
+Author    : dirtydave
+Date      : Sep 24, 2012 at 4:37 PM
+────────────────────────────────────────────────────────────────────────
+
+Hey Jason,just a heads up on the 1/4" pipe.I'm in the HVAC field in N.J. & have no problem getting it from a plumbing/heating supply house.We don't use it for gas but oil.Maybe this info will help others find it ?
+
+Dave
+────────────────────────────────────────────────────────────────────────
+Post #256  (forum post #2490762)
+Author    : moffeaton
+Date      : Sep 24, 2012 at 4:43 PM
+────────────────────────────────────────────────────────────────────────
+
+Nice! Thanks for the alternate avenue for vendors!
+────────────────────────────────────────────────────────────────────────
+Post #257  (forum post #2490822)
+Author    : jedimaster
+Date      : Sep 24, 2012 at 5:19 PM
+────────────────────────────────────────────────────────────────────────
+
+Cheers J but necessity breeds innovation and all that...if ya can't find it ... Make it. Appreciate it though.
+────────────────────────────────────────────────────────────────────────
+Post #258  (forum post #2491141)
+Author    : vaderdarth
+Date      : Sep 24, 2012 at 8:19 PM
+────────────────────────────────────────────────────────────────────────
+
+You are too kind Jason.   
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #259  (forum post #2491207)
+Author    : jedimaster
+Date      : Sep 24, 2012 at 8:56 PM
+────────────────────────────────────────────────────────────────────────
+
+vaderdarth said:
+
+			You are too kind Jason.   
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+thumbsup
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #260  (forum post #2491640)
+Author    : moffeaton
+Date      : Sep 25, 2012 at 6:31 AM
+────────────────────────────────────────────────────────────────────────
+
+Back at ya! We gotta be careful with this bromance fellas, as this is getting into "Care Bear Stare" territory.
+────────────────────────────────────────────────────────────────────────
+Post #261  (forum post #2492257)
+Author    : vaderdarth
+Date      : Sep 25, 2012 at 1:16 PM
+────────────────────────────────────────────────────────────────────────
+
+LOL   Im a completely straight heteromodeler!!!  If that means I only build a particular model once,  then that still applies!!!!
+────────────────────────────────────────────────────────────────────────
+Post #262  (forum post #2497596)
+Author    : moffeaton
+Date      : Sep 28, 2012 at 7:26 AM
+────────────────────────────────────────────────────────────────────────
+
+So right now I'm in the "fix bubbles, detail that's not "perfect", etc" phase for the body and head. Things like the Matilda part mentioned above:
+
+[IMAGE: L1120673.jpg]
+
+Carving away a bunch of bubbles from the "gun" which gets built back up with Apoxie Sculpt:
+
+[IMAGE: L1120674.jpg]
+
+And replacing any Plastruct that isn't good:
+
+[IMAGE: L1120680.jpg]
+
+[IMAGE: L1120681.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #263  (forum post #2502799)
+Author    : moffeaton
+Date      : Oct 1, 2012 at 10:31 AM
+────────────────────────────────────────────────────────────────────────
+
+Mounting the legs. Sand down the crooked screws, and fill in any holes that are off-center.
+
+[IMAGE: L1120682.jpg]
+
+I am choosing to mount the legs using threaded rods and nuts/washers. Each leg gets a threaded rod Apoxie Sculpted into place. Careful drilling is required!
+
+[IMAGE: L1120683.jpg]
+
+If you somehow misplace one of your threaded rods like I did, cut some bolts!
+
+[IMAGE: L1120684.jpg]
+
+Hand the bolt heads to your wife while they are still warm and enjoy her "*****, did you burn anything?!" reaction. The answer (by the way) is always "A little bit, yeah"
+
+[IMAGE: L1120685.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #264  (forum post #2508047)
+Author    : moffeaton
+Date      : Oct 3, 2012 at 9:55 PM
+────────────────────────────────────────────────────────────────────────
+
+Now drill holes for the legs:
+
+[IMAGE: L1120692.jpg]
+
+If you're using the electronic package, drill a huge honking hole where the body "box" attaches.
+
+[IMAGE: L1120693.jpg]
+
+I forgot to drill holes for the leg bolt access, but the Dremel took care of it:
+
+[IMAGE: L1120694.jpg]
+
+Now glue the central underside "sub-body" in place:
+
+[IMAGE: L1120695.jpg]
+
+Modify the body box to allow clear sound transmission:
+
+[IMAGE: L1120698.jpg]
+
+All together now!
+
+[IMAGE: L1120699.jpg]
+
+Carefully glue speaker in place - it's a tight squeeze!
+
+[IMAGE: L1120700.jpg]
+
+Glue body box on top, hiding the hack 'n slash:
+
+[IMAGE: L1120703.jpg]
+
+Putty all the new stuff! Tomorrow, we sand seams again!
+
+[IMAGE: L1120706.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #265  (forum post #2509872)
+Author    : moffeaton
+Date      : Oct 4, 2012 at 9:39 PM
+────────────────────────────────────────────────────────────────────────
+
+A few spots to fix, but mostly there.
+
+[IMAGE: 185173_10151239416903156_976025225_n.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #266  (forum post #2517251)
+Author    : moffeaton
+Date      : Oct 9, 2012 at 11:47 AM
+────────────────────────────────────────────────────────────────────────
+
+So I was asked to provide instructions for this Probe Droid that would be friendly to the novice builder of resin kits, So apologies if the following seems a little simplistic. I'm trying to make sure the steps are easy to follow, for all levels. So, with that in mind, break out your brass cutter (I recommend something like this):
+
+Bench Top Cut Off Saw
+
+I've burned through two of these, so they aren't the highest quality, but they will do the job on a LOT of tube for a couple years.
+
+Study the reference pics for each leg, and make a determination as to how long you think your brass rods need to be. As stated before, the resin legs aren't an exact match to the ILM Probe Droid, but you can get pretty close, and no one is going to know that you're off by a couple of MM here and there when you're all said and done, unless they are intimately familiar with the ILM model and/or have scratch built one. So don't be intimidated by the struts if you have never done this sort of work before - it's really easy. In a couple of days, I'll provide measurements on exactly how long mine are from this build, if you want the data, but honestly, you can eyeball it and get excellent results. 
+
+Most of the struts are similar, and will be composed of two main parts. The thicker strut assembly that accepts the smaller tube on the thinner (lower) section. The lower assembly's brass tubing will, for the most part, remain unpainted. Keep that in mind as you build, as you may want to leave the struts off until it's time to paint.
+
+We will be using these K&S Brass tubes in today's update (this is from memory - I will double check tonight):
+
+7/32, 3/16, 5/32, 1/8, 3/32, 1/16
+
+For the first one, gather the 3/16, 5/32, 1/8, 3/32, and 1/16th tubing. 
+
+Grab the resin bracket, and drill three holes - these should be of a diameter to accept a brass rod (solid) to act as a pin (the two holes drilled in the fork), and mount (the bottom hole). The brass components for the upper tube will be made to look like the three parts in this picture (ignore that scrap piece in the back):
+
+[IMAGE: L1120712.jpg]
+
+The other side looks like this - See how they are a series of nested tubing? Make it look like this, lol!
+
+[IMAGE: L1120713.jpg]
+
+This nested brass method allows you to glue the bracket slightly offset from the tube, as pictured:
+
+[IMAGE: L1120715.jpg]
+
+The bracket will attach to the legs by drilling a hole into the tabs that stick out on the resin legs (though I recommend replacing them with styrene, as it might be a little stronger?). You'll have to cut "pins" to complete these hinged assemblies:
+
+[IMAGE: L1120714.jpg]
+
+Swivels easy peasy:
+
+[IMAGE: L1120718.jpg]
+
+The other side is even easier. The main tube was made from the 3/16, 5/32, and 1/8th brass tubes. This means the next size down is 3/32nd, and this will be the main part of the lower assembly. Again, nest a pin inside the end where it meets the bracket, and glue these flush to the bracket. In this photo, I have also added the leg bracket (made from styrene) so once the tube is inserted into the main assembly, all you have to do is superglue the bracket to the leg:
+
+[IMAGE: L1120719.jpg]
+
+Now, to find how LONG this smaller/lower assembly needs to be (to avoid popping out, or impeding movement), contract the arm's joint on the leg you ar work on. Place the brass assemblies side by side, and cut the smaller tube slightly below where it will run out of room inside the larger tube - like this:
+
+[IMAGE: L1120720.jpg]
+
+STICK IT IN, ROMEO:
+
+[IMAGE: L1120721.jpg]
+
+Bend it like Beckham:
+
+[IMAGE: L1120722.jpg]
+
+Stretch it like you just don't care:
+
+[IMAGE: L1120724.jpg]
+
+So that'll be what you do for almost all of the leg pistons. Lather, rinse, repeat. HOWEVER - ILMers were sneaky jerks who liked to do weird things that they knew would confuse 40 year olds 30 years later. There is one assembly that is a little different:
+
+[IMAGE: sw_mos_probe_droid_0011.jpg]
+
+So take one of the resin brackets and cut it like this - you don't have to glue it to your thumb like I did, but you can if you want to. I'm not your mother.
+
+[IMAGE: L1120726.jpg]
+
+Grab the largest brass tubing (7/32) and cut a small bit off as seen in the ref pic above (Courtesy of Forbidden Plastic), and glue the resin to the brass like so:
+
+[IMAGE: L1120729.jpg]
+
+Make another tube that looks like this, nesting down three tubes (and offset the collar as seen in the ref pic):
+
+[IMAGE: L1120731.jpg]
+
+[IMAGE: L1120732.jpg]
+
+You'll putty over the top, to make it look like the real one (I'll sand this down tonight):
+
+[IMAGE: L1120741.jpg]
+
+The other smaller assembly gets a collar around the lower bracket assembly as well, and the bracket itself in this case isn't going to be a resin part - scratch build it from brass or styrene tubing and graft it to the brass "piston". I have once again made a styrene bracket, which I recommend since you will be gluing this to a kit part:
+
+[IMAGE: L1120730.jpg]
+
+Glue the piece that my thumb is pointing to, to the leg (I had to replace a miscast detail with a grey styrene bit, which is why it looks different):
+
+[IMAGE: L1120733.jpg]
+
+Grab another Morser Karl part (the same that is used on the head, but sadly is not included in the kit, so we might need to get some cast up for the kits?), cut it down, and glue it behind the part you just added (and note that this whole area differs from the ILM model, so there is a little artistic interpretation going on):
+
+[IMAGE: L1120734.jpg]
+
+Once again contract the joint and mark where the smaller assembly piston is to be cut (and see how the bracket will mount tot he grey Karl part?):
+
+[IMAGE: L1120735.jpg]
+
+Slide the piston assembly together and glue the bracket to the Karl part:
+
+[IMAGE: L1120736.jpg]
+
+Tah dahhh:
+
+[IMAGE: L1120737.jpg]
+
+Here's another bracket pic - as I said, dimensions to follow when all five legs are done, and I will show their placement as well, specifically - so hang tight!
+
+[IMAGE: L1120739.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #267  (forum post #2517301)
+Author    : vaderdarth
+Date      : Oct 9, 2012 at 12:13 PM
+────────────────────────────────────────────────────────────────────────
+
+holy cow,  that's the best piston assembly results I've ever followed on this board.  Nice job Jason.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+  That looks just like the proto!!!!
+────────────────────────────────────────────────────────────────────────
+Post #268  (forum post #2517319)
+Author    : ralphee
+Date      : Oct 9, 2012 at 12:26 PM
+────────────────────────────────────────────────────────────────────────
+
+vaderdarth said:
+
+			holy cow,  that's the best piston assembly results I've ever followed on this board.  Nice job Jason.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+  That looks just like the proto!!!!
+		
+
+Click to expand...
+
+I agree Dave, thats a bonafide guide indeed, i think we differ in what kind of work quality we strive for, but as a guide to you PD newcomers, Great job Jason, your getting there mate!
+
+Lee
+────────────────────────────────────────────────────────────────────────
+Post #269  (forum post #2517348)
+Author    : vaderdarth
+Date      : Oct 9, 2012 at 12:43 PM
+────────────────────────────────────────────────────────────────────────
+
+Well Lee you can't get identical results from a resin kit that you can from building your own using actual donor kits that's a given.  Still Jason makes it look both professional and easy with his mad skills.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #270  (forum post #2517350)
+Author    : ralphee
+Date      : Oct 9, 2012 at 12:45 PM
+────────────────────────────────────────────────────────────────────────
+
+vaderdarth said:
+
+			Well Lee you can't get identical results from a resin kit that you can from building your own using actual donor kits that's a given.  Still Jason makes it look both professional and easy with his mad skills.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+No doubt! Awesome!
+
+Lee
+────────────────────────────────────────────────────────────────────────
+Post #271  (forum post #2521077)
+Author    : moffeaton
+Date      : Oct 11, 2012 at 11:42 AM
+────────────────────────────────────────────────────────────────────────
+
+Pretty dang nice for a resin kit. 
+
+[IMAGE: 545561_10151248198548156_2079080253_n.jpeg]
+────────────────────────────────────────────────────────────────────────
+Post #272  (forum post #2523772)
+Author    : vaderdarth
+Date      : Oct 12, 2012 at 6:03 PM
+────────────────────────────────────────────────────────────────────────
+
+Sweet.  You have made poppa proud Jason.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+    That is looking great!!!
+────────────────────────────────────────────────────────────────────────
+Post #273  (forum post #2524977)
+Author    : moffeaton
+Date      : Oct 13, 2012 at 1:30 PM
+Reactions : Like — Nwerke
+────────────────────────────────────────────────────────────────────────
+
+You should be! It's a fantastic kit for those that won't/can't make one from scratch. And for the price, it simply cannot be beat.
+────────────────────────────────────────────────────────────────────────
+Post #274  (forum post #2527869)
+Author    : vaderdarth
+Date      : Oct 15, 2012 at 6:32 AM
+────────────────────────────────────────────────────────────────────────
+
+I got back on the building of the legs last night.  Was going thru a case of the blahs and hadn't felt like building but now I'm back on it again.  Legs definitely seem to get easier as I go,  mainly because of the experience on the first two legs I suppose.
+────────────────────────────────────────────────────────────────────────
+Post #275  (forum post #2527901)
+Author    : moffeaton
+Date      : Oct 15, 2012 at 6:59 AM
+────────────────────────────────────────────────────────────────────────
+
+Yeah, it happens to every one. My electronics were sent back to Hyperdyne for an update (he has improved the rotation of the head) and I should have them back in hand shortly, so I'll be able to get everything installed soon. I don't want to glue certain things together until I ensure the electronics do their thing, again, lol! I know I've tested all the assemblies a million times, but it's better to be safe than sorry, and have to disassemble something if you fudge the installation without testing the servos in place.
+────────────────────────────────────────────────────────────────────────
+Post #276  (forum post #2528089)
+Author    : vaderdarth
+Date      : Oct 15, 2012 at 9:15 AM
+────────────────────────────────────────────────────────────────────────
+
+Amen to that.  I love these projects where guys work together and make a better product in mid stream rather than saying sorry,  you're stuck with it,  too bad!!!!!  I appreciate what you guys have done with all this.   It helps us little kit builders get so much more enjoyment out of the kits we have.  Everyone dreams a kit can do this or that,  but making it actually happen with electronics boards like this is crazy cool!!! This makes our little plastic toys cooler than the original props in some ways. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #277  (forum post #2528094)
+Author    : Talkierg
+Date      : Oct 15, 2012 at 9:18 AM
+────────────────────────────────────────────────────────────────────────
+
+Yeah,agreed:thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #278  (forum post #2528121)
+Author    : moffeaton
+Date      : Oct 15, 2012 at 9:34 AM
+────────────────────────────────────────────────────────────────────────
+
+Man, the Blimp taught me that ANYTHING is possible, lol.
+────────────────────────────────────────────────────────────────────────
+Post #279  (forum post #2528999)
+Author    : 3phase
+Date      : Oct 15, 2012 at 5:17 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks Vaderdarth for this kit and Jason for these instructions and not skimping on them. There are many of us keenly watching this thread.
+────────────────────────────────────────────────────────────────────────
+Post #280  (forum post #2529406)
+Author    : moffeaton
+Date      : Oct 15, 2012 at 8:38 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks! Update tomorrow will walk you through this sub-assembly. Thanks to the fellas that made the IDs on this model, things like this are possible in a garage kit.
+
+[IMAGE: 23964_10151256156513156_824593561_n.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #281  (forum post #2530035)
+Author    : moffeaton
+Date      : Oct 16, 2012 at 6:36 AM
+────────────────────────────────────────────────────────────────────────
+
+Gather ye these parts, hither, forsooth, etc:
+
+[IMAGE: L1120745.jpg]
+
+Start a'gluing:
+
+[IMAGE: L1120749.jpg]
+
+Glue the KVII part to the back end of the assembly, which will serve as a guide for how far apart both M16 donors sit...
+
+[IMAGE: L1120750.jpg]
+
+[IMAGE: L1120751.jpg]
+
+[IMAGE: L1120753.jpg]
+
+Shore up the front of the assembly by gluing this detail to the outer edges:
+
+[IMAGE: L1120754.jpg]
+
+[IMAGE: L1120755.jpg]
+
+This glues to the underside - but does not fully bridge the span, so it glues to one side only:
+
+[IMAGE: L1120756.jpg]
+
+Next up:
+
+[IMAGE: L1120757.jpg]
+
+[IMAGE: L1120758.jpg]
+
+This runs parallel to the assembly's centerline (when glued to the Probe Droid itself) so it will be "crooked" compared to the angled front:
+
+[IMAGE: L1120759.jpg]
+
+It attaches by slotting the "pin" into the forked protrusion and then also can be glued to the piece you just attached, previous to this one:
+
+[IMAGE: L1120760.jpg]
+
+Almost there!
+
+[IMAGE: L1120761.jpg]
+
+[IMAGE: L1120762.jpg]
+
+Final piece:
+
+[IMAGE: L1120763.jpg]
+
+Now, I'm not 100% sure on the pipe diameter used, as these resin parts are slightly different from the donor kits, so this is a placeholder. There are three cylindrical protrusions on the bottom of the PD, and only two provided in the kit, so we'll have to decide on an appropriate tube to use. This is something I had laying in a drawer - Evergreen, I think?
+
+[IMAGE: L1120764.jpg]
+
+Need to buy a thicker walled tube:
+
+[IMAGE: IMG_0507.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #282  (forum post #2531377)
+Author    : moffeaton
+Date      : Oct 16, 2012 at 5:56 PM
+────────────────────────────────────────────────────────────────────────
+
+Built the gun mount. If we like the look of this, I'll throw out the .ai file. 
+
+[IMAGE: 68714_10151257545563156_576404771_n.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #283  (forum post #2531891)
+Author    : darth_daniel
+Date      : Oct 16, 2012 at 11:03 PM
+────────────────────────────────────────────────────────────────────────
+
+This assembly for the underside is insane. I don´t know what´s more impressive, the creativity by the ILM people or the parts ID by you guys. :thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #284  (forum post #2532009)
+Author    : CutThumb
+Date      : Oct 17, 2012 at 12:52 AM
+────────────────────────────────────────────────────────────────────────
+
+Again, when you take into account the technical additions and detailing improvements made to this kit the results are hugely impressive. Go Jason!
+
+ There are about half a dozen people on this board who are producing work of an equal or higher standard than that of the original ILM builders. Arguably having to replicate a model exactly is harder than the effort to originally building it, particularly after thirty years.
+
+  When I started building about four years ago there were some great kits, the MIke Salzo X wing comes immediately to mind and people were always quite happy to accept the results without many alterations.
+
+  But since then the rate and degree to which some people are  improving the overall modelling accuracy with original detail is amazing. Recently we've had superb examples of upgraded castings with the B wings (Guy/ Julien), the Snowspeeder (Lee) ,and  the Red Jammer/ Tie Killer Y wings (Jason/ Lee).
+
+  But the Probedroid is perhaps the most outstanding example of how both a resin kit and  totally scratch build versions have vastly been improved by the hours of research and effort put into making it so accurate by casters and builders alike. That many are STILL not totally satisfied with the results just goes to show how demmanding they've become!
+────────────────────────────────────────────────────────────────────────
+Post #285  (forum post #2532092)
+Author    : Transcoder
+Date      : Oct 17, 2012 at 2:48 AM
+────────────────────────────────────────────────────────────────────────
+
+this is looking so cool! amazing detail..good work
+────────────────────────────────────────────────────────────────────────
+Post #286  (forum post #2532242)
+Author    : jedimaster
+Date      : Oct 17, 2012 at 5:45 AM
+────────────────────────────────────────────────────────────────────────
+
+Wadda waste of a good M16.
+────────────────────────────────────────────────────────────────────────
+Post #287  (forum post #2532244)
+Author    : moffeaton
+Date      : Oct 17, 2012 at 5:45 AM
+────────────────────────────────────────────────────────────────────────
+
+LOL, right?
+────────────────────────────────────────────────────────────────────────
+Post #288  (forum post #2532263)
+Author    : jedimaster
+Date      : Oct 17, 2012 at 6:07 AM
+────────────────────────────────────────────────────────────────────────
+
+LOL....
+────────────────────────────────────────────────────────────────────────
+Post #289  (forum post #2532412)
+Author    : moffeaton
+Date      : Oct 17, 2012 at 7:49 AM
+────────────────────────────────────────────────────────────────────────
+
+Grab your body, it's cylinder gluing time.
+
+[IMAGE: L1120766.jpg]
+
+Pin the parts for added stability. If you're like me, you'll knock things off every 4 seconds. 
+
+[IMAGE: L1120767.jpg]
+
+Rotating clockwise, glue this greeblie down:
+
+[IMAGE: L1120768.jpg]
+
+Now these Karl bits:
+
+[IMAGE: L1120770.jpg]
+
+Two more cylinders! (The kit initially only came with two - you need four)
+
+[IMAGE: L1120772.jpg]
+
+Now the underside - orient the body as shown:
+
+[IMAGE: L1120773.jpg]
+
+Glue the Karl halves together and then to the body, here:
+
+[IMAGE: L1120774.jpg]
+
+Roco assembly:
+
+[IMAGE: L1120775.jpg]
+
+Put it here:
+
+[IMAGE: L1120777.jpg]
+
+The next one goes here:
+
+[IMAGE: L1120779.jpg]
+
+Orient the body as shown:
+
+[IMAGE: L1120780.jpg]
+
+Smallest tube goes here:
+
+[IMAGE: L1120781.jpg]
+
+Karl halves get glued together and placed here as well:
+
+[IMAGE: L1120782.jpg]
+
+Swing it around and put the M16 assembly and larger tube in this area:
+
+[IMAGE: L1120783.jpg]
+
+[IMAGE: L1120785.jpg]
+
+[IMAGE: L1120784.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #290  (forum post #2532851)
+Author    : vaderdarth
+Date      : Oct 17, 2012 at 11:39 AM
+────────────────────────────────────────────────────────────────────────
+
+Wow,  you're cooking with gas now!!!!!
+────────────────────────────────────────────────────────────────────────
+Post #291  (forum post #2541520)
+Author    : CutThumb
+Date      : Oct 22, 2012 at 3:30 AM
+────────────────────────────────────────────────────────────────────────
+
+Jason, I need to ask a question of you and other PD builders. In that reference photograph (need to buy a thicker tube)a few posts up on the base of the PD there is a round disk  that contains a number of kit parts on the very base of the PD between the legs. I've been looking at alot of photo ref recently and this disk is present in most of the latter pictures but missing in some of the earlier exhibitions. 
+
+  Nobody seems to have included this in any build or discussed it. I was of the opinion at one point that there were two versions built as the colour of the later droids seemed significantly browner. The disk is very clear in some of Skydivers ref photos. Its totally missing in the Chronicles pics, where the base is used as a mounting point for shooting. In later versions where it is mounted more traditionally on a rod the disk is permanent and has kit parts on it.The whole PD then looks like its been heavily "Rusted".   Why is this?
+
+ PS Also noticed that the brass rods whilst very clear and clean in the early pictures have been heavily over sprayed and coloured in the latter ones as well. It looks to me as if someone has heavily "retouched" the  model well post production ,and going for the rusted effect to blend the later additional disk parts in. Certain areas on the legs  have an almost dark blued metalised look thats disappeared benieth the overspry as well in the later pictures. The effect is that the later "versions" appear much more "clumsily" done, particularly the legs.
+────────────────────────────────────────────────────────────────────────
+Post #292  (forum post #2541715)
+Author    : MonsieurTox
+Date      : Oct 22, 2012 at 7:01 AM
+────────────────────────────────────────────────────────────────────────
+
+The dound disk is part of the stand like the rod and the fake sixth leg !
+────────────────────────────────────────────────────────────────────────
+Post #293  (forum post #2541728)
+Author    : moffeaton
+Date      : Oct 22, 2012 at 7:11 AM
+────────────────────────────────────────────────────────────────────────
+
+What Julien said. The disk (with it's details) and the 6th leg are not original to the Probe Droid as built for the film. I also suspect it was browned up and "restored" at some point, too. Personally not a fan of the brown as it's a little inconsistent with the Empire's vehicle aesthetic, even if it was present in lesser quantities on the prop during filming.
+────────────────────────────────────────────────────────────────────────
+Post #294  (forum post #2541784)
+Author    : CutThumb
+Date      : Oct 22, 2012 at 7:46 AM
+────────────────────────────────────────────────────────────────────────
+
+As always it pays to ask the experts.Thanks.They obviously didn't want to spray the brass tubes originally as that would have made animating the PD legs very difficult. Similarly I can see and understand that the round disk was made as a part of an original stand to help with that animation and blue screen work ,but I was just surprised how much detail had been added to replace it later.The new disk (and parts) appears  to have replace the old one on a permanent basis for display purposes. There is definitely much more paint over sprayed though. The brass parts shown in the Chronicles legs have almost disappeared under sprays of "brown and  grey"dirt in Skydivers pics.
+
+PS So do we include the disk as part of the studio build ,as it clearly is in both the full scale and studio scale models and its visible on screen shots in ESB?
+────────────────────────────────────────────────────────────────────────
+Post #295  (forum post #2541813)
+Author    : moffeaton
+Date      : Oct 22, 2012 at 8:05 AM
+────────────────────────────────────────────────────────────────────────
+
+SUPER subjective, but if you look at the full sized prop, there is very little brown coloring. You can get a sense of the color from these two pics, and note that even with color shifting/photo inaccuracies, it looks like they attempted to make the 1:1 and scaled props match each other, color-wise.
+
+[IMAGE: pdcolor.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #296  (forum post #2552763)
+Author    : vaderdarth
+Date      : Oct 27, 2012 at 7:08 PM
+────────────────────────────────────────────────────────────────────────
+
+I've got PD owners asking me what the styrene tubing and end caps model numbers are for those "air tanks".   If anyone can help I'd appreciate it.  
+
+Dave 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #297  (forum post #2569028)
+Author    : moffeaton
+Date      : Nov 5, 2012 at 10:16 AM
+────────────────────────────────────────────────────────────────────────
+
+Back to normal from the hurricane... a little more done
+
+Probe Droid - YouTube
+────────────────────────────────────────────────────────────────────────
+Post #298  (forum post #2569100)
+Author    : ProfKSergeev
+Date      : Nov 5, 2012 at 10:55 AM
+────────────────────────────────────────────────────────────────────────
+
+Next thing you know, it's going to levitate!
+────────────────────────────────────────────────────────────────────────
+Post #299  (forum post #2569130)
+Author    : moffeaton
+Date      : Nov 5, 2012 at 11:05 AM
+────────────────────────────────────────────────────────────────────────
+
+I WISH!
+────────────────────────────────────────────────────────────────────────
+Post #300  (forum post #2569702)
+Author    : 3phase
+Date      : Nov 5, 2012 at 3:44 PM
+────────────────────────────────────────────────────────────────────────
+
+moffeaton said:
+
+			Back to normal from the hurricane... a little more done
+
+Probe Droid - YouTube
+
+Click to expand...
+
+Man that is cool, wish I had the time, patience and skills to do that to mine.
+────────────────────────────────────────────────────────────────────────
+Post #301  (forum post #2572196)
+Author    : moonlightdrive2
+Date      : Nov 6, 2012 at 8:17 PM
+────────────────────────────────────────────────────────────────────────
+
+Really amazing work guys!!  You should be very proud. 
+
+Dave
+────────────────────────────────────────────────────────────────────────
+Post #302  (forum post #2587728)
+Author    : hyperdyne
+Date      : Nov 15, 2012 at 12:29 PM
+────────────────────────────────────────────────────────────────────────
+
+Wow, Jason that rocks!!  I love it.  Glad you got the board back - the head looks great so far.
+────────────────────────────────────────────────────────────────────────
+Post #303  (forum post #2587741)
+Author    : moffeaton
+Date      : Nov 15, 2012 at 12:36 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks! Will update tomorrow-ish - finished the part assemblies, mulled over the way to bolt it all together... it's all base-painted, too! SUCH a good kit!!
+────────────────────────────────────────────────────────────────────────
+Post #304  (forum post #2593430)
+Author    : hollywoodhardware
+Date      : Nov 19, 2012 at 7:01 AM
+────────────────────────────────────────────────────────────────────────
+
+I am really enjoying your build! It inspired me to get my Mk I resin kit out of storage and start to prepare the kit! Thanks!
+────────────────────────────────────────────────────────────────────────
+Post #305  (forum post #2593511)
+Author    : moffeaton
+Date      : Nov 19, 2012 at 7:46 AM
+────────────────────────────────────────────────────────────────────────
+
+Here's the servos in the head. I neded up using Zip Tie material, cut down, in place of thread - now they are much "heartier" and have the same range of motion:
+
+[IMAGE: L1120787.jpg]
+
+Add the last body parts to the body lid:
+
+[IMAGE: L1120793.jpg]
+
+[IMAGE: L1120794.jpg]
+
+(accoracy alert! I have added kit parts from the 1/35th Tamiya Sheridan here)
+
+[IMAGE: L1120795.jpg]
+
+[IMAGE: L1120796.jpg]
+
+[IMAGE: L1120797.jpg]
+
+A few picks ups on the legs:
+
+[IMAGE: L1120799.jpg]
+
+[IMAGE: L1120800.jpg]
+
+[IMAGE: L1120801.jpg]
+
+[IMAGE: L1120802.jpg]
+
+[IMAGE: L1120803.jpg]
+
+[IMAGE: L1120804.jpg]
+
+And legs get bolted on in this sequence:
+
+[IMAGE: L1120805.jpg]
+
+[IMAGE: L1120806.jpg]
+
+[IMAGE: L1120807.jpg]
+
+[IMAGE: L1120808.jpg]
+
+[IMAGE: L1120809.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #306  (forum post #2595114)
+Author    : vaderdarth
+Date      : Nov 20, 2012 at 4:59 AM
+────────────────────────────────────────────────────────────────────────
+
+Beautiful work Jason!!!  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #307  (forum post #2595318)
+Author    : Clutch
+Date      : Nov 20, 2012 at 8:00 AM
+────────────────────────────────────────────────────────────────────────
+
+What he said!
+────────────────────────────────────────────────────────────────────────
+Post #308  (forum post #2598253)
+Author    : Gans
+Date      : Nov 21, 2012 at 6:59 PM
+────────────────────────────────────────────────────────────────────────
+
+Yes mate
+
+I am also enjoying your build before attempting mine
+
+Thanks for all the info on parts
+
+Gans
+
+Brisbane Model Builder
+────────────────────────────────────────────────────────────────────────
+Post #309  (forum post #2607322)
+Author    : hyperdyne
+Date      : Nov 27, 2012 at 11:08 AM
+────────────────────────────────────────────────────────────────────────
+
+I'll throw in another complimentary "that looks effin cool!"  :thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #310  (forum post #2607337)
+Author    : moffeaton
+Date      : Nov 27, 2012 at 11:15 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks, guys! The snow base is pretty much done, so I can cover the base to protect from paint, mount the body, wire the main parts together, and finish paint work!! This has truly been a fun one, with really cool results.
+────────────────────────────────────────────────────────────────────────
+Post #311  (forum post #2608337)
+Author    : moffeaton
+Date      : Nov 27, 2012 at 7:46 PM
+────────────────────────────────────────────────────────────────────────
+
+All that's left is fake snow, paint, and the rest of the eyes...
+
+Probe Droid - YouTube
+
+[IMAGE: 558918_10151321236808156_707986991_n.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #312  (forum post #2608729)
+Author    : CutThumb
+Date      : Nov 27, 2012 at 11:27 PM
+────────────────────────────────────────────────────────────────────────
+
+Very well done with the build!!!! Innovative ideas with the lighting, motion and sound effects that  have worked out extremely positively when seen in the video.  I have to admit  I wondered just what they would add to the model but they significantly enhance it. The red lazer in the gun is a very nice touch and the sound system working in sinc with it is much better than I thought it would be. The Droids head and antenna motion looks very fluid and realistic as well. Great work!!!! 
+
+ The detailing on the model looks very crisp as well. Nearly all of the parts Mike did are pretty indistinguishable from their donor kit counterparts ( I know because I've got most of them now) and the redesign and casting is some light years ahead  of the original  kit Guy and Lee had to work on but converted and replaced so successfully. 
+
+   Keep that cat away from that stand though!!! Or that PD may end up in as many pieces as when Han blasted it!!!
+────────────────────────────────────────────────────────────────────────
+Post #313  (forum post #2608736)
+Author    : ralphee
+Date      : Nov 27, 2012 at 11:31 PM
+────────────────────────────────────────────────────────────────────────
+
+Just pointer on this part guys, half of it is missing on both sides,thought id chime in if anybody did want this area to be accurate, the prop today shows the part broken, but its not intended to be that way.
+
+You'll need a Tamiya 1/35 M3A2, both parts needed are supplied in just one kit.
+
+lee
+
+[IMAGE: missing.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #314  (forum post #2608738)
+Author    : ralphee
+Date      : Nov 27, 2012 at 11:33 PM
+────────────────────────────────────────────────────────────────────────
+
+Oh and Jason, well done mate!
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #315  (forum post #2609497)
+Author    : hyperdyne
+Date      : Nov 28, 2012 at 9:27 AM
+────────────────────────────────────────────────────────────────────────
+
+Holy smokes, that is epic!  I love the articulating legs.  Glad to hear the electronics worked out.  I really like the antenna motion also, very smooth.  Well done on the linkage sir!
+────────────────────────────────────────────────────────────────────────
+Post #316  (forum post #2609532)
+Author    : vaderdarth
+Date      : Nov 28, 2012 at 9:46 AM
+────────────────────────────────────────────────────────────────────────
+
+Totally agree Jim.   Very very well done!
+────────────────────────────────────────────────────────────────────────
+Post #317  (forum post #2662464)
+Author    : moffeaton
+Date      : Dec 28, 2012 at 5:00 PM
+────────────────────────────────────────────────────────────────────────
+
+Now that the holidays have settled down, I am back on it. Getting there.
+
+[IMAGE: painting.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #318  (forum post #2662698)
+Author    : Talkierg
+Date      : Dec 28, 2012 at 8:24 PM
+────────────────────────────────────────────────────────────────────────
+
+May I ask,how did ya do the brownish clr effect? paint brush or airbrush please? 
+
+Your PD looks great jason:thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #319  (forum post #2662726)
+Author    : moffeaton
+Date      : Dec 28, 2012 at 8:44 PM
+────────────────────────────────────────────────────────────────────────
+
+It's at the moment all airbrush, and all Tamiya. For the resin build, I'm trying to keep this "simple/clean" for people. German grey TS4 spray Tamiya base. Then build up layers of Grey XF20 & XF22 (cut the darkest grey with a little XF10 brown), Smoke X19, some XF10 as a near glaze by cutting it with rubbing alcohol... the orange was straight X6 with a dash of X7 (red)... that gets you to the pic above.
+────────────────────────────────────────────────────────────────────────
+Post #320  (forum post #2663667)
+Author    : ghostryder
+Date      : Dec 29, 2012 at 1:57 PM
+────────────────────────────────────────────────────────────────────────
+
+That's incredible Jason, really great work...!
+────────────────────────────────────────────────────────────────────────
+Post #321  (forum post #2663860)
+Author    : Carson Dyle
+Date      : Dec 29, 2012 at 4:16 PM
+────────────────────────────────────────────────────────────────────────
+
+Awesome work, J.
+
+:thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #322  (forum post #2663978)
+Author    : moffeaton
+Date      : Dec 29, 2012 at 6:04 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks, guys. 
+
+I recommend using Mr. Color Black cut with Mr. Color Self Leveling Thinner to hand paint the smaller eyes. They are now a rich glossy black, show no brush strokes, and were super easy to do.
+────────────────────────────────────────────────────────────────────────
+Post #323  (forum post #2664046)
+Author    : Gans
+Date      : Dec 29, 2012 at 7:07 PM
+────────────────────────────────────────────────────────────────────────
+
+Nice work mate
+
+And like the colours as well 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #324  (forum post #2664055)
+Author    : moffeaton
+Date      : Dec 29, 2012 at 7:19 PM
+────────────────────────────────────────────────────────────────────────
+
+I do too - but this is definitely the kind of model that you could paint and repaint a half a dozen times and still think there's more to do. It's really enchanting, to be honest.
+────────────────────────────────────────────────────────────────────────
+Post #325  (forum post #2678816)
+Author    : EchoLeader
+Date      : Jan 7, 2013 at 3:47 PM
+────────────────────────────────────────────────────────────────────────
+
+Masterful work on your PD Jason. I love what you've done with it. AWE INSPIRING!!!
+────────────────────────────────────────────────────────────────────────
+Post #326  (forum post #2678850)
+Author    : moffeaton
+Date      : Jan 7, 2013 at 4:00 PM
+────────────────────────────────────────────────────────────────────────
+
+I can't think of a higher compliment - the guy we have to thank (or blame, lol!) for getting the Probe Droid off the screen and into our homes liking it! Thanks, man!!
+────────────────────────────────────────────────────────────────────────
+Post #327  (forum post #2678902)
+Author    : roback
+Date      : Jan 7, 2013 at 4:19 PM
+────────────────────────────────────────────────────────────────────────
+
+Ufff.... Spectacular and amazing Job...!!!!!!!!!!!!!!!
+────────────────────────────────────────────────────────────────────────
+Post #328  (forum post #2679825)
+Author    : jkno
+Date      : Jan 8, 2013 at 6:22 AM
+────────────────────────────────────────────────────────────────────────
+
+This is simply insane!!!!  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #329  (forum post #2694237)
+Author    : Gans
+Date      : Jan 16, 2013 at 1:55 AM
+────────────────────────────────────────────────────────────────────────
+
+Thankyou for your info on how to do the eyes
+
+Please leave your pics up as I want to build this, this year if my 1yr old will let me 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Great job 
+
+Sorry if this is a silly question but is the brass not painted on the legs because the real model wasn't or is it just so the legs move and will scratch the paint off. I only ask as I have seen a few PD with the brass not painted
+
+Thanks
+────────────────────────────────────────────────────────────────────────
+Post #330  (forum post #2694444)
+Author    : moffeaton
+Date      : Jan 16, 2013 at 5:59 AM
+────────────────────────────────────────────────────────────────────────
+
+Both, I think!
+────────────────────────────────────────────────────────────────────────
+Post #331  (forum post #2715268)
+Author    : moffeaton
+Date      : Jan 27, 2013 at 3:08 PM
+────────────────────────────────────────────────────────────────────────
+
+Took studio shots (will post tomorrow)... Quincy said this shot:
+
+[IMAGE: P1270071.jpg]
+
+Reminded him of this:
+
+[IMAGE: anchorman-sequel-jump.jpg]
+
+I can't stop laughing.
+────────────────────────────────────────────────────────────────────────
+Post #332  (forum post #2715299)
+Author    : EvanW
+Date      : Jan 27, 2013 at 3:27 PM
+────────────────────────────────────────────────────────────────────────
+
+Spectacular job there Jason!
+────────────────────────────────────────────────────────────────────────
+Post #333  (forum post #2715327)
+Author    : qcfoundry
+Date      : Jan 27, 2013 at 3:43 PM
+────────────────────────────────────────────────────────────────────────
+
+It was such cliche, but all I could recall was the Judd Nelson one at the end if Breakfast Club. Your example is so much better.
+────────────────────────────────────────────────────────────────────────
+Post #334  (forum post #2715724)
+Author    : vaderdarth
+Date      : Jan 27, 2013 at 8:23 PM
+────────────────────────────────────────────────────────────────────────
+
+Such a beauty!!!  Love the slam dunk pose!!!!
+────────────────────────────────────────────────────────────────────────
+Post #335  (forum post #2715776)
+Author    : imaginager
+Date      : Jan 27, 2013 at 8:57 PM
+────────────────────────────────────────────────────────────────────────
+
+Actually...the "right" arm looks like it might be making a rude gesture.  Who knew the PDs had so much attitude...
+────────────────────────────────────────────────────────────────────────
+Post #336  (forum post #2715781)
+Author    : moffeaton
+Date      : Jan 27, 2013 at 9:01 PM
+────────────────────────────────────────────────────────────────────────
+
+They're pretty sassy, for a droid. When I initially lugged it up from the studio, my wife asked "which one is the ass pinching arm" and I replied "all of them!".
+────────────────────────────────────────────────────────────────────────
+Post #337  (forum post #2716888)
+Author    : moffeaton
+Date      : Jan 28, 2013 at 12:25 PM
+────────────────────────────────────────────────────────────────────────
+
+Jason Eaton » Blog Archive » Studio Scale Probe Droid from The Empire Strikes Back
+
+Now with pics and video!
+
+Also:
+
+[IMAGE: url-2.jpg]
+
+[IMAGE: url.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #338  (forum post #2716921)
+Author    : ghostryder
+Date      : Jan 28, 2013 at 12:39 PM
+────────────────────────────────────────────────────────────────────────
+
+Awesome work, J.
+────────────────────────────────────────────────────────────────────────
+Post #339  (forum post #2717085)
+Author    : dirtydave
+Date      : Jan 28, 2013 at 2:06 PM
+────────────────────────────────────────────────────────────────────────
+
+Awesome build & that video Rocks.
+
+Dave
+────────────────────────────────────────────────────────────────────────
+Post #340  (forum post #2717284)
+Author    : dsp5500
+Date      : Jan 28, 2013 at 3:41 PM
+────────────────────────────────────────────────────────────────────────
+
+Loving the final paint on these PD's, Well done Jason.
+────────────────────────────────────────────────────────────────────────
+Post #341  (forum post #2717368)
+Author    : Scott Graham
+Date      : Jan 28, 2013 at 4:36 PM
+────────────────────────────────────────────────────────────────────────
+
+Great stuff!
+────────────────────────────────────────────────────────────────────────
+Post #342  (forum post #2717441)
+Author    : Talkierg
+Date      : Jan 28, 2013 at 5:32 PM
+────────────────────────────────────────────────────────────────────────
+
+Magnificent:thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #343  (forum post #2718074)
+Author    : vaderdarth
+Date      : Jan 29, 2013 at 5:11 AM
+────────────────────────────────────────────────────────────────────────
+
+sweet jump shot,  is there nothing this droid can't do?  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #344  (forum post #2718094)
+Author    : moffeaton
+Date      : Jan 29, 2013 at 5:37 AM
+────────────────────────────────────────────────────────────────────────
+
+It's not a diplomat, that's for dang sure :lol
+────────────────────────────────────────────────────────────────────────
+Post #345  (forum post #2875146)
+Author    : vaderdarth
+Date      : Apr 28, 2013 at 1:13 PM
+────────────────────────────────────────────────────────────────────────
+
+Bumping this thread for those still working on their PDs.     
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #346  (forum post #2905132)
+Author    : dino8836
+Date      : May 19, 2013 at 8:31 PM
+────────────────────────────────────────────────────────────────────────
+
+breathtaking
+────────────────────────────────────────────────────────────────────────
+Post #347  (forum post #3671333)
+Author    : Gans
+Date      : Jun 13, 2015 at 7:27 AM
+────────────────────────────────────────────────────────────────────────
+
+Is there a chance I can find these build pics somewhere?
+────────────────────────────────────────────────────────────────────────
+Post #348  (forum post #4286282)
+Author    : Gans
+Date      : Jul 24, 2017 at 6:58 PM
+────────────────────────────────────────────────────────────────────────
+
+Sorry for this bump, but does anyone have the pics to this build thread they could post back up?
+────────────────────────────────────────────────────────────────────────
+Post #349  (forum post #4286471)
+Author    : moffeaton
+Date      : Jul 25, 2017 at 5:16 AM
+────────────────────────────────────────────────────────────────────────
+
+I can assuredly say there have been better probe droid builds since the one I did in 2013... Mars and Rob's are killer!
+
+This I think was the one I did from this thread: http://www.mystery10.com/project/probe-droid/
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 349

@@ -1,0 +1,248 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : 12 Parsec Detective Agency : putting the dampers on falcon's and Y's
+URL    : https://www.therpf.com/forums/threads/12-parsec-detective-agency-putting-the-dampers-on-falcons-and-ys.269259/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #4117546)
+Author    : Vacformedhero
+Date      : Nov 7, 2016 at 9:05 AM
+Reactions : Like — struschie, vectorzero, kokkari
+────────────────────────────────────────────────────────────────────────
+
+I wanted to break out specific miniature part maps to really hone in on the actual kits used during filming ,
+
+the first in the series is the Damper assemblies from the front of the Y-Wing engine nacelles and the rear of the 5 foot Millennium Falcon.
+
+Firstly the original ship with this sub assembly was Red Jammer followed closely by Tie Killer , the following Y-Wings utilised recasting of these parts . 
+
+As the millennium falcon was firstly and elongated design that ultimately became the Tantive V, in the rush to complete the five foot falcon many subassemblies used on the Y-wing were reused all over the falcons details. 
+
+In this thread let's concentrate on the damper assembly
+
+the three identified items are 
+
+Modified hitch assembly from 1/9 ESCI /Revell / Dragon Kettenkrad 
+
+Two Landing gear legs from 1/24 Bandai Messerschmidt bf109e 
+
+Box assembly from the root of 1/35 Tamiya of Panzerkampfwagon cannon .
+
+My first item for confirmation is the Box piece, I have reviewed a lot of scans of tamiya panzer sets and opened a lot of kit boxes without seeing this same Box with a recess along the edges and two dimples on two sides ( ILM model makers could have altered it but let's presume it's as it came from the kit ) 
+
+does anyone know the exact kit this from ? 
+
+[IMAGE: 367693-2787f1fea8f81651e10f1dd405aa4e20.jpg]
+
+[IMAGE: 367694-6f7b56bd18818d68179c9387465bccc0.jpg]
+
+[IMAGE: 367695-8ab9fe4065ad18e8f6e1666327ea7e40.jpg]
+View attachment IMG_6824.JPGView attachment IMG_6839.JPGView attachment IMG_6840.JPG
+
+But it this is all a warm up for the triangular piece fitted to the Kettenkrad tow hitch 
+
+I want everyone to start thinking about possible places this can come from
+
+ I've been looking at tank hull corners , bridges and spars .
+
+[IMAGE: 367699-0785f0e4452db114b5fdaeb82b8263cc.jpg]
+
+One thing that that stands out on the triangular piece , is the two rivet details , one larger than the other , this type of mismatch of rivet sizes was typical on British and Italian early tanks, German and American armour had either a consistent rivet size throughout the majority of the armour or cast pieces with none.
+
+i have some kits coming and one I hope may have the magic piece, let's see.
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #4117779)
+Author    : satazius
+Date      : Nov 7, 2016 at 1:59 PM
+────────────────────────────────────────────────────────────────────────
+
+The "box" is from the 1/35 Tamiya Panzer Kampfwagen III Ausf. M/N.  That part often gets knocked off the sprue, so I think that is why you don't see it on kit scans.
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #4117793)
+Author    : Vacformedhero
+Date      : Nov 7, 2016 at 2:19 PM
+────────────────────────────────────────────────────────────────────────
+
+satazius said:
+
+			The "box" is from the 1/35 Tamiya Panzer Kampfwagen III Ausf. M/N.  That part often gets knocked off the sprue, so I think that is why you don't see it on kit scans.
+		
+
+Click to expand...
+
+Thanks , have you an image , as I've looked at that kit and the box looks smooth in it,
+
+a close up would be nice to confirm
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #4117796)
+Author    : DaveG
+Date      : Nov 7, 2016 at 2:22 PM
+Reactions : Like — rbeach84, Vacformedhero
+────────────────────────────────────────────────────────────────────────
+
+I have that part at home, I can check it tonight.
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #4117829)
+Author    : satazius
+Date      : Nov 7, 2016 at 2:58 PM
+Reactions : Like — rbeach84
+────────────────────────────────────────────────────────────────────────
+
+[IMAGE: 367767-e3d9a05aefd3a4f279366bfb31de0ba9.jpg]
+
+[IMAGE: 367768-035c8194078010c86d20b629d4d800ea.jpg]
+
+[IMAGE: 367769-6ddc7aa65a6a959226da93df4542b506.jpg]
+Here ya go.
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #4119144)
+Author    : Studio Kitbash
+Date      : Nov 9, 2016 at 11:37 AM
+Reactions : Like — rbeach84, struschie
+────────────────────────────────────────────────────────────────────────
+
+The Tamiya 1/35 Panzer Ausf. M/N is the only kit that provides this donor piece.  The instruction manual for the kit is here.  They are Barrel Mounts and are part numbers A54 and C8, meaning two different barrel mounts in each kit, with one difference between them:
+
+[IMAGE: 368044-a03dd64828d52b563559a090e19fc651.jpg]
+
+If you're actually building the tank, you get to choose a long or a short top layer for the barrel mount.  On the studio scale Y-Wing, this decorative aspect was displayed on the top, not underside of the subassembly.  If you're building a Y-Wing in the super old-school "purist" style, there's bad news and good news.  The bad news is that you need 8 of them!  The good news is that you only need 4 kits to get these eight barrel mounts.  I'm NOT an old-school purist (wish I could afford to be!), but I do have more than one kit.
+
+Save yourself the hassle if you thought (like I did) that the Tamiya 1/35 Panzerkampfwagen Ausf.N (which is still in production, manual here) can also provide you with this piece, because while it does provide a barrel mount in the same shape, it is not in the same size, but a significant number of millimeters longer, and is itself a subassembly (rather than one piece) that takes four parts to make, and then a whole lot of modifying to get to the shape you want.  As for whether or not the Dragon 1/35 Ausf. M/N model provides two barrel mounts that are identical to Tamiya's, I can't say because I don't have that kit, but if any of you have it, please do chime in or share a sprue scan with us.  I'd also be keen to know if the Dragon model provides you with equivalents for Tamiya Parts Numbers A4, A33, and A34, which are also confirmed donor pieces from that Tamiya kit.
+
+My current best-guess for the mystery piece on nacelle tie-down subassembly in question -- the part that goes on top of the Kettenkrad hook piece and connects to the end of the Bandai 1/24 Messerschmitt landing gear pieces -- is O-scale (or larger) train truss bridges, as those are the only structural elements I know of that have both a.) triple plating and b.) rivets on the upper edge.  So far in my research I have not yet found it on any of the train bridges I've found so far.  You will, of course, be the first to know if I do find it.
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #4119343)
+Author    : Vacformedhero
+Date      : Nov 9, 2016 at 5:40 PM
+────────────────────────────────────────────────────────────────────────
+
+Studio Kitbash said:
+
+			The Tamiya 1/35 Panzer Ausf. M/N is the only kit that provides this donor piece.  The instruction manual for the kit is here.  They are Barrel Mounts and are part numbers A54 and C8, meaning two different barrel mounts in each kit, with one difference between them:
+
+View attachment 681562
+
+If you're actually building the tank, you get to choose a long or a short top layer for the barrel mount.  On the studio scale Y-Wing, this decorative aspect was displayed on the top, not underside of the subassembly.  If you're building a Y-Wing in the super old-school "purist" style, there's bad news and good news.  The bad news is that you need 8 of them!  The good news is that you only need 4 kits to get these eight barrel mounts.  I'm NOT an old-school purist (wish I could afford to be!), but I do have more than one kit.
+
+Save yourself the hassle if you thought (like I did) that the Tamiya 1/35 Panzerkampfwagen Ausf.N (which is still in production, manual here) can also provide you with this piece, because while it does provide a barrel mount in the same shape, it is not in the same size, but a significant number of millimeters longer, and is itself a subassembly (rather than one piece) that takes four parts to make, and then a whole lot of modifying to get to the shape you want.  As for whether or not the Dragon 1/35 Ausf. M/N model provides two barrel mounts that are identical to Tamiya's, I can't say because I don't have that kit, but if any of you have it, please do chime in or share a sprue scan with us.  I'd also be keen to know if the Dragon model provides you with equivalents for Tamiya Parts Numbers A4, A33, and A34, which are also confirmed donor pieces from that Tamiya kit.
+
+My current best-guess for the mystery piece on nacelle tie-down subassembly in question -- the part that goes on top of the Kettenkrad hook piece and connects to the end of the Bandai 1/24 Messerschmitt landing gear pieces -- is O-scale (or larger) train truss bridges, as those are the only structural elements I know of that have both a.) triple plating and b.) rivets on the upper edge.  So far in my research I have not yet found it on any of the train bridges I've found so far.  You will, of course, be the first to know if I do find it.
+		
+
+Click to expand...
+
+brilliant update and exactly what we're looking for , thanks for chiming in , plenty of discussion 
+
+those longer detailed pieces look correct except for the other markings , do we put them down to casting errors , if so Red jammer should be clean of them .
+
+If it's not then maybe we could have the correct part but altered, did they drill a hole and add a spud or could it be the dragon kit supplies this exact part ?
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #4119349)
+Author    : Vacformedhero
+Date      : Nov 9, 2016 at 5:49 PM
+────────────────────────────────────────────────────────────────────────
+
+Quick look for th dragon kit, scans show clean parts but hard to say with scans, here is a good shot , again looks clean 
+
+[IMAGE: 368088-fbe7755c0ad76b9f735ee6c5ce3616c1.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #4119376)
+Author    : DaveG
+Date      : Nov 9, 2016 at 6:47 PM
+Reactions : Like — faustus100
+────────────────────────────────────────────────────────────────────────
+
+SK - I always appreciate your in depth (could we say "scholarly"? 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ ) posts!  I would disagree with you though on one (minor) point... It's obvious that based on the large number of these assemblies that were used on both the Ys and the five foot falcon that they were cast parts. So a true "purist" would make one from original parts then mold and cast multiples.
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #4119484)
+Author    : Vacformedhero
+Date      : Nov 10, 2016 at 12:58 AM
+────────────────────────────────────────────────────────────────────────
+
+Yep I agree as called out in original post, but the point I have poorly made is that have we really found the actual donor ? 
+
+Are the dimple and "nipple" seen on them casting residue , ILM modelling flourishes or an actual kit we have missed ? 
+
+Becausing of recasting of the units we have to exclude the falcon as it was built much later , however we must include any repeated detail as it can prove a point I suppose 
+
+In a lot of shots of y-wings we can not only see the "spuds " as I will call them but also on the rear of the mantlet there is a detail cut off ( I feel this is a casting sprue not cleaned off)
+
+good comparison shot is uwe fishers shot showing the "spuds" in profile at the top of the image 
+
+View attachment 681666
+
+Now let's look at the starboard nacelle damper assembly on red jammer, so one of the earliest y-wing assemblies, unpainted 
+
+which is a lot cleaner and matches pieces you posted, yet don't match the recasts 
+
+[IMAGE: 368133-a6540d291b0e51e2cf2aae4d28b211c4.jpg]
+
+[IMAGE: 368135-f823864fd77e263dd8c2b6741705f05a.jpg]
+
+ 
+
+Attachments
+
+[IMAGE: 368134-8b0baef104c4f554630369adf5d5338e.jpg]
+
+IMG_4783.JPG
+
+					7.6 KB
+					
+					· Views: 665
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #4119487)
+Author    : Vacformedhero
+Date      : Nov 10, 2016 at 1:07 AM
+────────────────────────────────────────────────────────────────────────
+
+Just noticed in the last image which is very clear , that the triangular piece at the front does not look as angular but the outer pieces look rounded in profile , may give us another clue 
+
+[IMAGE: 368136-f823864fd77e263dd8c2b6741705f05a.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #4119674)
+Author    : Studio Kitbash
+Date      : Nov 10, 2016 at 8:58 AM
+────────────────────────────────────────────────────────────────────────
+
+DaveG said:
+
+			SK - I always appreciate your in depth (could we say "scholarly"? 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ ) posts!  I would disagree with you though on one (minor) point... It's obvious that based on the large number of these assemblies that were used on both the Ys and the five foot falcon that they were cast parts. So a true "purist" would make one from original parts then mold and cast multiples.
+		
+
+Click to expand...
+
+I stand corrected.  While I think you must be right, I'm also conscious of the fact that in 1975, an 8 million budget could buy a LOT of $3.99 Sealabs, and so buying 4 of them for 1 Y-Wing, or 4 Ausf. M/Ns for one Y-Wing, wouldn't seem entirely out of the realm of possibility.  But I also think the late Julien was also fairly confident in his knowledge of what was original, what was cast, and how often they simply would cast a part and re-use it all over, and surely this particular subassembly was one of them.  Was it so for the Red Jammer?  That would be a question for Steve Neisen or Jamie Farthing, if they care to chime in.  Or perhaps there are reference photos that prove/disprove it, I'm not sure, but would certainly be grateful to know.
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #4547107)
+Author    : Studio Kitbash
+Date      : Nov 21, 2018 at 12:03 PM
+Reactions : Like — Treadwell, Hammer3246
+────────────────────────────────────────────────────────────────────────
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_2756-jpg.942556/]
+
+ 
+
+Gentlemen:  A possible discovery -- there may be no "missing piece" on this nacelle tie-down nurnie subassembly.  It may simply be in how you construct it, and in what parts/portions you shave off vs leave on the Bandai 1/24 struts.  More anon!
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #4547164)
+Author    : Hammer3246
+Date      : Nov 21, 2018 at 2:21 PM
+────────────────────────────────────────────────────────────────────────
+
+Interesting.
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #4548285)
+Author    : Studio Kitbash
+Date      : Nov 25, 2018 at 6:51 AM
+────────────────────────────────────────────────────────────────────────
+
+Mystery solved?  Full post claim here, with pics and "show your work" step-by-step method.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 15

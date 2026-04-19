@@ -1,0 +1,90 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Need Some help on lighting  my x wing cockpit and r2
+URL    : https://www.therpf.com/forums/threads/need-some-help-on-lighting-my-x-wing-cockpit-and-r2.54225/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #739408)
+Author    : propcollector
+Date      : Dec 14, 2008 at 9:41 AM
+────────────────────────────────────────────────────────────────────────
+
+Ok guys here it is.....I have a all ready put together and painted salzo x-wing and I got the new improved clear casted cockpit and r2 clear cast pieces
+
+How should I go about lighting the cockpit and r2 unit without tearing up the model?
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #739694)
+Author    : propcollector
+Date      : Dec 14, 2008 at 7:12 PM
+────────────────────────────────────────────────────────────────────────
+
+the entire cockptpiece is clear and the top of the r2...here is the kit
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #739768)
+Author    : Bigturc
+Date      : Dec 14, 2008 at 9:12 PM
+────────────────────────────────────────────────────────────────────────
+
+Well, I wish I could help better .. but are you saying you already have a SS X-Wing built but just want to take out the old cockpit and R2 and replace it with this one?
+
+If so, I see some major problems (but again, I'm pretty new to all this)
+
+1. If you have a V3, it means your canopy is fixed, so that means you can't fit anything through there (can't barely fit the pilot and I have taken off the extra lips). Anyway, V3 or not, it would already be glued and therefore, pretty hard to remove without breaking it .. So I'd think you'd have to cut off the canopy and get a new one. Then paint match and reinstall.
+
+2. Due to the fact that the cockpit and furelage is tapered, I'm not sure how easy it is to insert the cockpit inside the closed fuselage .. but this is likely not an issue as I would think it's still possible to do.
+
+3. To have access to your electronic or at least your battery, you're gonna have to drill a hole somewhere.  In my case, I cut out a gap under the R2 strip to access my circuit and battery .. Were you thinking of going through the stand rod for power to your LEDs? 
+
+Hope this helps .. I'm sure I forgot a ton or details 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #739770)
+Author    : propcollector
+Date      : Dec 14, 2008 at 9:14 PM
+────────────────────────────────────────────────────────────────────────
+
+mine has the removable canopy...also mine is completly painted, I want to light the r2 and the cockpit panel.since the covkpit is clear, should I use a white led and leave the are I want to light up, or could I also use clear color paint?
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #739776)
+Author    : Bigturc
+Date      : Dec 14, 2008 at 9:22 PM
+────────────────────────────────────────────────────────────────────────
+
+Well, until someone else chimes in .. check out my build thread here:
+
+http://www.therpf.com/showthread.php?t=50140
+
+This will show you how I did my lighting in my V3. You pretty much have to:
+
+1. Drill through cockpit all the holes you want with a 1/32" drill bit.
+
+2. Paint cockpit
+
+3. Hollow R2 and drill holes you want -- or something I thought of doing was hollow R2 and fit a LED directly within its body.  Then, do bigger holes (instead of FO) in its body and fit acrylic cylinder in the holes (transparent resin will do that .. lucky you), so that light would have shone through and given a better representation .. still .. I'm happy with my lighting on it.
+
+4. Paint R2 and fit all FOs.
+
+If you used the Fo solution, buy LEDs and resistors (5mm LEDS, I used 390u resistors).  Use heat shrinking tubes to fit all FOs to the LEDs .. then hook that up to a battery and optionnaly a switch.
+
+Does this help at all?
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #740089)
+Author    : propcollector
+Date      : Dec 15, 2008 at 10:16 AM
+────────────────────────────────────────────────────────────────────────
+
+what size fo should I use?
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #740196)
+Author    : Bigturc
+Date      : Dec 15, 2008 at 12:13 PM
+────────────────────────────────────────────────────────────────────────
+
+Well, I used the following in my X-Wing build thread:
+
+1/32" bit
+
+0.030" FO which is 0.75mm.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 7

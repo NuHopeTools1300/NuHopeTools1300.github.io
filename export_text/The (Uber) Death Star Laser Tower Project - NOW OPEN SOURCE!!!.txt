@@ -1,0 +1,1882 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : The (Uber) Death Star Laser Tower Project - NOW OPEN SOURCE!!!
+URL    : https://www.therpf.com/forums/threads/the-uber-death-star-laser-tower-project-now-open-source.240984/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #3671044)
+Author    : DaveG
+Date      : Jun 12, 2015 at 7:57 PM
+Reactions : Like — torren_of_amber, -... . .- --..
+────────────────────────────────────────────────────────────────────────
+
+Here is my latest project, a studio scale model of a Death Star Laser Tower from ANH. I have too many unfinished projects underway right now and had promised myself not to start another until one was finished but... I just got jonesing to build a SS Laser Tower and, well, I caved!
+
+But Since I want to get this one done ASAP, I'm not going to worry too much about making and exact replica of the shooting model. I won't be chasing down all the exact correct donor kit parts, just a few. Most of the details will be based on the original, but using stuff I have on hand, scratch building and 3D printing. I figure, it's a BIG Death Star, there's bound to be some variations between the many Laser Towers.
+
+I'm also extending my tower to make it about 3 feet tall. I have a specific display location, on top of a 6 foot cabinet next to my cubicle at work. So topping out at 9 plus feet off the ground it should be pretty imposing! And visible across the entire facility. Also being so high up in the air nobody can scrutinize if the exact right detail parts are being used. The extended base will also allow me the opportunity to add more details of my own design.
+
+The body of the tower will be CNC milled from a special type of MDF. It's called "Super Premium" MDF from Plum Creek and has a consistent density all the way through. So the milled panels lines won't suck up paint like a sponge, as normal MDF would do. I've used this material a lot and it paints beautifully, is structurally very strong and flat, and pretty inexpensive, under $16 for a 4x8 sheet.
+
+There is a lot of great reference pix of this model from the traveling Star Wars Exhibition. Using these I've started by building a 3D model of the Tower. This model can be used to create cutting files for the CNC router. laser cutting files for some of the flatter details and 3D printing files for some of the more elaborate parts. Here are some renderings from the work in progress CG model. I still have a lot of detail parts to model, but the body of the tower is complete with all the score lines so I'll be able to start with the CNC work while I continue to model the details in the computer.
+
+[IMAGE: WIP%20VIEW%203%20150612_zps4bw1wcjv.jpg]
+
+[IMAGE: WIP%20VIEW%201%20150612_zps3tzs74fs.jpg]
+
+[IMAGE: WIP%20VIEW%202%20150612_zpskrv0g8tg.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #3671060)
+Author    : DaveG
+Date      : Jun 12, 2015 at 8:27 PM
+Reactions : Like — Scott Graham, Lee S
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Cutting out the 1/4" MDF panels for the body of the Laster Tower. The panels lines are milled into the surface with a 1/16 diameter bit.
+
+[IMAGE: IMG_0386_zpsx5dlnk7i.jpg]
+
+[IMAGE: IMG_0389_zpsb4skcswt.jpg]
+
+[IMAGE: IMG_0399_zpsuwvkt5zk.jpg]
+
+All the MDF panels ready for assembly.
+
+[IMAGE: IMG_0401_zpsei2hxcj2.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #3671067)
+Author    : DaveG
+Date      : Jun 12, 2015 at 8:33 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+The MDF parts for the turret assembled.
+
+[IMAGE: IMG_0405_zpsrnt5atiu.jpg]
+
+I'm making the base of the turret removable to access the interior rather than the back panel as was done of the shooting miniature. To attach the MDF base plate custom corner brackets which had the correct 6 degree angle to fit the sides were 3D printed and bonded to the inside of the shell.. The brackets have a #10 hex nut glued into them for securing the panel with countersunk flat head machine screws.
+
+[IMAGE: IMG_0413_zpsouyixj41.jpg]
+
+[IMAGE: IMG_0414_zps3ufuzeaf.jpg]
+
+[IMAGE: IMG_0418_zpsizox9tvs.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #3671070)
+Author    : DaveG
+Date      : Jun 12, 2015 at 8:36 PM
+Reactions : Like — knnyjay, torren_of_amber, Scott Graham
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+The assembled tower base and turret. Man this sucker is big!
+
+[IMAGE: IMG_0431_zpsracicw0v.jpg]
+
+[IMAGE: IMG_0432_zpskh7rngtj.jpg]
+
+The premium MDF mills beautifully. Crisp and clean.
+
+[IMAGE: IMG_0435_zpsrqlalc9x.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #3671193)
+Author    : Lee S
+Date      : Jun 13, 2015 at 1:07 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Impressive!
+
+Radio controlled with NERF darts I hope 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #3671301)
+Author    : joberg
+Date      : Jun 13, 2015 at 6:24 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Dave you're killing me:eek The look on your co-worker's face will be the win!  Nerf darts would be great, but at that size it could also serve as your personal locker (you know, coat, shoes, lunch box...
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+)  Love that MDF...alas in Canada, the sheet is $35.00:behave
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #3671311)
+Author    : DaveG
+Date      : Jun 13, 2015 at 6:45 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+I was seriously thinking about adding motion sensor tracking but for now I am determined to get the tower finished and not wind up yet another work in progress gathering dust. I can always add the nerf system later! (or paint balls).
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #3672085)
+Author    : Mr Echs
+Date      : Jun 14, 2015 at 8:55 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+I'm quite envious of your setup.   This is coming together fantastically!  I've subscribed to see how this finishes out... 
+
+Sent from my LG-D850 using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #3672089)
+Author    : Mr Echs
+Date      : Jun 14, 2015 at 9:00 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Mr Echs said:
+
+			I'm quite envious of your setup.   This is coming together fantastically!  I've subscribed to see how this finishes out... 
+
+Sent from my LG-D850 using Tapatalk
+		
+
+Click to expand...
+
+Btw,  which program do you use for your 3D modeling? 
+
+Sent from my LG-D850 using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #3672095)
+Author    : DaveG
+Date      : Jun 14, 2015 at 9:03 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+I use Rhino for 3D modeling.
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #3672096)
+Author    : Mr Echs
+Date      : Jun 14, 2015 at 9:03 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Nice, thanks for the quick reply.   Cheers! 
+
+Sent from my LG-D850 using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #3672454)
+Author    : DARKVIEW
+Date      : Jun 14, 2015 at 5:07 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Great work... never understood how the towers shot the x wings in the trench what with being so high & their guns couldn't shoot downwards!!? May need to rewatch....
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #3672462)
+Author    : DaveG
+Date      : Jun 14, 2015 at 5:11 PM
+Reactions : Like — Mr Echs, DARKVIEW
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+DARKVIEW said:
+
+			Great work... never understood how the towers shot the x wings in the trench what with being so high & their guns couldn't shoot downwards!!? May need to rewatch....
+		
+
+Click to expand...
+
+Okay, so the guys on the Death Star analyze the Rebel's attack pattern and conclude there is a risk. They had plenty of time. Why didn't they just drag a manhole cover out and drop it over the hole?:rolleyes
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #3672575)
+Author    : TazMan2000
+Date      : Jun 14, 2015 at 8:17 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Or even better...stick a Womp Rat in the Hole.
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #3672579)
+Author    : Mr Echs
+Date      : Jun 14, 2015 at 8:19 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+TazMan2000 said:
+
+			Or even better. Stick a Womp Rat in the Hole.
+
+TazMan2000
+		
+
+Click to expand...
+
+Naw,  'cause Luke used to shoot Womp Rats back home with his T-16, and they're not much bigger than 2 meters (what just happened, I blacked out for a second...) 
+
+Sent from my LG-D850 using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #3673254)
+Author    : DaveG
+Date      : Jun 15, 2015 at 1:12 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+So the death star comes out of light speed on the wrong side of the planet. Why didn't they just blow up the planet to get it out of the way?
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #3673646)
+Author    : DaveG
+Date      : Jun 15, 2015 at 9:05 PM
+Reactions : Like — knnyjay, torren_of_amber, SofaKing01
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Here's the jig fixture created to mill the slots in the barrel sleeves using the CNC router. I 3D printed a set of cradles and octagonal end buttons that would hold the EMA tubing. Rectangular pockets were milled in a MDF baseplate to register the cradles on the table of the CNC router.
+
+[IMAGE: IMG_0442_zpsfeu4ggco.jpg]
+
+The octagonal end buttons fit in either end of the tube and were held in place with a length of threaded rod running through the center.
+
+[IMAGE: IMG_0450_zpspukb1xpm.jpg]
+
+The tube assembly was then held in the cradles with fixture clamps.
+
+[IMAGE: IMG_0437_zps8sf7z1g5.jpg]
+
+The CNC was used to mill one slot at a time, the tube assembly being rotated 45 degrees between each pass. The octagonal buttons made exact rotation easy.
+
+[IMAGE: IMG_0457_zpsbpv1tcab.jpg]
+
+[IMAGE: IMG_0459_zpsjhrt2es8.jpg]
+
+A little bit of clean up with a square needle file to sharpen up the corners and the parts were done!
+
+[IMAGE: IMG_0462_zpsosfhywsw.jpg]
+
+[IMAGE: IMG_0463_zpsovprovtx.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #3674251)
+Author    : wasili
+Date      : Jun 16, 2015 at 1:06 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Lookin' good. :thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #3674256)
+Author    : bwayne64
+Date      : Jun 16, 2015 at 1:15 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Wow, just Wow !
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #3674449)
+Author    : joberg
+Date      : Jun 16, 2015 at 5:20 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Wow indeed:cool
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #3674510)
+Author    : DaveG
+Date      : Jun 16, 2015 at 6:50 PM
+Reactions : Like — knnyjay, SofaKing01, Mr Echs
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Progress.
+
+[IMAGE: IMG_0464_zpsnsqqgsos.jpg]
+
+[IMAGE: IMG_0465_zps6qkfxbgb.jpg]
+
+[IMAGE: IMG_0466_zpshptt6one.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #3674513)
+Author    : Gordon Gekko
+Date      : Jun 16, 2015 at 6:55 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+You're jigs are awesome!
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #3674547)
+Author    : NitroTech
+Date      : Jun 16, 2015 at 8:21 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Love your work! Simply amazing! Curious what you have for a CNC. What is your setup?
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #3674578)
+Author    : DaveG
+Date      : Jun 16, 2015 at 9:09 PM
+Reactions : Like — acesh007, knnyjay, torren_of_amber
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Thanks! My CNC router is a DIY homebuilt. It has a cutting area of about 24 x 48 inches and a cutting height of 6 inches. 
+
+[IMAGE: CRW_3391.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #3674880)
+Author    : TazMan2000
+Date      : Jun 17, 2015 at 8:00 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Very nice setup.
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #3674898)
+Author    : IEDBOUNTYHUNTER
+Date      : Jun 17, 2015 at 8:14 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+DaveG said:
+
+			Thanks! My CNC router is a DIY homebuilt. It has a cutting area of about 24 x 48 inches and a cutting height of 6 inches. 
+
+[url]http://i157.photobucket.com/albums/t63/BungalowFilms/CNC/CRW_3391.jpg[/URL]
+		
+
+Click to expand...
+
+  Love your desk.  looks like my set up with the laser cutter.  Safety glasses. and the mandatory Calculator.  and various Stuff.
+
+Al
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #3674937)
+Author    : horus
+Date      : Jun 17, 2015 at 8:58 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Fantastic, only a minute to decide to subscribe !
+────────────────────────────────────────────────────────────────────────
+Post #28  (forum post #3675489)
+Author    : DaveG
+Date      : Jun 17, 2015 at 8:46 PM
+Reactions : Like — knnyjay, SofaKing01, jarvis
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Starting on the additional layers of surface plating. The panels were laser cut from single and double sheets of a resin impregnated paper board called Polybak. It's known in some places as "Laser Board" but it's just a cheap sheet material used in the cabinet trade.  It laser cuts beautifully (much sharper than styrene) and the resin allows it to take paint beautifully. Before cutting I applied a high tack adhesive transfer tape to the backside so I can just peel and stick. I'm also cutting some of the flat nernie parts out of the same material.
+
+[IMAGE: IMG_0469_zpsf4vl1nld.jpg]
+
+[IMAGE: IMG_0471_zpsyyvvgfwb.jpg]
+
+[IMAGE: IMG_0474_zpsuo1d8w95.jpg]
+
+[IMAGE: IMG_0477_zpsc2xqwvgo.jpg]
+
+[IMAGE: IMG_0480_zpsqqhqdnlu.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #29  (forum post #3678897)
+Author    : SofaKing01
+Date      : Jun 22, 2015 at 7:09 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Great build!  The laser cutter changes everything!  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+I'm very interested in the Polybak.  Do you have a vendor / distributor you prefer?
+────────────────────────────────────────────────────────────────────────
+Post #30  (forum post #3678941)
+Author    : DaveG
+Date      : Jun 22, 2015 at 8:08 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+SofaKing01 said:
+
+			Great build!  The laser cutter changes everything!  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+I'm very interested in the Polybak.  Do you have a vendor / distributor you prefer?
+		
+
+Click to expand...
+
+Here's the manufacturer's website:
+
+http://www.richwoodind.com/index.php/polybak
+
+They have list of distributors. It is a commercial product and you are unlikely to find an online source unless you want to buy a pallet of the stuff! I found a local lumber and sheet goods supplier in Anaheim, CA that would sell single sheets (4'x8').
+
+Northeastern Scale Models was selling it but you had to be a "manufacturer" (whatever that means) and buy a pack of 25 12"x24" sheets that they marked up at an 800% profit. No thanks!
+────────────────────────────────────────────────────────────────────────
+Post #31  (forum post #3684269)
+Author    : DaveG
+Date      : Jun 28, 2015 at 10:26 AM
+Reactions : Like — knnyjay, torren_of_amber
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Starting to work on the detail parts. The barrel ring was turned and CNC'd from aluminum, the vent was 3D printed.
+
+[IMAGE: IMG_0489_zps9adfqvde.jpg]
+
+[IMAGE: IMG_0491_zps5fvuwbjy.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #32  (forum post #3684418)
+Author    : Mr Echs
+Date      : Jun 28, 2015 at 1:37 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+This is all next level stuff man... Super hero like even.   
+
+Sent from my LG-D850 using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #33  (forum post #3684604)
+Author    : joberg
+Date      : Jun 28, 2015 at 5:49 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Pro-build once again Dave...it's going to rock...er, fire
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #34  (forum post #3684650)
+Author    : DaveG
+Date      : Jun 28, 2015 at 6:46 PM
+Reactions : Like — knnyjay, torren_of_amber, Mr Echs
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Thanks guys!
+
+I laser cut some plexiglas to build up the box parts of the barrels. The white bits are pieces of Evergreen strip styrene glued to the inside corners to reinforce the joints and help keep everything square. (Laser cut edges tend to be ever so slightly not square and glued butt joints can go out of square unless something is used to help hold the joints at 90 degrees.)
+
+[IMAGE: IMG_0482_zpspdncj887.jpg]
+
+[IMAGE: IMG_0496_zps2hzubxje.jpg]
+
+[IMAGE: IMG_0498_zpsmxz2f6ab.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #35  (forum post #3684903)
+Author    : joberg
+Date      : Jun 29, 2015 at 5:02 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Clean and sharp; in one word: perfect!
+────────────────────────────────────────────────────────────────────────
+Post #36  (forum post #3697928)
+Author    : DaveG
+Date      : Jul 13, 2015 at 8:27 AM
+Reactions : Like — zeus1138, J.F. Sebastian, Lee S
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Okay, here's a blast from the past! Back in 1984 I was a recent college graduate with a burning desire to build models for the movies. Shortly before moving to Los Angeles to pursue that dream I made a small 8 inch tall model of the Death Star Laser Tower, based on Joe Johnston's sketch. When I left for L.A. I made a display case for it and gave it to a friend who had helped me out a lot. More than 30 years later he still has the model and it's in almost prefect condition! And it's signed and dated on the bottom.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0501_zpsfyeeax8w-jpg.1024273/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0515_zpswp2xvgzq-jpg.1024274/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0519_zpsnwdgy1op-jpg.1024275/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0514_zpsdtlz9hpq-jpg.1024276/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0522_zpsg2gaxldp-jpg.1024277/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0516_zpsdrhlhh2m-jpg.1024278/]
+────────────────────────────────────────────────────────────────────────
+Post #37  (forum post #3698357)
+Author    : joberg
+Date      : Jul 13, 2015 at 4:59 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+That's a good model there Dave; love the two signatures at the base 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #38  (forum post #3723189)
+Author    : DaveG
+Date      : Aug 9, 2015 at 11:59 AM
+Reactions : Like — zeus1138, knnyjay
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Molding and casting some of the nernies. The patterns for the rectangular parts were made using a combination of laser engraving and CNC routing.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0543_zpshhwzrkdk-jpg.1024279/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0548_zpsupkqwmmx-jpg.1024280/]
+────────────────────────────────────────────────────────────────────────
+Post #39  (forum post #3723452)
+Author    : joberg
+Date      : Aug 9, 2015 at 5:51 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Glad to see that the project is on going
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #40  (forum post #3723461)
+Author    : DaveG
+Date      : Aug 9, 2015 at 6:03 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+joberg said:
+
+			Glad to see that the project is on going
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+Yup, had a little paying gig that was keeping me busy nights and weekends for the last month, but now I'm back on the Tower. Determined to get it done!
+────────────────────────────────────────────────────────────────────────
+Post #41  (forum post #3725411)
+Author    : joberg
+Date      : Aug 11, 2015 at 5:16 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Always nice to have a paying gig Dave
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #42  (forum post #3736418)
+Author    : DaveG
+Date      : Aug 23, 2015 at 3:28 PM
+Reactions : Like — Muzza, knnyjay, 13doctorwho
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+I decided to make the ladder rungs in a bent bar style like you might find on a warship. However they would all have to be of an exact width to fit in the CNC drilled holes. To achieve that I made a wire bending jig.
+
+The working parts of the jig were milled out of plexiglas using the CNC router.
+
+[IMAGE: IMG_0552_zpsqxi3fv5d.jpg]
+
+The plex parts were held in alignment on a steel jig plate using dowel pins. The larger piece can slide on the pins, the smaller piece is held firm. A Bar clamp was used to squeeze the two together with a piece of 1/16 brass wire in between.
+
+[IMAGE: IMG_0557_zpsdlj92p2w.jpg]
+
+The brass wire was annealed with a torch to make it easier to blend.
+
+[IMAGE: IMG_0550_zps96zts8vx.jpg]
+
+As the clamp is tightened the brass is bent tightly around the fixed plex plate by the plex die with the cut out.
+
+[IMAGE: IMG_0558_zpsqot2pwem.jpg]
+
+[IMAGE: IMG_0559_zps1z4fmsqo.jpg]
+
+[IMAGE: IMG_0560_zpsdexngl0v.jpg]
+
+The finished rungs, and installed.
+
+[IMAGE: IMG_0563_zps7efr4jm3.jpg]
+
+[IMAGE: IMG_0564_zpsqk1brl7j.jpg]
+
+- - - Updated - - -
+
+Small things... the business end of the cast barrels. The little rings were milled out of plexiglas on the CNC router.
+
+[IMAGE: IMG_0576_zpsgd4sjbgo.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #43  (forum post #3736524)
+Author    : Mike J.
+Date      : Aug 23, 2015 at 5:52 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+She's a beaut, and she just keeps getting better!
+────────────────────────────────────────────────────────────────────────
+Post #44  (forum post #3737120)
+Author    : rbeach84
+Date      : Aug 24, 2015 at 9:42 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Great technique!  Thanks for sharing your solution on those rungs.
+
+R/ Robert
+────────────────────────────────────────────────────────────────────────
+Post #45  (forum post #3737769)
+Author    : usaeatt2
+Date      : Aug 24, 2015 at 8:51 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+The answer may be obvious to veteran RPFers, but after seeing this caliber of work, I find myself wondering if you achieved your post-graduate goal of building models for movies?
+
+If not, the studios missed out on some incredible talent.  Thanks for posting your beautiful work and solutions to problems.  Truly inspiring!!!
+────────────────────────────────────────────────────────────────────────
+Post #46  (forum post #3738245)
+Author    : DaveG
+Date      : Aug 25, 2015 at 11:35 AM
+Reactions : Like — Contec, usaeatt2
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+usaeatt2 said:
+
+			The answer may be obvious to veteran RPFers, but after seeing this caliber of work, I find myself wondering if you achieved your post-graduate goal of building models for movies?
+
+If not, the studios missed out on some incredible talent.  Thanks for posting your beautiful work and solutions to problems.  Truly inspiring!!!
+		
+
+Click to expand...
+
+Yes! I've been a professional model and prop builder in the movie industry for more than 30 years now. Actually these days I'm designing and building animatronic figures at Disney Imagineering.
+────────────────────────────────────────────────────────────────────────
+Post #47  (forum post #3738999)
+Author    : bartrman
+Date      : Aug 26, 2015 at 6:37 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Awesome work. Great attention to detail. It's amazing what you can do when you have next gen. tools.
+────────────────────────────────────────────────────────────────────────
+Post #48  (forum post #3739539)
+Author    : joberg
+Date      : Aug 26, 2015 at 5:59 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Great update Dave!  Thanks for the tuto on those rungs, very simple trick and the result rocks!
+────────────────────────────────────────────────────────────────────────
+Post #49  (forum post #3739650)
+Author    : qcfoundry
+Date      : Aug 26, 2015 at 9:01 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Not my favorite SW model but interesting.  However, I'm absolutely impressed in your crafting skills.  Sometimes figuring and making the perfect jig is almost as fun (and as much work) as making the actual model element. Such a pleasure to see the right tools used the right way and your SBS presentation.  Really appreciate you sharing all of this "new-age" use of CNC and printing of parts.
+────────────────────────────────────────────────────────────────────────
+Post #50  (forum post #3739658)
+Author    : ProfKSergeev
+Date      : Aug 26, 2015 at 9:18 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Breathtaking craftsmanship!
+────────────────────────────────────────────────────────────────────────
+Post #51  (forum post #3749244)
+Author    : DaveG
+Date      : Sep 5, 2015 at 6:56 PM
+Reactions : Like — knnyjay, Randy13, Vacformedhero
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Been nibbling away at the nernies. Here are some detail parts that I modeled in the computer, 3D printed, molded and cast.
+
+[IMAGE: IMG_0580_zpscwnyduxf.jpg]
+
+[IMAGE: IMG_0584_zpscv9fnjrl.jpg]
+
+Getting all the detail bits installed. Most of the white details were built up out of styrene strip and rod. When I started this project I was planning on tracking down more of the original kits parts, or at least castings of them but I'm actually having more fun scratch building them!
+
+[IMAGE: IMG_0590_zpsvjg2rtqo.jpg]
+
+[IMAGE: IMG_0591_zps6savqly6.jpg]
+
+[IMAGE: IMG_0598_zpsqtko8prd.jpg]
+
+[IMAGE: IMG_0602_zpsoebepdqm.jpg]
+
+[IMAGE: IMG_0605_zps67byxnd6.jpg]
+
+[IMAGE: IMG_0606_zpshh0koy03.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #52  (forum post #3749251)
+Author    : moffeaton
+Date      : Sep 5, 2015 at 7:03 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+This is crazy amazing!
+────────────────────────────────────────────────────────────────────────
+Post #53  (forum post #3750106)
+Author    : joberg
+Date      : Sep 6, 2015 at 6:25 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Just WOW Dave...another home run for sure.  All of those pieces are so crisp, it's not funny
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+cool All I can do now, is to imagine it firing its dual canon!
+────────────────────────────────────────────────────────────────────────
+Post #54  (forum post #3750183)
+Author    : nick daring
+Date      : Sep 6, 2015 at 8:10 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Gorgeous work! That super premium MDF sounds great to work with! I'll have to hunt some down.
+────────────────────────────────────────────────────────────────────────
+Post #55  (forum post #3751093)
+Author    : DaveG
+Date      : Sep 7, 2015 at 8:00 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Thanks guys! Yes the super premium is great stuff, and quite a bargain, at least compared with most plastics and rigid foams. I've used it on a lot of projects.
+────────────────────────────────────────────────────────────────────────
+Post #56  (forum post #3752548)
+Author    : DaveG
+Date      : Sep 9, 2015 at 9:09 AM
+Reactions : Like — knnyjay, Randy13, Falk
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Here's some pics of some other projects I've made entirely out of the Premium MDF:
+
+[IMAGE: CRW_3828.jpg]
+
+[IMAGE: CRW_3420.jpg]
+
+[IMAGE: CRW_3788_zpsd5ddf0c5.jpg]
+
+[IMAGE: CRW_3792_zpsfb97e062.jpg]
+
+[IMAGE: CRW_3761.jpg]
+
+[IMAGE: CRW_4361.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #57  (forum post #3758771)
+Author    : DaveG
+Date      : Sep 15, 2015 at 9:49 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Can anyone I.D. this part for me? It's used 4 times around each barrel. Thanks!
+
+[IMAGE: Bareel%20Part%20to%20I.D._zpsgjtuh811.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #58  (forum post #3758843)
+Author    : MonsieurTox
+Date      : Sep 16, 2015 at 12:41 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+1/48 Bandai Matilda + Heller La Seine
+────────────────────────────────────────────────────────────────────────
+Post #59  (forum post #3760099)
+Author    : DaveG
+Date      : Sep 17, 2015 at 10:26 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Thanks!
+
+This is another part I need to ID. There are a few of them on the guns and turret. I know the same part was used on the TIE. Or better yet, does anyone have one they would be willing to sell, share, trade or loan?
+
+[IMAGE: Rect%20PArt%20to%20ID_zpsfjudg2fm.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #60  (forum post #3760620)
+Author    : Talkierg
+Date      : Sep 17, 2015 at 10:15 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Bandai 1/48 Panther or Jagdpanther.
+
+Don
+────────────────────────────────────────────────────────────────────────
+Post #61  (forum post #3760689)
+Author    : MonsieurTox
+Date      : Sep 18, 2015 at 1:13 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+I Wood buy the Panther because it's used all over the place, If you buy one, mold and cast the parts, you'll be able to detail more than 50% of the turret. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #62  (forum post #3763273)
+Author    : DaveG
+Date      : Sep 21, 2015 at 8:22 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Thanks for the info, Panther  kit is on it's way from EBay!
+────────────────────────────────────────────────────────────────────────
+Post #63  (forum post #3763336)
+Author    : MonsieurTox
+Date      : Sep 21, 2015 at 9:33 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+DaveG said:
+
+			Thanks for the info, Panther  kit is on it's way from EBay!
+		
+
+Click to expand...
+
+You did yourself a great favor and will found all these parts (and much more used on the laser turret !) :
+
+[IMAGE: dstu_zpsow5ozp4d.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #64  (forum post #3773199)
+Author    : DaveG
+Date      : Oct 2, 2015 at 11:35 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Hey Julien, I tried to PM you with a Y Wing question but your mailbox is full.
+────────────────────────────────────────────────────────────────────────
+Post #65  (forum post #3773448)
+Author    : MonsieurTox
+Date      : Oct 2, 2015 at 4:36 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Sorry Dave, it's always full 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+You can ask here
+────────────────────────────────────────────────────────────────────────
+Post #66  (forum post #3773465)
+Author    : DaveG
+Date      : Oct 2, 2015 at 5:13 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Two questions: (sorry for going off topic on my own thread!)
+
+I'm going to start a Studio Scale Y-Wing. As with my Laser Tower project I'm not going to worry about being 100% accurate with all  the kit parts, just concentrate on some of the major ones which were common to all the variants. I'm not modeling a particular version. (Maybe I'll call mine Blue Leader!) 
+
+Which is the correct 1/144 Saturn for the Engines, V, 1B, Airfix, Revell, Re-Issue, Vintage, does it matter?
+
+What are these parts from? (I did  look everywhere for parts maps, couldn't find any.)
+
+[IMAGE: y_links02_zpsubrigsxt.jpg]
+
+You can PM me with the answers if you'd like.
+
+Thanks!
+────────────────────────────────────────────────────────────────────────
+Post #67  (forum post #3773467)
+Author    : Talkierg
+Date      : Oct 2, 2015 at 5:21 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Its Saturn V for the engines,parts in circle from Bandai Messerchmitt,Tamiya Panzer III and Dragon Kettenkrad Dave.
+
+Don
+────────────────────────────────────────────────────────────────────────
+Post #68  (forum post #3773470)
+Author    : eagle1
+Date      : Oct 2, 2015 at 5:25 PM
+Reactions : Like — Talkierg
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+The engine nacelles are vintage Airfix 1/144 Saturn 5.
+
+The part in your pic is actually made up from 3 parts...being the Tamiya 1/35 Panzer lll, Bandai 1/24 Me109 & 1/9 Esci/DML/Revell Kettenkrad. Used on the 5 foot Falcon too!.
+
+Haha beaten to the post
+────────────────────────────────────────────────────────────────────────
+Post #69  (forum post #3773482)
+Author    : MonsieurTox
+Date      : Oct 2, 2015 at 5:37 PM
+Reactions : Like — Talkierg
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Yeah vintage Airfix Sat V. White and yellow boxes work. The smithonian issue too. Don't get the retooled red box.
+────────────────────────────────────────────────────────────────────────
+Post #70  (forum post #3776547)
+Author    : DaveG
+Date      : Oct 6, 2015 at 9:53 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Are you referring to: Tamiya Models Pzkpfw III Ausf L Tank TM35215?
+
+thanks!
+────────────────────────────────────────────────────────────────────────
+Post #71  (forum post #3776579)
+Author    : MonsieurTox
+Date      : Oct 6, 2015 at 10:30 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+No, vintage Tamiya 1/35 Panzer III M/N.
+
+This is the one you want :
+
+[IMAGE: TamiyaPzKfw_III_Ausf_M_N_Tamiya_MM111_500_35th.JPG]
+
+As you can notice when typing the ref you gave about the kit in google, the first link that shows up said the #35215 kit was released in 1997 so it was obviously not around for A New Hope. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+https://www.scalemates.com/kits/103419-tamiya-35215-panzerkampfwagen-iii-ausf-l-sd-kfz-141-1
+────────────────────────────────────────────────────────────────────────
+Post #72  (forum post #3779407)
+Author    : DaveG
+Date      : Oct 9, 2015 at 11:26 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Does anyone have a parts map for the top of the turret? Thanks!
+────────────────────────────────────────────────────────────────────────
+Post #73  (forum post #3779905)
+Author    : mash3d
+Date      : Oct 10, 2015 at 2:18 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+DaveG said:
+
+			Here's the manufacturer's website:
+
+http://www.richwoodind.com/index.php/polybak
+
+They have list of distributors. It is a commercial product and you are unlikely to find an online source unless you want to buy a pallet of the stuff! I found a local lumber and sheet goods supplier in Anaheim, CA that would sell single sheets (4'x8').
+
+Northeastern Scale Models was selling it but you had to be a "manufacturer" (whatever that means) and buy a pack of 25 12"x24" sheets that they marked up at an 800% profit. No thanks!
+		
+
+Click to expand...
+
+Great model. I would love to see how you would do the Rebel Ion Cannon from the battle of Hoth.
+
+What is the name of the wood supplier in Anaheim, CA?
+
+I'm up in Burbank so Anaheim is I can get to on occasions.
+────────────────────────────────────────────────────────────────────────
+Post #74  (forum post #3781767)
+Author    : DaveG
+Date      : Oct 12, 2015 at 10:53 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Thanks! I've always wanted to build the Hoth Ion Canon, maybe someday!
+
+I think the distributor was Royal Plywood in Cerritos,
+────────────────────────────────────────────────────────────────────────
+Post #75  (forum post #3787642)
+Author    : DaveG
+Date      : Oct 18, 2015 at 4:26 PM
+Reactions : Like — knnyjay, Dart, EddieL
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Pretty much all the details are on and I'm ready to start painting. For the top I ended up just free-styling the details and not worrying too much about matching the original. I really didn't want to take the time and money to track down more kits (I recently spent $40 for a kit on ebay which yielded only a single small part!) and besides, the top of the tower will be about 9 feet off the ground when on display so not too many will ever see it!
+
+[IMAGE: IMG_0890_zpsjouwczbw.jpg]
+
+[IMAGE: IMG_0878_zps6lgmwqaq.jpg]
+
+[IMAGE: IMG_0883_zpsscpj93hu.jpg]
+
+[IMAGE: IMG_0887_zps2hqgqtbv.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #76  (forum post #3787796)
+Author    : ProfKSergeev
+Date      : Oct 18, 2015 at 7:37 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+DaveG said:
+
+			the top of the tower will be about 9 feet off the ground when on display
+		
+
+Click to expand...
+
+Whoa ...
+────────────────────────────────────────────────────────────────────────
+Post #77  (forum post #3823573)
+Author    : DaveG
+Date      : Nov 21, 2015 at 4:17 PM
+Reactions : Like — Dart, struschie, Rick Deckard
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Painting Time! There are still a few details missing here and there but I can always add them later... or not.
+
+First step is a good solid coat of primer. For this project I used spray can Rustoleum Primer Sealer. It works particularly well on the MDF since it has a higher solids content. I was going to load up a spray gun with auto lacquer primer for the all plastic laser canons but once I got rolling with the rattle can I just went ahead and used it for everything. Worked great.
+
+[IMAGE: IMG_0904_zps9nhu96p2.jpg]
+
+[IMAGE: IMG_0903_zpsm8z8zqzl.jpg]
+
+There was a little bit of over spray (we're having a particularly warm weekend) so I went over the whole thing with an extra fine scotch bright pad to knock off the dusty bits. The next step was to "pre-shade" all the panel lines and around some of the detail features with flat black Tamiya acrylic sprayed with an airbrush. It's okay that the pre-shading is a little rough and sloppy, it actually looks a little better in the end not being to consistent. ** POST COMPLETION NOTE - Were I to do the pre-shading again, I would have used an off-black color, like Tamiya's NATO Black or Rubber Black, and sprayed the lines a little narrower. In the end they showed through the top coat a little too much. **
+
+[IMAGE: IMG_0907_zpsk2yathru.jpg]
+
+[IMAGE: IMG_0912_zpsnyq5bpli.jpg]
+
+Next was an overall base coat of Tamiya XF-80 Royal Light Grey sprayed on with an airbrush. I thinned the paint almost 1:1 and built up the opacity with subsequent coats until I had the amount of pre-shading showing through that I wanted. The thinned paint dries more transparent so it usually takes more coats than you originally think. The end result is a subtle dark shading around the edges of the panels. The effect will be further reduced with the washes and other weathering yet to come.
+
+[IMAGE: IMG_0918_zps7bkdllkk.jpg]
+
+[IMAGE: IMG_0920_zpsl43gubg5.jpg]
+
+[IMAGE: IMG_0917_zpsjjdygerp.jpg]
+
+I next did a little fine overspray with a darker grey, it doesn't really show up in pictures but does add a bit of variety to the surface. Then the whole thing was sealed with a coat of Pledge Liquid Floor Finish, which is just basically a water based clear varnish. This will prevent the wash coming next from "staining" too much.
+────────────────────────────────────────────────────────────────────────
+Post #78  (forum post #3823654)
+Author    : Scott Graham
+Date      : Nov 21, 2015 at 6:22 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+I love the creatively added to an already pretty accurate build. It looks awesome! Great build!
+────────────────────────────────────────────────────────────────────────
+Post #79  (forum post #3824095)
+Author    : Vacformedhero
+Date      : Nov 22, 2015 at 11:24 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Wow , this is going to be some center attraction , what scale is it ?  Have you matching craft . Thanks for sharing
+────────────────────────────────────────────────────────────────────────
+Post #80  (forum post #3824119)
+Author    : joberg
+Date      : Nov 22, 2015 at 11:56 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Really sharp once again Dave.  Thanks for the tuto about the shading; looks really good from where I stand!
+────────────────────────────────────────────────────────────────────────
+Post #81  (forum post #3824205)
+Author    : morrris99
+Date      : Nov 22, 2015 at 2:08 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Thanks for sharing techniques. Outstanding work.
+────────────────────────────────────────────────────────────────────────
+Post #82  (forum post #3824224)
+Author    : DaveG
+Date      : Nov 22, 2015 at 2:42 PM
+Reactions : Like — Vacformedhero
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Vacformedhero said:
+
+			Wow , this is going to be some center attraction , what scale is it ?  Have you matching craft . Thanks for sharing
+		
+
+Click to expand...
+
+It's not built to a particular scale but rather matches the size and scale of the original ILM model. Based on the ladder rungs  though I'd say it's around 1/12 scale (1"=1'). An X-Wing at that scale would be about 42 inches long!
+────────────────────────────────────────────────────────────────────────
+Post #83  (forum post #3824246)
+Author    : DaveG
+Date      : Nov 22, 2015 at 3:07 PM
+Reactions : Like — knnyjay, struschie, Dart
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Ahoy mateys! We're awash in, uh, WASH!
+
+I love washes, they do such a great job of bringing out surface detail and texture. I prefer using oil-based paints for my washes, they flow, puddle and dry so nicely. And you've got a good bit of time to work them before they dry. Water based paint washes look great when wet but tend to dry splotchy. Although I've been hearing good things about water based clay washes. Going to have to try them out.
+
+The wash for the laser tower was made from artists oil paints. The kind that comes in tubes. For this wash I used a mixture of Ivory Black and Burnt Umber to create a brownish black, which is a great overall weathering color for almost anything. The paint was thinned done with oderless mineral spirits but was still fairly concentrated, as washes go. The nice thing about artist's oils is you can apply them really heavy and then wipe most of it off, leaving paint mostly in the corners and recesses.
+
+When using oil based washes it's a good idea to pre-moisten the surface of the model with thinner. This helps the wash flow, and keeps it from staining the surface as much. Thant's also why I sealed the paint with Pledge floor polish yesterday. Just apply clean thinner liberally with a big brush. Then I applied the wash, again quite liberally, working it into the panel lines and around all the details. The I wiped off as much of the wash as I could with a clean cotton rag, always wiping vertically from top to bottom to create vertical streaks. At this point there is still a lot more wash on t he surface then I want, but that's the nice thing about the looong drying time of artist's oils, I can brush more clean thinner over the surface and continue to remove the wash as desired. During this process I also did some specific detailed streaking in places. Though this is really an overall wash, I'll come back and do more detail spot streaks and washes next. This wash will take several days to dry. There are fast drying artist's oil paints which are handy for detail painting but I prefer the extended working time you get with traditional oils. Who needs to be in such a hurry anyway?!
+
+[IMAGE: IMG_0939_zps5soeuz4m.jpg]
+
+[IMAGE: IMG_0940_zpsgleukxhz.jpg]
+
+BTW, I'm shooting video of the entire painting process on this model and will be posting it someday.
+────────────────────────────────────────────────────────────────────────
+Post #84  (forum post #3824436)
+Author    : DaveG
+Date      : Nov 22, 2015 at 7:44 PM
+Reactions : Like — Vacformedhero
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Oops posted in the wrong thread! Moved it over to my Y-Wing thread where it belongs!
+────────────────────────────────────────────────────────────────────────
+Post #85  (forum post #3824686)
+Author    : Vacformedhero
+Date      : Nov 23, 2015 at 5:34 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+I agree this deserves to be a two seater , well done
+────────────────────────────────────────────────────────────────────────
+Post #86  (forum post #3824717)
+Author    : Weezer
+Date      : Nov 23, 2015 at 6:16 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Your build looks really authentic! The 3D work looks nice too. 
+
+I always thought the y-wing was a two seater? :/ I think I'm remembering the holiday special and some EU stuff.
+────────────────────────────────────────────────────────────────────────
+Post #87  (forum post #3826264)
+Author    : DaveG
+Date      : Nov 24, 2015 at 5:19 PM
+Reactions : Like — knnyjay, Dart, struschie
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Okay, back on topic!
+
+Today I applied some detail weathering, mostly streaks and runs, in contrasting colors. As with the washes, I used Artist's Oil Paints, but this time straight out of the tube. Color wise, i squirted out dabs of Ivory Black, Titanium White, Raw Umber, Burnt Umber, Raw Siena, Burnt Siena and Dark Rust on a palette and worked back and forth between those colors and blending colors. The Dark Rust (from MIG Productions) turned out to be my favorite. Don't ask me how there's rust in the vacuum of space! That was part of George Lucas' genius, hardware is so worn in space is actually rusts! (That and there's no underwear in space, but that's a topic for another forum!). Okay, maybe the Death Star is SO BIG it has it's own climate?
+
+As far as technique, it's pretty straight forward. As with the wash, I moistened the area being worked on first with a bit of clean mineral spirits, then put a little point of paint at the top of where I wanted the streak to be and worked it down with a clean brush or rag. Since the oils take a couple days to dry there's plenty of time to play around with it, or even remove some weathering entirely with thinner if you don't like how it's going. Now I'll set it aside for a few days to dry. The next step will be dry brushing the highlights.
+
+The weathering does look a little strong at this point but I'm trying to keep in mind where this model is going to be on display. On top of a 6 1/2 foot cabinet in a warehouse. So the turret will be quite high and under pretty diffuse lighting (lots of fluorescents).
+
+[IMAGE: IMG_0956_zpsew2zmpfa.jpg]
+
+[IMAGE: IMG_0957_zpsjnkpepfd.jpg]
+
+[IMAGE: IMG_0958_zps3viaxcl6.jpg]
+
+[IMAGE: IMG_0959_zpsf917qumi.jpg]
+
+[IMAGE: IMG_0964_zpsrc3vh3i3.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #88  (forum post #3826699)
+Author    : Bigturc
+Date      : Nov 25, 2015 at 7:53 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+God this is a beautiful model!
+
+i always wanted to have one of those towers!! You're doing am amazing job on it! Such a fun SS thread .. and no drama .. that's priceless these days! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+:thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #89  (forum post #3827001)
+Author    : DARKVIEW
+Date      : Nov 25, 2015 at 2:21 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Thats amazing ...9ft!!! Wow!!
+────────────────────────────────────────────────────────────────────────
+Post #90  (forum post #3827017)
+Author    : DaveG
+Date      : Nov 25, 2015 at 2:36 PM
+Reactions : Like — knnyjay, Dart, struschie
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+More weathering. Some heavier oil stains on the top of the lower tower section. Done the same way with artist's oil paints.
+
+[IMAGE: IMG_0981_zpsyo2vs9ht.jpg]
+
+[IMAGE: IMG_0978_zpsunfz7x5q.jpg]
+
+And a completely made up detail section lower on the tower.
+
+[IMAGE: IMG_0980_zpse0dwztt6.jpg]
+
+On  to dry brushing. I used a light grey artist's oil paint (again, the slow drying time works well for this process. With this dry brushing I was trying to achieve an artificial highlight, so I concentrated mostly on the top edges of detail pieces. It's a subtle effect but lends to the overall impression.
+
+[IMAGE: IMG_0993_zpshhkfsuir.jpg]
+
+[IMAGE: IMG_0995_zpsizc2teag.jpg]
+
+[IMAGE: IMG_0996_zpsg14sgbal.jpg]
+
+[IMAGE: IMG_1003_zpstb4d8xjk.jpg]
+
+Here is the paint work on the Laser Canons so far. I used a base coat mixed from Tamiya acrylics XF-24 Dark Grey and XF-8 Blue to give it a cool undertone. Then oversprayed with more Dark Gray. Then an oil based wash made from Testor's Rubber Enamel, one of my favorite wash colors. After that I applied selective overspray with Tamiya Nato Black and Gun Metal to give it a little metallic kick. Following an application of Satin clear varnish to seal the surface I applied an oil based 'pin wash' just to the nooks and crannies. The next step will be dry brushing highlights.
+
+[IMAGE: IMG_0974_zpswn3cslvi.jpg]
+
+[IMAGE: IMG_0976_zpshtqpfhxb.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #91  (forum post #3827060)
+Author    : moffeaton
+Date      : Nov 25, 2015 at 3:29 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+This is great!
+
+I want to make an extension for my tower now!
+────────────────────────────────────────────────────────────────────────
+Post #92  (forum post #3827615)
+Author    : Lee S
+Date      : Nov 26, 2015 at 11:08 AM
+Reactions : Like — struschie, moffeaton
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+That's what she said!
+
+Bah Dum Tss!
+────────────────────────────────────────────────────────────────────────
+Post #93  (forum post #3827619)
+Author    : Scott Graham
+Date      : Nov 26, 2015 at 11:16 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+I love the substitute you made for the tread plate. It really seems to improve it.
+────────────────────────────────────────────────────────────────────────
+Post #94  (forum post #3827727)
+Author    : MonsieurTox
+Date      : Nov 26, 2015 at 2:12 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+moffeaton said:
+
+			This is great!
+
+I want to make an extension for my tower now!
+		
+
+Click to expand...
+
+Same here !
+────────────────────────────────────────────────────────────────────────
+Post #95  (forum post #3827741)
+Author    : joberg
+Date      : Nov 26, 2015 at 2:39 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Wow!  Again, great tuto about the wash...As for space, you should look at some of the pics of the ISS circling the Earth: lot's of rust/spots/runs, etc..
+────────────────────────────────────────────────────────────────────────
+Post #96  (forum post #3830808)
+Author    : DaveG
+Date      : Nov 30, 2015 at 3:57 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Scott Graham said:
+
+			I love the substitute you made for the tread plate. It really seems to improve it.
+		
+
+Click to expand...
+
+Are you referring to the parts at the bottom of the curved canon tracks? I thought the parts used on the Production model really didn't work very well there. On my model I used the back half of the Lunar Excursion Module from the Airfix 1/144 Saturn V.
+
+When you look at all the various models ILM built for ANH you can definitely tell the ones they spent time and thought on, and the ones they just slapped together. The Laser Tower kinda falls in the category of the later. It seems like a lot of the kit parts were just slapped on with not a lot of thought to composition or function.
+────────────────────────────────────────────────────────────────────────
+Post #97  (forum post #3831472)
+Author    : IzzyMel
+Date      : Dec 1, 2015 at 11:01 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Looks great Dave.  Amazing attention to detail.  :cool Love the weathering.
+────────────────────────────────────────────────────────────────────────
+Post #98  (forum post #3832173)
+Author    : struschie
+Date      : Dec 2, 2015 at 5:39 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Crazy thing - awesome weathering!
+
+Close to the real thing (https://www.facebook.com/ThePropDen...8.1073741874.411305008934517/730055233726158/)
+────────────────────────────────────────────────────────────────────────
+Post #99  (forum post #3832755)
+Author    : Scott Graham
+Date      : Dec 2, 2015 at 7:48 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+DaveG said:
+
+			Are you referring to the parts at the bottom of the curved canon tracks? I thought the parts used on the Production model really didn't work very well there. On my model I used the back half of the Lunar Excursion Module from the Airfix 1/144 Saturn V.
+
+When you look at all the various models ILM built for ANH you can definitely tell the ones they spent time and thought on, and the ones they just slapped together. The Laser Tower kinda falls in the category of the later. It seems like a lot of the kit parts were just slapped on with not a lot of thought to composition or function.
+		
+
+Click to expand...
+
+I was thinking about the ledge/balcony part. It looks like it has millennium falcon like tread plate instead of the bandai German tank piece on the original. Love this project!
+────────────────────────────────────────────────────────────────────────
+Post #100  (forum post #3835090)
+Author    : DaveG
+Date      : Dec 5, 2015 at 1:25 PM
+Reactions : Like — Muzza, knnyjay, struschie
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Finishing touches...
+
+Dry brushed the laser canons with light grey oil paint to add highlights.
+
+[IMAGE: IMG_1011_zpsulpxwzgu.jpg]
+
+[IMAGE: IMG_1013_zpszezrxtbi.jpg]
+
+Painted any of the inside surfaces of the turret that could be seen through openings flat black.
+
+[IMAGE: IMG_1016_zpsr55evqbv.jpg]
+
+And it's important to sign and date your work!
+
+[IMAGE: IMG_1018_zpsyg7aqjsw.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #101  (forum post #3835125)
+Author    : Vacformedhero
+Date      : Dec 5, 2015 at 2:06 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Brilliant , thanks for the updates, learned a lot on the weathering, if you can post a shot of it in situ ,
+────────────────────────────────────────────────────────────────────────
+Post #102  (forum post #3838051)
+Author    : DaveG
+Date      : Dec 8, 2015 at 6:01 PM
+Reactions : Like — DARKVIEW, knnyjay, Vacformedhero
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Well, I'm gonna call this one done (at least for now). I'm pretty happy with how it came out and with the paint job overall. There are a few areas of weathering I'd like to work a little more but I t think it's time to let this one "age" for a bit. Also it'll look different under the lighting where I intend to display it than in my shop, so it'll be good to take a look at it there. Here are a few pics of the "finished" Tower. It's really difficult to get good photos of something so tall in my shop. I'll take some shots under studio lighting when I get the chance, Thanks for everyone's support and comments along the way!
+
+[IMAGE: IMG_1117_zpsdhkncdiw.jpg]
+
+[IMAGE: IMG_1119_zpsfpnhm4gp.jpg]
+
+[IMAGE: IMG_1127_zpsnbzhcia0.jpg]
+
+[IMAGE: IMG_1132_zpsaxmmbbrm.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #103  (forum post #3838211)
+Author    : vfxsup64
+Date      : Dec 9, 2015 at 12:05 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Beautiful job!
+────────────────────────────────────────────────────────────────────────
+Post #104  (forum post #3838292)
+Author    : Lee S
+Date      : Dec 9, 2015 at 4:57 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Superb!!
+
+This build pushed me to get mine (shorty version) done :-D
+────────────────────────────────────────────────────────────────────────
+Post #105  (forum post #3838529)
+Author    : rbeach84
+Date      : Dec 9, 2015 at 9:36 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Awesome finish!  Oh, look - Aurora M8 dozer blades.  I wonder what happened to THAT parts bin?  ;^P
+
+Again, great job (& appreciate the share...)
+
+Regards, Robert
+────────────────────────────────────────────────────────────────────────
+Post #106  (forum post #3838771)
+Author    : DaveG
+Date      : Dec 9, 2015 at 1:50 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+rbeach84 said:
+
+			Oh, look - Aurora M8 dozer blades.  I wonder what happened to THAT parts bin?  ;^P
+		
+
+Click to expand...
+
+I actually found a nice 3D model of the dozer blade on GrabCad, downloaded and 3D printed it.
+────────────────────────────────────────────────────────────────────────
+Post #107  (forum post #3838974)
+Author    : joberg
+Date      : Dec 9, 2015 at 4:47 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Yep, this is huge:cool
+────────────────────────────────────────────────────────────────────────
+Post #108  (forum post #3841683)
+Author    : rbeach84
+Date      : Dec 12, 2015 at 10:58 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+I wonder if the LT looks like it could have been remotely controlled or whether it was supposed to contain a gunner (or crew...)  Using the ladder rung spacing as a scale measure would be possible except Imperial OSHA standards are unknown.  However, if we assume 'form follows function' & the Death Star generated a surface gravity so an EVA would NOT be like a real 'spacewalk' requiring tethers, etc. then real-world standards of typically no more than 12" spacing could be used.  So, if we choose, say, 10" spacing, then the panel height runs roughly 100" or 8.33 feet.  If we go for 12", then 120" or 10 feet.  Technically, the 'hatches' above the platforms seem a bit small at only 2.5 x rung spacing (so, 25" or 30" high...)  Perhaps they are used by astromechs only...
+
+Sorry, such nice models leads me naturally to the 'What If Zone' ;^P///
+
+R/ Robert
+────────────────────────────────────────────────────────────────────────
+Post #109  (forum post #3842048)
+Author    : DaveG
+Date      : Dec 13, 2015 at 12:00 PM
+Reactions : Like — Blitzkreig, knnyjay, Treadwell
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Every year a group of us at work get together for a Christmas ornament exchange. There are ten of us, and each person makes ten copies of a custom ornament to exchange with everyone else. As you would think, with ten Disney Imagineers, the ornaments get to be pretty extraordinary! Here are the ornaments I made for this years exchange, mini versions of the Laser Tower, 1/10 Studio Scale, about 3 1/2 inches tall.
+
+[IMAGE: IMG_1192_zps9xeewmz2.jpg]
+
+[IMAGE: IMG_1189_zpsriecxesx.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #110  (forum post #3842091)
+Author    : moffeaton
+Date      : Dec 13, 2015 at 12:56 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+That. Is. Awesome.
+────────────────────────────────────────────────────────────────────────
+Post #111  (forum post #3842184)
+Author    : Lee S
+Date      : Dec 13, 2015 at 2:49 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Brilliant!
+────────────────────────────────────────────────────────────────────────
+Post #112  (forum post #3842254)
+Author    : 3phase
+Date      : Dec 13, 2015 at 4:53 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+very cool. would have loved one of those for my tree.
+────────────────────────────────────────────────────────────────────────
+Post #113  (forum post #3842454)
+Author    : minifig
+Date      : Dec 14, 2015 at 12:39 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+DaveG - Star Wars and Christmas...perfect...
+
+M
+────────────────────────────────────────────────────────────────────────
+Post #114  (forum post #3843825)
+Author    : Dart
+Date      : Dec 15, 2015 at 10:24 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Gotta say, I love this build for so many reasons. Thanks for sharing all this great info! Really helps us novices out.
+────────────────────────────────────────────────────────────────────────
+Post #115  (forum post #3844009)
+Author    : joberg
+Date      : Dec 15, 2015 at 2:27 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Xmas ornaments are the bomb Dave:cool
+────────────────────────────────────────────────────────────────────────
+Post #116  (forum post #3844641)
+Author    : DaveG
+Date      : Dec 16, 2015 at 8:13 AM
+Reactions : Like — knnyjay, Dart, Vacformedhero
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Thanks guys! Our ornament exchange is something to look forward to every year.
+
+Here's a quick breakdown of how the ornaments were done. The same 3D model from the full size project was scaled down and used to create laser cutting artwork for the sides, which were cut and scored out of 4 ply Strathmore Bristol board, and a 3D printed core, around which the sides were bonded. Additional bits of styrene were added as surface details. Then a one piece silicone mold was poured.
+
+[IMAGE: IMG_1177_zpsk8wgi1bw.jpg]
+
+[IMAGE: IMG_1179_zps2bm6yfh2.jpg]
+
+The castings. Pressure cast to eliminate bubbles.
+
+[IMAGE: IMG_1181_zpsxkbdinjn.jpg]
+
+A unique challenge with this little project was how to drill the mounting holes for the laser canons. The 1/16 inch holes had to be drilled at a specific angle, centered on the curved detail and aligned to the slots. And if there was any variation the two barrels would be obviously misaligned. The solution was to use the 3D model file to create a 3D printed drilling jig that would hold the casting at the exact right angle and also provide a guide for the drill bit. I added a short pieces of brass tubing to the guide holes as drill bushings. The holes were drilled using a drill press to help keep everything in alignment.
+
+[IMAGE: IMG_1173_zps5gdxle2y.jpg]
+
+[IMAGE: IMG_1175_zpsz9wm3vhm.jpg]
+
+Before and after drilling.
+
+[IMAGE: IMG_1172_zpswyqbfmsa.jpg]
+
+The barrels were made up out of lengths of brass tubing and a bits of Plastruct square stock.
+
+[IMAGE: IMG_1185_zps5xp3uw3f.jpg]
+
+Ready for paint!
+
+[IMAGE: IMG_1186_zpsllyws7cc.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #117  (forum post #3844789)
+Author    : moffeaton
+Date      : Dec 16, 2015 at 11:06 AM
+Reactions : Like — swgeek
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+That's ridiculous in all the right ways. That jig is AWESOME.
+
+I just laser cut one last night to align a bunch of Plastruct tubing and keep things 90º - it's the little bits we create during the creation of a larger whole that sometimes give the most satisfaction!
+────────────────────────────────────────────────────────────────────────
+Post #118  (forum post #3844952)
+Author    : ProfKSergeev
+Date      : Dec 16, 2015 at 2:30 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+I love me some jigs, and that one's a beaut, Dave!
+────────────────────────────────────────────────────────────────────────
+Post #119  (forum post #3845279)
+Author    : rbeach84
+Date      : Dec 16, 2015 at 8:57 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+The ornament tangent just makes me smile a silly grin! ['"That is some mystical ******"' - Nick Nolte, The Ridiculous 6]
+
+Regards (and Merry Christmas), Robert
+────────────────────────────────────────────────────────────────────────
+Post #120  (forum post #3845328)
+Author    : Mike J.
+Date      : Dec 16, 2015 at 10:11 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+That jig is brilliant.
+────────────────────────────────────────────────────────────────────────
+Post #121  (forum post #3849058)
+Author    : DaveG
+Date      : Dec 20, 2015 at 5:08 PM
+Reactions : Like — knnyjay, Dart, moffeaton
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+For those of you that want to see another Star Wars ornament that I did inspired by The Force Awakens click on the link below. SPOILER ALERT - Don't click on the link if you haven't seen the movie!!!  You've been warned.
+
+http://www.therpf.com/showthread.php?t=252371
+────────────────────────────────────────────────────────────────────────
+Post #122  (forum post #3849502)
+Author    : joberg
+Date      : Dec 21, 2015 at 6:06 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Thanks for the tuto Dave; always interesting!
+────────────────────────────────────────────────────────────────────────
+Post #123  (forum post #3928971)
+Author    : DaveG
+Date      : Mar 10, 2016 at 10:03 PM
+Reactions : Like — knnyjay, McGraph, 3phase
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project - OPEN SOURCE COMING SOON!!!
+
+THE (UBER) DEATH STAR LASER TOWER PROJECT IS GOING OPEN SOURCE!!!
+
+The files will all be available soon for anyone that wants to build their own. Just gotta clean 'em up a bit. Stay tuned.
+────────────────────────────────────────────────────────────────────────
+Post #124  (forum post #3929817)
+Author    : DaveG
+Date      : Mar 11, 2016 at 10:05 PM
+Reactions : Like — NitroTech, Lee S, Dart
+────────────────────────────────────────────────────────────────────────
+
+OPEN SOURCE FILES FOR THE (UBER) DEATH STAR LASER TOWER ARE NOW AVAILABLE ONLINE!!!
+
+The files have been posted to Google Drive. They are being made available for anyone to use freely for non-commercial purposes. They may not be used to create parts, kits or finished models for sale. The repository is here:
+
+https://drive.google.com/drive/u/1/folders/0BwDa06cjX-frVVdMTXl2dUNuX1k
+
+I have been asked if these files can be used to 3D print an entire Tower. The answer is no, at least not in their current form. These files are for the model as I built it outlined in this thread using CNC routing, laser cutting, kit bashing, some 3D printing and good ol' fashioned scratch building. none of the 3D printing STLs are posted in the repository as I don't keep them after printing since a new STL file can always be exported out of the master 3D model. However, if desired, a competent 3D modeler should be able to convert the master model so that the entire Tower can be 3D printed, either at Studio Scale or smaller.
+────────────────────────────────────────────────────────────────────────
+Post #125  (forum post #3929871)
+Author    : Rats
+Date      : Mar 12, 2016 at 1:08 AM
+────────────────────────────────────────────────────────────────────────
+
+That is most extremely generous of you Dave!! Thank you, thank you, thank you!!
+────────────────────────────────────────────────────────────────────────
+Post #126  (forum post #3929970)
+Author    : DaveG
+Date      : Mar 12, 2016 at 6:46 AM
+────────────────────────────────────────────────────────────────────────
+
+You're welcome!
+
+Just a note, my Tower and Wasilli's are probably slightly different in dimensions, angles, etc. as they were both separately derived by photo interpretation it is unlikely that parts made by him would fit my tower and vice versa.
+────────────────────────────────────────────────────────────────────────
+Post #127  (forum post #3930999)
+Author    : joberg
+Date      : Mar 13, 2016 at 4:18 PM
+────────────────────────────────────────────────────────────────────────
+
+Very gracious of you Dave:cool
+────────────────────────────────────────────────────────────────────────
+Post #128  (forum post #3931577)
+Author    : Gus76
+Date      : Mar 14, 2016 at 10:00 AM
+────────────────────────────────────────────────────────────────────────
+
+Really nice work!
+
+Sent from my Nexus 6 using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #129  (forum post #3980507)
+Author    : DaveG
+Date      : May 10, 2016 at 10:00 AM
+Reactions : Like — knnyjay, Enhancer4004, minifig
+────────────────────────────────────────────────────────────────────────
+
+I'm excited to say that the information about my build has been combined and expanded into a series of articles being posted on Adam Savage's Tested.com website. The first entry is up now.
+
+http://www.tested.com/art/makers/569822-building-studio-scale-death-star-laser-tower-model-part-1/
+────────────────────────────────────────────────────────────────────────
+Post #130  (forum post #3980998)
+Author    : joewhite
+Date      : May 10, 2016 at 7:25 PM
+────────────────────────────────────────────────────────────────────────
+
+Sweet! Awesome article!
+────────────────────────────────────────────────────────────────────────
+Post #131  (forum post #3981783)
+Author    : joberg
+Date      : May 11, 2016 at 4:51 PM
+────────────────────────────────────────────────────────────────────────
+
+TFS Dave and great article indeed:cool
+────────────────────────────────────────────────────────────────────────
+Post #132  (forum post #3982187)
+Author    : Lord Hater
+Date      : May 12, 2016 at 7:12 AM
+────────────────────────────────────────────────────────────────────────
+
+So cool!
+────────────────────────────────────────────────────────────────────────
+Post #133  (forum post #4043980)
+Author    : cokefiend
+Date      : Aug 1, 2016 at 1:54 AM
+────────────────────────────────────────────────────────────────────────
+
+Thank you so much for these file Dave. I started building a tower several years ago but had to move so what I had built had to be put aside. Now Im motivated to get back to this new and improved version.
+────────────────────────────────────────────────────────────────────────
+Post #134  (forum post #4046434)
+Author    : DARKVIEW
+Date      : Aug 4, 2016 at 5:27 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+Love the photos absolute amazing weathering, build, the works....
+────────────────────────────────────────────────────────────────────────
+Post #135  (forum post #4227189)
+Author    : bwayne64
+Date      : Apr 13, 2017 at 4:18 AM
+────────────────────────────────────────────────────────────────────────
+
+Is this the Mig kit we need for the laser barrels ? 
+
+[IMAGE: 397419-c24686cb3d8b0f4aaea9166ec85812d5.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #136  (forum post #4230585)
+Author    : Rats
+Date      : Apr 18, 2017 at 9:36 AM
+────────────────────────────────────────────────────────────────────────
+
+That one will do. I believe that only the decals have changed between the boxings. I have a couple of versions and they look the same to me (haven't compared them directly though).
+────────────────────────────────────────────────────────────────────────
+Post #137  (forum post #4242185)
+Author    : jawsmodels
+Date      : May 7, 2017 at 2:59 AM
+────────────────────────────────────────────────────────────────────────
+
+Woh. I need to grt out more often...
+
+This is some bad ass sharing shizzle going on. Fantastic stuff Dave. I take my 'Make Modeling Great Again' hat off to you.
+────────────────────────────────────────────────────────────────────────
+Post #138  (forum post #4243897)
+Author    : bwayne64
+Date      : May 9, 2017 at 7:01 PM
+────────────────────────────────────────────────────────────────────────
+
+Rats said:
+
+			That one will do. I believe that only the decals have changed between the boxings. I have a couple of versions and they look the same to me (haven't compared them directly though).
+		
+
+Click to expand...
+
+Thanks man ! Sorry I didn't see your post earlier. Cheers,
+
+Joe
+────────────────────────────────────────────────────────────────────────
+Post #139  (forum post #4531424)
+Author    : smalleville
+Date      : Oct 9, 2018 at 9:49 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: The (Uber) Death Star Laser Tower Project
+
+is there a file for the clear part
+
+- - - Updated - - -
+
+DaveG said:
+
+			Thanks guys!
+
+I laser cut some plexiglas to build up the box parts of the barrels. The white bits are pieces of Evergreen strip styrene glued to the inside corners to reinforce the joints and help keep everything square. (Laser cut edges tend to be ever so slightly not square and glued butt joints can go out of square unless something is used to help hold the joints at 90 degrees.)
+
+http://i1053.photobucket.com/albums...ath Star Laser Tower/IMG_0482_zpspdncj887.jpg
+
+http://i1053.photobucket.com/albums...ath Star Laser Tower/IMG_0496_zps2hzubxje.jpg
+
+http://i1053.photobucket.com/albums...ath Star Laser Tower/IMG_0498_zpsmxz2f6ab.jpg
+
+Click to expand...
+
+is there a file for clear parts to make?
+────────────────────────────────────────────────────────────────────────
+Post #140  (forum post #4531583)
+Author    : DaveG
+Date      : Oct 10, 2018 at 9:31 AM
+────────────────────────────────────────────────────────────────────────
+
+No, I'm sorry, I don't have those files anymore.
+────────────────────────────────────────────────────────────────────────
+Post #141  (forum post #4599849)
+Author    : DaveG
+Date      : Apr 1, 2019 at 3:46 PM
+Reactions : Like — Jedi Dade
+────────────────────────────────────────────────────────────────────────
+
+I am now offering some 3d printed parts for the Laser Tower:
+
+Death Star Laser Tower Barrel Parts
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 141

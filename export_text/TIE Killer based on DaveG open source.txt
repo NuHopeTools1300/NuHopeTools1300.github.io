@@ -1,0 +1,1190 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : TIE Killer based on DaveG open source
+URL    : https://www.therpf.com/forums/threads/tie-killer-based-on-daveg-open-source.261064/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #3984188)
+Author    : Hammer3246
+Date      : May 14, 2016 at 4:28 PM
+Reactions : Like — scopesmapeo, Vacformedhero, Scott Graham
+────────────────────────────────────────────────────────────────────────
+
+Thanks DaveG
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #3984192)
+Author    : Scott Graham
+Date      : May 14, 2016 at 4:39 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+Nice start!
+
+I've noticed that the hurricane engine blocks overhang the wings when I test fit mine. Same on yours? Is it accurate that way? I have a hard time telling with pics so far.
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #3984199)
+Author    : Hammer3246
+Date      : May 14, 2016 at 4:47 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+I had to add a strip to the leading edge. I've noticed a few shortcomings in areas but I'm not sure if the plant on parts are supposed to make up for it.
+
+This is really just a prototype for lack of a better term.   I do plan on finishing it however, then I'll make a legitimate one once I know what I need to do.
+
+Sent from my SM-N915W8 using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #3984208)
+Author    : MonsieurTox
+Date      : May 14, 2016 at 5:04 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+Scott Graham said:
+
+			Nice start!
+
+I've noticed that the hurricane engine blocks overhang the wings when I test fit mine. Same on yours? Is it accurate that way? I have a hard time telling with pics so far.
+		
+
+Click to expand...
+
+No they should be flush
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #3984221)
+Author    : DaveG
+Date      : May 14, 2016 at 5:28 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+As I said, looking great. I look forward to seeing all the builds.
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #3984236)
+Author    : kokkari
+Date      : May 14, 2016 at 6:05 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+Looking good Hammer! The shot you have with the forward fuselage attached, is that your own creation or from something else?
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #3984239)
+Author    : Hammer3246
+Date      : May 14, 2016 at 6:13 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+kokkari said:
+
+			Looking good Hammer! The shot you have with the forward fuselage attached, is that your own creation or from something else?
+		
+
+Click to expand...
+
+Thanks, the forward fuse is from DaveGs file and the cockpit, canopy are from files that Flintlock gave me some years back, they are low poly so the facets show and there are no panel lines.  I'll be using the DaveG parts once I get them.
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #3984336)
+Author    : DaveG
+Date      : May 14, 2016 at 9:46 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+Hammer3246 said:
+
+			I'll be using the DaveG parts once I get them.
+		
+
+Click to expand...
+
+An update - i rejected the first 3D printed forward fuselage parts i got from Shapeways as they were warped. I expect new ones in another week or so.
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #3984349)
+Author    : Rats
+Date      : May 14, 2016 at 10:19 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+Nice start Hammer. Patriots fan....yay! You in New England?
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #3984360)
+Author    : Hammer3246
+Date      : May 14, 2016 at 10:47 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+Rats said:
+
+			Nice start Hammer. Patriots fan....yay! You in New England?
+		
+
+Click to expand...
+
+Thanks.
+
+Lol, nope Alberta Canada.  Seen them twice at Gillette and once in Seattle, hope to make it to Arizona this year, Brady or not.
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #3984555)
+Author    : DaveG
+Date      : May 15, 2016 at 8:46 AM
+Reactions : Like — Big Dog
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+I mentioned to Hammer in a PM that I encourage posting of any corrections that need to be made to my files (just do it nicely!). Be as specific as you can. If it's something simple I might be able to update the files.
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #3984572)
+Author    : MonsieurTox
+Date      : May 15, 2016 at 9:04 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+DaveG said:
+
+			I mentioned to Hammer in a PM that I encourage posting of any corrections that need to be made to my files (just do it nicely!). Be as specific as you can. If it's something simple I might be able to update the files.
+		
+
+Click to expand...
+
+There's problem with the wing pipe, on your model it's centered with the wing plate, which is wrong, the bottom of the pipe should be almost flush with the bottom of the wing plate.
+
+The top front of your cockpit is curved where the canopy starts, it should be flat (the front of the cockpit is basically a flat triangle).
+
+The front of the bottom half of your neck has a 90 degrees angle which is incorrect.
+
+I dont have your files so I cant check the measurements but the body seems to have small innacuracies that may lead to bad fitting of the kitparts.
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #3984854)
+Author    : Hammer3246
+Date      : May 15, 2016 at 4:33 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+I've come across some problem areas mostly related to the mid section,forward block and the Droid area.  I think some styrene to build up areas would work if a person doesn't 3d model in order to get kit parts fitting.  I'm just using castings for now and building as is without any major modifying, I'll do a more accurate version down the road someday.  I'm not super concerned for this build as its not costing me a lot and it sure looks like a Y (more so than another version on Ebay).
+
+Sent from my SM-N915W8 using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #3984858)
+Author    : Hammer3246
+Date      : May 15, 2016 at 4:40 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+......another thing.  What's up with the fuselage design being as funky as it is if they just cover it all up with parts and pipes?  Seems like a lot of work.  Anyone know some history on it?
+
+Sent from my SM-N915W8 using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #3984961)
+Author    : DaveG
+Date      : May 15, 2016 at 7:49 PM
+Reactions : Like — Hammer3246
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+Just a note - there were a couple of areas on the fuselage I had intended on adding styrene to make the printed parts easier to clean up. This would also allow fine tuning to fit kit parts.  You're all seeing this project evolve as it goes and some are building along, or are way ahead. I've not got to attaching the kit parts yet.
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #3985140)
+Author    : MonsieurTox
+Date      : May 16, 2016 at 4:12 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+Not sure adding some styrene would fix the misaligned wing pipe, the too curvy -in some places- cockpit or the neck
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #3985193)
+Author    : Hammer3246
+Date      : May 16, 2016 at 6:13 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+No but 3D modelling will address all these issues, perhaps someone will do just that in the future,  the neck has some of the bigger problems, however adding to the mid and fore section can be done to get things close, yoke needs work too.   I guess it will all come down to what makes the builder happy and how much patience they have.
+
+Cheers
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #3987525)
+Author    : Hammer3246
+Date      : May 18, 2016 at 4:20 PM
+Reactions : Like — greeble_gremlin, moffeaton, Captain Sci-Fi
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+Thanks DaveG
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #3987530)
+Author    : DaveG
+Date      : May 18, 2016 at 4:25 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+Nice!!
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #3987575)
+Author    : Hammer3246
+Date      : May 18, 2016 at 5:46 PM
+Reactions : Like — scopesmapeo, knnyjay, kokkari
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+Thanks DaveG
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #3987576)
+Author    : Hammer3246
+Date      : May 18, 2016 at 5:50 PM
+Reactions : Like — moffeaton, knnyjay
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+Thanks DaveG
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #3987629)
+Author    : kokkari
+Date      : May 18, 2016 at 7:32 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+Wow, that's shaping up nicely. I have a question about the forward fuselage. Earlier you said you printed from Dave's file. Has he revised his since you printed yours? I ask because the side walls seem thicker then his digital files that he's shown on his thread.
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #3987643)
+Author    : Rats
+Date      : May 18, 2016 at 7:56 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+Coming along very nicely Hammer.
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #3987670)
+Author    : Hammer3246
+Date      : May 18, 2016 at 8:45 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+kokkari said:
+
+			Wow, that's shaping up nicely. I have a question about the forward fuselage. Earlier you said you printed from Dave's file. Has he revised his since you printed yours? I ask because the side walls seem thicker then his digital files that he's shown on his thread.
+		
+
+Click to expand...
+
+Thank you. No, I just did some modifying with styrene so I could see what can be done without a 3D printer, its not permanent, so far its not right but its coming.  I'm hoping someone steps up an does the adjustments (cuz I can't), then I'll reprint.
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #4055799)
+Author    : Hammer3246
+Date      : Aug 16, 2016 at 9:32 AM
+Reactions : Like — Richard Baker, maxhebus, kokkari
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+I managed to get some free time this past weekend.  Started on the engine inserts (big thanks to maxhebus, they turned out great) and did a test print of Dave's rear Leggs and control vanes, which also look great.
+
+[IMAGE: 347842-69c6bc6fc2496f59efc59616fd9244dd.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #4055803)
+Author    : moffeaton
+Date      : Aug 16, 2016 at 9:39 AM
+Reactions : Like — Hammer3246
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+holy crap that looks really sharp!
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #4055811)
+Author    : MonsieurTox
+Date      : Aug 16, 2016 at 9:45 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+Looks great !
+────────────────────────────────────────────────────────────────────────
+Post #28  (forum post #4055992)
+Author    : Hammer3246
+Date      : Aug 16, 2016 at 1:17 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+I'm in need of a casting of the 1/500 Nichimo Yamato tower.
+────────────────────────────────────────────────────────────────────────
+Post #29  (forum post #4055993)
+Author    : Hammer3246
+Date      : Aug 16, 2016 at 1:18 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+MonsieurTox said:
+
+			Looks great !
+		
+
+Click to expand...
+
+Nevermind,  there's enough drama on this forum.
+
+This is coming from my phone, expect errors.
+────────────────────────────────────────────────────────────────────────
+Post #30  (forum post #4056023)
+Author    : maxhebus
+Date      : Aug 16, 2016 at 1:55 PM
+Reactions : Like — Hammer3246
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+I'm happy if they worked for you too.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Hammer3246 said:
+
+			I managed to get some free time this past weekend.  Started on the engine inserts (big thanks to maxhebus, they turned out great) and did a test print of Dave's rear Leggs and control vanes, which also look great.
+
+View attachment 655357
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #31  (forum post #4056026)
+Author    : Hammer3246
+Date      : Aug 16, 2016 at 2:01 PM
+Reactions : Like — maxhebus
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+maxhebus said:
+
+			I'm happy it they worked for you too.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+It all went together with no problems
+
+the heat sink fit perfectly, as did the included tool.[emoji106] 
+
+This is coming from my phone, expect errors.
+────────────────────────────────────────────────────────────────────────
+Post #32  (forum post #4056726)
+Author    : -... . .- --..
+Date      : Aug 17, 2016 at 10:02 AM
+Reactions : Like — rbeach84, MonsieurTox
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+sjanish said:
+
+			Wow...memories.
+		
+
+Click to expand...
+
+Straight from the man who helped make this place happen...:cool
+────────────────────────────────────────────────────────────────────────
+Post #33  (forum post #4056733)
+Author    : MonsieurTox
+Date      : Aug 17, 2016 at 10:13 AM
+Reactions : Like — Scott Graham, Hammer3246, -... . .- --..
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+You guys are the true heros, we should all thank you for all what you've done !
+
+It was great to see Darkside72 asking for Flintlock/Ron's help. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ It makes my day ! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ Thanks for sharing with us this link ! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+And thanks for that Harrow find, used on so many SW models !
+────────────────────────────────────────────────────────────────────────
+Post #34  (forum post #4057031)
+Author    : moffeaton
+Date      : Aug 17, 2016 at 4:21 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+The OLD board!
+────────────────────────────────────────────────────────────────────────
+Post #35  (forum post #4059044)
+Author    : Hammer3246
+Date      : Aug 19, 2016 at 9:05 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+Hammer3246 said:
+
+			I'm in need of a casting of the 1/500 Nichimo Yamato tower.  If anyone has one it would be greatly appreciated. 
+
+This is coming from my phone, expect errors.
+		
+
+Click to expand...
+
+BuMp!!
+────────────────────────────────────────────────────────────────────────
+Post #36  (forum post #4059969)
+Author    : jontom
+Date      : Aug 21, 2016 at 3:32 PM
+Reactions : Like — Vacformedhero, rbeach84, Hammer3246
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+And away I go!     Although I think I may have taken "Gold Leader" a bit too much to heart?
+
+[IMAGE: 348959-e65934840760193d96be21092d0e4d1e.jpg]
+
+-John
+────────────────────────────────────────────────────────────────────────
+Post #37  (forum post #4059996)
+Author    : DaveG
+Date      : Aug 21, 2016 at 4:09 PM
+Reactions : Like — jontom, Vacformedhero
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+Orange ya glad ya did it? (Sorry)
+────────────────────────────────────────────────────────────────────────
+Post #38  (forum post #4082716)
+Author    : Hammer3246
+Date      : Sep 21, 2016 at 1:11 PM
+Reactions : Like — dtssyst
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+Fixed it.
+────────────────────────────────────────────────────────────────────────
+Post #39  (forum post #4083765)
+Author    : kokkari
+Date      : Sep 22, 2016 at 7:43 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+So what are you going to do about the length Ron? There really doesn't seem like there is a lot you can do without changing the length of the armature.
+────────────────────────────────────────────────────────────────────────
+Post #40  (forum post #4084046)
+Author    : DaveG
+Date      : Sep 23, 2016 at 8:32 AM
+Reactions : Like — Big Dog
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+There are a couple of solutions to extending the length of the armature using the components I supplied. It looks like the amount of extension required shouldn't be more than 1/4", if that. This adjustment should be possible by either drilling a new set of holes in the aluminum C channel or filing the existing holes into elongated slots with a round file which would allow the forward fuselage shell to be slide forward slightly creating more room for a longer neck section. As has been discussed, the 3D printed neck parts need to be modified (I'm working on that now based on the great information Scott provided).
+
+Alternatively you could change the three holes on the rear of the C channel to slide it forward but the armature will be most rigid if the aluminum channel butts tightly into the 3D printed mounting block as design. Of course, a C shaped spacer could take up the gap and help prevent any flexing.
+────────────────────────────────────────────────────────────────────────
+Post #41  (forum post #4084055)
+Author    : Hammer3246
+Date      : Sep 23, 2016 at 8:47 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+kokkari said:
+
+			So what are you going to do about the length Ron? There really doesn't seem like there is a lot you can do without changing the length of the armature.
+		
+
+Click to expand...
+
+Yep, I'll just extend it, shouldn't be a problem.  
+
+I had to edit this area too 4.45mm 
+
+View attachment 666434
+────────────────────────────────────────────────────────────────────────
+Post #42  (forum post #4101113)
+Author    : Hammer3246
+Date      : Oct 16, 2016 at 7:11 PM
+Reactions : Like — Vacformedhero, kokkari, Scott Graham
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+Another small update.
+
+[IMAGE: 362107-8f173ec9d27ba1562db7722fd6cf6e36.jpg]
+
+I didn't realize one of the parts had fallen off before I put in rubber, oh well lesson learned, and I purposely left the spots above the otaki P-51struts bare since I don't know what goes there.
+────────────────────────────────────────────────────────────────────────
+Post #43  (forum post #4101189)
+Author    : kokkari
+Date      : Oct 16, 2016 at 9:43 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+Looks Fantastic! Did you have to mod it much to fit into Dave's cockpit? It looks like a good fit from your photo.
+────────────────────────────────────────────────────────────────────────
+Post #44  (forum post #4101197)
+Author    : Hammer3246
+Date      : Oct 16, 2016 at 10:08 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+Thanks Mike.  I didn't really trim much before molding since its easier/cheaper to do that with a cast so it defiantly needs to be cut down,  mostly on the bottom and sides.
+────────────────────────────────────────────────────────────────────────
+Post #45  (forum post #4101485)
+Author    : WINGNIT
+Date      : Oct 17, 2016 at 10:36 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+This is looking great.  Got any updates?
+────────────────────────────────────────────────────────────────────────
+Post #46  (forum post #4148545)
+Author    : Hammer3246
+Date      : Dec 23, 2016 at 1:39 AM
+Reactions : Like — dtssyst, scopesmapeo, Treadwell
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+Thanks Jon
+────────────────────────────────────────────────────────────────────────
+Post #47  (forum post #4152931)
+Author    : Hammer3246
+Date      : Dec 29, 2016 at 3:47 PM
+Reactions : Like — scopesmapeo, Studio Kitbash, Scott Graham
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+I decide to settle on Tie Killer since it has the most reference other than Red Jammer, I hope to do Triangles someday when more pictures surface of it.
+
+[IMAGE: 377161-ee4f1875e7051ebcda7432bd677ff4c5.jpg]
+
+[IMAGE: 377162-3d1997f9bd3d04f31d5c137917053a18.jpg]
+
+[IMAGE: 377163-2f6582cab8c5021f77824df9afd337c9.jpg]
+
+[IMAGE: 377164-dca1a808fa41b46db0776ab091355171.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #48  (forum post #4153129)
+Author    : Verbal21
+Date      : Dec 29, 2016 at 9:03 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+That is coming along very nicely. Excellent work.
+────────────────────────────────────────────────────────────────────────
+Post #49  (forum post #4163109)
+Author    : Hammer3246
+Date      : Jan 11, 2017 at 2:00 PM
+Reactions : Like — Treadwell, scopesmapeo, Scott Graham
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+I've managed to get quite a lot done over the last while, waiting on some more kits and some more ID's, there's a ton of parts on Tie Killer and I'm about sick of the Centurion.
+
+[IMAGE: 379746-e436640eb37a4ebada332997648c2f25.jpg]
+
+[IMAGE: 379747-4c163ad612a40028ca456b0544db1250.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #50  (forum post #4163185)
+Author    : kokkari
+Date      : Jan 11, 2017 at 3:18 PM
+Reactions : Like — Hammer3246
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+Inspiring! 
+
+I never noticed the Heinkel He 177 strut on the top of the neck in the little crevice before until I saw it on yours. Low and behold, there it is when I went and looked at my reference!
+────────────────────────────────────────────────────────────────────────
+Post #51  (forum post #4163195)
+Author    : Hammer3246
+Date      : Jan 11, 2017 at 3:31 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+Thanks Mike.  Yeah, there is stuff crammed everywhere.  There's more on the other side too,  it looks like it's the same part that's  under the I-19 on the back end.
+
+Edit here's the part.
+
+[IMAGE: 379781-f501508babeb10af2ac08d2f87a1b518.jpg]
+
+I don't mean the hose on the left but the piece under it.
+────────────────────────────────────────────────────────────────────────
+Post #52  (forum post #4163209)
+Author    : Hammer3246
+Date      : Jan 11, 2017 at 3:51 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+Here are some of the parts I cant ID.
+
+[IMAGE: 379851-01138a6d424ca96c8971f0475e0e3d55.jpg]
+
+[IMAGE: 379852-c0a634c44709abf6fef6035a25c37cc5.jpg]
+
+[IMAGE: 379853-672461ee1ae5513fabc797b70d507d55.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #53  (forum post #4163318)
+Author    : kokkari
+Date      : Jan 11, 2017 at 6:23 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+Your attachments no worky worky.
+────────────────────────────────────────────────────────────────────────
+Post #54  (forum post #4163372)
+Author    : Hammer3246
+Date      : Jan 11, 2017 at 7:43 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+kokkari said:
+
+			Your attachments no worky worky.
+		
+
+Click to expand...
+
+Thanks, fixed.
+────────────────────────────────────────────────────────────────────────
+Post #55  (forum post #4169502)
+Author    : kokkari
+Date      : Jan 19, 2017 at 9:26 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+Hammer3246 said:
+
+			Thanks Mike.  Yeah, there is stuff crammed everywhere.  There's more on the other side too,  it looks like it's the same part that's  under the I-19 on the back end.
+
+Edit here's the part.
+
+View attachment 697515
+
+Click to expand...
+
+So do you know what the part is from?
+────────────────────────────────────────────────────────────────────────
+Post #56  (forum post #4169542)
+Author    : Hammer3246
+Date      : Jan 19, 2017 at 10:03 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+Not yet.
+────────────────────────────────────────────────────────────────────────
+Post #57  (forum post #4244196)
+Author    : Hammer3246
+Date      : May 10, 2017 at 9:11 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+View attachment 727725
+
+Does anyone have an ID for these that they're willing to share?
+────────────────────────────────────────────────────────────────────────
+Post #58  (forum post #4244429)
+Author    : Firefox3D
+Date      : May 10, 2017 at 2:52 PM
+Reactions : Like — Hammer3246
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+Looks really familiar as in something I built as a kid, civil aircraft undercarriage, Boeing 747?
+────────────────────────────────────────────────────────────────────────
+Post #59  (forum post #4244570)
+Author    : Hammer3246
+Date      : May 10, 2017 at 8:35 PM
+Reactions : Like — dirtydave, kokkari
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+[IMAGE: 402524-297408403763d3e229d7508d34659978.jpg]
+
+Airfix DC-9
+────────────────────────────────────────────────────────────────────────
+Post #60  (forum post #4244939)
+Author    : Firefox3D
+Date      : May 11, 2017 at 2:10 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+Boeing 747 by Revell  8.20-ish in https://www.youtube.com/watch?v=V5DCNWR3NE4 front undercarriage - looks about 15-20mm long, is that too small?
+
+Can't find a decent pic of a kit but the 707 looks pretty similar also.
+────────────────────────────────────────────────────────────────────────
+Post #61  (forum post #4245072)
+Author    : Hammer3246
+Date      : May 11, 2017 at 7:01 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+Firefox3D said:
+
+			Boeing 747 by Revell  8.20-ish in https://www.youtube.com/watch?v=V5DCNWR3NE4 front undercarriage - looks about 15-20mm long, is that too small?
+
+Can't find a decent pic of a kit but the 707 looks pretty similar also.
+		
+
+Click to expand...
+
+Thanks Jon.  I'll see what I can dig up.
+
+Sent from my SM-N915W8 using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #62  (forum post #4245190)
+Author    : Hammer3246
+Date      : May 12, 2017 at 12:37 AM
+Reactions : Like — Scott Graham
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+[IMAGE: 402748-93568589de118912a721b18e01f0e58a.jpg]
+
+Found this one.  Airfix 727-200
+
+ 
+
+Attachments
+
+[IMAGE: 402689-b01d0d206b045ffb3a75ca5c881a3c81.jpg]
+
+707.png
+
+					58.8 KB
+					
+					· Views: 662
+────────────────────────────────────────────────────────────────────────
+Post #63  (forum post #4245193)
+Author    : Hammer3246
+Date      : May 12, 2017 at 12:46 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+[IMAGE: 402749-07478f30d930f18776f8875e08cdbc33.jpg]
+
+ Any ideas?
+────────────────────────────────────────────────────────────────────────
+Post #64  (forum post #4245282)
+Author    : kokkari
+Date      : May 12, 2017 at 6:36 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+A wrench? Ha, I thought the same when I first saw it.
+────────────────────────────────────────────────────────────────────────
+Post #65  (forum post #4245356)
+Author    : Firefox3D
+Date      : May 12, 2017 at 8:42 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+Hammer3246 said:
+
+View attachment 728073
+
+Getting closer.    I know it's not right,  but it is. ....closer.
+		
+
+Click to expand...
+
+Could be a 707 made by another manufacturer, I saw three 747 kits and they all looked different.
+
+You have probably come across this site with an image search, but they show the parts content of 50% or so of the kits https://www.cybermodeler.com/search.shtml
+────────────────────────────────────────────────────────────────────────
+Post #66  (forum post #4245371)
+Author    : Hammer3246
+Date      : May 12, 2017 at 9:04 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+Firefox3D said:
+
+			Could be a 707 made by another manufacturer, I saw three 747 kits and they all looked different.
+
+You have probably come across this site with an image search, but they show the parts content of 50% or so of the kits https://www.cybermodeler.com/search.shtml
+
+Click to expand...
+
+Thats one of the sites I use,  or ebay.  Sometimes it has decent pictures.   I'm leaning towards Airfix as the supplier of all the struts,  the only other donated one so far comes from Otaki. 
+
+EDIT...Duh!  I forgot about FROG as a supplier too.
+
+Sent from my SM-N915W8 using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #67  (forum post #4245949)
+Author    : Hammer3246
+Date      : May 13, 2017 at 1:01 PM
+Reactions : Like — wmneill, Studio Kitbash, Fett_Ish
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+A few missing parts and then I need to learn how to paint.
+
+[IMAGE: 402966-1a11ea7451a81a07244c03af0cd6a4cd.jpg]
+
+[IMAGE: 402967-256638ea4ec40a3df3fb31dae0f16375.jpg]
+
+[IMAGE: 402968-19b51b68b2748f20623d732973174177.jpg]
+
+[IMAGE: 402969-9a4641b61417c29ad4d140f79beb8060.jpg]
+
+[IMAGE: 402970-14e195b888ede44c4a3f4405107fda78.jpg]
+
+[IMAGE: 402971-d677a8ba3320a133cb931714b73ca4bc.jpg]
+
+[IMAGE: 402972-507b2d18c48e742cddbc9a4200305f9f.jpg]
+
+[IMAGE: 402973-7fa1d9f14f1cab5d48577097760bc84d.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #68  (forum post #4247940)
+Author    : Lee S
+Date      : May 16, 2017 at 8:08 PM
+Reactions : Like — Hammer3246
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+VERY nice work!!
+────────────────────────────────────────────────────────────────────────
+Post #69  (forum post #4248632)
+Author    : Studio Kitbash
+Date      : May 18, 2017 at 12:07 AM
+Reactions : Like — Hammer3246
+────────────────────────────────────────────────────────────────────────
+
+Impressive.  Most impressive.  Especially how you've tricked the eye and the camera into thinking you can fit all those nurnies onto the upper tee plate, which you can't.  Some serious magic hands at work here...  Looks fantastic -- can't wait to see it painted.
+────────────────────────────────────────────────────────────────────────
+Post #70  (forum post #4249912)
+Author    : Hammer3246
+Date      : May 19, 2017 at 11:50 PM
+────────────────────────────────────────────────────────────────────────
+
+Studio Kitbash said:
+
+			Impressive.  Most impressive.  Especially how you've tricked the eye and the camera into thinking you can fit all those nurnies onto the upper tee plate, which you can't.  Some serious magic hands at work here...  Looks fantastic -- can't wait to see it painted.
+		
+
+Click to expand...
+
+Thanks SK, I appreciate it!
+
+The painting will be the issue. I'm not a fan the screen used job.  I have no intentions of copying that paint job (even if I could, yuck...green just doesn't look right on it).  I'm no artist with an airbrush either so it will most likely be an interpretation of a TK paint job based on me, since I'm the one who has to look at it. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Cheers
+────────────────────────────────────────────────────────────────────────
+Post #71  (forum post #4250203)
+Author    : Dimitri-Ajith
+Date      : May 20, 2017 at 1:59 PM
+────────────────────────────────────────────────────────────────────────
+
+Very cool build!
+────────────────────────────────────────────────────────────────────────
+Post #72  (forum post #4257397)
+Author    : Hammer3246
+Date      : Jun 2, 2017 at 12:08 AM
+Reactions : Like, Love — Studio Kitbash, Carnet, 32buds
+────────────────────────────────────────────────────────────────────────
+
+[IMAGE: 406415-12f108f160e656461505ed51461e9c03.jpg]
+
+Waiting for some wash so I can tone down the white.  I don't want to weather it too much, I like it as it is so far.
+────────────────────────────────────────────────────────────────────────
+Post #73  (forum post #4257537)
+Author    : kokkari
+Date      : Jun 2, 2017 at 7:53 AM
+────────────────────────────────────────────────────────────────────────
+
+Oh hell yea! that is looking fantastic! What color did you go with on the canopy or did you mix your own?
+────────────────────────────────────────────────────────────────────────
+Post #74  (forum post #4257559)
+Author    : Hammer3246
+Date      : Jun 2, 2017 at 8:21 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks Mike!
+
+Other than the base which is Valspar white primer from Michaels.  Everything is Tamiya acrylics, and I did mix the blue and the yellows, airbrushed the soot and worked in some Tamiya weathering master pastels to tone down the black and add the yellow to the pipes.
+────────────────────────────────────────────────────────────────────────
+Post #75  (forum post #4257581)
+Author    : Firefox3D
+Date      : Jun 2, 2017 at 9:06 AM
+────────────────────────────────────────────────────────────────────────
+
+Colours are good, has that pastel almost washed out look of the studio models.
+────────────────────────────────────────────────────────────────────────
+Post #76  (forum post #4324693)
+Author    : Hammer3246
+Date      : Sep 30, 2017 at 8:22 AM
+Reactions : Like — swgeek, Carnet, kokkari
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+Hammer3246 said:
+
+View attachment 727725
+
+Does anyone have an ID for these that they're willing to share?
+		
+
+Click to expand...
+
+One more down,  Airfix 1/72 Jetstream.
+
+[IMAGE: 428172-1f4a6265cc01c8bfb6816deb18b286c9.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #77  (forum post #4345980)
+Author    : Hammer3246
+Date      : Nov 4, 2017 at 8:52 AM
+Reactions : Like — Lee S, Studio Kitbash, dirtydave
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+Hammer3246 said:
+
+			Here are some of the parts I cant ID.
+
+View attachment 697589
+
+View attachment 697590
+
+View attachment 697591
+
+Click to expand...
+
+Finally found the part in the top picture.  Nichimo 1/500 Yamato.
+
+[IMAGE: 434675-522778b7ab670fe00247d1982395c9cb.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #78  (forum post #4352539)
+Author    : Hammer3246
+Date      : Nov 15, 2017 at 9:46 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+kokkari said:
+
+			So do you know what the part is from?
+		
+
+Click to expand...
+
+A little late, but I found the part.  Its trimmed from the 1/25 Centurion MkIII.
+
+[IMAGE: 436533-59a0e69e8beb7b079c053abea12d7e8f.jpg]
+
+[IMAGE: 436534-856417e6323b217687b65e96072ac623.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #79  (forum post #4352541)
+Author    : kokkari
+Date      : Nov 15, 2017 at 9:50 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+Hammer3246 said:
+
+			A little late, but I found the part.  Its trimmed from the 1/25 Centurion MkIII.
+
+View attachment 773613
+
+View attachment 773614
+
+Click to expand...
+
+Hahaha! There it is! And to think, I've looked at it and passed it over a 100 times. Thanks Ron!
+────────────────────────────────────────────────────────────────────────
+Post #80  (forum post #4352546)
+Author    : Hammer3246
+Date      : Nov 15, 2017 at 9:57 AM
+────────────────────────────────────────────────────────────────────────
+
+Lol.  Me too.
+────────────────────────────────────────────────────────────────────────
+Post #81  (forum post #4357864)
+Author    : Studio Kitbash
+Date      : Nov 24, 2017 at 2:26 PM
+Reactions : Like — Hammer3246
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+Hammer3246 said:
+
+			Finally found the part in the top picture.  Nichimo 1/500 Yamato.
+
+View attachment 771162
+
+Click to expand...
+
+That is a NICE find:  does everyone also already know that the greeblie at the bottom of that sidewall piece is the Airfix/MPC 1/24 Hurricane (retractable) boarding ladder, part #216.  I'm assuming so, but it was news to me thanks to your find.
+
+[IMAGE: 438085-6586a0d82114ae696a6091e0c0bcc8a0.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #82  (forum post #4357865)
+Author    : Hammer3246
+Date      : Nov 24, 2017 at 2:34 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: Open source Y-Wing (DaveG)
+
+Studio Kitbash said:
+
+			That is a NICE find:  does everyone also already know that the greeblie at the bottom of that sidewall piece is the Airfix/MPC 1/24 Hurricane (retractable) boarding ladder, part #216.  I'm assuming so, but it was news to me thanks to your find.
+
+View attachment 775586
+
+Click to expand...
+
+I knew the part from the kit but didn't know what it did.   Interesting,   I never really considered the function of the parts in real life.
+
+Sent from my SM-G950W using Tapatalk
+────────────────────────────────────────────────────────────────────────
+Post #83  (forum post #4565104)
+Author    : Hammer3246
+Date      : Jan 8, 2019 at 9:20 AM
+Reactions : Like — kokkari, dirtydave, Scott Graham
+────────────────────────────────────────────────────────────────────────
+
+Another discovery.
+
+AMT 1/43 Peterbilt 359.
+
+ 
+
+Attachments
+
+[IMAGE: 617029-06fc480651e5ae6aea85e70e0160f14a.jpg]
+
+AMT143-359.jpg
+
+					82 KB
+					
+					· Views: 282
+					
+				
+
+[IMAGE: 623790-92f43d203829ded209152baacc9d584c.jpg]
+
+20190124_164100.jpg
+
+					675.6 KB
+					
+					· Views: 219
+────────────────────────────────────────────────────────────────────────
+Post #84  (forum post #4565251)
+Author    : kokkari
+Date      : Jan 8, 2019 at 1:32 PM
+Reactions : Like — Hammer3246
+────────────────────────────────────────────────────────────────────────
+
+Hammer3246 said:
+
+			Another discovery.
+
+AMT 1/43 Peterbilt 359.
+		
+
+Click to expand...
+
+Nice find! I just scratched that pipe on mine and never really liked it. I'm going to have to add this.
+────────────────────────────────────────────────────────────────────────
+Post #85  (forum post #4565262)
+Author    : Hammer3246
+Date      : Jan 8, 2019 at 1:49 PM
+Reactions : Like — Scott Graham
+────────────────────────────────────────────────────────────────────────
+
+kokkari said:
+
+			Nice find! I just scratched that pipe on mine and never really liked it. I'm going to have to add this.
+		
+
+Click to expand...
+
+Thanks.  I was bored this morning and stumbled upon it.
+────────────────────────────────────────────────────────────────────────
+Post #86  (forum post #4565719)
+Author    : Studio Kitbash
+Date      : Jan 9, 2019 at 4:08 PM
+────────────────────────────────────────────────────────────────────────
+
+Awesome find -- well done!  Always amazing to me how often "boredom" is the basis for creativity.  I've found "most" of the things I've found while looking for something else.
+────────────────────────────────────────────────────────────────────────
+Post #87  (forum post #4571897)
+Author    : Hammer3246
+Date      : Jan 23, 2019 at 10:04 PM
+────────────────────────────────────────────────────────────────────────
+
+There seems to be an issue with the Peterbilt ID at this time.  Please stand by.
+────────────────────────────────────────────────────────────────────────
+Post #88  (forum post #4572106)
+Author    : Hammer3246
+Date      : Jan 24, 2019 at 2:31 PM
+Reactions : Like — kokkari
+────────────────────────────────────────────────────────────────────────
+
+Hammer3246 said:
+
+			There seems to be an issue with the Peterbilt ID at this time.  Please stand by.
+		
+
+Click to expand...
+
+Disregard.   It's correct.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 88

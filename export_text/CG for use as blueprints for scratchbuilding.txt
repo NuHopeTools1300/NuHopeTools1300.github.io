@@ -1,0 +1,52 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : CG for use as blueprints for scratchbuilding
+URL    : https://www.therpf.com/forums/threads/cg-for-use-as-blueprints-for-scratchbuilding.4378/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #82678)
+Author    : Less than Super Ostrich
+Date      : Mar 22, 2006 at 5:51 AM
+────────────────────────────────────────────────────────────────────────
+
+Do any of you have experience using CG rendered downloads in the absence of available blueprints? I'm trying to locate plans for a scratchbuild project, but the only thing I can find is downloadable CG renders.
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #82687)
+Author    : Deleted
+Date      : Mar 22, 2006 at 6:36 AM
+────────────────────────────────────────────────────────────────────────
+
+I used a CG model that I built as a base for my Slave 1. Not sure how accurate downloadable cg models are.
+
+Tim
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #82697)
+Author    : Less than Super Ostrich
+Date      : Mar 22, 2006 at 7:06 AM
+────────────────────────────────────────────────────────────────────────
+
+Here's why I'm asking. I was thinking of having a master of the Republic Gunship built. I'm having a hard time locating decent plans. I've found a good CG render here:
+
+http://scifi3d.theforce.net/
+
+If you search for LAAT, you'll find a great CG model. They are in these formats:
+
+MAX 3
+
+3DS
+
+Truespace
+
+LW 6.x
+
+All I'm trying to do is to get some copies on paper so I can start manipulating shapes to come up with a frame. I doubt this is a simple task, but I figured some of you may know.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #83015)
+Author    : cobywan
+Date      : Mar 22, 2006 at 7:07 PM
+────────────────────────────────────────────────────────────────────────
+
+The best thing to do is use the mesh to create the frames you want.  Rhino is great for that.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 4

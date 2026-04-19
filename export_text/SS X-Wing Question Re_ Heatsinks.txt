@@ -1,0 +1,114 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : SS X-Wing Question Re: Heatsinks
+URL    : https://www.therpf.com/forums/threads/ss-x-wing-question-re-heatsinks.39847/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #523558)
+Author    : TridCloudwalker
+Date      : Feb 28, 2008 at 1:40 PM
+────────────────────────────────────────────────────────────────────────
+
+I finally got a hold of a bunch of heatsinks from Allied Electronics, and it dawned on me that I have no idea how many go onto the laser cannons. With the hundreds of photos I have of X-Wing studio models, none of them have a perfect profile of the cannons.
+
+So, dear modelers, do two or three heatsinks go onto a single wing mounted laser cannon?
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #523815)
+Author    : vaderdarth
+Date      : Feb 28, 2008 at 8:14 PM
+────────────────────────────────────────────────────────────────────────
+
+two per cannon and two per engine pod.  That is what was said in one of the SS Xwing threads.  I wrote that one down.  Good info.  There were even pix to prove the necessity of the number of heatsinks.  
+
+Dave 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #523862)
+Author    : Treadwell
+Date      : Feb 28, 2008 at 9:49 PM
+────────────────────────────────────────────────────────────────────────
+
+You can get away with one in the pods...Red 2 seems to be the only one with two. (That Red 2 just has to be different in a multitude of ways, that one!)
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #523891)
+Author    : vaderdarth
+Date      : Feb 28, 2008 at 10:46 PM
+────────────────────────────────────────────────────────────────────────
+
+I stand corrected Tread,  it was Red 2 with the doubles in the pods.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Dave
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #523906)
+Author    : TridCloudwalker
+Date      : Feb 28, 2008 at 11:36 PM
+────────────────────────────────────────────────────────────────────────
+
+Most excellent. Thanks, guys!
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #524681)
+Author    : Apophis
+Date      : Mar 1, 2008 at 5:42 AM
+────────────────────────────────────────────────────────────────────────
+
+All of my laser cannons use three each and one in the engine pod, with the exception of red 2, 
+
+They are 1/4" tall, the ones that come in the SS kit are 3/4" tall.
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #524855)
+Author    : Treadwell
+Date      : Mar 1, 2008 at 12:01 PM
+────────────────────────────────────────────────────────────────────────
+
+On the cannons, there is one heatsink exposed, then a ring, then a heatsink partially poking out the front of the ring. In that configuration there would be a gap between the heatsinks hidden by the ring, but it isn't wide enough for another heatsink. Either way, the heatsink would be completely hidden by the ring anyhow.
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #524935)
+Author    : Apophis
+Date      : Mar 1, 2008 at 2:40 PM
+────────────────────────────────────────────────────────────────────────
+
+Is this only on the red 2 or on all of them?
+
+So, the hero kits are wrong? My resin heatsinks on my kits have 3. I thought that they only had 2 but stacked next to each other, the resin one is higher.
+
+But obviously your picture proves otherwise.
+
+I sure would like to know.
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #525177)
+Author    : Treadwell
+Date      : Mar 2, 2008 at 12:05 AM
+────────────────────────────────────────────────────────────────────────
+
+Looking quickly through my reference, the configuration in the above pic (Red 3 in the Art Of book) is the same on Red 1, Red 2 and Red 4/Red 5.
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #561221)
+Author    : Miniaturizer Ray
+Date      : Apr 19, 2008 at 12:03 AM
+────────────────────────────────────────────────────────────────────────
+
+Treadwell said:
+
+			On the cannons, there is one heatsink exposed, then a ring, then a heatsink partially poking out the front of the ring. In that configuration there would be a gap between the heatsinks hidden by the ring, but it isn't wide enough for another heatsink. Either way, the heatsink would be completely hidden by the ring anyhow.
+		
+
+Click to expand...
+
+ 
+
+The "ring" should actually be closed at the back end, like http://www.plastruct.com/Pages/OnlineProductDetail.lasso?-op='eq'&CCode=BTC-16, which is possibly - but by no means definitely - what was used on the original miniatures.
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #562130)
+Author    : mslz22
+Date      : Apr 20, 2008 at 4:05 PM
+────────────────────────────────────────────────────────────────────────
+
+What i have for reference shows that the height of the heatsinks that come with the kit are correct, at least for the x wing that I have reference from, it is possible some had 2 or some had 3, but the effect with what comes with the kit and the ring is equal in height to what i have here.
+
+Miniaturizer Ray is right about the cap instead of the ring, I may change this on the kit...
+
+mike
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 11

@@ -1,0 +1,79 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Source for Aavid heatsinks on SS X-Wing?
+URL    : https://www.therpf.com/forums/threads/source-for-aavid-heatsinks-on-ss-x-wing.97043/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #1384526)
+Author    : EvanW
+Date      : Sep 28, 2010 at 11:46 AM
+────────────────────────────────────────────────────────────────────────
+
+Hi All,
+
+Does anyone have a source for the heatsinks found on the laser cannons of an SS X-Wing? Linked below to pic in another thread. I have the resin ones that came with my V3 but a couple have broken edges on them and I would like to go new.
+
+Thanks,
+
+Evan
+
+http://www.therpf.com/attachments/f10/ss-x-wing-question-re-heatsinks-aoswx2.jpg-6744d1204401663
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #1384542)
+Author    : mbmcfarland
+Date      : Sep 28, 2010 at 11:57 AM
+Reactions : Like — SeismicA
+────────────────────────────────────────────────────────────────────────
+
+I get mine from Allied Electronics:
+
+Aavid Thermalloy - 323005B00000G - Fans, Motors & Thermal Management - Heatsinks - Allied Electronics
+
+-Mike
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #1384564)
+Author    : EvanW
+Date      : Sep 28, 2010 at 12:20 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks! Ordered a bunch and en route.
+
+Now if I just find an Airfix Saturn V can to replace the one I stepped on! eBay...
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #1386751)
+Author    : ILMwannabe
+Date      : Sep 30, 2010 at 6:08 AM
+────────────────────────────────────────────────────────────────────────
+
+Sorry I didn't see this earlier. They're made by Aavid Thermalloy .75” dia. x .25” high (19.05 x 6.35mm) Heat Sink (mfg. PN 323005B00000G). Right now Allied has the better price, although Digi-Key also has them (DigiKey Corp. | Electronic Components Distributor | United States Home Page) It is Digikey PN HS101-ND
+
+EvanW said:
+
+			Hi All,
+
+Does anyone have a source for the heatsinks found on the laser cannons of an SS X-Wing? Linked below to pic in another thread. I have the resin ones that came with my V3 but a couple have broken edges on them and I would like to go new.
+
+Thanks,
+
+Evan
+
+http://www.therpf.com/attachments/f10/ss-x-wing-question-re-heatsinks-aoswx2.jpg-6744d1204401663
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #1388282)
+Author    : Treadwell
+Date      : Oct 1, 2010 at 12:06 PM
+────────────────────────────────────────────────────────────────────────
+
+or if you have a friend in Orlando, have them stop by Starcraft.
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #1389659)
+Author    : Shadowknight
+Date      : Oct 2, 2010 at 12:45 PM
+────────────────────────────────────────────────────────────────────────
+
+I ordered from digikey on Thursday and the heatsinks are already here!
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 6

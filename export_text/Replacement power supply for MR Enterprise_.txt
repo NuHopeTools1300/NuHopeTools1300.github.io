@@ -1,0 +1,33 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Replacement power supply for MR Enterprise?
+URL    : https://www.therpf.com/forums/threads/replacement-power-supply-for-mr-enterprise.64955/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #908352)
+Author    : kuyadavid
+Date      : Jun 21, 2009 at 11:58 AM
+────────────────────────────────────────────────────────────────────────
+
+I seem to have misplaced the power supply to my Master Replicas USS Enterprise, and cannot locate specs for getting a replacement.  The MR site has nothing useful on it any more, and searches of RPF and the internet at large have yielded nothing more than "Universal AC Power Adapter".
+
+Can anyone give me guidance on buying a replacement?  I don't want to fry my nacelles by getting the wrong thing.  :confused
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #908363)
+Author    : feek61
+Date      : Jun 21, 2009 at 12:25 PM
+────────────────────────────────────────────────────────────────────────
+
+You are looking for a 9v 1.7 amp adapter.  Should be easy to find.
+
+Will
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #908369)
+Author    : kuyadavid
+Date      : Jun 21, 2009 at 12:37 PM
+────────────────────────────────────────────────────────────────────────
+
+Fantastic.  Thanks Will!
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 3

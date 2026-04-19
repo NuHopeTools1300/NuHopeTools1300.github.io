@@ -1,0 +1,1134 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : F#$! - My MR falcon Headlight just went out...
+URL    : https://www.therpf.com/forums/threads/f-my-mr-falcon-headlight-just-went-out.47612/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #640130)
+Author    : Jedi Dade
+Date      : Jul 31, 2008 at 5:45 PM
+────────────────────────────────────────────────────────────────────────
+
+On a whim I turned on my MR falcon electronics and Blam the typical Falcon malfunction of the burned out headlight is there...  It had owrked perfectly for a Long time... now Boom - nothing...  to make it worse this is my #12 signature edition...  Ugghhh  Does anyone know how this might be fixed.  Short of buildign a time machine and getting anthoer one...
+
+Thanks,
+
+Jedi Dade
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #640217)
+Author    : moffeaton
+Date      : Jul 31, 2008 at 6:54 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: F#$K - My MR falcon Headlight just went out...
+
+Nope - welcome to my world 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Left mandible, right?
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #640253)
+Author    : David Moeller
+Date      : Jul 31, 2008 at 7:47 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: F#$K - My MR falcon Headlight just went out...
+
+Are they LED's or lights? It all depends on how they wired it up. If they properly lit the LED's, then they should last almost forever. It may be a faulty connection, maybe a bad switch. If you can get into it to examine it, you may get lucky. I unfortunately don't have one, so I am just giving you my best guess.
+
+Good luck with it!
+
+Dave
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #640254)
+Author    : PHArchivist
+Date      : Jul 31, 2008 at 7:48 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: F#$K - My MR falcon Headlight just went out...
+
+Ya know...  Ligjhts (for me anyway) are a cool added bonus.  
+
+But it's really all about the fact that you STILL own the VERY best studio scale model ever mass produced at a fraction of the cost it would take to scratch-build...
+
+Go get drunk and commiserate, then get back to loving the hell out of the model -- with or without lights! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #640281)
+Author    : Hedjii72
+Date      : Jul 31, 2008 at 8:40 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: F#$K - My MR falcon Headlight just went out...
+
+Here is a thread from rebelscum with someone who had the problem as well.  A lot of ideas offered there.
+
+Rebelscum Thread
+
+Also, in that thread, Bryan Ono from Master Replicas had this to say:
+
+			
+				eFXBryan said:
+			
+		
+
+			
+				Philip_Wise said:
+			
+		
+
+			Bryan Ono should step in here as this is something he should know all about.
+		
+
+Click to expand...
+
+Gee thanks Philip!
+
+We were very careful with the electronics on the Falcon, since because of the construction, you would not be able to change the LED's once assembled.  Each set of electronics were carefully tested (before and after) and all of the solder joints were supposed to be checked carefully to make sure they were "shiny and smooth" to ensure a good secure connection.  Also, there are the proper resistors inline to control the current.  So, unfortunately, I do not have an answer to why some of the lights are going out.  As stated above, the LED's should not burn out, since the minimum life was spec'ed at 10,000 hours.
+
+As for the specific problem, here are a couple things to try.  Even with the ON/OFF switch, if you kept the adapter plugged in, there could be a little trickle of current going into the Falcon from the base.  However, this is not enough to light the LED's.  In this case, corrosion can builb up on the connection. So try:
+
+1.  Spinning the Falcon on the base.  Sometimes, this will "scrape' off the corrosion.
+
+2.  Remove the Falcon completely from the base and clean off the connection post and receptacle.
+
+3.  Ensure that the spring that was included is on the male connector.  This helps to secure the connection.
+
+4.  Test and replace the Adapter if necessary.  The spec is 12VDC, Center Hot, Switching adapter.
+
+Hope this helps.  And just for your information, the X-Wing we are working on, we are trying to make all of the LED's replaceable.  We are trying our best to engineer it so that parts are removable to have access the LED's, yet invisible when assembled.
+
+Bryan
+		
+
+Click to expand...
+
+Good luck!  I hope some of this may help!
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #640432)
+Author    : JBReplicas
+Date      : Aug 1, 2008 at 3:09 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: F#$K - My MR falcon Headlight just went out...
+
+would it help if I got out and pushed? :confused  thats sucks, is it possible to open her up and see whats wrong?
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #640545)
+Author    : feek61
+Date      : Aug 1, 2008 at 7:35 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: F#$K - My MR falcon Headlight just went out...
+
+just a thought but why not just paint them both black and have no headlights.  At least it would look better than just one side lit (or you can crack it open and see what makes it tick!).
+
+Will
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #640572)
+Author    : smurf
+Date      : Aug 1, 2008 at 8:42 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: F#$K - My MR falcon Headlight just went out...
+
+One alternative -although sucky- add some laserblast weathering around the headlight and then you can assume the light has been blasted. I know. I said it wasn't the best idea.
+
+Sweet
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #640768)
+Author    : Kuhn Global
+Date      : Aug 1, 2008 at 1:53 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: F#$K - My MR falcon Headlight just went out...
+
+moffeaton said:
+
+			Nope - welcome to my world 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Left mandible, right?
+		
+
+Click to expand...
+
+Mine too. 
+
+Let me see... as I complained about it back then it was.... ON.. OFF... ON... OFF.... OUT for good. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ I chose to just leave the lights off on this beastie.
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #640772)
+Author    : CessnaDriver
+Date      : Aug 1, 2008 at 1:56 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: F#$K - My MR falcon Headlight just went out...
+
+wanna sell it cheeeep?
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #640874)
+Author    : Kuhn Global
+Date      : Aug 1, 2008 at 4:25 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: F#$K - My MR falcon Headlight just went out...
+
+CessnaDriver said:
+
+			wanna sell it cheeeep?
+		
+
+Click to expand...
+
+LOLOLOLOLOL...NEVER!!! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ I still think it was a TOP NOTCH release! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #640939)
+Author    : Heimidal
+Date      : Aug 1, 2008 at 6:47 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: F#$K - My MR falcon Headlight just went out...
+
+Speaking of the Falcon...they have the replacement plaques at MR now. Just got mine today in the mail!
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #640957)
+Author    : belloq
+Date      : Aug 1, 2008 at 7:32 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: F#$K - My MR falcon Headlight just went out...
+
+What replacement plaques? How do I get one?
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #640968)
+Author    : nightrider
+Date      : Aug 1, 2008 at 7:43 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: F#$K - My MR falcon Headlight just went out...
+
+No worries mate, you're not alone. I've had two so far that had lights go out and fully expect the one I have now or the other one I have with Dean to probably suffer the same fate sooner or later. Really doesn't bother me though, lights were just a novelty to me in the first place and I didn't use them after the first couple of weeks much anyway.
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #640976)
+Author    : nightrider
+Date      : Aug 1, 2008 at 7:48 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: F#$K - My MR falcon Headlight just went out...
+
+As a side note, it would be of interest if Barry or someone else who knows could shed some light on how the electronics were done on the inside of the bird. The problem sounds to me like the LED's are getting too much current causing them to pop after a short time of use. I don't know whether the power supply cuts the voltage down to the proper level or if particular LED's have resistors on them. If there are resistors then it could be an issue of the wrong ones being used in the factory. Doesn't really matter, but it would be interesting to know what a possible cause might be.
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #641076)
+Author    : Heimidal
+Date      : Aug 1, 2008 at 10:53 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: F#$K - My MR falcon Headlight just went out...
+
+belloq said:
+
+			What replacement plaques? How do I get one?
+		
+
+Click to expand...
+
+Check out this thread on the MR forums:
+
+http://masterreplicas.com/forum/showthread.php?p=42333#post42333
+
+Also..pretty sure Bryan mentioned that the proper resistors were used somewhere. Let me see if I can find that info....
+
+EDIT : Found it on the Rebelscum Forums. Here's the thread:  http://threads.rebelscum.com/showflat.php?Cat=&Board=UBB27&Number=3277802
+
+Here's the info from Bryan in one of the posts:
+
+Philip_Wise wrote:
+
+Bryan Ono should step in here as this is something he should know all about. 
+
+Gee thanks Philip!
+
+We were very careful with the electronics on the Falcon, since because of the construction, you would not be able to change the LED's once assembled. Each set of electronics were carefully tested (before and after) and all of the solder joints were supposed to be checked carefully to make sure they were "shiny and smooth" to ensure a good secure connection. Also, there are the proper resistors inline to control the current. So, unfortunately, I do not have an answer to why some of the lights are going out. As stated above, the LED's should not burn out, since the minimum life was spec'ed at 10,000 hours.
+
+As for the specific problem, here are a couple things to try. Even with the ON/OFF switch, if you kept the adapter plugged in, there could be a little trickle of current going into the Falcon from the base. However, this is not enough to light the LED's. In this case, corrosion can builb up on the connection. So try:
+
+1. Spinning the Falcon on the base. Sometimes, this will "scrape' off the corrosion.
+
+2. Remove the Falcon completely from the base and clean off the connection post and receptacle.
+
+3. Ensure that the spring that was included is on the male connector. This helps to secure the connection.
+
+4. Test and replace the Adapter if necessary. The spec is 12VDC, Center Hot, Switching adapter.
+
+Hope this helps. And just for your information, the X-Wing we are working on, we are trying to make all of the LED's replaceable. We are trying our best to engineer it so that parts are removable to have access the LED's, yet invisible when assembled.
+
+Bryan
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #641175)
+Author    : belloq
+Date      : Aug 2, 2008 at 6:54 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: F#$K - My MR falcon Headlight just went out...
+
+Thanks. I'll email MR customer service.
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #641572)
+Author    : nightrider
+Date      : Aug 2, 2008 at 10:20 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: F#$K - My MR falcon Headlight just went out...
+
+So there are resistors in line. Well that explains it then, it appears that some mistakes were made in the factory as far as the resistors go. That's the only explanation for so many people having LED's go out after just a short while. If it were just a couple of people I might say it was a bad LED, but with this many(had two myself) it would have to be an improper resistor causing them to pop. They're getting too much current and simply burning out.
+
+I'm sure MR was very careful in the design, but the factory workers in China more than likely aren't. They could have very easily been provided with a batch of the incorrect type and unless the workers doing the assembly knew what they were looking at they would have never noticed.
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #642417)
+Author    : Jedi Dade
+Date      : Aug 4, 2008 at 10:07 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: F#$K - My MR falcon Headlight just went out...
+
+If it was a QA issue then it wouldn't just be the left LED...  Since its always the left one I'm betting it is a design flaw of some kind...  I serioulsy doubt its a corosion thing either since some of the lights work...  if it was a problem with the connector they'd all not work...
+
+The mandible lights were never a big thing for me but for the price I paid I want every bell and whistle of the sucker to work properly...  IS that too much to ask...  As someone mentione d I mat mask the other headlight to make it look "on purpose" but "winking" its kinda crappy...  
+
+No I don't want to sell it...
+
+Yes its the best studio scale model I've ever owned...  even with the less then optimal factory paint-job.
+
+Jedi Dade
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #642434)
+Author    : nightrider
+Date      : Aug 4, 2008 at 10:42 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: F#$K - My MR falcon Headlight just went out...
+
+I'm sure parts were laid out, put in bins or whatever for their particular area on the Falcon. Likely one "bin", let's say for the left mandible, was stocked with the wrong resistor. It's not likely that any design flaw would cause the light to go out as there are no moving parts inside the ship that could cause a loss of connection.
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #642635)
+Author    : Jedi Dade
+Date      : Aug 4, 2008 at 2:37 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: F#$K - My MR falcon Headlight just went out...
+
+Well knowing a "little" about electronics I would bet a significant amount of money that the left and Right mandible LEDs were supposed to be the same LED with the same resistor...  If not I've got to scratch my head a bit and ask why one side of the ship has a different voltage then the other...  when coming form the same original power source...  my wall socket...  As you pointed out there are no moving parts other then the power switch - which still works - so if one side is buring out consistently...  what are the odds that ALL of the bad components went into left mandibles...  I find it far more likely given the consistency of this problem that there is a flaw in the design of the circuit that allows for some kind of overvoltage to the left mandible... thus they burn out pretty quickly... and consistently.
+
+The only consolation I have is that eventually all of the MR falcons that have the same circuit design will eventually fail the same way...  However not being a d!ck I find that just because others are sharing my misfortune does not make me happy about it... 
+
+If I sound bitter - its not directed at anyone here directly - I'm just REALLY bummed that this seems to be the case.
+
+Jedi Dade
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #642685)
+Author    : nightrider
+Date      : Aug 4, 2008 at 3:34 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: F#$K - My MR falcon Headlight just went out...
+
+I'm sure that both sides use parts of the same value, but judging by how assembly line parts are usually segregated into organized places for assembly, I made a guess that a batch of resistors could have very easily been wrong. In those conditions they would have effected only one side, in this case, the left.
+
+Kinda like how when you see workers coming out and refilling trays on a buffet as they get low or empty. Sometimes they put peas were the potatoes should be though.:lol
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #643006)
+Author    : falcon dude
+Date      : Aug 4, 2008 at 10:58 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: F#$K - My MR falcon Headlight just went out...
+
+same here, left light out
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #643267)
+Author    : Jedi Dade
+Date      : Aug 5, 2008 at 8:53 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: F#$K - My MR falcon Headlight just went out...
+
+nightrider said:
+
+			I'm sure that both sides use parts of the same value, but judging by how assembly line parts are usually segregated into organized places for assembly, I made a guess that a batch of resistors could have very easily been wrong. In those conditions they would have effected only one side, in this case, the left.
+
+Kinda like how when you see workers coming out and refilling trays on a buffet as they get low or empty. Sometimes they put peas were the potatoes should be though.:lol
+		
+
+Click to expand...
+
+ 
+
+Yes I get the whole assembly line thing however if both sides are using the same parts then the source that filled each of the separate right and left bins would almost undoubtedly be the same.  If that were the case then we'd see right and left failures...  So the fact that there were right adn left bins (if there were) would not cause such an ocurance.  for consistency of this kind you needs some kind of common root cause - like a faulty circuit design...  I'm a Systems and Software engineer (Computers), and I've been invovled in programming complex circuit boards that came from our factory...  consistent failures are usually not human error bad parts are usually not ALL bad - humans, and bad parts tend to be hit or miss...  It is usually a faulty design that causes things to break exactly the same way over and over again...
+
+Jedi Dade
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #643285)
+Author    : Qrest Fourstar
+Date      : Aug 5, 2008 at 9:09 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: F#$K - My MR falcon Headlight just went out...
+
+Could someone ask on the MR forums if they have access to dish assmblies for the Falcon? I keep getting no real answers from e-mailing them.
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #643302)
+Author    : darth_myeek
+Date      : Aug 5, 2008 at 9:29 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: F#$K - My MR falcon Headlight just went out...
+
+What would it take to break in there, and fix it?  Could the end piece on the mandible be molded, and a replacement copy be made?  Then the corrected resistor & led could be replaced?
+
+I guess I am a tightwad, but if someone spends 2k on something only to find it has a global issue, I would expect MR to provide a fix.  Even if that fix was just replacement parts, for what is going to have to be broken in order to repair it.
+
+If not, would hope that EFX pick up the MR ball, and address this snafu with a new pre-painted endpiece and the corrected componentry.  Then it would still be factory, with service pack 1. :thumbsup  Heck, they could bundle it as a bonus with a Falcon accurizing kit. A win/win.
+
+-DM
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #643331)
+Author    : nightrider
+Date      : Aug 5, 2008 at 10:08 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: F#$K - My MR falcon Headlight just went out...
+
+There's going to be no way to do such a thing. The majority of people would ruin their ship trying to do something as ambitious as that. The resin the Falcon is cast in is quite brittle and a person could get into a real mess very quickly. That's not to mention the paint tone variances between birds, so even if such a fix were possible, the part would have to be painted to match exactly, a deceptively difficult task, or you would wind up with a very different looking left mandible. 
+
+It's not that big of a deal really, though I understand the frustration, especially with something this expensive. I've returned two myself for this issue, although I'm slowly getting over some of my neurotic behavior and just learning to deal with things as they are, much happier because of it I must say. The way I was before if everything didn't meet my expectations then I just wasn't happy and it would drive me crazy.:lol
+
+To put things in perspective though, just try and imagine all the years and money it would have taken, provided you even have the skills, to build one yourself. We all really have a gorgeous and accurate model of the Falcon and at an incredible bargain for what it is, with or without lights. 
+
+What would be interesting, just as a curiosity, is to see a schematic of the wiring inside the Falcon. Just looking at the layout would probably provide a good idea as to where the problem is occurring.
+────────────────────────────────────────────────────────────────────────
+Post #28  (forum post #643346)
+Author    : nightrider
+Date      : Aug 5, 2008 at 10:17 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: F#$K - My MR falcon Headlight just went out...
+
+Jedi Dade said:
+
+			Yes I get the whole assembly line thing however if both sides are using the same parts then the source that filled each of the separate right and left bins would almost undoubtedly be the same.  If that were the case then we'd see right and left failures...  So the fact that there were right adn left bins (if there were) would not cause such an ocurance.  for consistency of this kind you needs some kind of common root cause - like a faulty circuit design...  I'm a Systems and Software engineer (Computers), and I've been invovled in programming complex circuit boards that came from our factory...  consistent failures are usually not human error bad parts are usually not ALL bad - humans, and bad parts tend to be hit or miss...  It is usually a faulty design that causes things to break exactly the same way over and over again...
+
+Jedi Dade
+		
+
+Click to expand...
+
+That might very well be the issue, I hadn't considered that a circuit board might be in there, I just figured it was wiring, resistors, and LED's.
+────────────────────────────────────────────────────────────────────────
+Post #29  (forum post #644861)
+Author    : Jedi Dade
+Date      : Aug 7, 2008 at 8:43 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: F#$K - My MR falcon Headlight just went out...
+
+Paul Heaberlin said:
+
+			Could someone ask on the MR forums if they have access to dish assmblies for the Falcon? I keep getting no real answers from e-mailing them.
+		
+
+Click to expand...
+
+ 
+
+What do you mean by the dish assemblies? or is this an off topic post? 'cause I'm confused?
+
+Jedi Dade
+────────────────────────────────────────────────────────────────────────
+Post #30  (forum post #790367)
+Author    : Hedjii72
+Date      : Feb 8, 2009 at 2:54 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: F#$K - My MR falcon Headlight just went out...
+
+Whelp, mine just died.  I am sick to my stomach over this.  When facing the Falcon, it is the mandible on the RIGHT side.  Is that different from everybody else's?  I'm so upset.
+────────────────────────────────────────────────────────────────────────
+Post #31  (forum post #790378)
+Author    : Qrest Fourstar
+Date      : Feb 8, 2009 at 3:13 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: F#$K - My MR falcon Headlight just went out...
+
+I can't get over how many reports there are of people's Falcon headlights going bad. Shoddy design if ya ask me. It's not like we all lifted the thing up and flew it through the house? It sits there and doesn't move for crying out loud.
+────────────────────────────────────────────────────────────────────────
+Post #32  (forum post #790380)
+Author    : Hedjii72
+Date      : Feb 8, 2009 at 3:17 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: F#$K - My MR falcon Headlight just went out...
+
+Exactly.  And I kept mine unplugged all the time to avoid the risk of a small trickle of current causing problems.  Man, I'm going to loose sleep over this tonight.
+────────────────────────────────────────────────────────────────────────
+Post #33  (forum post #790430)
+Author    : jvasilatos
+Date      : Feb 8, 2009 at 4:39 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: F#$K - My MR falcon Headlight just went out...
+
+That MR was more worried about engineering this in a way to avoid "recasting" by taking it apart to address technical problems like this as opposed to making sure customers who shelled out a fortune for them could properly service potential electronics failure is a slap in the face to those who were loyal customers buying all their stuff.  It pisses me off to no end.
+
+JV
+────────────────────────────────────────────────────────────────────────
+Post #34  (forum post #790473)
+Author    : darth_myeek
+Date      : Feb 8, 2009 at 5:36 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: F#$K - My MR falcon Headlight just went out...
+
+Has anyone PM'd Barry?
+
+-DM
+────────────────────────────────────────────────────────────────────────
+Post #35  (forum post #790499)
+Author    : moffeaton
+Date      : Feb 8, 2009 at 6:19 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: F#$K - My MR falcon Headlight just went out...
+
+Hedjii72 said:
+
+			Whelp, mine just died.  I am sick to my stomach over this.  When facing the Falcon, it is the mandible on the RIGHT side.  Is that different from everybody else's?  I'm so upset.
+		
+
+Click to expand...
+
+Yep... same side. I still get mad whenever I switch it on and see the big FAIL.
+────────────────────────────────────────────────────────────────────────
+Post #36  (forum post #790548)
+Author    : BrundelFly
+Date      : Feb 8, 2009 at 7:17 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: F#$K - My MR falcon Headlight just went out...
+
+Lets see if we cant shed some light.
+
+Pardon the pun.
+
+What you see here, is an MR Light circuit.
+
+Someone who knows something about electronics needs to comment.
+
+The wires go to the engine lights that appear to be wired in PARALLEL.
+
+(not shown)
+
+[IMAGE: wire.jpg]
+
+[IMAGE: wire2.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #37  (forum post #790574)
+Author    : BrundelFly
+Date      : Feb 8, 2009 at 7:53 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: F#$K - My MR falcon Headlight just went out...
+
+I dont see any resistors.
+────────────────────────────────────────────────────────────────────────
+Post #38  (forum post #790616)
+Author    : darth_myeek
+Date      : Feb 8, 2009 at 9:24 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: F#$K - My MR falcon Headlight just went out...
+
+BrundelFly said:
+
+			I dont see any resistors.
+		
+
+Click to expand...
+
+I don't see the common round kind like..
+
+[IMAGE: resistors_sm.jpg]
+
+and the sneaky surface mount kind like these...
+
+[IMAGE: 014_02.jpg]
+
+My eyes are going.. Do you happen to see the second kind?
+
+-DM
+────────────────────────────────────────────────────────────────────────
+Post #39  (forum post #790621)
+Author    : thx217
+Date      : Feb 8, 2009 at 9:27 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: F#$K - My MR falcon Headlight just went out...
+
+Man, thought mine's are fine, it really suck to know they kicked anytime for unknown reason.
+────────────────────────────────────────────────────────────────────────
+Post #40  (forum post #790803)
+Author    : SD Studios
+Date      : Feb 9, 2009 at 7:25 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: F#$K - My MR falcon Headlight just went out...
+
+Some input:
+
+-Asking MR for ANYTHING on this model at this point will get you NOWHERE. There are like what? six people there? And nobody who works there now, was there when the model was developed about 5-6 years ago. (Except Michael Cookson and he never got involved in product design details.) They just won't know anything about a product that was designed and sold out years before they started working there. Is that their fault?
+
+You would get about as much usable info from your local Wal Mart greeter.
+
+MR just doesn't have any customer support mechanism in place for a model that was developed so many years ago. It is waaaay past the warranty period. What could they possibly do now for you? 
+
+Try to return a used, defective electronic item to ANY store 5 years after you bought it and see what they say...  
+
+So getting angry :angry :angry :angry :angry about this isn't going to solve any problems or accomplish anything.
+
+The model is still one of the greatest achievements in the history of replicas. It is a masterpiece. Love and cherish it. :lol
+
+But the LED thing IS a growing problem, So here is what *I* would do:
+
+Get someone on this forum to mold their front mandible parts (Frank has a loose set of MR parts...hmmmm) Maybe he could even add the two missing detail parts while he is at it. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+You can then CAREFULLY dremel out the mandible front part and replace the offending LED and install with the new cast part. Viola!
+
+If you advertised these parts on the various forums (with a small instruction sheet on how to replace the part and LED, and a repaint code) and sold them for like...$20 shipped, you would probably sell 50 to 100 sets. Nice scratch.
+
+Frank...since you have a "parts" model...are the mandible front plates polystone or injection ABS? I can't remember...
+
+Oh...and...We NEVER specifically designed the model so that it couldn't be recast or opened up for access. It just never came up in any design discussions. None of the MR SS models are designed to be "opened". They just are what they are. It wasn't planned to add "anti-tamper" features. So getting pissed over that is a bit silly. There was no conspiracy. It doesn't exist.     
+
+My LEDS are still fine, but it sounds like they may not be for long...I will probably be a repair customer as well...:angry :angry :angry :angry :angry
+
+(There. I added some angry faces, 'cause you always have to when talking about MR. :lol)
+
+GROUP HUG!
+────────────────────────────────────────────────────────────────────────
+Post #41  (forum post #790998)
+Author    : Jedi Dade
+Date      : Feb 9, 2009 at 11:13 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: F#$K - My MR falcon Headlight just went out...
+
+I do not think that it was built to avoid recasting spcifically...  But it was built to not come apart in suich a way that it would not take a modeler to put it back together...  What ticks me off is that it really does not take a rocket scientist to design an LED circuit that will not fail before the LED itself burns out...  Its just not that hard.  The fact that all the birds burn out the same way points directly to an Engineering problem with the design of the electronics - exactly the same issue they had wit hthe left nacell of the Enterprise.  There is an ENGINEERING problem with the product(s)... that has never been addressed.
+
+But - how to fix the problem.  If I knew how the model went together I would by much more likely to take a whack at cracking it open to make a reapir to the electronics.  without knowing where its held together I'm NOT taking my hobby knife to the seams to try and pry it apart...
+
+At this point the single headlight is MORE offensive to me then if BOTH were out...  I'm 1/2 tempted to drill out the other LED and replace it with some acrylic rod so that both do not shine...  arghh...
+
+Jedi Dade
+────────────────────────────────────────────────────────────────────────
+Post #42  (forum post #791406)
+Author    : weird
+Date      : Feb 9, 2009 at 6:46 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: F#$K - My MR falcon Headlight just went out...
+
+darth_myeek said:
+
+			I don't see the common round kind like..
+
+[IMAGE: resistors_sm.jpg]
+
+and the sneaky surface mount kind like these...
+
+[IMAGE: 014_02.jpg]
+
+My eyes are going.. Do you happen to see the second kind?
+
+-DM
+		
+
+Click to expand...
+
+Hi everyone.  First time posting here.
+
+After staring at the pics that Brundelfly posted, it looks like the second type of resisters are on the board.  Are the electronics off of a dead Falcon?  If so, were the resisters and the LED's tested to see which one failed?
+
+I am also worried that my Falcon will be joining the failed lights club.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #43  (forum post #791683)
+Author    : jvasilatos
+Date      : Feb 10, 2009 at 5:11 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: F#$K - My MR falcon Headlight just went out...
+
+QMX Steve said:
+
+			Some input:
+
+-Asking MR for ANYTHING on this model at this point will get you NOWHERE. There are like what? six people there? And nobody who works there now, was there when the model was developed about 5-6 years ago. (Except Michael Cookson and he never got involved in product design details.) They just won't know anything about a product that was designed and sold out years before they started working there. Is that their fault?
+
+You would get about as much usable info from your local Wal Mart greeter.
+
+MR just doesn't have any customer support mechanism in place for a model that was developed so many years ago. It is waaaay past the warranty period. What could they possibly do now for you? 
+
+Try to return a used, defective electronic item to ANY store 5 years after you bought it and see what they say...  
+
+So getting angry :angry :angry :angry :angry about this isn't going to solve any problems or accomplish anything.
+
+The model is still one of the greatest achievements in the history of replicas. It is a masterpiece. Love and cherish it. :lol
+
+But the LED thing IS a growing problem, So here is what *I* would do:
+
+Get someone on this forum to mold their front mandible parts (Frank has a loose set of MR parts...hmmmm) Maybe he could even add the two missing detail parts while he is at it. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+You can then CAREFULLY dremel out the mandible front part and replace the offending LED and install with the new cast part. Viola!
+
+If you advertised these parts on the various forums (with a small instruction sheet on how to replace the part and LED, and a repaint code) and sold them for like...$20 shipped, you would probably sell 50 to 100 sets. Nice scratch.
+
+Frank...since you have a "parts" model...are the mandible front plates polystone or injection ABS? I can't remember...
+
+Oh...and...We NEVER specifically designed the model so that it couldn't be recast or opened up for access. It just never came up in any design discussions. None of the MR SS models are designed to be "opened". They just are what they are. It wasn't planned to add "anti-tamper" features. So getting pissed over that is a bit silly. There was no conspiracy. It doesn't exist.     
+
+My LEDS are still fine, but it sounds like they may not be for long...I will probably be a repair customer as well...:angry :angry :angry :angry :angry
+
+(There. I added some angry faces, 'cause you always have to when talking about MR. :lol)
+
+GROUP HUG!
+		
+
+Click to expand...
+
+While your proposed solution is a good one, the piece being "out of warranty" is a bull**** explanation.
+
+Mine sat in storage from the day I got it, in it's original packaging from November of 2006 forward, after being opened and inspected ONCE.  I finally had room to take it OUT of storage and set it up for display.
+
+First time the lights were activated, the bulb was OUT.
+
+"Out of warranty" doesn't cut it when this was effectively, in the same shape as off the assembly line sitting in stock waiting for a buyer.
+
+Again, that they didn't effectively design it in a way to allow customers to replace burnt out bulbs by opening it up was poor planning.
+
+JV
+────────────────────────────────────────────────────────────────────────
+Post #44  (forum post #791799)
+Author    : Jedi Dade
+Date      : Feb 10, 2009 at 7:55 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: F#$K - My MR falcon Headlight just went out...
+
+While I agree it sucks...  The warranty is from date of purchase not from date of use...  unfortunately...  MR has no "legal" responsibility.  Morally Yes - Legal no...
+
+Jedi Dade
+────────────────────────────────────────────────────────────────────────
+Post #45  (forum post #792587)
+Author    : BrundelFly
+Date      : Feb 10, 2009 at 9:34 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: F#$K - My MR falcon Headlight just went out...
+
+weird said:
+
+			Hi everyone.  First time posting here.
+
+After staring at the pics that Brundelfly posted, it looks like the second type of resisters are on the board.  Are the electronics off of a dead Falcon?  If so, were the resisters and the LED's tested to see which one failed?
+
+I am also worried that my Falcon will be joining the failed lights club.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+Off of a BRAND NEW UNBUILT ONE.
+────────────────────────────────────────────────────────────────────────
+Post #46  (forum post #792619)
+Author    : BrundelFly
+Date      : Feb 10, 2009 at 10:34 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: F#$K - My MR falcon Headlight just went out...
+
+QMX Steve said:
+
+			Some input:
+
+-Asking MR for ANYTHING on this model at this point will get you NOWHERE. There are like what? six people there? And nobody who works there now, was there when the model was developed about 5-6 years ago. (Except Michael Cookson and he never got involved in product design details.) They just won't know anything about a product that was designed and sold out years before they started working there. Is that their fault?
+
+You would get about as much usable info from your local Wal Mart greeter.
+
+MR just doesn't have any customer support mechanism in place for a model that was developed so many years ago. It is waaaay past the warranty period. What could they possibly do now for you? 
+
+Try to return a used, defective electronic item to ANY store 5 years after you bought it and see what they say...  
+
+So getting angry :angry :angry :angry :angry about this isn't going to solve any problems or accomplish anything.
+
+The model is still one of the greatest achievements in the history of replicas. It is a masterpiece. Love and cherish it. :lol
+
+But the LED thing IS a growing problem, So here is what *I* would do:
+
+Get someone on this forum to mold their front mandible parts (Frank has a loose set of MR parts...hmmmm) Maybe he could even add the two missing detail parts while he is at it. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+You can then CAREFULLY dremel out the mandible front part and replace the offending LED and install with the new cast part. Viola!
+
+If you advertised these parts on the various forums (with a small instruction sheet on how to replace the part and LED, and a repaint code) and sold them for like...$20 shipped, you would probably sell 50 to 100 sets. Nice scratch.
+
+Frank...since you have a "parts" model...are the mandible front plates polystone or injection ABS? I can't remember...
+
+Oh...and...We NEVER specifically designed the model so that it couldn't be recast or opened up for access. It just never came up in any design discussions. None of the MR SS models are designed to be "opened". They just are what they are. It wasn't planned to add "anti-tamper" features. So getting pissed over that is a bit silly. There was no conspiracy. It doesn't exist.     
+
+My LEDS are still fine, but it sounds like they may not be for long...I will probably be a repair customer as well...:angry :angry :angry :angry :angry
+
+(There. I added some angry faces, 'cause you always have to when talking about MR. :lol)
+
+GROUP HUG!
+		
+
+Click to expand...
+
+Definately POLYSTONE.
+
+Ill ask Moe if he has the part.
+
+I cant find it in my box.  I may have misplaced another box.
+────────────────────────────────────────────────────────────────────────
+Post #47  (forum post #792908)
+Author    : Jedi Dade
+Date      : Feb 11, 2009 at 8:46 AM
+────────────────────────────────────────────────────────────────────────
+
+I think its gonna take more balls then I care to expend to take a dremel to my Falcon to replace the mandible end...  unless its constructed to just "pop" off...  But then I'd just replace the LED and reglue...  Plus there is he entire issue of getting the paint to all blend without doing an entire repaint.
+
+Honestly I'm seriously considering just painting over the other headlight so that the darn thing doesn't "wink" and call it victory...
+
+Jedi Dade
+────────────────────────────────────────────────────────────────────────
+Post #48  (forum post #794924)
+Author    : CTF
+Date      : Feb 13, 2009 at 1:29 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: F#$K - My MR falcon Headlight just went out...
+
+jvasilatos said:
+
+			Mine sat in storage from the day I got it, in it's original packaging from November of 1996 forward, after being opened and inspected ONCE.  I finally had room to take it OUT of storage and set it up for display.
+		
+
+Click to expand...
+
+****, you must have a Delorean. :cool
+────────────────────────────────────────────────────────────────────────
+Post #49  (forum post #796619)
+Author    : jvasilatos
+Date      : Feb 14, 2009 at 8:15 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: F#$K - My MR falcon Headlight just went out...
+
+CTF said:
+
+			****, you must have a Delorean. :cool
+		
+
+Click to expand...
+
+LOL.  I meant 2006... I edited thanks to your correction.
+────────────────────────────────────────────────────────────────────────
+Post #50  (forum post #804139)
+Author    : Mr.Engineer
+Date      : Feb 24, 2009 at 5:49 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: F#$K - My MR falcon Headlight just went out...
+
+Is there any clearer pictures showing both side of the circuit boards and magnified?
+
+From what I see, its a simple circuit of using a standard 1A 3-Terminal voltage regulator (without heatsink too. Hmmmm.) Two black/red wires go to the front White LEDs, One black/red wire maybe for the switch, one more set for the cockpit lighting. And the red/black/yellow is for the voltage regulator.
+
+I am not sure about the current limiting resistors but it looks like those small SMT (2nd type) soldered on the circuit board tracks.
+
+It would be interesting to see how the engine lights were wired.
+
+I wouldn't know unless someone gives me a broken MR Falcon ....:lol
+────────────────────────────────────────────────────────────────────────
+Post #51  (forum post #810078)
+Author    : BrundelFly
+Date      : Mar 2, 2009 at 7:05 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: F#$K - My MR falcon Headlight just went out...
+
+Mr.Engineer said:
+
+			Is there any clearer pictures showing both side of the circuit boards and magnified?
+
+From what I see, its a simple circuit of using a standard 1A 3-Terminal voltage regulator (without heatsink too. Hmmmm.) Two black/red wires go to the front White LEDs, One black/red wire maybe for the switch, one more set for the cockpit lighting. And the red/black/yellow is for the voltage regulator.
+
+I am not sure about the current limiting resistors but it looks like those small SMT (2nd type) soldered on the circuit board tracks.
+
+It would be interesting to see how the engine lights were wired.
+
+I wouldn't know unless someone gives me a broken MR Falcon ....:lol
+		
+
+Click to expand...
+
+Ill take more pics.
+────────────────────────────────────────────────────────────────────────
+Post #52  (forum post #811959)
+Author    : jvasilatos
+Date      : Mar 4, 2009 at 11:42 PM
+────────────────────────────────────────────────────────────────────────
+
+How in the world is something like this engineered to be un-openable?
+
+Were the polystone parts epoxied together?  I can't find any screws although there are some shapes on the top that look like they could be but a gentle twist of a screwdriver shows they're not.  Maybe it's put together underneath?
+
+JV
+────────────────────────────────────────────────────────────────────────
+Post #53  (forum post #843438)
+Author    : Boshek
+Date      : Apr 11, 2009 at 9:00 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: F#$K - My MR falcon Headlight just went out...
+
+Happenend to mine as well,
+
+I believe my right one went first.  My left one went soon after. :thumbsdown
+────────────────────────────────────────────────────────────────────────
+Post #54  (forum post #844369)
+Author    : jvasilatos
+Date      : Apr 13, 2009 at 2:16 AM
+────────────────────────────────────────────────────────────────────────
+
+NEWS HERE:
+
+http://www.therpf.com/showthread.php?t=60946
+────────────────────────────────────────────────────────────────────────
+Post #55  (forum post #844447)
+Author    : Jedi Dade
+Date      : Apr 13, 2009 at 6:26 AM
+────────────────────────────────────────────────────────────────────────
+
+You're a brave man...  Watching your success with great interest!
+
+Jedi Dade
+────────────────────────────────────────────────────────────────────────
+Post #56  (forum post #1564482)
+Author    : Hedjii72
+Date      : Feb 20, 2011 at 8:27 PM
+────────────────────────────────────────────────────────────────────────
+
+S  U  C  C  E  S  S  !!!!!   
+
+I am back in action!!!  
+
+Both front LEDs are now working!
+
+Here's what I did:
+
+I found (among my ridiculous collection of useless old power adapters) an adapter rated for 10V.  (The factory one packaged with the Falcon was 9V).  I plugged it in and sure enough, both lights worked!  But I was nervous about using more voltage than the one that came with it, so I quickly unplugged it.  Resolving to go to Radio Shack with some questions, I plugged back in the original adapter, and lo and behold, they are now both working, just as they used to, with the original adapter!!
+
+I have no idea why this worked.  Maybe the extra voltage was enough to give it a little kick in the butt.
+
+I am so excited to have this beautiful, centerpiece collectible finally restored to its original condition.
+────────────────────────────────────────────────────────────────────────
+Post #57  (forum post #1564657)
+Author    : clancampbell
+Date      : Feb 21, 2011 at 1:52 AM
+────────────────────────────────────────────────────────────────────────
+
+Isn't it frustrating that modern electronics require "a kick in the butt" To work properly????
+
+then again, it was the same for the "real" Falcon as well.....
+────────────────────────────────────────────────────────────────────────
+Post #58  (forum post #1565971)
+Author    : Guy Cowen
+Date      : Feb 22, 2011 at 12:27 AM
+────────────────────────────────────────────────────────────────────────
+
+clancampbell said:
+
+			Isn't it frustrating that modern electronics require "a kick in the butt" To work properly????
+
+then again, it was the same for the "real" Falcon as well.....
+		
+
+Click to expand...
+
+Those clever people at MR really went out of there way to replicate it in every way :lol
+────────────────────────────────────────────────────────────────────────
+Post #59  (forum post #1565994)
+Author    : jvasilatos
+Date      : Feb 22, 2011 at 12:57 AM
+────────────────────────────────────────────────────────────────────────
+
+Is the switch on your base loose as opposed to locking into position on or off?
+
+Hedjii72 said:
+
+			S  U  C  C  E  S  S  !!!!!   
+
+I am back in action!!!  
+
+Both front LEDs are now working!
+
+Here's what I did:
+
+I found (among my ridiculous collection of useless old power adapters) an adapter rated for 10V.  (The factory one packaged with the Falcon was 9V).  I plugged it in and sure enough, both lights worked!  But I was nervous about using more voltage than the one that came with it, so I quickly unplugged it.  Resolving to go to Radio Shack with some questions, I plugged back in the original adapter, and lo and behold, they are now both working, just as they used to, with the original adapter!!
+
+I have no idea why this worked.  Maybe the extra voltage was enough to give it a little kick in the butt.
+
+I am so excited to have this beautiful, centerpiece collectible finally restored to its original condition.
+		
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #60  (forum post #1565999)
+Author    : jvasilatos
+Date      : Feb 22, 2011 at 1:07 AM
+────────────────────────────────────────────────────────────────────────
+
+More:
+
+http://www.therpf.com/f10/cracking-open-mr-falcon-fix-front-led-see-post-16-17-its-base-60946/
+
+http://www.therpf.com/f10/inside-master-replicas-millennium-falcon-mirror-base-108751/
+────────────────────────────────────────────────────────────────────────
+Post #61  (forum post #1566376)
+Author    : Hedjii72
+Date      : Feb 22, 2011 at 9:17 AM
+────────────────────────────────────────────────────────────────────────
+
+The switch on the base is not loose at all.  It firmly locks into place.
+────────────────────────────────────────────────────────────────────────
+Post #62  (forum post #1566747)
+Author    : vaderdarth
+Date      : Feb 22, 2011 at 2:39 PM
+────────────────────────────────────────────────────────────────────────
+
+my switch was soldered still and no loose wires either,  I think mine is the socket which accepts the A/C adapter plug.
+────────────────────────────────────────────────────────────────────────
+Post #63  (forum post #1566750)
+Author    : jvasilatos
+Date      : Feb 22, 2011 at 2:42 PM
+────────────────────────────────────────────────────────────────────────
+
+Hedjii72 said:
+
+			The switch on the base is not loose at all.  It firmly locks into place.
+		
+
+Click to expand...
+
+And your mandible light is still out?
+────────────────────────────────────────────────────────────────────────
+Post #64  (forum post #1566753)
+Author    : jvasilatos
+Date      : Feb 22, 2011 at 2:44 PM
+────────────────────────────────────────────────────────────────────────
+
+vaderdarth said:
+
+			my switch was soldered still and no loose wires either,  I think mine is the socket which accepts the A/C adapter plug.
+		
+
+Click to expand...
+
+No one should have to troubleshoot such an expensive collectible like this because of impossible access to interior electronics.
+
+I don't care what anyone says about this thing's accuracy, that's a given.  But to spend what we all did and have to deal with this disappointment in them not working correctly right out of the box or after warranty because they didn't engineer something in the base correctly is a crime.
+
+JV
+────────────────────────────────────────────────────────────────────────
+Post #65  (forum post #1566754)
+Author    : Hedjii72
+Date      : Feb 22, 2011 at 2:44 PM
+────────────────────────────────────────────────────────────────────────
+
+jvasilatos said:
+
+			And your mandible light is still out?
+		
+
+Click to expand...
+
+No, it's working now.  All I did was use the 10V adapter, then switched back to the factory (9V) adapter, and it's working normally and consistently.
+────────────────────────────────────────────────────────────────────────
+Post #66  (forum post #1566766)
+Author    : jvasilatos
+Date      : Feb 22, 2011 at 2:53 PM
+────────────────────────────────────────────────────────────────────────
+
+Hedjii72 said:
+
+			No, it's working now.  All I did was use the 10V adapter, then switched back to the factory (9V) adapter, and it's working normally and consistently.
+		
+
+Click to expand...
+
+Oh okay I didn't make the connection.
+
+I hope some other people try what you did and it works with the extra power surge, wish I had though of it before tearing everything apart but without any support from MR years back when these issues evolved, I go into problem solving mode.
+────────────────────────────────────────────────────────────────────────
+Post #67  (forum post #1567700)
+Author    : scoutrooper
+Date      : Feb 23, 2011 at 8:42 AM
+────────────────────────────────────────────────────────────────────────
+
+Has anyone else tried this trick with success?
+────────────────────────────────────────────────────────────────────────
+Post #68  (forum post #1569811)
+Author    : Clutch
+Date      : Feb 24, 2011 at 8:58 PM
+────────────────────────────────────────────────────────────────────────
+
+Hear me baby, hold together! :lol
+────────────────────────────────────────────────────────────────────────
+Post #69  (forum post #1576718)
+Author    : Tom1971
+Date      : Mar 1, 2011 at 11:12 PM
+────────────────────────────────────────────────────────────────────────
+
+jvasilatos said:
+
+			No one should have to troubleshoot such an expensive collectible like this because of impossible access to interior electronics.
+
+I don't care what anyone says about this thing's accuracy, that's a given. But to spend what we all did and have to deal with this disappointment in them not working correctly right out of the box or after warranty because they didn't engineer something in the base correctly is a crime.
+
+JV
+		
+
+Click to expand...
+
+ 
+
+Amen.
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+thumbsup:thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #70  (forum post #1576721)
+Author    : Tom1971
+Date      : Mar 1, 2011 at 11:13 PM
+────────────────────────────────────────────────────────────────────────
+
+Does anyone leave their lights on for longer than a few minutes?
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 70

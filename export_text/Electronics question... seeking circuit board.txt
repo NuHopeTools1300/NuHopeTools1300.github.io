@@ -1,0 +1,71 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Electronics question... seeking circuit board
+URL    : https://www.therpf.com/forums/threads/electronics-question-seeking-circuit-board.19696/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #270335)
+Author    : jvasilatos
+Date      : Jan 27, 2007 at 4:01 AM
+────────────────────────────────────────────────────────────────────────
+
+Hello everyone-
+
+Can anyone direct me to a supplier of the simple circuit boards that can make LEDs flicker like engine thrusters?  I just got my Randy Cooper Rebel Blockade Runner back from Dean who did an amazing job painting and weathering it, and all I need to complete the lighting scheme inside since the lights are installed is a circuit board I can connect to the engine light wires and then the battery.
+
+Something like the Hyperdyne boards but not as complex.  I think I saw someone else here do a similar thing with their blockade runner but I never asked this question then.
+
+Thanks.
+
+JV
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #270571)
+Author    : star-art
+Date      : Jan 27, 2007 at 12:56 PM
+────────────────────────────────────────────────────────────────────────
+
+I'm sure someone will chime in with a circuit, I'd be interested as well. As an alternative, you can get specialty bulbs called "flicker bulbs" that replicate candle flames. I believe these are now available in both incandescent and LED form. There is a little circuit that creates the effect, you could simply use one of those. Good luck. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #270732)
+Author    : imaginager
+Date      : Jan 27, 2007 at 7:07 PM
+────────────────────────────────────────────────────────────────────────
+
+That's exactly what I did. During the holidays, the local Michaels carried the LED candles. I haven't got to mine yet, but I'm guessing they're relatively small and the LEDs are easy enough to swap. I saw a similar item at Target the other weekend.
+
+Also try Googling "LED flicker circuit", probably turn up something relatively simple.
+
+http://www.freeinfosociety.com/electronics...mpage.php?cat=3
+
+And, here's the flicker. 
+
+http://www.freeinfosociety.com/electronics...iew.php?id=1522
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #270741)
+Author    : exoray
+Date      : Jan 27, 2007 at 7:32 PM
+────────────────────────────────────────────────────────────────────────
+
+That is one ugly schematic 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+If you want something built up and complete, so you just need to add batteries drop me a PM...
+
+I can  base it on the above design or a design of my own, depending on your requirements...
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #270852)
+Author    : Mycroft Holmes
+Date      : Jan 28, 2007 at 12:30 AM
+────────────────────────────────────────────────────────────────────────
+
+Try contacting Randy at VooDoo EFX. 
+
+rneubert@sbcglobal.net
+
+He can build anything. Good price, nice guy.
+
+Mark
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 5

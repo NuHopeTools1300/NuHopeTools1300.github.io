@@ -1,0 +1,134 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : SS AT-AT Armature WIP
+URL    : https://www.therpf.com/forums/threads/ss-at-at-armature-wip.149278/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #2278051)
+Author    : Aurora
+Date      : May 28, 2012 at 10:22 PM
+────────────────────────────────────────────────────────────────────────
+
+Thought i share my current progress of the AT-AT armature it has been though 3 revisions to get it here. I have been using Inventor Fusion to design the parts, later to be milled using a CNC machine. As of now all the parts are ruffed out missing few key components until they are finished.
+
+I am using the dimensions taken from Master Replica when they photographed the ATAT. However the depth still needs to be determined, currently using standard thickness in imperial/US units. I will need to confirm this by the few kit parts/plastruct (or evergreen) located on the leg
+
+The thigh plate (expect for the knee is covered by two plates in the front and back) is left blank until more information is found. I have only found some speculation on two ball joints in each leg. It appears to be some object located near the rear due to the hole drilled in the back. I dont believe there are ball joints by what is present, nothing is leading me to believe by what is present
+
+[IMAGE: 7304493114_151395424f.jpg]
+
+-Eric
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #2278133)
+Author    : ralphee
+Date      : May 28, 2012 at 11:49 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: AT-AT Armature WIP
+
+What are you having the parts made from, Alloy? Looking nice, cant wait to see more, the ATAT is the one that eludes me in my Hoth/TESB quest, and the model i really pine for TBH.
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #2280979)
+Author    : Aurora
+Date      : May 30, 2012 at 4:23 PM
+────────────────────────────────────────────────────────────────────────
+
+I will attempt to keep it as true to the original as possible. The majority of the parts will be made from aluminum. But this will be rather slow and costly process just for the amount of parts to be milled.
+
+But a small update:
+
+I got a few more parts finalized still avoiding the thigh plate for now. The final count appears to be around 27 parts per leg, I should have a better guess when more parts are finished.
+
+[IMAGE: 7304493362_951dee48d4.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #2281079)
+Author    : Junk Pilot
+Date      : May 30, 2012 at 5:36 PM
+────────────────────────────────────────────────────────────────────────
+
+Aurora said:
+
+			I have only found some speculation on two ball joints in each leg. It appears to be some object located near the rear due to the hole drilled in the back. I dont believe there are ball joints by what is present, nothing is leading me to believe by what is present.
+		
+
+Click to expand...
+
+ 
+
+G'day Eric, you really have set yourself a huge task in doing this. I can't wait to see what you do.
+
+As far as I know there is only one actual ball and socket joint on the legs which is located on the inside of the ankle joint. Everything else appears to be held by screws (regular and allen) or pins.
+
+Just an observation though but I thought that part of the thigh which meets the rounded section at the top meets it at the widest part of the diameter. Am I incorrect at thinking this?
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #2284230)
+Author    : north3
+Date      : Jun 1, 2012 at 2:08 PM
+────────────────────────────────────────────────────────────────────────
+
+i also struggled to determine the  thickness of parts , i think i will make mine over thickness and adjust as necessary 
+
+a few pictures of my effort are here 
+
+http://www.therpf.com/f11/atat-w-i-p-107841/index2.html
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #2285300)
+Author    : Junk Pilot
+Date      : Jun 2, 2012 at 9:22 AM
+────────────────────────────────────────────────────────────────────────
+
+You're doing awesome work. I'm loving it.
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #2285793)
+Author    : Aurora
+Date      : Jun 2, 2012 at 5:19 PM
+────────────────────────────────────────────────────────────────────────
+
+Junk Pilot said:
+
+			G'day Eric, you really have set yourself a huge task in doing this. I can't wait to see what you do.
+
+As far as I know there is only one actual ball and socket joint on the legs which is located on the inside of the ankle joint. Everything else appears to be held by screws (regular and allen) or pins.
+
+Just an observation though but I thought that part of the thigh which meets the rounded section at the top meets it at the widest part of the diameter. Am I incorrect at thinking this?
+		
+
+Click to expand...
+
+Their is a center screw located at the center their is no way the part could go that high. I found it appears to meet only a 1/3 of the round sections. Originally i had it set for the center but was having troubles with the ring being cut off do to the angle of the thigh cover.
+
+north3 said:
+
+			i also struggled to determine the  thickness of parts , i think i will make mine over thickness and adjust as necessary 
+
+a few pictures of my effort are here 
+
+http://www.therpf.com/f11/atat-w-i-p-107841/index2.html
+
+Click to expand...
+
+The thickness appears to be around .37 inch on the studio model. I am trying to keep the accuracy within .01 inch but i would like to get it closer to .005. But i have been watching your build, did a great job on the head i will be avoid that at all cost. 
+
+Junk Pilot said:
+
+			You're doing awesome work. I'm loving it.
+		
+
+Click to expand...
+
+Thanks been a challenge trying to reverse engineer the armature
+
+But made some more progress. Unfortunately I had to rework a few parts and correct the thickness. Was able to find more information on how the thigh works however as always still some speculation. Most of my time was spent working on the thigh plate, while it not finished only needs minor work. 
+
+Naked thigh plate:
+
+[IMAGE: 7323534218_69c4251bc3.jpg]
+
+Completed armature so far: 
+
+[IMAGE: 7323534462_91167f5931.jpg]
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 7

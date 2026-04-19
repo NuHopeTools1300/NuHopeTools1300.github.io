@@ -1,0 +1,108 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Physicle masters to CGI
+URL    : https://www.therpf.com/forums/threads/physicle-masters-to-cgi.223549/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #3416461)
+Author    : Vidar 710
+Date      : Sep 2, 2014 at 2:14 PM
+────────────────────────────────────────────────────────────────────────
+
+My large Excelsior projects is going to require about 85 parts cut from various thicknesses of sheet styrene, or applicable materials suitable for laser cutting. I do NOT want to hand cut all of these parts by hand. 
+
+ I've learned that I need to have the templates in an .ai or .crl format for a laser cutter. 
+
+ My question... 
+
+ I plan on making one styrene master for each part requiring dozens of copies. How do I turn a physical master into a file? 
+
+ Thanks! 
+
+Tracy
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #3416491)
+Author    : IEDBOUNTYHUNTER
+Date      : Sep 2, 2014 at 2:45 PM
+────────────────────────────────────────────────────────────────────────
+
+Thats a tough one.    I can draw and cut my own parts.     
+
+   I can help you out with both   if you want.   just PM me.
+
+Al
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #3416499)
+Author    : DaddyfromNaboo
+Date      : Sep 2, 2014 at 2:51 PM
+────────────────────────────────────────────────────────────────────────
+
+Two options come to mind:
+
+1) put the part onto a flatbed scanner with something next to it that gives scale to it. Take the image that you get and import it into a graphics program. Trace the parts in that graphics program, preferrably a vector based drawing program i.e. a full bred CAD program or a program like Adobe Illustrator, Corel Draw or OpenOffice Draw.
+
+2) Trace the parts onto paper, scan those drawings and vectorize them or retrace them in the graphics software of your choice e.g. those mentioned above.
+
+Michael
+
+EDIT: 
+
+3) Trace the parts using a digitizer tablet (can be bought for cheap on ebay nowadays, just make sure you have a computer that´s old enough to work with them). They are nothing else than glorified mouse pads with a very accurate mouse, they were used in the olden days to help digitize drawings like architectural drawings.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #3416578)
+Author    : ShowCraft
+Date      : Sep 2, 2014 at 3:55 PM
+Reactions : Like — spillway, Talkierg
+────────────────────────────────────────────────────────────────────────
+
+DaddyfromNaboo said:
+
+			Two options come to mind:
+
+1) put the part onto a flatbed scanner with something next to it that gives scale to it. Take the image that you get and import it into a graphics program. Trace the parts in that graphics program, preferrably a vector based drawing program i.e. a full bred CAD program or a program like Adobe Illustrator, Corel Draw or OpenOffice Draw.
+
+2) Trace the parts onto paper, scan those drawings and vectorize them or retrace them in the graphics software of your choice e.g. those mentioned above.
+
+Michael
+		
+
+Click to expand...
+
+I laid up this pattern with graphic tape and scanned it into Corel Draw. It's a simple, old school way of getting your art into digital form to export to laser.
+
+Jim C
+
+ 
+
+Attachments
+
+[IMAGE: 137050-f6e2b0c13ef0c0c1cb80da1524d611d5.jpg]
+
+image.jpg
+
+					5.4 KB
+					
+					· Views: 267
+					
+				
+
+[IMAGE: 137051-9c0631a97be5428597ca453812c19057.jpg]
+
+image.jpg
+
+					19.3 KB
+					
+					· Views: 149
+					
+				
+
+[IMAGE: 137052-f1bf4091ba0943e482b17192d0df30af.jpg]
+
+image.jpg
+
+					25.7 KB
+					
+					· Views: 149
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 4

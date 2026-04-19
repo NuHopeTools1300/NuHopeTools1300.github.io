@@ -1,0 +1,13 @@
+{
+  "websites_root": "D:\\Manuel\\MillenniumFalcon\\Websites",
+  "mirror_root": "D:\\Manuel\\MillenniumFalcon\\Websites\\therpf_mirror",
+  "text_root": "D:\\Manuel\\MillenniumFalcon\\Websites\\export_text",
+  "output_dir": "C:\\Users\\gunkel\\git_nht\\NuHopeTools1300.github.io\\export_text\\research\\therpf_relevant_images_pilot3",
+  "tier": "strong",
+  "summary_only": false,
+  "selected_threads": 20,
+  "copied_unique_images": 981,
+  "linked_images": 1146,
+  "missing_images": 662,
+  "threads_with_text_copies": 15
+}

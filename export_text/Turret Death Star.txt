@@ -1,0 +1,187 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Turret Death Star
+URL    : https://www.therpf.com/forums/threads/turret-death-star.300576/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #4596578)
+Author    : DJSLY
+Date      : Mar 23, 2019 at 2:07 PM
+Reactions : Like — Studio Kitbash, foj3000, 3phase
+────────────────────────────────────────────────────────────────────────
+
+Hello everyone here is my project under construction, it is the Death Star turret.
+
+I try to reproduce it using a maximum of original part when it's possible for me otherwise it's personal creation.
+
+In some figures it measures 70 cm high with a base of 33 cm side.
+
+It will be motorized (guns and turrets) with lightup effects for the guns and also the sound, for that I use the arduino for the movement of the turret and the pololu for the movement of the guns and the adafruit for the sound effects. The arduino and the servos are in programming settings (sequencing, movements, speed)
+
+Here is the WIP in photos and videos.
+
+Special thanks to DaveG 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ for helping me develop my project.
+
+[IMAGE: https://www.therpf.com/forums/attachments/26991646_10213403099105674_1242666384973734680_n-jpg-jpg.1002883/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/26993295_10213403101025722_3417607880676850094_n-jpg-jpg.1002884/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/26993550_10213403099945695_7840252440061698275_n-jpg-jpg.1002885/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/27067296_10213403102225752_4921431615729855217_n-jpg-jpg.1002886/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/54268092_10216382943279916_5278223307353620480_n-jpg-_nc_cat-107-_nc_ht-scontent-cdt1-1-jpg.1002887/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/54377144_10216387070423092_6150988639317786624_n-jpg-_nc_cat-110-_nc_ht-scontent-cdt1-1-jpg.1002888/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/54386828_10216387072023132_2404847459994959872_n-jpg-_nc_cat-111-_nc_ht-scontent-cdt1-1-jpg.1002889/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/53912518_10216387072823152_8087610949525045248_n-jpg-_nc_cat-111-_nc_ht-scontent-cdt1-1-jpg.1002890/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/54420964_10216387074903204_1605321082888257536_n-jpg-_nc_cat-108-_nc_ht-scontent-cdt1-1-jpg.1002891/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/54353991_10216391884463440_1668258412657377280_n-jpg-_nc_cat-108-_nc_ht-scontent-cdt1-1-jpg.1002892/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/54728822_10216391885703471_7518891957377040384_n-jpg-_nc_cat-110-_nc_ht-scontent-cdt1-1-jpg.1002893/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/53316632_10216394668973051_3334131417658425344_n-jpg-_nc_cat-100-_nc_ht-scontent-cdt1-1-jpg.1002894/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/54434164_10216411554195171_7176120302634532864_n-jpg-_nc_cat-102-_nc_ht-scontent-cdt1-1-jpg.1002895/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/jduhn3zftt9lmknrvufuhb-y-iwj3v_uhqwhnnxxwnkd86087r28u7o7gvcslzpefff_e9owa-_nc_ht-scontent-cdt1-1-jpg.1002896/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/tfo7wpuiieoyufiidfe6mhuwnl4k6dqj6f-c_fpjrnl2sbvfjq7c6a6p4279ubvshnc8pnya-_nc_ht-scontent-cdt1-1-jpg.1002897/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/ldvqjdic7ykq5gcqkx5b6-ktk09tapka017erenq6nahflk203vgnlwt9xf9s8e8nvoqeflng-_nc_ht-scontent-cdt1-1-jpg.1002898/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/54798228_10216430078418265_2022123469709246464_n-jpg-_nc_cat-102-_nc_ht-scontent-cdt1-1-jpg.1002899/]
+
+ 
+
+[IMAGE: https://www.therpf.com/forums/attachments/54514863_10216430079378289_2294859631081553920_n-jpg-_nc_cat-102-_nc_ht-scontent-cdt1-1-jpg.1002900/]
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #4596622)
+Author    : TazMan2000
+Date      : Mar 23, 2019 at 5:11 PM
+────────────────────────────────────────────────────────────────────────
+
+Nice use of greeblies.
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #4596946)
+Author    : t2sides
+Date      : Mar 24, 2019 at 5:19 PM
+────────────────────────────────────────────────────────────────────────
+
+Wow!   Great hand built approach!!  Excellent progress pics, very ambitious and looks like it's going to turn out great!   
+
+Sean
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #4597249)
+Author    : DaveG
+Date      : Mar 25, 2019 at 12:52 PM
+────────────────────────────────────────────────────────────────────────
+
+I like it! Well done.
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #4597297)
+Author    : nailuj
+Date      : Mar 25, 2019 at 2:13 PM
+────────────────────────────────────────────────────────────────────────
+
+It looks great. I love the recoil on the guns.
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #5050506)
+Author    : DJSLY
+Date      : Apr 2, 2020 at 1:46 AM
+Reactions : Like — PeetL, Treadwell, Studio Kitbash
+────────────────────────────────────────────────────────────────────────
+
+Thanks to all 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Here the rest of the detail of the tower
+
+[IMAGE: https://www.therpf.com/forums/attachments/55604029_10216396732544639_197692332408045568_n-jpg.1281954/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/55615856_10216430077618245_7762758190399225856_n-jpg.1281955/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/55576138_10216415676138217_6567444207529623552_n-jpg.1281956/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/55444908_10216423772780628_9027025781557035008_n-jpg.1281957/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/55475330_10216430080058306_4180048836040851456_n-jpg.1281958/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/54462280_10216415674018164_6276521286315278336_n-jpg.1281959/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/53905707_10216423773300641_2068731415423352832_n-jpg.1281961/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/54434164_10216411554195171_7176120302634532864_n-jpg.1281962/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/54798228_10216430078418265_2022123469709246464_n-jpg.1281963/]
+
+ 
+
+Attachments
+
+[IMAGE: 924471-50ca530046ae2206f2e15f8385b63081.jpg]
+
+54256779_10216411553155145_7257228921773490176_n.jpg
+
+					45.7 KB
+					
+					· Views: 109
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #5051603)
+Author    : t2sides
+Date      : Apr 4, 2020 at 3:57 PM
+────────────────────────────────────────────────────────────────────────
+
+Absolutely Incredible Progress!!  This is SO GOOD!!
+
+-Sean
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #5051607)
+Author    : SwedishChef
+Date      : Apr 4, 2020 at 4:07 PM
+────────────────────────────────────────────────────────────────────────
+
+Incredible work! Nicely done!!
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 8

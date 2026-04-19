@@ -1,0 +1,389 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : DeAgostini Millennium Falcon – Sidewall Modification
+URL    : https://www.therpf.com/forums/threads/deagostini-millennium-falcon-%E2%80%93-sidewall-modification.340221/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #5212011)
+Author    : wierzbowski85
+Date      : Jul 7, 2021 at 2:27 PM
+Reactions : Like — Rust and Bolts, JPH, David3
+────────────────────────────────────────────────────────────────────────
+
+Hi All,
+
+I’m nearing the end of my DeAgostini Falcon build, and almost ready to assemble the top and bottom saucers. I’m curious about the sidewall modification where you mount the metal support pieces on the inside to buy more room for the side sections to better match the filming miniature.
+
+Has anyone successfully done this? I’m not finding much info about how you actually attach the pieces, since the screws won’t work going the other direction.
+
+I read that someone was buying small nuts to catch the screws on the back side – is that correct? Not sure how you would tighten those with the top on and no access to the inside. Any info is greatly appreciated!
+
+Here are some pictures of where I’m at with the build.
+
+ 
+
+Attachments
+
+[IMAGE: 1116778-2725be671cd14b2bbeb3d959f56352da.jpg]
+
+5679F316-0B80-44CF-9671-064EBB80FE28.jpeg
+
+					4.7 MB
+					
+					· Views: 336
+					
+				
+
+[IMAGE: 1116779-0b4d80b958db8354d8505ae81807b427.jpg]
+
+AD9EF568-5B7A-444D-91C2-11DD4E43E091.jpeg
+
+					2.3 MB
+					
+					· Views: 372
+					
+				
+
+[IMAGE: 1116780-74300b62e4140740397b0c2635ae2796.jpg]
+
+1FC1BC86-6A17-48BF-B9D7-440304653300.jpeg
+
+					3 MB
+					
+					· Views: 344
+					
+				
+
+[IMAGE: 1116781-9fb7be5866d21192e86caacf1412e59d.jpg]
+
+0B3DBF08-13C3-4367-B18C-E2209C05599B.jpeg
+
+					3.4 MB
+					
+					· Views: 325
+					
+				
+
+[IMAGE: 1116782-1a003fa12bf73f3532f2115fad589ca3.jpg]
+
+16F28173-4509-4768-8C0F-C3696D769A17.jpeg
+
+					1.3 MB
+					
+					· Views: 359
+					
+				
+
+[IMAGE: 1116783-eb73fbabdf7c53bbca008bed9b7d64e0.jpg]
+
+DDE2AFF3-4EF2-4FC8-923C-5EBC832FC88C.jpeg
+
+					3.7 MB
+					
+					· Views: 324
+					
+				
+
+[IMAGE: 1116784-f6119fa36bc5d0cd99931ab9ce3a9cf5.jpg]
+
+269411A3-0C00-4AD9-87F9-46334888CFF0.jpeg
+
+					4.3 MB
+					
+					· Views: 286
+					
+				
+
+[IMAGE: 1116785-24482adeef49df0b7fce8ed6f7b649a6.jpg]
+
+A6C3ED3D-63CD-432C-8709-316D63CCD448.jpeg
+
+					2.3 MB
+					
+					· Views: 292
+					
+				
+
+[IMAGE: 1116786-01f77b82bf3676d14f51092ab97c663a.jpg]
+
+12FD5AC6-131C-4BA6-8B89-A7488B85BC70.jpeg
+
+					2.4 MB
+					
+					· Views: 318
+					
+				
+
+[IMAGE: 1116787-c9722de3adc95c193fdc5402adb803f4.jpg]
+
+5267F55C-1F48-4175-B583-83F0F69979A0.jpeg
+
+					1.2 MB
+					
+					· Views: 336
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #5212191)
+Author    : Millenniumf
+Date      : Jul 8, 2021 at 4:57 AM
+Reactions : Like — wierzbowski85
+────────────────────────────────────────────────────────────────────────
+
+When I made my modification, I epoxied the bracing to the lower frame and dremeled out relief for the mounting tabs on the inside of the plastic outer pieces.
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #5212267)
+Author    : wierzbowski85
+Date      : Jul 8, 2021 at 9:30 AM
+────────────────────────────────────────────────────────────────────────
+
+Millenniumf said:
+
+			When I made my modification, I epoxied the bracing to the lower frame and dremeled out relief for the mounting tabs on the inside of the plastic outer pieces.
+		
+
+Click to expand...
+
+Thanks for the info! So how did you attached the top and bottom pieces together? Sounds like you epoxied the bottom, then did you use screws to attach the top shell?
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #5212271)
+Author    : Millenniumf
+Date      : Jul 8, 2021 at 9:50 AM
+Reactions : Like — wierzbowski85
+────────────────────────────────────────────────────────────────────────
+
+wierzbowski85 said:
+
+			Thanks for the info! So how did you attached the top and bottom pieces together? Sounds like you epoxied the bottom, then did you use screws to attach the top shell?
+		
+
+Click to expand...
+
+I haven't finished my build yet, but I'm planning on using latches on the inside of the hull to hold the top on so I can access the electronics later should something break. The sides will be held in place with magnets so I can unlatch it.
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #5212279)
+Author    : 3DImpact
+Date      : Jul 8, 2021 at 10:15 AM
+Reactions : Like — wierzbowski85
+────────────────────────────────────────────────────────────────────────
+
+I’m interested in this as well, as I’ll be starting mine soon and might think about doing this modification. Links to references on this and and progress pics of your builds as you go would be helpful and fun to see.
+
+Looking forward to seeing how yours turns out - paint job so far looks great!
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #5212286)
+Author    : Rahn420
+Date      : Jul 8, 2021 at 10:39 AM
+Reactions : Like — wierzbowski85
+────────────────────────────────────────────────────────────────────────
+
+If it's any help, here are some posts I did related to my looking to sink the sides in...
+
+[IMAGE: logo-og.png]
+
+						Deagostini Falcon. Anyone seen this?
+					
+
+I decided that any modification to the frame isn't worth it if you were thinking of going that route, unless you intend to completely seal it up with no interior. At least if you just trim back the locating pins on the side walls will get them to sit back in by a further millimeter.  I did some...
+
+[IMAGE: favicon.png]
+
+					www.therpf.com
+				
+
+I also got these parts from Shapeways to help with the modification.
+
+[IMAGE: 674x501_38835903_12018807_1679614577_1_0.jpg]
+
+						DeAgo Millennium Falcon sheets for side panels mod by 3Dynamics on Shapeways
+					
+
+Check out DeAgo Millennium Falcon sheets for side panels mod by 3Dynamics on Shapeways and discover more 3D printed products in SciFi.
+
+[IMAGE: favicon.ico]
+
+					www.shapeways.com
+				
+
+[IMAGE: 674x501_38835906_12030178_1679614579_1_0.jpg]
+
+						DeAgo Millennium Falcon Airlock side panels by 3Dynamics on Shapeways
+					
+
+Check out DeAgo Millennium Falcon Airlock side panels by 3Dynamics on Shapeways and discover more 3D printed products in SciFi.
+
+[IMAGE: favicon.ico]
+
+					www.shapeways.com
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #5212357)
+Author    : 3DImpact
+Date      : Jul 8, 2021 at 2:24 PM
+────────────────────────────────────────────────────────────────────────
+
+That’s great - thanks!
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #5212371)
+Author    : wierzbowski85
+Date      : Jul 8, 2021 at 3:14 PM
+────────────────────────────────────────────────────────────────────────
+
+Rahn420 said:
+
+			If it's any help, here are some posts I did related to my looking to sink the sides in...
+
+[IMAGE: logo-og.png]
+
+						Deagostini Falcon. Anyone seen this?
+					
+
+I decided that any modification to the frame isn't worth it if you were thinking of going that route, unless you intend to completely seal it up with no interior. At least if you just trim back the locating pins on the side walls will get them to sit back in by a further millimeter.  I did some...
+
+[IMAGE: favicon.png]
+
+					www.therpf.com
+				
+
+I also got these parts from Shapeways to help with the modification.
+
+[IMAGE: 674x501_38835903_12018807_1679614577_1_0.jpg]
+
+						DeAgo Millennium Falcon sheets for side panels mod by 3Dynamics on Shapeways
+					
+
+Check out DeAgo Millennium Falcon sheets for side panels mod by 3Dynamics on Shapeways and discover more 3D printed products in SciFi.
+
+[IMAGE: favicon.ico]
+
+					www.shapeways.com
+				
+
+[IMAGE: 674x501_38835906_12030178_1679614579_1_0.jpg]
+
+						DeAgo Millennium Falcon Airlock side panels by 3Dynamics on Shapeways
+					
+
+Check out DeAgo Millennium Falcon Airlock side panels by 3Dynamics on Shapeways and discover more 3D printed products in SciFi.
+
+[IMAGE: favicon.ico]
+
+					www.shapeways.com
+				
+
+Click to expand...
+
+This is great! I remember seeing your post a while back now. I actually already have those Shapeways parts because of you. A few questions:
+
+What size nuts did you use, and did you have any trouble accessing them to tighten once the top was on?
+
+Any issues with where the sidewalls meet the mandibles?
+
+Did it all work out? Were you happy with the end result?
+
+Many thanks for the insight – I have been looking everywhere for someone who successfully pulled off the mod.
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #5212372)
+Author    : wierzbowski85
+Date      : Jul 8, 2021 at 3:15 PM
+────────────────────────────────────────────────────────────────────────
+
+3DImpact said:
+
+			I’m interested in this as well, as I’ll be starting mine soon and might think about doing this modification. Links to references on this and and progress pics of your builds as you go would be helpful and fun to see.
+
+Looking forward to seeing how yours turns out - paint job so far looks great!
+
+Dan
+		
+
+Click to expand...
+
+I’ll definitely post more pictures. Thanks for the compliment on the paint job. It’s a marathon!
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #5212403)
+Author    : cp85gt
+Date      : Jul 8, 2021 at 6:03 PM
+────────────────────────────────────────────────────────────────────────
+
+I countersunk the frame mounting tabs so I could get the small screws I used to sit flush, along with grinding down the tabs on the sidewalls. This allowed the sidewalls to sit closer to flush with the frame. The curved Shapeways pieces listed above fit just right with this set-up. I did have to grind a bit off the sidewall frames as well as the side walls themselves to get them to fit as they are now covering a shorter distance. One other fitment issue that I ran into was the overall side height is shorter with the frames moved inboard. The first issue is with the side pieces next to the docking pods. You will have to trim these down to fit properly,which I did to the kit supplied parts. The top and bottom frame plating sections where they sit over the top of the mandible (the non cockpit mandible) angle up a bit due to the shorter sidewall. I did not fix this, but might try in the future.
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #5212620)
+Author    : Rahn420
+Date      : Jul 9, 2021 at 10:58 AM
+────────────────────────────────────────────────────────────────────────
+
+The screws I tested with were extras I had of the screws that attach the mandibles. Those screws are button head 2.0mm x 0.4mm thread x 6mm long.
+
+The nuts I used were for that size thread. The outer nut size and wrench used is 4mm.
+
+I have not gotten to the point of sandwiching the top and bottom together at this point.
+
+cp85gt's comments have given me things to consider. I'm surprised that the mod changed the height.
+
+I had figured that since the side frames height didn't change and the screw holes still line up the same, that the overall height would not be substantially altered. I understood the sides will now add up to be a smaller radius, but I (so far) have not ran into any issues with that aspect.
+
+I expect the chance of a small gap left at the mandible join. I figured that a small piece of styrene would solve it.
+
+Also, I don't plan to sink the section of frame between the mandibles. I thought it would be best to leave that one alone.
+
+I already have the Shapeways edge strips glued in place... I hope I don't have issues down the road.
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #5212649)
+Author    : wierzbowski85
+Date      : Jul 9, 2021 at 12:06 PM
+────────────────────────────────────────────────────────────────────────
+
+Rahn420 said:
+
+			The screws I tested with were extras I had of the screws that attach the mandibles. Those screws are button head 2.0mm x 0.4mm thread x 6mm long.
+
+The nuts I used were for that size thread. The outer nut size and wrench used is 4mm.
+
+I have not gotten to the point of sandwiching the top and bottom together at this point.
+
+cp85gt's comments have given me things to consider. I'm surprised that the mod changed the height.
+
+I had figured that since the side frames height didn't change and the screw holes still line up the same, that the overall height would not be substantially altered. I understood the sides will now add up to be a smaller radius, but I (so far) have not ran into any issues with that aspect.
+
+I expect the chance of a small gap left at the mandible join. I figured that a small piece of styrene would solve it.
+
+Also, I don't plan to sink the section of frame between the mandibles. I thought it would be best to leave that one alone.
+
+I already have the Shapeways edge strips glued in place... I hope I don't have issues down the road.
+		
+
+Click to expand...
+
+Very interesting. Yeah, definitely a lot to consider there. I have also already glued the Shapeways edge strips in place – if all else fails, I don't think those will pose too many issues if the mod doesn't work. I guess they could interfere with the sidewall pieces and their fit, but I haven't tested that yet. If worse comes to worst, I guess I'd just remove those strips, sand, and repaint the underside edges. 
+
+I'm getting more nervous about attempting the mod to be honest. Just seems like it can easily create a cascading effect of issues downstream.
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #5212659)
+Author    : Rahn420
+Date      : Jul 9, 2021 at 12:43 PM
+Reactions : Like — wierzbowski85
+────────────────────────────────────────────────────────────────────────
+
+The only thing I see about having the strips in place and not going on with the mod is that the edge 'lip' will be recessed.
+
+You may be able to build those up again with strip styrene.
+
+Since I used super glue to install the strips, breaking them free and cleaning up the surface would be a chore. There is also that edge section (same panel as the 'gash' on the bottom) where there was a missing section of notches on the edge. I grafted a piece of styrene there and carved in the notches.
+
+That is a real delicate section. I'm so paranoid of breaking that area anytime I handle the model. I have a folded piece of cardboard taped over it so I am always aware of where it is. You can see the panel I am referring to in the same post I linked earlier (further down the page).
+
+I assume I installed the strips as intended... I carved away the original lip and glued the strips against the edge of the frame.
+
+Because of the edge damage I added, I had to modify the strips in a few places.
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #5212710)
+Author    : cp85gt
+Date      : Jul 9, 2021 at 3:37 PM
+────────────────────────────────────────────────────────────────────────
+
+I think the overall side wall is narrower with the relocated side frames is because the top and bottom of the ship are at an angle. As a result the distance between the mounting location on the top and bottom hull frame with the inboard mounted side frame are now farther apart, so the top and bottom half have to mount closer together. With the Shapeways printed parts it is also more difficult to install the sidewall pieces. I basically slid them in from the side where the docking pods are. This mod, while strait forward, adds alot of time to the build but I think really looks the part when done.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 14

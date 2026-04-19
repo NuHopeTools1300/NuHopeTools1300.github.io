@@ -1,0 +1,190 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Question for the Studio Tie Bomber Builders
+URL    : https://www.therpf.com/forums/threads/question-for-the-studio-tie-bomber-builders.23916/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #324911)
+Author    : fistius
+Date      : Apr 13, 2007 at 3:13 AM
+────────────────────────────────────────────────────────────────────────
+
+Hi guys, have a question for the Tie Bomber. Can someone please supply me the sizes (width and diameter) of the 3 cylinders that connect the wings to the body. I am going to turn mine on a lathe.
+
+Thank you, Chris
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #727517)
+Author    : rambo5788
+Date      : Nov 30, 2008 at 4:38 PM
+────────────────────────────────────────────────────────────────────────
+
+I don't think anyone has nailed that down it is a matter of opinion and what you use to derive dimensions from the available reference
+
+good luck
+
+I am using 5/8 tubing and the first step is only 1/16 larger in dia go from there
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #727574)
+Author    : OTnROTSfan
+Date      : Nov 30, 2008 at 5:36 PM
+────────────────────────────────────────────────────────────────────────
+
+fistius said:
+
+			Hi guys, have a question for the Tie Bomber. Can someone please supply me the sizes (width and diameter) of the 3 cylinders that connect the wings to the body. I am going to turn mine on a lathe.
+
+Thank you, Chris
+		
+
+Click to expand...
+
+ 
+
+I don't remember the sizes I used a while back, but I just fitted inner/outer diams inside of each other starting with the 5/8" on the inner-most, using Plastruct styrene tubes. Hated buying whole tubes to get the straight tip ends, but eventually used them up. I do remember the bottom piece was actually a flange, something like their 1 7/16" or 1 9/16", instead of tubing. That was what I came up with and it worked out pretty good. :cool
+
+[IMAGE: TB001.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #727855)
+Author    : rambo5788
+Date      : Dec 1, 2008 at 6:03 AM
+────────────────────────────────────────────────────────────────────────
+
+the first step is 1/16 thicker in diameter IMHO
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #728033)
+Author    : MonsieurTox
+Date      : Dec 1, 2008 at 10:58 AM
+────────────────────────────────────────────────────────────────────────
+
+On mine the first step is 1 mm thick, the second is 0.3mm thick and the third (the larger one) is 0.7mm thick.
+
+Actually, I used only 2 kind of tubings, the first step is 1 mm thick and the second also 1 mm thick... then I added a 0.3mm strip on the first tubing so I got 1-0.3=0.7mm for the third step, I dont know if I'm clear 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+
+I think that's how they did, they probably just used 2 telescoping tubings (1mm thick) then added the second step with a styrene strip because this one is very thin on the studio model !
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #743439)
+Author    : qcfoundry
+Date      : Dec 18, 2008 at 10:17 PM
+────────────────────────────────────────────────────────────────────────
+
+while we're on the subject of sizes..
+
+could i beg somebody for the sizes of the two main tubes?  i ran the numbers off wiki's entry of saturn v being 33' , meaning the saturn part is about 2.75". however this feels big when i scale it from other 88mm flak pieces i see on it?  
+
+julien, i suppose you used your friendly plastistrut catalog?  if so, which dome did you use? the elliptical VHE type or dished dome VHD type?  if neither (which i may expect cause your domes have "nipples")  how deep is your dish if it isn't a stock plastistrut.
+
+also...the diameter of the main shaft connecting wings to pods
+
+and the size of the box that connects the pods?
+
+this may be asking for a lot...but i am most appreciative.
+
+many thx in advance.
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #743453)
+Author    : eagle1
+Date      : Dec 18, 2008 at 10:50 PM
+────────────────────────────────────────────────────────────────────────
+
+Hi mate, you will need from Plastruct the following items:
+
+VHD-200  Dished Dome
+
+VHH-200  Hemispherical Dome
+
+TB-200    ABS Round Tube (for main body tubes)
+
+200 code means 2" = 50.8mm Diameter
+
+For the main tube that runs through the bodies to the wings I machined a piece of PVC tube down to a diameter of 18.5mm which has worked fine for me!. ILM I believe used a piece of aluminium or steel tube.
+
+Let us know how you get on dude and help is just a click away if you get stuck.
+
+Stu
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #745091)
+Author    : dirtydave
+Date      : Dec 21, 2008 at 9:18 AM
+────────────────────────────────────────────────────────────────────────
+
+Can someone tell me the Plastistrut web address.Thanks.
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #745107)
+Author    : imaginager
+Date      : Dec 21, 2008 at 9:35 AM
+────────────────────────────────────────────────────────────────────────
+
+www.plastruct.com
+
+But, they're closed until the New Year.
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #745119)
+Author    : dirtydave
+Date      : Dec 21, 2008 at 9:49 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks for the address.
+
+Dave
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #746137)
+Author    : rambo5788
+Date      : Dec 22, 2008 at 7:54 PM
+────────────────────────────────────────────────────────────────────────
+
+yep 2 inch abs tube beware you have to have a 25 dollar minimum order. the tube that runs thru the body to the wings is 5/8 aluminum IMHO it matches my scaled up pistures
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #746321)
+Author    : MonsieurTox
+Date      : Dec 23, 2008 at 4:41 AM
+────────────────────────────────────────────────────────────────────────
+
+rambo5788 said:
+
+			yep 2 inch abs tube beware you have to have a 25 dollar minimum order. the tube that runs thru the body to the wings is 5/8 aluminum IMHO it matches my scaled up pistures
+		
+
+Click to expand...
+
+ 
+
+The tube running through the body is 3/4" (19mm). 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #750833)
+Author    : qcfoundry
+Date      : Dec 30, 2008 at 3:40 PM
+────────────────────────────────────────────────────────────────────────
+
+MonsieurTox said:
+
+			The tube running through the body is 3/4" (19mm). 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+Julien,
+
+Looking at at the pics of your build, your two clear tubes are (very close) to being twice the size of your supporting rod.  If you recommend using a 3/4" rod, that would mean you are likely using 1.5" tubes (for the two bodies), instead of 2".  
+
+Can you help clarify?
+
+Thanks
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #750888)
+Author    : MonsieurTox
+Date      : Dec 30, 2008 at 4:49 PM
+────────────────────────────────────────────────────────────────────────
+
+Hey qcfoundry,
+
+I used 2" (I had 5 mm pvc tubing but since I ordered the plastruct domes my tubing was too small by 1mm). For the tube running through the bodies I used what I had, 20mm aluminium tubing which is too large by 1mm, but it's not too noticiable I think !
+
+So I used 2" tubes (51mm) for the bodies and 20 mm tubes for the smaller one, I hope that helps !
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 14

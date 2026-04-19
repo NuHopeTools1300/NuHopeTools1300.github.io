@@ -1,0 +1,131 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Millennium Falcon Mount Points
+URL    : https://www.therpf.com/forums/threads/millennium-falcon-mount-points.273325/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #4187449)
+Author    : DanielB
+Date      : Feb 12, 2017 at 11:58 AM
+────────────────────────────────────────────────────────────────────────
+
+Does anyone have information on where the mounting rod was placed on the Millennium Falcon on its filming stand? I have access to motion control equipment, and I was interested in filming my own models like old school effects were done. As I build my models, I'd like to put hidden mount points into my models. Also, is there a way to hook up electrical "plugs" of some sort so that I can run electricity into the model no matter its attach point?
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #4187494)
+Author    : robn1
+Date      : Feb 12, 2017 at 1:07 PM
+────────────────────────────────────────────────────────────────────────
+
+The 5ft Falcon had mount points at the mandible tips, both docking ports, both rear quarter panels, bottom center behind the gun port window, and at the rear though I'm not sure exactly where. I assume the 32in had mounts at similar spots.
+
+Yes there were power connectors at each mount point, wired in parallel internally so power could be fed from each mount point.
+
+The original ANH Deathstar hangar shot was an odd combination of full size, model and matte painting. The mandible mount covers were left off, and the threaded mount point can be seen on the mandible tips.
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #4188276)
+Author    : Junk Pilot
+Date      : Feb 13, 2017 at 12:28 PM
+────────────────────────────────────────────────────────────────────────
+
+Hi robn, I'm curious to know why you think the 5ft Falcon had mounting points in both rear quarter panels? I know there are 4 holes in the side walls for a handle to be inserted so the ship can be moved.
+
+Also the rear mount was dead centre at the back. If you look at photos of the engine area you can see some scalloping of the hull under the M8 Carrier blades which I'm assuming is for the mounting tube.
+
+robn1 said:
+
+			The 5ft Falcon had mount points at the mandible tips, both docking ports, both rear quarter panels, bottom center behind the gun port window, and at the rear though I'm not sure exactly where. I assume the 32in had mounts at similar spots.
+
+Yes there were power connectors at each mount point, wired in parallel internally so power could be fed from each mount point.
+
+The original ANH Deathstar hangar shot was an odd combination of full size, model and matte painting. The mandible mount covers were left off, and the threaded mount point can be seen on the mandible tips.
+		
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #4188315)
+Author    : robn1
+Date      : Feb 13, 2017 at 1:10 PM
+────────────────────────────────────────────────────────────────────────
+
+Junk Pilot said:
+
+			Hi robn, I'm curious to know why you think the 5ft Falcon had mounting points in both rear quarter panels? I know there are 4 holes in the side walls for a handle to be inserted so the ship can be moved...
+		
+
+Click to expand...
+
+I've seen the holes in pics but never heard or read anything about carrying handles, I could only assume they were mounting points. Actually I have seen pics of it being carried like that, but couldn't they just be taking advantage of the mounting points? Whatever, I'm certainly no expert. As for the rear I've seen it mounted there in the DS docking setup, but the apparatus is kinda odd and it's hard to tell exactly where it contacts.
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #4188324)
+Author    : swgeek
+Date      : Feb 13, 2017 at 1:18 PM
+Reactions : Like — Vacformedhero, robn1
+────────────────────────────────────────────────────────────────────────
+
+No the holes in the quarters, both front and rear were only for moving handles. Each hole wasn't meant to take the weight on its own, plus there's no electrical port at the carrying handle locations.
+
+[IMAGE: 386699-89bb01e382a6b4dbbb4f155ce2cb3489.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #4188748)
+Author    : Junk Pilot
+Date      : Feb 14, 2017 at 2:57 AM
+Reactions : Like — Vacformedhero
+────────────────────────────────────────────────────────────────────────
+
+Sorry for the poor quality but this photo shows the Falcon being lifted into position
+
+[IMAGE: 386786-f2f63da539311f9b94e9559ba9417ca1.jpg]
+
+Here's a photo of it mounted from the rear as well. If you look closely you will notice that the two thrust vector strips (upper and lower) have been removed for it to be mounted properly.
+
+[IMAGE: 386787-d4115431cf4b2f170d569affcf5d4a6e.jpg]
+
+...and here is a photo of the rear showing the scalloping of the acrylic dome that makes up the primary hull structure and is duplicated on the upper dome as well.
+
+[IMAGE: 386788-dc8a06ad7287d5619ffef84d2131d379.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #4188773)
+Author    : Vacformedhero
+Date      : Feb 14, 2017 at 4:06 AM
+────────────────────────────────────────────────────────────────────────
+
+Here is use of a top mount during construction 
+
+[IMAGE: 386791-ff6f5d86daf3cae89b7070ebb7a0d59e.jpg]
+
+Junk pilot I love that first image , you can see the metal rod used to lift the mode .
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #4189598)
+Author    : Junk Pilot
+Date      : Feb 15, 2017 at 3:31 AM
+────────────────────────────────────────────────────────────────────────
+
+I honestly don't believe that the top mount is an actual mounting point used for filming but used for construction when work on the underside was needed.
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #4194441)
+Author    : DaveG
+Date      : Feb 21, 2017 at 5:09 PM
+Reactions : Like — swgeek
+────────────────────────────────────────────────────────────────────────
+
+I am by no means a Falcon expert but I did spend years and years (and years) filming motion control models. There would have almost certainly been a top mount, in addition to bottom, front, rear, left and right mounts. When a hero model like this was designed and built they would have provided mounts for almost any conceivable filming angle. Those mounts would also provide handy points for support stands during construction and painting.
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #4198335)
+Author    : Jaitea
+Date      : Feb 27, 2017 at 12:49 PM
+────────────────────────────────────────────────────────────────────────
+
+swgeek said:
+
+			No the holes in the quarters, both front and rear were only for moving handles. Each hole wasn't meant to take the weight on its own, plus there's no electrical port at the carrying handle locations.
+
+View attachment 706789
+
+Click to expand...
+
+Very clever....I'm sure it weighed a tonne,....cracker handles
+
+J
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 10

@@ -1,0 +1,169 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Unreal.  MR Falcon in storage for a year, out of the box, and front light is out.
+URL    : https://www.therpf.com/forums/threads/unreal-mr-falcon-in-storage-for-a-year-out-of-the-box-and-front-light-is-out.54500/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #743664)
+Author    : jvasilatos
+Date      : Dec 19, 2008 at 7:49 AM
+────────────────────────────────────────────────────────────────────────
+
+Of course it's out of warranty.  I opened this to inspect in November of 2006, had no space to display it, and put it in storage.  Now I have a new place and room, I unload and set it up, and one of the front mandible lights is out.  And the base switch wobbles and won't keep the rest of the lighting steady.
+
+I paid over 3K for this signature edition when it was released, and I can't believe they engineered these things in such a way you can't replace a light.  I read others have had this problem, has anyone had any success getting in to swap a mandible LED out?
+
+And the prospect of having sent it back to them if this had happened when I first got it just to replace a light is an astounding waste of money and shipping had they simply worked a way into the design that a light could be replaced or repaired.
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #743670)
+Author    : Guy Cowen
+Date      : Dec 19, 2008 at 8:13 AM
+────────────────────────────────────────────────────────────────────────
+
+Join the club, although I did know the light was out when I got mine off ebay (cheap) The good thing is that pretty soon all the lights will be bad on one side on all the falcons made so everyone's will be worth the same. 
+
+Sorry to hear though it must be really frustrating
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #743671)
+Author    : ralphee
+Date      : Dec 19, 2008 at 8:16 AM
+────────────────────────────────────────────────────────────────────────
+
+Silly Q, but do the LED's push into the mandible, or fitted from the inside?In other words, cant it be pulled out/forward for a replace/resolder?
+
+Just not sure if the lights have a dedicated "locking" socket within the model?
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #743681)
+Author    : jvasilatos
+Date      : Dec 19, 2008 at 8:29 AM
+────────────────────────────────────────────────────────────────────────
+
+They look seated in there from behind and I have NO idea how one would get inside through the front to swap it out, there's no way to grip it from the front and it probably would not pull out anyway as I assume there's a rim keeping it set in place.
+
+Actually it's been in storage 2 years, not one, since I originally received it, opened it for inspection, then packed it away again same day.  Ugh.
+
+JV
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #743720)
+Author    : ralphee
+Date      : Dec 19, 2008 at 9:42 AM
+────────────────────────────────────────────────────────────────────────
+
+Its a shame Jv, but not the end of the world i guess,more annoying than anything id bet seeing as its not even been displayed.
+
+Hmm Dean may be the guy to talk to as he's seen this bird inside and out on a tear down, but maybe its best to leave it well alone?
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #743733)
+Author    : madrobot
+Date      : Dec 19, 2008 at 10:06 AM
+────────────────────────────────────────────────────────────────────────
+
+If you were local, I would fix it for you. I do a fair amount of electronics work with LED's.
+
+I could probably talk you through it.
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #743735)
+Author    : jcoffman99
+Date      : Dec 19, 2008 at 10:09 AM
+────────────────────────────────────────────────────────────────────────
+
+Every time this has come up the general consensus is to just leave it alone as you'd literally have to crack open the Falcon.  I'm glad eFx made all the x-wing electronics accessible.
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #743816)
+Author    : GKvfx
+Date      : Dec 19, 2008 at 12:04 PM
+────────────────────────────────────────────────────────────────────────
+
+I suppose you could Dremel out the front of the mandible, replace the light, and then fix the damage with an original kit part.  I don't really turn my lights on all that much...... I guess I should check.
+
+Gene
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #743824)
+Author    : imaginager
+Date      : Dec 19, 2008 at 12:11 PM
+────────────────────────────────────────────────────────────────────────
+
+I turn mine on maybe twice a year. Yep, they all still work. The cockpit light is cheesy, with extra cheese, though. I like the engine, but I'm ambivalent about the landing lights. If it were me I would just plug those hulls with some Apoxie Sculpt and call it good. But, I hear ya on the $3000 price tag and the silly electronic component that cost fractions of a penny that MR seems to have used.
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #743882)
+Author    : Heimidal
+Date      : Dec 19, 2008 at 1:28 PM
+────────────────────────────────────────────────────────────────────────
+
+Every now and then I turn mine on whenever I get paranoid just to make sure it works. I've still been lucky so far. 
+
+Man am I glad they made the LEDs replaceable in the X-wing
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #743921)
+Author    : katarn1138
+Date      : Dec 19, 2008 at 2:16 PM
+────────────────────────────────────────────────────────────────────────
+
+My Falcon did the same thing. Make sure you put the spring where the connection is. Move the Falcon back and forth while its on its stand. Tap the side where the light is out and also clean the connector with soft tissue. Mine did the same thing and it worked. I hope yours works.
+
+Good Luck
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #743950)
+Author    : Dexvader
+Date      : Dec 19, 2008 at 2:37 PM
+────────────────────────────────────────────────────────────────────────
+
+I turn my Falcon's lights on very rarely.Usulally when company comes over and wants to see it. Otherwise they stay off.
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #743994)
+Author    : jvasilatos
+Date      : Dec 19, 2008 at 3:30 PM
+────────────────────────────────────────────────────────────────────────
+
+katarn1138 said:
+
+			My Falcon did the same thing. Make sure you put the spring where the connection is. Move the Falcon back and forth while its on its stand. Tap the side where the light is out and also clean the connector with soft tissue. Mine did the same thing and it worked. I hope yours works.
+
+Good Luck
+		
+
+Click to expand...
+
+Tried it but it doesn't fix it.  Thanks for the tip though.
+
+JV
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #842340)
+Author    : Boshek
+Date      : Apr 10, 2009 at 2:36 PM
+────────────────────────────────────────────────────────────────────────
+
+Yep, mine did the same things as well. (Right side mandible burnt out after about a month and maybe 20 minutes of "on" time.)
+
+I couldnt stand having one light on in the front, so I loosened the other side as well.
+
+My falcon now has no headlights..
+
+MR should be ashamed.  :thumbsdown
+
+Anyone in the PA, phila area that would be able to fix this.. let me know. I would contract you out. Send me a PM.
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #842580)
+Author    : Stormy320
+Date      : Apr 10, 2009 at 7:47 PM
+────────────────────────────────────────────────────────────────────────
+
+I know these were expensive and I have one, but I could care less about the lights.
+
+You look at it once and go - ooo - that's cool and then the novelty wears off.
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #843614)
+Author    : mverta
+Date      : Apr 12, 2009 at 4:14 AM
+────────────────────────────────────────────────────────────────────────
+
+I agree the lack of access is a poor design choice, but I also agree it's a gimmick that wears off quickly.  However, my favorite thing about taking pictures of originals at the Archives, is that if you use a flash, the reflective tape on the back lights up just like they did on film.  Doesn't look like much in person, but on film it's magic.  I'm tempted to put reflective tape on mine.  Very cool.
+
+_Mike
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 16

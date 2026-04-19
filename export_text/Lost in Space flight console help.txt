@@ -1,0 +1,49 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Lost in Space flight console help
+URL    : https://www.therpf.com/forums/threads/lost-in-space-flight-console-help.353536/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #5464292)
+Author    : MFP
+Date      : Aug 29, 2023 at 3:25 AM
+────────────────────────────────────────────────────────────────────────
+
+Can someone help me with the LIS flight console. I'm unable to figure out the moire patterns that create the moving lines on the display. I'm fairly certain it is a pattern over a seperate spinning disk pattern, but I'm unable to figure how they get that effect. Does anyone know what the two patterns are?
+
+[IMAGE: https://www.therpf.com/forums/attachments/download-jpg.1733647/]
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #5464305)
+Author    : David3
+Date      : Aug 29, 2023 at 4:43 AM
+Reactions : Like — Treadwell, foj3000
+────────────────────────────────────────────────────────────────────────
+
+Simple but effective
+
+Center Console Light Masks
+
+Stencil pdfs - the star pattern rotates behind the front panel with the cut out slots creating the moire effect
+
+(pdfs unknown; appologies for lack of credit; prob from Chris in above link)
+
+ 
+
+Attachments
+
+Negative Front Panel Mask_Center Panel Front Mask Neg.pdf.pdf
+
+					113.4 KB
+					
+					· Views: 225
+					
+				
+
+Siemans Star Pattern_Center Console Rear Pattern-Model.pdf.pdf
+
+					80.2 KB
+					
+					· Views: 213
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 2

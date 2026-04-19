@@ -1,0 +1,217 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : 5 Foot Falcon-My Journey Begins
+URL    : https://www.therpf.com/forums/threads/5-foot-falcon-my-journey-begins.362572/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #5623080)
+Author    : sd68
+Date      : Apr 23, 2025 at 4:48 PM
+Reactions : Like, Wow — MrRobot, Leinads, joberg
+────────────────────────────────────────────────────────────────────────
+
+I am finally able to see a dream come true with all the new technology available to allow something at this scale to happen a reasonable cost in time invested and material.  My hats are off to all the purists/artists who have created masterpieces by collecting all the required kits needed to bring those spectacular models to fruition.  I am late to the game unfortunately and don't want to turn this into a 16 year long crusade like my R2 unit or a similar length build for both my life-size Stormtrooper and Boba Fett displays.  I have began by putting a criteria on minimal investment for the maximum detail and least amount of weight possible.  To that end I will be 3D printing in both FDM and resin formats.  The frame is starting with an 8"x10" 6mm Birch drum shell with 1/2" Baltic Birch top/bottom along with Baltic Birch plywood frame members.  The subframe is 2"aluminum airline piping for both horizontal and vertical mounting.  The components for the completed shell currently weight in at 26 pounds total including the 3D printed shell.  I have just started to complete the assembly in Solidworks in the attached files.  The 3D printing aspect will be new to me from an FDM standpoint so I look forward to feedback from the members as to how rigid PLA is as a material and if extra reinforcement may be necessary. I am 57 now and hope to have this completed by my retirement but all the best laid plans can get sidetracked at any time.  Hopefully I can stay the course and have something that both I can be proud of and be able to share with my kids and grandkids and our love for Star Wars and its most iconic ship.
+
+[IMAGE: 1569324-15d1eb8289179ed3a0e46cd6a609eb0a.jpg]
+
+[IMAGE: 1569326-d63c1c125bcc3353b667be1f217fef3d.jpg]
+
+[IMAGE: 1569328-739cc8b2a56ae63ee6fd5b2a960a8af5.jpg]
+
+[IMAGE: 1569329-d07451bbc7279c91faf4f56a1b915d6f.jpg]
+
+[IMAGE: 1569330-5cd9748f6727763b890d31e9d90e9aaf.jpg]
+
+[IMAGE: 1569331-63c8facfeed72eaf22b31103c86c3167.jpg]
+
+[IMAGE: 1569332-912190ef9a1a7c2c2475fa71b1bcb868.jpg]
+
+[IMAGE: 1569333-5ffd50019040d74eb678b8047d9b35dd.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #5623150)
+Author    : bwayne64
+Date      : Apr 23, 2025 at 10:57 PM
+Reactions : Haha, Like — Leinads, joberg
+────────────────────────────────────────────────────────────────────────
+
+Welcome to Crazy Town, ; )
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #5623230)
+Author    : RealDaveWinter
+Date      : Apr 24, 2025 at 7:00 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+PLA is very much strong enough to be used as a complete hull core. As long as you have at least 5% infill, you won't get any bending.
+
+(click image)
+
+[IMAGE: 1569504-17e24bd9ef14765d72cd211cd36c506e.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #5623285)
+Author    : joberg
+Date      : Apr 24, 2025 at 9:20 AM
+Reactions : Like — bwayne64
+────────────────────────────────────────────────────────────────────────
+
+bwayne64 said:
+
+			Welcome to Crazy Town, ; )
+		
+
+Click to expand...
+
+That's the Disco part of building that bird
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #5623308)
+Author    : Searun
+Date      : Apr 24, 2025 at 10:06 AM
+Reactions : Like — Leinads, joberg, bwayne64
+────────────────────────────────────────────────────────────────────────
+
+“Crazy” per bwayne64 above is appropriate for the start of a 5 ft. studio scale using any construction method. Your choice of a solid mounting will pay dividends for lifting and moving when things get heavy. 
+
+I personally feel the wooden rib disk & high quality plywood frame method readily allows flexibility in changes required for dialing in all your key side wall thickness dimensions: disc, mandibles, jaw boxes, FALGAL sections, etc. For me, the constant checking against Andre’s outline plan and side view drawing measurements was critical time and time again. Note his team checked used many important key kit parts to validate photogrammetry results. The expertise needed for CAD & 3D printing will help somewhat. That approach has my sincere admiration for those that learned and use this technology.  However, there is no easy way to accurately build this wonderful design without significant dedication and homework.
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #5623318)
+Author    : sd68
+Date      : Apr 24, 2025 at 10:34 AM
+Reactions : Like — Leinads, joberg, bwayne64
+────────────────────────────────────────────────────────────────────────
+
+Worked on revising the 30 degree sections to include the sides as well to avoid a separate wraparound piece and strengthen the overall part.  I thickened the plates from 1/8" to 3/16" with a 1/16"D x 1/8" rabbet on the edges to capture the birch frame members.  I know this will increase weight but will help ensure the location of the frame members and lock everything together and I am more confident in that overall thickness as well.  My question to the FDM users out there is what orientation would be best to print these panels.  I am assuming as flat but I may be wrong with on edge being preferred.  I have an Elegoo Neptune 4 Max on the way to do the FDM printing.  I couldn't justify the cost of outsourcing these panels and opted to invest in the printer and material instead which I can definitely use on other projects.  The new calculated weight for the core assembly comes out to 36lbs total with this new design plus the top/bottom discs. Receiving the shell and birch plywood yet this week so I hope to refine the thicknesses of the individual parts to actual and put together in a finalized 3D core assembly.  From there I can produce templates and move forward with its construction over the next few weeks/months and all the while learning how to 3D print PLA parts.
+
+[IMAGE: 1569541-95ac857bd26844256a207a107b50948f.jpg]
+
+[IMAGE: 1569542-e43618faf13a3cd4d016fa845bc5dae0.jpg]
+
+[IMAGE: 1569543-a02c358a06098c67724c425c144f4be7.jpg]
+
+[IMAGE: 1569544-492ecaf8f8eca8077b719c7d7c3496f9.jpg]
+
+[IMAGE: 1569557-b293eb050528d080b8bbab26f9aefa75.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #5623325)
+Author    : sd68
+Date      : Apr 24, 2025 at 10:46 AM
+Reactions : Like — joberg, bwayne64
+────────────────────────────────────────────────────────────────────────
+
+Thank you all for the welcome and I appreciate all the advice. Crazy. Yes.  But my wife expects nothing less. I went the route of the wood frame from my own familiarity standpoint so I could move forward while other items have to be printed like the dome panels.  I did purchase 3 panthers for the rear deck so it won't be all 3D printed.  I'll see if I continue to do that if kits come up cheaply and can maximize their use.  I am sure that is an addiction that would be hard to stop as well.
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #5623362)
+Author    : Studio Kitbash
+Date      : Apr 24, 2025 at 12:56 PM
+Reactions : Like — MrRobot, Leinads, joberg
+────────────────────────────────────────────────────────────────────────
+
+Welcome to the madhouse.  We're all addicts, and we meet regularly to discuss our problems...
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #5623381)
+Author    : jcoffman99
+Date      : Apr 24, 2025 at 2:02 PM
+Reactions : Like — MrRobot, joberg, bwayne64
+────────────────────────────────────────────────────────────────────────
+
+Studio Kitbash said:
+
+			Welcome to the madhouse.  We're all addicts, and we meet regularly to discuss our problems...
+		
+
+Click to expand...
+
+We need to have another Google meet sometime.
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #5624452)
+Author    : sd68
+Date      : Apr 28, 2025 at 1:33 PM
+Reactions : Like — MrRobot, dinho1967, bwayne64
+────────────────────────────────────────────────────────────────────────
+
+I was able to get the core assembly completed in Solidworks.  Still debating how to handle the engine portion recess.  Will be going with the frosted white plexi and simple lighting with led strips.  Trying to keep this one as close to the original in spirit.  Does anyone have accurate dimensioning/drawings on where the maintenance pits are located on the dome or is a matter of trial and error based on panel layouts? I know Dazza007 is working on his top and bottom domes currently so I may wait and see what he comes up with and apply here. I will be using his step files and adjusting as needed to fit the core assembly I have below.  I have acquired an Airfix pontoon bridge kit and 2 '57 AMT bel air chassis to start working on the mandibles.  Keeping to the principal to use actual kits if readily available and won't break the bank.  Save the 3d printing for the impossible to get or out of my budget.
+
+[IMAGE: 1570626-4a2b796ec9da437775f113907a62744d.jpg]
+
+[IMAGE: 1570627-26f8a71bbdea52958d51336b3693dc58.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #5626191)
+Author    : GTMill
+Date      : May 4, 2025 at 11:52 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+sd68 said:
+
+			Worked on revising the 30 degree sections to include the sides as well to avoid a separate wraparound piece and strengthen the overall part.  I thickened the plates from 1/8" to 3/16" with a 1/16"D x 1/8" rabbet on the edges to capture the birch frame members.  I know this will increase weight but will help ensure the location of the frame members and lock everything together and I am more confident in that overall thickness as well.  My question to the FDM users out there is what orientation would be best to print these panels.  I am assuming as flat but I may be wrong with on edge being preferred.  I have an Elegoo Neptune 4 Max on the way to do the FDM printing.  I couldn't justify the cost of outsourcing these panels and opted to invest in the printer and material instead which I can definitely use on other projects.  The new calculated weight for the core assembly comes out to 36lbs total with this new design plus the top/bottom discs. Receiving the shell and birch plywood yet this week so I hope to refine the thicknesses of the individual parts to actual and put together in a finalized 3D core assembly.  From there I can produce templates and move forward with its construction over the next few weeks/months and all the while learning how to 3D print PLA parts.
+
+View attachment 1927028View attachment 1927029View attachment 1927030View attachment 1927031View attachment 1927044
+
+Click to expand...
+
+FYI, the dome should overlap the core sidewall in some places and is filed at 90 degrees with respect to the core sidewall in order to make the edge champfered.
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #5626192)
+Author    : GTMill
+Date      : May 4, 2025 at 11:54 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+You’ve made a great start by the way.
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #5626231)
+Author    : sd68
+Date      : May 4, 2025 at 1:37 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+GTMill said:
+
+			FYI, the dome should overlap the core sidewall in some places and is filed at 90 degrees with respect to the core sidewall in order to make the edge champfered.
+		
+
+Click to expand...
+
+I am going to add hull overhangs as separate pieces to take the uniqueness out of the pie pieces and make them simpler to print. Not sure if it is best route but seems easier to accomplish.
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #5626627)
+Author    : sd68
+Date      : May 5, 2025 at 5:32 PM
+Reactions : Like — Leinads, joberg
+────────────────────────────────────────────────────────────────────────
+
+Birch drum shell came in today. USPS made a huge circle around the Midwest prior to arriving on my doorstep. I can finally complete my measurements and make up a drilling template and router template for the radial supports. Gives some perspective on how big this thing is in mass.  Hard to tell in just the 3d design environment the girth this thing has. Both printers set in their final locations in my hobby area. Just waiting on spools of material to start some test prints. Aluminum support tubes cut and ready to go as well. Mandible templates done and I will be cutting those out of 1/8 black styrene which came in last week. Still contemplating 3/4” tubing added to support the mandibles tied into the core. 
+
+[IMAGE: 1573102-bd6ab6ad46e1558dd2042ba81c3cbe26.jpg]
+
+[IMAGE: 1573103-a70b0b839797d855be4b23dd81d4c5cd.jpg]
+. 
+[IMAGE: 1573101-42578a3d60bcbd431f92f08f5b847bbd.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #5690756)
+Author    : Dimitri-Ajith
+Date      : Dec 30, 2025 at 11:33 AM
+Reactions : Like — joberg, Leinads, Searun
+────────────────────────────────────────────────────────────────────────
+
+sd68 said:
+
+			I am going to add hull overhangs as separate pieces to take the uniqueness out of the pie pieces and make them simpler to print. Not sure if it is best route but seems easier to accomplish.
+		
+
+Click to expand...
+
+This is what I did. But if I could choose todo it again you better make your design the way it's already included in the way you are going todo the dome. But this ofcourse depends on what route you are going.... nevertheless you probably find a way if I see how you are planning ypour approach. Have fun!
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #5690858)
+Author    : Searun
+Date      : Dec 31, 2025 at 4:58 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Good advice from Dimitri. Get back in production next year and keep us updated with your build. I am still fiddling with mine from time to time.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 16

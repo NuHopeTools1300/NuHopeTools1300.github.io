@@ -1,0 +1,1647 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : My Red Y (aka lazybones build) - some tips for the slack modeler
+URL    : https://www.therpf.com/forums/threads/my-red-y-aka-lazybones-build-some-tips-for-the-slack-modeler.137182/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #2093020)
+Author    : Nwerke
+Date      : Jan 14, 2012 at 4:31 AM
+────────────────────────────────────────────────────────────────────────
+
+It's probably a bit premature to start this thread as for now I only intend to assemble and prime the model. It's too hot here at the moment to go all the way into painting, that will have to wait for later in the year. 
+
+That said, I've been finding a few talking points - in case anyone is about to kick off their build, this might be of some use, hopefully. Please note  my build is pretty spartan - no lights, no extra mount points, no panavise or ILM/industry-style stand, just a steel rod for the underside mount, and a mahogany base. Much of this won't apply if you intend to create wing mount points:
+
+I drilled the main armature rod all the way through using a 7/16 bit in a drill press. It was just a sharp bit that happened to be ready to hand; you could go a little smaller or larger, but it is an ideal size in several respects.
+
+You could probably do just about as well with a hand drill if you have a good eye and a vise, or can clamp it down well. Centrepunch the location for drilling first off or your drill bit will wander.
+
+K&H make nice 7/16 brass tubing and stainless steel rods and hopefully your LHS will carry these. I went for stainless, it will need cutting - I hate cutting stainless but it should last forever.
+
+*Don't* drill the wing bar (if you are only making a lower mount). That will allow the bar to be a stop for the mount rod - it will rest on top of the mount rod and hold the model up. You can just clean off any burring at the cut ends, no need to do more. (Note Jason's excellent instructions give the bar length as 12.5" while mine was slightly smaller. If you are marking the centreline to drill for the upper mount, take note of the exact length of YOUR bar, as it seems they vary - though it shouldn't ultimately vary enough to actually matter. But, you know. We're modelmakers. A bit OCD sometimes. So I thought I'd mention it.) :lol
+
+That said, DO follow Jason's advise religiously on trimming the fuselage and engine location points for the wing bar. The resin pieces have shrunk slightly, the aluminium ones haven't. You will need to slice and sand out a slight channel in the front or rear (or both) of the fuselage location for the bar in order for it to sit nice and flat. DO sand the horizontal mating surface of the hull, too, as it can be flatter. The same goes for the wing bar location points inside the engines. In all this be sure you don't end up with a loose fit. It's not a structural requirement, it's just that tight fits are always much nicer. Cough.
+
+Since you aren't using wing mounts, you can slide your engines straight onto the wing bar AFTER assembly. I recommend building the engines first as it will make cleaning up the seams MUCH easier.
+
+You can also attach all four of the cone shroud support vanes directly to the cone shroud before you assemble it to the engine body. This seems easier than the other method as you can just slide the assembly straight into the back of the Saturn can. Obviously do this BEFORE you start attaching the Plastruct! :lol
+
+The support vane thingies are too thick. At least they are to my eyes and a couple of others agree. Not by much but by a little. I am as lazy as a modelmaker can get while still occasionally actually making a model, so I didn't make new ones in styrene. Instead I adzed the trailing edges of the vanes with a single-edged razor blade, then sanded them lightly. Yes, I am THAT lazy. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+
+This took around thirty seconds per vane, only a few passes with a sharp blade does the trick. It's way quicker than cutting 2mm or 3mm styrene replacements would have been. 
+
+When assembled, the conical inserts in the rear of the Saturn cans prevent the seams aligning well along one side, as noted in the instructions. You can shim as described, or you could also try sanding down the conical insert piece around its circumference slightly. I did not do this, but wished I had tried it.
+
+Another area of poor fit is pointed out in the instructions at the front of one of the Saturn cans. There are little doglegs of flash or pour stubs; this one can be resolved by removing them. Your Saturn can diameter will be slightly smaller so check for fit against the L'Eggs. (But then again, if it fit perfectly it wouldn't be ILM!) :lol
+
+The wing skins can be made to fit without cutting if you're careful - I THINK - mine did, anyway. Possibly another case of individual variation. I had only the slightest misalignment along the rear tubes, maybe a quarter of a millimetre - well within the putty and sanding range. 
+
+The cockpit rear bulkhead is beautiful but cast in a harder resin. Some details need to be removed, and a circular hole drilled out, as described in the instructions. The ideal tool for this would have to be an end mill bit in a Dremel; don't try to shave the details with Xactos, the resin is too hard. I would LOVE TO KNOW why my LHS and hardware stores haven't carried Dremel end mill bits for years. 
+
+Ow, my sliced finger.
+
+All for now. There will be pics but has to wait for tomorrow or Monday.
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #2093034)
+Author    : jedimaster
+Date      : Jan 14, 2012 at 4:45 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: My Red Y build - some tips
+
+Pix or it didn't happen.
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #2093035)
+Author    : Nwerke
+Date      : Jan 14, 2012 at 4:46 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: My Red Y build - some tips
+
+That's nice coming from a joker who drank my beer and pored over my build this very afternoon! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #2093062)
+Author    : Colin Droidmilk
+Date      : Jan 14, 2012 at 5:28 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: My Red Y build - some tips
+
+Ta for all this. The LHS actually has K&H tubes so my mount woes are beginning to look a bit less intractable now, lol...
+
+J'master's right, though - let's see some pics...
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #2093073)
+Author    : Nwerke
+Date      : Jan 14, 2012 at 5:43 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: My Red Y build - some tips
+
+Good to hear! Yeh, pics tomorrow if relly bash stuff doesn't keep me away. Just got too late today. 
+
+Oh get this. Last night I was trimming up the cockpit bulkhead, then left it to go water the new bamboos I've planted. It's summer here so I've been working on the deck. My 4.5yo son was 'helping daddy', and he carried on without me (knives out of reach of course). When I got back both engine subassemblies, the cockpit, the cockpit bathtub, the canopy AND THE COCKPIT BULKHEAD, were all assembled up...correctly. 
+
+ME SO PROUD!!! :lol
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #2093088)
+Author    : jedimaster
+Date      : Jan 14, 2012 at 6:03 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: My Red Y build - some tips
+
+Maybee he could make a start on the other dozen studio scale kits you have? Maybe that way he could actually start a build thread unlike his dad.:behave
+
+And I was actually talkin about cuttin ya finger and ya beer was cheap.:rolleyes
+
+Actually while I'm at it. For those living in a warmer climate, you may just wanna check for air bubbles. I only found a few and they will be pretty much covered up but it'll only take five minutes to fix.
+
+[IMAGE: aee2bffc.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #2093094)
+Author    : Nwerke
+Date      : Jan 14, 2012 at 6:11 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: My Red Y build - some tips
+
+God you are a nasty bit of work, Graver. :lol 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Yeah good point. Looks like you've got just a few more bubbles than me - hardly any bubbles on mine at all. I'd settle for popping them. Can't do any harm if there's no trapped air, and they're covered over.
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #2093191)
+Author    : Dedalus5550
+Date      : Jan 14, 2012 at 7:29 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: My Red Y build - some tips
+
+Clarification on number 4.  You say not to drill the cross bar but you don't really say why.  Then, in the same section, you talk about measuring it for drilling.  I realize you mention Jason's build and drilling, but I'm just a little fuzzy here.
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #2093208)
+Author    : Nwerke
+Date      : Jan 14, 2012 at 7:45 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: My Red Y build - some tips
+
+Covered under the overriding clause regarding only going for a lower mounting rod, but you're right, have edited that item for clarity. If you are going for an upper mount then you do need to drill the bar.
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #2093218)
+Author    : moffeaton
+Date      : Jan 14, 2012 at 7:57 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: My Red Y build - some tips
+
+Good stuff!
+
+Upper mount really comes in handy for painting the bottom of the bird, but that's just me 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #2093249)
+Author    : Nwerke
+Date      : Jan 14, 2012 at 8:16 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: My Red Y build - some tips
+
+You're totally right. 
+
+I plan to half-arse it. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Hey, are you doing the small black squares, btw? I was wondering whether they might be done as masking over the black base coat.
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #2093273)
+Author    : moffeaton
+Date      : Jan 14, 2012 at 8:32 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: My Red Y build - some tips
+
+They could be, yeah. I just did 'em - laid down Tamiya mask tape, cut them out by eyeballing with an X-Acto, and a quick PSSSHT PSSSHT with the airbrush, the end!
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #2093280)
+Author    : Nwerke
+Date      : Jan 14, 2012 at 8:37 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: My Red Y build - some tips
+
+Cool, looking forward to pics. Always wondered what the thinking was, with those. They're such a weird, funky little detail. And they're on (almost) EVERYTHING!
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #2094287)
+Author    : Nwerke
+Date      : Jan 14, 2012 at 8:37 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: My Red Y build - some tips
+
+Just rereading this after taking some pics...want to stress, I am not trying to take anything away from Jason's instructions. They're *excellent*! 
+
+This actually came out of a conversation with a friend over nitty gritty details. It just occurred to me that perhaps some expansion on those aspects might be helpful to anyone who doesn't have a strong background in resin studio scale stuff. Anyway, pics!
+
+Adzing the shroud supports:
+
+[IMAGE: my-red-y-build-some-tips-00a.jpg-81260d1326602235]
+
+Modded shroud supports on the left, unmodified on the right:
+
+[IMAGE: my-red-y-build-some-tips-01a.jpg-81261d1326602235]
+
+If you build these as units they can just slot straight in. Sorry for crap pic:
+
+[IMAGE: my-red-y-build-some-tips-02a.jpg-81262d1326602235]
+
+Gap on left wing requires some pressure inside engine (via outer hatch) when gluing to wing bar. It will disappear, but slow superglue is a must:
+
+[IMAGE: my-red-y-build-some-tips-03a.jpg-81263d1326602235]
+
+This is the misalignment on the rear of the starboard wing - I didn't think it was worth cutting:
+
+[IMAGE: my-red-y-build-some-tips-04a.jpg-81264d1326602235]
+
+Ditto port wing. Note I have carried out the surgery Jason recommends on the Saturn corrugations to get a good fit here - but also, a couple of details on the engine where it meets the underside of the wing need to be shaved a tiny bit, and all three tubes on the upper wing sleeve also need a fraction of a millimetre shaved off their ends:
+
+[IMAGE: my-red-y-build-some-tips-05a.jpg-81265d1326602235]
+
+Here's where I'm at so far, with the K&H 7/16" bar I chose for my mount. It is product no. 7145:
+
+[IMAGE: my-red-y-build-some-tips-06a.jpg-81266d1326602235]
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #2094289)
+Author    : moffeaton
+Date      : Jan 14, 2012 at 8:40 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: My Red Y build - some tips
+
+Looks excellent!
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #2094301)
+Author    : Nwerke
+Date      : Jan 14, 2012 at 8:53 PM
+────────────────────────────────────────────────────────────────────────
+
+Re: My Red Y build - some tips
+
+Thanks Jason. Just the bare bones as yet though; I will be keeping this in subassemblies for a long while yet unfortunately. Just too much on the plate and the weather is too hot for spraying anyway. Paint dries before it leaves the airbrush!
+
+I *should* really be leaving it in the box and doing other things, but it is irresistible. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+It also goes together really well. I gotta stress that...the engineering is great. Nitpicking tiny details can always run the risk of giving a negative impression but trust me, I am ecstatic with this kit. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #2094333)
+Author    : Scott Graham
+Date      : Jan 14, 2012 at 9:28 PM
+────────────────────────────────────────────────────────────────────────
+
+That's a good addendum!
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #2094444)
+Author    : neosporing
+Date      : Jan 15, 2012 at 12:31 AM
+────────────────────────────────────────────────────────────────────────
+
+Re: My Red Y build - some tips
+
+Nwerke said:
+
+			... It just occurred to me that perhaps some expansion on those aspects might be helpful to anyone who doesn't have a strong background in resin studio scale stuff.
+		
+
+Click to expand...
+
+that'd be me..  Thanks for the documentation, 'tis greatly appreciated.  I haven't received my kit yet but, the more documented builds that's out there the better!
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #2094465)
+Author    : Colin Droidmilk
+Date      : Jan 15, 2012 at 12:58 AM
+────────────────────────────────────────────────────────────────────────
+
+Lovely, and very helpful, ta. 
+
+But hey, this weak-SS-background-novice wants full credit for showing the master the mod required on the 4 engine shroud bracket thingies, lol! And I'm gonna prove you wrong on that cockpit bulkhead detail shaving - I WILL get it done with an xacto and a file - since I have no bleedin' choice!
+
+Nice to see your son chipping in. I always wondered about how he takes his Dad's hobby, whether he considers that SW is for kids so by rights the kits should really be HIS. Or whether he just thinks the whole thing is sad beyond belief. Anyway, that's very generous of you, letting him glue stuff together. Good job I don't have kids - I would have ended up making a pathetic, petulant spectacle of myself: 'What are you doing making Daddy's model? This is DADDY'S model! Get away from Daddy's model!'
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #2094564)
+Author    : Nwerke
+Date      : Jan 15, 2012 at 4:15 AM
+────────────────────────────────────────────────────────────────────────
+
+neosporing, you're welcome, if this helps I'm really pleased to hear it.
+
+CD, you'll have to share the  credit with jedimaster I'm afraid; he'd spotted it too. Good eye you guys, it is only something less than a mill's difference, I think, yeah? Anyway, hate throwing away parts so a bit of shaving does the trick. 
+
+I shaved the bulkhead using an Xacto and a single-edged razor blade. My end mill bit gave up the ghost forever ago and I haven't been able to track one down since. Damned overpriced things locally; never got around to ordering some from overseas either. Must do: an end mill bit in a Dremel is a THING OF BEAUTY. 
+
+As for Morgs, he's still pretty much at the "I like your spaceship, Daddy!" stage. No gluing, just dry fitting - he'd destroy himself if I ever let him get near cyanoacrylate. He just sits and commentates mostly - "it's from Star Wars! Isn't it, Daddy? Isn't it? It's very big! It's big and huge, huge like the sky! I like your big spaceship Daddy!!!! Look, I have a dinosaur!" 
+
+So, not all that much critical thinking going on just yet, I'm guessing. :lol
+
+Pic 1: Kid knows a Messerschmitt cannon mount when he sees one.
+
+Pic 2: Curse your inevitable betrayal!
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #2094737)
+Author    : Colin Droidmilk
+Date      : Jan 15, 2012 at 8:14 AM
+────────────────────────────────────────────────────────────────────────
+
+Ah, bless.
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #2094765)
+Author    : EvanW
+Date      : Jan 15, 2012 at 8:26 AM
+────────────────────────────────────────────────────────────────────────
+
+Looks like a really great start. I can't wait to get mine. Something about #41 on the list...
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #2095307)
+Author    : Muzza
+Date      : Jan 15, 2012 at 2:48 PM
+────────────────────────────────────────────────────────────────────────
+
+Hay Martyn, The Y Wing is coming along nicely, I am sure we will more tables at the show this year..
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #2095403)
+Author    : jedimaster
+Date      : Jan 15, 2012 at 4:07 PM
+────────────────────────────────────────────────────────────────────────
+
+Muzza said:
+
+			Hay Martyn, The Y Wing is coming along nicely, I am sure we will more tables at the show this year..
+		
+
+Click to expand...
+
+Yeah like 3 more tables.
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #2115417)
+Author    : Colin Droidmilk
+Date      : Jan 30, 2012 at 1:04 AM
+────────────────────────────────────────────────────────────────────────
+
+Martyn, your engine shrouds... I was going to do it your way and attach the brackets to the shrouds first, but found that the brackets will then fail to touch the Saturn cylinders, which seems to be born out from your photo. They should touch the cylinder as far as I can make out. However, dry-fitting it Jason's way, I'm getting collossal 2mm gaps between the brackets and the shroud. Further, with Jason's method, I can't for the life of me see how he crammed the shroud into place with 3 brackets already glued in there. The shroud is 5mm too big for the space allowed by the fronts of the brackets. Are we supposed to squeeze the shroud, at the risk of cracking it, to force it in there or what? Or am I missing something entirely?
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #2115423)
+Author    : Nwerke
+Date      : Jan 30, 2012 at 1:18 AM
+────────────────────────────────────────────────────────────────────────
+
+Mate, the best way for my money is just to glue the brackets onto the shrouds: I get a good fit all the way around to the Saturn can. Are your Saturn cans absolutely definitely glued up correctly? (Mind you...mine are a tiny bit ovaled in cross-section, not sure why, it wasn't anything I did, swear.) :lol
+
+Edit: OH! Hey, yeah here's a bit. You may actually get gaps because the brackets want to angle inwards. That's easily remedied: you just push the assembly down onto the Saturn thrust structure (the big cone it all mounts on). Some slow-setting gel superglue for this job I think. The cone spreads the brackets apart and gaps go 'poof'. Sorry, meant to say first off.
+
+Also, I found that you can actually attach the t-strips and still leave the shroud/nozzles off for later painting. They can be wiggled between the t-strips just fine! 
+
+Needed to update this thread. I have a hot-country warning re the cockpit section. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ Pics later...
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #2115561)
+Author    : Apophis
+Date      : Jan 30, 2012 at 6:28 AM
+────────────────────────────────────────────────────────────────────────
+
+Good to see you working on something for a change instead of just talking about it!
+
+:behave
+────────────────────────────────────────────────────────────────────────
+Post #28  (forum post #2115607)
+Author    : jedimaster
+Date      : Jan 30, 2012 at 7:16 AM
+────────────────────────────────────────────────────────────────────────
+
+Apophis said:
+
+			Good to see you working on something for a change instead of just talking about it!
+
+:behave
+		
+
+Click to expand...
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+lol
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+lol:lol
+────────────────────────────────────────────────────────────────────────
+Post #29  (forum post #2115638)
+Author    : jedimaster
+Date      : Jan 30, 2012 at 7:40 AM
+────────────────────────────────────────────────────────────────────────
+
+C'mon Martyn , show us the cockpit pix!!!!!!
+────────────────────────────────────────────────────────────────────────
+Post #30  (forum post #2115666)
+Author    : Nwerke
+Date      : Jan 30, 2012 at 8:01 AM
+────────────────────────────────────────────────────────────────────────
+
+No. I'm going to flounce out of here in a huff, now.
+────────────────────────────────────────────────────────────────────────
+Post #31  (forum post #2115670)
+Author    : jedimaster
+Date      : Jan 30, 2012 at 8:06 AM
+────────────────────────────────────────────────────────────────────────
+
+Ahhh c'mon.....
+────────────────────────────────────────────────────────────────────────
+Post #32  (forum post #2115704)
+Author    : Nwerke
+Date      : Jan 30, 2012 at 8:34 AM
+────────────────────────────────────────────────────────────────────────
+
+I build LOTS of stuff. I'm just finishing-challenged, lol.
+
+Eh - I've been working on this between my son's bedtime and sunset, on my unlit back deck. Then it's onto the PC to message stragglers at the fake site until 12 or 1AM or so. 
+
+Anyway, you want a pic? Feast your eyes on BREWER'S DROOP!!! :lol
+
+Unfortunately, because the alloy rod that is the core of armature ends just into the cockpit, and the continuation half-pipe dealie is just resin, a few days of 40-C-plus weather does this:
+
+[IMAGE: my-red-y-aka-lazybones-build-some-tips-slack-modeler-01300001.jpg-82568d1327941188]
+
+So a little mod is called for there which I'll detail in the next day or two.
+
+NOTE: my cockpit isn't glued in place yet. This probably wouldn't have happened if it was. BUT, I figure that over a period of years some sag is at least possible, and I don't want to take even a slight chance of that.
+────────────────────────────────────────────────────────────────────────
+Post #33  (forum post #2116213)
+Author    : Apophis
+Date      : Jan 30, 2012 at 3:08 PM
+────────────────────────────────────────────────────────────────────────
+
+great job martyn!
+────────────────────────────────────────────────────────────────────────
+Post #34  (forum post #2116749)
+Author    : Nwerke
+Date      : Jan 30, 2012 at 11:16 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks Jerry but there's really very little work in it as yet. This thing almost falls together. I hope I can do as nice a paint job as your Red Y. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #35  (forum post #2116765)
+Author    : jedimaster
+Date      : Jan 30, 2012 at 11:37 PM
+────────────────────────────────────────────────────────────────────────
+
+Nothing worse than a droopy cockpit.:cry
+────────────────────────────────────────────────────────────────────────
+Post #36  (forum post #2116769)
+Author    : CutThumb
+Date      : Jan 30, 2012 at 11:41 PM
+────────────────────────────────────────────────────────────────────────
+
+Its not hard to recorrect the droop , I   had to do the same with mine as the cockpit was leaning marginally to the right. A pan of boiling water did the trick, but it doesn't sound like you need that! I then drilled  through the aluminium armature and the resin half pipe and stuck a brass pipe through them both and glued it all togther to make it totally rigid . Given the  temperatures its constantly going to be exposed to you may want to do this. Must be a nightmare working in that heat.
+
+  Colin, the brackets part of the engines are a bit tricky but easily solved. The bottoms are tapered to a sharp point but the engine base that they rest on is actually about 1-2 mm flat around the rim of the ridged apollo part, so its impossible to get them to touch all three surface (base, engine wall, and apollo part) unless you shave off the tips. I taped all four together, sanded the tips down a touch at a time and test fitted them and finally glued them in Jasons way. I had some tiny gaps but not much that glue or a sliver of thin sheeting didn't fix. By doing all four together you also ensure when you attatch the shroud it fits levellly on all four of the edges. I found this the part of the build is the most difficult of it ,to get all the angles to line up together.
+────────────────────────────────────────────────────────────────────────
+Post #37  (forum post #2116778)
+Author    : Nwerke
+Date      : Jan 30, 2012 at 11:54 PM
+────────────────────────────────────────────────────────────────────────
+
+CutThumb, that's exactly what I had in mind. A very easy small mod. I'll take pics tonight or tomorrow. Wife is sick so probably tomorrow, I'll be minding the offspring. 
+
+I'll be honest here: I don't really care if my bird is super, super square and gap-free. I'm figuring the original probably isn't that flawless, even if they took a bit of extra care for the benefit of the set builders.
+────────────────────────────────────────────────────────────────────────
+Post #38  (forum post #2116782)
+Author    : CutThumb
+Date      : Jan 31, 2012 at 12:18 AM
+────────────────────────────────────────────────────────────────────────
+
+Its a great idea to do it. I decided to keep my engines off the aluminium and build them seperately until I complete them,the  lighting and alot of the painting like you as well. The only disadvantage was it was just a bit tricky to keep all the T strips ,engine vanes, shrouds etc lined up true  to eachother with out a lot of checking and marking! At the end of the day its what you are happy with. I noticed when looking at recent reference on the B/Y wings just how rough some of the original builds are but I guess they were up against serious deadlines and there has been some age and wear and tear issues. I suffer from a touch of Aspergers so I am that driven to get things as neat and accurate as I can! Makes real life impossible sometimes! Hope everyone does not suffer being unwell  in that heat!!!
+────────────────────────────────────────────────────────────────────────
+Post #39  (forum post #2116794)
+Author    : jedimaster
+Date      : Jan 31, 2012 at 12:36 AM
+────────────────────────────────────────────────────────────────────────
+
+Its a *****! Can't pour resin, can't pour silicon, can't lay Fibreglass, can't paint,  just too bloody hot!! Dammit!!!! How hot I hear you ask? Real hot, damn Hot . It's so ****ing hot there is sweat dripping from my Balls like a leaking tap. That's how ****ing hot it is. I could fry an egg on the hood of my car right now.
+────────────────────────────────────────────────────────────────────────
+Post #40  (forum post #2116815)
+Author    : Nwerke
+Date      : Jan 31, 2012 at 1:07 AM
+────────────────────────────────────────────────────────────────────────
+
+Aaaaand thank you Mr. Jedi "too much information" Master! :lol
+
+It is bloody hot. African immigrants are complaining about the heat. I kid you not.
+────────────────────────────────────────────────────────────────────────
+Post #41  (forum post #2116818)
+Author    : Nwerke
+Date      : Jan 31, 2012 at 1:10 AM
+────────────────────────────────────────────────────────────────────────
+
+CT, I'm really liking keeping the engines separate. If you're not making wing mounts, then it makes life so easy. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+I know that whole OCD compulsion thing backwards, FWIW. I've had to work really hard on making myself less picky and more sloppy. I think I may have overdone it TBH. :lol
+────────────────────────────────────────────────────────────────────────
+Post #42  (forum post #2116826)
+Author    : jedimaster
+Date      : Jan 31, 2012 at 1:25 AM
+────────────────────────────────────────────────────────────────────────
+
+Nwerke said:
+
+			Aaaaand thank you Mr. Jedi "too much information" Master! :lol
+
+It is bloody hot. African immigrants are complaining about the heat. I kid you not.
+		
+
+Click to expand...
+
+What?........ I can fry an egg on the hood!
+────────────────────────────────────────────────────────────────────────
+Post #43  (forum post #2116843)
+Author    : Muzza
+Date      : Jan 31, 2012 at 2:21 AM
+────────────────────────────────────────────────────────────────────────
+
+jedimaster said:
+
+			Its a *****! Can't pour resin, can't pour silicon, can't lay Fibreglass, can't paint, just too bloody hot!! Dammit!!!! How hot I hear you ask? Real hot, damn Hot . It's so ****ing hot there is sweat dripping from my Balls like a leaking tap. That's how ****ing hot it is. I could fry an egg on the hood of my car right now.
+		
+
+Click to expand...
+
+ 
+
+What a big girls blouse I have been driving around all day and didn't even have the aircon on just had the window down and 80km
+────────────────────────────────────────────────────────────────────────
+Post #44  (forum post #2116846)
+Author    : Nwerke
+Date      : Jan 31, 2012 at 2:25 AM
+────────────────────────────────────────────────────────────────────────
+
+He's a Pom. What can you expect? 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+He never does any of those things, anyway. Just shows up, smokes a cigar and yaks worse than I do. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ :lol 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #45  (forum post #2116849)
+Author    : jedimaster
+Date      : Jan 31, 2012 at 2:28 AM
+────────────────────────────────────────────────────────────────────────
+
+You have to wear a suit?..... No! you tryin to pour resin in ya shed? No! So STFU!!!:behave
+────────────────────────────────────────────────────────────────────────
+Post #46  (forum post #2116854)
+Author    : Nwerke
+Date      : Jan 31, 2012 at 2:53 AM
+────────────────────────────────────────────────────────────────────────
+
+ROFLMAO!!!!!! :lol
+
+Sucks to be you, my man. Sucks to be you. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Seriously, I do sympathise. Not fun weather for your line of work IN ANY WAY.
+────────────────────────────────────────────────────────────────────────
+Post #47  (forum post #2116874)
+Author    : jedimaster
+Date      : Jan 31, 2012 at 4:01 AM
+────────────────────────────────────────────────────────────────────────
+
+Nwerke said:
+
+			He's a Pom. What can you expect? 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+He never does any of those things, anyway. Just shows up, smokes a cigar and yaks worse than I do. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ :lol 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+Nice one taffy, I seem to remember the only completed model out of thousands in your shed is a superfortress / stratofortress whatever, covered in thirty years of dust. So by my reckoning you must have been what ? 25 when you built that? Man the beatles were still together the last time you finished a kit.
+────────────────────────────────────────────────────────────────────────
+Post #48  (forum post #2116898)
+Author    : Nwerke
+Date      : Jan 31, 2012 at 4:52 AM
+────────────────────────────────────────────────────────────────────────
+
+...I'm hurt now. I can't even top that, I'm just not nasty enough. I'm just going to cry quietly into my glass of warm milk, instead. There. Are you happy?
+────────────────────────────────────────────────────────────────────────
+Post #49  (forum post #2117303)
+Author    : Colin Droidmilk
+Date      : Jan 31, 2012 at 10:25 AM
+────────────────────────────────────────────────────────────────────────
+
+Hahahahaha... he had you there, son, ha ha... is that true then Simon, only a superfortress in the last 20 years? 
+
+It's bloody freezing here... too cold to spray primer, hands too numb to draw.... but it's gonna get to 40 in the summer so thank ****** for you lot in Oz to tell us about the cockpit droop. Otherwise coulda glued mine on and then been really sorry come June!
+
+Thanks for the shroud guidance, fellows. The beauty of this kit is that even thrown together craply - as my shrouds and brackets are in their current tacked-in dry fit state - it still looks absolutely fantastic.
+
+I haven't glued my cylinders yet, everything's held together with elastic bands. But I'm thanking the Lord for the bad fit of the too-large interior Saturn piece. It will 'correct' the weird flattened rear ends of my cylinders. The fronts are circular, but the rears are definite ellipses. You can even see (I think, lol) a faint taper on the cylinders in the profile view, they get thinner toward the end. Weird thing is I could swear this distortion wasn't there before I washed them...
+────────────────────────────────────────────────────────────────────────
+Post #50  (forum post #2117948)
+Author    : Nwerke
+Date      : Jan 31, 2012 at 7:23 PM
+────────────────────────────────────────────────────────────────────────
+
+Nope, I've completed maybe a dozen or two, counting paper models, ha ha. Everything that's finished has been put away due to lack of display space, and mostly needs repairs too due to moves and storage rearrangements. So you could say my kits have been rekitted. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ That's apart from the several figures and droids which went missing from a shop display. :angry
+
+Oh, it's actually a B-36, by the way. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #51  (forum post #2117956)
+Author    : Nwerke
+Date      : Jan 31, 2012 at 7:28 PM
+────────────────────────────────────────────────────────────────────────
+
+Colin, well, I haven't washed my pieces mate and I have the elliptical shape too. Good to know I'm not the only one. The bad news: the Saturn cone DIDN'T correct this. The good news is that with the T-strips applied, it's so bloody hard to notice you might as well not worry. However I have a mod in mind to address this anyway - stay tuned...for cooler weather that is. Too damn hot again today.
+
+Regarding washing, another lazybones tip: do it AFTER your main subassemblies are glued (sanding the gluing surfaces lightly will suffice) but BEFORE you apply too many fragile greeblies. You'll be handling the thing like crazy up until then anyway and unless you're a smartypants who uses gloves, you'll cover it in oily ickiness from your hands.
+
+Might as well do the washing as late as practicable, or so it seems to me!
+────────────────────────────────────────────────────────────────────────
+Post #52  (forum post #2118174)
+Author    : Colin Droidmilk
+Date      : Feb 1, 2012 at 12:32 AM
+────────────────────────────────────────────────────────────────────────
+
+I thought you said you had the elliptical thing at both ends...? Mine's only at the back, which as I say seems to be giving a slight taper to the profile view of the engines, and if the tees are going to project that taper backwards over half a foot then that's not gonna look good (waiting for the tees still). Weird thing is I would definitely have groaned the minute I unboxed it if the flattened ends had been present then...wondering if I washed them too warm then rinsed them too cold or something...but OTOH there's that big wall/bulkhead there, I don't see how that could've changed shape...As for the interior Sat part, well in my case, it does help force the opening out into something more properly circular...
+
+Anyway, people like pics in these threads so here's a few I took over the last fortnight... dig how the cylinders without their domes look like cores of Arthur C. Clarke space stations!
+────────────────────────────────────────────────────────────────────────
+Post #53  (forum post #2118187)
+Author    : CutThumb
+Date      : Feb 1, 2012 at 12:54 AM
+────────────────────────────────────────────────────────────────────────
+
+I'm afraid the hot washing warped the engine cans, I did the same thing but it was not as extreme. Easy fix though. Get a compass and thickish box cardboard and draw and cut several circles out that matches the unwarped end of the engines. As you have not yet glued the two together the next bit should be easy. Push in the cardboard templates, then with a hairdryer or fan heat ,gently warm the most warped side of the engines until they regain their circular shape. BE WARNED, the  resin is thin because thats how it is on the original engines and it does NOT take too much warmth to start the resin to soften. Rather than use my finger tips to apply pressure I  rolled the edges of the warped engines on a table top gently until  they were perfectly circular again. Took about ten minutes until I was happy with it. Alternatively, use very warm water and  cut plastic circles. I usually also have a bowl of cold water to dunk in and set the remolded part quickly. I did that with the Tie Interceptor and got some of the best fits I 've ever had.
+────────────────────────────────────────────────────────────────────────
+Post #54  (forum post #2118462)
+Author    : ralphee
+Date      : Feb 1, 2012 at 8:13 AM
+────────────────────────────────────────────────────────────────────────
+
+Mine are the same at the back of the can. A VERY slight pinch puts them right though, so a bit of warmth and i can fix that no worries, its the friggin' twist in both cans thats gonna tick me right off, that'll take some persuading, but, ive been there before with warped resin, and its pretty easy, just time consuming.
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #55  (forum post #2119358)
+Author    : Nwerke
+Date      : Feb 1, 2012 at 8:20 PM
+────────────────────────────────────────────────────────────────────────
+
+Hoo, a twist eh Lee? I didn't get one of those. 
+
+Steve, no mate I have the ellipse at the back only. I'm really not worrying about or even noticing any concomitant problem with the t-strips. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #56  (forum post #2119417)
+Author    : ralphee
+Date      : Feb 1, 2012 at 9:27 PM
+────────────────────────────────────────────────────────────────────────
+
+Managed to pull the ellipse out with s hairdryer, and a can of primer that fitted snug inside the saturn, sorted.
+
+Martyn, ill keep the twist to myself then, everyones is gonna want one, think ill just lay it on the glass board warm amd weight it.
+
+Thing is, its bugging me now, so, im going to have to steal an hour this weekend to sort it. This means, itll begin as a build lol, i swear Mike did it on purpose to catch me out as a slacker :lol
+
+Lee
+────────────────────────────────────────────────────────────────────────
+Post #57  (forum post #2119486)
+Author    : jedimaster
+Date      : Feb 1, 2012 at 10:50 PM
+────────────────────────────────────────────────────────────────────────
+
+Mines only affected at the back too. I'm liking the can idea Lee. thanks.
+────────────────────────────────────────────────────────────────────────
+Post #58  (forum post #2119509)
+Author    : ralphee
+Date      : Feb 1, 2012 at 11:36 PM
+────────────────────────────────────────────────────────────────────────
+
+Tape the engine, to the can buddy, think its a 400ml, the big ones anyways lol.
+
+Once taped, zap some warmth, leave for about 10 mins, huzzah, perfect rounds again.
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #59  (forum post #2119559)
+Author    : Colin Droidmilk
+Date      : Feb 2, 2012 at 1:33 AM
+────────────────────────────────────────────────────────────────────────
+
+Nwerke said:
+
+			Hoo, a twist eh Lee? I didn't get one of those. 
+
+Steve, no mate I have the ellipse at the back only. I'm really not worrying about or even noticing any concomitant problem with the t-strips. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+Cool... I might see if I can get away with it, then. Don't really fancy sticking the hairdryer to it - I'm timid that way, I can just see me making a hash of it and melting the whole bloody thing, lol...
+
+Ralphee, so you have a twist, eh? Here's another quirk - my starboard top cylinder half is now 2mm longer than the lower half, but only on one side, again presumably an effect of the washing ... Luckily mismatches like this don't really bug me too much!
+
+An idiot priming question for you chaps...this is the first model I've done with so much recessed detailing. I primed my cockpit interior the other day, and was buggered if I could cover the deeply recessed detailed areas without also building up a much too thick layer on the other, exposed, surfaces. Since the whole model consists of such recesses, and even partly covered-over channels and grooves (like the neck sidepieces) I'm wondering how to proceed here...how do you guys do it, eh?
+────────────────────────────────────────────────────────────────────────
+Post #60  (forum post #2119566)
+Author    : cosmic_x
+Date      : Feb 2, 2012 at 1:45 AM
+────────────────────────────────────────────────────────────────────────
+
+What primer do you use Colin? There is a very good Tamiya grey fine primer but I had same good experience with the Valejo primer.
+
+Normally you should not try to cover everything in one coat. Apply a thin coat at a time and keep your distance with the can when you do that. It shouldnt be a problem.
+
+Kostas
+────────────────────────────────────────────────────────────────────────
+Post #61  (forum post #2119571)
+Author    : jedimaster
+Date      : Feb 2, 2012 at 1:50 AM
+────────────────────────────────────────────────────────────────────────
+
+Yeah, what Kostas said I use the tamiya, good stuff. Also Mr surfacer, but that's way more expensive.
+────────────────────────────────────────────────────────────────────────
+Post #62  (forum post #2119628)
+Author    : Nwerke
+Date      : Feb 2, 2012 at 3:58 AM
+────────────────────────────────────────────────────────────────────────
+
+I've never tried Mr. Surfacer but have a can of it sitting by the Y waiting for the weekend. I really, really, really like that super-smooth rattlecan grey primer that Testors used to make. Haven't seen it for a while, do they still make that? 
+
+That stuff was like magic, I used to use it on masters for moulding and it made them look like I actually knew what I was doing. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Steve, you won't melt anything on this model. It's polyurethane resin; it'd burn (down, fall over and THEN sink into the swamp) before it'd melt. The worst risk is making it too floppy and having it set even more out of shape, but that's curable too, the stuff has a memory. 
+
+I'd say just dunk the part in hot water. Its memory will return it to the right shape most likely, and if not, form it up as recommended by the guys, above, soak it in the hot water for a minute then whip it out and and dunk it into COLD water. 
+
+You basically can't go too badly wrong here. It is thin resin though and when soft will be less tear-resistant too. Take a little care and you'll be fine.
+────────────────────────────────────────────────────────────────────────
+Post #63  (forum post #2119678)
+Author    : jedimaster
+Date      : Feb 2, 2012 at 4:59 AM
+────────────────────────────────────────────────────────────────────────
+
+[IMAGE: 9adaef45.jpg]
+
+[/IMG]
+────────────────────────────────────────────────────────────────────────
+Post #64  (forum post #2119728)
+Author    : Nwerke
+Date      : Feb 2, 2012 at 5:53 AM
+────────────────────────────────────────────────────────────────────────
+
+That is the stuff and I WILL BUY IT FROM YOU!!!!!!!!!!!!!!!!!!!
+────────────────────────────────────────────────────────────────────────
+Post #65  (forum post #2119889)
+Author    : ralphee
+Date      : Feb 2, 2012 at 8:15 AM
+────────────────────────────────────────────────────────────────────────
+
+Ive used Auto primers for over 10 years, over time they just get better and better, Halfords (im back on that brand right now) and UPOL....they finish perfectly, are hardwearing, and i think work out cheaper than buying those little girlie tins Simon :lol.
+
+I do however have a couple of the Tamiya now, thought id try it......is it really that good?
+
+Ive always found its not the primer though, its the application, warm it, take your time, light passes blah blah, piece o' cake.
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #66  (forum post #2119949)
+Author    : Colin Droidmilk
+Date      : Feb 2, 2012 at 8:56 AM
+────────────────────────────────────────────────────────────────────────
+
+I use Mr. Resin Surface Primer. Went on really nicely on my V3. No prob with the stuff itself, just how to get it deep inside these recesses. But y'all reckon lots of light passes'll get it in all the nooks and crannies eventually. OK, right, ta.
+
+Martyn, I meant 'melt' figuratively, like it'd go all floppy and then set even worse, or yeah, even burn, knowing me.... 
+
+But hot water, yes. I did that for a warped can on my V3. Which you showed me how to do when I was just a baby SSer, d'ye remember? Shoulda thunk of that before. Especially since that's how it got distorted in the first place.
+────────────────────────────────────────────────────────────────────────
+Post #67  (forum post #2120024)
+Author    : ralphee
+Date      : Feb 2, 2012 at 9:43 AM
+────────────────────────────────────────────────────────────────────────
+
+Man i remember my first Salzo X V1, my first resin kit, i hot dipped the canopy lol, it ended up like a figure of eight, no i really mean it, the joy of resin in, it does have a memory, Martyn is so spot on there, bout an hour of pleading, i got it back to its correct profile.
+
+Steve, for real undercut stuff, really pass over it, bout 12" away, dont be too worried on a heavier pass, more so, worry more on hovering over one area too much, as long as you pass over, itll prime up like butter, which is another trade secret, i mix butter in mine :lol.
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #68  (forum post #2120120)
+Author    : darth_daniel
+Date      : Feb 2, 2012 at 10:55 AM
+────────────────────────────────────────────────────────────────────────
+
+My problem with priming is the following: The first light coat goes on a bit dusty, especially on surfaces "parallel" to the spray direction, so there´s a very light grainy and dusty texture. On the second pass, the new layer seems to accumulate on the grains and makes it even worse with every further coat. Do I simply use a bad primer or the wrong temperature or distance and has anyone else encountered this?
+────────────────────────────────────────────────────────────────────────
+Post #69  (forum post #2120343)
+Author    : jedimaster
+Date      : Feb 2, 2012 at 1:46 PM
+────────────────────────────────────────────────────────────────────────
+
+Nwerke said:
+
+			That is the stuff and I WILL BUY IT FROM YOU!!!!!!!!!!!!!!!!!!!
+		
+
+Click to expand...
+
+Stanbridges stock it. It does go on really nice but seems to take ages to dry. Having said that , the model tends to need less prep with the testors before painting.
+────────────────────────────────────────────────────────────────────────
+Post #70  (forum post #2120356)
+Author    : ralphee
+Date      : Feb 2, 2012 at 1:57 PM
+────────────────────────────────────────────────────────────────────────
+
+darth_daniel said:
+
+			My problem with priming is the following: The first light coat goes on a bit dusty, especially on surfaces "parallel" to the spray direction, so there´s a very light grainy and dusty texture. On the second pass, the new layer seems to accumulate on the grains and makes it even worse with every further coat. Do I simply use a bad primer or the wrong temperature or distance and has anyone else encountered this?
+		
+
+Click to expand...
+
+Id say your too far away on your passes, dont be scared to get up close, just make sure you control it, hell i get as close as 6" at times.
+
+Warm the can, shake it to hell, and, dont spray in HOT temps, itll be dry as it hits the target causing your rough texture!
+
+Lee
+────────────────────────────────────────────────────────────────────────
+Post #71  (forum post #2120358)
+Author    : jedimaster
+Date      : Feb 2, 2012 at 1:58 PM
+────────────────────────────────────────────────────────────────────────
+
+Steve, if your worried about building up to much primer in there you can always brush the primer on in that area. Get some of this.
+
+[IMAGE: baa37637.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #72  (forum post #2120359)
+Author    : ralphee
+Date      : Feb 2, 2012 at 1:58 PM
+────────────────────────────────────────────────────────────────────────
+
+For me, the wetter the coat, the better the finish, most my priming has a shine to it, try various methods in the end, youll crack it!
+
+Lee
+────────────────────────────────────────────────────────────────────────
+Post #73  (forum post #2120440)
+Author    : darth_daniel
+Date      : Feb 2, 2012 at 2:57 PM
+────────────────────────────────────────────────────────────────────────
+
+ralphee said:
+
+			Id say your too far away on your passes, dont be scared to get up close, just make sure you control it, hell i get as close as 6" at times.
+
+Warm the can, shake it to hell, and, dont spray in HOT temps, itll be dry as it hits the target causing your rough texture!
+
+Lee
+		
+
+Click to expand...
+
+You could be right about the heat as I usually spray primer outside in summer, thanks for the advice! (I´ll better go and spray some primer right now... it´s got -13°C! :lol)
+────────────────────────────────────────────────────────────────────────
+Post #74  (forum post #2120743)
+Author    : Nwerke
+Date      : Feb 2, 2012 at 7:15 PM
+────────────────────────────────────────────────────────────────────────
+
+darth_daniel said:
+
+			My problem with priming is the following: The first light coat goes on a bit dusty, especially on surfaces "parallel" to the spray direction, so there´s a very light grainy and dusty texture.
+		
+
+Click to expand...
+
+Your primer is drying too much before hitting the surface, as Lee has mentioned. You definitely want a good balance between warm paint and air that's not *too* warm (if your paint is too cold it will go on wetter, but you'll get an "orange peel" finish effect instead.)
+
+I'm not such a big fan of the Tamiya primer for this same reason. It seems to dry faster than other primers; this seems to happen across a much wider range of ambient temperatures too. Result; furry surfaces more often than with Testors, or with auto primers (Lee is right about those too - they're great.) It's also a flatter finish than I really like with a primer, I like at least a little bit of sheen, it makes detecting flaws much easier.
+
+darth_daniel said:
+
+			You could be right about the heat as I usually spray primer outside in summer, thanks for the advice! (I´ll better go and spray some primer right now... it´s got -13°C! :lol)
+		
+
+Click to expand...
+
+Yowch! Warm the can before you start painting. A few minutes in a bowl of warm water should do it.
+────────────────────────────────────────────────────────────────────────
+Post #75  (forum post #2121016)
+Author    : darth_daniel
+Date      : Feb 2, 2012 at 11:51 PM
+────────────────────────────────────────────────────────────────────────
+
+Nwerke said:
+
+			Yowch! Warm the can before you start painting. A few minutes in a bowl of warm water should do it.
+		
+
+Click to expand...
+
+No way, I´ll wait until spring! :lol Haven´t got anything in the primer stage right now anyway.
+
+What kind of auto primers do you guys use? I used Duplicolor for a long time, it´s a good primer once it´s down on the model but it´s the worst in creating this "dust effect" - it seems to dry very quickly. I´ll give it one last try and really put the can into warm water before spraying.
+────────────────────────────────────────────────────────────────────────
+Post #76  (forum post #2121067)
+Author    : cosmic_x
+Date      : Feb 3, 2012 at 1:41 AM
+────────────────────────────────────────────────────────────────────────
+
+The duplicolor w have in Germany is one of the worste primers i used, its very thick, and dries quickly. 
+
+If you dont want o use the fine gray Tamiya or Mr. Surfacer, you should try Valejo, I would say its almost equal to Tamiya and little cheaper
+────────────────────────────────────────────────────────────────────────
+Post #77  (forum post #2121099)
+Author    : darth_daniel
+Date      : Feb 3, 2012 at 3:43 AM
+────────────────────────────────────────────────────────────────────────
+
+cosmic_x said:
+
+			The duplicolor w have in Germany is one of the worste primers i used, its very thick, and dries quickly. 
+
+If you dont want o use the fine gray Tamiya or Mr. Surfacer, you should try Valejo, I would say its almost equal to Tamiya and little cheaper
+		
+
+Click to expand...
+
+Hm okay, I only know Vallejo´s clear coats from the can and they´re the best I´ve ever used, maybe I´ll have to give their primers a try as well. They´re not that easy to get for me though.
+
+Lately I use a primer by "Berner", it´s an awesome primer but I have to drive 45 minutes to purchase it and it´s only available in black or white, not grey as I´d like. The white one isn´t as good as the black one though.
+────────────────────────────────────────────────────────────────────────
+Post #78  (forum post #2121162)
+Author    : Colin Droidmilk
+Date      : Feb 3, 2012 at 5:15 AM
+────────────────────────────────────────────────────────────────────────
+
+jedimaster said:
+
+			Steve, if your worried about building up to much primer in there you can always brush the primer on in that area. Get some of this.
+
+[IMAGE: baa37637.jpg]
+
+Click to expand...
+
+I had thought of brushing in there, but didn't mention it - afraid you'd all laugh at me, lol! Great, I'll check the LHs for that stuff you got there.
+────────────────────────────────────────────────────────────────────────
+Post #79  (forum post #2121169)
+Author    : Nwerke
+Date      : Feb 3, 2012 at 5:28 AM
+────────────────────────────────────────────────────────────────────────
+
+Oh heck no man. Simon's talking about a very thin primer there specifically, but I brush-paint cockpits and other high-greeblie-density stuff for the final finish, quite often. Broad flat surfaces not so much, obviously.
+────────────────────────────────────────────────────────────────────────
+Post #80  (forum post #2121233)
+Author    : jedimaster
+Date      : Feb 3, 2012 at 6:43 AM
+────────────────────────────────────────────────────────────────────────
+
+All too often people "idealize" their builds. Now don't get me wrong some fantastic work is done here , but if your trying to replicate an ILM Bird , they are actually quite simple and straight forward and quite often rough as guts. For example some of the castings on ILM Models are shocking and full of air bubbles. Rubbish by today's standards.
+
+I guess what I'm saying is don't be to finicky over little things like Priming every nook and cranny on the instrument panel. It was just painted black anyhow and now sits under 30 years of dust. That's the look I'm after anyway.
+────────────────────────────────────────────────────────────────────────
+Post #81  (forum post #2121391)
+Author    : darth_daniel
+Date      : Feb 3, 2012 at 9:13 AM
+────────────────────────────────────────────────────────────────────────
+
+jedimaster said:
+
+			It was just painted black anyhow and now sits under 30 years of dust. That's the look I'm after anyway.
+		
+
+Click to expand...
+
+Guess it´s time to invent a "dust booth" - like a spray booth, which can apply the dust of 30 years in just 30 minutes! :lol
+────────────────────────────────────────────────────────────────────────
+Post #82  (forum post #2121840)
+Author    : jedimaster
+Date      : Feb 3, 2012 at 3:17 PM
+────────────────────────────────────────────────────────────────────────
+
+I got a good source for 30 years of dust.
+────────────────────────────────────────────────────────────────────────
+Post #83  (forum post #2122087)
+Author    : Nwerke
+Date      : Feb 3, 2012 at 7:16 PM
+────────────────────────────────────────────────────────────────────────
+
+Don't keep us in suspense, man! Do you mean my shed, or your wallet?
+────────────────────────────────────────────────────────────────────────
+Post #84  (forum post #2122093)
+Author    : jedimaster
+Date      : Feb 3, 2012 at 7:21 PM
+────────────────────────────────────────────────────────────────────────
+
+Nwerke said:
+
+			Don't keep us in suspense, man! Do you mean my shed, or your wallet?
+		
+
+Click to expand...
+
+Both, gotta separate the cobwebs from the dust in my wallet first and you need to get rid of the Bats and tumbleweed..
+────────────────────────────────────────────────────────────────────────
+Post #85  (forum post #2122119)
+Author    : Nwerke
+Date      : Feb 3, 2012 at 7:55 PM
+────────────────────────────────────────────────────────────────────────
+
+Between us we will have a lifetime supply!
+────────────────────────────────────────────────────────────────────────
+Post #86  (forum post #2122166)
+Author    : moffeaton
+Date      : Feb 3, 2012 at 9:02 PM
+────────────────────────────────────────────────────────────────────────
+
+The wetter the coat... warm your can...
+
+This thread is a bunch of THAT'S WHAT SHE SAID
+────────────────────────────────────────────────────────────────────────
+Post #87  (forum post #2122173)
+Author    : Nwerke
+Date      : Feb 3, 2012 at 9:08 PM
+────────────────────────────────────────────────────────────────────────
+
+Greetings from Entendreville - a sunny suburb of Euphemism City! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #88  (forum post #2123402)
+Author    : Colin Droidmilk
+Date      : Feb 5, 2012 at 5:01 AM
+────────────────────────────────────────────────────────────────────────
+
+moffeaton said:
+
+			The wetter the coat... warm your can...
+
+This thread is a bunch of THAT'S WHAT SHE SAID
+		
+
+Click to expand...
+
+But then this thread's for dossers and lightweights like me, not swots like you, lol....
+────────────────────────────────────────────────────────────────────────
+Post #89  (forum post #2123411)
+Author    : ralphee
+Date      : Feb 5, 2012 at 5:19 AM
+────────────────────────────────────────────────────────────────────────
+
+Managed to get one can spot on round now, took a while to get the twist out and round out the back too, lots of manhandling.
+
+Was tempted to just build new engine patterns, but blah, im just gonna build the sucker clean.
+
+Lee
+────────────────────────────────────────────────────────────────────────
+Post #90  (forum post #2123415)
+Author    : Nwerke
+Date      : Feb 5, 2012 at 5:21 AM
+────────────────────────────────────────────────────────────────────────
+
+Ah, "that's what she said" is generally a US version of "as the actress said to the bishop" - a gag twisting the meaning of the sentence it follows, not a slam on the quality of content. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+I AM trying to be pretty basic here though, yeah. I figure that out of the fifty-odd of us who have this kit there's gotta be a few folk who haven't tackled something like this before. Right? 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+
+Did nothing on the Y this weekend, because MY BLACK PEARL ARRIVED FROM RUSSIA WOOHOO. Oh also and some huge great big Stargate thing and the guys were over yesterday and I had painters at my mum's place and I was cleaning up the shed and, um, stuff. 
+
+I did nothing on the Black Pearl either. I'm not sure I should. I was expecting it to be repackaged but it is the entire thing, with the original figurehead, Disney/POTC box, everything. Is it a collector's item? :lol
+
+I WILL DO THE NECK MOD TOMORROW AND POST PICS. (repeats to self fifty times under his breath)
+────────────────────────────────────────────────────────────────────────
+Post #91  (forum post #2123417)
+Author    : Nwerke
+Date      : Feb 5, 2012 at 5:21 AM
+────────────────────────────────────────────────────────────────────────
+
+Lee, good to hear. The twist is weird. Mine has nothing like that.
+────────────────────────────────────────────────────────────────────────
+Post #92  (forum post #2124471)
+Author    : Colin Droidmilk
+Date      : Feb 6, 2012 at 1:16 AM
+────────────────────────────────────────────────────────────────────────
+
+Me, I tried correcting the distortion on the cans with hot water, but to no avail, gave up and just ended sticking ruddy great shims in at the rear end of each can. But it came out just fine. Really happy with the result. Did tons of checking first with Tee substitutes (brass rod) to check that the result would give me perfectly parallel tee strip alignment all the way round. It did, so I thought, right sod this dicking about with hardryers and hot water, I'm just gonna glue shims in. Then had an orgasmic time sticking the L'eggs on. Btw the testing of the rod without the shims revealed a horrendous taper on the starboard cylinder.
+
+I'm also seriously thinking now about ditching the cockpit interior and going blank, not so much for authenticity, but just because the window shadows somehow look more pleasing this way. The cockpit detailing sort of makes the run of windows harder to read... and I don't want no harder-to-read run of windows.
+
+About the neck mod, I want a slacker's option, too, eh? Don't tell me I need a drill press, lol...
+────────────────────────────────────────────────────────────────────────
+Post #93  (forum post #2124536)
+Author    : ralphee
+Date      : Feb 6, 2012 at 4:40 AM
+────────────────────────────────────────────────────────────────────────
+
+Steve, do you mean, your starboard can, tapered, toward the back? If so, yeah i had the same problem, by as much as 5mm, just to ask WHY?
+
+I sanded out the front of the can, and took the ellipse out fully, this brought the balance to 1mm, maybe a tad under, which i think i can live with, but i cant figure how this has happened, were they sanded flat while making the master, as thats two kits, both with tapered starboard cans?
+
+Also NOT putting a cockpit in, no way.......does look better without, i love the shape of the side windows on this model with there lozenged profile, the cockpit interior ruins that lol.
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #94  (forum post #2124569)
+Author    : mslz22
+Date      : Feb 6, 2012 at 5:56 AM
+────────────────────────────────────────────────────────────────────────
+
+Hey Guys, i just checked the pattern for the Sat v cans and yep, there is a bit of a taper, just like Lee said it seems that the problem is that the front is a bit "proud"  As far as i can tell these were not sanded at all, just the tabs cut off, meaning that the naked cans just had the kit parts and mounting disks attached, so the issue may be in the donor kit parts.  I don't know if it's something that occurs in all Sat V kits, my guess is not, but it may occur in some.  It's not something John would notice in building the pattern because the parts don't show the issue until full assembly.
+
+I will tell you that i need to cast these parts with a small amount of flash around the edges as well, if i don't they are so thin the just get obliterated if i over compress the mold. It's nothing that will yield a 5 mm difference on one end or another as it is an even distribution and is a very thin amount, like .005.  It's actually likely keeping the part closer to the original thickness when taking mold compression and shrinkage into account.  It does mean that some flat sanding is required on the bottoms.
+
+Resin is a harsh mistress and we are still need to figure out the happy medium between keeping the original kit parts intact and engineering with casting in mind.  If too much material is added to strengthen the parts it throws off the scale of the parts, too little and we wind up with some of the issues here.
+
+mike
+────────────────────────────────────────────────────────────────────────
+Post #95  (forum post #2124570)
+Author    : jedimaster
+Date      : Feb 6, 2012 at 5:57 AM
+────────────────────────────────────────────────────────────────────────
+
+No cockpit and added the messer guns for mine. I mean, if ya gonna do it right.....right?
+────────────────────────────────────────────────────────────────────────
+Post #96  (forum post #2124579)
+Author    : ralphee
+Date      : Feb 6, 2012 at 6:07 AM
+────────────────────────────────────────────────────────────────────────
+
+jedimaster said:
+
+			No cockpit and added the messer guns for mine. I mean, if ya gonna do it right.....right?
+		
+
+Click to expand...
+
+ 
+
+Oh yeah, im putting those 109 guns on for sure, glad i have one stashed away.
+
+Mike, thanks for the chime, i know its not the casting, the taper/warp must be in the donor, if he's using a vintage V, then id bet that is the deal, ive seen many parts out of shape.
+
+Im pretty sure ive adjusted now, may have to shim as Jason did, if all else fails, looks like ill have to build new engine patterns from my Saturns.....joy joy!
+
+Anybody got a kit ID map for the engines just in case?
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #97  (forum post #2124582)
+Author    : ralphee
+Date      : Feb 6, 2012 at 6:12 AM
+────────────────────────────────────────────────────────────────────────
+
+Come to think of it, could that be the reason J had to shim the backside of the starboard can?
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #98  (forum post #2124587)
+Author    : mslz22
+Date      : Feb 6, 2012 at 6:18 AM
+────────────────────────────────────────────────────────────────────────
+
+Likely, if i hold the front of the cans tight together the back has a gap, again naturally occurring the the donor part.  I have to look back to the instructions, but do i remember J needing to sand the front as well just to get the Leggs to fit correctly?  That would support the front of the cans being too proud right?
+
+mike
+
+ralphee said:
+
+			Come to think of it, could that be the reason J had to shim the backside of the starboard can?
+
+lee
+		
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #99  (forum post #2124602)
+Author    : jedimaster
+Date      : Feb 6, 2012 at 6:33 AM
+────────────────────────────────────────────────────────────────────────
+
+Anyone know where I can get tiny black triangle decals for my other Y build. Buffered if I'm gonna paint em on.
+────────────────────────────────────────────────────────────────────────
+Post #100  (forum post #2124609)
+Author    : ralphee
+Date      : Feb 6, 2012 at 6:42 AM
+────────────────────────────────────────────────────────────────────────
+
+mslz22 said:
+
+			Likely, if i hold the front of the cans tight together the back has a gap, again naturally occurring the the donor part. I have to look back to the instructions, but do i remember J needing to sand the front as well just to get the Leggs to fit correctly? That would support the front of the cans being too proud right?
+
+mike
+		
+
+Click to expand...
+
+ 
+
+Just checked Mike, J had to shim the front for the L'eggs fitment, no big dealy.
+
+TBH, its not that bad at all, with CAREFUL manipulation with a hairdryer, the cans can be tweaked almost back to how they should be buddy.
+
+Originally i was pretty terrified, starboard was out quite a bit lol, ill get to the other can soon.
+
+Id not use hot water for this, its harder to keep it all under control IMO, i only use hot water for small areas with a little kink or what not.
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #101  (forum post #2124611)
+Author    : ralphee
+Date      : Feb 6, 2012 at 6:44 AM
+────────────────────────────────────────────────────────────────────────
+
+jedimaster said:
+
+			Anyone know where I can get tiny black triangle decals for my other Y build. Buffered if I'm gonna paint em on.
+		
+
+Click to expand...
+
+ 
+
+The black triangle decal store???? :lol, Simon, paint them, go on, mask them up, i did on Red Leader for the squares, makes a man of you :behave.
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #102  (forum post #2124620)
+Author    : jedimaster
+Date      : Feb 6, 2012 at 6:53 AM
+────────────────────────────────────────────────────────────────────────
+
+I'm so glad I have you guys to fall back on for advice. ILM used decals so i'm gonna use decals dammit!  I'll try the black triangle decal store. You got a link?
+────────────────────────────────────────────────────────────────────────
+Post #103  (forum post #2124624)
+Author    : ralphee
+Date      : Feb 6, 2012 at 6:58 AM
+────────────────────────────────────────────────────────────────────────
+
+Id bet you have them, surely they are from a kit Simon? Or, cut from a kit decal sheet.
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #104  (forum post #2124641)
+Author    : mslz22
+Date      : Feb 6, 2012 at 7:12 AM
+────────────────────────────────────────────────────────────────────────
+
+I would think about looking for black dry transfer paper and cut them out.  I've got a local hobby store that has vintage locomotive dry transfer stuff and i would not be surprised if some of that stuff made it's way to some of the original ILM models.
+────────────────────────────────────────────────────────────────────────
+Post #105  (forum post #2124642)
+Author    : jedimaster
+Date      : Feb 6, 2012 at 7:13 AM
+────────────────────────────────────────────────────────────────────────
+
+Yeah been looking. I have a BAZILLIAN red ones left over from the snowspeeder but no black. I got some blank decal paper so I may just have to try and make my own. Only need 8 of the damn tiny buggers.
+
+Edit. Good idea mike , I"ll look into that, thanks.
+────────────────────────────────────────────────────────────────────────
+Post #106  (forum post #2124651)
+Author    : ralphee
+Date      : Feb 6, 2012 at 7:21 AM
+────────────────────────────────────────────────────────────────────────
+
+J uses those Letraset things i think, which do work out great!
+
+Lee
+────────────────────────────────────────────────────────────────────────
+Post #107  (forum post #2124695)
+Author    : Colin Droidmilk
+Date      : Feb 6, 2012 at 7:49 AM
+────────────────────────────────────────────────────────────────────────
+
+ralphee said:
+
+			Steve, do you mean, your starboard can, tapered, toward the back? If so, yeah i had the same problem, by as much as 5mm, just to ask WHY?
+
+lee
+		
+
+Click to expand...
+
+Exactly. Port too, but not so much. It must be the donor as Mike says, rather than hot washing, as the problem is in that interior bulkhead wall too. Well, on mine at least. Can't see how that piece could've changed from circle to ellipse through heat. That's why I gave up on heating, and just shoved shims in between those two walls and the sidewalls. This shimming of the starboard cylinder resulted in gaps at the tail of 3.5mm on the starboard side and 1.5mm on the port. Didn't need to shim the front at all. Luckily the nature of the detailing on the cylinder sides and the happy presence of the mount hatches pretty much disguises the irregularities you might expect from shimming only one end. The L'Eggs went on flush on both cylinders without shimming or sanding with at worst a .25 mm lip in a couple of places. Jason 'd probably give the whole cylinder 5 out of 10 for looking a bit of a pig's arse, but I'm pretty chuffed with it now. Seeing those L'eggs on there with a true straight cylinder projecting out behind and the totally perfect relationship between it and the fuselage has me just grinning from ear to ear, gotta say. Man, what a kit! 
+
+Only thing with going cockpitless is we have to reinforce that floor, right? Don't want that support block underneath busting through that fragile styrene film....
+
+Some pics. Finally got my zoom working again so now I can take some decent  un-wide angle shots to check out the form against classic ILM pics. Pretty stunning match... The last pic shows one of the shims roughly in place in the starboard cylinder rear. And the first shows the gap resulting from the finished shim on the port side of the starboard cylinder.
+────────────────────────────────────────────────────────────────────────
+Post #108  (forum post #2124707)
+Author    : ralphee
+Date      : Feb 6, 2012 at 7:58 AM
+────────────────────────────────────────────────────────────────────────
+
+Steve, agreed on the rear inner blukhead, i think the diameter was off in the pattern, not 100%, but it does seem to cause a flaring.
+
+Something for guys following us in the build to get there heads around for sure.
+
+Ill look into what shimming i need once i get them ready to slip onto the wing, itll come good.
+
+Love the new pics, yeah, think ill want to get to that stage and just sit and admire, looks so sexy, ya know, im not even bothered on finishing it, just getting it build clean, and gawping, the team did one hell of a job.
+
+Those Tee's not shown up yet Steve? Hmm, thats slow.
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #109  (forum post #2124722)
+Author    : Colin Droidmilk
+Date      : Feb 6, 2012 at 8:08 AM
+────────────────────────────────────────────────────────────────────────
+
+Not yet, no... but I live in hope! Anyway cheers a million for sending 'em! Glad you like the pics - I dedicate them to you! 
+
+Yeah, you can get so much of this kit tacked together, it's amazing. The only glue on what you see there is on the engines and a few greeblies I couldn't resist prematurely sticking on the fuse...
+────────────────────────────────────────────────────────────────────────
+Post #110  (forum post #2124856)
+Author    : ralphee
+Date      : Feb 6, 2012 at 9:42 AM
+────────────────────────────────────────────────────────────────────────
+
+Well, hopefully there soon buddy, i tend to find Euro post takes just as long as shipping to the US at times.
+
+Just wanna see new pics with them tacked on lol.
+
+Anyway, thank you for the pics you posted, really love them, taken at all those sexy angles, your a man after my own heart, as i tend to look at my own models from some mad angles at home, its like im playing Twister at times lol, and the greyscale pics, love it!
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #111  (forum post #2125818)
+Author    : Nwerke
+Date      : Feb 7, 2012 at 12:26 AM
+────────────────────────────────────────────────────────────────────────
+
+ralphee said:
+
+			Steve, agreed on the rear inner blukhead, i think the diameter was off in the pattern, not 100%, but it does seem to cause a flaring.
+		
+
+Click to expand...
+
+Yeah, it's there but it's minor, I shimmed only the rear part of the outer seam on both my cans. 
+
+			Love the new pics
+		
+
+Click to expand...
+
+I did too...thanks Steve...I thought "aha...FSoF&F replica pics!" instantly, LOL! 
+
+			yeah, think ill want to get to that stage and just sit and admire, looks so sexy, ya know, im not even bothered on finishing it, just getting it build clean, and gawping, the team did one hell of a job.
+		
+
+Click to expand...
+
+Ditto! Dang me, I've had mine tacked together for two weeks now. It's just so damn cool to look at in that pristine state, also my 4yo LOVES to assemble and disassemble it, heh.
+────────────────────────────────────────────────────────────────────────
+Post #112  (forum post #2125844)
+Author    : Colin Droidmilk
+Date      : Feb 7, 2012 at 12:53 AM
+────────────────────────────────────────────────────────────────────────
+
+ralphee said:
+
+			Well, hopefully there soon buddy, i tend to find Euro post takes just as long as shipping to the US at times.
+
+Just wanna see new pics with them tacked on lol.
+
+Anyway, thank you for the pics you posted, really love them, taken at all those sexy angles, your a man after my own heart, as i tend to look at my own models from some mad angles at home, its like im playing Twister at times lol, and the greyscale pics, love it!
+
+lee
+		
+
+Click to expand...
+
+Twister, yeah, lol! It must be worse without a Panavise... While Panavises do prevent some of the more ludicrous Twister antics, I do want to get a plain mount in the correct mount point too at some point though - the Panavise knuckle looks a bit hefty next to the fuselage, and it's ruining my front underside views!! LOl....
+
+Martyn, yeah, it's almost a shame to glue her up finally... because then you'd have to stop playing with her. When I've run out of plant-ons to glue on, I'm actually going to be a bit sad, I think... I ration myself to one plant-on a night, and take an hour over it, savouring every delicious moment, timing the applicationgasm to a soaring crescendo on the John Williams score...
+────────────────────────────────────────────────────────────────────────
+Post #113  (forum post #2125857)
+Author    : Colin Droidmilk
+Date      : Feb 7, 2012 at 1:08 AM
+────────────────────────────────────────────────────────────────────────
+
+Hey Lee man, the GF just handed me a delivery note from the Post Office! The tees are in town!
+────────────────────────────────────────────────────────────────────────
+Post #114  (forum post #2126178)
+Author    : ralphee
+Date      : Feb 7, 2012 at 8:18 AM
+────────────────────────────────────────────────────────────────────────
+
+Colin Droidmilk said:
+
+			Hey Lee man, the GF just handed me a delivery note from the Post Office! The tees are in town!
+		
+
+Click to expand...
+
+ 
+
+Ahhh, cool beans, i was getting worried, now we get more pics, its a win, win lol. 
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #115  (forum post #2126202)
+Author    : moffeaton
+Date      : Feb 7, 2012 at 8:35 AM
+────────────────────────────────────────────────────────────────────────
+
+And here I thought I messed up, somewhere along the way 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #116  (forum post #2127554)
+Author    : Nwerke
+Date      : Feb 8, 2012 at 8:25 AM
+────────────────────────────────────────────────────────────────────────
+
+Steve...I am getting quite worried about you now, mate! :lol
+────────────────────────────────────────────────────────────────────────
+Post #117  (forum post #2127669)
+Author    : Colin Droidmilk
+Date      : Feb 8, 2012 at 9:53 AM
+────────────────────────────────────────────────────────────────────────
+
+No, seriously, the time between watching Star Wars in '77 and acquiring these SS models is just non-time. Non-life. Three and a half decades of basically meaningless events. I can see that now.
+
+Lee, I now have the tees - after the usual sorry farrago of obstruction, rudeness and incompetence from the vicious harridans at the post office - and have managed not to touch them all day and do some work! Ok, I put one on, and would've posted a pic, but again I have this power drain problem on my camera. I'll see what I can do over the next days. Meanwhile here's another couple you guys might like from the previous set. And again, Lee, my man, you're an absolute prince of a fellow! THANKS. And now.... I'm away to tee off, lol!
+────────────────────────────────────────────────────────────────────────
+Post #118  (forum post #2127679)
+Author    : ralphee
+Date      : Feb 8, 2012 at 10:00 AM
+────────────────────────────────────────────────────────────────────────
+
+Steve your way welcome bud, some of us may bicker and pick now and then, but were still a little family, just glad your happy, still peeved they sent acrylic, but as long as your happy, its all good.....now, get that camera some juice :lol.
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #119  (forum post #2127701)
+Author    : moffeaton
+Date      : Feb 8, 2012 at 10:15 AM
+────────────────────────────────────────────────────────────────────────
+
+On the triangles subject, I realized it was just Letraset registration marks - dry transfer, not decals:
+
+http://www.creativepro.com/files/story_images/20100917SAWG_fg12a.jpg
+────────────────────────────────────────────────────────────────────────
+Post #120  (forum post #2130003)
+Author    : Colin Droidmilk
+Date      : Feb 9, 2012 at 11:38 PM
+────────────────────────────────────────────────────────────────────────
+
+ralphee said:
+
+			Steve your way welcome bud, some of us may bicker and pick now and then, but were still a little family, just glad your happy, still peeved they sent acrylic, but as long as your happy, its all good.....now, get that camera some juice :lol.
+
+lee
+		
+
+Click to expand...
+
+Cool. Pics just as soon as I can scrounge another 3 euros off the GF for some batteries...(I get about 15 shots for one set - bloody thing).
+
+Tees are going on nicely. Apart from one little snag which I've been expecting - not with the tees but the steering vane housings. These are 3 or 4 mm wider than the Saturn cylinders. Looks OK in profile but from other angles you can see a mild splaying of the tees as they move out of line to reach their point on the ring... anyone else getting this? It's not a disaster, and is indeed the kind of anomaly one sees in ILM. Maybe this happens on the actual model, and has been faithfully recreated, lol...
+────────────────────────────────────────────────────────────────────────
+Post #121  (forum post #2130008)
+Author    : ralphee
+Date      : Feb 9, 2012 at 11:54 PM
+────────────────────────────────────────────────────────────────────────
+
+Steve, could that not be the taper in the cans i mentioned? Mike backed it up with the news the master also tapers in. Do the vectral rings match the front dia of the Saturn can?
+
+Lee
+────────────────────────────────────────────────────────────────────────
+Post #122  (forum post #2130010)
+Author    : jedimaster
+Date      : Feb 9, 2012 at 11:58 PM
+────────────────────────────────────────────────────────────────────────
+
+moffeaton said:
+
+			On the triangles subject, I realized it was just Letraset registration marks - dry transfer, not decals:
+
+http://www.creativepro.com/files/story_images/20100917SAWG_fg12a.jpg
+
+Click to expand...
+
+Thanks J. Gonna try and find some now.
+────────────────────────────────────────────────────────────────────────
+Post #123  (forum post #2130015)
+Author    : Nwerke
+Date      : Feb 10, 2012 at 12:06 AM
+────────────────────────────────────────────────────────────────────────
+
+ralphee said:
+
+			Steve, could that not be the taper in the cans i mentioned? Mike backed it up with the news the master also tapers in. Do the vectral rings match the front dia of the Saturn can?
+
+Lee
+		
+
+Click to expand...
+
+Lee's dead right, Steve. They HAVE to match, they're cut from the same L'Eggs containers as the front domes - a close near-match anyway. 
+
+They are quite off-round until you fit the actual steering vanes in place. Those force them back into round. Try that if you haven't already.
+
+Simon I have some Letraset somewhere, reckon I can prolly find it.
+────────────────────────────────────────────────────────────────────────
+Post #124  (forum post #2130069)
+Author    : jedimaster
+Date      : Feb 10, 2012 at 1:53 AM
+────────────────────────────────────────────────────────────────────────
+
+You da Man !!!!!
+────────────────────────────────────────────────────────────────────────
+Post #125  (forum post #2130343)
+Author    : Nwerke
+Date      : Feb 10, 2012 at 8:09 AM
+────────────────────────────────────────────────────────────────────────
+
+DAAAAAAHHHHH....found some...white only, no rego marks. Sorry. Sure I've got the black stuff somewhere...
+────────────────────────────────────────────────────────────────────────
+Post #126  (forum post #2131266)
+Author    : Colin Droidmilk
+Date      : Feb 11, 2012 at 1:17 AM
+────────────────────────────────────────────────────────────────────────
+
+ralphee said:
+
+			Steve, could that not be the taper in the cans i mentioned? Mike backed it up with the news the master also tapers in. Do the vectral rings match the front dia of the Saturn can?
+
+Lee
+		
+
+Click to expand...
+
+Well  y'see I corrected the taper. The diameter of my rear is the same now as the diameter as my front. I double-checked this by placing the L'Eggs dome against both ends. Good fit for both.  But my vectral rings are definitely 3mm wider. Still, as I say, the effect on the tees is only noticeable from certain angles, and then only mildly so. But maybe Martyn's right and the steering vanes will create a better shape for the ring....
+────────────────────────────────────────────────────────────────────────
+Post #127  (forum post #2131271)
+Author    : Colin Droidmilk
+Date      : Feb 11, 2012 at 1:23 AM
+────────────────────────────────────────────────────────────────────────
+
+Nwerke said:
+
+			Lee's dead right, Steve. They HAVE to match, they're cut from the same L'Eggs containers as the front domes - a close near-match anyway. 
+
+They are quite off-round until you fit the actual steering vanes in place. Those force them back into round. Try that if you haven't already.
+
+Simon I have some Letraset somewhere, reckon I can prolly find it.
+		
+
+Click to expand...
+
+Thanks. Will continue to fiddle. I was wondering about those steering vanes. They really have to meet those marked locating points, eh? Wow, that will take some serious forcing. Yikes. And yes, maybe then there will be a closer match to the cylinders...
+────────────────────────────────────────────────────────────────────────
+Post #128  (forum post #2131677)
+Author    : Colin Droidmilk
+Date      : Feb 11, 2012 at 11:15 AM
+────────────────────────────────────────────────────────────────────────
+
+Here are some pics then, Lee, of your gorgeous invisible tee strips, lol (they're clear acrylic, folks, thanks to a foul-up at Plastruct, but they'll do the job just fine)... some of the focus is out but the aim in the out-of-focus shots was getting a good look at the general shape with a zoom and atmospheric light (an anglepoise lamp!) - never good conditions for focus without a tripod.
+────────────────────────────────────────────────────────────────────────
+Post #129  (forum post #2132431)
+Author    : ralphee
+Date      : Feb 12, 2012 at 1:51 AM
+────────────────────────────────────────────────────────────────────────
+
+Steve, she looks gorgeous, really great to see the profile shown off. Im still on that fence with this model, still thinking about throwing out these resin cans, using original parts, and converting this to a TIE killer.
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #130  (forum post #2132633)
+Author    : Nwerke
+Date      : Feb 12, 2012 at 7:28 AM
+────────────────────────────────────────────────────────────────────────
+
+Steve, heat them up again if they're that far off-round - heat is your friend.
+
+Also what was that about batteries? You need rechargeables for digital cameras...you're not using ordinary alkalines are you? They don't have the power at all. My digicam can't even use them for emergencies, they die in a total of about three shots at best. Invest in a set of rechargeables, man.
+────────────────────────────────────────────────────────────────────────
+Post #131  (forum post #2132741)
+Author    : ralphee
+Date      : Feb 12, 2012 at 9:35 AM
+────────────────────────────────────────────────────────────────────────
+
+To Martyn you must listen, get some Nimh cells, you can get them in like 2000 mah or something these days, huge capacity!
+
+Lee
+────────────────────────────────────────────────────────────────────────
+Post #132  (forum post #2132766)
+Author    : Colin Droidmilk
+Date      : Feb 12, 2012 at 10:09 AM
+────────────────────────────────────────────────────────────────────────
+
+Well, for years with this camera I used to get 200 shots out of alkalines... reckon it's a fault in the camera, maybe even some kind of built-in obsolescence.* Those dirty mother-grabbing *&%!!@s! But I'll look into rechargables.
+
+* Regarding this, my uncle (a computer expert) snagged my Dad's old printer which had given up the ghost after about 4 years. He looked up some code, accessed the printer's commands and found it had been ordered to cease functioning after a certain number of prints. He changed this number to a much greater one and away it went again. Still functions today.
+────────────────────────────────────────────────────────────────────────
+Post #133  (forum post #2133498)
+Author    : Nwerke
+Date      : Feb 12, 2012 at 9:15 PM
+────────────────────────────────────────────────────────────────────────
+
+Ho! That's appalling. Good on him. 
+
+If it did work with alkalines then that's weird, and likely a fault or possibly even what you suggest. Read the documentation though and see if it mentions anything about high-power batteries. Mine does and it really can't operate on low-power ones, as described. Perhaps you had been unknowingly using high-end stuff and are now using cheaper ones? 
+
+At any rate, if you grab some rechargeables and a charger, and it does turn out to be a camera fault, then if you get yourself a newer camera at some point just grab one that uses AA cells instead of a proprietary unit battery and they won't be wasted. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #134  (forum post #2138291)
+Author    : Nwerke
+Date      : Feb 16, 2012 at 4:21 AM
+────────────────────────────────────────────────────────────────────────
+
+Eh, no progress - sorry, busy at work, busy at home. But! I did just realise there's yet another low-res "table" shot in the public domain. I hadn't really twigged what was on it. Others are probably way ahead of me but for what it's worth, checkitout:
+
+[IMAGE: my-red-y-aka-lazybones-build-some-tips-slack-modeler-red-y-table.jpg-84340d1329394899]
+
+Still incomplete, at a late stage of the model shop work.
+────────────────────────────────────────────────────────────────────────
+Post #135  (forum post #2138308)
+Author    : jedimaster
+Date      : Feb 16, 2012 at 4:55 AM
+────────────────────────────────────────────────────────────────────────
+
+Noice.... Now has anyone got anymore refs of Triangles stashed away? Got the pipework sorted thanks to Gene's pic. Just need to sort out the paint.
+────────────────────────────────────────────────────────────────────────
+Post #136  (forum post #2139418)
+Author    : Muzza
+Date      : Feb 16, 2012 at 7:06 PM
+────────────────────────────────────────────────────────────────────────
+
+Don't you have lots of white paint at home for all your SW models?
+────────────────────────────────────────────────────────────────────────
+Post #137  (forum post #2139462)
+Author    : jedimaster
+Date      : Feb 16, 2012 at 7:41 PM
+────────────────────────────────────────────────────────────────────────
+
+Yes thankyou Murray. You sarcastic ......
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 137

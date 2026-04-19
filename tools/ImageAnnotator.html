@@ -28,6 +28,7 @@
   .h-btn.active { background: var(--accent-dim); border-color: var(--accent); color: var(--accent); }
   .h-btn svg { width: 13px; height: 13px; }
   .h-label { font-size: 11px; color: var(--text3); }
+  #api-status { max-width: 280px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
   select.h-select { background: var(--bg3); border: 1px solid var(--border2); color: var(--text2); padding: 3px 6px; border-radius: var(--radius); font-size: 12px; cursor: pointer; font-family: inherit; }
   .spacer { flex: 1; }
 
@@ -359,6 +360,22 @@
     <svg viewBox="0 0 16 16" fill="currentColor"><path d="M5 1a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1V4.414A1 1 0 0 0 11.707 4L8.293.586A1 1 0 0 0 7.586 0H5zm2 1.5V4H4.5a.5.5 0 0 0 0 1H7v8H5V2h2zM8 2l3 3H8V2z"/></svg>
     Import CSV
   </button>
+  <button class="h-btn" onclick="configureApi()">
+    <svg viewBox="0 0 16 16" fill="currentColor"><path d="M13.5 6A1.5 1.5 0 0 0 12 7.5v1A1.5 1.5 0 0 0 13.5 10h1A1.5 1.5 0 0 0 16 8.5v-1A1.5 1.5 0 0 0 14.5 6h-1zm-12 0A1.5 1.5 0 0 0 0 7.5v1A1.5 1.5 0 0 0 1.5 10h1A1.5 1.5 0 0 0 4 8.5v-1A1.5 1.5 0 0 0 2.5 6h-1zm4.646-4.854A1.5 1.5 0 0 0 6 2.207v1A1.5 1.5 0 0 0 7.5 4.707h1A1.5 1.5 0 0 0 10 3.207v-1A1.5 1.5 0 0 0 8.5.707h-1a1.5 1.5 0 0 0-1.354.439zM6 12.793A1.5 1.5 0 0 0 7.5 14.293h1A1.5 1.5 0 0 0 10 12.793v-1A1.5 1.5 0 0 0 8.5 10.293h-1A1.5 1.5 0 0 0 6 11.793v1z"/><path d="M4.5 8a.5.5 0 0 1 .5-.5h6a.5.5 0 0 1 0 1H5A.5.5 0 0 1 4.5 8z"/></svg>
+    API
+  </button>
+  <button class="h-btn" onclick="importBackendImages()">
+    <svg viewBox="0 0 16 16" fill="currentColor"><path d="M8 1a.5.5 0 0 1 .5.5v6.793l2.146-2.147a.5.5 0 1 1 .708.708l-3 3a.5.5 0 0 1-.708 0l-3-3a.5.5 0 1 1 .708-.708L7.5 8.293V1.5A.5.5 0 0 1 8 1z"/><path d="M2.5 11a.5.5 0 0 1 .5.5V13h10v-1.5a.5.5 0 0 1 1 0V13A1 1 0 0 1 13 14H3a1 1 0 0 1-1-1v-1.5a.5.5 0 0 1 .5-.5z"/></svg>
+    DB Images
+  </button>
+  <button class="h-btn" onclick="pullRegionsForCurrentImage()">
+    <svg viewBox="0 0 16 16" fill="currentColor"><path d="M8 1a.5.5 0 0 1 .5.5v7.793l2.146-2.147a.5.5 0 1 1 .708.708l-3 3a.5.5 0 0 1-.708 0l-3-3a.5.5 0 1 1 .708-.708L7.5 9.293V1.5A.5.5 0 0 1 8 1z"/><path d="M2 14.5a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5z"/></svg>
+    Pull
+  </button>
+  <button class="h-btn" onclick="pushRegionsForCurrentImage()">
+    <svg viewBox="0 0 16 16" fill="currentColor"><path d="M8 15a.5.5 0 0 1-.5-.5V6.707L5.354 8.854a.5.5 0 1 1-.708-.708l3-3a.5.5 0 0 1 .708 0l3 3a.5.5 0 1 1-.708.708L8.5 6.707V14.5A.5.5 0 0 1 8 15z"/><path d="M2 1.5A.5.5 0 0 1 2.5 1h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5z"/></svg>
+    Push
+  </button>
   <div class="h-sep"></div>
   <button class="h-btn" id="btn-annotate" onclick="toggleAnnotateMode()">
     <svg viewBox="0 0 16 16" fill="currentColor"><path d="M10.97 4.97a.75.75 0 0 1 1.07 1.05l-3.99 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425z"/><circle cx="8" cy="8" r="7" stroke="currentColor" fill="none" stroke-width="1.5"/></svg>
@@ -379,6 +396,7 @@
     <option value="">No filter</option>
   </select>
   <input type="text" class="img-filter-input" id="img-filter-val" placeholder="Filter… (Enter, + for multi)" onkeydown="if(event.key==='Enter')renderThumbs()" style="width:100px">
+  <div class="h-label" id="api-status" title="Backend sync status">API · local only</div>
   <div class="spacer"></div>
   <button class="h-btn" onclick="zoomIn()">＋</button>
   <button class="h-btn" onclick="zoomOut()">－</button>
@@ -913,6 +931,246 @@ const state = {
   imgFilterVal: '',
 };
 
+const API_BASE_KEY = 'IA2_API_BASE';
+const API_KEY_KEY = 'IA2_API_KEY';
+const DEFAULT_API_BASE = 'http://localhost:5000';
+let apiStatusTimer = null;
+const apiState = {
+  base: normalizeApiBase(localStorage.getItem(API_BASE_KEY) || DEFAULT_API_BASE),
+  apiKey: localStorage.getItem(API_KEY_KEY) || ''
+};
+
+function normalizeApiBase(base) {
+  return String(base || DEFAULT_API_BASE).trim().replace(/\/+$/, '') || DEFAULT_API_BASE;
+}
+
+function currentApiLabel() {
+  try { return new URL(apiState.base).host; }
+  catch { return apiState.base; }
+}
+
+function setApiConfig(base, apiKey) {
+  apiState.base = normalizeApiBase(base);
+  apiState.apiKey = String(apiKey || '').trim();
+  localStorage.setItem(API_BASE_KEY, apiState.base);
+  if (apiState.apiKey) localStorage.setItem(API_KEY_KEY, apiState.apiKey);
+  else localStorage.removeItem(API_KEY_KEY);
+}
+
+function updateApiStatus(message='') {
+  const el = document.getElementById('api-status');
+  if (!el) return;
+  if (message) {
+    el.textContent = message;
+    el.title = message;
+    return;
+  }
+  const img = state.currentImageId ? getImage(state.currentImageId) : null;
+  const parts = [`API ${currentApiLabel()}`];
+  if (!img) parts.push('idle');
+  else if (img.backendImageId) {
+    parts.push(`img ${img.backendImageId}`);
+    if (img.backendRegionsDirty) parts.push('dirty');
+    else if (img.backendRegionsLoaded) parts.push('synced');
+    else parts.push('ready');
+  } else {
+    parts.push('local only');
+  }
+  const text = parts.join(' · ');
+  el.textContent = text;
+  el.title = text;
+}
+
+function flashApiStatus(message, ms=2600) {
+  clearTimeout(apiStatusTimer);
+  updateApiStatus(message);
+  apiStatusTimer = setTimeout(() => updateApiStatus(), ms);
+}
+
+function configureApi() {
+  const nextBase = prompt('API base URL', apiState.base);
+  if (nextBase === null) return;
+  const nextKey = prompt('Admin API key (leave blank if not needed)', apiState.apiKey || '');
+  if (nextKey === null) return;
+  setApiConfig(nextBase, nextKey);
+  flashApiStatus(`API set to ${currentApiLabel()}`);
+}
+
+function apiUrl(path) {
+  if (/^https?:/i.test(path)) return path;
+  return apiState.base + (path.startsWith('/') ? path : '/' + path);
+}
+
+function apiHeaders(extra={}) {
+  const headers = { ...extra };
+  if (apiState.apiKey) headers['X-API-Key'] = apiState.apiKey;
+  return headers;
+}
+
+async function apiFetch(path, options={}) {
+  const init = { ...options };
+  init.headers = apiHeaders(init.headers || {});
+  if (init.body !== undefined && init.body !== null && !(init.body instanceof FormData)) {
+    if (!init.headers['Content-Type']) init.headers['Content-Type'] = 'application/json';
+    if (typeof init.body !== 'string') init.body = JSON.stringify(init.body);
+  }
+  const resp = await fetch(apiUrl(path), init);
+  const text = await resp.text();
+  let payload = null;
+  try { payload = text ? JSON.parse(text) : null; }
+  catch { payload = text; }
+  if (!resp.ok) {
+    throw new Error((payload && payload.error) || `${resp.status} ${resp.statusText}`);
+  }
+  if (payload && payload.ok === false) throw new Error(payload.error || 'API request failed');
+  return payload;
+}
+
+function resolveBackendImageSrc(img) {
+  const raw = img.url || '';
+  if (/^https?:/i.test(raw) || raw.startsWith('data:') || raw.startsWith('blob:')) return raw;
+  if (raw.startsWith('/')) return apiUrl(raw);
+  if (img.filename) return apiUrl(`/uploads/${encodeURIComponent(img.filename)}`);
+  return null;
+}
+
+function backendImageName(img) {
+  return img.title || img.image_code || img.filename || img.url || `Image ${img.id}`;
+}
+
+function stableStringify(value) {
+  if (Array.isArray(value)) return '[' + value.map(stableStringify).join(',') + ']';
+  if (value && typeof value === 'object') {
+    return '{' + Object.keys(value).sort().map(k => JSON.stringify(k) + ':' + stableStringify(value[k])).join(',') + '}';
+  }
+  return JSON.stringify(value);
+}
+
+function inferSchemaType(val) {
+  if (typeof val === 'number') return 'number';
+  if (typeof val === 'boolean') return 'boolean';
+  if (typeof val === 'string' && /^https?:/i.test(val)) return 'url';
+  if (typeof val === 'string' && /^\d{4}-\d{2}-\d{2}/.test(val)) return 'date';
+  return 'text';
+}
+
+function ensureClassByName(name, color='#4f9eff') {
+  const className = String(name || 'Imported').trim() || 'Imported';
+  let cls = DB.classes.find(c => c.name.toLowerCase() === className.toLowerCase());
+  if (!cls) {
+    cls = { id: genId(), name: className, color, propertySchema: [] };
+    DB.classes.push(cls);
+  } else if (!cls.color && color) {
+    cls.color = color;
+  }
+  return cls;
+}
+
+function ensureClassSchema(cls, properties) {
+  if (!cls || !properties) return;
+  const existing = new Set((cls.propertySchema || []).map(f => f.name));
+  Object.entries(properties).forEach(([key, value]) => {
+    if (!key || existing.has(key)) return;
+    (cls.propertySchema ||= []).push({ name: key, type: inferSchemaType(value), default: '', required: false });
+    existing.add(key);
+  });
+}
+
+function ensureImageSchemaFields(fields) {
+  const existing = new Set((DB.imageSchema || []).map(f => f.name));
+  fields.forEach(field => {
+    if (!field?.name || existing.has(field.name)) return;
+    DB.imageSchema.push({
+      name: field.name,
+      type: field.type || 'text',
+      default: '',
+      required: false
+    });
+    existing.add(field.name);
+  });
+}
+
+function parsePropertiesJson(raw) {
+  if (!raw) return {};
+  if (typeof raw === 'object') return { ...raw };
+  try {
+    const parsed = JSON.parse(raw);
+    return parsed && typeof parsed === 'object' ? parsed : {};
+  } catch {
+    return {};
+  }
+}
+
+function ensureObjectFromRegion(region) {
+  const properties = parsePropertiesJson(region.properties_json);
+  if (region.entity_type && properties.entity_type == null) properties.entity_type = region.entity_type;
+  if (region.entity_id != null && properties.entity_id == null) properties.entity_id = region.entity_id;
+  if (region.source_extract_id != null && properties.source_extract_id == null) properties.source_extract_id = region.source_extract_id;
+  const objectName = region.object_name || region.label || `Region ${region.id}`;
+  const cls = ensureClassByName(region.object_class || region.entity_type || 'Imported', region.color || '#4f9eff');
+  ensureClassSchema(cls, properties);
+  const signature = stableStringify({
+    name: objectName,
+    className: cls.name,
+    color: region.color || cls.color || '#4f9eff',
+    properties
+  });
+  let obj = DB.objects.find(o => o.backendSignature === signature);
+  if (!obj) {
+    obj = {
+      id: genId(),
+      name: objectName,
+      classId: cls.id,
+      color: region.color || cls.color || '#4f9eff',
+      notes: '',
+      properties,
+      backendSignature: signature
+    };
+    DB.objects.push(obj);
+  } else {
+    obj.name = objectName || obj.name;
+    obj.classId = cls.id;
+    obj.color = obj.color || region.color || cls.color;
+    obj.properties = { ...(obj.properties || {}), ...properties };
+  }
+  return obj.id;
+}
+
+function getImageDims(img) {
+  const currentEl = document.getElementById('main-image');
+  const isCurrent = img && state.currentImageId === img.id;
+  const width = Number(img?.naturalWidth || img?.width || img?.properties?.width || (isCurrent ? currentEl.naturalWidth : 0)) || 0;
+  const height = Number(img?.naturalHeight || img?.height || img?.properties?.height || (isCurrent ? currentEl.naturalHeight : 0)) || 0;
+  return { width, height };
+}
+
+function regionToLocalPoint(region, img) {
+  const dims = getImageDims(img);
+  let x = region.pixel_x;
+  let y = region.pixel_y;
+  if ((x == null || x === '') && region.x_norm != null && dims.width) x = region.x_norm * dims.width;
+  if ((y == null || y === '') && region.y_norm != null && dims.height) y = region.y_norm * dims.height;
+  if (x == null || x === '') x = 100;
+  if (y == null || y === '') y = 100;
+  return { x: Number(x), y: Number(y) };
+}
+
+function markImageDirty(imageId) {
+  const img = getImage(imageId);
+  if (!img || !img.backendImageId) return;
+  img.backendRegionsDirty = true;
+  updateApiStatus();
+}
+
+function ensureEmptySightingsNode() {
+  let empty = document.getElementById('empty-sightings');
+  if (!empty) {
+    empty = document.createElement('div');
+    empty.id = 'empty-sightings';
+  }
+  return empty;
+}
+
 // ═══════════════════════════════════════════
 // IMAGE LOADING
 // ═══════════════════════════════════════════
@@ -921,15 +1179,216 @@ function loadImages(files) {
   Array.from(files).forEach(file => {
     const reader = new FileReader();
     reader.onload = e => {
-      DB.images.push({ id: genId(), name: file.name, src: e.target.result });
+      DB.images.push({ id: genId(), name: file.name, src: e.target.result, properties: {} });
       if (++loaded === files.length) {
         renderThumbs();
         if (!state.currentImageId) selectImage(DB.images[0].id);
         saveDB();
+        updateApiStatus();
       }
     };
     reader.readAsDataURL(file);
   });
+}
+
+async function importBackendImages() {
+  const query = prompt('Optional image search query (blank = import all API images)', '');
+  if (query === null) return;
+  try {
+    updateApiStatus('Loading API images…');
+    const suffix = query.trim() ? `?q=${encodeURIComponent(query.trim())}` : '';
+    const payload = await apiFetch('/api/images' + suffix);
+    const records = payload.data || [];
+    if (!records.length) {
+      flashApiStatus('API reachable, but no image records were found');
+      alert('The API is reachable, but the database currently has no image records to import.');
+      return;
+    }
+    let imported = 0;
+    let skipped = 0;
+    ensureImageSchemaFields([
+      { name: 'image_code', type: 'text' },
+      { name: 'image_type', type: 'text' },
+      { name: 'source', type: 'text' },
+      { name: 'date_taken', type: 'date' },
+      { name: 'source_id', type: 'number' },
+      { name: 'width', type: 'number' },
+      { name: 'height', type: 'number' }
+    ]);
+    records.forEach(rec => {
+      const src = resolveBackendImageSrc(rec);
+      if (!src) { skipped++; return; }
+      const localId = `dbimg:${rec.id}`;
+      const existing = DB.images.find(i => i.backendImageId === rec.id || i.id === localId);
+      const imageProps = {
+        ...(rec.image_code ? { image_code: rec.image_code } : {}),
+        ...(rec.image_type ? { image_type: rec.image_type } : {}),
+        ...(rec.source ? { source: rec.source } : {}),
+        ...(rec.date_taken ? { date_taken: rec.date_taken } : {}),
+        ...(rec.source_id != null ? { source_id: rec.source_id } : {}),
+        ...(rec.width != null ? { width: rec.width } : {}),
+        ...(rec.height != null ? { height: rec.height } : {})
+      };
+      const next = {
+        id: localId,
+        backendImageId: rec.id,
+        name: backendImageName(rec),
+        src,
+        width: rec.width,
+        height: rec.height,
+        backendRegionsLoaded: existing?.backendRegionsLoaded || false,
+        backendRegionsDirty: existing?.backendRegionsDirty || false,
+        pendingDeletedRegionIds: existing?.pendingDeletedRegionIds || [],
+        properties: imageProps
+      };
+      if (existing) Object.assign(existing, { ...existing, ...next, properties: { ...(existing.properties || {}), ...imageProps } });
+      else DB.images.push(next);
+      imported++;
+    });
+    if (!state.currentImageId && DB.images.length) selectImage(DB.images[0].id);
+    refreshImgFilterSelect();
+    renderImgPropsPanel();
+    renderThumbs();
+    saveDB();
+    flashApiStatus(`Imported ${imported} API image(s)${skipped ? `, skipped ${skipped}` : ''}`);
+  } catch (err) {
+    console.error(err);
+    alert(`API image import failed: ${err.message}`);
+    updateApiStatus();
+  }
+}
+
+async function pullRegionsForCurrentImage() {
+  const img = state.currentImageId ? getImage(state.currentImageId) : null;
+  if (!img) { alert('Select an image first.'); return; }
+  if (!img.backendImageId) { alert('Current image is local only. Import images from the backend first.'); return; }
+  if (img.backendRegionsDirty && !confirm('This image has unsynced local changes. Pulling may overwrite linked region positions and notes. Continue?')) return;
+  try {
+    updateApiStatus(`Pulling regions for image ${img.backendImageId}…`);
+    const payload = await apiFetch(`/api/image_regions?image_id=${encodeURIComponent(img.backendImageId)}`);
+    const regions = payload.data || [];
+    const byRegionId = new Map(
+      sightingsForImage(img.id)
+        .filter(s => s.dbRegionId != null)
+        .map(s => [String(s.dbRegionId), s])
+    );
+    let created = 0;
+    let updated = 0;
+    regions.forEach(region => {
+      const objectId = ensureObjectFromRegion(region);
+      const regionProps = parsePropertiesJson(region.properties_json);
+      const hideLabel = Boolean(regionProps.hide_label ?? regionProps.import_source);
+      const pt = regionToLocalPoint(region, img);
+      const existing = byRegionId.get(String(region.id));
+      if (existing) {
+        existing.objectId = objectId;
+        existing.x = pt.x;
+        existing.y = pt.y;
+        existing.note = region.notes || '';
+        existing.hideLabel = hideLabel;
+        updated++;
+      } else {
+        DB.sightings.push({
+          id: genId(),
+          objectId,
+          imageId: img.id,
+          x: pt.x,
+          y: pt.y,
+          note: region.notes || '',
+          hideLabel,
+          dbRegionId: region.id
+        });
+        created++;
+      }
+    });
+    img.backendRegionsLoaded = true;
+    img.backendRegionsDirty = false;
+    img.backendRegionIds = regions.map(r => r.id);
+    img.pendingDeletedRegionIds = [];
+    rebuildSightingIndex();
+    renderAnnotations();
+    renderSightingsPanel();
+    renderGlobalList();
+    renderThumbs();
+    saveDB();
+    flashApiStatus(`Pulled ${regions.length} region(s)`);
+  } catch (err) {
+    console.error(err);
+    alert(`Region pull failed: ${err.message}`);
+    updateApiStatus();
+  }
+}
+
+function buildRegionPayloadFromSighting(sighting, img) {
+  const obj = getObject(sighting.objectId);
+  const cls = obj ? getClass(obj.classId) : null;
+  const dims = getImageDims(img);
+  const props = { ...(obj?.properties || {}) };
+  const entityType = props.entity_type ?? props.linked_entity_type ?? null;
+  const entityId = props.entity_id ?? props.linked_entity_id ?? null;
+  const sourceExtractId = props.source_extract_id ?? null;
+  if (sighting.hideLabel) props.hide_label = true;
+  return {
+    image_id: img.backendImageId,
+    region_type: 'point',
+    x_norm: dims.width ? (sighting.x / dims.width) : null,
+    y_norm: dims.height ? (sighting.y / dims.height) : null,
+    pixel_x: sighting.x,
+    pixel_y: sighting.y,
+    label: obj?.name || sighting.note || 'Annotation',
+    notes: sighting.note || '',
+    object_name: obj?.name || null,
+    object_class: cls?.name || null,
+    color: obj?.color || cls?.color || null,
+    properties: props,
+    entity_type: entityType,
+    entity_id: entityId,
+    source_extract_id: sourceExtractId
+  };
+}
+
+async function pushRegionsForCurrentImage() {
+  const img = state.currentImageId ? getImage(state.currentImageId) : null;
+  if (!img) { alert('Select an image first.'); return; }
+  if (!img.backendImageId) { alert('Current image is local only. Import images from the backend first.'); return; }
+  const sightings = sightingsForImage(img.id);
+  try {
+    updateApiStatus(`Pushing regions for image ${img.backendImageId}…`);
+    let created = 0;
+    let updated = 0;
+    let deleted = 0;
+
+    for (const regionId of (img.pendingDeletedRegionIds || [])) {
+      await apiFetch(`/api/image_regions/${encodeURIComponent(regionId)}`, { method: 'DELETE' });
+      deleted++;
+    }
+    img.pendingDeletedRegionIds = [];
+
+    for (const sighting of sightings) {
+      const payload = buildRegionPayloadFromSighting(sighting, img);
+      if (sighting.dbRegionId != null) {
+        await apiFetch(`/api/image_regions/${encodeURIComponent(sighting.dbRegionId)}`, { method: 'PUT', body: payload });
+        updated++;
+      } else {
+        const resp = await apiFetch('/api/image_regions', { method: 'POST', body: payload });
+        sighting.dbRegionId = resp.id;
+        created++;
+      }
+    }
+
+    img.backendRegionsLoaded = true;
+    img.backendRegionsDirty = false;
+    img.backendRegionIds = sightings.filter(s => s.dbRegionId != null).map(s => s.dbRegionId);
+    rebuildSightingIndex();
+    renderSightingsPanel();
+    renderThumbs();
+    saveDB();
+    flashApiStatus(`Pushed ${created} new, ${updated} updated${deleted ? `, ${deleted} deleted` : ''}`);
+  } catch (err) {
+    console.error(err);
+    alert(`Region push failed: ${err.message}`);
+    updateApiStatus();
+  }
 }
 
 // ═══════════════════════════════════════════
@@ -948,7 +1407,18 @@ function selectImage(id) {
   document.getElementById('img-canvas-wrap').style.display = '';
   document.getElementById('img-name-display').textContent = img.name;
   const el = document.getElementById('main-image');
-  el.onload = () => { if (state.fitMode) fitToFrame(); else updateTransform(); renderAnnotations(); };
+  el.onload = () => {
+    img.naturalWidth = el.naturalWidth;
+    img.naturalHeight = el.naturalHeight;
+    if (!img.width) img.width = el.naturalWidth;
+    if (!img.height) img.height = el.naturalHeight;
+    if (!img.properties) img.properties = {};
+    if (!img.properties.width) img.properties.width = el.naturalWidth;
+    if (!img.properties.height) img.properties.height = el.naturalHeight;
+    if (state.fitMode) fitToFrame(); else updateTransform();
+    renderAnnotations();
+    updateApiStatus();
+  };
   el.src = img.src;
   renderSightingsPanel();
   renderSightingsPropBar();
@@ -956,6 +1426,7 @@ function selectImage(id) {
   closeEditor();
   renderImgPropsPanel();
   saveDB();
+  updateApiStatus();
 }
 
 // Split a filter string on '+' and return an array of trimmed lowercase terms
@@ -1261,10 +1732,18 @@ function placeSighting(objectId) {
   renderGlobalList();
   renderThumbs();
   openEditor(s.id);
+  markImageDirty(s.imageId);
   saveDB();
 }
 
 function deleteSighting(id) {
+  const doomed = getSighting(id);
+  if (doomed?.dbRegionId != null) {
+    const img = getImage(doomed.imageId);
+    if (img) {
+      img.pendingDeletedRegionIds = Array.from(new Set([...(img.pendingDeletedRegionIds || []), doomed.dbRegionId]));
+    }
+  }
   DB.sightings = DB.sightings.filter(s => s.id !== id);
   rebuildSightingIndex();
   if (state.selectedSightingId === id) { state.selectedSightingId=null; closeEditor(); }
@@ -1272,6 +1751,7 @@ function deleteSighting(id) {
   renderSightingsPanel();
   renderGlobalList();
   renderThumbs();
+  if (doomed) markImageDirty(doomed.imageId);
   saveDB();
 }
 
@@ -1297,6 +1777,7 @@ function addSightingForObject(objId) {
     state.pendingClickX = null; state.pendingClickY = null;
     renderAnnotations(); renderSightingsPanel(); renderGlobalList(); renderThumbs();
     openEditor(s.id);
+    markImageDirty(s.imageId);
     saveDB();
   } else {
     // No click coords yet — arm annotate mode and wait for the user to click
@@ -1464,21 +1945,24 @@ function renderAnnotations() {
     g.appendChild(circle);
     layer.appendChild(g);
 
-    // Build label text (word-wrap handled later)
-    let labelParts = [s.note || obj.name];
-    if (state.sightingDisplayProps.length) {
-      state.sightingDisplayProps.forEach(p => {
-        const v = obj.properties?.[p];
-        if (v) labelParts.push(String(v));
-      });
+    const hideLabel = Boolean(s.hideLabel);
+    let labelText = '';
+    if (!hideLabel || isSelected) {
+      let labelParts = [s.note || obj.name];
+      if (state.sightingDisplayProps.length) {
+        state.sightingDisplayProps.forEach(p => {
+          const v = obj.properties?.[p];
+          if (v) labelParts.push(String(v));
+        });
+      }
+      labelText = labelParts.join(' · ');
     }
-    const labelText = labelParts.join(' · ');
 
     // Convert image coords to screen coords
     const sx = s.x * state.zoom + state.panX;
     const sy = s.y * state.zoom + state.panY;
 
-    items.push({ s, obj, color, isSelected, sx, sy, labelText, dotR: r * state.zoom });
+    if (labelText) items.push({ s, obj, color, isSelected, sx, sy, labelText, dotR: r * state.zoom });
   });
 
   if (!labelLayer || !items.length) return;
@@ -1717,7 +2201,7 @@ function onColorizeChange() {
 
 function renderSightingsPanel() {
   const list = document.getElementById('sightings-list');
-  const empty = document.getElementById('empty-sightings');
+  const empty = ensureEmptySightingsNode();
   if (!state.currentImageId) {
     list.innerHTML = ''; list.appendChild(empty); empty.textContent='No image selected'; return;
   }
@@ -1837,6 +2321,7 @@ function updateSightingNote(id, val) {
   s.note = val;
   renderAnnotations();
   renderSightingsPanel();
+  markImageDirty(s.imageId);
   saveDB();
 }
 
@@ -2887,6 +3372,7 @@ renderGlobalList();
 renderThumbs();
 if (DB.images.length>0) selectImage(DB.images[0].id);
 updateCounter();
+updateApiStatus();
 window.addEventListener('resize',()=>{if(state.fitMode&&state.currentImageId)fitToFrame();});
 </script>
 </body>

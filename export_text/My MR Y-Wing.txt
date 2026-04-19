@@ -1,0 +1,1091 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : My MR Y-Wing
+URL    : https://www.therpf.com/forums/threads/my-mr-y-wing.17412/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #240733)
+Author    : moffeaton
+Date      : Dec 11, 2006 at 7:03 AM
+────────────────────────────────────────────────────────────────────────
+
+I am rebuilding my MR Y-Wing, idealizing it to my specific tastes. I have added some detail from the scrap bin into the nose recess, since it looked weird leaving it blank:
+
+[IMAGE: DSC00889.jpg]
+
+And here I've redone the neck parts, swapping the sides from Red Jammer to the yellows, and long brass rods that not only help support the neck but also add to the detail. I like to sacrifice strict studio scale "accuracy" for things that I'd imagine the original builders would have done, had they been able to take their time. It lets me be more creative.
+
+Which is my perfect excuse to add lights. Routed the front of the "dash" out, set leds in the void created, rebuilt the dash, added some Wave Option lenses and fiber optic bundles, and puttied over the leds/wires to rebuild the "dash" surface. Added hoses and a pilot, and a few resin WWII radio boxes. Next up is hollowing out the Artoo and adding his lights, and then the engine lights. All the wires run through the body (I cored it with a spade bit) with the board sitting in the butt, behind the tank part on the back. Battery (9 volt) will go behind one of the Leggs eggs, which will hold in place with a couple of those rare earth magnets. The on/off switch will be hidden under the racing car wheel part which I've made room for on the top, having shaved down the Saturn V LEM part. In the next month or so, I'll have it mounted to a Panavise which hangs tight on my wall in the prop room. Lotta work, but as always, fun.
+
+[IMAGE: DSC00905.jpg]
+
+I dremelled out the Luke face and added in my undersized "1/20th" figure face (it's a girl, gasp), and pinned one of the Leggs eggs so that I could slide it off to replace the 9 volt that'll juice the light board. You can see where I routed into the body to hold the wiring and board itself, and shaved off the pipe detailing on the wing in favor of brass rod. I'll replace the buttplate details from my kit stash. The wires will travel from the body, through the brass rod, and into the engine pods. Kinda silly to hide wires on the Y-Wing, with all of its exposed plumbing, but there ya go.
+
+[IMAGE: DSC03417.jpg]
+
+[IMAGE: DSC03422.jpg]
+
+I routed out the Artoo unit, carefully separated the dome from the body (I want to pose the head in a different position), and cut the small holes for the logic readouts and status lights. The body was mounted higher up, too. Fiber optic strands will be lit white for the logic readouts, and the lightpipes, which I formed by heating thick fiber optic "rod" will have a blinking two led light source. All this has to live directly under the Artoo, so I routed out the Y-Wing body directly beneath the droid socket. It was quite a lot of work for such a small space, but the eye will go directly to the Artoo unit since he'll be lit (and is a recognizable character that everyone loves, even though he's not R2-D2)... I gotta say, that heat shrink tubing is so much easier to work with than electrical tape - I don't think I'll be going back.
+
+[IMAGE: DSC03430.jpg]
+
+[IMAGE: DSC03432.jpg]
+
+[IMAGE: DSC03424.jpg]
+
+I fused two sets of two leds with a heat-bent acrylic rod to make Artoo lightpipes. These leds switch off between the two colors to make the R2 readout. Since he's not R2-D2, I chose blue/green for the front and yellow/red for the back.
+
+[IMAGE: DSC03440.gif]
+
+Those two assemblies plus the white led that feeds the two clusters of fiber optics for the "logic displays" had to get crammed into the socket:
+
+[IMAGE: DSC03448.jpg]
+
+So there are 5 leds in the head, and 5 leds in the R2 head. It took over two hours to get everything seated safely... here is a "before" photo.
+
+[IMAGE: DSC03449.jpg]
+
+Tonight I decide where to hide the on/off switch, and the switch that toggles the R2 2-color readouts between fading and blinking. Somewhere on the Saturn V engine pods, I think, since I can get in from behind easily. (giggle)
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #240743)
+Author    : ralphee
+Date      : Dec 11, 2006 at 7:24 AM
+────────────────────────────────────────────────────────────────────────
+
+WOW, im at a loss, that looks fantastic, the cockpit is just amazing Moff, thats some task your taking on there, and yes getting in from behind can be tricky so mount that switch wisely  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #240758)
+Author    : EchoLeader
+Date      : Dec 11, 2006 at 7:52 AM
+────────────────────────────────────────────────────────────────────────
+
+Jason, you made me see the light.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #240761)
+Author    : moffeaton
+Date      : Dec 11, 2006 at 7:54 AM
+────────────────────────────────────────────────────────────────────────
+
+Bahaha.
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #240762)
+Author    : cayman shen
+Date      : Dec 11, 2006 at 7:54 AM
+────────────────────────────────────────────────────────────────────────
+
+Wow, cutting up an MR peice takes stones the size of Gibralter.  Looks awesome.  Love the pilot.
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #240766)
+Author    : moffeaton
+Date      : Dec 11, 2006 at 8:02 AM
+────────────────────────────────────────────────────────────────────────
+
+It's less cutting and more popping/breaking, since I'm an oaf. Redoing the piping will be the last big hurdle, time-wise...
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #240844)
+Author    : swpropmaker
+Date      : Dec 11, 2006 at 10:37 AM
+────────────────────────────────────────────────────────────────────────
+
+Great Moff.  Just a note guys.  Jason is a master builder.  Please know the MR Y Wing is brittle.  Jason said it best it breaks more than being cut apart.  It's made out of a cold cast plaster or something.  They used a very tough epoxy glue so i had to use acetone to help break the bonds and still break many pieces.  The R2 has to be destroyed to get it out of the slot.  it is attached by a huge1" pin and glued like a muther..   Acetone and vice grips to get it out.  Tearing into a MR Y Wing should only be left up to the guys that know how to repair breaks and have some knowlege of replacing the parts that were destroyed beyond repair.
+
+Great Job Jason.
+
+Steve
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #240852)
+Author    : moffeaton
+Date      : Dec 11, 2006 at 10:52 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks.
+
+Yeah, truth be told, I've swapped out kit parts on areas that would have taken longer to "fix". So be prepared with your donor kits if you hack into one.
+
+<div class='quotetop'>QUOTE(swpropmaker @ Dec 11 2006, 01:37 PM) [snapback]1375588[/snapback]</div>
+
+			Great Moff.  Just a note guys.  Jason is a master builder.  Please know the MR Y Wing is brittle.  Jason said it best it breaks more than being cut apart.  It's made out of a cold cast plaster or something.  They used a very tough epoxy glue so i had to use acetone to help break the bonds and still break many pieces.  The R2 has to be destroyed to get it out of the slot.  it is attached by a huge1" pin and glued like a muther..   Acetone and vice grips to get it out.  Tearing into a MR Y Wing should only be left up to the guys that know how to repair breaks and have some knowlege of replacing the parts that were destroyed beyond repair.
+
+Great Job Jason.
+
+Steve
+
+[/b]
+		
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #240905)
+Author    : imaginager
+Date      : Dec 11, 2006 at 12:13 PM
+────────────────────────────────────────────────────────────────────────
+
+Awesome. Those fused LEDs are inspiring. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+The heat shrink tube is another great idea.
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #240913)
+Author    : moffeaton
+Date      : Dec 11, 2006 at 12:30 PM
+────────────────────────────────────────────────────────────────────────
+
+Best $50 you can spend at an electronics store - heat gun and shrink tubes.
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #241344)
+Author    : jvasilatos
+Date      : Dec 12, 2006 at 1:00 AM
+────────────────────────────────────────────────────────────────────────
+
+What size drill bit did you use for the logic readouts?
+
+I'm getting ready to do the same thing with my Y when I get it back from Dean.
+
+JV
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #241358)
+Author    : Dymerski
+Date      : Dec 12, 2006 at 2:32 AM
+────────────────────────────────────────────────────────────────────────
+
+<div class='quotetop'>QUOTE(jvasilatos @ Dec 12 2006, 09:00 AM) [snapback]1376100[/snapback]</div>
+
+			What size drill bit did you use for the logic readouts?
+
+I'm getting ready to do the same thing with my Y when I get it back from Dean.
+
+JV
+
+[/b]
+		
+
+Click to expand...
+
+JUST FINISHED YOUR BIRD....... Y HOOOOO
+
+Dean
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #241378)
+Author    : jvasilatos
+Date      : Dec 12, 2006 at 3:58 AM
+────────────────────────────────────────────────────────────────────────
+
+<div class='quotetop'>QUOTE(Dymerski @ Dec 12 2006, 10:32 AM) [snapback]1376114[/snapback]</div>
+
+			<div class='quotetop'>QUOTE(jvasilatos @ Dec 12 2006, 09:00 AM) [snapback]1376100[/snapback]
+		
+
+Click to expand...
+
+			What size drill bit did you use for the logic readouts?
+
+I'm getting ready to do the same thing with my Y when I get it back from Dean.
+
+JV
+
+[/b]
+		
+
+Click to expand...
+
+JUST FINISHED YOUR BIRD....... Y HOOOOO
+
+Dean
+
+[/b][/quote]
+
+Veeery nice...  High five...  Now Jason's tutorial can help me achieve the same results.  In looking at his pics, it's ironic, I drilled mine out in the same areas he did to install my electronics package, so judging from his pics I will be in good shape when i get it back from you to do the cockpit and R2 unit.
+
+Will you be able to post pics soon?  Thanks Dean.
+
+JV
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #241397)
+Author    : RickDTM
+Date      : Dec 12, 2006 at 5:11 AM
+────────────────────────────────────────────────────────────────────────
+
+Damn Jason, the work you're doing here is incredible.   Looking forward to seeing it complete.
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #241402)
+Author    : streetjudge79
+Date      : Dec 12, 2006 at 5:23 AM
+────────────────────────────────────────────────────────────────────────
+
+That is amazing.
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #241424)
+Author    : temponaut
+Date      : Dec 12, 2006 at 5:45 AM
+────────────────────────────────────────────────────────────────────────
+
+Holy frak.  Stones is right.  That's an amazing job, moff.  
+
+It must be nice to know you've got the skills to break an MR into pieces and put it back better than it was before.   :thumbsup  :thumbsup  :thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #241443)
+Author    : Pauleysolo
+Date      : Dec 12, 2006 at 6:24 AM
+────────────────────────────────────────────────────────────────────────
+
+Great stuff- can't wait to see if finished- you should add a customizing your Y wing chapter to the "Sculpting a Galaxy" book... 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #241479)
+Author    : moffeaton
+Date      : Dec 12, 2006 at 7:34 AM
+────────────────────────────────────────────────────────────────────────
+
+Lol - I don't think I hold a candle to the guys in the SAG book... they are my heros from childhood.
+
+Here's my update - all wiring is done/soldered. The "hard" part is over.
+
+[IMAGE: DSC03531.jpg]
+
+[IMAGE: DSC03536.jpg]
+
+[IMAGE: DSC03538.jpg]
+
+[IMAGE: DSC03539.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #241481)
+Author    : temponaut
+Date      : Dec 12, 2006 at 7:38 AM
+────────────────────────────────────────────────────────────────────────
+
+:eek 
+
+Please give us a closeup of that cockpit lighting.
+
+Thanks.   
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #241506)
+Author    : Jeeves
+Date      : Dec 12, 2006 at 8:39 AM
+────────────────────────────────────────────────────────────────────────
+
+Typical Eaton INSANITY. Great work, man...and it just keeps getting better and better, and this is a hella-ambitious project.
+
+-Raj
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #241686)
+Author    : nailuj
+Date      : Dec 12, 2006 at 12:59 PM
+────────────────────────────────────────────────────────────────────────
+
+That is absolutley fab
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #241807)
+Author    : moffeaton
+Date      : Dec 12, 2006 at 3:50 PM
+────────────────────────────────────────────────────────────────────────
+
+Thank you. I haven't been this jazzed in a while - this baby is ALL for me.. Sadly, the Y is just too heavy for the wall-mount Panavise, so I have to use a floor-stand mount.
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #241847)
+Author    : Emeldahay
+Date      : Dec 12, 2006 at 4:42 PM
+────────────────────────────────────────────────────────────────────────
+
+amazing.
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #241865)
+Author    : CessnaDriver
+Date      : Dec 12, 2006 at 5:09 PM
+────────────────────────────────────────────────────────────────────────
+
+At the rate people are customizing these things to a higher and higher level I half expect to see one actually fly.
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #242040)
+Author    : ralphee
+Date      : Dec 13, 2006 at 12:30 AM
+────────────────────────────────────────────────────────────────────────
+
+<div class='quotetop'>QUOTE(CessnaDriver @ Dec 13 2006, 01:09 AM) [snapback]1376654[/snapback]</div>
+
+			At the rate people are customizing these things to a higher and higher level I half expect to see one actually fly.
+
+[/b]
+		
+
+Click to expand...
+
+Hmm now theres a thought  :lol  
+
+Love the new pics Jason, one proud Y daddy right there.
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #242324)
+Author    : Clutch
+Date      : Dec 13, 2006 at 11:47 AM
+────────────────────────────────────────────────────────────────────────
+
+Excellent job.  Can't wait to see this one finished.
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #243662)
+Author    : mjhenks
+Date      : Dec 15, 2006 at 7:20 AM
+────────────────────────────────────────────────────────────────────────
+
+Wow.  Nice job with the lighting.  Brings out another dimention to the model.
+────────────────────────────────────────────────────────────────────────
+Post #28  (forum post #243936)
+Author    : moffeaton
+Date      : Dec 15, 2006 at 1:17 PM
+────────────────────────────────────────────────────────────────────────
+
+It's a whole lotta work. Dunno if it's worth it, but it'll bug me if I don't add the lights, you know?
+────────────────────────────────────────────────────────────────────────
+Post #29  (forum post #245445)
+Author    : moffeaton
+Date      : Dec 18, 2006 at 6:37 AM
+────────────────────────────────────────────────────────────────────────
+
+All these holiday paries/plans/prep are putting my Y-Wing on the back burner this week, but I did find a little time to complete the engine sub assemblies, add some piping to the parts I removed detail from, and tighten up the seam lines with Apoxie Sculpt. Also mounted the metal mounting rod permanently.
+
+Switch is mostly hidden now - the top will have a greeblie covering the switch itself.
+
+[IMAGE: DSC03555.jpg]
+
+Back edge of wing piping done.
+
+[IMAGE: DSC03559.jpg]
+
+Neck structure is complete.
+
+[IMAGE: DSC03560.jpg]
+
+Going to add that Airfix greeblie to the bottom, as seen on the red Y:
+
+[IMAGE: DSC03570.jpg]
+
+I hope to finish the surface piping this week - then all I have to do is paint and weather.
+────────────────────────────────────────────────────────────────────────
+Post #30  (forum post #245449)
+Author    : imaginager
+Date      : Dec 18, 2006 at 6:44 AM
+────────────────────────────────────────────────────────────────────────
+
+That's the droid I'm looking for...
+
+Amazing work.
+────────────────────────────────────────────────────────────────────────
+Post #31  (forum post #245454)
+Author    : ralphee
+Date      : Dec 18, 2006 at 6:53 AM
+────────────────────────────────────────────────────────────────────────
+
+Very sweet, an awesome build up Jason, cant wait to see your paintwork on this.
+
+lee.
+────────────────────────────────────────────────────────────────────────
+Post #32  (forum post #245461)
+Author    : Gort
+Date      : Dec 18, 2006 at 7:07 AM
+────────────────────────────────────────────────────────────────────────
+
+Impressive...most impressive..
+
+Now there's a guy who knows what he's doing, big time. 
+
+This is just such a joy to watch coming together. I shall look forward to the post Christmas updates 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+I also hope 2007 will cut me some slack and I will be able to get some workshop time on my Y-wing and SS Snowspeeder project. Here's hoping.
+
+Have a great model filled Christmas everyone ( and if your 'models' are leggy and blonde then all the better.) 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #33  (forum post #246605)
+Author    : moffeaton
+Date      : Dec 20, 2006 at 6:40 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks. This is very fun - had to carefully route details off the body (mainly the LEM), and fill in holes here and there, since I'm adding the wheel part and doing my own piping pattern. So I added a heatsink underneath the model kit part, and am using the plastic coated wire that ILM used on the original Y-Wings. Takes a lot longer to bend "perfectly" but I enjoy taking my time, planning the part placement and angles.
+
+[IMAGE: DSC03584.jpg]
+
+[IMAGE: DSC03585.jpg]
+
+[IMAGE: DSC03588.jpg]
+
+[IMAGE: DSC03590.jpg]
+
+There are lots of small embellishments too - added greeblies and I think I might add a wire bundle or fuse box in a few places, like you'd see in a wheel well on a WWII plane.
+────────────────────────────────────────────────────────────────────────
+Post #34  (forum post #246834)
+Author    : Apophis
+Date      : Dec 20, 2006 at 1:26 PM
+────────────────────────────────────────────────────────────────────────
+
+Very nice job Jason, very nice.
+────────────────────────────────────────────────────────────────────────
+Post #35  (forum post #247714)
+Author    : moffeaton
+Date      : Dec 21, 2006 at 7:21 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks, Jerry. Not a whole lot to show off, except I hid the switch with a nice bit of plastic. Just need to cover over the brass rod that peeks out.
+
+[IMAGE: 0238.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #36  (forum post #247838)
+Author    : Apophis
+Date      : Dec 22, 2006 at 3:08 AM
+────────────────────────────────────────────────────────────────────────
+
+now isnt that slicker than snot on a brass door knob 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #37  (forum post #247901)
+Author    : Boba Flint
+Date      : Dec 22, 2006 at 7:14 AM
+────────────────────────────────────────────────────────────────────────
+
+<div class='quotetop'>QUOTE(Apophis @ Dec 22 2006, 05:08 AM) [snapback]1382796[/snapback]</div>
+
+			now isnt that slicker than snot on a brass door knob 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[/b]
+		
+
+Click to expand...
+
+EEEEEWWWWWWWWWW.
+────────────────────────────────────────────────────────────────────────
+Post #38  (forum post #257284)
+Author    : moffeaton
+Date      : Jan 7, 2007 at 12:52 PM
+────────────────────────────────────────────────────────────────────────
+
+Now that the holidays are over, I've dug back in. Finished re-doing the vanes on the engines (decided to go with the "other" configuration):
+
+[IMAGE: DSC03734.jpg]
+
+Replacing the Kettenkrad part, too so that there's a more dramatic undercut, and the butt-end of the part is now accurately shaped as well:
+
+[IMAGE: DSC03743.jpg]
+
+Almost finished the pilot helmet, too. I have to add final scratching and weathering to the helmet, finish shading the face, and after the whole bird is painted, add the yellow visor (yellow theater gel).
+
+[IMAGE: DSC03725.jpg]
+
+[IMAGE: DSC03730.jpg]
+
+[IMAGE: DSC03736.jpg]
+
+Next up is painting the head and Leggs the brighter body color. Wheee.
+────────────────────────────────────────────────────────────────────────
+Post #39  (forum post #257290)
+Author    : ralphee
+Date      : Jan 7, 2007 at 1:02 PM
+────────────────────────────────────────────────────────────────────────
+
+Too gorgeous Jason, that is an amazing build up, i honestly cant wait to see you tackle a jammer, itll blow mine out the water........strike that, the galaxy.
+
+lee
+────────────────────────────────────────────────────────────────────────
+Post #40  (forum post #257298)
+Author    : nightrider
+Date      : Jan 7, 2007 at 1:21 PM
+────────────────────────────────────────────────────────────────────────
+
+Man that looks so sweet, I can't wait to see it finished.
+────────────────────────────────────────────────────────────────────────
+Post #41  (forum post #257324)
+Author    : Duck9000
+Date      : Jan 7, 2007 at 2:09 PM
+────────────────────────────────────────────────────────────────────────
+
+What an amazing job you have done so far.   :eek.
+
+I want to see it finished rigth now  :cry
+────────────────────────────────────────────────────────────────────────
+Post #42  (forum post #257806)
+Author    : roguemodeler
+Date      : Jan 8, 2007 at 8:14 AM
+────────────────────────────────────────────────────────────────────────
+
+Great. now I have to take an electronics course to add lighting to my studio scale. mmmmmmm, maybe ITT-Tech.  :cry
+────────────────────────────────────────────────────────────────────────
+Post #43  (forum post #261481)
+Author    : massoh2
+Date      : Jan 13, 2007 at 7:24 PM
+────────────────────────────────────────────────────────────────────────
+
+Amazing.  :eek  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #44  (forum post #262211)
+Author    : neosporing
+Date      : Jan 15, 2007 at 1:55 AM
+────────────────────────────────────────────────────────────────────────
+
+:thumbsup  :love   :eek  i can't belive it.  Incredible skill.    I'm not worthy too read this thread.  Thanks so much for posting the pics.  staggering beauty.
+
+is the female
+
+leia from 'splinter of the mind's eye?'
+────────────────────────────────────────────────────────────────────────
+Post #45  (forum post #262859)
+Author    : moffeaton
+Date      : Jan 15, 2007 at 9:37 PM
+────────────────────────────────────────────────────────────────────────
+
+Leia from the SotME book - nice. Forgot she flew a Y in that.
+
+Update.
+
+Cockpit is done, canopy is glazed, Leggs eggs & head are painted and the body is painted. Started the weathering process - need to paint the Artoo unit, add a couple of over-all filters, and then some specific airbrushing. Once that's done, I'll add spot-pigments to rusty and scorched areas, and then the scratching and chipping will be applied. 
+
+[IMAGE: DSC03835.jpg]
+
+[IMAGE: DSC03837.jpg]
+
+[IMAGE: DSC03849.jpg]
+
+[IMAGE: DSC03842.jpg]
+
+[IMAGE: DSC03844.jpg]
+
+The engines are impossibly bright - see the flare on the left engine? And in the dark, it's ridiculous.
+
+[IMAGE: DSC03854.jpg]
+
+[IMAGE: DSC03858.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #46  (forum post #263454)
+Author    : Qrest Fourstar
+Date      : Jan 16, 2007 at 7:06 PM
+────────────────────────────────────────────────────────────────────────
+
+I just found this thread this morning. Damn... Thats so nice.
+
+Is it just me is most everyone online updating thier MRYs?
+────────────────────────────────────────────────────────────────────────
+Post #47  (forum post #263481)
+Author    : moffeaton
+Date      : Jan 16, 2007 at 7:36 PM
+────────────────────────────────────────────────────────────────────────
+
+Yep. And the Falcon is next 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #48  (forum post #263496)
+Author    : imaginager
+Date      : Jan 16, 2007 at 7:55 PM
+────────────────────────────────────────────────────────────────────────
+
+What'cha got in those engines, anyway.? Looked like 3 red / 1 white LED earlier in the thread??
+
+Looking good.
+────────────────────────────────────────────────────────────────────────
+Post #49  (forum post #263505)
+Author    : swpropmaker
+Date      : Jan 16, 2007 at 8:14 PM
+────────────────────────────────────────────────────────────────────────
+
+Paul H PM sent.  Check out the SS Probe Droid on the shelf.  Get to it man..  Makes one of the Y pappas proud.
+
+Steve
+────────────────────────────────────────────────────────────────────────
+Post #50  (forum post #263637)
+Author    : Gort
+Date      : Jan 17, 2007 at 4:23 AM
+────────────────────────────────────────────────────────────────────────
+
+You da' man Jason. B)
+
+Those engine lights have the same look as the ships had in the movies. Very cool.
+────────────────────────────────────────────────────────────────────────
+Post #51  (forum post #263658)
+Author    : vaderdarth
+Date      : Jan 17, 2007 at 5:19 AM
+────────────────────────────────────────────────────────────────────────
+
+That is the best looking Ywing I've ever seen.  If this baby had come along before CGI............LFL would have used it and only CGI'd the head in the cockpit........LOL.  
+
+Super work man....
+
+Dave  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #52  (forum post #263664)
+Author    : FON
+Date      : Jan 17, 2007 at 5:35 AM
+────────────────────────────────────────────────────────────────────────
+
+Wow. Thats simply outstanding. I really enjoyed reading through all of your posts.
+────────────────────────────────────────────────────────────────────────
+Post #53  (forum post #263746)
+Author    : moffeaton
+Date      : Jan 17, 2007 at 8:17 AM
+────────────────────────────────────────────────────────────────────────
+
+Thank you - I really love doing this, and am honored that you guys dig it. I've had a couple questions about "filters", so before I go off and airbrush them on, I'll prepare the camera and do a little tutorial. Something in the next week or so, time permitting, etc etc.
+
+Oh - and the engines have a red led, with an amber led on either side (3 total in each burner can). The red is steady-on, and the ambers flicker randomly. Looks totally cool - like they're actually producing thrust.
+────────────────────────────────────────────────────────────────────────
+Post #54  (forum post #264966)
+Author    : Apophis
+Date      : Jan 18, 2007 at 6:53 PM
+────────────────────────────────────────────────────────────────────────
+
+neato.
+────────────────────────────────────────────────────────────────────────
+Post #55  (forum post #265116)
+Author    : jvasilatos
+Date      : Jan 18, 2007 at 10:15 PM
+────────────────────────────────────────────────────────────────────────
+
+Jason what did you mean the canopy is "glazed"?  Did you use clear plastic for the windows or is glazing some other process I am not familiar with that you can explain?
+────────────────────────────────────────────────────────────────────────
+Post #56  (forum post #265279)
+Author    : swpropmaker
+Date      : Jan 19, 2007 at 6:36 AM
+────────────────────────────────────────────────────────────────────────
+
+Hey Jason while youre at it can you please give us the low down on the stand you are using.
+
+Steve
+────────────────────────────────────────────────────────────────────────
+Post #57  (forum post #265290)
+Author    : moffeaton
+Date      : Jan 19, 2007 at 6:57 AM
+────────────────────────────────────────────────────────────────────────
+
+Just that, yeah - clear plastic for the windows. always a hair-raising procedure.
+
+Stand: A Smith Victor light stand (Raven RS8) with a Panavise head, and that threaded rod I was raving about a few weeks ago.
+
+Been too busy this week to do anything of consequence on the Y, except I did finally settle on the Artoo deco, and got that painted. Just need to dirty him up.
+
+[IMAGE: DSC03877.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #58  (forum post #328706)
+Author    : moffeaton
+Date      : Apr 19, 2007 at 5:35 AM
+────────────────────────────────────────────────────────────────────────
+
+Wow - three months and I finally found some time to start finishing this off.  I added the 8 "braces" that transition the T-bars to the L'egg eggs, and if you look closely, you'll see that they are the most accurate ones yet! They are hollow (like the original Kettenkrad part is), and have a more-accurate shape around the join with the landing gear parts. This lets you see the L'eggs egg paint show through in the recess. For whatever reason, I was obsessed with mine having that feature. 
+
+I also found some dry transfers in my drawer of old Chartpak and Letraset sheets (hoarding dying technologies while working for 10 years at an art store in the late 80s and early 90s paid off!) - looks like a match to the registration marks as seen on one of the ANH Ys! I was really tempted to add this to my build, but in the end I passed. Maybe on my next one.
+
+[IMAGE: DSC04952.jpg]
+
+So speaking of dry transfers, I spent a little time adding those hash marks that the studio ships are riddled with. Icut up some width-appropriate fonts.
+
+[IMAGE: DSC04950.jpg]
+
+The end result was great!
+
+[IMAGE: DSC04958.jpg]
+
+Underside, too.
+
+[IMAGE: DSC04966.jpg]
+
+Now I need one more pass with the powdered pigments to get some carbon scoring, and then I will add chipping details. One more pass with the dull coating and it's done!
+────────────────────────────────────────────────────────────────────────
+Post #59  (forum post #328846)
+Author    : Less than Super Ostrich
+Date      : Apr 19, 2007 at 9:59 AM
+────────────────────────────────────────────────────────────────────────
+
+As I said on the SSM boards... super job!
+────────────────────────────────────────────────────────────────────────
+Post #60  (forum post #328851)
+Author    : CessnaDriver
+Date      : Apr 19, 2007 at 10:06 AM
+────────────────────────────────────────────────────────────────────────
+
+I wish you guys would quit posting these excellent pics of wonderful repaints by true master builders.
+
+Because I look at my stock MR Y-Wing and CRY! :lol
+────────────────────────────────────────────────────────────────────────
+Post #61  (forum post #328864)
+Author    : f1racer
+Date      : Apr 19, 2007 at 10:24 AM
+────────────────────────────────────────────────────────────────────────
+
+electronics
+
+Moff,
+
+Where did you purchase your electronics. They look very professional.:lol :thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #62  (forum post #328871)
+Author    : moffeaton
+Date      : Apr 19, 2007 at 10:36 AM
+────────────────────────────────────────────────────────────────────────
+
+f1racer said:
+
+			Moff,
+
+Where did you purchase your electronics. They look very professional.:lol :thumbsup
+		
+
+Click to expand...
+
+The RPF's resident LED Wizard™, Hyperdyne!
+────────────────────────────────────────────────────────────────────────
+Post #63  (forum post #328998)
+Author    : thx217
+Date      : Apr 19, 2007 at 3:30 PM
+────────────────────────────────────────────────────────────────────────
+
+Amazing job! Simply awesome. This is what MASTER replica should be doing! This this IS a master replica!:thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #64  (forum post #329085)
+Author    : Qrest Fourstar
+Date      : Apr 19, 2007 at 6:12 PM
+────────────────────────────────────────────────────────────────────────
+
+moffeaton said:
+
+			The RPF's resident LED Wizard™, Hyperdyne!
+		
+
+Click to expand...
+
+ 
+
+Is it just one of the x-wing light kits? I need to get one for my Y-wing
+────────────────────────────────────────────────────────────────────────
+Post #65  (forum post #329168)
+Author    : swfan
+Date      : Apr 19, 2007 at 8:16 PM
+────────────────────────────────────────────────────────────────────────
+
+Wow that looks awesome.  Great paint job.  I look forward to seeing the finished results.
+────────────────────────────────────────────────────────────────────────
+Post #66  (forum post #329184)
+Author    : Ham Solo
+Date      : Apr 19, 2007 at 8:41 PM
+────────────────────────────────────────────────────────────────────────
+
+That's amazing! What an undertaking!
+
+I thought I was "slick" for stripping down an MR Stormie Blaster. Can't even hold a candle to this.
+────────────────────────────────────────────────────────────────────────
+Post #67  (forum post #329191)
+Author    : swpropmaker
+Date      : Apr 19, 2007 at 8:47 PM
+────────────────────────────────────────────────────────────────────────
+
+" They are hollow (like the original Kettenkrad part is)"
+
+The original master part I sent to MR was hollow as well.  I guess someone thought it would be easier to mold them solid.  Most likley the same guy who decided on the final factory paint job!
+
+Jason the Y looks great!  I love seeing these cause it shows how nice the Y Wing really is.
+
+Steve
+────────────────────────────────────────────────────────────────────────
+Post #68  (forum post #329332)
+Author    : moffeaton
+Date      : Apr 20, 2007 at 6:37 AM
+────────────────────────────────────────────────────────────────────────
+
+Yeah, I remember that part. Whattyagonnado, eh?
+
+Thanks! It was a fun project and I'm having a blast painting this!!
+
+swpropmaker said:
+
+			" They are hollow (like the original Kettenkrad part is)"
+
+The original master part I sent to MR was hollow as well.  I guess someone thought it would be easier to mold them solid.  Most likley the same guy who decided on the final factory paint job!
+
+Jason the Y looks great!  I love seeing these cause it shows how nice the Y Wing really is.
+
+Steve
+		
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #69  (forum post #330773)
+Author    : Qrest Fourstar
+Date      : Apr 22, 2007 at 2:48 PM
+────────────────────────────────────────────────────────────────────────
+
+Moffeaton,
+
+Did you use one of Hyperdines' x-wing light kits?
+────────────────────────────────────────────────────────────────────────
+Post #70  (forum post #330826)
+Author    : GATORBAIT9696
+Date      : Apr 22, 2007 at 4:41 PM
+────────────────────────────────────────────────────────────────────────
+
+man wish I had a quarter of your talent..
+────────────────────────────────────────────────────────────────────────
+Post #71  (forum post #333136)
+Author    : Ham Solo
+Date      : Apr 26, 2007 at 10:43 AM
+────────────────────────────────────────────────────────────────────────
+
+Update! Update! With pics! With pics! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #72  (forum post #363142)
+Author    : moffeaton
+Date      : Jun 19, 2007 at 7:06 PM
+────────────────────────────────────────────────────────────────────────
+
+Lol - finally! Got around to taking pics of the finished Y-Wing! Still culling through the stack of pics I took. Here's a few off the cuff:
+
+[IMAGE: DSC_0283.jpg]
+
+[IMAGE: DSC_0320.jpg]
+
+[IMAGE: DSC05590.jpg]
+
+[IMAGE: DSC_0332.jpg]
+
+[IMAGE: DSC05529.jpg]
+
+[IMAGE: DSC05537.jpg]
+
+[IMAGE: DSC_0316.jpg]
+
+[IMAGE: DSC_0318.jpg]
+
+[IMAGE: DSC_0324.jpg]
+
+[IMAGE: DSC_0335.jpg]
+
+[IMAGE: DSC_0330.jpg]
+
+[IMAGE: DSC_0321.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #73  (forum post #363145)
+Author    : Ham Solo
+Date      : Jun 19, 2007 at 7:09 PM
+────────────────────────────────────────────────────────────────────────
+
+OY!
+
+That's what I'm talking about. I like the "blue screen" effect. Just like the movies. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #74  (forum post #363147)
+Author    : rmschneider104
+Date      : Jun 19, 2007 at 7:15 PM
+────────────────────────────────────────────────────────────────────────
+
+Very nice!  Soooooo much better than the factory paint job.
+────────────────────────────────────────────────────────────────────────
+Post #75  (forum post #363156)
+Author    : 1138
+Date      : Jun 19, 2007 at 7:37 PM
+────────────────────────────────────────────────────────────────────────
+
+Frackin' gorgeous job Jason, just beautiful 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+thumbsup
+
+PS: what's that cool sprue shirt you're wearing, me likie!
+────────────────────────────────────────────────────────────────────────
+Post #76  (forum post #363252)
+Author    : cobywan
+Date      : Jun 19, 2007 at 10:37 PM
+────────────────────────────────────────────────────────────────────────
+
+Star Wars kid all growed up!  Juzzzzz keeeeeding.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+That shadow on the screen will not do.
+
+Those shots make me feel a little remorse for getting out of the studio scale stuff.
+────────────────────────────────────────────────────────────────────────
+Post #77  (forum post #363410)
+Author    : Howard
+Date      : Jun 20, 2007 at 8:15 AM
+────────────────────────────────────────────────────────────────────────
+
+Beautiful work Jason.
+
+I didn't realise the model was so large.
+
+Exactly how long is it?
+────────────────────────────────────────────────────────────────────────
+Post #78  (forum post #363415)
+Author    : moffeaton
+Date      : Jun 20, 2007 at 8:22 AM
+────────────────────────────────────────────────────────────────────────
+
+Howard said:
+
+			Exactly how long is it?
+		
+
+Click to expand...
+
+:love
+
+Er, off the top of my head, I don't know. But it's big 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Thanks! It's turned out really well.
+────────────────────────────────────────────────────────────────────────
+Post #79  (forum post #363446)
+Author    : RickDTM
+Date      : Jun 20, 2007 at 9:14 AM
+────────────────────────────────────────────────────────────────────────
+
+All kinds of excellent work Moff!
+────────────────────────────────────────────────────────────────────────
+Post #80  (forum post #363476)
+Author    : 1138
+Date      : Jun 20, 2007 at 9:37 AM
+────────────────────────────────────────────────────────────────────────
+
+Howard said:
+
+			Beautiful work Jason.
+
+I didn't realise the model was so large.
+
+Exactly how long is it?
+		
+
+Click to expand...
+
+Approx 28.52"
+────────────────────────────────────────────────────────────────────────
+Post #81  (forum post #363496)
+Author    : tobiasrichter
+Date      : Jun 20, 2007 at 9:57 AM
+────────────────────────────────────────────────────────────────────────
+
+That´s how it should look like. Excellent job you did there! :thumbsup
+
+Tobias
+────────────────────────────────────────────────────────────────────────
+Post #82  (forum post #363521)
+Author    : greatwazoo42
+Date      : Jun 20, 2007 at 10:25 AM
+────────────────────────────────────────────────────────────────────────
+
+Sweet!  If you get a chance can you do some dark room shots so we can see the lighting better?  I'm dying to see how the R2 lights look in the finished model now.
+────────────────────────────────────────────────────────────────────────
+Post #83  (forum post #363527)
+Author    : Howard
+Date      : Jun 20, 2007 at 10:29 AM
+────────────────────────────────────────────────────────────────────────
+
+Cheers Jason! :confused :lol
+
+Thanks 1138!
+────────────────────────────────────────────────────────────────────────
+Post #84  (forum post #363529)
+Author    : moffeaton
+Date      : Jun 20, 2007 at 10:35 AM
+────────────────────────────────────────────────────────────────────────
+
+Also, big thanks to Howard for those Saturn V parts. I caniballized two of those deelies for this Y, out of my Colonial Movers stash - he helped me replenish them!
+
+Howard said:
+
+			Cheers Jason! :confused :lol
+
+Thanks 1138!
+		
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #85  (forum post #363554)
+Author    : Howard
+Date      : Jun 20, 2007 at 11:15 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks Jason. It was a pleasure to help out!
+
+I must say everyone, Jason and I traded for these Saturn V parts, and I ended up with more than was agreed upon. 
+
+As well as being a world class modeller, he's a generous guy!
+────────────────────────────────────────────────────────────────────────
+Post #86  (forum post #363590)
+Author    : vaderdarth
+Date      : Jun 20, 2007 at 12:01 PM
+────────────────────────────────────────────────────────────────────────
+
+Very nice work!!!
+
+Dave 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #87  (forum post #363617)
+Author    : thx217
+Date      : Jun 20, 2007 at 12:45 PM
+────────────────────────────────────────────────────────────────────────
+
+Beautiful! Excellent job!:thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #88  (forum post #363680)
+Author    : moffeaton
+Date      : Jun 20, 2007 at 1:56 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks again guys! Here is a link to all the photos, inofrmation, video of the lights, and a build diary. 
+
+http://www.roboterkampf.com/html/props/ywing.htm
+────────────────────────────────────────────────────────────────────────
+Post #89  (forum post #364086)
+Author    : Dymerski
+Date      : Jun 21, 2007 at 5:13 AM
+────────────────────────────────────────────────────────────────────────
+
+Moff.....Yoooou,  yooou are good!!!
+
+Looks killer!
+
+Dean
+────────────────────────────────────────────────────────────────────────
+Post #90  (forum post #365762)
+Author    : TomSpinaDesigns
+Date      : Jun 23, 2007 at 11:46 AM
+────────────────────────────────────────────────────────────────────────
+
+GREAT work J!  
+
+Really stunningly well detailed 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Tom
+────────────────────────────────────────────────────────────────────────
+Post #91  (forum post #369816)
+Author    : temponaut
+Date      : Jun 30, 2007 at 3:40 AM
+────────────────────────────────────────────────────────────────────────
+
+Brilliant work, Jason.  :love
+
+I had been thinking of buying an MR Y-Wing.  But now I'm reconsidering.  After seeing this thread and your build diary, I'm afraid it would be hard to be satisfied with the stock version!  :lol
+────────────────────────────────────────────────────────────────────────
+Post #92  (forum post #409978)
+Author    : Medusa
+Date      : Sep 5, 2007 at 4:50 PM
+────────────────────────────────────────────────────────────────────────
+
+Very nice work - though I would not do that all to my Y-Wing as I only would destroy it
+────────────────────────────────────────────────────────────────────────
+Post #93  (forum post #776893)
+Author    : Less than Super Ostrich
+Date      : Jan 26, 2009 at 11:19 AM
+────────────────────────────────────────────────────────────────────────
+
+Sorry for the bump... I'm finally making good progress on my Y-wing. I've been searching for the best paint job of a Y-wing. I'm not saying this one is necessarily the most studio accurate, but I think you did a PHENOMENAL job of painting/weathering in the spirit of what the vehicle is supposed to look like.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 93

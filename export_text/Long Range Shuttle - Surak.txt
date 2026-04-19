@@ -1,0 +1,852 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Long Range Shuttle - Surak
+URL    : https://www.therpf.com/forums/threads/long-range-shuttle-surak.140629/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #2154423)
+Author    : dbhs
+Date      : Feb 28, 2012 at 6:30 PM
+Reactions : Like — robn1
+────────────────────────────────────────────────────────────────────────
+
+My new project is a scratch-built Studio Scale replica of the Vulcan Shuttle Surak, officially known as the Long Range Shuttle. This project has been in research, planning, and development for over two years now and I'm really excited to have it off the drawing boards and taking physical form.
+
+First off I'd like to give a huge -HUGE- thank you to all of the people who helped me to make this project a reality. In addition to help from friends on the modeling forums a lot of time also went into finding information from people and sources not available on the boards. Although time consuming, it paid off in spades. The help from all of these generous people are what made this project a reality and I am very grateful.
+
+This photo is a screen cap, of course, and shows the model as it appeard in the movie. My goal is to duplicate the original filming model, as it actually appeared, in all its glorious 'pinkness'.
+
+I'll be posting a complete build diary on my website but will post updates as I go.
+
+[IMAGE: VS-000.JPG]
+
+[IMAGE: https://www.therpf.com/forums/attachments/vs-000-jpg.1723318/]
+
+I'm starting with the nacelles first as they seem to be the trickiest part of the model. My first thought on the nacelles was that the structure inside would be critical. They are long and slender and supported on one end only. They also would need to be as light-weight as possible.
+
+To create the tapered profile I decided to generate a series of ribs each one slightly different as the 6-sided cross section tapered down the length. Perpendicular to the ribs I'm using a square aluminum tube. The ribs are about an inch apart with additional ones added in for specific details. There's about 50 ribs total along the length.
+
+After drawing profiles of the nacelles in AutoCAD I generated a series of cross-sectinal ribs. I'm cutting the ribs out of 1/8" thick cast-acrylic with a laser cutter. To do this economically I got a membership at the TechShop in San Francisco. The TechShop is a membership-based workshop with just about every tool you can imagine. They're fairly new and opening up new locations all over the country. They have 4 laser cutters at the SF location. They also have a really nice vacuum former and plastic bender which will come in handy later on.
+
+Getting the first few ribs on square to the tube was critical. With the tube clamped down I used these machinist's 1-2-3 blocks to align the ribs and hold them in place while gluing.
+
+Between each rib are three spacers parallel to the tube (top, bottom, and side).
+
+[IMAGE: https://www.therpf.com/forums/attachments/vs-004-jpg.1723319/]
+
+A bit more. Here you can see holes I added to the ribs where the wiring for the lights will run through.
+
+[IMAGE: VS-007.JPG]
+
+[IMAGE: https://www.therpf.com/forums/attachments/vs-007-jpg.1723320/]
+
+Here's the progress so far in front of the drawing and a Pepsi can for scale. The nacelles are a little under 3 feet long.
+
+[IMAGE: VS-010.JPG]
+
+[IMAGE: https://www.therpf.com/forums/attachments/vs-010-jpg.1723321/]
+
+This is a prototype test for the sled cross piece. It's cut from 1/4" cast acrylic. It's pretty rigid and should be plenty strong to support the nacelles. On the original model this piece was aluminum plate which was necessary to support the nacelles that were wood covered with plastic sheeting. Bending this to the right shape will be complicated and I'm assuming it will take a few tries to get it right. This will be the first test piece.
+
+[IMAGE: https://www.therpf.com/forums/attachments/vs-011-jpg.1723322/]
+
+[IMAGE: VS-011.JPG]
+
+Thanks for looking.
+
+-Doug
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #2154688)
+Author    : ShowCraft
+Date      : Feb 28, 2012 at 10:40 PM
+Reactions : Like — dbhs
+────────────────────────────────────────────────────────────────────────
+
+A studio scale replica of the shuttle has been long overdue. 
+
+This is going to be a fun build to watch. 
+
+Thanks for taking it on :thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #2154754)
+Author    : tk1608
+Date      : Feb 29, 2012 at 12:28 AM
+Reactions : Like — dbhs
+────────────────────────────────────────────────────────────────────────
+
+I've always liked this ship, I can't wait to see more..
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+thumbsup
+
+Phil
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #2154755)
+Author    : robn1
+Date      : Feb 29, 2012 at 12:29 AM
+Reactions : Like — dbhs
+────────────────────────────────────────────────────────────────────────
+
+Very cool, never seen this one done.
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #2154946)
+Author    : IEDBOUNTYHUNTER
+Date      : Feb 29, 2012 at 5:53 AM
+Reactions : Like — dbhs
+────────────────────────────────────────────────────────────────────────
+
+Nice Start,  looking forward to seeing more.
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #2155384)
+Author    : Blackbirdcd
+Date      : Feb 29, 2012 at 11:16 AM
+Reactions : Like — dbhs
+────────────────────────────────────────────────────────────────────────
+
+Looking forward to seeing how this progresses!
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #2156015)
+Author    : feek61
+Date      : Feb 29, 2012 at 6:40 PM
+Reactions : Like — dbhs
+────────────────────────────────────────────────────────────────────────
+
+Very cool and overdue subject.  Looking forward to your updates.
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #2156106)
+Author    : Aurora
+Date      : Feb 29, 2012 at 7:58 PM
+Reactions : Like — dbhs
+────────────────────────────────────────────────────────────────────────
+
+Very cool love the acrylic
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #2156712)
+Author    : dbhs
+Date      : Mar 1, 2012 at 9:41 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks for the feedback. This one is a challenge for sure. Just about every part of it is new territory for me but that's what keeps things interesting.
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #2156744)
+Author    : jtwaclawski
+Date      : Mar 1, 2012 at 10:12 AM
+Reactions : Like — dbhs
+────────────────────────────────────────────────────────────────────────
+
+This is cool.  If you need help at the decal stage, let me know.
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #2157400)
+Author    : SVTStingRay
+Date      : Mar 1, 2012 at 8:07 PM
+────────────────────────────────────────────────────────────────────────
+
+love it. ill say this for the motion picture, it sure had great ship designs.
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #2158411)
+Author    : Pro Mod
+Date      : Mar 2, 2012 at 2:06 PM
+────────────────────────────────────────────────────────────────────────
+
+Great start, I've always loved this ship.:thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #2158680)
+Author    : jockdeboer
+Date      : Mar 2, 2012 at 5:52 PM
+────────────────────────────────────────────────────────────────────────
+
+This is going to be badass!
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #2159435)
+Author    : dbhs
+Date      : Mar 3, 2012 at 10:44 AM
+Reactions : Like — ixtore, BajaTym
+────────────────────────────────────────────────────────────────────────
+
+I posted an update on my site. Here are a few of the new pics.
+
+[IMAGE: https://www.therpf.com/forums/attachments/vs-014-jpg.1723323/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/vs-018-jpg.1723324/]
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #2159649)
+Author    : IEDBOUNTYHUNTER
+Date      : Mar 3, 2012 at 2:24 PM
+────────────────────────────────────────────────────────────────────────
+
+Looking great,  its starting to come together.
+
+Al
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #2159902)
+Author    : ixtore
+Date      : Mar 3, 2012 at 6:10 PM
+Reactions : Like — publiusr
+────────────────────────────────────────────────────────────────────────
+
+Just great. Always liked this ship.  It was a little outside the known Star Trek universe design philosophy (at the time) but still fit in nicely.  The paint job will be interesting!  It was certainly a unique miniature.
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #2160177)
+Author    : dbhs
+Date      : Mar 3, 2012 at 10:53 PM
+────────────────────────────────────────────────────────────────────────
+
+ixtore said:
+
+			Just great. Always liked this ship.  It was a little outside the known Star Trek universe design philosophy (at the time) but still fit in nicely.  The paint job will be interesting!  It was certainly a unique miniature.
+		
+
+Click to expand...
+
+I know what you mean but at the same time I think this design shows a bit of the diversity that would actually exist if the world of Star Trek was more fully explored. I'm glad they didn't just go with reduced versions of the Enterprise nacelles tacked on and instead came up with a more unique design.
+
+I'm definitely looking forward to the painting of this one...perhaps more than any other part of the build.
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #2160404)
+Author    : frakme
+Date      : Mar 4, 2012 at 6:37 AM
+────────────────────────────────────────────────────────────────────────
+
+IVe always like that Spock Warp Shuttle. Looks good keep the pics commin
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #2160930)
+Author    : MooCriket
+Date      : Mar 4, 2012 at 3:02 PM
+────────────────────────────────────────────────────────────────────────
+
+Very cool indeed!
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #2216052)
+Author    : IEDBOUNTYHUNTER
+Date      : Apr 14, 2012 at 4:39 PM
+────────────────────────────────────────────────────────────────────────
+
+YO, anything New.
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #2216092)
+Author    : feek61
+Date      : Apr 14, 2012 at 5:23 PM
+────────────────────────────────────────────────────────────────────────
+
+Photos and website gone; this isn't looking good.
+
+Too bad, this was going to be interesting.  Hopefully Doug will return
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #2216103)
+Author    : trooper
+Date      : Apr 14, 2012 at 5:27 PM
+────────────────────────────────────────────────────────────────────────
+
+WOW!  what happend?????
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #2216357)
+Author    : dbhs
+Date      : Apr 14, 2012 at 10:05 PM
+────────────────────────────────────────────────────────────────────────
+
+Hey guys.
+
+Sadly nothing new to post.
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #2216516)
+Author    : Guy Cowen
+Date      : Apr 15, 2012 at 4:18 AM
+────────────────────────────────────────────────────────────────────────
+
+Really sorry to hear all this Doug, hope things smooth out sooner than later for you.
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #2216555)
+Author    : feek61
+Date      : Apr 15, 2012 at 5:56 AM
+────────────────────────────────────────────────────────────────────────
+
+Doug, sorry to hear of your troubles; that sucks.   Thank you for taking time to update us on this cool project.  Take care of yourself.
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #2216835)
+Author    : GKvfx
+Date      : Apr 15, 2012 at 10:50 AM
+────────────────────────────────────────────────────────────────────────
+
+Eeeep!  Ummm....wow.  That wasn't the update we were A) expecting, and B) hoping for.
+
+Stay sane.  Nice thing is - acrylic has a looong shelf life.  So it will be there when you are ready/able to get back to it.
+
+Regards,
+
+Gene
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #2218367)
+Author    : dbhs
+Date      : Apr 16, 2012 at 1:09 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks, guys. I appreciate the support. I'm maintaining my optimism about my future and life in general....just taking things now a day at a time.  When I do get back to building again it's going to be full steam ahead.  I'm looking forward to that.
+────────────────────────────────────────────────────────────────────────
+Post #28  (forum post #2233073)
+Author    : dbhs
+Date      : Apr 26, 2012 at 5:04 PM
+Reactions : Like — BajaTym, chazzychaz
+────────────────────────────────────────────────────────────────────────
+
+Getting caught up with posting my previous progress.
+
+This is the line bender I'm using at the TechShop. It makes bending the acrylic a piece of cake.
+
+[IMAGE: VS-019.JPG]
+
+And the adjustable fence for bending to the correct angle.
+
+[IMAGE: VS-020.JPG]
+
+The main challenge with bending the 1/4" acrylic is that it tends to want to bend to a particular radius every time and not the right radius. The radius it wants to bend to is too small. On some 1/8" acrylic test pieces I realized that the outside radius of those bends is just about right for the inside radius on the 1/4" acrylic. So I made a form to bend over to force the 1/4" acrylic into the right shape. These photos show that process.
+
+[IMAGE: VS-023.JPG]
+
+[IMAGE: VS-022.JPG]
+
+[IMAGE: VS-021.JPG]
+────────────────────────────────────────────────────────────────────────
+Post #29  (forum post #2233859)
+Author    : dbhs
+Date      : Apr 27, 2012 at 8:06 AM
+Reactions : Like — BajaTym, chazzychaz
+────────────────────────────────────────────────────────────────────────
+
+This is a mockup with the first test piece of the 1/4" acrylic just to get a sense of the size of it. The 2 nacelles are test pieces and both starboard nacelles.
+
+It's really cool seeing it take shape finally. I love the size of it. Going to be a lot of fun to paint and weather at this scale.
+
+[IMAGE: VS-024.JPG]
+
+[IMAGE: VS-025.JPG]
+
+ 
+
+[IMAGE: VS-026.JPG]
+
+ 
+
+[IMAGE: VS-027.JPG]
+────────────────────────────────────────────────────────────────────────
+Post #30  (forum post #2233909)
+Author    : feek61
+Date      : Apr 27, 2012 at 9:01 AM
+────────────────────────────────────────────────────────────────────────
+
+Glad to see you are back and great update!!!
+────────────────────────────────────────────────────────────────────────
+Post #31  (forum post #2233912)
+Author    : IEDBOUNTYHUNTER
+Date      : Apr 27, 2012 at 9:05 AM
+────────────────────────────────────────────────────────────────────────
+
+Looking cool.
+────────────────────────────────────────────────────────────────────────
+Post #32  (forum post #2233915)
+Author    : bondfan2000
+Date      : Apr 27, 2012 at 9:07 AM
+────────────────────────────────────────────────────────────────────────
+
+Very nice, cant wait to see it finished
+────────────────────────────────────────────────────────────────────────
+Post #33  (forum post #3585851)
+Author    : dbhs
+Date      : Mar 12, 2015 at 1:15 PM
+Reactions : Like, Love — BajaTym, chazzychaz, ProfKSergeev
+────────────────────────────────────────────────────────────────────────
+
+I haven't posted an update here in quite some time. Here's a brief summary.
+
+Shuttle internal armature block.
+
+[IMAGE: photo.JPG]
+
+Shuttle acrylic in progress.
+
+[IMAGE: photo%2B1.JPG]
+
+Shuttle bottom panel with recessed magnets.
+
+[IMAGE: photo%2B3.JPG]
+
+Shuttle test fitting panels.
+
+[IMAGE: IMG_6205.JPG]
+
+Shuttle with lights installed and light blocking in progress.
+
+[IMAGE: 2015-03-03%2BA.jpg]
+
+Rear docking port in progress.
+
+[IMAGE: 2015-03-10.jpg]
+
+Sled lighting in progress.
+
+[IMAGE: photo%2B2.JPG]
+
+[IMAGE: photo%2B2.JPG]
+
+[IMAGE: photo%2B4.JPG]
+────────────────────────────────────────────────────────────────────────
+Post #34  (forum post #3585888)
+Author    : vectorzero
+Date      : Mar 12, 2015 at 2:05 PM
+────────────────────────────────────────────────────────────────────────
+
+Defintely worth the wait. Most excellent work.
+────────────────────────────────────────────────────────────────────────
+Post #35  (forum post #3586307)
+Author    : DaddyfromNaboo
+Date      : Mar 13, 2015 at 1:15 AM
+────────────────────────────────────────────────────────────────────────
+
+Is that really a vulcan shuttle and not wonder woman´s invisible one? 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Awesome work, I am really looking forward to seeing this finished!
+────────────────────────────────────────────────────────────────────────
+Post #36  (forum post #3586737)
+Author    : dbhs
+Date      : Mar 13, 2015 at 12:22 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks guys.
+
+The clear acrylic is hard on the eyes sometimes but the precision it has with the laser cutter is a nice benefit.
+────────────────────────────────────────────────────────────────────────
+Post #37  (forum post #3586767)
+Author    : swgeek
+Date      : Mar 13, 2015 at 12:57 PM
+────────────────────────────────────────────────────────────────────────
+
+Beautiful work, almost a shame to paint it.
+────────────────────────────────────────────────────────────────────────
+Post #38  (forum post #3586768)
+Author    : dbhs
+Date      : Mar 13, 2015 at 12:58 PM
+Reactions : Like — chazzychaz
+────────────────────────────────────────────────────────────────────────
+
+Lighting test video.
+
+https://www.youtube.com/watch?v=SY2hA50HoJQ
+────────────────────────────────────────────────────────────────────────
+Post #39  (forum post #3587536)
+Author    : MKWJTC
+Date      : Mar 14, 2015 at 11:17 AM
+────────────────────────────────────────────────────────────────────────
+
+Fantastic! Model is really looking nice in clear
+────────────────────────────────────────────────────────────────────────
+Post #40  (forum post #3588187)
+Author    : feek61
+Date      : Mar 15, 2015 at 5:20 AM
+────────────────────────────────────────────────────────────────────────
+
+I love it!!!
+
+It looks fantastic and I too think it looks amazing clear.  Looking forward to your progress updates!
+────────────────────────────────────────────────────────────────────────
+Post #41  (forum post #3602560)
+Author    : dbhs
+Date      : Mar 31, 2015 at 1:01 PM
+Reactions : Like — BajaTym, chazzychaz
+────────────────────────────────────────────────────────────────────────
+
+Thanks for the feedback guys.
+
+I finished up the shuttle hulls and did a video of the lights. The sequencing is too fast but I sped it up to make it easier to see.  The final light pattern will be pretty slow except the top strobe will be timed to match the movie. I don't want a Christmas lights effect.
+────────────────────────────────────────────────────────────────────────
+Post #42  (forum post #3603245)
+Author    : moffeaton
+Date      : Apr 1, 2015 at 6:29 AM
+────────────────────────────────────────────────────────────────────────
+
+Killer work - super clean, orderly, and the size/accuracy makes this thing amazing. I hope you bring it to Geek night in November!
+────────────────────────────────────────────────────────────────────────
+Post #43  (forum post #3603884)
+Author    : dbhs
+Date      : Apr 1, 2015 at 5:45 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks Jason. That sounds good. It would be nice to have this done by then.
+────────────────────────────────────────────────────────────────────────
+Post #44  (forum post #3608321)
+Author    : norbauer
+Date      : Apr 7, 2015 at 11:10 AM
+────────────────────────────────────────────────────────────────────────
+
+This is such a beautiful project, and very interesting to be making it using acrylic rather than styrene. Did you find that you needed to account for the kerf of the laser in your blueprints to get everything to fit together properly? I am currently working on a similar prop project in acrylic on the laser cutter and haven't yet worked that part out.
+────────────────────────────────────────────────────────────────────────
+Post #45  (forum post #3608451)
+Author    : dbhs
+Date      : Apr 7, 2015 at 1:11 PM
+Reactions : Like — norbauer, moffeaton
+────────────────────────────────────────────────────────────────────────
+
+Yes, I did account for the width and angle of the laser on all of the framework pieces. The pieces needed to fit together tightly enough that the 1/100th of an inch or so of the laser had an effect.  I actually did a test early on cutting out a series of about 20  1" x 1/2" rectangles and pushed them together end to end to measure the resulting width.  Measured the reduction in width carefully and divide by 20 to get the width of the laser beam. I then off set all of the drawings of the framework pieces larger by HALF this amount to get them to cut out exactly the size I needed. This worked pretty good.  As far as the angle of the cut from the laser... There's nothing I know of to accommodate this.  I used 1/8" square acrylic rod glued in along all 90-degree glued pieces to reinforce the joints and find them to be really strong.
+
+Unfortunately most of the surface pieces on this, especially the nacelles are composed of compound curves out of plane with one another. Getting the skins right has been mostly trial and error with the errors being far larger than the width of the laser beam.
+────────────────────────────────────────────────────────────────────────
+Post #46  (forum post #3608981)
+Author    : moffeaton
+Date      : Apr 8, 2015 at 5:25 AM
+────────────────────────────────────────────────────────────────────────
+
+I've also noted the angle of the beam changes slightly depending on the position on the cutting bed - mostly noticeable on 1/4 acrylic... almost cuts at an angle... but it is pretty amazing the "kerf" change, depending on how you tweak speed/pulse/power. It's an art to get parts cutting the way you "need" them too some times.
+────────────────────────────────────────────────────────────────────────
+Post #47  (forum post #3610398)
+Author    : norbauer
+Date      : Apr 9, 2015 at 7:12 PM
+────────────────────────────────────────────────────────────────────────
+
+moffeaton said:
+
+			I've also noted the angle of the beam changes slightly depending on the position on the cutting bed - mostly noticeable on 1/4 acrylic... almost cuts at an angle... but it is pretty amazing the "kerf" change, depending on how you tweak speed/pulse/power. It's an art to get parts cutting the way you "need" them too some times.
+		
+
+Click to expand...
+
+Yes, your beam will be focused right at the surface of your material (assuming you focused properly), so on thicker pieces I believe you'll get an upside down V shape to the laser beam's profile as it goes out of focus toward the bottom of the material. I believe it's just a matter of the optics involved rather than necessarily an issue of the position of the bed (though of course misalignment there could also introduce problems).
+────────────────────────────────────────────────────────────────────────
+Post #48  (forum post #3683752)
+Author    : dbhs
+Date      : Jun 27, 2015 at 4:47 PM
+Reactions : Like — Pro Mod
+────────────────────────────────────────────────────────────────────────
+
+The top and front of the sled are done except for some of the side panels. I made a video of the lighting.
+
+[video]https://youtu.be/yy0oCtAERSE[/video]
+────────────────────────────────────────────────────────────────────────
+Post #49  (forum post #3744392)
+Author    : dbhs
+Date      : Aug 31, 2015 at 9:58 PM
+Reactions : Like — BajaTym, chazzychaz, MonsieurTox
+────────────────────────────────────────────────────────────────────────
+
+Update on the sled
+
+[IMAGE: https://www.therpf.com/forums/attachments/2015-08-30-a-copy-jpg.1723325/]
+────────────────────────────────────────────────────────────────────────
+Post #50  (forum post #3756545)
+Author    : norbauer
+Date      : Sep 13, 2015 at 4:19 PM
+────────────────────────────────────────────────────────────────────────
+
+In case you haven't seen this photo:
+
+[IMAGE: 253276-b0fb34083a361a15cd9d36fbb508dcef.jpg]
+
+https://archive.org/stream/starlog_magazine-032/032#page/n31/mode/2up
+────────────────────────────────────────────────────────────────────────
+Post #51  (forum post #3940619)
+Author    : dbhs
+Date      : Mar 24, 2016 at 2:51 PM
+Reactions : Like, Love — BajaTym, Demetrios2177, Captain Dunsel
+────────────────────────────────────────────────────────────────────────
+
+Another overdue update.
+
+Getting further along with the details.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1084-copy-jpg.1723327/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1085-copy-jpg.1723328/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1086-copy-jpg.1723329/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1087-copy-jpg.1723330/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1088-copy-jpg.1723331/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1089-copy-jpg.1723332/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1090-copy-jpg.1723333/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1091-copy-jpg.1723334/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1092-copy-jpg.1723335/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1093-copy-jpg.1723336/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1094-copy-jpg.1723337/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1096-copy-jpg.1723338/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1097-copy-jpg.1723339/]
+────────────────────────────────────────────────────────────────────────
+Post #52  (forum post #3940657)
+Author    : moffeaton
+Date      : Mar 24, 2016 at 3:35 PM
+Reactions : Like — dbhs
+────────────────────────────────────────────────────────────────────────
+
+HECK of an update!!
+
+BRING THIS TO GENE'S COME NOVEMBER 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #53  (forum post #3940677)
+Author    : GKvfx
+Date      : Mar 24, 2016 at 3:55 PM
+Reactions : Like — dbhs
+────────────────────────────────────────────────────────────────────────
+
+moffeaton said:
+
+			HECK of an update!!
+
+BRING THIS TO GENE'S COME NOVEMBER 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+Yes.....
+
+Gene
+────────────────────────────────────────────────────────────────────────
+Post #54  (forum post #3940762)
+Author    : MonsieurTox
+Date      : Mar 24, 2016 at 6:01 PM
+Reactions : Like — dbhs
+────────────────────────────────────────────────────────────────────────
+
+Fantastic !
+────────────────────────────────────────────────────────────────────────
+Post #55  (forum post #3940921)
+Author    : dbhs
+Date      : Mar 24, 2016 at 11:28 PM
+Reactions : Like — moffeaton
+────────────────────────────────────────────────────────────────────────
+
+Thanks for the comments.  Keep me in the loop about November. Maybe it'll have a pinkish hue by then.
+────────────────────────────────────────────────────────────────────────
+Post #56  (forum post #3940954)
+Author    : star-art
+Date      : Mar 25, 2016 at 12:43 AM
+Reactions : Like — dbhs
+────────────────────────────────────────────────────────────────────────
+
+Truly incredible! A long time coming but well worth the wait. . .
+────────────────────────────────────────────────────────────────────────
+Post #57  (forum post #3956196)
+Author    : dbhs
+Date      : Apr 10, 2016 at 12:58 PM
+Reactions : Like — BajaTym, chazzychaz, Searun
+────────────────────────────────────────────────────────────────────────
+
+Here's another small update. Kit parts and scratch details going on.
+
+[IMAGE: https://www.therpf.com/forums/attachments/1-copy-jpg.1723340/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/2-copy-jpg.1723341/]
+────────────────────────────────────────────────────────────────────────
+Post #58  (forum post #3956861)
+Author    : DaveG
+Date      : Apr 11, 2016 at 8:17 AM
+────────────────────────────────────────────────────────────────────────
+
+Exceptional work! The engineering of the laser cut parts is first rate!
+────────────────────────────────────────────────────────────────────────
+Post #59  (forum post #3957630)
+Author    : dbhs
+Date      : Apr 11, 2016 at 9:26 PM
+Reactions : Like — Captain Dunsel
+────────────────────────────────────────────────────────────────────────
+
+Thanks Dave. The tech shop just got 5 new Trotec laser cutters. Can't wait to try the new machines
+────────────────────────────────────────────────────────────────────────
+Post #60  (forum post #5363799)
+Author    : dbhs
+Date      : Oct 5, 2022 at 11:49 AM
+Reactions : Like, Love, Wow — edge10, BajaTym, ProfKSergeev
+────────────────────────────────────────────────────────────────────────
+
+Finally getting back to this project.  After several passes with black to block out light coming through the clear hull and then going over that with white to lighten it up the sled has it's first color pass.  One of many shades of pink to come.  I'll be matching the original color scheme and weathering as much as possible.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_9361-copy-jpg.1623914/]
+────────────────────────────────────────────────────────────────────────
+Post #61  (forum post #5363954)
+Author    : Mr. E Man
+Date      : Oct 5, 2022 at 8:48 PM
+Reactions : Like — publiusr, dbhs
+────────────────────────────────────────────────────────────────────────
+
+Glad to see your return to this project!  Can't wait to see further progress on this.  Great work!
+
+E
+────────────────────────────────────────────────────────────────────────
+Post #62  (forum post #5371769)
+Author    : dbhs
+Date      : Oct 31, 2022 at 8:47 AM
+Reactions : Like, Wow, Love — mb1k, edge10, Pro Mod
+────────────────────────────────────────────────────────────────────────
+
+Thanks for the feedback. Making time for this is hard these days but a little progress made on painting to show.
+
+[IMAGE: https://www.therpf.com/forums/attachments/3-copy-jpg.1633596/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/2-jpg.1633597/]
+────────────────────────────────────────────────────────────────────────
+Post #63  (forum post #5373574)
+Author    : publiusr
+Date      : Nov 5, 2022 at 10:04 PM
+────────────────────────────────────────────────────────────────────────
+
+I wonder if anyone ever did a smaller warp-sled…for a combo that might fit a shuttlebay. This sucker towers over a Runabout.
+
+The Dockport craft as I have heard it called, used its wedge for re-entry…and the nacelles hybrid warp-impulse units not seen again until the Klingon Bird of Prey.
+────────────────────────────────────────────────────────────────────────
+Post #64  (forum post #5378505)
+Author    : BajaTym
+Date      : Nov 21, 2022 at 7:34 PM
+────────────────────────────────────────────────────────────────────────
+
+Wow, this is an incredible build. I’ve been on the RPF for ages and somehow missed this. Very impressive work and stamina. I’m looking forward to seeing more of your progress.
+────────────────────────────────────────────────────────────────────────
+Post #65  (forum post #5378557)
+Author    : bwayne64
+Date      : Nov 22, 2022 at 1:47 AM
+────────────────────────────────────────────────────────────────────────
+
+Always loved the violet/ purple shades on this model. You don't see it in the movie, at least I didn't, but it's cool to see the studio models colors. Great work on
+
+this !
+────────────────────────────────────────────────────────────────────────
+Post #66  (forum post #5378668)
+Author    : Clerval
+Date      : Nov 22, 2022 at 12:08 PM
+Reactions : Like — BajaTym, joberg
+────────────────────────────────────────────────────────────────────────
+
+publiusr said:
+
+			I wonder if anyone ever did a smaller warp-sled…for a combo that might fit a shuttlebay. This sucker towers over a Runabout.
+
+The Dockport craft as I have heard it called, used its wedge for re-entry…and the nacelles hybrid warp-impulse units not seen again until the Klingon Bird of Prey.
+		
+
+Click to expand...
+
+There's a scaled down shuttle that is used as a Federation standard, but the warp sled section is only an external attachment, never in bays etc, as yeah, too damn big by far. 'IRL' this measures out at just under 50 meters in length for the sled. 
+
+The colors were greatly diminished, to Andy Probert's dismay, but there are hints of them in the final film. Sadly, the original has 'done a runner' and can't be researched.
+────────────────────────────────────────────────────────────────────────
+Post #67  (forum post #5378694)
+Author    : sapper36
+Date      : Nov 22, 2022 at 1:06 PM
+────────────────────────────────────────────────────────────────────────
+
+So How close was the old AMT kit on this?  As a kid I always thought it looked pretty good.
+────────────────────────────────────────────────────────────────────────
+Post #68  (forum post #5380406)
+Author    : publiusr
+Date      : Nov 27, 2022 at 8:27 PM
+────────────────────────────────────────────────────────────────────────
+
+The Galoob toy of this and the Art Asylum/Diamond Select Refit are about in scale with each other…though the Galoob might just fit the 1/537 if you scaled that up.
+────────────────────────────────────────────────────────────────────────
+Post #69  (forum post #5454168)
+Author    : dbhs
+Date      : Jul 27, 2023 at 7:16 AM
+Reactions : Like, Love — BajaTym, stevielewis, feek61
+────────────────────────────────────────────────────────────────────────
+
+Slow going on all the masking that is required but making a bit of progress.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1727-copy-jpg.1723176/]
+────────────────────────────────────────────────────────────────────────
+Post #70  (forum post #5454176)
+Author    : Searun
+Date      : Jul 27, 2023 at 7:55 AM
+Reactions : Like — dbhs
+────────────────────────────────────────────────────────────────────────
+
+Nice job on your shuttle dbhs. Pattern /Camo markings look great.  Color brings back that expression from years ago- - - “ Purple Haze”
+────────────────────────────────────────────────────────────────────────
+Post #71  (forum post #5454185)
+Author    : mb1k
+Date      : Jul 27, 2023 at 8:17 AM
+Reactions : Like — dbhs
+────────────────────────────────────────────────────────────────────────
+
+Words cannot describe how much excitement and anticipation this brings me!
+────────────────────────────────────────────────────────────────────────
+Post #72  (forum post #5454261)
+Author    : bwayne64
+Date      : Jul 27, 2023 at 1:56 PM
+Reactions : Like — dbhs
+────────────────────────────────────────────────────────────────────────
+
+Great work on this ship. One of my favorites. Do you still have the photos from the first page. They are all missing, 
+
+: (
+────────────────────────────────────────────────────────────────────────
+Post #73  (forum post #5454284)
+Author    : dbhs
+Date      : Jul 27, 2023 at 4:11 PM
+Reactions : Like — feek61, publiusr, bwayne64
+────────────────────────────────────────────────────────────────────────
+
+I edited the older posts to fix missing photos.
+────────────────────────────────────────────────────────────────────────
+Post #74  (forum post #5454597)
+Author    : bwayne64
+Date      : Jul 28, 2023 at 5:14 PM
+Reactions : Like — dbhs
+────────────────────────────────────────────────────────────────────────
+
+Thanks man !
+────────────────────────────────────────────────────────────────────────
+Post #75  (forum post #5472094)
+Author    : goose814
+Date      : Sep 22, 2023 at 2:46 PM
+Reactions : Like — Lee S
+────────────────────────────────────────────────────────────────────────
+
+Some reference, in case anyone missed this:
+
+			https://entertainment.ha.com/itm/movie-tv-memorabilia/props/surak-long-range-vulcan-shuttle-filming-miniature-from-star-trek-the-motion-picture-paramount-1979-/a/7278-89249.s?ic4=ListView-ShortDescription-071515
+────────────────────────────────────────────────────────────────────────
+Post #76  (forum post #5472129)
+Author    : Captain Dunsel
+Date      : Sep 22, 2023 at 5:34 PM
+Reactions : Like, Haha — BajaTym, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+dbhs said:
+
+			Slow going on all the masking that is required but making a bit of progress.
+
+View attachment 1723176
+
+Click to expand...
+
+I LOVE this build!!
+
+But—why do I always think of strawberry custard yogurt when I look at it??
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1296-jpeg.1742428/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_1297-jpeg.1742429/]
+────────────────────────────────────────────────────────────────────────
+Post #77  (forum post #5472261)
+Author    : dbhs
+Date      : Sep 23, 2023 at 6:57 AM
+Reactions : Like — Captain Dunsel, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+Captain Dunsel said:
+
+			I LOVE this build!!
+
+But—why do I always think of strawberry custard yogurt when I look at it??
+
+Ha. Me too !
+		
+
+Click to expand...
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 77

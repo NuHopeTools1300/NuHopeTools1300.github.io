@@ -1,0 +1,74 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Merlin Models Digital Model Kits Parts
+URL    : https://www.therpf.com/forums/threads/merlin-models-digital-model-kits-parts.360065/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #5580412)
+Author    : modelerdave
+Date      : Oct 23, 2024 at 12:35 PM
+Reactions : Wow — joberg
+────────────────────────────────────────────────────────────────────────
+
+Have you guys seen this yet? They're scanning model kits to create downloadable files for kit bashing.
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #5580424)
+Author    : OlivierC
+Date      : Oct 23, 2024 at 1:25 PM
+Reactions : Like — Millenniumf, DaddyfromNaboo, joberg
+────────────────────────────────────────────────────────────────────────
+
+It's great, but they make the same mistake many people do: they model these parts much sharper and detailed than the actual parts are. They pretty much model it like the life size part rather than the scale model part. It looks good, but it won't look like the original when printed (especially if you use super high res resin printer), which I imagine is what you're after if you go through all that trouble of scanning the parts and measuring with calipers. All those cylinders and thin walls need chamfers and being fused together with fillets to look like an actual injection molded piece, especially when recreating kits from the 70s, they were not nearly as sharp is the stuff we get now.
+
+Just my two cent based on what i have been observing if many of these 3d replicas and trying to avoid myself. Not ******** on their work, this is very cool, but I just find it unfortunate to go through all that trouble only to miss that final step. I checked the website, if may look a bit pricy if you're trying to build a full falcon from these, but I find it reasonable considering the labor that goes into making those.
+
+Edit : this is what I mean, I could have built this part by simply intersecting boxes but I merged them together, like the real part would come out of the mold. Will it make a big difference once printed? probably not, a very subtle one. But when you apply it a whole model, you notice it catches the light differently. Actually it's more when you don't do it that something seems off
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2024-10-23-133054-png.1874352/]
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #5580426)
+Author    : Clerval
+Date      : Oct 23, 2024 at 1:34 PM
+Reactions : Like — DaddyfromNaboo, joberg
+────────────────────────────────────────────────────────────────────────
+
+Not any different than how anyone else works with kit parts and creates digital versions. Lots of folks are doing this. When I do mine though, it's the effort to make it look like a 40, 50, 60-year old model kit part that makes a final difference. Of course when a supervisor or 'expert' sees it they think the part isn't sharp enough... :eyeroll:
+
+These'll slot into place just fine, but depending on how prominent they are might seem 'off'... though if using printed parts inst of real kit parts, I doubt the intended audience will care. 
+
+They need to adjust their costs though. For some of what they offer, they want you to buy 6-8 parts for the price of a kit.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #5580429)
+Author    : RealDaveWinter
+Date      : Oct 23, 2024 at 1:55 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Modern reproductions of older model kit parts always seem to be too symmetrical. I have some parts, from 60s and 70s era kits, that are round to look at, but when you measure them, they're not. Or the wall thickness is different from one end to the other. Little things. And sort of what I'm going to be expecting from the newly tooled Sealab 'reissue'.
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #5580445)
+Author    : TazMan2000
+Date      : Oct 23, 2024 at 3:25 PM
+Reactions : Like, Haha — Studio Kitbash, joberg, modelerdave
+────────────────────────────────────────────────────────────────────────
+
+Seems promising. Not a lot there at the current time but you have to start somewhere.
+
+I agree with some of the remarks saying that the reproductions aren't perfect, but at least they aren't using scans as a final product.
+
+Yes, the models aren't 100% accurate in terms of moulding marks, thickness, and rounding of edges, but if you really need that perfect level of accuracy, you could always skip your mortgage payment, source the original kit and use that. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #5584405)
+Author    : publiusr
+Date      : Nov 9, 2024 at 11:00 PM
+────────────────────────────────────────────────────────────────────────
+
+Also scan toothpaste caps, lighters—especially pens and markers like what Sternbach used.
+
+Now you can scale one greeble up to match another scaled down.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 6

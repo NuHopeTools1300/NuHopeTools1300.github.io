@@ -1,0 +1,67 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Help with making decals
+URL    : https://www.therpf.com/forums/threads/help-with-making-decals.238050/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #3626076)
+Author    : Thype
+Date      : Apr 25, 2015 at 8:44 AM
+────────────────────────────────────────────────────────────────────────
+
+Hello,
+
+ I am planning to build the Polar Lights 1/350  Enterprise refit,but it won't be the Enterprise. I am interested in using the Fonts employed by JJ Abrams in both Trek films. If anyone here knows where I can find them I would appreciate it. Also what is the best method for cutting styrene without melting it. Thank you.
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #3627859)
+Author    : division 6
+Date      : Apr 27, 2015 at 4:13 AM
+────────────────────────────────────────────────────────────────────────
+
+This should actually be moved to general modelling since it's not studio scale and they won't answer you here.:rolleyes
+
+Can't help with the jjprise fonts. 
+
+You could try contacting JBOT to see if he will make them for you.
+
+Cutting is easy as scribe with a knife then bend on line to snap it. (super easy)
+
+If you are referring to the model itself then either use a Dremel rotary tool or drill holes along the area you wish to remove then do the rest of the work with an exacto blade and files.
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #3628297)
+Author    : rbeach84
+Date      : Apr 27, 2015 at 1:13 PM
+────────────────────────────────────────────────────────────────────────
+
+Thype, may I recommend obtaining a copy of the Evergreen Plastics 'how to' book if possible (or appropriate) since it is an excellent source of modeling skills information beyond the 'plastic kit in a box' level.  Information on it can be found on the Evergreen website: http://www.evergreenscalemodels.com/Book.htm
+
+It is a great reference for working with styrene plastic.
+
+For creating decals, you will have to have access to some decal "paper" and either apply the 'graphics' by hand-painting or by computer.  If you go the computer route, you will need supplies compatible with your printer and learn to use some kind of drawing program.  Most personal computers come with a basic bitmap file editor (for example, Windows has "MSPAINT" in it's Program>Accessories menu) but if you want to even better graphics you can install OpenOFFICE.Org (an "Microsoft Office Suite" open-source analog that is free to download, so make sure and get it from the OpenOffice.org website) & use their DRAW program, or any other vector-based drawing software.  You can also use a word processor if you are only creating simple text based "graphics".  But whatever your goal, it will take some effort with research & practice to get useable results.  It is not difficult, but also not as easy as picking up a brush (which isn't all that easy either, as it turns out!)
+
+Don't discount what can be achieved using paint and masks, either.  Masks can be made of tape, "Frisket" type artist masking films and even from commercially available dry-transfer "decals" (paint the desired design color, apply the dry transfer over once dry, but somewhat lightly, then paint the top color and remove the dry transfer using tape after a bit to allow the top color to set.)  Again it does take some practice and/or experimentation to come up with the exact recipe that works for you; using test "articles" before committing to your model is certainly a smart thing when working with new techniques.
+
+And as Division6 noted, you can also hire someone like "JBot Graphics" to produce decals for you;  the list changes over time, but there is usually at least a couple who do the work for hobbyists.
+
+Regards, Robert
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #3628462)
+Author    : zorg
+Date      : Apr 27, 2015 at 4:24 PM
+────────────────────────────────────────────────────────────────────────
+
+i'm looking to get a sheet of waterslide decals done (signatures)
+
+anyone on here do them?
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #3657674)
+Author    : rbeach84
+Date      : May 28, 2015 at 2:10 PM
+────────────────────────────────────────────────────────────────────────
+
+Zorg, if you have access to an inkjet or laser printer, you should be able to DIY a decal of the 'artwork'.
+
+R/ Robert
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 5

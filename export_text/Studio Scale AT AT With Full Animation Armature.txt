@@ -1,0 +1,2552 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Studio Scale AT AT With Full Animation Armature
+URL    : https://www.therpf.com/forums/threads/studio-scale-at-at-with-full-animation-armature.349643/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #5390591)
+Author    : Big C
+Date      : Jan 3, 2023 at 7:28 AM
+Reactions : Like, Love, Wow — maxhebus, el toro, Jowe52
+────────────────────────────────────────────────────────────────────────
+
+Happy New Year everyone!
+
+Been lurking around for a couple weeks and have been hugely inspired by all the incredible talent here.
+
+Got me thinking about a project I've been wanting to do for like 30 years. A studio scale AT AT with a full machined aluminum stop motion armature. I started looking at images of the walkers used in the Empire Strikes Back and sort of went down the rabbit hole. After about a hundred hours of scrutinizing every bolt and screw hole and every possible part I could figure out, I put together a 3D model in Fusion 360 that (as far as I can tell) represents every part in the original leg stop motion armature. I'm curious what the experts here have to say!
+
+Some big questions remain: How exactly did the mechanism work on the upper leg? Were the rotating knee plates hand animated or driven by an internal mechanism? And how exactly did the quick release pins used to secure the models during animation attach to the feet?
+
+As far as the upper leg mechanism goes, I've got it working in the 3D model with parts that at least look similar to the fuzzy images of the original mechanisms. Work still needs to be done here before I start machining aluminum. To that end, I am planning to machine a 2/3 size prototype leg in ABS plastic to check how everything goes together. Once I'm happy with that I'll start on the really fun work!
+
+Images show the 3D model leg so far. Gray parts would have been machined aluminum in the studio models. Tan parts would most likely have been cast urethane. Let me know what you guys think. I'm totally open and hope for input on all this.
+
+Your browser is not able to display this video.
+
+[IMAGE: https://www.therpf.com/forums/attachments/full-leg-front-png.1653721/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/full-leg-bottom-png.1653722/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/mechanism-render-png.1653723/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/exploded-leg-front-png.1653724/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/exploded-leg-rear-png.1653725/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/exploded-foot-png.1653726/]
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #5390626)
+Author    : joberg
+Date      : Jan 3, 2023 at 9:20 AM
+────────────────────────────────────────────────────────────────────────
+
+"An island North of Seattle"...you mean Vancouver?
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ Your renderings are beautiful and making those "pistons" going up and down the leg is something that had eluded me for decades.  Eager to see your next update
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #5390658)
+Author    : Big C
+Date      : Jan 3, 2023 at 10:40 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+joberg said:
+
+			"An island North of Seattle"...you mean Vancouver?
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ Your renderings are beautiful and making those "pistons" going up and down the leg is something that had eluded me for decades.  Eager to see your next update
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+Thanks for the kind words! The island I live on is a wee bit smaller than Vancouver. I live on San Juan island a bit to the east.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #5390778)
+Author    : Bjorn
+Date      : Jan 3, 2023 at 3:22 PM
+Reactions : Like — DiRty37, stevielewis, joberg
+────────────────────────────────────────────────────────────────────────
+
+Beautiful CAD work there!
+
+I can't say I have studied this in great detail like yourself, but have often wondered this when watching the film. It just looks so realistic!
+
+However, Phil Tippett mentioned in the recent Light and Magic doco on Disney that Jon Berg had engineered both the knees and pistons to move mechanically, so as to save on work puppeteering. How he did this I don't know.
+
+[IMAGE: https://www.therpf.com/forums/attachments/screen-shot-2023-01-04-at-10-15-31-am-png.1653967/]
+
+The knees moves much quicker than everything else and the motion seems intermittent. I suspect it's a bit like a tappet driven by a rocker arm and cam.
+
+And driven close to the rotation axis for fast movement. But that's a wild guess!
+
+Very keen to see how you go with this.
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #5390808)
+Author    : JediMichael
+Date      : Jan 3, 2023 at 5:53 PM
+Reactions : Like — Milstang, DiRty37, Leinads
+────────────────────────────────────────────────────────────────────────
+
+Very nice.
+
+Something about this model, I would say is probably the most advanced prop/model ever used for a film.
+
+The fact that over 40 years later, it can still baffle people, really shows that.
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #5390865)
+Author    : Big C
+Date      : Jan 3, 2023 at 8:17 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Bjorn said:
+
+			Beautiful CAD work there!
+
+I can't say I have studied this in great detail like yourself, but have often wondered this when watching the film. It just looks so realistic!
+
+However, Phil Tippett mentioned in the recent Light and Magic doco on Disney that Jon Berg had engineered both the knees and pistons to move mechanically, so as to save on work puppeteering. How he did this I don't know.
+
+View attachment 1653967
+
+The knees moves much quicker than everything else and the motion seems intermittent. I suspect it's a bit like a tappet driven by a rocker arm and cam.
+
+And driven close to the rotation axis for fast movement. But that's a wild guess!
+
+Very keen to see how you go with this.
+		
+
+Click to expand...
+
+Thanks! Yeah I suspected as much. I've found two clues that there was a knee plate rotation mechanism: A slot milled in the back of the 'shin' that I think had no other purpose than to make room for maybe a pushrod. And a gap in the 'shin' and upper leg round knee parts that could have allowed something to rotate the knee plate while still allowing the knee to bend. Its an interesting problem. One of the knee plates does about a 220 degree rotation in the film. Which would not be possible with a pushrod alone. Maybe a sector gear was used.
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #5390937)
+Author    : Runner
+Date      : Jan 4, 2023 at 5:06 AM
+────────────────────────────────────────────────────────────────────────
+
+Anyone know what the "arms" are in the Tippett photo above are called? I know the purpose of them but was always curious what they were officially?
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #5390962)
+Author    : swgeek
+Date      : Jan 4, 2023 at 6:58 AM
+Reactions : Like — DiRty37, Big C, Leinads
+────────────────────────────────────────────────────────────────────────
+
+Runner said:
+
+			Anyone know what the "arms" are in the Tippett photo above are called? I know the purpose of them but was always curious what they were officially?
+		
+
+Click to expand...
+
+They're called surface gauges.
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #5390987)
+Author    : Leinads
+Date      : Jan 4, 2023 at 8:11 AM
+Reactions : Like — joberg, JediMichael, Big C
+────────────────────────────────────────────────────────────────────────
+
+Wow! Way above my pay grade here, but I’m thoroughly enjoying all the hidden engineering in this.  Love it!
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #5391003)
+Author    : Big C
+Date      : Jan 4, 2023 at 8:43 AM
+Reactions : Like, Love — JPjunkie, Pyramidrep, JPH
+────────────────────────────────────────────────────────────────────────
+
+Got the Ring Holder parts made up for the ABS plastic test leg along with a few detail parts and the shin piece (which will be redone when I figure out the knee plate rotation mechanism). Short video shows the process if anyone is interested. Eventual aluminum parts will be done in a similar way.
+
+[IMAGE: https://www.therpf.com/forums/attachments/fr_3059_size1024-jpg.1654123/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/fr_3065_size1024-jpg.1654171/]
+
+ 
+
+Attachments
+
+Ring Holder CNC -.mp4
+
+					31.7 MB
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #5391284)
+Author    : joberg
+Date      : Jan 5, 2023 at 6:44 AM
+Reactions : Like — Bjorn, Big C
+────────────────────────────────────────────────────────────────────────
+
+This is a killer project and, when finished, will be the bomb
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #5391345)
+Author    : GEEK1138
+Date      : Jan 5, 2023 at 10:39 AM
+Reactions : Like — DiRty37, joberg, Bjorn
+────────────────────────────────────────────────────────────────────────
+
+Excellent work Big C, I will be following your build with interest. It'd be so cool to see the enigma of the AT-AT motion finally solved
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #5391370)
+Author    : Big C
+Date      : Jan 5, 2023 at 11:47 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+GEEK1138 said:
+
+			Excellent work Big C, I will be following your build with interest. It'd be so cool to see the enigma of the AT-AT motion finally solved
+		
+
+Click to expand...
+
+Thanks! Been following your great work on the Walker 3D model too. I know from experience how much work and time goes into a project like that.
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #5391494)
+Author    : Big C
+Date      : Jan 5, 2023 at 5:41 PM
+Reactions : Like, Love, Wow — Pyramidrep, dcarty, DiRty37
+────────────────────────────────────────────────────────────────────────
+
+Some upper leg parts fabricated. Hope to have the mechanism proved out this weekend. The main leg part will be redone to accommodate changes for the knee plate rotation mechanism. This one will probably get hacked a bit to get the upper mechanism working well anyway.
+
+I think I have the knee plate mechanism worked out. Blew a bunch of my remaining brain cells on that one.  I'll upload some CAD images in a few days after its been prettied up a bit.
+
+As I work through the design, my awe and appreciation for the incredible talent, skill and creativity of Jon Berg, and Phil Tippett, grows and grows. I am truly standing on the shoulders of giants.
+
+[IMAGE: https://www.therpf.com/forums/attachments/fr_3067_size880-jpg.1654799/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/fr_3064_size880-jpg.1654800/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/fr_3066_size1024-jpg.1654801/]
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #5391651)
+Author    : joberg
+Date      : Jan 6, 2023 at 7:02 AM
+Reactions : Like — Big C
+────────────────────────────────────────────────────────────────────────
+
+Yep; this guys are model makers, engineers, animators, painters...too much talent for my brain to compute
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+As for your model engineering Big C; it's a beauty for sure
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #5391840)
+Author    : Big C
+Date      : Jan 6, 2023 at 8:56 PM
+Reactions : Like, Love — Bjorn, Jowe52, PoopaPapaPalps
+────────────────────────────────────────────────────────────────────────
+
+Got the knee plate rotation mechanism up and running in my 3D model.
+
+As far as I can tell, there is not a single public photo of the mechanism. It works in my model and jibes well with a couple small clues I have from leg images so I am going with it.
+
+If anyone has photos or info on the original mechanisms and would be willing to share publicly or privately I would be very appreciative.
+
+So this thing was a real challenge. Mostly because, as far as I can tell, the original models had a disc on each side of the knee joint with a screw that clamped them together pressing the upper and lower leg ends together. The clamping force and resulting friction would have been needed for the joint to hold position while being animated.
+
+The real head scratcher was getting the internal rotating parts of the mechanism to drive the external rotating knee plate. A rotating shaft was not possible because the clamping screw occupies the center pivot point. So... I resorted to magnets. Two small magnets (chrome pucks in the images) are mounted on the internal rotating plate. These couple magnetically to the external rotating knee plate which has a small steel puck hidden in each end. This actually jibes with every walker photo I have seen that has the rotating knee plates removed. The knee disc has no holes or anything that I can decipher that could allow the knee plate to be driven through it.
+
+Studying scenes in the movie frame by frame leads me to believe that the foot ring motion drives the knee plates so I have the mechanism set up to work that way. A thin cam plate hidden in the foot ring gap drives the mechanism. Take all with a grain of salt. This could of course be nothing like what was in the models and most likely isn't! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: https://www.therpf.com/forums/attachments/shin-exploded-3-png.1655404/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/shin-exploded-1-png.1655405/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/shin-exploded-2-png.1655406/]
+
+Your browser is not able to display this video.
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #5391844)
+Author    : Scarecrow Joe
+Date      : Jan 6, 2023 at 9:14 PM
+────────────────────────────────────────────────────────────────────────
+
+Interesting!
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #5391890)
+Author    : Sym-Cha
+Date      : Jan 7, 2023 at 4:27 AM
+Reactions : Like — JPH, joberg, TDahl
+────────────────────────────────────────────────────────────────────────
+
+Does this help Big C ?
+
+[IMAGE: https://www.therpf.com/forums/attachments/schermafbeelding-2023-01-07-om-13-17-30-png.1655471/]
+
+There seems to be a rubber band going over the pivot cam towards the knee cap (?)
+
+Yet there's also an opening in the lower leg parts as seen on the right in this close-up:
+
+[IMAGE: https://www.therpf.com/forums/attachments/schermafbeelding-2023-01-07-om-13-33-56-png.1655472/]
+
+Pictures Courtesy Lucasfilm Ltd.
+
+Chaïm
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #5391935)
+Author    : joberg
+Date      : Jan 7, 2023 at 8:24 AM
+Reactions : Like — Big C
+────────────────────────────────────────────────────────────────────────
+
+Wow...this leg animation is the bomb
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #5392028)
+Author    : Big C
+Date      : Jan 7, 2023 at 2:02 PM
+Reactions : Like — joberg, Sym-Cha
+────────────────────────────────────────────────────────────────────────
+
+Sym-Cha said:
+
+			Does this help Big C ?
+
+View attachment 1655471
+
+There seems to be a rubber band going over the pivot cam towards the knee cap (?)
+
+Yet there's also an opening in the lower leg parts as seen on the right in this close-up:
+
+View attachment 1655472
+
+Pictures Courtesy Lucasfilm Ltd.
+
+Chaïm
+		
+
+Click to expand...
+
+Thanks Chaïm! I've seen those images but that is a very interesting idea. The mechanism may simply be a cord/rubber band going from the upper leg cam through perhaps a hole drilled lengthwise through the upper leg to the knee joint. A cord could then be wrapped around a spool that would spin the knee plate.
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #5392346)
+Author    : Big C
+Date      : Jan 8, 2023 at 4:02 PM
+Reactions : Like, Love, Wow — incrediblefruit, barney five, flimzy
+────────────────────────────────────────────────────────────────────────
+
+Got some quality time in on the AT AT this weekend! All the foot parts (except the hydraulic thingy on the side) are fabricated for the ABS plastic test leg. Primed parts will be aluminum on the full size model.
+
+[IMAGE: https://www.therpf.com/forums/attachments/assembled-jpg.1656068/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/foot-bottom-no-detail-jpg.1656069/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/foot-bottom-jpg.1656070/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/foot-parts-jpg.1656071/]
+
+ 
+
+Attachments
+
+Foot assembly.mp4
+
+					15.2 MB
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #5392449)
+Author    : joberg
+Date      : Jan 9, 2023 at 6:33 AM
+Reactions : Like — Sym-Cha
+────────────────────────────────────────────────────────────────────────
+
+How hard do you have to push on the spring for that part to go up and down
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #5392648)
+Author    : Big C
+Date      : Jan 9, 2023 at 4:50 PM
+Reactions : Like — Bjorn, joberg, animator
+────────────────────────────────────────────────────────────────────────
+
+joberg said:
+
+			How hard do you have to push on the spring for that part to go up and down
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+I think a few pounds. I'm curious about this too. Am away from the shop today. I'll hook up a scale tomorrow.
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #5392768)
+Author    : Pro Mod
+Date      : Jan 10, 2023 at 4:50 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Amazing work. Subscribed!
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #5392812)
+Author    : Big C
+Date      : Jan 10, 2023 at 7:29 AM
+Reactions : Wow, Like — Bjorn, joberg
+────────────────────────────────────────────────────────────────────────
+
+joberg said:
+
+			How hard do you have to push on the spring for that part to go up and down
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+Two pounds.
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #5392814)
+Author    : Big C
+Date      : Jan 10, 2023 at 7:30 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Pro Mod said:
+
+			Amazing work. Subscribed!
+		
+
+Click to expand...
+
+Thanks!!
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #5392827)
+Author    : joberg
+Date      : Jan 10, 2023 at 7:51 AM
+Reactions : Like — RayLuis
+────────────────────────────────────────────────────────────────────────
+
+Big C said:
+
+			Two pounds.
+		
+
+Click to expand...
+
+That's a lot of pressure to exert on those feet to make them work.  Maybe a slimmer spring would do the trick
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+  I know that many vehicles had foam suspensions (the oldest trick in the book) Now that we have memory foam (the recoil is slower with it)...just an idea.
+────────────────────────────────────────────────────────────────────────
+Post #28  (forum post #5392828)
+Author    : DiRty37
+Date      : Jan 10, 2023 at 7:51 AM
+Reactions : Like — Big C
+────────────────────────────────────────────────────────────────────────
+
+Great job so far and fabulous renders! 
+
+I’ll be following these solutions to the engineering mystery of the Walker with great interest.
+────────────────────────────────────────────────────────────────────────
+Post #29  (forum post #5393057)
+Author    : Big C
+Date      : Jan 10, 2023 at 8:13 PM
+Reactions : Like — thibkaji, dcarty, joberg
+────────────────────────────────────────────────────────────────────────
+
+joberg said:
+
+			That's a lot of pressure to exert on those feet to make them work.  Maybe a slimmer spring would do the trick
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+  I know that many vehicles had foam suspensions (the oldest trick in the book) Now that we have memory foam (the recoil is slower with it)...just an idea.
+		
+
+Click to expand...
+
+I think the "suspension" may operate differently on a stop motion armature. My current theory (I've never done stop motion so who knows) is that the springs should be really stiff so the model weight alone never actually compresses them. The original models had a quick release pin that (I think) attached to the inside top of the foot. The other end of the quick release pin passed through either a slot in a plywood board or a metal grate that the model was "walking" on. The pin also had wingnut that could be adjusted to pull the pin and foot down giving the look of a compressing suspension. This way, the animator would have total control over how the "suspension" was behaving.
+────────────────────────────────────────────────────────────────────────
+Post #30  (forum post #5393065)
+Author    : Big C
+Date      : Jan 10, 2023 at 9:01 PM
+Reactions : Like — Bjorn, incrediblefruit, dtssyst
+────────────────────────────────────────────────────────────────────────
+
+If anyone is interested, here is Phil Tippett talking about the pop pins (I called them quick release pins) and how they were used. 
+
+Text excerpt is from Cinefex issue 5. 
+
+I also found an image online (Sorry, I don't remember from where) showing Phil animating the walker on a board with slots that would have been used with the pins.
+
+[IMAGE: https://www.therpf.com/forums/attachments/pop-pin-text-jpg.1656968/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/image_8abc8cde-jpeg.1656969/]
+────────────────────────────────────────────────────────────────────────
+Post #31  (forum post #5393130)
+Author    : joberg
+Date      : Jan 11, 2023 at 6:44 AM
+Reactions : Like — Big C
+────────────────────────────────────────────────────────────────────────
+
+Yes, those ball lock pins were used for easing the animation and making sure the model were solidly affixed to the table/surface while the animators were moving the different parts of said model.
+
+My main concern is how, in real life, those suspensions would work.
+
+1: The vehicle has a "weight" when standing on its 4 legs.  The stance/suspension should be lower since the whole is standing on those feet.
+
+2: The suspension should also have a finite travel inside the feet; if not, the assembly (on top of the second part of the foot) moving it from left to right/ forward-backward would grind on the top of the flat surface of the second part.
+
+3: As soon as any foot is lifted off the ground, the suspension should be released of any weight, making the overall look of the foot higher and fully deployed. 
+
+It's a little bit like the Space 1999 Eagle: lots of model maker are weighing the model to make sure that the shocks are in their proper position when the whole weight of the ship is on them.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #32  (forum post #5393295)
+Author    : Big C
+Date      : Jan 11, 2023 at 6:11 PM
+────────────────────────────────────────────────────────────────────────
+
+joberg said:
+
+			Yes, those ball lock pins were used for easing the animation and making sure the model were solidly affixed to the table/surface while the animators were moving the different parts of said model.
+
+My main concern is how, in real life, those suspensions would work.
+
+1: The vehicle has a "weight" when standing on its 4 legs.  The stance/suspension should be lower since the whole is standing on those feet.
+
+2: The suspension should also have a finite travel inside the feet; if not, the assembly (on top of the second part of the foot) moving it from left to right/ forward-backward would grind on the top of the flat surface of the second part.
+
+3: As soon as any foot is lifted off the ground, the suspension should be released of any weight, making the overall look of the foot higher and fully deployed. 
+
+It's a little bit like the Space 1999 Eagle: lots of model maker are weighing the model to make sure that the shocks are in their proper position when the whole weight of the ship is on them.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+Thanks joberg. This is really interesting to me. And.. I'm not sure we are talking about exactly the same thing. Or maybe we are lol!
+
+So I was thinking the suspension would be something the animator would manually move frame by frame along with the rest of the model. I think you are suggesting that the suspension would happen automatically as the model was animated. The only reason I was thinking it was manually animated is the difficulty in getting the exact right spring force for the suspension to function predictably. But I really don't know for sure.
+────────────────────────────────────────────────────────────────────────
+Post #33  (forum post #5393411)
+Author    : joberg
+Date      : Jan 12, 2023 at 7:29 AM
+Reactions : Like — Big C
+────────────────────────────────────────────────────────────────────────
+
+Big C said:
+
+			Thanks joberg. This is really interesting to me. And.. I'm not sure we are talking about exactly the same thing. Or maybe we are lol!
+
+So I was thinking the suspension would be something the animator would manually move frame by frame along with the rest of the model. I think you are suggesting that the suspension would happen automatically as the model was animated. The only reason I was thinking it was manually animated is the difficulty in getting the exact right spring force for the suspension to function predictably. But I really don't know for sure.
+		
+
+Click to expand...
+
+Yes; you're right about the suspensions animated on a frame-by-frame basis.  I was just wondering if, lets say, I build your model, what kind of weight, shoved in the upper body, would I need to have a proper stance.  And, to a certain extend, if the legs would support such pressure...either over time or at the time of the construction.
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #34  (forum post #5393572)
+Author    : TazMan2000
+Date      : Jan 12, 2023 at 3:27 PM
+Reactions : Like — Big C, joberg
+────────────────────────────────────────────────────────────────────────
+
+Real nice bit of re-imagineering and mechanical design.
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #35  (forum post #5393649)
+Author    : JediMichael
+Date      : Jan 12, 2023 at 8:16 PM
+Reactions : Wow, Like — stevielewis, Big C, vectorzero
+────────────────────────────────────────────────────────────────────────
+
+So totally incredible.  It really makes you appreciate everything they did on Empire even more.
+
+When these guys put in so much work, and a movie flops, I can only imagine the feeling of loss.....but all these guys, what an insane amount of accomplishment at how great the scene looks, and Empire is known as the best Star Wars movie, here over 40 years later.
+
+I still marvel at it.
+
+Probably why its one of, if not my MOST favorite Star Wars vehicle....and why I own 11 of them.
+
+Keep it up, as this build is off to a great start.
+────────────────────────────────────────────────────────────────────────
+Post #36  (forum post #5395849)
+Author    : Big C
+Date      : Jan 19, 2023 at 7:28 PM
+Reactions : Like, Love, Wow — norscout, Leinads, JPjunkie
+────────────────────────────────────────────────────────────────────────
+
+Been on vacation for the last week and a half so there's been a pause in shop work. Fortunately I had my laptop and wi-fi the whole time so I did a complete 2nd pass on the leg CAD for the full size model (many small things were glaring at me) and got the body and head armature designed. I mean, what else would I do on vacation anyway?
+
+Renders show how it's all going to look. Body and head armature design are derived from photos. I have a photo showing the first neck joint next to the body. The rest are a guess but it's all designed to allow the same head motions as in the movie.
+
+Time to order aluminum!
+
+[IMAGE: https://www.therpf.com/forums/attachments/assembly-1-png.1660319/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/armature-assembly-3-png.1660320/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/body-armature-1-png.1660321/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/body-armature-2-png.1660322/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/body-armature-3-png.1660323/]
+────────────────────────────────────────────────────────────────────────
+Post #37  (forum post #5395939)
+Author    : joberg
+Date      : Jan 20, 2023 at 7:08 AM
+Reactions : Like, Love — Bjorn, Big C
+────────────────────────────────────────────────────────────────────────
+
+Yep, go big or go home as they say
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ ...well; you're ain't going home
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #38  (forum post #5396057)
+Author    : Bjorn
+Date      : Jan 20, 2023 at 1:47 PM
+Reactions : Like — joberg, Big C
+────────────────────────────────────────────────────────────────────────
+
+joberg said:
+
+			Yep, go big or go home as they say
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ ...well; you're ain't going home
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+joberg, that's one of my favorite sayings!
+
+C, I love your practical workings and planning behind what you are doing here.
+
+Very much looking forward to seeing when aluminum shavings appear!
+────────────────────────────────────────────────────────────────────────
+Post #39  (forum post #5396209)
+Author    : Ogibendogy
+Date      : Jan 21, 2023 at 7:23 AM
+Reactions : Like — joberg, Big C
+────────────────────────────────────────────────────────────────────────
+
+That's absolutely stunning work, Big C !!!
+────────────────────────────────────────────────────────────────────────
+Post #40  (forum post #5396288)
+Author    : Big C
+Date      : Jan 21, 2023 at 12:45 PM
+Reactions : Like, Love, Wow — Leinads, AngeloNicolson, DiRty37
+────────────────────────────────────────────────────────────────────────
+
+Thanks Ogibendogy! And thanks everyone for all the encouragement and support. I really appreciate it.
+
+And... The aluminum order is in. No insignificant thing! I ordered enough material for the body, neck and head armatures and six legs. Four for the final model, one that will remain unpainted so it can be handled (to feel the weight and see how the mechanisms work). Extra for various holding fixtures and a 6th leg to screw up. Screwing up is not actually the plan but it always seems to happen anyway lol.
+
+Here is the order for y'all's viewing pleasure 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+FEET
+
+Toe mount and sloped foot ring: 3 3/4" diameter x 12" long 6061 rod.
+
+Toes: 2" x 5/16" x 48" long 6061 T6511 bar.
+
+Ring mount: 1 1/2" diameter x 12" long 6061 rod.
+
+Foot top and Upper leg disc: 2 1/4" diameter x  18" long 6061 rod.
+
+Foot ring: 1/2" x 3" x  24" long 6061 T6511 bar.
+
+LEGS
+
+Lower leg: 3/8" x 2" x 36" long 6061 T6511 bar.
+
+Upper leg: 3/8" x 2 1/4" x 48" long 6061 T6511 bar.
+
+Shoulder: 1/4" x 2 1/2" x 36" long 6061 T6511 bar.
+
+Shoulder disc and Shoulder mount: 1 5/8 diameter x 12" long 6061 rod.
+
+BODY AND HEAD
+
+Leg body mount plate: 5/8" x 4" x 12" long 6061 T6511 bar.
+
+Body armature spreader rods: 1/4" diameter x 24" long 6061 rod.
+
+Body and head armature sides: .100" thick x 12" x 18"  6061 T6 sheet.
+
+Neck armature: 1/2" x 1/2" x 12" long 6061 T6511 bar.
+────────────────────────────────────────────────────────────────────────
+Post #41  (forum post #5396426)
+Author    : GEEK1138
+Date      : Jan 22, 2023 at 1:07 AM
+Reactions : Like — DiRty37, joberg, Big C
+────────────────────────────────────────────────────────────────────────
+
+Absolutely outstanding work!
+────────────────────────────────────────────────────────────────────────
+Post #42  (forum post #5396654)
+Author    : publiusr
+Date      : Jan 22, 2023 at 9:41 PM
+Reactions : Wow — joberg
+────────────────────────────────────────────────────────────────────────
+
+Now for future automation…don’t some medicine bottle caps lift and lower the lid a bit?
+
+If so…applying that to any further gears might capture the jerky stop motion artifacts…you don’t want it to be smooth…
+────────────────────────────────────────────────────────────────────────
+Post #43  (forum post #5396763)
+Author    : Big C
+Date      : Jan 23, 2023 at 8:32 AM
+Reactions : Like — stevielewis, joberg
+────────────────────────────────────────────────────────────────────────
+
+Heh! Yeah maybe so. I'm actually "only" trying to capture the design intent of the original builders so this model will be purely a stop motion armature with detailed body.
+
+Automation would sure be fun though!
+────────────────────────────────────────────────────────────────────────
+Post #44  (forum post #5397053)
+Author    : joberg
+Date      : Jan 24, 2023 at 8:17 AM
+Reactions : Like — modelcitizen
+────────────────────────────────────────────────────────────────────────
+
+There's only a few YouTube videos featuring a small scale AT-AT fully automated.  I think it's from a South American country 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #45  (forum post #5397071)
+Author    : Big C
+Date      : Jan 24, 2023 at 9:27 AM
+Reactions : Like, Wow — Leinads, stevielewis, joberg
+────────────────────────────────────────────────────────────────────────
+
+joberg said:
+
+			There's only a few YouTube videos featuring a small scale AT-AT fully automated.  I think it's from a South American country 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+Would be really really awesome if done well. 
+
+I once did a servo driven AT-ST that could walk under its own power. Wish I could show vids of it motating. Was for a client. Sorry for the tease!
+
+I'd love to do this project again but with out any production or marketing constraints.
+────────────────────────────────────────────────────────────────────────
+Post #46  (forum post #5397315)
+Author    : joberg
+Date      : Jan 25, 2023 at 7:10 AM
+Reactions : Like — Big C
+────────────────────────────────────────────────────────────────────────
+
+You're, indeed, teasing to death Big C
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #47  (forum post #5397807)
+Author    : Big C
+Date      : Jan 26, 2023 at 7:01 PM
+Reactions : Like, Love — Bjorn, dtssyst, Leinads
+────────────────────────────────────────────────────────────────────────
+
+Got almost all the aluminum in. Every block of aluminum has an AT-AT part inside it and it is the task of the builder to discover it! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+  I just need to remove a little to discover the legs. Hope to machine the first leg part(s) this weekend.
+
+[IMAGE: https://www.therpf.com/forums/attachments/fr_3094_size1024-jpg.1662727/]
+────────────────────────────────────────────────────────────────────────
+Post #48  (forum post #5398337)
+Author    : Big C
+Date      : Jan 28, 2023 at 4:57 PM
+Reactions : Like, Love, Wow — Bjorn, JPjunkie, seven
+────────────────────────────────────────────────────────────────────────
+
+Made some chips today! I'm no machinist, so I started with the easiest leg part.  I'm pretty happy with how they turned out. More complex parts up 
+
+next. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/fr_3129_size1024-jpg.1663200/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/fr_3130_size1024-jpg.1663201/]
+────────────────────────────────────────────────────────────────────────
+Post #49  (forum post #5398439)
+Author    : flimzy
+Date      : Jan 29, 2023 at 6:25 AM
+Reactions : Like — GEEK1138, joberg, Big C
+────────────────────────────────────────────────────────────────────────
+
+definitely following
+────────────────────────────────────────────────────────────────────────
+Post #50  (forum post #5398442)
+Author    : Big C
+Date      : Jan 29, 2023 at 6:58 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Thanks flimzy! I've been following your Orca build. That is some seriously inspiring work you're doing. I wish I had even a tenth of your modeling skills.
+────────────────────────────────────────────────────────────────────────
+Post #51  (forum post #5398533)
+Author    : joberg
+Date      : Jan 29, 2023 at 1:24 PM
+Reactions : Like — dtssyst, barney five, JediMichael
+────────────────────────────────────────────────────────────────────────
+
+"I'm not a machinist" he said
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ You could've fooled me Big C!!  I 'ain't falling for that one
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #52  (forum post #5398556)
+Author    : eagle1
+Date      : Jan 29, 2023 at 2:07 PM
+Reactions : Like — Bjorn, joberg, Big C
+────────────────────────────────────────────────────────────────────────
+
+Incredible work!. Your machined parts look perfect. You'll have a fantastic working replica when you're done, very exciting & thank you for sharing your progress here.
+
+Stu
+────────────────────────────────────────────────────────────────────────
+Post #53  (forum post #5398590)
+Author    : Big C
+Date      : Jan 29, 2023 at 4:27 PM
+Reactions : Like — Bjorn, joberg
+────────────────────────────────────────────────────────────────────────
+
+joberg said:
+
+			"I'm not a machinist" he said
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ You could've fooled me Big C!!  I 'ain't falling for that one
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+Heh! I've done a LOT of CNCing and manual machining with plastic (ABS, Delrin, Polycarb) doing toy prototype work. Almost nothing in metal. With plastic, I can hit the start button on the CNC mill and walk away and do other stuff. With aluminum, I have my hand hovering over the emergency stop button a lot lol. I'm hoping I'll get to the point where I can relax and just listen to the mill in the background like I do with plastic. Maybe when all the AT AT leg parts are done I'll know enough to deserve the title of machinist 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #54  (forum post #5398644)
+Author    : Big C
+Date      : Jan 29, 2023 at 8:50 PM
+Reactions : Like, Love — Doug Hoyle, Pyramidrep, dtssyst
+────────────────────────────────────────────────────────────────────────
+
+Couldn't resist putting this video together. Both fun to do and helps me remember how I did something down the road.
+────────────────────────────────────────────────────────────────────────
+Post #55  (forum post #5398659)
+Author    : JediMichael
+Date      : Jan 29, 2023 at 11:22 PM
+Reactions : Sad — joberg
+────────────────────────────────────────────────────────────────────────
+
+The video is unavailable because its private.....
+
+Hope that can be fixed.  I want to see what you have here.
+────────────────────────────────────────────────────────────────────────
+Post #56  (forum post #5398736)
+Author    : joberg
+Date      : Jan 30, 2023 at 7:21 AM
+────────────────────────────────────────────────────────────────────────
+
+Yep, doesn't work for me either 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #57  (forum post #5398751)
+Author    : Big C
+Date      : Jan 30, 2023 at 8:07 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+joberg said:
+
+			Yep, doesn't work for me either 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+Sorry about that. I forgot to make it public after upload. Now fixed!
+────────────────────────────────────────────────────────────────────────
+Post #58  (forum post #5398758)
+Author    : Big C
+Date      : Jan 30, 2023 at 8:26 AM
+Reactions : Like — joberg, JediMichael
+────────────────────────────────────────────────────────────────────────
+
+JediMichael said:
+
+			The video is unavailable because its private.....
+
+Hope that can be fixed.  I want to see what you have here.
+		
+
+Click to expand...
+
+Now fixed!
+────────────────────────────────────────────────────────────────────────
+Post #59  (forum post #5398763)
+Author    : JediMichael
+Date      : Jan 30, 2023 at 8:39 AM
+Reactions : Like — Big C
+────────────────────────────────────────────────────────────────────────
+
+Big C said:
+
+			Now fixed!
+		
+
+Click to expand...
+
+Awesome. Looking really good so far.
+
+And now that I think about it, even though this was made entirely for stop-motion, I suppose when everything is all put together correctly, you could move a leg in real time amd all the parts should move, but guessing only one leg at a time.
+────────────────────────────────────────────────────────────────────────
+Post #60  (forum post #5399055)
+Author    : joberg
+Date      : Jan 31, 2023 at 6:08 AM
+Reactions : Like — Big C
+────────────────────────────────────────────────────────────────────────
+
+Very nice metal workmanship 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #61  (forum post #5399081)
+Author    : Big C
+Date      : Jan 31, 2023 at 7:43 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Thanks joberg! Most fun I've had building something in a long time. Actually forgot what that was like.
+────────────────────────────────────────────────────────────────────────
+Post #62  (forum post #5399301)
+Author    : Big C
+Date      : Jan 31, 2023 at 8:37 PM
+Reactions : Like — dtssyst, Leinads, Ogibendogy
+────────────────────────────────────────────────────────────────────────
+
+I'm waiting for the weekend to machine more leg parts. In the meantime, I got some grebels in!
+
+All except the big round one are from the Tamiya 1/35 Flakvierling 38 2cm kit Which was great because it was only 8 bucks.
+
+The big round one is one of two that go on the AT AT foot ring holder and look like eyes. I CADed it up an then milled it from ABS on the CNC mill. I could have resin printed it but I really like the durabilty of ABS.
+
+The original grebel was the rear gunner window from an Airfix 1/24 Stuka kit... Which, if you can find it, costs around a hundred. Too much for my wallet for one part!
+
+The three small round things cover screw heads on the tops of the feet. The long things go on the backs of the foot ring holder and the other ones were used all over the model.
+
+[IMAGE: https://www.therpf.com/forums/attachments/fr_3133_size1024-jpg.1664381/]
+
+I haven't been able to identify this one circled in red. It lives on the upper back side of the legs. Anyone know what kit it came from?
+
+[IMAGE: https://www.therpf.com/forums/attachments/leg-greeble-png.1664486/]
+────────────────────────────────────────────────────────────────────────
+Post #63  (forum post #5399311)
+Author    : eagle1
+Date      : Jan 31, 2023 at 9:43 PM
+Reactions : Like — Big C, joberg
+────────────────────────────────────────────────────────────────────────
+
+The part circled in red is from the Hasegawa 1/72 Morser Karl.
+────────────────────────────────────────────────────────────────────────
+Post #64  (forum post #5399390)
+Author    : swgeek
+Date      : Feb 1, 2023 at 6:51 AM
+Reactions : Like — joberg, Big C
+────────────────────────────────────────────────────────────────────────
+
+It's what is refered to as the universal greeblie, because ILM put it on pretty much everything in Empire.
+────────────────────────────────────────────────────────────────────────
+Post #65  (forum post #5399397)
+Author    : Big C
+Date      : Feb 1, 2023 at 7:12 AM
+Reactions : Like — joberg, Leinads
+────────────────────────────────────────────────────────────────────────
+
+eagle1 said:
+
+			The part circled in red is from the Hasegawa 1/72 Morser Karl.
+		
+
+Click to expand...
+
+Thanks! I found a spru tree on ebay that has that part.
+────────────────────────────────────────────────────────────────────────
+Post #66  (forum post #5399399)
+Author    : Sano
+Date      : Feb 1, 2023 at 7:18 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Holy. I came across this topic through email. And while Im not a big fan of the OT ( shame on me ) I LOVE the AT-ATs. Is this going to be available as a kit in the future?
+────────────────────────────────────────────────────────────────────────
+Post #67  (forum post #5399477)
+Author    : Big C
+Date      : Feb 1, 2023 at 10:06 AM
+Reactions : Like — joberg, Leinads
+────────────────────────────────────────────────────────────────────────
+
+Sano said:
+
+			Holy. I came across this topic through email. And while Im not a big fan of the OT ( shame on me ) I LOVE the AT-ATs. Is this going to be available as a kit in the future?
+		
+
+Click to expand...
+
+Well, a kit is a possibility. Maybe just a machined leg kit. I'm not currently planning on it though. One reason is that the price I would have to charge for just a leg kit would be many thousands of dollars. Not sure there is a market for that. But who knows.
+────────────────────────────────────────────────────────────────────────
+Post #68  (forum post #5400517)
+Author    : Big C
+Date      : Feb 4, 2023 at 5:35 PM
+Reactions : Like, Love — JPjunkie, Bjorn, incrediblefruit
+────────────────────────────────────────────────────────────────────────
+
+Made some more chips today! Almost got ten leg parts machined. Here are the five discs I got done (shown with the previously machined shoulder parts). The other five, are the leg mount parts that these discs screw to. If I have time tomorrow I'll finished them off. I'm happy with how the discs turned out.
+
+[IMAGE: https://www.therpf.com/forums/attachments/fr_3154_size880-jpg.1666632/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/fr_3156_size880-jpg.1666633/]
+────────────────────────────────────────────────────────────────────────
+Post #69  (forum post #5400614)
+Author    : north3
+Date      : Feb 5, 2023 at 5:24 AM
+Reactions : Like — Big C
+────────────────────────────────────────────────────────────────────────
+
+brilliant !!!!!
+────────────────────────────────────────────────────────────────────────
+Post #70  (forum post #5400664)
+Author    : joberg
+Date      : Feb 5, 2023 at 8:34 AM
+Reactions : Like — Big C
+────────────────────────────────────────────────────────────────────────
+
+Super F.A.B.
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #71  (forum post #5400728)
+Author    : Big C
+Date      : Feb 5, 2023 at 12:24 PM
+Reactions : Like, Love — JPjunkie, seven, Bjorn
+────────────────────────────────────────────────────────────────────────
+
+Got some parts bolted together! Starting to look like walker legs. Assembled legs are bottoms up on the table.
+
+[IMAGE: https://www.therpf.com/forums/attachments/fr_3146_size880-jpg.1666871/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/fr_3147_size1024-jpg.1666872/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/fr_3149_size1024-jpg.1666873/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/fr_3150_size1024-jpg.1666874/]
+────────────────────────────────────────────────────────────────────────
+Post #72  (forum post #5400739)
+Author    : Leinads
+Date      : Feb 5, 2023 at 1:01 PM
+Reactions : Like — Bjorn, joberg, Big C
+────────────────────────────────────────────────────────────────────────
+
+In the proper scale these could be Swiss watch components. That is amazing fit and finish! And you are no machinist? Okay, we will accept that. Accomplished metalsmith then. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #73  (forum post #5400775)
+Author    : Big C
+Date      : Feb 5, 2023 at 3:24 PM
+Reactions : Like — Bjorn, joberg, Leinads
+────────────────────────────────────────────────────────────────────────
+
+Leinads said:
+
+			In the proper scale these could be Swiss watch components. That is amazing fit and finish! And you are no machinist? Okay, we will accept that. Accomplished metalsmith then. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+I like that title!
+────────────────────────────────────────────────────────────────────────
+Post #74  (forum post #5400776)
+Author    : Big C
+Date      : Feb 5, 2023 at 3:29 PM
+Reactions : Like, Love — seven, Bjorn, DOGFOX2109
+────────────────────────────────────────────────────────────────────────
+
+Here is another video showing some of the fabrication. Set to dramatic music of course! I remembered to make it public this time. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #75  (forum post #5401785)
+Author    : Big C
+Date      : Feb 8, 2023 at 8:10 PM
+Reactions : Like, Love — JPjunkie, Bjorn, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+Minor update.
+
+Getting some Urethane casting and RTV degassing equipment together. I'm planning to cast a couple foot parts that I'm at least 99.9 percent sure were cast parts on the original models. Images below.
+
+I haven't cast urethane in any significance since the eighties when I was model making and building up Hot Wheels patterns for Mattel. Should be fun figuring it all out again!
+
+Next aluminum parts this weekend.
+
+[IMAGE: https://www.therpf.com/forums/attachments/fr_3159_size880-jpg.1668151/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/urathane-foot-parts-png.1668152/]
+
+Exploded view of the main foot structure. Tan parts will be cast in Urethane. I may be boarding on obsessive craziness but I want the model to be as close to the originals as possible. So I'm going with Urethane castings vs. resin prints which would be a lot easer.
+
+[IMAGE: https://www.therpf.com/forums/attachments/cropped-foot-of-star-wars-imperial-walker-atat-model3-jpg.1668153/]
+
+Here is the cast ring part on one of the original models. I'm assuming these parts were cast so they could include details like the panel lines and greeblies.
+────────────────────────────────────────────────────────────────────────
+Post #76  (forum post #5401894)
+Author    : joberg
+Date      : Feb 9, 2023 at 6:32 AM
+Reactions : Like — Big C
+────────────────────────────────────────────────────────────────────────
+
+Amazing work Big C 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ I think that one of our member was working for Mattel also (don't remember his name/aka)
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #77  (forum post #5401895)
+Author    : swgeek
+Date      : Feb 9, 2023 at 6:32 AM
+Reactions : Like, Love — Bjorn, joberg, Big C
+────────────────────────────────────────────────────────────────────────
+
+Bordering on obsessive craziness? It wouldn't be studio scale otherwise.
+────────────────────────────────────────────────────────────────────────
+Post #78  (forum post #5402013)
+Author    : Ogibendogy
+Date      : Feb 9, 2023 at 12:35 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Curious to hear what you think of that vacuum pump. I was looking at that one or a clone of it. Good price if it works!
+────────────────────────────────────────────────────────────────────────
+Post #79  (forum post #5402120)
+Author    : Big C
+Date      : Feb 9, 2023 at 7:39 PM
+Reactions : Like, Haha — Bjorn, joberg, Ogibendogy
+────────────────────────────────────────────────────────────────────────
+
+Ogibendogy said:
+
+			Curious to hear what you think of that vacuum pump. I was looking at that one or a clone of it. Good price if it works!
+		
+
+Click to expand...
+
+Just tried it out today degassing a little RTV. Worked great. I got the expected bubbly rise and rapid collapse. 
+
+I think the pump will be great for occasional use. Daily use may be too much for it. It does produce oil smoke as part of it's normal operating "phenomenon" lol. I really don't like the smoke but it does pull good vacuum. I will never run it unattended or for prolonged periods though.
+
+ 
+
+Attachments
+
+Vacuum pump.mp4
+
+					18.1 MB
+────────────────────────────────────────────────────────────────────────
+Post #80  (forum post #5402684)
+Author    : Flixen
+Date      : Feb 11, 2023 at 1:36 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Big C said:
+
+			I'm waiting for the weekend to machine more leg parts. In the meantime, I got some grebels in!
+
+All except the big round one are from the Tamiya 1/35 Flakvierling 38 2cm kit Which was great because it was only 8 bucks.
+
+The big round one is one of two that go on the AT AT foot ring holder and look like eyes. I CADed it up an then milled it from ABS on the CNC mill. I could have resin printed it but I really like the durabilty of ABS.
+
+The original grebel was the rear gunner window from an Airfix 1/24 Stuka kit... Which, if you can find it, costs around a hundred. Too much for my wallet for one part!
+
+The three small round things cover screw heads on the tops of the feet. The long things go on the backs of the foot ring holder and the other ones were used all over the model.
+
+View attachment 1664381
+
+I haven't been able to identify this one circled in red. It lives on the upper back side of the legs. Anyone know what kit it came from?
+
+View attachment 1664486
+
+Click to expand...
+
+I think I got enough Stuka parts cast if you want some. 
+
+Pm me.
+────────────────────────────────────────────────────────────────────────
+Post #81  (forum post #5402955)
+Author    : Big C
+Date      : Feb 12, 2023 at 11:21 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Flixen said:
+
+			I think I got enough Stuka parts cast if you want some. 
+
+Pm me.
+		
+
+Click to expand...
+
+Thanks Flixen! Much appreciated. I think I'm covered for those parts at the moment.
+────────────────────────────────────────────────────────────────────────
+Post #82  (forum post #5402958)
+Author    : Big C
+Date      : Feb 12, 2023 at 11:35 AM
+Reactions : Love, Like, Wow — Flyscriber, AngeloNicolson, Leinads
+────────────────────────────────────────────────────────────────────────
+
+Got some more parts made this weekend. The shoulder discs are done! These were the most challenging parts to machine so far. Took me 12 hours to make up the 5 parts along with a needed holding fixture. I am happy with how they turned out.
+
+[IMAGE: https://www.therpf.com/forums/attachments/fr_3099_size1024-jpg.1669363/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/fr_3101_size1024-jpg.1669364/]
+
+I machined up an ABS upper leg to check fit and as a sanity check before committing to aluminum. Hope to have that part done next weekend.
+
+[IMAGE: https://www.therpf.com/forums/attachments/fr_3102_size1024-jpg.1669365/]
+────────────────────────────────────────────────────────────────────────
+Post #83  (forum post #5403060)
+Author    : Big C
+Date      : Feb 12, 2023 at 7:48 PM
+Reactions : Like, Love — jcoffman99, seven, GEEK1138
+────────────────────────────────────────────────────────────────────────
+
+And here is the video of the whole machining process to make the discs. 12 hours condensed into 3 minutes! I know, I know. its like watching paint dry set to music. I like making the videos so I have a record of what all was done to make the part. And who knows, maybe you guys will find it interesting.
+────────────────────────────────────────────────────────────────────────
+Post #84  (forum post #5403171)
+Author    : joberg
+Date      : Feb 13, 2023 at 6:06 AM
+Reactions : Like — stevielewis, Leinads, Bjorn
+────────────────────────────────────────────────────────────────────────
+
+Fantastic machining Big C 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #85  (forum post #5404925)
+Author    : Big C
+Date      : Feb 18, 2023 at 6:43 PM
+Reactions : Like, Love, Wow — norscout, BajaTym, Metalalien
+────────────────────────────────────────────────────────────────────────
+
+I got another set of leg parts machined! This time the upper leg. Next up will be making all the upper leg mechanism parts and buying all the screws that hold this thing together.
+
+I had trouble getting a perfect cosmetic finish on the leg part. When these parts come off the mill, the machined surfaces are so shiny it's really hard to tell what they look like. I use some fine sand paper and steel wool to dull up the surface a bit so I can see what it actually looks like and photograph it. I still need to work on getting a totally uniform look. Ultimately totally unimportant but I like it when machined stuff looks prefect.
+
+[IMAGE: https://www.therpf.com/forums/attachments/fr_3167_size1024-jpg.1671365/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/fr_3165_size1024-jpg.1671364/]
+
+The leg is starting to have some heft to it. I'm really liking that!
+
+[IMAGE: https://www.therpf.com/forums/attachments/fr_3164_size1024-jpg.1671363/]
+────────────────────────────────────────────────────────────────────────
+Post #86  (forum post #5404938)
+Author    : Leinads
+Date      : Feb 18, 2023 at 7:11 PM
+Reactions : Like — stevielewis, joberg, Big C
+────────────────────────────────────────────────────────────────────────
+
+Right? Starting to get pretty substantial there! Knocking down the shine/ machined edges with the paper then the wool makes for a beautiful satin finish.
+────────────────────────────────────────────────────────────────────────
+Post #87  (forum post #5405057)
+Author    : joberg
+Date      : Feb 19, 2023 at 8:07 AM
+Reactions : Like — stevielewis, Big C, Leinads
+────────────────────────────────────────────────────────────────────────
+
+Wonderful, fantastic work Big C
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ And that's what you want: a heavy lower body (legs) and a lighter upper one.
+────────────────────────────────────────────────────────────────────────
+Post #88  (forum post #5405153)
+Author    : Flintlock
+Date      : Feb 19, 2023 at 1:15 PM
+Reactions : Like — Big C, AngeloNicolson
+────────────────────────────────────────────────────────────────────────
+
+Big C said:
+
+			I got another set of leg parts machined! This time the upper leg. Next up will be making all the upper leg mechanism parts and buying all the screws that hold this thing together.
+
+I had trouble getting a perfect cosmetic finish on the leg part. When these parts come off the mill, the machined surfaces are so shiny it's really hard to tell what they look like. I use some fine sand paper and steel wool to dull up the surface a bit so I can see what it actually looks like and photograph it. I still need to work on getting a totally uniform look. Ultimately totally unimportant but I like it when machined stuff looks prefect.
+
+View attachment 1671365
+
+View attachment 1671364
+
+The leg is starting to have some heft to it. I'm really liking that!
+
+View attachment 1671363
+
+Click to expand...
+
+Selling sets of these? 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #89  (forum post #5405183)
+Author    : AngeloNicolson
+Date      : Feb 19, 2023 at 5:18 PM
+Reactions : Like — joberg, stevielewis, Big C
+────────────────────────────────────────────────────────────────────────
+
+Big C said:
+
+			I got another set of leg parts machined! This time the upper leg. Next up will be making all the upper leg mechanism parts and buying all the screws that hold this thing together.
+
+I had trouble getting a perfect cosmetic finish on the leg part. When these parts come off the mill, the machined surfaces are so shiny it's really hard to tell what they look like. I use some fine sand paper and steel wool to dull up the surface a bit so I can see what it actually looks like and photograph it. I still need to work on getting a totally uniform look. Ultimately totally unimportant but I like it when machined stuff looks prefect.
+
+View attachment 1671365
+
+View attachment 1671364
+
+The leg is starting to have some heft to it. I'm really liking that!
+
+View attachment 1671363
+
+Click to expand...
+
+That is looking amazing! I remember them saying in a documentary that the studio scale pyro version in the movies got up to 100 pounds. the weight caused the locking pins in the legs to not work, so they had to hoist it up.
+────────────────────────────────────────────────────────────────────────
+Post #90  (forum post #5405201)
+Author    : Big C
+Date      : Feb 19, 2023 at 6:00 PM
+Reactions : Like, Love, Wow — norscout, BajaTym, Metalalien
+────────────────────────────────────────────────────────────────────────
+
+AngeloNicolson said:
+
+			That is looking amazing! I remember them saying in a documentary that the studio scale pyro version in the movies got up to 100 pounds. the weight caused the locking pins in the legs to not work, so they had to hoist it up.
+		
+
+Click to expand...
+
+Thanks! 
+
+Yep, that was the BIG model. I found a couple images of the "chassis" online. I'd love to do a studio scale model of that some day!
+
+[IMAGE: https://www.therpf.com/forums/attachments/4-foot-model-pintrist-png.1671751/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/eee-1426328_10151954070919004_1144603333_n-jpg.1671752/]
+────────────────────────────────────────────────────────────────────────
+Post #91  (forum post #5405206)
+Author    : Big C
+Date      : Feb 19, 2023 at 6:08 PM
+Reactions : Like — Flintlock, Junk Pilot, Leinads
+────────────────────────────────────────────────────────────────────────
+
+Flintlock said:
+
+			Selling sets of these? 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+Heh! I'll have to work out the pricing. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #92  (forum post #5406689)
+Author    : Junk Pilot
+Date      : Feb 24, 2023 at 8:11 PM
+Reactions : Like — Big C
+────────────────────────────────────────────────────────────────────────
+
+I'd seriously consider buying a set as well
+────────────────────────────────────────────────────────────────────────
+Post #93  (forum post #5406690)
+Author    : Junk Pilot
+Date      : Feb 24, 2023 at 8:14 PM
+Reactions : Like — joberg, Big C
+────────────────────────────────────────────────────────────────────────
+
+Does anyone know what size Alan bolts these ones are at all? I've got a SS AT-AT that I'm looking to include real bolts into. Thanks
+
+[IMAGE: https://www.therpf.com/forums/attachments/cropped-foot-of-star-wars-imperial-walker-atat-model3-copy-jpg.1673428/]
+────────────────────────────────────────────────────────────────────────
+Post #94  (forum post #5406775)
+Author    : Big C
+Date      : Feb 25, 2023 at 8:19 AM
+Reactions : Like — swmodelfan1977, joberg
+────────────────────────────────────────────────────────────────────────
+
+Junk Pilot said:
+
+			Does anyone know what size Alan bolts these ones are at all? I've got a SS AT-AT that I'm looking to include real bolts into. Thanks
+
+View attachment 1673428
+
+Click to expand...
+
+I think the ring holder screws are 6-32. The ones on the ring look to be a little smaller so probably 4-40.
+────────────────────────────────────────────────────────────────────────
+Post #95  (forum post #5406930)
+Author    : Big C
+Date      : Feb 25, 2023 at 6:37 PM
+Reactions : Like, Love — BajaTym, Jowe52, swmodelfan1977
+────────────────────────────────────────────────────────────────────────
+
+Got the upper leg mechanism working! Now I just need to build the rest!
+
+Quick video shows how it works.
+
+[IMAGE: https://www.therpf.com/forums/attachments/fr_3188_size1024-jpg.1673764/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/fr_3199_size640-jpg.1673765/]
+────────────────────────────────────────────────────────────────────────
+Post #96  (forum post #5406978)
+Author    : Junk Pilot
+Date      : Feb 25, 2023 at 10:56 PM
+Reactions : Like — joberg, Big C, Leinads
+────────────────────────────────────────────────────────────────────────
+
+That truly is amazing work. Ingenious design work by Tom St Amand. This is definitely my absolute favourite thread.
+────────────────────────────────────────────────────────────────────────
+Post #97  (forum post #5406989)
+Author    : JediMichael
+Date      : Feb 26, 2023 at 12:37 AM
+Reactions : Like — joberg, Big C
+────────────────────────────────────────────────────────────────────────
+
+Look at that sexy leg.  Beautiful.
+────────────────────────────────────────────────────────────────────────
+Post #98  (forum post #5407005)
+Author    : Searun
+Date      : Feb 26, 2023 at 5:47 AM
+Reactions : Like — joberg, Big C
+────────────────────────────────────────────────────────────────────────
+
+eagle1 said:
+
+			The part circled in red is from the Hasegawa 1/72 Morser Karl.
+		
+
+Click to expand...
+
+Jedi !
+────────────────────────────────────────────────────────────────────────
+Post #99  (forum post #5407007)
+Author    : Searun
+Date      : Feb 26, 2023 at 6:10 AM
+Reactions : Like — joberg, Leinads, Big C
+────────────────────────────────────────────────────────────────────────
+
+Big C,
+
+Similar to Sano, I just came across your thread. Love the Walker. “Obsessive Craziness” is a good self identifier. The mechanical design of the AT-AT’s is above and beyond. I envy your machining ability. Beautiful work on a extremely worthy subject.
+────────────────────────────────────────────────────────────────────────
+Post #100  (forum post #5407013)
+Author    : Big C
+Date      : Feb 26, 2023 at 6:23 AM
+Reactions : Like — joberg, Leinads
+────────────────────────────────────────────────────────────────────────
+
+Searun said:
+
+			Big C,
+
+Similar to Sano, I just came across your thread. Love the Walker. “Obsessive Craziness” is a good self identifier. The mechanical design of the AT-AT’s is above and beyond. I envy your machining ability. Beautiful work on a extremely worthy subject.
+		
+
+Click to expand...
+
+Thanks! I've been having a lot of fun putting it together.
+────────────────────────────────────────────────────────────────────────
+Post #101  (forum post #5407014)
+Author    : Big C
+Date      : Feb 26, 2023 at 6:24 AM
+Reactions : Like — joberg, JediMichael
+────────────────────────────────────────────────────────────────────────
+
+JediMichael said:
+
+			Look at that sexy leg.  Beautiful.
+		
+
+Click to expand...
+
+Four more on the way!
+────────────────────────────────────────────────────────────────────────
+Post #102  (forum post #5407022)
+Author    : Big C
+Date      : Feb 26, 2023 at 7:25 AM
+Reactions : Like — stevielewis, swgeek, joberg
+────────────────────────────────────────────────────────────────────────
+
+I also got some leg details made up. 
+
+BIG thanks to swgeek for loaning me his 1/24th Stuka gunner window. I made up a mold and now just need to cast some parts.
+
+[IMAGE: https://www.therpf.com/forums/attachments/fr_3175_size880-jpg.1673850/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/fr_3187_size640-jpg.1673851/]
+
+Also BIG thanks to Ogibendogy for sending me a pack of Universal greeblies. I actually got to glue some parts together! Well, just 5 greeblies  to 5 pieces of styrene. But still a nice little break from machining.
+
+[IMAGE: https://www.therpf.com/forums/attachments/fr_3191_size1024-jpg.1673853/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/fr_3192_size640-jpg.1673854/]
+
+I just had to post this from bwayne64's thread. 
+
+[IMAGE: logo-og.png]
+
+						Universal Greeblie
+					
+
+I saw a thread a while back on the source of the universal greeblie. It was the full scale part from the Leopold gun. I think it was here, I searched for it, and couldn't find it. I did find this tribute to the greeblies on Artstation, and the aforementioned full scale part...
+
+[IMAGE: favicon.png]
+
+					www.therpf.com
+				
+
+It's the mother of all Universal greeblies! Which is actually a true statement.
+
+[IMAGE: https://www.therpf.com/forums/attachments/bwayne64-jpg.1673861/]
+────────────────────────────────────────────────────────────────────────
+Post #103  (forum post #5407033)
+Author    : Leinads
+Date      : Feb 26, 2023 at 8:13 AM
+Reactions : Like — JediMichael, Big C, joberg
+────────────────────────────────────────────────────────────────────────
+
+This is so much fun to watch unfold! Big C those leg mechanics must be very fulfilling to see realized through each stage of development!
+
+JediMichael said:
+
+			Look at that sexy leg. Beautiful.
+		
+
+Click to expand...
+
+On a side note I now have this ear worm. Big thanks. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+“I believe in miracles
+
+Since you came along
+
+You sexy LEG (you)”
+────────────────────────────────────────────────────────────────────────
+Post #104  (forum post #5407053)
+Author    : joberg
+Date      : Feb 26, 2023 at 9:12 AM
+Reactions : Like, Haha, Wow — Big C, Junk Pilot, Leinads
+────────────────────────────────────────────────────────────────────────
+
+I had to show that leg mechanics to the wife
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ She's not impressed easily by all that "modeling-RPF-stuff" but she went: "Oh...really?"
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ And I said: REALLY!
+────────────────────────────────────────────────────────────────────────
+Post #105  (forum post #5407107)
+Author    : Big C
+Date      : Feb 26, 2023 at 12:15 PM
+Reactions : Like — Leinads
+────────────────────────────────────────────────────────────────────────
+
+joberg said:
+
+			I had to show that leg mechanics to the wife
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ She's not impressed easily by all that "modeling-RPF-stuff" but she went: "Oh...really?"
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ And I said: REALLY!
+		
+
+Click to expand...
+
+Mine too! lol. She has become pretty accustomed to the crazy projects I work on but when she saw the leg she said: "that's COOL!"
+
+I may be onto something here. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #106  (forum post #5407141)
+Author    : Sym-Cha
+Date      : Feb 26, 2023 at 2:15 PM
+Reactions : Like — Big C
+────────────────────────────────────────────────────────────────────────
+
+Wow ... I really think you've cracked that intricate rubber band and cam technique to move all those lovely created parts ... I take my hat off to you Big C ... well done!
+
+Chaïm
+────────────────────────────────────────────────────────────────────────
+Post #107  (forum post #5407199)
+Author    : Big C
+Date      : Feb 26, 2023 at 6:37 PM
+Reactions : Like — Sym-Cha
+────────────────────────────────────────────────────────────────────────
+
+Sym-Cha said:
+
+			Wow ... I really think you've cracked that intricate rubber band and cam technique to move all those lovely created parts ... I take my hat off to you Big C ... well done!
+
+Chaïm
+		
+
+Click to expand...
+
+Thanks Chaïm! 
+
+That rubber band was a real head scratcher from the beginning. I think its purpose is to keep the push rod from working loose by holding it down against the cam and leg holes.  At least that's what it does really well on my model.
+────────────────────────────────────────────────────────────────────────
+Post #108  (forum post #5409231)
+Author    : Big C
+Date      : Mar 4, 2023 at 4:55 PM
+Reactions : Like, Love, Wow — BajaTym, incrediblefruit, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+Got almost all the upper leg detail and mechanism parts made up. I was hoping to have all the upper legs fully assembled but I ran out of time and also discovered I was missing the 1/4 inch brass tubing for the pistons. I thought I had some but it was either lost stolen or I never actually had it in the first place. I hate when that happens. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/fr_3237_size1024-jpg.1676200/]
+────────────────────────────────────────────────────────────────────────
+Post #109  (forum post #5409239)
+Author    : Leinads
+Date      : Mar 4, 2023 at 5:10 PM
+────────────────────────────────────────────────────────────────────────
+
+oh my… 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #110  (forum post #5409248)
+Author    : Sym-Cha
+Date      : Mar 4, 2023 at 5:35 PM
+Reactions : Like, Haha — stevielewis, Ogibendogy, joberg
+────────────────────────────────────────────────────────────────────────
+
+I still have 1 Revell 1/53 AT-AT, 1 Bandai 1/144 AT-AT, 2 Round2 MPC 1/100 AT-AT's, 3 F-Toys 1/144 AT-AT's and 1 Tsukuda metal miniature AT-AT cast (see picture) still waiting to be assembled, not to mention an MPC ROTJ 1/100 AT-AT from 1983/1989 . . . meanwhile you, Big C, poop these beautiful metal leg parts out in no-time whatsoever ... in studio scale and fully functioning and operational 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: https://www.therpf.com/forums/attachments/at-at-metal-cast-1989-02a-jpg.1676210/]
+
+Chaïm
+────────────────────────────────────────────────────────────────────────
+Post #111  (forum post #5409257)
+Author    : Big C
+Date      : Mar 4, 2023 at 6:11 PM
+Reactions : Like — joberg, Sym-Cha
+────────────────────────────────────────────────────────────────────────
+
+Sym-Cha said:
+
+			I still have 1 Revell 1/53 AT-AT, 1 Bandai 1/144 AT-AT, 2 Round2 MPC 1/100 AT-AT's, 3 F-Toys 1/144 AT-AT's and 1 Tsukuda metal miniature AT-AT cast (see picture) still waiting to be assembled, not to mention an MPC ROTJ 1/100 AT-AT from 1983/1989 . . . meanwhile you, Big C, poop these beautiful metal leg parts out in no-time whatsoever ... in studio scale and fully functioning and operational 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+View attachment 1676210
+
+Chaïm
+		
+
+Click to expand...
+
+That mini cast AT-AT is really cool! I might have to get one of those.
+────────────────────────────────────────────────────────────────────────
+Post #112  (forum post #5409272)
+Author    : Sym-Cha
+Date      : Mar 4, 2023 at 7:08 PM
+Reactions : Like, Wow — stevielewis, joberg, animator
+────────────────────────────────────────────────────────────────────────
+
+[IMAGE: https://www.therpf.com/forums/attachments/at-at-metal-cast-1989-01a-jpg.1676231/]
+
+Tsukuda Hobby Star Wars AT-AT TESB 1982 mini metal model kit from Japan ... mind you these little gems don't come cheap for their size ... about 8 cm in height, that said with the Tsukuda mini AT-AT you could possibly recreate this picture of another 'studio scale' Imperial AT-AT :
+
+[IMAGE: https://www.therpf.com/forums/attachments/10485820_1454746648127271_1071783966_n-jpg.1676303/]
+
+Picture courtesy ILM - Lucasfilm Ltd.
+
+Chaïm
+────────────────────────────────────────────────────────────────────────
+Post #113  (forum post #5409375)
+Author    : Big C
+Date      : Mar 5, 2023 at 7:30 AM
+Reactions : Like — stevielewis, Leinads, animator
+────────────────────────────────────────────────────────────────────────
+
+Sym-Cha said:
+
+View attachment 1676231
+
+Tsukuda Hobby Star Wars AT-AT TESB 1982 mini metal model kit from Japan ... mind you these little gems don't come cheap for their size ... about 8 cm in height, that said with the Tsukuda mini AT-AT you could possibly recreate this picture of another 'studio scale' Imperial AT-AT :
+
+View attachment 1676303
+
+Picture courtesy ILM - Lucasfilm Ltd.
+
+Chaïm
+		
+
+Click to expand...
+
+Oh no. Now you have me thinking about another studio scale project. All I'll need to do is scale down my CAD, grow my collection of micro end mills and.... Okay just kidding. Well, sort of. 
+
+When the current AT-AT is done, I may actually attempt it.
+
+Are there any other images of the tiny walker out there?
+────────────────────────────────────────────────────────────────────────
+Post #114  (forum post #5409507)
+Author    : Sym-Cha
+Date      : Mar 5, 2023 at 3:28 PM
+Reactions : Like — stevielewis, Leinads, joberg
+────────────────────────────────────────────────────────────────────────
+
+[IMAGE: https://www.therpf.com/forums/attachments/esb-at-at-miniature-sam-comstock-jpg.1676476/]
+
+Chaïm
+────────────────────────────────────────────────────────────────────────
+Post #115  (forum post #5411602)
+Author    : Big C
+Date      : Mar 11, 2023 at 6:27 PM
+Reactions : Like, Love, Wow — norscout, BajaTym, Rufus72
+────────────────────────────────────────────────────────────────────────
+
+Standing on the upper legs! I still have a bunch of little stuff to do. Set screws, here and there, complete disassembly followed by a thorough cleaning and degreasing of the metal parts etc. etc. and reassemble with a couple parts flipped around. 
+
+I'm really happy with how it's coming together. Images show how it's looking with the upper legs assembled and mounted to the body mount plate. I've left off the plastic sheet detail parts for now. This thing has lots and lots of parts. And this is only the upper legs! 
+
+Next up is proving out the lower leg and knee plate spinner mechanism. Planning to CNC the parts in ABS before committing to aluminum. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/fr_3248_size880-jpg.1678638/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/fr_3250_size880-jpg.1678639/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/fr_3246_size1024-jpg.1678641/]
+
+Every machined part, detail part and fastener that goes into four upper legs. This is pretty much every part the originals would have had.
+
+[IMAGE: https://www.therpf.com/forums/attachments/fr_3242_size1024-jpg.1678642/]
+
+All the pretty brass parts for the four legs.
+
+[IMAGE: https://www.therpf.com/forums/attachments/fr_3238_size1024-jpg.1678643/]
+
+Jig for CNCing the 1/4 square brass pistons.
+
+[IMAGE: https://www.therpf.com/forums/attachments/fr_3240_size880-jpg.1678644/]
+
+The 1/4 brass pistons after getting milled on the CNC
+
+[IMAGE: https://www.therpf.com/forums/attachments/fr_3243_size1024-jpg.1678646/]
+
+Pistions after milling and getting the 1/16 brass pin soldered in.
+────────────────────────────────────────────────────────────────────────
+Post #116  (forum post #5411632)
+Author    : swgeek
+Date      : Mar 11, 2023 at 9:11 PM
+Reactions : Haha, Like — JPjunkie, joberg, Big C
+────────────────────────────────────────────────────────────────────────
+
+Amazing work! I love the AT AT and this makes me want to build one even less.
+────────────────────────────────────────────────────────────────────────
+Post #117  (forum post #5411692)
+Author    : Pyramidrep
+Date      : Mar 12, 2023 at 6:22 AM
+Reactions : Like — joberg, Big C
+────────────────────────────────────────────────────────────────────────
+
+Big C, my God that is model making par excellence. Phenomenal !!!.
+────────────────────────────────────────────────────────────────────────
+Post #118  (forum post #5411693)
+Author    : Big C
+Date      : Mar 12, 2023 at 6:27 AM
+Reactions : Like, Wow — stevielewis, swgeek, joberg
+────────────────────────────────────────────────────────────────────────
+
+swgeek said:
+
+			Amazing work! I love the AT AT and this makes me want to build one even less.
+		
+
+Click to expand...
+
+Ha! And this is only the upper legs. The lower legs and feet have even more parts!
+────────────────────────────────────────────────────────────────────────
+Post #119  (forum post #5411694)
+Author    : Big C
+Date      : Mar 12, 2023 at 6:31 AM
+Reactions : Like — Pyramidrep, joberg
+────────────────────────────────────────────────────────────────────────
+
+Pyramidrep said:
+
+			Big C, my God that is model making par excellence. Phenomenal !!!.
+		
+
+Click to expand...
+
+Thanks for the kind words Pyramidrep!
+────────────────────────────────────────────────────────────────────────
+Post #120  (forum post #5411725)
+Author    : joberg
+Date      : Mar 12, 2023 at 8:44 AM
+Reactions : Like — Flyscriber, swgeek, Big C
+────────────────────────────────────────────────────────────────────────
+
+Sweet Jesus
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ What swgeek said: knowing now what it takes to do such work on the legs makes me doubt my abilities to reproduce such stellar workmanship!  I'll just stand back and relax, looking at you and your efforts into engineering the whole thing by yourself
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+You're raising the "Cool Bar" at every update!
+────────────────────────────────────────────────────────────────────────
+Post #121  (forum post #5411785)
+Author    : Big C
+Date      : Mar 12, 2023 at 11:52 AM
+Reactions : Like, Love — stevielewis, joberg
+────────────────────────────────────────────────────────────────────────
+
+joberg said:
+
+			Sweet Jesus
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ What swgeek said: knowing now what it takes to do such work on the legs makes me doubt my abilities to reproduce such stellar workmanship!  I'll just stand back and relax, looking at you and your efforts into engineering the whole thing by yourself
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+You're raising the "Cool Bar" at every update!
+		
+
+Click to expand...
+
+Thanks joberg! Having a CNC mill really helps with having stuff look perfect. Even though these parts were made the same way on the originals, I still sometimes feel like I'm cheating CNCing it all. 
+
+I'm looking forward to the body and head modeling. I haven't done that kind of hands on model making in a very long time. Keeping that work up to standard will be challenging and fun!
+────────────────────────────────────────────────────────────────────────
+Post #122  (forum post #5413800)
+Author    : Big C
+Date      : Mar 18, 2023 at 7:38 PM
+Reactions : Like, Love — BajaTym, flimzy, Jowe52
+────────────────────────────────────────────────────────────────────────
+
+And here is the knee plate rotator mechanism mockup! Tan parts are CNCed ABS. Grey parts are 3D printed. I thought printing the ring holder and ring would save time but the cleanup and fitting took longer than if I had CNCed 'em in the first place. Live and learn.
+
+Gears are CNCed Delrin. I might do them in brass on the final parts just for fun. Some small tweaks need to be done but overall it works well.
+
+I have no idea if this is how the mechanism was put together on the originals. With the exception of Phil Tippett mentioning in Light and Magic that there was a mechanism and two small clues from photos, there really is no other information I have been able to find.
+
+I guess I'll just have to wait for George to invite me over with a bag of tools so I can dismantle one of the original models and see how it was done. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Short video shows it working. Set to some funky music of course for y 'all's viewing enjoyment!
+
+Now that this thing is working, I'll be getting back to making aluminum parts.
+
+[IMAGE: https://www.therpf.com/forums/attachments/fr_3155_size1024-jpg.1680880/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/fr_3154_size1024-jpg.1680879/]
+────────────────────────────────────────────────────────────────────────
+Post #123  (forum post #5413860)
+Author    : JediMichael
+Date      : Mar 19, 2023 at 2:13 AM
+Reactions : Like — greeble_gremlin, Leinads, joberg
+────────────────────────────────────────────────────────────────────────
+
+Was thinking I hadn't seen an update in a while....and then saw I missed a few posts from the last page.
+
+The more I see, the more you just have to really appreciate how the model was made back then.  Just that level of engineering for a few mins of screen time.
+
+For a long time, knowing they were stop-motion, I just figured every single part on the model had to be moved just a tiny bit every single frame.  
+
+So all that engineering sure helped with that with moving part of the leg and the little moving parts moved with it.  
+
+Like the music from the little video, been listening to 60s music the past few days, so its very similar.
+
+And just that you have been able to recreate all these little parts and are making them work....amazing.
+────────────────────────────────────────────────────────────────────────
+Post #124  (forum post #5413908)
+Author    : joberg
+Date      : Mar 19, 2023 at 8:00 AM
+Reactions : Like — stevielewis, Leinads, Junk Pilot
+────────────────────────────────────────────────────────────────────────
+
+Show-off!!
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ No, seriously; every update means pushing the bar higher with you build.
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+
+I ain't worthy Big C
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #125  (forum post #5413928)
+Author    : Big C
+Date      : Mar 19, 2023 at 8:46 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+joberg said:
+
+			Show-off!!
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ No, seriously; every update means pushing the bar higher with you build.
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+
+I ain't worthy Big C
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+Thanks for the kind words joberg! Judging by your models and comments here on RPF I'd say I have a LOT to learn!
+────────────────────────────────────────────────────────────────────────
+Post #126  (forum post #5413932)
+Author    : Sym-Cha
+Date      : Mar 19, 2023 at 8:52 AM
+Reactions : Like, Haha, Love — greeble_gremlin, Oofa, incrediblefruit
+────────────────────────────────────────────────────────────────────────
+
+Okay, I'm out the door ... walking the dog ... this is way beyond my comprehension ... ciao
+
+[IMAGE: https://www.therpf.com/forums/attachments/schermafbeelding-2021-05-14-om-20-18-46-png.1681095/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/lol_zpsc41e1f37-gif.1681101/]
+
+Chaïm
+────────────────────────────────────────────────────────────────────────
+Post #127  (forum post #5414211)
+Author    : joberg
+Date      : Mar 20, 2023 at 7:18 AM
+Reactions : Like — Big C, animator
+────────────────────────────────────────────────────────────────────────
+
+Big C said:
+
+			Thanks for the kind words joberg! Judging by your models and comments here on RPF I'd say I have a LOT to learn!
+		
+
+Click to expand...
+
+Well; I'm learning right now Big C. : looking at every update/video and at your workmanship is an invaluable tuto
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #128  (forum post #5416028)
+Author    : Big C
+Date      : Mar 25, 2023 at 2:43 PM
+Reactions : Like, Love — BajaTym, Jowe52, vectorzero
+────────────────────────────────────────────────────────────────────────
+
+Getting taller! Got the lower leg parts machined this morning. Next up will be the aluminum knee discs. The lower leg is nearly the easiest part to machine.  And yet... I crashed the mill on the first one and had to throw it out. I somehow forgot to set the Z origin on the CNC which caused a 1/4 inch endmill to plunge through the leg. !$@@#$!##!!! Time for a checklist me thinks.
+
+[IMAGE: https://www.therpf.com/forums/attachments/fr_3222_size1024-jpg.1683522/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/fr_3226_size1024-jpg.1683524/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/fr_3225_size1024-jpg.1683523/]
+────────────────────────────────────────────────────────────────────────
+Post #129  (forum post #5416032)
+Author    : Junk Pilot
+Date      : Mar 25, 2023 at 2:58 PM
+Reactions : Like — Milstang, joberg, stevielewis
+────────────────────────────────────────────────────────────────────────
+
+Damn those legs are beautiful. I wish I had the skills (and machinery) to make these.
+────────────────────────────────────────────────────────────────────────
+Post #130  (forum post #5416058)
+Author    : RayLuis
+Date      : Mar 25, 2023 at 4:31 PM
+Reactions : Like — Milstang, DiRty37, joberg
+────────────────────────────────────────────────────────────────────────
+
+You are definitely not the average modeler, You have ILM skills.
+────────────────────────────────────────────────────────────────────────
+Post #131  (forum post #5416068)
+Author    : JediMichael
+Date      : Mar 25, 2023 at 5:24 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Looking good.  Once all the metal parts are complete, hoping it will look like some Terminator exoskeleton version of an AT-AT, which then need to be photoshoped in the Battle of Hoth.
+────────────────────────────────────────────────────────────────────────
+Post #132  (forum post #5416105)
+Author    : Big C
+Date      : Mar 25, 2023 at 8:08 PM
+Reactions : Like — joberg, RayLuis
+────────────────────────────────────────────────────────────────────────
+
+RayLuis said:
+
+			You are definitely not the average modeler, You have ILM skills.
+		
+
+Click to expand...
+
+Thanks! You made my day!
+────────────────────────────────────────────────────────────────────────
+Post #133  (forum post #5416107)
+Author    : Big C
+Date      : Mar 25, 2023 at 8:20 PM
+Reactions : Like — DiRty37, joberg, JediMichael
+────────────────────────────────────────────────────────────────────────
+
+JediMichael said:
+
+			Looking good.  Once all the metal parts are complete, hoping it will look like some Terminator exoskeleton version of an AT-AT, which then need to be photoshoped in the Battle of Hoth.
+		
+
+Click to expand...
+
+My original plan was to paint the finished model and leave the fifth leg unpainted to show the construction. As the build goes on, I'm having more and more trouble imagining covering up all the beautiful metal. So yeah, photoshopping into battle sounds great!
+────────────────────────────────────────────────────────────────────────
+Post #134  (forum post #5416108)
+Author    : JediMichael
+Date      : Mar 25, 2023 at 8:28 PM
+Reactions : Like — Ogibendogy, Junk Pilot, animator
+────────────────────────────────────────────────────────────────────────
+
+Big C said:
+
+			My original plan was to paint the finished model and leave the fifth leg unpainted to show the construction. As the build goes on, I'm having more and more trouble imagining covering up all the beautiful metal. So yeah, photoshopping into battle sounds great!
+		
+
+Click to expand...
+
+Covered or uncovered, its a work of art.
+────────────────────────────────────────────────────────────────────────
+Post #135  (forum post #5416180)
+Author    : joberg
+Date      : Mar 26, 2023 at 5:38 AM
+Reactions : Like — stevielewis, Big C, JediMichael
+────────────────────────────────────────────────────────────────────────
+
+I'm hyperventilating Big C 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ If you decide to be true to the film model and paint those gorgeous legs, we'll know what's under that paint: a work of Art
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #136  (forum post #5428944)
+Author    : Sym-Cha
+Date      : May 2, 2023 at 7:14 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Anymore updates Big C ????
+
+[IMAGE: https://www.therpf.com/forums/attachments/schermafbeelding-2021-05-19-om-18-54-34-png.1697351/]
+
+Chaïm
+────────────────────────────────────────────────────────────────────────
+Post #137  (forum post #5428962)
+Author    : Big C
+Date      : May 2, 2023 at 8:14 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Sym-Cha said:
+
+			Anymore updates Big C ????
+
+View attachment 1697351
+
+Chaïm
+		
+
+Click to expand...
+
+Nothing new sorry to say. I got distracted when spring happened here in the Pacific North West. New deck, landscaping, maintenance etc. Hope to get back to more important work when I'm caught up with all the stuff around the house. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #138  (forum post #5428965)
+Author    : swgeek
+Date      : May 2, 2023 at 8:28 AM
+Reactions : Haha — joberg
+────────────────────────────────────────────────────────────────────────
+
+Spring? You mean it stopped raining for a day? Ha
+────────────────────────────────────────────────────────────────────────
+Post #139  (forum post #5428989)
+Author    : VFX Freak
+Date      : May 2, 2023 at 9:22 AM
+Reactions : Like — joberg, Big C, Sym-Cha
+────────────────────────────────────────────────────────────────────────
+
+I haven't stopped by in a while. Oh wow! Such glorious updates! This is looking absolutely fantastic! Love the engineering and admire the craftsmanship. Beautiful work!
+────────────────────────────────────────────────────────────────────────
+Post #140  (forum post #5429034)
+Author    : JediMichael
+Date      : May 2, 2023 at 11:43 AM
+Reactions : Like — Big C
+────────────────────────────────────────────────────────────────────────
+
+Big C said:
+
+			Nothing new sorry to say. I got distracted when spring happened here in the Pacific North West. New deck, landscaping, maintenance etc. Hope to get back to more important work when I'm caught up with all the stuff around the house. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+Yep, always too many projects going on....the mix between life stuff and hobby stuff....its like we like to punish ourselves.....lol.
+────────────────────────────────────────────────────────────────────────
+Post #141  (forum post #5429056)
+Author    : Big C
+Date      : May 2, 2023 at 12:55 PM
+Reactions : Haha, Like — stevielewis, DiRty37, joberg
+────────────────────────────────────────────────────────────────────────
+
+swgeek said:
+
+			Spring? You mean it stopped raining for a day? Ha
+		
+
+Click to expand...
+
+Yep, and just today an odd bright orb appeared in the sky! I have a dim recollection of seeing something like it last year. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/fr_3296_size1024-jpg.1697470/]
+────────────────────────────────────────────────────────────────────────
+Post #142  (forum post #5429107)
+Author    : JediMichael
+Date      : May 2, 2023 at 2:39 PM
+────────────────────────────────────────────────────────────────────────
+
+Yeah...here close to Boise, Idaho about to record a little video with my Grandpa. Was hoping it might be a little more sunny, but at least its not raining.
+
+Went from freezing cold to pretty hot over a weeks time.
+
+[IMAGE: https://www.therpf.com/forums/attachments/20230502_153736-jpg.1697513/]
+────────────────────────────────────────────────────────────────────────
+Post #143  (forum post #5429294)
+Author    : joberg
+Date      : May 3, 2023 at 5:49 AM
+Reactions : Like — stevielewis
+────────────────────────────────────────────────────────────────────────
+
+VFX Freak said:
+
+			I haven't stopped by in a while. Oh wow! Such glorious updates! This is looking absolutely fantastic! Love the engineering and admire the craftsmanship. Beautiful work!
+		
+
+Click to expand...
+
+Glad to see you again 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #144  (forum post #5440088)
+Author    : Sym-Cha
+Date      : Jun 9, 2023 at 7:15 AM
+Reactions : Like — stevielewis, DiRty37, joberg
+────────────────────────────────────────────────────────────────────────
+
+Please Big C ... I need my daily/weekly/monthly(?) dose of Studio Scale AT-AT work in progress pictures . . . sooner . . . rather than later ... pretty please!
+
+[IMAGE: https://www.therpf.com/forums/attachments/at-at-on-set-ilm-jpg.1708863/]
+
+Chaïm
+────────────────────────────────────────────────────────────────────────
+Post #145  (forum post #5441005)
+Author    : joberg
+Date      : Jun 12, 2023 at 5:57 AM
+Reactions : Like, Haha — stevielewis, Sym-Cha
+────────────────────────────────────────────────────────────────────────
+
+^^
+
+Same here
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #146  (forum post #5441283)
+Author    : Junk Pilot
+Date      : Jun 12, 2023 at 8:23 PM
+Reactions : Like — stevielewis, christrom, Sym-Cha
+────────────────────────────────────────────────────────────────────────
+
+Somebody....ANYBODY.....post something AT-AT.
+
+I'll have my Merlin Models kit tomorrow if that helps everyone to get their fix.
+────────────────────────────────────────────────────────────────────────
+Post #147  (forum post #5441393)
+Author    : vectorzero
+Date      : Jun 13, 2023 at 7:06 AM
+Reactions : Wow, Like — stevielewis, joberg, Junk Pilot
+────────────────────────────────────────────────────────────────────────
+
+Junk Pilot said:
+
+			Somebody....ANYBODY.....post something AT-AT.
+
+I'll have my Merlin Models kit tomorrow if that helps everyone to get their fix.
+		
+
+Click to expand...
+
+My Merlin is under construction. The legs have been junked completely. It's a great model, but for the purist (masochist) there are some parts that are not even close.
+────────────────────────────────────────────────────────────────────────
+Post #148  (forum post #5441605)
+Author    : Junk Pilot
+Date      : Jun 13, 2023 at 7:48 PM
+────────────────────────────────────────────────────────────────────────
+
+vectorzero said:
+
+			My Merlin is under construction. The legs have been junked completely. It's a great model, but for the purist (masochist) there are some parts that are not even close.
+		
+
+Click to expand...
+
+What do you mean junked? Aren't you using them?
+────────────────────────────────────────────────────────────────────────
+Post #149  (forum post #5441606)
+Author    : Junk Pilot
+Date      : Jun 13, 2023 at 7:49 PM
+────────────────────────────────────────────────────────────────────────
+
+vectorzero said:
+
+			My Merlin is under construction. The legs have been junked completely. It's a great model, but for the purist (masochist) there are some parts that are not even close.
+		
+
+Click to expand...
+
+Double post
+────────────────────────────────────────────────────────────────────────
+Post #150  (forum post #5441617)
+Author    : JediMichael
+Date      : Jun 13, 2023 at 8:40 PM
+Reactions : Haha, Like — BajaTym, Jediseth, DiRty37
+────────────────────────────────────────────────────────────────────────
+
+Junk Pilot said:
+
+			Somebody....ANYBODY.....post something AT-AT.
+		
+
+Click to expand...
+
+[IMAGE: https://www.therpf.com/forums/attachments/walker-jpg.1710308/]
+
+Its something......lol.
+────────────────────────────────────────────────────────────────────────
+Post #151  (forum post #5456905)
+Author    : Flyscriber
+Date      : Aug 5, 2023 at 11:35 PM
+Reactions : Like, Haha — stevielewis, JPjunkie, Junk Pilot
+────────────────────────────────────────────────────────────────────────
+
+Come back Big C. We need your magic metal mayhem.
+────────────────────────────────────────────────────────────────────────
+Post #152  (forum post #5456912)
+Author    : JediMichael
+Date      : Aug 6, 2023 at 1:07 AM
+Reactions : Like — stevielewis, joberg
+────────────────────────────────────────────────────────────────────────
+
+Yeah I know.....hopefully nothing bad happened to him.
+────────────────────────────────────────────────────────────────────────
+Post #153  (forum post #5456941)
+Author    : Big C
+Date      : Aug 6, 2023 at 5:57 AM
+Reactions : Like — stevielewis, BajaTym, flimzy
+────────────────────────────────────────────────────────────────────────
+
+Hi All! Sorry for being off the radar for so long.
+
+I'm fine and I'll be back on the project. I'm Just taking advantage of the summer months here in the Pacific North West and trying to stay out of the shop except for work.
+────────────────────────────────────────────────────────────────────────
+Post #154  (forum post #5456961)
+Author    : joberg
+Date      : Aug 6, 2023 at 7:52 AM
+Reactions : Like — stevielewis
+────────────────────────────────────────────────────────────────────────
+
+Good to hear!!
+────────────────────────────────────────────────────────────────────────
+Post #155  (forum post #5457096)
+Author    : RayLuis
+Date      : Aug 6, 2023 at 3:56 PM
+Reactions : Like — stevielewis
+────────────────────────────────────────────────────────────────────────
+
+Glad to hear you're okay and just enjoying your summer!
+────────────────────────────────────────────────────────────────────────
+Post #156  (forum post #5457109)
+Author    : JediMichael
+Date      : Aug 6, 2023 at 4:25 PM
+Reactions : Sad — stevielewis, joberg
+────────────────────────────────────────────────────────────────────────
+
+Thats good that everything is all good.
+
+Sometimes we've had people just not log back on and finish a project, and you never find out why.
+────────────────────────────────────────────────────────────────────────
+Post #157  (forum post #5632940)
+Author    : BajaTym
+Date      : May 29, 2025 at 6:18 AM
+Reactions : Like — Sym-Cha, DOGFOX2109, JediMichael
+────────────────────────────────────────────────────────────────────────
+
+I just finished reading this entire thread, My Lord this build is breathtaking. The OP has some serious skills; I hope he's okay and will eventually return to posting.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 157

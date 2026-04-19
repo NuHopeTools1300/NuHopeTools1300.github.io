@@ -1,0 +1,772 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Scratch building a 66" TOS Enterprise
+URL    : https://www.therpf.com/forums/threads/scratch-building-a-66-tos-enterprise.160399/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #2473172)
+Author    : Studio B
+Date      : Sep 14, 2012 at 3:38 PM
+────────────────────────────────────────────────────────────────────────
+
+Hi Guys,
+
+I'd like to share with you my journey at scratch building a 66" TOS Enterprise with Shuttle Bay, Shuttle Craft and Bridge details. 
+
+To help me visualize the model I printed out scale size plans on my plotter. The yard stick is for size reference.:love
+
+[IMAGE: 66inchEnterpriseplans.jpg]
+
+The primary hull will be shaped on a CNC router in two pieces, other parts will be turned on a lathe and smaller items simply hand made.
+
+I'll be making molds of all the parts in order to have a hollow hull for lighting and to preserve all my hard work. I've built many other large models with finishes like what is seen below. These parts are right out of the molds, my TOS Enterprise model will be just like them in finish quality.
+
+[IMAGE: example1.jpg]
+
+[IMAGE: example3.jpg]
+
+Because I'm making molds, I know the first question from everyone is going to be "are you going to make a kit?"
+
+I'll share my build and answer your questions only if; 
+
+1- You are polite and respect myself and others.
+
+2- You don't ask if I'll be producing a kit. 
+
+Thanks guys,
+
+Stay tuned for more updates.
+
+SB
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #2473505)
+Author    : psion
+Date      : Sep 14, 2012 at 7:22 PM
+────────────────────────────────────────────────────────────────────────
+
+Outstanding, Studio B! This will be an exciting thread to follow, I'm sure. Will you be producing a ki--
+
+Studio B said:
+
+			I'll share my build and answer your questions only if; 
+
+1- You are polite and respect myself and others.
+
+2- You don't ask if I'll be producing a kit.
+		
+
+Click to expand...
+
+Oh.
+
+Well, that's okay by me ... I'm tight on money and likely couldn't afford to buy one at the moment anyway. 
+
+In all seriousness, though, do you plan to add details to the 1701? That is, it will look the same from a distance, but as you get closer, you'll see new details that weren't present on the original. I've seen a few attempts at this with computer-rendered 3D models, such as the work of "deg3D", but haven't seen anyone attempt it yet with a physical model. I ask because the detail shown in your examples suggests at least the ability on your part if not the intent.
+
+Either way, I'm keeping an eye on this thread, and I'm sure I'm not the only one. Good luck, and may your molds never stick!
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #2473762)
+Author    : BolianAdmiral
+Date      : Sep 14, 2012 at 11:29 PM
+────────────────────────────────────────────────────────────────────────
+
+Very nice... I, too, will be following this thread. Best of luck to you!
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #2474310)
+Author    : Shaw
+Date      : Sep 15, 2012 at 10:44 AM
+────────────────────────────────────────────────────────────────────────
+
+Best of luck on this project!
+
+It looks like your starting with Casimiro's plans, which is an excellent starting point. Might I suggest a hybrid approach (in the absence of Kerr's plans). There are still a few spots on Casimiro's plans that are off, but are correct on Sinclair's plans (mainly the arrangement of features at the front of the nacelles). But for the most part Casimiro has the details down quite nicely. I did a comparison of Sinclair's and Casimiro's (v 1.0) plans a number of years ago which might be helpful (here)... though Casimiro has made many improvements since then.
+
+As neither plans has the cross section of the primary hull just right, might I offer this element from my plans which is a much closer approximation of the correct shape...
+
+[IMAGE: ph_cs_2012-s.jpg]
+
+Click to get EPS version​
+
+It is still a good idea to cross check your detail elements against photos of the original, and a great starting point for reference images is this page, though there are a ton more out there if you're willing to expend the time to look for them (though, as I said before, Casimiro has done a good job documenting them for you already).
+
+Again, best of luck!
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #2474445)
+Author    : Studio B
+Date      : Sep 15, 2012 at 12:11 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks guys for the kind words. 
+
+Thanks for your info David, your build and data have been a big help to me. If I can get the disk shape correct it'll be smooth sailing after that. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+I haven't yet decided on how much detail to add, I do know there will be no groved grid lines.
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #2474682)
+Author    : Sloth
+Date      : Sep 15, 2012 at 2:57 PM
+────────────────────────────────────────────────────────────────────────
+
+Awesome!! Im a big fan of TOS & will be following this thread 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #2475053)
+Author    : Bondo Fett
+Date      : Sep 15, 2012 at 6:59 PM
+────────────────────────────────────────────────────────────────────────
+
+Me, too, excited to see another version of this ship. Never get tired of the new discoveries and techniques used.
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #2487304)
+Author    : Studio B
+Date      : Sep 22, 2012 at 12:15 PM
+────────────────────────────────────────────────────────────────────────
+
+Today I finished the bottom section of the primary hull. I decided not use a  CNC router and instead did it by hand.
+
+I could not bring myself to cut out individual formers, glue them to a center tube then sheet the entire thing. Way too much work for me and too difficult to get a perfect disk. 
+
+Here's my attempt, no sanding needed. :love The top section is next.
+
+[IMAGE: primaryhullbottommaster-3_zps0ac69877.jpg]
+
+A few coats of high build primer to adjust the depth of the rings then I'll start on detailing the window locations......etc.
+
+Until next time.
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #2487336)
+Author    : Orbital Drydock
+Date      : Sep 22, 2012 at 12:40 PM
+────────────────────────────────────────────────────────────────────────
+
+Nice start! Welcome to the Big-E club!
+
+How did you get the form so perfect & what material did you use?
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #2487462)
+Author    : Studio B
+Date      : Sep 22, 2012 at 2:28 PM
+────────────────────────────────────────────────────────────────────────
+
+Thank you for the welcome. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+The technique I used to shape the disk is the same technique and materials used to make ceiling medallions. If fact, you'll notice a striking shape resemblance when looking at certain medallion designs. I've seen a photo of Mel Keys shaping the 11ft model using the same technique.
+
+To pay homage to Mr Datin and the crew I decided to build my model by hand instead of CNC help like originally planned.
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #2489646)
+Author    : Shaw
+Date      : Sep 24, 2012 at 4:14 AM
+────────────────────────────────────────────────────────────────────────
+
+Beautiful start! Can't wait to see more. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+opcorn
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #2490083)
+Author    : Studio B
+Date      : Sep 24, 2012 at 10:02 AM
+────────────────────────────────────────────────────────────────────────
+
+I'm making good progress, today I finished shaping the primary hull top piece. I'll smooth down that ring close to the center a bit.
+
+[IMAGE: primaryhulltopmaster-1_zpsd43fd512.jpg]
+
+Until next time.
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #2490752)
+Author    : Ghost Host
+Date      : Sep 24, 2012 at 4:36 PM
+────────────────────────────────────────────────────────────────────────
+
+Wow, making templates and running them can be a tricky business.  Nice, clean work there!
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #2494477)
+Author    : Studio B
+Date      : Sep 26, 2012 at 3:23 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks guys!
+
+I have a couple of quick updates. Sorry but my camera kept focusing on the wall. :unsure
+
+Here are my two versions of the dish;
+
+[IMAGE: seriesdish.jpg]
+
+This one represents the one from the series.
+
+[IMAGE: smithdish.jpg]
+
+and the one seen at the Smithsonian.
+
+The backs of each dish correspond to their respective versions as well.
+
+That's it for now.
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #2498238)
+Author    : Studio B
+Date      : Sep 28, 2012 at 1:46 PM
+────────────────────────────────────────────────────────────────────────
+
+Primary Hull primed
+
+Hi Guys, I'm not sure if there is interest in this build since there's been a few already done in the past. I'm not breaking new ground here so it might be kinda boring...sorry about that. It's a new build for me, I'm really enjoying it.
+
+[IMAGE: diskhalvesprimed.jpg]
+
+I shot some high build primer on the disk halves today to see if any flaws would pop out, they look good so far. I'll shoot another coat then wet sand it before I start detailing it.
+
+[IMAGE: lowerdiskprimed.jpg]
+
+I also finished turning a few more of the circular parts on the lathe. The molds which will be used to thermo form some of the parts were made just a bit smaller (undersized), the difference takes into account the thickness of the plastic used to make the finished part.
+
+Until next time.
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #2498290)
+Author    : fraley1701
+Date      : Sep 28, 2012 at 2:07 PM
+────────────────────────────────────────────────────────────────────────
+
+Nice clean work and these kind of builds are always interesting to me!  Thank you for sharing your progress.
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #2498312)
+Author    : ghostlord2002
+Date      : Sep 28, 2012 at 2:19 PM
+────────────────────────────────────────────────────────────────────────
+
+Very Interested in this build - looking forward to future updates ! Your attention to detail is impressive ! :thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #2498341)
+Author    : feek61
+Date      : Sep 28, 2012 at 2:36 PM
+────────────────────────────────────────────────────────────────────────
+
+Looking fabulous so far and I'm really enjoying watching your technique.
+
+Will
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #2498365)
+Author    : Studio B
+Date      : Sep 28, 2012 at 2:48 PM
+Reactions : Like — robn1
+────────────────────────────────────────────────────────────────────────
+
+I'm glad to hear there is interest in another 1/2 studio scale TOS Enterprise build. 
+
+It's interesting to me to see how the various builders approach the same subject yet use different build techniques to achieve the ultimate goal.
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #2498377)
+Author    : robn1
+Date      : Sep 28, 2012 at 2:53 PM
+────────────────────────────────────────────────────────────────────────
+
+Don't mistake a lack of posts for a lack of interest, sometimes we're just too awed by what we see to comment :thumbsup
+
+Great progress so far, looking forward to seeing the secondary hull.
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #2498700)
+Author    : Cadeus
+Date      : Sep 28, 2012 at 6:33 PM
+────────────────────────────────────────────────────────────────────────
+
+I agree with the others.  I have seen three other TOS scratch-builds, and though they look the same in the end, the artists took different roads to get there.  I am anxious to see the vac-casts.  Have you accounted for the loss of detail that can occur?
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #2498994)
+Author    : Galaxyman1701d
+Date      : Sep 28, 2012 at 9:35 PM
+────────────────────────────────────────────────────────────────────────
+
+Just know that if you heat the plastic that after the parts cool from a vacuum formed mold they will shrink. Probably down to half the thickness of the plastic do some test runs first. Cool project!
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #2499808)
+Author    : Studio B
+Date      : Sep 29, 2012 at 12:26 PM
+────────────────────────────────────────────────────────────────────────
+
+I shaped the BC Deck today out of foam then glassed over it. Tomorrow I'll fill then sand it smooth then hit it with high build primer.
+
+[IMAGE: BCDeckshaped.jpg]
+
+@Cadeus, with regards to the thermo formed parts, there is no detail to be lost, they are just the smooth dome shaped pieces. I am familiar with thermo forming and how parts shrink slightly, thanks for the heads up Galaxyman1701d.:thumbsup
+
+@Robn1, the lack of response did have me thinking I was boring the heck out of everyone. lol
+
+Thanks guys for your input...it's much appreciated.
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #2500901)
+Author    : crackerjazz
+Date      : Sep 30, 2012 at 8:34 AM
+────────────────────────────────────────────────────────────────────────
+
+That's true, Robn1 - when all I can say is $@!&%! I'd rather not post it.  Masterful work, Studio B.
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #2510338)
+Author    : Studio B
+Date      : Oct 5, 2012 at 7:47 AM
+────────────────────────────────────────────────────────────────────────
+
+I'm getting ready to turn the Nacelle blocks. The glued stack already includes the channel, a filler block will be screwed into the channel while turning to avoid chipping the edges. Once it's turned I'll use a router to bevel the edges then detail it.
+
+[IMAGE: Nacelleblock.jpg]
+
+My test piece came out looking like this.
+
+[IMAGE: Nacellechannel.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #2510757)
+Author    : Studio B
+Date      : Oct 5, 2012 at 12:51 PM
+────────────────────────────────────────────────────────────────────────
+
+Almost forgot to post this update as well. The BC Deck has been glassed, sanded smooth and first coat of primer applied. Wet sanding is next then it's time to add the window detail. I also need to add the elevator shaft tube.
+
+[IMAGE: BCDeckfirstprime.jpg]
+
+Also, the connecting dorsal has been shaped and is ready for glassing.
+
+[IMAGE: dorsalshape.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #2510883)
+Author    : feek61
+Date      : Oct 5, 2012 at 2:01 PM
+────────────────────────────────────────────────────────────────────────
+
+Wow, beautiful work!!!!  (I feel like I say the same thing every time . . . . but I DO think that every time).  Looks  . . . .well, beautiful!!!!
+────────────────────────────────────────────────────────────────────────
+Post #28  (forum post #2510946)
+Author    : Studio B
+Date      : Oct 5, 2012 at 2:49 PM
+────────────────────────────────────────────────────────────────────────
+
+LOL, well thanks:lol
+
+It's funny, I feel repetitive also with this build since it's been done so many times. You can only show; shape, glass, sand, putty, prime so many times. 
+
+I'm looking forward to sharing the detailing aspect of this build. :thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #29  (forum post #2511004)
+Author    : feek61
+Date      : Oct 5, 2012 at 3:34 PM
+────────────────────────────────────────────────────────────────────────
+
+Let me assure you that a build of the Enterprise is NEVER repetitive.  Looking forward to watching your progress.  Just  . . . Wow!     
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #30  (forum post #2511527)
+Author    : fraley1701
+Date      : Oct 5, 2012 at 10:15 PM
+────────────────────────────────────────────────────────────────────────
+
+Very nice work Sir!  Thank you for the continual updates and they are appreciated!  :thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #31  (forum post #2513388)
+Author    : Studio B
+Date      : Oct 7, 2012 at 8:27 AM
+────────────────────────────────────────────────────────────────────────
+
+Here's another update for you guys. These Pylons were the easiest parts to make so far.
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: Pylonscut.jpg]
+
+I simply ripped them on my table saw, then trimmed them to length with the appropriate bevels (like a compound miter). Using my router with a radius bit, I shaped the leading and trailing edges. 
+
+Next, the usual prime, sand then detail.
+────────────────────────────────────────────────────────────────────────
+Post #32  (forum post #2513585)
+Author    : Cadeus
+Date      : Oct 7, 2012 at 11:30 AM
+────────────────────────────────────────────────────────────────────────
+
+very nice!
+────────────────────────────────────────────────────────────────────────
+Post #33  (forum post #2519017)
+Author    : KUROK
+Date      : Oct 10, 2012 at 9:36 AM
+────────────────────────────────────────────────────────────────────────
+
+Loving this thread!
+
+Keep it going!!!
+────────────────────────────────────────────────────────────────────────
+Post #34  (forum post #2523796)
+Author    : Studio B
+Date      : Oct 12, 2012 at 6:19 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks guys!
+
+I turned the mold for the dome, just need to trim to length. I'll use it to thermoform my own domes.
+
+[IMAGE: Nacelledomemold.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #35  (forum post #2559816)
+Author    : Studio B
+Date      : Oct 31, 2012 at 11:59 AM
+────────────────────────────────────────────────────────────────────────
+
+I finally have the Nacelles turned and the shop cleaned up after that mess. I removed the plugs from the trenches now I'll route the 45 degree on the edges and finish off the ends and glue in the insert then it's on to sealing, sanding, and priming.
+
+[IMAGE: nacellesturned.jpg]
+
+More to come.
+────────────────────────────────────────────────────────────────────────
+Post #36  (forum post #2560085)
+Author    : robn1
+Date      : Oct 31, 2012 at 2:28 PM
+────────────────────────────────────────────────────────────────────────
+
+Hey JJ, that's what nacelles look like!
+────────────────────────────────────────────────────────────────────────
+Post #37  (forum post #2560250)
+Author    : feek61
+Date      : Oct 31, 2012 at 4:03 PM
+────────────────────────────────────────────────────────────────────────
+
+It's about time you updated us!!!!  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Looking grand!
+────────────────────────────────────────────────────────────────────────
+Post #38  (forum post #2562333)
+Author    : Ray22
+Date      : Nov 1, 2012 at 4:16 PM
+────────────────────────────────────────────────────────────────────────
+
+Impressive work :thumbsup.
+────────────────────────────────────────────────────────────────────────
+Post #39  (forum post #2564163)
+Author    : Studio B
+Date      : Nov 2, 2012 at 2:34 PM
+────────────────────────────────────────────────────────────────────────
+
+feek61 said:
+
+			It's about time you updated us!!!!  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+I know right, LOL... Sorry about that. 
+
+I used a forstner bit to cut a clean half hole, a wooden dowel was then glued in place. The center will get cutout with a hole saw for the bridge.
+
+[IMAGE: elevatorshaft.jpg]
+
+@robn1 who's JJ? :confused
+────────────────────────────────────────────────────────────────────────
+Post #40  (forum post #2564576)
+Author    : robn1
+Date      : Nov 2, 2012 at 5:55 PM
+────────────────────────────────────────────────────────────────────────
+
+Studio B said:
+
+			...@robn1 who's JJ? :confused
+		
+
+Click to expand...
+
+J.J. Abrams, director of the '09 reboot.
+
+Nice work on the bridge!
+────────────────────────────────────────────────────────────────────────
+Post #41  (forum post #2564601)
+Author    : trooper
+Date      : Nov 2, 2012 at 6:09 PM
+────────────────────────────────────────────────────────────────────────
+
+im gladd im not the only one that didnt get that :lol
+────────────────────────────────────────────────────────────────────────
+Post #42  (forum post #2566790)
+Author    : rad1701
+Date      : Nov 4, 2012 at 6:31 AM
+────────────────────────────────────────────────────────────────────────
+
+Loving this and love the updates.  Thanks for sharing your work and progress on this amazing project.
+────────────────────────────────────────────────────────────────────────
+Post #43  (forum post #2586725)
+Author    : pwrofbauer
+Date      : Nov 14, 2012 at 8:13 PM
+────────────────────────────────────────────────────────────────────────
+
+This is so clean it's ridiculous! Great work.
+────────────────────────────────────────────────────────────────────────
+Post #44  (forum post #2587452)
+Author    : feek61
+Date      : Nov 15, 2012 at 9:32 AM
+────────────────────────────────────────────────────────────────────────
+
+Very nice looking bridge you have there!!!
+────────────────────────────────────────────────────────────────────────
+Post #45  (forum post #2609199)
+Author    : Jerry Lee Kirk
+Date      : Nov 28, 2012 at 6:42 AM
+────────────────────────────────────────────────────────────────────────
+
+Hi everyone.
+
+I'm new in this forum.  But I would like to share a usefull information.
+
+Gary Kerr told me in another topic that the R2 1/350 Tos Enterprise model, for the box CGI images, and the decal sheets, are based in his updated plans of 11 foot Enterpise.
+
+I supose if you make a scanning of the box and decal sheet image, and overlay in photoshop with Sinclair plans, you would be able to find the deffects of Sinclair, make some correction, and turn out with the most perfect plans of web.
+────────────────────────────────────────────────────────────────────────
+Post #46  (forum post #2609215)
+Author    : Jerry Lee Kirk
+Date      : Nov 28, 2012 at 6:47 AM
+────────────────────────────────────────────────────────────────────────
+
+[IMAGE: index.php]
+
+Some corrections Mr Kerr did on the R2 kit:
+
+[IMAGE: B-Cdeckhatchessmall.jpg]
+
+[IMAGE: 3lowersaucerlightdimensions.jpg]
+
+The biggest error of the R2 1/350 kit  (not the red square only but the three large light bulbs in the corner of saurcer section):
+
+[IMAGE: wtf-holes.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #47  (forum post #2611654)
+Author    : Studio B
+Date      : Nov 29, 2012 at 9:52 AM
+────────────────────────────────────────────────────────────────────────
+
+Jerry Lee Kirk said:
+
+			Hi everyone.
+
+I'm new in this forum.
+		
+
+Click to expand...
+
+Welcome to the forum. 
+
+Your intentions are good, however I'd prefer that you not point out flaws of a plastic model here as this thread is about scratch building a model.
+
+Thanks,
+
+SB
+────────────────────────────────────────────────────────────────────────
+Post #48  (forum post #2611705)
+Author    : Jerry Lee Kirk
+Date      : Nov 29, 2012 at 10:25 AM
+Reactions : Like — Astrobeej
+────────────────────────────────────────────────────────────────────────
+
+Hi Studio B
+
+Understood... 
+
+Sorry for my small mistake.
+
+Would be nice if you post how did you shaped the soucer section so well.  I'm very curious about how did you got it.
+
+[IMAGE: primaryhullbottommaster-3_zps0ac69877.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #49  (forum post #2611737)
+Author    : Studio B
+Date      : Nov 29, 2012 at 10:45 AM
+────────────────────────────────────────────────────────────────────────
+
+See post #10
+
+http://www.therpf.com/f10/scratch-building-66-tos-enterprise-160399/#post2487462
+────────────────────────────────────────────────────────────────────────
+Post #50  (forum post #2612226)
+Author    : trekman1017
+Date      : Nov 29, 2012 at 3:23 PM
+────────────────────────────────────────────────────────────────────────
+
+I'm still not really clear on how you did that, I don't know how ceiling medallions are made.
+────────────────────────────────────────────────────────────────────────
+Post #51  (forum post #2612356)
+Author    : Shaw
+Date      : Nov 29, 2012 at 4:37 PM
+────────────────────────────────────────────────────────────────────────
+
+I think this tutorial might prove helpful in how to make those types of shapes.
+────────────────────────────────────────────────────────────────────────
+Post #52  (forum post #2612479)
+Author    : Jerry Lee Kirk
+Date      : Nov 29, 2012 at 5:54 PM
+────────────────────────────────────────────────────────────────────────
+
+Nice...
+
+I want to see someone do the miracle of create a easy technic for the Enterprise-D primary hull. :lol
+
+Shaw said:
+
+			I think this tutorial might prove helpful in how to make those types of shapes.
+		
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #53  (forum post #2613696)
+Author    : Studio B
+Date      : Nov 30, 2012 at 10:26 AM
+────────────────────────────────────────────────────────────────────────
+
+Here's a video showing the technique. This was how the master mold for the original model was done. :thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #54  (forum post #2614277)
+Author    : Galaxyman1701d
+Date      : Nov 30, 2012 at 3:53 PM
+────────────────────────────────────────────────────────────────────────
+
+Pretty awesome! I may have to build an excelsior next!
+────────────────────────────────────────────────────────────────────────
+Post #55  (forum post #2614314)
+Author    : Jerry Lee Kirk
+Date      : Nov 30, 2012 at 4:18 PM
+────────────────────────────────────────────────────────────────────────
+
+Interesting video... His is building Marta Stewart's Enterprise version... ...primary hull...
+
+...but in this video unless I'm wrong, looks like he used two "rotational molds" to "write" the disc surface while rotating.
+
+What material is used?
+
+Studio B said:
+
+			Here's a video showing the technique. This was how the master mold for the original model was done. :thumbsup
+		
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #56  (forum post #2614484)
+Author    : Studio B
+Date      : Nov 30, 2012 at 6:54 PM
+────────────────────────────────────────────────────────────────────────
+
+Jerry Lee Kirk said:
+
+			Interesting video... His is building Marta Stewart's Enterprise version... ...primary hull...
+
+...but in this video unless I'm wrong, looks like he used two "rotational molds" to "write" the disc surface while rotating.
+
+What material is used?
+		
+
+Click to expand...
+
+Guys, I'll update this build soon. :rolleyes
+────────────────────────────────────────────────────────────────────────
+Post #57  (forum post #2614747)
+Author    : Cadeus
+Date      : Nov 30, 2012 at 9:47 PM
+────────────────────────────────────────────────────────────────────────
+
+Galaxyman1701d said:
+
+			Pretty awesome! I may have to build an excelsior next!
+		
+
+Click to expand...
+
+I hope you do, cause I want first dibbs on the e!  :love
+────────────────────────────────────────────────────────────────────────
+Post #58  (forum post #2617851)
+Author    : Jerry Lee Kirk
+Date      : Dec 2, 2012 at 2:53 PM
+────────────────────────────────────────────────────────────────────────
+
+What technic you will use to shape the secondary hull?
+
+ This technic :  http://www.cloudster.com/HowToSection/Gemini.jpg
+
+Or the same you used but alowing the lower parts to dry, building in steps, since the secondary hull is too hight?
+────────────────────────────────────────────────────────────────────────
+Post #59  (forum post #2617907)
+Author    : Smiling Demon
+Date      : Dec 2, 2012 at 3:18 PM
+────────────────────────────────────────────────────────────────────────
+
+Studio B said:
+
+			Here's a video showing the technique. This was how the master mold for the original model was done. :thumbsup
+		
+
+Click to expand...
+
+Well, that video was very informing because I was not aware you could create things in that fashion!!
+
+Thanks for posting it.
+
+Kenny
+────────────────────────────────────────────────────────────────────────
+Post #60  (forum post #2624592)
+Author    : Fireball Joe
+Date      : Dec 5, 2012 at 8:00 PM
+────────────────────────────────────────────────────────────────────────
+
+Smiling Demon said:
+
+			Well, that video was very informing because I was not aware you could create things in that fashion!!
+
+Thanks for posting it.
+
+Kenny
+		
+
+Click to expand...
+
+That's also how you make the plug for a fiberglass Dalek dome!  This is a really great thread for traditional model building 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #61  (forum post #2625579)
+Author    : Studio B
+Date      : Dec 6, 2012 at 10:16 AM
+────────────────────────────────────────────────────────────────────────
+
+Intercooler
+
+Here's a photo showing work progress on the Intercooler. The overall shape is complete and primed, moving onto the detailing stage now.
+
+[IMAGE: interc-2.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #62  (forum post #2642465)
+Author    : Studio B
+Date      : Dec 15, 2012 at 1:07 PM
+────────────────────────────────────────────────────────────────────────
+
+This won't be the fastest build out there. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+  But I'm back after tweaking the Intercooler. I tend to see faults after I photograph the part that I'm working on. Here's the latest version which still might be tweaked a bit since I think it looks too short.:$ I thought I'd share my progress anyways.  I'm not perfect and am always seeing my mistakes and adjusting as needed and will eventually achieve the correct shape. The details haven't been added yet of course.
+
+I'll eventually make a mold and cast a part. The cast part will be reworked with the center section removed etc.... It's much easier then scratch building another one.
+
+[IMAGE: intercooler-3.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #63  (forum post #2642534)
+Author    : feek61
+Date      : Dec 15, 2012 at 2:01 PM
+────────────────────────────────────────────────────────────────────────
+
+I'm the same way as far as photographing a project; it's easier to see flaws for me.  Great job as always and not problem on the speed; it's not a marathon!!!
+
+Looking forward to your progress.  If what we've seen so far is any indication of the finished product; she's going to be a beaut!
+────────────────────────────────────────────────────────────────────────
+Post #64  (forum post #2984681)
+Author    : crowe t
+Date      : Jul 22, 2013 at 10:19 AM
+────────────────────────────────────────────────────────────────────────
+
+Studio B, This build is coming along very nicely!  I can't wait to see some more updates.
+────────────────────────────────────────────────────────────────────────
+Post #65  (forum post #2985395)
+Author    : trooper
+Date      : Jul 22, 2013 at 8:36 PM
+────────────────────────────────────────────────────────────────────────
+
+his last activity was dec 2012, I don't think well see an update :lol
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 65

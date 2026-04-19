@@ -1,0 +1,247 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : HELP! 3D Print issue
+URL    : https://www.therpf.com/forums/threads/help-3d-print-issue.341715/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #5237640)
+Author    : ProfCoppersmith
+Date      : Oct 1, 2021 at 12:02 PM
+────────────────────────────────────────────────────────────────────────
+
+Hello, all!
+
+I've been running my first 3D printing project.  A DE-10 blaster pistol (technically 1 of 2) for a Mando armor kit I'm assembling. 
+
+For some reason every print comes out with this big, 3mm thick, plate of resin at the base.  It covers the entire print area.  Anyone know why this might be happening?
+
+I'm using beds and supports.  
+
+Black Anycubic 405nm resin.  
+
+And a Creality LD-002H (light source is 405nm).
+
+Thanks for any help and advice. ^_^
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #5237649)
+Author    : JPH
+Date      : Oct 1, 2021 at 12:23 PM
+────────────────────────────────────────────────────────────────────────
+
+your printer will only do that if the file is telling it to. 
+
+Check settings, see if you have a base being laid down, what kind of attachment to the build plate is programmed in? Check the raw file and see if it contains the base. 
+
+Your printer shouldn't just be printing a thick base. Besides, it waste a bunch of printing material
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #5237720)
+Author    : acesh007
+Date      : Oct 1, 2021 at 4:51 PM
+Reactions : Like — Jedi Dade
+────────────────────────────────────────────────────────────────────────
+
+You may want to check and adjust your support settings, specifically for your rafts. Id highly suggest getting on youtube and digging into how to setup the supports.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #5237772)
+Author    : TazMan2000
+Date      : Oct 1, 2021 at 7:56 PM
+────────────────────────────────────────────────────────────────────────
+
+What slicer are you using? It must show up on your preview. A screen capture would be useful. This must be your "Raft". Go into your support settings and see if you can find anything that can adjust the height of your raft.  3mm is way too thick.
+
+BTW, your post would probably be better in the Star Wars Costumes and Props section rather than Studio Scale Models.
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #5238024)
+Author    : ProfCoppersmith
+Date      : Oct 2, 2021 at 11:07 PM
+Reactions : Like — JPH
+────────────────────────────────────────────────────────────────────────
+
+I'm using Chitubox, it came with my printer.  And the files only show the normal rafts...
+
+Here are my settings:
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2021-10-03-005908-png.1500169/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2021-10-03-005950-png.1500170/]
+
+Here's what the file looks like:
+
+[IMAGE: https://www.therpf.com/forums/attachments/screenshot-2021-10-03-005756-png.1500171/]
+
+And here's what the print looks like:
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0149-jpeg.1500172/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_0150-jpeg.1500173/]
+
+The base of the rafts are there, but for whatever reason, it's like there's a spill over on the LCD screen. but the rest of the print after that is fine.
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #5238027)
+Author    : TazMan2000
+Date      : Oct 2, 2021 at 11:43 PM
+Reactions : Like — JPH, masterjedi322, ProfCoppersmith
+────────────────────────────────────────────────────────────────────────
+
+Your Bottom Layer Count is way too high. 
+
+It should be around 5, not 55. 
+
+Try changing it and see what happens.  This is one strange problem. The rest of your print seems fine. I'm wondering if it could be bleed through of the light through the mask due to the long exposure times on 55 layers.
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #5238067)
+Author    : 32buds
+Date      : Oct 3, 2021 at 4:35 AM
+Reactions : Like — ProfCoppersmith
+────────────────────────────────────────────────────────────────────────
+
+Presumably the thinner squared off area is what you refer to?
+
+If so,reduce your printers uv exposure. If you're running at 100% percent,try 80. It looks like lightbleed through the lcd,caused by over-exposure.
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #5238088)
+Author    : akumazeto
+Date      : Oct 3, 2021 at 7:00 AM
+Reactions : Like — ProfCoppersmith
+────────────────────────────────────────────────────────────────────────
+
+First things first stop trying to fill the plate with detailed stuff like that. Especially until you get it dialed in. Also Black is not a beginner friendly resin.
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #5238103)
+Author    : StevenBills
+Date      : Oct 3, 2021 at 8:31 AM
+Reactions : Like — ProfCoppersmith
+────────────────────────────────────────────────────────────────────────
+
+TazMan2000 said:
+
+			Your Bottom Layer Count is way too high.
+
+It should be around 5, not 55.
+		
+
+Click to expand...
+
+This is the way.
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #5238107)
+Author    : masterjedi322
+Date      : Oct 3, 2021 at 8:54 AM
+Reactions : Like — ProfCoppersmith
+────────────────────────────────────────────────────────────────────────
+
+StevenBills said:
+
+			This is the way.
+		
+
+Click to expand...
+
+TazMan2000 said:
+
+			Your Bottom Layer Count is way too high.
+
+It should be around 5, not 55.
+
+Try changing it and see what happens.  This is one strange problem. The rest of your print seems fine. I'm wondering if it could be bleed through of the light through the mask due to the long exposure times on 55 layers.
+
+TazMan2000
+		
+
+Click to expand...
+
+I also vote for decreasing the bottom layer count.
+
+Sean
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #5244053)
+Author    : TazMan2000
+Date      : Oct 24, 2021 at 7:26 PM
+────────────────────────────────────────────────────────────────────────
+
+I'm assuming that since you haven't responded to whether our advice was useful, that you're so busy printing out all your stuff?
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #5244367)
+Author    : ProfCoppersmith
+Date      : Oct 25, 2021 at 4:51 PM
+────────────────────────────────────────────────────────────────────────
+
+TazMan2000 said:
+
+			I'm assuming that since you haven't responded to whether our advice was useful, that you're so busy printing out all your stuff?
+
+TazMan2000
+		
+
+Click to expand...
+
+Sadly, half right.  
+
+I've been busy, mostly with work (Day Jobs); which is building a new attraction in Wisconsin Dells and we're a little over a month from our initial opening.  I'm also working one of their store fronts in the same area.  So between the two, I've only been giving myself one day off a week and it gets spent on rest and errands.  
+
+Also waiting on new FEP film for the printer in question.  It only came with two and I managed to dent both.
+
+So I haven't had a chance to try anything out.  
+
+BUT! Everything has arrived, and they won't be needing me at the store front for the next month or so, after Halloween, so I will finally be able to make time to work on MY stuff again.
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #5244380)
+Author    : TazMan2000
+Date      : Oct 25, 2021 at 5:34 PM
+Reactions : Like — ProfCoppersmith
+────────────────────────────────────────────────────────────────────────
+
+Ok. If you replace your FEP on every dent, you're going to go through a lot of FEPS. It still works with dents, just the last layer may not be perfectly flat.
+
+TazMan2000
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #5244570)
+Author    : ProfCoppersmith
+Date      : Oct 26, 2021 at 9:37 AM
+────────────────────────────────────────────────────────────────────────
+
+TazMan2000 said:
+
+			Ok. If you replace your FEP on every dent, you're going to go through a lot of FEPS. It still works with dents, just the last layer may not be perfectly flat.
+
+TazMan2000
+		
+
+Click to expand...
+
+I know but the dent I have is enough it noticeably warped my last print all the way down. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #5244577)
+Author    : acesh007
+Date      : Oct 26, 2021 at 9:56 AM
+Reactions : Like — ProfCoppersmith
+────────────────────────────────────────────────────────────────────────
+
+ProfCoppersmith said:
+
+			Sadly, half right. 
+
+I've been busy, mostly with work (Day Jobs); which is building a new attraction in Wisconsin Dells and we're a little over a month from our initial opening.  I'm also working one of their store fronts in the same area.  So between the two, I've only been giving myself one day off a week and it gets spent on rest and errands. 
+
+Also waiting on new FEP film for the printer in question.  It only came with two and I managed to dent both.
+
+So I haven't had a chance to try anything out. 
+
+BUT! Everything has arrived, and they won't be needing me at the store front for the next month or so, after Halloween, so I will finally be able to make time to work on MY stuff again.
+		
+
+Click to expand...
+
+Totally understand that. 
+
+I also think your base layer exposure is way too high. Im not too familiar with your printer but with my Epax X1 which is a mono screen I have a base layer of 4 and base exposure of 45 seconds. If you are using a color screen itll be a bit higher. If you have a mono screen your exposure time once printing will be between 2-3seconds, you can calibrate once you get things dialed in a little more. Id also suggest using grey resin to start off with, it's a little easier to get your settings right.
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 15

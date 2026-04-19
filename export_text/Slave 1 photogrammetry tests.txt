@@ -1,0 +1,662 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Slave 1 photogrammetry tests
+URL    : https://www.therpf.com/forums/threads/slave-1-photogrammetry-tests.241714/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #3682067)
+Author    : thorst
+Date      : Jun 25, 2015 at 1:45 PM
+Reactions : Like — dragnink, minifig, -... . .- --..
+────────────────────────────────────────────────────────────────────────
+
+Hello,
+
+I have been at the Star Wars Identities exhibition in Cologne some days ago, and was able to take some pictures of one of my favourite ships, the Slave 1. I took them with the intention to try photogrammetry, and I was able to find some free programs to to this, which seem to work pretty well. I am using VisualSFM with MeshLab and cmpmvs to produce point clouds and a textured mesh from the pictures. I was using exclusively the pictures I took myself, to prevent any misunderstandings, you know what I mean 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+.  Here are some screenshots of the mesh:
+
+[IMAGE: slave1_simplified_04.png]
+
+[IMAGE: slave1_simplified_03.png]
+
+[IMAGE: slave1_simplified_05.png]
+
+Now I am working with Rhino to draw a clean NURBS model for further steps. Aside from grave asymmetry, I found another strange thing:
+
+For absolute scale, I tried to use the body of R2D2 which was on display behind the Slave 1 and which was partially reconstructed by the software. I found the number of 19.35" for the cylindrical part of the body, and scaled the mesh accordingly. Now when I measure the body of the Slave 1, I get a length of almost exactly 26" (from the tip of the "nose" to the end of the skirt), and a width of 24.5" over the wings. However, the Chronicles list it to be 69cm times 66cm, which is 27.2" times 26".
+
+Does anybody know if the measurements given in the Chronicles book can be trusted this far? It would mean, that either the reconstruction of the R2-unit is wrong, or the measurement for it is wrong.
+
+Any help would be appreciated! 
+
+Cheers,
+
+Thorsten
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #3682153)
+Author    : MonsieurTox
+Date      : Jun 25, 2015 at 3:34 PM
+────────────────────────────────────────────────────────────────────────
+
+Nice job !
+
+No, measurements given in the Chronicles cant be trusted.
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #3682159)
+Author    : moffeaton
+Date      : Jun 25, 2015 at 3:41 PM
+────────────────────────────────────────────────────────────────────────
+
+Very cool!! This tech is fascinating.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #3682183)
+Author    : vfxsup64
+Date      : Jun 25, 2015 at 4:11 PM
+Reactions : Like — Huyang
+────────────────────────────────────────────────────────────────────────
+
+Ahhh...one of my favorite subjects - photogrammetry.
+
+When I was with the ANH Falcon a little over a year ago, I thought about how to deal with the issue of getting absolute scale references. Certainly donor kit parts are key but for a model on exhibit, inside a display case, the solution was right in front of me...measure the box it came in (or rather the display case surrounding the piece).
+
+So, I very discretely palmed a small measuring tape and ran it along one of the long straight lengths of the display case and made sure a few of my overall picture samples included that side of the display case. Once I solved that edge in the overall photogram and 3D tracking solve, I had a large measurement data point to refer everything else to. A good compare to the inner donor kit parts - and a good way to minimize/average out measurement error.
+
+Now, in lieu of possibly getting frowned upon by the local exhibit staff, one could have a friend stand next to the model, holding something of known measurement - a piece of notebook paper or a walking cane - something that is in view of the camera along with the model - some scale reference to relate everything else to!
+
+(P.S. Make sure that the scale reference does not move between pictures - it must be a rigid part of the "monolithic" structure you are solving for...)
+
+Regards, 
+
+Andre
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #3682453)
+Author    : thorst
+Date      : Jun 26, 2015 at 12:23 AM
+Reactions : Like — Huyang
+────────────────────────────────────────────────────────────────────────
+
+Thank you all!
+
+Andre, I thought about measuring the display case, too, but it was impossible as one of the staff members had his post directly at its side and surveillance was very strong (every flash was cared of). The other idea - including something with a known scale is essentially the same as what I tried with the R2-unit. Now I am unsure if the relative large distance from the Slave to R2  is a problem for the solve, or if the model of R2 is just not the one for which I got measurements.
+
+The third option - using donor kit parts - is impossible for me at the moment as I have none of the larger parts. And I guess only the wings are solved well enough to uses them for scaling.
+
+Regards,
+
+Thorsten
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #3682456)
+Author    : dsp5500
+Date      : Jun 26, 2015 at 12:29 AM
+────────────────────────────────────────────────────────────────────────
+
+You've taken good shots and it shows in the results :thumbsup
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #3682461)
+Author    : thorst
+Date      : Jun 26, 2015 at 12:35 AM
+────────────────────────────────────────────────────────────────────────
+
+dsp5500 said:
+
+			You've taken good shots and it shows in the results :thumbsup
+		
+
+Click to expand...
+
+Thanks! I am satisfied for it being my first photogrammetry project, but the area left of the cockpit, behind the "shpulder" isn't well solved as it was impossible to get good shots there.
+
+No flashlights were a real bummer, too, as you can see between the nose and the skirt.
+
+Cheers,
+
+Thorsten
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #3682462)
+Author    : DaddyfromNaboo
+Date      : Jun 26, 2015 at 12:45 AM
+────────────────────────────────────────────────────────────────────────
+
+Hi Thorsten,
+
+I plan to go tomorrow . Does the Slave sit in a cabinet on a rectangular column? I think I can quickly measure the column, why should anyone have anything against that, since I am not touching the model and there sure are maaaany kids who are going to lean against the exhibits 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+thorst said:
+
+			Thanks! I am satisfied for it being my first photogrammetry project, but the area left of the cockpit, behind the "shpulder" isn't well solved as it was impossible to get good shots there.
+
+No flashlights were a real bummer, too, as you can see between the nose and the skirt.
+
+Cheers,
+
+Thorsten
+		
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #3682463)
+Author    : dsp5500
+Date      : Jun 26, 2015 at 12:47 AM
+────────────────────────────────────────────────────────────────────────
+
+Place a rule along the cabinet and as long as it is in a few of the shots you can use it for scale in the solve.
+
+Andre already mentioned the same above.
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #3682469)
+Author    : thorst
+Date      : Jun 26, 2015 at 1:06 AM
+────────────────────────────────────────────────────────────────────────
+
+Hi DaddyfromNaboo,
+
+if you can do this, that would be great! Thank you for the offer! To be able to use the information, I would need some (at least around 10) pictures which show the Slave 1 as well as the scale reference you use from different angles, such that I can include it in my solve.
+
+The Slave 1 model sits in the corner of the first display case of the exhibition. I think it isn't square, the longer side faces to the entrance and shows the Boba Fett costume and some Stormtrooper helmets. The Slave 1 sits at the left side as seen from the entrance. Behind the Slave is R2. Directly besides the Slave, a staff member was standing all the time when I was there.
+
+I guess measuring the smaller side of the cabin would be the easiest - if the staff doesn't interrupt. Be prepared that the lighting is horrible - I used mostly ISO 6400 and about 1/30 sec exposure time at 1/fstop=4.8. It is important for the reconstruction that the scale reference is actually visible (not too dark), so the distance between the poles of the cabinet would  be the best I guess. 
+
+Sorry for the long description, but I am still excited by all of this 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Thorsten
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #3682571)
+Author    : DaddyfromNaboo
+Date      : Jun 26, 2015 at 6:01 AM
+────────────────────────────────────────────────────────────────────────
+
+HI Thorsten,
+
+no problem. I am not sure if I´ll take the ol´ camera with me tomorrow, but I´ll take the measurements if possible. So see you tomorrow in this thread 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #3682725)
+Author    : thorst
+Date      : Jun 26, 2015 at 9:53 AM
+────────────────────────────────────────────────────────────────────────
+
+Thank you!
+
+Thorsten
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #3683344)
+Author    : DaddyfromNaboo
+Date      : Jun 27, 2015 at 1:04 AM
+────────────────────────────────────────────────────────────────────────
+
+Aaand huuge disappointment! We cant go today, postponed until further notice @#$&!!!
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #3683495)
+Author    : thorst
+Date      : Jun 27, 2015 at 8:33 AM
+Reactions : Like — Huyang, Talkierg, struschie
+────────────────────────────────────────────────────────────────────────
+
+Here is a small update:
+
+I managed to get the first iteration of the basic parts drawn as NURBS surfaces. It showed again how much asymmetry this model has, and also how it was improvised in some areas. 
+
+Now I managed to get it back into Meshlab to do checks with the original photos. Here are some examples where you can see that I am not too far:
+
+[IMAGE: slave1_v0.1_comp_img_2446.gif]
+
+[IMAGE: slave1_v0.1_comp_img_2437.gif]
+
+[IMAGE: slave1_v0.1_comp_img_2459.gif]
+
+(the original pictures in these comparisons are not corrected for lens distortion, so errors in the corners are not unexpected)
+
+Now I see some problems that I need to address, but overall I am happy with the result, and still so excited about the whole photogrammetry process!
+
+Cheers,
+
+Thorsten
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #3688551)
+Author    : Commander Max
+Date      : Jul 2, 2015 at 9:52 PM
+────────────────────────────────────────────────────────────────────────
+
+I hope you don't mind a suggestion. 
+
+How about getting a measurement of one(or more) of the kit parts on the model. In relation to the rest of the model that should give an approximate size. Another is the lip of the platform it's sitting on(edge of the mirror, to the edge of the platform). 
+
+This technique reminds me of something that's going to be in our smart phones very soon, a 3d scanner. Today you can get one for less than $400 with decent resolution. A whole lot of people are not going to be very happy the day 3d scanners become common place.
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #3688620)
+Author    : thorst
+Date      : Jul 3, 2015 at 12:21 AM
+────────────────────────────────────────────────────────────────────────
+
+Thank you, Commander Max! 
+
+I have already got some measurements of wing parts for this purpose from another member here, and within the reading error (approx. 0.3 mm), it agrees exactly with the reconstructed model scaled with the body height of R2-D2. I just didn't post this yet as I wanted to show the final iteration of the surfaces then, too, which I don't have finished yet (I am on iteration #10 now, it's almost there).
+
+Of course, I would be happy for each new measurement I can get! I only can't use anything on the underside as the reconstrction is too bad there.
+
+(Don't want to discuss politics here, so I don't go deeper into the second part here, sorry ;-) )
+
+Cheers,
+
+Thortsen
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #3688949)
+Author    : E3kehoe
+Date      : Jul 3, 2015 at 11:28 AM
+────────────────────────────────────────────────────────────────────────
+
+I'm finding this really interesting and also it's Slave 1 sooo yay!!! But I don't really understand what's going on and why. Sorry. Great work but what is the ultimate goal of doing this kind of work. I just don't understand.
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #3688953)
+Author    : thorst
+Date      : Jul 3, 2015 at 11:33 AM
+────────────────────────────────────────────────────────────────────────
+
+E3kehoe, a CAD model can be the base for a "real" model. I am currently researching the possibilities to get plugs for vacuforming milled, based on the computer model. I will never ever be able to afford all donor kits, but if I really start building this, I'd like it to be as close to the original as I can do it, and the basic shape is a thing that I want to have perfect (within my abilities).
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #3688966)
+Author    : E3kehoe
+Date      : Jul 3, 2015 at 11:57 AM
+────────────────────────────────────────────────────────────────────────
+
+Alright that's kind of what I thought was going on. That makes my really excited to watch how all this goes down. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ I would love to have a studio scale Slave 1 more than anything. I just resorted to modifying a toy to get as close to one as I could ,with good results but still not an actual studio scale. I still kinda find it strange that of all the Star Wars ships that no one has a studio scale kit available to purchase..
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #3688968)
+Author    : thorst
+Date      : Jul 3, 2015 at 12:02 PM
+────────────────────────────────────────────────────────────────────────
+
+I have never built a studio scale model before, so don't put too much hope into me! :wacko
+
+But I have always been a fan of the Slave 1, and as I saw it live in Cologne I knew I need at least to try it. 
+
+And it is also a test for photogrammetry for me. It is an exciting technology that is just becomming advanced enough for dummies like me. 
+
+Cheers,
+
+Thorsten
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #3690262)
+Author    : Thagomizer
+Date      : Jul 5, 2015 at 10:53 AM
+────────────────────────────────────────────────────────────────────────
+
+Here's a photogrammetry tutorial I came across. It is palaeontologically oriented, but might still have useful tips.
+
+https://dinosaurpalaeo.files.wordpress.com/2014/08/jopt_01.jpg
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #3690412)
+Author    : thorst
+Date      : Jul 5, 2015 at 3:11 PM
+────────────────────────────────────────────────────────────────────────
+
+Thagomizer, thank you for the link! It sums up the facts that I had to learn the hard way during the last weeks, plus a lot more. 
+
+Basically, what I learned until now:
+
+- take as many pictures as you can, from every angle you can. If you think, you already have one from this angle, take another one.
+
+- don't worry too much about perfectionism. A picture with reflections in the glass in front of the object is better than no picture of that angle, and reflections that are present in only one picture can be treated by the software very well.
+
+- If possible, include something with a real measurement in the pictures (I was lucky to have R2 here).
+
+- be honest with the image quality. If you had to use ISO 6400 like me here and noise is high, you can shrink the image size down considerably for the reconstruction. It won't influence the reconstruction in a negative way but improve the runtime a lot.
+
+- If the lighting situation is bad and you have a very dark side, make a color correction before feature detection. I did a reconstruction for the B-Wing, of which the underside was very dark due to the lighting. Using the raw images resulted in the software not being able to align the pictures correctly and it resulted in three individual submodels. With a gamma correction of 1.4 of the pictures of the underside, I was able to use all pictures for the whle model and got a good result.
+
+There is still a lot to learn for me and I am sure that people here can give much better tips, but if I was to start again from scratch, these are the major points to consider.
+
+Cheers,
+
+Thorsten
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #3690808)
+Author    : DaddyfromNaboo
+Date      : Jul 6, 2015 at 4:03 AM
+────────────────────────────────────────────────────────────────────────
+
+thorst said:
+
+			...
+
+- don't worry too much about perfectionism. A picture with reflections in the glass in front of the object is better than no picture of that angle, and reflections that are present in only one picture can be treated by the software very well.
+
+{/quote]
+
+Use a "polarising filter" 
+
+			- be honest with the image quality. If you had to use ISO 6400 like me here and noise is high, you can shrink the image size down considerably for the reconstruction. It won't influence the reconstruction in a negative way but improve the runtime a lot.
+		
+
+Click to expand...
+
+Or you can try and use a noise reduction algorighm http://www.neatimage.com/
+
+			- If the lighting situation is bad and you have a very dark side ...
+		
+
+Click to expand...
+
+HAH!
+
+I´ll take an old analogue slr with me with a very good lense (fixed focus of 50mm, f 1.4) and see what I can get out of it. Unfortunately only 400 ASA film, but hey ...
+		
+
+Click to expand...
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #3690813)
+Author    : thorst
+Date      : Jul 6, 2015 at 4:21 AM
+────────────────────────────────────────────────────────────────────────
+
+Polarizing filters would delete half of the light - which would have made it even worse in this particular situation as it had required exposure times of more that 1/10 seconds without tripod (not allowed). As I said, I had settings of about ISO 6400, t=1/20-1/30 and f 4.5. Not a lot margin to reject any photons ;-)
+
+From my experience, noise reduction algorithms only work well for pictures with homogeneous brightness and not on the limit where a lot of the image is almost black with details standing out only marginally. The best algorithm can not bring back information that was never there. This is what I meant with "be honest with the image quality". If there is nothing to see, there is no reason to keep it.
+
+And a lens with f 1.4 will make pictures with such low depth of focus that you won't be able to use them for photogrammetry. For this you need to have the whole object sharp such that feature detection will work well. I found f 4.5 to work well, but you should not work below that. 
+
+Thorsten
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #3690914)
+Author    : DaddyfromNaboo
+Date      : Jul 6, 2015 at 6:28 AM
+────────────────────────────────────────────────────────────────────────
+
+All of that makes a dang lot of sense ... I´ll give it a try anyway, maybe set up a room with similar lighting to the exhibit and do a test beforehand.
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #3695270)
+Author    : rbeach84
+Date      : Jul 10, 2015 at 12:19 PM
+────────────────────────────────────────────────────────────────────────
+
+One bit: the digital model is missing the 'stepped' surface on the "nose"(?) forward of the cockpit glazing (speaking about the model being oriented with the engine exhausts/landing pad hull horizontal & facing downwards...)
+
+I suppose you'd seen it already, but just in case... Regards, Robert
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #3695276)
+Author    : thorst
+Date      : Jul 10, 2015 at 12:24 PM
+Reactions : Like — moffeaton
+────────────────────────────────────────────────────────────────────────
+
+Hi,
+
+yes, it's still missing, as it relies on the other three surfaces to be correct first. When they are finished, I'll add the smaller features such as the step you mentioned, the cutouts for the wings and the gun pod fairings.
+
+I had a small step backwards this week as I lost the progress of the week after the last pictures here due to a backup failure (completely my fault). But I have worked on it since then and am nearly finished with those basic surfaces. I'll keep you updated!
+
+Cheers,
+
+Thorsten
+────────────────────────────────────────────────────────────────────────
+Post #28  (forum post #3885218)
+Author    : rbeach84
+Date      : Jan 24, 2016 at 2:50 PM
+────────────────────────────────────────────────────────────────────────
+
+Hi, thorst.  Sort of a 'bump' as I've starting wading through all the Slave 1 (S-1) goodness here on the RPF because I've just come across the 'big' Hasbro Slave 1 as being a fairly good representation of the ship in 1/48 scale.  I've obtained a 'junker' to convert that needs scratchbuilt wings (for a start...) hence my quest to be better educated.  It looks like a S-1 to my eye but we all know how that goes; at least the deforms are apparently restricted to the interior and the working bits.  I'll keep checking back with you on your progress as I get more into it, think it will be fun to compare the toy to the real deal determination.  I will say the toys appears to be symmetrical!  ;^P
+
+Regards, Robert
+────────────────────────────────────────────────────────────────────────
+Post #29  (forum post #3885662)
+Author    : thorst
+Date      : Jan 24, 2016 at 11:50 PM
+────────────────────────────────────────────────────────────────────────
+
+Hi Robert,
+
+I didn't work on this one for some time, as I need to finish other projects first. Plus, I heard that the Star Wars Identities will be in Munic this summer, so I'll go there again and take some shots I need to get a better result in photogrammetry. And perhaps I can accidentally drop a reference ruler in front of it, such that I can determine the scale more precisely. I'll post progress then.
+
+Cheers, Thorsten
+────────────────────────────────────────────────────────────────────────
+Post #30  (forum post #4013254)
+Author    : thorst
+Date      : Jun 22, 2016 at 9:41 AM
+Reactions : Like — struschie, Galactican, kbilly
+────────────────────────────────────────────────────────────────────────
+
+Hi,
+
+it's been a long while since the last update, but I needed new data. This Monday I went to Munic to see Star Wars Identities again. This time I was prepared much better for taking pictures for photogrammetry. In 5 hours I took nearly 1900 photos from the Slave 1, the A- and B-Wing, the Star Destroyer, the AT-AT and a few of the Millennium Falcon. The biggest improvement was that I took a 1m-rule with me, which I put in fromt of the cabinets for a few shots of each model, such that the rule can be solved together with the spaceship models to give an absolute scaling object.
+
+[IMAGE: https://www.therpf.com/forums/attachments/slave1_munic_1800_example_01-png.1385589/]
+
+And I am amazed how well it worked for the Slave 1! The model changed place and was now inside the large cabinet with the Star Destroyer and most other models. The lighting there is worse, and some of the brighter bulbes are turned on only for about 1 minute every 12 minutes. To get consistent bright lighting, I took pictures only during those intervals and enjoyed the view during the remaining time.
+
+Again I used VisualSFM and CMPMVS for the analysis. This screenshot from VisualSFM depicts all used camera positions (358 in total):
+
+[IMAGE: https://www.therpf.com/forums/attachments/slave1_munic_1800_nvm_coverage_01-png.1385590/]
+
+CMPMVS took 13 hours to get this solve:
+
+[IMAGE: https://www.therpf.com/forums/attachments/slave1_munic_1800_cmpmvs_highres_rhino_01-png.1385591/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/slave1_munic_1800_cmpmvs_highres_rhino_02-png.1385592/]
+
+This was cleaned up in Meshlab and imported into Rhino.
+
+For all who don't want to know dimensional details, please do not read any further.
+
+With the rule in the solve I can now scale the model to real world dimensions. 
+
+I can now confirm the following measurements to an accuracy of about +/- 2mm (estimated upper limit of the uncertainty based on the rule's mesh density):
+
+Length of skirt:  588 mm
+
+Width of skirt:    333 mm
+
+To get a feeling of the accuracy of my first attempt, I imported the last iteration of my reconstructed Rhino model into the file, and it matched up perfectly sizewise, with the only larger inaccuracies worth mentioning being in the region where the first photogrammetry solve was bad because of bad coverage. For most other areas of the mesh the distance between my new solve and the first Rhino model is in the order of 1 mm. So I think both the method and the programs used proved that they lead to an accurate reconstruction.
+
+I'll now first focus on processing the other models before I try to make a new model of the Slave 1 in Rhino.
+
+Best regards,
+
+Thorsten
+────────────────────────────────────────────────────────────────────────
+Post #31  (forum post #4013264)
+Author    : Rats
+Date      : Jun 22, 2016 at 9:49 AM
+────────────────────────────────────────────────────────────────────────
+
+Wow. That's incredible. A lot of work, which seems to have paid off.  The final renders look amazing, a bit weird, but amazing all the same.
+────────────────────────────────────────────────────────────────────────
+Post #32  (forum post #4013416)
+Author    : DaveG
+Date      : Jun 22, 2016 at 1:12 PM
+────────────────────────────────────────────────────────────────────────
+
+Excellent! You've got my attention!
+────────────────────────────────────────────────────────────────────────
+Post #33  (forum post #4013425)
+Author    : Guy Cowen
+Date      : Jun 22, 2016 at 1:19 PM
+────────────────────────────────────────────────────────────────────────
+
+Really great job and hopefully if your spot on ( I couldn't resist by the way ) then I'm about 3-4mm out in width and about 6mm in length so not bad at all, really pleased 
+
+Make sure you post more as you go and really great work 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #34  (forum post #4013452)
+Author    : stonky
+Date      : Jun 22, 2016 at 1:44 PM
+────────────────────────────────────────────────────────────────────────
+
+Great stuff!
+────────────────────────────────────────────────────────────────────────
+Post #35  (forum post #4013467)
+Author    : thorst
+Date      : Jun 22, 2016 at 1:56 PM
+────────────────────────────────────────────────────────────────────────
+
+Thanks for the comments! 
+
+Guy, I'm really looking forward to see your model growing! A real one is always better than a virtual one!
+────────────────────────────────────────────────────────────────────────
+Post #36  (forum post #4013478)
+Author    : Guy Cowen
+Date      : Jun 22, 2016 at 2:05 PM
+Reactions : Like — thorst
+────────────────────────────────────────────────────────────────────────
+
+It's still nice to have it though bud and like I said I'll help where I can if you do manage to get it off the screen
+
+I think once the skirt is trimmed its hard to measure untill fixed but I'm slightly narrow on width but that's way better than being over as my last one us at about 348 after its relaxed off the Buck so this time I'm able to rectify a few mm here and there . Ive still to add correct sheet thickness and second skin so this will give me more width , where did you measure 333mm ? At the outer edge of the rear wing well opening?
+────────────────────────────────────────────────────────────────────────
+Post #37  (forum post #4013486)
+Author    : thorst
+Date      : Jun 22, 2016 at 2:20 PM
+────────────────────────────────────────────────────────────────────────
+
+Guy Cowen said:
+
+			It's still nice to have it though bud and like I said I'll help where I can if you do manage to get it off the screen
+		
+
+Click to expand...
+
+I really appreciate it!
+
+Guy Cowen said:
+
+			I think once the skirt is trimmed its hard to measure untill fixed but I'm slightly narrow on width but that's way better than being over as my last one us at about 348 after its relaxed off the Buck so this time I'm able to rectify a few mm here and there . Ive still to add correct sheet thickness and second skin so this will give me more width , where did you measure 333mm ? At the outer edge of the rear wing well opening?
+		
+
+Click to expand...
+
+It's the maximum width of the oval without the cutouts, and a first approximation, so give or take a mm (the uncertainty of my first scaling attempt - the +/-2mm as mentioned above - is larger than the difference between the total width of the oval and the distance between the edges you mention, so I didn't yet try to refine it). When I will start the CAD work, I'll first revisit the scaling and try to push it to +/- 1mm, I have Ideas how to do this.
+
+Regarding your skirt pulls: the relation of the difference between your skirt and my measurements in both directions - length and width - seems to be about the same factor as the total length and width (3mm/6mm ~ 588mm/333mm). In principle that should allow you to get almost exactly my skirt model if you just cut the skirt a little bit lower, if you have enough room. I sent you my latest CAD model some time ago, you may be able to check this against your model to see if that can be done. Just don't look at the upper starboard quadrant of the skirt, that was not covered enough with my first photogrammetry attempt. 
+
+But of course, feel free not to trust these numbers too much, I don't want to be guilty if it's wrong in the end. I only do my best with the limited tools I have.
+────────────────────────────────────────────────────────────────────────
+Post #38  (forum post #4013495)
+Author    : Guy Cowen
+Date      : Jun 22, 2016 at 2:31 PM
+────────────────────────────────────────────────────────────────────────
+
+Don't worry bud mines set in stone as it all links together re armature, all parts fit where they should and it's full steam ahead , for a few mm I wouldn't amend it at all and could even just pull over a pull on the Buck but would loose the trim lines so just rocking with what I have. 333mm sounds about right as internal is around 326, with 3mm of skirt either side so very close,
+────────────────────────────────────────────────────────────────────────
+Post #39  (forum post #4013505)
+Author    : WINGNIT
+Date      : Jun 22, 2016 at 2:42 PM
+────────────────────────────────────────────────────────────────────────
+
+I used to fly aerial mapping and spent a ton of time on photogrammetry missions.  Never thought of applying it to a model.  Smart!
+
+The only thought I didn't see (forgive me if I missed it), was to calculate the distance between the 1mm rule and the model itself.  As well as a small factor for camera lens distortion (though at that distance, I it may have very little effect).  Between that and measuring a known kit part on the model, I would think you would be assured of being dead on.  
+
+Awesome work!
+────────────────────────────────────────────────────────────────────────
+Post #40  (forum post #4013517)
+Author    : thorst
+Date      : Jun 22, 2016 at 2:56 PM
+Reactions : Like — MonsieurTox
+────────────────────────────────────────────────────────────────────────
+
+Well I certainly wasn't the first one to use photogrammetry for this task, in fact, I got the idea here from another thread on the Millennium Falcon.
+
+Lens distortion is cared about by CMPMVS, as far as I understand the program. You can also overlay your reconstructed model with the photos using the reconstructed camera positions, and it's dead on. Additionally, lens distortion should only affect the general mesh accuracy but not bias any directions, as long as the coverage of angles around the model is not very limited. In this case, I have nearly 360° in azimuth and +/-30° in elevation, so any lens distortion effect should average out, even if it would not be cared of as a free fitting parameter. The advantage is really that you can determine camera position, angle, focal length and lens distortion plus the model geometry all at once. At least that's how I understand it.
+
+Lens distortion has a huge impact on other kinds of photoreconstrution methods though where only one photo is used, so you are right in principle.
+────────────────────────────────────────────────────────────────────────
+Post #41  (forum post #4013637)
+Author    : marvin
+Date      : Jun 22, 2016 at 5:33 PM
+────────────────────────────────────────────────────────────────────────
+
+Wow exellent work Thorst! Id be really interested what you can do with the B since Guy and I are working on one now.
+────────────────────────────────────────────────────────────────────────
+Post #42  (forum post #4013675)
+Author    : MonsieurTox
+Date      : Jun 22, 2016 at 6:15 PM
+────────────────────────────────────────────────────────────────────────
+
+Awesome results Thorsten !!
+────────────────────────────────────────────────────────────────────────
+Post #43  (forum post #4013974)
+Author    : DanielB
+Date      : Jun 23, 2016 at 6:27 AM
+────────────────────────────────────────────────────────────────────────
+
+This is such a cool idea.
+────────────────────────────────────────────────────────────────────────
+Post #44  (forum post #4014064)
+Author    : thorst
+Date      : Jun 23, 2016 at 8:22 AM
+────────────────────────────────────────────────────────────────────────
+
+Thanks!
+────────────────────────────────────────────────────────────────────────
+Post #45  (forum post #4014075)
+Author    : CAPTAINCOX
+Date      : Jun 23, 2016 at 8:37 AM
+────────────────────────────────────────────────────────────────────────
+
+DANG! superb work and really cool that you are using this tech!. Cant wait to see more. Echt Geil!
+────────────────────────────────────────────────────────────────────────
+Post #46  (forum post #4014132)
+Author    : Galactican
+Date      : Jun 23, 2016 at 10:01 AM
+────────────────────────────────────────────────────────────────────────
+
+Excellent progress, Thosten! 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #47  (forum post #4014205)
+Author    : vfxsup64
+Date      : Jun 23, 2016 at 11:52 AM
+────────────────────────────────────────────────────────────────────────
+
+Thorsten, 
+
+Beautiful work, sir! Really nice.
+
+Photogrammetry is a very powerful tool when one can't have tactile access to the miniature. As you know, the photography issues are a real challenge. Exposure, depth of field, shutter speed and covering the angles...very tricky in the context of an exhibit show. 
+
+Once you've shot your images, you throw them into the software, choose appropriate settings/solve parameters and cross your fingers, to a large extent. At the end of the day, it's not an exact solution, but something to start with and build upon. 
+
+Looking forward to seeing more!
+
+Regards, 
+
+André
+────────────────────────────────────────────────────────────────────────
+Post #48  (forum post #4015530)
+Author    : thorst
+Date      : Jun 25, 2016 at 6:59 AM
+────────────────────────────────────────────────────────────────────────
+
+Well, there are a lot more things you can tweek at the photogrammetry stage than I thought at first. For example, the solves of the A-Wing and the SD seemed to be a disaster at first, but when you understand the problems, you can try to resolve them.
+
+In the case of the A-Wing I had the problem that some angles were missing/the pictures were blurry, and the result were two separate models for the right and left side. I managed to work around it by inserting pictures with both the A-Wing and the Slave 1 on it and a bunch of Slave 1 pictures of which I have more than enough, and with which a connection could be found between both sides.
+
+In the case of the Star Destroyer, the problem is that on both sides there are illuminated text panels which look to be the same. The software bites into these parts of the picture because the contrast is very high there and the quality of the features found is good, but the result is that both sides of the model are reconstructed overlapping, such that the text panel(s) is optimized. I now try to insert the pictures in a sequence which does not allow this behaviour, if this does not help, I'll just paint over the text in all pictures of one side. 
+
+So there is a lot you can tweak apart from the software parameters themselves!
+
+Cheers,
+
+Thorsten
+────────────────────────────────────────────────────────────────────────
+Post #49  (forum post #4015923)
+Author    : struschie
+Date      : Jun 25, 2016 at 10:06 PM
+────────────────────────────────────────────────────────────────────────
+
+Geiles Ergebnis - den Aufwand wert...!!!
+────────────────────────────────────────────────────────────────────────
+Post #50  (forum post #4019928)
+Author    : slynger
+Date      : Jul 1, 2016 at 3:48 AM
+────────────────────────────────────────────────────────────────────────
+
+While the tech is way over my head, I'll be following this in hopes we get a model of the Slave 1. Such a cool ship, and the details you're getting are fantastic. Great work!
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 50

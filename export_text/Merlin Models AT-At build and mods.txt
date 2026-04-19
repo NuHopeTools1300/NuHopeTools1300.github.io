@@ -1,0 +1,1092 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : Merlin Models AT-At build and mods
+URL    : https://www.therpf.com/forums/threads/merlin-models-at-at-build-and-mods.352424/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #5441656)
+Author    : Flyscriber
+Date      : Jun 14, 2023 at 12:58 AM
+Reactions : Like, Love — rbeach84, stevielewis, Sym-Cha
+────────────────────────────────────────────────────────────────────────
+
+HI folks. I seem to be having issues uploading on this site at the moment, so please bear with me.
+
+Well its been a while since i posted anything on here. Ive had projects coming out of my ears these last few months, some of them have been real long term painting jobs which im glad to say are coming to an end now. So as ever, not being one to have a gap between projects i'm starting the Merlin At-At.
+
+On inspection it looks to be very good. I must say they did a great job on the casting. Some air holes in the belly surface cast but nothing to bother a resin model enthusiast/masochist like me.
+
+So i started a trial assembly and noticed a few things which no one seems to mention !.
+
+So being nice and quiet, not wanting to make the model look bad or upset anyone, heres a quick recap on my findings.
+
+Firstly the leg joints are splined together, great if you know which pose you want, not good if you fancy posing it without taking each joint apart every time you adjust them, especially the neck joints which are hidden inside the flexible tube.
+
+But the main elephant in the room is, the legs are not the correct length, both in relation top top bottom and overall length !. Did someone drop the ball here, that can’t be right, right!
+
+I took my favourite reference of the original hero model and overlayed the lengths from my Master Replicas version to check if it was in the ballpark. Relative sizes of top and lower legs are pretty much spot on. It seems the MR version is pretty good for comparison. Next I measured up the Merlin version and overlayed that onto the same image, and they are well out in both proportion and length. Heres a quick image to hopefully show the differences to the filming miniature.
+
+Whats up with the feet !. All the feet have been cast in the unweighted position, ie, not compressed down as seen on the original. Why someone would mould these as an "in flight" all feet off the ground option is beyond me, so im now thinking about redoing those as well !!
+
+Next is the somewhat unspoken but very important issue of longevity. In my humble opinion there simply isn’t enough reinforcement in the legs for the model to last over the years. Most collectors of studio scale models keep them for over 10 years+, I have some here which are much older ! Sad I know LOL. My reasoning is the resin is so very soft that I believe it cannot be straight and true in those areas for any length of time. Im guessing/ hoping I'm wrong, and everyone who's built one so far has a nice straight AT-AT in 5 years time, but i would wager against it.
+
+On inspection the legs were already suffering from misalignment/deflection due to curing issues in the resin where the thick meets the thin (as normal for most resin kits and curable using hot water and some careful bending) and also slightly bent. This really infuriates me as a model maker. If anything is supposed to be straight, it takes minimal deflection to make it look “wonky” and I hate that. So it didn’t take me long to realise that I needed to start again and completely re-make the legs. Such is my life of obsession.
+
+Big C has the crown for the best looking set of legs on this forum and was a great inspiration to get me started on this Cheers Big C. Nice legs man !!!
+
+So I sat and measured away to get the files I needed.
+
+Starting from scratch with a multi layered Perspex build in mind, I decided I would like moving pistons, infinite adjustability on each joint with no splines. I knew there is simply too much micro sized internal engineering to add using a laser cutter and perspex as a build medium, but I could definitely add some functionality to the details. So I took advantage of the original screws visible on the inside surface of the legs and used them as fulcrums for the internal piston actuator arm. I know the pistons wont move with the joints, but they add bit of "playability" for posing. Main joints are simply locked using Allen keys with a magnetic cover on each joint. All very simple like.
+
+So far i have these.
+
+ 
+
+Attachments
+
+[IMAGE: 1352837-177410a3c11dcd40961bf78db6d10edb.jpg]
+
+Merlin v MR on ref.jpg
+
+					494.4 KB
+					
+					· Views: 452
+					
+				
+
+[IMAGE: 1352839-ce72c7242000118ed73be53b1805a9c4.jpg]
+
+MR and Merlin legs complete 12mm difference without foot.jpg
+
+					697.8 KB
+					
+					· Views: 456
+					
+				
+
+[IMAGE: 1352842-da03ef7b35098a80540e28054f5d101a.jpg]
+
+IMG_5107.jpeg
+
+					384.2 KB
+					
+					· Views: 444
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #5441659)
+Author    : Bjorn
+Date      : Jun 14, 2023 at 3:09 AM
+Reactions : Like — JLinNY, joberg, Junk Pilot
+────────────────────────────────────────────────────────────────────────
+
+As usual Andy, keen to see how you go about this mate. 
+
+Was discussing this model with Junkpilot on here only the other day after seeing one.
+
+Castings are exceptional. I have no doubt this will interest many others.
+
+Cheers,
+────────────────────────────────────────────────────────────────────────
+Post #3  (forum post #5441660)
+Author    : Junk Pilot
+Date      : Jun 14, 2023 at 3:37 AM
+Reactions : Like — Bjorn, Flyscriber, joberg
+────────────────────────────────────────────────────────────────────────
+
+I know this kit isn't 100% and I will probably find things I don't like about it but I've been waiting literally decades for a large scale kit like this.
+
+I received my order just this morning but also picked up a second one locally several weeks ago (huge shout out to PL) and was able to quickly compare the ankle of a MM leg to a MR leg and noticed the MM was slightly larger. The details aren't exact to the actual kit parts but I've managed to get a number of kits and parts to think about replacing them.
+
+There are definitely areas that can be improved (if they decide to continue with the molds) in particular the upper part of the foot which are in their extended position as though there is no weight on them when they should be compressed as well as the chin guns should be molded in two parts to allow for one of the guns to be posed in a "firing position".
+
+Regardless of the above I think these are minor issues if you're not going for accuracy.
+────────────────────────────────────────────────────────────────────────
+Post #4  (forum post #5441794)
+Author    : Flyscriber
+Date      : Jun 14, 2023 at 2:38 PM
+Reactions : Like, Love, Wow — stevielewis, Sym-Cha, joberg
+────────────────────────────────────────────────────────────────────────
+
+So heres what i have for the 4 legs, minus a couple of parts. I simply truncated the foot "horseshoe" holders and designed the lower perspex to  align over the already molded gear pivots. I recon this should keep them nicely inline and square to the perspex parts.
+
+The rest of the model is impecable in detail as you say, some of the 3d designed greeblies hiding underneath are a little impressionistic, but not far off the originals. I certainly wont be redoing any of those. I did think about replacing the Harrier parts with originals, but they seemed a bit tight. On final assembly i will see if it's possible to replace them whilst keeping the articulation.
+
+heres the overview of the trial assembly parts.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5143-jpeg.1710496/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5139-jpeg.1710495/]
+────────────────────────────────────────────────────────────────────────
+Post #5  (forum post #5441902)
+Author    : Junk Pilot
+Date      : Jun 15, 2023 at 4:00 AM
+────────────────────────────────────────────────────────────────────────
+
+Wow. That's up there with Big C's armature. Looks amazing.
+────────────────────────────────────────────────────────────────────────
+Post #6  (forum post #5441927)
+Author    : joberg
+Date      : Jun 15, 2023 at 5:49 AM
+────────────────────────────────────────────────────────────────────────
+
+Excellent beginnings...will follow for sure
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #7  (forum post #5442057)
+Author    : Flyscriber
+Date      : Jun 15, 2023 at 1:51 PM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Junk Pilot said:
+
+			Wow. That's up there with Big C's armature. Looks amazing.
+		
+
+Click to expand...
+
+Thanks, but this is just a facsimile, his is the real deal 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+. Hopefully it will look the part.
+────────────────────────────────────────────────────────────────────────
+Post #8  (forum post #5442062)
+Author    : Flyscriber
+Date      : Jun 15, 2023 at 2:04 PM
+Reactions : Like, Love — p51, norscout, rbeach84
+────────────────────────────────────────────────────────────────────────
+
+So once i had the main leg bits sorted i turned to replacing the main metal shafts which run vertically into the body with 10mm bolts. I taped the part supplied with the kit and left a nice shank length to them, the same thing as Adam Savage did on his. I tried them in the original resin sockets, but they are slack and the resin cannot stand the force of the grub screw without deforming. So i drilled out the main collars and added a 10mm id x 14mm od tube, with the 3mm grub screw in there, and they work perfectly. No slack and a nice engineered feel. So thats the ticket for those bits.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5274-jpeg.1710738/]
+
+next up was getting the legs on there for a quick test. The legs are all rough built with much more work to go at this stage.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5299-jpeg.1710741/]
+
+So i thought i would check out the possibilities of my favourite pose for an ATAT, just to see if i could get somewhere close
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5301-jpeg.1710742/]
+
+Im very happy with the articulation and the locking ability of the joints. so it's now time to get a set finished off and on with the build.
+────────────────────────────────────────────────────────────────────────
+Post #9  (forum post #5442115)
+Author    : JediMichael
+Date      : Jun 15, 2023 at 6:48 PM
+────────────────────────────────────────────────────────────────────────
+
+Looking really good so far.  
+
+Ankles look like they are frozen like like....lol.
+────────────────────────────────────────────────────────────────────────
+Post #10  (forum post #5442192)
+Author    : Junk Pilot
+Date      : Jun 16, 2023 at 1:38 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+I'm loving what you're doing. I'm also thinking about doing something similar to what you and Adam Savage did with regards to replacing the metal rod with a bolt. I just have to think about how I want to do it.
+────────────────────────────────────────────────────────────────────────
+Post #11  (forum post #5442559)
+Author    : joberg
+Date      : Jun 17, 2023 at 11:34 AM
+────────────────────────────────────────────────────────────────────────
+
+^^
+
+What he said; makes it better and stronger for sure.  The stance will develop naturally once the legs/feet are completed
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #12  (forum post #5443915)
+Author    : Jedi Dade
+Date      : Jun 22, 2023 at 9:15 AM
+────────────────────────────────────────────────────────────────────────
+
+This is SUPER Nice!  Your AT-AT will be a stunner for sure. 
+
+Jedi Dade
+────────────────────────────────────────────────────────────────────────
+Post #13  (forum post #5444043)
+Author    : Scott Graham
+Date      : Jun 22, 2023 at 3:43 PM
+────────────────────────────────────────────────────────────────────────
+
+I noticed something seemed odd about the MM kit builds. The legs did look long. Interesting how out of proportion the legs are. Hopefully they fix it in the future. Thanks for sharing your build.
+────────────────────────────────────────────────────────────────────────
+Post #14  (forum post #5444156)
+Author    : Junk Pilot
+Date      : Jun 23, 2023 at 12:00 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Scott Graham said:
+
+			I noticed something seemed odd about the MM kit builds. The legs did look long. Interesting how out of proportion the legs are. Hopefully they fix it in the future. Thanks for sharing your build.
+		
+
+Click to expand...
+
+That will depend on the cost of making new molds for it and whether they intend on maintaining the kit in its product range.
+────────────────────────────────────────────────────────────────────────
+Post #15  (forum post #5444157)
+Author    : Scott Graham
+Date      : Jun 23, 2023 at 12:13 AM
+────────────────────────────────────────────────────────────────────────
+
+Junk Pilot said:
+
+			That will depend on the cost of making new molds for it and whether they intend on maintaining the kit in its product range.
+		
+
+Click to expand...
+
+Yes, I follow them. They intend to make yearly runs. They will probably update based on the new info.
+────────────────────────────────────────────────────────────────────────
+Post #16  (forum post #5444162)
+Author    : Junk Pilot
+Date      : Jun 23, 2023 at 12:58 AM
+Reactions : Like — dcarty, ShadoControl, joberg
+────────────────────────────────────────────────────────────────────────
+
+Scott Graham said:
+
+			Yes, I follow them. They intend to make yearly runs. They will probably update based on the new info.
+		
+
+Click to expand...
+
+If they did and offered the new one's for sale separately I'd get them
+────────────────────────────────────────────────────────────────────────
+Post #17  (forum post #5446908)
+Author    : Jediseth
+Date      : Jul 2, 2023 at 11:15 AM
+Reactions : Like, Love — p51, Aegis159, Padawan311
+────────────────────────────────────────────────────────────────────────
+
+Scott Graham said:
+
+			I noticed something seemed odd about the MM kit builds. The legs did look long. Interesting how out of proportion the legs are. Hopefully they fix it in the future. Thanks for sharing your build.
+		
+
+Click to expand...
+
+Before you all jump on the band wagon of the Merlin Model's kit's legs look too long. I would like to point out a few possible over looked details.
+
+It's my understanding that there were at least 5 studio scale AT AT models originally made and several other sizes with differences between them for ESP. I believe MM used scans from the Star Wars Chronicles Vehicles book as reference for painting, but I'm uncertain if that was the only reference they used when building the model for cast. I have come to the conclusion that the Merlin Models kit could be accurately in proportion to the screen used model depending on which model of reference your looking at.  They did an immaculate job getting all the details which is way more difficult in my opinion then getting the length of the legs right which would be more noticeable.  I have finally seen this model in hand and can say it's probably the best most accurate model ever produced for public purchase in my opinion and I wouldn't hesitate to buy it if on the fence.
+
+[IMAGE: https://www.therpf.com/forums/attachments/rny7s6p-jpg.1715408/]
+────────────────────────────────────────────────────────────────────────
+Post #18  (forum post #5446974)
+Author    : Flyscriber
+Date      : Jul 2, 2023 at 2:47 PM
+Reactions : Like — vectorzero, cdyoung, joberg
+────────────────────────────────────────────────────────────────────────
+
+I totally agree with what you're saying jediseth. It is by far the best model of this iconic design ever released, no doubt. I also checked against the large scale AT AT version as well, and i agree there are differences depending on which version is chosen and the large scale is the closest. I am in the sometimes confusing position of building for clients, and as such i need to upgrade most of the models i get for longevity and accuracy. So i tend to be a little obsessive on the accuracy of each model im making. This particular build is intended to be as close as i can get to the main stop motion model seen on screen (the image i overlayed the design onto). So thats my challenge for these upgrades. Even if i built this kit without doing any upgrades it would obviously still look amazing as you say. Don't get me wrong, I totally understand the work and passion which has gone into this model kit, and hats off to Merlin for getting it produced in the first place. But, i do need to match the model required by the client as best i can. So this is my journey trying to reach that goal. It's not meant to offend, or upset, just to be truthful about what i find, and how i try to sort it out.
+────────────────────────────────────────────────────────────────────────
+Post #19  (forum post #5447427)
+Author    : Junk Pilot
+Date      : Jul 4, 2023 at 2:12 AM
+Reactions : Like — p51, Bjorn, Scott Graham
+────────────────────────────────────────────────────────────────────────
+
+The Merlin Models AT-AT may not 100% but it's close enough for me.
+
+Ever since I first saw them on screen I thought these machines were incredible and I always wanted a model that was detailed, articulated and BIG. Merlin Models has been the only one to make my dream come true and I knew when I first saw their model I just HAD to have it. And when I first saw it in person (BIG shout out to Peter Lawrence) it was even more impressive than I imagined. I found it hard to believe it could all fit in such a small box.
+
+Suffice to say I love it and am so grateful to Ethan and Justin for filling the void with a great product.
+
+In saying that though I have been picking up some kit parts from vintage kits that ILM used on the AT-AT and decided to take some pics of them to compare them to the AT-AT kit.
+
+[IMAGE: 1358317-9ec52f76e05de5163ab633fba610a0bd.jpg]
+
+[IMAGE: 1358318-9d90e6993302de987059d986329ed010.jpg]
+
+[IMAGE: 1358319-6dbdab135d8f7ca7f16351f90cda7505.jpg]
+
+[IMAGE: 1358320-f0334e985689a08c7ee8653e2cd028b3.jpg]
+
+[IMAGE: 1358321-ff0e45590e220b2a1e59262cd9258576.jpg]
+
+[IMAGE: 1358322-6ccd0bebb496b4c3123aad99d5710067.jpg]
+
+[IMAGE: 1358323-a1f8861bc768f91f79d5b6e16ae3dcd3.jpg]
+
+[IMAGE: 1358324-44fac883d57ef330f76905e68a1fe465.jpg]
+
+[IMAGE: 1358325-b62ac0d13410ed7e20eeb9736e127e5c.jpg]
+────────────────────────────────────────────────────────────────────────
+Post #20  (forum post #5447445)
+Author    : christrom
+Date      : Jul 4, 2023 at 5:18 AM
+────────────────────────────────────────────────────────────────────────
+
+Rather than remaking the legs, wouldn't it be easier to cut the top part of the legs down just above the knee joint? Then the knees and feet would align with the MR version?
+────────────────────────────────────────────────────────────────────────
+Post #21  (forum post #5447568)
+Author    : Junk Pilot
+Date      : Jul 4, 2023 at 12:39 PM
+────────────────────────────────────────────────────────────────────────
+
+christrom said:
+
+			Rather than remaking the legs, wouldn't it be easier to cut the top part of the legs down just above the knee joint? Then the knees and feet would align with the MR version?
+		
+
+Click to expand...
+
+That would be possible but I expect you would have to add some internal bracing to strengthen the joint.
+────────────────────────────────────────────────────────────────────────
+Post #22  (forum post #5448401)
+Author    : vectorzero
+Date      : Jul 7, 2023 at 4:44 AM
+────────────────────────────────────────────────────────────────────────
+
+Junk Pilot said:
+
+			The Merlin Models AT-AT may not 100% but it's close enough for me.
+
+Ever since I first saw them on screen I thought these machines were incredible and I always wanted a model that was detailed, articulated and BIG. Merlin Models has been the only one to make my dream come true and I knew when I first saw their model I just HAD to have it. And when I first saw it in person (BIG shout out to Peter Lawrence) it was even more impressive than I imagined. I found it hard to believe it could all fit in such a small box.
+
+Suffice to say I love it and am so grateful to Ethan and Justin for filling the void with a great product.
+
+In saying that though I have been picking up some kit parts from vintage kits that ILM used on the AT-AT and decided to take some pics of them to compare them to the AT-AT kit.
+
+View attachment 1715804View attachment 1715805View attachment 1715806View attachment 1715807View attachment 1715808View attachment 1715809View attachment 1715810View attachment 1715811View attachment 1715812
+
+Click to expand...
+
+Like the choices. Considered swapping the Harrier engines for the real thing, but the knock on effect of the Merlin facsimiles being smaller wasn't worth the re engineering. Andy Is raiding the Leopold for the accurate universal greeblie. On the chin gun is that early release 1/35th Tamiya StuG III as a replacement barrel?
+────────────────────────────────────────────────────────────────────────
+Post #23  (forum post #5448404)
+Author    : Junk Pilot
+Date      : Jul 7, 2023 at 5:23 AM
+Reactions : Like — Flyscriber, joberg
+────────────────────────────────────────────────────────────────────────
+
+vectorzero said:
+
+			Like the choices. Considered swapping the Harrier engines for the real thing, but the knock on effect of the Merlin facsimiles being smaller wasn't worth the re engineering. Andy Is raiding the Leopold for the accurate universal greeblie. On the chin gun is that early release 1/35th Tamiya StuG III as a replacement barrel?
+		
+
+Click to expand...
+
+Yes that is the Tamiya StuG III barrel. I also found that the CMK StuG III from the 90s is in fact a repop of the vintage Tamiya kit.
+
+With the universal greeblie it can be found in the Morser Karl as well and there's about 10 per kit, perhaps more so I've got spares
+────────────────────────────────────────────────────────────────────────
+Post #24  (forum post #5450530)
+Author    : Flyscriber
+Date      : Jul 13, 2023 at 3:16 PM
+Reactions : Like, Love — el toro, borisv, p51
+────────────────────────────────────────────────────────────────────────
+
+So, once again my updates have become a little sparse. Ive been at it a few more days now and the assemblies are taking shape. Ive worked the detailing in perspex throughout as best i can by etching relief into the surface to emulate the grooves etc. Im now at the stage of making the smaller details from as many real kits and screw heads as i can
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5493-jpeg.1719084/]
+
+ I did a fair bit of work on the feet, but not in shortening the "top hat" extended part. I decided that to drop those by the 4mm or so needed was going to be a lot of work making a jig for my lathe to hold the feet, then turning the tops off along the seam line, recessing the bottom half and reassembling. In reality they do look considerably taller than the Master replicas version, so the eye sees that as a large discrepancy. But the MR feet are actually a little short in height for this particular hero model, so i am willing to go a little over height on those when compared to MR. Should they become a nuisance in future they can be addressed then.
+
+I did drill out the main support hole through the feet and fitted 6.5mm ferrules through them with a nice interference fit. They were shortened considerably to get the end caps to fit the horseshoes nicely and the whole assembly is now nice and tight yet moveable.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5585-jpeg.1719086/]
+
+I also changed the brass tube diameters in the pistons to a more in keeping set with fatter look and thinner walls
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5597-jpeg.1719090/]
+
+I've cut off the ends of the outer guns to match the reference, butchered another 20mm flak gun and am just waiting for the chin guns donor kits to arrive.
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5622-jpeg.1719093/]
+
+so the main body assembly is now together. It needed some fudging on the rear end to get the parts to line up and some filler, but thats nothing unusual to me. There is a little 5mm or so difference in the overall length of the main chassis and the alignment points on the body, but as its all hidden away under the rear end im doubting it will even be noticed.
+
+Back to the legs, it was on with the greeblies, on with the cut down button head allen screws, more sanding and primer, this time in white. Assembling once again and striking a pose to check it out. OOH its clean and bright in white !.
+
+Im thinking it needs a fair battle battering next. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5699-jpeg.1719094/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_5702-jpeg.1719095/]
+
+Next up is the base coat colour then the main weathering. Ill post some of the painting on here as i go. The main painting guide will be done on video which i'll post on here as well. Happy modelling everyone
+────────────────────────────────────────────────────────────────────────
+Post #25  (forum post #5450664)
+Author    : Junk Pilot
+Date      : Jul 14, 2023 at 5:22 AM
+────────────────────────────────────────────────────────────────────────
+
+That's great work. Did you get some StuG barrels or are you use similar?
+────────────────────────────────────────────────────────────────────────
+Post #26  (forum post #5450922)
+Author    : Flyscriber
+Date      : Jul 15, 2023 at 4:15 AM
+Reactions : Like — Junk Pilot, joberg
+────────────────────────────────────────────────────────────────────────
+
+Im just waiting on a delivery for a couple of Stug kits, then im well on the way to getting this painted. It's so nice to have a model i can just move and lock into position. It's a new feeling to me, even after all these years, i've never had a model which feels like it should, if you know what i mean. I am obviously dreaming, as i've never had the pleasure of operating a stop motion AT-AT, (im guessing less people have done that than travelled to the moon), but i presume it would be something similar to the feel of this. I am soooo tempted to cut the legs off my MR version and make a set for myself. Ill resist that temptation for as long as i can LOL. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #27  (forum post #5450954)
+Author    : joberg
+Date      : Jul 15, 2023 at 7:21 AM
+────────────────────────────────────────────────────────────────────────
+
+This looks F.A.B. mate
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ Eager to see the paint/wear and tear video!!
+────────────────────────────────────────────────────────────────────────
+Post #28  (forum post #5451179)
+Author    : Neo-uk
+Date      : Jul 16, 2023 at 3:27 AM
+────────────────────────────────────────────────────────────────────────
+
+Anyone got a link for these
+────────────────────────────────────────────────────────────────────────
+Post #29  (forum post #5451392)
+Author    : Junk Pilot
+Date      : Jul 17, 2023 at 4:18 AM
+────────────────────────────────────────────────────────────────────────
+
+Neo-uk said:
+
+			Anyone got a link for these
+		
+
+Click to expand...
+
+...a link for what?
+────────────────────────────────────────────────────────────────────────
+Post #30  (forum post #5451393)
+Author    : Neo-uk
+Date      : Jul 17, 2023 at 4:20 AM
+────────────────────────────────────────────────────────────────────────
+
+The AT AT model kit
+────────────────────────────────────────────────────────────────────────
+Post #31  (forum post #5451395)
+Author    : Junk Pilot
+Date      : Jul 17, 2023 at 4:26 AM
+────────────────────────────────────────────────────────────────────────
+
+Neo-uk said:
+
+			The AT AT model kit
+		
+
+Click to expand...
+
+Message sent
+────────────────────────────────────────────────────────────────────────
+Post #32  (forum post #5451396)
+Author    : Neo-uk
+Date      : Jul 17, 2023 at 4:27 AM
+────────────────────────────────────────────────────────────────────────
+
+Junk Pilot said:
+
+			Message sent
+		
+
+Click to expand...
+
+Ta
+────────────────────────────────────────────────────────────────────────
+Post #33  (forum post #5451397)
+Author    : Junk Pilot
+Date      : Jul 17, 2023 at 4:29 AM
+────────────────────────────────────────────────────────────────────────
+
+Neo-uk said:
+
+			Ta
+		
+
+Click to expand...
+
+I have this kit as well. Is there anything you want to know?
+────────────────────────────────────────────────────────────────────────
+Post #34  (forum post #5451399)
+Author    : Neo-uk
+Date      : Jul 17, 2023 at 4:34 AM
+────────────────────────────────────────────────────────────────────────
+
+I was just going to see how much they are
+────────────────────────────────────────────────────────────────────────
+Post #35  (forum post #5451400)
+Author    : Junk Pilot
+Date      : Jul 17, 2023 at 4:40 AM
+────────────────────────────────────────────────────────────────────────
+
+Neo-uk said:
+
+			I was just going to see how much they are
+		
+
+Click to expand...
+
+Message sent
+────────────────────────────────────────────────────────────────────────
+Post #36  (forum post #5453721)
+Author    : Flyscriber
+Date      : Jul 25, 2023 at 1:54 PM
+Reactions : Like, Love — el toro, Bjorn, joberg
+────────────────────────────────────────────────────────────────────────
+
+Hi folks, back again. 
+
+Thanks for all the great messages, they keep me going 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ . 
+
+Just a quick update on the AT-AT. Ive put a vid together showing some of the mods and how i've handled the build so far. Ive just finished the base coat and im now starting the guns and the weathering. I'll update here on those bits in the next few days. Cheers everyone.
+────────────────────────────────────────────────────────────────────────
+Post #37  (forum post #5453805)
+Author    : Junk Pilot
+Date      : Jul 25, 2023 at 7:53 PM
+Reactions : Like — Bjorn
+────────────────────────────────────────────────────────────────────────
+
+Awesome video, Andy. Can't wait for the next one.
+────────────────────────────────────────────────────────────────────────
+Post #38  (forum post #5453833)
+Author    : LewisD
+Date      : Jul 25, 2023 at 9:26 PM
+Reactions : Like — Junk Pilot
+────────────────────────────────────────────────────────────────────────
+
+Any chance of a project run on the perspex legs? I have a Merlin kit I haven’t started yet and I’m interested in the increased accuracy and stability. Thanks!
+────────────────────────────────────────────────────────────────────────
+Post #39  (forum post #5453839)
+Author    : Junk Pilot
+Date      : Jul 25, 2023 at 10:31 PM
+────────────────────────────────────────────────────────────────────────
+
+LewisD said:
+
+			Any chance of a project run on the perspex legs? I have a Merlin kit I haven’t started yet and I’m interested in the increased accuracy and stability. Thanks!
+		
+
+Click to expand...
+
+I asked the same question in Youtube lol
+────────────────────────────────────────────────────────────────────────
+Post #40  (forum post #5453861)
+Author    : Flyscriber
+Date      : Jul 26, 2023 at 1:34 AM
+Reactions : Like — joberg, swgeek, LewisD
+────────────────────────────────────────────────────────────────────────
+
+Thanks for the kind words on here , and youtube 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+.
+
+Well, i wasn't planning on selling these as a kit, but i guess if you fancied a set i can cut some out for you. There will be little details missing like the Universal greebly, and a couple of other kit parts. It is a tricky build, with quite a few real screws (some complete, others cut down) and fiddly details to work with. but that never stopped me before LOL.
+
+I will think ahead and iron out any potential issues for the modeller from the design. If you fancy a set, i guess i can do it for you !
+────────────────────────────────────────────────────────────────────────
+Post #41  (forum post #5453896)
+Author    : LewisD
+Date      : Jul 26, 2023 at 7:16 AM
+Reactions : Like — joberg, Junk Pilot
+────────────────────────────────────────────────────────────────────────
+
+Flyscriber said:
+
+			Thanks for the kind words on here , and youtube 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+.
+
+Well, i wasn't planning on selling these as a kit, but i guess if you fancied a set i can cut some out for you. There will be little details missing like the Universal greebly, and a couple of other kit parts. It is a tricky build, with quite a few real screws (some complete, others cut down) and fiddly details to work with. but that never stopped me before LOL.
+
+I will think ahead and iron out any potential issues for the modeller from the design. If you fancy a set, i guess i can do it for you !
+		
+
+Click to expand...
+
+I would definitely be interested in a kit, hopefully with all of the fabrication work already done (pistons, cut down screws, scribe lines (?), etc). I figure I can source the original kit parts needed.
+────────────────────────────────────────────────────────────────────────
+Post #42  (forum post #5453902)
+Author    : Junk Pilot
+Date      : Jul 26, 2023 at 7:47 AM
+────────────────────────────────────────────────────────────────────────
+
+LewisD said:
+
+			I would definitely be interested in a kit, hopefully with all of the fabrication work already done (pistons, cut down screws, scribe lines (?), etc). I figure I can source the original kit parts needed.
+		
+
+Click to expand...
+
+I got a few of the parts even before I had the kit lol
+────────────────────────────────────────────────────────────────────────
+Post #43  (forum post #5454317)
+Author    : KarlBud420
+Date      : Jul 27, 2023 at 6:24 PM
+────────────────────────────────────────────────────────────────────────
+
+I’d be down for a set of those fancy-looking Perspex parts, too!
+
+Bruce
+────────────────────────────────────────────────────────────────────────
+Post #44  (forum post #5454886)
+Author    : Flyscriber
+Date      : Jul 30, 2023 at 2:27 AM
+Reactions : Like — dcarty, joberg, wilkster
+────────────────────────────────────────────────────────────────────────
+
+Hi everyone.
+
+Well i've been bashing my head, trying to work out a cost effective way of making some sets of legs up. To be honest, i don't think i can do it. The hours taken to complete a set will make them very expensive, also the legs need to be fabricated using some of the original Merlin kit parts, as you can see in the video.  So i've come to the conclusion that unfortunately, the only way i can possibly offer these is as an unmade kit. You will need to do a fair bit of work to make them up, and modification to the model parts as seen on the video.
+
+I'm sorry guys but an unbuilt cut Acrylic kit is the only way i can offer these.
+
+If you're still up for the challenge, just let me know and i'll organise the parts and get a price.
+────────────────────────────────────────────────────────────────────────
+Post #45  (forum post #5454992)
+Author    : Scott Graham
+Date      : Jul 30, 2023 at 10:50 AM
+Reactions : Like — LewisD, joberg, Junk Pilot
+────────────────────────────────────────────────────────────────────────
+
+Junk Pilot said:
+
+			The Merlin Models AT-AT may not 100% but it's close enough for me.
+
+Ever since I first saw them on screen I thought these machines were incredible and I always wanted a model that was detailed, articulated and BIG. Merlin Models has been the only one to make my dream come true and I knew when I first saw their model I just HAD to have it. And when I first saw it in person (BIG shout out to Peter Lawrence) it was even more impressive than I imagined. I found it hard to believe it could all fit in such a small box.
+
+Suffice to say I love it and am so grateful to Ethan and Justin for filling the void with a great product.
+
+In saying that though I have been picking up some kit parts from vintage kits that ILM used on the AT-AT and decided to take some pics of them to compare them to the AT-AT kit.
+
+View attachment 1715804View attachment 1715805View attachment 1715806View attachment 1715807View attachment 1715808View attachment 1715809View attachment 1715810View attachment 1715811View attachment 1715812
+
+Click to expand...
+
+These are the reasons I sold off my kit. Merlin Models showed all the kits that were being studied to get the kit parts correct but they didn’t achieve that in this kit. I wanted to build this and sell off my MR walker, but ended up keeping it since it was so much more accurate. I hope Merlin can go back and update it for future releases.
+────────────────────────────────────────────────────────────────────────
+Post #46  (forum post #5455249)
+Author    : joberg
+Date      : Jul 31, 2023 at 9:21 AM
+Reactions : Like — Bjorn
+────────────────────────────────────────────────────────────────────────
+
+Great vid/tuto Flyscriber 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #47  (forum post #5455271)
+Author    : Flyscriber
+Date      : Jul 31, 2023 at 10:15 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+joberg said:
+
+			Great vid/tuto Flyscriber 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+Thank you my friend. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #48  (forum post #5456072)
+Author    : christrom
+Date      : Aug 3, 2023 at 5:28 AM
+────────────────────────────────────────────────────────────────────────
+
+I also loved the video, really looking forward to the painting
+────────────────────────────────────────────────────────────────────────
+Post #49  (forum post #5456682)
+Author    : Bjorn
+Date      : Aug 5, 2023 at 4:23 AM
+────────────────────────────────────────────────────────────────────────
+
+Yes, another fantastic video Andy!
+
+Excellent approach to this overhaul. It's really coming along nicely. 
+
+And loving the comentary on your thought process behind the decisions that you have made. 
+
+As a side, can I ask what type of camera you shoot your video's on?
+────────────────────────────────────────────────────────────────────────
+Post #50  (forum post #5456692)
+Author    : Flyscriber
+Date      : Aug 5, 2023 at 5:07 AM
+Reactions : Like — eagle1, joberg, Bjorn
+────────────────────────────────────────────────────────────────────────
+
+Bjorn said:
+
+			Yes, another fantastic video Andy!
+
+Excellent approach to this overhaul. It's really coming along nicely.
+
+And loving the comentary on your thought process behind the decisions that you have made.
+
+As a side, can I ask what type of camera you shoot your video's on?
+		
+
+Click to expand...
+
+Thanks man. Just doing what i feel is needed for the collectors. I shoot the vids on my phone !. It probably shows, but it will have to do for the time being. Thanks for watching the vids Bjorn. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #51  (forum post #5456697)
+Author    : Bjorn
+Date      : Aug 5, 2023 at 5:23 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+Flyscriber said:
+
+			Thanks man. Just doing what i feel is needed for the collectors. I shoot the vids on my phone !. It probably shows, but it will have to do for the time being. Thanks for watching the vids Bjorn. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+Perhaps others could tell, but the vids look great to me. Keep em coming mate!
+────────────────────────────────────────────────────────────────────────
+Post #52  (forum post #5456841)
+Author    : eagle1
+Date      : Aug 5, 2023 at 4:14 PM
+Reactions : Like — joberg, Bjorn
+────────────────────────────────────────────────────────────────────────
+
+I thoroughly enjoy your videos Andy and they look great to me, so much better than my videoing efforts off my phone also. End of the day, folks just like the interaction of the maker to the model in hand.
+────────────────────────────────────────────────────────────────────────
+Post #53  (forum post #5460383)
+Author    : Flyscriber
+Date      : Aug 17, 2023 at 4:50 AM
+Reactions : Love, Like, Wow — Reel Fakes, Studio Kitbash, moonbus
+────────────────────────────────────────────────────────────────────────
+
+Hi again folks. Well its been a while, and a fair bit of paint has been thrown around. I did a few more mods on the Merlin AT-AT. Split the chin guns so they can recoil under the head, added the correct rear panels and side guns and a couple of other bits. I've tried to follow the feel of the ILM paint job, all the splatters etc, i think its close enough for me to live with. Base colour was to match a screen shot with the warmer feel than the Chronicles books detail reference, and i think its in the ball park for sure. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6011-jpeg.1729640/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6012-jpeg.1729641/]
+
+Still working on the final base ideas, but the model is pretty much done now, bar the little things which may bug me after i've looked at it for a few days. I always find something after stareing at it for a while.
+
+So heres the finished thing with all the chipping and edge work, as well as a dose of snow for good measure. More to be added if the base ends up with snow, and the feet need matching into the environment. 
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6163-jpeg.1729642/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6165-jpeg.1729643/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6166-jpeg.1729644/]
+
+[IMAGE: https://www.therpf.com/forums/attachments/img_6175-jpeg.1729645/]
+
+I'll drop the video on here once its finished uploading and you can see how i did the painting.
+
+I think it came out pretty good with the mods and tweaks. It's certainly nice to be able to pose it without all the hassle of breaking the joints apart with every movement.
+
+Now it just needs its special base and some snow to walk through.
+
+Hope you folks like it, happy modelling everyone. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #54  (forum post #5460391)
+Author    : joberg
+Date      : Aug 17, 2023 at 5:31 AM
+────────────────────────────────────────────────────────────────────────
+
+Another home-run mate
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ Love the paint job + the stance is dead-on
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #55  (forum post #5460403)
+Author    : 3DImpact
+Date      : Aug 17, 2023 at 6:08 AM
+────────────────────────────────────────────────────────────────────────
+
+Beautiful work, all around!
+
+Dan
+────────────────────────────────────────────────────────────────────────
+Post #56  (forum post #5460552)
+Author    : Flyscriber
+Date      : Aug 17, 2023 at 1:28 PM
+Reactions : Like, Love — el toro, moonbus, Sym-Cha
+────────────────────────────────────────────────────────────────────────
+
+Heres the final video for this build folks. I tried to replicate the little details as best i could, whilst trying to keep the paint technique as close to what i presume to be the way they were painted back in the day. I hope it shows something which may be useful to you in your endeavours with these fabulously different star wars paint jobs. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #57  (forum post #5460585)
+Author    : SCUDMAN
+Date      : Aug 17, 2023 at 3:43 PM
+Reactions : Like — Bjorn
+────────────────────────────────────────────────────────────────────────
+
+Gorgeous!
+────────────────────────────────────────────────────────────────────────
+Post #58  (forum post #5460709)
+Author    : barney five
+Date      : Aug 18, 2023 at 12:19 AM
+Reactions : Like — joberg, Bjorn
+────────────────────────────────────────────────────────────────────────
+
+Absolutely awesome !
+
+...and very inspiring.
+
+Would you mind tell us your snow recipe ??
+────────────────────────────────────────────────────────────────────────
+Post #59  (forum post #5460719)
+Author    : Bjorn
+Date      : Aug 18, 2023 at 12:58 AM
+────────────────────────────────────────────────────────────────────────
+
+Well done sir!
+
+Excellent paint application. I like your choice of tone for the base colour BTW.
+────────────────────────────────────────────────────────────────────────
+Post #60  (forum post #5460729)
+Author    : Flyscriber
+Date      : Aug 18, 2023 at 2:12 AM
+Reactions : Like — joberg, Bjorn
+────────────────────────────────────────────────────────────────────────
+
+barney five said:
+
+			Absolutely awesome !
+
+...and very inspiring.
+
+Would you mind tell us your snow recipe ??
+		
+
+Click to expand...
+
+My recipe is very simple. Tamia snow 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+. 
+
+I tried a few different makers, warhammer, and such, but found the Tamia to be just about the right look without all the crazy reflectivity of the particles that others seemed to have.
+────────────────────────────────────────────────────────────────────────
+Post #61  (forum post #5460771)
+Author    : joberg
+Date      : Aug 18, 2023 at 5:54 AM
+────────────────────────────────────────────────────────────────────────
+
+Flyscriber said:
+
+			My recipe is very simple. Tamia snow 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+.
+
+I tried a few different makers, warhammer, and such, but found the Tamia to be just about the right look without all the crazy reflectivity of the particles that others seemed to have.
+		
+
+Click to expand...
+
+Great paint tuto and the results are F.A.B.
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #62  (forum post #5473417)
+Author    : Darth Infamous
+Date      : Sep 26, 2023 at 3:11 PM
+────────────────────────────────────────────────────────────────────────
+
+Flyscriber said:
+
+			Hi again folks. Well its been a while, and a fair bit of paint has been thrown around. I did a few more mods on the Merlin AT-AT. Split the chin guns so they can recoil under the head, added the correct rear panels and side guns and a couple of other bits. I've tried to follow the feel of the ILM paint job, all the splatters etc, i think its close enough for me to live with. Base colour was to match a screen shot with the warmer feel than the Chronicles books detail reference, and i think its in the ball park for sure.
+
+View attachment 1729640
+
+View attachment 1729641
+
+Still working on the final base ideas, but the model is pretty much done now, bar the little things which may bug me after i've looked at it for a few days. I always find something after stareing at it for a while.
+
+So heres the finished thing with all the chipping and edge work, as well as a dose of snow for good measure. More to be added if the base ends up with snow, and the feet need matching into the environment.
+
+View attachment 1729642
+
+View attachment 1729643
+
+View attachment 1729644
+
+View attachment 1729645
+
+I'll drop the video on here once its finished uploading and you can see how i did the painting.
+
+I think it came out pretty good with the mods and tweaks. It's certainly nice to be able to pose it without all the hassle of breaking the joints apart with every movement.
+
+Now it just needs its special base and some snow to walk through.
+
+Hope you folks like it, happy modelling everyone. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+This is simply amazing. Best rendition of the ILM paint scheme Ive seen. May I ask what base color you used ? Was this a custom color mix ?
+────────────────────────────────────────────────────────────────────────
+Post #63  (forum post #5475057)
+Author    : Flyscriber
+Date      : Oct 1, 2023 at 2:38 AM
+Reactions : Like — Darth Infamous, joberg
+────────────────────────────────────────────────────────────────────────
+
+Darth Infamous said:
+
+			This is simply amazing. Best rendition of the ILM paint scheme Ive seen. May I ask what base color you used ? Was this a custom color mix ?
+		
+
+Click to expand...
+
+HI there, thanks man 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+.
+
+I used a mix which is pretty close to the Floquil grime colour. I just take a sample to my local paint mixing chaps and spend a couple of hours with them getting the colour im after. Obviously tons of reference before hand to weed out what i don't want. Glad you like it. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #64  (forum post #5475254)
+Author    : Darth Infamous
+Date      : Oct 1, 2023 at 5:09 PM
+────────────────────────────────────────────────────────────────────────
+
+Flyscriber said:
+
+			HI there, thanks man 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+.
+
+I used a mix which is pretty close to the Floquil grime colour. I just take a sample to my local paint mixing chaps and spend a couple of hours with them getting the colour im after. Obviously tons of reference before hand to weed out what i don't want. Glad you like it. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Click to expand...
+
+Good to know !! Thanks for paint tips.  
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #65  (forum post #5558647)
+Author    : Rulebreaker
+Date      : Jul 31, 2024 at 5:27 AM
+Reactions : Like — joberg
+────────────────────────────────────────────────────────────────────────
+
+i have a stupid question, is there a comparison between the revell and merlin AT-AT, side by side?
+
+i know from pictures how "bad" the revell version is, but scale'ish? is the merlin much(20%) bigger? 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+ 
+
+Flyscriber why did u get the parts laser cut from acrylic and not aluminium?
+
+there was an inteview from adam savage with lorne peterson, were they said "how happy they are that no one is using acrylic anymore or something like that, because its so brittle"
+────────────────────────────────────────────────────────────────────────
+Post #66  (forum post #5558718)
+Author    : Flyscriber
+Date      : Jul 31, 2024 at 10:17 AM
+Reactions : Like — joberg, Rulebreaker, swgeek
+────────────────────────────────────────────────────────────────────────
+
+Rulebreaker said:
+
+			i have a stupid question, is there a comparison between the revell and merlin AT-AT, side by side?
+
+i know from pictures how "bad" the revell version is, but scale'ish? is the merlin much(20%) bigger? 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Flyscriber why did u get the parts laser cut from acrylic and not aluminium?
+
+there was an inteview from adam savage with lorne peterson, were they said "how happy they are that no one is using acrylic anymore or something like that, because its so brittle"
+		
+
+Click to expand...
+
+MR AT-AT is the same scale as the stop motion miniatures but definitely much bigger than the revell version, which ive made many of.
+
+As for the acrylic, Well, the first answer is, i have my own laser cutter but it wont do metal. So i use acrylic all the time. As for brittle, i have heard' it said, but i've never had any issues with it at all. Im guessing if its hand worked it can be a pain as cutting and shaping acrylic parts or panels by hand is very nasty and can be prone to breakages, but laser cut is super easy. Ive remade many things in acrylic over the years. Dont get me wrong It's not good for everything, as each medium has its place. But i swear by it for flat surface panels and its a much more sturdy and stable option than resin. 
+[IMAGE: yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+────────────────────────────────────────────────────────────────────────
+Post #67  (forum post #5558981)
+Author    : Rulebreaker
+Date      : Aug 1, 2024 at 5:22 AM
+Reactions : Like — Flyscriber, joberg, Junk Pilot
+────────────────────────────────────────────────────────────────────────
+
+i understood in the video, that u let a company laser cut it, maybe i miss understood the audio
+
+i watched some videos
+
+the AT-AT is as usual 22,5m that makes the revell exactly 1/72 with 31,25cm ~12inch
+
+[IMAGE: 1488630-d2611f4f6c6e5eeaf58aacdef5b8c632.jpg]
+
+[IMAGE: 1488631-c45b010ec678363d05366e6af50bdc4e.jpg]
+
+and the merlin is 1/48 with ~46cm ~18inch
+
+basicly the merlin is 50% bigger and better detailed than the revell
+────────────────────────────────────────────────────────────────────────
+Post #68  (forum post #5561094)
+Author    : Studio Kitbash
+Date      : Aug 7, 2024 at 2:08 PM
+Reactions : Like, Haha — joberg, Flyscriber, Junk Pilot
+────────────────────────────────────────────────────────────────────────
+
+Every time I look at my Merlin Walker model in the box, and think about opening it...
+
+[IMAGE: https://www.therpf.com/forums/attachments/1723064900698-png.1848310/]
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 68

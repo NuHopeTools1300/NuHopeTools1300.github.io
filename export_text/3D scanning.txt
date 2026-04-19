@@ -1,0 +1,48 @@
+════════════════════════════════════════════════════════════════════════
+THREAD : 3D scanning
+URL    : https://www.therpf.com/forums/threads/3d-scanning.351146/
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+Post #1  (forum post #5417006)
+Author    : Vidar 710
+Date      : Mar 28, 2023 at 6:48 PM
+────────────────────────────────────────────────────────────────────────
+
+I am needing a part from the 1/100 scale Entex/Doyusha Boeing 707 3D scanned so I can alter and print it. 
+
+This kit comes with the option to cut away the forward port half of the cockpit so a clear part can replace it to be able to see the cockpit.
+
+The cockpit windows in this kit are a nightmare being divided in half. I'm wanting to re-model this part so that it replaces port and starboard as a shell over the cockpit so the whole windscreen will be one piece.
+
+The part is clear, so would I need to prime it or something to be scanned properly?
+
+Hope someone can point me in the right direction.
+
+Tracy
+────────────────────────────────────────────────────────────────────────
+Post #2  (forum post #5417098)
+Author    : Bjorn
+Date      : Mar 29, 2023 at 4:18 AM
+────────────────────────────────────────────────────────────────────────
+
+Hi Tracy,
+
+Generally speaking, and from my somewhat limited experience, some or most scanners have difficulty with transparent, reflective or dark materials.
+
+You can sometimes get round this by either painting if that is acceptable for what you are doing. Alternatively, you might get away with applying a temporary coating like scan spray, or similar product which provides a better surface for return of light without reflections and artifacts which can confuse the scan software results.
+
+I think there have been some new developments recently with either the wavelength or type of light used in some scanners. Structured light is becoming an alternative to laser. And there are different grades of laser accuracy.
+
+I use scanning more frequently for doing this type of work.
+
+[IMAGE: https://www.therpf.com/forums/attachments/capture01-png.1685061/]
+
+Are you looking to do this yourself or use a commercial scanning outfit?
+
+Regards,
+
+Bjorn
+
+────────────────────────────────────────────────────────────────────────
+Total posts: 2
