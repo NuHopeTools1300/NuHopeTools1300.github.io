@@ -4,6 +4,7 @@ tools/verify.ps1
 Run the local verification checks for this repo:
 - Python syntax compilation
 - placement_positions smoke test
+- image_region_claims smoke test
 
 The script prefers an explicitly provided interpreter, then the active `python`,
 then falls back to the resolved interpreter inside `therpf-scraper` if available.
@@ -32,7 +33,18 @@ $CompileTargets = @(
   (Join-Path $BackendDir "app.py"),
   (Join-Path $BackendDir "import_spreadsheets.py"),
   (Join-Path $BackendDir "classify_kits.py"),
-  (Join-Path $BackendDir "smoke_test_placement_positions.py")
+  (Join-Path $BackendDir "smoke_test_placement_positions.py"),
+  (Join-Path $BackendDir "smoke_test_image_region_claims.py")
+)
+$SmokeTests = @(
+  @{
+    Label = "placement_positions smoke test"
+    Path = (Join-Path $BackendDir "smoke_test_placement_positions.py")
+  },
+  @{
+    Label = "image_region_claims smoke test"
+    Path = (Join-Path $BackendDir "smoke_test_image_region_claims.py")
+  }
 )
 
 $script:PythonPrefix = @()
@@ -169,8 +181,6 @@ if ($SkipSmoke) {
   exit 0
 }
 
-Write-Host ""
-Write-Host "Running placement_positions smoke test..."
 $dbBackupPath = $null
 if (Test-Path $DbPath) {
   $dbBackupPath = Join-Path ([System.IO.Path]::GetTempPath()) ("ilm1300.verify.{0}.db" -f ([System.Guid]::NewGuid().ToString("N")))
@@ -178,10 +188,14 @@ if (Test-Path $DbPath) {
 }
 
 try {
-  Invoke-SelectedPython (Join-Path $BackendDir "smoke_test_placement_positions.py")
-  if ($script:SelectedPythonExitCode -ne 0) {
-    Write-Host "Smoke test failed." -ForegroundColor Red
-    exit $script:SelectedPythonExitCode
+  foreach ($smokeTest in $SmokeTests) {
+    Write-Host ""
+    Write-Host "Running $($smokeTest.Label)..."
+    Invoke-SelectedPython $smokeTest.Path
+    if ($script:SelectedPythonExitCode -ne 0) {
+      Write-Host "$($smokeTest.Label) failed." -ForegroundColor Red
+      exit $script:SelectedPythonExitCode
+    }
   }
 } finally {
   foreach ($sidecar in @($DbWalPath, $DbShmPath)) {
@@ -195,4 +209,4 @@ try {
   }
 }
 
-Write-Host "Smoke test passed." -ForegroundColor Green
+Write-Host "All smoke tests passed." -ForegroundColor Green

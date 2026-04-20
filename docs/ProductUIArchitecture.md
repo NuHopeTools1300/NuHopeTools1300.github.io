@@ -65,6 +65,12 @@ For the current stabilization phase, "freeze" does not mean "clean up all old fi
 
 This is how the project keeps the current prototype energy without letting the temporary layer become the accidental architecture.
 
+Current implementation boundary during stabilization:
+
+- active work stays inside the donor-part backbone plus `images`, `image_regions`, `claims`, `workbench.html`, and `map_workbench.html`
+- `physical_objects`, `locations`, and `events` remain target-shape concepts for a later dedicated phase
+- do not partially introduce those deferred entities into the active shell, API, or schema workflow during stabilization
+
 ## Product Thesis
 
 NuHopeTools should become a research workstation for miniature archaeology.

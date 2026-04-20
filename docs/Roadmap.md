@@ -102,8 +102,13 @@ These items should happen before widening scope much further.
 
 ### 3. Choose one schema evolution path
 
-- make `schema.sql` plus ordered migrations the source of truth
-- treat runtime schema patching in `backend/app.py` as a temporary compatibility bridge, not the long-term mechanism
+- current decision:
+  - `backend/schema.sql` is the canonical fresh-schema definition
+  - every schema change should also land as an ordered file in `backend/migrations/`
+  - runtime schema patching in `backend/app.py` is a temporary compatibility bridge for existing local databases only
+  - new schema work should not live only in runtime bootstrap
+- `backend/migrations/README.md` defines the working migration rule for this repo
+- `backend/migrations/2026-04-17_research_extensions.sql` should be treated as an earlier draft/reference file, not the active migration standard
 - avoid introducing new core entities in docs and code through separate parallel tracks
 
 ### 4. Clean repo/runtime boundaries
@@ -120,8 +125,10 @@ These items should happen before widening scope much further.
 
 ### 6. Make an explicit call on the next entity layer
 
-- either wire `physical_objects`, `locations`, and `events` properly in the next active phase
-- or mark them as intentionally deferred and stop partial seepage into implementation
+- current decision:
+  - defer `physical_objects`, `locations`, and `events` until a dedicated post-stabilization phase
+  - do not add partial schema, API, or UI support for them during the current stabilization pass
+  - keep the active implementation boundary on the existing donor-part backbone plus images, regions, maps, and claims
 - avoid the half-adopted middle state where concepts exist in architecture docs but not in the operating model
 
 ---

@@ -113,8 +113,166 @@ def ensure_images_support_map_type(db):
     db.execute("PRAGMA foreign_keys = ON")
 
 
+def table_sql_contains(db, table_name, needle):
+    row = db.execute(
+        "SELECT sql FROM sqlite_master WHERE type='table' AND name=?",
+        (table_name,)
+    ).fetchone()
+    if not row:
+        return False
+    sql = row['sql'] if isinstance(row, sqlite3.Row) else row[0]
+    return needle in (sql or '')
+
+
+def rebuild_table(db, table_name, create_sql, columns):
+    temp_name = f"{table_name}__repair"
+    column_csv = ", ".join(columns)
+    db.execute(f"DROP TABLE IF EXISTS {temp_name}")
+    db.execute(create_sql.replace("__TABLE__", temp_name))
+    db.execute(f"""
+        INSERT INTO {temp_name} ({column_csv})
+        SELECT {column_csv}
+        FROM {table_name}
+    """)
+    db.execute(f"DROP TABLE {table_name}")
+    db.execute(f"ALTER TABLE {temp_name} RENAME TO {table_name}")
+
+
+def repair_broken_image_foreign_keys(db):
+    repair_specs = [
+        (
+            'image_families',
+            """
+            CREATE TABLE __TABLE__ (
+                id               INTEGER PRIMARY KEY AUTOINCREMENT,
+                title            TEXT NOT NULL,
+                family_type      TEXT DEFAULT 'reference_set'
+                                    CHECK(family_type IN ('reference_set','duplicate_group','detail_set','overlay_set','mixed')),
+                primary_image_id INTEGER REFERENCES images(id) ON DELETE SET NULL,
+                notes            TEXT,
+                created_at       TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+            )
+            """,
+            ['id', 'title', 'family_type', 'primary_image_id', 'notes', 'created_at']
+        ),
+        (
+            'image_tags',
+            """
+            CREATE TABLE __TABLE__ (
+                id       INTEGER PRIMARY KEY AUTOINCREMENT,
+                image_id INTEGER NOT NULL REFERENCES images(id) ON DELETE CASCADE,
+                tag      TEXT NOT NULL,
+                UNIQUE(image_id, tag)
+            )
+            """,
+            ['id', 'image_id', 'tag']
+        ),
+        (
+            'image_links',
+            """
+            CREATE TABLE __TABLE__ (
+                id          INTEGER PRIMARY KEY AUTOINCREMENT,
+                image_id    INTEGER NOT NULL REFERENCES images(id),
+                entity_type TEXT NOT NULL CHECK(entity_type IN (
+                                'kit','part','cast_assembly','placement','model','map'
+                            )),
+                entity_id   INTEGER NOT NULL,
+                annotation  TEXT,
+                UNIQUE(image_id, entity_type, entity_id)
+            )
+            """,
+            ['id', 'image_id', 'entity_type', 'entity_id', 'annotation']
+        ),
+        (
+            'image_regions',
+            """
+            CREATE TABLE __TABLE__ (
+                id                INTEGER PRIMARY KEY AUTOINCREMENT,
+                image_id          INTEGER NOT NULL REFERENCES images(id) ON DELETE CASCADE,
+                region_type       TEXT NOT NULL DEFAULT 'point'
+                                 CHECK(region_type IN ('point','box','polygon')),
+                x_norm            REAL,
+                y_norm            REAL,
+                width_norm        REAL,
+                height_norm       REAL,
+                pixel_x           REAL,
+                pixel_y           REAL,
+                pixel_width       REAL,
+                pixel_height      REAL,
+                points_json       TEXT,
+                rotation_deg      REAL,
+                label             TEXT,
+                notes             TEXT,
+                object_name       TEXT,
+                object_class      TEXT,
+                color             TEXT,
+                properties_json   TEXT,
+                entity_type       TEXT,
+                entity_id         INTEGER,
+                source_extract_id INTEGER REFERENCES source_extracts(id),
+                attributed_to     INTEGER REFERENCES contributors(id),
+                created_at        TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+                updated_at        TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+            )
+            """,
+            [
+                'id', 'image_id', 'region_type', 'x_norm', 'y_norm', 'width_norm', 'height_norm',
+                'pixel_x', 'pixel_y', 'pixel_width', 'pixel_height', 'points_json', 'rotation_deg',
+                'label', 'notes', 'object_name', 'object_class', 'color', 'properties_json',
+                'entity_type', 'entity_id', 'source_extract_id', 'attributed_to', 'created_at',
+                'updated_at'
+            ]
+        ),
+        (
+            'image_family_members',
+            """
+            CREATE TABLE __TABLE__ (
+                id                   INTEGER PRIMARY KEY AUTOINCREMENT,
+                family_id            INTEGER NOT NULL REFERENCES image_families(id) ON DELETE CASCADE,
+                image_id             INTEGER NOT NULL REFERENCES images(id) ON DELETE CASCADE,
+                relation_type        TEXT NOT NULL DEFAULT 'variant'
+                                       CHECK(relation_type IN (
+                                           'primary','variant','duplicate','near_duplicate',
+                                           'crop','detail','overlay','higher_resolution',
+                                           'lower_resolution','alternate_scan','derived'
+                                       )),
+                sort_order           INTEGER DEFAULT 0,
+                is_primary           INTEGER NOT NULL DEFAULT 0 CHECK(is_primary IN (0,1)),
+                is_hidden_in_library INTEGER NOT NULL DEFAULT 0 CHECK(is_hidden_in_library IN (0,1)),
+                coverage_role        TEXT
+                                       CHECK(coverage_role IN (
+                                           'full_frame','detail_crop','annotation_overlay','comparison_variant'
+                                       )),
+                notes                TEXT,
+                UNIQUE(family_id, image_id)
+            )
+            """,
+            [
+                'id', 'family_id', 'image_id', 'relation_type', 'sort_order', 'is_primary',
+                'is_hidden_in_library', 'coverage_role', 'notes'
+            ]
+        ),
+    ]
+
+    if not any(table_sql_contains(db, table_name, 'images_old_maptype') for table_name, _, _ in repair_specs):
+        return
+
+    db.execute("PRAGMA foreign_keys = OFF")
+    try:
+        for table_name, create_sql, columns in repair_specs:
+            if table_sql_contains(db, table_name, 'images_old_maptype'):
+                rebuild_table(db, table_name, create_sql, columns)
+    finally:
+        db.execute("PRAGMA foreign_keys = ON")
+    db.commit()
+
+
 def ensure_research_bootstrap(db):
-    """Backfill additive schema changes for existing databases."""
+    """Compatibility bridge for older local databases during schema transition.
+
+    New schema work should land in schema.sql plus ordered migrations first.
+    Keep this bootstrap layer focused on backward-compatible repairs/backfills.
+    """
     db.executescript("""
     CREATE TABLE IF NOT EXISTS sources (
         id               INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -275,6 +433,7 @@ def ensure_research_bootstrap(db):
     ensure_column(db, 'image_regions', 'entity_id', 'INTEGER')
     ensure_column(db, 'image_regions', 'source_extract_id', 'INTEGER REFERENCES source_extracts(id)')
     ensure_column(db, 'image_regions', 'updated_at', 'TIMESTAMP DEFAULT CURRENT_TIMESTAMP')
+    repair_broken_image_foreign_keys(db)
     db.executescript("""
     CREATE INDEX IF NOT EXISTS idx_sources_type        ON sources(source_type);
     CREATE INDEX IF NOT EXISTS idx_sources_date        ON sources(source_date);
@@ -328,7 +487,7 @@ def json_text(value):
     return value
 
 def init_db():
-    """Create tables from schema.sql if they don't exist."""
+    """Create a working local database from schema.sql, then apply compatibility bridges."""
     os.makedirs(os.path.dirname(DB_PATH), exist_ok=True)
     os.makedirs(UPLOAD_DIR, exist_ok=True)
     db = sqlite3.connect(DB_PATH)

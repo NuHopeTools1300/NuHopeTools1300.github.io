@@ -3,7 +3,9 @@
 -- physical objects, locations, events, and claims.
 --
 -- Notes:
--- - This is intended as a one-time migration draft, not yet wired into init_db().
+-- - This is an earlier draft/reference file from before the current migration policy was written.
+-- - See backend/migrations/README.md for the working rule now used by this repo.
+-- - This draft is not the active migration standard by itself and is not wired into init_db().
 -- - Existing image_links remains in place for backward compatibility.
 -- - evidence_links is the wider successor for images, image regions, and text extracts.
 

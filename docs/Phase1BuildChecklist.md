@@ -336,28 +336,29 @@ Clarification:
 
 ### Priority 0: Stabilization Pass
 
-- [ ] treat `frontend.html` and older one-off tools as maintenance-only rather than active growth surfaces
-- [ ] do not proactively refactor legacy surfaces unless a concrete need appears
-- [ ] keep `workbench.html` and `map_workbench.html` as the main active operator shells
-- [ ] extract one shared frontend API/auth/config layer for workbench surfaces
-- [ ] stop mixing query-param auth and header auth across tools
-- [ ] choose one schema evolution path:
+- [x] treat `frontend.html` and older one-off tools as maintenance-only rather than active growth surfaces
+- [x] do not proactively refactor legacy surfaces unless a concrete need appears
+- [x] keep `workbench.html` and `map_workbench.html` as the main active operator shells
+- [x] extract one shared frontend API/auth/config layer for workbench surfaces
+- [x] stop mixing query-param auth and header auth across tools
+- [x] choose one schema evolution path:
   - `schema.sql` + ordered migrations as the source of truth
   - runtime schema patching only as a compatibility bridge while transitioning
-- [ ] add `.gitignore` coverage for:
+  - see `backend/migrations/README.md` for the current working rule
+- [x] add `.gitignore` coverage for:
   - live DB files
   - DB backups
   - uploads
   - `__pycache__`
   - editor state
-  - generated bulk outputs
-- [ ] add one repeatable local verification command or script that runs:
+  - generated bulk outputs where they are explicitly kept local-only
+- [x] add one repeatable local verification command or script that runs:
   - Python compile checks
   - core smoke tests
-- [ ] add at least one more smoke test around image/region/claim workflows
-- [ ] decide whether `physical_objects`, `locations`, and `events` are:
-  - active next-phase implementation work
-  - or explicitly deferred to avoid half-adopted architecture
+- [x] add at least one more smoke test around image/region/claim workflows
+- [x] decide whether `physical_objects`, `locations`, and `events` are:
+  - explicitly deferred until after the stabilization pass
+  - not part of the current active workbench / schema expansion boundary
 
 Stabilization exit criteria:
 

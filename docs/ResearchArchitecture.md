@@ -27,6 +27,12 @@ It is not yet enough for the next stage of the project:
 
 The current repo is therefore best understood as `phase 1 data spine + tools`, with the next phase becoming an `evidence-backed research platform`.
 
+Current implementation decision:
+
+- `physical_objects`, `locations`, and `events` remain deferred target-shape entities during the current stabilization pass
+- the active implementation boundary stays on the existing donor-part backbone plus images, image regions, and claims
+- do not treat this document's target schema as an instruction to partially land those entities ahead of a dedicated next-phase start
+
 ## The Target Shape
 
 The cleanest model is to separate four layers that currently blur together:
