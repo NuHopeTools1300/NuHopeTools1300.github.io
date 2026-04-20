@@ -452,11 +452,18 @@
     </aside>
   </main>
 
+  <script src="shared/api_client.js"></script>
   <script>
+    const apiClient = NHTApi.createStoredClient({
+      apiBaseKey: 'mapWorkbenchApiBase',
+      legacyAdminKeyKeys: ['mapWorkbenchAdminKey'],
+      legacyAdminModeKeys: ['mapWorkbenchAdminLocal']
+    });
+
     const state = {
-      apiBase: localStorage.getItem('mapWorkbenchApiBase') || 'http://localhost:5000',
-      adminKey: localStorage.getItem('mapWorkbenchAdminKey') || '',
-      adminLocal: localStorage.getItem('mapWorkbenchAdminLocal') === '1',
+      apiBase: apiClient.getApiBase(),
+      adminKey: apiClient.getAdminKey(),
+      adminLocal: apiClient.getAdminLocal(),
       models: [],
       maps: [],
       placements: [],
@@ -494,31 +501,15 @@
     }
 
     function apiOrigin() {
-      return (state.apiBase || 'http://localhost:5000').replace(/\/$/, '');
-    }
-
-    function buildApiPath(path) {
-      const hasQuery = path.includes('?');
-      const params = [];
-      if (state.adminLocal) params.push('admin_local=1');
-      if (state.adminKey) params.push(`api_key=${encodeURIComponent(state.adminKey)}`);
-      if (!params.length) return path;
-      return `${path}${hasQuery ? '&' : '?'}${params.join('&')}`;
+      return apiClient.origin();
     }
 
     async function api(path, options = {}) {
-      const url = apiOrigin() + buildApiPath(path);
-      const res = await fetch(url, options);
-      let body = null;
-      try { body = await res.json(); } catch (e) {}
-      if (!res.ok || (body && body.ok === false)) {
-        throw new Error(body?.error || `Request failed (${res.status})`);
-      }
-      return body?.data ?? body;
+      return apiClient.request(path, options);
     }
 
     function authHeaders(extra = {}) {
-      return { 'Content-Type': 'application/json', ...extra };
+      return apiClient.jsonHeaders(extra);
     }
 
     function selectedMap() {
@@ -1341,20 +1332,17 @@
       el('api-base').value = state.apiBase;
       el('admin-local').checked = state.adminLocal;
       el('api-save').addEventListener('click', () => {
-        state.apiBase = el('api-base').value.trim() || 'http://localhost:5000';
-        localStorage.setItem('mapWorkbenchApiBase', state.apiBase);
+        state.apiBase = apiClient.setApiBase(el('api-base').value.trim() || NHTApi.DEFAULT_API_BASE);
         bootstrap().catch(handleError);
       });
       el('admin-key').addEventListener('click', () => {
         const value = prompt('Admin API key', state.adminKey || '');
         if (value !== null) {
-          state.adminKey = value.trim();
-          localStorage.setItem('mapWorkbenchAdminKey', state.adminKey);
+          state.adminKey = apiClient.setAdminKey(value);
         }
       });
       el('admin-local').addEventListener('change', (event) => {
-        state.adminLocal = event.target.checked;
-        localStorage.setItem('mapWorkbenchAdminLocal', state.adminLocal ? '1' : '0');
+        state.adminLocal = apiClient.setAdminLocal(event.target.checked);
       });
       el('model-filter').addEventListener('change', async (event) => {
         state.selectedModelId = Number(event.target.value) || null;

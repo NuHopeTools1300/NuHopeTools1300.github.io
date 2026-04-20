@@ -803,9 +803,14 @@
   </main>
   </div>
 
+  <script src="shared/api_client.js"></script>
   <script>
+    const apiClient = NHTApi.createStoredClient({
+      apiBaseKey: 'workbenchApiBase'
+    });
+
     const state = {
-      apiBase: localStorage.getItem('workbenchApiBase') || 'http://localhost:5000',
+      apiBase: apiClient.getApiBase(),
       images: [],
       filters: { q: '', image_type: '', region_filter: 'with_regions' },
       selectedImageId: null,
@@ -851,7 +856,7 @@
     const el = (id) => document.getElementById(id);
 
     function apiOrigin() {
-      return state.apiBase.replace(/\/$/, '');
+      return apiClient.origin();
     }
 
     function applyWorkspaceZoom() {
@@ -876,30 +881,12 @@
       { value: 'other', label: 'Other' }
     ];
 
-    function authHeaders() {
-      return { 'Content-Type': 'application/json' };
-    }
-
-    function buildApiPath(path) {
-      let finalPath = path;
-      const params = new URLSearchParams();
-      const key = localStorage.getItem('adminKey');
-      if (key) params.set('api_key', key);
-      if (localStorage.getItem('adminMode') === '1') params.set('admin_local', '1');
-      if ([...params.keys()].length) {
-        finalPath += (finalPath.includes('?') ? '&' : '?') + params.toString();
-      }
-      return finalPath;
+    function authHeaders(extra = {}) {
+      return apiClient.jsonHeaders(extra);
     }
 
     async function api(path, options={}) {
-      const res = await fetch(apiOrigin() + buildApiPath(path), options);
-      let body = null;
-      try { body = await res.json(); } catch (e) {}
-      if (!res.ok || (body && body.ok === false)) {
-        throw new Error(body?.error || `Request failed (${res.status})`);
-      }
-      return body?.data ?? body;
+      return apiClient.request(path, options);
     }
 
     function escapeHtml(value) {
@@ -2474,16 +2461,9 @@
           form.append('file', file);
           form.append('title', file.name.replace(/\.[^.]+$/, ''));
           form.append('image_type', state.filters.image_type || 'reference');
-          const created = await fetch(apiOrigin() + buildApiPath('/api/images'), {
+          const created = await api('/api/images', {
             method: 'POST',
             body: form
-          }).then(async (res) => {
-            let body = null;
-            try { body = await res.json(); } catch (e) {}
-            if (!res.ok || (body && body.ok === false)) {
-              throw new Error(body?.error || `Upload failed (${res.status})`);
-            }
-            return body?.data ?? body;
           });
           lastCreatedId = created?.id || lastCreatedId;
         }
@@ -3044,20 +3024,17 @@
       if (el('link-type-filter')) el('link-type-filter').value = state.linkTypeFilter;
       if (el('claim-type-filter')) el('claim-type-filter').value = state.claimTypeFilter;
       el('api-save').addEventListener('click', () => {
-        state.apiBase = el('api-base').value.trim() || 'http://localhost:5000';
-        localStorage.setItem('workbenchApiBase', state.apiBase);
+        state.apiBase = apiClient.setApiBase(el('api-base').value.trim() || NHTApi.DEFAULT_API_BASE);
         loadImages().catch(handleError);
       });
       el('admin-key').addEventListener('click', () => {
-        const current = localStorage.getItem('adminKey') || '';
+        const current = apiClient.getAdminKey() || '';
         const value = prompt('Enter admin API key (blank clears):', current);
         if (value === null) return;
-        if (!value) localStorage.removeItem('adminKey');
-        else localStorage.setItem('adminKey', value);
+        apiClient.setAdminKey(value);
       });
       el('admin-local').addEventListener('change', (event) => {
-        if (event.target.checked) localStorage.setItem('adminMode', '1');
-        else localStorage.removeItem('adminMode');
+        apiClient.setAdminLocal(event.target.checked);
         updateAdminLocalLabel();
       });
       el('add-images').addEventListener('click', () => {
@@ -3179,7 +3156,7 @@
 
     function updateAdminLocalLabel() {
       const checkbox = el('admin-local');
-      if (checkbox) checkbox.checked = localStorage.getItem('adminMode') === '1';
+      if (checkbox) checkbox.checked = apiClient.getAdminLocal();
     }
 
     function debounce(fn, delay) {

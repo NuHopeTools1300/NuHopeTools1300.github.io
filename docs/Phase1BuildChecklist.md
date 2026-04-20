@@ -316,9 +316,56 @@ Phase 1 is done when a researcher can:
 
 ## Recommended Immediate Next Task
 
-Phase 1 is complete enough to use. The next passes should now focus on browse speed, canvas ergonomics, and direct access to kits instead of widening the scope.
+Phase 1 is complete enough to use.
+
+Before widening scope further, the next pass should be a stabilization pass focused on consolidation:
+
+- freeze legacy UI surfaces
+- extract shared frontend request/auth/config code
+- clean up schema evolution workflow
+- add repo hygiene and repeatable verification
+
+After that, continue with browse speed, canvas ergonomics, and direct access to kits.
+
+Clarification:
+
+- the stabilization pass does not require proactive cleanup of legacy HTML surfaces
+- legacy files can stay untouched unless there is a concrete bug fix, migration step, or compatibility reason
 
 ## Next Pass Priorities
+
+### Priority 0: Stabilization Pass
+
+- [ ] treat `frontend.html` and older one-off tools as maintenance-only rather than active growth surfaces
+- [ ] do not proactively refactor legacy surfaces unless a concrete need appears
+- [ ] keep `workbench.html` and `map_workbench.html` as the main active operator shells
+- [ ] extract one shared frontend API/auth/config layer for workbench surfaces
+- [ ] stop mixing query-param auth and header auth across tools
+- [ ] choose one schema evolution path:
+  - `schema.sql` + ordered migrations as the source of truth
+  - runtime schema patching only as a compatibility bridge while transitioning
+- [ ] add `.gitignore` coverage for:
+  - live DB files
+  - DB backups
+  - uploads
+  - `__pycache__`
+  - editor state
+  - generated bulk outputs
+- [ ] add one repeatable local verification command or script that runs:
+  - Python compile checks
+  - core smoke tests
+- [ ] add at least one more smoke test around image/region/claim workflows
+- [ ] decide whether `physical_objects`, `locations`, and `events` are:
+  - active next-phase implementation work
+  - or explicitly deferred to avoid half-adopted architecture
+
+Stabilization exit criteria:
+
+- new workflow work lands in the active workbench surfaces rather than the legacy HTML shells
+- legacy surfaces remain untouched unless there was a specific bug or migration reason to change them
+- frontend infrastructure is shared instead of reimplemented
+- schema changes have one visible path
+- local verification is cheap enough to run constantly
 
 ### Pass 1: Faster Image Browsing
 

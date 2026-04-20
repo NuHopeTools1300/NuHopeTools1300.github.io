@@ -51,6 +51,20 @@ The same is true conceptually:
 
 - current tools should be treated as partial workflow supports, not as the conceptual structure of the product
 
+Immediate implementation implication:
+
+- freeze the legacy surfaces instead of continuing to widen them
+- extract shared frontend infrastructure rather than re-solving API/auth/state per HTML file
+- stop allowing schema and product concepts to drift across runtime bootstrap, draft migrations, and docs
+- prefer consolidation passes when entropy starts rising faster than capability
+
+For the current stabilization phase, "freeze" does not mean "clean up all old files now."
+
+- legacy surfaces do not need proactive refactoring just to make them prettier or more consistent
+- leave them alone unless a concrete bug, migration need, or compatibility requirement makes a touch necessary
+
+This is how the project keeps the current prototype energy without letting the temporary layer become the accidental architecture.
+
 ## Product Thesis
 
 NuHopeTools should become a research workstation for miniature archaeology.

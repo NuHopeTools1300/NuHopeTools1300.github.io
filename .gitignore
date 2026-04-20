@@ -1,0 +1,32 @@
+# Editor settings
+.vscode/
+
+# Python cache / test artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+htmlcov/
+
+# Local environment files
+.env
+.env.*
+
+# Local database and runtime artifacts
+backend/data/*.db
+backend/data/*.db-*
+backend/data/*.bak
+backend/data/*.bak.*
+backend/data/uploads/
+
+# Logs
+*.log
+
+# OS noise
+Thumbs.db
+.DS_Store
+
+# Optional large local research corpora / generated exports
+# Uncomment if these remain local-only:
+# export_text/

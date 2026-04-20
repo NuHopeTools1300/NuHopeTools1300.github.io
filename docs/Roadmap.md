@@ -52,6 +52,80 @@ Reference:
 
 ---
 
+## Current stability assessment
+
+The project is on a good track conceptually.
+
+The risk is not imminent collapse.
+
+The risk is continued growth by patching and duplication faster than the implementation is consolidated.
+
+Current positives:
+
+- the product thesis is clear
+- the evidence-first schema direction is coherent
+- `library / canvas / inspector` is a strong target shell
+- the newer workbench and map-correction work are moving in the right direction
+
+Current growth risks:
+
+- schema truth is split across `schema.sql`, runtime bootstrap in `backend/app.py`, and draft migrations
+- frontend request, auth, and local state wiring is duplicated across multiple standalone HTML apps
+- persistence is still split between backend records and browser-local tool storage
+- runtime artifacts and generated data live beside source in the repo
+- verification coverage is still light relative to the amount of surface area
+
+Planning implication:
+
+- do not treat the current state as failing
+- do treat the next pass as a consolidation pass, not just another feature pass
+
+---
+
+## Immediate stabilization priorities
+
+These items should happen before widening scope much further.
+
+### 1. Freeze the legacy UI surface
+
+- treat `frontend.html` and older one-off tools as maintenance-only surfaces
+- keep `workbench.html` and `map_workbench.html` as the active operator shells
+- avoid adding major new product concepts to legacy entry points
+- do not spend time proactively refactoring legacy surfaces during the current stabilization pass
+- touch legacy surfaces only for concrete bug fixes, compatibility shims, or migration support
+
+### 2. Extract one shared frontend API/auth layer
+
+- move API base handling, auth headers, request helpers, and error handling into shared frontend code
+- stop mixing header-based auth and query-param auth across tools
+- reduce each HTML surface to workflow-specific UI rather than infrastructure duplication
+
+### 3. Choose one schema evolution path
+
+- make `schema.sql` plus ordered migrations the source of truth
+- treat runtime schema patching in `backend/app.py` as a temporary compatibility bridge, not the long-term mechanism
+- avoid introducing new core entities in docs and code through separate parallel tracks
+
+### 4. Clean repo/runtime boundaries
+
+- add a real `.gitignore`
+- stop versioning live database files, backups, uploads, caches, and generated bulk artifacts
+- keep research corpora and runtime state accessible without making them part of normal source-control churn
+
+### 5. Add a repeatable verification harness
+
+- keep the existing smoke-test mindset, but formalize it
+- add a simple local verification script that runs compile checks plus core smoke tests
+- expand smoke coverage around image, region, claim, and map-position workflows before major new feature work
+
+### 6. Make an explicit call on the next entity layer
+
+- either wire `physical_objects`, `locations`, and `events` properly in the next active phase
+- or mark them as intentionally deferred and stop partial seepage into implementation
+- avoid the half-adopted middle state where concepts exist in architecture docs but not in the operating model
+
+---
+
 ## Current next-pass UX priorities
 
 The current workbench color scheme and overall `library / canvas / inspector` layout are worth keeping. The immediate focus should be on making browsing and inspection faster, not on rethinking the visual direction again.
