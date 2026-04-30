@@ -571,6 +571,14 @@
       return text || 'Unknown';
     }
 
+    function placementObjectKind(row) {
+      if (!row) return 'Unknown';
+      if (row.part_id || row.part_number) return 'Part';
+      if (row.cast_assembly_id || row.cast_name) return 'Cast Assembly';
+      if (row.kit_id || row.kit_name) return 'Kit';
+      return 'Unknown';
+    }
+
     function facetDefinitionsForType(typeKey) {
       const defs = {
         kits: [
