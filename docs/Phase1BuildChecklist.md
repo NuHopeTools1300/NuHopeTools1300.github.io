@@ -318,19 +318,22 @@ Phase 1 is done when a researcher can:
 
 Phase 1 is complete enough to use.
 
-Before widening scope further, the next pass should be a stabilization pass focused on consolidation:
+The stabilization pass is complete enough to build on.
 
-- freeze legacy UI surfaces
-- extract shared frontend request/auth/config code
-- clean up schema evolution workflow
-- add repo hygiene and repeatable verification
+Before broad UX polish or new domain expansion, the next pass should:
 
-After that, continue with browse speed, canvas ergonomics, and direct access to kits.
+- finish the map-side placement -> evidence workflow
+- add direct entity-first database visibility for operators
+- then accelerate browse speed, canvas ergonomics, and direct access to kits
+- simplify the working UI so direct evidence links are primary and claims are secondary
 
 Clarification:
 
 - the stabilization pass does not require proactive cleanup of legacy HTML surfaces
 - legacy files can stay untouched unless there is a concrete bug fix, migration step, or compatibility reason
+- do not widen into deferred entities (`physical_objects`, `locations`, `events`) during this next pass
+- do not build a generic database browser from scratch if a borrowed/sidecar operator surface solves the raw visibility need faster
+- follow [Draft_SimplifiedEvidenceWorkflow.md](./Draft_SimplifiedEvidenceWorkflow.md): users should not need to create a claim for ordinary evidence linking
 
 ## Next Pass Priorities
 
@@ -368,7 +371,46 @@ Stabilization exit criteria:
 - schema changes have one visible path
 - local verification is cheap enough to run constantly
 
-### Pass 1: Faster Image Browsing
+### Pass 1: Finish Placement -> Evidence Workflow
+
+- keep `map_workbench.html` focused on placement inspection, position correction, and evidence pivots
+- make selected placement detail feel complete:
+  - linked images
+  - direct evidence links
+  - secondary claim/provenance detail where needed
+  - current position
+  - position history
+- add quick pivots from a placement into supporting evidence workflows
+- demote claim creation from primary action to secondary/advanced action
+- keep position correction non-destructive and history-backed through `placement_positions`
+
+### Pass 2: Entity-First Database Visibility
+
+- follow [EntityBrowserImplementationPlan.md](./EntityBrowserImplementationPlan.md)
+- start with `Datasette` as the borrowed local database browser rather than building a custom CRUD surface first
+- keep `tools/run_datasette.ps1` as the default read-only inspection path
+- use `tools/run_datasette_edit.ps1` only for controlled local cleanup with a backup
+- provide a plain operator view for:
+  - `kits`
+  - `parts`
+  - `models`
+  - `maps`
+  - `placements`
+- support:
+  - search
+  - filter
+  - sort
+  - row/detail inspection
+- make reverse lookup practical:
+  - entity -> images
+  - entity -> regions
+  - entity -> claims
+  - entity -> related maps/models/placements
+- prefer a borrowed/admin-style table surface before hand-building generic CRUD UI
+- document the SQL/reverse-lookup queries that become routine
+- evaluate `NocoDB`, `Baserow`, or a small custom `Entity Workbench` only after Datasette has shown what it does not cover
+
+### Pass 3: Faster Image Browsing
 
 - add keyboard navigation:
   - `up/down` moves through the image list
@@ -377,26 +419,26 @@ Stabilization exit criteria:
 - add a quick gallery or filmstrip for rapid image scanning
 - keep the active image visible in the list while navigating
 
-### Pass 2: Better Canvas Ergonomics
+### Pass 4: Better Canvas Ergonomics
 
 - zoom should anchor to cursor or viewport center, not the image top-left
 - canvas controls should remain accessible while the image stays in the visible work area
 - panning should feel solid in both axes and not fight selection / box creation
 - preserve zoom and scroll position when staying on the same image
 
-### Pass 3: Smarter Library Titles
+### Pass 5: Smarter Library Titles
 
 - shorten primary list-facing image names for quick scanning
 - keep ambiguous or longer research wording in secondary metadata or inspector detail
 - separate `display title` from fuller research title if needed
 
-### Pass 4: Kit Access And Suggestions
+### Pass 6: Kit Access And Suggestions
 
 - surface direct kit suggestions when region labels exactly match or strongly suggest a kit
 - add a lightweight kit browser so kit exploration is not only possible from region selection
 - keep region-driven linking, but do not make it the only path into kit data
 
-### Pass 5: Batch And Expert Workflow
+### Pass 7: Batch And Expert Workflow
 
 - add batch actions for overlay-derived regions:
   - accept exact kit links

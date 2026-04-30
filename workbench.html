@@ -4,27 +4,34 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>NuHopeTools Workbench</title>
+  <link rel="stylesheet" href="shared/ui_base.css">
   <style>
     :root {
-      --bg: #171412;
-      --panel: #221d19;
-      --panel-2: #2a241f;
-      --panel-3: #332c25;
-      --line: #4b4036;
-      --ink: #f1eadf;
-      --ink-2: #cbbdaa;
-      --ink-3: #9a8d7d;
-      --accent: #d4a458;
-      --accent-2: #8fae8a;
-      --warn: #d88157;
-      --danger: #bf6056;
-      --shadow: 0 10px 28px rgba(0,0,0,0.35);
-      --mono: "Cascadia Mono", Consolas, monospace;
-      --sans: "Segoe UI", system-ui, sans-serif;
+      --bg: #f3ede5;
+      --panel: #fffaf4;
+      --panel-2: #f4ebdf;
+      --panel-3: #ede1d4;
+      --surface: #f0e5d8;
+      --line: #d4c2ae;
+      --ink: #2f241b;
+      --ink-2: #5b4838;
+      --ink-3: #85715f;
+      --accent: #b66c2d;
+      --accent-2: #2f7c8a;
+      --warn: #b74f2f;
+      --danger: #b74f2f;
+      --shadow: 0 10px 28px rgba(47, 36, 27, 0.12);
+      --control-height: 36px;
+      --overlay-label-size: 12px;
+      --overlay-label-bg: rgba(255, 252, 248, 0.92);
+      --overlay-label-ink: #2f241b;
+      --overlay-label-line: rgba(92, 72, 56, 0.36);
+      --mono: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      --sans: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
       --radius: 12px;
     }
     * { box-sizing: border-box; }
-    html, body { height: 100%; margin: 0; background: radial-gradient(circle at top, #2a241f 0%, var(--bg) 55%); color: var(--ink); font-family: var(--sans); }
+    html, body { height: 100%; margin: 0; background: radial-gradient(circle at top left, #fbf6ef 0%, var(--bg) 58%); color: var(--ink); font-family: var(--sans); }
     body { display: flex; flex-direction: column; overflow: hidden; touch-action: pan-x pan-y; }
     .workbench-shell {
       flex: 1;
@@ -32,65 +39,12 @@
       display: flex;
       flex-direction: column;
     }
-    .topbar {
-      display: flex;
-      gap: 12px;
-      align-items: center;
-      padding: 12px 16px;
-      border-bottom: 1px solid var(--line);
-      background: rgba(18, 15, 13, 0.92);
-      backdrop-filter: blur(10px);
-      position: sticky;
-      top: 0;
-      z-index: 30;
-    }
+    .topbar { padding: 12px 16px; }
     .brand { min-width: 220px; }
     .eyebrow { color: var(--ink-3); font: 11px var(--mono); text-transform: uppercase; letter-spacing: 0.12em; }
     .title { font-size: 20px; line-height: 1.2; }
-    .topbar-controls { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+    .api-base { width: 220px; }
     .hidden-input { display: none; }
-    .topbar-toggle {
-      display: inline-flex;
-      align-items: center;
-      gap: 8px;
-      padding: 8px 10px;
-      border: 1px solid var(--line);
-      border-radius: 10px;
-      background: var(--panel-3);
-      color: var(--ink);
-      font-size: 13px;
-    }
-    .topbar-toggle input {
-      margin: 0;
-      accent-color: var(--accent);
-    }
-    .zoom-control {
-      display: inline-flex;
-      align-items: center;
-      gap: 8px;
-      padding: 8px 10px;
-      border: 1px solid var(--line);
-      border-radius: 10px;
-      background: var(--panel-3);
-      color: var(--ink);
-      font-size: 12px;
-    }
-    .zoom-control span {
-      color: var(--ink-2);
-      font: 11px var(--mono);
-      text-transform: uppercase;
-      letter-spacing: 0.08em;
-    }
-    .zoom-control input[type="range"] {
-      width: 110px;
-      accent-color: var(--accent);
-    }
-    .zoom-control strong {
-      min-width: 38px;
-      text-align: right;
-      font: 12px var(--mono);
-      color: var(--ink);
-    }
     .app {
       flex: 1;
       display: grid;
@@ -99,25 +53,16 @@
       zoom: var(--workspace-zoom, 1);
       transform-origin: top left;
     }
-    .panel {
-      min-height: 0;
-      background: rgba(34, 29, 25, 0.92);
-      border-right: 1px solid var(--line);
+    .panel:last-child {
+      border-right: 0;
+      border-left: none;
     }
-    .panel:last-child { border-right: 0; }
     .panel-head {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
       padding: 12px 14px;
-      border-bottom: 1px solid var(--line);
-      background: rgba(0,0,0,0.08);
       position: sticky;
       top: 0;
       z-index: 5;
     }
-    .panel-title { font-size: 14px; font-weight: 600; }
-    .panel-sub { color: var(--ink-3); font: 11px var(--mono); }
     .panel-body { height: calc(100% - 56px); overflow: auto; padding: 12px; }
     .library-body {
       overflow: hidden;
@@ -138,21 +83,38 @@
     }
     .field, select, textarea {
       width: 100%;
-      background: var(--panel-3);
+      background: var(--surface);
       border: 1px solid var(--line);
       border-radius: 10px;
       padding: 8px 10px;
+      min-height: var(--control-height);
+    }
+    input[type="checkbox"],
+    input[type="radio"] {
+      width: 14px;
+      height: 14px;
+      min-height: 0;
+      padding: 0;
+      border: none;
+      background: transparent;
+    }
+    input[type="range"] {
+      min-height: 0;
+      padding: 0;
+      border: none;
+      background: transparent;
     }
     textarea { min-height: 90px; resize: vertical; }
     button {
       border: 1px solid var(--line);
       border-radius: 10px;
-      background: var(--panel-3);
+      background: var(--surface);
       padding: 8px 10px;
       cursor: pointer;
+      min-height: var(--control-height);
     }
     button:hover { border-color: var(--accent); }
-    button.primary { background: rgba(212, 164, 88, 0.12); border-color: #9a6d2e; }
+    button.primary { background: rgba(182, 108, 45, 0.12); border-color: #9a6d2e; }
     button.ghost { background: transparent; }
     button.danger { border-color: #7f3f38; color: #f0b2a7; }
     .filters { display: grid; gap: 8px; margin-bottom: 12px; }
@@ -163,14 +125,14 @@
       border: 1px solid var(--line);
       border-radius: 12px;
       padding: 8px;
-      background: rgba(0,0,0,0.1);
+      background: rgba(255,255,255,0.72);
       cursor: pointer;
       display: grid;
       grid-template-columns: 72px minmax(0, 1fr);
       gap: 8px;
       align-items: start;
     }
-    .image-row.active { border-color: var(--accent); background: rgba(212, 164, 88, 0.08); }
+    .image-row.active { border-color: var(--accent); background: rgba(182, 108, 45, 0.1); }
     .image-row-thumb-wrap {
       position: relative;
       width: 72px;
@@ -181,8 +143,8 @@
       height: 72px;
       border-radius: 10px;
       object-fit: cover;
-      background: rgba(255,255,255,0.04);
-      border: 1px solid rgba(255,255,255,0.06);
+      background: rgba(255,255,255,0.84);
+      border: 1px solid rgba(47, 36, 27, 0.1);
       display: block;
     }
     .image-row-body {
@@ -214,10 +176,10 @@
       font: 10px var(--mono);
     }
     .image-row-code {
-      border: 1px solid rgba(255,255,255,0.08);
+      border: 1px solid rgba(47, 36, 27, 0.12);
       border-radius: 999px;
       padding: 2px 7px;
-      background: rgba(255,255,255,0.03);
+      background: rgba(255,255,255,0.7);
       max-width: 100%;
       overflow: hidden;
       text-overflow: ellipsis;
@@ -233,7 +195,7 @@
       padding: 3px 8px;
       font: 11px var(--mono);
       color: var(--ink-2);
-      background: rgba(255,255,255,0.03);
+      background: rgba(255,255,255,0.7);
     }
     .badge.active { border-color: var(--accent); color: var(--ink); }
     .variant-chip-row {
@@ -265,17 +227,26 @@
       font: 10px var(--mono);
       line-height: 1;
       color: var(--ink-2);
-      background: rgba(26,22,19,0.9);
+      background: rgba(255,255,255,0.84);
       cursor: pointer;
       pointer-events: auto;
     }
     .variant-chip:hover { border-color: var(--accent); color: var(--ink); }
     .variant-chip.active { border-color: var(--accent); color: var(--ink); background: rgba(212, 164, 88, 0.12); }
+    .variant-chip.more {
+      pointer-events: none;
+      cursor: default;
+      width: auto;
+      min-width: 18px;
+      padding: 0 5px;
+      color: var(--ink-3);
+      background: rgba(255,255,255,0.6);
+    }
     .center {
       display: flex;
       flex-direction: column;
       min-width: 0;
-      background: linear-gradient(180deg, rgba(28,24,21,0.94), rgba(20,17,15,0.98));
+      background: linear-gradient(180deg, rgba(250, 244, 236, 0.98), rgba(242, 233, 223, 1));
     }
     .canvas-meta {
       display: grid;
@@ -285,14 +256,14 @@
       position: sticky;
       top: 0;
       z-index: 10;
-      background: linear-gradient(180deg, rgba(28,24,21,0.98), rgba(20,17,15,0.96));
+      background: linear-gradient(180deg, rgba(255, 250, 244, 0.98), rgba(247, 239, 230, 0.96));
     }
     .canvas-headline { display: grid; gap: 4px; min-width: 0; }
     .canvas-title { font-size: 16px; }
     .canvas-sub { color: var(--ink-3); font: 11px var(--mono); }
     .canvas-adjustments {
-      background: rgba(12, 14, 18, 0.32);
-      border-top: 1px solid rgba(255,255,255,0.06);
+      background: rgba(255, 255, 255, 0.62);
+      border-top: 1px solid rgba(92, 72, 56, 0.12);
       padding: 5px 10px;
       display: flex;
       align-items: center;
@@ -307,26 +278,26 @@
     }
     .adj-label {
       font-size: 10px;
-      color: #8ea7cf;
+      color: var(--ink-3);
       white-space: nowrap;
     }
     input[type=range].adj-slider {
       -webkit-appearance: none;
       width: 70px;
       height: 3px;
-      background: rgba(255,255,255,0.18);
+      background: rgba(92, 72, 56, 0.24);
       border-radius: 2px;
       cursor: pointer;
       outline: none;
       padding: 0;
-      accent-color: #6a95d9;
+      accent-color: var(--accent);
     }
     input[type=range].adj-slider::-webkit-slider-thumb {
       -webkit-appearance: none;
       width: 11px;
       height: 11px;
       border-radius: 50%;
-      background: #6a95d9;
+      background: var(--accent);
       cursor: pointer;
       border: 0;
       box-shadow: none;
@@ -335,7 +306,7 @@
       width: 11px;
       height: 11px;
       border-radius: 50%;
-      background: #6a95d9;
+      background: var(--accent);
       cursor: pointer;
       border: 0;
       box-shadow: none;
@@ -357,8 +328,8 @@
       min-width: 0;
     }
     .adj-reset:hover {
-      color: #6a95d9;
-      background: rgba(106, 149, 217, 0.12);
+      color: var(--accent);
+      background: rgba(182, 108, 45, 0.12);
     }
     .canvas-toolbar-row {
       display: flex;
@@ -372,9 +343,32 @@
       gap: 8px;
       align-items: center;
       padding: 8px 10px;
-      border: 1px solid rgba(255,255,255,0.06);
+      border: 1px solid rgba(92, 72, 56, 0.14);
       border-radius: 14px;
-      background: rgba(255,255,255,0.03);
+      background: rgba(255,255,255,0.72);
+    }
+    .toolbar-inline {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 12px;
+      color: var(--ink-2);
+    }
+    .toolbar-inline select {
+      width: auto;
+      min-width: 96px;
+    }
+    .toolbar-inline input[type="range"] {
+      width: 100px;
+      accent-color: var(--accent);
+      padding: 0;
+      min-height: auto;
+    }
+    .label-size-value {
+      font: 11px var(--mono);
+      color: var(--ink-3);
+      min-width: 32px;
+      text-align: right;
     }
     .toolbar-group-label {
       color: var(--ink-3);
@@ -406,10 +400,10 @@
       border: 1px solid var(--line);
       border-radius: 16px;
       background:
-        linear-gradient(90deg, rgba(255,255,255,0.02) 1px, transparent 1px) 0 0 / 24px 24px,
-        linear-gradient(rgba(255,255,255,0.02) 1px, transparent 1px) 0 0 / 24px 24px,
-        #151210;
-      box-shadow: inset 0 0 0 1px rgba(255,255,255,0.02);
+        linear-gradient(90deg, rgba(47,36,27,0.05) 1px, transparent 1px) 0 0 / 24px 24px,
+        linear-gradient(rgba(47,36,27,0.05) 1px, transparent 1px) 0 0 / 24px 24px,
+        #f4ece2;
+      box-shadow: inset 0 0 0 1px rgba(92,72,56,0.08);
       position: relative;
     }
     .canvas-scroll.panning { cursor: grabbing; }
@@ -442,21 +436,35 @@
       cursor: pointer;
     }
     .region.point {
-      width: 14px;
-      height: 14px;
-      margin-left: -7px;
-      margin-top: -7px;
-      border: 2px solid var(--accent);
-      background: rgba(212, 164, 88, 0.2);
+      --region-marker-fill: #f2a23a;
+      --region-marker-active: #ffd166;
+      --region-marker-halo: 0.55px;
+      --region-marker-active-ring: 1.1px;
+      border: 1.5px solid rgba(255, 255, 255, 0.95);
+      background: var(--region-marker-fill);
       border-radius: 999px;
+      box-shadow:
+        0 0 0 var(--region-marker-halo) rgba(0, 0, 0, 0.92),
+        0 1px calc(var(--region-marker-halo) * 3) rgba(0, 0, 0, 0.44);
+    }
+    .region.point.unlinked {
+      --region-marker-fill: #f2a23a;
+      --region-marker-active: #ffd166;
+    }
+    .region.point.linked {
+      --region-marker-fill: #00b7ff;
+      --region-marker-active: #7de3ff;
+      border-color: rgba(255, 255, 255, 0.96);
     }
     .region.box {
       border: 2px solid #9eb8ff;
       background: rgba(82, 119, 198, 0.12);
     }
-    .region.linked { border-color: var(--accent-2); }
+    .region.box.linked { border-color: #f0d18a; }
     .region.active {
-      box-shadow: 0 0 0 2px rgba(255,255,255,0.18), 0 0 0 4px rgba(212,164,88,0.25);
+      box-shadow:
+        0 0 0 var(--region-marker-halo, 1px) rgba(0, 0, 0, 0.95),
+        0 0 0 var(--region-marker-active-ring, 2px) rgba(255, 203, 79, 0.46);
       z-index: 2;
     }
     .region-label {
@@ -464,12 +472,14 @@
       left: 0;
       top: -22px;
       white-space: nowrap;
-      background: rgba(0,0,0,0.78);
-      border: 1px solid var(--line);
+      background: var(--overlay-label-bg);
+      border: 1px solid var(--overlay-label-line);
       border-radius: 999px;
       padding: 2px 7px;
-      font: 11px var(--mono);
-      color: var(--ink);
+      font-size: var(--overlay-label-size);
+      font-family: var(--mono);
+      color: var(--overlay-label-ink);
+      box-shadow: 0 2px 8px rgba(47, 36, 27, 0.18);
     }
     .region .region-label { display: none; }
     .region.active .region-label,
@@ -522,13 +532,13 @@
       border-radius: 16px;
       padding: 18px;
       color: var(--ink-2);
-      background: rgba(255,255,255,0.02);
+      background: rgba(255,255,255,0.48);
     }
     .stack { display: grid; gap: 12px; }
     .section {
       border: 1px solid var(--line);
       border-radius: 14px;
-      background: rgba(255,255,255,0.02);
+      background: rgba(255,255,255,0.72);
       overflow: hidden;
     }
     .section-head {
@@ -536,8 +546,8 @@
       justify-content: space-between;
       align-items: center;
       padding: 10px 12px;
-      border-bottom: 1px solid rgba(255,255,255,0.05);
-      background: rgba(0,0,0,0.08);
+      border-bottom: 1px solid rgba(92, 72, 56, 0.14);
+      background: rgba(255,255,255,0.5);
       font-size: 12px;
       color: var(--ink-2);
     }
@@ -547,10 +557,10 @@
     .kv-row span:first-child { color: var(--ink-3); }
     .small-list { display: grid; gap: 8px; }
     .small-card {
-      border: 1px solid rgba(255,255,255,0.06);
+      border: 1px solid rgba(92, 72, 56, 0.14);
       border-radius: 10px;
       padding: 10px;
-      background: rgba(0,0,0,0.08);
+      background: rgba(255,255,255,0.78);
       display: grid;
       gap: 6px;
     }
@@ -589,7 +599,7 @@
       height: 18px;
       border: 1px solid var(--line);
       border-radius: 5px;
-      background: rgba(26,22,19,0.9);
+      background: rgba(255,255,255,0.84);
       color: var(--ink-2);
       font: 10px var(--mono);
       line-height: 1;
@@ -602,13 +612,28 @@
     }
     .picker-results { display: grid; gap: 8px; max-height: 220px; overflow: auto; }
     .picker-item {
-      border: 1px solid rgba(255,255,255,0.06);
+      border: 1px solid rgba(92, 72, 56, 0.14);
       border-radius: 10px;
       padding: 9px;
-      background: rgba(0,0,0,0.08);
+      background: rgba(255,255,255,0.78);
       cursor: pointer;
     }
     .picker-item:hover { border-color: var(--accent); }
+    .picker-item.with-thumb {
+      display: grid;
+      grid-template-columns: 46px minmax(0, 1fr);
+      gap: 9px;
+      align-items: center;
+    }
+    .kit-thumb {
+      width: 46px;
+      height: 46px;
+      object-fit: cover;
+      border-radius: 9px;
+      border: 1px solid rgba(255,255,255,0.1);
+      background: rgba(0,0,0,0.18);
+    }
+    .picker-main { min-width: 0; }
     .claim-card { border-left: 3px solid var(--accent); }
     .suggestion-card { border-left: 3px solid var(--accent-2); }
     .hint { color: var(--ink-3); font-size: 12px; line-height: 1.5; }
@@ -624,20 +649,9 @@
       margin: 0;
       accent-color: var(--accent);
     }
-    .inline-status {
-      border: 1px dashed rgba(255,255,255,0.12);
-      border-radius: 10px;
-      padding: 8px 10px;
-      font-size: 12px;
-      color: var(--ink-2);
-      background: rgba(255,255,255,0.03);
-    }
-    .inline-status.success { border-color: rgba(143, 174, 138, 0.45); color: #d7ead4; }
-    .inline-status.error { border-color: rgba(216, 129, 87, 0.45); color: #f2c2af; }
-    .inline-status.pending { border-color: rgba(212, 164, 88, 0.45); color: #f2d4a2; }
-    .footer-link { color: var(--ink-2); text-decoration: none; font-size: 12px; }
     .toolbar-pill { font: 11px var(--mono); color: var(--ink-2); }
     .hidden { display: none !important; }
+
     @media (max-width: 1200px) {
       .app { grid-template-columns: 280px minmax(0, 1fr) 340px; }
     }
@@ -665,8 +679,14 @@
       <div class="eyebrow">NuHopeTools / Phase 1</div>
       <div class="title">Workbench - Image Evidence</div>
     </div>
+    <nav class="tool-links" aria-label="Tool navigation">
+      <a class="tool-link" href="index.html">Home</a>
+      <a class="tool-link" href="entity_browser.html">Entity Browser</a>
+      <a class="tool-link active" href="workbench.html" aria-current="page">Image Workbench</a>
+      <a class="tool-link" href="map_workbench.html">Map Workbench</a>
+    </nav>
     <div class="topbar-controls">
-      <input class="field" id="api-base" style="width:220px" value="http://localhost:5000" aria-label="API base">
+      <input class="field api-base" id="api-base" value="http://localhost:5000" aria-label="API base">
       <button id="api-save">Save API</button>
       <button id="admin-key">Admin key</button>
       <label class="topbar-toggle" for="admin-local">
@@ -680,7 +700,6 @@
         <strong id="workspace-zoom-value">100%</strong>
       </label>
       <button id="refresh-all">Refresh</button>
-      <a class="footer-link" href="./index.html">Home</a>
     </div>
   </header>
   <input type="file" id="image-upload-input" class="hidden-input" accept="image/*" multiple>
@@ -709,7 +728,7 @@
             <select id="region-filter">
               <option value="">Any image</option>
               <option value="with_regions">With regions</option>
-              <option value="with_claims">With claims</option>
+              <option value="with_claims">With rationale</option>
             </select>
           </div>
         </div>
@@ -741,6 +760,20 @@
             <button id="mode-point">Add point</button>
             <button id="mode-box">Add box</button>
             <button id="toggle-labels">Labels off</button>
+          </div>
+          <div class="toolbar-group">
+            <span class="toolbar-group-label">Labels</span>
+            <label class="toolbar-inline" for="label-theme">Theme
+              <select id="label-theme">
+                <option value="light">Light</option>
+                <option value="dark">Dark</option>
+                <option value="accent">Accent</option>
+              </select>
+            </label>
+            <label class="toolbar-inline" for="label-size">Text
+              <input id="label-size" type="range" min="10" max="18" step="1" value="12">
+              <span id="label-size-value" class="label-size-value">12px</span>
+            </label>
           </div>
         </div>
       </div>
@@ -804,15 +837,43 @@
   </div>
 
   <script src="shared/api_client.js"></script>
+  <script src="shared/ui_shell.js"></script>
   <script>
     const apiClient = NHTApi.createStoredClient({
       apiBaseKey: 'workbenchApiBase'
     });
 
+    const GLOBAL_UI_BASE_SCALE = 0.8;
+    const GLOBAL_LABEL_VISIBLE_KEY = 'nhtGlobalLabelsVisible';
+    const GLOBAL_LABEL_SIZE_KEY = 'nhtGlobalLabelSize';
+    const GLOBAL_LABEL_THEME_KEY = 'nhtGlobalLabelTheme';
+
+    function parseIntParam(value) {
+      const num = Number(value);
+      return Number.isFinite(num) && num > 0 ? num : null;
+    }
+
+    function parseStartupSelection() {
+      const params = new URLSearchParams(window.location.search);
+      const imageId = parseIntParam(params.get('image_id') || params.get('imageId'));
+      const regionId = parseIntParam(params.get('region_id') || params.get('regionId'));
+      const regionFilter = params.has('region_filter')
+        ? params.get('region_filter')
+        : (imageId ? '' : 'with_regions');
+      return {
+        imageId,
+        regionId,
+        regionFilter,
+        applied: false
+      };
+    }
+
+    const startupSelection = parseStartupSelection();
+
     const state = {
       apiBase: apiClient.getApiBase(),
       images: [],
-      filters: { q: '', image_type: '', region_filter: 'with_regions' },
+      filters: { q: '', image_type: '', region_filter: startupSelection.regionFilter },
       selectedImageId: null,
       selectedImage: null,
       selectedRegionId: null,
@@ -821,11 +882,15 @@
       imageScale: 1,
       panX: 0,
       panY: 0,
-      workspaceZoom: Number(localStorage.getItem('workbenchWorkspaceZoom') || '100'),
+      workspaceZoom: NHTUI.readWorkspaceZoom('workbenchWorkspaceZoom', 100),
       imageSize: { width: 0, height: 0 },
       imageAdjustments: { brightness: 100, contrast: 100, saturation: 100, gamma: 100 },
       mode: 'select',
-      showRegionLabels: false,
+      showRegionLabels: localStorage.getItem(GLOBAL_LABEL_VISIBLE_KEY)
+        ? localStorage.getItem(GLOBAL_LABEL_VISIBLE_KEY) === '1'
+        : false,
+      labelSize: Math.max(10, Math.min(18, Number(localStorage.getItem(GLOBAL_LABEL_SIZE_KEY) || 12))),
+      labelTheme: localStorage.getItem(GLOBAL_LABEL_THEME_KEY) || 'light',
       draftClaimOpen: false,
       linkSearch: '',
       linkTypeFilter: 'kit,part,placement,model',
@@ -850,7 +915,8 @@
       regionRequestToken: 0,
       linkSearchToken: 0,
       claimSearchToken: 0,
-      panState: null
+      panState: null,
+      startupSelection
     };
 
     const el = (id) => document.getElementById(id);
@@ -860,15 +926,43 @@
     }
 
     function applyWorkspaceZoom() {
-      const appRoot = el('app-root');
-      const zoom = Math.max(80, Math.min(140, Number(state.workspaceZoom) || 100));
-      state.workspaceZoom = zoom;
-      localStorage.setItem('workbenchWorkspaceZoom', String(zoom));
-      appRoot?.style.setProperty('--workspace-zoom', String(zoom / 100));
-      const slider = el('workspace-zoom');
-      const readout = el('workspace-zoom-value');
-      if (slider) slider.value = String(zoom);
-      if (readout) readout.textContent = `${zoom}%`;
+      state.workspaceZoom = NHTUI.applyWorkspaceZoom({
+        zoom: state.workspaceZoom,
+        storageKey: 'workbenchWorkspaceZoom',
+        appRoot: el('app-root'),
+        slider: el('workspace-zoom'),
+        readout: el('workspace-zoom-value'),
+        baseScale: GLOBAL_UI_BASE_SCALE,
+        minZoom: 80,
+        maxZoom: 140
+      });
+    }
+
+    function applyGlobalLabelTheme() {
+      const theme = state.labelTheme || 'light';
+      const themes = {
+        light: {
+          bg: 'rgba(255, 252, 248, 0.92)',
+          ink: '#2f241b',
+          line: 'rgba(92, 72, 56, 0.36)'
+        },
+        dark: {
+          bg: 'rgba(33, 27, 24, 0.9)',
+          ink: '#f8eee3',
+          line: 'rgba(255, 239, 220, 0.24)'
+        },
+        accent: {
+          bg: 'rgba(182, 108, 45, 0.9)',
+          ink: '#fff8ef',
+          line: 'rgba(120, 66, 24, 0.42)'
+        }
+      };
+      const current = themes[theme] || themes.light;
+      const root = document.documentElement;
+      root.style.setProperty('--overlay-label-size', `${state.labelSize}px`);
+      root.style.setProperty('--overlay-label-bg', current.bg);
+      root.style.setProperty('--overlay-label-ink', current.ink);
+      root.style.setProperty('--overlay-label-line', current.line);
     }
 
     const IMAGE_TYPE_OPTIONS = [
@@ -895,6 +989,31 @@
         .replace(/</g, '&lt;')
         .replace(/>/g, '&gt;')
         .replace(/"/g, '&quot;');
+    }
+
+    function assetUrl(value) {
+      if (!value) return '';
+      return apiClient.resolveUrl(value);
+    }
+
+    function kitThumbHtml(kit, className = 'kit-thumb') {
+      const url = assetUrl(kit?.thumbnail_url);
+      if (!url) return '';
+      const label = [kit.brand, kit.name].filter(Boolean).join(' ') || kit.title || 'Kit thumbnail';
+      return `<img class="${className}" src="${escapeHtml(url)}" alt="${escapeHtml(label)}" loading="lazy" onerror="this.remove()">`;
+    }
+
+    function kitPickerCard(kit, options = {}) {
+      const title = options.title || `${kit.brand || ''} - ${kit.name || ''}`.replace(/^\s*-\s*|\s*-\s*$/g, '') || kit.title || 'Kit';
+      const meta = options.meta || [kit.scale, kit.serial_number, kit.category_family, kit.category_subject].filter(Boolean).join(' / ');
+      const thumb = kitThumbHtml(kit);
+      return `
+        ${thumb}
+        <div class="picker-main">
+          <div class="small-title">${escapeHtml(title)}</div>
+          <div class="small-meta">${escapeHtml(meta)}</div>
+        </div>
+      `;
     }
 
     function badgeRow(items) {
@@ -1526,6 +1645,18 @@
       state.images = rows;
       el('library-meta').textContent = `${rows.length} browse entries`;
       renderImageList();
+      if (!state.startupSelection.applied && state.startupSelection.imageId) {
+        state.startupSelection.applied = true;
+        await selectImage(state.startupSelection.imageId, { preferCache: true, preserveView: false });
+        if (state.startupSelection.regionId) {
+          try {
+            await selectRegion(state.startupSelection.regionId);
+          } catch (error) {
+            console.warn('Failed to open startup region', error);
+          }
+        }
+        return;
+      }
       if (!state.selectedImageId && rows.length) {
         await selectImage(browseImageIdForRow(rows[0]), { preferCache: true });
       } else if (state.selectedImageId && !rows.find((row) => browseKeyForImage(row) === selectedBrowseKey())) {
@@ -1546,13 +1677,17 @@
         return;
       }
       const activeKey = selectedBrowseKey();
-      list.innerHTML = state.images.map((image) => `
+      list.innerHTML = state.images.map((image) => {
+        const members = familyMembersForRow(image);
+        const previewMembers = members.slice(0, 4);
+        const hiddenMemberCount = Math.max(0, members.length - previewMembers.length);
+        return `
         <div class="image-row ${browseKeyForImage(image) === activeKey ? 'active' : ''}" data-image-id="${image.id}" data-browse-image-id="${browseImageIdForRow(image)}" title="${escapeHtml(imageFamilyTitle(image) || imageDisplayTitle(image))}">
           <div class="image-row-thumb-wrap">
             <img class="image-row-thumb" src="${escapeHtml(imageUrl(image))}" alt="">
-            ${familyMembersForRow(image).length > 1 ? `
+            ${members.length > 1 ? `
               <div class="thumb-variant-strip">
-                ${familyMembersForRow(image).map((member, index) => `
+                ${previewMembers.map((member, index) => `
                   <button class="variant-chip ${member.image_id === state.selectedImageId ? 'active' : ''}"
                           type="button"
                           data-open-image="${member.image_id}"
@@ -1560,6 +1695,7 @@
                     ${escapeHtml(variantBoxLabel(member, index))}
                   </button>
                 `).join('')}
+                ${hiddenMemberCount > 0 ? `<span class="variant-chip more" title="${hiddenMemberCount} more variants">+${hiddenMemberCount}</span>` : ''}
               </div>
             ` : ''}
           </div>
@@ -1568,13 +1704,14 @@
             <div class="image-row-meta">${escapeHtml(imageListMeta(image))}</div>
             <div class="image-row-footer">
               <span>${image.region_count ? `${image.region_count} regions` : '0 regions'}</span>
-              ${image.claim_count ? `<span>${image.claim_count} claims</span>` : ''}
+              ${image.claim_count ? `<span>${image.claim_count} rationale</span>` : ''}
               ${familyVariantCount(image) > 1 ? `<span>${familyVariantCount(image)} variants</span>` : ''}
               ${image.image_code ? `<span class="image-row-code">${escapeHtml(image.image_code)}</span>` : ''}
             </div>
           </div>
         </div>
-      `).join('');
+      `;
+      }).join('');
         list.querySelectorAll('[data-image-id]').forEach((node) => {
           node.addEventListener('click', async () => {
             await selectImage(Number(node.dataset.browseImageId || node.dataset.imageId), { preferCache: true, preserveView: false });
@@ -1778,6 +1915,12 @@
       renderRegions();
     }
 
+    function visualToCanvasScale(node) {
+      if (!node?.clientWidth) return 1;
+      const rect = node.getBoundingClientRect();
+      return rect.width / node.clientWidth || 1;
+    }
+
     function setScaleAroundPoint(nextScale, clientX = null, clientY = null) {
       if (!state.selectedImage || !state.imageSize.width) return;
       const scroll = el('canvas-scroll');
@@ -1787,12 +1930,12 @@
       const scrollRect = scroll.getBoundingClientRect();
       const anchorClientX = clientX ?? (scrollRect.left + scrollRect.width / 2);
       const anchorClientY = clientY ?? (scrollRect.top + scrollRect.height / 2);
-      const localX = anchorClientX - scrollRect.left;
-      const localY = anchorClientY - scrollRect.top;
+      const viewportScale = visualToCanvasScale(scroll);
+      const localX = (anchorClientX - scrollRect.left) / viewportScale;
+      const localY = (anchorClientY - scrollRect.top) / viewportScale;
       state.imageScale = clamped;
       state.panX = localX - (localX - state.panX) * (clamped / oldScale);
       state.panY = localY - (localY - state.panY) * (clamped / oldScale);
-      normalizeCanvasPan();
       applyStageScale();
     }
 
@@ -1802,12 +1945,13 @@
       const frame = el('canvas-frame');
       const scrollRect = scroll.getBoundingClientRect();
       const frameRect = (frame || scroll).getBoundingClientRect();
-      const localX = clientX - scrollRect.left;
-      const localY = clientY - scrollRect.top;
+      const viewportScale = visualToCanvasScale(scroll);
+      const localX = (clientX - scrollRect.left) / viewportScale;
+      const localY = (clientY - scrollRect.top) / viewportScale;
       const contentX = (localX - state.panX) / state.imageScale;
       const contentY = (localY - state.panY) / state.imageScale;
-      const targetCenterX = (frameRect.left + frameRect.width / 2) - scrollRect.left;
-      const targetCenterY = (frameRect.top + frameRect.height / 2) - scrollRect.top;
+      const targetCenterX = ((frameRect.left + frameRect.width / 2) - scrollRect.left) / viewportScale;
+      const targetCenterY = ((frameRect.top + frameRect.height / 2) - scrollRect.top) / viewportScale;
       state.panX = targetCenterX - (contentX * state.imageScale);
       state.panY = targetCenterY - (contentY * state.imageScale);
       normalizeCanvasPan();
@@ -1835,16 +1979,18 @@
         return;
       }
       const invScale = 1 / Math.max(state.imageScale || 1, 0.1);
-      const pointSize = 14 * invScale;
-      const pointOffset = -7 * invScale;
-      const pointBorder = 2 * invScale;
+      const pointSize = 10 * invScale;
+      const pointOffset = -5 * invScale;
+      const pointBorder = 1.5 * invScale;
+      const pointHalo = 0.65 * invScale;
+      const pointActiveRing = 1.8 * invScale;
       const boxBorder = 2 * invScale;
       const labelTop = -22 * invScale;
       const labelScale = invScale;
       const regions = state.selectedImage.regions || [];
       layer.innerHTML = regions.map((region) => {
         const active = region.id === state.selectedRegionId ? 'active' : '';
-        const linked = region.entity_type && region.entity_id ? 'linked' : '';
+        const linked = region.entity_type && region.entity_id ? 'linked' : 'unlinked';
         const showLabel = (state.showRegionLabels || region.id === state.selectedRegionId) ? 'show-label' : '';
         const displayTitle = regionDisplayTitle(region);
         if (region.region_type === 'box') {
@@ -1863,7 +2009,7 @@
         const top = (region.y_norm || 0) * state.imageSize.height;
         return `
           <div class="region point ${active} ${linked} ${showLabel}" data-region-id="${region.id}"
-               style="left:${left}px;top:${top}px;width:${pointSize}px;height:${pointSize}px;margin-left:${pointOffset}px;margin-top:${pointOffset}px;border-width:${pointBorder}px;">
+               style="left:${left}px;top:${top}px;width:${pointSize}px;height:${pointSize}px;margin-left:${pointOffset}px;margin-top:${pointOffset}px;border-width:${pointBorder}px;--region-marker-halo:${pointHalo}px;--region-marker-active-ring:${pointActiveRing}px;">
             <div class="region-label" style="top:${labelTop}px;transform:scale(${labelScale});transform-origin:left top;">${escapeHtml(displayTitle)}</div>
           </div>
         `;
@@ -1884,6 +2030,12 @@
       });
       el('toggle-labels').classList.toggle('primary', state.showRegionLabels);
       el('toggle-labels').textContent = state.showRegionLabels ? 'Labels on' : 'Labels off';
+      const labelTheme = el('label-theme');
+      const labelSize = el('label-size');
+      const labelSizeValue = el('label-size-value');
+      if (labelTheme && labelTheme.value !== state.labelTheme) labelTheme.value = state.labelTheme;
+      if (labelSize && Number(labelSize.value) !== state.labelSize) labelSize.value = String(state.labelSize);
+      if (labelSizeValue) labelSizeValue.textContent = `${state.labelSize}px`;
       el('canvas-scroll').style.cursor = state.mode === 'pan' ? 'grab' : '';
     }
 
@@ -1930,7 +2082,7 @@
             <div class="kv-row"><span>Type</span><span>${escapeHtml(image.image_type || '-')}</span></div>
             <div class="kv-row"><span>Date</span><span>${escapeHtml(image.date_taken || '-')}</span></div>
             <div class="kv-row"><span>Regions</span><span>${(image.regions || []).length}</span></div>
-            <div class="kv-row"><span>Claims</span><span>${image.claim_count || 0}</span></div>
+            <div class="kv-row"><span>Rationale</span><span>${image.claim_count || 0}</span></div>
           </div>
         </div>
         <div class="section">
@@ -1955,7 +2107,7 @@
               ${escapeHtml([
                 image.family ? 'Deleting this image also detaches it from its image group.' : null,
                 (image.regions || []).length ? `Deleting it also removes ${(image.regions || []).length} regions.` : null,
-                image.claim_count ? `Linked claim evidence may be affected (${image.claim_count} claims).` : null
+                image.claim_count ? `Detailed rationale may be affected (${image.claim_count} records).` : null
               ].filter(Boolean).join(' ')) || 'Use save for metadata edits. Delete removes the image record and uploaded file if no other record uses it.'}
             </div>
           </div>
@@ -2030,7 +2182,7 @@
                 <div class="small-meta">${escapeHtml([
                   region.region_type,
                   region.entity_label ? 'linked' : 'unlinked',
-                  `${region.claim_count || 0} claims`,
+                  `${region.claim_count || 0} rationale`,
                   regionDisplayMeta(region)
                 ].filter(Boolean).join(' / '))}</div>
               </div>
@@ -2063,7 +2215,7 @@
               <div class="kv-row"><span>Source label</span><span>${escapeHtml(region.label || `Region ${region.id}`)}</span></div>
               <div class="kv-row"><span>Type</span><span>${escapeHtml(region.region_type || '-')}</span></div>
               <div class="kv-row"><span>Entity</span><span>${escapeHtml(linkTitle)}</span></div>
-              <div class="kv-row"><span>Claims</span><span>${(region.claims || []).length}</span></div>
+              <div class="kv-row"><span>Rationale</span><span>${(region.claims || []).length}</span></div>
             </div>
           </div>
           <div class="section">
@@ -2123,8 +2275,9 @@
           </div>
         </div>
         <div class="section">
-          <div class="section-head"><span>Claims</span><button id="new-claim">New claim</button></div>
+          <div class="section-head"><span>Detailed rationale</span><button id="new-claim">Add rationale</button></div>
           <div class="section-body">
+            <div class="hint">Optional review detail for contested or explanatory cases. The direct linked entity above is the normal working link.</div>
             <div id="claim-form" class="${state.draftClaimOpen ? '' : 'hidden'}">
               <select id="claim-predicate">
                 <option value="depicts">depicts</option>
@@ -2156,12 +2309,12 @@
                   <input class="field" id="claim-object-search" placeholder="Search target entity or leave blank for free text">
                 </div>
                 <div class="picker-results" id="claim-results"></div>
-              <input class="field" id="claim-text" placeholder="Free text object value (optional)">
-              <textarea id="claim-rationale" placeholder="Why does this region support the claim?"></textarea>
-              <button id="save-claim" class="primary">Save claim</button>
+              <input class="field" id="claim-text" placeholder="Free text target (optional)">
+              <textarea id="claim-rationale" placeholder="Why does this region support this interpretation?"></textarea>
+              <button id="save-claim" class="primary">Save rationale</button>
             </div>
             <div class="small-list" id="claim-list">
-              ${(region.claims || []).length ? region.claims.map(renderClaimCard).join('') : '<div class="hint">No claims yet. Link an entity and create the first interpretation.</div>'}
+              ${(region.claims || []).length ? region.claims.map(renderClaimCard).join('') : '<div class="hint">No detailed rationale yet. That is fine for a straightforward direct link.</div>'}
             </div>
           </div>
         </div>
@@ -2279,10 +2432,13 @@
         return;
       }
       wrap.innerHTML = state.linkResults.map((item) => `
-        <div class="picker-item" data-link-type="${item.entity_type}" data-link-id="${item.entity_id}">
-          <div class="small-title">${escapeHtml(item.title)}</div>
-          <div class="small-meta">${escapeHtml(item.subtitle || '')}</div>
-          ${badgeRow(item.badges || [])}
+        <div class="picker-item ${item.thumbnail_url ? 'with-thumb' : ''}" data-link-type="${item.entity_type}" data-link-id="${item.entity_id}">
+          ${kitThumbHtml(item)}
+          <div class="picker-main">
+            <div class="small-title">${escapeHtml(item.title)}</div>
+            <div class="small-meta">${escapeHtml(item.subtitle || '')}</div>
+            ${badgeRow(item.badges || [])}
+          </div>
         </div>
       `).join('');
       wrap.querySelectorAll('[data-link-type]').forEach((node) => {
@@ -2301,7 +2457,7 @@
       const wrap = el('claim-results');
       if (!wrap) return;
       if (!state.claimResults.length) {
-        wrap.innerHTML = state.claimSearch.length >= 2 ? '<div class="hint">No matching entities.</div>' : '<div class="hint">Search for a claim target or use free text below.</div>';
+        wrap.innerHTML = state.claimSearch.length >= 2 ? '<div class="hint">No matching entities.</div>' : '<div class="hint">Search for a rationale target or use free text below.</div>';
         return;
       }
       wrap.innerHTML = state.claimResults.map((item) => `
@@ -2331,9 +2487,8 @@
         return;
       }
       wrap.innerHTML = state.kitBrowserResults.map((kit) => `
-        <div class="picker-item suggestion-card">
-          <div class="small-title">${escapeHtml(`${kit.brand} - ${kit.name}`)}</div>
-          <div class="small-meta">${escapeHtml([kit.scale, kit.serial_number, kit.category_family, kit.category_subject].filter(Boolean).join(' / '))}</div>
+        <div class="picker-item suggestion-card ${kit.thumbnail_url ? 'with-thumb' : ''}">
+          ${kitPickerCard(kit)}
         </div>
       `).join('');
     }
@@ -2346,16 +2501,17 @@
         return;
       }
       wrap.innerHTML = state.kitSuggestions.map((item) => `
-        <div class="picker-item suggestion-card ${item.confidence === 'high' ? 'active' : ''}" data-suggest-kit-id="${item.id}">
-          <div class="small-title">${escapeHtml(`${item.brand} - ${item.name}`)}</div>
-          <div class="small-meta">${escapeHtml([
+        <div class="picker-item suggestion-card ${item.confidence === 'high' ? 'active' : ''} ${item.thumbnail_url ? 'with-thumb' : ''}" data-suggest-kit-id="${item.id}">
+          ${kitPickerCard(item, {
+            meta: [
             item.scale,
             item.serial_number,
             item.category_family,
             item.category_subject,
             `${item.confidence} confidence`,
             item.reasons?.length ? item.reasons.join(', ') : ''
-          ].filter(Boolean).join(' / '))}</div>
+          ].filter(Boolean).join(' / ')
+          })}
         </div>
       `).join('');
       wrap.querySelectorAll('[data-suggest-kit-id]').forEach((node) => {
@@ -2432,7 +2588,7 @@
         `Delete image "${imageDisplayTitle(image)}"?`,
         image.family ? 'It will be removed from its image group.' : null,
         (image.regions || []).length ? `It has ${(image.regions || []).length} regions that will be deleted.` : null,
-        image.claim_count ? `Claim evidence may be affected (${image.claim_count} claims).` : null,
+        image.claim_count ? `Detailed rationale may be affected (${image.claim_count} records).` : null,
         'This cannot be undone.'
       ].filter(Boolean);
       if (!confirm(warnings.join('\n\n'))) return;
@@ -2872,6 +3028,12 @@
     function setupCanvasInteractions() {
       const layer = el('region-layer');
       const scroll = el('canvas-scroll');
+      let lastCanvasPointer = null;
+      const rememberCanvasPointer = (event) => {
+        lastCanvasPointer = { clientX: event.clientX, clientY: event.clientY };
+      };
+      scroll.addEventListener('pointerenter', rememberCanvasPointer);
+      scroll.addEventListener('pointermove', rememberCanvasPointer);
       layer.addEventListener('click', async (event) => {
         if (event.target !== layer || !state.selectedImage || !state.imageSize.width) return;
         if (state.mode === 'point') {
@@ -2916,8 +3078,9 @@
       });
       window.addEventListener('mousemove', (event) => {
         if (!state.panState || state.mode !== 'pan') return;
-        const dx = event.clientX - state.panState.startX;
-        const dy = event.clientY - state.panState.startY;
+        const viewportScale = visualToCanvasScale(scroll);
+        const dx = (event.clientX - state.panState.startX) / viewportScale;
+        const dy = (event.clientY - state.panState.startY) / viewportScale;
         state.panX = state.panState.panX + dx;
         state.panY = state.panState.panY + dy;
         normalizeCanvasPan();
@@ -2960,7 +3123,10 @@
         const nextScale = event.deltaY < 0
           ? state.imageScale * 1.1
           : state.imageScale / 1.1;
-        setScaleAroundPoint(nextScale, event.clientX, event.clientY);
+        const anchor = (event.ctrlKey || event.metaKey) && lastCanvasPointer
+          ? lastCanvasPointer
+          : event;
+        setScaleAroundPoint(nextScale, anchor.clientX, anchor.clientY);
       }, { passive: false });
       scroll.addEventListener('dblclick', (event) => {
         if (!state.selectedImage) return;
@@ -3017,26 +3183,29 @@
     }
 
     function bindTopLevel() {
-      el('api-base').value = state.apiBase;
+      NHTUI.bindTopbarApiControls({
+        apiClient,
+        apiBaseInput: el('api-base'),
+        apiSaveButton: el('api-save'),
+        adminKeyButton: el('admin-key'),
+        adminLocalCheckbox: el('admin-local'),
+        initialApiBase: state.apiBase,
+        initialAdminLocal: apiClient.getAdminLocal(),
+        getCurrentAdminKey: () => apiClient.getAdminKey() || '',
+        adminKeyPrompt: 'Enter admin API key (blank clears):',
+        onApiSaved: (nextBase) => {
+          state.apiBase = nextBase;
+          loadImages().catch(handleError);
+        },
+        onAdminLocalChanged: () => {
+          updateAdminLocalLabel();
+        }
+      });
       el('image-search').value = state.filters.q;
       el('image-type').value = state.filters.image_type;
       el('region-filter').value = state.filters.region_filter;
       if (el('link-type-filter')) el('link-type-filter').value = state.linkTypeFilter;
       if (el('claim-type-filter')) el('claim-type-filter').value = state.claimTypeFilter;
-      el('api-save').addEventListener('click', () => {
-        state.apiBase = apiClient.setApiBase(el('api-base').value.trim() || NHTApi.DEFAULT_API_BASE);
-        loadImages().catch(handleError);
-      });
-      el('admin-key').addEventListener('click', () => {
-        const current = apiClient.getAdminKey() || '';
-        const value = prompt('Enter admin API key (blank clears):', current);
-        if (value === null) return;
-        apiClient.setAdminKey(value);
-      });
-      el('admin-local').addEventListener('change', (event) => {
-        apiClient.setAdminLocal(event.target.checked);
-        updateAdminLocalLabel();
-      });
       el('add-images').addEventListener('click', () => {
         el('image-upload-input')?.click();
       });
@@ -3109,13 +3278,27 @@
       });
       el('toggle-labels').addEventListener('click', () => {
         state.showRegionLabels = !state.showRegionLabels;
+        localStorage.setItem(GLOBAL_LABEL_VISIBLE_KEY, state.showRegionLabels ? '1' : '0');
         renderRegions();
+        updateModeButtons();
+      });
+      el('label-size').addEventListener('input', (event) => {
+        state.labelSize = Math.max(10, Math.min(18, Number(event.target.value) || 12));
+        localStorage.setItem(GLOBAL_LABEL_SIZE_KEY, String(state.labelSize));
+        applyGlobalLabelTheme();
+        updateModeButtons();
+      });
+      el('label-theme').addEventListener('change', (event) => {
+        state.labelTheme = event.target.value || 'light';
+        localStorage.setItem(GLOBAL_LABEL_THEME_KEY, state.labelTheme);
+        applyGlobalLabelTheme();
         updateModeButtons();
       });
       updateModeButtons();
       renderAdjustmentControls();
       updateAdminLocalLabel();
       applyWorkspaceZoom();
+      applyGlobalLabelTheme();
       setupCanvasInteractions();
       document.addEventListener('wheel', (event) => {
         if (!(event.ctrlKey || event.metaKey)) return;

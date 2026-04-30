@@ -13,6 +13,7 @@ import sqlite3
 import os
 import sys
 import argparse
+import re
 from openpyxl import load_workbook
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -34,6 +35,14 @@ def clean(val):
     s = str(val).strip()
     return s if s and s.lower() not in ('none', 'nan', '—', '-') else None
 
+def clean_part_number(val):
+    """Normalize numeric Excel part IDs without treating all part IDs as numbers."""
+    s = clean(val)
+    if s is None:
+        return None
+    match = re.fullmatch(r'(\d+)\.0+', s)
+    return match.group(1) if match else s
+
 def safe_int(val):
     try:
         return int(float(val))
@@ -45,6 +54,57 @@ def safe_float(val):
         return float(val)
     except (TypeError, ValueError):
         return None
+
+
+def bump(report, key, amount=1):
+    if report is None:
+        return
+    report[key] = report.get(key, 0) + amount
+
+
+def classify_part_placement_action(db, model_id, map_id, kit_id, part_id):
+    existing_part = db.execute("""
+        SELECT id FROM placements
+        WHERE model_id=? AND map_id=? AND part_id=?
+        LIMIT 1
+    """, (model_id, map_id, part_id)).fetchone()
+    if existing_part:
+        return 'duplicate_part', existing_part['id']
+
+    existing_kit_level = db.execute("""
+        SELECT id FROM placements
+        WHERE model_id=? AND map_id=? AND kit_id=?
+          AND part_id IS NULL AND cast_assembly_id IS NULL
+        ORDER BY id ASC
+        LIMIT 1
+    """, (model_id, map_id, kit_id)).fetchone()
+    if existing_kit_level:
+        return 'refine_existing_kit', existing_kit_level['id']
+
+    return 'create_part_placement', None
+
+
+def classify_cross_model_kit_action(db, model_id, kit_id):
+    existing_kit_level = db.execute("""
+        SELECT id FROM placements
+        WHERE model_id=? AND kit_id=?
+          AND part_id IS NULL AND cast_assembly_id IS NULL
+        LIMIT 1
+    """, (model_id, kit_id)).fetchone()
+    if existing_kit_level:
+        return 'duplicate_kit_level', existing_kit_level['id']
+
+    implied_by_part = db.execute("""
+        SELECT pl.id
+        FROM placements pl
+        JOIN parts pt ON pt.id = pl.part_id
+        WHERE pl.model_id=? AND pt.kit_id=?
+        LIMIT 1
+    """, (model_id, kit_id)).fetchone()
+    if implied_by_part:
+        return 'implied_by_part', implied_by_part['id']
+
+    return 'create_kit_level', None
 
 
 # ── ENSURE FALCON MODEL EXISTS ────────────────────────────────────
@@ -163,7 +223,7 @@ def import_kits(xlsx_path, db):
 
 # ── IMPORT PARTS SHEET ────────────────────────────────────────────
 
-def import_parts(xlsx_path, db):
+def import_parts(xlsx_path, db, dry_run=False, report=None):
     print(f"\nImporting parts from: {xlsx_path}")
     wb = load_workbook(xlsx_path, read_only=True, data_only=True)
 
@@ -205,7 +265,7 @@ def import_parts(xlsx_path, db):
 
     for row in rows[header_row + 1:]:
         kit_base = safe_int(safe_float(col(row, 'kit #-base')))
-        part_num = clean(col(row, 'part id'))
+        part_num = clean_part_number(col(row, 'part id'))
         map_name = clean(col(row, 'map / plate'))
 
         if kit_base is None or part_num is None:
@@ -262,21 +322,45 @@ def import_parts(xlsx_path, db):
             map_id     = map_cache[map_name]
             copy_count = safe_int(safe_float(col(row, 'copys on map'))) or 1
 
-            # Avoid duplicate placements
-            existing_pl = db.execute("""
-                SELECT id FROM placements
-                WHERE model_id=? AND map_id=? AND part_id=?
-            """, (falcon_id, map_id, part_id)).fetchone()
+            action, target_id = classify_part_placement_action(db, falcon_id, map_id, kit_id, part_id)
+            notes_raw = clean(col(row, 'col7'))
+            if action == 'duplicate_part':
+                bump(report, 'parts_duplicate_part_placement')
+            elif action == 'refine_existing_kit':
+                bump(report, 'parts_refined_existing_kit_placement')
+                if not dry_run:
+                    old = db.execute("SELECT * FROM placements WHERE id=?", (target_id,)).fetchone()
+                    if old:
+                        db.execute("""
+                            INSERT INTO placement_history
+                                (placement_id, prev_part_id, prev_kit_id, prev_confidence, prev_notes, reason)
+                            VALUES (?,?,?,?,?,?)
+                        """, (
+                            target_id,
+                            old['part_id'],
+                            old['kit_id'],
+                            old['confidence'],
+                            old['notes'],
+                            'Spreadsheet import refined kit-level placement to known part.'
+                        ))
+                    db.execute("""
+                        UPDATE placements
+                        SET part_id=?, kit_id=NULL, cast_assembly_id=NULL,
+                            copy_count=COALESCE(?, copy_count),
+                            notes=COALESCE(?, notes)
+                        WHERE id=?
+                    """, (part_id, copy_count, notes_raw, target_id))
+            else:
+                bump(report, 'parts_created_part_placement')
+                if not dry_run:
+                    db.execute("""
+                        INSERT INTO placements
+                            (model_id, map_id, part_id, copy_count, notes)
+                        VALUES (?,?,?,?,?)
+                    """, (falcon_id, map_id, part_id, copy_count, notes_raw))
 
-            if not existing_pl:
-                notes_raw = clean(col(row, 'col7'))
-                db.execute("""
-                    INSERT INTO placements
-                        (model_id, map_id, part_id, copy_count, notes)
-                    VALUES (?,?,?,?,?)
-                """, (falcon_id, map_id, part_id, copy_count, notes_raw))
-
-    db.commit()
+    if not dry_run:
+        db.commit()
     print(f"  Parts imported: {imported}  |  already existed: {skipped}  |  kit not found: {no_kit}")
     print(f"  Maps created/used: {len(map_cache)}")
     wb.close()
@@ -351,7 +435,7 @@ def import_3d_parts(xlsx_path, db):
 
     for row in rows:
         coffman_num = safe_int(safe_float(row[0] if len(row) > 0 else None))
-        part_num    = clean(row[1] if len(row) > 1 else None)
+        part_num    = clean_part_number(row[1] if len(row) > 1 else None)
         providers   = [clean(row[i]) for i in range(2, 5) if i < len(row)]
         notes       = clean(row[5] if len(row) > 5 else None)
 
@@ -407,7 +491,7 @@ def import_3d_parts(xlsx_path, db):
 
 # ── IMPORT ANH DONORS (CROSS-MODEL) ──────────────────────────────
 
-def import_donors(xlsx_path, db):
+def import_donors(xlsx_path, db, dry_run=False, report=None):
     print(f"\nImporting ANH donors from: {xlsx_path}")
     wb = load_workbook(xlsx_path, read_only=True, data_only=True)
 
@@ -491,23 +575,26 @@ def import_donors(xlsx_path, db):
             if not model:
                 continue
 
-            # Avoid duplicate kit-level placements
-            existing = db.execute("""
-                SELECT id FROM placements
-                WHERE model_id=? AND kit_id=?
-                AND part_id IS NULL AND cast_assembly_id IS NULL
-            """, (model['id'], kit_id)).fetchone()
+            action, _ = classify_cross_model_kit_action(db, model['id'], kit_id)
+            if action == 'duplicate_kit_level':
+                bump(report, 'donors_duplicate_kit_level')
+                continue
+            if action == 'implied_by_part':
+                bump(report, 'donors_implied_by_existing_part')
+                continue
 
-            if not existing:
-                confidence = 'confirmed' if val.lower() == 'x' else 'probable'
+            confidence = 'confirmed' if val.lower() == 'x' else 'probable'
+            if not dry_run:
                 db.execute("""
                     INSERT INTO placements (model_id, kit_id, confidence, notes)
                     VALUES (?,?,?,?)
                 """, (model['id'], kit_id, confidence,
                       val if val.lower() != 'x' else None))
-                imported += 1
+            bump(report, 'donors_created_kit_level')
+            imported += 1
 
-    db.commit()
+    if not dry_run:
+        db.commit()
     print(f"  Cross-model placements recorded: {imported}")
     wb.close()
     return imported
@@ -519,6 +606,7 @@ def main():
     parser = argparse.ArgumentParser(description='Import spreadsheets into ILM1300 database')
     parser.add_argument('--kits',   help='Path to PartList_private.xlsx')
     parser.add_argument('--donors', help='Path to ANH_donors.xlsx')
+    parser.add_argument('--dry-run', action='store_true', help='Read and reconcile without writing changes')
     args = parser.parse_args()
 
     if not args.kits and not args.donors:
@@ -531,21 +619,33 @@ def main():
         sys.exit(1)
 
     db = get_db()
+    report = {}
 
     if args.kits:
         if not os.path.exists(args.kits):
             print(f"ERROR: File not found: {args.kits}")
             sys.exit(1)
+        if args.dry_run:
+            print("\nDry-run mode: import actions are classified but not written.")
         import_kits(args.kits, db)
         import_maps(args.kits, db)
-        import_parts(args.kits, db)
+        import_parts(args.kits, db, dry_run=args.dry_run, report=report)
         import_3d_parts(args.kits, db)
 
     if args.donors:
         if not os.path.exists(args.donors):
             print(f"ERROR: File not found: {args.donors}")
             sys.exit(1)
-        import_donors(args.donors, db)
+        import_donors(args.donors, db, dry_run=args.dry_run, report=report)
+
+    if args.dry_run:
+        db.rollback()
+        print("\nReconciliation report (dry-run):")
+        if report:
+            for key in sorted(report.keys()):
+                print(f"  {key}: {report[key]}")
+        else:
+            print("  No reconciliation actions were detected.")
 
     db.close()
     print("\nImport complete.")

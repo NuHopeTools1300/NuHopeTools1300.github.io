@@ -1,0 +1,1249 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NuHopeTools Entity Browser</title>
+  <link rel="stylesheet" href="shared/ui_base.css">
+  <style>
+    :root {
+      --bg: #f3ede5;
+      --panel: #fffaf4;
+      --surface: #f4ebdf;
+      --surface-2: #ecdfd1;
+      --line: #d4c2ae;
+      --ink: #2f241b;
+      --ink-2: #5b4838;
+      --ink-3: #85715f;
+      --accent: #b66c2d;
+      --accent-2: #2f7c8a;
+      --warn: #b74f2f;
+      --mono: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      --sans: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      --font-size-sm: 12px;
+      --font-size-md: 14px;
+      --font-size-lg: 16px;
+      --control-height: 36px;
+      --radius: 12px;
+      --radius-lg: 16px;
+    }
+    * { box-sizing: border-box; }
+    html, body { height: 100%; margin: 0; background: radial-gradient(circle at top left, #fbf6ef, var(--bg) 58%); color: var(--ink); font-family: var(--sans); }
+    body { display: flex; flex-direction: column; overflow: hidden; }
+    button, input, select, .action {
+      font: inherit;
+      color: inherit;
+      background: var(--surface);
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      padding: 9px 12px;
+      min-height: var(--control-height);
+      transition: border-color 120ms ease, background-color 120ms ease, transform 120ms ease;
+    }
+    button, .action { cursor: pointer; }
+    button:hover, .action:hover {
+      border-color: var(--accent);
+      background: rgba(182, 108, 45, 0.12);
+    }
+    button:focus-visible, input:focus-visible, select:focus-visible, .action:focus-visible {
+      outline: 2px solid rgba(142, 197, 179, 0.5);
+      outline-offset: 1px;
+    }
+    button.active {
+      border-color: var(--accent);
+      background: rgba(182, 108, 45, 0.15);
+    }
+    button.ghost { background: transparent; }
+    input { width: 100%; }
+    select { width: 100%; }
+    a { color: var(--accent-2); text-decoration: none; }
+    .brand { min-width: 240px; }
+    .eyebrow { color: var(--ink-3); font: 12px var(--mono); text-transform: uppercase; letter-spacing: 0.12em; }
+    .title { font-size: 22px; }
+    .api-base { width: 260px; }
+    .shell {
+      flex: 1;
+      min-height: 0;
+      display: grid;
+      grid-template-columns: 300px minmax(360px, 1fr) 430px;
+    }
+    .panel { box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.65); }
+    .panel-body {
+      flex: 1;
+      min-height: 0;
+      overflow: auto;
+      padding: 14px;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+    .tabs { display: grid; gap: 8px; }
+    .tab {
+      width: 100%;
+      text-align: left;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+    }
+    .count {
+      color: var(--ink-3);
+      font: 11px var(--mono);
+      border: 1px solid rgba(255,255,255,0.08);
+      border-radius: 999px;
+      padding: 2px 7px;
+      background: rgba(0,0,0,0.12);
+    }
+    .hint { color: var(--ink-3); font-size: var(--font-size-md); line-height: 1.5; }
+    .toolbar {
+      display: grid;
+      grid-template-columns: minmax(220px, 1fr) auto;
+      gap: 10px;
+      align-items: center;
+    }
+    .list-controls {
+      position: sticky;
+      top: 0;
+      z-index: 3;
+      display: grid;
+      gap: 8px;
+      padding: 10px;
+      margin: -4px -4px 2px;
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      background: linear-gradient(180deg, rgba(255, 250, 244, 0.96), rgba(247, 239, 230, 0.92));
+      box-shadow: 0 2px 10px rgba(47, 36, 27, 0.08);
+    }
+    .facet-wrap {
+      border: 1px solid rgba(92, 72, 56, 0.2);
+      border-radius: 12px;
+      background: rgba(255, 255, 255, 0.72);
+      overflow: hidden;
+    }
+    .facet-summary {
+      cursor: pointer;
+      padding: 8px 10px;
+      font: 12px var(--mono);
+      color: var(--ink-2);
+      user-select: none;
+      border-bottom: 1px solid rgba(92, 72, 56, 0.12);
+      background: rgba(255, 255, 255, 0.5);
+    }
+    .facet-wrap:not([open]) .facet-summary {
+      border-bottom: none;
+    }
+    .facet-grid {
+      padding: 8px;
+      display: grid;
+      gap: 8px;
+      grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+    }
+    .facet-col {
+      min-width: 0;
+    }
+    .facet-group {
+      border: 1px solid rgba(92, 72, 56, 0.16);
+      border-radius: 10px;
+      background: rgba(255, 255, 255, 0.65);
+      overflow: hidden;
+    }
+    .facet-group > summary {
+      cursor: pointer;
+      list-style: none;
+      padding: 6px 8px;
+      font-size: 12px;
+      color: var(--ink-2);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+    }
+    .facet-group > summary::-webkit-details-marker { display: none; }
+    .facet-group[open] > summary {
+      border-bottom: 1px solid rgba(92, 72, 56, 0.12);
+      background: rgba(255, 255, 255, 0.5);
+    }
+    .facet-title {
+      font-size: 11px;
+      color: var(--ink-3);
+    }
+    .facet-options {
+      max-height: 110px;
+      overflow: auto;
+      display: grid;
+      gap: 4px;
+      padding: 6px 8px 8px;
+    }
+    .facet-option {
+      display: grid;
+      grid-template-columns: 14px minmax(0, 1fr);
+      align-items: center;
+      gap: 6px;
+      font-size: 11px;
+      color: var(--ink-2);
+      min-width: 0;
+    }
+    .facet-option input {
+      margin: 0;
+      width: 14px;
+      height: 14px;
+      min-height: 14px;
+      accent-color: var(--accent);
+      justify-self: start;
+      align-self: center;
+    }
+    .facet-option span {
+      min-width: 0;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+    .facet-clear {
+      justify-self: start;
+      min-height: 28px;
+      padding: 4px 8px;
+      font-size: 11px;
+    }
+    .list { display: grid; gap: 8px; }
+    .row {
+      border: 1px solid var(--line);
+      border-radius: var(--radius-lg);
+      padding: 10px 12px;
+      background: rgba(255, 255, 255, 0.62);
+      display: grid;
+      gap: 5px;
+      cursor: pointer;
+    }
+    .row.with-thumb {
+      grid-template-columns: 58px minmax(0, 1fr);
+      align-items: center;
+      gap: 10px;
+    }
+    .row-thumb {
+      width: 58px;
+      height: 58px;
+      object-fit: cover;
+      border-radius: 10px;
+      border: 1px solid rgba(255,255,255,0.12);
+      background: rgba(0,0,0,0.2);
+    }
+    .row-main {
+      min-width: 0;
+      display: grid;
+      gap: 5px;
+    }
+    .row.active {
+      border-color: var(--accent);
+      background: rgba(182, 108, 45, 0.1);
+      box-shadow: inset 0 0 0 1px rgba(182, 108, 45, 0.22);
+    }
+    .row-title { font-size: var(--font-size-lg); line-height: 1.3; }
+    .row-meta { color: var(--ink-3); font: 12px var(--mono); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .badges { display: flex; flex-wrap: wrap; gap: 6px; }
+    .badge {
+      color: var(--ink-2);
+      border: 1px solid rgba(255,255,255,0.1);
+      border-radius: 999px;
+      padding: 2px 7px;
+      font: 11px var(--mono);
+      background: rgba(0,0,0,0.14);
+    }
+    .status {
+      min-height: 20px;
+      color: var(--ink-3);
+      font: 12px var(--mono);
+    }
+    .status.error { color: #f0a79c; }
+    .detail-title {
+      font-size: 24px;
+      line-height: 1.25;
+      margin-bottom: 2px;
+    }
+    .detail-sub { color: var(--ink-3); font: 12px var(--mono); }
+    .detail-header {
+      display: grid;
+      grid-template-columns: 96px minmax(0, 1fr);
+      gap: 14px;
+      align-items: center;
+    }
+    .detail-header.no-thumb {
+      grid-template-columns: 1fr;
+    }
+    .detail-thumb {
+      width: 96px;
+      height: 96px;
+      object-fit: cover;
+      border-radius: 14px;
+      border: 1px solid rgba(255,255,255,0.12);
+      background: rgba(0,0,0,0.2);
+    }
+    .stack { display: grid; gap: 12px; }
+    .section {
+      border: 1px solid var(--line);
+      border-radius: var(--radius-lg);
+      background: rgba(255, 255, 255, 0.68);
+      overflow: hidden;
+      scroll-margin-top: 84px;
+    }
+    .section-head {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+      padding: 11px 12px;
+      border-bottom: 1px solid var(--line);
+      color: var(--ink-2);
+      font-size: var(--font-size-md);
+      font-weight: 600;
+    }
+    .section-body {
+      padding: 12px;
+      display: grid;
+      gap: 8px;
+    }
+    .kv {
+      display: grid;
+      grid-template-columns: 130px minmax(0, 1fr);
+      gap: 8px;
+      align-items: start;
+      font-size: var(--font-size-md);
+    }
+    .kv span:first-child {
+      color: var(--ink-3);
+      font-family: var(--mono);
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+    }
+    .mini-card {
+      border: 1px solid rgba(255,255,255,0.08);
+      border-radius: 12px;
+      padding: 9px 10px;
+      background: rgba(255, 255, 255, 0.8);
+      display: grid;
+      gap: 4px;
+    }
+    .mini-title { font-size: 13px; }
+    .mini-meta { color: var(--ink-3); font: 11px var(--mono); }
+    .actions { display: flex; flex-wrap: wrap; gap: 8px; }
+    .actions.vertical {
+      flex-direction: column;
+      align-items: stretch;
+    }
+    .actions.vertical button,
+    .actions.vertical .action {
+      justify-content: flex-start;
+      text-align: left;
+    }
+    .action {
+      display: inline-flex;
+      align-items: center;
+      border-radius: 999px;
+      padding: 7px 11px;
+      background: rgba(255, 255, 255, 0.84);
+      color: var(--ink);
+      font-size: var(--font-size-sm);
+      min-height: 32px;
+    }
+    .action.active {
+      border-color: var(--accent);
+      background: rgba(182, 108, 45, 0.14);
+      color: var(--ink);
+      cursor: default;
+      pointer-events: none;
+    }
+    .section-nav .section-body {
+      gap: 10px;
+    }
+    .section-links {
+      gap: 6px;
+    }
+    .empty {
+      min-height: 180px;
+      display: grid;
+      place-items: center;
+      color: var(--ink-3);
+      border: 1px dashed rgba(94, 71, 52, 0.2);
+      border-radius: 16px;
+      padding: 24px;
+      text-align: center;
+      background: rgba(255, 255, 255, 0.45);
+    }
+
+    @media (max-width: 1080px) {
+      body { overflow: auto; }
+      .shell { grid-template-columns: 1fr; overflow: visible; }
+      .panel { min-height: 320px; border-right: none; border-bottom: 1px solid var(--line); }
+      .panel:last-child { border-left: none; }
+      .topbar { align-items: stretch; flex-direction: column; }
+      .api-base { width: 100%; }
+      .facet-grid { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <div class="eyebrow">NuHopeTools</div>
+      <div class="title">Entity Browser</div>
+    </div>
+    <div class="topbar-controls">
+      <input class="api-base" id="api-base" placeholder="http://localhost:5000">
+      <button id="save-api">Save API</button>
+      <button id="refresh">Refresh</button>
+      <a class="action" href="index.html">Home</a>
+      <a class="action active" href="entity_browser.html" aria-current="page">Entity Browser</a>
+      <a class="action" href="workbench.html">Image Workbench</a>
+      <a class="action" href="map_workbench.html">Map Workbench</a>
+    </div>
+  </header>
+
+  <main class="shell">
+    <aside class="panel" id="panel-entities">
+      <div class="panel-head">
+        <div>
+          <div class="panel-title">Entities</div>
+          <div class="panel-sub">read-only slice 1</div>
+        </div>
+      </div>
+      <div class="panel-body">
+        <div class="tabs" id="tabs"></div>
+        <div class="hint">Use Datasette for raw SQL and table inspection. Use this browser for human-readable relationships and pivots.</div>
+      </div>
+    </aside>
+
+    <section class="panel" id="panel-list">
+      <div class="panel-head">
+        <div>
+          <div class="panel-title" id="list-title">Kits</div>
+          <div class="panel-sub" id="list-meta">Loading</div>
+        </div>
+      </div>
+      <div class="panel-body">
+        <div class="list-controls">
+          <div class="toolbar">
+            <input id="search" placeholder="Search current entity type">
+            <button id="clear-search">Clear</button>
+          </div>
+          <div id="filter-controls" class="tabs"></div>
+          <div class="status" id="status"></div>
+        </div>
+        <div class="list" id="list"></div>
+      </div>
+    </section>
+
+    <aside class="panel" id="panel-detail">
+      <div class="panel-head">
+        <div>
+          <div class="panel-title">Detail</div>
+          <div class="panel-sub" id="detail-meta">Nothing selected</div>
+        </div>
+      </div>
+      <div class="panel-body">
+        <div class="stack" id="detail"></div>
+      </div>
+    </aside>
+  </main>
+
+  <script src="shared/api_client.js"></script>
+  <script>
+    const apiClient = NHTApi.createStoredClient({
+      apiBaseKey: 'entityBrowserApiBase',
+      legacyAdminKeyKeys: ['workbenchAdminKey', 'mapWorkbenchAdminKey'],
+      legacyAdminModeKeys: ['workbenchAdminLocal', 'mapWorkbenchAdminLocal']
+    });
+
+    const ENTITY_TYPES = [
+      { key: 'kits', singular: 'kit', label: 'Kits', endpoint: '/api/kits', idField: 'id' },
+      { key: 'parts', singular: 'part', label: 'Parts', endpoint: '/api/parts', idField: 'id' },
+      { key: 'models', singular: 'model', label: 'Models', endpoint: '/api/models', idField: 'id' },
+      { key: 'maps', singular: 'map', label: 'Maps', endpoint: '/api/maps', idField: 'id' },
+      { key: 'placements', singular: 'placement', label: 'Placements', endpoint: '/api/placements', idField: 'id' },
+      { key: 'images', singular: 'image', label: 'Images', endpoint: '/api/images?collapse_family=1', idField: 'id' },
+      { key: 'regions', singular: 'image_region', label: 'Regions', endpoint: '/api/image_regions', idField: 'id' },
+      { key: 'claims', singular: 'claim', label: 'Claims', endpoint: '/api/claims', idField: 'id' }
+    ];
+
+    const state = {
+      apiBase: apiClient.getApiBase(),
+      activeType: 'kits',
+      query: '',
+      rowsByType: {},
+      selected: null,
+      loading: false,
+      filters: {
+        selections: {}
+      }
+    };
+
+    function el(id) {
+      return document.getElementById(id);
+    }
+
+    function escapeHtml(value) {
+      return String(value ?? '').replace(/[&<>"']/g, (char) => ({
+        '&': '&amp;',
+        '<': '&lt;',
+        '>': '&gt;',
+        '"': '&quot;',
+        "'": '&#39;'
+      }[char]));
+    }
+
+    function compact(values, joiner = ' / ') {
+      return values.filter((value) => value !== null && value !== undefined && String(value).trim() !== '').join(joiner);
+    }
+
+    function asArray(payload) {
+      if (Array.isArray(payload)) return payload;
+      if (Array.isArray(payload?.rows)) return payload.rows;
+      if (Array.isArray(payload?.data)) return payload.data;
+      return [];
+    }
+
+    function entityConfig(key = state.activeType) {
+      return ENTITY_TYPES.find((item) => item.key === key) || ENTITY_TYPES[0];
+    }
+
+    function entityId(row, typeKey = state.activeType) {
+      return row?.[entityConfig(typeKey).idField] ?? row?.id;
+    }
+
+    function labelFor(typeKey, row) {
+      if (!row) return '';
+      if (typeKey === 'kits') return compact([row.brand, row.scale, row.name], ' ');
+      if (typeKey === 'parts') return compact([row.brand, row.kit_name, row.part_number, row.part_label], ' / ');
+      if (typeKey === 'models') return row.name || row.slug || `Model ${row.id}`;
+      if (typeKey === 'maps') return compact([row.name, row.version], ' ');
+      if (typeKey === 'placements') return compact([row.model_name, row.location_label || row.map_name, row.brand, row.kit_name], ' / ');
+      if (typeKey === 'images') return row.title || row.image_code || row.filename || `Image ${row.id}`;
+      if (typeKey === 'regions') return row.label || row.object_name || `Region ${row.id}`;
+      if (typeKey === 'claims') return row.text_value || compact([row.subject_label || row.subject_type, row.predicate, row.object_label || row.object_type], ' ');
+      return row.name || row.title || `Record ${row.id}`;
+    }
+
+    function metaFor(typeKey, row) {
+      if (!row) return '';
+      if (typeKey === 'kits') return compact([`#${row.id}`, row.serial_number, row.category_family, row.category_subject]);
+      if (typeKey === 'parts') return compact([`#${row.id}`, `kit ${row.kit_id}`, row.notes]);
+      if (typeKey === 'models') return compact([row.film, row.scale_approx, row.slug]);
+      if (typeKey === 'maps') return compact([`#${row.id}`, row.image_code || (row.image_id ? `image ${row.image_id}` : ''), row.map_date]);
+      if (typeKey === 'placements') return compact([`#${row.id}`, row.confidence, row.part_number ? `part ${row.part_number}` : '', row.current_position ? 'positioned' : 'no current position']);
+      if (typeKey === 'images') return compact([`#${row.id}`, row.image_type, row.source_title || row.source, `${row.region_count ?? 0} regions`]);
+      if (typeKey === 'regions') return compact([`#${row.id}`, `image ${row.image_id}`, row.entity_label || compact([row.entity_type, row.entity_id], ' ')]);
+      if (typeKey === 'claims') return compact([`#${row.id}`, row.confidence, row.status, row.updated_at]);
+      return `#${row.id}`;
+    }
+
+    function badgesFor(typeKey, row) {
+      if (!row) return [];
+      if (typeKey === 'kits') {
+        return [row.availability, row.category_family, row.category_subject]
+          .filter(Boolean)
+          .filter((value) => String(value).trim().toLowerCase() !== 'unknown');
+      }
+      if (typeKey === 'placements') return [row.confidence, row.model_name].filter(Boolean);
+      if (typeKey === 'images') return [row.image_type, row.family_title ? 'family' : null].filter(Boolean);
+      if (typeKey === 'regions') return [row.region_type, row.entity_type ? 'linked' : 'unlinked'].filter(Boolean);
+      if (typeKey === 'claims') return [row.confidence, row.status].filter(Boolean);
+      return [];
+    }
+
+    function rowSearchText(typeKey, row) {
+      return [
+        labelFor(typeKey, row),
+        metaFor(typeKey, row),
+        row.brand,
+        row.name,
+        row.kit_name,
+        row.part_number,
+        row.part_label,
+        row.image_code,
+        row.filename,
+        row.caption,
+        row.notes,
+        row.rationale
+      ].filter(Boolean).join(' ').toLowerCase();
+    }
+
+    function normalizedFacetValue(value) {
+      const text = String(value ?? '').trim();
+      return text || 'Unknown';
+    }
+
+    function facetDefinitionsForType(typeKey) {
+      const defs = {
+        kits: [
+          { key: 'vendor', label: 'Vendor', value: (row) => normalizedFacetValue(row.brand) },
+          { key: 'scale', label: 'Scale', value: (row) => normalizedFacetValue(row.scale) },
+          { key: 'type', label: 'Type', value: (row) => normalizedFacetValue(row.category_subject || row.category_family) }
+        ],
+        parts: [
+          { key: 'vendor', label: 'Vendor', value: (row) => normalizedFacetValue(row.brand) },
+          { key: 'kit', label: 'Kit', value: (row) => normalizedFacetValue(row.kit_name) }
+        ],
+        models: [
+          { key: 'film', label: 'Film', value: (row) => normalizedFacetValue(row.film) },
+          { key: 'scale', label: 'Scale', value: (row) => normalizedFacetValue(row.scale_approx) }
+        ],
+        maps: [
+          { key: 'version', label: 'Version', value: (row) => normalizedFacetValue(row.version) }
+        ],
+        placements: [
+          { key: 'confidence', label: 'Confidence', value: (row) => normalizedFacetValue(row.confidence) },
+          { key: 'kind', label: 'Kind', value: (row) => normalizedFacetValue(placementObjectKind(row)) },
+          { key: 'model', label: 'Model', value: (row) => normalizedFacetValue(row.model_name) }
+        ],
+        images: [
+          { key: 'image_type', label: 'Type', value: (row) => normalizedFacetValue(row.image_type) },
+          { key: 'source', label: 'Source', value: (row) => normalizedFacetValue(row.source_title || row.source) }
+        ],
+        regions: [
+          { key: 'region_type', label: 'Region Type', value: (row) => normalizedFacetValue(row.region_type) },
+          { key: 'linked', label: 'Link', value: (row) => row.entity_type ? 'Linked' : 'Unlinked' }
+        ],
+        claims: [
+          { key: 'confidence', label: 'Confidence', value: (row) => normalizedFacetValue(row.confidence) },
+          { key: 'status', label: 'Status', value: (row) => normalizedFacetValue(row.status) },
+          { key: 'predicate', label: 'Predicate', value: (row) => normalizedFacetValue(row.predicate) }
+        ]
+      };
+      return defs[typeKey] || [];
+    }
+
+    function selectedFacetValues(facetKey) {
+      return state.filters.selections[facetKey] || [];
+    }
+
+    function filteredRows() {
+      let rows = state.rowsByType[state.activeType] || [];
+      const q = state.query.trim().toLowerCase();
+      if (q) {
+        rows = rows.filter((row) => rowSearchText(state.activeType, row).includes(q));
+      }
+      const facets = facetDefinitionsForType(state.activeType);
+      facets.forEach((facet) => {
+        const selected = selectedFacetValues(facet.key);
+        if (!selected.length) return;
+        const selectedSet = new Set(selected);
+        rows = rows.filter((row) => selectedSet.has(facet.value(row)));
+      });
+      return rows;
+    }
+
+    function datasetteUrl(table, id) {
+      const base = apiClient.getApiBase().replace(/:5000\/?$/, ':8001');
+      return id ? `${base}/ilm1300/${table}/${id}` : `${base}/ilm1300/${table}`;
+    }
+
+    function renderFilterControls() {
+      const wrap = el('filter-controls');
+      if (!wrap) return;
+      const typeKey = state.activeType;
+
+      const rows = state.rowsByType[typeKey] || [];
+      const facets = facetDefinitionsForType(typeKey)
+        .map((facet) => {
+          const values = [...new Set(rows.map((row) => facet.value(row)).filter(Boolean))]
+            .sort((a, b) => String(a).localeCompare(String(b)))
+            .slice(0, 60);
+          return { ...facet, values };
+        })
+        .filter((facet) => facet.values.length > 1);
+
+      if (!facets.length) {
+        wrap.innerHTML = '';
+        return;
+      }
+
+      const selectedCount = facets.reduce((count, facet) => count + selectedFacetValues(facet.key).length, 0);
+      wrap.innerHTML = `
+        <details class="facet-wrap" ${selectedCount ? 'open' : ''}>
+          <summary class="facet-summary">Filters ${selectedCount ? `(${selectedCount})` : ''}</summary>
+          <div class="facet-grid">
+            ${facets.map((facet) => {
+              const selected = selectedFacetValues(facet.key);
+              const selectedLabel = selected.length ? `<span class="facet-title">${selected.length}</span>` : '<span class="facet-title">all</span>';
+              return `
+                <div class="facet-col">
+                  <details class="facet-group" ${selected.length ? 'open' : ''}>
+                    <summary>
+                      <span>${escapeHtml(facet.label)}</span>
+                      ${selectedLabel}
+                    </summary>
+                    <div class="facet-options">
+                      ${facet.values.map((value) => `
+                        <label class="facet-option" title="${escapeHtml(value)}">
+                          <input type="checkbox" data-facet-key="${escapeHtml(facet.key)}" value="${escapeHtml(value)}" ${selected.includes(value) ? 'checked' : ''}>
+                          <span>${escapeHtml(value)}</span>
+                        </label>
+                      `).join('')}
+                    </div>
+                  </details>
+                </div>
+              `;
+            }).join('')}
+            <button class="facet-clear" type="button" id="clear-facets">Clear filters</button>
+          </div>
+        </details>
+      `;
+
+      wrap.querySelectorAll('[data-facet-key]').forEach((node) => {
+        node.addEventListener('change', () => {
+          const facetKey = node.dataset.facetKey;
+          const current = new Set(selectedFacetValues(facetKey));
+          if (node.checked) current.add(node.value);
+          else current.delete(node.value);
+          state.filters.selections[facetKey] = [...current];
+          renderList();
+        });
+      });
+      const clear = el('clear-facets');
+      if (clear) {
+        clear.addEventListener('click', () => {
+          state.filters.selections = {};
+          renderList();
+        });
+      }
+    }
+
+    function workbenchUrl(imageId, regionId) {
+      const params = new URLSearchParams();
+      if (imageId) params.set('image_id', String(imageId));
+      if (regionId) params.set('region_id', String(regionId));
+      return `workbench.html${params.toString() ? `?${params}` : ''}`;
+    }
+
+    function mapWorkbenchUrl() {
+      return 'map_workbench.html';
+    }
+
+    function assetUrl(value) {
+      if (!value) return '';
+      if (/^https?:\/\//i.test(value)) return value;
+      return apiClient.resolveUrl(value);
+    }
+
+    function kitThumbnail(row) {
+      return assetUrl(row?.thumbnail_url);
+    }
+
+    function thumbnailImg(row, className, alt) {
+      const url = kitThumbnail(row);
+      if (!url) return '';
+      return `<img class="${className}" src="${escapeHtml(url)}" alt="${escapeHtml(alt || labelFor('kits', row))}" loading="lazy" onerror="this.remove()">`;
+    }
+
+    function setStatus(message, isError = false) {
+      el('status').textContent = message || '';
+      el('status').classList.toggle('error', !!isError);
+    }
+
+    function renderTabs() {
+      el('tabs').innerHTML = ENTITY_TYPES.map((type) => {
+        const count = state.rowsByType[type.key]?.length;
+        return `
+          <button class="tab ${type.key === state.activeType ? 'active' : ''}" data-type="${type.key}">
+            <span>${escapeHtml(type.label)}</span>
+            <span class="count">${count ?? '-'}</span>
+          </button>
+        `;
+      }).join('');
+      el('tabs').querySelectorAll('[data-type]').forEach((button) => {
+        button.addEventListener('click', () => selectType(button.dataset.type));
+      });
+    }
+
+    function renderList() {
+      const cfg = entityConfig();
+      const rows = filteredRows();
+      el('list-title').textContent = cfg.label;
+      el('list-meta').textContent = `${rows.length} shown / ${(state.rowsByType[state.activeType] || []).length} loaded`;
+      renderFilterControls();
+      if (!rows.length) {
+        el('list').innerHTML = '<div class="empty">No records match the current search and filters.</div>';
+        return;
+      }
+      el('list').innerHTML = rows.slice(0, 500).map((row) => {
+        const id = entityId(row);
+        const selected = state.selected && state.selected.type === state.activeType && String(state.selected.id) === String(id);
+        const thumb = state.activeType === 'kits' ? thumbnailImg(row, 'row-thumb') : '';
+        const rowBadges = badgesFor(state.activeType, row);
+        const shownBadges = rowBadges.slice(0, 2);
+        const extraBadges = rowBadges.length - shownBadges.length;
+        return `
+          <div class="row ${thumb ? 'with-thumb' : ''} ${selected ? 'active' : ''}" data-id="${escapeHtml(id)}">
+            ${thumb}
+            <div class="row-main">
+              <div class="row-title">${escapeHtml(labelFor(state.activeType, row))}</div>
+              <div class="row-meta">${escapeHtml(metaFor(state.activeType, row))}</div>
+              <div class="badges">
+                ${shownBadges.map((badge) => `<span class="badge">${escapeHtml(badge)}</span>`).join('')}
+                ${extraBadges > 0 ? `<span class="badge">+${extraBadges}</span>` : ''}
+              </div>
+            </div>
+          </div>
+        `;
+      }).join('');
+      el('list').querySelectorAll('[data-id]').forEach((node) => {
+        node.addEventListener('click', () => selectRecord(state.activeType, node.dataset.id));
+      });
+      if (rows.length > 500) {
+        el('list').insertAdjacentHTML('beforeend', `<div class="hint">Showing first 500 of ${rows.length}. Narrow the search to see more.</div>`);
+      }
+    }
+
+    function kv(label, value) {
+      if (value === null || value === undefined || value === '') return '';
+      let display = value;
+      if (typeof value === 'object') display = JSON.stringify(value);
+      return `<div class="kv"><span>${escapeHtml(label)}</span><div>${escapeHtml(display)}</div></div>`;
+    }
+
+    function section(title, body, count, id) {
+      const countHtml = count !== undefined ? `<span class="count">${count}</span>` : '';
+      const idHtml = id ? ` id="sec-${escapeHtml(id)}"` : '';
+      return `
+        <section class="section"${idHtml}>
+          <div class="section-head"><span>${escapeHtml(title)}</span>${countHtml}</div>
+          <div class="section-body">${body || '<div class="hint">No records.</div>'}</div>
+        </section>
+      `;
+    }
+
+    function detailSectionNav(typeKey, hasRelated) {
+      const byType = {
+        kits: ['record', 'parts', 'placements-models', 'linked-images', 'linked-regions'],
+        parts: ['record', 'placements', 'linked-images', 'linked-regions'],
+        models: ['record', 'maps', 'kit-summary', 'linked-images', 'linked-regions'],
+        maps: ['record', 'linked-images', 'placements', 'linked-regions'],
+        placements: ['record', 'current-position', 'linked-images', 'linked-regions', 'claims', 'history'],
+        images: ['record', 'regions', 'linked-entities', 'tags'],
+        regions: ['record', 'claims', 'history'],
+        claims: ['record']
+      };
+      const titleFor = {
+        related: 'Related',
+        actions: 'Actions',
+        record: 'Record',
+        parts: 'Parts',
+        'placements-models': 'Placements / Models',
+        'linked-images': 'Linked Images',
+        'linked-regions': 'Linked Regions',
+        placements: 'Placements',
+        maps: 'Maps',
+        'kit-summary': 'Kit Summary',
+        'current-position': 'Current Position',
+        claims: 'Claims',
+        history: 'History',
+        regions: 'Regions',
+        'linked-entities': 'Linked Entities',
+        tags: 'Tags'
+      };
+      const keys = [];
+      if (hasRelated) keys.push('related');
+      keys.push('actions');
+      keys.push(...(byType[typeKey] || ['record']));
+      return section(
+        'Jump to section',
+        `<div class="actions section-links">${keys.map((key) => `<a class="action" href="#sec-${key}">${escapeHtml(titleFor[key] || key)}</a>`).join('')}</div>`,
+        undefined,
+        'jump'
+      );
+    }
+
+    function mini(title, meta, attrs = '') {
+      return `
+        <div class="mini-card" ${attrs}>
+          <div class="mini-title">${escapeHtml(title)}</div>
+          <div class="mini-meta">${escapeHtml(meta || '')}</div>
+        </div>
+      `;
+    }
+
+    function action(label, href) {
+      if (!href) return '';
+      return `<a class="action" href="${escapeHtml(href)}">${escapeHtml(label)}</a>`;
+    }
+
+    function crossLinkSection(typeKey, row) {
+      const links = [];
+      const rowId = entityId(row, typeKey);
+      if (typeKey === 'kits' && rowId) {
+        links.push(`<button class="ghost" onclick="crossLinkJump('parts', 'kit_id', ${rowId})">Jump to parts</button>`);
+        links.push(`<button class="ghost" onclick="crossLinkJump('placements', 'kit_id', ${rowId})">Jump to placements</button>`);
+        links.push(`<button class="ghost" onclick="crossLinkJump('images', 'kit_id', ${rowId})">Jump to linked images</button>`);
+      } else if (typeKey === 'parts' && row.kit_id) {
+        links.push(`<button class="ghost" onclick="selectRecord('kits', ${row.kit_id})">View parent kit</button>`);
+        links.push(`<button class="ghost" onclick="crossLinkJump('placements', 'part_id', ${rowId})">Jump to placements</button>`);
+      } else if (typeKey === 'placements' && rowId) {
+        if (row.kit_id) links.push(`<button class="ghost" onclick="selectRecord('kits', ${row.kit_id})">View kit</button>`);
+        if (row.part_id) links.push(`<button class="ghost" onclick="selectRecord('parts', ${row.part_id})">View part</button>`);
+        if (row.map_id) links.push(`<button class="ghost" onclick="selectRecord('maps', ${row.map_id})">View map</button>`);
+        links.push(`<button class="ghost" onclick="crossLinkJump('images', 'placement_id', ${rowId})">Jump to linked images</button>`);
+      } else if (typeKey === 'images' && rowId) {
+        links.push(`<button class="ghost" onclick="crossLinkJump('regions', 'image_id', ${rowId})">Jump to regions</button>`);
+      } else if (typeKey === 'maps' && rowId) {
+        links.push(`<button class="ghost" onclick="crossLinkJump('placements', 'map_id', ${rowId})">Jump to placements on this map</button>`);
+        if (row.image_id) links.push(`<button class="ghost" onclick="selectRecord('images', ${row.image_id})">View backing image</button>`);
+      }
+      if (links.length === 0) return '';
+      return section('Related entities', `<div class="actions vertical">${links.join('')}</div>`, undefined, 'related');
+    }
+
+    function crossLinkJump(targetType, filterField, filterId) {
+      state.activeType = targetType;
+      state.selected = null;
+      state.query = '';
+      el('search').value = '';
+      renderTabs();
+      renderDetailEmpty();
+      const typeConfig = entityConfig(targetType);
+      setStatus(`Filtering ${typeConfig.label} by ${filterField}=${filterId}...`);
+      (async () => {
+        await loadRows(targetType);
+        const filtered = (state.rowsByType[targetType] || []).filter((row) => Number(row[filterField] || 0) === Number(filterId || 0));
+        if (filtered.length === 0) {
+          setStatus('No matching records found.');
+        } else if (filtered.length === 1) {
+          setStatus('');
+          selectRecord(targetType, filtered[0].id);
+        } else {
+          state.query = `${filterField}:${filterId}`;
+          el('search').value = state.query;
+          renderList();
+          setStatus(`Found ${filtered.length} matching records.`);
+        }
+        updateUrl();
+      })();
+    }
+
+    function actionsFor(typeKey, row, detail) {
+      const id = entityId(row, typeKey);
+      const actions = [];
+      if (typeKey === 'images') actions.push(action('Open in Image Workbench', workbenchUrl(id)));
+      if (typeKey === 'regions') actions.push(action('Open in Image Workbench', workbenchUrl(row.image_id, id)));
+      if (typeKey === 'placements') actions.push(action('Open in Map Workbench', mapWorkbenchUrl()));
+      if (typeKey === 'maps') actions.push(action('Open in Map Workbench', mapWorkbenchUrl()));
+      const tableByType = {
+        kits: 'kits',
+        parts: 'parts',
+        models: 'models',
+        maps: 'maps',
+        placements: 'placements',
+        images: 'images',
+        regions: 'image_regions',
+        claims: 'claims'
+      };
+      actions.push(action('Open raw in Datasette', datasetteUrl(tableByType[typeKey], id)));
+      return section('Actions', `<div class="actions">${actions.join('')}</div>`, undefined, 'actions');
+    }
+
+    async function loadRows(typeKey, force = false) {
+      const cfg = entityConfig(typeKey);
+      if (!force && state.rowsByType[typeKey]) return state.rowsByType[typeKey];
+      setStatus(`Loading ${cfg.label.toLowerCase()}...`);
+      const payload = await apiClient.request(cfg.endpoint);
+      state.rowsByType[typeKey] = asArray(payload);
+      setStatus('');
+      renderTabs();
+      return state.rowsByType[typeKey];
+    }
+
+    async function selectType(typeKey) {
+      state.activeType = typeKey;
+      state.query = '';
+      state.selected = null;
+      state.filters.selections = {};
+      el('search').value = '';
+      renderTabs();
+      renderDetailEmpty();
+      await loadRows(typeKey);
+      renderList();
+      updateUrl();
+    }
+
+    function findLoadedRow(typeKey, id) {
+      return (state.rowsByType[typeKey] || []).find((row) => String(entityId(row, typeKey)) === String(id));
+    }
+
+    async function selectRecord(typeKey, id) {
+      state.selected = { type: typeKey, id };
+      renderList();
+      updateUrl();
+      await renderDetail(typeKey, id);
+    }
+
+    async function fetchDetail(typeKey, row, id) {
+      if (typeKey === 'kits') return apiClient.request(`/api/kits/${id}`);
+      if (typeKey === 'parts') return apiClient.request(`/api/parts/${id}`);
+      if (typeKey === 'placements') return apiClient.request(`/api/placements/${id}`);
+      if (typeKey === 'images') return apiClient.request(`/api/images/${id}`);
+      if (typeKey === 'regions') return apiClient.request(`/api/image_regions/${id}`);
+      if (typeKey === 'claims') return apiClient.request(`/api/claims/${id}`);
+      if (typeKey === 'models' && row?.slug) return apiClient.request(`/api/models/${encodeURIComponent(row.slug)}`);
+      if (typeKey === 'maps') {
+        const placements = await apiClient.request(`/api/placements?map_id=${encodeURIComponent(id)}`).catch(() => []);
+        const images = await apiClient.request(`/api/images?entity_type=map&entity_id=${encodeURIComponent(id)}`).catch(() => []);
+        return { map: row, placements: asArray(placements), images: asArray(images) };
+      }
+      return { entity: row };
+    }
+
+    async function linkedRegionsFor(type, id) {
+      return asArray(await apiClient.request(`/api/image_regions?entity_type=${encodeURIComponent(type)}&entity_id=${encodeURIComponent(id)}`).catch(() => []));
+    }
+
+    function renderDetailEmpty() {
+      el('detail-meta').textContent = 'Nothing selected';
+      el('detail').innerHTML = '<div class="empty">Select a row to inspect the record and its relationships.</div>';
+    }
+
+    async function renderDetail(typeKey, id) {
+      const row = findLoadedRow(typeKey, id);
+      if (!row) {
+        renderDetailEmpty();
+        return;
+      }
+      el('detail-meta').textContent = `${entityConfig(typeKey).singular} ${id}`;
+      el('detail').innerHTML = '<div class="empty">Loading detail...</div>';
+      try {
+        const detail = await fetchDetail(typeKey, row, id);
+        const extraRegions = ['kits', 'parts', 'placements', 'models', 'maps'].includes(typeKey)
+          ? await linkedRegionsFor(entityConfig(typeKey).singular, id)
+          : [];
+        el('detail').innerHTML = renderDetailHtml(typeKey, row, detail, extraRegions);
+      } catch (error) {
+        el('detail').innerHTML = `<div class="empty">Could not load detail: ${escapeHtml(error.message)}</div>`;
+      }
+    }
+
+    function renderDetailHtml(typeKey, row, detail, extraRegions) {
+      const title = labelFor(typeKey, row);
+      const thumb = typeKey === 'kits' ? thumbnailImg(row, 'detail-thumb') : '';
+      const header = `
+        <div class="detail-header ${thumb ? '' : 'no-thumb'}">
+          ${thumb}
+          <div>
+            <div class="detail-title">${escapeHtml(title)}</div>
+            <div class="detail-sub">${escapeHtml(metaFor(typeKey, row))}</div>
+          </div>
+        </div>
+      `;
+      const related = crossLinkSection(typeKey, row);
+      const blocks = [header, detailSectionNav(typeKey, !!related), related, actionsFor(typeKey, row, detail)];
+      if (typeKey === 'kits') blocks.push(renderKitDetail(detail, row, extraRegions));
+      else if (typeKey === 'parts') blocks.push(renderPartDetail(detail, row, extraRegions));
+      else if (typeKey === 'models') blocks.push(renderModelDetail(detail, row, extraRegions));
+      else if (typeKey === 'maps') blocks.push(renderMapDetail(detail, row, extraRegions));
+      else if (typeKey === 'placements') blocks.push(renderPlacementDetail(detail, row, extraRegions));
+      else if (typeKey === 'images') blocks.push(renderImageDetail(detail, row));
+      else if (typeKey === 'regions') blocks.push(renderRegionDetail(detail, row));
+      else if (typeKey === 'claims') blocks.push(renderClaimDetail(detail, row));
+      return blocks.join('');
+    }
+
+    function renderKitDetail(detail, row, regions) {
+      const kit = detail.kit || row;
+      return [
+        section('Record', [
+          kv('Brand', kit.brand),
+          kv('Scale', kit.scale),
+          kv('Name', kit.name),
+          kv('Serial', kit.serial_number),
+          kv('Scalemates', kit.scalemates_url),
+          kv('Thumbnail source', kit.thumbnail_source_url),
+          kv('Thumbnail fetched', kit.thumbnail_fetched_at),
+          kv('Notes', kit.notes)
+        ].join(''), undefined, 'record'),
+        section('Parts', (detail.parts || []).slice(0, 80).map((part) => mini(compact([part.part_number, part.part_label], ' '), part.notes || '')).join(''), detail.parts?.length || 0, 'parts'),
+        section('Placements / Models', (detail.used_on_models || []).map((model) => mini(model.name, model.film || model.slug)).join(''), detail.used_on_models?.length || 0, 'placements-models'),
+        section('Linked Images', (detail.images || []).map((image) => mini(image.title || image.image_code || `Image ${image.id}`, compact([image.image_type, image.source]))).join(''), detail.images?.length || 0, 'linked-images'),
+        section('Linked Regions', regions.map((region) => mini(region.label || `Region ${region.id}`, compact([`image ${region.image_id}`, region.entity_label]))).join(''), regions.length, 'linked-regions')
+      ].join('');
+    }
+
+    function renderPartDetail(detail, row, regions) {
+      const part = detail.part || row;
+      return [
+        section('Record', [
+          kv('Kit', compact([part.brand, part.kit_name], ' ')),
+          kv('Part number', part.part_number),
+          kv('Part label', part.part_label),
+          kv('Notes', part.notes)
+        ].join(''), undefined, 'record'),
+        section('Placements', (detail.placements || []).map((placement) => mini(placement.location_label || `Placement ${placement.id}`, compact([placement.model_name, placement.confidence]))).join(''), detail.placements?.length || 0, 'placements'),
+        section('Linked Images', (detail.images || []).map((image) => mini(image.title || image.image_code || `Image ${image.id}`, compact([image.image_type, image.source]))).join(''), detail.images?.length || 0, 'linked-images'),
+        section('Linked Regions', regions.map((region) => mini(region.label || `Region ${region.id}`, compact([`image ${region.image_id}`, region.entity_label]))).join(''), regions.length, 'linked-regions')
+      ].join('');
+    }
+
+    function renderModelDetail(detail, row, regions) {
+      const model = detail.model || row;
+      return [
+        section('Record', [
+          kv('Name', model.name),
+          kv('Film', model.film),
+          kv('Scale', model.scale_approx),
+          kv('Slug', model.slug),
+          kv('Notes', model.notes)
+        ].join(''), undefined, 'record'),
+        section('Maps', (detail.maps || []).map((map) => mini(map.name, compact([map.version, map.map_date]))).join(''), detail.maps?.length || 0, 'maps'),
+        section('Kit Summary', (detail.kit_summary || []).map((kit) => mini(compact([kit.brand, kit.kit_name], ' '), compact([`${kit.part_count || 0} parts`, `${kit.total_copies || 0} copies`]))).join(''), detail.kit_summary?.length || 0, 'kit-summary'),
+        section('Linked Images', (detail.images || []).map((image) => mini(image.title || image.image_code || `Image ${image.id}`, compact([image.image_type, image.source]))).join(''), detail.images?.length || 0, 'linked-images'),
+        section('Linked Regions', regions.map((region) => mini(region.label || `Region ${region.id}`, compact([`image ${region.image_id}`, region.entity_label]))).join(''), regions.length, 'linked-regions')
+      ].join('');
+    }
+
+    function renderMapDetail(detail, row, regions) {
+      const map = detail.map || row;
+      const placements = detail.placements || [];
+      return [
+        section('Record', [
+          kv('Name', map.name),
+          kv('Version', map.version),
+          kv('Model ID', map.model_id),
+          kv('Image', map.image_title || map.image_code || map.image_id),
+          kv('Date', map.map_date),
+          kv('Notes', map.notes)
+        ].join(''), undefined, 'record'),
+        section('Linked Images', (detail.images || []).map((image) => mini(image.title || image.image_code || `Image ${image.id}`, compact([image.image_type, image.source, image.annotation]))).join(''), detail.images?.length || 0, 'linked-images'),
+        section('Placements', placements.map((placement) => mini(labelFor('placements', placement), metaFor('placements', placement))).join(''), placements.length, 'placements'),
+        section('Linked Regions', regions.map((region) => mini(region.label || `Region ${region.id}`, compact([`image ${region.image_id}`, region.entity_label]))).join(''), regions.length, 'linked-regions')
+      ].join('');
+    }
+
+    function renderPlacementDetail(detail, row, regions) {
+      const placement = detail.placement || row;
+      return [
+        section('Record', [
+          kv('Model', placement.model_name),
+          kv('Map', placement.map_name),
+          kv('Kit', compact([placement.brand, placement.kit_name], ' ')),
+          kv('Part', compact([placement.part_number, placement.part_label], ' ')),
+          kv('Location', placement.location_label),
+          kv('Confidence', placement.confidence),
+          kv('Notes', placement.notes)
+        ].join(''), undefined, 'record'),
+        section('Current Position', detail.current_position ? [
+          kv('Map', detail.current_position.map_name || detail.current_position.map_id),
+          kv('X', detail.current_position.x_norm),
+          kv('Y', detail.current_position.y_norm),
+          kv('Source', detail.current_position.source)
+        ].join('') : '', detail.current_position ? 1 : 0, 'current-position'),
+        section('Linked Images', (detail.images || []).map((image) => mini(image.title || image.image_code || `Image ${image.id}`, compact([image.image_type, image.source]))).join(''), detail.images?.length || 0, 'linked-images'),
+        section('Linked Regions', regions.map((region) => mini(region.label || `Region ${region.id}`, compact([`image ${region.image_id}`, region.entity_label]))).join(''), regions.length, 'linked-regions'),
+        section('Claims', (detail.claims || []).map((claim) => mini(labelFor('claims', claim), metaFor('claims', claim))).join(''), detail.claims?.length || 0, 'claims'),
+        section('History', (detail.history || []).slice(0, 25).map((item) => mini(item.action || `History ${item.id}`, compact([item.changed_at, item.reason]))).join(''), detail.history?.length || 0, 'history')
+      ].join('');
+    }
+
+    function renderImageDetail(detail, row) {
+      const image = detail.image || row;
+      return [
+        section('Record', [
+          kv('Title', image.title),
+          kv('Code', image.image_code),
+          kv('Type', image.image_type),
+          kv('Source', image.source),
+          kv('Date', image.date_taken),
+          kv('Filename', image.filename),
+          kv('Notes', image.notes)
+        ].join(''), undefined, 'record'),
+        section('Regions', (detail.regions || []).map((region) => mini(region.label || `Region ${region.id}`, compact([region.region_type, region.entity_label || 'unlinked']))).join(''), detail.regions?.length || 0, 'regions'),
+        section('Linked Entities', (detail.links || []).map((link) => mini(link.entity_label || compact([link.entity_type, link.entity_id], ' '), link.annotation || link.entity_type)).join(''), detail.links?.length || 0, 'linked-entities'),
+        section('Tags', (detail.tags || []).map((tag) => `<span class="badge">${escapeHtml(tag)}</span>`).join(''), detail.tags?.length || 0, 'tags')
+      ].join('');
+    }
+
+    function renderRegionDetail(detail, row) {
+      const region = detail.region || row;
+      return [
+        section('Record', [
+          kv('Image', region.image_id),
+          kv('Type', region.region_type),
+          kv('Label', region.label),
+          kv('Object name', region.object_name),
+          kv('Linked entity', region.entity_label || compact([region.entity_type, region.entity_id], ' ')),
+          kv('Notes', region.notes),
+          kv('X/Y', compact([region.x_norm, region.y_norm], ' / '))
+        ].join(''), undefined, 'record'),
+        section('Claims', (detail.claims || []).map((claim) => mini(labelFor('claims', claim), metaFor('claims', claim))).join(''), detail.claims?.length || 0, 'claims'),
+        section('History', (detail.history || []).slice(0, 25).map((item) => mini(item.action || `History ${item.id}`, compact([item.changed_at, item.reason]))).join(''), detail.history?.length || 0, 'history')
+      ].join('');
+    }
+
+    function renderClaimDetail(detail, row) {
+      const claim = detail.claim || row;
+      return [
+        section('Record', [
+          kv('Subject', claim.subject_label || compact([claim.subject_type, claim.subject_id], ' ')),
+          kv('Predicate', claim.predicate),
+          kv('Object', claim.object_label || compact([claim.object_type, claim.object_id], ' ')),
+          kv('Text', claim.text_value),
+          kv('Confidence', claim.confidence),
+          kv('Status', claim.status),
+          kv('Rationale', claim.rationale)
+        ].join(''), undefined, 'record')
+      ].join('');
+    }
+
+    function updateUrl() {
+      const params = new URLSearchParams();
+      params.set('type', state.activeType);
+      if (state.selected) params.set('id', state.selected.id);
+      if (state.query) params.set('q', state.query);
+      history.replaceState(null, '', `?${params.toString()}`);
+    }
+
+    async function refreshActive() {
+      await loadRows(state.activeType, true);
+      renderList();
+      if (state.selected) await renderDetail(state.selected.type, state.selected.id);
+    }
+
+    function bind() {
+      el('api-base').value = state.apiBase;
+      el('save-api').addEventListener('click', async () => {
+        state.apiBase = apiClient.setApiBase(el('api-base').value.trim() || NHTApi.DEFAULT_API_BASE);
+        await refreshActive();
+      });
+      el('refresh').addEventListener('click', () => refreshActive().catch((error) => setStatus(error.message, true)));
+      el('clear-search').addEventListener('click', () => {
+        state.query = '';
+        el('search').value = '';
+        renderList();
+        updateUrl();
+      });
+      el('search').addEventListener('input', () => {
+        state.query = el('search').value;
+        renderList();
+        updateUrl();
+      });
+    }
+
+    async function bootstrap() {
+      bind();
+      renderTabs();
+      renderDetailEmpty();
+      const params = new URLSearchParams(window.location.search);
+      const requestedType = params.get('type');
+      if (requestedType && ENTITY_TYPES.some((item) => item.key === requestedType)) state.activeType = requestedType;
+      state.query = params.get('q') || '';
+      state.filters.selections = {};
+      el('search').value = state.query;
+      renderTabs();
+      await loadRows(state.activeType);
+      renderList();
+      const requestedId = params.get('id');
+      if (requestedId) await selectRecord(state.activeType, requestedId);
+    }
+
+    bootstrap().catch((error) => {
+      console.error(error);
+      setStatus(error.message || 'Failed to start entity browser.', true);
+      renderDetailEmpty();
+    });
+  </script>
+</body>
+</html>

@@ -6,11 +6,16 @@ Flask backend — Phase 1
 import sqlite3
 import os
 import hashlib
+import re
 from flask import Flask, g, jsonify, request, send_from_directory
 from flask_cors import CORS
 from werkzeug.utils import secure_filename
 from functools import wraps
 import json
+try:
+    from . import import_spreadsheets as spreadsheet_importer
+except ImportError:
+    import import_spreadsheets as spreadsheet_importer
 
 app = Flask(__name__)
 CORS(app)   # allow GitHub Pages (or any origin) to call this API
@@ -421,6 +426,9 @@ def ensure_research_bootstrap(db):
     ensure_column(db, 'maps', 'image_id', 'INTEGER REFERENCES images(id)')
     ensure_column(db, 'kits', 'category_family', 'TEXT')
     ensure_column(db, 'kits', 'category_subject', 'TEXT')
+    ensure_column(db, 'kits', 'thumbnail_url', 'TEXT')
+    ensure_column(db, 'kits', 'thumbnail_source_url', 'TEXT')
+    ensure_column(db, 'kits', 'thumbnail_fetched_at', 'TEXT')
     ensure_column(db, 'image_regions', 'pixel_x', 'REAL')
     ensure_column(db, 'image_regions', 'pixel_y', 'REAL')
     ensure_column(db, 'image_regions', 'pixel_width', 'REAL')
@@ -531,6 +539,45 @@ def allowed_file(filename):
     return '.' in filename and filename.rsplit('.', 1)[1].lower() in ALLOWED_EXT
 
 
+def resolve_spreadsheet_path(path_value):
+    raw = str(path_value or '').strip()
+    if not raw:
+        return None
+    if os.path.isabs(raw):
+        return os.path.abspath(raw)
+    repo_root = os.path.dirname(BASE_DIR)
+    return os.path.abspath(os.path.join(repo_root, raw))
+
+
+def run_spreadsheet_import_pipeline(db, kits_path=None, donors_path=None, dry_run=False):
+    report = {}
+    preview = {
+        'kits': {},
+        'donors': {}
+    }
+
+    if kits_path:
+        preview['kits']['kits_imported'] = spreadsheet_importer.import_kits(kits_path, db)
+        preview['kits']['maps_imported_or_updated'] = spreadsheet_importer.import_maps(kits_path, db)
+        preview['kits']['parts_imported'] = spreadsheet_importer.import_parts(
+            kits_path,
+            db,
+            dry_run=dry_run,
+            report=report
+        )
+        preview['kits']['part_files_imported'] = spreadsheet_importer.import_3d_parts(kits_path, db)
+
+    if donors_path:
+        preview['donors']['placements_recorded'] = spreadsheet_importer.import_donors(
+            donors_path,
+            db,
+            dry_run=dry_run,
+            report=report
+        )
+
+    return preview, report
+
+
 # Simple admin API key decorator. If ADMIN_API_KEY env var is set,
 # requests that modify data must provide the same key in `X-API-Key` header
 ADMIN_API_KEY = os.environ.get('ADMIN_API_KEY')
@@ -607,6 +654,113 @@ def rows_for_placement_positions(db, placement_id=None, map_id=None, status=None
     return rows_to_list(db.execute(sql, params).fetchall())
 
 
+@app.post('/api/imports/reconciliation_preview')
+@require_admin
+def import_reconciliation_preview():
+    data = request.json or {}
+    kits_path = resolve_spreadsheet_path(data.get('kits_path'))
+    donors_path = resolve_spreadsheet_path(data.get('donors_path'))
+
+    if not kits_path and not donors_path:
+        return err('Provide kits_path and/or donors_path')
+    if kits_path and not os.path.exists(kits_path):
+        return err(f'kits_path not found: {kits_path}', 404)
+    if donors_path and not os.path.exists(donors_path):
+        return err(f'donors_path not found: {donors_path}', 404)
+
+    db_preview = sqlite3.connect(':memory:')
+    db_preview.row_factory = sqlite3.Row
+    db_preview.execute('PRAGMA foreign_keys = ON')
+    db_source = sqlite3.connect(DB_PATH)
+    try:
+        db_source.backup(db_preview)
+        preview, report = run_spreadsheet_import_pipeline(
+            db_preview,
+            kits_path=kits_path,
+            donors_path=donors_path,
+            dry_run=True
+        )
+        db_preview.rollback()
+    finally:
+        db_source.close()
+        db_preview.close()
+
+    return ok(
+        preview=preview,
+        reconciliation_report=report,
+        resolved_paths={
+            'kits_path': kits_path,
+            'donors_path': donors_path
+        }
+    )
+
+
+@app.post('/api/imports/reconcile_apply')
+@require_admin
+def import_reconcile_apply():
+    data = request.json or {}
+    kits_path = resolve_spreadsheet_path(data.get('kits_path'))
+    donors_path = resolve_spreadsheet_path(data.get('donors_path'))
+
+    if not kits_path and not donors_path:
+        return err('Provide kits_path and/or donors_path')
+    if kits_path and not os.path.exists(kits_path):
+        return err(f'kits_path not found: {kits_path}', 404)
+    if donors_path and not os.path.exists(donors_path):
+        return err(f'donors_path not found: {donors_path}', 404)
+
+    db = get_db()
+    preview, report = run_spreadsheet_import_pipeline(
+        db,
+        kits_path=kits_path,
+        donors_path=donors_path,
+        dry_run=False
+    )
+
+    return ok(
+        applied=True,
+        preview=preview,
+        reconciliation_report=report,
+        resolved_paths={
+            'kits_path': kits_path,
+            'donors_path': donors_path
+        }
+    )
+
+
+@app.post('/api/imports/normalize_part_numbers')
+@require_admin
+def normalize_part_numbers_import_endpoint():
+    data = request.json or {}
+    apply_updates = bool(data.get('apply'))
+    db = get_db()
+
+    rows = rows_to_list(db.execute("SELECT id, part_number FROM parts ORDER BY id").fetchall())
+    updates = []
+    for row in rows:
+        value = str(row.get('part_number') or '').strip()
+        match = re.fullmatch(r'(\d+)\.0+', value)
+        if match and value != match.group(1):
+            updates.append({
+                'id': row['id'],
+                'from': value,
+                'to': match.group(1)
+            })
+
+    if apply_updates and updates:
+        db.executemany(
+            "UPDATE parts SET part_number=? WHERE id=?",
+            [(item['to'], item['id']) for item in updates]
+        )
+        db.commit()
+
+    return ok(
+        applied=apply_updates,
+        update_count=len(updates),
+        updates=updates[:100]
+    )
+
+
 def set_current_position(db, placement_id, map_id, position_id):
     db.execute(
         "UPDATE placement_positions SET is_current=0 WHERE placement_id=? AND map_id=? AND id<>?",
@@ -616,6 +770,47 @@ def set_current_position(db, placement_id, map_id, position_id):
         "UPDATE placement_positions SET is_current=1, status='active' WHERE id=?",
         (position_id,)
     )
+
+
+def placement_identity_kind(placement_row):
+    row = dict(placement_row) if isinstance(placement_row, sqlite3.Row) else dict(placement_row or {})
+    if row.get('part_id'):
+        return 'part'
+    if row.get('cast_assembly_id'):
+        return 'cast_assembly'
+    if row.get('kit_id'):
+        return 'kit'
+    return 'unknown'
+
+
+def ensure_single_current_position_per_map(db, placement_id):
+    map_rows = rows_to_list(db.execute(
+        "SELECT DISTINCT map_id FROM placement_positions WHERE placement_id=?",
+        (placement_id,)
+    ).fetchall())
+    for map_row in map_rows:
+        map_id = map_row['map_id']
+        positions = rows_to_list(db.execute("""
+            SELECT id, is_current, status
+            FROM placement_positions
+            WHERE placement_id=? AND map_id=?
+            ORDER BY is_current DESC, created_at DESC, id DESC
+        """, (placement_id, map_id)).fetchall())
+        if not positions:
+            continue
+        preferred = next((p for p in positions if p['is_current'] and p['status'] == 'active'), None)
+        if not preferred:
+            preferred = next((p for p in positions if p['status'] == 'active'), None)
+        if not preferred:
+            preferred = positions[0]
+        db.execute(
+            "UPDATE placement_positions SET is_current=0 WHERE placement_id=? AND map_id=?",
+            (placement_id, map_id)
+        )
+        db.execute(
+            "UPDATE placement_positions SET is_current=1, status='active' WHERE id=?",
+            (preferred['id'],)
+        )
 
 
 def normalize_tags(tags):
@@ -1362,7 +1557,11 @@ def list_placements():
                m.name  as model_name,
                mp.name as map_name,
                pt.part_number, pt.part_label,
+               k.id as resolved_kit_id,
                k.brand, k.name as kit_name,
+               k.thumbnail_url,
+               k.thumbnail_source_url,
+               k.thumbnail_fetched_at,
                ca.name as cast_assembly_name,
                c.handle as attributed_handle
         FROM placements pl
@@ -1417,7 +1616,11 @@ def get_placement(pl_id):
                m.name  as model_name,
                mp.name as map_name,
                pt.part_number, pt.part_label,
+               k.id as resolved_kit_id,
                k.brand, k.name as kit_name,
+               k.thumbnail_url,
+               k.thumbnail_source_url,
+               k.thumbnail_fetched_at,
                ca.name as cast_assembly_name,
                c.handle as attributed_handle
         FROM placements pl
@@ -1440,7 +1643,7 @@ def get_placement(pl_id):
     """, (pl_id,)).fetchall())
     # images
     images = rows_to_list(db.execute("""
-        SELECT i.*, il.annotation
+        SELECT i.*, il.id AS image_link_id, il.annotation
         FROM images i
         JOIN image_links il ON il.image_id = i.id
         WHERE il.entity_type = 'placement' AND il.entity_id = ?
@@ -1454,9 +1657,17 @@ def get_placement(pl_id):
         WHERE ph.placement_id=?
         ORDER BY ph.changed_at DESC
     """, (pl_id,)).fetchall())
+    claim_rows = rows_to_list(db.execute("""
+        SELECT DISTINCT c.*
+        FROM claims c
+        WHERE (c.subject_type='placement' AND c.subject_id=?)
+           OR (c.object_type='placement' AND c.object_id=?)
+        ORDER BY c.updated_at DESC, c.id DESC
+    """, (pl_id, pl_id)).fetchall())
+    claims = enrich_claim_rows(claim_rows, db)
     positions = rows_for_placement_positions(db, placement_id=pl_id)
     return ok(placement=dict(pl), contributors=contributors,
-              images=images, history=history, positions=positions,
+              images=images, history=history, claims=claims, positions=positions,
               current_position=next((row for row in positions if row.get('is_current')), None))
 
 @app.post('/api/placements')
@@ -1557,6 +1768,239 @@ def delete_placement(pl_id):
     db.execute("DELETE FROM placements WHERE id=?", (pl_id,))
     db.commit()
     return ok()
+
+
+@app.get('/api/placements/refinement_queue')
+@app.get('/api/placements/refinement-queue')
+def list_refinement_queue():
+    db = get_db()
+    model_id = to_int(request.args.get('model_id'))
+    map_id = to_int(request.args.get('map_id'))
+    q = request.args.get('q', '').strip()
+
+    sql = """
+        SELECT pl.*,
+               m.name AS model_name,
+               mp.name AS map_name,
+               k.id AS resolved_kit_id,
+               k.brand,
+               k.name AS kit_name,
+               k.thumbnail_url,
+               k.thumbnail_source_url,
+               k.thumbnail_fetched_at
+        FROM placements pl
+        JOIN models m ON m.id = pl.model_id
+        LEFT JOIN maps mp ON mp.id = pl.map_id
+        LEFT JOIN kits k ON k.id = pl.kit_id
+        WHERE pl.part_id IS NULL
+          AND pl.cast_assembly_id IS NULL
+          AND pl.kit_id IS NOT NULL
+    """
+    params = []
+    if model_id:
+        sql += " AND pl.model_id=?"
+        params.append(model_id)
+    if map_id:
+        sql += " AND pl.map_id=?"
+        params.append(map_id)
+    if q:
+        sql += " AND (COALESCE(pl.location_label,'') LIKE ? OR COALESCE(k.brand,'') LIKE ? OR COALESCE(k.name,'') LIKE ?)"
+        like = f'%{q}%'
+        params.extend([like, like, like])
+    sql += " ORDER BY m.name, mp.name, k.brand, k.name, pl.id"
+
+    rows = rows_to_list(db.execute(sql, params).fetchall())
+    if rows:
+        placement_ids = [row['id'] for row in rows]
+        current_positions = rows_to_list(db.execute(f"""
+            SELECT pp.*,
+                   mp.name AS map_name,
+                   mp.version AS map_version
+            FROM placement_positions pp
+            JOIN maps mp ON mp.id = pp.map_id
+            WHERE pp.is_current=1
+              AND pp.placement_id IN ({','.join('?' for _ in placement_ids)})
+            ORDER BY pp.created_at DESC, pp.id DESC
+        """, placement_ids).fetchall())
+        current_by_placement = {}
+        for pos in current_positions:
+            current_by_placement.setdefault(pos['placement_id'], pos)
+        for row in rows:
+            row['current_position'] = current_by_placement.get(row['id'])
+    return ok(rows, count=len(rows))
+
+
+@app.post('/api/placements/<int:pl_id>/refine_part')
+@app.post('/api/placements/<int:pl_id>/refine')
+@require_admin
+def refine_placement_to_part(pl_id):
+    data = request.json or {}
+    part_id = to_int(data.get('part_id'))
+    if not part_id:
+        return err('part_id is required')
+
+    db = get_db()
+    placement = db.execute("SELECT * FROM placements WHERE id=?", (pl_id,)).fetchone()
+    if not placement:
+        return err('Placement not found', 404)
+    if placement_identity_kind(placement) != 'kit':
+        return err('Only kit-level placements can be refined with this endpoint', 409)
+
+    part = db.execute("SELECT id, kit_id, part_number, part_label FROM parts WHERE id=?", (part_id,)).fetchone()
+    if not part:
+        return err('Part not found', 404)
+    if placement['kit_id'] and part['kit_id'] != placement['kit_id']:
+        return err('part_id must belong to the same kit as the kit-level placement', 409)
+
+    change_reason = data.get('change_reason') or data.get('reason')
+
+    db.execute("""
+        INSERT INTO placement_history
+            (placement_id, changed_by, prev_part_id, prev_kit_id, prev_confidence, prev_notes, reason)
+        VALUES (?,?,?,?,?,?,?)
+    """, (
+        pl_id,
+        to_int(data.get('changed_by')),
+        placement['part_id'],
+        placement['kit_id'],
+        placement['confidence'],
+        placement['notes'],
+        change_reason or f"Refined kit-level placement to part {part['part_number']}"
+    ))
+
+    next_confidence = data.get('confidence', placement['confidence'])
+    notes_append = (data.get('notes_append') or '').strip()
+    if notes_append:
+        current_notes = (placement['notes'] or '').strip()
+        next_notes = f"{current_notes}\n{notes_append}".strip() if current_notes else notes_append
+    else:
+        next_notes = placement['notes']
+
+    db.execute("""
+        UPDATE placements
+        SET part_id=?, kit_id=NULL, cast_assembly_id=NULL, confidence=?, notes=?
+        WHERE id=?
+    """, (part_id, next_confidence, next_notes, pl_id))
+    db.commit()
+
+    return ok(
+        id=pl_id,
+        part_id=part_id,
+        message='Placement refined from kit-level to part-level.'
+    )
+
+
+@app.post('/api/placements/merge')
+@require_admin
+def merge_placements():
+    data = request.json or {}
+    canonical_id = to_int(data.get('canonical_id')) or to_int(data.get('primary_id'))
+    duplicate_values = data.get('duplicate_ids')
+    if duplicate_values is None:
+        duplicate_values = data.get('merge_ids') or []
+    duplicate_ids = [to_int(v) for v in duplicate_values if to_int(v)]
+    reason = (data.get('reason') or '').strip() or 'Merged duplicate placement records.'
+    changed_by = to_int(data.get('changed_by'))
+
+    if not canonical_id:
+        return err('canonical_id is required')
+    duplicate_ids = [pid for pid in duplicate_ids if pid and pid != canonical_id]
+    if not duplicate_ids:
+        return err('duplicate_ids must include at least one placement id distinct from canonical_id')
+
+    db = get_db()
+    canonical = db.execute("SELECT * FROM placements WHERE id=?", (canonical_id,)).fetchone()
+    if not canonical:
+        return err('Canonical placement not found', 404)
+
+    rows = rows_to_list(db.execute(
+        f"SELECT * FROM placements WHERE id IN ({','.join('?' for _ in duplicate_ids)})",
+        duplicate_ids
+    ).fetchall())
+    if len(rows) != len(duplicate_ids):
+        return err('One or more duplicate placement ids were not found', 404)
+
+    canonical_kind = placement_identity_kind(canonical)
+    moved_positions = 0
+    moved_claim_refs = 0
+    moved_image_links = 0
+    moved_contributors = 0
+
+    for duplicate in rows:
+        if duplicate['model_id'] != canonical['model_id']:
+            return err('All merged placements must belong to the same model as canonical placement', 409)
+        if canonical_kind != 'unknown' and placement_identity_kind(duplicate) != canonical_kind:
+            return err('Only placements of the same identity kind can be merged', 409)
+
+    for duplicate in rows:
+        duplicate_id = duplicate['id']
+
+        db.execute("""
+            INSERT OR IGNORE INTO image_links (image_id, entity_type, entity_id, annotation)
+            SELECT image_id, entity_type, ?, annotation
+            FROM image_links
+            WHERE entity_type='placement' AND entity_id=?
+        """, (canonical_id, duplicate_id))
+        moved_image_links += db.execute(
+            "SELECT changes() AS c"
+        ).fetchone()['c']
+        db.execute("DELETE FROM image_links WHERE entity_type='placement' AND entity_id=?", (duplicate_id,))
+
+        db.execute("""
+            INSERT OR IGNORE INTO placement_contributors (placement_id, contributor_id, role, notes)
+            SELECT ?, contributor_id, role, notes
+            FROM placement_contributors
+            WHERE placement_id=?
+        """, (canonical_id, duplicate_id))
+        moved_contributors += db.execute(
+            "SELECT changes() AS c"
+        ).fetchone()['c']
+        db.execute("DELETE FROM placement_contributors WHERE placement_id=?", (duplicate_id,))
+
+        db.execute(
+            "UPDATE claims SET subject_id=? WHERE subject_type='placement' AND subject_id=?",
+            (canonical_id, duplicate_id)
+        )
+        moved_claim_refs += db.execute("SELECT changes() AS c").fetchone()['c']
+        db.execute(
+            "UPDATE claims SET object_id=? WHERE object_type='placement' AND object_id=?",
+            (canonical_id, duplicate_id)
+        )
+        moved_claim_refs += db.execute("SELECT changes() AS c").fetchone()['c']
+
+        db.execute(
+            "UPDATE placement_positions SET placement_id=? WHERE placement_id=?",
+            (canonical_id, duplicate_id)
+        )
+        moved_positions += db.execute("SELECT changes() AS c").fetchone()['c']
+
+        db.execute("""
+            INSERT INTO placement_history
+                (placement_id, changed_by, prev_part_id, prev_kit_id, prev_confidence, prev_notes, reason)
+            VALUES (?,?,?,?,?,?,?)
+        """, (
+            canonical_id,
+            changed_by,
+            duplicate.get('part_id'),
+            duplicate.get('kit_id'),
+            duplicate.get('confidence'),
+            duplicate.get('notes'),
+            f"Merged placement #{duplicate_id} into #{canonical_id}. {reason}"
+        ))
+
+        db.execute("DELETE FROM placements WHERE id=?", (duplicate_id,))
+
+    ensure_single_current_position_per_map(db, canonical_id)
+    db.commit()
+
+    return ok(
+        canonical_id=canonical_id,
+        merged_count=len(rows),
+        moved_positions=moved_positions,
+        moved_claim_refs=moved_claim_refs,
+        moved_image_links=moved_image_links,
+        moved_contributors=moved_contributors
+    )
 
 
 @app.get('/api/placement_positions')
@@ -1690,6 +2134,8 @@ def delete_placement_position(position_id):
     old = db.execute("SELECT * FROM placement_positions WHERE id=?", (position_id,)).fetchone()
     if not old:
         return err('Placement position not found', 404)
+    if old['source_kind'] not in ('manual', 'candidate') and old['status'] != 'candidate':
+        return err('Only manual or candidate position records can be deleted', 409)
     if old['is_current']:
         replacement = db.execute("""
             SELECT id
@@ -2435,6 +2881,14 @@ def _entity_label(entity_type, entity_id, db):
         elif entity_type == 'map':
             r = db.execute("SELECT name FROM maps WHERE id=?", (entity_id,)).fetchone()
             return r['name'] if r else str(entity_id)
+        elif entity_type == 'image':
+            r = db.execute("SELECT title, image_code, filename FROM images WHERE id=?", (entity_id,)).fetchone()
+            if r:
+                return r['title'] or r['image_code'] or r['filename'] or f"Image {entity_id}"
+        elif entity_type == 'image_region':
+            r = db.execute("SELECT label, image_id FROM image_regions WHERE id=?", (entity_id,)).fetchone()
+            if r:
+                return r['label'] or f"Region {entity_id} on image {r['image_id']}"
     except Exception:
         pass
     return str(entity_id)
@@ -2819,7 +3273,8 @@ def entity_search():
 
     if 'kit' in types:
         rows = rows_to_list(db.execute("""
-            SELECT id, brand, name, scale, serial_number, category_family, category_subject
+            SELECT id, brand, name, scale, serial_number, category_family, category_subject,
+                   thumbnail_url, thumbnail_source_url, thumbnail_fetched_at
             FROM kits
             WHERE brand LIKE ? OR name LIKE ? OR serial_number LIKE ?
             ORDER BY brand, name
@@ -2831,7 +3286,10 @@ def entity_search():
                 'entity_id': row['id'],
                 'title': f"{row['brand']} - {row['name']}",
                 'subtitle': " / ".join([v for v in [row.get('scale'), row.get('serial_number')] if v]),
-                'badges': [v for v in [row.get('category_family'), row.get('category_subject')] if v]
+                'badges': [v for v in [row.get('category_family'), row.get('category_subject')] if v],
+                'thumbnail_url': row.get('thumbnail_url'),
+                'thumbnail_source_url': row.get('thumbnail_source_url'),
+                'thumbnail_fetched_at': row.get('thumbnail_fetched_at')
             })
 
     if 'part' in types:

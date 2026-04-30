@@ -28,6 +28,9 @@ CREATE TABLE IF NOT EXISTS kits (
     category_family  TEXT,               -- e.g. 'aircraft', 'military_ground', 'naval'
     category_subject TEXT,               -- e.g. 'military_aircraft', 'afv', 'carrier'
     scalemates_url   TEXT,
+    thumbnail_url    TEXT,               -- local cached thumbnail, usually /uploads/kit_thumbnails/...
+    thumbnail_source_url TEXT,           -- original image URL found on the external kit page
+    thumbnail_fetched_at TEXT,
     scans_url        TEXT,
     instructions_url TEXT,
     availability     TEXT DEFAULT 'unknown'

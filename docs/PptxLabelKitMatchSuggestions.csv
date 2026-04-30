@@ -1,0 +1,635 @@
+label_text,label_count,label_statuses,slides,rank,score,kit_id,kit_brand,kit_scale,kit_name,kit_serial,match_reasons
+5757 video grabs,1,other_or_unstyled,5757,,,,,,,,NO_MATCH
+???,16,other_or_unstyled,Blockade_Runner_02 | Erland_Y | Landspeeders | Sandcrawler_0 2 | Star_Destroyer_right | X_03,,,,,,,,NO_MATCH
+Afx. Black Widow,1,identified_in_this_image,ILM_Shop_Top,1,77.2,180,Airfix,1/72,Black Widow,04006-0,"vendor; tokens=airfix,black,widow; name-ratio=1.00"
+Afx. Black Widow,1,identified_in_this_image,ILM_Shop_Top,2,43.5,18,Airfix,1/76,Harrow,04652-7,vendor; tokens=airfix
+Afx. Black Widow,1,identified_in_this_image,ILM_Shop_Top,3,41.9,199,Airfix / MPC,1/72,Lockheed Hudson,386 / 3-89 / 03006-7 /1403 / 1104-100 / 03006-7,vendor; tokens=airfix
+Airfix  Harrow 10x?,2,identified_elsewhere,5757,1,62.8,18,Airfix,1/76,Harrow,04652-7,"vendor; tokens=airfix,harrow; name-ratio=0.75"
+Airfix  Harrow 10x?,2,identified_elsewhere,5757,2,45.5,8,Airfix,1/600,Scharnhorst,F406S,vendor; tokens=airfix
+Airfix  Harrow 10x?,2,identified_elsewhere,5757,3,44.2,13,Airfix,1/72,Arado Ar 196,02019-0,vendor; tokens=airfix
+Airfix 1:24 (?),1,identified_elsewhere,Xwing_back_2,1,54.4,5,Airfix,1/24,Messerschmitt Bf109E,A12002V,vendor; scale; tokens=airfix
+Airfix 1:24 (?),1,identified_elsewhere,Xwing_back_2,2,53.0,4,Airfix,1/24,Hawker Hurricane Mk1,14002,vendor; scale; tokens=airfix
+Airfix 1:24 (?),1,identified_elsewhere,Xwing_back_2,3,53.0,173,Airfix,1/24,Hawker Harrier,09601-4,vendor; scale; tokens=airfix
+Airfix 1:24 Hawker Harrier,1,identified_elsewhere,Wingman,1,91.0,173,Airfix,1/24,Hawker Harrier,09601-4,"vendor; scale; tokens=airfix,harrier,hawker; name-ratio=1.00"
+Airfix 1:24 Hawker Harrier,1,identified_elsewhere,Wingman,2,74.9,4,Airfix,1/24,Hawker Hurricane Mk1,14002,"vendor; scale; tokens=airfix,hawker; name-ratio=0.71"
+Airfix 1:24 Hawker Harrier,1,identified_elsewhere,Wingman,3,57.6,5,Airfix,1/24,Messerschmitt Bf109E,A12002V,vendor; scale; tokens=airfix
+Airfix 1:24 Hawker Hurricane,2,identified_elsewhere | identified_in_this_image,ILM_Shop_Image | Tile,1,88.3,4,Airfix,1/24,Hawker Hurricane Mk1,14002,"vendor; scale; tokens=airfix,hawker,hurricane; name-ratio=0.89"
+Airfix 1:24 Hawker Hurricane,2,identified_elsewhere | identified_in_this_image,ILM_Shop_Image | Tile,2,77.2,173,Airfix,1/24,Hawker Harrier,09601-4,"vendor; scale; tokens=airfix,hawker; name-ratio=0.80"
+Airfix 1:24 Hawker Hurricane,2,identified_elsewhere | identified_in_this_image,ILM_Shop_Image | Tile,3,57.3,5,Airfix,1/24,Messerschmitt Bf109E,A12002V,vendor; scale; tokens=airfix
+Airfix 1:24 Messerschmitt,4,identified_elsewhere | identified_in_this_image,Blockade_Runner | Blockade_Runner_02 | ILM_KITS | Sandcrawler_right,1,81.7,5,Airfix,1/24,Messerschmitt Bf109E,A12002V,"vendor; scale; tokens=airfix,messerschmitt; name-ratio=0.79"
+Airfix 1:24 Messerschmitt,4,identified_elsewhere | identified_in_this_image,Blockade_Runner | Blockade_Runner_02 | ILM_KITS | Sandcrawler_right,2,59.1,173,Airfix,1/24,Hawker Harrier,09601-4,vendor; scale; tokens=airfix
+Airfix 1:24 Messerschmitt,4,identified_elsewhere | identified_in_this_image,Blockade_Runner | Blockade_Runner_02 | ILM_KITS | Sandcrawler_right,3,57.8,4,Airfix,1/24,Hawker Hurricane Mk1,14002,vendor; scale; tokens=airfix
+Airfix 1:24 Messerschmitt (?),1,identified_elsewhere,Xwing_back_2,1,81.7,5,Airfix,1/24,Messerschmitt Bf109E,A12002V,"vendor; scale; tokens=airfix,messerschmitt; name-ratio=0.79"
+Airfix 1:24 Messerschmitt (?),1,identified_elsewhere,Xwing_back_2,2,59.1,173,Airfix,1/24,Hawker Harrier,09601-4,vendor; scale; tokens=airfix
+Airfix 1:24 Messerschmitt (?),1,identified_elsewhere,Xwing_back_2,3,57.8,4,Airfix,1/24,Hawker Hurricane Mk1,14002,vendor; scale; tokens=airfix
+Airfix 1:24 Messerschmitt (???),1,identified_in_this_image,Blockade_Runner,1,81.7,5,Airfix,1/24,Messerschmitt Bf109E,A12002V,"vendor; scale; tokens=airfix,messerschmitt; name-ratio=0.79"
+Airfix 1:24 Messerschmitt (???),1,identified_in_this_image,Blockade_Runner,2,59.1,173,Airfix,1/24,Hawker Harrier,09601-4,vendor; scale; tokens=airfix
+Airfix 1:24 Messerschmitt (???),1,identified_in_this_image,Blockade_Runner,3,57.8,4,Airfix,1/24,Hawker Hurricane Mk1,14002,vendor; scale; tokens=airfix
+Airfix Ark Royal,1,identified_in_this_image,ILM_Shop_Top,1,64.0,175,Airfix,1/600,H.M.S. Ark Royal,F408S,"vendor; tokens=airfix,ark,royal; name-ratio=0.75"
+Airfix Ark Royal,1,identified_in_this_image,ILM_Shop_Top,2,47.8,18,Airfix,1/76,Harrow,04652-7,vendor; tokens=airfix
+Airfix Ark Royal,1,identified_in_this_image,ILM_Shop_Top,3,43.6,180,Airfix,1/72,Black Widow,04006-0,vendor; tokens=airfix
+Airfix Black Widow,1,identified_elsewhere,Blockade _Top,1,77.2,180,Airfix,1/72,Black Widow,04006-0,"vendor; tokens=airfix,black,widow; name-ratio=1.00"
+Airfix Black Widow,1,identified_elsewhere,Blockade _Top,2,43.5,18,Airfix,1/76,Harrow,04652-7,vendor; tokens=airfix
+Airfix Black Widow,1,identified_elsewhere,Blockade _Top,3,41.9,199,Airfix / MPC,1/72,Lockheed Hudson,386 / 3-89 / 03006-7 /1403 / 1104-100 / 03006-7,vendor; tokens=airfix
+Airfix Focke Wulf 189,1,identified_in_this_image,ILM_Shop_Top,1,85.6,25,Airfix,1/72,Focke-Wulf 189,267,"vendor; tokens=189,airfix,focke,wulf; name-ratio=1.00"
+Airfix Focke Wulf 189,1,identified_in_this_image,ILM_Shop_Top,2,41.9,13,Airfix,1/72,Arado Ar 196,02019-0,vendor; tokens=airfix
+Airfix Focke Wulf 189,1,identified_in_this_image,ILM_Shop_Top,3,41.8,187,Airfix,1/72,Henschel H.S.129,262.0,vendor; tokens=airfix
+Airfix Halifax B Mk III,1,identified_in_this_image,ILM_Shop_Image,1,71.3,183,Airfix,1/72,Handley Page Halifax B.Mk.III,584,"vendor; tokens=airfix,b,halifax,iii,mk; name-ratio=0.71"
+Airfix Halifax B Mk III,1,identified_in_this_image,ILM_Shop_Image,2,42.2,381,Airfix,1/76,LCM III & Sherman Tank,A301V / 03301-9,"vendor; tokens=airfix,iii"
+Airfix Halifax B Mk III,1,identified_in_this_image,ILM_Shop_Image,3,42.0,4,Airfix,1/24,Hawker Hurricane Mk1,14002,vendor; tokens=airfix
+Airfix Harrier,1,identified_elsewhere,ILM_Shop_Top,1,60.8,173,Airfix,1/24,Hawker Harrier,09601-4,"vendor; tokens=airfix,harrier; name-ratio=0.67"
+Airfix Harrier,1,identified_elsewhere,ILM_Shop_Top,2,51.2,18,Airfix,1/76,Harrow,04652-7,vendor; tokens=airfix
+Airfix Harrier,1,identified_elsewhere,ILM_Shop_Top,3,49.2,8,Airfix,1/600,Scharnhorst,F406S,vendor; tokens=airfix
+Airfix Harrow,3,identified_elsewhere | identified_in_this_image,Blockade_Runner_02 | ILM_Shop_Image | Landspeeder_03,1,73.0,18,Airfix,1/76,Harrow,04652-7,"vendor; tokens=airfix,harrow; name-ratio=1.00"
+Airfix Harrow,3,identified_elsewhere | identified_in_this_image,Blockade_Runner_02 | ILM_Shop_Image | Landspeeder_03,2,49.8,8,Airfix,1/600,Scharnhorst,F406S,vendor; tokens=airfix
+Airfix Harrow,3,identified_elsewhere | identified_in_this_image,Blockade_Runner_02 | ILM_Shop_Image | Landspeeder_03,3,44.7,175,Airfix,1/600,H.M.S. Ark Royal,F408S,vendor; tokens=airfix
+Airfix Hawker Harrier,3,identified_elsewhere | identified_in_this_image,5757 | Blockade_Runner | ILM_Shop_Image,1,77.2,173,Airfix,1/24,Hawker Harrier,09601-4,"vendor; tokens=airfix,harrier,hawker; name-ratio=1.00"
+Airfix Hawker Harrier,3,identified_elsewhere | identified_in_this_image,5757 | Blockade_Runner | ILM_Shop_Image,2,58.9,4,Airfix,1/24,Hawker Hurricane Mk1,14002,"vendor; tokens=airfix,hawker; name-ratio=0.71"
+Airfix Hawker Harrier,3,identified_elsewhere | identified_in_this_image,5757 | Blockade_Runner | ILM_Shop_Image,3,47.6,171,Airfix,1/144,Hawker Siddeley Trident 1C,SK504 / 1655/9 / 03174-9 / 03174-9,"vendor; tokens=airfix,hawker"
+Airfix Hawker Hurricane (?),1,identified_elsewhere,Wingman,1,74.5,4,Airfix,1/24,Hawker Hurricane Mk1,14002,"vendor; tokens=airfix,hawker,hurricane; name-ratio=0.89"
+Airfix Hawker Hurricane (?),1,identified_elsewhere,Wingman,2,61.2,173,Airfix,1/24,Hawker Harrier,09601-4,"vendor; tokens=airfix,hawker; name-ratio=0.80"
+Airfix Hawker Hurricane (?),1,identified_elsewhere,Wingman,3,47.1,171,Airfix,1/144,Hawker Siddeley Trident 1C,SK504 / 1655/9 / 03174-9 / 03174-9,"vendor; tokens=airfix,hawker"
+Airfix Henschel HS 129,1,identified_in_this_image,ILM_Shop_Top,1,67.0,187,Airfix,1/72,Henschel H.S.129,262.0,"vendor; tokens=129,airfix,henschel; name-ratio=0.97"
+Airfix Henschel HS 129,1,identified_in_this_image,ILM_Shop_Top,2,45.2,196,Airfix / MPC,1/72,Heinkel He 177,589 / A-106 / 1200-200 / 2-2502 / 2-0303 / 05009-2,vendor; tokens=airfix
+Airfix Henschel HS 129,1,identified_in_this_image,ILM_Shop_Top,3,44.6,386,Airfix / MPC,1/72,Flying Fortress Boeing B-17 G,585 / 1-129 / 2-163 / 1506-150 / A-107-700 / 1201-200 / 05005-0 / 2-2501 / 2-0301 / 05005,"vendor; tokens=129,airfix; serial-ish"
+Airfix Hurricane,1,identified_elsewhere,ILM_Shop_Top,1,59.7,4,Airfix,1/24,Hawker Hurricane Mk1,14002,"vendor; tokens=airfix,hurricane"
+Airfix Hurricane,1,identified_elsewhere,ILM_Shop_Top,2,48.6,188,Airfix,1/72,Hovercraft,287,vendor; tokens=airfix
+Airfix Hurricane,1,identified_elsewhere,ILM_Shop_Top,3,46.0,18,Airfix,1/76,Harrow,04652-7,vendor; tokens=airfix
+Airfix Messerschmitt,1,identified_elsewhere,ILM_Shop_Top,1,67.9,5,Airfix,1/24,Messerschmitt Bf109E,A12002V,"vendor; tokens=airfix,messerschmitt; name-ratio=0.79"
+Airfix Messerschmitt,1,identified_elsewhere,ILM_Shop_Top,2,46.8,188,Airfix,1/72,Hovercraft,287,vendor; tokens=airfix
+Airfix Messerschmitt,1,identified_elsewhere,ILM_Shop_Top,3,46.5,8,Airfix,1/600,Scharnhorst,F406S,vendor; tokens=airfix
+Airfix Messerschmitt (?),1,identified_elsewhere,Wingman,1,67.9,5,Airfix,1/24,Messerschmitt Bf109E,A12002V,"vendor; tokens=airfix,messerschmitt; name-ratio=0.79"
+Airfix Messerschmitt (?),1,identified_elsewhere,Wingman,2,46.8,188,Airfix,1/72,Hovercraft,287,vendor; tokens=airfix
+Airfix Messerschmitt (?),1,identified_elsewhere,Wingman,3,46.5,8,Airfix,1/600,Scharnhorst,F406S,vendor; tokens=airfix
+Airfix Pontoon Bridge,1,identified_in_this_image,ILM_Shop_Top,1,62.8,189,Airfix,1/72,Pontoon Bridge Assault Set,40602-8,"vendor; tokens=airfix,bridge,pontoon; name-ratio=0.70"
+Airfix Pontoon Bridge,1,identified_in_this_image,ILM_Shop_Top,2,41.5,2,Airfix,1/144,Apollo Saturn V,09170-5,vendor; tokens=airfix
+Airfix Pontoon Bridge,1,identified_in_this_image,ILM_Shop_Top,3,40.9,173,Airfix,1/24,Hawker Harrier,09601-4,vendor; tokens=airfix
+Airfix Saturn V,8,identified_elsewhere | identified_in_this_image,5757 | ???? | ILM_Shop_Top | Landspeeder_02 | Landspeeders | Sandcrawler_0 2 | Star_Destroyer_Stand,1,65.7,2,Airfix,1/144,Apollo Saturn V,09170-5,"vendor; tokens=airfix,saturn,v; name-ratio=0.70"
+Airfix Saturn V,8,identified_elsewhere | identified_in_this_image,5757 | ???? | ILM_Shop_Top | Landspeeder_02 | Landspeeders | Sandcrawler_0 2 | Star_Destroyer_Stand,2,46.5,8,Airfix,1/600,Scharnhorst,F406S,vendor; tokens=airfix
+Airfix Saturn V,8,identified_elsewhere | identified_in_this_image,5757 | ???? | ILM_Shop_Top | Landspeeder_02 | Landspeeders | Sandcrawler_0 2 | Star_Destroyer_Stand,3,42.7,7,Airfix,1/600,R.M.S. Mauretania,04207-1,vendor; tokens=airfix
+Airfix SR-N1 Hovercraft,1,identified_in_this_image,Blockade_Runner,1,63.3,188,Airfix,1/72,Hovercraft,287,"vendor; tokens=airfix,hovercraft; name-ratio=0.77"
+Airfix SR-N1 Hovercraft,1,identified_in_this_image,Blockade_Runner,2,47.4,8,Airfix,1/600,Scharnhorst,F406S,vendor; tokens=airfix
+Airfix SR-N1 Hovercraft,1,identified_in_this_image,Blockade_Runner,3,41.2,173,Airfix,1/24,Hawker Harrier,09601-4,vendor; tokens=airfix
+Airfix Tank Transporter,1,identified_in_this_image,Star_Destroyer_Stand,1,68.2,192,Airfix,1/76,Scammel Tank Transporter,02301-6,"vendor; tokens=airfix,tank,transporter; name-ratio=0.80"
+Airfix Tank Transporter,1,identified_in_this_image,Star_Destroyer_Stand,2,46.9,382,Airfix,1/76,Matilda Tank,01318-1 /,"vendor; tokens=airfix,tank"
+Airfix Tank Transporter,1,identified_in_this_image,Star_Destroyer_Stand,3,45.3,8,Airfix,1/600,Scharnhorst,F406S,vendor; tokens=airfix
+AMT  Kenworth K-123 Cabover,1,identified_in_this_image,Blockade_Runner,1,87.0,30,AMT,1/25,Kenworth K-123 Cabover,687,"vendor; tokens=123,amt,cabover,k,kenworth; name-ratio=1.00"
+AMT  Kenworth K-123 Cabover,1,identified_in_this_image,Blockade_Runner,2,45.1,239,AMT,1/25,Peterbilt Cabover Pacemaker 352 Tractor,T502,"vendor; tokens=amt,cabover"
+AMT  Kenworth K-123 Cabover,1,identified_in_this_image,Blockade_Runner,3,42.2,233,AMT,1/25,New Camaro,T458,vendor; tokens=amt
+AMT '65 Ford Galaxie XL,1,identified_in_this_image,Blockade_Runner_02,1,87.0,212,AMT,1/25,65 Ford Galaxie XL,T407,"vendor; tokens=65,amt,ford,galaxie,xl; name-ratio=1.00"
+AMT '65 Ford Galaxie XL,1,identified_in_this_image,Blockade_Runner_02,2,50.1,205,AMT,1/25,32 Ford Phaeton,A125,"vendor; tokens=amt,ford"
+AMT '65 Ford Galaxie XL,1,identified_in_this_image,Blockade_Runner_02,3,49.3,207,AMT,1/25,40 Ford Sedan Delivery,T149,"vendor; tokens=amt,ford"
+AMT 1958 Chevy Impala,3,identified_elsewhere | identified_in_this_image,Erland_Y | Star_Destroyer_workbench | X_03,1,85.6,203,AMT,1/25,1958 Chevy Impala,T273,"vendor; tokens=1958,amt,chevy,impala; name-ratio=1.00"
+AMT 1958 Chevy Impala,3,identified_elsewhere | identified_in_this_image,Erland_Y | Star_Destroyer_workbench | X_03,2,55.5,209,AMT,1/25,55 Chevy Nomad,T289,"vendor; tokens=amt,chevy"
+AMT 1958 Chevy Impala,3,identified_elsewhere | identified_in_this_image,Erland_Y | Star_Destroyer_workbench | X_03,3,50.9,216,AMT,1/25,Chevy Titan 90,T-509,"vendor; tokens=amt,chevy"
+AMT 1:43 Exterior Post Van,4,identified_elsewhere | identified_in_this_image,Star_Destroyer_right | Star_Destroyer_workbench,1,94.0,252,AMT,1/43,Exterior post van,T-704,"vendor; scale; tokens=amt,exterior,post,van; name-ratio=1.00"
+AMT 1:43 Exterior Post Van,4,identified_elsewhere | identified_in_this_image,Star_Destroyer_right | Star_Destroyer_workbench,2,62.4,254,AMT,1/43,Peterbilt 359 (1/43 T'N'T Series),T-700,"vendor; scale; tokens=1/43,amt"
+AMT 1:43 Exterior Post Van,4,identified_elsewhere | identified_in_this_image,Star_Destroyer_right | Star_Destroyer_workbench,3,60.5,253,AMT,1/43,Fruehauf FB 40 Foot Refrigerator Van Reefer,T-701,"vendor; scale; tokens=amt,van"
+AMT 1:43 Peterbilt 359,9,identified_elsewhere | identified_in_this_image,Blockade_Runner | ILM_KITS | Landspeeder_04 | Sandcrawler_back | Star_Destroyer_right | Star_Destroyer_workbench | Tie_Attack | X_03,1,84.2,254,AMT,1/43,Peterbilt 359 (1/43 T'N'T Series),T-700,"vendor; scale; tokens=1/43,359,amt,peterbilt"
+AMT 1:43 Peterbilt 359,9,identified_elsewhere | identified_in_this_image,Blockade_Runner | ILM_KITS | Landspeeder_04 | Sandcrawler_back | Star_Destroyer_right | Star_Destroyer_workbench | Tie_Attack | X_03,2,61.9,252,AMT,1/43,Exterior post van,T-704,vendor; scale; tokens=amt
+AMT 1:43 Peterbilt 359,9,identified_elsewhere | identified_in_this_image,Blockade_Runner | ILM_KITS | Landspeeder_04 | Sandcrawler_back | Star_Destroyer_right | Star_Destroyer_workbench | Tie_Attack | X_03,3,54.4,253,AMT,1/43,Fruehauf FB 40 Foot Refrigerator Van Reefer,T-701,vendor; scale; tokens=amt
+AMT 1:43 Reefer,1,identified_in_this_image,ILM_KITS,1,60.4,254,AMT,1/43,Peterbilt 359 (1/43 T'N'T Series),T-700,"vendor; scale; tokens=1/43,amt"
+AMT 1:43 Reefer,1,identified_in_this_image,ILM_KITS,2,59.5,253,AMT,1/43,Fruehauf FB 40 Foot Refrigerator Van Reefer,T-701,"vendor; scale; tokens=amt,reefer"
+AMT 1:43 Reefer,1,identified_in_this_image,ILM_KITS,3,57.5,252,AMT,1/43,Exterior post van,T-704,vendor; scale; tokens=amt
+AMT 53 Ford Pickup,1,identified_elsewhere,Erland_Peterson,1,71.3,206,AMT,1/25,34 Ford Pickup,T145,"vendor; tokens=amt,ford,pickup; name-ratio=0.93"
+AMT 53 Ford Pickup,1,identified_elsewhere,Erland_Peterson,2,68.9,234,AMT,1/25,New Ford Pickup,T387,"vendor; tokens=amt,ford,pickup; name-ratio=0.83"
+AMT 53 Ford Pickup,1,identified_elsewhere,Erland_Peterson,3,68.8,208,AMT,1/25,53 Ford Pickup Street Rods,T410,"vendor; tokens=53,amt,ford,pickup; name-ratio=0.70"
+AMT 53 Ford Pickup Street Rods,2,identified_elsewhere | identified_in_this_image,Blockade_Runner_02 | Star_Destroyer_workbench,1,88.0,208,AMT,1/25,53 Ford Pickup Street Rods,T410,"vendor; tokens=53,amt,ford,pickup,rods,street; name-ratio=1.00"
+AMT 53 Ford Pickup Street Rods,2,identified_elsewhere | identified_in_this_image,Blockade_Runner_02 | Star_Destroyer_workbench,2,59.4,206,AMT,1/25,34 Ford Pickup,T145,"vendor; tokens=amt,ford,pickup"
+AMT 53 Ford Pickup Street Rods,2,identified_elsewhere | identified_in_this_image,Blockade_Runner_02 | Star_Destroyer_workbench,3,57.8,234,AMT,1/25,New Ford Pickup,T387,"vendor; tokens=amt,ford,pickup"
+AMT 55 Chevy Nomad,3,identified_elsewhere | identified_in_this_image,Erland_Y | Sandcrawler_0 2 | Star_Destroyer_workbench,1,85.6,209,AMT,1/25,55 Chevy Nomad,T289,"vendor; tokens=55,amt,chevy,nomad; name-ratio=1.00"
+AMT 55 Chevy Nomad,3,identified_elsewhere | identified_in_this_image,Erland_Y | Sandcrawler_0 2 | Star_Destroyer_workbench,2,55.5,203,AMT,1/25,1958 Chevy Impala,T273,"vendor; tokens=amt,chevy"
+AMT 55 Chevy Nomad,3,identified_elsewhere | identified_in_this_image,Erland_Y | Sandcrawler_0 2 | Star_Destroyer_workbench,3,53.5,210,AMT,1/25,59 Chevy El Camino,T398,"vendor; tokens=amt,chevy"
+AMT 56 Ford Victoria Hardtop,1,identified_in_this_image,Erland_Y,1,82.0,250,AMT,1/25,56 Ford Victoria Hardtop,T271-200,"vendor; tokens=56,amt,ford,hardtop,victoria; name-ratio=1.00"
+AMT 56 Ford Victoria Hardtop,1,identified_in_this_image,Erland_Y,2,49.9,206,AMT,1/25,34 Ford Pickup,T145,"vendor; tokens=amt,ford"
+AMT 56 Ford Victoria Hardtop,1,identified_in_this_image,Erland_Y,3,49.6,234,AMT,1/25,New Ford Pickup,T387,"vendor; tokens=amt,ford"
+AMT 58 Chevy Impala,1,identified_elsewhere,Sandcrawler_0 2,1,71.5,203,AMT,1/25,1958 Chevy Impala,T273,"vendor; tokens=amt,chevy,impala; name-ratio=0.94"
+AMT 58 Chevy Impala,1,identified_elsewhere,Sandcrawler_0 2,2,56.6,209,AMT,1/25,55 Chevy Nomad,T289,"vendor; tokens=amt,chevy; name-ratio=0.69"
+AMT 58 Chevy Impala,1,identified_elsewhere,Sandcrawler_0 2,3,51.7,216,AMT,1/25,Chevy Titan 90,T-509,"vendor; tokens=amt,chevy"
+AMT 59 Chevy El Camino,3,identified_elsewhere | identified_in_this_image,Erland_Peterson | Star_Destroyer_workbench | X_03,1,87.0,210,AMT,1/25,59 Chevy El Camino,T398,"vendor; tokens=59,amt,camino,chevy,el; name-ratio=1.00"
+AMT 59 Chevy El Camino,3,identified_elsewhere | identified_in_this_image,Erland_Peterson | Star_Destroyer_workbench | X_03,2,53.5,209,AMT,1/25,55 Chevy Nomad,T289,"vendor; tokens=amt,chevy"
+AMT 59 Chevy El Camino,3,identified_elsewhere | identified_in_this_image,Erland_Peterson | Star_Destroyer_workbench | X_03,3,52.4,27,AMT,1/25,57 Chevy Bel Air Hardtop,31543,"vendor; tokens=amt,chevy; name-ratio=0.67"
+AMT Aquarod Race Team,1,identified_in_this_image,Blockade_Runner,1,80.0,213,AMT,1/25,Aquarod Race Team,T-561,"vendor; tokens=amt,aquarod,race,team; name-ratio=1.00"
+AMT Aquarod Race Team,1,identified_in_this_image,Blockade_Runner,2,52.3,238,AMT,1/25,Penske Racing Team,T565,"vendor; tokens=amt,team"
+AMT Aquarod Race Team,1,identified_in_this_image,Blockade_Runner,3,44.3,214,AMT,1/25,Autocar A64B tractor,T-526,vendor; tokens=amt
+AMT Aquarod Racing Team,1,identified_elsewhere,Sandcrawler_right,1,67.3,213,AMT,1/25,Aquarod Race Team,T-561,"vendor; tokens=amt,aquarod,team; name-ratio=0.89"
+AMT Aquarod Racing Team,1,identified_elsewhere,Sandcrawler_right,2,64.6,238,AMT,1/25,Penske Racing Team,T565,"vendor; tokens=amt,racing,team"
+AMT Aquarod Racing Team,1,identified_elsewhere,Sandcrawler_right,3,43.7,214,AMT,1/25,Autocar A64B tractor,T-526,vendor; tokens=amt
+AMT Autocar,4,identified_elsewhere | identified_in_this_image,5757 | Landspeeder_04 | Tie_Attack | Xwing_back,1,54.4,214,AMT,1/25,Autocar A64B tractor,T-526,"vendor; tokens=amt,autocar"
+AMT Autocar,4,identified_elsewhere | identified_in_this_image,5757 | Landspeeder_04 | Tie_Attack | Xwing_back,2,45.5,251,AMT,1/25,Corvair Custom,T159,vendor; tokens=amt
+AMT Autocar,4,identified_elsewhere | identified_in_this_image,5757 | Landspeeder_04 | Tie_Attack | Xwing_back,3,44.9,233,AMT,1/25,New Camaro,T458,vendor; tokens=amt
+AMT Black Beauty,1,identified_in_this_image,Sandcrawler_back,1,55.0,242,AMT,1/25,Steve McGee Black Beauty Wedge Dragster,T176,"vendor; tokens=amt,beauty,black"
+AMT Black Beauty,1,identified_in_this_image,Sandcrawler_back,2,43.3,240,AMT,1/25,Peterbilt Wrecker,T522,vendor; tokens=amt
+AMT Black Beauty,1,identified_in_this_image,Sandcrawler_back,3,42.4,251,AMT,1/25,Corvair Custom,T159,vendor; tokens=amt
+AMT Bobby Alison Malibu Chevy,2,identified_elsewhere | identified_in_this_image,Blockade_Runner_02 | Sandcrawler_back,1,75.5,215,AMT,1/25,Bobby Allison Malibu Chevy,T373,"vendor; tokens=amt,bobby,chevy,malibu; name-ratio=0.98"
+AMT Bobby Alison Malibu Chevy,2,identified_elsewhere | identified_in_this_image,Blockade_Runner_02 | Sandcrawler_back,2,45.9,209,AMT,1/25,55 Chevy Nomad,T289,"vendor; tokens=amt,chevy"
+AMT Bobby Alison Malibu Chevy,2,identified_elsewhere | identified_in_this_image,Blockade_Runner_02 | Sandcrawler_back,3,45.4,203,AMT,1/25,1958 Chevy Impala,T273,"vendor; tokens=amt,chevy"
+AMT California Hauler,1,identified_elsewhere,Sandcrawler_right,1,63.0,32,AMT,1/25,Peterbilt 359 California Hauler,T-500,"vendor; tokens=amt,california,hauler; name-ratio=0.71"
+AMT California Hauler,1,identified_elsewhere,Sandcrawler_right,2,44.5,205,AMT,1/25,32 Ford Phaeton,A125,vendor; tokens=amt
+AMT California Hauler,1,identified_elsewhere,Sandcrawler_right,3,44.3,251,AMT,1/25,Corvair Custom,T159,vendor; tokens=amt
+AMT Chevy Titan 90,11,identified_elsewhere | identified_in_this_image | other_or_unstyled,???? | Blockade_Runner_02 | ILM_Shop_Image | Landspeeder_04 | Star_Destroyer_right | Star_Destroyer_workbench | Tie_Attack | X_03,1,80.0,216,AMT,1/25,Chevy Titan 90,T-509,"vendor; tokens=90,amt,chevy,titan; name-ratio=1.00"
+AMT Chevy Titan 90,11,identified_elsewhere | identified_in_this_image | other_or_unstyled,???? | Blockade_Runner_02 | ILM_Shop_Image | Landspeeder_04 | Star_Destroyer_right | Star_Destroyer_workbench | Tie_Attack | X_03,2,52.4,203,AMT,1/25,1958 Chevy Impala,T273,"vendor; tokens=amt,chevy"
+AMT Chevy Titan 90,11,identified_elsewhere | identified_in_this_image | other_or_unstyled,???? | Blockade_Runner_02 | ILM_Shop_Image | Landspeeder_04 | Star_Destroyer_right | Star_Destroyer_workbench | Tie_Attack | X_03,3,52.0,209,AMT,1/25,55 Chevy Nomad,T289,"vendor; tokens=amt,chevy"
+AMT Covair Custom,1,identified_in_this_image,Big_Dish,1,83.5,251,AMT,1/25,Corvair Custom,T159,"vendor; tokens=amt,corvair,custom; name-ratio=1.00"
+AMT Covair Custom,1,identified_in_this_image,Big_Dish,2,51.1,236,AMT,1/25,Nirvana Custom Chevy Van,T-394,"vendor; tokens=amt,custom"
+AMT Covair Custom,1,identified_in_this_image,Big_Dish,3,47.0,249,AMT,1/25,Nova Pro Stock,43-8601,vendor; tokens=amt
+AMT Crew Chief,2,identified_elsewhere | identified_in_this_image,Star_Destroyer_right | Star_Destroyer_workbench,1,77.2,217,AMT,1/25,Crew Chief,T340-225,"vendor; tokens=amt,chief,crew; name-ratio=1.00"
+AMT Crew Chief,2,identified_elsewhere | identified_in_this_image,Star_Destroyer_right | Star_Destroyer_workbench,2,44.6,233,AMT,1/25,New Camaro,T458,vendor; tokens=amt
+AMT Crew Chief,2,identified_elsewhere | identified_in_this_image,Star_Destroyer_right | Star_Destroyer_workbench,3,43.6,227,AMT,1/25,McLaren M16 C/D,T260,vendor; tokens=amt
+AMT Diamond Reo,1,identified_in_this_image,ILM_Shop_Image,1,83.5,218,AMT,1/25,Diamond Reo,T537,"vendor; tokens=amt,diamond,reo; name-ratio=1.00"
+AMT Diamond Reo,1,identified_in_this_image,ILM_Shop_Image,2,43.6,225,AMT,1/25,Kandy Van,T-246,vendor; tokens=amt
+AMT Diamond Reo,1,identified_in_this_image,ILM_Shop_Image,3,43.5,213,AMT,1/25,Aquarod Race Team,T-561,vendor; tokens=amt
+AMT Dragray Corvette,1,identified_elsewhere,Erland_Peterson,1,67.3,220,AMT,1/25,DRAGRAY Corvette Funny Car,T352,"vendor; tokens=amt,corvette,dragray; name-ratio=0.76"
+AMT Dragray Corvette,1,identified_elsewhere,Erland_Peterson,2,54.0,211,AMT,1/25,63 Corvette Stingray,A163,"vendor; tokens=amt,corvette"
+AMT Dragray Corvette,1,identified_elsewhere,Erland_Peterson,3,43.0,251,AMT,1/25,Corvair Custom,T159,vendor; tokens=amt
+AMT Dragray Corvette Funny Car,2,identified_elsewhere | identified_in_this_image,Blockade_Runner_02 | Erland_Y,1,87.0,220,AMT,1/25,DRAGRAY Corvette Funny Car,T352,"vendor; tokens=amt,car,corvette,dragray,funny; name-ratio=1.00"
+AMT Dragray Corvette Funny Car,2,identified_elsewhere | identified_in_this_image,Blockade_Runner_02 | Erland_Y,2,55.5,230,AMT,1/25,Mopower Plymouth Funny Car T351,T351,"vendor; tokens=amt,car,funny"
+AMT Dragray Corvette Funny Car,2,identified_elsewhere | identified_in_this_image,Blockade_Runner_02 | Erland_Y,3,51.7,243,AMT,1/25,The Champ Mustang II Funny Car,T-350,"vendor; tokens=amt,car,funny"
+AMT Ford LNT-8000 Tractor,1,identified_in_this_image,Landspeeder_04,1,82.0,221,AMT,1/25,Ford LNT-8000 Tractor,T-504,"vendor; tokens=8000,amt,ford,lnt,tractor; name-ratio=1.00"
+AMT Ford LNT-8000 Tractor,1,identified_in_this_image,Landspeeder_04,2,50.2,214,AMT,1/25,Autocar A64B tractor,T-526,"vendor; tokens=amt,tractor"
+AMT Ford LNT-8000 Tractor,1,identified_in_this_image,Landspeeder_04,3,49.2,205,AMT,1/25,32 Ford Phaeton,A125,"vendor; tokens=amt,ford"
+AMT Fruehauf 40ft. Reefer,4,identified_elsewhere | identified_in_this_image,Blockade_Runner_02 | Erland_Peterson | Star_Destroyer_workbench | X_03,1,76.0,222,AMT,1/25,"Fruehauf 40ft. Reefer ""Watkins""",T507,"vendor; tokens=40ft,amt,fruehauf,reefer; name-ratio=0.83"
+AMT Fruehauf 40ft. Reefer,4,identified_elsewhere | identified_in_this_image,Blockade_Runner_02 | Erland_Peterson | Star_Destroyer_workbench | X_03,2,54.9,388,AMT,1/25,Fruehauf Flatbed Trailer,T-545,"vendor; tokens=amt,fruehauf; name-ratio=0.68"
+AMT Fruehauf 40ft. Reefer,4,identified_elsewhere | identified_in_this_image,Blockade_Runner_02 | Erland_Peterson | Star_Destroyer_workbench | X_03,3,54.7,253,AMT,1/43,Fruehauf FB 40 Foot Refrigerator Van Reefer,T-701,"vendor; tokens=amt,fruehauf,reefer"
+AMT Fruehauf Tanker,1,identified_elsewhere,Star_Destroyer_right,1,56.0,388,AMT,1/25,Fruehauf Flatbed Trailer,T-545,"vendor; tokens=amt,fruehauf; name-ratio=0.67"
+AMT Fruehauf Tanker,1,identified_elsewhere,Star_Destroyer_right,2,53.4,222,AMT,1/25,"Fruehauf 40ft. Reefer ""Watkins""",T507,"vendor; tokens=amt,fruehauf"
+AMT Fruehauf Tanker,1,identified_elsewhere,Star_Destroyer_right,3,52.4,29,AMT,1/25,"Fruehauf Tanker Semi Trailer ""Union 76"" & ""Gulf""",T-531,"vendor; tokens=amt,fruehauf,tanker"
+AMT Fruehauf Tanker Semi Trailer,19,identified_elsewhere | identified_in_this_image,Blockade_Runner_02 | Erland_Peterson | Falcon_toppled | ILM_KITS | Landspeeder_04 | Sandcrawler_right | Star_Destroyer_right | Star_Destroyer_workbench,1,67.2,29,AMT,1/25,"Fruehauf Tanker Semi Trailer ""Union 76"" & ""Gulf""",T-531,"vendor; tokens=amt,fruehauf,semi,tanker,trailer; name-ratio=0.76"
+AMT Fruehauf Tanker Semi Trailer,19,identified_elsewhere | identified_in_this_image,Blockade_Runner_02 | Erland_Peterson | Falcon_toppled | ILM_KITS | Landspeeder_04 | Sandcrawler_right | Star_Destroyer_right | Star_Destroyer_workbench,2,61.3,388,AMT,1/25,Fruehauf Flatbed Trailer,T-545,"vendor; tokens=amt,fruehauf,trailer; name-ratio=0.73"
+AMT Fruehauf Tanker Semi Trailer,19,identified_elsewhere | identified_in_this_image,Blockade_Runner_02 | Erland_Peterson | Falcon_toppled | ILM_KITS | Landspeeder_04 | Sandcrawler_right | Star_Destroyer_right | Star_Destroyer_workbench,3,49.3,222,AMT,1/25,"Fruehauf 40ft. Reefer ""Watkins""",T507,"vendor; tokens=amt,fruehauf"
+AMT Gremlin,1,identified_elsewhere,Sandcrawler_back,1,63.0,223,AMT,1/25,Gremlin X,T368 / T427,"vendor; tokens=amt,gremlin; name-ratio=0.88"
+AMT Gremlin,1,identified_elsewhere,Sandcrawler_back,2,43.5,217,AMT,1/25,Crew Chief,T340-225,vendor; tokens=amt
+AMT Gremlin,1,identified_elsewhere,Sandcrawler_back,3,43.0,224,AMT,1/25,Gurney/Jorgensen Eagle,T255,vendor; tokens=amt
+AMT Gremlin X,2,identified_elsewhere | identified_in_this_image,Blockade_Runner | Death_Star_back,1,73.0,223,AMT,1/25,Gremlin X,T368 / T427,"vendor; tokens=amt,gremlin,x; name-ratio=1.00"
+AMT Gremlin X,2,identified_elsewhere | identified_in_this_image,Blockade_Runner | Death_Star_back,2,42.7,224,AMT,1/25,Gurney/Jorgensen Eagle,T255,vendor; tokens=amt
+AMT Gremlin X,2,identified_elsewhere | identified_in_this_image,Blockade_Runner | Death_Star_back,3,42.0,227,AMT,1/25,McLaren M16 C/D,T260,vendor; tokens=amt
+AMT Gurney/Jorgensen Eagle,2,identified_elsewhere | identified_in_this_image,Star_Destroyer_right | Star_Destroyer_workbench,1,83.5,224,AMT,1/25,Gurney/Jorgensen Eagle,T255,"vendor; tokens=amt,eagle,gurney/jorgensen; name-ratio=1.00"
+AMT Gurney/Jorgensen Eagle,2,identified_elsewhere | identified_in_this_image,Star_Destroyer_right | Star_Destroyer_workbench,2,43.8,237,AMT,1/25,Penske Indy Special,T-264,vendor; tokens=amt
+AMT Gurney/Jorgensen Eagle,2,identified_elsewhere | identified_in_this_image,Star_Destroyer_right | Star_Destroyer_workbench,3,43.6,238,AMT,1/25,Penske Racing Team,T565,vendor; tokens=amt
+AMT Kandy Van,1,identified_in_this_image,Star_Destroyer_workbench,1,77.2,225,AMT,1/25,Kandy Van,T-246,"vendor; tokens=amt,kandy,van; name-ratio=1.00"
+AMT Kandy Van,1,identified_in_this_image,Star_Destroyer_workbench,2,48.7,236,AMT,1/25,Nirvana Custom Chevy Van,T-394,"vendor; tokens=amt,van"
+AMT Kandy Van,1,identified_in_this_image,Star_Destroyer_workbench,3,48.3,248,AMT,1/25,Wilson Livestock Van,T-594,"vendor; tokens=amt,van"
+AMT Kenworth Cabover K123,3,identified_elsewhere,Blockade_Runner_02 | Sandcrawler_back,1,63.9,30,AMT,1/25,Kenworth K-123 Cabover,687,"vendor; tokens=amt,cabover,kenworth; name-ratio=0.74"
+AMT Kenworth Cabover K123,3,identified_elsewhere,Blockade_Runner_02 | Sandcrawler_back,2,48.5,239,AMT,1/25,Peterbilt Cabover Pacemaker 352 Tractor,T502,"vendor; tokens=amt,cabover"
+AMT Kenworth Cabover K123,3,identified_elsewhere,Blockade_Runner_02 | Sandcrawler_back,3,43.3,233,AMT,1/25,New Camaro,T458,vendor; tokens=amt
+AMT Kenworth K-123 Cabover,2,identified_elsewhere | identified_in_this_image,Blockade_Runner | Star_Destroyer_Stand,1,87.0,30,AMT,1/25,Kenworth K-123 Cabover,687,"vendor; tokens=123,amt,cabover,k,kenworth; name-ratio=1.00"
+AMT Kenworth K-123 Cabover,2,identified_elsewhere | identified_in_this_image,Blockade_Runner | Star_Destroyer_Stand,2,45.1,239,AMT,1/25,Peterbilt Cabover Pacemaker 352 Tractor,T502,"vendor; tokens=amt,cabover"
+AMT Kenworth K-123 Cabover,2,identified_elsewhere | identified_in_this_image,Blockade_Runner | Star_Destroyer_Stand,3,42.2,233,AMT,1/25,New Camaro,T458,vendor; tokens=amt
+AMT Kenworth K123 Cabover,1,identified_elsewhere,Falcon_toppled,1,69.4,30,AMT,1/25,Kenworth K-123 Cabover,687,"vendor; tokens=amt,cabover,kenworth; name-ratio=0.98"
+AMT Kenworth K123 Cabover,1,identified_elsewhere,Falcon_toppled,2,46.1,239,AMT,1/25,Peterbilt Cabover Pacemaker 352 Tractor,T502,"vendor; tokens=amt,cabover"
+AMT Kenworth K123 Cabover,1,identified_elsewhere,Falcon_toppled,3,43.3,233,AMT,1/25,New Camaro,T458,vendor; tokens=amt
+AMT Kenworth W-925,4,identified_elsewhere,Blockade_Runner_02 | Sandcrawler_back,1,53.2,30,AMT,1/25,Kenworth K-123 Cabover,687,"vendor; tokens=amt,kenworth"
+AMT Kenworth W-925,4,identified_elsewhere,Blockade_Runner_02 | Sandcrawler_back,2,50.5,226,AMT,1/25,"Kenworth W-925 ""Watkins"" /  ""Movin' On"" Kenworth Truck Tractor",T-519 / T-560,"vendor; tokens=925,amt,kenworth,w"
+AMT Kenworth W-925,4,identified_elsewhere,Blockade_Runner_02 | Sandcrawler_back,3,41.5,234,AMT,1/25,New Ford Pickup,T387,vendor; tokens=amt
+"AMT Kenworth W-925 ""Movin' On""",4,identified_elsewhere | identified_in_this_image,Blockade_Runner | ILM_Shop_Image | Xwing_back,1,61.4,226,AMT,1/25,"Kenworth W-925 ""Watkins"" /  ""Movin' On"" Kenworth Truck Tractor",T-519 / T-560,"vendor; tokens=925,amt,kenworth,movin,on,w"
+"AMT Kenworth W-925 ""Movin' On""",4,identified_elsewhere | identified_in_this_image,Blockade_Runner | ILM_Shop_Image | Xwing_back,2,51.3,30,AMT,1/25,Kenworth K-123 Cabover,687,"vendor; tokens=amt,kenworth"
+"AMT Kenworth W-925 ""Movin' On""",4,identified_elsewhere | identified_in_this_image,Blockade_Runner | ILM_Shop_Image | Xwing_back,3,40.2,252,AMT,1/43,Exterior post van,T-704,vendor; tokens=amt
+"AMT Kenworth W-925 ""Watkins",1,identified_elsewhere,Landspeeder_04,1,57.7,226,AMT,1/25,"Kenworth W-925 ""Watkins"" /  ""Movin' On"" Kenworth Truck Tractor",T-519 / T-560,"vendor; tokens=925,amt,kenworth,w,watkins"
+"AMT Kenworth W-925 ""Watkins",1,identified_elsewhere,Landspeeder_04,2,51.5,30,AMT,1/25,Kenworth K-123 Cabover,687,"vendor; tokens=amt,kenworth"
+"AMT Kenworth W-925 ""Watkins",1,identified_elsewhere,Landspeeder_04,3,46.9,222,AMT,1/25,"Fruehauf 40ft. Reefer ""Watkins""",T507,"vendor; tokens=amt,watkins"
+"AMT Kenworth W-925 ""Watkins""",10,identified_elsewhere | identified_in_this_image | other_or_unstyled,Blockade_Runner | Death_Star_back | ILM_KITS | Landspeeder_04,1,57.7,226,AMT,1/25,"Kenworth W-925 ""Watkins"" /  ""Movin' On"" Kenworth Truck Tractor",T-519 / T-560,"vendor; tokens=925,amt,kenworth,w,watkins"
+"AMT Kenworth W-925 ""Watkins""",10,identified_elsewhere | identified_in_this_image | other_or_unstyled,Blockade_Runner | Death_Star_back | ILM_KITS | Landspeeder_04,2,51.5,30,AMT,1/25,Kenworth K-123 Cabover,687,"vendor; tokens=amt,kenworth"
+"AMT Kenworth W-925 ""Watkins""",10,identified_elsewhere | identified_in_this_image | other_or_unstyled,Blockade_Runner | Death_Star_back | ILM_KITS | Landspeeder_04,3,46.9,222,AMT,1/25,"Fruehauf 40ft. Reefer ""Watkins""",T507,"vendor; tokens=amt,watkins"
+AMT Kenworth W-925 Movin On,5,identified_elsewhere,Staff | Star_Destroyer_right | Star_Destroyer_workbench | TileCreation | X_03,1,61.4,226,AMT,1/25,"Kenworth W-925 ""Watkins"" /  ""Movin' On"" Kenworth Truck Tractor",T-519 / T-560,"vendor; tokens=925,amt,kenworth,movin,on,w"
+AMT Kenworth W-925 Movin On,5,identified_elsewhere,Staff | Star_Destroyer_right | Star_Destroyer_workbench | TileCreation | X_03,2,51.3,30,AMT,1/25,Kenworth K-123 Cabover,687,"vendor; tokens=amt,kenworth"
+AMT Kenworth W-925 Movin On,5,identified_elsewhere,Staff | Star_Destroyer_right | Star_Destroyer_workbench | TileCreation | X_03,3,40.2,252,AMT,1/43,Exterior post van,T-704,vendor; tokens=amt
+AMT Kenworth W-925 Watkins,1,identified_elsewhere,Star_Destroyer_Stand,1,57.7,226,AMT,1/25,"Kenworth W-925 ""Watkins"" /  ""Movin' On"" Kenworth Truck Tractor",T-519 / T-560,"vendor; tokens=925,amt,kenworth,w,watkins"
+AMT Kenworth W-925 Watkins,1,identified_elsewhere,Star_Destroyer_Stand,2,51.5,30,AMT,1/25,Kenworth K-123 Cabover,687,"vendor; tokens=amt,kenworth"
+AMT Kenworth W-925 Watkins,1,identified_elsewhere,Star_Destroyer_Stand,3,46.9,222,AMT,1/25,"Fruehauf 40ft. Reefer ""Watkins""",T507,"vendor; tokens=amt,watkins"
+AMT Lifestock,1,identified_in_this_image,Tie_Attack,1,56.9,248,AMT,1/25,Wilson Livestock Van,T-594,"vendor; tokens=amt,livestock"
+AMT Lifestock,1,identified_in_this_image,Tie_Attack,2,46.5,249,AMT,1/25,Nova Pro Stock,43-8601,vendor; tokens=amt
+AMT Lifestock,1,identified_in_this_image,Tie_Attack,3,44.7,251,AMT,1/25,Corvair Custom,T159,vendor; tokens=amt
+AMT McLaren M16 C/D,2,identified_elsewhere | identified_in_this_image,Erland_Peterson | Erland_Y,1,85.6,227,AMT,1/25,McLaren M16 C/D,T260,"vendor; tokens=amt,c/d,m16,mclaren; name-ratio=1.00"
+AMT McLaren M16 C/D,2,identified_elsewhere | identified_in_this_image,Erland_Peterson | Erland_Y,2,42.9,217,AMT,1/25,Crew Chief,T340-225,vendor; tokens=amt
+AMT McLaren M16 C/D,2,identified_elsewhere | identified_in_this_image,Erland_Peterson | Erland_Y,3,42.3,251,AMT,1/25,Corvair Custom,T159,vendor; tokens=amt
+AMT Mercedes 300 SL,1,identified_elsewhere,Erland_Peterson,1,59.8,228,AMT,1/25,Mercedes-Benz 300SL,T412,"vendor; tokens=amt,mercedes; name-ratio=0.82"
+AMT Mercedes 300 SL,1,identified_elsewhere,Erland_Peterson,2,41.8,224,AMT,1/25,Gurney/Jorgensen Eagle,T255,vendor; tokens=amt
+AMT Mercedes 300 SL,1,identified_elsewhere,Erland_Peterson,3,41.2,33,AMT,1/25,White Road Boss,648,vendor; tokens=amt
+AMT Mercedes Benz 300SL,1,identified_in_this_image,X_03,1,85.6,228,AMT,1/25,Mercedes-Benz 300SL,T412,"vendor; tokens=300sl,amt,benz,mercedes; name-ratio=1.00"
+AMT Mercedes Benz 300SL,1,identified_in_this_image,X_03,2,41.7,33,AMT,1/25,White Road Boss,648,vendor; tokens=amt
+AMT Mercedes Benz 300SL,1,identified_in_this_image,X_03,3,41.0,224,AMT,1/25,Gurney/Jorgensen Eagle,T255,vendor; tokens=amt
+AMT Mopower Plymouth Funny Car T351,3,identified_elsewhere | identified_in_this_image,Star_Destroyer_right | Star_Destroyer_workbench | X_03,1,102.0,230,AMT,1/25,Mopower Plymouth Funny Car T351,T351,"vendor; tokens=amt,car,funny,mopower,plymouth,t351; name-ratio=1.00; serial-ish"
+AMT Mopower Plymouth Funny Car T351,3,identified_elsewhere | identified_in_this_image,Star_Destroyer_right | Star_Destroyer_workbench | X_03,2,52.9,220,AMT,1/25,DRAGRAY Corvette Funny Car,T352,"vendor; tokens=amt,car,funny"
+AMT Mopower Plymouth Funny Car T351,3,identified_elsewhere | identified_in_this_image,Star_Destroyer_right | Star_Destroyer_workbench | X_03,3,48.9,243,AMT,1/25,The Champ Mustang II Funny Car,T-350,"vendor; tokens=amt,car,funny"
+AMT Movin On,1,identified_elsewhere,Tie_Attack,1,47.6,218,AMT,1/25,Diamond Reo,T537,vendor; tokens=amt
+AMT Movin On,1,identified_elsewhere,Tie_Attack,2,44.5,223,AMT,1/25,Gremlin X,T368 / T427,vendor; tokens=amt
+AMT Movin On,1,identified_elsewhere,Tie_Attack,3,43.7,226,AMT,1/25,"Kenworth W-925 ""Watkins"" /  ""Movin' On"" Kenworth Truck Tractor",T-519 / T-560,"vendor; tokens=amt,movin,on"
+AMT Mustang GT Road Racer,1,identified_in_this_image,Blockade_Runner_02,1,87.0,231,AMT,1/25,Mustang GT Road Racer,T385,"vendor; tokens=amt,gt,mustang,racer,road; name-ratio=1.00"
+AMT Mustang GT Road Racer,1,identified_in_this_image,Blockade_Runner_02,2,55.3,232,AMT,1/25,Mustang High Roller,T157,"vendor; tokens=amt,mustang; name-ratio=0.70"
+AMT Mustang GT Road Racer,1,identified_in_this_image,Blockade_Runner_02,3,47.8,33,AMT,1/25,White Road Boss,648,"vendor; tokens=amt,road"
+AMT Mustang High Roller,1,identified_in_this_image,Star_Destroyer_workbench,1,85.6,232,AMT,1/25,Mustang High Roller,T157,"vendor; tokens=amt,high,mustang,roller; name-ratio=1.00"
+AMT Mustang High Roller,1,identified_in_this_image,Star_Destroyer_workbench,2,55.3,231,AMT,1/25,Mustang GT Road Racer,T385,"vendor; tokens=amt,mustang; name-ratio=0.70"
+AMT Mustang High Roller,1,identified_in_this_image,Star_Destroyer_workbench,3,47.2,243,AMT,1/25,The Champ Mustang II Funny Car,T-350,"vendor; tokens=amt,mustang"
+AMT New Camaro,1,identified_in_this_image,Star_Destroyer_workbench,1,83.5,233,AMT,1/25,New Camaro,T458,"vendor; tokens=amt,camaro,new; name-ratio=1.00"
+AMT New Camaro,1,identified_in_this_image,Star_Destroyer_workbench,2,51.6,234,AMT,1/25,New Ford Pickup,T387,"vendor; tokens=amt,new"
+AMT New Camaro,1,identified_in_this_image,Star_Destroyer_workbench,3,46.7,235,AMT,1/25,New Rear Engine AA/Fueler,T174-225,"vendor; tokens=amt,new"
+AMT New Ford Pickup,2,identified_elsewhere | identified_in_this_image,5757 | Sandcrawler_back,1,85.6,234,AMT,1/25,New Ford Pickup,T387,"vendor; tokens=amt,ford,new,pickup; name-ratio=1.00"
+AMT New Ford Pickup,2,identified_elsewhere | identified_in_this_image,5757 | Sandcrawler_back,2,68.9,206,AMT,1/25,34 Ford Pickup,T145,"vendor; tokens=amt,ford,pickup; name-ratio=0.83"
+AMT New Ford Pickup,2,identified_elsewhere | identified_in_this_image,5757 | Sandcrawler_back,3,57.8,208,AMT,1/25,53 Ford Pickup Street Rods,T410,"vendor; tokens=amt,ford,pickup"
+AMT Nirvana Custom,2,identified_elsewhere,Blockade_Runner_02 | X_03,1,63.7,236,AMT,1/25,Nirvana Custom Chevy Van,T-394,"vendor; tokens=amt,custom,nirvana; name-ratio=0.74"
+AMT Nirvana Custom,2,identified_elsewhere,Blockade_Runner_02 | X_03,2,61.9,251,AMT,1/25,Corvair Custom,T159,"vendor; tokens=amt,custom; name-ratio=0.71"
+AMT Nirvana Custom,2,identified_elsewhere,Blockade_Runner_02 | X_03,3,45.2,249,AMT,1/25,Nova Pro Stock,43-8601,vendor; tokens=amt
+AMT Nirvena Custom Chevy Van,1,identified_in_this_image,Death_Star_back,1,72.0,236,AMT,1/25,Nirvana Custom Chevy Van,T-394,"vendor; tokens=amt,chevy,custom,van; name-ratio=0.96"
+AMT Nirvena Custom Chevy Van,1,identified_in_this_image,Death_Star_back,2,51.4,251,AMT,1/25,Corvair Custom,T159,"vendor; tokens=amt,custom"
+AMT Nirvena Custom Chevy Van,1,identified_in_this_image,Death_Star_back,3,50.4,248,AMT,1/25,Wilson Livestock Van,T-594,"vendor; tokens=amt,van"
+AMT Nova Pro Stock,2,identified_elsewhere | identified_in_this_image,Erland_Y | Sandcrawler_0 2,1,80.0,249,AMT,1/25,Nova Pro Stock,43-8601,"vendor; tokens=amt,nova,pro,stock; name-ratio=1.00"
+AMT Nova Pro Stock,2,identified_elsewhere | identified_in_this_image,Erland_Y | Sandcrawler_0 2,2,48.6,241,AMT,1/25,Right On! MAVERICK DRAG PRO STOCKER,T348-225,"vendor; tokens=amt,pro"
+AMT Nova Pro Stock,2,identified_elsewhere | identified_in_this_image,Erland_Y | Sandcrawler_0 2,3,46.0,251,AMT,1/25,Corvair Custom,T159,vendor; tokens=amt
+AMT Peterbilt  Cabover,1,identified_elsewhere,ILM_Shop_Image,1,63.2,240,AMT,1/25,Peterbilt Wrecker,T522,"vendor; tokens=amt,peterbilt; name-ratio=0.76"
+AMT Peterbilt  Cabover,1,identified_elsewhere,ILM_Shop_Image,2,60.6,239,AMT,1/25,Peterbilt Cabover Pacemaker 352 Tractor,T502,"vendor; tokens=amt,cabover,peterbilt"
+AMT Peterbilt  Cabover,1,identified_elsewhere,ILM_Shop_Image,3,53.5,32,AMT,1/25,Peterbilt 359 California Hauler,T-500,"vendor; tokens=amt,peterbilt"
+AMT Peterbilt 352 Cabover,6,identified_elsewhere | other_or_unstyled,???? | Sandcrawler_back | Staff | Star_Destroyer_right | X_03,1,65.6,239,AMT,1/25,Peterbilt Cabover Pacemaker 352 Tractor,T502,"vendor; tokens=352,amt,cabover,peterbilt"
+AMT Peterbilt 352 Cabover,6,identified_elsewhere | other_or_unstyled,???? | Sandcrawler_back | Staff | Star_Destroyer_right | X_03,2,58.4,240,AMT,1/25,Peterbilt Wrecker,T522,"vendor; tokens=amt,peterbilt; name-ratio=0.68"
+AMT Peterbilt 352 Cabover,6,identified_elsewhere | other_or_unstyled,???? | Sandcrawler_back | Staff | Star_Destroyer_right | X_03,3,53.9,32,AMT,1/25,Peterbilt 359 California Hauler,T-500,"vendor; tokens=amt,peterbilt; name-ratio=0.69"
+AMT Peterbilt 359 Cal.Hauler,1,identified_elsewhere,TileCreation,1,69.9,32,AMT,1/25,Peterbilt 359 California Hauler,T-500,"vendor; tokens=359,amt,hauler,peterbilt; name-ratio=0.87"
+AMT Peterbilt 359 Cal.Hauler,1,identified_elsewhere,TileCreation,2,56.8,254,AMT,1/43,Peterbilt 359 (1/43 T'N'T Series),T-700,"vendor; tokens=359,amt,peterbilt"
+AMT Peterbilt 359 Cal.Hauler,1,identified_elsewhere,TileCreation,3,55.2,240,AMT,1/25,Peterbilt Wrecker,T522,"vendor; tokens=amt,peterbilt"
+AMT Peterbilt 359 California Hauler,22,identified_elsewhere | identified_in_this_image | other_or_unstyled,???? | Blockade_Runner | Blockade_Runner_02 | Erland_Peterson | ILM_KITS | Landspeeder_04 | Star_Destroyer_Stand | Star_Destroyer_right | Star_Destroyer_workbench | X_03 | Xwing_back,1,82.0,32,AMT,1/25,Peterbilt 359 California Hauler,T-500,"vendor; tokens=359,amt,california,hauler,peterbilt; name-ratio=1.00"
+AMT Peterbilt 359 California Hauler,22,identified_elsewhere | identified_in_this_image | other_or_unstyled,???? | Blockade_Runner | Blockade_Runner_02 | Erland_Peterson | ILM_KITS | Landspeeder_04 | Star_Destroyer_Stand | Star_Destroyer_right | Star_Destroyer_workbench | X_03 | Xwing_back,2,55.9,254,AMT,1/43,Peterbilt 359 (1/43 T'N'T Series),T-700,"vendor; tokens=359,amt,peterbilt"
+AMT Peterbilt 359 California Hauler,22,identified_elsewhere | identified_in_this_image | other_or_unstyled,???? | Blockade_Runner | Blockade_Runner_02 | Erland_Peterson | ILM_KITS | Landspeeder_04 | Star_Destroyer_Stand | Star_Destroyer_right | Star_Destroyer_workbench | X_03 | Xwing_back,3,53.0,240,AMT,1/25,Peterbilt Wrecker,T522,"vendor; tokens=amt,peterbilt"
+AMT Peterbilt 359 Californian Hauler,2,identified_elsewhere,ILM_Shop_Image,1,72.6,32,AMT,1/25,Peterbilt 359 California Hauler,T-500,"vendor; tokens=359,amt,hauler,peterbilt; name-ratio=0.98"
+AMT Peterbilt 359 Californian Hauler,2,identified_elsewhere,ILM_Shop_Image,2,55.7,254,AMT,1/43,Peterbilt 359 (1/43 T'N'T Series),T-700,"vendor; tokens=359,amt,peterbilt"
+AMT Peterbilt 359 Californian Hauler,2,identified_elsewhere,ILM_Shop_Image,3,52.7,240,AMT,1/25,Peterbilt Wrecker,T522,"vendor; tokens=amt,peterbilt"
+AMT Peterbilt Cabover,7,identified_elsewhere | identified_in_this_image,Blockade_Runner | Blockade_Runner_02 | Death_Star_back | ILM_KITS | Tie_Attack | Xwing_back,1,63.2,240,AMT,1/25,Peterbilt Wrecker,T522,"vendor; tokens=amt,peterbilt; name-ratio=0.76"
+AMT Peterbilt Cabover,7,identified_elsewhere | identified_in_this_image,Blockade_Runner | Blockade_Runner_02 | Death_Star_back | ILM_KITS | Tie_Attack | Xwing_back,2,60.6,239,AMT,1/25,Peterbilt Cabover Pacemaker 352 Tractor,T502,"vendor; tokens=amt,cabover,peterbilt"
+AMT Peterbilt Cabover,7,identified_elsewhere | identified_in_this_image,Blockade_Runner | Blockade_Runner_02 | Death_Star_back | ILM_KITS | Tie_Attack | Xwing_back,3,53.5,32,AMT,1/25,Peterbilt 359 California Hauler,T-500,"vendor; tokens=amt,peterbilt"
+AMT Peterbilt Cabover (?),1,identified_elsewhere,Wingman,1,63.2,240,AMT,1/25,Peterbilt Wrecker,T522,"vendor; tokens=amt,peterbilt; name-ratio=0.76"
+AMT Peterbilt Cabover (?),1,identified_elsewhere,Wingman,2,60.6,239,AMT,1/25,Peterbilt Cabover Pacemaker 352 Tractor,T502,"vendor; tokens=amt,cabover,peterbilt"
+AMT Peterbilt Cabover (?),1,identified_elsewhere,Wingman,3,53.5,32,AMT,1/25,Peterbilt 359 California Hauler,T-500,"vendor; tokens=amt,peterbilt"
+AMT Peterbilt Wrecker,3,identified_elsewhere | identified_in_this_image,Death_Star_back | ILM_Shop_Image,1,83.5,240,AMT,1/25,Peterbilt Wrecker,T522,"vendor; tokens=amt,peterbilt,wrecker; name-ratio=1.00"
+AMT Peterbilt Wrecker,3,identified_elsewhere | identified_in_this_image,Death_Star_back | ILM_Shop_Image,2,51.5,32,AMT,1/25,Peterbilt 359 California Hauler,T-500,"vendor; tokens=amt,peterbilt"
+AMT Peterbilt Wrecker,3,identified_elsewhere | identified_in_this_image,Death_Star_back | ILM_Shop_Image,3,51.4,239,AMT,1/25,Peterbilt Cabover Pacemaker 352 Tractor,T502,"vendor; tokens=amt,peterbilt"
+AMT Right On,1,identified_elsewhere,Blockade_Runner_02,1,51.1,241,AMT,1/25,Right On! MAVERICK DRAG PRO STOCKER,T348-225,"vendor; tokens=amt,on,right"
+AMT Right On,1,identified_elsewhere,Blockade_Runner_02,2,44.4,205,AMT,1/25,32 Ford Phaeton,A125,vendor; tokens=amt
+AMT Right On,1,identified_elsewhere,Blockade_Runner_02,3,43.7,251,AMT,1/25,Corvair Custom,T159,vendor; tokens=amt
+AMT Right On! MAVERICK DRAG PRO STOCKER,1,identified_in_this_image,ILM_KITS,1,84.7,241,AMT,1/25,Right On! MAVERICK DRAG PRO STOCKER,T348-225,"vendor; tokens=amt,drag,maverick,on,pro,right; name-ratio=1.00"
+AMT Right On! MAVERICK DRAG PRO STOCKER,1,identified_in_this_image,ILM_KITS,2,47.6,249,AMT,1/25,Nova Pro Stock,43-8601,"vendor; tokens=amt,pro"
+AMT Right On! MAVERICK DRAG PRO STOCKER,1,identified_in_this_image,ILM_KITS,3,42.0,246,AMT,1/25,White Freightliner Dual Drive Truck Tractor,T-568,vendor; tokens=amt
+AMT Studebaker Avanti,3,identified_elsewhere | identified_in_this_image,Blockade_Runner_02 | Death_Star_back | ILM_KITS,1,65.3,229,AMT,1/25,Modern Classics Studebaker Avanti,T413,"vendor; tokens=amt,avanti,studebaker; name-ratio=0.68"
+AMT Studebaker Avanti,3,identified_elsewhere | identified_in_this_image,Blockade_Runner_02 | Death_Star_back | ILM_KITS,2,43.5,240,AMT,1/25,Peterbilt Wrecker,T522,vendor; tokens=amt
+AMT Studebaker Avanti,3,identified_elsewhere | identified_in_this_image,Blockade_Runner_02 | Death_Star_back | ILM_KITS,3,43.2,225,AMT,1/25,Kandy Van,T-246,vendor; tokens=amt
+AMT The Champ Mustang II Funny Car,1,identified_in_this_image,Star_Destroyer_workbench,1,83.5,243,AMT,1/25,The Champ Mustang II Funny Car,T-350,"vendor; tokens=amt,car,champ,funny,ii,mustang; name-ratio=1.00"
+AMT The Champ Mustang II Funny Car,1,identified_in_this_image,Star_Destroyer_workbench,2,53.1,220,AMT,1/25,DRAGRAY Corvette Funny Car,T352,"vendor; tokens=amt,car,funny"
+AMT The Champ Mustang II Funny Car,1,identified_in_this_image,Star_Destroyer_workbench,3,51.4,230,AMT,1/25,Mopower Plymouth Funny Car T351,T351,"vendor; tokens=amt,car,funny"
+AMT Tommy Ivo Dragster,1,identified_in_this_image,Star_Destroyer_right,1,48.7,245,AMT,1/25,Twin Engine Dragster Two Much,T400-225,"vendor; tokens=amt,dragster"
+AMT Tommy Ivo Dragster,1,identified_in_this_image,Star_Destroyer_right,2,47.3,242,AMT,1/25,Steve McGee Black Beauty Wedge Dragster,T176,"vendor; tokens=amt,dragster"
+AMT Tommy Ivo Dragster,1,identified_in_this_image,Star_Destroyer_right,3,43.5,241,AMT,1/25,Right On! MAVERICK DRAG PRO STOCKER,T348-225,vendor; tokens=amt
+AMT Trailmobile,2,identified_elsewhere | identified_in_this_image,Erland_Peterson | Erland_Y,1,47.2,244,AMT,1/25,Trailmobile/Allied Moving Van,T-564,vendor; tokens=amt
+AMT Trailmobile,2,identified_elsewhere | identified_in_this_image,Erland_Peterson | Erland_Y,2,46.7,240,AMT,1/25,Peterbilt Wrecker,T522,vendor; tokens=amt
+AMT Trailmobile,2,identified_elsewhere | identified_in_this_image,Erland_Peterson | Erland_Y,3,45.1,218,AMT,1/25,Diamond Reo,T537,vendor; tokens=amt
+AMT Two Much,2,identified_elsewhere | identified_in_this_image,Erland_Peterson | Tie_Attack,1,54.1,245,AMT,1/25,Twin Engine Dragster Two Much,T400-225,"vendor; tokens=amt,much,two"
+AMT Two Much,2,identified_elsewhere | identified_in_this_image,Erland_Peterson | Tie_Attack,2,44.7,217,AMT,1/25,Crew Chief,T340-225,vendor; tokens=amt
+AMT Two Much,2,identified_elsewhere | identified_in_this_image,Erland_Peterson | Tie_Attack,3,42.3,234,AMT,1/25,New Ford Pickup,T387,vendor; tokens=amt
+AMT White Freightliner,14,identified_elsewhere | identified_in_this_image | other_or_unstyled,???? | Blockade_Runner | Blockade_Runner_02 | Erland_Peterson | ILM_KITS | ILM_Shop_Image | Landspeeder_04 | Sandcrawler_back | Staff | Star_Destroyer_right | X_03 | Xwing_back,1,56.2,246,AMT,1/25,White Freightliner Dual Drive Truck Tractor,T-568,"vendor; tokens=amt,freightliner,white"
+AMT White Freightliner,14,identified_elsewhere | identified_in_this_image | other_or_unstyled,???? | Blockade_Runner | Blockade_Runner_02 | Erland_Peterson | ILM_KITS | ILM_Shop_Image | Landspeeder_04 | Sandcrawler_back | Staff | Star_Destroyer_right | X_03 | Xwing_back,2,53.3,247,AMT,1/25,White Western Star,T-541,"vendor; tokens=amt,white"
+AMT White Freightliner,14,identified_elsewhere | identified_in_this_image | other_or_unstyled,???? | Blockade_Runner | Blockade_Runner_02 | Erland_Peterson | ILM_KITS | ILM_Shop_Image | Landspeeder_04 | Sandcrawler_back | Staff | Star_Destroyer_right | X_03 | Xwing_back,3,52.2,33,AMT,1/25,White Road Boss,648,"vendor; tokens=amt,white"
+AMT White FreightLiner,2,identified_elsewhere,Sandcrawler_back | Tie_Attack,1,56.2,246,AMT,1/25,White Freightliner Dual Drive Truck Tractor,T-568,"vendor; tokens=amt,freightliner,white"
+AMT White FreightLiner,2,identified_elsewhere,Sandcrawler_back | Tie_Attack,2,53.3,247,AMT,1/25,White Western Star,T-541,"vendor; tokens=amt,white"
+AMT White FreightLiner,2,identified_elsewhere,Sandcrawler_back | Tie_Attack,3,52.2,33,AMT,1/25,White Road Boss,648,"vendor; tokens=amt,white"
+AMT White Road Boss,1,identified_in_this_image,ILM_KITS,1,85.6,33,AMT,1/25,White Road Boss,648,"vendor; tokens=amt,boss,road,white; name-ratio=1.00"
+AMT White Road Boss,1,identified_in_this_image,ILM_KITS,2,50.1,247,AMT,1/25,White Western Star,T-541,"vendor; tokens=amt,white"
+AMT White Road Boss,1,identified_in_this_image,ILM_KITS,3,47.8,231,AMT,1/25,Mustang GT Road Racer,T385,"vendor; tokens=amt,road"
+AMT White Western Star,4,identified_elsewhere | identified_in_this_image,Blockade_Runner | Blockade_Runner_02 | ILM_KITS | Staff,1,80.0,247,AMT,1/25,White Western Star,T-541,"vendor; tokens=amt,star,western,white; name-ratio=1.00"
+AMT White Western Star,4,identified_elsewhere | identified_in_this_image,Blockade_Runner | Blockade_Runner_02 | ILM_KITS | Staff,2,51.6,33,AMT,1/25,White Road Boss,648,"vendor; tokens=amt,white"
+AMT White Western Star,4,identified_elsewhere | identified_in_this_image,Blockade_Runner | Blockade_Runner_02 | ILM_KITS | Staff,3,46.7,246,AMT,1/25,White Freightliner Dual Drive Truck Tractor,T-568,"vendor; tokens=amt,white"
+AMT ‘32 Ford Five Window,1,identified_in_this_image,Falcon_toppled,1,78.7,204,AMT,1/25,32 Ford Five-Window Coupe,T147,"vendor; tokens=32,amt,five,ford,window; name-ratio=0.86"
+AMT ‘32 Ford Five Window,1,identified_in_this_image,Falcon_toppled,2,60.1,205,AMT,1/25,32 Ford Phaeton,A125,"vendor; tokens=32,amt,ford"
+AMT ‘32 Ford Five Window,1,identified_in_this_image,Falcon_toppled,3,50.1,206,AMT,1/25,34 Ford Pickup,T145,"vendor; tokens=amt,ford"
+AMT ‘32 Ford Phaeton,2,identified_in_this_image,Falcon_toppled,1,85.6,205,AMT,1/25,32 Ford Phaeton,A125,"vendor; tokens=32,amt,ford,phaeton; name-ratio=1.00"
+AMT ‘32 Ford Phaeton,2,identified_in_this_image,Falcon_toppled,2,55.8,204,AMT,1/25,32 Ford Five-Window Coupe,T147,"vendor; tokens=32,amt,ford"
+AMT ‘32 Ford Phaeton,2,identified_in_this_image,Falcon_toppled,3,53.2,206,AMT,1/25,34 Ford Pickup,T145,"vendor; tokens=amt,ford"
+AMT ‘34 Ford Pickup,2,identified_elsewhere | identified_in_this_image,Blockade_Runner_02 | Sandcrawler_back,1,85.6,206,AMT,1/25,34 Ford Pickup,T145,"vendor; tokens=34,amt,ford,pickup; name-ratio=1.00"
+AMT ‘34 Ford Pickup,2,identified_elsewhere | identified_in_this_image,Blockade_Runner_02 | Sandcrawler_back,2,68.9,234,AMT,1/25,New Ford Pickup,T387,"vendor; tokens=amt,ford,pickup; name-ratio=0.83"
+AMT ‘34 Ford Pickup,2,identified_elsewhere | identified_in_this_image,Blockade_Runner_02 | Sandcrawler_back,3,59.4,208,AMT,1/25,53 Ford Pickup Street Rods,T410,"vendor; tokens=amt,ford,pickup"
+AMT ‘40 Ford Sedan Delivery,1,identified_in_this_image,X_03,1,87.0,207,AMT,1/25,40 Ford Sedan Delivery,T149,"vendor; tokens=40,amt,delivery,ford,sedan; name-ratio=1.00"
+AMT ‘40 Ford Sedan Delivery,1,identified_in_this_image,X_03,2,56.1,212,AMT,1/25,65 Ford Galaxie XL,T407,"vendor; tokens=amt,ford; serial-ish"
+AMT ‘40 Ford Sedan Delivery,1,identified_in_this_image,X_03,3,54.1,387,AMT,1/25,Ford C-600 City Delivery,T-548/ T596,"vendor; tokens=amt,delivery,ford"
+AMT ’53 Ford Pickup,1,identified_elsewhere,Xwing_back,1,71.3,206,AMT,1/25,34 Ford Pickup,T145,"vendor; tokens=amt,ford,pickup; name-ratio=0.93"
+AMT ’53 Ford Pickup,1,identified_elsewhere,Xwing_back,2,68.9,234,AMT,1/25,New Ford Pickup,T387,"vendor; tokens=amt,ford,pickup; name-ratio=0.83"
+AMT ’53 Ford Pickup,1,identified_elsewhere,Xwing_back,3,68.8,208,AMT,1/25,53 Ford Pickup Street Rods,T410,"vendor; tokens=53,amt,ford,pickup; name-ratio=0.70"
+AMT. California Hauler,1,identified_elsewhere,Tie_Attack,1,63.0,32,AMT,1/25,Peterbilt 359 California Hauler,T-500,"vendor; tokens=amt,california,hauler; name-ratio=0.71"
+AMT. California Hauler,1,identified_elsewhere,Tie_Attack,2,44.5,205,AMT,1/25,32 Ford Phaeton,A125,vendor; tokens=amt
+AMT. California Hauler,1,identified_elsewhere,Tie_Attack,3,44.3,251,AMT,1/25,Corvair Custom,T159,vendor; tokens=amt
+AMTi 1:43 Peterbilt 359,1,identified_elsewhere,Star_Destroyer_right,1,84.2,254,AMT,1/43,Peterbilt 359 (1/43 T'N'T Series),T-700,"vendor; scale; tokens=1/43,359,amt,peterbilt"
+AMTi 1:43 Peterbilt 359,1,identified_elsewhere,Star_Destroyer_right,2,61.9,252,AMT,1/43,Exterior post van,T-704,vendor; scale; tokens=amt
+AMTi 1:43 Peterbilt 359,1,identified_elsewhere,Star_Destroyer_right,3,54.4,253,AMT,1/43,Fruehauf FB 40 Foot Refrigerator Van Reefer,T-701,vendor; scale; tokens=amt
+AMZ White Road Boss,1,identified_elsewhere,Blockade_Runner,1,85.6,33,AMT,1/25,White Road Boss,648,"vendor; tokens=amt,boss,road,white; name-ratio=1.00"
+AMZ White Road Boss,1,identified_elsewhere,Blockade_Runner,2,50.1,247,AMT,1/25,White Western Star,T-541,"vendor; tokens=amt,white"
+AMZ White Road Boss,1,identified_elsewhere,Blockade_Runner,3,47.8,231,AMT,1/25,Mustang GT Road Racer,T385,"vendor; tokens=amt,road"
+ARII Chieftain,1,identified_in_this_image,Tile,1,52.0,256,ARII,No scale,British Army Medium Tank Chieftain,No number,"vendor; tokens=arii,chieftain"
+ARII Chieftain,1,identified_in_this_image,Tile,2,40.6,257,ARII,No scale,Russian Heavy Tank T-10 Stalin,No number,vendor; tokens=arii
+ARII Chieftain,1,identified_in_this_image,Tile,3,34.5,113,Nitto,,Chieftain,543,tokens=chieftain; name-ratio=1.00
+ARII T-10 Stalin,1,identified_in_this_image,Tile,1,64.9,257,ARII,No scale,Russian Heavy Tank T-10 Stalin,No number,"vendor; tokens=10,arii,stalin,t"
+ARII T-10 Stalin,1,identified_in_this_image,Tile,2,40.1,256,ARII,No scale,British Army Medium Tank Chieftain,No number,vendor; tokens=arii
+Aurora B-25 Mitchell Bomber,3,identified_elsewhere | identified_in_this_image,Blockade_Runner | Sandcrawler_back | Staff,1,87.0,261,Aurora,1/32,B-25 Mitchell Bomber,397,"vendor; tokens=25,aurora,b,bomber,mitchell; name-ratio=1.00"
+Aurora B-25 Mitchell Bomber,3,identified_elsewhere | identified_in_this_image,Blockade_Runner | Sandcrawler_back | Staff,2,41.0,258,Aurora,1/19,SE-5 British Scout,399,vendor; tokens=aurora
+Aurora B-25 Mitchell Bomber,3,identified_elsewhere | identified_in_this_image,Blockade_Runner | Sandcrawler_back | Staff,3,41.0,262,Aurora,1/48,British Churchill Tank,315 / 327,vendor; tokens=aurora
+Aurora Boeing 727,1,identified_in_this_image,ILM_Shop_Image,1,52.3,268,Aurora,1/96,The Wings of Man Eastern Boeing 727 Whisperjet,351,"vendor; tokens=727,aurora,boeing"
+Aurora Boeing 727,1,identified_in_this_image,ILM_Shop_Image,2,38.4,260,Aurora,1/27,P-51 Mustang,377,vendor; tokens=aurora
+Aurora Boeing 727,1,identified_in_this_image,ILM_Shop_Image,3,38.2,265,Aurora,1/48,World War II Sherman Tank,329,vendor; tokens=aurora
+Aurora Curtis  P-40,1,identified_in_this_image,ILM_Shop_Image,1,76.3,259,Aurora,1/27,Curtis [sic]  P-40,378,"vendor; tokens=40,aurora,curtis,p; name-ratio=0.85"
+Aurora Curtis  P-40,1,identified_in_this_image,ILM_Shop_Image,2,44.2,260,Aurora,1/27,P-51 Mustang,377,"vendor; tokens=aurora,p"
+Aurora Curtis  P-40,1,identified_in_this_image,ILM_Shop_Image,3,41.3,37,Aurora,1/19,Fokker D7 Giant Size No Cement Needed Simple Screwdriver Assembly,398-400,vendor; tokens=aurora; serial-ish
+Aurora Forrestal,2,identified_elsewhere | identified_in_this_image,Tie_01 | Wingman,1,47.5,267,Aurora,1/600,U.S.S. Forrestal (Saratoga / Independence),701,"vendor; tokens=aurora,forrestal"
+Aurora Forrestal,2,identified_elsewhere | identified_in_this_image,Tie_01 | Wingman,2,41.9,260,Aurora,1/27,P-51 Mustang,377,vendor; tokens=aurora
+Aurora Forrestal,2,identified_elsewhere | identified_in_this_image,Tie_01 | Wingman,3,41.7,41,Aurora,1/600,Graf Spee,709,vendor; tokens=aurora
+Aurora Graf Spee,2,identified_elsewhere | identified_in_this_image,Blockade_Runner | ILM_KITS,1,83.5,41,Aurora,1/600,Graf Spee,709,"vendor; tokens=aurora,graf,spee; name-ratio=1.00"
+Aurora Graf Spee,2,identified_elsewhere | identified_in_this_image,Blockade_Runner | ILM_KITS,2,41.2,259,Aurora,1/27,Curtis [sic]  P-40,378,vendor; tokens=aurora
+Aurora Graf Spee,2,identified_elsewhere | identified_in_this_image,Blockade_Runner | ILM_KITS,3,39.7,265,Aurora,1/48,World War II Sherman Tank,329,vendor; tokens=aurora
+Aurora Iowa,7,identified_elsewhere,Finest_Collection | Fleet | Staff | Tie_01 | TileCreation | Wingman | Xs_and_Ys.,1,53.1,266,Aurora,1/600,Battleship USS Iowa,705,"vendor; tokens=aurora,iowa"
+Aurora Iowa,7,identified_elsewhere,Finest_Collection | Fleet | Staff | Tie_01 | TileCreation | Wingman | Xs_and_Ys.,2,40.1,41,Aurora,1/600,Graf Spee,709,vendor; tokens=aurora
+Aurora Iowa,7,identified_elsewhere,Finest_Collection | Fleet | Staff | Tie_01 | TileCreation | Wingman | Xs_and_Ys.,3,38.4,258,Aurora,1/19,SE-5 British Scout,399,vendor; tokens=aurora
+Aurora ISS Iowa,1,identified_in_this_image,Blockade_Runner,1,56.2,266,Aurora,1/600,Battleship USS Iowa,705,"vendor; tokens=aurora,iowa"
+Aurora ISS Iowa,1,identified_in_this_image,Blockade_Runner,2,41.6,259,Aurora,1/27,Curtis [sic]  P-40,378,vendor; tokens=aurora
+Aurora ISS Iowa,1,identified_in_this_image,Blockade_Runner,3,40.7,262,Aurora,1/48,British Churchill Tank,315 / 327,vendor; tokens=aurora
+Aurora P-51 Mustang,1,identified_in_this_image,ILM_Shop_Image,1,85.6,260,Aurora,1/27,P-51 Mustang,377,"vendor; tokens=51,aurora,mustang,p; name-ratio=1.00"
+Aurora P-51 Mustang,1,identified_in_this_image,ILM_Shop_Image,2,45.6,268,Aurora,1/96,The Wings of Man Eastern Boeing 727 Whisperjet,351,vendor; tokens=aurora; serial-ish
+Aurora P-51 Mustang,1,identified_in_this_image,ILM_Shop_Image,3,42.1,259,Aurora,1/27,Curtis [sic]  P-40,378,"vendor; tokens=aurora,p"
+Aurora SE-5 British Scout,2,identified_in_this_image,ILM_Shop_Image,1,87.0,258,Aurora,1/19,SE-5 British Scout,399,"vendor; tokens=5,aurora,british,scout,se; name-ratio=1.00"
+Aurora SE-5 British Scout,2,identified_in_this_image,ILM_Shop_Image,2,57.6,262,Aurora,1/48,British Churchill Tank,315 / 327,"vendor; tokens=aurora,british; serial-ish"
+Aurora SE-5 British Scout,2,identified_in_this_image,ILM_Shop_Image,3,48.5,266,Aurora,1/600,Battleship USS Iowa,705,vendor; tokens=aurora; serial-ish
+Aurora Sealab,1,identified_elsewhere,Falcon_toppled,1,51.5,42,Aurora,1/93,U.S. Navy Sealab III,721,"vendor; tokens=aurora,sealab"
+Aurora Sealab,1,identified_elsewhere,Falcon_toppled,2,42.8,41,Aurora,1/600,Graf Spee,709,vendor; tokens=aurora
+Aurora Sealab,1,identified_elsewhere,Falcon_toppled,3,40.3,260,Aurora,1/27,P-51 Mustang,377,vendor; tokens=aurora
+Aurora Sealab (?),1,identified_in_this_image,Wingman,1,51.5,42,Aurora,1/93,U.S. Navy Sealab III,721,"vendor; tokens=aurora,sealab"
+Aurora Sealab (?),1,identified_in_this_image,Wingman,2,42.8,41,Aurora,1/600,Graf Spee,709,vendor; tokens=aurora
+Aurora Sealab (?),1,identified_in_this_image,Wingman,3,40.3,260,Aurora,1/27,P-51 Mustang,377,vendor; tokens=aurora
+Aurora Sherman,1,identified_in_this_image,ILM_Shop_Image,1,50.5,265,Aurora,1/48,World War II Sherman Tank,329,"vendor; tokens=aurora,sherman"
+Aurora Sherman,1,identified_in_this_image,ILM_Shop_Image,2,42.6,260,Aurora,1/27,P-51 Mustang,377,vendor; tokens=aurora
+Aurora Sherman,1,identified_in_this_image,ILM_Shop_Image,3,42.4,41,Aurora,1/600,Graf Spee,709,vendor; tokens=aurora
+Aurora Valkyre,1,identified_in_this_image,Wingman,1,42.6,36,Aurora,1/105,North American XB-70 Valkyrie,370,vendor; tokens=aurora
+Aurora Valkyre,1,identified_in_this_image,Wingman,2,42.4,41,Aurora,1/600,Graf Spee,709,vendor; tokens=aurora
+Aurora Valkyre,1,identified_in_this_image,Wingman,3,40.5,266,Aurora,1/600,Battleship USS Iowa,705,vendor; tokens=aurora
+Bandai  Jagdpanther,1,identified_in_this_image,ILM_Shop_Image,1,55.5,50,Bandai,1/24,Tank Destroyer V Jagdpanther,8273,"vendor; tokens=bandai,jagdpanther"
+Bandai  Jagdpanther,1,identified_in_this_image,ILM_Shop_Image,2,52.1,53,Bandai,1/48,"Jagdpanzer ""Hetzer""",8239-250,vendor; tokens=bandai; name-ratio=0.71
+Bandai  Jagdpanther,1,identified_in_this_image,ILM_Shop_Image,3,47.9,276,Bandai,1/48,Tank Destroyer Jagd-Panther,8260,vendor; tokens=bandai
+Bandai 1:24  Interceptor Shiden,1,identified_in_this_image,ILM_Shop_Image,1,80.5,48,Bandai,1/24,Interceptor Shiden 21 N1K2-J,8522,"vendor; scale; tokens=bandai,interceptor,shiden; name-ratio=0.78"
+Bandai 1:24  Interceptor Shiden,1,identified_in_this_image,ILM_Shop_Image,2,56.9,46,Bandai,1/24,Messerschmitt Bf109E4,0046781,vendor; scale; tokens=bandai
+Bandai 1:24  Interceptor Shiden,1,identified_in_this_image,ILM_Shop_Image,3,56.1,47,Bandai,1/24,Panzerkampfwagen Panther G,8212-4500,vendor; scale; tokens=bandai
+Bandai 1:24 Jagdpanther,1,identified_in_this_image,ILM_Shop_Image,1,71.5,50,Bandai,1/24,Tank Destroyer V Jagdpanther,8273,"vendor; scale; tokens=bandai,jagdpanther"
+Bandai 1:24 Jagdpanther,1,identified_in_this_image,ILM_Shop_Image,2,62.9,47,Bandai,1/24,Panzerkampfwagen Panther G,8212-4500,vendor; scale; tokens=bandai
+Bandai 1:24 Jagdpanther,1,identified_in_this_image,ILM_Shop_Image,3,56.0,46,Bandai,1/24,Messerschmitt Bf109E4,0046781,vendor; scale; tokens=bandai
+Bandai 1:24 M60,4,identified_elsewhere | identified_in_this_image,5757 | Blockade_Runner | Blockade_Runner_02 | Tile,1,60.7,270,Bandai,1/24,U.S. Army Medium Tank M60,8204,"vendor; scale; tokens=bandai,m60"
+Bandai 1:24 M60,4,identified_elsewhere | identified_in_this_image,5757 | Blockade_Runner | Blockade_Runner_02 | Tile,2,57.0,46,Bandai,1/24,Messerschmitt Bf109E4,0046781,vendor; scale; tokens=bandai
+Bandai 1:24 M60,4,identified_elsewhere | identified_in_this_image,5757 | Blockade_Runner | Blockade_Runner_02 | Tile,3,52.9,47,Bandai,1/24,Panzerkampfwagen Panther G,8212-4500,vendor; scale; tokens=bandai
+Bandai 1:24 Panther G,3,identified_elsewhere | identified_in_this_image,ILM_Shop_Image | Wingman,1,76.3,47,Bandai,1/24,Panzerkampfwagen Panther G,8212-4500,"vendor; scale; tokens=bandai,g,panther"
+Bandai 1:24 Panther G,3,identified_elsewhere | identified_in_this_image,ILM_Shop_Image | Wingman,2,59.7,50,Bandai,1/24,Tank Destroyer V Jagdpanther,8273,vendor; scale; tokens=bandai
+Bandai 1:24 Panther G,3,identified_elsewhere | identified_in_this_image,ILM_Shop_Image | Wingman,3,56.8,46,Bandai,1/24,Messerschmitt Bf109E4,0046781,vendor; scale; tokens=bandai
+Bandai 1:30 Diamond M-36,1,identified_elsewhere,Wingman,1,65.5,271,Bandai,1/30,U.S. Army Ordnance Diamond M-36 2 1/2 ton Cargo Truck,6421.0,"vendor; scale; tokens=36,bandai,diamond,m"
+Bandai 1:30 Diamond M-36,1,identified_elsewhere,Wingman,2,38.3,274,Bandai,1/48,Matilda,8363.0,vendor; scale-mismatch; tokens=bandai; serial-ish
+Bandai 1:30 Diamond M-36,1,identified_elsewhere,Wingman,3,32.8,270,Bandai,1/24,U.S. Army Medium Tank M60,8204,vendor; scale-mismatch; tokens=bandai
+Bandai 1:48 Panther G,6,identified_elsewhere | identified_in_this_image,ILM_KITS | ILM_Shop_Image | Landspeeders | X_03,1,75.7,62,Bandai,1/48,Panzerkampfwagen V Panther G,8228,"vendor; scale; tokens=bandai,g,panther"
+Bandai 1:48 Panther G,6,identified_elsewhere | identified_in_this_image,ILM_KITS | ILM_Shop_Image | Landspeeders | X_03,2,65.8,276,Bandai,1/48,Tank Destroyer Jagd-Panther,8260,"vendor; scale; tokens=bandai,panther"
+Bandai 1:48 Panther G,6,identified_elsewhere | identified_in_this_image,ILM_KITS | ILM_Shop_Image | Landspeeders | X_03,3,62.3,53,Bandai,1/48,"Jagdpanzer ""Hetzer""",8239-250,vendor; scale; tokens=bandai
+Bandai 75mm Anti Tank Gun,1,identified_in_this_image,ILM_Shop_Image,1,78.1,272,Bandai,1/48,75mm German Anti Tank Gun,8253,"vendor; tokens=75mm,anti,bandai,gun,tank; name-ratio=0.84"
+Bandai 75mm Anti Tank Gun,1,identified_in_this_image,ILM_Shop_Image,2,63.9,51,Bandai,1/48,"Anti Tank Gun IV ""Nashorn""",058258,"vendor; tokens=anti,bandai,gun,tank"
+Bandai 75mm Anti Tank Gun,1,identified_in_this_image,ILM_Shop_Image,3,48.7,269,Bandai,1/15,German Tank IV-F2,4101-2500,"vendor; tokens=bandai,tank"
+Bandai 8-Ton Semi Truck,1,identified_in_this_image,ILM_Shop_Image,1,66.6,58,Bandai,1/48,8ton Semi Truck (Sd.Kfz.7),8235,"vendor; tokens=bandai,semi,truck; name-ratio=0.75; serial-ish"
+Bandai 8-Ton Semi Truck,1,identified_in_this_image,ILM_Shop_Image,2,50.9,273,Bandai,1/48,8 Wheeled Armored Car,8238.0,"vendor; tokens=8,bandai; serial-ish"
+Bandai 8-Ton Semi Truck,1,identified_in_this_image,ILM_Shop_Image,3,48.0,272,Bandai,1/48,75mm German Anti Tank Gun,8253,vendor; tokens=bandai; serial-ish
+Bandai Aero Subaru,2,identified_elsewhere | identified_in_this_image,ILM_KITS | ILM_Shop_Image,1,67.2,63,Bandai,1/48,Aero Subaru FA 200,8515A,"vendor; tokens=aero,bandai,subaru; name-ratio=0.76"
+Bandai Aero Subaru,2,identified_elsewhere | identified_in_this_image,ILM_KITS | ILM_Shop_Image,2,44.1,67,Bandai,1/48,Piper Super Cub PA18,8530P,vendor; tokens=bandai
+Bandai Aero Subaru,2,identified_elsewhere | identified_in_this_image,ILM_KITS | ILM_Shop_Image,3,42.6,53,Bandai,1/48,"Jagdpanzer ""Hetzer""",8239-250,vendor; tokens=bandai
+Bandai Beach Bonanza,1,identified_in_this_image,ILM_Shop_Image,1,57.6,59,Bandai,1/48,Beech Bonanza V35 Bandai,8530B,"vendor; tokens=bandai,bonanza"
+Bandai Beach Bonanza,1,identified_in_this_image,ILM_Shop_Image,2,42.1,46,Bandai,1/24,Messerschmitt Bf109E4,0046781,vendor; tokens=bandai
+Bandai Beach Bonanza,1,identified_in_this_image,ILM_Shop_Image,3,41.7,389,Bandai,1/48,Möbelwagen - Flakpanzer IV,8285.0,vendor; tokens=bandai
+Bandai Hummel,1,identified_in_this_image,Pirateship,1,47.0,43,Bandai,1/15,150mm Howitzer S.P.IV HUMMEL,8351,"vendor; tokens=bandai,hummel"
+Bandai Hummel,1,identified_in_this_image,Pirateship,2,43.8,274,Bandai,1/48,Matilda,8363.0,vendor; tokens=bandai
+Bandai Hummel,1,identified_in_this_image,Pirateship,3,42.4,65,Bandai,1/48,Schwimmwagen Type K2,8237,vendor; tokens=bandai
+Bandai Jagdpanzer Hetzer,1,identified_in_this_image,ILM_Shop_Image,1,77.2,53,Bandai,1/48,"Jagdpanzer ""Hetzer""",8239-250,"vendor; tokens=bandai,hetzer,jagdpanzer; name-ratio=1.00"
+Bandai Jagdpanzer Hetzer,1,identified_in_this_image,ILM_Shop_Image,2,44.4,47,Bandai,1/24,Panzerkampfwagen Panther G,8212-4500,vendor; tokens=bandai
+Bandai Jagdpanzer Hetzer,1,identified_in_this_image,ILM_Shop_Image,3,43.9,62,Bandai,1/48,Panzerkampfwagen V Panther G,8228,vendor; tokens=bandai
+Bandai Kübelwagen,3,identified_elsewhere | identified_in_this_image,Blockade_Runner | ILM_Shop_Image,1,57.5,55,Bandai,1/48,Pkw. K1 Type 82 Kübelwagen,8223,"vendor; tokens=bandai,belwagen,k"
+Bandai Kübelwagen,3,identified_elsewhere | identified_in_this_image,Blockade_Runner | ILM_Shop_Image,2,51.2,389,Bandai,1/48,Möbelwagen - Flakpanzer IV,8285.0,"vendor; tokens=bandai,belwagen"
+Bandai Kübelwagen,3,identified_elsewhere | identified_in_this_image,Blockade_Runner | ILM_Shop_Image,3,42.0,65,Bandai,1/48,Schwimmwagen Type K2,8237,vendor; tokens=bandai
+Bandai M60,1,identified_elsewhere,Wingman,1,43.8,270,Bandai,1/24,U.S. Army Medium Tank M60,8204,"vendor; tokens=bandai,m60"
+Bandai M60,1,identified_elsewhere,Wingman,2,41.2,274,Bandai,1/48,Matilda,8363.0,vendor; tokens=bandai
+Bandai M60,1,identified_elsewhere,Wingman,3,40.4,46,Bandai,1/24,Messerschmitt Bf109E4,0046781,vendor; tokens=bandai
+Bandai Nashorn,1,identified_in_this_image,ILM_Shop_Image,1,50.8,51,Bandai,1/48,"Anti Tank Gun IV ""Nashorn""",058258,"vendor; tokens=bandai,nashorn"
+Bandai Nashorn,1,identified_in_this_image,ILM_Shop_Image,2,42.0,66,Bandai,1/48,Cessna 150,8515C,vendor; tokens=bandai
+Bandai Nashorn,1,identified_in_this_image,ILM_Shop_Image,3,41.0,53,Bandai,1/48,"Jagdpanzer ""Hetzer""",8239-250,vendor; tokens=bandai
+Bandai Piper Super Club,1,identified_in_this_image,ILM_Shop_Image,1,66.0,67,Bandai,1/48,Piper Super Cub PA18,8530P,"vendor; tokens=bandai,piper,super; name-ratio=0.83"
+Bandai Piper Super Club,1,identified_in_this_image,ILM_Shop_Image,2,52.7,60,Bandai,1/48,Piper Cherokee 140,8520,"vendor; tokens=bandai,piper"
+Bandai Piper Super Club,1,identified_in_this_image,ILM_Shop_Image,3,42.5,63,Bandai,1/48,Aero Subaru FA 200,8515A,vendor; tokens=bandai
+Bandai Schwimmwagen,1,identified_in_this_image,ILM_Shop_Image,1,62.8,65,Bandai,1/48,Schwimmwagen Type K2,8237,"vendor; tokens=bandai,schwimmwagen; name-ratio=0.75"
+Bandai Schwimmwagen,1,identified_in_this_image,ILM_Shop_Image,2,43.7,46,Bandai,1/24,Messerschmitt Bf109E4,0046781,vendor; tokens=bandai
+Bandai Schwimmwagen,1,identified_in_this_image,ILM_Shop_Image,3,42.0,275,Bandai,1/48,Schützenpanzerwagen Sd Kfz 251/1,8222,vendor; tokens=bandai
+Bandai Tank IV F2,1,identified_in_this_image,Pirateship_02,1,69.8,269,Bandai,1/15,German Tank IV-F2,4101-2500,"vendor; tokens=bandai,f2,iv,tank; name-ratio=0.74"
+Bandai Tank IV F2,1,identified_in_this_image,Pirateship_02,2,55.0,51,Bandai,1/48,"Anti Tank Gun IV ""Nashorn""",058258,"vendor; tokens=bandai,iv,tank"
+Bandai Tank IV F2,1,identified_in_this_image,Pirateship_02,3,48.0,56,Bandai,1/48,Panzerkampfwagen IV Ausf. H,8270.0,"vendor; tokens=bandai,iv"
+Bandai Tiger I,1,identified_in_this_image,ILM_Shop_Image,1,49.5,52,Bandai,1/48,Panzerkampfwagen VI Tiger I Sd.Kfz.181,8225,"vendor; tokens=bandai,i,tiger"
+Bandai Tiger I,1,identified_in_this_image,ILM_Shop_Image,2,46.5,54,Bandai,1/48,Panzerkampfwagen VI King Tiger,8241,"vendor; tokens=bandai,tiger"
+Bandai Tiger I,1,identified_in_this_image,ILM_Shop_Image,3,46.0,57,Bandai,1/48,Tank Destroyer Jagd-Tiger,8259.0,"vendor; tokens=bandai,tiger"
+Entex,1,identified_in_this_image,ILM_Shop_Image,1,34.0,278,Entex,1/15,German Panzer IV f12 Panzerkampfwagen,8479,vendor; tokens=entex
+Entex,1,identified_in_this_image,ILM_Shop_Image,2,32.7,279,Entex,1/15,Sturmgeschutz IV German Army Assault Gun IV Model Hv,8481,vendor; tokens=entex
+Entex,1,identified_in_this_image,ILM_Shop_Image,3,32.2,277,Entex,1/5,"Wankel Rotary Engine unique, pistonless, the engine of the future. (Gakken Rebox)",8201,vendor; tokens=entex
+Entex German Army Assault Gun,4,identified_elsewhere | identified_in_this_image,Fleet | Staff,1,66.1,279,Entex,1/15,Sturmgeschutz IV German Army Assault Gun IV Model Hv,8481,"vendor; tokens=army,assault,entex,german,gun"
+Entex German Army Assault Gun,4,identified_elsewhere | identified_in_this_image,Fleet | Staff,2,46.8,278,Entex,1/15,German Panzer IV f12 Panzerkampfwagen,8479,"vendor; tokens=entex,german"
+Entex German Army Assault Gun,4,identified_elsewhere | identified_in_this_image,Fleet | Staff,3,41.8,335,Nitto / RiKo / Entex,1/76,Jagdpanther German Medium Tank,395 / 443 / 8506C / 252,"vendor; tokens=entex,german"
+ENTEX Panzer IV F2,1,identified_elsewhere,Xwing_back_2,1,55.5,278,Entex,1/15,German Panzer IV f12 Panzerkampfwagen,8479,"vendor; tokens=entex,iv,panzer"
+ENTEX Panzer IV F2,1,identified_elsewhere,Xwing_back_2,2,39.9,335,Nitto / RiKo / Entex,1/76,Jagdpanther German Medium Tank,395 / 443 / 8506C / 252,vendor; tokens=entex
+ENTEX Panzer IV F2,1,identified_elsewhere,Xwing_back_2,3,39.4,279,Entex,1/15,Sturmgeschutz IV German Army Assault Gun IV Model Hv,8481,"vendor; tokens=entex,iv"
+Entex Panzerkampfwagen IV f2,4,identified_elsewhere | identified_in_this_image,Fleet | Staff,1,56.8,278,Entex,1/15,German Panzer IV f12 Panzerkampfwagen,8479,"vendor; tokens=entex,iv,panzerkampfwagen"
+Entex Panzerkampfwagen IV f2,4,identified_elsewhere | identified_in_this_image,Fleet | Staff,2,42.8,279,Entex,1/15,Sturmgeschutz IV German Army Assault Gun IV Model Hv,8481,"vendor; tokens=entex,iv"
+Entex Panzerkampfwagen IV f2,4,identified_elsewhere | identified_in_this_image,Fleet | Staff,3,41.0,335,Nitto / RiKo / Entex,1/76,Jagdpanther German Medium Tank,395 / 443 / 8506C / 252,vendor; tokens=entex
+Entex Payhauler,2,identified_elsewhere,Blockade_Runner | ILM_Shop_Image,1,37.4,278,Entex,1/15,German Panzer IV f12 Panzerkampfwagen,8479,vendor; tokens=entex
+Entex Payhauler,2,identified_elsewhere,Blockade_Runner | ILM_Shop_Image,2,37.4,335,Nitto / RiKo / Entex,1/76,Jagdpanther German Medium Tank,395 / 443 / 8506C / 252,vendor; tokens=entex
+Entex Payhauler,2,identified_elsewhere,Blockade_Runner | ILM_Shop_Image,3,36.9,279,Entex,1/15,Sturmgeschutz IV German Army Assault Gun IV Model Hv,8481,vendor; tokens=entex
+Entex Wankel,4,identified_in_this_image,ILM_Shop_Image,1,39.9,277,Entex,1/5,"Wankel Rotary Engine unique, pistonless, the engine of the future. (Gakken Rebox)",8201,"vendor; tokens=entex,wankel"
+Entex Wankel,4,identified_in_this_image,ILM_Shop_Image,2,36.6,278,Entex,1/15,German Panzer IV f12 Panzerkampfwagen,8479,vendor; tokens=entex
+Entex Wankel,4,identified_in_this_image,ILM_Shop_Image,3,35.5,279,Entex,1/15,Sturmgeschutz IV German Army Assault Gun IV Model Hv,8481,vendor; tokens=entex
+ERTL Great Dane Flatbed Trailer,4,identified_elsewhere | identified_in_this_image,Star_Destroyer_right | Star_Destroyer_workbench | Tile | X_03,1,68.2,280,ERTL,1/25,Great Dane extendable heavy duty flatbed trailer,8009,"vendor; tokens=dane,ertl,flatbed,great,trailer; name-ratio=0.70"
+ERTL Great Dane Flatbed Trailer,4,identified_elsewhere | identified_in_this_image,Star_Destroyer_right | Star_Destroyer_workbench | Tile | X_03,2,40.8,281,ERTL,1/25,International Payhauler 350,8013,vendor; tokens=ertl
+ERTL Great Dane Flatbed Trailer,4,identified_elsewhere | identified_in_this_image,Star_Destroyer_right | Star_Destroyer_workbench | Tile | X_03,3,27.6,388,AMT,1/25,Fruehauf Flatbed Trailer,T-545,"tokens=flatbed,trailer; name-ratio=0.76"
+ERTL Payhauler,6,identified_elsewhere | identified_in_this_image,Finest_Collection | Fleet | ILM_KITS | TileCreation | Wingman | Xs_and_Ys.,1,56.8,281,ERTL,1/25,International Payhauler 350,8013,"vendor; tokens=ertl,payhauler"
+ERTL Payhauler,6,identified_elsewhere | identified_in_this_image,Finest_Collection | Fleet | ILM_KITS | TileCreation | Wingman | Xs_and_Ys.,2,37.3,280,ERTL,1/25,Great Dane extendable heavy duty flatbed trailer,8009,vendor; tokens=ertl
+ESCI BMW R75,1,identified_in_this_image,ILM_Shop_Image,1,65.6,69,ESCI,1/9,BMW R75 With sidecar,7001,"vendor; tokens=bmw,esci,r75"
+ESCI BMW R75,1,identified_in_this_image,ILM_Shop_Image,2,36.7,70,ESCI,1/9,NSU HK-101 Kettenkrad,7005,vendor; tokens=esci
+ESCI BMW R75,1,identified_in_this_image,ILM_Shop_Image,3,35.9,393,ESCI,1/35,Nebelwerfer 41 German Smoke-Unit,5001.0,vendor; tokens=esci
+ESCI Kettenkrad,1,identified_in_this_image,Xwing_back_2,1,57.5,70,ESCI,1/9,NSU HK-101 Kettenkrad,7005,"vendor; tokens=esci,kettenkrad"
+ESCI Kettenkrad,1,identified_in_this_image,Xwing_back_2,2,38.2,69,ESCI,1/9,BMW R75 With sidecar,7001,vendor; tokens=esci
+ESCI Kettenkrad,1,identified_in_this_image,Xwing_back_2,3,36.1,393,ESCI,1/35,Nebelwerfer 41 German Smoke-Unit,5001.0,vendor; tokens=esci
+Frog Heinkel 111,1,identified_in_this_image,Xwing_back_2,1,59.8,283,Frog,1/72,Heinkel He.111 H-1/H-6,F201,"vendor; tokens=111,frog,heinkel; name-ratio=0.67"
+Frog Heinkel 111,1,identified_in_this_image,Xwing_back_2,2,42.3,286,Frog / UPC,1/130,Shell Tanker,347P / F137 / 5013-300,vendor; tokens=frog
+Frog Heinkel 111,1,identified_in_this_image,Xwing_back_2,3,39.3,76,Frog,1/72,Whitley Long Range Bomber,F.207,vendor; tokens=frog
+Fujimi Elefant,1,identified_in_this_image,X_03,1,39.9,83,Fujimi,1/76,German Heavy Tank Destroyer Elephant,WA13,vendor; tokens=fujimi
+Fujimi Elefant,1,identified_in_this_image,X_03,2,38.3,78,Fujimi,1/76,British Infantry Tank Valentine,WA-12,vendor; tokens=fujimi
+Fujimi Elefant,1,identified_in_this_image,X_03,3,36.6,397,Fujimi,1/76,Kubelwagen / BMW R75 with Sidecar,WA-11 / OC-1 / 0868,vendor; tokens=fujimi
+Fujimi Iowa,11,identified_elsewhere | identified_in_this_image,Blockade_Runner | Finest_Collection | Fleet | ILM_Shop_Image | Staff | Tile | TileCreation | Xs_and_Ys.,1,41.0,289,Fujimi,1/700,U.S.A. Battleship Iowa / Missouri,WL.B115 / B107,"vendor; tokens=fujimi,iowa"
+Fujimi Iowa,11,identified_elsewhere | identified_in_this_image,Blockade_Runner | Finest_Collection | Fleet | ILM_Shop_Image | Staff | Tile | TileCreation | Xs_and_Ys.,2,36.0,78,Fujimi,1/76,British Infantry Tank Valentine,WA-12,vendor; tokens=fujimi
+Fujimi Iowa,11,identified_elsewhere | identified_in_this_image,Blockade_Runner | Finest_Collection | Fleet | ILM_Shop_Image | Staff | Tile | TileCreation | Xs_and_Ys.,3,35.6,83,Fujimi,1/76,German Heavy Tank Destroyer Elephant,WA13,vendor; tokens=fujimi
+Fujimi Missouri,2,identified_elsewhere | identified_in_this_image,Finest_Collection | TileCreation,1,45.2,289,Fujimi,1/700,U.S.A. Battleship Iowa / Missouri,WL.B115 / B107,"vendor; tokens=fujimi,missouri"
+Fujimi Missouri,2,identified_elsewhere | identified_in_this_image,Finest_Collection | TileCreation,2,38.2,78,Fujimi,1/76,British Infantry Tank Valentine,WA-12,vendor; tokens=fujimi
+Fujimi Missouri,2,identified_elsewhere | identified_in_this_image,Finest_Collection | TileCreation,3,37.6,83,Fujimi,1/76,German Heavy Tank Destroyer Elephant,WA13,vendor; tokens=fujimi
+Hasegawa Gasoline Truck,1,identified_in_this_image,ILM_Shop_Top,1,53.5,294,Hasegawa,1/72,G.M.C. CCKW-353 Gasoline Tank Truck,MB-021,"vendor; tokens=gasoline,hasegawa,truck"
+Hasegawa Gasoline Truck,1,identified_in_this_image,ILM_Shop_Top,2,40.1,399,Hasegawa,1/700,Japanese Aircraft Carrier Akagi,WL.A031,vendor; tokens=hasegawa
+Hasegawa Gasoline Truck,1,identified_in_this_image,ILM_Shop_Top,3,39.0,290,Hasegawa,1/450,German Battle Ship Bismarck / Tirpitz,A-7 / A-8,vendor; tokens=hasegawa
+Hasegawa Kettenkrad & Schwimmwagen,1,identified_in_this_image,ILM_Shop_Image,1,73.0,297,Hasegawa / Minicraft,1/72,KettenKRad & Schwimmwagen,713,"vendor; tokens=hasegawa,kettenkrad,schwimmwagen; name-ratio=1.00"
+Hasegawa Kettenkrad & Schwimmwagen,1,identified_in_this_image,ILM_Shop_Image,2,42.5,285,Frog / Hasegawa-Frog,1/72,Westland Wyvern,F198 / JS-067,vendor; tokens=hasegawa
+Hasegawa Kettenkrad & Schwimmwagen,1,identified_in_this_image,ILM_Shop_Image,3,39.3,399,Hasegawa,1/700,Japanese Aircraft Carrier Akagi,WL.A031,vendor; tokens=hasegawa
+Hasegawa Sherman,3,identified_elsewhere | identified_in_this_image,21 | TileCreation,1,46.1,298,Hasegawa / Minicraft,1/72,U.S. Army M-4 (A3E8) Sherman,715,"vendor; tokens=hasegawa,sherman"
+Hasegawa Sherman,3,identified_elsewhere | identified_in_this_image,21 | TileCreation,2,41.4,285,Frog / Hasegawa-Frog,1/72,Westland Wyvern,F198 / JS-067,vendor; tokens=hasegawa
+Hasegawa Sherman,3,identified_elsewhere | identified_in_this_image,21 | TileCreation,3,39.6,297,Hasegawa / Minicraft,1/72,KettenKRad & Schwimmwagen,713,vendor; tokens=hasegawa
+Hasegawa Yamato,3,identified_elsewhere | identified_in_this_image,Blockade _Top | ILM_Shop_Top | Tile,1,47.8,292,Hasegawa,1/450,Japanese Navy Battleship Yamato,A-3,"vendor; tokens=hasegawa,yamato"
+Hasegawa Yamato,3,identified_elsewhere | identified_in_this_image,Blockade _Top | ILM_Shop_Top | Tile,2,38.4,297,Hasegawa / Minicraft,1/72,KettenKRad & Schwimmwagen,713,vendor; tokens=hasegawa
+Hasegawa Yamato,3,identified_elsewhere | identified_in_this_image,Blockade _Top | ILM_Shop_Top | Tile,3,37.7,298,Hasegawa / Minicraft,1/72,U.S. Army M-4 (A3E8) Sherman,715,vendor; tokens=hasegawa
+Heller Porsche 917,1,identified_in_this_image,Death_Star_back,1,54.0,299,Heller,1/24,Porsche 917 K  Martini Racing-Team,L 742,"vendor; tokens=917,heller,porsche"
+Heller Porsche 917,1,identified_in_this_image,Death_Star_back,2,40.0,300,Heller,1/400,Ship (La Seine),L750,vendor; tokens=heller
+Heller Porsche 917,1,identified_in_this_image,Death_Star_back,3,36.5,401,Heller,1/400,HMS Hood,1051.0,vendor; tokens=heller
+Heller Porsche 917 K,2,identified_elsewhere,ILM_KITS | Sandcrawler_back,1,60.2,299,Heller,1/24,Porsche 917 K  Martini Racing-Team,L 742,"vendor; tokens=917,heller,k,porsche"
+Heller Porsche 917 K,2,identified_elsewhere,ILM_KITS | Sandcrawler_back,2,38.8,300,Heller,1/400,Ship (La Seine),L750,vendor; tokens=heller
+Heller Porsche 917 K,2,identified_elsewhere,ILM_KITS | Sandcrawler_back,3,36.5,301,Heller,1/400,"Suffren, Fregate Lance-Engins",L861 (/ 861),vendor; tokens=heller
+"Heller Suffren, Fregate Lance-Engins",1,identified_in_this_image,Tile,1,78.2,301,Heller,1/400,"Suffren, Fregate Lance-Engins",L861 (/ 861),"vendor; tokens=engins,fregate,heller,lance,suffren; name-ratio=1.00"
+"Heller Suffren, Fregate Lance-Engins",1,identified_in_this_image,Tile,2,40.9,300,Heller,1/400,Ship (La Seine),L750,vendor; tokens=heller
+"Heller Suffren, Fregate Lance-Engins",1,identified_in_this_image,Tile,3,38.3,299,Heller,1/24,Porsche 917 K  Martini Racing-Team,L 742,vendor; tokens=heller
+Hiroshi Sumi reference:,1,other_or_unstyled,Star_Destroyer_workbench,,,,,,,,NO_MATCH
+IMAI Galeass,1,identified_in_this_image,Tile,1,73.0,302,Imai,1/160,Galeass,B-351,"vendor; tokens=galeass,imai; name-ratio=1.00"
+IMC Volkswagen,1,identified_in_this_image,ILM_KITS,1,80.0,303,IMC,1/25,Volkswagen,114,"vendor; tokens=imc,volkswagen; name-ratio=1.00"
+Jo-han 1931 Cadillac,1,identified_in_this_image,Tile,1,31.7,306,Jo-han,1/25,1931 Cadillac V-16 Cabriolet,GC-431,"tokens=1931,cadillac,han,jo"
+LS Morgan Roadster,1,identified_in_this_image,ILM_Shop_Top,1,68.5,96,LS,1/16,Morgan Plus 8 Roadster,C2002,"vendor; tokens=ls,morgan,roadster; name-ratio=0.81"
+Mania Nate,1,identified_in_this_image,ILM_Shop_Top,1,48.3,307,Mania,1/48,Nakajima Ki-27 Nate,05-800,"vendor; tokens=mania,nate"
+Mania Nate,1,identified_in_this_image,ILM_Shop_Top,2,35.3,97,Mania,1/72,Type 97 Carrier Attack Bomber Nakajima B5N Kate,02-800,vendor; tokens=mania
+Monogram De Havilland Mosquito,1,identified_in_this_image,Wingman,1,80.0,312,Monogram,1/48,De Havilland Mosquito,6849.0,"vendor; tokens=de,havilland,monogram,mosquito; name-ratio=1.00"
+Monogram De Havilland Mosquito,1,identified_in_this_image,Wingman,2,40.3,310,Monogram,1/32,Panzerspähwagen 8rad,7581,vendor; tokens=monogram
+Monogram De Havilland Mosquito,1,identified_in_this_image,Wingman,3,39.8,404,Monogram,1/32,Screamin' Mimi Sherman M4A1,4200,vendor; tokens=monogram
+Nichimo Elefant,2,identified_elsewhere | identified_in_this_image,ILM_Shop_Image | Tile,1,58.2,318,Nichimo,1/35,"Jagdpanzer ""Elefant""",R-3520,"vendor; tokens=elefant,nichimo"
+Nichimo Elefant,2,identified_elsewhere | identified_in_this_image,ILM_Shop_Image | Tile,2,42.6,320,Nichimo,1/35,M4A1 Sherman,R-3517,vendor; tokens=nichimo
+Nichimo Elefant,2,identified_elsewhere | identified_in_this_image,ILM_Shop_Image | Tile,3,41.3,324,Nichimo,1/500,Japanese Battleship Nagato,U5007-500,vendor; tokens=nichimo
+Nichimo JagdTiger,1,identified_in_this_image,ILM_Shop_Image,1,55.5,319,Nichimo,1/35,"Jagdpanzer VI ""Jagdtiger""",R-3531,"vendor; tokens=jagdtiger,nichimo"
+Nichimo JagdTiger,1,identified_in_this_image,ILM_Shop_Image,2,45.7,318,Nichimo,1/35,"Jagdpanzer ""Elefant""",R-3520,vendor; tokens=nichimo
+Nichimo JagdTiger,1,identified_in_this_image,ILM_Shop_Image,3,41.9,320,Nichimo,1/35,M4A1 Sherman,R-3517,vendor; tokens=nichimo
+Nichimo Jagdtiger,2,identified_elsewhere,Tile | Wingman,1,55.5,319,Nichimo,1/35,"Jagdpanzer VI ""Jagdtiger""",R-3531,"vendor; tokens=jagdtiger,nichimo"
+Nichimo Jagdtiger,2,identified_elsewhere,Tile | Wingman,2,45.7,318,Nichimo,1/35,"Jagdpanzer ""Elefant""",R-3520,vendor; tokens=nichimo
+Nichimo Jagdtiger,2,identified_elsewhere,Tile | Wingman,3,41.9,320,Nichimo,1/35,M4A1 Sherman,R-3517,vendor; tokens=nichimo
+Nichimo Musashi,1,identified_in_this_image,ILM_Shop_Top,1,48.6,325,Nichimo,1/500,Japanese Navy Battleship Musashi,U5002-950,"vendor; tokens=musashi,nichimo"
+Nichimo Musashi,1,identified_in_this_image,ILM_Shop_Top,2,45.1,320,Nichimo,1/35,M4A1 Sherman,R-3517,vendor; tokens=nichimo
+Nichimo Musashi,1,identified_in_this_image,ILM_Shop_Top,3,41.3,324,Nichimo,1/500,Japanese Battleship Nagato,U5007-500,vendor; tokens=nichimo
+Nichimo Nagato,2,identified_elsewhere | identified_in_this_image,ILM_Shop_Image | Tile,1,51.0,324,Nichimo,1/500,Japanese Battleship Nagato,U5007-500,"vendor; tokens=nagato,nichimo"
+Nichimo Nagato,2,identified_elsewhere | identified_in_this_image,ILM_Shop_Image | Tile,2,43.0,318,Nichimo,1/35,"Jagdpanzer ""Elefant""",R-3520,vendor; tokens=nichimo
+Nichimo Nagato,2,identified_elsewhere | identified_in_this_image,ILM_Shop_Image | Tile,3,42.0,323,Nichimo,1/48,Nakajima B5N2 KATE,S-4813,vendor; tokens=nichimo
+Nichimo Pz.Kpfw.VI,1,identified_in_this_image,TIE_bench,1,52.9,322,Nichimo,1/35,Pz.Kpfw.VI Tiger II Porsche Turret,R-3526 / R-3529,"vendor; tokens=kpfw,nichimo,pz,vi"
+Nichimo Pz.Kpfw.VI,1,identified_in_this_image,TIE_bench,2,51.8,321,Nichimo,1/35,Pz.Kpfw.VI Tiger II Henschel Turret (King Tiger),R-3530,"vendor; tokens=kpfw,nichimo,pz,vi"
+Nichimo Pz.Kpfw.VI,1,identified_in_this_image,TIE_bench,3,45.8,319,Nichimo,1/35,"Jagdpanzer VI ""Jagdtiger""",R-3531,"vendor; tokens=nichimo,vi"
+Nichimo Sherman,1,identified_in_this_image,Blockade_Runner,1,62.5,320,Nichimo,1/35,M4A1 Sherman,R-3517,"vendor; tokens=nichimo,sherman; name-ratio=0.74"
+Nichimo Sherman,1,identified_in_this_image,Blockade_Runner,2,42.7,318,Nichimo,1/35,"Jagdpanzer ""Elefant""",R-3520,vendor; tokens=nichimo
+Nichimo Sherman,1,identified_in_this_image,Blockade_Runner,3,40.7,317,Nichimo,1/35,British Army Tank Centurion,R-3505 / R-3510,vendor; tokens=nichimo
+Nitto Kettenkrad,1,identified_in_this_image,ILM_KITS,1,48.5,336,Nitto Kagaku,1/35,KettenKrad Sd.Kfz. 2 with 37mm Gun,411,"vendor; tokens=kettenkrad,nitto"
+Nitto Kettenkrad,1,identified_in_this_image,ILM_KITS,2,46.1,113,Nitto,,Chieftain,543,vendor; tokens=nitto
+Nitto Kettenkrad,1,identified_in_this_image,ILM_KITS,3,43.8,114,Nitto,,Tiger II,,vendor; tokens=nitto
+Nitto Kettenkrad (?),1,identified_elsewhere,Tile,1,48.5,336,Nitto Kagaku,1/35,KettenKrad Sd.Kfz. 2 with 37mm Gun,411,"vendor; tokens=kettenkrad,nitto"
+Nitto Kettenkrad (?),1,identified_elsewhere,Tile,2,46.1,113,Nitto,,Chieftain,543,vendor; tokens=nitto
+Nitto Kettenkrad (?),1,identified_elsewhere,Tile,3,43.8,114,Nitto,,Tiger II,,vendor; tokens=nitto
+Nitto M3A1 Halftrack (?),1,identified_in_this_image,X_03,1,85.6,329,Nitto,1/76,M3A1 Half Track,456,"vendor; tokens=half,m3a1,nitto,track; name-ratio=1.00"
+Nitto M3A1 Halftrack (?),1,identified_in_this_image,X_03,2,42.0,331,Nitto,No scale(1/1000?),German Battleship Bismarck,165.0,vendor; tokens=nitto
+Nitto M3A1 Halftrack (?),1,identified_in_this_image,X_03,3,40.5,333,Nitto / RiKo,1/76,M4A1 Sherman (with Willys Jeep),453,vendor; tokens=nitto
+Otaki Yamato,2,identified_elsewhere | identified_in_this_image,ILM_Shop_Image | Tile,1,49.0,338,Otaki,1/600,Japanese Battleship Yamato,OT1-28-500,"vendor; tokens=otaki,yamato"
+Otaki Yamato,2,identified_elsewhere | identified_in_this_image,ILM_Shop_Image | Tile,2,36.5,337,Otaki,1/48,P-51D Mustang,OT2-13,vendor; tokens=otaki
+Revell 53 Chevy Panel,1,identified_in_this_image,X_03,1,80.0,341,Revell,1/25,53 Chevy Panel,H-1376,"vendor; tokens=53,chevy,panel,revell; name-ratio=1.00"
+Revell 53 Chevy Panel,1,identified_in_this_image,X_03,2,46.7,342,Revell,1/25,Custom '57 Chevy Hardtop,H1277 / H-1371 /     H-1284,"vendor; tokens=chevy,revell"
+Revell 53 Chevy Panel,1,identified_in_this_image,X_03,3,39.8,350,Revell-Italaerei,1/35,Rocket launcher Katyusha,H-2115,vendor; tokens=revell
+Revell Motocrosser,1,identified_in_this_image,ILM_KITS,1,50.0,339,Revell,1/12,Roger DeCoster's Suzuki Motocrosser,H-1509,"vendor; tokens=motocrosser,revell"
+Revell Motocrosser,1,identified_in_this_image,ILM_KITS,2,40.9,407,Revell,1/542,"""Battle of Midway"" Carrier",H-501,vendor; tokens=revell
+Revell Motocrosser,1,identified_in_this_image,ILM_KITS,3,39.5,406,Revell,1/24,NASA/McDonnell Gemini,H-1835,vendor; tokens=revell
+Revell Phantom,3,identified_elsewhere,Sandcrawler_right,1,40.9,341,Revell,1/25,53 Chevy Panel,H-1376,vendor; tokens=revell
+Revell Phantom,3,identified_elsewhere,Sandcrawler_right,2,40.5,305,Italaerei / Revell-Italaerei / Tomy,1/35,Tiger (P) Elefant,211 / H2105 / 3512,vendor; tokens=revell
+Revell Phantom,3,identified_elsewhere,Sandcrawler_right,3,40.2,407,Revell,1/542,"""Battle of Midway"" Carrier",H-501,vendor; tokens=revell
+Revell Phantom F-4J,42,identified_elsewhere | identified_in_this_image,5757 | Blockade_Runner | Blockade_Runner_02 | Death_Star_back | ILM_KITS | ILM_Shop_Image | Landspeeder_03 | Landspeeder_04 | Star_Destroyer_right | Xwing_back,1,47.7,344,Revell,1/32,Phantom F-4J / McDonnell Douglas F-4E U.S.A.F. Phantom II,H-188 / H-198,"vendor; tokens=4j,f,phantom,revell"
+Revell Phantom F-4J,42,identified_elsewhere | identified_in_this_image,5757 | Blockade_Runner | Blockade_Runner_02 | Death_Star_back | ILM_KITS | ILM_Shop_Image | Landspeeder_03 | Landspeeder_04 | Star_Destroyer_right | Xwing_back,2,39.3,407,Revell,1/542,"""Battle of Midway"" Carrier",H-501,vendor; tokens=revell
+Revell Phantom F-4J,42,identified_elsewhere | identified_in_this_image,5757 | Blockade_Runner | Blockade_Runner_02 | Death_Star_back | ILM_KITS | ILM_Shop_Image | Landspeeder_03 | Landspeeder_04 | Star_Destroyer_right | Xwing_back,3,38.7,118,Revell,1/22,Douglas DC-7,H-168,vendor; tokens=revell
+Revell Rocket launcher Katyusha,1,identified_in_this_image,Blockade_Runner,1,76.0,350,Revell-Italaerei,1/35,Rocket launcher Katyusha,H-2115,"vendor; tokens=katyusha,launcher,revell,rocket; name-ratio=1.00"
+Revell Rocket launcher Katyusha,1,identified_in_this_image,Blockade_Runner,2,42.7,347,Revell,1/69,German V-2 Rocket,H-1830 / H-560,"vendor; tokens=revell,rocket"
+Revell Rocket launcher Katyusha,1,identified_in_this_image,Blockade_Runner,3,40.2,341,Revell,1/25,53 Chevy Panel,H-1376,vendor; tokens=revell
+Revell Wisconsin,1,identified_in_this_image,TileCreation,1,54.3,345,Revell,1/535,Battleship U.S.S. Wisconsin,H352,"vendor; tokens=revell,wisconsin"
+Revell Wisconsin,1,identified_in_this_image,TileCreation,2,44.6,406,Revell,1/24,NASA/McDonnell Gemini,H-1835,vendor; tokens=revell
+Revell Wisconsin,1,identified_in_this_image,TileCreation,3,42.3,121,Revell,1/72,Kugisho P1Y1/2 Ginga,H-103,vendor; tokens=revell
+Tamia Ferrari 312B,1,identified_in_this_image,ILM_Shop_Image,1,83.5,351,Tamiya,1/12,Ferrari 312B,BS1207,"vendor; tokens=312b,ferrari,tamiya; name-ratio=1.00"
+Tamia Ferrari 312B,1,identified_in_this_image,ILM_Shop_Image,2,66.8,410,Tamiya,1/12,Ferrari 312T,BS1219,"vendor; tokens=ferrari,tamiya; name-ratio=0.92"
+Tamia Ferrari 312B,1,identified_in_this_image,ILM_Shop_Image,3,43.7,355,Tamiya,1/12,Matra MS11,BS1205,vendor; tokens=tamiya
+Tamia Texaco Marlboro M23,3,identified_in_this_image,ILM_Shop_Image,1,65.2,356,Tamiya,1/12,Texco Marlboro McLaren M23,BS1216,"vendor; tokens=m23,marlboro,tamiya; name-ratio=0.80"
+Tamia Texaco Marlboro M23,3,identified_in_this_image,ILM_Shop_Image,2,41.7,410,Tamiya,1/12,Ferrari 312T,BS1219,vendor; tokens=tamiya
+Tamia Texaco Marlboro M23,3,identified_in_this_image,ILM_Shop_Image,3,40.9,357,Tamiya,1/12,Tyrrell Ford F-1,BS1209,vendor; tokens=tamiya
+Tamiya 1:12 Ferrari 312B,1,identified_elsewhere,Wingman,1,95.2,351,Tamiya,1/12,Ferrari 312B,BS1207,"vendor; scale; tokens=312b,ferrari,tamiya; name-ratio=1.00"
+Tamiya 1:12 Ferrari 312B,1,identified_elsewhere,Wingman,2,82.0,410,Tamiya,1/12,Ferrari 312T,BS1219,"vendor; scale; tokens=ferrari,tamiya; name-ratio=0.92"
+Tamiya 1:12 Ferrari 312B,1,identified_elsewhere,Wingman,3,60.7,355,Tamiya,1/12,Matra MS11,BS1205,vendor; scale; tokens=tamiya
+Tamiya 1:12 Marlboro,1,identified_elsewhere,Wingman,1,69.3,356,Tamiya,1/12,Texco Marlboro McLaren M23,BS1216,"vendor; scale; tokens=marlboro,tamiya"
+Tamiya 1:12 Marlboro,1,identified_elsewhere,Wingman,2,61.0,355,Tamiya,1/12,Matra MS11,BS1205,vendor; scale; tokens=tamiya
+Tamiya 1:12 Marlboro,1,identified_elsewhere,Wingman,3,60.2,351,Tamiya,1/12,Ferrari 312B,BS1207,vendor; scale; tokens=tamiya
+"Tamiya 7,5cm Anti Tank Gun PAK40",1,identified_in_this_image,ILM_Shop_Image,1,86.2,138,Tamiya,1/35,"7,5cm ANTI–TANK GUN (PAK40/L46)",35047,"vendor; tokens=5cm,7,anti,gun,tamiya,tank; name-ratio=0.93; serial-ish"
+"Tamiya 7,5cm Anti Tank Gun PAK40",1,identified_in_this_image,ILM_Shop_Image,2,53.4,159,Tamiya,1/35,German 88mm Gun Flak 36/37,MM117,"vendor; tokens=gun,tamiya; serial-ish"
+"Tamiya 7,5cm Anti Tank Gun PAK40",1,identified_in_this_image,ILM_Shop_Image,3,51.7,161,Tamiya,1/48,US Army Medium Tank M60A1E1,MS106-275,"vendor; tokens=tamiya,tank; serial-ish"
+Tamiya 8-Rad,1,identified_in_this_image,Tie_Assembly,1,49.0,131,Tamiya,1/18,McLaren M8A,1810,vendor; tokens=tamiya; serial-ish
+Tamiya 8-Rad,1,identified_in_this_image,Tie_Assembly,2,46.3,160,Tamiya,1/35,M8 Greyhound,MT116,vendor; tokens=tamiya
+Tamiya 8-Rad,1,identified_in_this_image,Tie_Assembly,3,45.8,139,Tamiya,1/35,Schwerer Panzerspähwagen (8-Rad) Sd.Kfz. 232,MM136,"vendor; tokens=8,rad,tamiya"
+Tamiya British 25Pdr. Field Gun,1,identified_in_this_image,Tile,1,74.3,147,Tamiya,1/35,British 25Pdr. Field Gun w/6 crew,35046,"vendor; tokens=25pdr,british,field,gun,tamiya; name-ratio=0.84"
+Tamiya British 25Pdr. Field Gun,1,identified_in_this_image,Tile,2,50.7,411,Tamiya,1/21,U.S. Heavy Field Piece M2 Gun,DT103,"vendor; tokens=field,gun,tamiya"
+Tamiya British 25Pdr. Field Gun,1,identified_in_this_image,Tile,3,48.9,152,Tamiya,1/35,British Army Chieftain Mk.5,35068,"vendor; tokens=british,tamiya"
+Tamiya Centurion,3,identified_elsewhere | identified_in_this_image,Staff | Tie_Attack | Tile,1,51.4,133,Tamiya,1/25,British Army Centurion Mk III,30614,"vendor; tokens=centurion,tamiya"
+Tamiya Centurion,3,identified_elsewhere | identified_in_this_image,Staff | Tie_Attack | Tile,2,46.4,360,Tamiya,1/35,Centurion Mk. III - British Army 1/35,MT130 / MT230,"vendor; tokens=centurion,tamiya"
+Tamiya Centurion,3,identified_elsewhere | identified_in_this_image,Staff | Tie_Attack | Tile,3,43.6,131,Tamiya,1/18,McLaren M8A,1810,vendor; tokens=tamiya
+Tamiya Ferrari 312B,1,identified_elsewhere,Staff,1,83.5,351,Tamiya,1/12,Ferrari 312B,BS1207,"vendor; tokens=312b,ferrari,tamiya; name-ratio=1.00"
+Tamiya Ferrari 312B,1,identified_elsewhere,Staff,2,66.8,410,Tamiya,1/12,Ferrari 312T,BS1219,"vendor; tokens=ferrari,tamiya; name-ratio=0.92"
+Tamiya Ferrari 312B,1,identified_elsewhere,Staff,3,43.7,355,Tamiya,1/12,Matra MS11,BS1205,vendor; tokens=tamiya
+Tamiya German 88mm Gun Flak 36/37,3,identified_elsewhere | identified_in_this_image,Star_Destroyer_right | Star_Destroyer_workbench | X_03,1,88.0,159,Tamiya,1/35,German 88mm Gun Flak 36/37,MM117,"vendor; tokens=36/37,88mm,flak,german,gun,tamiya; name-ratio=1.00"
+Tamiya German 88mm Gun Flak 36/37,3,identified_elsewhere | identified_in_this_image,Star_Destroyer_right | Star_Destroyer_workbench | X_03,2,47.4,146,Tamiya,1/35,German Hanomag Sd.Kfz. 251/1,35020,"vendor; tokens=german,tamiya"
+Tamiya German 88mm Gun Flak 36/37,3,identified_elsewhere | identified_in_this_image,Star_Destroyer_right | Star_Destroyer_workbench | X_03,3,45.5,138,Tamiya,1/35,"7,5cm ANTI–TANK GUN (PAK40/L46)",35047,"vendor; tokens=gun,tamiya"
+Tamiya Hanomag,6,identified_elsewhere | identified_in_this_image,Blockade_Runner | Fleet | Sandcrawler_right | Tile | Xs_and_Ys.,1,49.9,146,Tamiya,1/35,German Hanomag Sd.Kfz. 251/1,35020,"vendor; tokens=hanomag,tamiya"
+Tamiya Hanomag,6,identified_elsewhere | identified_in_this_image,Blockade_Runner | Fleet | Sandcrawler_right | Tile | Xs_and_Ys.,2,47.1,131,Tamiya,1/18,McLaren M8A,1810,vendor; tokens=tamiya
+Tamiya Hanomag,6,identified_elsewhere | identified_in_this_image,Blockade_Runner | Fleet | Sandcrawler_right | Tile | Xs_and_Ys.,3,42.4,140,Tamiya,1/35,Carro Armato M13/40,35296,vendor; tokens=tamiya
+Tamiya Hanomag?,1,identified_elsewhere,Wingman,1,49.9,146,Tamiya,1/35,German Hanomag Sd.Kfz. 251/1,35020,"vendor; tokens=hanomag,tamiya"
+Tamiya Hanomag?,1,identified_elsewhere,Wingman,2,47.1,131,Tamiya,1/18,McLaren M8A,1810,vendor; tokens=tamiya
+Tamiya Hanomag?,1,identified_elsewhere,Wingman,3,42.4,140,Tamiya,1/35,Carro Armato M13/40,35296,vendor; tokens=tamiya
+Tamiya JPS Lotus 72D,1,identified_in_this_image,ILM_Shop_Image,1,57.0,353,Tamiya,1/12,J.P.S. Lotus 72D (Ford) 1972,BS1213,"vendor; tokens=72d,lotus,tamiya; name-ratio=0.68"
+Tamiya JPS Lotus 72D,1,identified_in_this_image,ILM_Shop_Image,2,48.2,354,Tamiya,1/12,Lotus 49B Ford F-1,BS1204,"vendor; tokens=lotus,tamiya"
+Tamiya JPS Lotus 72D,1,identified_in_this_image,ILM_Shop_Image,3,41.8,369,Tamiya,1/48,M.B.T.71,MS108,vendor; tokens=tamiya
+Tamiya King Tiger,2,identified_in_this_image,Blockade_Runner,1,46.1,141,Tamiya,1/35,Panzerkampfwagen VI Tiger I Ausf.E,MM156A,"vendor; tokens=tamiya,tiger"
+Tamiya King Tiger,2,identified_in_this_image,Blockade_Runner,2,44.4,158,Tamiya,1/35,"German Heavy Tank King Tiger Panzer KampfWagen VI Tiger II ""Konigs Tiger""",MM157,"vendor; tokens=king,tamiya,tiger"
+Tamiya King Tiger,2,identified_in_this_image,Blockade_Runner,3,41.3,415,Tamiya,1/35,Barricade Set,MM127,vendor; tokens=tamiya
+Tamiya Lotus 49B Ford F-1,1,identified_in_this_image,ILM_Shop_Image,1,96.0,354,Tamiya,1/12,Lotus 49B Ford F-1,BS1204,"vendor; tokens=1,49b,f,ford,lotus,tamiya; name-ratio=1.00; serial-ish"
+Tamiya Lotus 49B Ford F-1,1,identified_in_this_image,ILM_Shop_Image,2,71.1,357,Tamiya,1/12,Tyrrell Ford F-1,BS1209,"vendor; tokens=1,f,ford,tamiya; serial-ish"
+Tamiya Lotus 49B Ford F-1,1,identified_in_this_image,ILM_Shop_Image,3,61.0,353,Tamiya,1/12,J.P.S. Lotus 72D (Ford) 1972,BS1213,"vendor; tokens=ford,lotus,tamiya; serial-ish"
+Tamiya M36 Jackson,1,identified_in_this_image,ILM_Shop_Image,1,56.6,366,Tamiya,1/35,U.S.Tank Destroyer M36 Jackson,MT135,"vendor; tokens=jackson,m36,tamiya"
+Tamiya M36 Jackson,1,identified_in_this_image,ILM_Shop_Image,2,43.3,160,Tamiya,1/35,M8 Greyhound,MT116,vendor; tokens=tamiya
+Tamiya M36 Jackson,1,identified_in_this_image,ILM_Shop_Image,3,41.9,355,Tamiya,1/12,Matra MS11,BS1205,vendor; tokens=tamiya
+Tamiya M41,1,identified_in_this_image,ILM_Shop_Image,1,43.8,355,Tamiya,1/12,Matra MS11,BS1205,vendor; tokens=tamiya
+Tamiya M41,1,identified_in_this_image,ILM_Shop_Image,2,42.7,369,Tamiya,1/48,M.B.T.71,MS108,vendor; tokens=tamiya
+Tamiya M41,1,identified_in_this_image,ILM_Shop_Image,3,39.9,378,Tamiya-MRC,1/35,M41 Walker Bulldog with 4 Army figures,MT307-598,"vendor; tokens=m41,tamiya"
+Tamiya M4A3E8 Sherman,1,identified_in_this_image,ILM_Shop_Image,1,52.3,358,Tamiya,1/16,M4 Sherman 105mm Howitzer,RT1601,"vendor; tokens=sherman,tamiya"
+Tamiya M4A3E8 Sherman,1,identified_in_this_image,ILM_Shop_Image,2,51.4,153,Tamiya,1/35,M4 Sherman US Army Medium Tank M4A3E8,MT118,"vendor; tokens=m4a3e8,sherman,tamiya"
+Tamiya M4A3E8 Sherman,1,identified_in_this_image,ILM_Shop_Image,3,44.6,131,Tamiya,1/18,McLaren M8A,1810,vendor; tokens=tamiya
+Tamiya M551 Sheridan,1,identified_in_this_image,ILM_Shop_Image,1,63.8,144,Tamiya,1/35,U.S.Tank M551 Sheridan,MT231,"vendor; tokens=m551,sheridan,tamiya; name-ratio=0.74"
+Tamiya M551 Sheridan,1,identified_in_this_image,ILM_Shop_Image,2,43.4,358,Tamiya,1/16,M4 Sherman 105mm Howitzer,RT1601,vendor; tokens=tamiya
+Tamiya M551 Sheridan,1,identified_in_this_image,ILM_Shop_Image,3,42.7,160,Tamiya,1/35,M8 Greyhound,MT116,vendor; tokens=tamiya
+Tamiya M60A1E1,1,identified_in_this_image,21,1,48.4,161,Tamiya,1/48,US Army Medium Tank M60A1E1,MS106-275,"vendor; tokens=m60a1e1,tamiya"
+Tamiya M60A1E1,1,identified_in_this_image,21,2,47.7,355,Tamiya,1/12,Matra MS11,BS1205,vendor; tokens=tamiya
+Tamiya M60A1E1,1,identified_in_this_image,21,3,44.7,363,Tamiya,1/35,M60A1 / M60A2,MT128 / MT228 / MT138 / MT238,vendor; tokens=tamiya
+Tamiya Matilda,1,identified_in_this_image,Tile,1,47.7,355,Tamiya,1/12,Matra MS11,BS1205,vendor; tokens=tamiya
+Tamiya Matilda,1,identified_in_this_image,Tile,2,46.5,149,Tamiya,1/35,British Infantry Tank Mk.II Matilda,MM124,"vendor; tokens=matilda,tamiya"
+Tamiya Matilda,1,identified_in_this_image,Tile,3,44.4,131,Tamiya,1/18,McLaren M8A,1810,vendor; tokens=tamiya
+Tamiya McLaren M8A,1,identified_in_this_image,ILM_Shop_Image,1,83.5,131,Tamiya,1/18,McLaren M8A,1810,"vendor; tokens=m8a,mclaren,tamiya; name-ratio=1.00"
+Tamiya McLaren M8A,1,identified_in_this_image,ILM_Shop_Image,2,51.7,356,Tamiya,1/12,Texco Marlboro McLaren M23,BS1216,"vendor; tokens=mclaren,tamiya"
+Tamiya McLaren M8A,1,identified_in_this_image,ILM_Shop_Image,3,46.4,355,Tamiya,1/12,Matra MS11,BS1205,vendor; tokens=tamiya
+Tamiya Panzer III M/N,2,identified_elsewhere | identified_in_this_image,ILM_Shop_Image | Tile,1,61.6,143,Tamiya,1/35,Panzerkampfwagen III Ausf. M/N,MM111,"vendor; tokens=iii,m/n,tamiya; name-ratio=0.65"
+Tamiya Panzer III M/N,2,identified_elsewhere | identified_in_this_image,ILM_Shop_Image | Tile,2,46.9,420,Tamiya,1/35,Jagdpanzer IV L/70 Lang,MM188,vendor; tokens=tamiya
+Tamiya Panzer III M/N,2,identified_elsewhere | identified_in_this_image,ILM_Shop_Image | Tile,3,46.1,155,Tamiya,1/35,Sturmgeschutz III Ausf.G,MM114,"vendor; tokens=iii,tamiya"
+Tamiya Panzerkampfwagen V Panther,3,identified_in_this_image,ILM_Shop_Image,1,62.6,145,Tamiya,1/35,Panzerkampfwagen V Panther (Sd.kfz. 171) Ausf. A,35065,"vendor; tokens=panther,panzerkampfwagen,tamiya,v; name-ratio=0.74"
+Tamiya Panzerkampfwagen V Panther,3,identified_in_this_image,ILM_Shop_Image,2,56.0,143,Tamiya,1/35,Panzerkampfwagen III Ausf. M/N,MM111,"vendor; tokens=panzerkampfwagen,tamiya; name-ratio=0.73"
+Tamiya Panzerkampfwagen V Panther,3,identified_in_this_image,ILM_Shop_Image,3,55.4,142,Tamiya,1/35,Panzerkampfwagen II Ausf. F/G,35009,"vendor; tokens=panzerkampfwagen,tamiya; name-ratio=0.70"
+Tamiya Shinano,11,identified_elsewhere | identified_in_this_image,Blockade_Runner | Finest_Collection | Fleet | Staff | TileCreation | Xs_and_Ys.,1,48.4,373,Tamiya,1/700,Japanese Aircraft Carrier Shinano,WL.A024,"vendor; tokens=shinano,tamiya"
+Tamiya Shinano,11,identified_elsewhere | identified_in_this_image,Blockade_Runner | Finest_Collection | Fleet | Staff | TileCreation | Xs_and_Ys.,2,42.2,352,Tamiya,1/12,Honda F-1,BS1201 / BS1211,vendor; tokens=tamiya
+Tamiya Shinano,11,identified_elsewhere | identified_in_this_image,Blockade_Runner | Finest_Collection | Fleet | Staff | TileCreation | Xs_and_Ys.,3,42.0,364,Tamiya,1/35,Russian Tank T-55,MT239,vendor; tokens=tamiya
+Tamiya T-55,2,identified_elsewhere | identified_in_this_image,Blockade_Runner | ILM_KITS,1,58.1,364,Tamiya,1/35,Russian Tank T-55,MT239,"vendor; tokens=55,t,tamiya"
+Tamiya T-55,2,identified_elsewhere | identified_in_this_image,Blockade_Runner | ILM_KITS,2,48.0,369,Tamiya,1/48,M.B.T.71,MS108,"vendor; tokens=t,tamiya"
+Tamiya T-55,2,identified_elsewhere | identified_in_this_image,Blockade_Runner | ILM_KITS,3,41.9,355,Tamiya,1/12,Matra MS11,BS1205,vendor; tokens=tamiya
+Tamiya Taiho,6,identified_elsewhere | identified_in_this_image,Finest_Collection | Fleet | ILM_KITS | Staff | TileCreation | Xs_and_Ys.,1,46.7,374,Tamiya,1/700,Japanese Aircraft Carrier Taiho,WL.A050,"vendor; tokens=taiho,tamiya"
+Tamiya Taiho,6,identified_elsewhere | identified_in_this_image,Finest_Collection | Fleet | ILM_KITS | Staff | TileCreation | Xs_and_Ys.,2,42.8,355,Tamiya,1/12,Matra MS11,BS1205,vendor; tokens=tamiya
+Tamiya Taiho,6,identified_elsewhere | identified_in_this_image,Finest_Collection | Fleet | ILM_KITS | Staff | TileCreation | Xs_and_Ys.,3,42.0,160,Tamiya,1/35,M8 Greyhound,MT116,vendor; tokens=tamiya
+Tamiya Tiger I E,2,identified_elsewhere | identified_in_this_image,Blockade _Top | ILM_Shop_Top,1,59.0,141,Tamiya,1/35,Panzerkampfwagen VI Tiger I Ausf.E,MM156A,"vendor; tokens=e,i,tamiya,tiger"
+Tamiya Tiger I E,2,identified_elsewhere | identified_in_this_image,Blockade _Top | ILM_Shop_Top,2,43.1,351,Tamiya,1/12,Ferrari 312B,BS1207,vendor; tokens=tamiya
+Tamiya Tiger I E,2,identified_elsewhere | identified_in_this_image,Blockade _Top | ILM_Shop_Top,3,43.1,410,Tamiya,1/12,Ferrari 312T,BS1219,vendor; tokens=tamiya
+Tamiya Tyrell Ford F1,1,identified_in_this_image,ILM_Shop_Image,1,69.2,357,Tamiya,1/12,Tyrrell Ford F-1,BS1209,"vendor; tokens=ford,tamiya,tyrrell; name-ratio=0.97"
+Tamiya Tyrell Ford F1,1,identified_in_this_image,ILM_Shop_Image,2,50.4,354,Tamiya,1/12,Lotus 49B Ford F-1,BS1204,"vendor; tokens=ford,tamiya"
+Tamiya Tyrell Ford F1,1,identified_in_this_image,ILM_Shop_Image,3,45.3,409,Tamiya,1/12,Brabham BT44B Martini (Ford Engine),BS1218,"vendor; tokens=ford,tamiya"
+Tamiya Zündapp KS750 & BMW R75,1,identified_in_this_image,21,1,88.0,367,Tamiya,1/35,Zündapp KS750 & BMW R75,MM116,"vendor; tokens=bmw,ks750,ndapp,r75,tamiya,z; name-ratio=1.00"
+Tamiya Zündapp KS750 & BMW R75,1,identified_in_this_image,21,2,42.2,123,Tamiya,1/6,Daytona Honda CB750 Racing Type 1970,16003,vendor; tokens=tamiya
+Tamiya Zündapp KS750 & BMW R75,1,identified_in_this_image,21,3,39.8,420,Tamiya,1/35,Jagdpanzer IV L/70 Lang,MM188,vendor; tokens=tamiya
+Wankel,1,identified_elsewhere,Wingman,,,,,,,,NO_MATCH

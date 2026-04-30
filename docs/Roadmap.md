@@ -36,6 +36,9 @@ Reference:
 - See [ProductUIArchitecture.md](./ProductUIArchitecture.md) for the target shell, object model, rebuild order, and the explicit decision to stop investing major polish effort into the legacy fragmented UI.
 - See [WorkbenchSlice_ImageRegionClaim.md](./WorkbenchSlice_ImageRegionClaim.md) for the first concrete vertical slice to rebuild.
 - See [CoreResearchWorkflows.md](./CoreResearchWorkflows.md) for the workflow-level framing that should guide implementation choices.
+- See [Draft_SimplifiedEvidenceWorkflow.md](./Draft_SimplifiedEvidenceWorkflow.md) for the current proposed simplification: direct evidence links should be the normal workflow, while claims move to a secondary provenance/conflict layer.
+- See [EntityBrowserImplementationPlan.md](./EntityBrowserImplementationPlan.md) for the concrete browser-side plan for database visibility and safe light editing.
+- See [KitFirstMapPlacementWorkflow.md](./KitFirstMapPlacementWorkflow.md) for the current two-pass map workflow: rough kit-level placement first, exact part refinement later.
 
 ---
 
@@ -133,9 +136,97 @@ These items should happen before widening scope much further.
 
 ---
 
-## Current next-pass UX priorities
+## Current implementation boundary
 
-The current workbench color scheme and overall `library / canvas / inspector` layout are worth keeping. The immediate focus should be on making browsing and inspection faster, not on rethinking the visual direction again.
+Stabilization is complete enough that the project can move forward again, but the active build boundary is still narrower than the long-term system map.
+
+What is in the active product now:
+
+- donor-part backbone:
+  - `kits`
+  - `parts`
+  - `models`
+  - `maps`
+  - `placements`
+  - `placement_positions`
+- evidence and interpretation layer:
+  - `images`
+  - `image_regions`
+  - `claims`
+- active operator shells:
+  - `workbench.html`
+  - `map_workbench.html`
+
+What is still intentionally later:
+
+- canonical `locations`
+- `physical_objects`
+- `object_states`
+- `events`
+- dedicated `Workbench / Sources`
+- dedicated `Workbench / Timeline`
+- public/community-facing graph layers
+
+This matters because the next pass is not "start Phase 2 in general."
+
+It is "finish the current workstation core so evidence-first and entity-first work both function cleanly."
+
+---
+
+## Current build lane
+
+The current workbench color scheme and overall `library / canvas / inspector` layout are worth keeping.
+
+The immediate priority is not another visual rethink.
+
+The immediate priority is to close the missing operator and reverse-lookup gaps in a practical order.
+
+Important product simplification:
+
+- normal users should link evidence directly to entities and facts
+- regions and image links are the main working evidence objects
+- claims remain available for contested, explanatory, or review-heavy cases
+- do not make "create claim" a required step in ordinary map/image work
+
+### 1. Finish the placement -> evidence workflow
+
+- keep `Workbench / Maps` focused on placement inspection, position correction, and evidence lookup
+- use a two-pass map workflow:
+  - pass 1 gives a map location a kit tag with `kit_id` and no `part_id`
+  - pass 2 adds/refines the part tag from that kit when the exact part is actually known
+- make placement detail feel complete:
+  - linked images
+  - linked claims
+  - current position
+  - position history
+- add quick pivots from a selected placement into the supporting evidence rather than trapping that evidence in a different surface
+- keep map correction versioned and non-destructive through `placement_positions`
+
+This is still part of the current Phase 1 workstation core, not a later add-on.
+
+### 2. Add entity-first database visibility
+
+- provide a plain way to see the database as tables/records:
+  - `kits`
+  - `parts`
+  - `models`
+  - `maps`
+  - `placements`
+- make reverse lookup operational rather than theoretical:
+  - entity -> linked images
+  - entity -> linked regions
+  - entity -> claims
+  - entity -> related maps/models/placements
+- support search, filter, sort, and row -> detail inspection
+- do not force `workbench.html` or `map_workbench.html` to become generic CRUD/database-table surfaces
+
+This missing operator layer is now one of the most important product gaps.
+
+Implementation plan:
+
+- See [EntityBrowserImplementationPlan.md](./EntityBrowserImplementationPlan.md)
+
+### 3. Then accelerate browse speed and inspection ergonomics
 
 - treat `image groups` as stable enough for now and stop polishing them endlessly unless a real research blocker appears
 - keep image-group terminology simple in the UI:
@@ -151,25 +242,63 @@ The current workbench color scheme and overall `library / canvas / inspector` la
 - treat `add image`, `edit image record`, and `delete image` as the next real lifecycle baseline for evidence handling rather than as afterthought admin functions
 - improve canvas ergonomics with cursor-centered zoom, robust two-axis pan, and controls that stay inside the accessible work area
 - shorten list-facing image names while keeping fuller research descriptions available in secondary UI
+
+### 4. After that, widen the evidence-entry and expert workflow layer
+
 - surface kit suggestions directly from region labels where exact or strong matches exist
 - add a lightweight kit browser so users can enter the research space from kits as well as from images
 - add batch matching from region labels on map-style images to `kits` in the database
 - add OCR as the next extraction layer for images where relevant text is visible but not yet entered as region labels
-- add manual position correction for imported map/location geometry instead of destructively editing imported coordinates
-- implement a dedicated position-record layer for map correction:
-  - `placement` stays conceptual
-  - `map` should be treated as one concrete image-backed working surface
-  - `placement_positions` stores imported/manual/candidate geometry plus history
-  - map correction should become its own surface, not an image-workbench afterthought
 - user-facing terminology should likely shift away from `placement` toward `object` + `position`
   - reason: `placement` sounds already located
   - keep backend/schema naming stable for now to avoid churn
   - revisit schema renaming only after the concept fully settles
 
+---
+
+## Borrow rather than rebuild
+
+Where the missing layer is generic operator/data-studio capability, prefer adopting proven patterns or sidecar tools before building commodity UI from scratch.
+
+Recommended posture:
+
+- raw relational visibility should come first from a sidecar data-studio layer, not from a hand-built database browser
+- local database inspection should start with `Datasette` because the project is SQLite-first today and Datasette gives table browsing, search/facets, SQL queries, and linkable record pages quickly
+- cautious local editing can use `datasette-edit-rows` only with a fresh backup and only for operator/admin cleanup, not as the normal public contribution flow
+- spreadsheet-like relational admin tools such as `NocoDB` or `Baserow` should be evaluated later if Datasette is not enough for relation editing, batch review, or non-technical operators
+- desktop SQLite tools such as `DB Browser for SQLite` or `SQLiteStudio` remain acceptable emergency/manual inspection tools, but they are not the product UX
+- if a tighter integrated `Entity Workbench` is later needed, borrow the established `grid/list -> record detail -> linked records` pattern rather than inventing a new generic entity browser
+- if custom entity tables are built, use an established grid component such as `TanStack Table`, `Tabulator`, or `AG Grid Community` rather than hand-rolling sorting, filtering, selection, pagination, and column state
+- if image/map zoom-pan-annotation ergonomics become the bottleneck, evaluate proven deep-zoom / annotation patterns such as `OpenSeadragon`, `Annotorious`, or Leaflet-style viewport patterns before continuing to patch custom canvas interaction code
+
+Current adoption order:
+
+1. Use `Datasette` now as the immediate operator database browser for `kits`, `parts`, `models`, `maps`, `placements`, `images`, `image_regions`, and `claims`.
+2. Add saved queries / documented SQL snippets for the reverse lookups we use constantly:
+   - kit -> regions/images/placements
+   - placement -> map positions/evidence
+   - image -> regions/linked entities
+   - unlinked or ambiguous imported labels
+3. Use `datasette-edit-rows` only for controlled local cleanup with a backup, never as the invisible source of truth.
+4. Reassess after real use whether we need `NocoDB`, `Baserow`, or a small custom `Entity Workbench`.
+5. Do not force `workbench.html` or `map_workbench.html` to become generic CRUD surfaces; keep them focused on evidence and map work.
+
+Build custom code where the project is actually unique:
+
+- provenance-aware claim workflows
+- cross-surface pivots
+- evidence-first interpretation
+- cross-model connection logic
+
+Do not spend that effort recreating commodity table browsing.
+
 Reference:
 
+- See [datasette.md](./datasette.md)
 - See [ImageFamiliesAndPositionCorrection.md](./ImageFamiliesAndPositionCorrection.md)
 - See [PositionCorrectionImplementation.md](./PositionCorrectionImplementation.md)
+- See [WorkflowPivotTable.md](./WorkflowPivotTable.md)
+- See [ProductUIArchitecture.md](./ProductUIArchitecture.md)
 
 ---
 

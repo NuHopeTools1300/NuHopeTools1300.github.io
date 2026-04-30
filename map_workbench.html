@@ -4,28 +4,34 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>NuHopeTools · Map Correction</title>
+  <link rel="stylesheet" href="shared/ui_base.css">
   <style>
     :root {
-      --bg: #15110f;
-      --panel: #211b18;
-      --panel-2: #2a231f;
-      --surface: #342c26;
-      --surface-2: #3f352e;
-      --line: #5c4c40;
-      --ink: #f1e6d9;
-      --ink-2: #d7c3b2;
-      --ink-3: #a89382;
-      --accent: #d4a458;
-      --accent-2: #8ec5b3;
-      --warn: #d88157;
-      --ok: #8cbc7d;
-      --shadow: 0 20px 40px rgba(0, 0, 0, 0.28);
+      --bg: #f3ede5;
+      --panel: #fffaf4;
+      --panel-2: #f4ebdf;
+      --surface: #f0e5d8;
+      --surface-2: #e8dacb;
+      --line: #d4c2ae;
+      --ink: #2f241b;
+      --ink-2: #5b4838;
+      --ink-3: #85715f;
+      --accent: #b66c2d;
+      --accent-2: #2f7c8a;
+      --warn: #b74f2f;
+      --ok: #4d8655;
+      --shadow: 0 18px 32px rgba(47, 36, 27, 0.12);
+      --control-height: 36px;
+      --overlay-label-size: 13px;
+      --overlay-label-bg: rgba(255, 252, 248, 0.92);
+      --overlay-label-ink: #2f241b;
+      --overlay-label-line: rgba(92, 72, 56, 0.36);
       --mono: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
       font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
     }
     * { box-sizing: border-box; }
-    html, body { margin: 0; min-height: 100%; background: var(--bg); color: var(--ink); }
-    body { display: flex; flex-direction: column; }
+    html, body { margin: 0; height: 100%; min-height: 0; overflow: hidden; background: radial-gradient(circle at top left, #fbf6ef, var(--bg) 58%); color: var(--ink); }
+    body { display: flex; flex-direction: column; min-height: 0; }
     button, input, select, textarea {
       font: inherit;
       color: inherit;
@@ -33,10 +39,26 @@
       border: 1px solid var(--line);
       border-radius: 12px;
       padding: 9px 12px;
+      min-height: var(--control-height);
+    }
+    input[type="checkbox"],
+    input[type="radio"] {
+      width: 14px;
+      height: 14px;
+      min-height: 0;
+      padding: 0;
+      border: none;
+      background: transparent;
+    }
+    input[type="range"] {
+      min-height: 0;
+      padding: 0;
+      border: none;
+      background: transparent;
     }
     button { cursor: pointer; }
     button.primary {
-      background: rgba(212, 164, 88, 0.12);
+      background: rgba(182, 108, 45, 0.12);
       border-color: var(--accent);
     }
     button.ghost {
@@ -45,60 +67,25 @@
     button:disabled { opacity: 0.45; cursor: default; }
     .field, textarea, select { width: 100%; }
     textarea { min-height: 82px; resize: vertical; }
-    .topbar {
-      display: flex;
-      gap: 14px;
-      align-items: center;
-      justify-content: space-between;
-      padding: 14px 16px;
-      border-bottom: 1px solid var(--line);
-      background: rgba(15, 12, 10, 0.9);
-      position: sticky;
-      top: 0;
-      z-index: 50;
-      backdrop-filter: blur(10px);
-    }
+    .topbar { z-index: 50; }
     .brand { min-width: 0; }
     .eyebrow { color: var(--ink-3); font: 12px var(--mono); text-transform: uppercase; letter-spacing: 0.12em; }
     .title { font-size: 22px; }
-    .topbar-controls { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
-    .topbar-toggle {
-      display: inline-flex;
-      align-items: center;
-      gap: 8px;
-      border: 1px solid var(--line);
-      border-radius: 12px;
-      padding: 8px 10px;
-      background: var(--surface);
-    }
-    .topbar-toggle input { margin: 0; accent-color: var(--accent); }
+    .api-base { width: 220px; }
     .app {
       flex: 1;
       min-height: 0;
+      overflow: hidden;
       display: grid;
       grid-template-columns: 320px minmax(0, 1fr) 360px;
+      zoom: var(--workspace-zoom, 1);
+      transform-origin: top left;
     }
-    .panel {
-      min-width: 0;
-      display: flex;
-      flex-direction: column;
-      border-right: 1px solid var(--line);
-      background: linear-gradient(180deg, rgba(41, 33, 28, 0.92), rgba(29, 23, 20, 0.94));
-    }
-    .panel:last-child {
-      border-right: none;
-      border-left: 1px solid var(--line);
-    }
+    .panel { overflow: hidden; }
     .panel-head {
       padding: 16px 18px;
-      border-bottom: 1px solid var(--line);
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
       gap: 12px;
     }
-    .panel-title { font-size: 18px; }
-    .panel-sub { color: var(--ink-3); font: 12px var(--mono); }
     .panel-body {
       flex: 1;
       min-height: 0;
@@ -114,7 +101,7 @@
       position: sticky;
       top: 0;
       z-index: 2;
-      background: linear-gradient(180deg, rgba(33, 27, 24, 0.98), rgba(33, 27, 24, 0.9));
+      background: linear-gradient(180deg, rgba(255, 250, 244, 0.98), rgba(247, 239, 230, 0.94));
       padding-bottom: 6px;
     }
     .list {
@@ -125,23 +112,42 @@
       border: 1px solid var(--line);
       border-radius: 14px;
       padding: 10px 12px;
-      background: rgba(52, 44, 38, 0.48);
+      background: rgba(255, 255, 255, 0.7);
       display: grid;
       gap: 5px;
       cursor: pointer;
     }
     .card.active {
       border-color: var(--accent);
-      background: rgba(212, 164, 88, 0.1);
-      box-shadow: inset 0 0 0 1px rgba(212, 164, 88, 0.18);
+      background: rgba(182, 108, 45, 0.11);
+      box-shadow: inset 0 0 0 1px rgba(182, 108, 45, 0.22);
     }
     .card-title { font-size: 16px; }
     .card-meta { color: var(--ink-3); font-size: 12px; }
+    .card.with-thumb {
+      grid-template-columns: 50px minmax(0, 1fr);
+      align-items: center;
+      column-gap: 10px;
+    }
+    .card.with-thumb .card-actions {
+      grid-column: 1 / -1;
+    }
+    .kit-thumb {
+      width: 50px;
+      height: 50px;
+      object-fit: cover;
+      border-radius: 10px;
+      border: 1px solid rgba(255,255,255,0.1);
+      background: rgba(0,0,0,0.18);
+    }
+    .kit-thumb-main { min-width: 0; }
     .center {
       min-width: 0;
+      min-height: 0;
       display: flex;
       flex-direction: column;
-      background: linear-gradient(180deg, rgba(26, 21, 18, 0.98), rgba(20, 16, 14, 1));
+      overflow: hidden;
+      background: linear-gradient(180deg, rgba(250, 244, 236, 0.98), rgba(242, 233, 223, 1));
     }
     .canvas-meta {
       display: grid;
@@ -164,7 +170,8 @@
       padding: 8px;
       border: 1px solid var(--line);
       border-radius: 14px;
-      background: rgba(48, 40, 35, 0.62);
+      background: rgba(255, 255, 255, 0.72);
+      flex-wrap: wrap;
     }
     .toolbar-label {
       color: var(--ink-3);
@@ -172,6 +179,29 @@
       text-transform: uppercase;
       letter-spacing: 0.12em;
       padding: 0 2px;
+    }
+    .toolbar-inline {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      color: var(--ink-2);
+      font-size: 12px;
+    }
+    .toolbar-inline select {
+      width: auto;
+      min-width: 96px;
+    }
+    .toolbar-inline input[type="range"] {
+      width: 110px;
+      accent-color: var(--accent);
+      padding: 0;
+      min-height: auto;
+    }
+    .marker-size-value {
+      font: 11px var(--mono);
+      color: var(--ink-3);
+      min-width: 34px;
+      text-align: right;
     }
     .canvas-shell {
       flex: 1;
@@ -187,20 +217,18 @@
       border: 1px solid var(--line);
       border-radius: 20px;
       background:
-        linear-gradient(rgba(255,255,255,0.04) 1px, transparent 1px),
-        linear-gradient(90deg, rgba(255,255,255,0.04) 1px, transparent 1px),
-        #171311;
+        linear-gradient(rgba(47, 36, 27, 0.05) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(47, 36, 27, 0.05) 1px, transparent 1px),
+        #f4ece2;
       background-size: 24px 24px, 24px 24px, auto;
-      overflow: auto;
+      overflow: hidden;
       position: relative;
       box-shadow: var(--shadow);
     }
+    .canvas-frame.panning { cursor: grabbing; }
     .map-stage {
-      position: relative;
+      position: absolute;
       transform-origin: top left;
-      width: fit-content;
-      min-width: 100%;
-      min-height: 100%;
     }
     .map-image {
       display: block;
@@ -219,42 +247,85 @@
     .position-layer {
       position: absolute;
       inset: 0;
-      pointer-events: none;
+      pointer-events: auto;
     }
       .placement {
+        --marker-stroke: #ffffff;
+        --marker-fill: #ff9f1c;
+        --marker-halo: rgba(0, 0, 0, 0.95);
+        --marker-active: #ffcb4f;
         position: absolute;
         pointer-events: auto;
-        border: 2px solid var(--accent-2);
-        background: rgba(142, 197, 179, 0.12);
+        border: 2px solid rgba(255, 255, 255, 0.92);
+        background: rgba(10, 8, 6, 0.92);
         border-radius: 999px;
+        box-shadow:
+          0 0 0 3px var(--marker-halo),
+          0 7px 16px rgba(0, 0, 0, 0.42);
         cursor: pointer;
+        transition: border-color 120ms ease, background 120ms ease, box-shadow 120ms ease;
       }
       .placement.point {
         transform: translate(-50%, -50%);
       }
-      .placement.box { border-radius: 6px; }
-    .placement.active {
-      border-color: var(--accent);
-      background: rgba(212, 164, 88, 0.2);
-      box-shadow: 0 0 0 3px rgba(212, 164, 88, 0.24), 0 0 22px rgba(212, 164, 88, 0.28);
+      .placement.point.tone-0 {
+        --marker-fill: #ff9f1c;
+        --marker-active: #ffd166;
+      }
+      .placement.point.tone-1 {
+        --marker-fill: #00b7ff;
+        --marker-active: #7de3ff;
+      }
+      .placement.point.tone-2 {
+        --marker-fill: #ff4fa3;
+        --marker-active: #ff9bcc;
+      }
+      .placement.point.tone-3 {
+        --marker-fill: #9b72ff;
+        --marker-active: #d8c2ff;
+      }
+      .placement.point.tone-4 {
+        --marker-fill: #ff5c39;
+        --marker-active: #ffad99;
+      }
+      .placement.point.tone-5 {
+        --marker-fill: #f7f1df;
+        --marker-active: #ffffff;
+      }
+      .placement.box {
+        border-radius: 4px;
+        background:
+          linear-gradient(135deg, rgba(240, 231, 216, 0.08), rgba(240, 231, 216, 0.02)),
+          rgba(20, 17, 14, 0.18);
+      }
+      .placement.active {
+        border-color: var(--marker-active);
+        box-shadow:
+          0 0 0 3px rgba(0, 0, 0, 0.95),
+          0 0 0 7px rgba(255, 203, 79, 0.38),
+          0 8px 18px rgba(0, 0, 0, 0.34);
     }
       .placement.current::after {
         content: '';
         position: absolute;
-        inset: -4px;
-        border: 1px dashed rgba(255,255,255,0.28);
+        inset: -6px;
+        border: 1px solid rgba(0, 0, 0, 0.64);
         border-radius: inherit;
+        pointer-events: none;
       }
       .placement.point::before {
         content: '';
         position: absolute;
         left: 50%;
         top: 50%;
-        width: 4px;
-        height: 4px;
+        width: calc(var(--marker-size, 20px) * 0.55);
+        height: calc(var(--marker-size, 20px) * 0.55);
         transform: translate(-50%, -50%);
         border-radius: 999px;
-        background: rgba(255,255,255,0.92);
+        background: var(--marker-fill);
+        box-shadow:
+          0 0 0 2px rgba(10, 8, 6, 0.94),
+          0 0 0 3px rgba(255, 255, 255, 0.88);
       }
     .placement-label {
       position: absolute;
@@ -263,16 +334,17 @@
       transform: translateX(-50%) scale(calc(1 / var(--map-scale, 1)));
       transform-origin: bottom center;
       white-space: nowrap;
-      font-size: 14px;
+      font-size: var(--overlay-label-size);
       line-height: 1.2;
       font-weight: 600;
-      color: var(--ink);
-      background: rgba(0, 0, 0, 0.78);
-      border: 1px solid var(--line);
+      color: var(--overlay-label-ink);
+      background: var(--overlay-label-bg);
+      border: 1px solid var(--overlay-label-line);
       border-radius: 999px;
       padding: 5px 12px;
       display: none;
       z-index: 2;
+      box-shadow: 0 2px 8px rgba(47, 36, 27, 0.18);
     }
     .placement:hover .placement-label,
     .placement.active .placement-label { display: block; }
@@ -288,16 +360,17 @@
     .section {
       border: 1px solid var(--line);
       border-radius: 18px;
-      background: rgba(42, 35, 31, 0.7);
+      background: rgba(255, 255, 255, 0.72);
       overflow: hidden;
     }
     .section-head {
       padding: 12px 14px;
-      border-bottom: 1px solid rgba(255,255,255,0.06);
+      border-bottom: 1px solid rgba(92, 72, 56, 0.14);
       display: flex;
       justify-content: space-between;
       align-items: center;
       gap: 8px;
+      background: rgba(255, 255, 255, 0.5);
     }
     .section-body {
       padding: 12px 14px;
@@ -332,30 +405,74 @@
       padding-right: 4px;
     }
     .small-card {
-      border: 1px solid rgba(255,255,255,0.06);
+      border: 1px solid rgba(92, 72, 56, 0.14);
       border-radius: 14px;
       padding: 10px 12px;
       display: grid;
       gap: 4px;
-      background: rgba(24, 20, 17, 0.22);
+      background: rgba(255, 255, 255, 0.78);
     }
     .small-card.active {
       border-color: var(--accent);
       background: rgba(212, 164, 88, 0.08);
     }
+    .small-card.with-thumb {
+      grid-template-columns: 44px minmax(0, 1fr);
+      align-items: center;
+      column-gap: 9px;
+    }
+    .small-card .kit-thumb {
+      width: 44px;
+      height: 44px;
+      border-radius: 9px;
+    }
     .small-title { font-size: 14px; }
     .small-meta { font-size: 12px; color: var(--ink-3); }
-    .hint { color: var(--ink-3); font-size: 12px; line-height: 1.5; }
-    .status {
-      border: 1px dashed var(--line);
-      border-radius: 14px;
-      padding: 10px 12px;
-      font-size: 13px;
-      color: var(--ink-2);
+    .small-actions {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      align-items: center;
+      margin-top: 6px;
     }
-    .status.ok { border-color: rgba(140,188,125,0.45); color: #cfe4c7; }
-    .status.error { border-color: rgba(216,129,87,0.55); color: #f2c3aa; }
-    .status.pending { border-color: rgba(212,164,88,0.55); color: #f0d29a; }
+    .small-actions a {
+      text-decoration: none;
+    }
+    .small-actions button {
+      padding: 6px 9px;
+      font-size: 12px;
+    }
+    .hint { color: var(--ink-3); font-size: 12px; line-height: 1.5; }
+    #inspector-stack {
+      padding: 12px;
+      gap: 10px;
+    }
+    #inspector-stack .section {
+      border-radius: 12px;
+      background: rgba(255, 255, 255, 0.76);
+      overflow: visible;
+    }
+    #inspector-stack .section-head {
+      padding: 10px 12px;
+      min-height: 0;
+    }
+    #inspector-stack .section-body {
+      padding: 10px 12px 12px;
+      gap: 8px;
+      overflow: visible;
+    }
+    #inspector-stack .kv-row {
+      grid-template-columns: 92px minmax(0, 1fr);
+      align-items: start;
+    }
+    #inspector-stack .kv-row span:last-child {
+      min-width: 0;
+      overflow-wrap: anywhere;
+    }
+    #inspector-stack .small-card {
+      overflow: visible;
+    }
+
     @media (max-width: 1180px) {
       .app { grid-template-columns: 280px minmax(0, 1fr); }
       .panel:last-child { grid-column: 1 / -1; border-left: none; border-top: 1px solid var(--line); }
@@ -371,17 +488,27 @@
   <header class="topbar">
     <div class="brand">
       <div class="eyebrow">NuHopeTools / Next Step</div>
-      <div class="title">Map Workbench - Position Correction</div>
+      <div class="title">Map Workbench - Kit Locations</div>
     </div>
+    <nav class="tool-links" aria-label="Tool navigation">
+      <a class="tool-link" href="index.html">Home</a>
+      <a class="tool-link" href="entity_browser.html">Entity Browser</a>
+      <a class="tool-link" href="workbench.html">Image Workbench</a>
+      <a class="tool-link active" href="map_workbench.html" aria-current="page">Map Workbench</a>
+    </nav>
     <div class="topbar-controls">
-      <input class="field" id="api-base" style="width:220px" value="http://localhost:5000" aria-label="API base">
+      <input class="field api-base" id="api-base" value="http://localhost:5000" aria-label="API base">
       <button id="api-save">Save API</button>
       <button id="admin-key">Admin key</button>
       <label class="topbar-toggle" for="admin-local">
         <input type="checkbox" id="admin-local">
         <span>Local admin</span>
       </label>
-      <a href="workbench.html" style="color:var(--ink-2);text-decoration:none">Image workbench</a>
+      <label class="zoom-control" for="workspace-zoom">
+        <span>UI</span>
+        <input type="range" id="workspace-zoom" min="80" max="140" step="5" value="100">
+        <strong id="workspace-zoom-value">100%</strong>
+      </label>
     </div>
   </header>
 
@@ -390,17 +517,25 @@
       <div class="panel-head">
         <div>
           <div class="panel-title">Library</div>
-          <div class="panel-sub" id="library-meta">Maps and placements</div>
+          <div class="panel-sub" id="library-meta">Maps and kit candidates</div>
         </div>
       </div>
       <div class="panel-body">
         <div class="filters">
           <select id="model-filter"></select>
           <select id="map-filter"></select>
-          <input class="field" id="placement-search" placeholder="Search placements, kit, location">
+          <select id="placement-class-filter" aria-label="Placement class filter">
+            <option value="kit">Kit candidates (create)</option>
+            <option value="refine">Refinement queue (refine/merge)</option>
+            <option value="part">Part records</option>
+            <option value="cast">Cast assemblies</option>
+            <option value="unplaced">Unplaced records</option>
+            <option value="all">All records</option>
+          </select>
+          <input class="field" id="placement-search" placeholder="Search kit candidates">
         </div>
         <div class="section" style="flex:1;min-height:0;display:flex;flex-direction:column;">
-          <div class="section-head"><span>Placements</span></div>
+          <div class="section-head"><span id="placement-list-title">Placements</span></div>
           <div class="section-body" style="flex:1;min-height:0;overflow:auto">
             <div class="small-list" id="placement-list"></div>
           </div>
@@ -411,21 +546,52 @@
     <section class="center">
       <div class="canvas-meta">
         <div class="canvas-title" id="canvas-title">Select a map</div>
-        <div class="canvas-sub" id="canvas-sub">Placement geometry correction lives here.</div>
+        <div class="canvas-sub" id="canvas-sub">Add rough kit locations first. Exact parts come later.</div>
         <div class="toolbar">
           <div class="toolbar-group">
             <span class="toolbar-label">View</span>
             <button id="zoom-out">-</button>
             <button id="zoom-in">+</button>
             <button id="zoom-fit">Fit</button>
+            <button id="zoom-reset">1:1</button>
             <span id="zoom-label" class="hint">Scale 100%</span>
           </div>
           <div class="toolbar-group">
             <span class="toolbar-label">Annotate</span>
             <button class="primary" data-tool="select">Select</button>
-            <button data-tool="point">Add point</button>
-            <button data-tool="box">Add box</button>
+            <button data-tool="pan">Pan</button>
+            <button data-tool="point">Set point</button>
+            <button data-tool="box">Set box</button>
             <button id="toggle-labels">Labels off</button>
+          </div>
+          <div class="toolbar-group">
+            <span class="toolbar-label">Markers</span>
+            <label class="toolbar-inline" for="marker-color-mode">Color
+              <select id="marker-color-mode">
+                <option value="kit">Kit</option>
+                <option value="vendor">Vendor</option>
+                <option value="type">Type</option>
+                <option value="record">Record</option>
+              </select>
+            </label>
+            <label class="toolbar-inline" for="marker-size">Size
+              <input id="marker-size" type="range" min="12" max="34" step="2" value="20">
+              <span id="marker-size-value" class="marker-size-value">20px</span>
+            </label>
+            <label class="toolbar-inline" for="label-theme">Labels
+              <select id="label-theme">
+                <option value="light">Light</option>
+                <option value="dark">Dark</option>
+                <option value="accent">Accent</option>
+              </select>
+            </label>
+            <label class="toolbar-inline" for="label-size">Text
+              <input id="label-size" type="range" min="10" max="18" step="1" value="13">
+              <span id="label-size-value" class="marker-size-value">13px</span>
+            </label>
+            <button id="toggle-visibility-kit" class="primary">Kits</button>
+            <button id="toggle-visibility-part" class="primary">Parts</button>
+            <button id="toggle-visibility-cast" class="primary">Cast</button>
           </div>
         </div>
       </div>
@@ -453,12 +619,18 @@
   </main>
 
   <script src="shared/api_client.js"></script>
+  <script src="shared/ui_shell.js"></script>
   <script>
     const apiClient = NHTApi.createStoredClient({
       apiBaseKey: 'mapWorkbenchApiBase',
       legacyAdminKeyKeys: ['mapWorkbenchAdminKey'],
       legacyAdminModeKeys: ['mapWorkbenchAdminLocal']
     });
+
+    const GLOBAL_UI_BASE_SCALE = 0.8;
+    const GLOBAL_LABEL_VISIBLE_KEY = 'nhtGlobalLabelsVisible';
+    const GLOBAL_LABEL_SIZE_KEY = 'nhtGlobalLabelSize';
+    const GLOBAL_LABEL_THEME_KEY = 'nhtGlobalLabelTheme';
 
     const state = {
       apiBase: apiClient.getApiBase(),
@@ -467,29 +639,107 @@
       models: [],
       maps: [],
       placements: [],
+      kitResults: [],
+      kitSearchToken: 0,
       selectedModelId: null,
       selectedMapId: null,
       selectedPlacementId: null,
       selectedPositionId: null,
       mapImageScale: 1,
+      mapPanX: 0,
+      mapPanY: 0,
+      panState: null,
+      workspaceZoom: NHTUI.readWorkspaceZoom('workbenchWorkspaceZoom', 100),
       mode: 'select',
-      showLabels: localStorage.getItem('mapWorkbenchShowLabels') === '1',
+      showLabels: localStorage.getItem(GLOBAL_LABEL_VISIBLE_KEY)
+        ? localStorage.getItem(GLOBAL_LABEL_VISIBLE_KEY) === '1'
+        : localStorage.getItem('mapWorkbenchShowLabels') === '1',
+      labelSize: Math.max(10, Math.min(18, Number(localStorage.getItem(GLOBAL_LABEL_SIZE_KEY) || 13))),
+      labelTheme: localStorage.getItem(GLOBAL_LABEL_THEME_KEY) || 'light',
+      markerColorMode: localStorage.getItem('mapWorkbenchMarkerColorMode') || 'kit',
+      markerSize: Number(localStorage.getItem('mapWorkbenchMarkerSize') || 20),
+      markerVisibility: {
+        kit: localStorage.getItem('mapWorkbenchShowKitMarkers') !== '0',
+        part: localStorage.getItem('mapWorkbenchShowPartMarkers') !== '0',
+        cast: localStorage.getItem('mapWorkbenchShowCastMarkers') !== '0'
+      },
       search: '',
+      placementClassFilter: 'kit',
       newPlacementSearch: '',
       newPlacementResults: [],
       newPlacementSearchToken: 0,
       newPlacementTarget: null,
+      newPlacementTargetType: 'kit',
       newPlacementLocation: '',
       mapImageSearch: '',
       mapImageResults: [],
       mapImageSearchToken: 0,
+      placementDraftPlacementId: null,
+      placementImageSearch: '',
+      placementImageResults: [],
+      placementImageSearchToken: 0,
+      placementImageAnnotation: '',
+      claimImageId: '',
+      claimPredicate: 'shows',
+      claimConfidence: 'probable',
+      claimStatus: 'active',
+      claimRationale: '',
       mapRecordDraft: null,
+      pendingKitLocation: null,
+      refinePartSearch: '',
+      refinePartResults: [],
+      refinePartSearchToken: 0,
+      refinePartTarget: null,
+      refineDraftPlacementId: null,
+      importKitsPath: localStorage.getItem('mapWorkbenchImportKitsPath') || 'PartList_private.xlsx',
+      importDonorsPath: localStorage.getItem('mapWorkbenchImportDonorsPath') || 'ANH donors.xlsx',
+      importReviewResult: null,
       draftBox: null,
       imageSize: { width: 0, height: 0 },
       actionStatus: null
     };
 
     const el = (id) => document.getElementById(id);
+
+    function applyWorkspaceZoom() {
+      state.workspaceZoom = NHTUI.applyWorkspaceZoom({
+        zoom: state.workspaceZoom,
+        storageKey: 'workbenchWorkspaceZoom',
+        appRoot: document.querySelector('.app'),
+        slider: el('workspace-zoom'),
+        readout: el('workspace-zoom-value'),
+        baseScale: GLOBAL_UI_BASE_SCALE,
+        minZoom: 80,
+        maxZoom: 140
+      });
+    }
+
+    function applyGlobalLabelTheme() {
+      const theme = state.labelTheme || 'light';
+      const themes = {
+        light: {
+          bg: 'rgba(255, 252, 248, 0.92)',
+          ink: '#2f241b',
+          line: 'rgba(92, 72, 56, 0.36)'
+        },
+        dark: {
+          bg: 'rgba(33, 27, 24, 0.9)',
+          ink: '#f8eee3',
+          line: 'rgba(255, 239, 220, 0.24)'
+        },
+        accent: {
+          bg: 'rgba(182, 108, 45, 0.9)',
+          ink: '#fff8ef',
+          line: 'rgba(120, 66, 24, 0.42)'
+        }
+      };
+      const current = themes[theme] || themes.light;
+      const root = document.documentElement;
+      root.style.setProperty('--overlay-label-size', `${state.labelSize}px`);
+      root.style.setProperty('--overlay-label-bg', current.bg);
+      root.style.setProperty('--overlay-label-ink', current.ink);
+      root.style.setProperty('--overlay-label-line', current.line);
+    }
 
     function escapeHtml(value) {
       return String(value ?? '')
@@ -498,6 +748,27 @@
         .replace(/>/g, '&gt;')
         .replace(/"/g, '&quot;')
         .replace(/'/g, '&#39;');
+    }
+
+    function assetUrl(value) {
+      if (!value) return '';
+      return apiClient.resolveUrl(value);
+    }
+
+    function kitThumbHtml(record) {
+      const url = assetUrl(record?.thumbnail_url);
+      if (!url) return '';
+      const label = [record.brand, record.kit_name || record.name].filter(Boolean).join(' ') || record.title || 'Kit thumbnail';
+      return `<img class="kit-thumb" src="${escapeHtml(url)}" alt="${escapeHtml(label)}" loading="lazy" onerror="this.remove()">`;
+    }
+
+    function kitThumbMain(title, meta) {
+      return `
+        <div class="kit-thumb-main">
+          <div class="card-title">${escapeHtml(title)}</div>
+          <div class="card-meta">${escapeHtml(meta)}</div>
+        </div>
+      `;
     }
 
     function apiOrigin() {
@@ -514,6 +785,16 @@
 
     function selectedMap() {
       return state.maps.find((item) => item.id === state.selectedMapId) || null;
+    }
+
+    function preferredStartupModelId(models) {
+      const stored = Number(localStorage.getItem('mapWorkbenchSelectedModelId') || 0);
+      if (stored && models.some((model) => Number(model.id) === stored)) return stored;
+      const falcon = models.find((model) => {
+        const haystack = [model.slug, model.name].filter(Boolean).join(' ').toLowerCase();
+        return haystack.includes('falcon') && (haystack.includes('5ft') || haystack.includes('5 foot') || haystack.includes('millennium'));
+      });
+      return falcon?.id || models[0]?.id || null;
     }
 
     function mapImageUrl(map) {
@@ -534,6 +815,81 @@
       const placement = selectedPlacement();
       if (!placement) return null;
       return (placement.positions || []).find((item) => item.id === state.selectedPositionId) || placement.current_position || null;
+    }
+
+    function armKitLocation(target) {
+      state.pendingKitLocation = {
+        kitId: target.kitId,
+        title: target.title || `Kit ${target.kitId}`,
+        locationLabel: target.locationLabel || ''
+      };
+      state.selectedPlacementId = null;
+      state.selectedPositionId = null;
+      state.mode = 'point';
+      state.actionStatus = { type: 'ok', message: `Ready: click the map to add a new location for ${state.pendingKitLocation.title}.` };
+      renderAll();
+      updateToolButtons();
+    }
+
+    function clearPendingKitLocation() {
+      state.pendingKitLocation = null;
+      state.mode = 'select';
+      renderAll();
+      updateToolButtons();
+    }
+
+    function workbenchUrl(imageId, regionId = null) {
+      const params = new URLSearchParams();
+      if (imageId) params.set('image_id', String(imageId));
+      if (regionId) params.set('region_id', String(regionId));
+      if (imageId) params.set('region_filter', '');
+      return `workbench.html?${params.toString()}`;
+    }
+
+    function syncPlacementDrafts(placement) {
+      if (!placement) {
+        state.placementDraftPlacementId = null;
+        state.refineDraftPlacementId = null;
+        state.refinePartSearch = '';
+        state.refinePartResults = [];
+        state.refinePartSearchToken = 0;
+        state.refinePartTarget = null;
+        state.placementImageSearch = '';
+        state.placementImageResults = [];
+        state.placementImageAnnotation = '';
+        state.claimImageId = '';
+        state.claimPredicate = 'shows';
+        state.claimConfidence = 'probable';
+        state.claimStatus = 'active';
+        state.claimRationale = '';
+        return;
+      }
+      const linkedImageIds = new Set((placement.images || []).map((image) => String(image.id)));
+      if (state.placementDraftPlacementId !== placement.id) {
+        state.placementDraftPlacementId = placement.id;
+        state.placementImageSearch = '';
+        state.placementImageResults = [];
+        state.placementImageAnnotation = '';
+        state.placementImageSearchToken = 0;
+        state.claimImageId = linkedImageIds.values().next().value || '';
+        state.claimPredicate = 'shows';
+        state.claimConfidence = placement.confidence || 'probable';
+        state.claimStatus = 'active';
+        state.claimRationale = '';
+      }
+      if (state.refineDraftPlacementId !== placement.id) {
+        state.refineDraftPlacementId = placement.id;
+        state.refinePartSearch = '';
+        state.refinePartResults = [];
+        state.refinePartSearchToken = 0;
+        state.refinePartTarget = null;
+      }
+      if (state.claimImageId && !linkedImageIds.has(String(state.claimImageId))) {
+        state.claimImageId = linkedImageIds.values().next().value || '';
+      }
+      if (!state.claimImageId && linkedImageIds.size) {
+        state.claimImageId = linkedImageIds.values().next().value || '';
+      }
     }
 
     function currentMapBackingImageTitle(map) {
@@ -582,16 +938,267 @@
       return bits.join(' ') || `Placement ${placement.id}`;
     }
 
+    function placementKitTitle(placement) {
+      const title = [placement.brand, placement.kit_name].filter(Boolean).join(' - ');
+      return title || placement.location_label || `Kit tag ${placement.id}`;
+    }
+
+    function normalizeLookupText(value) {
+      return String(value || '').trim().replace(/\s+/g, ' ').toLowerCase();
+    }
+
+    function placementResolvedKitId(placement) {
+      return placement?.resolved_kit_id || placement?.kit_id || null;
+    }
+
+    function placementKitKey(placement) {
+      const kitId = placementResolvedKitId(placement);
+      if (kitId) return `kit:${kitId}`;
+      const title = placementKitTitle(placement).trim().toLowerCase();
+      return title ? `kit-title:${title}` : `placement:${placement.id}`;
+    }
+
+    function placementDisplayTitle(placement) {
+      return state.placementClassFilter === 'kit' ? placementKitTitle(placement) : placementTitle(placement);
+    }
+
     function placementObjectKind(placement) {
       if (placement.part_id || placement.part_number || placement.part_label) return 'part';
       if (placement.cast_assembly_id || placement.cast_assembly_name) return 'cast assembly';
-      if (placement.kit_id || placement.brand || placement.kit_name) return 'kit';
+      if (placement.kit_id || placement.brand || placement.kit_name) return 'kit-level';
       return 'object';
+    }
+
+    function placementHasKitTag(placement) {
+      return Boolean(placement.kit_id || placement.brand || placement.kit_name);
+    }
+
+    function placementIsDerivedKitTag(placement) {
+      return placementObjectKind(placement) === 'part' && placementHasKitTag(placement);
+    }
+
+    function placementNeedsRefinement(placement) {
+      return placementObjectKind(placement) === 'kit-level' && !!placement.current_position;
+    }
+
+    function likelyDuplicatePlacements(placement) {
+      if (!placement) return [];
+      const kind = placementObjectKind(placement);
+      const selectedMapId = Number(placement.map_id || placement.current_position?.map_id || 0);
+      const selectedKitId = Number(placementResolvedKitId(placement) || 0);
+      const selectedPartId = Number(placement.part_id || 0);
+      const selectedCastId = Number(placement.cast_assembly_id || 0);
+
+      if (kind === 'kit-level' && !selectedKitId) return [];
+      if (kind === 'part' && !selectedPartId) return [];
+      if (kind === 'cast assembly' && !selectedCastId) return [];
+
+      return state.placements.filter((row) => {
+        if (row.id === placement.id) return false;
+        if (placementObjectKind(row) !== kind) return false;
+
+        if (kind === 'kit-level' && Number(placementResolvedKitId(row) || 0) !== selectedKitId) return false;
+        if (kind === 'part' && Number(row.part_id || 0) !== selectedPartId) return false;
+        if (kind === 'cast assembly' && Number(row.cast_assembly_id || 0) !== selectedCastId) return false;
+
+        const rowMapId = Number(row.map_id || row.current_position?.map_id || 0);
+        return selectedMapId ? rowMapId === selectedMapId : true;
+      });
+    }
+
+    function placementDisplayKind(placement) {
+      if (state.placementClassFilter === 'kit' && placementIsDerivedKitTag(placement)) return 'derived from exact part placement';
+      if (state.placementClassFilter === 'kit') return 'explicit kit tag';
+      return placementObjectKind(placement);
+    }
+
+    function placementMatchesClassFilter(placement) {
+      if (state.placementClassFilter === 'kit') return placementHasKitTag(placement);
+      if (state.placementClassFilter === 'refine') return placementNeedsRefinement(placement);
+      if (state.placementClassFilter === 'part') return placementObjectKind(placement) === 'part';
+      if (state.placementClassFilter === 'cast') return placementObjectKind(placement) === 'cast assembly';
+      if (state.placementClassFilter === 'unplaced') return !placement.current_position;
+      return true;
+    }
+
+    function placementClassLabel() {
+      return {
+        all: 'all',
+        kit: 'kit candidates',
+        refine: 'refinement queue',
+        part: 'part records',
+        cast: 'cast assemblies',
+        unplaced: 'unplaced records'
+      }[state.placementClassFilter] || 'all';
+    }
+
+    function imageRecordTitle(image) {
+      return image?.title || image?.image_code || image?.filename || `Image ${image?.id ?? '?'}`;
+    }
+
+    function imageRecordUrl(image) {
+      if (!image) return '';
+      if (image.url && /^https?:\/\//i.test(image.url)) return image.url;
+      if (image.url && image.url.startsWith('/')) return apiOrigin() + image.url;
+      if (image.storage_path && /^https?:\/\//i.test(image.storage_path)) return image.storage_path;
+      return image.url || image.storage_path || '';
+    }
+
+    function claimEntityLabel(type, id, fallback) {
+      if (fallback) return fallback;
+      if (type === 'image_region') return `Region ${id}`;
+      if (type === 'image') return `Image ${id}`;
+      return type || '';
+    }
+
+    function claimEvidenceWorkbenchTarget(item) {
+      if (!item) return null;
+      if (item.evidence_type === 'image_region' && item.image_id) {
+        return {
+          label: item.evidence_label || `Region ${item.evidence_id}`,
+          url: workbenchUrl(item.image_id, item.evidence_id)
+        };
+      }
+      if (item.evidence_type === 'image') {
+        return {
+          label: item.evidence_label || `Image ${item.evidence_id}`,
+          url: workbenchUrl(item.evidence_id)
+        };
+      }
+      return null;
+    }
+
+    function successorPosition(positions, positionId) {
+      return (positions || []).find((item) => Number(item.supersedes_id || 0) === Number(positionId || 0)) || null;
+    }
+
+    function canDeletePosition(item) {
+      return item?.source_kind === 'manual' || item?.source_kind === 'candidate' || item?.status === 'candidate';
+    }
+
+    function positionRelationshipSummary(item, positions) {
+      const bits = [];
+      if (item?.is_current) bits.push('current');
+      if (item?.supersedes_id) bits.push(`supersedes #${item.supersedes_id}`);
+      const next = successorPosition(positions, item?.id);
+      if (next) bits.push(`replaced by #${next.id}`);
+      return bits.join(' / ');
+    }
+
+    function markerToneClass(placement) {
+      const paletteSize = 6;
+      const mode = state.markerColorMode || 'kit';
+      let key = String(placement?.id || 0);
+      if (mode === 'kit') {
+        key = String(placementResolvedKitId(placement) || placementKitTitle(placement) || placement.id || 0);
+      } else if (mode === 'vendor') {
+        key = String(placement?.brand || 'unknown-vendor');
+      } else if (mode === 'type') {
+        key = markerVisibilityKind(placement);
+      }
+      let hash = 0;
+      for (let i = 0; i < key.length; i += 1) {
+        hash = ((hash << 5) - hash) + key.charCodeAt(i);
+        hash |= 0;
+      }
+      const id = Math.abs(hash);
+      return `tone-${Math.abs(id) % paletteSize}`;
+    }
+
+    function markerVisibilityKind(placement) {
+      const kind = placementObjectKind(placement);
+      if (kind === 'part') return 'part';
+      if (kind === 'cast assembly') return 'cast';
+      return 'kit';
+    }
+
+    function markerVisibleForPlacement(placement) {
+      const kind = markerVisibilityKind(placement);
+      return !!state.markerVisibility[kind];
+    }
+
+    function renderPlacementImageCard(image) {
+      const url = imageRecordUrl(image);
+      const actions = [
+        `<a href="${escapeHtml(workbenchUrl(image.id))}" target="_blank" rel="noopener"><button class="ghost" type="button">Open in workbench</button></a>`,
+        `<button class="ghost" type="button" data-claim-from-image="${image.id}">Add rationale</button>`
+      ];
+      if (url) {
+        actions.unshift(`<a href="${escapeHtml(url)}" target="_blank" rel="noopener"><button class="ghost" type="button">Open source</button></a>`);
+      }
+      if ((state.adminLocal || state.adminKey) && image.image_link_id) {
+        actions.push(`<button class="ghost" type="button" data-unlink-image-link="${image.image_link_id}">Unlink</button>`);
+      }
+      return `
+        <div class="small-card">
+          <div class="small-title">${escapeHtml(imageRecordTitle(image))}</div>
+          <div class="small-meta">${escapeHtml([image.image_type, image.source, image.image_code].filter(Boolean).join(' / '))}</div>
+          ${image.annotation ? `<div class="hint">${escapeHtml(image.annotation)}</div>` : ''}
+          <div class="small-actions">${actions.join('')}</div>
+        </div>
+      `;
+    }
+
+    function placementClaimTitle(claim) {
+      const subject = claimEntityLabel(claim?.subject_type, claim?.subject_id, claim?.subject_label);
+      const objectLabel = claimEntityLabel(claim?.object_type, claim?.object_id, claim?.object_label) || claim?.text_value || '-';
+      return `${subject} ${claim?.predicate || ''} ${objectLabel}`.trim();
+    }
+
+    function renderPlacementClaimCard(claim) {
+      const evidenceSummary = (claim.evidence || [])
+        .map((item) => item.evidence_label || `${item.evidence_type} ${item.evidence_id}`)
+        .filter(Boolean)
+        .slice(0, 3)
+        .join(' / ');
+      const evidenceActions = (claim.evidence || [])
+        .map(claimEvidenceWorkbenchTarget)
+        .filter(Boolean)
+        .map((item) => `<a href="${escapeHtml(item.url)}" target="_blank" rel="noopener"><button class="ghost" type="button">Open ${escapeHtml(item.label)}</button></a>`)
+        .join('');
+      return `
+        <div class="small-card">
+          <div class="small-title">${escapeHtml(placementClaimTitle(claim))}</div>
+          <div class="small-meta">${escapeHtml([claim.confidence, claim.status].filter(Boolean).join(' / '))}</div>
+          ${claim.rationale ? `<div class="hint">${escapeHtml(claim.rationale)}</div>` : ''}
+          ${evidenceSummary ? `<div class="hint">Evidence: ${escapeHtml(evidenceSummary)}</div>` : ''}
+          ${evidenceActions ? `<div class="small-actions">${evidenceActions}</div>` : ''}
+        </div>
+      `;
     }
 
     function setActionStatus(type, message) {
       state.actionStatus = message ? { type, message } : null;
       renderInspector();
+    }
+
+    function isReconciliationStatus(status) {
+      const message = String(status?.message || '').toLowerCase();
+      return message.includes('candidate needs reconciliation') || message.includes('could not resolve this candidate');
+    }
+
+    function clearReconciliationStatus() {
+      if (isReconciliationStatus(state.actionStatus)) state.actionStatus = null;
+    }
+
+    function importReviewReportHtml() {
+      if (!state.importReviewResult) return '<div class="hint">Run preview to see classification totals before applying.</div>';
+      const payload = state.importReviewResult;
+      const report = payload.reconciliation_report || {};
+      const preview = payload.preview || {};
+      const summaryLines = [];
+      Object.keys(report).sort().forEach((key) => {
+        summaryLines.push(`${key}: ${report[key]}`);
+      });
+      if (!summaryLines.length) summaryLines.push('No reconciliation actions detected.');
+      const previewText = JSON.stringify(preview, null, 2);
+      return `
+        <div class="hint" style="white-space:pre-wrap">${escapeHtml(summaryLines.join('\n'))}</div>
+        <details>
+          <summary class="hint" style="cursor:pointer">Raw preview payload</summary>
+          <pre class="hint" style="white-space:pre-wrap;max-height:220px;overflow:auto;margin:0">${escapeHtml(previewText)}</pre>
+        </details>
+      `;
     }
 
     function renderMapImageResults() {
@@ -626,21 +1233,56 @@
       });
     }
 
+    function renderPlacementImageResults(placement) {
+      const wrap = el('placement-image-results');
+      if (!wrap || !placement) return;
+      const linkedIds = new Set((placement.images || []).map((image) => Number(image.id)));
+      if (!state.placementImageResults.length) {
+        wrap.innerHTML = state.placementImageSearch.length >= 2
+          ? '<div class="hint">No matching images.</div>'
+          : '<div class="hint">Search for an existing image to link to this placement.</div>';
+        return;
+      }
+      wrap.innerHTML = state.placementImageResults.map((item) => {
+        const alreadyLinked = linkedIds.has(Number(item.id));
+        return `
+          <div class="small-card ${alreadyLinked ? 'active' : ''}" data-pick-placement-image="${item.id}" style="cursor:${alreadyLinked ? 'default' : 'pointer'}">
+            <div class="small-title">${escapeHtml(item.title || item.image_code || `Image ${item.id}`)}</div>
+            <div class="small-meta">${escapeHtml([item.image_type, item.source, item.image_code].filter(Boolean).join(' / '))}</div>
+            ${alreadyLinked ? '<div class="hint">Already linked to this placement.</div>' : ''}
+          </div>
+        `;
+      }).join('');
+      wrap.querySelectorAll('[data-pick-placement-image]').forEach((node) => {
+        node.addEventListener('click', async () => {
+          const imageId = Number(node.dataset.pickPlacementImage);
+          if (linkedIds.has(imageId)) return;
+          await createPlacementImageLink(imageId);
+        });
+      });
+    }
+
     function renderPlacementTargetResults() {
       const wrap = el('placement-target-results');
       if (!wrap) return;
       if (!state.newPlacementResults.length) {
         wrap.innerHTML = state.newPlacementSearch.length >= 2
-          ? '<div class="hint">No matching kits or parts.</div>'
-          : '<div class="hint">Search for a kit or part to create a placement.</div>';
+          ? '<div class="hint">No matching kits.</div>'
+          : '<div class="hint">Search for a kit to create a map location.</div>';
         return;
       }
-      wrap.innerHTML = state.newPlacementResults.map((item) => `
-        <div class="small-card" data-pick-placement-target="${item.entity_type}:${item.entity_id}" style="cursor:pointer">
-          <div class="small-title">${escapeHtml(item.title || `${item.entity_type} ${item.entity_id}`)}</div>
-          <div class="small-meta">${escapeHtml([item.entity_type, item.subtitle, ...(item.badges || [])].filter(Boolean).join(' / '))}</div>
+      wrap.innerHTML = state.newPlacementResults.map((item) => {
+        const thumb = kitThumbHtml(item);
+        return `
+        <div class="small-card ${thumb ? 'with-thumb' : ''}" data-pick-placement-target="${item.entity_type}:${item.entity_id}" style="cursor:pointer">
+          ${thumb}
+          <div class="kit-thumb-main">
+            <div class="small-title">${escapeHtml(item.title || `${item.entity_type} ${item.entity_id}`)}</div>
+            <div class="small-meta">${escapeHtml([item.entity_type, item.subtitle, ...(item.badges || [])].filter(Boolean).join(' / '))}</div>
+          </div>
         </div>
-      `).join('');
+      `;
+      }).join('');
       wrap.querySelectorAll('[data-pick-placement-target]').forEach((node) => {
         node.addEventListener('click', () => {
           const [entityType, rawId] = String(node.dataset.pickPlacementTarget || '').split(':');
@@ -658,10 +1300,189 @@
       });
     }
 
+    function renderRefinePartResults() {
+      const wrap = el('refine-part-results');
+      if (!wrap) return;
+      if (!state.refinePartResults.length) {
+        wrap.innerHTML = state.refinePartSearch.length >= 2
+          ? '<div class="hint">No matching parts for this search.</div>'
+          : '<div class="hint">Search parts to refine this kit-level location.</div>';
+        return;
+      }
+      wrap.innerHTML = state.refinePartResults.map((item) => `
+        <div class="small-card ${state.refinePartTarget?.entity_id === item.entity_id ? 'active' : ''}" data-pick-refine-part="${item.entity_id}" style="cursor:pointer">
+          <div class="small-title">${escapeHtml(item.title || `Part ${item.entity_id}`)}</div>
+          <div class="small-meta">${escapeHtml([item.subtitle, ...(item.badges || [])].filter(Boolean).join(' / '))}</div>
+        </div>
+      `).join('');
+      wrap.querySelectorAll('[data-pick-refine-part]').forEach((node) => {
+        node.addEventListener('click', () => {
+          const entityId = Number(node.dataset.pickRefinePart);
+          const item = state.refinePartResults.find((row) => row.entity_id === entityId);
+          if (!item) return;
+          state.refinePartTarget = item;
+          state.refinePartSearch = item.title || '';
+          const search = el('refine-part-search');
+          if (search) search.value = state.refinePartSearch;
+          renderRefinePartResults();
+          renderInspector();
+        });
+      });
+    }
+
+    async function refineSelectedPlacementToPart() {
+      const placement = selectedPlacement();
+      const target = state.refinePartTarget;
+      if (!placement) return;
+      if (!state.adminLocal && !state.adminKey) {
+        setActionStatus('error', 'Refinement requires Local admin or an admin key.');
+        return;
+      }
+      if (!target?.entity_id) {
+        setActionStatus('error', 'Choose a part first.');
+        return;
+      }
+      try {
+        setActionStatus('pending', 'Refining placement to exact part...');
+        await api(`/api/placements/${placement.id}/refine_part`, {
+          method: 'POST',
+          headers: authHeaders(),
+          body: JSON.stringify({
+            part_id: target.entity_id,
+            change_reason: 'Map workbench refinement queue'
+          })
+        });
+        state.refinePartTarget = null;
+        state.refinePartSearch = '';
+        state.refinePartResults = [];
+        setActionStatus('ok', 'Placement refined to part-level record.');
+        await loadPlacements();
+        await refreshSelectedPlacement();
+      } catch (error) {
+        setActionStatus('error', error.message || 'Failed to refine placement.');
+      }
+    }
+
+    async function mergePlacementIntoCanonical(placementId, canonicalId) {
+      if (!state.adminLocal && !state.adminKey) {
+        setActionStatus('error', 'Merging requires Local admin or an admin key.');
+        return;
+      }
+      try {
+        setActionStatus('pending', 'Merging duplicate placement...');
+        await api('/api/placements/merge', {
+          method: 'POST',
+          headers: authHeaders(),
+          body: JSON.stringify({
+            canonical_id: canonicalId,
+            duplicate_ids: [placementId],
+            reason: 'Map workbench duplicate cleanup'
+          })
+        });
+        state.selectedPlacementId = canonicalId;
+        state.selectedPositionId = null;
+        setActionStatus('ok', `Merged placement #${placementId} into #${canonicalId}.`);
+        await loadPlacements();
+        await refreshSelectedPlacement();
+      } catch (error) {
+        setActionStatus('error', error.message || 'Failed to merge placement.');
+      }
+    }
+
+    async function createPlacementImageLink(imageId) {
+      const placement = selectedPlacement();
+      if (!placement) return;
+      if (!state.adminLocal && !state.adminKey) {
+        setActionStatus('error', 'Linking images requires Local admin or an admin key.');
+        return;
+      }
+      const linkedIds = new Set((placement.images || []).map((image) => Number(image.id)));
+      if (linkedIds.has(Number(imageId))) {
+        setActionStatus('ok', 'That image is already linked to this placement.');
+        return;
+      }
+      try {
+        setActionStatus('pending', 'Linking image to placement...');
+        await api('/api/image_links', {
+          method: 'POST',
+          headers: authHeaders(),
+          body: JSON.stringify({
+            image_id: Number(imageId),
+            entity_type: 'placement',
+            entity_id: placement.id,
+            annotation: state.placementImageAnnotation.trim() || null
+          })
+        });
+        state.placementImageSearch = '';
+        state.placementImageResults = [];
+        state.placementImageAnnotation = '';
+        setActionStatus('ok', 'Image linked to placement.');
+        await refreshSelectedPlacement();
+      } catch (error) {
+        setActionStatus('error', error.message || 'Failed to link image.');
+      }
+    }
+
+    async function unlinkPlacementImage(linkId) {
+      if (!state.adminLocal && !state.adminKey) {
+        setActionStatus('error', 'Unlinking images requires Local admin or an admin key.');
+        return;
+      }
+      if (!confirm('Unlink this image from the placement?')) return;
+      try {
+        setActionStatus('pending', 'Removing linked image...');
+        await api(`/api/image_links/${Number(linkId)}`, {
+          method: 'DELETE',
+          headers: authHeaders()
+        });
+        setActionStatus('ok', 'Image unlinked.');
+        await refreshSelectedPlacement();
+      } catch (error) {
+        setActionStatus('error', error.message || 'Failed to unlink image.');
+      }
+    }
+
+    async function savePlacementClaim() {
+      const placement = selectedPlacement();
+      const imageId = Number(state.claimImageId || 0);
+      if (!placement) return;
+      if (!state.adminLocal && !state.adminKey) {
+        setActionStatus('error', 'Saving detailed rationale requires Local admin or an admin key.');
+        return;
+      }
+      if (!imageId) {
+        setActionStatus('error', 'Choose a linked image first.');
+        return;
+      }
+      try {
+        setActionStatus('pending', 'Saving detailed rationale...');
+        await api('/api/claims', {
+          method: 'POST',
+          headers: authHeaders(),
+          body: JSON.stringify({
+            subject_type: 'image',
+            subject_id: imageId,
+            predicate: state.claimPredicate,
+            object_type: 'placement',
+            object_id: placement.id,
+            confidence: state.claimConfidence,
+            status: state.claimStatus,
+            rationale: state.claimRationale.trim() || null,
+            evidence: [{ evidence_type: 'image', evidence_id: imageId }]
+          })
+        });
+        state.claimRationale = '';
+        setActionStatus('ok', 'Detailed rationale saved.');
+        await refreshSelectedPlacement();
+      } catch (error) {
+        setActionStatus('error', error.message || 'Failed to save rationale.');
+      }
+    }
+
     async function loadModels() {
       const payload = await api('/api/models');
       state.models = Array.isArray(payload) ? payload : (payload?.data || []);
-      if (!state.selectedModelId && state.models.length) state.selectedModelId = state.models[0].id;
+      if (!state.selectedModelId && state.models.length) state.selectedModelId = preferredStartupModelId(state.models);
     }
 
     async function loadMaps() {
@@ -681,8 +1502,8 @@
       const rows = Array.isArray(payload) ? payload : (payload?.data || []);
       state.placements = rows;
       if (!rows.find((p) => p.id === state.selectedPlacementId)) {
-        state.selectedPlacementId = rows[0]?.id || null;
-        state.selectedPositionId = rows[0]?.current_position?.id || null;
+        state.selectedPlacementId = null;
+        state.selectedPositionId = null;
       }
     }
 
@@ -695,6 +1516,8 @@
         '<option value="">All maps</option>',
         ...state.maps.map((map) => `<option value="${map.id}" ${map.id === state.selectedMapId ? 'selected' : ''}>${escapeHtml(map.name)}</option>`)
       ].join('');
+      const classFilter = el('placement-class-filter');
+      if (classFilter) classFilter.value = state.placementClassFilter;
     }
 
     function renderMapList() {
@@ -715,6 +1538,7 @@
           state.selectedMapId = Number(node.dataset.openMap);
           state.selectedPlacementId = null;
           state.selectedPositionId = null;
+          state.pendingKitLocation = null;
           await loadPlacements();
           renderAll();
           fitMap();
@@ -722,47 +1546,205 @@
       });
     }
 
+    function kitResultTitle(kit) {
+      return [kit.brand, kit.name].filter(Boolean).join(' - ') || `Kit ${kit.id}`;
+    }
+
+    function kitResultMeta(kit) {
+      return [kit.scale, kit.serial_number, kit.category_family, kit.category_subject].filter(Boolean).join(' / ');
+    }
+
+    function visibleKitResults() {
+      const q = normalizeLookupText(state.search);
+      if (state.kitResults.length) return state.kitResults;
+      if (!q) return [];
+      return [];
+    }
+
+    function visibleMapLocations() {
+      return state.placements
+        .filter((placement) => placement.current_position && (!state.selectedMapId || Number(placement.current_position.map_id) === Number(state.selectedMapId)))
+        .sort((a, b) => placementKitTitle(a).localeCompare(placementKitTitle(b)));
+    }
+
     function filteredPlacements() {
       const q = state.search.trim().toLowerCase();
-      if (!q) return state.placements;
-      return state.placements.filter((placement) => [placementTitle(placement), placement.location_label, placement.map_name].filter(Boolean).join(' ').toLowerCase().includes(q));
+      return state.placements.filter((placement) => {
+        if (!placementMatchesClassFilter(placement)) return false;
+        if (!q) return true;
+        return [placementDisplayTitle(placement), placementTitle(placement), placement.location_label, placement.map_name]
+          .filter(Boolean)
+          .join(' ')
+          .toLowerCase()
+          .includes(q);
+      });
+    }
+
+    function groupedKitPlacementRows(placements) {
+      const groups = new Map();
+      placements.forEach((placement) => {
+        const key = placementKitKey(placement);
+        if (!groups.has(key)) {
+          groups.set(key, {
+            row_type: 'kit_group',
+            key,
+            kitId: placementResolvedKitId(placement),
+            title: placementKitTitle(placement),
+            brand: placement.brand || '',
+            kit_name: placement.kit_name || '',
+            thumbnail_url: placement.thumbnail_url || '',
+            placements: [],
+            placement_ids: []
+          });
+        }
+        const group = groups.get(key);
+        if (!group.kitId) group.kitId = placementResolvedKitId(placement);
+        if (!group.thumbnail_url && placement.thumbnail_url) group.thumbnail_url = placement.thumbnail_url;
+        group.placements.push(placement);
+        group.placement_ids.push(placement.id);
+      });
+      return Array.from(groups.values()).map((group) => {
+        const unresolved = !group.kitId && (!group.title || group.title.startsWith('Kit tag '));
+        const preferredPlacement = group.placements.find((placement) => placement.id === state.selectedPlacementId)
+          || group.placements.find((placement) => !placement.current_position && placementObjectKind(placement) === 'kit-level')
+          || group.placements.find((placement) => placement.current_position)
+          || group.placements[0];
+        return { ...group, preferredPlacement, unresolved };
+      }).sort((a, b) => a.title.localeCompare(b.title));
+    }
+
+    function filteredPlacementListRows() {
+      const placements = filteredPlacements();
+      if (state.placementClassFilter !== 'kit') return placements;
+      return groupedKitPlacementRows(placements).filter((row) => !row.unresolved);
     }
 
     function renderPlacementList() {
-      const rows = filteredPlacements();
+      clearReconciliationStatus();
+      const rows = filteredPlacementListRows();
       const map = selectedMap();
-      el('library-meta').textContent = `${rows.length} placements${map ? ` / ${map.name}` : ''}`;
+      const listTitle = el('placement-list-title');
+      if (listTitle) {
+        listTitle.textContent = state.placementClassFilter === 'kit'
+          ? 'Kit candidates'
+          : (state.placementClassFilter === 'refine' ? 'Refinement queue' : 'Placements');
+      }
+      el('library-meta').textContent = `${rows.length} ${placementClassLabel()}${map ? ` / ${map.name}` : ''}`;
       const wrap = el('placement-list');
       if (!rows.length) {
-        wrap.innerHTML = '<div class="hint">No placements found for the current filters.</div>';
+        wrap.innerHTML = state.placementClassFilter === 'refine'
+          ? '<div class="hint">No queued kit-level locations need refinement for this map/filter.</div>'
+          : '<div class="hint">No kit candidates found for the current filters.</div>';
         return;
       }
-      wrap.innerHTML = rows.map((placement) => `
-        <div class="card ${placement.id === state.selectedPlacementId ? 'active' : ''}" data-open-placement="${placement.id}">
-          <div class="card-title">${escapeHtml(placementTitle(placement))}</div>
-          <div class="card-meta">${escapeHtml([placementObjectKind(placement), placement.location_label, placement.current_position ? `current ${placement.current_position.position_type}` : 'no current position'].filter(Boolean).join(' / '))}</div>
-          <div style="display:flex;gap:8px;flex-wrap:wrap">
+      wrap.innerHTML = rows.map((row) => {
+        if (row.row_type === 'kit_group') {
+          const active = row.placement_ids.includes(state.selectedPlacementId) ? 'active' : '';
+          const meta = row.unresolved
+            ? 'Needs reconciliation before this can become a kit location.'
+            : 'Add one rough location each time this kit appears on the map.';
+          const thumb = kitThumbHtml(row);
+          return `
+          <div class="card ${active} ${thumb ? 'with-thumb' : ''}">
+            ${thumb}
+            ${kitThumbMain(row.title, meta)}
+            <div class="card-actions" style="display:flex;gap:8px;flex-wrap:wrap">
+              ${row.unresolved
+                ? '<button class="ghost" type="button" disabled>Needs cleanup</button>'
+                : `<button class="ghost" data-add-kit-location="${escapeHtml(row.key)}">Add location</button>`}
+            </div>
+          </div>
+        `;
+        }
+        const placement = row;
+        const thumb = kitThumbHtml(placement);
+        return `
+          <div class="card ${placement.id === state.selectedPlacementId ? 'active' : ''} ${thumb ? 'with-thumb' : ''}" data-open-placement="${placement.id}">
+            ${thumb}
+            ${kitThumbMain(placementDisplayTitle(placement), [placementDisplayKind(placement), placement.location_label, placement.current_position ? `current ${placement.current_position.position_type}` : 'no current position'].filter(Boolean).join(' / '))}
+          <div class="card-actions" style="display:flex;gap:8px;flex-wrap:wrap">
             <button class="ghost" data-place-placement="${placement.id}">Place</button>
           </div>
         </div>
-      `).join('');
+      `;
+      }).join('');
       wrap.querySelectorAll('[data-open-placement]').forEach((node) => {
-        node.addEventListener('click', async () => {
+        node.addEventListener('click', async (event) => {
+          if (node.tagName === 'BUTTON') event.stopPropagation();
+          if (!node.dataset.openPlacement) return;
+          state.pendingKitLocation = null;
           state.selectedPlacementId = Number(node.dataset.openPlacement);
           state.selectedPositionId = selectedPlacement()?.current_position?.id || null;
           await refreshSelectedPlacement();
         });
       });
+      const kitGroupsByKey = new Map(rows.filter((row) => row.row_type === 'kit_group').map((row) => [row.key, row]));
+      wrap.querySelectorAll('[data-add-kit-location]').forEach((node) => {
+        node.addEventListener('click', async (event) => {
+          event.stopPropagation();
+          const row = kitGroupsByKey.get(node.dataset.addKitLocation);
+          if (row) await startKitLocation(row);
+        });
+      });
       wrap.querySelectorAll('[data-place-placement]').forEach((node) => {
         node.addEventListener('click', async (event) => {
           event.stopPropagation();
+          if (!node.dataset.placePlacement) return;
+          state.pendingKitLocation = null;
           state.selectedPlacementId = Number(node.dataset.placePlacement);
           state.selectedPositionId = selectedPlacement()?.current_position?.id || null;
           state.mode = 'point';
-          setActionStatus('ok', 'Object selected. Click the map to place a point or switch to box mode.');
+          setActionStatus('ok', 'Kit location selected. Click the map to set its point or switch to box mode.');
           await refreshSelectedPlacement();
         });
       });
+    }
+
+    async function resolveKitGroupId(group) {
+      if (group.kitId) return group.kitId;
+      const title = group.title || '';
+      if (!title || title.startsWith('Kit tag ')) return null;
+      const payload = await api(`/api/entity_search?q=${encodeURIComponent(title)}&types=kit&limit=20`);
+      const rows = Array.isArray(payload) ? payload : (payload?.data || []);
+      const normalizedTitle = normalizeLookupText(title);
+      const exact = rows.find((row) => normalizeLookupText(row.title) === normalizedTitle);
+      const fallback = exact || (rows.length === 1 ? rows[0] : null);
+      if (!fallback?.entity_id) return null;
+      group.kitId = fallback.entity_id;
+      group.placements.forEach((placement) => {
+        placement.resolved_kit_id = fallback.entity_id;
+      });
+      return group.kitId;
+    }
+
+    async function startKitLocation(group) {
+      if (!state.adminLocal && !state.adminKey) {
+        setActionStatus('error', 'Adding map locations requires Local admin or an admin key.');
+        return;
+      }
+      const map = selectedMap();
+      const modelId = map?.model_id || state.selectedModelId;
+      if (!map || !modelId) {
+        setActionStatus('error', 'Select a map first.');
+        return;
+      }
+      try {
+        setActionStatus('pending', 'Resolving kit candidate...');
+        const kitId = await resolveKitGroupId(group);
+        if (!kitId) {
+          clearReconciliationStatus();
+          renderPlacementList();
+          renderInspector();
+          return;
+        }
+        armKitLocation({
+          kitId,
+          title: group.title,
+          locationLabel: ''
+        });
+      } catch (error) {
+        setActionStatus('error', error.message || 'Failed to start kit location.');
+      }
     }
 
     function renderMapCanvas() {
@@ -775,9 +1757,12 @@
         img.classList.add('hidden');
         layer.classList.add('hidden');
         empty.classList.remove('hidden');
-        empty.textContent = 'Choose a map from the left to inspect and correct placement positions.';
+        stage.style.width = '100%';
+        stage.style.height = '100%';
+        stage.style.transform = 'translate(0px, 0px) scale(1)';
+        empty.textContent = 'Choose a map from the left, then add kit locations from the candidate list.';
         el('canvas-title').textContent = 'Select a map';
-        el('canvas-sub').textContent = 'Placement geometry correction lives here.';
+        el('canvas-sub').textContent = 'Add rough kit locations first. Exact parts come later.';
         return;
       }
       el('canvas-title').textContent = map.name || `Map ${map.id}`;
@@ -792,6 +1777,9 @@
         img.classList.add('hidden');
         layer.classList.add('hidden');
         empty.classList.remove('hidden');
+        stage.style.width = '100%';
+        stage.style.height = '100%';
+        stage.style.transform = 'translate(0px, 0px) scale(1)';
         empty.textContent = 'This map does not currently have a backing image attached.';
         return;
       }
@@ -820,31 +1808,35 @@
         return;
       }
       layer.classList.toggle('show-labels', !!state.showLabels);
-      const placements = filteredPlacements().filter((placement) => placement.current_position && placement.current_position.map_id === map.id);
+      const placements = filteredPlacements().filter((placement) => placement.current_position && placement.current_position.map_id === map.id && markerVisibleForPlacement(placement));
+      const markerSize = Math.max(12, Math.min(34, Number(state.markerSize) || 20));
       layer.innerHTML = placements.map((placement) => {
         const pos = placement.current_position;
         const active = placement.id === state.selectedPlacementId ? 'active' : '';
         const showLabel = state.showLabels ? 'show-label' : '';
+        const markerTone = markerToneClass(placement);
         const left = (pos.x_norm || 0) * state.imageSize.width;
         const top = (pos.y_norm || 0) * state.imageSize.height;
         if (pos.position_type === 'box') {
           const width = Math.max((pos.width_norm || 0) * state.imageSize.width, 10);
           const height = Math.max((pos.height_norm || 0) * state.imageSize.height, 10);
+          const border = Math.max(1, Math.round(markerSize / 10));
           return `
-            <div class="placement box current ${active} ${showLabel}" data-open-placement="${placement.id}" style="left:${left}px;top:${top}px;width:${width}px;height:${height}px;">
-              <div class="placement-label">${escapeHtml(placementTitle(placement))}</div>
+            <div class="placement box current ${active} ${showLabel}" data-open-placement="${placement.id}" style="left:${left}px;top:${top}px;width:${width}px;height:${height}px;border-width:${border}px;">
+              <div class="placement-label">${escapeHtml(placementDisplayTitle(placement))}</div>
             </div>
           `;
         }
         return `
-          <div class="placement point current ${active} ${showLabel}" data-open-placement="${placement.id}" style="left:${left}px;top:${top}px;width:16px;height:16px;">
-            <div class="placement-label">${escapeHtml(placementTitle(placement))}</div>
+          <div class="placement point current ${markerTone} ${active} ${showLabel}" data-open-placement="${placement.id}" style="left:${left}px;top:${top}px;width:${markerSize}px;height:${markerSize}px;--marker-size:${markerSize}px;">
+            <div class="placement-label">${escapeHtml(placementDisplayTitle(placement))}</div>
           </div>
         `;
       }).join('');
       layer.querySelectorAll('[data-open-placement]').forEach((node) => {
         node.addEventListener('click', async (event) => {
           event.stopPropagation();
+          state.pendingKitLocation = null;
           state.selectedPlacementId = Number(node.dataset.openPlacement);
           state.selectedPositionId = selectedPlacement()?.current_position?.id || null;
           await refreshSelectedPlacement();
@@ -856,23 +1848,24 @@
       const wrap = el('inspector-stack');
       const map = selectedMap();
       const placement = selectedPlacement();
-      const position = selectedPosition();
+      const currentPosition = placement?.current_position || null;
       const mapDraft = map ? ensureMapRecordDraft(map) : null;
-      el('inspector-meta').textContent = placement ? `Placement ${placement.id}` : (map ? `Map ${map.id}` : 'Nothing selected');
+      el('inspector-meta').textContent = placement ? `Kit location ${placement.id}` : (map ? `Map ${map.id}` : 'Nothing selected');
       const statusBlock = state.actionStatus ? `<div class="status ${state.actionStatus.type}">${escapeHtml(state.actionStatus.message)}</div>` : '';
       const createPlacementSection = map ? `
         <div class="section">
-          <div class="section-head"><span>Create placement</span></div>
+          <div class="section-head"><span>Add kit location</span></div>
           <div class="section-body">
-            <input class="field" id="placement-target-search" value="${escapeHtml(state.newPlacementSearch || '')}" placeholder="Search kit or part">
+            <div class="hint">Pass 1: add kit-linked locations on the map. Exact parts come later.</div>
+            <input class="field" id="placement-target-search" value="${escapeHtml(state.newPlacementSearch || '')}" placeholder="Search kit by brand, name, serial">
             <div class="small-list picker-results" id="placement-target-results"></div>
-            <input class="field" id="placement-location-edit" value="${escapeHtml(state.newPlacementLocation || '')}" placeholder="Location label (optional)">
+            <input class="field" id="placement-location-edit" value="${escapeHtml(state.newPlacementLocation || '')}" placeholder="Map number / label / rough location">
             <div class="hint">${state.newPlacementTarget
               ? `Selected: ${escapeHtml(state.newPlacementTarget.title || '')}`
-              : 'Pick a kit or part, then create a placement on this map.'}</div>
-            ${state.adminLocal || state.adminKey ? '' : '<div class="hint">Creating placements requires Local admin or an admin key.</div>'}
+              : 'Pick a kit, create a location, then click the map to place it.'}</div>
+            ${state.adminLocal || state.adminKey ? '' : '<div class="hint">Creating locations requires Local admin or an admin key.</div>'}
             <div class="split">
-              <button class="primary" id="create-placement">Create placement</button>
+              <button class="primary" id="create-placement">Create kit location</button>
               <button class="ghost" id="clear-placement-target">Clear selection</button>
             </div>
           </div>
@@ -900,13 +1893,51 @@
           </div>
         </div>
       ` : '';
+      const importReviewSection = map ? `
+        <div class="section">
+          <div class="section-head"><span>Import review</span></div>
+          <div class="section-body">
+            <div class="hint">Preview spreadsheet reconciliation before writing. Paths are workspace-relative or absolute.</div>
+            <input class="field" id="import-kits-path" value="${escapeHtml(state.importKitsPath || '')}" placeholder="PartList_private.xlsx">
+            <input class="field" id="import-donors-path" value="${escapeHtml(state.importDonorsPath || '')}" placeholder="ANH donors.xlsx">
+            ${state.adminLocal || state.adminKey ? '' : '<div class="hint">Preview/apply requires Local admin or an admin key.</div>'}
+            <div class="split">
+              <button class="ghost" id="import-preview">Preview reconciliation</button>
+              <button class="primary" id="import-apply">Apply reconciliation</button>
+            </div>
+            <div class="split">
+              <button class="ghost" id="import-normalize-part-numbers">Normalize part numbers</button>
+              <button class="ghost" id="import-clear-report">Clear report</button>
+            </div>
+            <div id="import-review-report">${importReviewReportHtml()}</div>
+          </div>
+        </div>
+      ` : '';
       if (!map) {
         wrap.innerHTML = `${statusBlock}<div class="hint">Select a map to begin.</div>`;
         return;
       }
       if (!placement) {
+        const pendingSection = state.pendingKitLocation ? `
+          <div class="section">
+            <div class="section-head"><span>Pending location</span></div>
+            <div class="section-body">
+              <div class="hint">Click the map to create a new location for this kit. This will not update an old location.</div>
+              <div class="kv">
+                <div class="kv-row"><span>Kit</span><span>${escapeHtml(state.pendingKitLocation.title)}</span></div>
+                <div class="kv-row"><span>Mode</span><span>${state.mode === 'box' ? 'box' : 'point'}</span></div>
+              </div>
+              <div class="split">
+                <button class="primary" id="pending-point">Use point</button>
+                <button class="ghost" id="pending-box">Use box</button>
+              </div>
+              <button class="ghost" id="cancel-pending-location">Cancel pending location</button>
+            </div>
+          </div>
+        ` : '';
         wrap.innerHTML = `
           ${statusBlock}
+          ${pendingSection}
           ${createPlacementSection}
           <div class="section">
             <div class="section-head"><span>Map</span></div>
@@ -919,57 +1950,192 @@
             </div>
           </div>
           ${mapRecordSection}
-          <div class="hint">Select a placement from the map or from the list to inspect and correct geometry.</div>
+          ${importReviewSection}
+          <div class="hint">Use a kit candidate on the left, or search here, then click the map to add a rough location.</div>
         `;
         renderPlacementTargetResults();
         renderMapImageResults();
         bindMapInspector(map);
+        el('pending-point')?.addEventListener('click', () => {
+          state.mode = 'point';
+          setActionStatus('ok', `Ready: click the map to add a new location for ${state.pendingKitLocation?.title || 'this kit'}.`);
+          updateToolButtons();
+        });
+        el('pending-box')?.addEventListener('click', () => {
+          state.mode = 'box';
+          setActionStatus('ok', `Ready: drag a box to add a new location for ${state.pendingKitLocation?.title || 'this kit'}.`);
+          updateToolButtons();
+        });
+        el('cancel-pending-location')?.addEventListener('click', () => {
+          state.pendingKitLocation = null;
+          state.mode = 'select';
+          setActionStatus(null, '');
+          renderAll();
+        });
         return;
       }
+      syncPlacementDrafts(placement);
+      const isKitLevelPlacement = placementObjectKind(placement) === 'kit-level';
+      const duplicateCandidates = likelyDuplicatePlacements(placement);
       const positions = placement.positions || [];
-      wrap.innerHTML = `
-        ${statusBlock}
-        ${createPlacementSection}
-        ${mapRecordSection}
+      const selectedHistory = selectedPosition();
+      const selectedHistorySuccessor = successorPosition(positions, selectedHistory?.id);
+      const positionSummary = currentPosition
+        ? `${Number(currentPosition.x_norm || 0).toFixed(3)} / ${Number(currentPosition.y_norm || 0).toFixed(3)}`
+        : 'not placed yet';
+      const positionHistorySection = `
         <div class="section">
-          <div class="section-head"><span>Placement</span></div>
-          <div class="section-body kv">
-            <div class="kv-row"><span>Title</span><span>${escapeHtml(placementTitle(placement))}</span></div>
-            <div class="kv-row"><span>Map</span><span>${escapeHtml(placement.map_name || '-')}</span></div>
-            <div class="kv-row"><span>Location</span><span>${escapeHtml(placement.location_label || '-')}</span></div>
-            <div class="kv-row"><span>Confidence</span><span>${escapeHtml(placement.confidence || '-')}</span></div>
-            <div class="split" style="margin-top:10px">
-              <button class="ghost" id="delete-placement">Delete placement</button>
-            </div>
-          </div>
-        </div>
-        <div class="section">
-          <div class="section-head"><span>Current position</span></div>
-          <div class="section-body kv">
-            <div class="kv-row"><span>Type</span><span>${escapeHtml(position?.position_type || '-')}</span></div>
-            <div class="kv-row"><span>x / y</span><span>${position ? `${Number(position.x_norm || 0).toFixed(3)} / ${Number(position.y_norm || 0).toFixed(3)}` : '-'}</span></div>
-            <div class="kv-row"><span>w / h</span><span>${position ? `${Number(position.width_norm || 0).toFixed(3)} / ${Number(position.height_norm || 0).toFixed(3)}` : '-'}</span></div>
-            <div class="kv-row"><span>Source</span><span>${escapeHtml(position?.source_kind || '-')}</span></div>
-          </div>
-        </div>
-        <div class="section">
-          <div class="section-head"><span>Positions</span></div>
+          <div class="section-head"><span>Position history</span></div>
           <div class="section-body small-list">
             ${positions.length ? positions.map((item) => `
               <div class="small-card ${item.id === state.selectedPositionId || (!state.selectedPositionId && item.is_current) ? 'active' : ''}" data-open-position="${item.id}">
                 <div class="small-title">${escapeHtml([item.position_type, item.is_current ? 'current' : null, item.source_kind].filter(Boolean).join(' / '))}</div>
                 <div class="small-meta">${escapeHtml([`x ${Number(item.x_norm || 0).toFixed(3)}`, `y ${Number(item.y_norm || 0).toFixed(3)}`, item.confidence, item.status].filter(Boolean).join(' / '))}</div>
+                ${positionRelationshipSummary(item, positions) ? `<div class="hint">${escapeHtml(positionRelationshipSummary(item, positions))}</div>` : ''}
+                ${item.created_at || item.attributed_handle ? `<div class="hint">${escapeHtml([item.created_at, item.attributed_handle].filter(Boolean).join(' / '))}</div>` : ''}
                 <div style="display:flex;gap:8px;flex-wrap:wrap">
-                  ${!item.is_current ? `<button class="ghost" data-make-current="${item.id}">Make current</button>` : ''}
-                  <button class="ghost" data-delete-position="${item.id}">Delete</button>
+                  ${!item.is_current ? `<button class="ghost" data-make-current="${item.id}">Use this point</button>` : ''}
+                  ${canDeletePosition(item) ? `<button class="ghost" data-delete-position="${item.id}">Delete</button>` : ''}
                 </div>
               </div>
-            `).join('') : '<div class="hint">No position records yet. Use Add point or Add box on the map.</div>'}
+            `).join('') : '<div class="hint">No position records yet. Use Place point or Place box.</div>'}
           </div>
         </div>
       `;
-      renderPlacementTargetResults();
-      renderMapImageResults();
+      const selectedHistorySection = selectedHistory ? `
+        <div class="section">
+          <div class="section-head"><span>Selected history entry</span></div>
+          <div class="section-body kv">
+            <div class="kv-row"><span>Record</span><span>#${selectedHistory.id}</span></div>
+            <div class="kv-row"><span>Type</span><span>${escapeHtml(selectedHistory.position_type || '-')}</span></div>
+            <div class="kv-row"><span>Source</span><span>${escapeHtml(selectedHistory.source_kind || '-')}</span></div>
+            <div class="kv-row"><span>Status</span><span>${escapeHtml(selectedHistory.status || '-')}</span></div>
+            <div class="kv-row"><span>Confidence</span><span>${escapeHtml(selectedHistory.confidence || '-')}</span></div>
+            <div class="kv-row"><span>Supersedes</span><span>${selectedHistory.supersedes_id ? `#${selectedHistory.supersedes_id}` : '-'}</span></div>
+            <div class="kv-row"><span>Replaced by</span><span>${selectedHistorySuccessor ? `#${selectedHistorySuccessor.id}` : '-'}</span></div>
+            <div class="kv-row"><span>Created</span><span>${escapeHtml(selectedHistory.created_at || '-')}</span></div>
+            <div class="kv-row"><span>By</span><span>${escapeHtml(selectedHistory.attributed_handle || '-')}</span></div>
+            <div class="kv-row"><span>Notes</span><span>${escapeHtml(selectedHistory.notes || '-')}</span></div>
+          </div>
+        </div>
+      ` : '';
+      const refinementSection = isKitLevelPlacement ? `
+        <div class="section">
+          <div class="section-head"><span>Pass 2: Refine or merge</span></div>
+          <div class="section-body">
+            <div class="hint">Convert to exact part or combine with duplicates.</div>
+            <input class="field" id="refine-part-search" value="${escapeHtml(state.refinePartSearch || '')}" placeholder="Search part by number, label, kit">
+            <div class="small-list picker-results" id="refine-part-results"></div>
+            <button class="primary" id="refine-placement-part" style="width:100%">Refine to part ${state.refinePartTarget ? ' (selected)' : '(choose above)'}</button>
+            <button class="ghost" id="clear-refine-part" style="width:100%">Clear part selection</button>
+          </div>
+        </div>
+      ` : '';
+      const duplicatesSection = duplicateCandidates.length ? `
+        <div class="section">
+          <div class="section-head"><span>Merge candidates (${duplicateCandidates.length})</span></div>
+          <div class="section-body small-list">
+            ${duplicateCandidates.map((candidate) => `
+              <div class="small-card">
+                <div class="small-title">${escapeHtml(placementDisplayTitle(candidate))}</div>
+                <div class="small-meta">${escapeHtml([candidate.location_label, candidate.current_position ? `point ${Number(candidate.current_position.x_norm || 0).toFixed(3)} / ${Number(candidate.current_position.y_norm || 0).toFixed(3)}` : 'unplaced'].filter(Boolean).join(' / '))}</div>
+                <button class="primary" data-merge-into="${candidate.id}" style="width:100%">Merge into #${candidate.id}</button>
+              </div>
+            `).join('')}
+          </div>
+        </div>
+      ` : '';
+      wrap.innerHTML = `
+        ${statusBlock}
+        <div class="section">
+          <div class="section-head"><span>Kit location</span></div>
+          <div class="section-body kv">
+            <div class="kv-row"><span>Kit</span><span>${escapeHtml(placementKitTitle(placement))}</span></div>
+            <div class="kv-row"><span>Map</span><span>${escapeHtml(placement.map_name || map.name || '-')}</span></div>
+            <div class="kv-row"><span>Position</span><span>${escapeHtml(positionSummary)}</span></div>
+            <div class="kv-row"><span>Status</span><span>${currentPosition ? 'placed' : 'waiting for click on map'}</span></div>
+          </div>
+        </div>
+        <div class="section">
+          <div class="section-head"><span>Actions</span></div>
+          <div class="section-body">
+            <div class="hint">This is one kit-linked map location. If the same kit appears again, use Add location on the kit candidate list to create another one.</div>
+            <div class="split">
+              <button class="primary" id="set-location-point">${currentPosition ? 'Move point' : 'Place point'}</button>
+              <button class="ghost" id="set-location-box">${currentPosition ? 'Move box' : 'Place box'}</button>
+            </div>
+            <button class="ghost" id="delete-placement">Delete this location</button>
+          </div>
+        </div>
+        ${positionHistorySection}
+        ${selectedHistorySection}
+        ${refinementSection}
+        ${duplicatesSection}
+        ${importReviewSection}
+      `;
+      el('set-location-point')?.addEventListener('click', () => {
+        state.mode = 'point';
+        setActionStatus('ok', 'Click the map to set this kit location.');
+        updateToolButtons();
+      });
+      el('set-location-box')?.addEventListener('click', () => {
+        state.mode = 'box';
+        setActionStatus('ok', 'Drag a box on the map to set this kit location.');
+        updateToolButtons();
+      });
+      el('delete-placement')?.addEventListener('click', async () => {
+        if (!state.adminLocal && !state.adminKey) {
+          setActionStatus('error', 'Deleting locations requires Local admin or an admin key.');
+          return;
+        }
+        if (!confirm('Delete this kit location?')) return;
+        try {
+          await api(`/api/placements/${placement.id}`, {
+            method: 'DELETE',
+            headers: authHeaders()
+          });
+          state.selectedPlacementId = null;
+          state.selectedPositionId = null;
+          setActionStatus('ok', 'Kit location deleted.');
+          await loadPlacements();
+          renderAll();
+          renderPositionLayer();
+        } catch (error) {
+          setActionStatus('error', error.message || 'Failed to delete location.');
+        }
+      });
+      if (isKitLevelPlacement) {
+        renderRefinePartResults();
+        el('refine-part-search')?.addEventListener('input', async (event) => {
+          state.refinePartSearch = event.target.value.trim();
+          const token = ++state.refinePartSearchToken;
+          if (state.refinePartSearch.length < 2) {
+            state.refinePartResults = [];
+            renderRefinePartResults();
+            return;
+          }
+          try {
+            const payload = await api(`/api/entity_search?q=${encodeURIComponent(state.refinePartSearch)}&types=part&limit=20`);
+            if (token !== state.refinePartSearchToken) return;
+            const rows = Array.isArray(payload) ? payload : (payload?.data || []);
+            state.refinePartResults = rows;
+            renderRefinePartResults();
+          } catch (error) {
+            state.refinePartResults = [];
+            renderRefinePartResults();
+            setActionStatus('error', error.message || 'Failed to search parts.');
+          }
+        });
+        el('clear-refine-part')?.addEventListener('click', () => {
+          state.refinePartTarget = null;
+          state.refinePartSearch = '';
+          state.refinePartResults = [];
+          renderInspector();
+        });
+        el('refine-placement-part')?.addEventListener('click', async () => {
+          await refineSelectedPlacementToPart();
+        });
+      }
       wrap.querySelectorAll('[data-open-position]').forEach((node) => {
         node.addEventListener('click', () => {
           state.selectedPositionId = Number(node.dataset.openPosition);
@@ -979,6 +2145,10 @@
       wrap.querySelectorAll('[data-make-current]').forEach((node) => {
         node.addEventListener('click', async (event) => {
           event.stopPropagation();
+          if (!state.adminLocal && !state.adminKey) {
+            setActionStatus('error', 'Marking current positions requires Local admin or an admin key.');
+            return;
+          }
           try {
             await api(`/api/placement_positions/${Number(node.dataset.makeCurrent)}`, {
               method: 'PUT',
@@ -995,6 +2165,10 @@
       wrap.querySelectorAll('[data-delete-position]').forEach((node) => {
         node.addEventListener('click', async (event) => {
           event.stopPropagation();
+          if (!state.adminLocal && !state.adminKey) {
+            setActionStatus('error', 'Deleting position history requires Local admin or an admin key.');
+            return;
+          }
           if (!confirm('Delete this position record?')) return;
           try {
             await api(`/api/placement_positions/${Number(node.dataset.deletePosition)}`, {
@@ -1008,33 +2182,27 @@
           }
         });
       });
-      el('delete-placement')?.addEventListener('click', async () => {
-        if (!state.adminLocal && !state.adminKey) {
-          setActionStatus('error', 'Deleting placements requires Local admin or an admin key.');
-          return;
-        }
-        if (!confirm('Delete this placement record? This removes the object/placement entry itself.')) return;
-        try {
-          await api(`/api/placements/${placement.id}`, {
-            method: 'DELETE',
-            headers: authHeaders()
-          });
-          state.selectedPlacementId = null;
-          state.selectedPositionId = null;
-          setActionStatus('ok', 'Placement deleted.');
-          await loadPlacements();
-          renderAll();
-          renderPositionLayer();
-        } catch (error) {
-          setActionStatus('error', error.message || 'Failed to delete placement.');
-        }
+      wrap.querySelectorAll('[data-merge-into]').forEach((node) => {
+        node.addEventListener('click', async () => {
+          const canonicalId = Number(node.dataset.mergeInto || 0);
+          if (!canonicalId) return;
+          if (!confirm(`Merge placement #${placement.id} into #${canonicalId}?`)) return;
+          await mergePlacementIntoCanonical(placement.id, canonicalId);
+        });
       });
-      bindMapInspector(map);
+      return;
     }
 
     function bindMapInspector(map) {
       el('placement-location-edit')?.addEventListener('input', (event) => {
         state.newPlacementLocation = event.target.value || '';
+      });
+      el('placement-target-type')?.addEventListener('change', (event) => {
+        state.newPlacementTargetType = event.target.value === 'part' ? 'part' : 'kit';
+        state.newPlacementTarget = null;
+        state.newPlacementSearch = '';
+        state.newPlacementResults = [];
+        renderInspector();
       });
       el('placement-target-search')?.addEventListener('input', async (event) => {
         state.newPlacementSearch = event.target.value.trim();
@@ -1045,7 +2213,7 @@
           return;
         }
         try {
-          const payload = await api(`/api/entity_search?q=${encodeURIComponent(state.newPlacementSearch)}&types=part,kit`);
+          const payload = await api(`/api/entity_search?q=${encodeURIComponent(state.newPlacementSearch)}&types=kit`);
           if (token !== state.newPlacementSearchToken) return;
           const rows = Array.isArray(payload) ? payload : (payload?.data || []);
           state.newPlacementResults = rows.slice(0, 10);
@@ -1053,7 +2221,7 @@
         } catch (error) {
           state.newPlacementResults = [];
           renderPlacementTargetResults();
-          setActionStatus('error', error.message || 'Failed to search kits and parts.');
+          setActionStatus('error', error.message || 'Failed to search kits.');
         }
       });
       el('clear-placement-target')?.addEventListener('click', () => {
@@ -1061,11 +2229,12 @@
         state.newPlacementSearch = '';
         state.newPlacementResults = [];
         state.newPlacementLocation = '';
+        state.newPlacementTargetType = 'kit';
         renderInspector();
       });
       el('create-placement')?.addEventListener('click', async () => {
         if (!state.adminLocal && !state.adminKey) {
-          setActionStatus('error', 'Creating placements requires Local admin or an admin key.');
+          setActionStatus('error', 'Creating locations requires Local admin or an admin key.');
           return;
         }
         const modelId = map?.model_id || state.selectedModelId;
@@ -1074,40 +2243,31 @@
           return;
         }
         const target = state.newPlacementTarget;
-        if (!target || !target.entity_type || !target.entity_id) {
-          setActionStatus('error', 'Choose a kit or part first.');
+        if (!target || target.entity_type !== 'kit' || !target.entity_id) {
+          setActionStatus('error', 'Choose a kit first.');
           return;
         }
         const payload = {
           model_id: modelId,
           map_id: map.id,
           location_label: state.newPlacementLocation.trim() || null,
-          confidence: 'probable'
+          confidence: 'probable',
+          notes: 'Kit-level map location. Exact part not identified yet.'
         };
-        if (target.entity_type === 'part') payload.part_id = target.entity_id;
-        else if (target.entity_type === 'kit') payload.kit_id = target.entity_id;
-        else {
-          setActionStatus('error', 'Only kit or part targets are supported here for now.');
-          return;
-        }
+        payload.kit_id = target.entity_id;
         try {
-          setActionStatus('pending', 'Creating placement...');
-          const created = await api('/api/placements', {
-            method: 'POST',
-            headers: authHeaders(),
-            body: JSON.stringify(payload)
-          });
-          await loadPlacements();
-          state.selectedPlacementId = created.id || created?.placement?.id || state.selectedPlacementId;
-          state.selectedPositionId = null;
           state.newPlacementTarget = null;
           state.newPlacementSearch = '';
           state.newPlacementResults = [];
           state.newPlacementLocation = '';
-          setActionStatus('ok', 'Placement created. You can place it on the map now.');
-          await refreshSelectedPlacement();
+          state.newPlacementTargetType = 'kit';
+          armKitLocation({
+            kitId: payload.kit_id,
+            title: target.title,
+            locationLabel: payload.location_label || ''
+          });
         } catch (error) {
-          setActionStatus('error', error.message || 'Failed to create placement.');
+          setActionStatus('error', error.message || 'Failed to start kit location.');
         }
       });
       el('map-name-edit')?.addEventListener('input', (event) => {
@@ -1146,6 +2306,61 @@
         if (search) search.value = '';
         renderMapImageResults();
       });
+      el('placement-image-search')?.addEventListener('input', async (event) => {
+        const placement = selectedPlacement();
+        state.placementImageSearch = event.target.value.trim();
+        const token = ++state.placementImageSearchToken;
+        if (state.placementImageSearch.length < 2) {
+          state.placementImageResults = [];
+          renderPlacementImageResults(placement);
+          return;
+        }
+        try {
+          const payload = await api(`/api/images?q=${encodeURIComponent(state.placementImageSearch)}`);
+          if (token !== state.placementImageSearchToken) return;
+          const rows = Array.isArray(payload) ? payload : (payload?.data || []);
+          state.placementImageResults = rows.slice(0, 8);
+          renderPlacementImageResults(placement);
+        } catch (error) {
+          state.placementImageResults = [];
+          renderPlacementImageResults(placement);
+          setActionStatus('error', error.message || 'Failed to search images.');
+        }
+      });
+      el('placement-image-annotation')?.addEventListener('input', (event) => {
+        state.placementImageAnnotation = event.target.value || '';
+      });
+      el('clear-placement-image-search')?.addEventListener('click', () => {
+        state.placementImageSearch = '';
+        state.placementImageResults = [];
+        state.placementImageAnnotation = '';
+        renderInspector();
+      });
+      el('link-map-backing-image')?.addEventListener('click', async () => {
+        if (!map?.image_id) {
+          setActionStatus('error', 'This map has no backing image to link.');
+          return;
+        }
+        await createPlacementImageLink(map.image_id);
+      });
+      el('placement-claim-image-id')?.addEventListener('change', (event) => {
+        state.claimImageId = event.target.value || '';
+      });
+      el('placement-claim-predicate')?.addEventListener('change', (event) => {
+        state.claimPredicate = event.target.value || 'shows';
+      });
+      el('placement-claim-confidence')?.addEventListener('change', (event) => {
+        state.claimConfidence = event.target.value || 'probable';
+      });
+      el('placement-claim-status')?.addEventListener('change', (event) => {
+        state.claimStatus = event.target.value || 'active';
+      });
+      el('placement-claim-rationale')?.addEventListener('input', (event) => {
+        state.claimRationale = event.target.value || '';
+      });
+      el('save-placement-claim')?.addEventListener('click', async () => {
+        await savePlacementClaim();
+      });
       el('save-map-record')?.addEventListener('click', async () => {
         const draft = ensureMapRecordDraft(map);
         const payload = {
@@ -1173,26 +2388,87 @@
         } catch (error) {
           setActionStatus('error', error.message || 'Failed to save map record.');
         }
-        return;
-        setActionStatus('pending', 'Saving map record…');
-        await api(`/api/maps/${map.id}`, {
-          method: 'PUT',
-          headers: authHeaders(),
-          body: JSON.stringify({
-            model_id: map.model_id,
-            name: el('map-name-edit').value.trim() || map.name,
-            version: el('map-version-edit').value.trim() || null,
-            image_id: el('map-image-id-edit').value.trim() || null,
-            url: map.url || null,
-            map_date: el('map-date-edit').value.trim() || null,
-            notes: el('map-notes-edit').value.trim() || null,
-            attributed_to: map.attributed_to || null
-          })
-        });
-        setActionStatus('ok', 'Map record saved.');
-        await loadMaps();
-        renderAll();
-        fitMap();
+      });
+      el('import-kits-path')?.addEventListener('input', (event) => {
+        state.importKitsPath = event.target.value || '';
+        localStorage.setItem('mapWorkbenchImportKitsPath', state.importKitsPath);
+      });
+      el('import-donors-path')?.addEventListener('input', (event) => {
+        state.importDonorsPath = event.target.value || '';
+        localStorage.setItem('mapWorkbenchImportDonorsPath', state.importDonorsPath);
+      });
+      el('import-clear-report')?.addEventListener('click', () => {
+        state.importReviewResult = null;
+        renderInspector();
+      });
+      el('import-preview')?.addEventListener('click', async () => {
+        if (!state.adminLocal && !state.adminKey) {
+          setActionStatus('error', 'Import preview requires Local admin or an admin key.');
+          return;
+        }
+        try {
+          setActionStatus('pending', 'Running import reconciliation preview...');
+          const payload = await api('/api/imports/reconciliation_preview', {
+            method: 'POST',
+            headers: authHeaders(),
+            body: JSON.stringify({
+              kits_path: state.importKitsPath || null,
+              donors_path: state.importDonorsPath || null
+            })
+          });
+          state.importReviewResult = payload;
+          setActionStatus('ok', 'Import reconciliation preview ready.');
+          renderInspector();
+        } catch (error) {
+          setActionStatus('error', error.message || 'Failed to preview reconciliation.');
+        }
+      });
+      el('import-apply')?.addEventListener('click', async () => {
+        if (!state.adminLocal && !state.adminKey) {
+          setActionStatus('error', 'Import apply requires Local admin or an admin key.');
+          return;
+        }
+        if (!confirm('Apply spreadsheet reconciliation now?')) return;
+        try {
+          setActionStatus('pending', 'Applying spreadsheet reconciliation...');
+          const payload = await api('/api/imports/reconcile_apply', {
+            method: 'POST',
+            headers: authHeaders(),
+            body: JSON.stringify({
+              kits_path: state.importKitsPath || null,
+              donors_path: state.importDonorsPath || null
+            })
+          });
+          state.importReviewResult = payload;
+          await loadMaps();
+          await loadPlacements();
+          setActionStatus('ok', 'Spreadsheet reconciliation applied.');
+          renderAll();
+        } catch (error) {
+          setActionStatus('error', error.message || 'Failed to apply reconciliation.');
+        }
+      });
+      el('import-normalize-part-numbers')?.addEventListener('click', async () => {
+        if (!state.adminLocal && !state.adminKey) {
+          setActionStatus('error', 'Part-number normalization requires Local admin or an admin key.');
+          return;
+        }
+        try {
+          setActionStatus('pending', 'Normalizing decimal-zero part numbers...');
+          const payload = await api('/api/imports/normalize_part_numbers', {
+            method: 'POST',
+            headers: authHeaders(),
+            body: JSON.stringify({ apply: true })
+          });
+          state.importReviewResult = {
+            preview: { normalize_part_numbers: { update_count: payload.update_count || 0 } },
+            reconciliation_report: { normalize_part_numbers_updated: payload.update_count || 0 }
+          };
+          setActionStatus('ok', `Normalized ${payload.update_count || 0} part numbers.`);
+          renderInspector();
+        } catch (error) {
+          setActionStatus('error', error.message || 'Failed to normalize part numbers.');
+        }
       });
     }
 
@@ -1204,6 +2480,10 @@
       }
       const payload = await api(`/api/placements/${state.selectedPlacementId}`);
       const detail = payload.placement || payload;
+      detail.images = payload.images || [];
+      detail.history = payload.history || [];
+      detail.claims = payload.claims || [];
+      detail.contributors = payload.contributors || [];
       detail.positions = payload.positions || [];
       detail.current_position = payload.current_position || null;
       const idx = state.placements.findIndex((row) => row.id === state.selectedPlacementId);
@@ -1230,26 +2510,121 @@
         labelsButton.classList.toggle('primary', !!state.showLabels);
         labelsButton.textContent = state.showLabels ? 'Labels on' : 'Labels off';
       }
+      const markerSizeValue = el('marker-size-value');
+      if (markerSizeValue) markerSizeValue.textContent = `${state.markerSize}px`;
+      const markerColorMode = el('marker-color-mode');
+      if (markerColorMode && markerColorMode.value !== state.markerColorMode) markerColorMode.value = state.markerColorMode;
+      const visKit = el('toggle-visibility-kit');
+      const visPart = el('toggle-visibility-part');
+      const visCast = el('toggle-visibility-cast');
+      if (visKit) visKit.classList.toggle('primary', !!state.markerVisibility.kit);
+      if (visPart) visPart.classList.toggle('primary', !!state.markerVisibility.part);
+      if (visCast) visCast.classList.toggle('primary', !!state.markerVisibility.cast);
+      const labelSize = el('label-size');
+      const labelSizeValue = el('label-size-value');
+      const labelTheme = el('label-theme');
+      if (labelSize && Number(labelSize.value) !== state.labelSize) labelSize.value = String(state.labelSize);
+      if (labelSizeValue) labelSizeValue.textContent = `${state.labelSize}px`;
+      if (labelTheme && labelTheme.value !== state.labelTheme) labelTheme.value = state.labelTheme;
+      const frame = el('canvas-scroll');
+      if (frame) frame.style.cursor = state.mode === 'pan' ? 'grab' : '';
     }
 
     function fitMap() {
       const img = el('map-image');
       const frame = el('canvas-scroll');
-      if (!img || !img.naturalWidth || !frame.clientWidth) return;
+      if (!img || !img.naturalWidth || !frame.clientWidth || !frame.clientHeight) return;
       const scale = Math.min(
         frame.clientWidth / img.naturalWidth,
         frame.clientHeight / img.naturalHeight
       );
-      state.mapImageScale = Math.max(0.1, Math.min(scale || 1, 4));
+      state.mapImageScale = scale || 1;
+      centerMapImage();
       applyMapScale();
+    }
+
+    function centerMapImage() {
+      const frame = el('canvas-scroll');
+      if (!frame || !state.imageSize.width) return;
+      const scaledWidth = state.imageSize.width * state.mapImageScale;
+      const scaledHeight = state.imageSize.height * state.mapImageScale;
+      state.mapPanX = (frame.clientWidth - scaledWidth) / 2;
+      state.mapPanY = (frame.clientHeight - scaledHeight) / 2;
+    }
+
+    function normalizeMapPan() {
+      const frame = el('canvas-scroll');
+      if (!frame || !state.imageSize.width) return;
+      const scaledWidth = state.imageSize.width * state.mapImageScale;
+      const scaledHeight = state.imageSize.height * state.mapImageScale;
+      if (scaledWidth <= frame.clientWidth) {
+        state.mapPanX = (frame.clientWidth - scaledWidth) / 2;
+      }
+      if (scaledHeight <= frame.clientHeight) {
+        state.mapPanY = (frame.clientHeight - scaledHeight) / 2;
+      }
     }
 
     function applyMapScale() {
       const stage = el('map-stage');
-      if (!stage) return;
-      stage.style.transform = `scale(${state.mapImageScale})`;
+      const img = el('map-image');
+      if (!stage || !img) return;
+      if (!selectedMap() || !state.imageSize.width) {
+        stage.style.width = '100%';
+        stage.style.height = '100%';
+        stage.style.transform = 'translate(0px, 0px) scale(1)';
+        stage.style.setProperty('--map-scale', '1');
+        el('zoom-label').textContent = 'Scale 100%';
+        return;
+      }
+      stage.style.width = `${state.imageSize.width}px`;
+      stage.style.height = `${state.imageSize.height}px`;
+      stage.style.transform = `translate(${state.mapPanX}px, ${state.mapPanY}px) scale(${state.mapImageScale})`;
       stage.style.setProperty('--map-scale', String(state.mapImageScale || 1));
+      img.style.width = `${state.imageSize.width}px`;
+      img.style.height = `${state.imageSize.height}px`;
       el('zoom-label').textContent = `Scale ${Math.round(state.mapImageScale * 100)}%`;
+    }
+
+    function visualToMapScale(node) {
+      if (!node?.clientWidth) return 1;
+      const rect = node.getBoundingClientRect();
+      return rect.width / node.clientWidth || 1;
+    }
+
+    function setMapScaleAroundPoint(nextScale, clientX = null, clientY = null) {
+      const frame = el('canvas-scroll');
+      if (!frame || !state.imageSize.width) return;
+      const oldScale = state.mapImageScale || 1;
+      const clamped = Math.max(0.1, Math.min(nextScale || oldScale, 6));
+      if (Math.abs(clamped - oldScale) < 0.0001) return;
+      const rect = frame.getBoundingClientRect();
+      const anchorClientX = clientX ?? (rect.left + rect.width / 2);
+      const anchorClientY = clientY ?? (rect.top + rect.height / 2);
+      const viewportScale = visualToMapScale(frame);
+      const localX = (anchorClientX - rect.left) / viewportScale;
+      const localY = (anchorClientY - rect.top) / viewportScale;
+      state.mapImageScale = clamped;
+      state.mapPanX = localX - (localX - state.mapPanX) * (clamped / oldScale);
+      state.mapPanY = localY - (localY - state.mapPanY) * (clamped / oldScale);
+      applyMapScale();
+    }
+
+    function centerMapOnPoint(clientX, clientY) {
+      if (!selectedMap() || !state.imageSize.width) return;
+      const frame = el('canvas-scroll');
+      const frameRect = frame.getBoundingClientRect();
+      const viewportScale = visualToMapScale(frame);
+      const localX = (clientX - frameRect.left) / viewportScale;
+      const localY = (clientY - frameRect.top) / viewportScale;
+      const contentX = (localX - state.mapPanX) / state.mapImageScale;
+      const contentY = (localY - state.mapPanY) / state.mapImageScale;
+      const targetCenterX = (frameRect.width / 2) / viewportScale;
+      const targetCenterY = (frameRect.height / 2) / viewportScale;
+      state.mapPanX = targetCenterX - (contentX * state.mapImageScale);
+      state.mapPanY = targetCenterY - (contentY * state.mapImageScale);
+      normalizeMapPan();
+      applyMapScale();
     }
 
     function pointerToNorm(event) {
@@ -1266,88 +2641,181 @@
       };
     }
 
-    async function createPositionFromPoint(point) {
-      const placement = selectedPlacement();
+    function createdPlacementId(payload) {
+      const id = payload?.id || payload?.placement?.id;
+      if (!id) throw new Error('Created location did not return an id.');
+      return id;
+    }
+
+    async function createPendingKitPlacement() {
       const map = selectedMap();
-      if (!placement || !map) {
-        setActionStatus('error', 'Select a placement first.');
-        return;
+      const pending = state.pendingKitLocation;
+      const modelId = map?.model_id || state.selectedModelId;
+      if (!pending?.kitId || !map || !modelId) {
+        throw new Error('Choose a kit and map first.');
       }
-      setActionStatus('pending', 'Saving manual point position…');
+      const created = await api('/api/placements', {
+        method: 'POST',
+        headers: authHeaders(),
+        body: JSON.stringify({
+          model_id: modelId,
+          map_id: map.id,
+          kit_id: pending.kitId,
+          location_label: pending.locationLabel || null,
+          confidence: 'probable',
+          notes: 'Kit-level map location. Exact part not identified yet.'
+        })
+      });
+      return createdPlacementId(created);
+    }
+
+    async function savePlacementPosition(placementId, mapId, position) {
       await api('/api/placement_positions', {
         method: 'POST',
         headers: authHeaders(),
         body: JSON.stringify({
-          placement_id: placement.id,
-          map_id: map.id,
-          position_type: 'point',
-          x_norm: point.x,
-          y_norm: point.y,
+          placement_id: placementId,
+          map_id: mapId,
+          position_type: position.position_type,
+          x_norm: position.x_norm,
+          y_norm: position.y_norm,
+          width_norm: position.width_norm || null,
+          height_norm: position.height_norm || null,
           source_kind: 'manual',
-          confidence: placement.confidence || 'probable',
-          supersedes_id: placement.current_position?.id || null,
+          confidence: position.confidence || 'probable',
+          supersedes_id: position.supersedes_id || null,
           is_current: 1
         })
       });
-      setActionStatus('ok', 'Manual point position saved.');
+    }
+
+    async function createPendingKitLocation(position) {
+      const map = selectedMap();
+      if (!state.pendingKitLocation || !map) {
+        setActionStatus('error', 'Choose a kit candidate first.');
+        return;
+      }
+      try {
+        setActionStatus('pending', 'Creating new kit location...');
+        const placementId = await createPendingKitPlacement();
+        await savePlacementPosition(placementId, map.id, {
+          ...position,
+          confidence: 'probable',
+          supersedes_id: null
+        });
+        state.pendingKitLocation = null;
+        state.selectedPlacementId = placementId;
+        state.selectedPositionId = null;
+        state.mode = 'select';
+        setActionStatus('ok', 'New kit location saved.');
+        await loadPlacements();
+        await refreshSelectedPlacement();
+        renderPositionLayer();
+      } catch (error) {
+        setActionStatus('error', error.message || 'Failed to create kit location.');
+      }
+    }
+
+    async function createPositionFromPoint(point) {
+      if (state.pendingKitLocation) {
+        await createPendingKitLocation({
+          position_type: 'point',
+          x_norm: point.x,
+          y_norm: point.y
+        });
+        return;
+      }
+      const placement = selectedPlacement();
+      const map = selectedMap();
+      if (!placement || !map) {
+        setActionStatus('error', 'Select or add a kit location first.');
+        return;
+      }
+      setActionStatus('pending', 'Saving kit location...');
+      await savePlacementPosition(placement.id, map.id, {
+        position_type: 'point',
+        x_norm: point.x,
+        y_norm: point.y,
+        confidence: placement.confidence || 'probable',
+        supersedes_id: placement.current_position?.id || null
+      });
+      state.mode = 'select';
+      setActionStatus('ok', 'Kit location saved.');
       await refreshSelectedPlacement();
       renderPositionLayer();
     }
 
     async function createPositionFromBox(start, end) {
-      const placement = selectedPlacement();
-      const map = selectedMap();
-      if (!placement || !map) {
-        setActionStatus('error', 'Select a placement first.');
-        return;
-      }
       const x = Math.min(start.x, end.x);
       const y = Math.min(start.y, end.y);
       const width = Math.abs(end.x - start.x);
       const height = Math.abs(end.y - start.y);
-      setActionStatus('pending', 'Saving manual box position…');
-      await api('/api/placement_positions', {
-        method: 'POST',
-        headers: authHeaders(),
-        body: JSON.stringify({
-          placement_id: placement.id,
-          map_id: map.id,
+      if (state.pendingKitLocation) {
+        await createPendingKitLocation({
           position_type: 'box',
           x_norm: x,
           y_norm: y,
           width_norm: width,
-          height_norm: height,
-          source_kind: 'manual',
-          confidence: placement.confidence || 'probable',
-          supersedes_id: placement.current_position?.id || null,
-          is_current: 1
-        })
+          height_norm: height
+        });
+        return;
+      }
+      const placement = selectedPlacement();
+      const map = selectedMap();
+      if (!placement || !map) {
+        setActionStatus('error', 'Select or add a kit location first.');
+        return;
+      }
+      setActionStatus('pending', 'Saving kit location...');
+      await savePlacementPosition(placement.id, map.id, {
+        position_type: 'box',
+        x_norm: x,
+        y_norm: y,
+        width_norm: width,
+        height_norm: height,
+        confidence: placement.confidence || 'probable',
+        supersedes_id: placement.current_position?.id || null
       });
-      setActionStatus('ok', 'Manual box position saved.');
+      state.mode = 'select';
+      setActionStatus('ok', 'Kit location saved.');
       await refreshSelectedPlacement();
       renderPositionLayer();
     }
 
     function bindTopLevel() {
-      el('api-base').value = state.apiBase;
-      el('admin-local').checked = state.adminLocal;
-      el('api-save').addEventListener('click', () => {
-        state.apiBase = apiClient.setApiBase(el('api-base').value.trim() || NHTApi.DEFAULT_API_BASE);
-        bootstrap().catch(handleError);
-      });
-      el('admin-key').addEventListener('click', () => {
-        const value = prompt('Admin API key', state.adminKey || '');
-        if (value !== null) {
-          state.adminKey = apiClient.setAdminKey(value);
+      NHTUI.bindTopbarApiControls({
+        apiClient,
+        apiBaseInput: el('api-base'),
+        apiSaveButton: el('api-save'),
+        adminKeyButton: el('admin-key'),
+        adminLocalCheckbox: el('admin-local'),
+        initialApiBase: state.apiBase,
+        initialAdminLocal: state.adminLocal,
+        getCurrentAdminKey: () => state.adminKey || '',
+        adminKeyPrompt: 'Admin API key',
+        onApiSaved: (nextBase) => {
+          state.apiBase = nextBase;
+          bootstrap().catch(handleError);
+        },
+        onAdminKeySaved: (nextKey) => {
+          state.adminKey = nextKey;
+        },
+        onAdminLocalChanged: (nextValue) => {
+          state.adminLocal = nextValue;
         }
       });
-      el('admin-local').addEventListener('change', (event) => {
-        state.adminLocal = apiClient.setAdminLocal(event.target.checked);
+      el('workspace-zoom').addEventListener('input', (event) => {
+        state.workspaceZoom = Number(event.target.value) || 100;
+        applyWorkspaceZoom();
       });
       el('model-filter').addEventListener('change', async (event) => {
         state.selectedModelId = Number(event.target.value) || null;
+        if (state.selectedModelId) localStorage.setItem('mapWorkbenchSelectedModelId', String(state.selectedModelId));
+        else localStorage.removeItem('mapWorkbenchSelectedModelId');
         state.selectedMapId = null;
         state.selectedPlacementId = null;
+        state.selectedPositionId = null;
+        state.pendingKitLocation = null;
         await loadMaps();
         await loadPlacements();
         renderAll();
@@ -1356,9 +2824,22 @@
       el('map-filter').addEventListener('change', async (event) => {
         state.selectedMapId = Number(event.target.value) || null;
         state.selectedPlacementId = null;
+        state.selectedPositionId = null;
+        state.pendingKitLocation = null;
         await loadPlacements();
         renderAll();
         fitMap();
+      });
+      el('placement-class-filter').addEventListener('change', (event) => {
+        state.placementClassFilter = event.target.value || 'all';
+        localStorage.setItem('mapWorkbenchPlacementClassFilter', state.placementClassFilter);
+        if (state.selectedPlacementId && !filteredPlacements().some((placement) => placement.id === state.selectedPlacementId)) {
+          state.selectedPlacementId = null;
+          state.selectedPositionId = null;
+        }
+        renderPlacementList();
+        renderPositionLayer();
+        renderInspector();
       });
       el('placement-search').addEventListener('input', (event) => {
         state.search = event.target.value || '';
@@ -1372,31 +2853,109 @@
         });
       });
       el('zoom-in').addEventListener('click', () => {
-        state.mapImageScale = Math.min(4, state.mapImageScale + 0.1);
-        applyMapScale();
+        setMapScaleAroundPoint(state.mapImageScale * 1.1);
       });
       el('zoom-out').addEventListener('click', () => {
-        state.mapImageScale = Math.max(0.1, state.mapImageScale - 0.1);
-        applyMapScale();
+        setMapScaleAroundPoint(state.mapImageScale / 1.1);
       });
       el('zoom-fit').addEventListener('click', fitMap);
+      el('zoom-reset').addEventListener('click', () => {
+        state.mapImageScale = 1;
+        centerMapImage();
+        applyMapScale();
+      });
       el('toggle-labels').addEventListener('click', () => {
         state.showLabels = !state.showLabels;
         localStorage.setItem('mapWorkbenchShowLabels', state.showLabels ? '1' : '0');
+        localStorage.setItem(GLOBAL_LABEL_VISIBLE_KEY, state.showLabels ? '1' : '0');
         renderPositionLayer();
         updateToolButtons();
+      });
+      el('label-size').addEventListener('input', (event) => {
+        state.labelSize = Math.max(10, Math.min(18, Number(event.target.value) || 13));
+        localStorage.setItem(GLOBAL_LABEL_SIZE_KEY, String(state.labelSize));
+        applyGlobalLabelTheme();
+        updateToolButtons();
+      });
+      el('label-theme').addEventListener('change', (event) => {
+        state.labelTheme = event.target.value || 'light';
+        localStorage.setItem(GLOBAL_LABEL_THEME_KEY, state.labelTheme);
+        applyGlobalLabelTheme();
+        updateToolButtons();
+      });
+      el('marker-color-mode').addEventListener('change', (event) => {
+        state.markerColorMode = event.target.value || 'kit';
+        localStorage.setItem('mapWorkbenchMarkerColorMode', state.markerColorMode);
+        renderPositionLayer();
+      });
+      el('marker-size').addEventListener('input', (event) => {
+        state.markerSize = Math.max(12, Math.min(34, Number(event.target.value) || 20));
+        localStorage.setItem('mapWorkbenchMarkerSize', String(state.markerSize));
+        updateToolButtons();
+        renderPositionLayer();
+      });
+      el('toggle-visibility-kit').addEventListener('click', () => {
+        state.markerVisibility.kit = !state.markerVisibility.kit;
+        localStorage.setItem('mapWorkbenchShowKitMarkers', state.markerVisibility.kit ? '1' : '0');
+        updateToolButtons();
+        renderPositionLayer();
+      });
+      el('toggle-visibility-part').addEventListener('click', () => {
+        state.markerVisibility.part = !state.markerVisibility.part;
+        localStorage.setItem('mapWorkbenchShowPartMarkers', state.markerVisibility.part ? '1' : '0');
+        updateToolButtons();
+        renderPositionLayer();
+      });
+      el('toggle-visibility-cast').addEventListener('click', () => {
+        state.markerVisibility.cast = !state.markerVisibility.cast;
+        localStorage.setItem('mapWorkbenchShowCastMarkers', state.markerVisibility.cast ? '1' : '0');
+        updateToolButtons();
+        renderPositionLayer();
       });
 
       const frame = el('canvas-scroll');
       const draftBox = el('draft-box');
       let dragStart = null;
+      let lastMapPointer = null;
+      const rememberMapPointer = (event) => {
+        lastMapPointer = { clientX: event.clientX, clientY: event.clientY };
+      };
+      frame.addEventListener('pointerenter', rememberMapPointer);
+      frame.addEventListener('pointermove', rememberMapPointer);
+      frame.addEventListener('wheel', (event) => {
+        if (!selectedMap() || !state.imageSize.width) return;
+        event.preventDefault();
+        const nextScale = event.deltaY < 0
+          ? state.mapImageScale * 1.1
+          : state.mapImageScale / 1.1;
+        const anchor = (event.ctrlKey || event.metaKey) && lastMapPointer
+          ? lastMapPointer
+          : event;
+        setMapScaleAroundPoint(nextScale, anchor.clientX, anchor.clientY);
+      }, { passive: false });
       frame.addEventListener('click', async (event) => {
-        if (event.target !== frame && event.target !== el('map-stage') && event.target !== el('position-layer') && event.target !== el('map-image')) return;
+        if (event.target !== el('position-layer')) return;
         if (state.mode !== 'point') return;
         await createPositionFromPoint(pointerToNorm(event));
       });
+      frame.addEventListener('dblclick', (event) => {
+        if (!selectedMap()) return;
+        event.preventDefault();
+        centerMapOnPoint(event.clientX, event.clientY);
+      });
       frame.addEventListener('mousedown', (event) => {
-        if (state.mode !== 'box') return;
+        if (state.mode === 'pan' && selectedMap()) {
+          state.panState = {
+            startX: event.clientX,
+            startY: event.clientY,
+            panX: state.mapPanX,
+            panY: state.mapPanY
+          };
+          frame.classList.add('panning');
+          event.preventDefault();
+          return;
+        }
+        if (state.mode !== 'box' || event.target !== el('position-layer')) return;
         dragStart = pointerToNorm(event);
         draftBox.classList.remove('hidden');
       });
@@ -1412,6 +2971,16 @@
         draftBox.style.width = `${Math.max(w, 6)}px`;
         draftBox.style.height = `${Math.max(h, 6)}px`;
       });
+      window.addEventListener('mousemove', (event) => {
+        if (!state.panState || state.mode !== 'pan') return;
+        const viewportScale = visualToMapScale(frame);
+        const dx = (event.clientX - state.panState.startX) / viewportScale;
+        const dy = (event.clientY - state.panState.startY) / viewportScale;
+        state.mapPanX = state.panState.panX + dx;
+        state.mapPanY = state.panState.panY + dy;
+        normalizeMapPan();
+        applyMapScale();
+      });
       window.addEventListener('mouseup', async (event) => {
         if (!dragStart || state.mode !== 'box') return;
         const end = pointerToNorm(event);
@@ -1421,9 +2990,29 @@
         if (Math.abs(end.x - start.x) < 0.002 || Math.abs(end.y - start.y) < 0.002) return;
         await createPositionFromBox(start, end);
       });
+      window.addEventListener('mouseup', () => {
+        if (!state.panState) return;
+        state.panState = null;
+        frame.classList.remove('panning');
+      });
       window.addEventListener('resize', () => {
         fitMap();
       });
+      document.addEventListener('wheel', (event) => {
+        if (!(event.ctrlKey || event.metaKey)) return;
+        if (event.target?.closest('#canvas-scroll')) return;
+        event.preventDefault();
+      }, { passive: false, capture: true });
+      ['gesturestart', 'gesturechange', 'gestureend'].forEach((type) => {
+        document.addEventListener(type, (event) => {
+          event.preventDefault();
+        }, { passive: false, capture: true });
+      });
+      document.addEventListener('touchmove', (event) => {
+        if ((event.touches?.length || 0) > 1) {
+          event.preventDefault();
+        }
+      }, { passive: false, capture: true });
     }
 
     async function bootstrap() {
@@ -1444,6 +3033,8 @@
     }
 
     bindTopLevel();
+    applyWorkspaceZoom();
+    applyGlobalLabelTheme();
     bootstrap().catch(handleError);
   </script>
 </body>

@@ -23,4 +23,4 @@ if (-not (Test-Path $dbPath)) {
 Write-Host "Starting Datasette serving $dbPath on http://127.0.0.1:8001"
 Write-Host "Press Ctrl+C to stop."
 
-datasette serve $dbPath --host 127.0.0.1 --port 8001
+python -m datasette serve $dbPath --host 127.0.0.1 --port 8001
