@@ -1,0 +1,690 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NuHopeTools Workbench — Positions Prototype</title>
+  <link rel="stylesheet" href="shared/ui_base.css">
+  <style>
+    /* Inherit most styles from workbench; add minimal placement CSS for prototype */
+    :root {
+      --bg: #f3ede5;
+      --panel: #fffaf4;
+      --panel-2: #f4ebdf;
+      --panel-3: #ede1d4;
+      --surface: #f0e5d8;
+      --line: #d4c2ae;
+      --ink: #2f241b;
+      --ink-2: #5b4838;
+      --ink-3: #85715f;
+      --accent: #b66c2d;
+      --accent-2: #2f7c8a;
+      --warn: #b74f2f;
+      --danger: #b74f2f;
+      --shadow: 0 10px 28px rgba(47, 36, 27, 0.12);
+      --control-height: 36px;
+      --overlay-label-size: 12px;
+      --overlay-label-bg: rgba(255, 252, 248, 0.92);
+      --overlay-label-ink: #2f241b;
+      --overlay-label-line: rgba(92, 72, 56, 0.36);
+      --mono: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      --sans: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      --radius: 12px;
+    }
+    * { box-sizing: border-box; }
+    html, body { height: 100%; margin: 0; background: radial-gradient(circle at top left, #fbf6ef 0%, var(--bg) 58%); color: var(--ink); font-family: var(--sans); }
+    body { display: flex; flex-direction: column; overflow: hidden; touch-action: pan-x pan-y; }
+    /* reuse the workbench layout styles (kept concise here) */
+    .workbench-shell { flex: 1; min-height: 0; display: flex; flex-direction: column; }
+    .app { flex: 1; display: grid; grid-template-columns: 320px minmax(0, 1fr) 380px; min-height: 0; }
+    .panel { overflow: hidden; }
+    .panel-head { padding: 12px 14px; position: sticky; top: 0; z-index: 5; }
+    .panel-body { height: calc(100% - 56px); overflow: auto; padding: 12px; }
+    .library-list { display: grid; gap: 8px; }
+    .library-scroll { overflow: auto; max-height: calc(100vh - 200px); }
+    /* Image list responsive styles (copied/simplified from workbench) */
+    .image-row {
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 8px;
+      background: rgba(255,255,255,0.92);
+      cursor: pointer;
+      display: grid;
+      grid-template-columns: 64px 1fr;
+      gap: 8px;
+      align-items: center;
+    }
+    .image-row.active { border-color: var(--accent); background: rgba(182, 108, 45, 0.08); }
+    .image-row-thumb-wrap { position: relative; width: 64px; min-width: 64px; }
+    .image-row-thumb { width: 64px; height: 64px; border-radius: 10px; object-fit: cover; background: rgba(255,255,255,0.96); border: 1px solid rgba(47, 36, 27, 0.06); display: block; }
+    .image-row-body { min-width: 0; display: grid; gap: 3px; }
+    .image-row-title { font-size: 13px; line-height: 1.25; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+    .image-row-meta { color: var(--ink-3); font: 11px var(--ui-mono); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    @media (max-width: 680px) {
+      .app { grid-template-columns: 260px 1fr 360px; }
+      .image-row { grid-template-columns: 56px 1fr; }
+      .image-row-thumb, .image-row-thumb-wrap { width: 56px; min-width: 56px; height: 56px; }
+    }
+    .center { display: flex; flex-direction: column; min-width: 0; background: linear-gradient(180deg, rgba(250,244,236,0.98), rgba(242,233,223,1)); }
+    .canvas-meta { display: grid; gap: 10px; padding: 12px 14px; border-bottom: 1px solid var(--line); position: sticky; top: 0; z-index: 10; }
+    .canvas-shell { flex: 1; min-height: 0; display: flex; flex-direction: column; padding: 12px; gap: 8px; overflow: hidden; }
+    .canvas-frame { flex: 1; min-height: 0; position: relative; padding: 0 44px; }
+    .canvas-scroll { width: 100%; height: 100%; overflow: hidden; border: 1px solid var(--line); border-radius: 16px; background: #f4ece2; position: relative; }
+    .canvas-stage { position: absolute; transform-origin: top left; }
+    .canvas-image { display: block; max-width: none; user-select: none; -webkit-user-drag: none; border-radius: 10px; box-shadow: var(--shadow); }
+    /* Position overlay styles (minimal, reuse map_workbench look) */
+    .position-layer { position: absolute; inset: 0; pointer-events: none; }
+    .placement { position: absolute; pointer-events: auto; border: 2px solid rgba(255,255,255,0.92); border-radius: 999px; box-shadow: 0 0 0 3px rgba(0,0,0,0.95), 0 7px 16px rgba(0,0,0,0.42); background: rgba(10,8,6,0.92); }
+    .placement.point { transform: translate(-50%, -50%); }
+    .placement.box { border-radius: 6px; background: rgba(20,17,14,0.18); }
+    .placement.current::after { content: ''; position: absolute; inset: -6px; border: 1px solid rgba(0,0,0,0.64); border-radius: inherit; pointer-events: none; }
+    .placement.point::before { content: ''; position: absolute; left: 50%; top: 50%; width: calc(var(--marker-size, 20px) * 0.55); height: calc(var(--marker-size, 20px) * 0.55); transform: translate(-50%, -50%); border-radius: 999px; background: var(--marker-fill, #ff9f1c); box-shadow: 0 0 0 2px rgba(10,8,6,0.94), 0 0 0 3px rgba(255,255,255,0.88); }
+    .placement-label { position: absolute; left: 50%; bottom: calc(100% + 6px); transform: translateX(-50%) scale(calc(1 / var(--canvas-scale, 1))); transform-origin: bottom center; white-space: nowrap; font-size: var(--overlay-label-size); line-height: 1.2; font-weight: 600; color: var(--overlay-label-ink); background: var(--overlay-label-bg); border: 1px solid var(--overlay-label-line); border-radius: 999px; padding: 5px 12px; display: none; z-index: 2; box-shadow: 0 2px 8px rgba(47, 36, 27, 0.18); }
+    .placement:hover .placement-label, .placement.active .placement-label, .placement.show-label .placement-label { display: block; }
+    /* Region overlay styles (missing in prototype) */
+    .region-layer { position: absolute; inset: 0; pointer-events: none; }
+    .region { position: absolute; pointer-events: auto; border-radius: 8px; box-sizing: border-box; }
+    .region.point { transform: translate(-50%, -50%); background: rgba(255,255,255,0.06); }
+    .region.box { background: rgba(255,255,255,0.02); }
+    .region .region-label { position: absolute; left: 0; transform-origin: left top; white-space: nowrap; font-weight: 600; color: var(--overlay-label-ink); background: var(--overlay-label-bg); border: 1px solid var(--overlay-label-line); border-radius: 8px; padding: 4px 8px; display: none; z-index: 2; box-shadow: 0 2px 8px rgba(47,36,27,0.12); }
+    .region.show-label .region-label, .region:hover .region-label, .region.active .region-label { display: block; }
+    /* Ensure empty-state inside canvas-stage hides reliably after image load */
+    .canvas-stage .empty-state { position: absolute; left: 12px; top: 12px; padding: 8px 10px; background: rgba(255,255,255,0.9); border-radius: 8px; z-index: 5; border: 1px solid rgba(0,0,0,0.06); }
+    .canvas-stage .empty-state.hidden { display: none !important; }
+  </style>
+</head>
+<body>
+  <div class="workbench-shell" id="workbench-shell">
+  <header class="topbar">
+    <div class="brand">
+      <div class="eyebrow">NuHopeTools / Prototype</div>
+      <div class="title">Workbench — Positions Prototype</div>
+    </div>
+    <nav class="tool-links" aria-label="Tool navigation">
+      <a class="tool-link" href="index.html">Home</a>
+      <a class="tool-link" href="entity_browser.html">Entity Browser</a>
+      <a class="tool-link" href="workbench.html">Image Workbench</a>
+      <a class="tool-link" href="map_workbench.html">Map Workbench</a>
+    </nav>
+    <div class="topbar-controls">
+      <input class="field api-base" id="api-base" value="http://localhost:5000" aria-label="API base">
+      <button id="api-save">Save API</button>
+      <button id="admin-key">Admin key</button>
+      <label style="display:inline-flex;align-items:center;gap:8px;margin-left:8px;font-size:13px;color:var(--ink-3);">
+        <input id="admin-local" type="checkbox" aria-label="Admin local mode">
+        <span>Admin</span>
+      </label>
+    </div>
+  </header>
+
+  <main class="app" id="app-root">
+    <aside class="panel">
+      <div class="panel-head">
+        <div>
+          <div class="panel-title">Library</div>
+          <div class="panel-sub" id="library-meta">Images</div>
+        </div>
+      </div>
+      <div class="panel-body library-body">
+        <div class="filters">
+          <input class="field" id="image-search" placeholder="Search images, source, notes">
+          <div class="filter-row">
+            <select id="image-type">
+              <option value="">All image types</option>
+              <option value="model_shop">Model shop</option>
+              <option value="reference">Reference</option>
+              <option value="exhibition">Exhibition</option>
+              <option value="kit_scan">Kit scan</option>
+              <option value="box_art">Box art</option>
+              <option value="other">Other</option>
+            </select>
+            <select id="region-filter">
+              <option value="">Any image</option>
+              <option value="with_regions">With regions</option>
+              <option value="with_claims">With rationale</option>
+            </select>
+          </div>
+        </div>
+        <div class="library-scroll" id="library-scroll">
+          <div class="library-list" id="image-list"></div>
+        </div>
+      </div>
+    </aside>
+
+    <section class="center">
+      <div class="canvas-meta">
+        <div class="canvas-headline">
+          <div class="canvas-title" id="canvas-title">Select an image</div>
+          <div class="canvas-sub" id="canvas-sub">Browse the image library to begin.</div>
+        </div>
+        <div class="canvas-toolbar-row">
+          <div class="toolbar-group">
+            <span class="toolbar-group-label">View</span>
+            <button id="zoom-out">-</button>
+            <button id="zoom-in">+</button>
+            <button id="zoom-fit">Fit</button>
+            <button id="zoom-reset">1:1</button>
+            <span class="toolbar-pill" id="zoom-label">Scale 100%</span>
+          </div>
+          <div class="toolbar-group">
+            <span class="toolbar-group-label">Annotate</span>
+            <button id="mode-select" class="primary">Select</button>
+            <button id="mode-pan">Pan</button>
+            <button id="mode-point">Add point</button>
+            <button id="mode-box">Add box</button>
+            <button id="toggle-labels">Labels off</button>
+          </div>
+          <div class="toolbar-group">
+            <span class="toolbar-group-label">Labels</span>
+            <label class="toolbar-inline" for="label-theme">Theme
+              <select id="label-theme">
+                <option value="light">Light</option>
+                <option value="dark">Dark</option>
+                <option value="accent">Accent</option>
+              </select>
+            </label>
+            <label class="toolbar-inline" for="label-size">Text
+              <input id="label-size" type="range" min="10" max="18" step="1" value="12">
+              <span id="label-size-value" class="label-size-value">12px</span>
+            </label>
+          </div>
+          <div class="toolbar-group">
+            <span class="toolbar-group-label">Overlay</span>
+            <button id="toggle-positions">Positions off</button>
+          </div>
+        </div>
+      </div>
+      <div class="canvas-shell">
+        <div class="canvas-frame">
+          <div class="canvas-scroll" id="canvas-scroll">
+            <div class="canvas-scroll-inner">
+              <div class="canvas-stage" id="canvas-stage">
+                <div class="empty-state" id="canvas-empty">No image selected yet.</div>
+                <img id="canvas-image" class="canvas-image hidden" alt="">
+                <div id="region-layer" class="region-layer hidden"></div>
+                <div id="position-layer" class="position-layer hidden"></div>
+                <div id="draft-box" class="draft-box hidden"></div>
+              </div>
+            </div>
+          </div>
+          <button class="canvas-nav prev" id="prev-image" aria-label="Previous image"><span>&lsaquo;</span></button>
+          <button class="canvas-nav next" id="next-image" aria-label="Next image"><span>&rsaquo;</span></button>
+        </div>
+        <div id="selection-tray" class="selection-tray empty"></div>
+        <div class="canvas-adjustments">
+          <div class="adj-group">
+            <span class="adj-label">Brightness</span>
+            <input id="adjust-brightness" class="adj-slider" type="range" min="0" max="200" value="100">
+            <span class="adj-val" id="adjust-brightness-value">100</span>
+            <button type="button" class="adj-reset" data-reset-adjust="brightness" aria-label="Reset brightness">&#8634;</button>
+          </div>
+          <div class="adj-group">
+            <span class="adj-label">Contrast</span>
+            <input id="adjust-contrast" class="adj-slider" type="range" min="0" max="200" value="100">
+            <span class="adj-val" id="adjust-contrast-value">100</span>
+            <button type="button" class="adj-reset" data-reset-adjust="contrast" aria-label="Reset contrast">&#8634;</button>
+          </div>
+          <div class="adj-group">
+            <span class="adj-label">Saturation</span>
+            <input id="adjust-saturation" class="adj-slider" type="range" min="0" max="200" value="100">
+            <span class="adj-val" id="adjust-saturation-value">100</span>
+            <button type="button" class="adj-reset" data-reset-adjust="saturation" aria-label="Reset saturation">&#8634;</button>
+          </div>
+          <div class="adj-group">
+            <span class="adj-label">Gamma</span>
+            <input id="adjust-gamma" class="adj-slider" type="range" min="40" max="200" value="100">
+            <span class="adj-val" id="adjust-gamma-value">100</span>
+            <button type="button" class="adj-reset" data-reset-adjust="gamma" aria-label="Reset gamma">&#8634;</button>
+          </div>
+          <button type="button" class="adj-reset" id="adjust-reset-all">Reset all</button>
+        </div>
+      </div>
+    </section>
+
+    <aside class="panel">
+      <div class="panel-head">
+        <div>
+          <div class="panel-title">Inspector</div>
+          <div class="panel-sub" id="inspector-meta">Nothing selected</div>
+        </div>
+      </div>
+      <div class="panel-body">
+        <div class="stack" id="inspector-stack"></div>
+      </div>
+    </aside>
+  </main>
+  </div>
+
+  <script src="shared/api_client.js"></script>
+  <script src="shared/ui_shell.js"></script>
+  <script>
+    const apiClient = NHTApi.createStoredClient({ apiBaseKey: 'workbenchApiBase' });
+
+    const GLOBAL_UI_BASE_SCALE = 0.8;
+    const GLOBAL_LABEL_VISIBLE_KEY = 'nhtGlobalLabelsVisible';
+    const GLOBAL_LABEL_SIZE_KEY = 'nhtGlobalLabelSize';
+    const GLOBAL_LABEL_THEME_KEY = 'nhtGlobalLabelTheme';
+
+    function parseIntParam(value) { const num = Number(value); return Number.isFinite(num) && num > 0 ? num : null; }
+
+    function parseStartupSelection() {
+      const params = new URLSearchParams(window.location.search);
+      const imageId = parseIntParam(params.get('image_id') || params.get('imageId'));
+      const regionId = parseIntParam(params.get('region_id') || params.get('regionId'));
+      const regionFilter = params.has('region_filter') ? params.get('region_filter') : (imageId ? '' : 'with_regions');
+      return { imageId, regionId, regionFilter, applied: false };
+    }
+
+    const startupSelection = parseStartupSelection();
+
+    const state = {
+      apiBase: apiClient.getApiBase(),
+      images: [],
+      filters: { q: '', image_type: '', region_filter: startupSelection.regionFilter },
+      selectedImageId: null,
+      selectedImage: null,
+      selectedRegionId: null,
+      selectedRegionDetail: null,
+      imageScale: 1,
+      panX: 0,
+      panY: 0,
+      workspaceZoom: NHTUI.readWorkspaceZoom('workbenchWorkspaceZoom', 100),
+      imageSize: { width: 0, height: 0 },
+      imageAdjustments: { brightness: 100, contrast: 100, saturation: 100, gamma: 100 },
+      mode: 'select',
+      showRegionLabels: localStorage.getItem(GLOBAL_LABEL_VISIBLE_KEY) ? localStorage.getItem(GLOBAL_LABEL_VISIBLE_KEY) === '1' : false,
+      labelSize: Math.max(10, Math.min(18, Number(localStorage.getItem(GLOBAL_LABEL_SIZE_KEY) || 12))),
+      labelTheme: localStorage.getItem(GLOBAL_LABEL_THEME_KEY) || 'light',
+      lastFitScale: null,
+      draftClaimOpen: false,
+      showPositions: false,
+      positions: [],
+      imageCache: {},
+      familyCache: {},
+      imageRequestToken: 0,
+      regionRequestToken: 0,
+      startupSelection
+    };
+
+    const el = (id) => document.getElementById(id);
+
+    async function api(path, options={}) { return apiClient.request(path, options); }
+
+    function escapeHtml(value) { return String(value ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;'); }
+
+    /* Render regions (copied from workbench) — unchanged */
+    function renderRegions() {
+      const layer = el('region-layer');
+      const draft = el('draft-box');
+      draft.classList.add('hidden');
+      if (!state.selectedImage || !state.imageSize.width) {
+        layer.innerHTML = '';
+        return;
+      }
+      const invScale = 1 / Math.max(state.imageScale || 1, 0.1);
+      const pointSize = 10 * invScale;
+      const pointOffset = -5 * invScale;
+      const pointBorder = 1.5 * invScale;
+      const pointHalo = 0.65 * invScale;
+      const pointActiveRing = 1.8 * invScale;
+      const boxBorder = 2 * invScale;
+      const labelTop = -22 * invScale;
+      const labelScale = invScale;
+      const regions = state.selectedImage.regions || [];
+      layer.innerHTML = regions.map((region) => {
+        const active = region.id === state.selectedRegionId ? 'active' : '';
+        const linked = region.entity_type && region.entity_id ? 'linked' : 'unlinked';
+        const showLabel = (state.showRegionLabels || region.id === state.selectedRegionId) ? 'show-label' : '';
+        const displayTitle = region.label || `Region ${region.id}`;
+        if (region.region_type === 'box') {
+          const left = (region.x_norm || 0) * state.imageSize.width;
+          const top = (region.y_norm || 0) * state.imageSize.height;
+          const width = (region.width_norm || 0) * state.imageSize.width;
+          const height = (region.height_norm || 0) * state.imageSize.height;
+          return `\n            <div class="region box ${active} ${linked} ${showLabel}" data-region-id="${region.id}"\n                 style="left:${left}px;top:${top}px;width:${Math.max(width, 10)}px;height:${Math.max(height, 10)}px;border-width:${boxBorder}px;">\n              <div class="region-label" style="top:${labelTop}px;transform:scale(${labelScale});transform-origin:left top;font-size:${state.labelSize}px;">${escapeHtml(displayTitle)}</div>\n            </div>\n          `;
+        }
+        const left = (region.x_norm || 0) * state.imageSize.width;
+        const top = (region.y_norm || 0) * state.imageSize.height;
+        return `\n          <div class="region point ${active} ${linked} ${showLabel}" data-region-id="${region.id}"\n               style="left:${left}px;top:${top}px;width:${pointSize}px;height:${pointSize}px;margin-left:${pointOffset}px;margin-top:${pointOffset}px;border-width:${pointBorder}px;--region-marker-halo:${pointHalo}px;--region-marker-active-ring:${pointActiveRing}px;">\n            <div class="region-label" style="top:${labelTop}px;transform:scale(${labelScale});transform-origin:left top;font-size:${state.labelSize}px;">${escapeHtml(displayTitle)}</div>\n          </div>\n        `;
+      }).join('');
+      layer.querySelectorAll('[data-region-id]').forEach((node) => {
+        node.addEventListener('click', async (event) => {
+          event.stopPropagation();
+          if (state.mode === 'pan') return;
+          // use existing region selection
+          const id = Number(node.dataset.regionId);
+          if (id) selectRegion(id).catch(handleError);
+        });
+      });
+      updateModeButtons();
+    }
+
+    function applyStageScale() {
+      if (!state.selectedImage || !state.imageSize.width) return;
+      updateCanvasTransform();
+      renderRegions();
+      renderPositions();
+    }
+
+    /* Positions prototype — fetch and render placement markers read-only */
+    async function fetchAndRenderPositionsForSelectedImage() {
+      const layer = el('position-layer');
+      if (!layer) return;
+      if (!state.selectedImage || !state.showPositions) {
+        state.positions = [];
+        layer.classList.add('hidden');
+        layer.innerHTML = '';
+        return;
+      }
+      // load all maps and filter client-side for maps that use this image as backing image
+      const mapsPayload = await api('/api/maps');
+      const maps = Array.isArray(mapsPayload) ? mapsPayload : (mapsPayload?.data || []);
+      const imageMaps = maps.filter((m) => Number(m.image_id) === Number(state.selectedImage.id));
+      if (!imageMaps.length) {
+        state.positions = [];
+        renderPositions();
+        return;
+      }
+      let placements = [];
+      for (const mp of imageMaps) {
+        try {
+          const payload = await api(`/api/placements?map_id=${mp.id}`);
+          const rows = Array.isArray(payload) ? payload : (payload?.data || []);
+          placements = placements.concat(rows || []);
+        } catch (err) {
+          console.warn('Failed loading placements for map', mp.id, err);
+        }
+      }
+      state.positions = placements;
+      renderPositions();
+    }
+
+    function renderPositions() {
+      const layer = el('position-layer');
+      if (!layer) return;
+      if (!state.showPositions) { layer.classList.add('hidden'); layer.innerHTML = ''; return; }
+      if (!state.selectedImage || !state.imageSize.width) { layer.classList.add('hidden'); layer.innerHTML = ''; return; }
+      layer.classList.remove('hidden');
+      const imgW = state.imageSize.width;
+      const imgH = state.imageSize.height;
+      // state.positions already loaded per-map for this image; show entries that have a current_position
+      const placementsToShow = (state.positions || []).filter((p) => p.current_position);
+      const markerSize = 20;
+      layer.innerHTML = placementsToShow.map((placement) => {
+        const pos = placement.current_position;
+        const title = placement.kit_name || placement.location_label || placement.brand || `Placement ${placement.id}`;
+        const left = (pos.x_norm || 0) * imgW;
+        const top = (pos.y_norm || 0) * imgH;
+        if (pos.position_type === 'box') {
+          const width = Math.max((pos.width_norm || 0) * imgW, 10);
+          const height = Math.max((pos.height_norm || 0) * imgH, 10);
+          const border = 2;
+          return `<div class="placement box current" data-placement-id="${placement.id}" style="left:${left}px;top:${top}px;width:${width}px;height:${height}px;border-width:${border}px;"><div class="placement-label">${escapeHtml(title)}</div></div>`;
+        }
+        return `<div class="placement point current" data-placement-id="${placement.id}" style="left:${left}px;top:${top}px;width:${markerSize}px;height:${markerSize}px;--marker-size:${markerSize}px;"><div class="placement-label">${escapeHtml(title)}</div></div>`;
+      }).join('');
+    }
+
+    /* Minimal other helpers used by the workbench; re-use existing functions where possible */
+    function updateModeButtons() { ['select','pan','point','box'].forEach((mode)=>{ el(`mode-${mode}`)?.classList.toggle('primary', state.mode===mode); }); el('toggle-labels')?.classList.toggle('primary', state.showRegionLabels); el('toggle-labels').textContent = state.showRegionLabels ? 'Labels on' : 'Labels off'; }
+
+    /* Keep the rest of workbench behaviour: image list, selectImage, rendering, etc. For brevity reuse core flows. */
+    async function loadImages() {
+      const params = new URLSearchParams();
+      if (state.filters.q) params.set('q', state.filters.q);
+      if (state.filters.image_type) params.set('image_type', state.filters.image_type);
+      params.set('collapse_family', '1');
+      const data = await api(`/api/images?${params.toString()}`);
+      let rows = Array.isArray(data) ? data : (data?.data || []);
+      if (state.filters.region_filter === 'with_regions') rows = rows.filter((img)=> (img.region_count || 0) > 0);
+      if (state.filters.region_filter === 'with_claims') rows = rows.filter((img)=> (img.claim_count || 0) > 0);
+      state.images = rows;
+      el('library-meta').textContent = `${rows.length} browse entries`;
+      renderImageList();
+      if (!state.startupSelection.applied && state.startupSelection.imageId) {
+        state.startupSelection.applied = true;
+        await selectImage(state.startupSelection.imageId, { preferCache: true, preserveView: false });
+        if (state.startupSelection.regionId) try { await selectRegion(state.startupSelection.regionId); } catch(e){}
+        return;
+      }
+      if (!state.selectedImageId && rows.length) await selectImage(rows[0].id, { preferCache: true });
+      else if (state.selectedImageId && !rows.find((row) => row.id === state.selectedImageId)) { state.selectedImageId = null; state.selectedImage = null; if (rows.length) await selectImage(rows[0].id, { preferCache: true }); else renderWorkspace(); }
+    }
+
+    function renderImageList() {
+      const list = el('image-list');
+      if (!state.images.length) { list.innerHTML = '<div class="empty-state">No images match the current filters.</div>'; updateImageNavigation(); return; }
+      list.innerHTML = state.images.map((image) => {
+        const srcCandidate = image.url || image.thumbnail_url || image.storage_path || image.image_url || '';
+        const thumb = srcCandidate ? apiClient.resolveUrl(srcCandidate) : '';
+        return `
+        <div class="image-row" data-image-id="${image.id}" title="${escapeHtml(image.title || image.image_code || `Image ${image.id}`)}">
+          <div class="image-row-thumb-wrap"><img class="image-row-thumb" src="${escapeHtml(thumb)}" alt=""></div>
+          <div class="image-row-body"><div class="image-row-title">${escapeHtml(image.title||image.image_code||`Image ${image.id}`)}</div></div>
+        </div>
+      `;
+      }).join('');
+      list.querySelectorAll('[data-image-id]').forEach((node)=>{ node.addEventListener('click', async ()=>{ await selectImage(Number(node.dataset.imageId)); }); });
+      updateImageNavigation();
+    }
+
+    async function selectImage(imageId, options={}) {
+      const preservedView = options.preserveView ? rememberCanvasView() : null;
+      state.selectedImageId = imageId;
+      state.selectedRegionId = null;
+      state.selectedRegionDetail = null;
+      const cached = state.imageCache[imageId];
+      if (cached) { state.selectedImage = cached; renderImageList(); renderWorkspace(); setCanvasImage({ preserveView: Boolean(preservedView), view: preservedView }); }
+      const payload = await api(`/api/images/${imageId}`);
+      state.selectedImage = payload.image || payload;
+      state.selectedImage.regions = payload.regions || [];
+      state.imageCache[imageId] = state.selectedImage;
+      renderImageList(); renderWorkspace(); setCanvasImage({ preserveView: Boolean(preservedView), view: preservedView });
+    }
+
+    function renderWorkspace() { const image = state.selectedImage; el('canvas-title').textContent = image ? (image.title||image.image_code||`Image ${image.id}`) : 'Select an image'; el('canvas-sub').textContent = image ? [image.source_title||image.source, image.image_type||'other'].filter(Boolean).join(' / ') : 'Browse the image library to begin.'; renderRegions(); renderSelectionTray(); renderInspector(); }
+
+    function setCanvasImage(options={}) {
+      const image = state.selectedImage;
+      const imgEl = el('canvas-image');
+      const empty = el('canvas-empty');
+      const layer = el('region-layer');
+      if (!image) { imgEl.classList.add('hidden'); layer.classList.add('hidden'); empty.classList.remove('hidden'); empty.textContent = 'No image selected yet.'; imgEl.style.filter = ''; return; }
+      let src = image.url || image.storage_path || image.image_url || image.thumbnail_url || '';
+      if (!src) { imgEl.classList.add('hidden'); layer.classList.add('hidden'); empty.classList.remove('hidden'); empty.textContent = 'This image record has no displayable URL yet.'; imgEl.style.filter = ''; return; }
+      // Resolve relative paths against API base so pages served from a static host still load images from backend
+      const resolvedSrc = apiClient.resolveUrl(src);
+      empty.classList.add('hidden'); imgEl.classList.remove('hidden'); layer.classList.remove('hidden');
+      const applyLoadedImage = () => {
+        state.imageSize.width = imgEl.naturalWidth || image.width || 1200;
+        state.imageSize.height = imgEl.naturalHeight || image.height || 800;
+        if (options.preserveView && options.view) {
+          state.imageScale = options.view.scale || fitScale();
+          state.panX = Number.isFinite(options.view.panX) ? options.view.panX : 0;
+          state.panY = Number.isFinite(options.view.panY) ? options.view.panY : 0;
+          normalizeCanvasPan();
+          // preserved view considered manual — do not auto-fit on resize
+          state.lastFitScale = null;
+        } else {
+          state.imageScale = fitScale();
+          centerCanvasImage();
+          // record the fit scale so window resize can re-fit automatically
+          state.lastFitScale = state.imageScale;
+        }
+        renderRegions(); applyStageScale(); applyImageAdjustments();
+        // fetch and render positions overlay for this image (prototype) when enabled
+        fetchAndRenderPositionsForSelectedImage().catch(handleError);
+      };
+      if (imgEl.src === resolvedSrc && imgEl.complete && imgEl.naturalWidth) { applyLoadedImage(); return; }
+      imgEl.onload = applyLoadedImage; imgEl.src = resolvedSrc;
+    }
+
+    /* Minimal navigation helpers */
+    function updateImageNavigation() { const prev = el('prev-image'), next = el('next-image'); if (!prev || !next) return; const hasImages = state.images.length > 0; prev.disabled = !hasImages; next.disabled = !hasImages; }
+    async function navigateImage(offset) { const idx = state.images.findIndex((i)=>i.id===state.selectedImageId); if (idx===-1) return; const next = state.images[idx+offset]; if (!next) return; await selectImage(next.id); }
+
+    function rememberCanvasView() { return { scale: state.imageScale, panX: state.panX, panY: state.panY }; }
+    function fitScale() { const scroll = el('canvas-scroll'); const width = state.imageSize.width || 1200; const height = state.imageSize.height || 800; const availW = Math.max(scroll.clientWidth, 320); const availH = Math.max(scroll.clientHeight, 240); return Math.min(availW / width, availH / height); }
+    function centerCanvasImage() { const scroll = el('canvas-scroll'); if (!scroll || !state.imageSize.width) return; const scaledWidth = state.imageSize.width * state.imageScale; const scaledHeight = state.imageSize.height * state.imageScale; state.panX = (scroll.clientWidth - scaledWidth) / 2; state.panY = (scroll.clientHeight - scaledHeight) / 2; }
+    function normalizeCanvasPan() { const scroll = el('canvas-scroll'); if (!scroll || !state.imageSize.width) return; const scaledWidth = state.imageSize.width * state.imageScale; const scaledHeight = state.imageSize.height * state.imageScale; if (scaledWidth <= scroll.clientWidth) state.panX = (scroll.clientWidth - scaledWidth) / 2; if (scaledHeight <= scroll.clientHeight) state.panY = (scroll.clientHeight - scaledHeight) / 2; }
+    function updateCanvasTransform() { const stage = el('canvas-stage'); const imgEl = el('canvas-image'); if (!stage || !imgEl) return; if (!state.selectedImage || !state.imageSize.width) { stage.style.width='0px'; stage.style.height='0px'; stage.style.transform='translate(0px,0px) scale(1)'; stage.style.setProperty('--canvas-scale','1'); el('zoom-label').textContent='Scale 100%'; return; } stage.style.width = `${state.imageSize.width}px`; stage.style.height = `${state.imageSize.height}px`; stage.style.left = '0'; stage.style.top = '0'; stage.style.transform = `translate(${state.panX}px, ${state.panY}px) scale(${state.imageScale})`; stage.style.setProperty('--canvas-scale', String(state.imageScale)); imgEl.style.width = `${state.imageSize.width}px`; imgEl.style.height = `${state.imageSize.height}px`; el('zoom-label').textContent = `Scale ${Math.round(state.imageScale*100)}%`; }
+
+    /* Helper utilities copied from workbench.html to avoid missing references */
+    function cloneData(value) {
+      if (value === null || value === undefined) return value;
+      if (typeof structuredClone === 'function') return structuredClone(value);
+      return JSON.parse(JSON.stringify(value));
+    }
+
+    function currentRegion() {
+      return (state.selectedImage?.regions || []).find((region) => region.id === state.selectedRegionId) || null;
+    }
+
+    function currentRegionDetail() {
+      return state.selectedRegionDetail || currentRegion();
+    }
+
+    function patchRegionIntoSelectedImage(region) {
+      if (!state.selectedImage) return;
+      const regions = state.selectedImage.regions || [];
+      const idx = regions.findIndex((item) => item.id === region.id);
+      if (idx >= 0) regions[idx] = { ...regions[idx], ...region };
+      else regions.push(region);
+      state.selectedImage.regions = regions;
+      if (state.selectedRegionId === region.id) {
+        state.selectedRegionDetail = { ...(state.selectedRegionDetail || {}), ...region };
+      }
+      // recompute counts and sync library row if needed
+      if (!state.selectedImage) return;
+      state.selectedImage.claim_count = (state.selectedImage.regions || []).reduce((sum, r) => {
+        if (Array.isArray(r.claims)) return sum + r.claims.length;
+        return sum + (r.claim_count || 0);
+      }, 0);
+    }
+
+    function removeRegionFromSelectedImage(regionId) {
+      if (!state.selectedImage) return;
+      state.selectedImage.regions = (state.selectedImage.regions || []).filter((item) => item.id !== regionId);
+      if (state.selectedRegionId === regionId) {
+        state.selectedRegionId = null;
+        state.selectedRegionDetail = null;
+      }
+    }
+
+    function applyImageAdjustments() {
+      const imgEl = el('canvas-image');
+      if (!imgEl) return;
+      if (!state.selectedImage) { imgEl.style.filter = ''; return; }
+      const brightness = (state.imageAdjustments.brightness || 100) / 100;
+      const contrast = (state.imageAdjustments.contrast || 100) / 100;
+      const saturation = (state.imageAdjustments.saturation || 100) / 100;
+      const gammaValue = state.imageAdjustments.gamma || 100;
+      const exponent = Math.max(0.25, Math.min(2.5, 100 / gammaValue));
+      ['gamma-r', 'gamma-g', 'gamma-b'].forEach((id) => {
+        const node = el(id);
+        if (node) node.setAttribute('exponent', String(exponent));
+      });
+      imgEl.style.filter = `brightness(${brightness}) contrast(${contrast}) saturate(${saturation}) url(#canvas-gamma-filter)`;
+    }
+
+    function renderAdjustmentControls() {
+      ['brightness', 'contrast', 'saturation', 'gamma'].forEach((key) => {
+        const input = el(`adjust-${key}`);
+        const valueNode = el(`adjust-${key}-value`);
+        if (input) input.value = String(state.imageAdjustments[key]);
+        if (valueNode) valueNode.textContent = String(state.imageAdjustments[key]);
+      });
+      applyImageAdjustments();
+    }
+
+    function resetImageAdjustment(key) {
+      state.imageAdjustments[key] = 100;
+      renderAdjustmentControls();
+    }
+
+    async function selectRegion(regionId) {
+      const requestToken = ++state.regionRequestToken;
+      state.selectedRegionId = regionId;
+      state.draftClaimOpen = false;
+      state.claimTarget = null;
+      state.linkSearch = '';
+      state.linkResults = [];
+      state.claimSearch = '';
+      state.claimResults = [];
+      state.selectedRegionDetail = regionId ? (currentRegion() ? cloneData(currentRegion()) : null) : null;
+      renderWorkspace();
+      if (!regionId) return;
+      const payload = await api(`/api/image_regions/${regionId}`);
+      if (requestToken !== state.regionRequestToken) return;
+      state.selectedRegionDetail = payload.region || payload;
+      state.selectedRegionDetail.history = payload.history || [];
+      state.selectedRegionDetail.claims = payload.claims || [];
+      patchRegionIntoSelectedImage(state.selectedRegionDetail);
+      renderWorkspace();
+    }
+
+    /* Simple inspector & selection tray placeholders (reuse small parts) */
+    function renderSelectionTray() { const tray = el('selection-tray'); if (!tray) return; const image = state.selectedImage; if (!image) { tray.className='selection-tray empty'; tray.innerHTML=`<div class="tray-main"><div class="tray-copy"><div class="tray-title">No image selected</div><div class="tray-meta">Image workbench</div></div></div>`; return; } tray.className='selection-tray'; tray.innerHTML=`<div class="tray-main"><div class="tray-copy"><div class="tray-title">${escapeHtml(image.title||image.image_code||`Image ${image.id}`)}</div><div class="tray-meta">${escapeHtml(image.image_type||'image')}</div></div><div class="tray-actions"><button id="tray-mode-point" class="${state.mode==='point'?'primary':'ghost'}">Add point</button><button id="tray-mode-box" class="${state.mode==='box'?'primary':'ghost'}">Add box</button></div></div>`; document.getElementById('tray-mode-point')?.addEventListener('click', ()=>{ state.mode='point'; updateModeButtons(); renderSelectionTray(); }); document.getElementById('tray-mode-box')?.addEventListener('click', ()=>{ state.mode='box'; updateModeButtons(); renderSelectionTray(); }); }
+
+    function renderInspector() { const stack = el('inspector-stack'); if (!state.selectedImage) { stack.innerHTML = '<div class="empty-state">Select an image to inspect evidence.</div>'; return; } stack.innerHTML = `<div class="section"><div class="section-head"><span>Image</span></div><div class="section-body"><div class="kv-row"><span>ID</span><span>${escapeHtml(String(state.selectedImage.id))}</span></div></div></div>`; }
+
+    function debounce(fn, delay) { let timer = null; return (...args) => { window.clearTimeout(timer); timer = window.setTimeout(() => fn(...args), delay); }; }
+    function handleError(error) { console.error(error); const stack = el('inspector-stack'); if (stack) { const box = document.createElement('div'); box.className = 'empty-state'; box.textContent = error?.message || 'Error'; stack.prepend(box); } }
+
+    /* Bind controls */
+    function bindTopLevel() {
+      NHTUI.bindTopbarApiControls({
+        apiClient,
+        apiBaseInput: el('api-base'),
+        apiSaveButton: el('api-save'),
+        adminKeyButton: el('admin-key'),
+        adminLocalCheckbox: el('admin-local'),
+        initialApiBase: state.apiBase,
+        initialAdminLocal: apiClient.getAdminLocal(),
+        getCurrentAdminKey: () => apiClient.getAdminKey() || '',
+        adminKeyPrompt: 'Enter admin API key (blank clears):',
+        onApiSaved: (nextBase) => { state.apiBase = nextBase; loadImages().catch(handleError); }
+      });
+      el('image-search').addEventListener('input', debounce((e)=>{ state.filters.q = e.target.value.trim(); loadImages().catch(handleError); }, 240));
+      el('zoom-in').addEventListener('click', ()=>{ setScaleAroundPoint(state.imageScale * 1.1); });
+      el('zoom-out').addEventListener('click', ()=>{ setScaleAroundPoint(state.imageScale / 1.1); });
+      el('zoom-fit').addEventListener('click', ()=>{ state.imageScale = fitScale(); centerCanvasImage(); applyStageScale(); state.lastFitScale = state.imageScale; });
+      el('zoom-reset').addEventListener('click', ()=>{ state.imageScale = 1; centerCanvasImage(); applyStageScale(); state.lastFitScale = null; });
+      ['select','pan','point','box'].forEach((mode)=>{ el(`mode-${mode}`)?.addEventListener('click', ()=>{ state.mode=mode; updateModeButtons(); renderSelectionTray(); }); });
+      el('toggle-labels').addEventListener('click', ()=>{ state.showRegionLabels = !state.showRegionLabels; localStorage.setItem(GLOBAL_LABEL_VISIBLE_KEY, state.showRegionLabels ? '1':'0'); renderRegions(); updateModeButtons(); });
+      el('label-size')?.addEventListener('input', (e)=>{ state.labelSize = Math.max(10, Math.min(18, Number(e.target.value)||12)); localStorage.setItem(GLOBAL_LABEL_SIZE_KEY, String(state.labelSize)); el('label-size-value').textContent = `${state.labelSize}px`; renderRegions(); });
+      el('label-theme')?.addEventListener('change', (e)=>{ state.labelTheme = e.target.value||'light'; localStorage.setItem(GLOBAL_LABEL_THEME_KEY, state.labelTheme); });
+      el('prev-image')?.addEventListener('click', ()=>navigateImage(-1).catch(handleError));
+      el('next-image')?.addEventListener('click', ()=>navigateImage(1).catch(handleError));
+      el('toggle-positions')?.addEventListener('click', ()=>{ state.showPositions = !state.showPositions; el('toggle-positions').classList.toggle('primary', state.showPositions); el('toggle-positions').textContent = state.showPositions ? 'Positions on' : 'Positions off'; fetchAndRenderPositionsForSelectedImage().catch(handleError); });
+    }
+
+    function setScaleAroundPoint(nextScale, clientX=null, clientY=null) {
+      if (!state.selectedImage || !state.imageSize.width) return;
+      const oldScale = state.imageScale;
+      const clamped = Math.max(0.1, Math.min(6, nextScale));
+      if (Math.abs(clamped - oldScale) < 0.0001) return;
+      // user-initiated zoom -> disable auto-fit-on-resize
+      state.lastFitScale = null;
+      const frame = el('canvas-scroll'); const rect = frame.getBoundingClientRect(); const anchorClientX = clientX ?? (rect.left + rect.width/2); const anchorClientY = clientY ?? (rect.top + rect.height/2); const viewportScale = rect.width / frame.clientWidth || 1; const localX = (anchorClientX - rect.left) / viewportScale; const localY = (anchorClientY - rect.top) / viewportScale; state.imageScale = clamped; state.panX = localX - (localX - state.panX) * (clamped / oldScale); state.panY = localY - (localY - state.panY) * (clamped / oldScale); applyStageScale(); }
+
+    /* Initialise */
+    bindTopLevel();
+    loadImages().catch(handleError);
+    // Re-fit or adjust canvas when the window resizes. If the current scale
+    // was produced by a `Fit` operation we re-compute fit scale automatically.
+    window.addEventListener('resize', debounce(() => {
+      if (!state.selectedImage) return;
+      const newFit = fitScale();
+      if (state.lastFitScale != null) {
+        if (Math.abs(newFit - state.lastFitScale) > 0.0001) {
+          state.imageScale = newFit; centerCanvasImage(); applyStageScale(); state.lastFitScale = newFit;
+        }
+      } else {
+        // keep manual scale but ensure pan stays within bounds
+        normalizeCanvasPan(); updateCanvasTransform();
+      }
+    }, 160));
+  </script>
+</body>
+</html>

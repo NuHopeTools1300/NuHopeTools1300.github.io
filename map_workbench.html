@@ -225,6 +225,78 @@
       position: relative;
       box-shadow: var(--shadow);
     }
+    .selection-tray {
+      flex: 0 0 auto;
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      background: rgba(255, 250, 244, 0.92);
+      box-shadow: 0 8px 22px rgba(47, 36, 27, 0.10);
+      padding: 10px 12px;
+      display: grid;
+      gap: 8px;
+    }
+    .selection-tray.empty {
+      background: rgba(255, 255, 255, 0.50);
+      box-shadow: none;
+      color: var(--ink-3);
+    }
+    .tray-main {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      min-width: 0;
+      flex-wrap: wrap;
+    }
+    .tray-copy {
+      display: grid;
+      gap: 3px;
+      min-width: 220px;
+      flex: 1 1 260px;
+    }
+    .tray-title {
+      font-size: 14px;
+      font-weight: 600;
+      min-width: 0;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+    .tray-meta {
+      color: var(--ink-3);
+      font: 11px var(--mono);
+      min-width: 0;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+    .tray-actions {
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+    .tray-actions a { text-decoration: none; }
+    .tray-actions button {
+      min-height: 32px;
+      padding: 6px 9px;
+      font-size: 12px;
+    }
+    .tray-badges {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      flex-wrap: wrap;
+    }
+    .tray-badge {
+      border: 1px solid rgba(92, 72, 56, 0.18);
+      border-radius: 999px;
+      background: rgba(255, 255, 255, 0.62);
+      color: var(--ink-2);
+      font: 11px var(--mono);
+      padding: 3px 7px;
+    }
     .canvas-frame.panning { cursor: grabbing; }
     .map-stage {
       position: absolute;
@@ -350,6 +422,34 @@
     .placement.active .placement-label { display: block; }
     .placement.show-label .placement-label { display: block; }
     .position-layer.show-labels .placement-label { display: block; }
+    .part-reference-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(96px, 1fr));
+      gap: 10px;
+    }
+    .part-reference-card {
+      display: grid;
+      gap: 6px;
+      min-width: 0;
+      color: inherit;
+      text-decoration: none;
+    }
+    .part-reference-card img {
+      width: 100%;
+      aspect-ratio: 1;
+      object-fit: contain;
+      border: 1px solid rgba(92, 72, 56, 0.18);
+      border-radius: 8px;
+      background: #fffaf3;
+    }
+    .part-reference-meta {
+      min-width: 0;
+      color: var(--ink-3);
+      font: 11px var(--mono);
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
     .draft-box {
       position: absolute;
       border: 2px dashed var(--warn);
@@ -604,6 +704,7 @@
             <div id="draft-box" class="draft-box hidden"></div>
           </div>
         </div>
+        <div id="selection-tray" class="selection-tray empty"></div>
       </div>
     </section>
 
@@ -756,9 +857,11 @@
     }
 
     function kitThumbHtml(record) {
-      const url = assetUrl(record?.thumbnail_url);
+      const url = assetUrl(record?.part_id ? (record?.part_reference_url || record?.thumbnail_url) : record?.thumbnail_url);
       if (!url) return '';
-      const label = [record.brand, record.kit_name || record.name].filter(Boolean).join(' ') || record.title || 'Kit thumbnail';
+      const label = record?.part_id
+        ? [record.brand, record.kit_name || record.name, record.part_number ? `part ${record.part_number}` : 'part reference'].filter(Boolean).join(' ')
+        : ([record.brand, record.kit_name || record.name].filter(Boolean).join(' ') || record.title || 'Kit thumbnail');
       return `<img class="kit-thumb" src="${escapeHtml(url)}" alt="${escapeHtml(label)}" loading="lazy" onerror="this.remove()">`;
     }
 
@@ -815,6 +918,138 @@
       const placement = selectedPlacement();
       if (!placement) return null;
       return (placement.positions || []).find((item) => item.id === state.selectedPositionId) || placement.current_position || null;
+    }
+
+    function trayBadgeRow(items) {
+      const badges = items.filter(Boolean);
+      if (!badges.length) return '';
+      return `<div class="tray-badges">${badges.map((item) => `<span class="tray-badge">${escapeHtml(item)}</span>`).join('')}</div>`;
+    }
+
+    function placementPositionSummary(position) {
+      if (!position) return 'unplaced';
+      const point = `x ${Number(position.x_norm || 0).toFixed(3)} / y ${Number(position.y_norm || 0).toFixed(3)}`;
+      if (position.position_type === 'box') {
+        return `${point} / ${Number(position.width_norm || 0).toFixed(3)} x ${Number(position.height_norm || 0).toFixed(3)}`;
+      }
+      return point;
+    }
+
+    function renderSelectionTray() {
+      const tray = el('selection-tray');
+      if (!tray) return;
+      const map = selectedMap();
+      const placement = selectedPlacement();
+      const position = placement?.current_position || selectedPosition();
+      const statusBlock = state.actionStatus ? `<div class="status ${state.actionStatus.type}">${escapeHtml(state.actionStatus.message)}</div>` : '';
+      if (!map) {
+        tray.className = 'selection-tray empty';
+        tray.innerHTML = `
+          <div class="tray-main">
+            <div class="tray-copy">
+              <div class="tray-title">No map selected</div>
+              <div class="tray-meta">Map workbench</div>
+            </div>
+          </div>
+          ${statusBlock}
+        `;
+        return;
+      }
+      if (state.pendingKitLocation) {
+        tray.className = 'selection-tray';
+        tray.innerHTML = `
+          <div class="tray-main">
+            <div class="tray-copy">
+              <div class="tray-title">${escapeHtml(state.pendingKitLocation.title || 'Pending kit location')}</div>
+              <div class="tray-meta">${escapeHtml([map.name || `Map ${map.id}`, state.pendingKitLocation.locationLabel, state.mode === 'box' ? 'box' : 'point'].filter(Boolean).join(' / '))}</div>
+            </div>
+            <div class="tray-actions">
+              <button type="button" id="tray-pending-point" class="${state.mode === 'point' ? 'primary' : 'ghost'}">Use point</button>
+              <button type="button" id="tray-pending-box" class="${state.mode === 'box' ? 'primary' : 'ghost'}">Use box</button>
+              <button type="button" id="tray-pending-cancel" class="ghost">Cancel</button>
+            </div>
+          </div>
+          ${trayBadgeRow(['pending', state.pendingKitLocation.kitId ? `kit ${state.pendingKitLocation.kitId}` : null])}
+          ${statusBlock}
+        `;
+        bindSelectionTray();
+        return;
+      }
+      if (!placement) {
+        tray.className = 'selection-tray';
+        tray.innerHTML = `
+          <div class="tray-main">
+            <div class="tray-copy">
+              <div class="tray-title">${escapeHtml(map.name || `Map ${map.id}`)}</div>
+              <div class="tray-meta">${escapeHtml([map.version, map.map_date, currentMapBackingImageTitle(map)].filter(Boolean).join(' / ') || `Map ${map.id}`)}</div>
+            </div>
+            <div class="tray-actions">
+              <button type="button" id="tray-map-select" class="${state.mode === 'select' ? 'primary' : 'ghost'}">Select</button>
+            </div>
+          </div>
+          ${trayBadgeRow([`${visibleMapLocations().length} placed`, `${filteredPlacementListRows().length} candidates`, state.placementClassFilter])}
+          ${statusBlock}
+        `;
+        bindSelectionTray();
+        return;
+      }
+      const linkedImage = (placement.images || [])[0] || null;
+      tray.className = 'selection-tray';
+      tray.innerHTML = `
+        <div class="tray-main">
+          <div class="tray-copy">
+            <div class="tray-title">${escapeHtml(placementDisplayTitle(placement))}</div>
+            <div class="tray-meta">${escapeHtml([placementDisplayKind(placement), placement.location_label, placementPositionSummary(position)].filter(Boolean).join(' / '))}</div>
+          </div>
+          <div class="tray-actions">
+            <button type="button" id="tray-placement-point" class="${state.mode === 'point' ? 'primary' : 'ghost'}">${position ? 'Move point' : 'Place point'}</button>
+            <button type="button" id="tray-placement-box" class="${state.mode === 'box' ? 'primary' : 'ghost'}">${position ? 'Move box' : 'Place box'}</button>
+            ${linkedImage ? `<a href="${escapeHtml(workbenchUrl(linkedImage.id))}" target="_blank" rel="noopener"><button type="button" class="ghost">Open image</button></a>` : ''}
+            ${placementNeedsRefinement(placement) ? '<button type="button" id="tray-placement-refine" class="ghost">Refine</button>' : ''}
+            <button type="button" id="tray-placement-clear" class="ghost">Clear</button>
+          </div>
+        </div>
+        ${trayBadgeRow([placementObjectKind(placement), position?.position_type || 'unplaced', placement.confidence, linkedImage ? `${(placement.images || []).length} images` : null])}
+        ${statusBlock}
+      `;
+      bindSelectionTray();
+    }
+
+    function setTrayTool(mode, message) {
+      state.mode = mode;
+      setActionStatus('ok', message);
+      updateToolButtons();
+      renderSelectionTray();
+    }
+
+    function bindSelectionTray() {
+      el('tray-pending-point')?.addEventListener('click', () => setTrayTool('point', `Ready: click the map to add a new location for ${state.pendingKitLocation?.title || 'this kit'}.`));
+      el('tray-pending-box')?.addEventListener('click', () => setTrayTool('box', `Ready: drag a box to add a new location for ${state.pendingKitLocation?.title || 'this kit'}.`));
+      el('tray-pending-cancel')?.addEventListener('click', () => {
+        state.pendingKitLocation = null;
+        state.mode = 'select';
+        setActionStatus(null, '');
+        renderAll();
+      });
+      el('tray-map-select')?.addEventListener('click', () => {
+        state.mode = 'select';
+        updateToolButtons();
+        renderSelectionTray();
+      });
+      el('tray-placement-point')?.addEventListener('click', () => setTrayTool('point', 'Click the map to set this kit location.'));
+      el('tray-placement-box')?.addEventListener('click', () => setTrayTool('box', 'Drag a box on the map to set this kit location.'));
+      el('tray-placement-clear')?.addEventListener('click', () => {
+        state.selectedPlacementId = null;
+        state.selectedPositionId = null;
+        state.mode = 'select';
+        renderAll();
+      });
+      el('tray-placement-refine')?.addEventListener('click', () => {
+        const search = el('refine-part-search');
+        if (!search) return;
+        search.scrollIntoView({ block: 'center' });
+        search.focus();
+      });
     }
 
     function armKitLocation(target) {
@@ -1044,6 +1279,47 @@
       return image.url || image.storage_path || '';
     }
 
+    function partFileUrl(file) {
+      return assetUrl(file?.url);
+    }
+
+    function partReferenceImageFiles(placement) {
+      return (placement?.part_files || []).filter((file) => {
+        const url = String(file?.url || '');
+        return url && (url.includes('/api/part_images/') || /\.(png|jpe?g|gif|webp|bmp|svg)(?:[?#].*)?$/i.test(url));
+      });
+    }
+
+    function partReferenceImageLabel(file) {
+      return [file?.source, file?.file_type].filter(Boolean).join(' / ') || 'Part reference';
+    }
+
+    function renderPartReferenceImages(placement) {
+      if (!placement?.part_id) return '';
+      const files = partReferenceImageFiles(placement);
+      return `
+        <div class="section">
+          <div class="section-head"><span>Part reference images</span><span>${files.length}</span></div>
+          <div class="section-body">
+            ${files.length ? `
+              <div class="part-reference-grid">
+                ${files.map((file) => {
+                  const url = partFileUrl(file);
+                  const label = partReferenceImageLabel(file);
+                  return `
+                    <a class="part-reference-card" href="${escapeHtml(url)}" target="_blank" rel="noopener">
+                      <img src="${escapeHtml(url)}" alt="${escapeHtml(label)}" loading="lazy" onerror="this.closest('.part-reference-card').remove()">
+                      <div class="part-reference-meta" title="${escapeHtml(label)}">${escapeHtml(label)}</div>
+                    </a>
+                  `;
+                }).join('')}
+              </div>
+            ` : '<div class="hint">No reference images are linked to this part.</div>'}
+          </div>
+        </div>
+      `;
+    }
+
     function claimEntityLabel(type, id, fallback) {
       if (fallback) return fallback;
       if (type === 'image_region') return `Region ${id}`;
@@ -1170,6 +1446,7 @@
     function setActionStatus(type, message) {
       state.actionStatus = message ? { type, message } : null;
       renderInspector();
+      renderSelectionTray();
     }
 
     function isReconciliationStatus(status) {
@@ -2045,12 +2322,14 @@
           </div>
         </div>
       ` : '';
+      const partReferenceSection = renderPartReferenceImages(placement);
       wrap.innerHTML = `
         ${statusBlock}
         <div class="section">
           <div class="section-head"><span>Kit location</span></div>
           <div class="section-body kv">
             <div class="kv-row"><span>Kit</span><span>${escapeHtml(placementKitTitle(placement))}</span></div>
+            ${placement.part_number ? `<div class="kv-row"><span>Part</span><span>#${escapeHtml(placement.part_number)}${placement.part_label ? ` ${escapeHtml(placement.part_label)}` : ''}</span></div>` : ''}
             <div class="kv-row"><span>Map</span><span>${escapeHtml(placement.map_name || map.name || '-')}</span></div>
             <div class="kv-row"><span>Position</span><span>${escapeHtml(positionSummary)}</span></div>
             <div class="kv-row"><span>Status</span><span>${currentPosition ? 'placed' : 'waiting for click on map'}</span></div>
@@ -2067,6 +2346,7 @@
             <button class="ghost" id="delete-placement">Delete this location</button>
           </div>
         </div>
+        ${partReferenceSection}
         ${positionHistorySection}
         ${selectedHistorySection}
         ${refinementSection}
@@ -2481,6 +2761,7 @@
       const payload = await api(`/api/placements/${state.selectedPlacementId}`);
       const detail = payload.placement || payload;
       detail.images = payload.images || [];
+      detail.part_files = payload.part_files || [];
       detail.history = payload.history || [];
       detail.claims = payload.claims || [];
       detail.contributors = payload.contributors || [];
@@ -2497,6 +2778,7 @@
       renderMapList();
       renderPlacementList();
       renderMapCanvas();
+      renderSelectionTray();
       renderInspector();
       updateToolButtons();
     }
@@ -2839,17 +3121,20 @@
         }
         renderPlacementList();
         renderPositionLayer();
+        renderSelectionTray();
         renderInspector();
       });
       el('placement-search').addEventListener('input', (event) => {
         state.search = event.target.value || '';
         renderPlacementList();
         renderPositionLayer();
+        renderSelectionTray();
       });
       document.querySelectorAll('[data-tool]').forEach((node) => {
         node.addEventListener('click', () => {
           state.mode = node.dataset.tool;
           updateToolButtons();
+          renderSelectionTray();
         });
       });
       el('zoom-in').addEventListener('click', () => {

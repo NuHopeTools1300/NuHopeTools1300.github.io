@@ -28,7 +28,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 DB_PATH = ROOT / "backend" / "data" / "ilm1300.db"
 UPLOAD_DIR = ROOT / "backend" / "data" / "uploads"
-REPORT_PATH = ROOT / "docs" / "ScifiKitbashTid33MapImageMatches.csv"
+REPORT_PATH = ROOT / "docs" / "generated" / "ScifiKitbashTid33MapImageMatches.csv"
 DEFAULT_MIRROR = Path(r"D:\Manuel\MillenniumFalcon\Websites\scifikitbash_mirror")
 THREAD_URL = "https://scifikitbash.com/showthread.php?tid=33"
 THREAD_TITLE = "My 5 Foot Millennium Falcon Part Maps"

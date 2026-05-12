@@ -1,137 +1,97 @@
 # ILM Van Nuys Kit-Bash Research Platform
 
-A research platform documenting the kit-bashed parts used on ILM studio models built in Van Nuys — starting with the 5-foot Millennium Falcon (ANH). The goal is to make cross-model connections visible, credit the researchers who found them, and gradually shift a fragmented, knowledge-hoarding community toward open sharing.
+NuHopeTools is a private research workstation for documenting kit-bashed parts used on ILM studio models built in Van Nuys, starting with the 5-foot Millennium Falcon from ANH.
 
----
+The goal is to make cross-model donor-kit connections visible, keep evidence attached to every interpretation, and preserve researcher attribution.
 
-## Tools
+## Current State
 
-Live at [nuhopetools1300.github.io](https://nuhopetools1300.github.io)
+Phase 1 is complete enough to build on. The active project is now a local Flask + SQLite backend plus focused browser workbenches for image evidence, map placements, and entity lookup.
 
-| Tool | Description |
-|------|-------------|
-| [Image Annotator](tools/ImageAnnotator.html) | Annotate reference images with part locations |
-| [Image Timeline](tools/image_timeline.html) | View reference images in chronological order |
-| [Box Art Extractor](tools/box_art_extractor.html) | Extract and identify parts from kit box art |
+Start with:
 
----
+- [Current Status](docs/CurrentStatus.md) for the short current-state view
+- [Documentation Index](docs/README.md) for the full docs map
+- [Roadmap](docs/Roadmap.md) for the longer strategic plan
 
-## Backend
+## Active Tools
 
-A local Flask + SQLite backend that provides a shared persistent store for all tools. Replaces the localStorage approach used in earlier versions of the tools.
+Live static tools are served from [nuhopetools1300.github.io](https://nuhopetools1300.github.io).
 
-### Setup
+| Tool | Role |
+|------|------|
+| [Workbench](workbench.html) | Active image evidence, region linking, claims, and image family workflow |
+| [Map Workbench](map_workbench.html) | Active kit-first map placement, position correction, and evidence linking workflow |
+| [Entity Browser](entity_browser.html) | Active read-first database visibility with relationship pivots |
+
+Legacy and sidecar tools remain available, but should stay maintenance-only unless a concrete migration or bug fix needs them:
+
+- [Image Annotator](tools/ImageAnnotator.html)
+- [Image Timeline](tools/image_timeline.html)
+- [Box Art Extractor](tools/box_art_extractor.html)
+- [frontend.html](frontend.html)
+
+## Local Setup
 
 ```bash
 pip install -r requirements.txt
-python backend/app.py
+python -m backend.app
 ```
 
-The database will be created at `backend/data/ilm1300.db` on first run. The API is then available at `http://localhost:5000`.
+The backend creates `backend/data/ilm1300.db` on first run and serves the API at `http://localhost:5000`.
 
-### Importing existing spreadsheets
+Operational notes:
+
+- Keep only one backend process bound to port `5000` during testing.
+- If endpoint behavior looks stale, stop existing listeners on `5000` and restart the backend from this workspace.
+- Runtime data under `backend/data/` is local state and should not be committed.
+
+## Verification
+
+```powershell
+.\tools\verify.ps1
+```
+
+The verifier runs Python compile checks plus the current backend smoke tests for placement positions, image regions/claims, import reconciliation, and placement refine/merge.
+
+## Data Import
 
 ```bash
-# Import kit list (PartList_private.xlsx)
 python backend/import_spreadsheets.py --kits path/to/PartList_private.xlsx
-
-# Import ANH cross-model donor sheet
 python backend/import_spreadsheets.py --donors path/to/ANH_donors.xlsx
+```
 
-# Both at once
+Both imports can be run together:
+
+```bash
 python backend/import_spreadsheets.py \
     --kits path/to/PartList_private.xlsx \
     --donors path/to/ANH_donors.xlsx
 ```
 
-### API endpoints
+See [Data Model](docs/DataModel.md), [API Reference](docs/API.md), and [Migration Policy](backend/migrations/README.md) for implementation details.
 
-```
-GET  /api/health
-GET  /api/kits                  ?q=&brand=&availability=
-GET  /api/kits/<id>
-POST /api/kits
-GET  /api/parts                 ?kit_id=&q=
-POST /api/parts
-GET  /api/models
-GET  /api/models/<slug>
-POST /api/models
-GET  /api/placements            ?model_id=&kit_id=&map_id=&film_version=
-POST /api/placements
-GET  /api/connections           cross-model kit appearances
-GET  /api/cast_assemblies
-GET  /api/cast_assemblies/<id>
-GET  /api/sources               ?q=&source_type=
-GET  /api/sources/<id>
-POST /api/sources
-PUT  /api/sources/<id>
-GET  /api/source_extracts       ?source_id=&extract_type=&author_handle=&q=
-GET  /api/source_extracts/<id>
-POST /api/source_extracts
-PUT  /api/source_extracts/<id>
-GET  /api/images                ?entity_type=&entity_id=&image_type=&source_id=&tag=&q=
-GET  /api/images/<id>
-POST /api/images
-PUT  /api/images/<id>
-GET  /api/image_regions         ?image_id=&entity_type=&entity_id=&source_extract_id=
-GET  /api/image_regions/<id>
-POST /api/image_regions
-PUT  /api/image_regions/<id>
-DELETE /api/image_regions/<id>
-POST /api/image_links
-GET  /api/contributors
-POST /api/contributors
-```
+## Documentation
 
----
+The docs are organized from current operational truth to deeper design history:
 
-## Data model
+- [Documentation Index](docs/README.md)
+- [Current Status](docs/CurrentStatus.md)
+- [API Reference](docs/API.md)
+- [Backend Architecture](docs/BackendArchitecture.md)
+- [Data Model](docs/DataModel.md)
+- [Deployment Plan](docs/DeploymentPlan.md)
+- [Roadmap](docs/Roadmap.md)
+- [Product UI Architecture](docs/ProductUIArchitecture.md)
+- [Research Architecture](docs/ResearchArchitecture.md)
+- [Phase 1 Build Checklist](docs/Phase1BuildChecklist.md)
 
-Core tables. Everything connects through `placements` — the join between a kit part and a specific location on a specific model.
+Generated review artifacts live under `docs/generated/`; they are useful review outputs, not the canonical status source.
 
-| Table | Purpose |
-|-------|---------|
-| `kits` | Source model kits — brand, scale, name, serial number, Scalemates link, scan links, availability. |
-| `kit_references` | External numbering systems for kits (e.g. Coffman numbers). One kit can have references in multiple systems. |
-| `parts` | Individual parts within a kit. |
-| `part_files` | 3D scan files, CAD models, and STL files associated with a part. |
-| `cast_assemblies` | Named physical assemblies: groups of parts cast together and reused across models. |
-| `models` | ILM studio models — Falcon, X-Wing, Star Destroyer, etc. |
-| `placements` | The heart of the system. Links a part (or cast assembly, or kit) to a location on a model, with copy count, confidence, film version, and modification state. |
-| `placement_contributors` | Many-to-many attribution for placements — multiple researchers often identify the same part independently. |
-| `placement_history` | Audit trail for corrected identifications. Transparent correction history builds community trust. |
-| `maps` | Annotated map images of model sections. |
-| `sources` | Canonical source records for forum threads, interviews, auctions, slide decks, spreadsheets, and other research inputs. |
-| `source_extracts` | Post-level or quote-level extracts from a source, preserving locator, author handle, and text. |
-| `images` | All reference images — model shop, exhibition, kit scans. |
-| `image_regions` | Persistent image annotations / regions with normalized coordinates, snapshot metadata, and optional entity links. |
-| `image_tags` | Tags for images (proper many-to-many). |
-| `image_links` | Connects images to any entity (kit / part / placement / model). One image, many connections. |
-| `contributors` | Researcher handles and forum profiles. Attribution target for all tables. |
+## Immediate Build Lane
 
-### Key design decisions
-
-- `placements` is where the magic happens — one part can link to the Falcon, the Star Destroyer, and the X-Wing simultaneously. That's the cross-model query nobody else can run.
-- `film_version` on placements handles models that were modified between films (ANH → ESB → ROTJ on the 5-footer). A placement can be flagged as specific to one film version without needing a separate model record.
-- `kit_references` replaces hardcoded Coffman number columns. Any numbering system used by any researcher can be stored here without schema changes.
-- `placement_contributors` means every researcher who independently identified a part gets permanent, visible credit — not just the first one in the database.
-- `placement_history` records corrections. "Not from the Rodney as I originally thought" is a real and regular event in this community. Showing the correction history openly is how trust is built.
-- `confidence` on placements captures `confirmed` / `probable` / `speculative` — critical for research integrity.
-
----
-
-## Docs
-
-- [Roadmap](docs/Roadmap.md) — phased plan from private research tool to public platform
-- [Research Architecture](docs/ResearchArchitecture.md) — evidence-first schema direction for images, sources, objects, locations, and claims
-- [COLMAP transform guide](docs/colmap_transform_guide.md) — photogrammetry workflow for digitising parts
-
----
-
-## Project status
-
-Phase 1 — private research infrastructure. See [Roadmap](docs/Roadmap.md) for the full plan.
-
----
-
-*NuHopeTools1300 · April 2026*
+1. Finish placement-to-evidence flow in `map_workbench.html`.
+2. Keep entity-first visibility split between `entity_browser.html` and Datasette.
+3. Improve image browsing speed and canvas ergonomics in `workbench.html`.
+4. Keep schema changes on the `schema.sql` plus ordered migration path.
+5. Keep runtime data, generated imports, backups, uploads, and private archives out of normal source-control churn.

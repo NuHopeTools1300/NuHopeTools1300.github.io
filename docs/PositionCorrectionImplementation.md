@@ -14,6 +14,19 @@ to:
 
 without destroying imported coordinates or confusing conceptual identity with drawn map position.
 
+## Implementation Status (April 2026)
+
+Implemented:
+
+- `placement_positions` layer is active in backend and map workbench
+- position history is visible in the inspector with current and superseded entries
+- actions exist for selecting history, promoting an entry to current, and deleting eligible entries
+- delete behavior preserves supersede chains before deletion to avoid FK breakage
+
+Practical rule now enforced:
+
+- delete is allowed only for manual/candidate-like records, and history links are re-threaded when deleting from a supersede chain
+
 ## Current State
 
 What already exists:

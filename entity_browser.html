@@ -60,7 +60,6 @@
     .brand { min-width: 240px; }
     .eyebrow { color: var(--ink-3); font: 12px var(--mono); text-transform: uppercase; letter-spacing: 0.12em; }
     .title { font-size: 22px; }
-    .api-base { width: 260px; }
     .shell {
       flex: 1;
       min-height: 0;
@@ -97,7 +96,7 @@
     .hint { color: var(--ink-3); font-size: var(--font-size-md); line-height: 1.5; }
     .toolbar {
       display: grid;
-      grid-template-columns: minmax(220px, 1fr) auto;
+      grid-template-columns: minmax(220px, 1fr) auto auto;
       gap: 10px;
       align-items: center;
     }
@@ -136,6 +135,7 @@
       padding: 8px;
       display: grid;
       gap: 8px;
+      align-items: start;
       grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
     }
     .facet-col {
@@ -168,7 +168,7 @@
       color: var(--ink-3);
     }
     .facet-options {
-      max-height: 110px;
+      max-height: 180px;
       overflow: auto;
       display: grid;
       gap: 4px;
@@ -198,11 +198,57 @@
       text-overflow: ellipsis;
       white-space: nowrap;
     }
+    .facet-label {
+      display: flex;
+      justify-content: space-between;
+      gap: 8px;
+    }
+    .facet-count {
+      flex: 0 0 auto;
+      color: var(--ink-3);
+      font-family: var(--mono);
+    }
     .facet-clear {
       justify-self: start;
-      min-height: 28px;
-      padding: 4px 8px;
+      align-self: start;
+      width: auto;
+      min-height: 30px;
+      padding: 5px 10px;
+      border-radius: 999px;
       font-size: 11px;
+    }
+    .pager {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      align-items: center;
+      color: var(--ink-3);
+      font: 12px var(--mono);
+    }
+    .pager button {
+      min-height: 30px;
+      padding: 5px 9px;
+      border-radius: 999px;
+    }
+    .pager button:disabled {
+      opacity: 0.45;
+      cursor: default;
+    }
+    .pager-field {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .pager-field input,
+    .pager-field select {
+      width: auto;
+      min-height: 30px;
+      padding: 5px 8px;
+      border-radius: 999px;
+      font: 12px var(--mono);
+    }
+    .pager-field input {
+      width: 68px;
     }
     .list { display: grid; gap: 8px; }
     .row {
@@ -226,6 +272,32 @@
       border-radius: 10px;
       border: 1px solid rgba(255,255,255,0.12);
       background: rgba(0,0,0,0.2);
+    }
+    .media-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(96px, 1fr));
+      gap: 10px;
+    }
+    .media-tile {
+      min-width: 0;
+      display: grid;
+      gap: 6px;
+      color: inherit;
+    }
+    .media-tile img {
+      width: 100%;
+      aspect-ratio: 1;
+      object-fit: cover;
+      border-radius: 10px;
+      border: 1px solid var(--line);
+      background: rgba(0,0,0,0.12);
+    }
+    .media-title {
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      color: var(--ink-2);
+      font-size: 12px;
     }
     .row-main {
       min-width: 0;
@@ -335,6 +407,37 @@
       justify-content: flex-start;
       text-align: left;
     }
+    .edit-form {
+      display: grid;
+      gap: 10px;
+    }
+    .field-grid {
+      display: grid;
+      gap: 10px;
+      grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+    }
+    label.field {
+      display: grid;
+      gap: 5px;
+      color: var(--ink-3);
+      font: 11px var(--mono);
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+    }
+    label.field.full {
+      grid-column: 1 / -1;
+    }
+    textarea {
+      width: 100%;
+      min-height: 84px;
+      resize: vertical;
+      font: inherit;
+      color: inherit;
+      background: var(--surface);
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      padding: 9px 12px;
+    }
     .action {
       display: inline-flex;
       align-items: center;
@@ -376,7 +479,6 @@
       .panel { min-height: 320px; border-right: none; border-bottom: 1px solid var(--line); }
       .panel:last-child { border-left: none; }
       .topbar { align-items: stretch; flex-direction: column; }
-      .api-base { width: 100%; }
       .facet-grid { grid-template-columns: 1fr; }
     }
   </style>
@@ -388,9 +490,6 @@
       <div class="title">Entity Browser</div>
     </div>
     <div class="topbar-controls">
-      <input class="api-base" id="api-base" placeholder="http://localhost:5000">
-      <button id="save-api">Save API</button>
-      <button id="refresh">Refresh</button>
       <a class="action" href="index.html">Home</a>
       <a class="action active" href="entity_browser.html" aria-current="page">Entity Browser</a>
       <a class="action" href="workbench.html">Image Workbench</a>
@@ -403,7 +502,7 @@
       <div class="panel-head">
         <div>
           <div class="panel-title">Entities</div>
-          <div class="panel-sub">read-only slice 1</div>
+          <div class="panel-sub">core records</div>
         </div>
       </div>
       <div class="panel-body">
@@ -424,8 +523,10 @@
           <div class="toolbar">
             <input id="search" placeholder="Search current entity type">
             <button id="clear-search">Clear</button>
+            <button id="new-entity">New</button>
           </div>
           <div id="filter-controls" class="tabs"></div>
+          <div id="pager" class="pager"></div>
           <div class="status" id="status"></div>
         </div>
         <div class="list" id="list"></div>
@@ -453,16 +554,95 @@
       legacyAdminModeKeys: ['workbenchAdminLocal', 'mapWorkbenchAdminLocal']
     });
 
+    const DEFAULT_PAGE_SIZE = '500';
+    const PAGE_SIZE_OPTIONS = ['25', '50', '100', '250', '500', '1000', 'all'];
+
     const ENTITY_TYPES = [
       { key: 'kits', singular: 'kit', label: 'Kits', endpoint: '/api/kits', idField: 'id' },
       { key: 'parts', singular: 'part', label: 'Parts', endpoint: '/api/parts', idField: 'id' },
       { key: 'models', singular: 'model', label: 'Models', endpoint: '/api/models', idField: 'id' },
       { key: 'maps', singular: 'map', label: 'Maps', endpoint: '/api/maps', idField: 'id' },
-      { key: 'placements', singular: 'placement', label: 'Placements', endpoint: '/api/placements', idField: 'id' },
       { key: 'images', singular: 'image', label: 'Images', endpoint: '/api/images?collapse_family=1', idField: 'id' },
-      { key: 'regions', singular: 'image_region', label: 'Regions', endpoint: '/api/image_regions', idField: 'id' },
-      { key: 'claims', singular: 'claim', label: 'Claims', endpoint: '/api/claims', idField: 'id' }
+      { key: 'placements', singular: 'placement', label: 'Placements', endpoint: '/api/placements', idField: 'id', hidden: true },
+      { key: 'regions', singular: 'image_region', label: 'Regions', endpoint: '/api/image_regions', idField: 'id', hidden: true },
+      { key: 'claims', singular: 'claim', label: 'Claims', endpoint: '/api/claims', idField: 'id', hidden: true }
     ];
+
+    const EDITABLE_TYPES = {
+      kits: {
+        createEndpoint: '/api/kits',
+        updateEndpoint: (id) => `/api/kits/${encodeURIComponent(id)}`,
+        fields: [
+          { key: 'brand', label: 'Brand', required: true },
+          { key: 'scale', label: 'Scale' },
+          { key: 'name', label: 'Name', required: true },
+          { key: 'serial_number', label: 'Serial' },
+          { key: 'category_family', label: 'Category Family' },
+          { key: 'category_subject', label: 'Category Subject' },
+          { key: 'scalemates_url', label: 'Scalemates URL', className: 'full' },
+          { key: 'scans_url', label: 'Scans URL', className: 'full' },
+          { key: 'instructions_url', label: 'Instructions URL', className: 'full' },
+          { key: 'availability', label: 'Availability' },
+          { key: 'notes', label: 'Notes', type: 'textarea', className: 'full' }
+        ]
+      },
+      parts: {
+        createEndpoint: '/api/parts',
+        updateEndpoint: (id) => `/api/parts/${encodeURIComponent(id)}`,
+        fields: [
+          { key: 'kit_id', label: 'Kit ID', type: 'number', required: true },
+          { key: 'part_number', label: 'Part Number', required: true },
+          { key: 'part_label', label: 'Part Label' },
+          { key: 'notes', label: 'Notes', type: 'textarea', className: 'full' }
+        ]
+      },
+      models: {
+        createEndpoint: '/api/models',
+        updateEndpoint: (id) => `/api/models/${encodeURIComponent(id)}`,
+        fields: [
+          { key: 'name', label: 'Name', required: true },
+          { key: 'slug', label: 'Slug', required: true },
+          { key: 'film', label: 'Film' },
+          { key: 'scale_approx', label: 'Scale' },
+          { key: 'notes', label: 'Notes', type: 'textarea', className: 'full' }
+        ]
+      },
+      maps: {
+        createEndpoint: '/api/maps',
+        updateEndpoint: (id) => `/api/maps/${encodeURIComponent(id)}`,
+        fields: [
+          { key: 'model_id', label: 'Model ID', type: 'number', required: true },
+          { key: 'name', label: 'Name', required: true },
+          { key: 'version', label: 'Version' },
+          { key: 'image_id', label: 'Image ID', type: 'number' },
+          { key: 'url', label: 'URL', className: 'full' },
+          { key: 'map_date', label: 'Date' },
+          { key: 'notes', label: 'Notes', type: 'textarea', className: 'full' }
+        ]
+      },
+      images: {
+        createEndpoint: '/api/images',
+        updateEndpoint: (id) => `/api/images/${encodeURIComponent(id)}`,
+        fields: [
+          { key: 'title', label: 'Title', required: true },
+          { key: 'image_code', label: 'Code' },
+          { key: 'image_type', label: 'Type', type: 'select', options: ['model_shop', 'exhibition', 'kit_scan', 'box_art', 'reference', 'map', 'other'] },
+          { key: 'date_taken', label: 'Date' },
+          { key: 'url', label: 'URL', className: 'full' },
+          { key: 'filename', label: 'Filename' },
+          { key: 'drive_id', label: 'Drive ID' },
+          { key: 'storage_kind', label: 'Storage Kind' },
+          { key: 'storage_path', label: 'Storage Path', className: 'full' },
+          { key: 'source', label: 'Source' },
+          { key: 'source_id', label: 'Source ID', type: 'number' },
+          { key: 'width', label: 'Width', type: 'number' },
+          { key: 'height', label: 'Height', type: 'number' },
+          { key: 'caption', label: 'Caption', type: 'textarea', className: 'full' },
+          { key: 'notes', label: 'Notes', type: 'textarea', className: 'full' }
+        ],
+        defaults: { image_type: 'other' }
+      }
+    };
 
     const state = {
       apiBase: apiClient.getApiBase(),
@@ -470,6 +650,12 @@
       query: '',
       rowsByType: {},
       selected: null,
+      currentDetail: null,
+      relationFilter: null,
+      pageSize: PAGE_SIZE_OPTIONS.includes(localStorage.getItem('entityBrowserPageSize'))
+        ? localStorage.getItem('entityBrowserPageSize')
+        : DEFAULT_PAGE_SIZE,
+      pageByType: {},
       loading: false,
       filters: {
         selections: {}
@@ -503,6 +689,23 @@
 
     function entityConfig(key = state.activeType) {
       return ENTITY_TYPES.find((item) => item.key === key) || ENTITY_TYPES[0];
+    }
+
+    function visibleEntityTypes() {
+      return ENTITY_TYPES.filter((item) => !item.hidden);
+    }
+
+    function tabEntityTypes() {
+      const visible = visibleEntityTypes();
+      const active = entityConfig();
+      if (active.hidden && !visible.some((item) => item.key === active.key)) {
+        return [...visible, active];
+      }
+      return visible;
+    }
+
+    function editableConfig(typeKey = state.activeType) {
+      return EDITABLE_TYPES[typeKey] || null;
     }
 
     function entityId(row, typeKey = state.activeType) {
@@ -623,20 +826,96 @@
       return state.filters.selections[facetKey] || [];
     }
 
-    function filteredRows() {
-      let rows = state.rowsByType[state.activeType] || [];
+    function baseRowsForType(typeKey = state.activeType) {
+      let rows = state.rowsByType[typeKey] || [];
+      if (state.relationFilter && state.relationFilter.type === typeKey) {
+        const { field, id } = state.relationFilter;
+        rows = rows.filter((row) => Number(row[field] || 0) === Number(id || 0));
+      }
       const q = state.query.trim().toLowerCase();
       if (q) {
-        rows = rows.filter((row) => rowSearchText(state.activeType, row).includes(q));
+        rows = rows.filter((row) => rowSearchText(typeKey, row).includes(q));
       }
-      const facets = facetDefinitionsForType(state.activeType);
+      return rows;
+    }
+
+    function rowsWithFacetSelections(rows, facets, excludedFacetKey = '') {
+      let nextRows = rows;
       facets.forEach((facet) => {
+        if (facet.key === excludedFacetKey) return;
         const selected = selectedFacetValues(facet.key);
         if (!selected.length) return;
         const selectedSet = new Set(selected);
-        rows = rows.filter((row) => selectedSet.has(facet.value(row)));
+        nextRows = nextRows.filter((row) => selectedSet.has(facet.value(row)));
       });
-      return rows;
+      return nextRows;
+    }
+
+    function filteredRows() {
+      const facets = facetDefinitionsForType(state.activeType);
+      return rowsWithFacetSelections(baseRowsForType(state.activeType), facets);
+    }
+
+    function facetOptionCounts(rows, facet) {
+      const counts = new Map();
+      rows.forEach((row) => {
+        const value = facet.value(row);
+        if (!value) return;
+        counts.set(value, (counts.get(value) || 0) + 1);
+      });
+      return counts;
+    }
+
+    function facetOptions(facet, baseRows, facets) {
+      const constrainedRows = rowsWithFacetSelections(baseRows, facets, facet.key);
+      const counts = facetOptionCounts(constrainedRows, facet);
+      const selected = selectedFacetValues(facet.key);
+      selected.forEach((value) => {
+        if (!counts.has(value)) counts.set(value, 0);
+      });
+      return [...counts.entries()]
+        .map(([value, count]) => ({ value, count }))
+        .sort((a, b) => String(a.value).localeCompare(String(b.value)));
+    }
+
+    function pageForType(typeKey = state.activeType) {
+      return Number(state.pageByType[typeKey] || 1);
+    }
+
+    function setPageForType(page, typeKey = state.activeType) {
+      state.pageByType[typeKey] = Math.max(1, Number(page) || 1);
+    }
+
+    function resetPage(typeKey = state.activeType) {
+      setPageForType(1, typeKey);
+    }
+
+    function pageSizeForCount(totalCount) {
+      if (state.pageSize === 'all') return Math.max(1, totalCount || 1);
+      return Number(state.pageSize) || Number(DEFAULT_PAGE_SIZE);
+    }
+
+    function pageContainingIndex(index, totalCount) {
+      if (state.pageSize === 'all') return 1;
+      return Math.floor(index / pageSizeForCount(totalCount)) + 1;
+    }
+
+    function paginationInfo(rows) {
+      const total = rows.length;
+      const size = pageSizeForCount(total);
+      const totalPages = Math.max(1, Math.ceil(total / size));
+      const page = Math.min(Math.max(1, pageForType()), totalPages);
+      setPageForType(page);
+      const start = total ? (page - 1) * size : 0;
+      const end = total ? Math.min(start + size, total) : 0;
+      return {
+        page,
+        total,
+        totalPages,
+        start,
+        end,
+        rows: rows.slice(start, end)
+      };
     }
 
     function datasetteUrl(table, id) {
@@ -649,15 +928,14 @@
       if (!wrap) return;
       const typeKey = state.activeType;
 
-      const rows = state.rowsByType[typeKey] || [];
-      const facets = facetDefinitionsForType(typeKey)
+      const baseRows = baseRowsForType(typeKey);
+      const facetDefs = facetDefinitionsForType(typeKey);
+      const facets = facetDefs
         .map((facet) => {
-          const values = [...new Set(rows.map((row) => facet.value(row)).filter(Boolean))]
-            .sort((a, b) => String(a).localeCompare(String(b)))
-            .slice(0, 60);
-          return { ...facet, values };
+          const options = facetOptions(facet, baseRows, facetDefs);
+          return { ...facet, options };
         })
-        .filter((facet) => facet.values.length > 1);
+        .filter((facet) => facet.options.length > 1 || selectedFacetValues(facet.key).length);
 
       if (!facets.length) {
         wrap.innerHTML = '';
@@ -680,10 +958,13 @@
                       ${selectedLabel}
                     </summary>
                     <div class="facet-options">
-                      ${facet.values.map((value) => `
-                        <label class="facet-option" title="${escapeHtml(value)}">
-                          <input type="checkbox" data-facet-key="${escapeHtml(facet.key)}" value="${escapeHtml(value)}" ${selected.includes(value) ? 'checked' : ''}>
-                          <span>${escapeHtml(value)}</span>
+                      ${facet.options.map((option) => `
+                        <label class="facet-option" title="${escapeHtml(option.value)}">
+                          <input type="checkbox" data-facet-key="${escapeHtml(facet.key)}" value="${escapeHtml(option.value)}" ${selected.includes(option.value) ? 'checked' : ''}>
+                          <span class="facet-label">
+                            <span>${escapeHtml(option.value)}</span>
+                            <span class="facet-count">${escapeHtml(option.count)}</span>
+                          </span>
                         </label>
                       `).join('')}
                     </div>
@@ -691,7 +972,7 @@
                 </div>
               `;
             }).join('')}
-            <button class="facet-clear" type="button" id="clear-facets">Clear filters</button>
+            ${selectedCount ? '<button class="facet-clear" type="button" id="clear-facets" aria-label="Clear filters">Clear</button>' : ''}
           </div>
         </details>
       `;
@@ -703,6 +984,7 @@
           if (node.checked) current.add(node.value);
           else current.delete(node.value);
           state.filters.selections[facetKey] = [...current];
+          resetPage();
           renderList();
         });
       });
@@ -710,9 +992,56 @@
       if (clear) {
         clear.addEventListener('click', () => {
           state.filters.selections = {};
+          resetPage();
           renderList();
         });
       }
+    }
+
+    function renderPager(pageInfo) {
+      const wrap = el('pager');
+      if (!wrap) return;
+      const from = pageInfo.total ? pageInfo.start + 1 : 0;
+      const to = pageInfo.end;
+      wrap.innerHTML = `
+        <button class="ghost" type="button" id="page-prev" ${pageInfo.page <= 1 ? 'disabled' : ''}>Prev</button>
+        <label class="pager-field">
+          <span>Page</span>
+          <input id="page-number" type="number" min="1" max="${escapeHtml(pageInfo.totalPages)}" value="${escapeHtml(pageInfo.page)}">
+          <span>/ ${escapeHtml(pageInfo.totalPages)}</span>
+        </label>
+        <button class="ghost" type="button" id="page-next" ${pageInfo.page >= pageInfo.totalPages ? 'disabled' : ''}>Next</button>
+        <label class="pager-field">
+          <span>Rows/page</span>
+          <select id="page-size">
+            ${PAGE_SIZE_OPTIONS.map((value) => `<option value="${escapeHtml(value)}" ${state.pageSize === value ? 'selected' : ''}>${escapeHtml(value === 'all' ? 'All' : value)}</option>`).join('')}
+          </select>
+        </label>
+        <span>${escapeHtml(from)}-${escapeHtml(to)} of ${escapeHtml(pageInfo.total)}</span>
+      `;
+
+      el('page-prev')?.addEventListener('click', () => {
+        setPageForType(pageInfo.page - 1);
+        renderList();
+        updateUrl();
+      });
+      el('page-next')?.addEventListener('click', () => {
+        setPageForType(pageInfo.page + 1);
+        renderList();
+        updateUrl();
+      });
+      el('page-number')?.addEventListener('change', (event) => {
+        setPageForType(event.target.value);
+        renderList();
+        updateUrl();
+      });
+      el('page-size')?.addEventListener('change', (event) => {
+        state.pageSize = PAGE_SIZE_OPTIONS.includes(event.target.value) ? event.target.value : DEFAULT_PAGE_SIZE;
+        localStorage.setItem('entityBrowserPageSize', state.pageSize);
+        resetPage();
+        renderList();
+        updateUrl();
+      });
     }
 
     function workbenchUrl(imageId, regionId) {
@@ -732,14 +1061,26 @@
       return apiClient.resolveUrl(value);
     }
 
-    function kitThumbnail(row) {
-      return assetUrl(row?.thumbnail_url);
+    function imageAssetUrl(row) {
+      if (!row) return '';
+      return assetUrl(row.url || (row.filename ? `/uploads/${row.filename}` : row.storage_path));
     }
 
-    function thumbnailImg(row, className, alt) {
-      const url = kitThumbnail(row);
+    function thumbnailUrlFor(typeKey, row) {
+      if (!row) return '';
+      if (typeKey === 'kits') return assetUrl(row.thumbnail_url);
+      if (typeKey === 'parts') return assetUrl(row.thumbnail_url);
+      if (typeKey === 'images') return imageAssetUrl(row);
+      if (typeKey === 'maps') {
+        return assetUrl(row.image_url || (row.image_filename ? `/uploads/${row.image_filename}` : row.image_storage_path));
+      }
+      return '';
+    }
+
+    function thumbnailImg(row, className, alt, typeKey = state.activeType) {
+      const url = thumbnailUrlFor(typeKey, row);
       if (!url) return '';
-      return `<img class="${className}" src="${escapeHtml(url)}" alt="${escapeHtml(alt || labelFor('kits', row))}" loading="lazy" onerror="this.remove()">`;
+      return `<img class="${className}" src="${escapeHtml(url)}" alt="${escapeHtml(alt || labelFor(typeKey, row))}" loading="lazy" onerror="this.remove()">`;
     }
 
     function setStatus(message, isError = false) {
@@ -748,11 +1089,12 @@
     }
 
     function renderTabs() {
-      el('tabs').innerHTML = ENTITY_TYPES.map((type) => {
+      el('tabs').innerHTML = tabEntityTypes().map((type) => {
         const count = state.rowsByType[type.key]?.length;
+        const label = type.hidden ? `Related: ${type.label}` : type.label;
         return `
           <button class="tab ${type.key === state.activeType ? 'active' : ''}" data-type="${type.key}">
-            <span>${escapeHtml(type.label)}</span>
+            <span>${escapeHtml(label)}</span>
             <span class="count">${count ?? '-'}</span>
           </button>
         `;
@@ -765,17 +1107,27 @@
     function renderList() {
       const cfg = entityConfig();
       const rows = filteredRows();
+      const pageInfo = paginationInfo(rows);
       el('list-title').textContent = cfg.label;
-      el('list-meta').textContent = `${rows.length} shown / ${(state.rowsByType[state.activeType] || []).length} loaded`;
+      el('list-meta').textContent = rows.length
+        ? `${pageInfo.start + 1}-${pageInfo.end} shown / ${rows.length} matched / ${(state.rowsByType[state.activeType] || []).length} loaded`
+        : `0 shown / ${(state.rowsByType[state.activeType] || []).length} loaded`;
+      const newButton = el('new-entity');
+      if (newButton) {
+        const canCreate = !!editableConfig(state.activeType);
+        newButton.hidden = !canCreate;
+        newButton.textContent = canCreate ? `New ${cfg.singular.replace('_', ' ')}` : 'New';
+      }
       renderFilterControls();
+      renderPager(pageInfo);
       if (!rows.length) {
         el('list').innerHTML = '<div class="empty">No records match the current search and filters.</div>';
         return;
       }
-      el('list').innerHTML = rows.slice(0, 500).map((row) => {
+      el('list').innerHTML = pageInfo.rows.map((row) => {
         const id = entityId(row);
         const selected = state.selected && state.selected.type === state.activeType && String(state.selected.id) === String(id);
-        const thumb = state.activeType === 'kits' ? thumbnailImg(row, 'row-thumb') : '';
+        const thumb = ['kits', 'parts'].includes(state.activeType) ? thumbnailImg(row, 'row-thumb', '', state.activeType) : '';
         const rowBadges = badgesFor(state.activeType, row);
         const shownBadges = rowBadges.slice(0, 2);
         const extraBadges = rowBadges.length - shownBadges.length;
@@ -796,9 +1148,19 @@
       el('list').querySelectorAll('[data-id]').forEach((node) => {
         node.addEventListener('click', () => selectRecord(state.activeType, node.dataset.id));
       });
-      if (rows.length > 500) {
-        el('list').insertAdjacentHTML('beforeend', `<div class="hint">Showing first 500 of ${rows.length}. Narrow the search to see more.</div>`);
-      }
+      scheduleSelectedRowScroll();
+    }
+
+    function scrollSelectedRowIntoView() {
+      if (!state.selected || state.selected.type !== state.activeType) return;
+      const selectedId = String(state.selected.id);
+      const node = [...el('list').querySelectorAll('[data-id]')]
+        .find((item) => String(item.dataset.id) === selectedId);
+      if (node) node.scrollIntoView({ block: 'nearest' });
+    }
+
+    function scheduleSelectedRowScroll() {
+      window.requestAnimationFrame(scrollSelectedRowIntoView);
     }
 
     function kv(label, value) {
@@ -874,6 +1236,40 @@
       return `<a class="action" href="${escapeHtml(href)}">${escapeHtml(label)}</a>`;
     }
 
+    function isImageLikeUrl(url) {
+      const text = String(url || '').toLowerCase();
+      return text.includes('/api/part_images/') || /\.(apng|avif|gif|jpe?g|png|svg|webp)(\?.*)?$/.test(text);
+    }
+
+    function mediaTile(item) {
+      const url = assetUrl(item.url);
+      if (!url) return '';
+      return `
+        <a class="media-tile" href="${escapeHtml(url)}" target="_blank" rel="noreferrer">
+          <img src="${escapeHtml(url)}" alt="${escapeHtml(item.title || 'Image')}" loading="lazy" onerror="this.closest('.media-tile').remove()">
+          <div class="media-title">${escapeHtml(item.title || item.meta || 'Image')}</div>
+        </a>
+      `;
+    }
+
+    function partMedia(detail) {
+      const fileMedia = (detail.files || [])
+        .filter((file) => file.url && isImageLikeUrl(file.url))
+        .map((file) => ({
+          url: file.url,
+          title: file.source || file.file_type || 'Part reference',
+          meta: file.notes
+        }));
+      const linkedImageMedia = (detail.images || [])
+        .map((image) => ({
+          url: image.url || (image.filename ? `/uploads/${image.filename}` : image.storage_path),
+          title: image.title || image.image_code || image.filename || `Image ${image.id}`,
+          meta: compact([image.image_type, image.source])
+        }))
+        .filter((image) => image.url);
+      return [...fileMedia, ...linkedImageMedia];
+    }
+
     function crossLinkSection(typeKey, row) {
       const links = [];
       const rowId = entityId(row, typeKey);
@@ -903,6 +1299,8 @@
       state.activeType = targetType;
       state.selected = null;
       state.query = '';
+      state.relationFilter = { type: targetType, field: filterField, id: filterId };
+      resetPage(targetType);
       el('search').value = '';
       renderTabs();
       renderDetailEmpty();
@@ -912,13 +1310,12 @@
         await loadRows(targetType);
         const filtered = (state.rowsByType[targetType] || []).filter((row) => Number(row[filterField] || 0) === Number(filterId || 0));
         if (filtered.length === 0) {
+          renderList();
           setStatus('No matching records found.');
         } else if (filtered.length === 1) {
           setStatus('');
           selectRecord(targetType, filtered[0].id);
         } else {
-          state.query = `${filterField}:${filterId}`;
-          el('search').value = state.query;
           renderList();
           setStatus(`Found ${filtered.length} matching records.`);
         }
@@ -929,6 +1326,9 @@
     function actionsFor(typeKey, row, detail) {
       const id = entityId(row, typeKey);
       const actions = [];
+      if (editableConfig(typeKey)) {
+        actions.push(`<button class="ghost" type="button" onclick="openEditForm('${escapeHtml(typeKey)}')">Edit</button>`);
+      }
       if (typeKey === 'images') actions.push(action('Open in Image Workbench', workbenchUrl(id)));
       if (typeKey === 'regions') actions.push(action('Open in Image Workbench', workbenchUrl(row.image_id, id)));
       if (typeKey === 'placements') actions.push(action('Open in Map Workbench', mapWorkbenchUrl()));
@@ -947,22 +1347,177 @@
       return section('Actions', `<div class="actions">${actions.join('')}</div>`, undefined, 'actions');
     }
 
-    async function loadRows(typeKey, force = false) {
+    function detailRecordFor(typeKey, detail, row) {
+      const keyByType = {
+        kits: 'kit',
+        parts: 'part',
+        models: 'model',
+        maps: 'map',
+        images: 'image'
+      };
+      return detail?.[keyByType[typeKey]] || row || {};
+    }
+
+    function fieldInputHtml(field, value) {
+      const required = field.required ? ' required' : '';
+      const valueText = value ?? '';
+      if (field.type === 'textarea') {
+        return `<textarea name="${escapeHtml(field.key)}"${required}>${escapeHtml(valueText)}</textarea>`;
+      }
+      if (field.type === 'select') {
+        const options = field.options || [];
+        return `
+          <select name="${escapeHtml(field.key)}"${required}>
+            ${options.map((option) => `<option value="${escapeHtml(option)}" ${String(valueText) === String(option) ? 'selected' : ''}>${escapeHtml(option)}</option>`).join('')}
+          </select>
+        `;
+      }
+      return `<input name="${escapeHtml(field.key)}" type="${escapeHtml(field.type || 'text')}" value="${escapeHtml(valueText)}"${required}>`;
+    }
+
+    function renderEntityForm(mode, typeKey, record) {
+      const cfg = editableConfig(typeKey);
+      if (!cfg) return '<div class="empty">This record type is read-only here.</div>';
+      const title = mode === 'create' ? `New ${entityConfig(typeKey).singular.replace('_', ' ')}` : `Edit ${labelFor(typeKey, record)}`;
+      const fields = cfg.fields.map((field) => {
+        const value = record[field.key] ?? cfg.defaults?.[field.key] ?? '';
+        return `
+          <label class="field ${escapeHtml(field.className || '')}">
+            <span>${escapeHtml(field.label)}</span>
+            ${fieldInputHtml(field, value)}
+          </label>
+        `;
+      }).join('');
+      return `
+        <section class="section" id="sec-edit">
+          <div class="section-head"><span>${escapeHtml(title)}</span></div>
+          <div class="section-body">
+            <form class="edit-form" id="entity-form" data-mode="${escapeHtml(mode)}" data-type="${escapeHtml(typeKey)}" data-id="${escapeHtml(entityId(record, typeKey) || '')}">
+              <div class="field-grid">${fields}</div>
+              <div class="actions">
+                <button type="submit">${mode === 'create' ? 'Create' : 'Save'}</button>
+                <button class="ghost" type="button" id="cancel-form">Cancel</button>
+              </div>
+            </form>
+          </div>
+        </section>
+      `;
+    }
+
+    function fieldValueFromForm(form, field) {
+      const node = form.elements[field.key];
+      if (!node) return null;
+      const value = String(node.value ?? '').trim();
+      if (field.type === 'number') return value === '' ? null : Number(value);
+      return value;
+    }
+
+    function bindEntityForm() {
+      const form = el('entity-form');
+      if (!form) return;
+      const cancel = el('cancel-form');
+      if (cancel) {
+        cancel.addEventListener('click', () => {
+          if (state.selected) renderDetail(state.selected.type, state.selected.id);
+          else renderDetailEmpty();
+        });
+      }
+      form.addEventListener('submit', async (event) => {
+        event.preventDefault();
+        const typeKey = form.dataset.type;
+        const mode = form.dataset.mode;
+        const cfg = editableConfig(typeKey);
+        if (!cfg) return;
+        const payload = { ...(cfg.defaults || {}) };
+        cfg.fields.forEach((field) => {
+          payload[field.key] = fieldValueFromForm(form, field);
+        });
+        const id = form.dataset.id;
+        const endpoint = mode === 'create' ? cfg.createEndpoint : cfg.updateEndpoint(id);
+        const method = mode === 'create' ? 'POST' : 'PUT';
+        try {
+          setStatus(mode === 'create' ? 'Creating record...' : 'Saving record...');
+          const result = await apiClient.request(endpoint, {
+            method,
+            headers: apiClient.jsonHeaders(),
+            body: JSON.stringify(payload)
+          });
+          state.activeType = typeKey;
+          state.query = '';
+          state.relationFilter = null;
+          el('search').value = '';
+          await loadRows(typeKey, true, { quiet: true });
+          renderTabs();
+          renderList();
+          const nextId = mode === 'create' ? result?.id : id;
+          if (nextId) await selectRecord(typeKey, nextId);
+          else renderDetailEmpty();
+          setStatus('');
+        } catch (error) {
+          setStatus(error.message || 'Save failed.', true);
+        }
+      });
+    }
+
+    function openCreateForm(typeKey = state.activeType) {
+      if (!editableConfig(typeKey)) return;
+      state.activeType = typeKey;
+      state.selected = null;
+      state.currentDetail = null;
+      state.relationFilter = null;
+      resetPage(typeKey);
+      renderTabs();
+      renderList();
+      el('detail-meta').textContent = `new ${entityConfig(typeKey).singular.replace('_', ' ')}`;
+      el('detail').innerHTML = renderEntityForm('create', typeKey, {});
+      bindEntityForm();
+      updateUrl();
+    }
+
+    function openEditForm(typeKey = state.activeType) {
+      const selected = state.selected;
+      if (!selected || selected.type !== typeKey || !editableConfig(typeKey)) return;
+      const row = findLoadedRow(typeKey, selected.id);
+      const record = detailRecordFor(typeKey, state.currentDetail, row);
+      el('detail-meta').textContent = `edit ${entityConfig(typeKey).singular.replace('_', ' ')}`;
+      el('detail').innerHTML = renderEntityForm('edit', typeKey, record);
+      bindEntityForm();
+    }
+
+    async function loadRows(typeKey, force = false, options = {}) {
       const cfg = entityConfig(typeKey);
       if (!force && state.rowsByType[typeKey]) return state.rowsByType[typeKey];
-      setStatus(`Loading ${cfg.label.toLowerCase()}...`);
+      if (!options.quiet) setStatus(`Loading ${cfg.label.toLowerCase()}...`);
       const payload = await apiClient.request(cfg.endpoint);
       state.rowsByType[typeKey] = asArray(payload);
-      setStatus('');
+      if (!options.quiet) setStatus('');
       renderTabs();
       return state.rowsByType[typeKey];
+    }
+
+    async function loadStartupCounts() {
+      setStatus('Loading entities...');
+      const results = await Promise.allSettled(
+        visibleEntityTypes().map((type) => loadRows(type.key, false, { quiet: true }))
+      );
+      const failed = results.filter((result) => result.status === 'rejected');
+      renderTabs();
+      if (failed.length) {
+        const message = failed[0].reason?.message || 'Could not load entity counts.';
+        setStatus(message, true);
+      } else {
+        setStatus('');
+      }
     }
 
     async function selectType(typeKey) {
       state.activeType = typeKey;
       state.query = '';
       state.selected = null;
+      state.currentDetail = null;
+      state.relationFilter = null;
       state.filters.selections = {};
+      resetPage(typeKey);
       el('search').value = '';
       renderTabs();
       renderDetailEmpty();
@@ -977,9 +1532,38 @@
 
     async function selectRecord(typeKey, id) {
       state.selected = { type: typeKey, id };
+      if (typeKey === state.activeType) {
+        const rows = filteredRows();
+        const index = rows.findIndex((row) => String(entityId(row, typeKey)) === String(id));
+        if (index >= 0) setPageForType(pageContainingIndex(index, rows.length), typeKey);
+      }
       renderList();
       updateUrl();
       await renderDetail(typeKey, id);
+    }
+
+    function isTextEntryTarget(target) {
+      const tagName = String(target?.tagName || '').toUpperCase();
+      return target?.isContentEditable || ['INPUT', 'TEXTAREA', 'SELECT'].includes(tagName);
+    }
+
+    async function selectAdjacentPart(delta) {
+      if (state.activeType !== 'parts') return false;
+      const rows = filteredRows();
+      if (!rows.length) return false;
+
+      const selectedId = state.selected?.type === 'parts' ? String(state.selected.id) : null;
+      let index = selectedId
+        ? rows.findIndex((row) => String(entityId(row, 'parts')) === selectedId)
+        : -1;
+      if (index < 0) index = delta > 0 ? -1 : rows.length;
+
+      const nextIndex = Math.max(0, Math.min(rows.length - 1, index + delta));
+      const next = rows[nextIndex];
+      if (!next) return false;
+
+      await selectRecord('parts', entityId(next, 'parts'));
+      return true;
     }
 
     async function fetchDetail(typeKey, row, id) {
@@ -1004,6 +1588,7 @@
 
     function renderDetailEmpty() {
       el('detail-meta').textContent = 'Nothing selected';
+      state.currentDetail = null;
       el('detail').innerHTML = '<div class="empty">Select a row to inspect the record and its relationships.</div>';
     }
 
@@ -1017,6 +1602,7 @@
       el('detail').innerHTML = '<div class="empty">Loading detail...</div>';
       try {
         const detail = await fetchDetail(typeKey, row, id);
+        state.currentDetail = detail;
         const extraRegions = ['kits', 'parts', 'placements', 'models', 'maps'].includes(typeKey)
           ? await linkedRegionsFor(entityConfig(typeKey).singular, id)
           : [];
@@ -1028,7 +1614,7 @@
 
     function renderDetailHtml(typeKey, row, detail, extraRegions) {
       const title = labelFor(typeKey, row);
-      const thumb = typeKey === 'kits' ? thumbnailImg(row, 'detail-thumb') : '';
+      const thumb = ['kits', 'parts'].includes(typeKey) ? thumbnailImg(row, 'detail-thumb', '', typeKey) : '';
       const header = `
         <div class="detail-header ${thumb ? '' : 'no-thumb'}">
           ${thumb}
@@ -1073,6 +1659,7 @@
 
     function renderPartDetail(detail, row, regions) {
       const part = detail.part || row;
+      const media = partMedia(detail);
       return [
         section('Record', [
           kv('Kit', compact([part.brand, part.kit_name], ' ')),
@@ -1080,8 +1667,8 @@
           kv('Part label', part.part_label),
           kv('Notes', part.notes)
         ].join(''), undefined, 'record'),
+        section('Images', media.map(mediaTile).join(''), media.length, 'linked-images'),
         section('Placements', (detail.placements || []).map((placement) => mini(placement.location_label || `Placement ${placement.id}`, compact([placement.model_name, placement.confidence]))).join(''), detail.placements?.length || 0, 'placements'),
-        section('Linked Images', (detail.images || []).map((image) => mini(image.title || image.image_code || `Image ${image.id}`, compact([image.image_type, image.source]))).join(''), detail.images?.length || 0, 'linked-images'),
         section('Linked Regions', regions.map((region) => mini(region.label || `Region ${region.id}`, compact([`image ${region.image_id}`, region.entity_label]))).join(''), regions.length, 'linked-regions')
       ].join('');
     }
@@ -1201,32 +1788,36 @@
       params.set('type', state.activeType);
       if (state.selected) params.set('id', state.selected.id);
       if (state.query) params.set('q', state.query);
+      if (pageForType() > 1) params.set('page', String(pageForType()));
+      if (state.pageSize !== DEFAULT_PAGE_SIZE) params.set('page_size', state.pageSize);
       history.replaceState(null, '', `?${params.toString()}`);
     }
 
-    async function refreshActive() {
-      await loadRows(state.activeType, true);
-      renderList();
-      if (state.selected) await renderDetail(state.selected.type, state.selected.id);
-    }
-
     function bind() {
-      el('api-base').value = state.apiBase;
-      el('save-api').addEventListener('click', async () => {
-        state.apiBase = apiClient.setApiBase(el('api-base').value.trim() || NHTApi.DEFAULT_API_BASE);
-        await refreshActive();
-      });
-      el('refresh').addEventListener('click', () => refreshActive().catch((error) => setStatus(error.message, true)));
+      el('new-entity').addEventListener('click', () => openCreateForm(state.activeType));
       el('clear-search').addEventListener('click', () => {
         state.query = '';
+        state.relationFilter = null;
+        resetPage();
         el('search').value = '';
         renderList();
         updateUrl();
       });
       el('search').addEventListener('input', () => {
         state.query = el('search').value;
+        state.relationFilter = null;
+        resetPage();
         renderList();
         updateUrl();
+      });
+      document.addEventListener('keydown', (event) => {
+        if (event.defaultPrevented || event.altKey || event.ctrlKey || event.metaKey || event.shiftKey) return;
+        if (!['ArrowDown', 'ArrowUp'].includes(event.key)) return;
+        if (isTextEntryTarget(event.target)) return;
+        if (state.activeType !== 'parts') return;
+        event.preventDefault();
+        const delta = event.key === 'ArrowDown' ? 1 : -1;
+        selectAdjacentPart(delta).catch((error) => setStatus(error.message, true));
       });
     }
 
@@ -1237,11 +1828,20 @@
       const params = new URLSearchParams(window.location.search);
       const requestedType = params.get('type');
       if (requestedType && ENTITY_TYPES.some((item) => item.key === requestedType)) state.activeType = requestedType;
+      const requestedPageSize = params.get('page_size');
+      if (PAGE_SIZE_OPTIONS.includes(requestedPageSize)) {
+        state.pageSize = requestedPageSize;
+        localStorage.setItem('entityBrowserPageSize', state.pageSize);
+      }
+      setPageForType(params.get('page') || 1);
       state.query = params.get('q') || '';
       state.filters.selections = {};
       el('search').value = state.query;
       renderTabs();
-      await loadRows(state.activeType);
+      await loadStartupCounts();
+      if (!state.rowsByType[state.activeType]) {
+        await loadRows(state.activeType);
+      }
       renderList();
       const requestedId = params.get('id');
       if (requestedId) await selectRecord(state.activeType, requestedId);

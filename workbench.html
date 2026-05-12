@@ -384,7 +384,7 @@
       display: flex;
       flex-direction: column;
       padding: 12px;
-      gap: 0;
+      gap: 8px;
       overflow: hidden;
     }
     .canvas-frame {
@@ -392,6 +392,93 @@
       min-height: 0;
       position: relative;
       padding: 0 44px;
+    }
+    .selection-tray {
+      flex: 0 0 auto;
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      background: rgba(255, 250, 244, 0.92);
+      box-shadow: 0 8px 22px rgba(47, 36, 27, 0.10);
+      padding: 10px 12px;
+      display: grid;
+      gap: 8px;
+    }
+    .selection-tray.empty {
+      background: rgba(255, 255, 255, 0.50);
+      box-shadow: none;
+      color: var(--ink-3);
+    }
+    .tray-main {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      min-width: 0;
+      flex-wrap: wrap;
+    }
+    .tray-copy {
+      display: grid;
+      gap: 3px;
+      min-width: 220px;
+      flex: 1 1 260px;
+    }
+    .tray-title {
+      font-size: 14px;
+      font-weight: 600;
+      min-width: 0;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+    .tray-meta {
+      color: var(--ink-3);
+      font: 11px var(--mono);
+      min-width: 0;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+    .tray-actions {
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+    .tray-actions button {
+      min-height: 32px;
+      padding: 6px 9px;
+      font-size: 12px;
+    }
+    .tray-badges {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      flex-wrap: wrap;
+    }
+    .tray-badge {
+      border: 1px solid rgba(92, 72, 56, 0.18);
+      border-radius: 999px;
+      background: rgba(255, 255, 255, 0.62);
+      color: var(--ink-2);
+      font: 11px var(--mono);
+      padding: 3px 7px;
+    }
+    .tray-fields {
+      display: grid;
+      grid-template-columns: minmax(160px, 1fr) minmax(220px, 2fr);
+      gap: 8px;
+      align-items: start;
+    }
+    .selection-tray .field,
+    .selection-tray textarea {
+      min-height: 32px;
+      padding: 6px 8px;
+      font-size: 12px;
+    }
+    .selection-tray textarea {
+      min-height: 48px;
+      max-height: 80px;
     }
     .canvas-scroll {
       width: 100%;
@@ -658,6 +745,7 @@
     @media (max-width: 960px) {
       .app { grid-template-columns: 1fr; }
       .panel, .center { min-height: 320px; border-right: 0; border-bottom: 1px solid var(--line); }
+      .tray-fields { grid-template-columns: 1fr; }
     }
   </style>
 </head>
@@ -792,6 +880,7 @@
           <button class="canvas-nav prev" id="prev-image" aria-label="Previous image"><span>&lsaquo;</span></button>
           <button class="canvas-nav next" id="next-image" aria-label="Next image"><span>&rsaquo;</span></button>
         </div>
+        <div id="selection-tray" class="selection-tray empty"></div>
         <div class="canvas-adjustments">
           <div class="adj-group">
             <span class="adj-label">Brightness</span>
@@ -1803,6 +1892,7 @@
       el('canvas-sub').textContent = image ? [image.source_title || image.source || 'Unknown source', image.image_type || 'other'].filter(Boolean).join(' / ') : 'Browse the image library to begin.';
       el('inspector-meta').textContent = state.selectedRegionId ? `Region ${state.selectedRegionId}` : (image ? `Image ${image.id}` : 'Nothing selected');
       renderRegions();
+      renderSelectionTray();
       renderInspector();
     }
 
@@ -2045,6 +2135,115 @@
 
     function currentRegionDetail() {
       return state.selectedRegionDetail || currentRegion();
+    }
+
+    function trayBadgeRow(items) {
+      const badges = items.filter(Boolean);
+      if (!badges.length) return '';
+      return `<div class="tray-badges">${badges.map((item) => `<span class="tray-badge">${escapeHtml(item)}</span>`).join('')}</div>`;
+    }
+
+    function renderSelectionTray() {
+      const tray = el('selection-tray');
+      if (!tray) return;
+      const image = state.selectedImage;
+      const region = currentRegionDetail();
+      if (!image) {
+        tray.className = 'selection-tray empty';
+        tray.innerHTML = `
+          <div class="tray-main">
+            <div class="tray-copy">
+              <div class="tray-title">No image selected</div>
+              <div class="tray-meta">Image workbench</div>
+            </div>
+          </div>
+        `;
+        return;
+      }
+      if (!region) {
+        const regions = image.regions || [];
+        tray.className = 'selection-tray';
+        tray.innerHTML = `
+          <div class="tray-main">
+            <div class="tray-copy">
+              <div class="tray-title">${escapeHtml(imageDisplayTitle(image))}</div>
+              <div class="tray-meta">${escapeHtml([image.source_title || image.source, image.image_code].filter(Boolean).join(' / ') || `Image ${image.id}`)}</div>
+            </div>
+            <div class="tray-actions">
+              <button type="button" id="tray-mode-point" class="${state.mode === 'point' ? 'primary' : 'ghost'}">Add point</button>
+              <button type="button" id="tray-mode-box" class="${state.mode === 'box' ? 'primary' : 'ghost'}">Add box</button>
+              <button type="button" id="tray-mode-select" class="${state.mode === 'select' ? 'primary' : 'ghost'}">Select</button>
+            </div>
+          </div>
+          ${trayBadgeRow([image.image_type || 'image', `${regions.length} regions`, imageFamilyTitle(image)])}
+        `;
+        bindSelectionTray();
+        return;
+      }
+      const linkTitle = region.entity_label || 'Unlinked';
+      const geometry = region.region_type === 'box'
+        ? `box ${formatFloat(region.width_norm)} x ${formatFloat(region.height_norm)}`
+        : 'point';
+      tray.className = 'selection-tray';
+      tray.innerHTML = `
+        <div class="tray-main">
+          <div class="tray-copy">
+            <div class="tray-title">${escapeHtml(regionDisplayTitle(region))}</div>
+            <div class="tray-meta">${escapeHtml([linkTitle, `x ${formatFloat(region.x_norm)} / y ${formatFloat(region.y_norm)}`].filter(Boolean).join(' / '))}</div>
+          </div>
+          <div class="tray-actions">
+            <button type="button" id="tray-region-save" class="primary">Save</button>
+            <button type="button" id="tray-region-link" class="ghost">Link</button>
+            <button type="button" id="tray-region-unlink" class="ghost" ${region.entity_type && region.entity_id ? '' : 'disabled'}>Unlink</button>
+            <button type="button" id="tray-region-clear" class="ghost">Clear</button>
+          </div>
+        </div>
+        ${trayBadgeRow([region.region_type || 'region', geometry, region.entity_type || 'unlinked', regionDisplayMeta(region)])}
+        <div class="tray-fields">
+          <input class="field" id="tray-region-label" value="${escapeHtml(region.label || '')}" placeholder="Region label">
+          <textarea id="tray-region-notes" placeholder="Region notes">${escapeHtml(region.notes || '')}</textarea>
+        </div>
+      `;
+      bindSelectionTray();
+    }
+
+    function setTrayMode(mode) {
+      state.mode = mode;
+      updateModeButtons();
+      renderSelectionTray();
+    }
+
+    async function saveRegionTrayEdits() {
+      const region = currentRegionDetail();
+      if (!region) return;
+      await updateRegion({
+        ...region,
+        label: el('tray-region-label')?.value.trim() || null,
+        notes: el('tray-region-notes')?.value.trim() || null
+      });
+    }
+
+    function bindSelectionTray() {
+      el('tray-mode-point')?.addEventListener('click', () => setTrayMode('point'));
+      el('tray-mode-box')?.addEventListener('click', () => setTrayMode('box'));
+      el('tray-mode-select')?.addEventListener('click', () => setTrayMode('select'));
+      el('tray-region-save')?.addEventListener('click', () => saveRegionTrayEdits().catch(handleError));
+      el('tray-region-clear')?.addEventListener('click', () => selectRegion(null).catch(handleError));
+      el('tray-region-unlink')?.addEventListener('click', () => (async () => {
+        const region = currentRegionDetail();
+        if (!region) return;
+        await updateRegion({
+          ...region,
+          entity_type: null,
+          entity_id: null
+        });
+      })().catch(handleError));
+      el('tray-region-link')?.addEventListener('click', () => {
+        const search = el('link-search');
+        if (!search) return;
+        search.scrollIntoView({ block: 'center' });
+        search.focus();
+      });
     }
 
     function renderInspector() {
@@ -3274,6 +3473,7 @@
         el(`mode-${mode}`).addEventListener('click', () => {
           state.mode = mode;
           updateModeButtons();
+          renderSelectionTray();
         });
       });
       el('toggle-labels').addEventListener('click', () => {

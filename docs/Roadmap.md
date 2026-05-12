@@ -3,6 +3,16 @@
 
 ---
 
+## Current Status Note
+
+This document is the strategic roadmap. For the current operational state, active surfaces, verification command, and immediate build lane, use [CurrentStatus.md](./CurrentStatus.md).
+
+For route, schema, and deployment reference, use [API.md](./API.md), [DataModel.md](./DataModel.md), and [DeploymentPlan.md](./DeploymentPlan.md).
+
+The deployment and data-model material later in this file is retained as roadmap history. Current reference docs take precedence.
+
+---
+
 ## Vision
 
 A research platform and eventual public database documenting the kit-bashed parts used on ILM studio models built in Van Nuys during the original Star Wars movie - starting with the 5-foot Millennium Falcon. The goal is to make the cross-model connections visible, credit the researchers who found them, and gradually shift a fragmented, knowledge-hoarding community toward open sharing.
@@ -72,7 +82,7 @@ Current positives:
 
 Current growth risks:
 
-- schema truth is split across `schema.sql`, runtime bootstrap in `backend/app.py`, and draft migrations
+- schema truth is split across `schema.sql`, runtime bootstrap in `backend/schema_bootstrap.py`, and draft migrations
 - frontend request, auth, and local state wiring is duplicated across multiple standalone HTML apps
 - persistence is still split between backend records and browser-local tool storage
 - runtime artifacts and generated data live beside source in the repo
@@ -108,7 +118,7 @@ These items should happen before widening scope much further.
 - current decision:
   - `backend/schema.sql` is the canonical fresh-schema definition
   - every schema change should also land as an ordered file in `backend/migrations/`
-  - runtime schema patching in `backend/app.py` is a temporary compatibility bridge for existing local databases only
+  - runtime schema patching in `backend/schema_bootstrap.py` is a temporary compatibility bridge for existing local databases only
   - new schema work should not live only in runtime bootstrap
 - `backend/migrations/README.md` defines the working migration rule for this repo
 - `backend/migrations/2026-04-17_research_extensions.sql` should be treated as an earlier draft/reference file, not the active migration standard

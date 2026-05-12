@@ -20,6 +20,25 @@ Companion workflow reference:
 - See [WorkflowPivotTable.md](./WorkflowPivotTable.md) for the same workflow model expressed from the user's starting questions
 - See [WorkflowSystemMap.md](./WorkflowSystemMap.md) for the compact visual-text system sketch
 
+## April 2026 Status
+
+The current implementation is in a stabilization phase with these active surfaces:
+
+- `entity_browser.html` as a read-first relationship browser
+- `workbench.html` for image evidence annotation and claim workflows
+- `map_workbench.html` for kit-first map placement and correction
+
+Shared shell behavior is now centralized for API base/admin controls and workspace zoom.
+
+Stabilization boundary in effect:
+
+- active work remains in kits/parts/placements/maps/images/regions/claims
+- no partial introduction of deferred entities (`physical_objects`, `locations`, `events`) into active UI or API flows
+
+Immediate next architecture task:
+
+- keep convergence pressure on the three active surfaces and avoid re-expanding legacy pages
+
 ## Current Reality
 
 The current UI layer is fragmented by history, not by design.

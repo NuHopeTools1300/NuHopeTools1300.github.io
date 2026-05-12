@@ -27,7 +27,7 @@ DEFAULT_IMAGE_ROOT = Path(
     r"G:\.shortcut-targets-by-id\1wUGCO3uhQSoFWdir3gPoj7y93BV_zUjW"
     r"\Millennium Falcon 5'\SW-ANH-donors\SW-ANH-donors_public\Kit_box_images"
 )
-DEFAULT_REPORT = ROOT / "docs" / "KitBoxImageMatchDryRun.csv"
+DEFAULT_REPORT = ROOT / "docs" / "generated" / "KitBoxImageMatchDryRun.csv"
 UPLOAD_ROOT = ROOT / "backend" / "data" / "uploads"
 KIT_BOX_UPLOAD_DIR = UPLOAD_ROOT / "kit_box_images"
 

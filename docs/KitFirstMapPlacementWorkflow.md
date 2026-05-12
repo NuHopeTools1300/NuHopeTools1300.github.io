@@ -22,6 +22,21 @@ Part numbers are integer identifiers when numeric. Store and display `8`, not
 `8.0`; decimal-looking numeric cells from spreadsheets should be normalized at
 import time unless the identifier is genuinely alphanumeric or compound.
 
+## Implementation Status (April 2026)
+
+Implemented in `map_workbench.html`:
+
+- kit-first pass is the default placement creation path
+- refinement queue and refine/merge tooling exist for pass-2 cleanup
+- position history controls are available for existing placements
+- import review panel is integrated (preview/apply plus part-number normalization)
+
+Backend support is active for:
+
+- refinement compatibility aliases
+- reconciliation preview/apply endpoints
+- part-number normalization endpoint
+
 ## Pass 1 - Kit-Level Placement
 
 Place the kit on the map first.

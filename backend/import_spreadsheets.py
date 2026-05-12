@@ -477,10 +477,12 @@ def import_3d_parts(xlsx_path, db):
             """, (part_id, provider)).fetchone()
 
             if not existing:
+                # Some deployed DBs still enforce part_files.url as NOT NULL.
+                url_value = provider if provider.startswith(('http://', 'https://')) else f"provider:{provider}"
                 db.execute("""
                     INSERT INTO part_files (part_id, file_type, url, source, notes)
-                    VALUES (?, 'scan', NULL, ?, ?)
-                """, (part_id, provider, notes))
+                    VALUES (?, 'scan', ?, ?, ?)
+                """, (part_id, url_value, provider, notes))
                 imported += 1
 
     db.commit()

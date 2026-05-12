@@ -18,7 +18,12 @@ backend/data/*.db
 backend/data/*.db-*
 backend/data/*.bak
 backend/data/*.bak.*
+backend/data/part_images/
 backend/data/uploads/
+
+# Large private working inputs / extracted archives
+PartList_private.docx
+PartList_private.zip
 
 # Logs
 *.log

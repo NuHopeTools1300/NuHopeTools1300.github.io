@@ -1,5 +1,9 @@
 # Phase 1 Build Checklist
 
+Status: completed implementation record.
+
+For current operational status and next work, use [CurrentStatus.md](./CurrentStatus.md). This checklist remains useful as a history of what Phase 1 and Phase 1.5 covered, but it is not the live task list.
+
 ## Purpose
 
 This checklist translates the first real product slice into concrete implementation work.
@@ -11,6 +15,39 @@ Scope for Phase 1:
 - link regions to entities
 - create claims
 - review provenance
+
+## Phase 1.5 Stabilization (April 2026)
+
+This follow-on checklist tracks consolidation work done after the Phase 1 shell was proven.
+
+### Map and Entity Stabilization
+
+- [x] kit-first map workflow active in `map_workbench.html`
+- [x] placement-position history actions (select, make current, delete eligible records)
+- [x] import reconciliation preview/apply integrated into map inspector
+- [x] backend reconciliation and normalization endpoints available
+- [x] entity browser search/filter/detail workflow active
+- [x] shared topbar/api/zoom behavior extracted for active workbench pages
+
+### Remaining Sign-off Tasks
+
+- [x] run one fresh full click-path regression matrix and capture results in docs
+- [x] keep backend runbook and process hygiene notes current (single listener on port 5000)
+
+### Final Regression Matrix (May 1, 2026)
+
+- [x] Map workbench loads with API base and local admin controls visible
+- [x] Placement history panel renders for selected placement
+- [x] Make-current action succeeds (`Position marked current.`)
+- [x] Delete position action succeeds (`Position deleted.`)
+- [x] Import reconciliation preview endpoint returns `200`
+- [x] Import reconciliation apply endpoint returns `200`
+- [x] Entity browser kit list shows no `unknown` availability badges
+
+Execution notes:
+
+- UI interaction checks executed in `map_workbench.html` and `entity_browser.html`
+- import preview/apply status validated directly against live backend endpoints with admin headers
 
 This is the smallest coherent version of the future workbench.
 

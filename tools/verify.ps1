@@ -2,9 +2,12 @@
 tools/verify.ps1
 
 Run the local verification checks for this repo:
-- Python syntax compilation
+- Python syntax compilation for backend and tool scripts
+- route contract smoke test
 - placement_positions smoke test
 - image_region_claims smoke test
+- import reconciliation smoke test
+- placement refine/merge smoke test
 
 The script prefers an explicitly provided interpreter, then the active `python`,
 then falls back to the resolved interpreter inside `therpf-scraper` if available.
@@ -26,17 +29,19 @@ $ErrorActionPreference = "Stop"
 
 $ProjectRoot = Resolve-Path (Join-Path $PSScriptRoot "..")
 $BackendDir = Join-Path $ProjectRoot "backend"
+$ToolsDir = Join-Path $ProjectRoot "tools"
 $DbPath = Join-Path $BackendDir "data\ilm1300.db"
 $DbWalPath = "$DbPath-wal"
 $DbShmPath = "$DbPath-shm"
 $CompileTargets = @(
-  (Join-Path $BackendDir "app.py"),
-  (Join-Path $BackendDir "import_spreadsheets.py"),
-  (Join-Path $BackendDir "classify_kits.py"),
-  (Join-Path $BackendDir "smoke_test_placement_positions.py"),
-  (Join-Path $BackendDir "smoke_test_image_region_claims.py")
+  Get-ChildItem -LiteralPath $BackendDir -Filter "*.py" -File -Recurse | Sort-Object FullName | ForEach-Object { $_.FullName }
+  Get-ChildItem -LiteralPath $ToolsDir -Filter "*.py" -File -Recurse | Sort-Object FullName | ForEach-Object { $_.FullName }
 )
 $SmokeTests = @(
+  @{
+    Label = "route contract smoke test"
+    Path = (Join-Path $BackendDir "smoke_test_route_contract.py")
+  },
   @{
     Label = "placement_positions smoke test"
     Path = (Join-Path $BackendDir "smoke_test_placement_positions.py")
@@ -44,6 +49,14 @@ $SmokeTests = @(
   @{
     Label = "image_region_claims smoke test"
     Path = (Join-Path $BackendDir "smoke_test_image_region_claims.py")
+  },
+  @{
+    Label = "import reconciliation smoke test"
+    Path = (Join-Path $BackendDir "smoke_test_import_reconciliation.py")
+  },
+  @{
+    Label = "placement refine/merge smoke test"
+    Path = (Join-Path $BackendDir "smoke_test_placement_refine_merge.py")
   }
 )
 

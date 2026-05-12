@@ -9,6 +9,27 @@ This is the integrated browser-side companion to Datasette:
 - Datasette answers: "show me the raw database / let me inspect SQL."
 - Entity Browser answers: "show me this kit, placement, image, or region and everything connected to it."
 
+## Implementation Status (May 2026)
+
+Delivered in the current slice:
+
+- `entity_browser.html` exists and is in active use
+- tabbed browsing across the primary entity records: kits, parts, models, maps, images
+- placements, image regions, and claims remain reachable as related/detail objects rather than primary tabs
+- counts load for the primary entity tabs on startup
+- search plus faceted filtering in-browser
+- linked detail panels and pivots into map/image workbenches
+- compatibility fixes for placement-kind faceting and kit badge rendering
+- part rows show thumbnails when part reference images exist
+- part detail shows available part reference images
+- safe create/edit forms exist for the primary entity records
+
+Remaining for the next focused pass:
+
+- formalize an overview endpoint only if repeated client join logic grows again
+- preserve read-mostly posture and keep destructive operations out of scope
+- add focused review queues for placements, regions, and claims where they are more useful than top-level browsing
+
 ## Product Boundary
 
 Build:
@@ -42,10 +63,15 @@ Primary tabs:
 - Parts
 - Models
 - Maps
-- Placements
 - Images
+
+Relationship and review objects:
+
+- Placements
 - Regions
 - Claims
+
+These should be exposed through linked detail sections, workbench pivots, or saved review queues rather than as default primary tabs.
 
 Keep the first version visually plain and information-dense. This is a research console, not a public showcase.
 
@@ -85,7 +111,7 @@ Backend reuse:
 Acceptance check:
 
 - an operator can search for a kit, open it, and see its parts, placements, linked images, and linked regions without writing SQL
-- an operator can search for a placement, open it, and see map position, evidence images/regions, claims, and history
+- an operator can pivot from a kit, part, map, or image into related placements/regions/claims without making those relationship objects primary tabs
 - an operator can search for an image, open it, and see its regions and linked entities
 
 ## Milestone 2 - Entity Overview Endpoint
@@ -166,23 +192,23 @@ Image fields:
 - source
 - caption / notes
 
-Region fields:
+Part fields:
 
-- label
+- kit id
+- part number
+- part label
 - notes
-- linked entity type/id
 
-Placement fields:
+Model/map fields:
 
-- confidence
-- location label / notes
-- current map position only through existing position-correction flow
+- name / slug / film / scale / notes
+- map model id / version / image id / URL / date / notes
 
 Rules:
 
 - admin/local-admin required for every edit
-- show a preview of changed fields before saving
-- keep existing history/audit mechanisms active
+- keep forms field-limited and backed by existing API validation
+- keep existing history/audit mechanisms active where those mechanisms already exist
 - never allow delete in the first integrated Entity Browser version
 - bulk edit stays out of scope
 
@@ -216,10 +242,10 @@ Do not make this decision before Milestones 1-3 have been used on real cleanup w
 ## Build Order
 
 1. Create `entity_browser.html` with shared API/auth and read-only tab/list/detail shell.
-2. Reuse existing list/detail endpoints for `kits`, `parts`, `placements`, `images`, `image_regions`, and `claims`.
+2. Reuse existing list/detail endpoints for `kits`, `parts`, `models`, `maps`, `images`, and related placements/regions/claims.
 3. Add direct pivots into image and map workbenches.
 4. Add `/api/entities/<type>/<id>/overview` once repeated frontend lookup logic appears.
-5. Add safe light editing for kits, images, regions, and placement metadata.
+5. Add safe light editing for kits, parts, models, maps, and images.
 6. Add review queues for unresolved/unlinked records.
 7. Reassess whether Datasette plus this browser is enough before adopting heavier admin tooling.
 
